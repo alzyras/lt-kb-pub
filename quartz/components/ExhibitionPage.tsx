@@ -1,3 +1,6 @@
+import { RulersExhibition } from "./Rulers"
+// @ts-ignore
+import museumScript from "./scripts/museum.inline"
 import { ArrowLeft, ArrowRight, ExternalLink, Images, Play, Quote, Tags } from "lucide-preact"
 import type { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import type {
@@ -511,7 +514,7 @@ function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] })
 
 const ExhibitionPage: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const detail = parseManifest(fileData.frontmatter?.exhibition_manifest_json)
-  if (detail) return <ExhibitionDetail exhibition={detail} />
+  if (detail) return detail.layout === "chronological" ? <RulersExhibition exhibition={detail} /> : <ExhibitionDetail exhibition={detail} />
   let exhibitions: ExhibitionManifest[] = []
   try {
     const value = fileData.frontmatter?.exhibitions_index_json
@@ -522,6 +525,6 @@ const ExhibitionPage: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
 }
 
 ExhibitionPage.css = [photoswipeStyle, viewerStyle, style]
-ExhibitionPage.afterDOMLoaded = script
+ExhibitionPage.afterDOMLoaded = `${script}\n${museumScript}`
 
 export default (() => ExhibitionPage) satisfies QuartzComponentConstructor

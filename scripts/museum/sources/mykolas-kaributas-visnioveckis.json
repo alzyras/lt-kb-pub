@@ -1,0 +1,50 @@
+{
+  "id": "mykolas-kaributas-visnioveckis",
+  "name": "Mykolas Kaributas Višnioveckis",
+  "notePath": "objektai/asmenys/Mykolas Kaributas Višniaveckis.md",
+  "years": "1669–1673",
+  "reigns": [
+    {
+      "start": 1669,
+      "end": 1673
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "",
+  "lt": {
+    "pageid": 40249,
+    "ns": 0,
+    "title": "Mykolas Kaributas Višnioveckis",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bacciarelli_-_Micha%C5%82.jpeg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 379,
+      "height": 517
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bacciarelli_-_Micha%C5%82.jpeg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 379,
+      "height": 517
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:00Z",
+    "lastrevid": 7490181,
+    "length": 7875,
+    "fullurl": "https://lt.wikipedia.org/wiki/Mykolas_Kaributas_Vi%C5%A1nioveckis",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Mykolas_Kaributas_Vi%C5%A1nioveckis&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Mykolas_Kaributas_Vi%C5%A1nioveckis",
+    "revisions": [
+      {
+        "revid": 7490181,
+        "parentid": 7230961,
+        "timestamp": "2025-02-06T22:08:41Z"
+      }
+    ]
+  },
+  "en": {}
+}

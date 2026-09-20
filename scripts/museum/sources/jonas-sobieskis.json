@@ -1,0 +1,50 @@
+{
+  "id": "jonas-sobieskis",
+  "name": "Jonas Sobieskis",
+  "notePath": "objektai/asmenys/J. Sobieskis.md",
+  "years": "1674–1696",
+  "reigns": [
+    {
+      "start": 1674,
+      "end": 1696
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "",
+  "lt": {
+    "pageid": 80889,
+    "ns": 0,
+    "title": "Jonas Sobieskis",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/John_III_Sobieski_of_Poland.PNG?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 349,
+      "height": 465
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/John_III_Sobieski_of_Poland.PNG?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 349,
+      "height": 465
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:01Z",
+    "lastrevid": 7842403,
+    "length": 18223,
+    "fullurl": "https://lt.wikipedia.org/wiki/Jonas_Sobieskis",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Jonas_Sobieskis&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Jonas_Sobieskis",
+    "revisions": [
+      {
+        "revid": 7842403,
+        "parentid": 7199331,
+        "timestamp": "2026-05-21T20:22:07Z"
+      }
+    ]
+  },
+  "en": {}
+}

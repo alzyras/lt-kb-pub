@@ -1,0 +1,50 @@
+{
+  "id": "zigmantas-vaza",
+  "name": "Zigmantas Vaza",
+  "notePath": "objektai/asmenys/Zigmantas Vaza.md",
+  "years": "1587 / 1588–1632",
+  "reigns": [
+    {
+      "start": 1587,
+      "end": 1632
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "Lenkijoje išrinktas 1587 m.; LDK pripažintas 1588 m.",
+  "lt": {
+    "pageid": 33131,
+    "ns": 0,
+    "title": "Zigmantas Vaza",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Soutman_Sigismund_III_Vasa_in_coronation_robes.jpg/960px-Soutman_Sigismund_III_Vasa_in_coronation_robes.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "width": 900,
+      "height": 1529
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Soutman_Sigismund_III_Vasa_in_coronation_robes.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 2368,
+      "height": 4024
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-15T04:46:22Z",
+    "lastrevid": 7924579,
+    "length": 29620,
+    "fullurl": "https://lt.wikipedia.org/wiki/Zigmantas_Vaza",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Zigmantas_Vaza&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Zigmantas_Vaza",
+    "revisions": [
+      {
+        "revid": 7924579,
+        "parentid": 7520149,
+        "timestamp": "2026-09-15T04:46:22Z"
+      }
+    ]
+  },
+  "en": {}
+}

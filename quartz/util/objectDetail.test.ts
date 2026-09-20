@@ -80,13 +80,15 @@ test("classifies each object completeness tier deterministically", () => {
 })
 
 test("keeps every Vytautas claim, canonical citation, and significant mention reachable", () => {
-  const source = path.join(process.cwd(), "content/objektai/asmenys/Vytautas.md")
+  const source = path.join(process.cwd(), "objektai/asmenys/Vytautas.md")
   if (!fs.existsSync(source)) return
   const evidence = objectDetailEvidence(fs.readFileSync(source, "utf8"))
-  assert.equal(evidence.claims.length, 369)
-  assert.equal(evidence.citations.size, 312)
+  // Reviewed published corpus integrated from 30daf19f27; withdrawn legacy
+  // quote blocks are not restored merely to match the previous snapshot.
+  assert.equal(evidence.claims.length, 376)
+  assert.equal(evidence.citations.size, 290)
   assert.equal(evidence.citationRecords.filter((record) => record.significantMention).length, 30)
-  assert.equal(evidence.citationRecords.filter((record) => record.standalone).length, 84)
+  assert.equal(evidence.citationRecords.filter((record) => record.standalone).length, 23)
 })
 
 test("collapses duplicate quote displays but preserves distinct sources, pages and records", () => {

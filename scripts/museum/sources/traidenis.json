@@ -1,0 +1,50 @@
+{
+  "id": "traidenis",
+  "name": "Traidenis",
+  "notePath": "objektai/asmenys/Traidenis.md",
+  "years": "1269–1282",
+  "reigns": [
+    {
+      "start": 1269,
+      "end": 1282
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "Valdymo pradžia kartais datuojama 1268 m.",
+  "lt": {
+    "pageid": 27705,
+    "ns": 0,
+    "title": "Traidenis",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 662,
+      "height": 665
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 662,
+      "height": 665
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:54:59Z",
+    "lastrevid": 7770784,
+    "length": 10536,
+    "fullurl": "https://lt.wikipedia.org/wiki/Traidenis",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Traidenis&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Traidenis",
+    "revisions": [
+      {
+        "revid": 7770784,
+        "parentid": 7753503,
+        "timestamp": "2026-03-06T02:52:42Z"
+      }
+    ]
+  },
+  "en": {}
+}

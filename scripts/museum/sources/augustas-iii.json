@@ -1,0 +1,50 @@
+{
+  "id": "augustas-iii",
+  "name": "Augustas III",
+  "notePath": "objektai/asmenys/Augustas III.md",
+  "years": "1733–1763",
+  "reigns": [
+    {
+      "start": 1733,
+      "end": 1763
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "1733–1736 m. sostą ginčijo Stanislovas Leščinskis.",
+  "lt": {
+    "pageid": 71276,
+    "ns": 0,
+    "title": "Augustas III",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Louis_de_Silvestre_-_Portrait_of_Augustus_III_of_Poland_%28after_1733%29_-_Google_Art_Project.jpg/960px-Louis_de_Silvestre_-_Portrait_of_Augustus_III_of_Poland_%28after_1733%29_-_Google_Art_Project.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "width": 900,
+      "height": 1155
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Louis_de_Silvestre_-_Portrait_of_Augustus_III_of_Poland_%28after_1733%29_-_Google_Art_Project.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 2337,
+      "height": 3000
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:00Z",
+    "lastrevid": 7490184,
+    "length": 23918,
+    "fullurl": "https://lt.wikipedia.org/wiki/Augustas_III",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Augustas_III&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Augustas_III",
+    "revisions": [
+      {
+        "revid": 7490184,
+        "parentid": 7435568,
+        "timestamp": "2025-02-06T22:08:44Z"
+      }
+    ]
+  },
+  "en": {}
+}

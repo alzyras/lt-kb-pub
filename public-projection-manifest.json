@@ -574,9 +574,10 @@
     },
     "objektai/asmenys/Aleksandras Jogailaitis.md": {
       "content_hash": "4ef05cb5cdd95da08826305fa6e0a201a8408533f18b9519325598ddcaf0c850",
-      "rendered_hash": "4cee51308669124f164bd116f83fca9aa06ad31b58d8be94d9e72c9db77e4ced",
+      "rendered_hash": "eec181523a329df7b8b5954bc2fea9dfb3163009de2a3ed87b2ac24e47432eed",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "708d14ee11eaebcb5ff6e32f7907bb21e93d5aab6b6cf95f4d66dedbe0aadfc7"
+      "enrichment_source_hash": "0f339bf266788a7554e93061595fcf9a5205c08fdd9d10309e1fcb573eeac6f4",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Aleksandras Jurgėvičius.md": {
       "content_hash": "8ab06051ad58de13340fe09756adf34587fbc2ea5667fa627934fb73b035a931",
@@ -726,9 +727,10 @@
     },
     "objektai/asmenys/Algirdas.md": {
       "content_hash": "e6d8d6e32f2caa19e5e6755bfc2e137e5e5308b25e9858bb3db5dc2d22368a21",
-      "rendered_hash": "d40a7999b69c7122f6b41521d999c15614b2ca9c04e8a02a9e322595a26f06ee",
+      "rendered_hash": "e10a8d57e87dde3d67b13b7f687de7dac828dbcb3c968973dc9c2ba0bb3500f2",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "9368b2af350887f807f8cb37885c0d72df06c12a25b1d8dc97af598d86a98853"
+      "enrichment_source_hash": "e3ebb05cae44af576113d3a4f21803c60796f8e7660cdc0ec106a2a679928b03",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Aligačis (kunigaikštis, XVI a.).md": {
       "content_hash": "1664aa5b5f294d3bb15c3d43fcb08c09cddcc0185c8acd7fe01393f996067f09",
@@ -1274,13 +1276,17 @@
     },
     "objektai/asmenys/Augustas II.md": {
       "content_hash": "a22377d4c9c95b36e4708ec49aafeb311661695d7353d374898fd0482d24db18",
-      "rendered_hash": "da3f38200a155c0f2bd299d007ec124b3696b6e688b088dad55eb3308482aa28",
+      "rendered_hash": "a5799048e65176388bc16efe164b867e033040610f531b222879c703221b224f",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "bb5b1ed56ab34ee7e81157706fde5ccc9dc0a21539028b534280160f1a7a7211"
+      "enrichment_source_hash": "13a8d94fa63396be714e61b83625367121ff23d5fece806e254fdbfd6e2fa1b1",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Augustas III.md": {
       "content_hash": "e33e15f54ba9bc3ef2ff9ef23f5fb2b0aba152f22993d1f2f63916be68f4a35c",
-      "rendered_hash": "d67eb9f2087135451a20956cdcca1b1de1c6ed53ff9d3e00ed3718934be7ba1a"
+      "rendered_hash": "9d36cc16480f2b02850860a197467e21834c9455317707ccb369ce1648268d8b",
+      "projection_mode": "authored_object_page",
+      "enrichment_source_hash": "b6bb9598cc1607053f018e7b67231fc9bd8276088011f9cf0dda6c71101a4c7d",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Augustas Kocebiu.md": {
       "content_hash": "6e7e3c6faf272d4ccbf377ae07642817fc42a71c8679b5f0aef0f6a06c807d0b",
@@ -2296,9 +2302,10 @@
     },
     "objektai/asmenys/Daumantas.md": {
       "content_hash": "ad1b4182a243428b76f0550ae09735c69a9ec170e798bd7a695700d5d94cfeaa",
-      "rendered_hash": "d15d96b1663504d2eb9429c669357da6c721c6cddc0abd587553197058207f35",
+      "rendered_hash": "46753de2df0f9254cf1021769a24f0e63f036a372061a987d77d7c5bb979aa60",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "9fec90f0da745d838a741a61f925ee975b0141f4e2ed1cd8b4149f784480a1b3"
+      "enrichment_source_hash": "6cc7acab2780ca7413e628b4c02a283dfab927707c8a408b76b03d571cb95664",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Davaina.md": {
       "content_hash": "eb89af9dc5bae40d47f9934acec1b66216e9b64e205ccc3bfdf133647acc8866",
@@ -3384,9 +3391,11 @@
     },
     "objektai/asmenys/Gediminas.md": {
       "content_hash": "138c8bfe64b81329d5083d639eb60ddf7e5ab5e26f810ed888ddcd7290b49ef7",
-      "rendered_hash": "59cda1bb41f43253452622fe51613ed56c91fa34383f9e1999c90549ba40b427",
+      "rendered_hash": "358484e59e6ea9710e4a800f61e4d9f43a384e0f5e5441f67d19399838074573",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "b4370a2c1cfcafc4a39a3105ee9bf78b8a8896a0f0a25b39931b5673bdbd60a8"
+      "enrichment_source_hash": "0c3ddba9f614c4df21e62d2352335316fa92b9ad640b442c586e2f7c376fe54d",
+      "curation": "museum-20260920",
+      "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
     "objektai/asmenys/Gedūnas.md": {
       "content_hash": "ad55863876e4d800acff80a26ff908e1174534bde79431cd2478123f7488dc8a",
@@ -4742,7 +4751,10 @@
     },
     "objektai/asmenys/J. Sobieskis.md": {
       "content_hash": "0b8c3250005f9efb929bbea88483727bfdcdb5c642544e17a4e6ceef76ba42c5",
-      "rendered_hash": "12038f6b9b65dee4ecf4f5329e372879272b4c2af487836efdf5a4b9dc8e41dd"
+      "rendered_hash": "bb78c29d0df728b4c869e47c30cf24a65e42b5d561081a920de9e8df928d65a6",
+      "projection_mode": "authored_object_page",
+      "enrichment_source_hash": "467f1ca0c192074d04a0b4355fdf158cd76ea5c6bcf48eab698447f4e8fec7a4",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/J. Stalinas.md": {
       "content_hash": "a30491e80f9be010c339c1d2d29541d2ed53e8f30f14b9247524d22aa53163c0",
@@ -4910,9 +4922,10 @@
     },
     "objektai/asmenys/Jaunutis.md": {
       "content_hash": "dc1f7f113dc434e52f70174d68919bb243570ec7f6a9651503b76b752abb3d33",
-      "rendered_hash": "e9a9142f1d1451ba9eb77ad93dc019c13a0a26e7e049d51a837a8e419b35a730",
+      "rendered_hash": "41ee984497ddf4bd0577f744fbd70e08bb189ea95cae69095b42e66cb24ad263",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "ddc21e92c3766e8ad0912a33ab7a820d129c9dfc3feaf907a9e231aa7a862a1e"
+      "enrichment_source_hash": "7d5f52b71a3e85fbcf19e2abdafe4ff37c09f863aa3e5d565946033f5d873bc7",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Jazbutas.md": {
       "content_hash": "c29197ecafb0a7204f2db1c574cf48b31706c3c558db2cf454994cdf4e781652",
@@ -5010,9 +5023,10 @@
     },
     "objektai/asmenys/Jogaila.md": {
       "content_hash": "f40887d12479f84bc0a9ddcf575aeedfd8ba7f3df53ab1b0e6db5f9755643423",
-      "rendered_hash": "5f6f20fdb267210078787d387d773b5eeeab07365cb022ce5be7da5e70a6cb65",
+      "rendered_hash": "971db483aa8eb24d75840619d57807b51d99219182b522393f0336644fcde842",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "2840ad304a6696f1a0a23f563d7703a0eca6a00d89cf4d21dfbb561a0aac40c2"
+      "enrichment_source_hash": "7e36117cbe2c0599f803270c67a4b5d0d05a3b956ea49a0336569197a024708b",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Johanas Foigtas.md": {
       "content_hash": "006057f267853847b1f5add33f2602df2c5aec8f4022bc6dc43663c9cf248168",
@@ -5446,7 +5460,10 @@
     },
     "objektai/asmenys/Jonas Kazimieras Vaza.md": {
       "content_hash": "f92621eefbc25641dbc9b8406d6cf25c0780dec387c0626bbcf1d990f25cc76f",
-      "rendered_hash": "69a1109e6507f70e48896912c8df2e67225ea4633cd4110e697775978d658168"
+      "rendered_hash": "8aa20174c4e38669d0b2c5204c3f03dabb61450d0705e1e68d8e6ebab0d85344",
+      "projection_mode": "authored_object_page",
+      "enrichment_source_hash": "a9a1bcf21ef7f7c06aa2d4fee7c9bbef58114f7c706736fbe912fde119c25f37",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Jonas Kazimieras.md": {
       "content_hash": "0d249aaa5f4adfe68ea2c71f571319ab3da8a10c55ec146d9feae5517646a4d3",
@@ -6634,9 +6651,10 @@
     },
     "objektai/asmenys/Kazimieras Jogailaitis.md": {
       "content_hash": "0b8db92731951e9d3e6ce4001a82e2bd1e48a4471126e787013ca912ac558e1d",
-      "rendered_hash": "b1ae9c8b8ab3c05919f20772ba83b836fe90de4e9f2d1e10d543c6d245f3c831",
+      "rendered_hash": "723d3f44af63727491470e6325da074815bda9b6319057cc1ee38be238eb3e8d",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "579ad4b0fa25c115dde6c87b31202c511ce4e522f9982c84addf564a56359bc3"
+      "enrichment_source_hash": "66ca5dfb2131ec6ba26d7bead4bd79ddb2f49262aafe9b77642797f82e003f84",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Kazimieras Jonas Sapiega.md": {
       "content_hash": "909d490e905e39b11b57ab91dbf8e7e3193609d1988cf465dc749c244ffbfa4c",
@@ -6762,9 +6780,10 @@
     },
     "objektai/asmenys/Kęstutis.md": {
       "content_hash": "a6d7f65cf44ffad0c55277bc7caa3bbc3569e6854bf4469c1c5b06be6b2c74c4",
-      "rendered_hash": "c213c42cad1e302586f81f03083ec37324705c63cbda3a41c0d3ba0d9222b201",
+      "rendered_hash": "d130868203d634da7f5448cc08adbf36f1587d67f5da9b272650aca69ce1b0cf",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "748667bd7b52a3bc626ba89a3b2475554969460faa54b418739847a7d903a9ac"
+      "enrichment_source_hash": "d65bf3100b87f0bd238cd3c4debd61c0c484ad35a7cd26cd1d43be32fbbb2c1b",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Ketleris.md": {
       "content_hash": "b666f483f5ec8a4f64a044ae24740d16c7bae60f5bccf7eaef1335f7700b0942",
@@ -8761,9 +8780,10 @@
     },
     "objektai/asmenys/Mindaugas.md": {
       "content_hash": "22fc1c9c959fa320a51825c0168cb25197ee34de405a3da5ab5d7bc52514d7e1",
-      "rendered_hash": "196370c0c0f4f0341a4d89daffe1aca7f91a515ce34ebbc4a1ecfb85c62ff64c",
+      "rendered_hash": "ff4e900a64558205b8f5bb46981ca8bf29660b813f10676f85c1369cb9e01f22",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "2e6e083e5fe75ad0f2bf179c6517eba3931d164724b2a792b6f81004fc655b1b"
+      "enrichment_source_hash": "a1daa8418899f76622e12813171a4a64679dc1c75b88d544692a12244b57bb46",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Mindotė.md": {
       "content_hash": "c7b5d5555d9e0b2512033f3d4219020776d0e0aa6d6a812c215b467735fcb14c",
@@ -9254,9 +9274,10 @@
     },
     "objektai/asmenys/Ona Jogailaitė.md": {
       "content_hash": "c7b96249d1c118067789a3dad63cde79a061e889aad1a43a26871d9ca3db6e7c",
-      "rendered_hash": "f2af08cf9bc6954da7998eb77e5f72b7fed7e4983d63c86e58788f39163bc7a6",
+      "rendered_hash": "f1a9e0c75681753d7a2896b0304716f5b6d57a7ce6452a79d712495e576975cb",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "bbda4b1a28c328b10f348acc8adde7f97db33b0ed4be7e2274192e6ede5339de"
+      "enrichment_source_hash": "2a75240ff721f90eaa95bc434773a1bad10a30799090eccc75e6a4ae055728ee",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Ona Lukauskaitė-Poškienė.md": {
       "content_hash": "c672c06957ab91a296c1f08c71cded572f7b8acad830bf6df83148b047e2524b",
@@ -10982,9 +11003,10 @@
     },
     "objektai/asmenys/Stanislovas Augustas Poniatovskis.md": {
       "content_hash": "88d24b2d2c079f8cd2b5576a604a3b4f2cc650518412abf53f914ee9abcd5952",
-      "rendered_hash": "07562dfb9ae5091b04b2db09296e9ba242aa1f540330ac0ad86ef813ae869ba8",
+      "rendered_hash": "25e56535a951a58256ac26776b441a3db60ddddfd9026df7e5667ee71669758b",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "c9201b5ea3aa64e981d24c1fca215832616e59f5550ccbdc0d0e57e0a0795ac3"
+      "enrichment_source_hash": "48aa490d6c559f80c8e33671231d680e5a8988271871ba1527499f08ababc23f",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Stanislovas Augustas.md": {
       "content_hash": "eaf26f5508b660ece31601288a085f30efb866455cd338e8ef00c05e53d940e3",
@@ -11066,7 +11088,10 @@
     },
     "objektai/asmenys/Stanislovas Leščinskis.md": {
       "content_hash": "94e91e4b9adf2a2078b95f07397a7b314d51968c625098e73a152eded79a521b",
-      "rendered_hash": "e7bdece07bfaa02fa57bc457f33d899fe2144313978a996323de761f06e144b7"
+      "rendered_hash": "bdd9c8afeecb52c814d891cf950af720e2539136390fe880bbda8521bbcd1fb0",
+      "projection_mode": "authored_object_page",
+      "enrichment_source_hash": "cacb3aebc8d5d1e0faa493a1e25efab71f01deaf7627b859e132dc3c4468161e",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Stanislovas Liubomirskis.md": {
       "content_hash": "eb99ee1ad0099738f68fa253e4483ff9098671c60c4d27aa82a61779728f6952",
@@ -11238,9 +11263,10 @@
     },
     "objektai/asmenys/Steponas Batoras.md": {
       "content_hash": "8bbe138fd5048cde3863cbb68ff1ee31b7bc7b2bb09a573bc421ddc878496b2e",
-      "rendered_hash": "5ddd454843213e7cf77ba1295a1a3456eb2266be090d53553ac4aebc937e90dd",
+      "rendered_hash": "30a16236044406cd3d3507db85be46bee1398bcd6276c6ae3eea9c597fd859c3",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "6f84d2eea9ebbf36bba1c5c9c7ccd1a058bee72b290b43c07dc2f4619ce7ef47"
+      "enrichment_source_hash": "b67185b176bf962c905b438f708fef75ea05f820439289daeb6e65f4aaa9d155",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Steponas Darius.md": {
       "content_hash": "bd4270b5fa26ff02bb2b25b93afd0282082022d683ccef6669f845dbb8690509",
@@ -11552,9 +11578,10 @@
     },
     "objektai/asmenys/Švitrigaila.md": {
       "content_hash": "6288849b41740f80779dd03d7a0e0f69a517a067a396bb4d1f670b342fa1755d",
-      "rendered_hash": "fb4bf010d56289d4da6c2e55a4d89efebd5dba6f0a3c45fcc91616bfd42020a2",
+      "rendered_hash": "c90ce5cfc7f0a19f55e4e7887de02e064f2c55ad5e65195dcb5dac52cb8ac807",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "6ad3d3a0f51580867fe9ca980393388f5e4e5e6bbe60a64792e754889cd8394b"
+      "enrichment_source_hash": "7a60e7efd2c830a8e156e5e425214f4b74c28c4e20178256616d8c7be89cf910",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/T. Dalevskis.md": {
       "content_hash": "e04cd9eb68442f2c7496f7f6ee2e14142d7ef249f3fff80c3bdf02aaac6540c2",
@@ -11884,9 +11911,10 @@
     },
     "objektai/asmenys/Traidenis.md": {
       "content_hash": "bf6cf78ef180b97fe52d4f47ca399c06a762586981bbcbd473473f9558372fde",
-      "rendered_hash": "5b903aa46841af8a43f4036a7abb04eee3ca90ddd87b2d8c25d3106819e1df4c",
+      "rendered_hash": "bd17acec85380f17e75a0c67a9daeea251db72db3db1e30cfbd913e6faab3177",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "d5fa72dc09c7ebdbcb88b00fef1f3a9989d69b591a270f1fa98933e5e8baabcd"
+      "enrichment_source_hash": "7588d1dc592ed45e1deffb397e9dffb1f8a47e4a558d36ae99865c4bb06eff7c",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Treniota Vykintaitis.md": {
       "content_hash": "8fe2b2c33393cb9538eefcd05ee39c4f4528210bf04f9e9275cdd8577d1b372d",
@@ -11894,9 +11922,10 @@
     },
     "objektai/asmenys/Treniota.md": {
       "content_hash": "88bf76affa8a7b489d381508b044efd61a2d2a24b1a2c59485fc74eaa78e002c",
-      "rendered_hash": "c72f17efa93ce3136d00c7e5ff828d0b2c3c2bc33112566928b02f4686769678",
+      "rendered_hash": "262c0ad68e5a38a98e623e54f85c59d96588c785fc7256b07d59de849a9ec451",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "4c0e1ad7b74839688478dea429a18f72cf82859aef5f873aced72aa5e01b7a74"
+      "enrichment_source_hash": "64eb28c71591eb4177a4de04825ec687e782cd1a78dbc1929ca5e18f8cf02496",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Trepka.md": {
       "content_hash": "9da10e9c5f66a4221b3c7c63a463ec756dcba917a1aea62215c5efb51cdfdfbc",
@@ -12171,9 +12200,10 @@
     },
     "objektai/asmenys/Vaišvilkas.md": {
       "content_hash": "2091bdbba78d1297ae7785ab3e0bb7b3f9744537392a2f73db9b4cefded34055",
-      "rendered_hash": "9a6abd31b30c33e2ce25c6a34b3b4212e53a490066f127bb06fa8304e5216197",
+      "rendered_hash": "2300fbae1354cd4e25a720da0934cd56bcec5219f9181fc7a50479e9de9a8f0c",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "043da818fa07f20b3e41679c9e765d6223925efc3ccb39fac0d10cb7f7637cb4"
+      "enrichment_source_hash": "ccfa04d13393372e691b0134d3eac0a08f99e2f579c2e2e3b0a088c29be3e42e",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Vaitiekus (Lucko vyskupas).md": {
       "content_hash": "00e05d2db599bd2cbddd59aab70d24ace0ccd2267e24b5025112514b81708835",
@@ -12689,9 +12719,10 @@
     },
     "objektai/asmenys/Vytautas.md": {
       "content_hash": "a50235f1f3da205fcad2f8ae5c090582825cb78c98a4add2f9f91f64fcfa22b8",
-      "rendered_hash": "b00b1506dd319d77af94107fcaafec1aec58a5a99311bd9ecd7c9a55aaa35e3e",
+      "rendered_hash": "fffd07b9fb7cfd2adced45a2580885a9065bc90dc24257c5148112e983b7d9a4",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "130a3fa6ccf4d404c9f93c08c046d67bb315a5b2703a9146963d6ce6d11ab21c"
+      "enrichment_source_hash": "b7e1de04d02474b76d53030bff2a208f36afc3a40bb674e8a12c0596e077be21",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Vitechindas.md": {
       "content_hash": "4aa381401d870beaf4efd0274c4ce333e246ea31ce0cd7b9a48054278e224c31",
@@ -12703,9 +12734,10 @@
     },
     "objektai/asmenys/Vytenis.md": {
       "content_hash": "3cb8919210029b5605c37407a103495888b181d52462cfdd494f75e1db0c6ce3",
-      "rendered_hash": "d0cff0208201137c7c1aca557ee4fdc1b32a3f7630a64614f23323273d369c27",
+      "rendered_hash": "165a8a60521461e225570cbd8e8e4e8edc708485416844d0e64dfb5b201f405c",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "62f7f624603d927175e6182835089abde573f91575e062dae1aa959b674e5165"
+      "enrichment_source_hash": "591d5d3a9f2a7581f6feb9a7e1555bc86cd2631fb4ebf622f586ed08cd8fdaf2",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Vitolfas.md": {
       "content_hash": "078ae130d0b9b61ad62933ac6bd891c0a2d6bc1bb48a5557003456d440c1e983",
@@ -12841,9 +12873,10 @@
     },
     "objektai/asmenys/Vladislovas Vaza.md": {
       "content_hash": "3430df9177136b2476ca935c2395a006e273c48b01cceb6fba07199cfb335e5a",
-      "rendered_hash": "8597a1c7c0a3c2bc1ce407524b1ea8958579e0be6d9555fa7e75b8d387340246",
+      "rendered_hash": "9a257881e29a274ffd9424d7cf887c4cef4810b469a05f31536f607706b0276f",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "327666565258f65a907eeda755178b38bfa33575cbd90bd279fc54fd3607bc0c"
+      "enrichment_source_hash": "5b0a32ca42bc64b7fa6f55d21c7a49c8f8967905dea328f835b9a7cf86e07349",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Vladislovas.md": {
       "content_hash": "4df47cda2a6345826ae0df9a97844f055ed04835509956415c32a282d6a6805e",
@@ -13133,9 +13166,10 @@
     },
     "objektai/asmenys/Zigmantas Vaza.md": {
       "content_hash": "71dd6202075ecda45d14eddba5419b59de900ce504b7f6815f7014ffa56aa2e3",
-      "rendered_hash": "38860cac395ed8255ee01b42ca470402a604ebb1de76281324a5c664c3913489",
+      "rendered_hash": "fc043e4535d7499a4cafa9e0cbd69812ca2a02440a99bb0441f7dfa58c3b428d",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "cca1834d5ae3f35efd74e42967cec4a33cb64b54642fe10858cdc6ce3f91e1da"
+      "enrichment_source_hash": "f1f19b88c6199b3ed142305cd56930dcd976c086bc2ccaa1808233852de36902",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Zigmas Aleksa-Angarietis.md": {
       "content_hash": "fcddb63b63a3a3cd462123a8a0b93b2653af48591c5d93a287eb6561035f2e4b",
@@ -13203,9 +13237,10 @@
     },
     "objektai/asmenys/Žygimantas Augustas.md": {
       "content_hash": "650e36af64722163a0418b94a15001571700877a02986adbf7448b8ccc5a0ea8",
-      "rendered_hash": "d74cdbed751009fb4eef801e06e544c003ca9753bb5936f8cdc0e500032e6d99",
+      "rendered_hash": "884586f172aa04f6e12a2bb3c97b38b6e8605b89de708899bebc99c916ffb759",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "421e0a1e2613a3ba4b81771ac55debd972de878ff3764c08eeac38387f1785b7"
+      "enrichment_source_hash": "7e8604479e135a859dbccedbeedf5b412d9c98f09d25e608365ef1343298555b",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Žygimantas Kaributaitis.md": {
       "content_hash": "bc75fe0e3b4a0144a94554fb5207ef15769b2a183f30522e851159f31bece461",
@@ -13213,15 +13248,17 @@
     },
     "objektai/asmenys/Žygimantas Kęstutaitis.md": {
       "content_hash": "8f49ae31cf44838bc35389093db239a9adf964f5f3307b67e195f928e2919ad1",
-      "rendered_hash": "aece5870580d0e2c972a58c1d16a746f17d42e7c984486ed21865067d23a96ff",
+      "rendered_hash": "7ef89b4ca7e3325ca7cb40b7eacc8883f96bf6f5d41eb686dfecb253167c93f8",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "0d982f7fa79b06a37349a941e66569d949e4749f0ba13a07fb056c26a31adfe2"
+      "enrichment_source_hash": "90ffc70a12a338da8d51f1518e6f04b5e663df18dc92ca2346e3511fdf2b7c53",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Žygimantas Senasis.md": {
       "content_hash": "d3b0cf72e46a5591ab85b084b2fef2129aa5a905aa7c85014c6732c2796c0785",
-      "rendered_hash": "806e968964ef60859e618a38b0508f0a9f196d00e9c2a8147c214d4c8bcef16e",
+      "rendered_hash": "8fd4592253989cfb6a79d95250a3b5ef4222ef06a7b6304fa27326e8b88ac9e5",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "f7bdf9250ee88ad5170df579d3530afc88e896e3011f347fbe636dafc6df6fbf"
+      "enrichment_source_hash": "13c0e4807b22778c9a8c3ef35d2d7b587c75b5eb9a3225fd8d0e8781747a8ba3",
+      "curation": "museum-20260920"
     },
     "objektai/asmenys/Žygimantas.md": {
       "content_hash": "5ecafd0d382391597107c7d432a9bda3bb0680292a0e0cf0e220305cc2c00e53",
@@ -52553,9 +52590,10 @@
     },
     "objektai/vietos/Gardinas.md": {
       "content_hash": "2439151d0a2467f2c1b38171f8659772fff8d50335476e0fc5c6de8791296b7c",
-      "rendered_hash": "96859ce1bdc554e26e4935a0c40d9cacd86fcd630d80c5e4e8dba34c3d6d30ce",
+      "rendered_hash": "021a02d9f0f47b0185c30ef042f94aef02982d0dc1754f9c7c1188ea24f9f781",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "46ae67d8dc3559529b7215631779c5188f5bed209a8e8657ff60672b5f1878f2"
+      "enrichment_source_hash": "ec0c6aa1a6255b5be2428fc059a98e26abc3e606c5326aacb9287cfc73f253d5",
+      "curation": "museum-20260920"
     },
     "objektai/vietos/Gardino apskritis.md": {
       "content_hash": "2d841f2a79a0d6d097835ab88414403d910432c3802650001b0c7d454b4ad528",
@@ -53577,9 +53615,10 @@
     },
     "objektai/vietos/Kaunas.md": {
       "content_hash": "fd4c3ecd689c1b69c7a581c5f9915d98be746d633226d874aa1b42aea787b8a4",
-      "rendered_hash": "527862932f8a7cd7ed71c08991bfbd14de4b4e6213ad0dc25883e0bb50be1d15",
+      "rendered_hash": "54d866f1d59762f12f848927aa5ce6cae7191eed7cbb957a4fd4e95866f23385",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "f742e41a05eccab6aa344b76f7b4f9ddc55cd708bc7ab9978182d9e5a35bef20"
+      "enrichment_source_hash": "43851a6046ee0debb2721bb7c0ee93b079fff32700d2868fc0cd367d733141ee",
+      "curation": "museum-20260920"
     },
     "objektai/vietos/Kauno apskritis.md": {
       "content_hash": "b79bcd615bce949f87601851e383b711778a643674c111335d65b663cca313c5",
@@ -53725,9 +53764,10 @@
     },
     "objektai/vietos/Kernavė.md": {
       "content_hash": "6b9634f89155178c63c0016d398110aa845d1c98e9947de070badd658c0a3bd6",
-      "rendered_hash": "e2669f31b54b6827313abfc04a0b90f4dad2191229e7392014ced8bbac01983a",
+      "rendered_hash": "f49c03541fbc9aa30e81ea68cbd4746417d573c5e31d849fad0931dc47fc6245",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "009a23ade0dbcb17c50446a71bb02a963a664413b2f6fbca093d513a2bfa72d4"
+      "enrichment_source_hash": "66a85ebe6e4ee33d9b3487ade3cc755f8cb32104c92635a6cd815dcf572f3041",
+      "curation": "museum-20260920"
     },
     "objektai/vietos/Kernavos kunigaikštija.md": {
       "content_hash": "ce7575e3bc2f98342810233cd5c256a8970aec792bfad5c85f0baeaa7ab371c6",
@@ -54081,9 +54121,10 @@
     },
     "objektai/vietos/Krėva.md": {
       "content_hash": "7549072a301bfcb972f4393c71cd74a678195e24d500f271f41a5aaa12d9257b",
-      "rendered_hash": "3387dc946937408ea8b4ff1e9d86b9f478aa06261ddec706131fa088cf5596bb",
+      "rendered_hash": "e5ae77c063be6d98475e8d03dd3944fd1b17f36c1ac8f3a6093e05ca3834239a",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "cd89011d44a0460069d03fe05eba383218393b9aaa6f2ba972a9384dd6a6dde2"
+      "enrichment_source_hash": "57ba3a26d4115055ba912129f9985ecd88e7de35b28bc0d75b5a377076359024",
+      "curation": "museum-20260920"
     },
     "objektai/vietos/Krėvos pilis.md": {
       "content_hash": "f5a7c731e86cf6178e4a60cc7e580d4a5e62718c3f0efb619eb38d1f0fbbd212",
@@ -55545,9 +55586,10 @@
     },
     "objektai/vietos/Naugardukas.md": {
       "content_hash": "df6d8f90f8042b376b477cb27829c6fff72bf1568ac81ac8162256849d3444c7",
-      "rendered_hash": "c550bd5ef3b74b888b23697e27d0c443006c99e6cbdbae532b71a6f798b24e86",
+      "rendered_hash": "b13f3dd7bf3ecc743ed12c01797883fd48c7e7f700b67fa85298923391bc7fc9",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "1e27804c17e8cc5a6b1e1d054257b9ea88ee12b0ee76a86aca4e0a87e2cd49d1"
+      "enrichment_source_hash": "6d189f1820547c0e5d1a4782289ee09c720f8d2a6d4cf573fea988f7b549b9c4",
+      "curation": "museum-20260920"
     },
     "objektai/vietos/Naugarduko apskritis.md": {
       "content_hash": "77e8d0dcbd96fecf499d4939fb6fa2cc9d79559c411799ff302e2ebf71939d0a",
@@ -55681,9 +55723,10 @@
     },
     "objektai/vietos/Nesvyžius.md": {
       "content_hash": "2556f80a294713d73edc712a899514fdea1bda279c5fb98973a6588eda14ebd3",
-      "rendered_hash": "d60ebe387118a5f0eef24e21fa0b47f68352ae93c2b8759c6770d9deabddb771",
+      "rendered_hash": "cad1c8efbc18b4ca33fb9d12893914d0e2881979d52f3cf4e01e7e0aca2f7898",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "5a6a00196ea06acda95fae17b315791b614f56b131ef65380e0a6819c9451309"
+      "enrichment_source_hash": "b49e3288391e9027e97ebab4f39b1ff1c5e44e2a805acd2a23bde9986c1ff4a4",
+      "curation": "museum-20260920"
     },
     "objektai/vietos/Nešava (vieta).md": {
       "content_hash": "61a74a09809c656821621aa0d5b9cb4a4537a35d60f6bd67fbafeaddd227e429",
@@ -58969,9 +59012,10 @@
     },
     "objektai/vietos/Trakai.md": {
       "content_hash": "44994950a96235288f0d954ddb36951b7c434abe2b2a54cabd68d12300616a21",
-      "rendered_hash": "bb08bcacb80ed334b655a8c8911ed392f206a8a57985ddb94a567e6f74421e59",
+      "rendered_hash": "a411ba65d6bfb5f82cf9cd6d67bfaf416c8ac763da09ab453cddf0beb0ef249a",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "5c4bfa6e3158bbb3554f2ed9be72426c54d2d1a33e4f3f25dbc6095b8b382b16"
+      "enrichment_source_hash": "719fbcb46fb243966ca23703b1a014a01967cfd274644b7248d8254ba1020032",
+      "curation": "museum-20260920"
     },
     "objektai/vietos/Trakija.md": {
       "content_hash": "4249810f39ef0cf649b78a6e17ebe33953fdd0ecd93cf9dff1066aa40f273d07",
@@ -59987,9 +60031,10 @@
     },
     "objektai/vietos/Vilnius.md": {
       "content_hash": "ca89e9ec0949aaaf2dc82639b013bef1ad1f63cc79c4826d72853827acf54f88",
-      "rendered_hash": "45df8a3466a0a511043e4a0df54dbfd60f020a107544e72b24ac13c8eec05cab",
+      "rendered_hash": "0b1951c9351a6a4923efd566d76483b3592a9234b5d71650068207d34e5ffded",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "43f10bc4e5b3ed3cbe164cc6bf6146b24dea23b46672b5d8537dd8690a80871b"
+      "enrichment_source_hash": "dd4b4f1318c7a41316ec400c689cc34467154afdb675dce5e1054f636b8af596",
+      "curation": "museum-20260920"
     },
     "objektai/vietos/Vindavos upė.md": {
       "content_hash": "98c086eab3199a7e6b509dea72951652ad73d0ce96890c6d196d617e9343caeb",
@@ -83487,6 +83532,41 @@
       "rendered_hash": "b4670e25dfe880eb77bbf81687d8fc158a1b2894ed211b756d3b6ae345495a8b",
       "projection_mode": "authored_object_page",
       "enrichment_source_hash": "f3de45c3b04fd280719f8f1bbf08cb2bb11eab85f8d49683b908ccacdb6338eb"
+    },
+    "objektai/asmenys/Švarnas.md": {
+      "content_hash": "9a097ed77186ea6fea245e9cae6b0f84d6bd646fdde71f6be94f2413d2d25bf5",
+      "rendered_hash": "c6140df2731665b76c88b6808cc464ee227867f8a48a8fab61dd55f988af49de",
+      "projection_mode": "authored_object_page",
+      "enrichment_source_hash": "8835114705b7ff3c67361c7c17125fbd1ee6d67a0b2df1e8fbfb907c3f4be342",
+      "curation": "museum-20260920"
+    },
+    "objektai/asmenys/Butigeidis.md": {
+      "content_hash": "392f959153a985e974ad84b65dfddec9b397e3c13f50bd1e27f42eb74b78ade5",
+      "rendered_hash": "51c5d2726a65817f5e4299b8146b2a16056259bf5cfe32be23f10d5444fe3575",
+      "projection_mode": "authored_object_page",
+      "enrichment_source_hash": "0153c325e8ecc4b723a32bb180762a4d56c429c922e52d807f7973f3d4040738",
+      "curation": "museum-20260920"
+    },
+    "objektai/asmenys/Butvydas.md": {
+      "content_hash": "ba16024edac51ce777f83b8bb8c82d75353af92b0f060f5fc61185da615f8b11",
+      "rendered_hash": "209f735d859a996d83d22cefc331237f86af0cb6a36266f8ab49d99405115efd",
+      "projection_mode": "authored_object_page",
+      "enrichment_source_hash": "7eaac196460db4ea777699b84ba3c227fc984b44c5d6f3beb4d6d1b6f5ffce3f",
+      "curation": "museum-20260920"
+    },
+    "objektai/asmenys/Henrikas Valua.md": {
+      "content_hash": "ab9c5b45c86eb0898e5eaee1ad5c1ea606d2c7b42a6b76841240cf58cb0a4c2f",
+      "rendered_hash": "a0f5bee4c5b46eb63e433772bfdb63524274f212e5e094fedadba5ed40cbcd96",
+      "projection_mode": "authored_object_page",
+      "enrichment_source_hash": "33f01af7f10e2f6accbc5a8722f72c388b9726a9971b0af343c525d208ddd162",
+      "curation": "museum-20260920"
+    },
+    "objektai/asmenys/Mykolas Kaributas Višniaveckis.md": {
+      "content_hash": "d866993b6f2ae7e9252b818667593a5f8141630804096758523b9e6a6b06d3a7",
+      "rendered_hash": "e12ca934091db8d3824440897497d240493c9ce7cff02e3914a87f69c849041a",
+      "projection_mode": "authored_object_page",
+      "enrichment_source_hash": "086306fad44b1ae5692a64ff2db7409e7653908a9204efcd162080c4c6ba451a",
+      "curation": "museum-20260920"
     }
   }
 }

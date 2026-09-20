@@ -1,0 +1,50 @@
+{
+  "id": "svitrigaila",
+  "name": "Švitrigaila",
+  "notePath": "objektai/asmenys/Švitrigaila.md",
+  "years": "1430–1432",
+  "reigns": [
+    {
+      "start": 1430,
+      "end": 1432
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "Po nuvertimo toliau kovojo dėl valdžios; jo pretenzijos nesutampa su faktinio valdymo visoje LDK laikotarpiu.",
+  "lt": {
+    "pageid": 36570,
+    "ns": 0,
+    "title": "Švitrigaila",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Svitrigaila_%2897606208%29.jpg/960px-Svitrigaila_%2897606208%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "width": 900,
+      "height": 1164
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Svitrigaila_%2897606208%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 1463,
+      "height": 1892
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:00Z",
+    "lastrevid": 7531634,
+    "length": 5060,
+    "fullurl": "https://lt.wikipedia.org/wiki/%C5%A0vitrigaila",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=%C5%A0vitrigaila&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/%C5%A0vitrigaila",
+    "revisions": [
+      {
+        "revid": 7531634,
+        "parentid": 7152422,
+        "timestamp": "2025-04-02T19:19:10Z"
+      }
+    ]
+  },
+  "en": {}
+}

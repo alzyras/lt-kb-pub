@@ -213,7 +213,7 @@ function collectionClaimHref(
   object: CollectionSpotlightObject,
   claim: CollectionSpotlightClaim,
 ): string {
-  return `${collectionObjectHref(object.slug)}#claim-${claim.id}`
+  return `${collectionObjectHref(object.slug)}irodymai#claim-${claim.id}`
 }
 
 function validCollectionSpotlightData(value: unknown): CollectionSpotlightObject[] {
@@ -276,7 +276,7 @@ function collectionSpotlightSourceText(claim: CollectionSpotlightClaim): string 
 async function pickCollectionSpotlight(
   host: HTMLElement,
 ): Promise<CollectionSpotlightSelection | undefined> {
-  if (collectionSpotlightSelection) {
+  if (collectionSpotlightSelection && !parseCollectionSpotlightData(host).length) {
     return collectionSpotlightSelection
   }
 
@@ -286,7 +286,7 @@ async function pickCollectionSpotlight(
     return undefined
   }
 
-  const claims = collectionShuffle(object.claims).slice(0, 10)
+  const claims = parseCollectionSpotlightData(host).length ? object.claims.slice(0, 10) : collectionShuffle(object.claims).slice(0, 10)
   if (claims.length === 0) {
     return undefined
   }
@@ -323,12 +323,17 @@ async function setupCollectionClaimSpotlight() {
     const activeType = type
     const activeCount = count
     const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)")
-    const cycleDelay = 12000
+    const cycleDelay = 7600
+    let typingTimer: number | undefined
+    let manualPause = false
+    let typing = false
     let activeIndex = 0
     let cycleTimer: number | undefined
     let paused = false
 
     const clearTimers = () => {
+      if (typingTimer !== undefined) window.clearTimeout(typingTimer)
+      typing = false
       if (cycleTimer !== undefined) {
         window.clearTimeout(cycleTimer)
         cycleTimer = undefined
@@ -336,7 +341,7 @@ async function setupCollectionClaimSpotlight() {
     }
 
     const scheduleNext = () => {
-      if (paused || document.hidden || reducedMotion.matches) {
+      if (paused || manualPause || typing || document.hidden || reducedMotion.matches) {
         return
       }
       if (cycleTimer !== undefined) {
@@ -357,7 +362,7 @@ async function setupCollectionClaimSpotlight() {
       activeObjectLink.href = collectionObjectHref(activeSelection.object.slug)
       activeClaimLink.href = href
       activeSource.textContent = collectionSpotlightSourceText(claim)
-      activeSource.hidden = !activeSource.textContent
+      activeSource.hidden = false
       activeType.textContent = activeSelection.object.typeLabel
       activeCount.textContent = `${collectionFormatNumber(activeSelection.object.claimCount)} teig.`
 
@@ -367,8 +372,19 @@ async function setupCollectionClaimSpotlight() {
         dot.setAttribute("aria-current", active ? "true" : "false")
       })
 
-      activeClaimLink.textContent = claim.text
-      scheduleNext()
+      activeClaimLink.setAttribute("aria-label", claim.text)
+      activeClaimLink.classList.toggle("is-typing", !reducedMotion.matches && !manualPause)
+      const chars = Array.from(claim.text)
+      let length = reducedMotion.matches || manualPause ? chars.length : 0
+      typing = length < chars.length
+      const tick = () => {
+        if (!host.isConnected) return
+        length = Math.min(chars.length, length + 2)
+        activeClaimLink.textContent = chars.slice(0, length).join("")
+        if (length < chars.length) typingTimer = window.setTimeout(tick, 18)
+        else { typing = false; activeClaimLink.classList.remove("is-typing"); scheduleNext() }
+      }
+      tick()
     }
 
     activeDots.replaceChildren()
@@ -400,6 +416,26 @@ async function setupCollectionClaimSpotlight() {
       }
     }
 
+    const pauseButton = host.querySelector<HTMLButtonElement>("[data-collection-pause]")
+    const togglePause = () => {
+      manualPause = !manualPause
+      pauseButton?.setAttribute("aria-pressed", String(manualPause))
+      if (pauseButton) pauseButton.textContent = manualPause ? "Tęsti" : "Pristabdyti"
+      if (manualPause) {
+        clearTimers()
+        activeClaimLink.textContent = activeSelection.claims[activeIndex].text
+        activeClaimLink.classList.remove("is-typing")
+      } else scheduleNext()
+    }
+    const onMotionChange = () => {
+      if (reducedMotion.matches) {
+        clearTimers()
+        activeClaimLink.textContent = activeSelection.claims[activeIndex].text
+        activeClaimLink.classList.remove("is-typing")
+      } else scheduleNext()
+    }
+    reducedMotion.addEventListener("change", onMotionChange)
+    pauseButton?.addEventListener("click", togglePause)
     host.addEventListener("pointerenter", pause)
     host.addEventListener("pointerleave", resume)
     host.addEventListener("focusin", pause)
@@ -407,6 +443,8 @@ async function setupCollectionClaimSpotlight() {
     document.addEventListener("visibilitychange", onVisibilityChange)
     window.addCleanup(() => {
       clearTimers()
+      reducedMotion.removeEventListener("change", onMotionChange)
+      pauseButton?.removeEventListener("click", togglePause)
       host.removeEventListener("pointerenter", pause)
       host.removeEventListener("pointerleave", resume)
       host.removeEventListener("focusin", pause)

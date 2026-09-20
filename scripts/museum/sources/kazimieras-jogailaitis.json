@@ -1,0 +1,50 @@
+{
+  "id": "kazimieras-jogailaitis",
+  "name": "Kazimieras Jogailaitis",
+  "notePath": "objektai/asmenys/Kazimieras Jogailaitis.md",
+  "years": "1440–1492",
+  "reigns": [
+    {
+      "start": 1440,
+      "end": 1492
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "Lenkijos karalius nuo 1447 m.",
+  "lt": {
+    "pageid": 47964,
+    "ns": 0,
+    "title": "Kazimieras Jogailaitis",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kazimier_Jagaj%C5%82avi%C4%8D._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87_%28XIX%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 685,
+      "height": 800
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kazimier_Jagaj%C5%82avi%C4%8D._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87_%28XIX%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 685,
+      "height": 800
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:00Z",
+    "lastrevid": 7858713,
+    "length": 11959,
+    "fullurl": "https://lt.wikipedia.org/wiki/Kazimieras_Jogailaitis",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Kazimieras_Jogailaitis&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Kazimieras_Jogailaitis",
+    "revisions": [
+      {
+        "revid": 7858713,
+        "parentid": 7628306,
+        "timestamp": "2026-06-16T10:03:17Z"
+      }
+    ]
+  },
+  "en": {}
+}

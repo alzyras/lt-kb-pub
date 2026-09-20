@@ -1,0 +1,50 @@
+{
+  "id": "vladislovas-vaza",
+  "name": "Vladislovas Vaza",
+  "notePath": "objektai/asmenys/Vladislovas Vaza.md",
+  "years": "1632–1648",
+  "reigns": [
+    {
+      "start": 1632,
+      "end": 1648
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "",
+  "lt": {
+    "pageid": 80885,
+    "ns": 0,
+    "title": "Vladislovas Vaza",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Rubens_W%C5%82adys%C5%82aw_Vasa.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 564,
+      "height": 705
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Rubens_W%C5%82adys%C5%82aw_Vasa.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 564,
+      "height": 705
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:01Z",
+    "lastrevid": 7859987,
+    "length": 19797,
+    "fullurl": "https://lt.wikipedia.org/wiki/Vladislovas_Vaza",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Vladislovas_Vaza&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Vladislovas_Vaza",
+    "revisions": [
+      {
+        "revid": 7859987,
+        "parentid": 7723611,
+        "timestamp": "2026-06-16T12:03:55Z"
+      }
+    ]
+  },
+  "en": {}
+}

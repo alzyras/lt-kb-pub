@@ -1,0 +1,50 @@
+{
+  "id": "vytenis",
+  "name": "Vytenis",
+  "notePath": "objektai/asmenys/Vytenis.md",
+  "years": "apie 1295–1316",
+  "reigns": [
+    {
+      "start": 1295,
+      "end": 1316
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "Valdymo pabaiga datuojama 1315 arba 1316 m.",
+  "lt": {
+    "pageid": 2458,
+    "ns": 0,
+    "title": "Vytenis",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Vytenis%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png/960px-Vytenis%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "width": 900,
+      "height": 1000
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Vytenis%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 2220,
+      "height": 2466
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T16:59:53Z",
+    "lastrevid": 7754534,
+    "length": 14130,
+    "fullurl": "https://lt.wikipedia.org/wiki/Vytenis",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Vytenis&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Vytenis",
+    "revisions": [
+      {
+        "revid": 7754534,
+        "parentid": 7753262,
+        "timestamp": "2026-02-15T18:37:24Z"
+      }
+    ]
+  },
+  "en": {}
+}

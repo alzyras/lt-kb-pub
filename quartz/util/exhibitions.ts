@@ -34,6 +34,10 @@ export type ExhibitionItemRelation = {
 }
 
 export type ExhibitionItem = {
+  rulerId?: string
+  objectSlug?: string
+  narrativeParagraphs?: string[]
+  externalSources?: { title: string; url: string }[]
   exhibitionItemId: string
   mediaId: string
   titleLt: string
@@ -65,6 +69,7 @@ export type ExhibitionSection = {
 }
 
 export type ExhibitionManifest = {
+  layout?: "chronological"
   noindex?: boolean
   seo_title?: string
   relatedContent?: { title: string; href: string }[]
@@ -324,6 +329,7 @@ const exhibitionSourcePaths = [
     "quartz/static/exhibitionStateSymbols.json",
     "quartz/static/exhibitionAuthoritySeals.json",
     "quartz/static/exhibitionValancius.json",
+    "quartz/static/exhibitionRulers.json",
 ]
 
 /** Cheap route discovery for Markdown transforms, without resolving the corpus. */
@@ -348,6 +354,8 @@ export function loadExhibitions(): ExhibitionManifest[] {
   const seenSourceUrls = new Set<string>()
   const seenDescriptions = new Set<string>()
   for (const exhibition of exhibitions) {
+    const reusedInChronology = exhibition.layout === "chronological"
+    const chronologyMediaIds = new Set<string>()
     if (seenExhibitionIds.has(exhibition.exhibitionId)) {
       throw new Error(`Duplicate exhibition ID: ${exhibition.exhibitionId}`)
     }
@@ -372,10 +380,11 @@ export function loadExhibitions(): ExhibitionManifest[] {
       seenClaimIds.add(claim.claimId)
     }
     for (const item of exhibition.sections.flatMap((section) => section.items)) {
-      if (seenMediaIds.has(item.mediaId)) {
+      if ((reusedInChronology ? chronologyMediaIds : seenMediaIds).has(item.mediaId)) {
         throw new Error(`Media ${item.mediaId} repeats across exhibitions`)
       }
-      seenMediaIds.add(item.mediaId)
+      if (reusedInChronology) chronologyMediaIds.add(item.mediaId)
+      else seenMediaIds.add(item.mediaId)
       if (seenItemIds.has(item.exhibitionItemId)) {
         throw new Error(`Duplicate exhibition item ID: ${item.exhibitionItemId}`)
       }
@@ -386,10 +395,10 @@ export function loadExhibitions(): ExhibitionManifest[] {
       ] as const) {
         const normalizedValue = value?.trim()
         if (!normalizedValue) continue
-        if (seen.has(normalizedValue)) {
+        if (!reusedInChronology && seen.has(normalizedValue)) {
           throw new Error(`Duplicate exhibition ${label}: ${normalizedValue}`)
         }
-        seen.add(normalizedValue)
+        if (!reusedInChronology) seen.add(normalizedValue)
       }
       const description = item.descriptionLt.trim().toLocaleLowerCase("lt").replace(/\s+/g, " ")
       if (seenDescriptions.has(description)) {

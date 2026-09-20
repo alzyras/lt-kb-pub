@@ -1,0 +1,50 @@
+{
+  "id": "gediminas",
+  "name": "Gediminas",
+  "notePath": "objektai/asmenys/Gediminas.md",
+  "years": "1316–1341",
+  "reigns": [
+    {
+      "start": 1316,
+      "end": 1341
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "",
+  "lt": {
+    "pageid": 1693,
+    "ns": 0,
+    "title": "Gediminas",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Gedimin_grav_xvii.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 796,
+      "height": 767
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Gedimin_grav_xvii.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 796,
+      "height": 767
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T16:59:53Z",
+    "lastrevid": 7470624,
+    "length": 11492,
+    "fullurl": "https://lt.wikipedia.org/wiki/Gediminas",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Gediminas&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Gediminas",
+    "revisions": [
+      {
+        "revid": 7470624,
+        "parentid": 7470623,
+        "timestamp": "2025-01-15T13:10:47Z"
+      }
+    ]
+  },
+  "en": {}
+}

@@ -1,0 +1,50 @@
+{
+  "id": "jaunutis",
+  "name": "Jaunutis",
+  "notePath": "objektai/asmenys/Jaunutis.md",
+  "years": "1341–1345",
+  "reigns": [
+    {
+      "start": 1341,
+      "end": 1345
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "",
+  "lt": {
+    "pageid": 30981,
+    "ns": 0,
+    "title": "Jaunutis",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ja%C5%ADnut._%D0%AF%D1%9E%D0%BD%D1%83%D1%82_%28A._Tarasievi%C4%8D%2C_1675%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 363,
+      "height": 436
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ja%C5%ADnut._%D0%AF%D1%9E%D0%BD%D1%83%D1%82_%28A._Tarasievi%C4%8D%2C_1675%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 363,
+      "height": 436
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:54:59Z",
+    "lastrevid": 7767551,
+    "length": 3610,
+    "fullurl": "https://lt.wikipedia.org/wiki/Jaunutis",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Jaunutis&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Jaunutis",
+    "revisions": [
+      {
+        "revid": 7767551,
+        "parentid": 7495884,
+        "timestamp": "2026-03-02T15:29:13Z"
+      }
+    ]
+  },
+  "en": {}
+}

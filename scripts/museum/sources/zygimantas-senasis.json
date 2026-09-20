@@ -1,0 +1,50 @@
+{
+  "id": "zygimantas-senasis",
+  "name": "Žygimantas Senasis",
+  "notePath": "objektai/asmenys/Žygimantas Senasis.md",
+  "years": "1506–1548",
+  "reigns": [
+    {
+      "start": 1506,
+      "end": 1548
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "",
+  "lt": {
+    "pageid": 21964,
+    "ns": 0,
+    "title": "Žygimantas Senasis",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 348,
+      "height": 467
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 348,
+      "height": 467
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:54:59Z",
+    "lastrevid": 7490180,
+    "length": 24016,
+    "fullurl": "https://lt.wikipedia.org/wiki/%C5%BDygimantas_Senasis",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=%C5%BDygimantas_Senasis&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/%C5%BDygimantas_Senasis",
+    "revisions": [
+      {
+        "revid": 7490180,
+        "parentid": 7287830,
+        "timestamp": "2025-02-06T22:08:40Z"
+      }
+    ]
+  },
+  "en": {}
+}

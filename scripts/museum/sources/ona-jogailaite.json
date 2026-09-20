@@ -1,0 +1,50 @@
+{
+  "id": "ona-jogailaite",
+  "name": "Ona Jogailaitė",
+  "notePath": "objektai/asmenys/Ona Jogailaitė.md",
+  "years": "1575 / 1576–1586",
+  "reigns": [
+    {
+      "start": 1575,
+      "end": 1586
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "Išrinkta kartu su būsimu sutuoktiniu Steponu Batoru; karūnuota 1576 m. Karalienės titulą išlaikė iki 1596 m.",
+  "lt": {
+    "pageid": 80881,
+    "ns": 0,
+    "title": "Ona Jogailaitė",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kober_Anna_Jagiellon_as_a_widow.png?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 575,
+      "height": 703
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kober_Anna_Jagiellon_as_a_widow.png?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 575,
+      "height": 703
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:01Z",
+    "lastrevid": 7722086,
+    "length": 4541,
+    "fullurl": "https://lt.wikipedia.org/wiki/Ona_Jogailait%C4%97",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Ona_Jogailait%C4%97&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Ona_Jogailait%C4%97",
+    "revisions": [
+      {
+        "revid": 7722086,
+        "parentid": 7722084,
+        "timestamp": "2025-12-25T10:05:25Z"
+      }
+    ]
+  },
+  "en": {}
+}

@@ -1,0 +1,50 @@
+{
+  "id": "henrikas-valua",
+  "name": "Henrikas Valua",
+  "notePath": "objektai/asmenys/Henrikas Valua.md",
+  "years": "1573–1574 / 1575",
+  "reigns": [
+    {
+      "start": 1573,
+      "end": 1575
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "1574 m. išvyko į Prancūziją; sostas paskelbtas laisvu 1575 m.",
+  "lt": {
+    "pageid": 74600,
+    "ns": 0,
+    "title": "Henrikas Valua",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Henri3France.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 764,
+      "height": 1024
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Henri3France.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 764,
+      "height": 1024
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:00Z",
+    "lastrevid": 7326542,
+    "length": 11825,
+    "fullurl": "https://lt.wikipedia.org/wiki/Henrikas_Valua",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Henrikas_Valua&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Henrikas_Valua",
+    "revisions": [
+      {
+        "revid": 7326542,
+        "parentid": 7326541,
+        "timestamp": "2024-07-15T18:03:47Z"
+      }
+    ]
+  },
+  "en": {}
+}

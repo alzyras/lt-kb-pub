@@ -148,7 +148,7 @@ describe("exhibition manifest", () => {
     // of the same event. Undated variants and alternate object sides stay catalog-only.
     assert.equal(exhibitionFeaturedCount(interwar), 15)
 
-    const allItems = exhibitions.flatMap((exhibition) =>
+    const allItems = exhibitions.filter((exhibition) => exhibition.layout !== "chronological").flatMap((exhibition) =>
       exhibition.sections.flatMap((section) => section.items),
     )
     const unique = (values: string[], label: string) =>
@@ -390,6 +390,7 @@ describe("exhibition manifest", () => {
           assert.ok(item.media.sourceUrl || item.media.thumbUrl)
           assert.ok(
             item.claims.length > 0 ||
+              (exhibition.layout === "chronological" && Boolean(item.externalSources?.length) && Boolean(item.narrativeParagraphs?.length)) ||
               section.claims.length > 0 ||
               Boolean(item.evidenceNoteLt?.trim()) ||
               Boolean(section.evidenceNoteLt?.trim()),

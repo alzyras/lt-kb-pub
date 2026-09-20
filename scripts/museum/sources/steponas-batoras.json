@@ -1,0 +1,50 @@
+{
+  "id": "steponas-batoras",
+  "name": "Steponas Batoras",
+  "notePath": "objektai/asmenys/Steponas Batoras.md",
+  "years": "1576–1586",
+  "reigns": [
+    {
+      "start": 1576,
+      "end": 1586
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "",
+  "lt": {
+    "pageid": 22047,
+    "ns": 0,
+    "title": "Steponas Batoras",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Stefan_Batory_11.PNG?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 340,
+      "height": 494
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Stefan_Batory_11.PNG?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 340,
+      "height": 494
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:54:59Z",
+    "lastrevid": 7810560,
+    "length": 12715,
+    "fullurl": "https://lt.wikipedia.org/wiki/Steponas_Batoras",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Steponas_Batoras&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Steponas_Batoras",
+    "revisions": [
+      {
+        "revid": 7810560,
+        "parentid": 7810558,
+        "timestamp": "2026-04-17T16:35:47Z"
+      }
+    ]
+  },
+  "en": {}
+}

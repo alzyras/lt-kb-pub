@@ -1,3 +1,6 @@
+// @ts-ignore bundled as a browser script
+import snowflakeScript from "./scripts/object-snowflake.inline"
+import { ObjectSnowflake } from "./ObjectSnowflake"
 import { uniqueCitations } from "../util/objectDetail"
 import { objectPageModules, moduleVisible } from "../util/objectPageModules"
 import { ExternalLink, Images } from "lucide-preact"
@@ -15,6 +18,8 @@ import {
   displayCaption,
   objectGallerySlug,
   objectMediaSet,
+  mediaImageUrl,
+  mediaPosition,
   relationLabel,
   type MediaEntry,
 } from "../util/objectMedia"
@@ -203,7 +208,7 @@ function WikipediaIntro({
       ? (module.source as ObjectPageModule)
       : {}
   const intro = cleanText(module.intro)
-  const infobox = moduleRows(module.infobox).filter((row) => cleanText(row.value))
+  const infobox = moduleRows(module.infobox).filter((row) => cleanText(row.value) || moduleRows(row.cells).some(cell => cleanText(cell.text)))
   const wikiUrl = safeExternalUrl(source.url)
   if (!intro && infobox.length === 0 && !wikiUrl && !summary) return null
   const languageLabel = wikiSourceLabel(source)
@@ -228,7 +233,9 @@ function WikipediaIntro({
   const attribution = (
     <p class="object-detail-wiki-attribution">
       {languageLabel}
+      {" · Vikipedijos bendradarbiai"}
       {cleanText(source.license) && ` · ${cleanText(source.license)}`}
+      {safeExternalUrl(source.revision_url) && <> · <a href={safeExternalUrl(source.revision_url)} target="_blank" rel="noreferrer noopener">Naudota straipsnio versija</a></>}
       {safeExternalUrl(source.history_url) && (
         <>
           {" · "}
@@ -256,6 +263,7 @@ function WikipediaIntro({
     >
       <div class="object-detail-wiki-main">
         <div class="object-detail-wiki-copy">
+          <p class="museum-eyebrow">Vikipedijos įžanga</p>
           {intro && <p class="object-detail-wiki-intro">{intro}</p>}
           <p class="object-detail-paragraph-source">
             Šaltinis: <a href={wikiUrl}>{languageLabel}</a>
@@ -264,6 +272,7 @@ function WikipediaIntro({
         </div>
         {summary && (
           <div class="object-detail-wiki-summary" id="musu-santrauka">
+            <p class="museum-eyebrow">Pagal publikuotus šaltinius</p>
             <p class="object-detail-wiki-summary-text">{summary}</p>
             <p class="object-detail-paragraph-source">
               Šaltinis: <a href="https://lietuvosistorija.eu">lietuvosistorija.eu</a>
@@ -280,23 +289,30 @@ function WikipediaIntro({
                 alt={displayCaption(portrait!)}
                 width={portrait?.width || undefined}
                 height={portrait?.height || undefined}
+                style={`object-position:${mediaPosition(portrait!)}`}
                 decoding="async"
               />
-              <span>Patikrintas portretas · Žiūrėti galerijoje</span>
+              <span>{portrait?.dateDisplay ? `${portrait.dateDisplay} · ` : ""}Žiūrėti galerijoje</span>
             </a>
           )}
           {infobox.length > 0 && (
             <div class="object-detail-wiki-infobox">
               <p class="object-detail-wiki-infobox-label">
-                Pagrindiniai duomenys · {languageLabel}
+                Pagrindinė lentelė · {languageLabel}
               </p>
               <div class="object-detail-wiki-table-wrap">
                 <table class="object-detail-wiki-table">
                   <tbody>
                     {infobox.map((row) => (
                       <tr>
-                        <th scope="row">{cleanText(row.label)}</th>
-                        <td>{cleanText(row.value)}</td>
+                        {moduleRows(row.cells).length ? moduleRows(row.cells).map((cell) => {
+                          const Tag = cell.header ? "th" : "td"
+                          const span = (value: unknown) => Math.max(1, Math.min(100, Number(value) || 1))
+                          return <Tag colSpan={span(cell.colspan)} rowSpan={span(cell.rowspan)}
+                            scope={cell.header ? (span(cell.colspan) > 1 ? "colgroup" : "row") : undefined}>
+                            {String(cell.text || "")}
+                          </Tag>
+                        }) : <><th scope="row">{cleanText(row.label)}</th><td>{cleanText(row.value)}</td></>}
                       </tr>
                     ))}
                   </tbody>
@@ -492,7 +508,7 @@ function sourceLinks(titles: string[], index: ObjectPageIndexes) {
 }
 
 function heroImage(media: MediaEntry | undefined): string {
-  return media ? cleanText(media.thumbUrl || media.displayUrl || media.sourceUrl) : ""
+  return media ? mediaImageUrl(media) : ""
 }
 
 function galleryPreview(
@@ -661,7 +677,8 @@ const ObjectDetailPage: QuartzComponent = (props) => {
     !Array.isArray(pageModules.internal_summary)
       ? (pageModules.internal_summary as ObjectPageModule)
       : undefined
-  const summary = cleanText(internalSummaryModule?.text) || evidence.summary
+  const rawSummary = cleanText(internalSummaryModule?.text) || evidence.summary
+  const summary = frontmatter.museum_external_only || normalized(rawSummary) === normalized(cleanText(wikiModule?.intro)) ? "" : rawSummary
   const supportedClaims = evidence.claims.filter((claim) => claim.citations.length > 0)
   const evidenceContext = cleanText(
     frontmatter.pavadinimas || frontmatter.canonical_name || frontmatter.title,
@@ -687,6 +704,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           summary={summary}
         />
       )}
+      {wikiPublished && <ObjectSnowflake props={props} />}
       <section class="object-detail-overview" id="apzvalga" data-object-panel="apzvalga">
         {!wikiPublished && (
           <div class="object-detail-summary-with-portrait">
@@ -709,6 +727,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
                   alt={displayCaption(hero!)}
                   width={hero?.width || undefined}
                   height={hero?.height || undefined}
+                  style={`object-position:${mediaPosition(hero!)}`}
                   decoding="async"
                 />
                 <span>Žiūrėti galerijoje</span>
@@ -716,6 +735,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
             )}
           </div>
         )}
+        {!wikiPublished && <ObjectSnowflake props={props} />}
         {view.featuredQuote && (
           <figure class="object-detail-featured-quote">
             <blockquote>{view.featuredQuote.text}</blockquote>
@@ -913,6 +933,6 @@ const ObjectDetailPage: QuartzComponent = (props) => {
 }
 
 ObjectDetailPage.css = style
-ObjectDetailPage.afterDOMLoaded = `${mapScript}\n${tabsScript}`
+ObjectDetailPage.afterDOMLoaded = `${mapScript}\n${tabsScript}\n${snowflakeScript}`
 
 export default (() => ObjectDetailPage) satisfies QuartzComponentConstructor

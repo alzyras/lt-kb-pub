@@ -1,0 +1,50 @@
+{
+  "id": "mindaugas",
+  "name": "Mindaugas",
+  "notePath": "objektai/asmenys/Mindaugas.md",
+  "years": "1236–1263",
+  "reigns": [
+    {
+      "start": 1236,
+      "end": 1263
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "Apie 1236 m. pradėtas valdymas; karalius nuo 1253 m.",
+  "lt": {
+    "pageid": 1105,
+    "ns": 0,
+    "title": "Mindaugas",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mindaugas_%2899259281%29.jpg/960px-Mindaugas_%2899259281%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "width": 900,
+      "height": 898
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mindaugas_%2899259281%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 2346,
+      "height": 2342
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-20T11:02:17Z",
+    "lastrevid": 7626891,
+    "length": 14869,
+    "fullurl": "https://lt.wikipedia.org/wiki/Mindaugas",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Mindaugas&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Mindaugas",
+    "revisions": [
+      {
+        "revid": 7626891,
+        "parentid": 7572283,
+        "timestamp": "2025-08-26T17:43:04Z"
+      }
+    ]
+  },
+  "en": {}
+}

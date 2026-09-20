@@ -1,0 +1,51 @@
+{
+  "id": "zygimantas-augustas",
+  "name": "Žygimantas Augustas",
+  "notePath": "objektai/asmenys/Žygimantas Augustas.md",
+  "years": "1529 / 1544–1572",
+  "reigns": [
+    {
+      "start": 1529,
+      "end": 1572
+    }
+  ],
+  "eras": [
+    "ldk",
+    "atr"
+  ],
+  "notice": "Lietuvos didžiuoju kunigaikščiu pakeltas 1529 m.; savarankiškai LDK valdė nuo 1544 m. ATR valdovas nuo 1569 m.",
+  "lt": {
+    "pageid": 21852,
+    "ns": 0,
+    "title": "Žygimantas Augustas",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cranach_the_Younger_Sigismund_II_Augustus.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 890,
+      "height": 1058
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cranach_the_Younger_Sigismund_II_Augustus.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 890,
+      "height": 1058
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-16T19:22:48Z",
+    "lastrevid": 7926004,
+    "length": 25446,
+    "fullurl": "https://lt.wikipedia.org/wiki/%C5%BDygimantas_Augustas",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=%C5%BDygimantas_Augustas&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/%C5%BDygimantas_Augustas",
+    "revisions": [
+      {
+        "revid": 7926004,
+        "parentid": 7784553,
+        "timestamp": "2026-09-16T19:22:48Z"
+      }
+    ]
+  },
+  "en": {}
+}

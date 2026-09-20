@@ -1,0 +1,50 @@
+{
+  "id": "jonas-kazimieras-vaza",
+  "name": "Jonas Kazimieras Vaza",
+  "notePath": "objektai/asmenys/Jonas Kazimieras Vaza.md",
+  "years": "1648–1668",
+  "reigns": [
+    {
+      "start": 1648,
+      "end": 1668
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "",
+  "lt": {
+    "pageid": 68623,
+    "ns": 0,
+    "title": "Jonas Kazimieras Vaza",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bacciarelli_-_Jan_Kazimierz.jpeg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 384,
+      "height": 515
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bacciarelli_-_Jan_Kazimierz.jpeg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 384,
+      "height": 515
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:00Z",
+    "lastrevid": 7293736,
+    "length": 16949,
+    "fullurl": "https://lt.wikipedia.org/wiki/Jonas_Kazimieras_Vaza",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Jonas_Kazimieras_Vaza&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Jonas_Kazimieras_Vaza",
+    "revisions": [
+      {
+        "revid": 7293736,
+        "parentid": 7199407,
+        "timestamp": "2024-06-08T17:02:28Z"
+      }
+    ]
+  },
+  "en": {}
+}

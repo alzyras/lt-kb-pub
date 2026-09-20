@@ -1,0 +1,54 @@
+{
+  "id": "jogaila",
+  "name": "Jogaila",
+  "notePath": "objektai/asmenys/Jogaila.md",
+  "years": "1377–1381; 1382–1392",
+  "reigns": [
+    {
+      "start": 1377,
+      "end": 1381
+    },
+    {
+      "start": 1382,
+      "end": 1392
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "Nuo 1386 m. Lenkijos karalius. Po 1392 m. išlaikė aukščiausiąją valdžią, Lietuvą valdant Vytautui.",
+  "lt": {
+    "pageid": 1402,
+    "ns": 0,
+    "title": "Jogaila",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Jogaila_%28W%C5%82adys%C5%82aw_II%29.jpg/960px-Jogaila_%28W%C5%82adys%C5%82aw_II%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "width": 900,
+      "height": 1126
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Jogaila_%28W%C5%82adys%C5%82aw_II%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 1080,
+      "height": 1351
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-20T11:02:17Z",
+    "lastrevid": 7870604,
+    "length": 13618,
+    "fullurl": "https://lt.wikipedia.org/wiki/Jogaila",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Jogaila&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Jogaila",
+    "revisions": [
+      {
+        "revid": 7870604,
+        "parentid": 7870599,
+        "timestamp": "2026-06-30T11:47:52Z"
+      }
+    ]
+  },
+  "en": {}
+}

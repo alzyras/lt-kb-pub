@@ -1,0 +1,50 @@
+{
+  "id": "kestutis",
+  "name": "Kęstutis",
+  "notePath": "objektai/asmenys/Kęstutis.md",
+  "years": "1381–1382",
+  "reigns": [
+    {
+      "start": 1381,
+      "end": 1382
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "Iki tol ilgai valdė Trakus ir veikė kaip Algirdo bendravaldys.",
+  "lt": {
+    "pageid": 14328,
+    "ns": 0,
+    "title": "Kęstutis",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Kiejstut.JPG/960px-Kiejstut.JPG?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "width": 900,
+      "height": 1279
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kiejstut.JPG?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 1580,
+      "height": 2245
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T16:59:54Z",
+    "lastrevid": 7918901,
+    "length": 11988,
+    "fullurl": "https://lt.wikipedia.org/wiki/K%C4%99stutis",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=K%C4%99stutis&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/K%C4%99stutis",
+    "revisions": [
+      {
+        "revid": 7918901,
+        "parentid": 7589102,
+        "timestamp": "2026-09-06T08:43:47Z"
+      }
+    ]
+  },
+  "en": {}
+}

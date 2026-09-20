@@ -6,6 +6,8 @@ import matter from "gray-matter"
 // @ts-expect-error serve-handler does not publish TypeScript declarations.
 import handler from "serve-handler"
 import { renderToString } from "preact-render-to-string"
+import Home from "../quartz/components/HomeCollection"
+import Exhibition from "../quartz/components/ExhibitionPage"
 import Detail from "../quartz/components/ObjectDetailPage"
 import Evidence, { Claim } from "../quartz/components/ObjectEvidencePage"
 import Relations, { RelationGroupCard } from "../quartz/components/ObjectRelationsPage"
@@ -17,7 +19,7 @@ import Content from "../quartz/components/pages/Content"
 import { EditorialCatalog, editorialCatalogStyle } from "../quartz/components/EditorialCatalog"
 import { loadObjectTopology } from "../quartz/util/objectGraph"
 import { graphVisualRegistry } from "../quartz/util/graphVisualRegistry"
-import { loadExhibitionCatalog } from "../quartz/util/exhibitions"
+import { loadExhibitions } from "../quartz/util/exhibitions"
 import { mediaImageUrl } from "../quartz/util/objectMedia"
 import config from "../quartz.config"
 import {
@@ -168,6 +170,8 @@ const components = [
   GraphExplorer(),
   FolderContent(),
   Content(),
+  Home(),
+  Exhibition(),
 ]
 const css = joinStyles(
   config.configuration.theme,
@@ -224,6 +228,13 @@ const server = http.createServer(async (req, res) => {
     return res.end(JSON.stringify(relationIndex))
   }
   const route = decodeURIComponent(url.pathname).replace(/^\/|\/$/g, "")
+  if (route === "" || route.startsWith("parodos/")) {
+    const exhibition = route ? loadExhibitions().find(e => e.slug === route) : undefined
+    const props: any = {fileData: {slug: route || "index", frontmatter: {title: exhibition?.title || "Lietuvos istorija", exhibition_manifest_json: exhibition}}, allFiles: files, cfg:config.configuration, ctx:{cfg:config}, tree:{type:"root",children:[]},children:[],externalResources:{css:[],js:[]}}
+    res.setHeader("Content-Type", "text/html; charset=utf-8")
+    res.setHeader("Cache-Control", "no-store")
+    return res.end(`<!doctype html><html lang="lt"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>${css}</style></head><body data-slug="${route || "index"}">${previewBody(props,components[route ? 9 : 8](props))}<script type="module">window.addCleanup=()=>{};${scripts}\n${spa}</script></body></html>`)
+  }
   if (
     ["zemelapis", "straipsniai", "parodos", "objektai", "laikotarpiai", "temos"].includes(route) ||
     /^(objektai|laikotarpiai|temos)\/[^/]+$/u.test(route)
@@ -244,7 +255,7 @@ const server = http.createServer(async (req, res) => {
         <EditorialCatalog
           title="Parodos"
           lead="Susitikimai su praeitimi. Atrasti eksponatai, jų istorijos ir skirtingi žvilgsniai į Lietuvos atmintį."
-          entries={loadExhibitionCatalog().map((entry) => ({
+          entries={loadExhibitions().map((entry) => ({
             ...entry,
             image: entry.hero ? mediaImageUrl(entry.hero) : "",
             kicker: entry.subtitle,

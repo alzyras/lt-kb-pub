@@ -1,0 +1,50 @@
+{
+  "id": "stanislovas-augustas-poniatovskis",
+  "name": "Stanislovas Augustas Poniatovskis",
+  "notePath": "objektai/asmenys/Stanislovas Augustas Poniatovskis.md",
+  "years": "1764–1795",
+  "reigns": [
+    {
+      "start": 1764,
+      "end": 1795
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "",
+  "lt": {
+    "pageid": 36332,
+    "ns": 0,
+    "title": "Stanislovas Augustas Poniatovskis",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Stanis%C5%82aw_August_Poniatowski_coronation_robes.jpg/960px-Stanis%C5%82aw_August_Poniatowski_coronation_robes.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "width": 900,
+      "height": 1628
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Stanis%C5%82aw_August_Poniatowski_coronation_robes.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 1802,
+      "height": 3260
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:00Z",
+    "lastrevid": 7752692,
+    "length": 26072,
+    "fullurl": "https://lt.wikipedia.org/wiki/Stanislovas_Augustas_Poniatovskis",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Stanislovas_Augustas_Poniatovskis&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Stanislovas_Augustas_Poniatovskis",
+    "revisions": [
+      {
+        "revid": 7752692,
+        "parentid": 7752691,
+        "timestamp": "2026-02-13T19:22:15Z"
+      }
+    ]
+  },
+  "en": {}
+}

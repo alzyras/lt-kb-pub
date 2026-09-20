@@ -2,6 +2,7 @@ import { QuartzPluginData } from "../plugins/vfile"
 import { FullSlug, joinSegments } from "./path"
 
 export type MediaEntry = {
+  focalPoint?: { x: number; y: number }
   mediaId?: string
   detailUrl?: string
   title?: string
@@ -301,4 +302,9 @@ export function displayMeta(entry: MediaEntry): string {
     cleanText(entry.providerLabel || entry.provider),
   ].filter(Boolean)
   return parts.join(" • ")
+}
+
+export function mediaPosition(media: MediaEntry): string {
+  const point = media.focalPoint
+  return point ? `${Math.max(0, Math.min(100, point.x))}% ${Math.max(0, Math.min(100, point.y))}%` : "50% 25%"
 }

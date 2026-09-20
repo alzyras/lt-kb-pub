@@ -7,8 +7,6 @@ import { objectBibliography } from "../util/objectBibliography"
 import {
   cleanText,
   displayCaption,
-  mediaImageUrl,
-  objectGallerySlug,
   objectMediaSet,
 } from "../util/objectMedia"
 import { graphSlugForPageData } from "../util/graphIdentity"
@@ -99,11 +97,10 @@ export function ObjectPageShell({
     })
   }
   view.counts.relations = mapIndex[graphSlug].links.length
-  const portrait =
-    view.counts.relations === 0 ? objectPortrait(fm, view.portraitMediaId) : undefined
-  const portraitUrl = portrait ? mediaImageUrl(portrait) : ""
+
+
   mapIndex[graphSlug].totalRelationCount = view.counts.relations
-  const mapHref = `/zemelapis/?focus=${encodeURIComponent(graphSlug)}&depth=1&panel=details&minConfidence=0`
+
   return (
     <>
       <nav class="object-detail-breadcrumbs" aria-label="Kelias">
@@ -147,52 +144,7 @@ export function ObjectPageShell({
             </p>
           </div>
         </div>
-        {portraitUrl && portrait ? (
-          <figure class="object-detail-hero-portrait">
-            <a href={`/${objectGallerySlug(slug)}`}>
-              <img
-                src={portraitUrl}
-                alt={displayCaption(portrait)}
-                width={portrait.width || undefined}
-                height={portrait.height || undefined}
-                decoding="async"
-              />
-            </a>
-            <figcaption>
-              {displayCaption(portrait)} <span aria-hidden="true">↗</span>
-            </figcaption>
-          </figure>
-        ) : (
-          <aside
-            class="object-detail-map object-map-cta"
-            data-object-map-cta="true"
-            data-object-slug={graphSlug}
-            data-public-object-slug={slug}
-            data-object-title={title}
-            data-object-map-href={mapHref}
-            data-object-semantic-count={view.counts.relations}
-          >
-            <script
-              type="application/json"
-              data-object-map-projection
-              dangerouslySetInnerHTML={{
-                __html: JSON.stringify({ version: 1, index: mapIndex }).replaceAll("<", "\\u003c"),
-              }}
-            />
-            <div class="object-detail-map-heading">
-              <span>Ryšių žemėlapis</span>
-              <strong data-object-map-count="">Kraunami ryšiai…</strong>
-            </div>
-            <a
-              class="object-map-preview-link"
-              href={mapHref}
-              aria-label={`${title}: ryšių žemėlapis`}
-            >
-              <canvas class="object-map-preview-canvas" data-object-map-canvas="" />
-              <span class="object-map-preview-status" data-object-map-status="" />
-            </a>
-          </aside>
-        )}
+
       </header>
       <ObjectPageTabs objectSlug={slug} counts={view.counts} active={active} />
       {children}

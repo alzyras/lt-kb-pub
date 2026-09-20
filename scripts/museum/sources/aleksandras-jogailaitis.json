@@ -1,0 +1,43 @@
+{
+  "id": "aleksandras-jogailaitis",
+  "name": "Aleksandras Jogailaitis",
+  "notePath": "objektai/asmenys/Aleksandras Jogailaitis.md",
+  "years": "1492–1506",
+  "reigns": [
+    {
+      "start": 1492,
+      "end": 1506
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "Lenkijos karalius nuo 1501 m.",
+  "lt": {},
+  "en": {
+    "pageid": 1589,
+    "ns": 0,
+    "title": "Alexander Jagiellon",
+    "extract": "Alexander Jagiellon (Polish: Aleksander Jagiellończyk; Lithuanian: Aleksandras Jogailaitis; 5 August 1461 – 19 August 1506) was Grand Duke of Lithuania from 1492 and King of Poland from 1501 until his death in 1506. He was the fourth son of Casimir IV Jagiellon and a member of the Jagiellonian dynasty. Alexander was elected the Grand Duke of Lithuania upon the death of his father per his father's suggestion, and became the King of Poland upon the death of his elder brother John I Albert.",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Goraj_Miracle_of_Saint_Simeon_Stylites_%28detail%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 506,
+      "height": 635
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Goraj_Miracle_of_Saint_Simeon_Stylites_%28detail%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 506,
+      "height": 635
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "en",
+    "pagelanguagehtmlcode": "en",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-20T11:18:31Z",
+    "lastrevid": 1359351145,
+    "length": 14528,
+    "fullurl": "https://en.wikipedia.org/wiki/Alexander_Jagiellon",
+    "editurl": "https://en.wikipedia.org/w/index.php?title=Alexander_Jagiellon&action=edit",
+    "canonicalurl": "https://en.wikipedia.org/wiki/Alexander_Jagiellon"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "redirects": [
+      {
+        "from": "Krėva",
+        "to": "Krevas"
+      }
+    ],
+    "pages": {
+      "20951": {
+        "pageid": 20951,
+        "ns": 0,
+        "title": "Gardinas",
+        "extract": "Gar̃dinas (bltr. Гродна, Гародня, Горадня; rus. Гродно) – miestas vakarų Baltarusijoje, netoli sienos su Lenkija ir Lietuva, prie Nemuno upės. Gardino Srities ir rajono centras. Išvystyta chemijos ir lengvoji pramonė; veikia kelios aukštosios mokyklos. Mieste išlikusi XII a. statyta Koložos cerkvė, Stepono Batoro iki 1580 m. perstatytos Senosios Vytauto pilies griuvėsiai, XVIII a. statyta Gardino Naujoji pilis, daugelis kitų architektūros paminklų. Yra Gardino universitetas, Gardino istorijos ir archeologijos muziejus, Gardino zoologijos sodas.",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Hrodna.svg/960px-Flag_of_Hrodna.svg.png?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 900,
+          "height": 450
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_Hrodna.svg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 400,
+          "height": 200
+        },
+        "contentmodel": "wikitext",
+        "pagelanguage": "lt",
+        "pagelanguagehtmlcode": "lt",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-15T13:09:39Z",
+        "lastrevid": 7629579,
+        "length": 7582,
+        "fullurl": "https://lt.wikipedia.org/wiki/Gardinas",
+        "editurl": "https://lt.wikipedia.org/w/index.php?title=Gardinas&action=edit",
+        "canonicalurl": "https://lt.wikipedia.org/wiki/Gardinas",
+        "revisions": [
+          {
+            "revid": 7629579,
+            "parentid": 7571904,
+            "timestamp": "2025-08-31T12:38:35Z"
+          }
+        ]
+      },
+      "1117": {
+        "pageid": 1117,
+        "ns": 0,
+        "title": "Kaunas",
+        "extract": "Kaunas – antrasis pagal dydį Lietuvos miestas šalies centrinėje dalyje, Nemuno ir Neries santakoje. Svarbus pramonės, transporto, mokslo ir kultūros centras, Laikinoji sostinė. Kauno miesto savivaldybė, Kauno rajono savivaldybės centras, katalikų arkivyskupijos centras. Yra 11 seniūnijų.",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/LTU_Kaunas_flag.svg/960px-LTU_Kaunas_flag.svg.png?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 900,
+          "height": 600
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/72/LTU_Kaunas_flag.svg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1200,
+          "height": 800
+        },
+        "contentmodel": "wikitext",
+        "pagelanguage": "lt",
+        "pagelanguagehtmlcode": "lt",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-15T02:19:06Z",
+        "lastrevid": 7858689,
+        "length": 79667,
+        "fullurl": "https://lt.wikipedia.org/wiki/Kaunas",
+        "editurl": "https://lt.wikipedia.org/w/index.php?title=Kaunas&action=edit",
+        "canonicalurl": "https://lt.wikipedia.org/wiki/Kaunas",
+        "revisions": [
+          {
+            "revid": 7858689,
+            "parentid": 7835697,
+            "timestamp": "2026-06-16T10:01:18Z"
+          }
+        ]
+      },
+      "9402": {
+        "pageid": 9402,
+        "ns": 0,
+        "title": "Kernavė",
+        "extract": "Kernavė – miestelis Širvintų rajono savivaldybėje, Neries dešiniajame krante, 18 km į pietvakarius nuo Širvintų, 35 km į šiaurės vakarus nuo Vilniaus. Seniūnijos centras, 2 seniūnaitijos (Kerniaus ir Piliakalnio). Yra paštas (LT-19014).\nMiestelis garsus šalia esančia Kernavės archeologine vietove su penkiais Kernavės piliakalniais, kuri yra senojo Kernavės miesto vieta. Čia 1989 m. įkurtas Valstybinis Kernavės kultūrinis rezervatas. Dėl savo archeologinės reikšmės šis geležies amžiaus Europos kultūrą atpindintis objektas 2004 m. UNESCO pripažintas Pasaulio paveldo objektu.\nMiestelis įeina į Kernavės kultūrinio rezervato buferinės apsaugos zoną.",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Kernav%C4%97%2C_gatv%C4%97_prie_skulpt%C5%ABr%C5%B3_kiemelio.JPG/960px-Kernav%C4%97%2C_gatv%C4%97_prie_skulpt%C5%ABr%C5%B3_kiemelio.JPG?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 900,
+          "height": 675
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kernav%C4%97%2C_gatv%C4%97_prie_skulpt%C5%ABr%C5%B3_kiemelio.JPG?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 5184,
+          "height": 3888
+        },
+        "contentmodel": "wikitext",
+        "pagelanguage": "lt",
+        "pagelanguagehtmlcode": "lt",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-19T11:37:59Z",
+        "lastrevid": 7927852,
+        "length": 19862,
+        "fullurl": "https://lt.wikipedia.org/wiki/Kernav%C4%97",
+        "editurl": "https://lt.wikipedia.org/w/index.php?title=Kernav%C4%97&action=edit",
+        "canonicalurl": "https://lt.wikipedia.org/wiki/Kernav%C4%97",
+        "revisions": [
+          {
+            "revid": 7927852,
+            "parentid": 7912650,
+            "timestamp": "2026-09-19T11:37:59Z"
+          }
+        ]
+      },
+      "44356": {
+        "pageid": 44356,
+        "ns": 0,
+        "title": "Naugardukas",
+        "extract": "Naugardùkas  (arba Naũgardas; bltr. Навагрудак, rus. Новогрудок) – miestas vakarų Baltarusijoje, Gardino apskrityje, 50 km į pietryčius nuo Lydos. Naugarduko rajono centras. Nuo Lietuvos sostinės Vilniaus ir Baltarusijos sostinės Minsko Naugardukas nutolęs vienodu – 150 km atstumu. Mieste veikia lengvoji ir maisto pramonė, dujų aparatūros gamykla, kraštotyros muziejus, Adomo Mickevičiaus namas-muziejus.\nNaugardukas yra vienas seniausių ir reikšmingiausių LDK daugiau kaip 500 metų priklausęs miestas, kurio svarba XVIII amžiaus pabaigoje patekus į Rusijos imperijos sudėtį visiškai sumenko. Kai kurie baltarusių istorikai laikosi versijos, kad 1253 m. Naugarduke galėjo būti karūnuotas vienintelis Lietuvos karalius Mindaugas. Lietuvos istorikų nuomone (T.Baranausko ir kt.), žinių, kad LDK Mindaugas yra gyvenęs ar iš viso buvo lankęsis Naugarduke, nėra – tai Motiejaus Strijkovskio XVI a. užrašytas neargumentuotas spėjimas interpretuojant legendas. Bevaikis ir senstantis Vladislovas Jogaila 1422 m. Naugarduke susituokė su ketvirtąją žmona Sofija Alšėniške (1405–1461). Ši sąjunga davė pradžią ateinančius amžius Vidurio ir Centrinę Europą – Lietuvą, Lenkiją, Čekiją, Vengriją, Prūsiją valdžiusiai Jogailaičių dinastijai. Nuo XVI a. pradžios Naugardukas beveik tris amžius buvo vienas svarbiausių Lietuvos Didžiosios Kunigaikštystės politinio ir administracinio gyvenimo centrų. Jis turėjo vaivadijos sostinės statusą, mieste iki XVIII a. II pusės rinkdavosi Vyriausiojo Lietuvos Tribunolo sesijos. Po galutinio Abiejų Tautų Respublikos padalijimo XVIII–XIX amž. sandūroje Naugarduko apylinkėse gimusių Mickevičių, Čečiotų, Domeikų ir kt. smulkių bajorų vaikai, išaugę tėvynės patriotais, studijuodami Vilniaus universitete būrėsi į slaptąsias draugijas, aktyviai dalyvavo 1831 m. sukilime.",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_Navahradak.svg/960px-Flag_of_Navahradak.svg.png?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 900,
+          "height": 450
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/Flag_of_Navahradak.svg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 600,
+          "height": 300
+        },
+        "contentmodel": "wikitext",
+        "pagelanguage": "lt",
+        "pagelanguagehtmlcode": "lt",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-08-06T14:49:57Z",
+        "lastrevid": 7865971,
+        "length": 21920,
+        "fullurl": "https://lt.wikipedia.org/wiki/Naugardukas",
+        "editurl": "https://lt.wikipedia.org/w/index.php?title=Naugardukas&action=edit",
+        "canonicalurl": "https://lt.wikipedia.org/wiki/Naugardukas",
+        "revisions": [
+          {
+            "revid": 7865971,
+            "parentid": 7701471,
+            "timestamp": "2026-06-22T09:43:28Z"
+          }
+        ]
+      },
+      "83118": {
+        "pageid": 83118,
+        "ns": 0,
+        "title": "Nesvyžius",
+        "extract": "Nesvỹžius  (bltr. Нясвіж, rus. Несвиж) – miestas vidurio vakarų Baltarusijoje, Minsko srityje, į rytus nuo Baranovičių, 110 km nuo Minsko, prie Ušos (Nemuno intako). Rajono centras.",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Niasvizh%2C_Belarus.svg/960px-Flag_of_Niasvizh%2C_Belarus.svg.png?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 900,
+          "height": 451
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Niasvizh%2C_Belarus.svg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 930,
+          "height": 466
+        },
+        "contentmodel": "wikitext",
+        "pagelanguage": "lt",
+        "pagelanguagehtmlcode": "lt",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-08-06T14:49:59Z",
+        "lastrevid": 7613168,
+        "length": 13224,
+        "fullurl": "https://lt.wikipedia.org/wiki/Nesvy%C5%BEius",
+        "editurl": "https://lt.wikipedia.org/w/index.php?title=Nesvy%C5%BEius&action=edit",
+        "canonicalurl": "https://lt.wikipedia.org/wiki/Nesvy%C5%BEius",
+        "revisions": [
+          {
+            "revid": 7613168,
+            "parentid": 6902619,
+            "timestamp": "2025-08-07T20:33:10Z"
+          }
+        ]
+      },
+      "1116": {
+        "pageid": 1116,
+        "ns": 0,
+        "title": "Trakai",
+        "extract": "Trakai – miestas Vilniaus apskrityje, už 30 km į vakarus nuo Vilniaus centro. Trakų rajono savivaldybės ir seniūnijos centras, 3 seniūnaitijos (Naujasodžio, Pietinė ir Šiaurinė). Pietinėje Trakų dalyje veikia kultūros namai, Trakų rajono centrinė ligoninė ir poliklinika, paštas. Urbanistikos paminklas (nuo 1969 m.).",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Traku_pilis_by_Augustas_Didzgalvis.jpg/960px-Traku_pilis_by_Augustas_Didzgalvis.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 900,
+          "height": 600
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/7/77/Traku_pilis_by_Augustas_Didzgalvis.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 1800,
+          "height": 1200
+        },
+        "contentmodel": "wikitext",
+        "pagelanguage": "lt",
+        "pagelanguagehtmlcode": "lt",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-15T18:42:45Z",
+        "lastrevid": 7869424,
+        "length": 22229,
+        "fullurl": "https://lt.wikipedia.org/wiki/Trakai",
+        "editurl": "https://lt.wikipedia.org/w/index.php?title=Trakai&action=edit",
+        "canonicalurl": "https://lt.wikipedia.org/wiki/Trakai",
+        "revisions": [
+          {
+            "revid": 7869424,
+            "parentid": 7863934,
+            "timestamp": "2026-06-28T12:52:58Z"
+          }
+        ]
+      },
+      "810": {
+        "pageid": 810,
+        "ns": 0,
+        "title": "Vilnius",
+        "extract": "Vilnius – miestas, Lietuvos sostinė. Vilniaus apskrities, Vilniaus rajono savivaldybės ir Vilniaus miesto savivaldybės centras, yra 20 seniūnijų. Arkivyskupijos centras, nuo 1579 m. – universitetinis miestas. Sostinėje veikia aukščiausios valdžios institucijos – Lietuvos Respublikos prezidentūra, Lietuvos Seimas, Lietuvos Vyriausybė, ministerijos, Lietuvos Aukščiausiasis ir Konstitucinis teismai, užsienio valstybių ambasados ir atstovybės, diplomatinės misijos, tarptautinių organizacijų atstovybės.\n1994 m. Vilniaus senamiestis įtrauktas į UNESCO organizacijos Pasaulio paveldo sąrašą.",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vilnius.svg/960px-Flag_of_Vilnius.svg.png?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 900,
+          "height": 600
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vilnius.svg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 600,
+          "height": 400
+        },
+        "contentmodel": "wikitext",
+        "pagelanguage": "lt",
+        "pagelanguagehtmlcode": "lt",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-19T04:57:07Z",
+        "lastrevid": 7847737,
+        "length": 48025,
+        "fullurl": "https://lt.wikipedia.org/wiki/Vilnius",
+        "editurl": "https://lt.wikipedia.org/w/index.php?title=Vilnius&action=edit",
+        "canonicalurl": "https://lt.wikipedia.org/wiki/Vilnius",
+        "revisions": [
+          {
+            "revid": 7847737,
+            "parentid": 7847695,
+            "timestamp": "2026-05-31T13:05:16Z"
+          }
+        ]
+      },
+      "56763": {
+        "pageid": 56763,
+        "ns": 0,
+        "title": "Krevas",
+        "extract": "Krẽvas  (arba Krė́va; bltr. Крэва, rus. Крево) – agromiestelis Baltarusijoje, buvęs svarbus Pietryčių Lietuvos ir LDK karinis, prekybos bei amatų centras. Veikia ligoninė, vidurinė mokykla, biblioteka; svarbiausios įmonės – žemės ūkio kooperatyvas, Smurgainių eksperimentinio miškininkystės ūkio girininkija, medžio apdirbimo cechas. Šv. Aleksandro Neviškio cerkvė (1854).",
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Church_of_Saint_Mary_in_Kreva.jpg/960px-Church_of_Saint_Mary_in_Kreva.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 900,
+          "height": 1200
+        },
+        "original": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/Church_of_Saint_Mary_in_Kreva.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+          "width": 3000,
+          "height": 4000
+        },
+        "contentmodel": "wikitext",
+        "pagelanguage": "lt",
+        "pagelanguagehtmlcode": "lt",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-09T15:19:30Z",
+        "lastrevid": 7737656,
+        "length": 6952,
+        "fullurl": "https://lt.wikipedia.org/wiki/Krevas",
+        "editurl": "https://lt.wikipedia.org/w/index.php?title=Krevas&action=edit",
+        "canonicalurl": "https://lt.wikipedia.org/wiki/Krevas",
+        "revisions": [
+          {
+            "revid": 7737656,
+            "parentid": 7381855,
+            "timestamp": "2026-01-18T18:18:33Z"
+          }
+        ]
+      }
+    }
+  }
+}

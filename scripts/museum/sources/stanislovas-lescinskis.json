@@ -1,0 +1,54 @@
+{
+  "id": "stanislovas-lescinskis",
+  "name": "Stanislovas Leščinskis",
+  "notePath": "objektai/asmenys/Stanislovas Leščinskis.md",
+  "years": "1704–1709; 1733–1736",
+  "reigns": [
+    {
+      "start": 1704,
+      "end": 1709
+    },
+    {
+      "start": 1733,
+      "end": 1736
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "Abu valdymus lydėjo konkuruojantys rinkimai ir užsienio valstybių įsikišimas.",
+  "lt": {
+    "pageid": 994,
+    "ns": 0,
+    "title": "Stanislovas Leščinskis",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Portrait_of_Stanis%C5%82aw_I_Leszczy%C5%84ski.jpg/960px-Portrait_of_Stanis%C5%82aw_I_Leszczy%C5%84ski.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "width": 900,
+      "height": 1223
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Portrait_of_Stanis%C5%82aw_I_Leszczy%C5%84ski.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 1383,
+      "height": 1880
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-18T12:52:02Z",
+    "lastrevid": 7330739,
+    "length": 11072,
+    "fullurl": "https://lt.wikipedia.org/wiki/Stanislovas_Le%C5%A1%C4%8Dinskis",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Stanislovas_Le%C5%A1%C4%8Dinskis&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Stanislovas_Le%C5%A1%C4%8Dinskis",
+    "revisions": [
+      {
+        "revid": 7330739,
+        "parentid": 7325587,
+        "timestamp": "2024-07-18T15:41:59Z"
+      }
+    ]
+  },
+  "en": {}
+}

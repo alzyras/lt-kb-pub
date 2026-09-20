@@ -1,3 +1,6 @@
+import { RulerTracks, MuseumPlaces, MuseumReading } from "./Rulers"
+// @ts-ignore
+import museumScript from "./scripts/museum.inline"
 import fs from "node:fs"
 import { QuartzPluginData } from "../plugins/vfile"
 import {
@@ -558,7 +561,7 @@ function preferredDirectMedia(
   )[0]
 }
 
-function mediaCards(
+export function mediaCards(
   allFiles: QuartzPluginData[],
   cards: ObjectCard[],
   limit: number,
@@ -624,7 +627,7 @@ function mediaCards(
   return [...curated, ...fallback]
 }
 
-function mediaObjectPosition(card: MediaObjectCard): string {
+export function mediaObjectPosition(card: MediaObjectCard): string {
   const type = cleanText(card.type).toLocaleLowerCase("lt-LT")
   const description =
     `${displayCaption(card.image)} ${cleanText(card.image.title)}`.toLocaleLowerCase("lt-LT")
@@ -764,9 +767,12 @@ function browseGroups(
 const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
   const typeCounts = countByType(allFiles)
   const cards = objectCards(allFiles)
-  const highlights = mediaCards(allFiles, cards, 11)
+
   const groups = browseGroups(allFiles, typeCounts)
   const spotlight = buildHomeCollectionSpotlight(allFiles)
+  const seed = spotlight.find((entry) => entry.slug.endsWith("/Gediminas")) ?? spotlight[0]
+  const seedClaims = seed?.claims.slice(0, 10) ?? []
+  const seedSource = (claim: SpotlightClaim) => [claim.contributor, claim.source ? `Šaltinis: ${claim.source}` : ""].filter(Boolean).join(" / ")
   const objectTotal = [...typeCounts.values()].reduce((sum, count) => sum + count, 0)
   const claimTotal = cards.reduce((sum, card) => sum + card.claimCount, 0)
   const quoteTotal = cards.reduce((sum, card) => sum + card.quoteCount, 0)
@@ -789,22 +795,28 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
           {spotlight.length > 0 && (
             <section
               class="collection-hero-spotlight"
-              aria-live="polite"
               data-collection-claim-spotlight="true"
             >
-              <span data-collection-spotlight-url="/static/collectionSpotlight.json" hidden />
+              <script type="application/json" data-collection-spotlight-data dangerouslySetInnerHTML={{ __html: JSON.stringify([{...seed, claims: seedClaims}]).replaceAll("<", "\\u003c") }} />
               <p class="collection-spotlight-kicker">
-                <span data-collection-spotlight-type>Objektas</span>
-                <span data-collection-spotlight-count />
+                <span data-collection-spotlight-type>{seed?.typeLabel}</span>
+                <span data-collection-spotlight-count>{seed?.claimCount} teig.</span>
               </p>
-              <a class="collection-spotlight-object" href="#" data-collection-spotlight-object />
-              <a class="collection-spotlight-claim" href="#" data-collection-spotlight-claim />
-              <p class="collection-spotlight-source" data-collection-spotlight-source />
+              <a class="collection-spotlight-object" href={`/${seed?.slug}`} data-collection-spotlight-object>{seed?.title}</a>
+              <div class="collection-claim-stage">
+                {seedClaims.map((claim) => <span class="collection-spotlight-claim collection-measure" aria-hidden="true">{claim.text}</span>)}
+                <a class="collection-spotlight-claim" href={`/${seed?.slug}/irodymai#claim-${seedClaims[0]?.id}`} data-collection-spotlight-claim>{seedClaims[0]?.text}</a>
+              </div>
+              <div class="collection-source-stage">
+                {seedClaims.map((claim) => <p class="collection-spotlight-source collection-measure" aria-hidden="true">{seedSource(claim)}</p>)}
+                <p class="collection-spotlight-source" data-collection-spotlight-source>{seedClaims[0] && seedSource(seedClaims[0])}</p>
+              </div>
               <div
                 class="collection-spotlight-dots"
                 aria-label="Teiginių pasirinkimas"
                 data-collection-spotlight-dots
-              />
+              >{seedClaims.map((_, i) => <button type="button" class="collection-spotlight-dot" aria-label={`Rodyti ${i + 1} teiginį`} />)}</div>
+              <button type="button" class="collection-spotlight-pause" data-collection-pause aria-pressed="false">Pristabdyti</button>
             </section>
           )}
           <form
@@ -928,6 +940,10 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
         </div>
       </section>
 
+      <RulerTracks />
+      <MuseumPlaces allFiles={allFiles} />
+      <MuseumReading />
+
       <section class="collection-about-band" aria-labelledby="collection-about-title">
         <div class="collection-about-intro">
           <p class="collection-kicker">Apie svetainę</p>
@@ -968,54 +984,12 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
         </nav>
       </section>
 
-      <section
-        class="collection-section collection-highlights"
-        aria-labelledby="collection-highlights-title"
-      >
-        <div class="collection-section-heading collection-section-heading-compact">
-          <p>Akcentai</p>
-          <div>
-            <h2 id="collection-highlights-title">Svarbiausi valdovai ir vietos</h2>
-            <p class="collection-section-lead">
-              Lietuvos didieji kunigaikščiai, sostinės, pilys ir istoriniai kraštai, nuo kurių verta
-              pradėti.
-            </p>
-          </div>
-        </div>
-        <div class="collection-object-mosaic">
-          {highlights.map((card, index) => (
-            <a
-              class={`collection-object-tile${index === 0 ? " collection-object-tile-featured" : ""}`}
-              href={resolveRelative(currentSlug, card.slug)}
-            >
-              <img
-                src={card.imageUrl}
-                alt={card.imageAlt}
-                width={card.image.width || undefined}
-                height={card.image.height || undefined}
-                data-object-type={card.type}
-                style={`object-position:${mediaObjectPosition(card)}`}
-                loading="lazy"
-                decoding="async"
-              />
-              <span class="collection-object-tile-shade" aria-hidden="true" />
-              <span class="collection-object-tile-copy">
-                <span class="collection-type-label">{typeLabels.get(card.type) ?? card.type}</span>
-                <strong>{plainTitle(card.title)}</strong>
-                {index === 0 && card.summary && <small>{card.summary}</small>}
-                <span class="collection-object-tile-meta">
-                  {card.claimCount.toLocaleString("lt-LT")} teiginių
-                </span>
-              </span>
-            </a>
-          ))}
-        </div>
-      </section>
+
     </div>
   )
 }
 
 HomeCollection.css = styles
-HomeCollection.afterDOMLoaded = script
+HomeCollection.afterDOMLoaded = `${script}\n${museumScript}`
 
 export default (() => HomeCollection) satisfies QuartzComponentConstructor

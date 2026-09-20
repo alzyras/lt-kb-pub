@@ -1,0 +1,50 @@
+{
+  "id": "svarnas",
+  "name": "Švarnas",
+  "notePath": "objektai/asmenys/Švarnas.md",
+  "years": "apie 1267–1269",
+  "reigns": [
+    {
+      "start": 1267,
+      "end": 1269
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "Valdymo Lietuvoje pobūdis ir net pats didžiojo kunigaikščio statusas istoriografijoje ginčijami.",
+  "lt": {
+    "pageid": 52222,
+    "ns": 0,
+    "title": "Švarnas",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/lt/c/c7/%C5%A0varnas.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 588,
+      "height": 770
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/lt/c/c7/%C5%A0varnas.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 588,
+      "height": 770
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:00Z",
+    "lastrevid": 7860113,
+    "length": 3323,
+    "fullurl": "https://lt.wikipedia.org/wiki/%C5%A0varnas",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=%C5%A0varnas&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/%C5%A0varnas",
+    "revisions": [
+      {
+        "revid": 7860113,
+        "parentid": 7753072,
+        "timestamp": "2026-06-16T12:16:26Z"
+      }
+    ]
+  },
+  "en": {}
+}

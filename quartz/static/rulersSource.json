@@ -1,0 +1,2138 @@
+{
+  "version": 1,
+  "rulers": [
+    {
+      "id": "mindaugas",
+      "name": "Mindaugas",
+      "notePath": "objektai/asmenys/Mindaugas.md",
+      "years": "1236–1263",
+      "reigns": [
+        {
+          "start": 1236,
+          "end": 1263
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Apie 1236 m. pradėtas valdymas; karalius nuo 1253 m.",
+      "objectSlug": "objektai/asmenys/Mindaugas",
+      "media": {
+        "mediaId": "m-eff5ca0272ddbc699e37677e",
+        "title": "Mindaugas. Vėlesnis istorinis atvaizdas, 1578 m.",
+        "caption": "Mindaugas. Vėlesnis istorinis atvaizdas, 1578 m.",
+        "originalTitle": "File:Mindaugas (99259281).jpg",
+        "creator": "Aleksander Gwagnin",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1578 m.",
+        "width": 960,
+        "height": 958,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Mindaugas_(99259281).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mindaugas_%2899259281%29.jpg",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mindaugas_%2899259281%29.jpg/960px-Mindaugas_%2899259281%29.jpg",
+        "displayUrl": "/static/media/museum/mindaugas.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Mindaugas.md",
+            "title": "Mindaugas",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Mindaugas. Vėlesnis istorinis atvaizdas, 1578 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Mindaugas",
+          "url": "https://lt.wikipedia.org/wiki/Mindaugas",
+          "revision": 7626891
+        },
+        {
+          "title": "Visuotinė lietuvių enciklopedija · Mindaugas",
+          "url": "https://www.vle.lt/straipsnis/mindaugas/"
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "treniota",
+      "name": "Treniota",
+      "notePath": "objektai/asmenys/Treniota.md",
+      "years": "1263–1264",
+      "reigns": [
+        {
+          "start": 1263,
+          "end": 1264
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Treniota",
+      "media": {
+        "mediaId": "m-7f0f77964c24820bed6ef5d8",
+        "title": "Treniota. Vėlesnis istorinis atvaizdas, 1611 m.",
+        "caption": "Treniota. Vėlesnis istorinis atvaizdas, 1611 m.",
+        "originalTitle": "File:Traniata. Транята (A. Guagnini, 1611).jpg",
+        "creator": "Alexander Guagnini",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1611 m.",
+        "width": 760,
+        "height": 1068,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_(A._Guagnini,_1611).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Traniata._%D0%A2%D1%80%D0%B0%D0%BD%D1%8F%D1%82%D0%B0_%28A._Guagnini%2C_1611%29.jpg",
+        "displayUrl": "/static/media/museum/treniota.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Treniota.md",
+            "title": "Treniota",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Treniota. Vėlesnis istorinis atvaizdas, 1611 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Treniota",
+          "url": "https://lt.wikipedia.org/wiki/Treniota",
+          "revision": 7794649
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "vaisvilkas",
+      "name": "Vaišvilkas",
+      "notePath": "objektai/asmenys/Vaišvilkas.md",
+      "years": "1264–1267",
+      "reigns": [
+        {
+          "start": 1264,
+          "end": 1267
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Taip pat vadinamas Vaišelga.",
+      "objectSlug": "objektai/asmenys/Vaisvilkas",
+      "media": {
+        "mediaId": "m-2cc045ca26604d961ec34b13",
+        "title": "Laurušavo evangelijos aptaiso atvaizdas, tradiciškai siejamas su Vaišvilku. XIV–XVI a.; datavimas nevienodas. Tai nėra patikimas portretas iš natūros.",
+        "caption": "Laurušavo evangelijos aptaiso atvaizdas, tradiciškai siejamas su Vaišvilku. XIV–XVI a.; datavimas nevienodas. Tai nėra patikimas portretas iš natūros.",
+        "originalTitle": "File:Vojšałk, Łaŭryšaŭskaje Evangielle. Войшалк, Лаўрышаўскае Эвангельле (XVI).jpg",
+        "creator": "Autorius nežinomas",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "XIV–XVI a.; datavimas nevienodas",
+        "width": 341,
+        "height": 562,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Voj%C5%A1a%C5%82k,_%C5%81a%C5%ADry%C5%A1a%C5%ADskaje_Evangielle._%D0%92%D0%BE%D0%B9%D1%88%D0%B0%D0%BB%D0%BA,_%D0%9B%D0%B0%D1%9E%D1%80%D1%8B%D1%88%D0%B0%D1%9E%D1%81%D0%BA%D0%B0%D0%B5_%D0%AD%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D0%BB%D0%B5_(XVI).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Voj%C5%A1a%C5%82k%2C_%C5%81a%C5%ADry%C5%A1a%C5%ADskaje_Evangielle._%D0%92%D0%BE%D0%B9%D1%88%D0%B0%D0%BB%D0%BA%2C_%D0%9B%D0%B0%D1%9E%D1%80%D1%8B%D1%88%D0%B0%D1%9E%D1%81%D0%BA%D0%B0%D0%B5_%D0%AD%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D0%BB%D0%B5_%28XVI%29.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Voj%C5%A1a%C5%82k%2C_%C5%81a%C5%ADry%C5%A1a%C5%ADskaje_Evangielle._%D0%92%D0%BE%D0%B9%D1%88%D0%B0%D0%BB%D0%BA%2C_%D0%9B%D0%B0%D1%9E%D1%80%D1%8B%D1%88%D0%B0%D1%9E%D1%81%D0%BA%D0%B0%D0%B5_%D0%AD%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D0%BB%D0%B5_%28XVI%29.jpg",
+        "displayUrl": "/static/media/museum/vaisvilkas.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Vaišvilkas.md",
+            "title": "Vaišvilkas",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Laurušavo evangelijos aptaiso atvaizdas, tradiciškai siejamas su Vaišvilku. XIV–XVI a.; datavimas nevienodas. Tai nėra patikimas portretas iš natūros.",
+      "sources": [
+        {
+          "title": "Vikipedija · Vaišelga",
+          "url": "https://lt.wikipedia.org/wiki/Vai%C5%A1elga",
+          "revision": 7859893
+        }
+      ],
+      "contextualImage": true
+    },
+    {
+      "id": "svarnas",
+      "name": "Švarnas",
+      "notePath": "objektai/asmenys/Švarnas.md",
+      "years": "apie 1267–1269",
+      "reigns": [
+        {
+          "start": 1267,
+          "end": 1269
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Valdymo Lietuvoje pobūdis ir net pats didžiojo kunigaikščio statusas istoriografijoje ginčijami.",
+      "objectSlug": "objektai/asmenys/Svarnas",
+      "media": {
+        "mediaId": "m-c1b2c0f553d142fe4e755949",
+        "title": "Švarnas. Vėlesnis istorinis atvaizdas, 1908 m.",
+        "caption": "Švarnas. Vėlesnis istorinis atvaizdas, 1908 m.",
+        "originalTitle": "File:Švarn. Шварн (M. Barvicki, 1908).jpg",
+        "creator": "Mečislovas Barvickis",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1908 m.",
+        "width": 477,
+        "height": 800,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:%C5%A0varn._%D0%A8%D0%B2%D0%B0%D1%80%D0%BD_(M._Barvicki,_1908).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/%C5%A0varn._%D0%A8%D0%B2%D0%B0%D1%80%D0%BD_%28M._Barvicki%2C_1908%29.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/%C5%A0varn._%D0%A8%D0%B2%D0%B0%D1%80%D0%BD_%28M._Barvicki%2C_1908%29.jpg",
+        "displayUrl": "/static/media/museum/svarnas.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Švarnas.md",
+            "title": "Švarnas",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Švarnas. Vėlesnis istorinis atvaizdas, 1908 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Švarnas",
+          "url": "https://lt.wikipedia.org/wiki/%C5%A0varnas",
+          "revision": 7860113
+        },
+        {
+          "title": "LDK istorija · Švarno valdžios klausimas",
+          "url": "https://www.ldkistorija.lt/svarnas-lietuvos-valdovas-kurio-nebuvo/"
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "traidenis",
+      "name": "Traidenis",
+      "notePath": "objektai/asmenys/Traidenis.md",
+      "years": "1269–1282",
+      "reigns": [
+        {
+          "start": 1269,
+          "end": 1282
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Valdymo pradžia kartais datuojama 1268 m.",
+      "objectSlug": "objektai/asmenys/Traidenis",
+      "media": {
+        "mediaId": "m-c97525ae28a02bedf416e15b",
+        "title": "Traidenis. Vėlesnis istorinis atvaizdas, 1578 m.",
+        "caption": "Traidenis. Vėlesnis istorinis atvaizdas, 1578 m.",
+        "originalTitle": "File:Trajdzień.Трайдзень (A. Guagnini, 1578, 1581).jpg",
+        "creator": "Alessandro Guagnini",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1578 m.",
+        "width": 662,
+        "height": 665,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_(A._Guagnini,_1578,_1581).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Trajdzie%C5%84.%D0%A2%D1%80%D0%B0%D0%B9%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%28A._Guagnini%2C_1578%2C_1581%29.jpg",
+        "displayUrl": "/static/media/museum/traidenis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Traidenis.md",
+            "title": "Traidenis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Traidenis. Vėlesnis istorinis atvaizdas, 1578 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Traidenis",
+          "url": "https://lt.wikipedia.org/wiki/Traidenis",
+          "revision": 7770784
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "daumantas",
+      "name": "Daumantas",
+      "notePath": "objektai/asmenys/Daumantas.md",
+      "years": "apie 1282–1285",
+      "reigns": [
+        {
+          "start": 1282,
+          "end": 1285
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Tapatybė ir valdymo pradžia neaiškios. Negalima automatiškai tapatinti su Pskovo kunigaikščiu Daumantu.",
+      "objectSlug": "objektai/asmenys/Daumantas",
+      "media": {
+        "mediaId": "m-7114683e8aca0bcfab76acfe",
+        "title": "Daumantas. Vėlesnis istorinis atvaizdas, 1908 m.",
+        "caption": "Daumantas. Vėlesnis istorinis atvaizdas, 1908 m.",
+        "originalTitle": "File:Daŭmont. Даўмонт (M. Barvicki, 1908).jpg",
+        "creator": "Mečislovas Barvickis",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1908 m.",
+        "width": 481,
+        "height": 800,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Da%C5%ADmont._%D0%94%D0%B0%D1%9E%D0%BC%D0%BE%D0%BD%D1%82_(M._Barvicki,_1908).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Da%C5%ADmont._%D0%94%D0%B0%D1%9E%D0%BC%D0%BE%D0%BD%D1%82_%28M._Barvicki%2C_1908%29.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Da%C5%ADmont._%D0%94%D0%B0%D1%9E%D0%BC%D0%BE%D0%BD%D1%82_%28M._Barvicki%2C_1908%29.jpg",
+        "displayUrl": "/static/media/museum/daumantas.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Daumantas.md",
+            "title": "Daumantas",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Daumantas. Vėlesnis istorinis atvaizdas, 1908 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Daumantas",
+          "url": "https://lt.wikipedia.org/wiki/Daumantas",
+          "revision": 7831080
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "butigeidis",
+      "name": "Butigeidis",
+      "notePath": "objektai/asmenys/Butigeidis.md",
+      "years": "apie 1285–1291",
+      "reigns": [
+        {
+          "start": 1285,
+          "end": 1291
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Valdymo ribos apytikrės.",
+      "objectSlug": "objektai/asmenys/Butigeidis",
+      "media": {
+        "mediaId": "m-00e7511710450bd2c4ef1c08",
+        "title": "Butigeidis. Vėlesnis istorinis atvaizdas, 1908 m.",
+        "caption": "Butigeidis. Vėlesnis istorinis atvaizdas, 1908 m.",
+        "originalTitle": "File:Budzikid. Будзікід (M. Barvicki, 1908).jpg",
+        "creator": "Mečislovas Barvickis",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1908 m.",
+        "width": 480,
+        "height": 800,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Budzikid._%D0%91%D1%83%D0%B4%D0%B7%D1%96%D0%BA%D1%96%D0%B4_(M._Barvicki,_1908).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Budzikid._%D0%91%D1%83%D0%B4%D0%B7%D1%96%D0%BA%D1%96%D0%B4_%28M._Barvicki%2C_1908%29.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Budzikid._%D0%91%D1%83%D0%B4%D0%B7%D1%96%D0%BA%D1%96%D0%B4_%28M._Barvicki%2C_1908%29.jpg",
+        "displayUrl": "/static/media/museum/butigeidis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Butigeidis.md",
+            "title": "Butigeidis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Butigeidis. Vėlesnis istorinis atvaizdas, 1908 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Butigeidis",
+          "url": "https://lt.wikipedia.org/wiki/Butigeidis",
+          "revision": 7754514
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "butvydas",
+      "name": "Butvydas",
+      "notePath": "objektai/asmenys/Butvydas.md",
+      "years": "apie 1291–1295",
+      "reigns": [
+        {
+          "start": 1291,
+          "end": 1295
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Šaltiniuose minimas ir Pukuvero vardu; genealogijoje lieka neaiškumų.",
+      "objectSlug": "objektai/asmenys/Butvydas",
+      "media": {
+        "mediaId": "m-94dd6a7e0329a70964023636",
+        "title": "Butvydas. Vėlesnis istorinis atvaizdas, 1908 m.",
+        "caption": "Butvydas. Vėlesnis istorinis atvaizdas, 1908 m.",
+        "originalTitle": "File:Пукувер Будивид.jpg",
+        "creator": "Mečislovas Barvickis",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1908 m.",
+        "width": 476,
+        "height": 800,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%83%D0%BA%D1%83%D0%B2%D0%B5%D1%80_%D0%91%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/%D0%9F%D1%83%D0%BA%D1%83%D0%B2%D0%B5%D1%80_%D0%91%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/%D0%9F%D1%83%D0%BA%D1%83%D0%B2%D0%B5%D1%80_%D0%91%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4.jpg",
+        "displayUrl": "/static/media/museum/butvydas.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Butvydas.md",
+            "title": "Butvydas",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Butvydas. Vėlesnis istorinis atvaizdas, 1908 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Butvydas",
+          "url": "https://lt.wikipedia.org/wiki/Butvydas",
+          "revision": 7754523
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "vytenis",
+      "name": "Vytenis",
+      "notePath": "objektai/asmenys/Vytenis.md",
+      "years": "apie 1295–1316",
+      "reigns": [
+        {
+          "start": 1295,
+          "end": 1316
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Valdymo pabaiga datuojama 1315 arba 1316 m.",
+      "objectSlug": "objektai/asmenys/Vytenis",
+      "media": {
+        "mediaId": "m-72b03a5f743dcc3944caabbe",
+        "title": "Vytenis. Vėlesnis istorinis atvaizdas, 1709 m.",
+        "caption": "Vytenis. Vėlesnis istorinis atvaizdas, 1709 m.",
+        "originalTitle": "File:Vytenis, the Grand Duke of Lithuania, painted in 1709.png",
+        "creator": "Autorius nežinomas",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1709 m.",
+        "width": 960,
+        "height": 1066,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Vytenis,_the_Grand_Duke_of_Lithuania,_painted_in_1709.png",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Vytenis%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Vytenis%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png/960px-Vytenis%2C_the_Grand_Duke_of_Lithuania%2C_painted_in_1709.png",
+        "displayUrl": "/static/media/museum/vytenis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Vytenis.md",
+            "title": "Vytenis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Vytenis. Vėlesnis istorinis atvaizdas, 1709 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Vytenis",
+          "url": "https://lt.wikipedia.org/wiki/Vytenis",
+          "revision": 7754534
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "gediminas",
+      "name": "Gediminas",
+      "notePath": "objektai/asmenys/Gediminas.md",
+      "years": "1316–1341",
+      "reigns": [
+        {
+          "start": 1316,
+          "end": 1341
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Gediminas",
+      "media": {
+        "mediaId": "m-6c8eccc8e2db1668dc29b340",
+        "title": "Gediminas. Vėlesnis istorinis atvaizdas, XVI–XVII a.; katalogo datavimas nevienodas",
+        "caption": "Gediminas. Vėlesnis istorinis atvaizdas, XVI–XVII a.; katalogo datavimas nevienodas",
+        "originalTitle": "File:Gedimin grav xvii.jpg",
+        "creator": "Aleksandro Gvagninio leidinys",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "XVI–XVII a.; katalogo datavimas nevienodas",
+        "width": 796,
+        "height": 767,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Gedimin_grav_xvii.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Gedimin_grav_xvii.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Gedimin_grav_xvii.jpg",
+        "displayUrl": "/static/media/museum/gediminas.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Gediminas.md",
+            "title": "Gediminas",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Gediminas. Vėlesnis istorinis atvaizdas, XVI–XVII a.; katalogo datavimas nevienodas",
+      "sources": [
+        {
+          "title": "Vikipedija · Gediminas",
+          "url": "https://lt.wikipedia.org/wiki/Gediminas",
+          "revision": 7470624
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "jaunutis",
+      "name": "Jaunutis",
+      "notePath": "objektai/asmenys/Jaunutis.md",
+      "years": "1341–1345",
+      "reigns": [
+        {
+          "start": 1341,
+          "end": 1345
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Jaunutis",
+      "media": {
+        "mediaId": "m-cd5e75e789d794c07a493983",
+        "title": "Jaunutis. Vėlesnis istorinis atvaizdas, 1675 m.",
+        "caption": "Jaunutis. Vėlesnis istorinis atvaizdas, 1675 m.",
+        "originalTitle": "File:Jaŭnut. Яўнут (A. Tarasievič, 1675).jpg",
+        "creator": "Alaksandar Tarasievič (Aleksander Tarasowicz)",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1675 m.",
+        "width": 363,
+        "height": 436,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Ja%C5%ADnut._%D0%AF%D1%9E%D0%BD%D1%83%D1%82_(A._Tarasievi%C4%8D,_1675).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ja%C5%ADnut._%D0%AF%D1%9E%D0%BD%D1%83%D1%82_%28A._Tarasievi%C4%8D%2C_1675%29.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ja%C5%ADnut._%D0%AF%D1%9E%D0%BD%D1%83%D1%82_%28A._Tarasievi%C4%8D%2C_1675%29.jpg",
+        "displayUrl": "/static/media/museum/jaunutis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Jaunutis.md",
+            "title": "Jaunutis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Jaunutis. Vėlesnis istorinis atvaizdas, 1675 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Jaunutis",
+          "url": "https://lt.wikipedia.org/wiki/Jaunutis",
+          "revision": 7767551
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "algirdas",
+      "name": "Algirdas",
+      "notePath": "objektai/asmenys/Algirdas.md",
+      "years": "1345–1377",
+      "reigns": [
+        {
+          "start": 1345,
+          "end": 1377
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Algirdas",
+      "media": {
+        "mediaId": "m-b6079ac7c02694637cd64f89",
+        "title": "Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.",
+        "caption": "Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.",
+        "originalTitle": "File:Algierd. Альгерд (A. Guagnini, 1578).jpg",
+        "creator": "Alessandro Guagnini",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1578 m.",
+        "width": 960,
+        "height": 960,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_(A._Guagnini,_1578).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg/960px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%28A._Guagnini%2C_1578%29.jpg",
+        "displayUrl": "/static/media/museum/algirdas.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Algirdas.md",
+            "title": "Algirdas",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Algirdas. Vėlesnis istorinis atvaizdas, 1578 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Algirdas",
+          "url": "https://lt.wikipedia.org/wiki/Algirdas",
+          "revision": 7839118
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "jogaila",
+      "name": "Jogaila",
+      "notePath": "objektai/asmenys/Jogaila.md",
+      "years": "1377–1381; 1382–1392",
+      "reigns": [
+        {
+          "start": 1377,
+          "end": 1381
+        },
+        {
+          "start": 1382,
+          "end": 1392
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Nuo 1386 m. Lenkijos karalius. Po 1392 m. išlaikė aukščiausiąją valdžią, Lietuvą valdant Vytautui.",
+      "objectSlug": "objektai/asmenys/Jogaila",
+      "media": {
+        "mediaId": "m-34ead378c8fac81f2b9c8556",
+        "title": "Jogaila. Istorinis atvaizdas, XV a. antroji pusė",
+        "caption": "Jogaila. Istorinis atvaizdas, XV a. antroji pusė",
+        "originalTitle": "File:Jogaila (Władysław II).jpg",
+        "creator": "Autorius nežinomas",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "XV a. antroji pusė",
+        "width": 959,
+        "height": 1200,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Jogaila_(W%C5%82adys%C5%82aw_II).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Jogaila_%28W%C5%82adys%C5%82aw_II%29.jpg",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Jogaila_%28W%C5%82adys%C5%82aw_II%29.jpg/960px-Jogaila_%28W%C5%82adys%C5%82aw_II%29.jpg",
+        "displayUrl": "/static/media/museum/jogaila.webp",
+        "focalPoint": {
+          "x": 35,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Jogaila.md",
+            "title": "Jogaila",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Jogaila. Istorinis atvaizdas, XV a. antroji pusė",
+      "sources": [
+        {
+          "title": "Vikipedija · Jogaila",
+          "url": "https://lt.wikipedia.org/wiki/Jogaila",
+          "revision": 7870604
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "kestutis",
+      "name": "Kęstutis",
+      "notePath": "objektai/asmenys/Kęstutis.md",
+      "years": "1381–1382",
+      "reigns": [
+        {
+          "start": 1381,
+          "end": 1382
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Iki tol ilgai valdė Trakus ir veikė kaip Algirdo bendravaldys.",
+      "objectSlug": "objektai/asmenys/Kestutis",
+      "media": {
+        "mediaId": "m-0519dac8253b46f4a8650265",
+        "title": "Kęstutis. Vėlesnis istorinis atvaizdas, XIX a.",
+        "caption": "Kęstutis. Vėlesnis istorinis atvaizdas, XIX a.",
+        "originalTitle": "File:Kiejstut.JPG",
+        "creator": "Autorius nežinomas",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "XIX a.",
+        "width": 845,
+        "height": 1200,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Kiejstut.JPG",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kiejstut.JPG",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Kiejstut.JPG/960px-Kiejstut.JPG",
+        "displayUrl": "/static/media/museum/kestutis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Kęstutis.md",
+            "title": "Kęstutis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Kęstutis. Vėlesnis istorinis atvaizdas, XIX a.",
+      "sources": [
+        {
+          "title": "Vikipedija · Kęstutis",
+          "url": "https://lt.wikipedia.org/wiki/K%C4%99stutis",
+          "revision": 7918901
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "vytautas-didysis",
+      "name": "Vytautas Didysis",
+      "notePath": "objektai/asmenys/Vytautas.md",
+      "years": "1392–1430",
+      "reigns": [
+        {
+          "start": 1392,
+          "end": 1430
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Vytautas",
+      "media": {
+        "mediaId": "m-b3fa7c652d5294ea21fec286",
+        "title": "Vytautas Didysis. Vėlesnis istorinis atvaizdas, 1578 m.",
+        "caption": "Vytautas Didysis. Vėlesnis istorinis atvaizdas, 1578 m.",
+        "originalTitle": "File:Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578).jpg",
+        "creator": "Alessandro Guagnini",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1578 m.",
+        "width": 960,
+        "height": 961,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_(A._Guagnini,_1578).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg/960px-Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg",
+        "displayUrl": "/static/media/museum/vytautas-didysis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Vytautas.md",
+            "title": "Vytautas Didysis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Vytautas Didysis. Vėlesnis istorinis atvaizdas, 1578 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Vytautas Didysis",
+          "url": "https://lt.wikipedia.org/wiki/Vytautas_Didysis",
+          "revision": 7810697
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "svitrigaila",
+      "name": "Švitrigaila",
+      "notePath": "objektai/asmenys/Švitrigaila.md",
+      "years": "1430–1432",
+      "reigns": [
+        {
+          "start": 1430,
+          "end": 1432
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Po nuvertimo toliau kovojo dėl valdžios; jo pretenzijos nesutampa su faktinio valdymo visoje LDK laikotarpiu.",
+      "objectSlug": "objektai/asmenys/Svitrigaila",
+      "media": {
+        "mediaId": "m-376cc5906a1a50cae9b0feea",
+        "title": "Švitrigaila. Vėlesnis istorinis atvaizdas, 1840 m.",
+        "caption": "Švitrigaila. Vėlesnis istorinis atvaizdas, 1840 m.",
+        "originalTitle": "File:Svitrigaila (97606208).jpg",
+        "creator": "Józef Oziębłowski",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1840 m.",
+        "width": 928,
+        "height": 1200,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Svitrigaila_(97606208).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Svitrigaila_%2897606208%29.jpg",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Svitrigaila_%2897606208%29.jpg/960px-Svitrigaila_%2897606208%29.jpg",
+        "displayUrl": "/static/media/museum/svitrigaila.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 30
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Švitrigaila.md",
+            "title": "Švitrigaila",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Švitrigaila. Vėlesnis istorinis atvaizdas, 1840 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Švitrigaila",
+          "url": "https://lt.wikipedia.org/wiki/%C5%A0vitrigaila",
+          "revision": 7531634
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "zygimantas-kestutaitis",
+      "name": "Žygimantas Kęstutaitis",
+      "notePath": "objektai/asmenys/Žygimantas Kęstutaitis.md",
+      "years": "1432–1440",
+      "reigns": [
+        {
+          "start": 1432,
+          "end": 1440
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Zygimantas-Kestutaitis",
+      "media": {
+        "mediaId": "m-5440d1a7ab89f2b8ffb84014",
+        "title": "Žygimantas Kęstutaitis. Vėlesnis istorinis atvaizdas, XIX a.",
+        "caption": "Žygimantas Kęstutaitis. Vėlesnis istorinis atvaizdas, XIX a.",
+        "originalTitle": "File:Žygimont Kiejstutavič. Жыгімонт Кейстутавіч (XIX).jpg",
+        "creator": "Autorius nežinomas",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "XIX a.",
+        "width": 953,
+        "height": 1200,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:%C5%BDygimont_Kiejstutavi%C4%8D._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%9A%D0%B5%D0%B9%D1%81%D1%82%D1%83%D1%82%D0%B0%D0%B2%D1%96%D1%87_(XIX).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/%C5%BDygimont_Kiejstutavi%C4%8D._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%9A%D0%B5%D0%B9%D1%81%D1%82%D1%83%D1%82%D0%B0%D0%B2%D1%96%D1%87_%28XIX%29.jpg",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/%C5%BDygimont_Kiejstutavi%C4%8D._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%9A%D0%B5%D0%B9%D1%81%D1%82%D1%83%D1%82%D0%B0%D0%B2%D1%96%D1%87_%28XIX%29.jpg/960px-%C5%BDygimont_Kiejstutavi%C4%8D._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%9A%D0%B5%D0%B9%D1%81%D1%82%D1%83%D1%82%D0%B0%D0%B2%D1%96%D1%87_%28XIX%29.jpg",
+        "displayUrl": "/static/media/museum/zygimantas-kestutaitis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Žygimantas Kęstutaitis.md",
+            "title": "Žygimantas Kęstutaitis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Žygimantas Kęstutaitis. Vėlesnis istorinis atvaizdas, XIX a.",
+      "sources": [
+        {
+          "title": "Vikipedija · Žygimantas Kęstutaitis",
+          "url": "https://lt.wikipedia.org/wiki/%C5%BDygimantas_K%C4%99stutaitis",
+          "revision": 7335935
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "kazimieras-jogailaitis",
+      "name": "Kazimieras Jogailaitis",
+      "notePath": "objektai/asmenys/Kazimieras Jogailaitis.md",
+      "years": "1440–1492",
+      "reigns": [
+        {
+          "start": 1440,
+          "end": 1492
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Lenkijos karalius nuo 1447 m.",
+      "objectSlug": "objektai/asmenys/Kazimieras-Jogailaitis",
+      "media": {
+        "mediaId": "m-462de216146b1de99f679caa",
+        "title": "Kazimieras Jogailaitis. Vėlesnis istorinis atvaizdas, XIX a.",
+        "caption": "Kazimieras Jogailaitis. Vėlesnis istorinis atvaizdas, XIX a.",
+        "originalTitle": "File:Kazimier Jagajłavič. Казімер Ягайлавіч (XIX).jpg",
+        "creator": "Autorius nežinomas",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "XIX a.",
+        "width": 685,
+        "height": 800,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Kazimier_Jagaj%C5%82avi%C4%8D._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87_(XIX).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kazimier_Jagaj%C5%82avi%C4%8D._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87_%28XIX%29.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kazimier_Jagaj%C5%82avi%C4%8D._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87_%28XIX%29.jpg",
+        "displayUrl": "/static/media/museum/kazimieras-jogailaitis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Kazimieras Jogailaitis.md",
+            "title": "Kazimieras Jogailaitis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Kazimieras Jogailaitis. Vėlesnis istorinis atvaizdas, XIX a.",
+      "sources": [
+        {
+          "title": "Vikipedija · Kazimieras Jogailaitis",
+          "url": "https://lt.wikipedia.org/wiki/Kazimieras_Jogailaitis",
+          "revision": 7858713
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "aleksandras-jogailaitis",
+      "name": "Aleksandras Jogailaitis",
+      "notePath": "objektai/asmenys/Aleksandras Jogailaitis.md",
+      "years": "1492–1506",
+      "reigns": [
+        {
+          "start": 1492,
+          "end": 1506
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "Lenkijos karalius nuo 1501 m.",
+      "objectSlug": "objektai/asmenys/Aleksandras-Jogailaitis",
+      "media": {
+        "mediaId": "m-72cf183190de326470ad04b5",
+        "title": "Aleksandras Jogailaitis. Istorinis atvaizdas, apie 1504 m.",
+        "caption": "Aleksandras Jogailaitis. Istorinis atvaizdas, apie 1504 m.",
+        "originalTitle": "File:Goraj Miracle of Saint Simeon Stylites (detail).jpg",
+        "creator": "Jan Goraj",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "apie 1504 m.",
+        "width": 506,
+        "height": 635,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Goraj_Miracle_of_Saint_Simeon_Stylites_(detail).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Goraj_Miracle_of_Saint_Simeon_Stylites_%28detail%29.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Goraj_Miracle_of_Saint_Simeon_Stylites_%28detail%29.jpg",
+        "displayUrl": "/static/media/museum/aleksandras-jogailaitis.webp",
+        "focalPoint": {
+          "x": 48,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Aleksandras Jogailaitis.md",
+            "title": "Aleksandras Jogailaitis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Aleksandras Jogailaitis. Istorinis atvaizdas, apie 1504 m.",
+      "sources": [
+        {
+          "title": "Wikipedia (en) · Alexander Jagiellon",
+          "url": "https://en.wikipedia.org/wiki/Alexander_Jagiellon",
+          "revision": null
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "zygimantas-senasis",
+      "name": "Žygimantas Senasis",
+      "notePath": "objektai/asmenys/Žygimantas Senasis.md",
+      "years": "1506–1548",
+      "reigns": [
+        {
+          "start": 1506,
+          "end": 1548
+        }
+      ],
+      "eras": [
+        "ldk"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Zygimantas-Senasis",
+      "media": {
+        "mediaId": "m-be0e46b72c2276532a937463",
+        "title": "Žygimantas Senasis. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+        "caption": "Žygimantas Senasis. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+        "originalTitle": "File:Sigismund I of Poland.PNG",
+        "creator": "Marcello Bacciarelli",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1768–1771 m.",
+        "width": 348,
+        "height": 467,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Sigismund_I_of_Poland.PNG",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG",
+        "displayUrl": "/static/media/museum/zygimantas-senasis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Žygimantas Senasis.md",
+            "title": "Žygimantas Senasis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Žygimantas Senasis. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Žygimantas Senasis",
+          "url": "https://lt.wikipedia.org/wiki/%C5%BDygimantas_Senasis",
+          "revision": 7490180
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "zygimantas-augustas",
+      "name": "Žygimantas Augustas",
+      "notePath": "objektai/asmenys/Žygimantas Augustas.md",
+      "years": "1529 / 1544–1572",
+      "reigns": [
+        {
+          "start": 1529,
+          "end": 1572
+        }
+      ],
+      "eras": [
+        "ldk",
+        "atr"
+      ],
+      "notice": "Lietuvos didžiuoju kunigaikščiu pakeltas 1529 m.; savarankiškai LDK valdė nuo 1544 m. ATR valdovas nuo 1569 m.",
+      "objectSlug": "objektai/asmenys/Zygimantas-Augustas",
+      "media": {
+        "mediaId": "m-b8b013b41c5737215e46db57",
+        "title": "Žygimantas Augustas. Istorinis atvaizdas, apie 1553 m.",
+        "caption": "Žygimantas Augustas. Istorinis atvaizdas, apie 1553 m.",
+        "originalTitle": "File:Cranach the Younger Sigismund II Augustus.jpg",
+        "creator": "Lucas Cranach the Younger",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "apie 1553 m.",
+        "width": 890,
+        "height": 1058,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Cranach_the_Younger_Sigismund_II_Augustus.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cranach_the_Younger_Sigismund_II_Augustus.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Cranach_the_Younger_Sigismund_II_Augustus.jpg",
+        "displayUrl": "/static/media/museum/zygimantas-augustas.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Žygimantas Augustas.md",
+            "title": "Žygimantas Augustas",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Žygimantas Augustas. Istorinis atvaizdas, apie 1553 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Žygimantas Augustas",
+          "url": "https://lt.wikipedia.org/wiki/%C5%BDygimantas_Augustas",
+          "revision": 7926004
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "henrikas-valua",
+      "name": "Henrikas Valua",
+      "notePath": "objektai/asmenys/Henrikas Valua.md",
+      "years": "1573–1574 / 1575",
+      "reigns": [
+        {
+          "start": 1573,
+          "end": 1575
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "1574 m. išvyko į Prancūziją; sostas paskelbtas laisvu 1575 m.",
+      "objectSlug": "objektai/asmenys/Henrikas-Valua",
+      "media": {
+        "mediaId": "m-11a84d7c4d0834814e145073",
+        "title": "Henrikas Valua. Istorinis atvaizdas, apie 1582–1586 m.",
+        "caption": "Henrikas Valua. Istorinis atvaizdas, apie 1582–1586 m.",
+        "originalTitle": "File:Henri3France.jpg",
+        "creator": "François Quesnel",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "apie 1582–1586 m.",
+        "width": 764,
+        "height": 1024,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Henri3France.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Henri3France.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Henri3France.jpg",
+        "displayUrl": "/static/media/museum/henrikas-valua.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Henrikas Valua.md",
+            "title": "Henrikas Valua",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Henrikas Valua. Istorinis atvaizdas, apie 1582–1586 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Henrikas Valua",
+          "url": "https://lt.wikipedia.org/wiki/Henrikas_Valua",
+          "revision": 7326542
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "ona-jogailaite",
+      "name": "Ona Jogailaitė",
+      "notePath": "objektai/asmenys/Ona Jogailaitė.md",
+      "years": "1575 / 1576–1586",
+      "reigns": [
+        {
+          "start": 1575,
+          "end": 1586
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "Išrinkta kartu su būsimu sutuoktiniu Steponu Batoru; karūnuota 1576 m. Karalienės titulą išlaikė iki 1596 m.",
+      "objectSlug": "objektai/asmenys/Ona-Jogailaite",
+      "media": {
+        "mediaId": "m-16d2d5583eb5f6a63fdab87c",
+        "title": "Ona Jogailaitė. Istorinis atvaizdas, po 1586 m.",
+        "caption": "Ona Jogailaitė. Istorinis atvaizdas, po 1586 m.",
+        "originalTitle": "File:Kober Anna Jagiellon as a widow.png",
+        "creator": "Martin Kober",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "po 1586 m.",
+        "width": 575,
+        "height": 703,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Kober_Anna_Jagiellon_as_a_widow.png",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kober_Anna_Jagiellon_as_a_widow.png",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kober_Anna_Jagiellon_as_a_widow.png",
+        "displayUrl": "/static/media/museum/ona-jogailaite.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Ona Jogailaitė.md",
+            "title": "Ona Jogailaitė",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Ona Jogailaitė. Istorinis atvaizdas, po 1586 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Ona Jogailaitė",
+          "url": "https://lt.wikipedia.org/wiki/Ona_Jogailait%C4%97",
+          "revision": 7722086
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "steponas-batoras",
+      "name": "Steponas Batoras",
+      "notePath": "objektai/asmenys/Steponas Batoras.md",
+      "years": "1576–1586",
+      "reigns": [
+        {
+          "start": 1576,
+          "end": 1586
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Steponas-Batoras",
+      "media": {
+        "mediaId": "m-9a0d8e075733591ebd859a22",
+        "title": "Steponas Batoras. Vėlesnis istorinis atvaizdas, 1768–1773 m.",
+        "caption": "Steponas Batoras. Vėlesnis istorinis atvaizdas, 1768–1773 m.",
+        "originalTitle": "File:Stefan Batory 11.PNG",
+        "creator": "Marcello Bacciarelli",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1768–1773 m.",
+        "width": 340,
+        "height": 494,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Stefan_Batory_11.PNG",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Stefan_Batory_11.PNG",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Stefan_Batory_11.PNG",
+        "displayUrl": "/static/media/museum/steponas-batoras.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Steponas Batoras.md",
+            "title": "Steponas Batoras",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Steponas Batoras. Vėlesnis istorinis atvaizdas, 1768–1773 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Steponas Batoras",
+          "url": "https://lt.wikipedia.org/wiki/Steponas_Batoras",
+          "revision": 7810560
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "zigmantas-vaza",
+      "name": "Zigmantas Vaza",
+      "notePath": "objektai/asmenys/Zigmantas Vaza.md",
+      "years": "1587 / 1588–1632",
+      "reigns": [
+        {
+          "start": 1587,
+          "end": 1632
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "Lenkijoje išrinktas 1587 m.; LDK pripažintas 1588 m.",
+      "objectSlug": "objektai/asmenys/Zigmantas-Vaza",
+      "media": {
+        "mediaId": "m-c5d12be91ba985d20f8f2c6f",
+        "title": "Zigmantas Vaza. Istorinis atvaizdas, apie 1624 m.",
+        "caption": "Zigmantas Vaza. Istorinis atvaizdas, apie 1624 m.",
+        "originalTitle": "File:Soutman Sigismund III Vasa in coronation robes.jpg",
+        "creator": "Pieter Soutman",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "apie 1624 m.",
+        "width": 706,
+        "height": 1200,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Soutman_Sigismund_III_Vasa_in_coronation_robes.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Soutman_Sigismund_III_Vasa_in_coronation_robes.jpg",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Soutman_Sigismund_III_Vasa_in_coronation_robes.jpg/960px-Soutman_Sigismund_III_Vasa_in_coronation_robes.jpg",
+        "displayUrl": "/static/media/museum/zigmantas-vaza.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Zigmantas Vaza.md",
+            "title": "Zigmantas Vaza",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Zigmantas Vaza. Istorinis atvaizdas, apie 1624 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Zigmantas Vaza",
+          "url": "https://lt.wikipedia.org/wiki/Zigmantas_Vaza",
+          "revision": 7924579
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "vladislovas-vaza",
+      "name": "Vladislovas Vaza",
+      "notePath": "objektai/asmenys/Vladislovas Vaza.md",
+      "years": "1632–1648",
+      "reigns": [
+        {
+          "start": 1632,
+          "end": 1648
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Vladislovas-Vaza",
+      "media": {
+        "mediaId": "m-f74ba3c91576e4f4fe75dc28",
+        "title": "Vladislovas Vaza. Istorinis atvaizdas, XVII a. 3 dešimtmetis",
+        "caption": "Vladislovas Vaza. Istorinis atvaizdas, XVII a. 3 dešimtmetis",
+        "originalTitle": "File:Rubens Władysław Vasa.jpg",
+        "creator": "Peter Paul Rubens or workshop",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "XVII a. 3 dešimtmetis",
+        "width": 564,
+        "height": 705,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Rubens_W%C5%82adys%C5%82aw_Vasa.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Rubens_W%C5%82adys%C5%82aw_Vasa.jpg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Rubens_W%C5%82adys%C5%82aw_Vasa.jpg",
+        "displayUrl": "/static/media/museum/vladislovas-vaza.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Vladislovas Vaza.md",
+            "title": "Vladislovas Vaza",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Vladislovas Vaza. Istorinis atvaizdas, XVII a. 3 dešimtmetis",
+      "sources": [
+        {
+          "title": "Vikipedija · Vladislovas Vaza",
+          "url": "https://lt.wikipedia.org/wiki/Vladislovas_Vaza",
+          "revision": 7859987
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "jonas-kazimieras-vaza",
+      "name": "Jonas Kazimieras Vaza",
+      "notePath": "objektai/asmenys/Jonas Kazimieras Vaza.md",
+      "years": "1648–1668",
+      "reigns": [
+        {
+          "start": 1648,
+          "end": 1668
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Jonas-Kazimieras-Vaza",
+      "media": {
+        "mediaId": "m-14915b866e10273c87852928",
+        "title": "Jonas Kazimieras Vaza. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+        "caption": "Jonas Kazimieras Vaza. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+        "originalTitle": "File:Bacciarelli - Jan Kazimierz.jpeg",
+        "creator": "Marcello Bacciarelli",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1768–1771 m.",
+        "width": 384,
+        "height": 515,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Bacciarelli_-_Jan_Kazimierz.jpeg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bacciarelli_-_Jan_Kazimierz.jpeg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bacciarelli_-_Jan_Kazimierz.jpeg",
+        "displayUrl": "/static/media/museum/jonas-kazimieras-vaza.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Jonas Kazimieras Vaza.md",
+            "title": "Jonas Kazimieras Vaza",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Jonas Kazimieras Vaza. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Jonas Kazimieras Vaza",
+          "url": "https://lt.wikipedia.org/wiki/Jonas_Kazimieras_Vaza",
+          "revision": 7293736
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "mykolas-kaributas-visnioveckis",
+      "name": "Mykolas Kaributas Višnioveckis",
+      "notePath": "objektai/asmenys/Mykolas Kaributas Višniaveckis.md",
+      "years": "1669–1673",
+      "reigns": [
+        {
+          "start": 1669,
+          "end": 1673
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Mykolas-Kaributas-Visniaveckis",
+      "media": {
+        "mediaId": "m-291df95ba98f1b6627d95086",
+        "title": "Mykolas Kaributas Višnioveckis. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+        "caption": "Mykolas Kaributas Višnioveckis. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+        "originalTitle": "File:Bacciarelli - Michał.jpeg",
+        "creator": "Marcello Bacciarelli",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1768–1771 m.",
+        "width": 379,
+        "height": 517,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Bacciarelli_-_Micha%C5%82.jpeg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bacciarelli_-_Micha%C5%82.jpeg",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bacciarelli_-_Micha%C5%82.jpeg",
+        "displayUrl": "/static/media/museum/mykolas-kaributas-visnioveckis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Mykolas Kaributas Višniaveckis.md",
+            "title": "Mykolas Kaributas Višnioveckis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Mykolas Kaributas Višnioveckis. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Mykolas Kaributas Višnioveckis",
+          "url": "https://lt.wikipedia.org/wiki/Mykolas_Kaributas_Vi%C5%A1nioveckis",
+          "revision": 7490181
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "jonas-sobieskis",
+      "name": "Jonas Sobieskis",
+      "notePath": "objektai/asmenys/J. Sobieskis.md",
+      "years": "1674–1696",
+      "reigns": [
+        {
+          "start": 1674,
+          "end": 1696
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/J.-Sobieskis",
+      "media": {
+        "mediaId": "m-1fb9a9635d2ce41266751a43",
+        "title": "Jonas Sobieskis. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+        "caption": "Jonas Sobieskis. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+        "originalTitle": "File:John III Sobieski of Poland.PNG",
+        "creator": "Marcello Bacciarelli",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1768–1771 m.",
+        "width": 349,
+        "height": 465,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:John_III_Sobieski_of_Poland.PNG",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/John_III_Sobieski_of_Poland.PNG",
+        "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/John_III_Sobieski_of_Poland.PNG",
+        "displayUrl": "/static/media/museum/jonas-sobieskis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/J. Sobieskis.md",
+            "title": "Jonas Sobieskis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Jonas Sobieskis. Vėlesnis istorinis atvaizdas, 1768–1771 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Jonas Sobieskis",
+          "url": "https://lt.wikipedia.org/wiki/Jonas_Sobieskis",
+          "revision": 7842403
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "augustas-ii",
+      "name": "Augustas II",
+      "notePath": "objektai/asmenys/Augustas II.md",
+      "years": "1697–1706; 1709–1733",
+      "reigns": [
+        {
+          "start": 1697,
+          "end": 1706
+        },
+        {
+          "start": 1709,
+          "end": 1733
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "Nuo 1704 m. sostą ginčijo Stanislovas Leščinskis; Augustas atsisakė jo 1706 m. ir grįžo 1709 m.",
+      "objectSlug": "objektai/asmenys/Augustas-II",
+      "media": {
+        "mediaId": "m-48a8a98c583f87c0927128a4",
+        "title": "Augustas II. Istorinis atvaizdas, XVIII a.",
+        "caption": "Augustas II. Istorinis atvaizdas, XVIII a.",
+        "originalTitle": "File:Louis de Silvestre-August II.jpg",
+        "creator": "Louis de Silvestre",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "XVIII a.",
+        "width": 899,
+        "height": 1200,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Louis_de_Silvestre-August_II.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Louis_de_Silvestre-August_II.jpg",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Louis_de_Silvestre-August_II.jpg/960px-Louis_de_Silvestre-August_II.jpg",
+        "displayUrl": "/static/media/museum/augustas-ii.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Augustas II.md",
+            "title": "Augustas II",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Augustas II. Istorinis atvaizdas, XVIII a.",
+      "sources": [
+        {
+          "title": "Vikipedija · Augustas II",
+          "url": "https://lt.wikipedia.org/wiki/Augustas_II",
+          "revision": 7575122
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "stanislovas-lescinskis",
+      "name": "Stanislovas Leščinskis",
+      "notePath": "objektai/asmenys/Stanislovas Leščinskis.md",
+      "years": "1704–1709; 1733–1736",
+      "reigns": [
+        {
+          "start": 1704,
+          "end": 1709
+        },
+        {
+          "start": 1733,
+          "end": 1736
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "Abu valdymus lydėjo konkuruojantys rinkimai ir užsienio valstybių įsikišimas.",
+      "objectSlug": "objektai/asmenys/Stanislovas-Lescinskis",
+      "media": {
+        "mediaId": "m-340d1634175b812b3b3b97c7",
+        "title": "Stanislovas Leščinskis. Istorinis atvaizdas, 1727–1728 m.",
+        "caption": "Stanislovas Leščinskis. Istorinis atvaizdas, 1727–1728 m.",
+        "originalTitle": "File:Portrait of Stanisław I Leszczyński.jpg",
+        "creator": "Jean-Baptiste van Loo",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1727–1728 m.",
+        "width": 883,
+        "height": 1200,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Stanis%C5%82aw_I_Leszczy%C5%84ski.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Portrait_of_Stanis%C5%82aw_I_Leszczy%C5%84ski.jpg",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Portrait_of_Stanis%C5%82aw_I_Leszczy%C5%84ski.jpg/960px-Portrait_of_Stanis%C5%82aw_I_Leszczy%C5%84ski.jpg",
+        "displayUrl": "/static/media/museum/stanislovas-lescinskis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Stanislovas Leščinskis.md",
+            "title": "Stanislovas Leščinskis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Stanislovas Leščinskis. Istorinis atvaizdas, 1727–1728 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Stanislovas Leščinskis",
+          "url": "https://lt.wikipedia.org/wiki/Stanislovas_Le%C5%A1%C4%8Dinskis",
+          "revision": 7330739
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "augustas-iii",
+      "name": "Augustas III",
+      "notePath": "objektai/asmenys/Augustas III.md",
+      "years": "1733–1763",
+      "reigns": [
+        {
+          "start": 1733,
+          "end": 1763
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "1733–1736 m. sostą ginčijo Stanislovas Leščinskis.",
+      "objectSlug": "objektai/asmenys/Augustas-III",
+      "media": {
+        "mediaId": "m-6ed6948779f138498dc72af5",
+        "title": "Augustas III. Istorinis atvaizdas, po 1733 m.",
+        "caption": "Augustas III. Istorinis atvaizdas, po 1733 m.",
+        "originalTitle": "File:Louis de Silvestre - Portrait of Augustus III of Poland (after 1733) - Google Art Project.jpg",
+        "creator": "Louis de Silvestre",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "po 1733 m.",
+        "width": 935,
+        "height": 1200,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Louis_de_Silvestre_-_Portrait_of_Augustus_III_of_Poland_(after_1733)_-_Google_Art_Project.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Louis_de_Silvestre_-_Portrait_of_Augustus_III_of_Poland_%28after_1733%29_-_Google_Art_Project.jpg",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Louis_de_Silvestre_-_Portrait_of_Augustus_III_of_Poland_%28after_1733%29_-_Google_Art_Project.jpg/960px-Louis_de_Silvestre_-_Portrait_of_Augustus_III_of_Poland_%28after_1733%29_-_Google_Art_Project.jpg",
+        "displayUrl": "/static/media/museum/augustas-iii.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Augustas III.md",
+            "title": "Augustas III",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Augustas III. Istorinis atvaizdas, po 1733 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Augustas III",
+          "url": "https://lt.wikipedia.org/wiki/Augustas_III",
+          "revision": 7490184
+        }
+      ],
+      "contextualImage": false
+    },
+    {
+      "id": "stanislovas-augustas-poniatovskis",
+      "name": "Stanislovas Augustas Poniatovskis",
+      "notePath": "objektai/asmenys/Stanislovas Augustas Poniatovskis.md",
+      "years": "1764–1795",
+      "reigns": [
+        {
+          "start": 1764,
+          "end": 1795
+        }
+      ],
+      "eras": [
+        "atr"
+      ],
+      "notice": "",
+      "objectSlug": "objektai/asmenys/Stanislovas-Augustas-Poniatovskis",
+      "media": {
+        "mediaId": "m-bf6d05f938022d4fdf0ef48a",
+        "title": "Stanislovas Augustas Poniatovskis. Istorinis atvaizdas, 1764 m.",
+        "caption": "Stanislovas Augustas Poniatovskis. Istorinis atvaizdas, 1764 m.",
+        "originalTitle": "File:Stanisław August Poniatowski coronation robes.jpg",
+        "creator": "Marcello Bacciarelli",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+        "dateDisplay": "1764 m.",
+        "width": 663,
+        "height": 1200,
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Stanis%C5%82aw_August_Poniatowski_coronation_robes.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Stanis%C5%82aw_August_Poniatowski_coronation_robes.jpg",
+        "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Stanis%C5%82aw_August_Poniatowski_coronation_robes.jpg/960px-Stanis%C5%82aw_August_Poniatowski_coronation_robes.jpg",
+        "displayUrl": "/static/media/museum/stanislovas-augustas-poniatovskis.webp",
+        "focalPoint": {
+          "x": 50,
+          "y": 25
+        },
+        "reviewStatus": "accepted",
+        "directness": "direct",
+        "relationType": "portrait_of",
+        "isPrimary": 1,
+        "reviewedAt": "2026-09-20",
+        "visualReviewVersion": "museum-editorial-20260920",
+        "relatedObjects": [
+          {
+            "notePath": "objektai/asmenys/Stanislovas Augustas Poniatovskis.md",
+            "title": "Stanislovas Augustas Poniatovskis",
+            "itemType": "asmuo",
+            "relationType": "portrait_of",
+            "directness": "direct"
+          }
+        ]
+      },
+      "imageNote": "Stanislovas Augustas Poniatovskis. Istorinis atvaizdas, 1764 m.",
+      "sources": [
+        {
+          "title": "Vikipedija · Stanislovas Augustas Poniatovskis",
+          "url": "https://lt.wikipedia.org/wiki/Stanislovas_Augustas_Poniatovskis",
+          "revision": 7752692
+        }
+      ],
+      "contextualImage": false
+    }
+  ]
+}

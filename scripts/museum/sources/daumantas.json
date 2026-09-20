@@ -1,0 +1,65 @@
+{
+  "id": "daumantas",
+  "name": "Daumantas",
+  "notePath": "objektai/asmenys/Daumantas.md",
+  "years": "apie 1282–1285",
+  "reigns": [
+    {
+      "start": 1282,
+      "end": 1285
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "Tapatybė ir valdymo pradžia neaiškios. Negalima automatiškai tapatinti su Pskovo kunigaikščiu Daumantu.",
+  "lt": {
+    "pageid": 23003,
+    "ns": 0,
+    "title": "Daumantas",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Da%C5%ADmont._%D0%94%D0%B0%D1%9E%D0%BC%D0%BE%D0%BD%D1%82_%28M._Barvicki%2C_1908%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 481,
+      "height": 800
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Da%C5%ADmont._%D0%94%D0%B0%D1%9E%D0%BC%D0%BE%D0%BD%D1%82_%28M._Barvicki%2C_1908%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 481,
+      "height": 800
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:54:59Z",
+    "lastrevid": 7831080,
+    "length": 8680,
+    "fullurl": "https://lt.wikipedia.org/wiki/Daumantas",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Daumantas&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Daumantas",
+    "revisions": [
+      {
+        "revid": 7831080,
+        "parentid": 7790365,
+        "timestamp": "2026-05-06T18:42:42Z"
+      }
+    ]
+  },
+  "en": {
+    "pageid": 7478647,
+    "ns": 0,
+    "title": "Daumantas of Lithuania",
+    "extract": "Daumantas or Dovmont (died 1285) was Grand Duke of Lithuania from 1282 to 1285. Daumantas is mentioned in chronicles only once and, in absence of any other evidence, is presumed to be a short-ruled Grand Duke who inherited the title after Traidenis' death in 1281 or 1282. It is assumed that Daumantas was succeeded by Grand Duke Butigeidis. The relationships between Traidenis, Daumantas, and Butegeidis are unknown.",
+    "contentmodel": "wikitext",
+    "pagelanguage": "en",
+    "pagelanguagehtmlcode": "en",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-20T11:19:22Z",
+    "lastrevid": 1328717218,
+    "length": 5400,
+    "fullurl": "https://en.wikipedia.org/wiki/Daumantas_of_Lithuania",
+    "editurl": "https://en.wikipedia.org/w/index.php?title=Daumantas_of_Lithuania&action=edit",
+    "canonicalurl": "https://en.wikipedia.org/wiki/Daumantas_of_Lithuania"
+  }
+}

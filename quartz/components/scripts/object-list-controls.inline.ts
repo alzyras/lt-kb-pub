@@ -300,8 +300,6 @@ function renderVirtualPage(control: HTMLElement, virtual: Array<[string, Content
   const last = Math.min(start + PAGE_SIZE, filtered.length)
   if (summary)
     summary.textContent = `${first}–${last} iš ${filtered.length.toLocaleString("lt-LT")}${filtered.length < virtual.length ? ` · kolekcijoje ${virtual.length.toLocaleString("lt-LT")}` : ""}`
-  const empty = rootFor(control).querySelector<HTMLElement>("[data-object-list-empty]")
-  if (empty) empty.hidden = filtered.length > 0
   const periodSummary = rootFor(control).querySelector<HTMLElement>("[data-period-summary]")
   if (periodSummary) periodSummary.textContent = `Atitinka ${filtered.length} iš ${virtual.length}`
   const previous = control.querySelector<HTMLAnchorElement>("[data-object-list-previous]")

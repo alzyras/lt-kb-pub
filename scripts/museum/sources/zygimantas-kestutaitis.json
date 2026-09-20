@@ -1,0 +1,50 @@
+{
+  "id": "zygimantas-kestutaitis",
+  "name": "Žygimantas Kęstutaitis",
+  "notePath": "objektai/asmenys/Žygimantas Kęstutaitis.md",
+  "years": "1432–1440",
+  "reigns": [
+    {
+      "start": 1432,
+      "end": 1440
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "",
+  "lt": {
+    "pageid": 47960,
+    "ns": 0,
+    "title": "Žygimantas Kęstutaitis",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/%C5%BDygimont_Kiejstutavi%C4%8D._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%9A%D0%B5%D0%B9%D1%81%D1%82%D1%83%D1%82%D0%B0%D0%B2%D1%96%D1%87_%28XIX%29.jpg/960px-%C5%BDygimont_Kiejstutavi%C4%8D._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%9A%D0%B5%D0%B9%D1%81%D1%82%D1%83%D1%82%D0%B0%D0%B2%D1%96%D1%87_%28XIX%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "width": 900,
+      "height": 1134
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/38/%C5%BDygimont_Kiejstutavi%C4%8D._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%9A%D0%B5%D0%B9%D1%81%D1%82%D1%83%D1%82%D0%B0%D0%B2%D1%96%D1%87_%28XIX%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 1137,
+      "height": 1432
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:00Z",
+    "lastrevid": 7335935,
+    "length": 8048,
+    "fullurl": "https://lt.wikipedia.org/wiki/%C5%BDygimantas_K%C4%99stutaitis",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=%C5%BDygimantas_K%C4%99stutaitis&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/%C5%BDygimantas_K%C4%99stutaitis",
+    "revisions": [
+      {
+        "revid": 7335935,
+        "parentid": 7116906,
+        "timestamp": "2024-07-22T17:00:31Z"
+      }
+    ]
+  },
+  "en": {}
+}

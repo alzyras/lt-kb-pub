@@ -1,0 +1,75 @@
+{
+  "id": "butvydas",
+  "name": "Butvydas",
+  "notePath": "objektai/asmenys/Butvydas.md",
+  "years": "apie 1291–1295",
+  "reigns": [
+    {
+      "start": 1291,
+      "end": 1295
+    }
+  ],
+  "eras": [
+    "ldk"
+  ],
+  "notice": "Šaltiniuose minimas ir Pukuvero vardu; genealogijoje lieka neaiškumų.",
+  "lt": {
+    "pageid": 19880,
+    "ns": 0,
+    "title": "Butvydas",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Budzikid._%D0%91%D1%83%D0%B4%D0%B7%D1%96%D0%BA%D1%96%D0%B4_%28M._Barvicki%2C_1908%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 480,
+      "height": 800
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Budzikid._%D0%91%D1%83%D0%B4%D0%B7%D1%96%D0%BA%D1%96%D0%B4_%28M._Barvicki%2C_1908%29.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 480,
+      "height": 800
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T16:59:54Z",
+    "lastrevid": 7754523,
+    "length": 10136,
+    "fullurl": "https://lt.wikipedia.org/wiki/Butvydas",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Butvydas&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Butvydas",
+    "revisions": [
+      {
+        "revid": 7754523,
+        "parentid": 7753789,
+        "timestamp": "2026-02-15T18:31:52Z"
+      }
+    ]
+  },
+  "en": {
+    "pageid": 1731406,
+    "ns": 0,
+    "title": "Butvydas",
+    "extract": "Butvydas or Pukuveras (died c. 1295) was Grand Duke of Lithuania from c. 1290 until his death in c. 1295. Butvydas is believed to have been the father of Grand Duke Gediminas, under whom Lithuania emerged as a major Northern and Eastern European power.",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/%D0%9F%D1%83%D0%BA%D1%83%D0%B2%D0%B5%D1%80_%D0%91%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 476,
+      "height": 800
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/%D0%9F%D1%83%D0%BA%D1%83%D0%B2%D0%B5%D1%80_%D0%91%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 476,
+      "height": 800
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "en",
+    "pagelanguagehtmlcode": "en",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T02:30:25Z",
+    "lastrevid": 1368135256,
+    "length": 6548,
+    "fullurl": "https://en.wikipedia.org/wiki/Butvydas",
+    "editurl": "https://en.wikipedia.org/w/index.php?title=Butvydas&action=edit",
+    "canonicalurl": "https://en.wikipedia.org/wiki/Butvydas"
+  }
+}

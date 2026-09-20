@@ -1,0 +1,54 @@
+{
+  "id": "augustas-ii",
+  "name": "Augustas II",
+  "notePath": "objektai/asmenys/Augustas II.md",
+  "years": "1697–1706; 1709–1733",
+  "reigns": [
+    {
+      "start": 1697,
+      "end": 1706
+    },
+    {
+      "start": 1709,
+      "end": 1733
+    }
+  ],
+  "eras": [
+    "atr"
+  ],
+  "notice": "Nuo 1704 m. sostą ginčijo Stanislovas Leščinskis; Augustas atsisakė jo 1706 m. ir grįžo 1709 m.",
+  "lt": {
+    "pageid": 69199,
+    "ns": 0,
+    "title": "Augustas II",
+    "extract": "",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Louis_de_Silvestre-August_II.jpg/960px-Louis_de_Silvestre-August_II.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "width": 900,
+      "height": 1202
+    },
+    "original": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Louis_de_Silvestre-August_II.jpg?utm_source=lt.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 1498,
+      "height": 2000
+    },
+    "contentmodel": "wikitext",
+    "pagelanguage": "lt",
+    "pagelanguagehtmlcode": "lt",
+    "pagelanguagedir": "ltr",
+    "touched": "2026-09-12T17:55:00Z",
+    "lastrevid": 7575122,
+    "length": 22454,
+    "fullurl": "https://lt.wikipedia.org/wiki/Augustas_II",
+    "editurl": "https://lt.wikipedia.org/w/index.php?title=Augustas_II&action=edit",
+    "canonicalurl": "https://lt.wikipedia.org/wiki/Augustas_II",
+    "revisions": [
+      {
+        "revid": 7575122,
+        "parentid": 7574859,
+        "timestamp": "2025-06-07T10:25:20Z"
+      }
+    ]
+  },
+  "en": {}
+}
