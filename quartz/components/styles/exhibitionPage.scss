@@ -1005,6 +1005,10 @@
 }
 
 @media (max-width: 800px) {
+  // Keep the edited A title inside its card, including padding.
+  .exhibition-page[data-exhibition-id="valancius-laiskai-imperijos-seselyje"] .exhibition-hero-content {
+    box-sizing: border-box;
+  }
   // The B booklet is a document to see, not a background hidden behind its title.
   .exhibition-page[data-exhibition-id="valancius-nuo-sakyklos-iki-skaitytojo"] {
     .exhibition-hero {

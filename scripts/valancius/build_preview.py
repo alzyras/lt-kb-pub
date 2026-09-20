@@ -109,10 +109,10 @@ def main():
     catalog_path = ROOT / "quartz/static/mediaCatalogSource.json"
     catalog_path.write_text(json.dumps(base,ensure_ascii=False,indent=2,sort_keys=True)+"\n")
     links = [
-        {"title":"Valančius ir Rusijos imperija · straipsnis","href":"/straipsniai/motiejus-valancius-ir-rusijos-imperija/"},
-        {"title":"Laiškai imperijos šešėlyje · paroda","href":"/parodos/valancius-laiskai-imperijos-seselyje/"},
-        {"title":"Blaivybė, mokykla ir knyga · straipsnis","href":"/straipsniai/kaip-valancius-keite-kasdienybe/"},
-        {"title":"Nuo sakyklos iki skaitytojo · paroda","href":"/parodos/valancius-nuo-sakyklos-iki-skaitytojo/"}]
+        {"title":"Valančius ir caro valdžia · straipsnis","href":"/straipsniai/motiejus-valancius-ir-rusijos-imperija/"},
+        {"title":"Valančiaus laiškai ir draudžiamos knygos · paroda","href":"/parodos/valancius-laiskai-imperijos-seselyje/"},
+        {"title":"Kodėl kaimas gėrė ir kaip Valančius ragino negerti · straipsnis","href":"/straipsniai/kaip-valancius-keite-kasdienybe/"},
+        {"title":"Valančiaus blaivybės brolijos · paroda","href":"/parodos/valancius-nuo-sakyklos-iki-skaitytojo/"}]
     ids=[]
     for cycle in curation.values():
         identity=cycle["slug"]

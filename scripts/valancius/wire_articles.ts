@@ -48,10 +48,10 @@ const configurations = [
     file: "motiejus-valancius-ir-rusijos-imperija",
     hero: "portretas1854",
     figures: [
-      ["portretas1854", "## Vienas parašas"],
-      ["taurage", "## Veikti sistemoje"],
+      ["portretas1854", "## Laiškas, kurio reikalavo"],
+      ["taurage", "## Dėl ko reikėjo"],
       ["tomasevicius", "## Po sukilimo"],
-      ["dienorastis", "## Ką ši istorija"],
+      ["dienorastis", "## Kada Valančius"],
     ],
   },
   {
