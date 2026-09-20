@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Minskas'
+pavadinimas: Minskas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -10,13 +10,13 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1432 m.'
-  - '1506 m.'
-  - '1529 m.'
-  - '1535 m.'
-  - '1654 m.'
-  - '1655 m.'
-  - '1960 m.'
+  - 1432 m.
+  - 1506 m.
+  - 1529 m.
+  - 1535 m.
+  - 1654 m.
+  - 1655 m.
+  - 1960 m.
 date_start: '1432'
 date_end: '1960'
 sukurta: ''
@@ -25,29 +25,41 @@ tags:
   - miestas
   - vieta
 amziai:
-  - 'XV'
-  - 'XX'
+  - XV
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-22a2ec416f45436449cc6690"
-canonical_name: "Minskas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Minskas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-22a2ec416f45436449cc6690
+canonical_name: Minskas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Minskas
 sameAs: []
-canonical_biography: "Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig- mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-."
+canonical_biography: 'Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig- mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Minskas","url":"https://lt.wikipedia.org/wiki/Minskas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Minskas","url":"https://www.vle.lt/straipsnis/minskas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T06:01:51+00:00","source_checked_at":"2026-09-19T06:01:51+00:00","counts":{"relations":8,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Minskas","url":"https://lt.wikipedia.org/wiki/Minskas","publisher":"Vikipedija","language":"lt","article_id":"12640","revision_id":"7665635","published_at":"2025-10-11T05:21:06Z","version_pk":"","content_hash":"ff4ccec72df870e14fe68d7350c7bc9f70ab652eb0d47c7767bc3f9f47e6da08","retrieved_at":"2026-09-19T06:00:36+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Minskas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"12640"}},"intro":"Minskas (bltr. Мiнск, rus. Минск) – Baltarusijos sostinė ir didžiausias šalies miestas; srities ir rajono centras; miestas-didvyris. Vienuoliktas pagal dydį Europos žemyno miestas. Tai artimiausia nuo Vilniaus užsienio sostinė.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Minskas","url":"https://lt.wikipedia.org/wiki/Minskas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Minskas","url":"https://www.vle.lt/straipsnis/minskas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Minskas","https://www.vle.lt/straipsnis/minskas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"be885623dd31e018939d9889","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Minskas buvo viena iš paskutinių rytinių slavų pilių.","context":"Rytiniame lietuvių etnografinės sienos pakraštyje; autoriaus Zenono Ivinskio vertinimas, aprašantis laikotarpį iki Vytauto Didžiojo mirties.","support_ids":["t-180332","c-163943"],"source_refs":[{"kind":"internal_claim","claim_id":"t-180332","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-163943","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"čia randamas, palyginti, ne retas sodybų plotas su eile didžiojo kunigaikščio dvarų. Etnografinė lietuvių siena rytuose šiauriau Nemuno yra dar sunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas. Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Aleksandras","claim_id":"t-185049","confidence":0.82},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Vilniaus miestiečių luomas","claim_id":"t-180323","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Slavai","claim_id":"t-180332","confidence":0.76},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Mechmet Girėjus","claim_id":"t-185753","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-180333","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/A. N. Trubeckojus","claim_id":"t-39979","confidence":0.66},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Rusijos kariuomenė","claim_id":"t-180330","confidence":0.96},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-180328","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":4,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1adefb199918a018
+object_page_generated_at: '2026-09-19T06:01:51+00:00'
+object_page_source_checked_at: '2026-09-19T06:01:51+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '3'
+object_page_seo_description: 'Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku- nigaikštijos. Minskas: smolensko, Vitebsko, Minsko…'
+object_page_seo_input_hash: bf6e07dde145435776260e3ee1959f89babf2b3135c835288a58b6c4dd545be5
+object_page_seo_generated_at: '2026-09-19T06:01:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Minskas
 

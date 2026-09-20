@@ -1,13 +1,13 @@
 ---
 tipas: saltinis
-pavadinimas: 'Olivos kronika'
+pavadinimas: Olivos kronika
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1242 m.'
-  - '1243 m.'
-  - '1326 m.'
-  - '1330 m.'
+  - 1242 m.
+  - 1243 m.
+  - 1326 m.
+  - 1330 m.
 date_start: '1242'
 date_end: '1330'
 sukurta: ''
@@ -15,20 +15,30 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XIII'
-  - 'XIV'
+  - XIII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:09:24+00:00","source_checked_at":"2026-09-19T19:09:24+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Pilėnai, gyvenę kitose trijose 332 D.— Wohenstorph, Jer.— Wûnsdorf; Olivos kronikoje — Wonsdorff (SRP, 5, p. 602), Wansdorf (ten pat, 1, p. 686). Tai suvokietintas D. III, 75 paragrafe minimo Unzatrapio (GAO, p. 190; Instraupio —Lietuvių karas, p. 147) pavadinimas.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","claim_id":"t-220410","evidence_id":"c-204155","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"20337db8d0422b974eed6968","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Kronika","context":"Šaltinyje tiesiogiai vadinama „Olivos kronika“.","support_ids":["t-220410","c-204155"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220410","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204155","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Pilėnai, gyvenę kitose trijose 332 D.— Wohenstorph, Jer.— Wûnsdorf; Olivos kronikoje — Wonsdorff (SRP, 5, p. 602), Wansdorf (ten pat, 1, p. 686). Tai suvokietintas D. III, 75 paragrafe minimo Unzatrapio (GAO, p. 190; Instraupio —Lietuvių karas, p. 147) pavadinimas."}],"status":"published","conflict_status":"clear"},{"trait_id":"860ab95f23b651c52d297348","canonical_code":"source.survival","label":"Išlikimas","group":"Šaltinio istorija","value":"Senoji / senesnė Olivos kronika","context":"Šaltinyje minima „Senoji Olivos kronika“ ir „Senesnė Olivos kronika“; išlaikomas šaltinio autoriaus vartojamas apibūdinimas.","support_ids":["t-222264","c-204945","t-221724","c-203478"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222264","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-221724","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204945","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"280 Kautynės įvyko 1243 (1242?) m. birželio 15 d. Senojoje Olivos kronikoje (joje įrašyti originalūs Olivos papildymai bei Pamedės tradicija — PKD, p. 100—101) aiškiai pasakyta, jog tuo metu Sventopelkas buvo sudaręs su Ordinu paliaubas (factae fuerunt trewgae). Tik po šių kautynių (postea) Sventopelko kariuomenė įsiveržė į Kulmo žemę ir, ko nebuvo sunaikinę prūsai, tą jis su saviškiais visiškai sunaikino (SRP, 1, p. 682; 3, 59; Ewald A. L., Die Eroberung..., 2, p. 108—113; Kujot S., Dzieje Prus..., I, p. 717—719; HP, 1, 1, p. 448; Matusas J., Senovės prūsų..., p. 30—31; Lietuvių karas..., p. 133—134 (Jasas R.); plg. Пашуто В. T., Борьба..., c. 71; Powierski J., Przyczyny..., p. 202)."},{"kind":"evidence","evidence_id":"c-203478","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"249 D.— viri, didi Gobotini, Jer.— dî Gobotinin. Senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Olivos kronika yra istorinis šaltinis, kuriame užrašytos įvairios vietovardžių formos ir aprašyti Prūsijos istorijos epizodai. Joje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf, o Cristburgas – Kirsburg ir Kirsberg. Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas ne tik Reisių valsčiaus, bet ir visos Pamedės niokojimas. Kronikos reikšmę tyrinėjant Dusburgiečio veikalą rodo J. Ventos analizė, kurioje svarstoma, kad išlikęs tekstas galėjo būti 1326 m. redakcija arba jos cenzūruotas antrininkas. Pateikti duomenys neleidžia patikimai nustatyti kronikos sudarymo laikotarpio, vietos ar platesnio vaidmens.","sentences":[{"sentence_id":"s1","text":"Olivos kronika yra istorinis šaltinis, kuriame užrašytos įvairios vietovardžių formos ir aprašyti Prūsijos istorijos epizodai.","support_ids":["t-220410","t-223226"]},{"sentence_id":"s2","text":"Joje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf, o Cristburgas – Kirsburg ir Kirsberg.","support_ids":["t-220410","c-204155","t-220733","c-204749"]},{"sentence_id":"s3","text":"Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas ne tik Reisių valsčiaus, bet ir visos Pamedės niokojimas.","support_ids":["t-223226","c-202160"]},{"sentence_id":"s4","text":"Kronikos reikšmę tyrinėjant Dusburgiečio veikalą rodo J. Ventos analizė, kurioje svarstoma, kad išlikęs tekstas galėjo būti 1326 m. redakcija arba jos cenzūruotas antrininkas.","support_ids":["t-224827","c-202852"]},{"sentence_id":"s5","text":"Pateikti duomenys neleidžia patikimai nustatyti kronikos sudarymo laikotarpio, vietos ar platesnio vaidmens.","support_ids":[]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Nurodyti šaltiniai neparemia viso teiginio apie įvairias vietovardžių formas ir Prūsijos istorijos epizodus."},{"sentence_id":"s2","supported":true,"reason":"Teiginį tiesiogiai patvirtina nurodyti šaltiniai ir citatos."},{"sentence_id":"s3","supported":true,"reason":"Teiginį tiesiogiai patvirtina nurodytas šaltinis ir citata."},{"sentence_id":"s4","supported":true,"reason":"Teiginį tiesiogiai patvirtina J. Ventos analizės citata."},{"sentence_id":"s5","supported":false,"reason":"Sakinys neturi support_ids, todėl jo išvada nėra tiesiogiai paremta pateiktais šaltiniais."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-220410","t-223226"]},{"sentence_id":"s2","supported":true,"support_ids":["t-220410","c-204155","t-220733","c-204749"]},{"sentence_id":"s3","supported":true,"support_ids":["t-223226","c-202160"]},{"sentence_id":"s4","supported":true,"support_ids":["t-224827","c-202852"]},{"sentence_id":"s5","supported":false,"support_ids":[]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":9,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c08395b4511b9a0e
+object_page_generated_at: '2026-09-19T19:09:24+00:00'
+object_page_source_checked_at: '2026-09-19T19:09:24+00:00'
+object_page_content_state: content
+object_page_claim_count: '9'
+object_page_source_count: '1'
+object_page_seo_description: 'Olivos kronika yra istorinis šaltinis, kuriame užrašytos įvairios vietovardžių formos ir aprašyti Prūsijos istorijos epizodai. Joje Unzatrapio pavadinimas…'
+object_page_seo_input_hash: d77caccd71111ee16586f8b9991ca6e5112a7da8ff3405f685697855b4c13e26
+object_page_seo_generated_at: '2026-09-19T19:09:24+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Olivos kronika
 

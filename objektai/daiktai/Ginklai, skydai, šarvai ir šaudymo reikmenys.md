@@ -4,8 +4,8 @@ pavadinimas: 'Ginklai, skydai, šarvai ir šaudymo reikmenys'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1522 m.'
-  - '1565 m.'
+  - 1522 m.
+  - 1565 m.
 date_start: '1522'
 date_end: '1565'
 sukurta: ''
@@ -14,19 +14,29 @@ tags:
   - daiktas
   - rankraštis
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T01:43:27+00:00","source_checked_at":"2026-09-20T01:43:27+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":["t-86986","t-86987","t-86985"],"featured_claims":[{"claim_id":"t-86986","text":"Iki 1565 metų Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-82966"]},{"claim_id":"t-86987","text":"Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-82962"]},{"claim_id":"t-86985","text":"Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti drabužiai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-82965"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"196db5c02035cad22f7948c2","canonical_code":"object.production","label":"Gamyba","group":"Kilmė ir gamyba","value":"Gaminti Lietuvos Didžiojoje Kunigaikštystėje Žygimanto Augusto lėšomis iki 1565 metų.","context":"Šaltinyje, cituojant Lukašą Golembiovskį, aprašoma 1565 metų rankraščio medžiaga; dalis Vilniuje pagamintų ginklų ir amunicijos buvo palikta Vilniuje, kita dalis išsiųsta į kitas pilis.","support_ids":["t-86986","c-82966"],"source_refs":[{"kind":"internal_claim","claim_id":"t-86986","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-82966","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"## Puslapis 328 VILNIAUS MIESTO ISTORIJA// TOMAS IV GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I PASIENIO PILIS 1565 METŲ 39 LAPŲ RANKRAŠTIS (Iš Pulavų bibliotekos rankraščių) Taip šio rankraščio turinį jo pradžioje aprašė Pulavų bib­ liotekos prižiūrėtojas Lukašas Golembiovskis: „Šis ran­ kraštis, perrašytas iš originalo, esančio Stokholme, ten lan­ kantis V. Bernackiui, detalizuoja įvairių rūšių ginklus ir amuniciją, Žygimanto Augusto lėšomis gamintus Lietuvos Didžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­ niuje, išsiuntinėtus po kitas pilis\". - Čia pridedama lentelė, paimta iš tos pačios knygos, geriausiai…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Tai istorijos objektas, siejamas su ginklais, skydais, šarvais ir šaudymo reikmenimis. XVI amžiuje, iki 1565 metų, Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje, o dalis jų siunčiama į kitas pilis. Šis faktas rodo Vilniaus vaidmenį kaip svarbų ginkluotės gamybos, kaupimo ir paskirstymo centrą Lietuvos Didžiojoje Kunigaikštystėje. Išskirtinę reikšmę turėjo vertingiausi pabūklai: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas. Ant ginklų būdavo iškalamos lotyniškos eilutės, šlovinančios jų galią, o vienas Vytautu pavadintas pabūklas skelbė drebinantis bokštus ir griaunantis sienas; ginklai minimi ir XIV amžiaus pabaigos Kęstučio laidotuvių Vilniuje aprašyme, kur kartu su palaikais buvo sudeginti jo ginklai.","sentences":[{"sentence_id":"s1","text":"Tai istorijos objektas, siejamas su ginklais, skydais, šarvais ir šaudymo reikmenimis.","support_ids":["t-86986","t-86985"]},{"sentence_id":"s2","text":"XVI amžiuje, iki 1565 metų, Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje, o dalis jų siunčiama į kitas pilis.","support_ids":["t-86986","c-82966"]},{"sentence_id":"s3","text":"Šis faktas rodo Vilniaus vaidmenį kaip svarbų ginkluotės gamybos, kaupimo ir paskirstymo centrą Lietuvos Didžiojoje Kunigaikštystėje.","support_ids":["t-86986","c-82966"]},{"sentence_id":"s4","text":"Išskirtinę reikšmę turėjo vertingiausi pabūklai: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas.","support_ids":["t-86987","c-82962"]},{"sentence_id":"s5","text":"Ant ginklų būdavo iškalamos lotyniškos eilutės, šlovinančios jų galią, o vienas Vytautu pavadintas pabūklas skelbė drebinantis bokštus ir griaunantis sienas; ginklai minimi ir XIV amžiaus pabaigos Kęstučio laidotuvių Vilniuje aprašyme, kur kartu su palaikais buvo sudeginti jo ginklai.","support_ids":["t-86987","c-82962","t-86985","c-82965"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Pateikti šaltiniai tiesiogiai nepatvirtina visų išvardytų kategorijų, ypač skydų ir šarvų."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad iki 1565 metų Žygimanto Augusto lėšomis gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis."},{"sentence_id":"s3","supported":false,"reason":"Šaltiniai pagrindžia gamybą ir paskirstymą, tačiau teiginys apie Vilnių kaip svarbų kaupimo centrą yra išplėstinė išvada, kurios jie tiesiogiai nepatvirtina."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai įvardija keturias didžiąsias akmenų patrankas: Elgetą, Vytautą, Bobą ir Augustą."},{"sentence_id":"s5","supported":false,"reason":"Šaltiniai patvirtina lotyniškus įrašus, Vytauto pabūklo tekstą ir ginklų sudeginimą per Kęstučio laidotuves, tačiau nepakankamai tiesiogiai pagrindžia formuluotę apie eilučių šlovinamą galią ir XIV amžiaus pabaigos datą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-86986","t-86985"]},{"sentence_id":"s2","supported":true,"support_ids":["t-86986","c-82966"]},{"sentence_id":"s3","supported":true,"support_ids":["t-86986","c-82966"]},{"sentence_id":"s4","supported":true,"support_ids":["t-86987","c-82962"]},{"sentence_id":"s5","supported":true,"support_ids":["t-86987","c-82962","t-86985","c-82965"]}],"verifier":"gpt-5.6-luna"},"quality":75,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3625e67cd6ef7e25
+object_page_generated_at: '2026-09-20T01:43:27+00:00'
+object_page_source_checked_at: '2026-09-20T01:43:27+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Ginklai, skydai, šarvai ir šaudymo reikmenys: Tai istorijos objektas, siejamas su ginklais, skydais, šarvais ir šaudymo reikmenimis. XVI amžiuje, iki 1565…'
+object_page_seo_input_hash: b1b95a68be00dea46613c7498bdf31d53962515c551ebf110e013eb54792b8d7
+object_page_seo_generated_at: '2026-09-20T01:43:27+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ginklai, skydai, šarvai ir šaudymo reikmenys
 

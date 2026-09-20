@@ -1,15 +1,15 @@
 ---
 tipas: saltinis
-pavadinimas: 'Gegužės 3 d. konstitucija (1791 m.)'
+pavadinimas: Gegužės 3 d. konstitucija (1791 m.)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1772 m.'
-  - '1783 m.'
-  - '1788 m.'
-  - '1791 m.'
-  - '1792 m.'
-  - '1915 m.'
+  - 1772 m.
+  - 1783 m.
+  - 1788 m.
+  - 1791 m.
+  - 1792 m.
+  - 1915 m.
 date_start: '1772'
 date_end: '1915'
 sukurta: ''
@@ -17,20 +17,30 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XVIII'
-  - 'XX'
+  - XVIII
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:04:17+00:00","source_checked_at":"2026-09-19T19:04:17+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"be74d3e389767eb0d6d4fdf5","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"1791 m. gegužės 3 d.","context":"Šaltinyje nurodoma, kad Lenkijos ir Lietuvos Seimas konstituciją priėmė 1791 m. gegužės 3 d.","support_ids":["t-78095","c-23764"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78095","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-23764","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Šių bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios reiškėjas."}],"status":"published","conflict_status":"clear"},{"trait_id":"e42af3112764b1c15b9cd7d9","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Konstitucija","context":"Šaltinis tiesiogiai įvardijamas kaip Gegužės 3 d. konstitucija; 1791 m. Lenkijos ir Lietuvos Seimo priimtas politinis ir teisinis dokumentas.","support_ids":["t-78095","c-23764"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78095","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-23764","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Šių bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios reiškėjas."}],"status":"published","conflict_status":"clear"},{"trait_id":"7a4501bac47831ff5ecb280b","canonical_code":"source.language","label":"Kalba","group":"Šaltinio bruožai","value":"Lietuvių kalba","context":"Šaltinyje teigiama, kad konstitucija buvo išversta į lietuvių kalbą; šis vertimas įvardijamas kaip pirmasis politinis ir teisinis dokumentas lietuvių kalba.","support_ids":["t-78093","c-75394"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78093","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75394","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas. „Šlovinga Lenkijos ir Lietuvos Konstitucija“ vėl sutei- kė Lietuvai prarastą „būsimos didybės viltį“. Reformos ne tik pažangia linkme kreipė socialinę ir politinę Lietuvos visuomenės raidą, bet ir teikė naujų galimybių lietuviakalbei kultūrai. Neatsitiktinai tuo metu konsti- tucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos kultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės literatūros tekstų. Taigi Gegužės trečiosios konstitucijos vertimas – pir- masis politinis ir teisinis dokumentas lietuvių kalba. Net 27 LDK bajorų pavietų seimeliai iš 33…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":8,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 7725b3664bfdaab7
+object_page_generated_at: '2026-09-19T19:04:17+00:00'
+object_page_source_checked_at: '2026-09-19T19:04:17+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '1'
+object_page_seo_description: 'Gegužės 3 d. konstitucija (1791 m.): 70; Tautos, kalbos, raštijos 72; Vilniaus universitetas 78; Ryčiausia ir šiauriausia Europoje baroko architektūra 82…'
+object_page_seo_input_hash: b4c021c9bb9b8b2fe592a8fa92ade1676cec05f1220106c3e514ad6654c6ccac
+object_page_seo_generated_at: '2026-09-19T19:04:17+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Gegužės 3 d. konstitucija (1791 m.)
 

@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Konradas Žakas'
+pavadinimas: Konradas Žakas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1298 m.'
-  - '1306 m.'
+  - 1298 m.
+  - 1306 m.
 date_start: '1298'
 date_end: '1306'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - ginklas
   - karvedys
 amziai:
-  - 'XIII'
-  - 'XIV'
+  - XIII
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-95addf9c8ff4dac9dd86662a"
-canonical_name: "Konradas Žakas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Konradas Žakas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-95addf9c8ff4dac9dd86662a
+canonical_name: Konradas Žakas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Konradas Žakas
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie. Dusburgietis teigia, kad apie brolį Konradą, Prūsijos magistrą 1302—1306 metais Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas."
+canonical_biography: 'Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie. Dusburgietis teigia, kad apie brolį Konradą, Prūsijos magistrą 1302—1306 metais Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:16:02+00:00","source_checked_at":"2026-09-20T00:16:02+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":["t-225561","t-205695","t-222550","t-205694","t-205696"],"featured_claims":[{"claim_id":"t-225561","text":"Konradas Žakas buvo šešioliktas Prūsijos magistras ir vadovavo šešerius metus.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-203734","c-205718"]},{"claim_id":"t-205695","text":"Teodoro Narbuto pasakojimu, Konradas Žakas, sužinojęs, kad Gardine nėra karių, pasiuntė Albertą iš Hageno su būriu brolių ir 400 Natangijos raitelių užimti Gardino pilies.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","evidence_ids":["c-188310"]},{"claim_id":"t-222550","text":"Konradas Žakas, Kulmo krašto komtūras, 1298 m. pavijo Lietuvos vyrus ir išvadavo į nelaisvę paimtus krikščionis.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-205589"]},{"claim_id":"t-205694","text":"Teodoras Narbutas aprašo, kad prieš pat 1303 m. pavasarį Prūsijos magistras Konradas Žakas sutelkė karines pajėgas pulti Karšuvos pavietą.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","evidence_ids":["c-188309"]},{"claim_id":"t-205696","text":"Teodoras Narbutas nurodo, kad vasaros pradžioje magistravęs Konradas dėl silpnos sveikatos, regis, liepą pasitraukė iš pareigų.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","evidence_ids":["c-188311"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"42a07ffe6cff05daa4bebdb3","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Itin švelnus ir malonus žmogus; taip jį apibūdina Petras Dusburgietis.","context":"Petro Dusburgiečio vertinimas, aprašant Konrado Žako vadovavimo laikotarpį; jis vadovavo šešerius metus.","support_ids":["t-225561","c-203734"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225561","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203734","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Jis garsėjo kaip itin švelnus žmogus, visiems rodėsi toks malonus, jog apie jį tikrai buvo galima sakyti, kad jį mylėjo ir dievas, ir žmonės."}],"status":"published","conflict_status":"clear"},{"trait_id":"ae3498df5afad242770dafee","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Šešioliktas Prūsijos magistras.","context":"Petras Dusburgietis nurodo, kad Konradas Žakas buvo šešioliktas Prūsijos magistras ir vadovavo šešerius metus.","support_ids":["t-225561","c-203734"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225561","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203734","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Brolis Konradas Žakas, šešioliktas Prūsijos magistras, vadovavo šešerius metus. Jis garsėjo kaip itin švelnus žmogus, visiems rodėsi toks malonus, jog apie jį tikrai buvo galima sakyti, kad jį mylėjo ir dievas, ir žmonės."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"70a3df1cdffb0008e0078f80","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kulmo krašto komtūras.","context":"1298 m. Petro Dusburgiečio aprašytame Straisbergo įvykyje Konradas Žakas įvardijamas Kulmo krašto komtūru.","support_ids":["t-222550","c-205589"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222550","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205589","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Straisbergo miesto sugriovimą 1298 metais Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo 29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus gyventojus ir vieną kunigą, o moteris bei vaikus paėmė į nelaisvę; visaip išniekinę kitus sakramentus, vienas dar suteršė indą krikšto vandeniui laikyti, pridergdamas į jį. Ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį. 271 (264)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4dec16eca20d3a8fc72277b2","canonical_code":"person.appearance","label":"Išvaizda","group":"Asmens bruožai","value":"Silpnos sveikatos.","context":"Teodoras Narbutas rašo, kad dėl silpnos sveikatos Konradas Žakas, regis, 1303 m. liepą pasitraukė iš pareigų.","support_ids":["t-205696","c-188311"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205696","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188311","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Be jokios abejonės, tatai vyko vasaros pradžioje, magistraujant Konradui, kuris dėl silp­ nos sveikatos (regis, liepos mėnesį) pasitraukė iš pa­ reigų"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Konradas Žakas buvo šešioliktasis Prūsijos magistras, kronikose minimas kaip karinis vadovas ir Kulmo krašto komtūras. 1298 m. jis su broliais bei ginklanešiais vijosi Lietuvos vyrus, užpuolusius Straisbergą, ir išvadavo jų paimtus krikščionis. Prieš 1303 m. pavasarį Žakas sutelkė dideles pajėgas pulti Karšuvos pavietą, o sužinojęs, kad Gardino pilyje nėra karių, pasiuntė Albertą iš Hageno su broliais ir keturiais šimtais Natangijos raitelių jos užimti. Pasak Teodoro Narbuto, vasaros pradžioje dėl silpnos sveikatos jis, regis, liepą, pasitraukė iš pareigų. Petras Dusburgietis teigia, kad Žakas vadovavo šešerius metus ir garsėjo ne kaip žiaurus užkariautojas, o kaip itin švelnus bei malonus žmogus, kurį, kronikininko žodžiais, mylėjo ir Dievas, ir žmonės.","sentences":[{"sentence_id":"s1","text":"Konradas Žakas buvo šešioliktasis Prūsijos magistras, kronikose minimas kaip karinis vadovas ir Kulmo krašto komtūras.","support_ids":["t-225561","c-203734","t-222550","c-205589"]},{"sentence_id":"s2","text":"1298 m. jis su broliais bei ginklanešiais vijosi Lietuvos vyrus, užpuolusius Straisbergą, ir išvadavo jų paimtus krikščionis.","support_ids":["t-222550","c-205589"]},{"sentence_id":"s3","text":"Prieš 1303 m. pavasarį Žakas sutelkė dideles pajėgas pulti Karšuvos pavietą, o sužinojęs, kad Gardino pilyje nėra karių, pasiuntė Albertą iš Hageno su broliais ir keturiais šimtais Natangijos raitelių jos užimti.","support_ids":["t-205694","c-188309","t-205695","c-188310"]},{"sentence_id":"s4","text":"Pasak Teodoro Narbuto, vasaros pradžioje dėl silpnos sveikatos jis, regis, liepą, pasitraukė iš pareigų.","support_ids":["t-205696","c-188311"]},{"sentence_id":"s5","text":"Petras Dusburgietis teigia, kad Žakas vadovavo šešerius metus ir garsėjo kaip itin švelnus bei malonus žmogus, kurį, kronikininko žodžiais, mylėjo ir Dievas, ir žmonės.","support_ids":["t-225561","c-203734"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai tiesiogiai pagrindžia, kad jis buvo šešioliktasis Prūsijos magistras ir Kulmo krašto komtūras, tačiau nepatvirtina formuluotės „karinis vadovas“."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1298 m. Straisbergo puolimą, Lietuvos vyrų persekiojimą su broliais bei ginklanešiais ir krikščionių išvadavimą."},{"sentence_id":"s3","supported":true,"reason":"Narbuto šaltiniai tiesiogiai patvirtina pajėgų telkimą pulti Karšuvos pavietą ir Alberto iš Hageno pasiuntimą su broliais bei 400 Natangijos raitelių užimti Gardino pilies."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad dėl silpnos sveikatos Konradas, regis, liepą pasitraukė iš pareigų."},{"sentence_id":"s5","supported":true,"reason":"Dusburgietis tiesiogiai teigia, kad Žakas vadovavo šešerius metus, buvo itin švelnus ir malonus, o jį mylėjo Dievas ir žmonės."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-225561","c-203734","t-222550","c-205589"]},{"sentence_id":"s2","supported":true,"support_ids":["t-222550","c-205589"]},{"sentence_id":"s3","supported":true,"support_ids":["t-205694","c-188309","t-205695","c-188310"]},{"sentence_id":"s4","supported":true,"support_ids":["t-205696","c-188311"]},{"sentence_id":"s5","supported":true,"support_ids":["t-225561","c-203734"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 99642d3a93fd2ed6
+object_page_generated_at: '2026-09-20T00:16:02+00:00'
+object_page_source_checked_at: '2026-09-20T00:16:02+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Konradas Žakas buvo šešioliktasis Prūsijos magistras, kronikose minimas kaip karinis vadovas ir Kulmo krašto komtūras. 1298 m. jis su broliais bei…'
+object_page_seo_input_hash: e298a104c72224b879bfb00d1cba3e0fdc29c44c811c74033358074229d75219
+object_page_seo_generated_at: '2026-09-20T00:16:02+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Konradas Žakas
 

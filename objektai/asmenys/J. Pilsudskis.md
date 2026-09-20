@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'J. Pilsudskis'
+pavadinimas: J. Pilsudskis
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1919 m.'
-  - '1927 m.'
+  - 1919 m.
+  - 1927 m.
 date_start: '1919'
 date_end: '1927'
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - asmuo
   - ministras
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes:
-  - 'modernioji Lietuva'
+  - modernioji Lietuva
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-bd65a83b09eacfed1bad6b18"
-canonical_name: "J. Pilsudskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["J. Pilsudskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-bd65a83b09eacfed1bad6b18
+canonical_name: J. Pilsudskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - J. Pilsudskis
 sameAs: []
-canonical_biography: "Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a. Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe."
+canonical_biography: 'Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a. Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:08:07+00:00","source_checked_at":"2026-09-20T06:08:07+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":["t-108754","t-108753","t-183534","t-108751","t-108755"],"featured_claims":[{"claim_id":"t-108754","text":"1927 m. gruodžio 10 d. Ženevoje J. Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-100891"]},{"claim_id":"t-108753","text":"1926 m. karinis perversmas Lenkijoje, sugrąžinęs J. Pilsudskį į valdžią, skatino veikti Seimo valdymu nepatenkintas jėgas.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-100886"]},{"claim_id":"t-183534","text":"Ernestas Galvanauskas siekė J. Pilsudskio pavyzdžiu užimti Klaipėdos kraštą jėga, sudaryti fait accompli padėtį ir tada derėtis.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-166927"]},{"claim_id":"t-108751","text":"J. Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-100889"]},{"claim_id":"t-108755","text":"J. Pilsudskis turėjo gausių lenkų šalininkų, kurie siekė išlaikyti Lietuvą Lenkijos sudėtyje.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-100893"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a8d81a413f3f7c85deae3384","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Pokario Lenkijos vadovas; 1926 m. gegužę per karinį perversmą grįžo į valdžią Lenkijoje.","context":"Lietuvos istorijos autoriai, aprašydami pokario Lenkiją ir 1926 m. gegužės įvykius.","support_ids":["t-108751","c-100889","t-108753","c-100886"],"source_refs":[{"kind":"internal_claim","claim_id":"t-108751","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-108753","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-100889","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuviakalbės Lietuvos kūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik teisę likti tautine mažuma, nes dauguma lietuvių vargiai būtų pritarę dva- rininkų privilegijoms. Nors kai kurie dvarininkai „senlietuviai“ parėmė lietuvių aspiracijas, dauguma dėjo viltis į Lenkiją – J. Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietu- viu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Len- kijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu iš Lietuvos nepriklausomybės kūrėjų, Lietuvos Tarybos nariu."},{"kind":"evidence","evidence_id":"c-100886","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje, perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m. gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija“)."}],"status":"published","conflict_status":"clear"},{"trait_id":"aec9f374588060d4a1b573ce","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Vadino save lietuviu.","context":"Lietuvos istorijos autoriai nurodo, kad jis buvo kilęs iš Lietuvos dvarininkų ir save vadino lietuviu.","support_ids":["t-108751","c-100889"],"source_refs":[{"kind":"internal_claim","claim_id":"t-108751","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-100889","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuviakalbės Lietuvos kūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik teisę likti tautine mažuma, nes dauguma lietuvių vargiai būtų pritarę dva- rininkų privilegijoms. Nors kai kurie dvarininkai „senlietuviai“ parėmė lietuvių aspiracijas, dauguma dėjo viltis į Lenkiją – J. Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietu- viu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Len- kijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu iš Lietuvos nepriklausomybės kūrėjų, Lietuvos Tarybos nariu."}],"status":"published","conflict_status":"clear"},{"trait_id":"e647d3680c51f3aa43b1331e","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"1927 m. gruodžio 10 d. Ženevoje A. Voldemarui uždavė klausimą „Karas ar taika?“","context":"Lietuvos ir Lenkijos susidūrimo Ženevoje, Tautų Sąjungos Taryboje, aplinkybės.","support_ids":["t-108754","c-100891"],"source_refs":[{"kind":"internal_claim","claim_id":"t-108754","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-100891","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė A. Voldemarui klausimą „Karas ar taika?“ A."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"J. Pilsudskis buvo pokario Lenkijos vadovas, kilęs iš Lietuvos dvarininkų sluoksnio ir save laikęs lietuviu. Jo asmenybė išryškėjo sudėtingame Lietuvos ir Lenkijos politinių siekių konflikte: gausūs jo lenkų šalininkai siekė išlaikyti Lietuvą Lenkijos sudėtyje. 1926 m. gegužę karinis perversmas Lenkijoje sugrąžino J. Pilsudskį į valdžią ir paskatino veikti Seimo valdymu nepatenkintas jėgas. Lietuvos ir Lenkijos įtampa ypač dramatiškai atsiskleidė Ženevoje, kur 1927 m. gruodžio 10 d. J. Pilsudskis Augustinui Voldemarui uždavė klausimą: „Karas ar taika?“ Jo politinis pavyzdys buvo reikšmingas ir Lietuvos sprendimams, nes Ernestas Galvanauskas, planuodamas Klaipėdos krašto užėmimą, siekė sukurti fait accompli padėtį ir tik tada derėtis.","sentences":[{"sentence_id":"s1","text":"J. Pilsudskis buvo pokario Lenkijos vadovas, kilęs iš Lietuvos dvarininkų sluoksnio ir save laikęs lietuviu.","support_ids":["t-108751","c-100889"]},{"sentence_id":"s2","text":"Jo asmenybė išryškėjo sudėtingame Lietuvos ir Lenkijos politinių siekių konflikte: gausūs jo lenkų šalininkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.","support_ids":["t-108755","c-100893"]},{"sentence_id":"s3","text":"1926 m. gegužę karinis perversmas Lenkijoje sugrąžino J. Pilsudskį į valdžią ir paskatino veikti Seimo valdymu nepatenkintas jėgas.","support_ids":["t-108753","c-100886"]},{"sentence_id":"s4","text":"Lietuvos ir Lenkijos įtampa ypač dramatiškai atsiskleidė Ženevoje, kur 1927 m. gruodžio 10 d. J. Pilsudskis Augustinui Voldemarui uždavė klausimą: „Karas ar taika?“","support_ids":["t-108754","c-100891"]},{"sentence_id":"s5","text":"Jo politinis pavyzdys buvo reikšmingas ir Lietuvos sprendimams, nes Ernestas Galvanauskas, planuodamas Klaipėdos krašto užėmimą, siekė sukurti fait accompli padėtį ir tik tada derėtis.","support_ids":["t-183534","c-166927"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniu."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis pagrindžia šalininkų siekį išlaikyti Lietuvą Lenkijos sudėtyje, tačiau ne teiginį, kad jo asmenybė išryškėjo šiame konflikte."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta šaltiniu."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta šaltiniu."},{"sentence_id":"s5","supported":true,"reason":"Tiesiogiai paremta šaltiniu."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-108751","c-100889"]},{"sentence_id":"s2","supported":true,"support_ids":["t-108755","c-100893"]},{"sentence_id":"s3","supported":true,"support_ids":["t-108753","c-100886"]},{"sentence_id":"s4","supported":true,"support_ids":["t-108754","c-100891"]},{"sentence_id":"s5","supported":true,"support_ids":["t-183534","c-166927"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-108755","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 40ed0893db775015
+object_page_generated_at: '2026-09-20T06:08:07+00:00'
+object_page_source_checked_at: '2026-09-20T06:08:07+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'J. Pilsudskis buvo pokario Lenkijos vadovas, kilęs iš Lietuvos dvarininkų sluoksnio ir save laikęs lietuviu. Jo asmenybė išryškėjo sudėtingame Lietuvos ir…'
+object_page_seo_input_hash: 8fafaf95a547542ef19d387b580e964fbc3dd4d9d30549c8c87fa83ef84cf410
+object_page_seo_generated_at: '2026-09-20T06:08:07+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # J. Pilsudskis
 

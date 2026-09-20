@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Kernius'
+pavadinimas: Kernius
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
@@ -8,7 +8,7 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1089 m.'
+  - 1089 m.
 date_start: '1089'
 date_end: ''
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - kunigaikštis
   - asmuo
 amziai:
-  - 'XI'
+  - XI
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5a4e2adc3e7bdd2211b85956"
-canonical_name: "Kernius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kernius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5a4e2adc3e7bdd2211b85956
+canonical_name: Kernius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kernius
 sameAs: []
-canonical_biography: "Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui. Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė."
+canonical_biography: 'Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui. Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė.'
+external_sources_json: '[{"title":"Kernius","url":"https://www.vle.lt/straipsnis/kernius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T02:42:45+00:00","source_checked_at":"2026-09-20T02:42:45+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Kernius","url":"https://www.vle.lt/straipsnis/kernius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/kernius/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"74ac3eb29e79acf64ba85cb5","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvos ir Žemaičių kunigaikštis; valdė kraštą tarp Neries, Nevėžio ir Daugavos; Ker­navėje gyveno su ūkės rėda ir Lietuvos vyresnybe, ją paskyrė visos Lietuvos ūkės buveine.","context":"Šaltinyje aprašomas Kerniaus laikotarpis, kai jis saugojosi gudų antpuolių ir įkūrė Kernavės pilį.","support_ids":["t-201001","c-184351"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201001","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184351","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"§ XV Kernius ir Gimbutas Lietuvos ir Žemaičių kunigaikščiai, karės jų su gudais, lenkais ir žuvėdais Kernius turėjęs savo valdžioj kraštą tarp upių Neries, Nevėžio ir Daugavos, Gimbutas valdęs vi­ sus Žemaičius; abudu gyvenusiu taikiai vienybėj ir kliauty. Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugodamos nuo antpuolių gu­ dų, aukštame skardy linksmoj laukymėj tarp ąžuo­ lynų rimtą pilį įkūręs ir nuo savo vardo ją Kerna­ ve praminęs, kurioje pats su ūkės rėdą ir Lietuvos vyresnybe gyvendamas, už buveinę visos Lietuvos ūkės paskyręs, kaipogi tenai kiekvienam reikalui ar pavojui radusis tėvūnai, arba senatoriai, į dūmą, ar­ ba rodą, galėjo veikiai susirinkti.…"}],"status":"published","conflict_status":"clear"},{"trait_id":"ba052cd5eafc892f4fcd7599","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Šaltinio autoriaus teigimu, po Jaroslavo karių antpuolių Kernius tapo jautresnis; su Gimbutu jis gyveno taikiai, vienybėje ir pasitikėjime.","context":"Autoriaus vertinimas ir aprašymas, siejamas su laikotarpiu po Jaroslavo karių veiksmų bei Kerniaus santykiais su Gimbutu.","support_ids":["t-201001","c-184351"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201001","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184351","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"§ XV Kernius ir Gimbutas Lietuvos ir Žemaičių kunigaikščiai, karės jų su gudais, lenkais ir žuvėdais Kernius turėjęs savo valdžioj kraštą tarp upių Neries, Nevėžio ir Daugavos, Gimbutas valdęs vi­ sus Žemaičius; abudu gyvenusiu taikiai vienybėj ir kliauty. Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugodamos nuo antpuolių gu­ dų, aukštame skardy linksmoj laukymėj tarp ąžuo­ lynų rimtą pilį įkūręs ir nuo savo vardo ją Kerna­ ve praminęs, kurioje pats su ūkės rėdą ir Lietuvos vyresnybe gyvendamas, už buveinę visos Lietuvos ūkės paskyręs, kaipogi tenai kiekvienam reikalui ar pavojui radusis tėvūnai, arba senatoriai, į dūmą, ar­ ba rodą, galėjo veikiai susirinkti.…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6463a475edd92331
+object_page_generated_at: '2026-09-20T02:42:45+00:00'
+object_page_source_checked_at: '2026-09-20T02:42:45+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir…'
+object_page_seo_input_hash: 77f00d8dd333121b5f9b8ab08536212cc18013c1aa9baaef526ed01db1023f28
+object_page_seo_generated_at: '2026-09-20T02:42:45+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kernius
 

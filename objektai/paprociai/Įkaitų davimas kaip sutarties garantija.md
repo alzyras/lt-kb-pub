@@ -1,14 +1,14 @@
 ---
 tipas: paprotys
-pavadinimas: 'Įkaitų davimas kaip sutarties garantija (sutartis)'
+pavadinimas: Įkaitų davimas kaip sutarties garantija (sutartis)
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1383 m.'
-  - '1390 m.'
-  - '1392 m.'
-  - '1396 m.'
+  - 1383 m.
+  - 1390 m.
+  - 1392 m.
+  - 1396 m.
 date_start: '1383'
 date_end: '1396'
 sukurta: ''
@@ -17,19 +17,29 @@ tags:
   - politinė-praktika
   - paprotys
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:45:00+00:00","source_checked_at":"2026-09-20T00:45:00+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"65beb0bbb48f902133f9bfc0","canonical_code":"custom.participants","label":"Dalyviai","group":"Papročio eiga","value":"Du kunigaikščiai – Jurgis ir Jonas; Unzatrapio, Gundavos ir Angetetos pilių žmonės; pagudėnai.","context":"Šaltiniuose aprašomi 1390–1392 m. Vytauto duoti įkaitai ir pilių žmonės bei pagudėnai, davę įkaitų.","support_ids":["t-67236","c-14492","t-221756","c-202667","c-205588"],"source_refs":[{"kind":"internal_claim","claim_id":"t-67236","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-221756","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-14492","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"1390 —92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš tikrųjų du kunigaikščiu: Jurgį ir Joną."},{"kind":"evidence","evidence_id":"c-202667","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir nuolankiai pasidavė krikščionių tikėjimui ir broliams. 76 (75). Apie vienos Notangos dalies nuniokojimą"},{"kind":"evidence","evidence_id":"c-205588","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais, matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė, davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas. 18."}],"status":"published","conflict_status":"clear"},{"trait_id":"df34323051ce6c1072930545","canonical_code":"custom.course","label":"Eiga","group":"Papročio eiga","value":"Pilių žmonės ir pagudėnai atsiuntė arba davė įkaitų, tada pasidavė krikščionių tikėjimui ir broliams.","context":"Petro Dusburgiečio kronikoje tai siejama su negalėjimu ilgiau priešintis kovos lauke ir nuolatiniais brolių antpuoliais.","support_ids":["t-221756","c-202667","c-205588"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221756","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202667","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir nuolankiai pasidavė krikščionių tikėjimui ir broliams. 76 (75). Apie vienos Notangos dalies nuniokojimą"},{"kind":"evidence","evidence_id":"c-205588","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais, matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė, davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas. 18."}],"status":"published","conflict_status":"clear"},{"trait_id":"295c62268926ac55210e0392","canonical_code":"custom.means","label":"Priemonės","group":"Papročio bruožai","value":"Įkaitai buvo duodami kaip pasidavimo dalis.","context":"Šaltinyje aprašyta, kad įkaitai buvo atsiųsti arba duoti kartu su pasidavimu krikščionių tikėjimui ir broliams.","support_ids":["t-221756","c-202667","c-205588"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221756","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202667","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir nuolankiai pasidavė krikščionių tikėjimui ir broliams. 76 (75). Apie vienos Notangos dalies nuniokojimą"},{"kind":"evidence","evidence_id":"c-205588","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais, matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė, davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas. 18."}],"status":"published","conflict_status":"clear"},{"trait_id":"a2727e4b42365651cf58fe82","canonical_code":"custom.significance","label":"Reikšmė","group":"Papročio bruožai","value":"Įkaitų davimas reiškė pasidavimą krikščionių tikėjimui ir broliams.","context":"Tai Petro Dusburgiečio autoriaus pasakojimas apie Unzatrapio, Gundavos ir Angetetos pilių žmones bei pagudėnus karinio spaudimo sąlygomis.","support_ids":["t-221756","c-202667","c-205588"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221756","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202667","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"pilyse, būtent: Unzatrapio335, Gundavos336 ir Angetetos337, matydami, jog viešpats stoja už brolius, ir dėl to negalėdami ilgiau jiems priešintis kovos lauke, atsiuntė įkaitų ir nuolankiai pasidavė krikščionių tikėjimui ir broliams. 76 (75). Apie vienos Notangos dalies nuniokojimą"},{"kind":"evidence","evidence_id":"c-205588","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą. Štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais, matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė, davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas. 18."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 8ab7f958aa28fe27
+object_page_generated_at: '2026-09-20T00:45:00+00:00'
+object_page_source_checked_at: '2026-09-20T00:45:00+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Įkaitų davimas kaip sutarties garantija (sutartis): XIV a. pabaigos Lietuvos santykiuose su Ordinu ir Lenkija įkaitai buvo naudojami kaip politinė garantija…'
+object_page_seo_input_hash: 0c2e43ddb8e1b5c1ffd3e7373156732806d05108940cdd1b9e765bc6ceb502a1
+object_page_seo_generated_at: '2026-09-20T00:45:00+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Įkaitų davimas kaip sutarties garantija (sutartis)
 

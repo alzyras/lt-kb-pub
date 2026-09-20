@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Sovietų Rusija'
+pavadinimas: Sovietų Rusija
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1919 m.'
-  - '1920 m.'
-  - '2026 m.'
+  - 1919 m.
+  - 1920 m.
+  - 2026 m.
 date_start: '1919'
 date_end: '2026'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e567e9a3689c5736bee39cfc"
-canonical_name: "Sovietų Rusija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Sovietų Rusija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e567e9a3689c5736bee39cfc
+canonical_name: Sovietų Rusija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Sovietų Rusija
 sameAs: []
-canonical_biography: "Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą. Tačiau pilietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija 1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama tas valstybes ir sustiprindama jų pozicijas. Apskritai 1920 m. liepos 12 d. pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplomatijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su Lenkija."
+canonical_biography: 'Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą. Tačiau pilietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija 1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama tas valstybes ir sustiprindama jų pozicijas. Apskritai 1920 m. liepos 12 d. pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplomatijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su Lenkija.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Sovietų Rusija","url":"https://www.vle.lt/straipsnis/sovietu-rusija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:25:22+00:00","source_checked_at":"2026-09-20T13:25:22+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Sovietų Rusija","url":"https://www.vle.lt/straipsnis/sovietu-rusija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/sovietu-rusija/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Sovietų Rusija – istorinis politinis veikėjas ir vieta, minima Lietuvos nepriklausomybės kovų bei diplomatinių santykių kontekste. 1919 m. rugsėjį, pilietinio karo metu spaudžiama baltųjų kariuomenių, ji pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes ir stiprindama jų pozicijas. Pralaimėjusi kovas dėl Zarasų ir patyrusi didelių nuostolių, Sovietų Rusija buvo priversta trauktis iš Lietuvos ir vėliau pasiūlė taikos derybas. 1920 m. liepos 12 d. pasirašyta Taikos sutartis su Sovietų Rusija laikyta dideliu Lietuvos diplomatijos laimėjimu, padėjusiu megzti santykius ne tik su Rusija, bet ir su Lenkija.","sentences":[{"sentence_id":"s1","text":"Sovietų Rusija – istorinis politinis veikėjas ir vieta, minima Lietuvos nepriklausomybės kovų bei diplomatinių santykių kontekste.","support_ids":["t-77322","t-77324","t-193784"]},{"sentence_id":"s2","text":"1919 m. rugsėjį, pilietinio karo metu spaudžiama baltųjų kariuomenių, ji pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes ir stiprindama jų pozicijas.","support_ids":["t-77322","c-24492"]},{"sentence_id":"s3","text":"Pralaimėjusi kovas dėl Zarasų ir patyrusi didelių nuostolių, Sovietų Rusija buvo priversta trauktis iš Lietuvos ir vėliau pasiūlė taikos derybas.","support_ids":["t-193784","c-176435"]},{"sentence_id":"s4","text":"1920 m. liepos 12 d. pasirašyta Taikos sutartis su Sovietų Rusija laikyta dideliu Lietuvos diplomatijos laimėjimu, padėjusiu megzti santykius ne tik su Rusija, bet ir su Lenkija.","support_ids":["t-77324","c-24493"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia Sovietų Rusijos kaip politinio veikėjo vaidmenį, tačiau nepatvirtina jos apibūdinimo kaip vietos."},{"sentence_id":"s2","supported":true,"reason":"Visi teiginio faktai tiesiogiai patvirtinti: data, spaudimas baltųjų kariuomenių, pasiūlymas pradėti derybas, de facto pripažinimas ir pozicijų stiprinimas."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina pralaimėjimą dėl Zarasų, didelius nuostolius, pasitraukimą iš Lietuvos ir vėlesnį taikos derybų pasiūlymą."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1920 m. liepos 12 d. sutartį, jos reikšmę Lietuvos diplomatijai ir santykių mezgimą su Rusija bei Lenkija."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-77322","t-77324","t-193784"]},{"sentence_id":"s2","supported":true,"support_ids":["t-77322","c-24492"]},{"sentence_id":"s3","supported":true,"support_ids":["t-193784","c-176435"]},{"sentence_id":"s4","supported":true,"support_ids":["t-77324","c-24493"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1919 m.","label":"1919 m.","claimId":"t-77322"},{"date":"1920 m.","label":"1920 m.","claimId":"t-77324"},{"date":"1920 m.","label":"PREILIAI A 1920 m.","claimId":"t-193785"}],"support_disclosure":{"claims":4,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d8e130a435558ba5
+object_page_generated_at: '2026-09-20T13:25:22+00:00'
+object_page_source_checked_at: '2026-09-20T13:25:22+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '2'
+object_page_seo_description: 'Sovietų Rusija – istorinis politinis veikėjas ir vieta, minima Lietuvos nepriklausomybės kovų bei diplomatinių santykių kontekste. 1919 m. rugsėjį, pilietinio…'
+object_page_seo_input_hash: 035f11e5da89ba3294909062b647adec91ba49a1d91c3744da449749efb24b3c
+object_page_seo_generated_at: '2026-09-20T13:25:22+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Sovietų Rusija
 

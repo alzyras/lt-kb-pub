@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Simonas Grunau'
+pavadinimas: Simonas Grunau
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -22,19 +22,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fc1f94d8741cb80af7e5937d"
-canonical_name: "Simonas Grunau"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Simonas Grunau"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fc1f94d8741cb80af7e5937d
+canonical_name: Simonas Grunau
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Simonas Grunau
 sameAs: []
-canonical_biography: "Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus."
+canonical_biography: 'Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.'
+external_sources_json: '[{"title":"Simonas Grunau","url":"https://lt.wikipedia.org/wiki/Simonas_Grunau","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:49:58+00:00","source_checked_at":"2026-09-19T15:49:58+00:00","counts":{"relations":2,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Simonas Grunau","url":"https://lt.wikipedia.org/wiki/Simonas_Grunau","publisher":"Vikipedija","language":"lt","article_id":"247355","revision_id":"7707029","published_at":"2025-12-05T10:28:34Z","version_pk":"","content_hash":"63e954c9ec31484ff88ba39d1d5f150a0cbc34f39d43a840be76658283a69d56","retrieved_at":"2026-09-19T15:48:48+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Simonas_Grunau&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"247355"}},"intro":"Simonas Grunau (vok. Simon Grunau, Grūnavas, apie 1470 m. Tolkemita, dab. Tolkmickas, Varmijos Mozūrų vaivadija – apie 1531 m.) – vokiečių kronikininkas, „Prūsijos kronika“ autorius.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Simonas Grunau","url":"https://lt.wikipedia.org/wiki/Simonas_Grunau","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Simonas_Grunau"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"017d0e439b45bd58ef699330","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Parašė išsamią visos Prūsijos istoriją nuo legendinių laikų iki 1529 m.","context":"XVI a. 3-iajame dešimtmetyje Prūsijoje. Šaltinis ją vertina kaip pirmąją ir išsamiausią visos Prūsijos istoriją; joje plačiai remiamasi Petru iš Dusburgo.","support_ids":["t-224797","c-203833"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224797","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203833","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a. 3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-224797","confidence":0.7},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Kaimas","claim_id":"t-220019","confidence":0.84}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 66568561f8a3cb32
+object_page_generated_at: '2026-09-19T15:49:58+00:00'
+object_page_source_checked_at: '2026-09-19T15:49:58+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Simonas Grunau: Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi…'
+object_page_seo_input_hash: 309cf807f6f0dea48559afff43f8f0534151ec71b5a28454467e6bb3a9f4e365
+object_page_seo_generated_at: '2026-09-19T15:49:58+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Simonas Grunau
 

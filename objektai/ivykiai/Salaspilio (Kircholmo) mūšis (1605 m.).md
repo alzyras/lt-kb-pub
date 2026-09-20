@@ -1,23 +1,23 @@
 ---
 tipas: ivykis
-pavadinimas: 'Salaspilio (Kircholmo) mūšis (1605 m.)'
+pavadinimas: Salaspilio (Kircholmo) mūšis (1605 m.)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1605 m.'
-  - '1620 m.'
+  - 1605 m.
+  - 1620 m.
 date_start: '1605'
 date_end: '1620'
 variantai:
-  - 'Salaspilio (Kirchholmo) mūšis'
-  - 'Salaspilio (Kirkcholmo) mūšis'
+  - Salaspilio (Kirchholmo) mūšis
+  - Salaspilio (Kirkcholmo) mūšis
 aliases:
-  - 'Salaspilio (Kirchholmo) mūšis'
-  - 'objektai/ivykiai/Salaspilio (Kirchholmo) mūšis'
-  - 'objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis'
+  - Salaspilio (Kirchholmo) mūšis
+  - objektai/ivykiai/Salaspilio (Kirchholmo) mūšis
+  - objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis
 amziai:
-  - 'XVII'
+  - XVII
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,12 +29,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Salaspilio mūšis","url":"https://www.vle.lt/straipsnis/salaspilio-musis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T11:53:00+00:00","source_checked_at":"2026-09-19T11:53:00+00:00","counts":{"relations":2,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Salaspilio mūšis","url":"https://www.vle.lt/straipsnis/salaspilio-musis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/salaspilio-musis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c8f6e99ad451ad87eac2d028","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Abi kariuomenės iki vidudienio stovėjo nepajudėjusios; lietuviai nedideliais išpuoliais mėgino išprovokuoti švedus pulti pirmuosius, tačiau šie nesureagavo.","context":"Karolio Zikaro sudarytame 2013 m. leidinyje aprašoma Salaspilio mūšio eiga 1605 m. rugsėjo 27 d.","support_ids":["t-10283","c-43116","t-195022"],"source_refs":[{"kind":"internal_claim","claim_id":"t-10283","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-195022","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-43116","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Karolis Chodkevičius pastebėjo, kad švedai išsirikiavo ant aukšto upelio kranto, kai, jo kariuomenė stovėjo lygumoje. Jei Lietuvos kariuomenei reikėtų pradėti ataką, šturmuodama priešo pozicijas ji prarastų daug karių ir nepasiektų reikiamo efekto. Lietuviai mėgino nedideliais išpuo- liais išprovokuoti švedus pulti pirmuosius, tačiau šie nesureagavo. Abi kariuomenės Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas nepajudėjusios išstovėjo iki vidudienio."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"52ba70664b19e647f966a784","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje; jų pasipriešinimas buvo palaužtas, eiliniai kariai išžudyti, o karininkai paimti į nelaisvę.","context":"Karolio Zikaro sudarytame 2013 m. leidinyje aprašomi mūšio baigiamosios fazės įvykiai.","support_ids":["t-195023","c-177397"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195023","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-177397","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje. Tačiau jų pasipriešinimas buvo palaužtas. Eiliniai kariai buvo išžudyti, o karininkai paimti į nelaisvę."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"46ec057abba806c78cf38f8c","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Mūšyje dalyvavo Lietuvos ir Švedijos kariuomenės.","context":"Šaltinyje aprašomas abiejų kariuomenių išsidėstymas ir veiksmai Salaspilio mūšyje.","support_ids":["t-10283","c-43116"],"source_refs":[{"kind":"internal_claim","claim_id":"t-10283","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-43116","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Karolis Chodkevičius pastebėjo, kad švedai išsirikiavo ant aukšto upelio kranto, kai, jo kariuomenė stovėjo lygumoje. Jei Lietuvos kariuomenei reikėtų pradėti ataką, šturmuodama priešo pozicijas ji prarastų daug karių ir nepasiektų reikiamo efekto. Lietuviai mėgino nedideliais išpuo- liais išprovokuoti švedus pulti pirmuosius, tačiau šie nesureagavo. Abi kariuomenės Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas nepajudėjusios išstovėjo iki vidudienio."}],"status":"published","conflict_status":"clear"},{"trait_id":"310c5ddf58a2d392201e372f","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Šaltinio autorių vertinimu, 1605 m. Lietuvos kariuomenė Salaspilio (Kirchholmo) mūšyje pasiekė didelę pergalę prieš švedus; tačiau ilgainiui Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.","context":"Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio 2013 m. Lietuvos istorijoje aprašoma 1605 m. pergalė ir vėlesni Livonijos karo padariniai.","support_ids":["t-195024","c-177398"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195024","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-177398","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Kova dėl Livonijos daugiausia buvo suin- teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"dalyvavo_musyje","direction":"inbound","target":"objektai/asmenys/A. Liuneburgietis","claim_id":"t-10278","confidence":0.82},{"predicate":"dalyvavo_musyje","direction":"inbound","target":"objektai/grupes/Švedai","claim_id":"t-10278","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":4,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 21e16ba6c82f3748
+object_page_generated_at: '2026-09-19T11:53:00+00:00'
+object_page_source_checked_at: '2026-09-19T11:53:00+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '2'
+object_page_seo_description: 'Salaspilio (Kircholmo) mūšis (1605 m.): Šiame gabale aprašomas Salaspilio (Kirkcholmo) mūšio antrasis etapas: kariuomenių išsirikiavimas, apgaulingas Lietuvos…'
+object_page_seo_input_hash: 4927c7608182abac595bd793b0477bb2754f5af075af5afa4edebe718f9bdd4e
+object_page_seo_generated_at: '2026-09-19T11:53:00+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Salaspilio (Kircholmo) mūšis (1605 m.)
 

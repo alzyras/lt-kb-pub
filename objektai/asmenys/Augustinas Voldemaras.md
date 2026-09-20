@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Augustinas Voldemaras'
+pavadinimas: Augustinas Voldemaras
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1918 m.'
-  - '1928 m.'
+  - 1918 m.
+  - 1928 m.
 date_start: '1918'
 date_end: '1928'
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - asmuo
   - ministras
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes:
-  - 'modernioji Lietuva'
+  - modernioji Lietuva
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4413290103d8ca37270cea18"
-canonical_name: "Augustinas Voldemaras"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Augustinas Voldemaras"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4413290103d8ca37270cea18
+canonical_name: Augustinas Voldemaras
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Augustinas Voldemaras
 sameAs: []
-canonical_biography: "Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą. Voldemarui teko skelbti mobilizaciją. Voldemaro vyriausybė neturėjo ginkluotųjų pajėgų."
+canonical_biography: 'Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą. Voldemarui teko skelbti mobilizaciją. Voldemaro vyriausybė neturėjo ginkluotųjų pajėgų.'
+external_sources_json: '[{"title":"Augustinas Voldemaras","url":"https://lt.wikipedia.org/wiki/Augustinas_Voldemaras","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Augustinas Voldemaras","url":"https://www.vle.lt/straipsnis/augustinas-voldemaras/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T07:21:18+00:00","source_checked_at":"2026-09-19T07:21:18+00:00","counts":{"relations":3,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Augustinas Voldemaras","url":"https://lt.wikipedia.org/wiki/Augustinas_Voldemaras","publisher":"Vikipedija","language":"lt","article_id":"6942","revision_id":"7891236","published_at":"2026-07-31T17:14:15Z","version_pk":"","content_hash":"27e726d275548899e2d6b85ed19d5580a3e39e2c8a0640700ddb8a9592831510","retrieved_at":"2026-09-19T07:20:07+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Augustinas_Voldemaras&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"6942"}},"intro":"Augustinas Voldemaras (1883 m. balandžio 16 d. Dysnoje, Tverečiaus valsčius – 1942 m. gruodžio 16 d. Maskvoje, Rusija) – tarpukario Lietuvos politinis veikėjas, istorikas, pirmosios Vyriausybės vadovas. Jo šalininkai save vadino voldemarininkais.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1883 m. balandžio 16 d.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Dysna, Tverečiaus valsčius","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1942 m. gruodžio 16 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Maskva","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Matilda Delahay-Voldemarienė","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Augustinas Voldemaras","url":"https://lt.wikipedia.org/wiki/Augustinas_Voldemaras","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Augustinas Voldemaras","url":"https://www.vle.lt/straipsnis/augustinas-voldemaras/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Augustinas_Voldemaras","https://www.vle.lt/straipsnis/augustinas-voldemaras/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f751028460476fe2f6bba407","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Ekstravagantiškas","context":"Šaltinio autorių apibūdinimas apie Augustiną Voldemarą 1918 m., kai jis buvo istorijos profesorius ir pradėjo vadovauti ministrų kabinetui.","support_ids":["t-75773","c-73459"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75773","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73459","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Gavusi naujo Vo- kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą. Kabinetas pradėjo veikti 1918 m. lapkričio 11 d. Ekstravagantiškasis istorijos pro- fesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą Lietuva nesiruošianti kariauti – užteksią milicijos… Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją. Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu- cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir metė Raudonosios armijos divizijas paskui…"}],"status":"published","conflict_status":"clear"},{"trait_id":"ad3ac52e3b734ff14ae95722","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Istorijos profesorius, ministrų kabineto vadovas ir užsienio reikalų ministras","context":"1918 m. lapkričio 11 d. pradėjęs veikti ministrų kabinetas; šaltinis nurodo, kad Voldemaras tapo ir užsienio reikalų ministru.","support_ids":["t-75773","c-73459"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75773","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73459","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Gavusi naujo Vo- kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą. Kabinetas pradėjo veikti 1918 m. lapkričio 11 d. Ekstravagantiškasis istorijos pro- fesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą Lietuva nesiruošianti kariauti – užteksią milicijos… Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją. Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu- cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir metė Raudonosios armijos divizijas paskui…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Kaunas","claim_id":"t-179948","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Ženeva","claim_id":"t-75772","confidence":0.7},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Voldemarininkai","claim_id":"t-75784","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: cd5a3c38782a2293
+object_page_generated_at: '2026-09-19T07:21:18+00:00'
+object_page_source_checked_at: '2026-09-19T07:21:18+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Augustinas Voldemaras: Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų…'
+object_page_seo_input_hash: 8c08ac4138006fb443c7e468f7a8b0b8f4b4838efa65c2c4ab7b3c609abc802c
+object_page_seo_generated_at: '2026-09-19T07:21:18+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Augustinas Voldemaras
 

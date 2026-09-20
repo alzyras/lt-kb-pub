@@ -1,15 +1,15 @@
 ---
 tipas: grupe
-pavadinimas: 'Jogailaičiai'
+pavadinimas: Jogailaičiai
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
 datos:
-  - '1514 m.'
-  - '1515 m.'
-  - '2026 m.'
+  - 1514 m.
+  - 1515 m.
+  - 2026 m.
 date_start: '1514'
 date_end: '2026'
 sukurta: ''
@@ -18,20 +18,30 @@ tags:
   - dinastija
   - grupe
 amziai:
-  - 'XVI'
-  - 'XXI'
+  - XVI
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Jogailaičiai","url":"https://www.vle.lt/straipsnis/jogailaiciai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:31:48+00:00","source_checked_at":"2026-09-19T19:31:48+00:00","counts":{"relations":2,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Jos garbei Upsaloje visa koplyčia vadinama Jogailaičių vardu, o sarkofagas papuoštas Lenkijos, Lietuvos ir Švedijos herbais.","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","claim_id":"t-207508","evidence_id":"c-190125","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Jogailaičiai","url":"https://www.vle.lt/straipsnis/jogailaiciai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/jogailaiciai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"85b57e43fbe800df2f8b100d","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Jogailaičiai buvo Gediminaičių giminės lenkiškoji šaka.","context":"Alfredas Bumblauskas, aprašydamas Lenkijos ir Lietuvos personalinės unijos politinę sistemą.","support_ids":["t-207507","c-190124"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207507","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190124","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"os sutartis sukūrė politinę sistemą, kurioje viršenybė priklausė Lenkijai, o šiai sistemai – Lenkijos ir Lietuvos personalinei unijai – vadovauti Jogailai tapus Lenkijos ka- raliumi iškelti Gediminaičiai, tapę lenkiškąja šios giminės šaka – Jogailaičiais. Ši"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8d014ee4ef9f183347081824","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Jogailaičių dinastijos palikuonys perdavė savo genus Europos monarchijoms.","context":"Teiginys pateiktas Lietuvos istorijos autorių pasakojime; šaltinis tai formuluoja kaip autoriaus vertinimą.","support_ids":["t-193537","c-176217"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193537","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-176217","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Okupacijos ir aneksijos, tremtys, genocidai ir Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei- kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje, JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi- ninkų, audėjų, auklių, inžinierių."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5c055db4461ab7f85c88e48d","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Jogailaičiai siekė įtakos Čekijoje ir Vengrijoje.","context":"1515 m. Vienos suvažiavimo kontekste Habsburgai varžėsi su Jogailaičiais dėl įtakos šiose šalyse.","support_ids":["t-110661","c-102463"],"source_refs":[{"kind":"internal_claim","claim_id":"t-110661","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-102463","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"suvažiavimas Vienoje. Nors Habsburgai dinastinėje kovoje su Jogailaičiais dėl įtakos Čekijoje ir Vengrijoje turėjo neabejotinai daugiau naudos, bet nustojo remti amžinus Lietuvos ir Lenkijos priešus - Vokiečių or- diną ir Maskvą. 1514 m."}],"status":"published","conflict_status":"clear"},{"trait_id":"7ef48030d361ad7335d9eef6","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Jogailaičiai dalyvavo dinastinėje kovoje dėl įtakos Čekijoje ir Vengrijoje.","context":"Aprašoma 1515 m. Vienos suvažiavimo politinė situacija.","support_ids":["t-110661","c-102463"],"source_refs":[{"kind":"internal_claim","claim_id":"t-110661","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-102463","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"suvažiavimas Vienoje. Nors Habsburgai dinastinėje kovoje su Jogailaičiais dėl įtakos Čekijoje ir Vengrijoje turėjo neabejotinai daugiau naudos, bet nustojo remti amžinus Lietuvos ir Lenkijos priešus - Vokiečių or- diną ir Maskvą. 1514 m."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Jogailaičiai – Gediminaičių lenkiškoji šaka, iškelta Jogailai Jogailai tapus Lenkijos karaliumi. Ji siejama su Lenkijos ir Lietuvos personaline unija bei politine sistema, kurioje viršenybė priklausė Lenkijai. Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių, o valdant Steponui turėjo stiprų karaliaus palaikymą. Meno istorikas Mikalojus Vorobjovas galimą Šv. Onos bažnyčios ryšį su vėlyvąja Flandrijos gotika siejo ir su paskutiniųjų Jogailaičių giminystės ryšiais su Margarita Austrijiete Savojiete bei abiejų dvarų santykiais. Jogailaičių atminimą Upsaloje žymi jų vardu vadinama koplyčia, kurios sarkofagą puošia Lenkijos, Lietuvos ir Švedijos herbai.","sentences":[{"sentence_id":"s1","text":"Jogailaičiai – Gediminaičių lenkiškoji šaka, iškelta Jogailai Jogailai tapus Lenkijos karaliumi.","support_ids":["t-207507","c-190124"]},{"sentence_id":"s2","text":"Ji siejama su Lenkijos ir Lietuvos personaline unija bei politine sistema, kurioje viršenybė priklausė Lenkijai.","support_ids":["t-207507","c-190124"]},{"sentence_id":"s3","text":"Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių, o valdant Steponui turėjo stiprų karaliaus palaikymą.","support_ids":["t-110663","c-102461","t-110662"]},{"sentence_id":"s4","text":"Meno istorikas Mikalojus Vorobjovas galimą Šv. Onos bažnyčios ryšį su vėlyvąja Flandrijos gotika siejo ir su paskutiniųjų Jogailaičių giminystės ryšiais su Margarita Austrijiete Savojiete bei abiejų dvarų santykiais.","support_ids":["t-200755","c-184100"]},{"sentence_id":"s5","text":"Jogailaičių atminimą Upsaloje žymi jų vardu vadinama koplyčia, kurios sarkofagą puošia Lenkijos, Lietuvos ir Švedijos herbai.","support_ids":["t-207508","c-190125"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta nurodytais šaltiniais: Jogailai tapus Lenkijos karaliumi, Gediminaičiai tapo lenkiškąja giminės šaka – Jogailaičiais."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo Lenkijos ir Lietuvos personalinę uniją bei politinę sistemą, kurioje viršenybė priklausė Lenkijai."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių ir stipriai palaikomas karaliaus Stepono."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai sieja galimą Šv. Onos bažnyčios ryšį su vėlyvąja Flandrijos gotika, Jogailaičių giminystę su Margarita Austrijiete Savojiete ir abiejų dvarų santykius."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Upsaloje koplyčia vadinama Jogailaičių vardu, o sarkofagą puošia Lenkijos, Lietuvos ir Švedijos herbai."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-207507","c-190124"]},{"sentence_id":"s2","supported":true,"support_ids":["t-207507","c-190124"]},{"sentence_id":"s3","supported":true,"support_ids":["t-110663","c-102461","t-110662"]},{"sentence_id":"s4","supported":true,"support_ids":["t-200755","c-184100"]},{"sentence_id":"s5","supported":true,"support_ids":["t-207508","c-190125"]}],"verifier":"gpt-5.6-luna"},"quality":28,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/asmenys/Motiejus Huniadis","claim_id":"t-79132","confidence":0.95},{"predicate":"buvo_priesas","direction":"inbound","target":"objektai/grupes/Habsburgai","claim_id":"t-110661","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":7,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 51ffd601487dbb8a
+object_page_generated_at: '2026-09-19T19:31:48+00:00'
+object_page_source_checked_at: '2026-09-19T19:31:48+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '5'
+object_page_seo_description: 'Jogailaičiai – Gediminaičių lenkiškoji šaka, iškelta Jogailai Jogailai tapus Lenkijos karaliumi. Ji siejama su Lenkijos ir Lietuvos personaline unija bei…'
+object_page_seo_input_hash: ad3daf84ee71c23300b2fd0e95aec579b85d421144b1b1c9865a96aa5ddb3b4a
+object_page_seo_generated_at: '2026-09-19T19:31:48+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jogailaičiai
 

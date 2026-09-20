@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Ivanas (Maskvos valdovas)'
+pavadinimas: Ivanas (Maskvos valdovas)
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
@@ -15,19 +15,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-116d7b0dcd5f5357e8be6fbc"
-canonical_name: "Ivanas (Maskvos valdovas)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Ivanas (Maskvos valdovas)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-116d7b0dcd5f5357e8be6fbc
+canonical_name: Ivanas (Maskvos valdovas)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Ivanas (Maskvos valdovas)
 sameAs: []
-canonical_biography: "Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos. Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo. Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis."
+canonical_biography: 'Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos. Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo. Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:05:49+00:00","source_checked_at":"2026-09-20T06:05:49+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0693a99b2a660730de565517","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Ivanas teigė negalįs ramiai žiūrėti, kaip rusai verčiami atsisakyti prosenelių tikėjimo, ir pasisakė prieš tokį smurtą.","context":"Alberto Vijūko-Kojelavičiaus 1989 m. veikale, aprašant Ivano kaltinimus Aleksandrui dėl rusų tikėjimo varžymo.","support_ids":["t-185944","c-169305"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185944","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-169305","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Juk jis įsakęs Vilniaus vys­ kupui Vaitiekui Taborui ir P a sk elb ia A le k sa n d - Smolensko Juozapui Solta- rui karą nui ne kartą raginti Eleną pereiti į Romos tikėjimą; li­ gi šiol rūmuose nesanti pastatyta Elenos reikalams koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo ir todėl kai kurie, norėdami išvengti šitokios nuodė­ mės, ieškosi prieglobsčio Maskvoje. Jis, Ivanas, nieku būdu negalįs ramiai žiūrėti, kaip jam daroma skriau­ dos, negalįs nepaisyti rusų maldavimų, todėl ateityje pasirūpinsiąs ginklu atremti bet kokį smurtą, kurio bus griebiamasi prieš asmenis ir tėvonijas, jo paimtas į globą. Skubiai po to pasiuntęs žygūną, sakėsi pas­ kelbsiąs Aleksandrui tikrą karą…"}],"status":"published","conflict_status":"clear"},{"trait_id":"c20b0af18bc1a9708c61785f","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Ivanas kaltino Aleksandrą ir grasino ateityje ginklu atremti smurtą prieš jo globon paimtus asmenis bei jų tėvonijas; po to pasiuntė žygūną ir pareiškė paskelbsiąs tikrą karą.","context":"Alberto Vijūko-Kojelavičiaus 1989 m. aprašytas Ivano kreipimasis į Aleksandrą dėl religinio spaudimo ir globojamų asmenų.","support_ids":["t-185944","c-169305"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185944","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-169305","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Juk jis įsakęs Vilniaus vys­ kupui Vaitiekui Taborui ir P a sk elb ia A le k sa n d - Smolensko Juozapui Solta- rui karą nui ne kartą raginti Eleną pereiti į Romos tikėjimą; li­ gi šiol rūmuose nesanti pastatyta Elenos reikalams koplyčia; rusai verčiami atsisakyti prosenelių tikėjimo ir todėl kai kurie, norėdami išvengti šitokios nuodė­ mės, ieškosi prieglobsčio Maskvoje. Jis, Ivanas, nieku būdu negalįs ramiai žiūrėti, kaip jam daroma skriau­ dos, negalįs nepaisyti rusų maldavimų, todėl ateityje pasirūpinsiąs ginklu atremti bet kokį smurtą, kurio bus griebiamasi prieš asmenis ir tėvonijas, jo paimtas į globą. Skubiai po to pasiuntęs žygūną, sakėsi pas­ kelbsiąs Aleksandrui tikrą karą…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 0943c7cc7d2ce612
+object_page_generated_at: '2026-09-20T06:05:49+00:00'
+object_page_source_checked_at: '2026-09-20T06:05:49+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Ivanas (Maskvos valdovas): Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų nuskriausti jo globon paimti asmenys ar jų tėvonijos.…'
+object_page_seo_input_hash: 84fe77e65a687eb1e5f39d892baefef8ce1d6466e4afeadcaa0fce4f12deb1c7
+object_page_seo_generated_at: '2026-09-20T06:05:49+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ivanas (Maskvos valdovas)
 

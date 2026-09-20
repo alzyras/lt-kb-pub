@@ -1,17 +1,17 @@
 ---
 tipas: vieta
-pavadinimas: 'Praha'
+pavadinimas: Praha
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1490 m.'
-  - '1851 m.'
-  - '1927 m.'
-  - '1999 m.'
-  - '2002 m.'
+  - 1490 m.
+  - 1851 m.
+  - 1927 m.
+  - 1999 m.
+  - 2002 m.
 date_start: '1490'
 date_end: '2002'
 sukurta: ''
@@ -20,29 +20,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XV'
-  - 'XXI'
+  - XV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-84052c8ea0d93a909c158574"
-canonical_name: "Praha"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Praha"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-84052c8ea0d93a909c158574
+canonical_name: Praha
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Praha
 sameAs: []
-canonical_biography: "Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą."
+canonical_biography: 'Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Praha","url":"https://lt.wikipedia.org/wiki/Praha","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Praha","url":"https://www.vle.lt/straipsnis/praha/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:20:54+00:00","source_checked_at":"2026-09-20T03:20:54+00:00","counts":{"relations":7,"gallery":0,"sources":6},"featured_claim_ids":["t-181441","t-183079","t-185099","t-183868","t-193227"],"featured_claims":[{"claim_id":"t-181441","text":"2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-164994"]},{"claim_id":"t-183079","text":"Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-166468"]},{"claim_id":"t-185099","text":"Karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-168460"]},{"claim_id":"t-183868","text":"Prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-167253"]},{"claim_id":"t-193227","text":"Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-24405"]}],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Praha","url":"https://lt.wikipedia.org/wiki/Praha","publisher":"Vikipedija","language":"lt","article_id":"7487","revision_id":"7722186","published_at":"2025-12-25T18:05:55Z","version_pk":"","content_hash":"9969b97b7b47df8a35a39d1b644473c3e06a09dadee024f8ec2f177c5f3de811","retrieved_at":"2026-09-20T03:18:03+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Praha&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"7487"}},"intro":"Praha (ček. Praha) – Čekijos sostinė ir didžiausias miestas; Vidurio Čekijos krašto administracinis centras, miestas taip pat turi atskiro administracinio vieneto statusą. Svarbus susisiekimo, pramonės ir kultūros centras. Išvystyta mašinų, chemijos, tekstilės, siuvimo, poligrafijos, maisto pramonė. Prahoje yra Karolio universitetas, mokslų akademija, daug bibliotekų, nacionalinis ir kiti teatrai, nacionalinė galerija, nacionalinis muziejus ir kt. Istorinis miesto branduolys – gotikinė Šv. Vito katedra (XIV–XX a.) su karališkaisiais rūmais (XII–XVIII a.). Yra renesanso stiliaus Belvederio rūmai (XVI a.). Daug gotikos ir baroko stilių pastatų. Yra XIX a. pabaigos eklektinio stiliaus pastatų (nacionalinis muziejus, nacionalinis teatras). Yra tarptautinis oro uostas („Ruzyně“), tramvajus, metropolitenas.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Praha","url":"https://lt.wikipedia.org/wiki/Praha","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Praha","url":"https://www.vle.lt/straipsnis/praha/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Praha","https://www.vle.lt/straipsnis/praha/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"cdcd152f5f3d19ce783377fc","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"kautynių vieta","context":"Šaltinyje aprašoma, kad prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta; 2007 m. šaltinio pasakojimas apie apsiausties laikotarpį.","support_ids":["t-183868","c-167253"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183868","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-167253","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tos niautynės pagaliau baigėsi prancūzų iškvietimu kautis, jiems lenkai paaiškino, kad jeigu esą tikri riteriai ir norį parodyti narsą, nustatytas jų skaičius tepasirenka tam vietą. Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o imperatorių Vaclovą abiejų tautų teisėju pasirinkę32. Taip įvairioms kautynėms ir ginčams besitęsiant praėjo penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­ nėje pilyje33."}],"status":"published","conflict_status":"clear"},{"trait_id":"dfe6009671d2a3f0ef59402e","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"lietuvių kolegija","context":"Šaltinyje teigiama, kad karalienė Jadvyga Čekijos Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų; 1989 m. šaltinio istorinis pasakojimas.","support_ids":["t-185099","c-168460"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185099","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168460","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Mat valdovė ypač mylėjo lietuvius ir visada jais rūpinosi, stengėsi, kad šio krašto jaunuomenė eitų M irus karalienei Jad- visokius mokslus. Kol Kroku- v y g a i voje dar nebuvo akademijos, ji tuo tikslu įkūrė Čekijos Prahoje lietuvių kolegiją ir jai paskyrė gausių lėšų. Ka­ ralius, patyręs pralaimėjimą kovos lauke ir prislėgtas asmeninio sielvarto, skaudžiai liūdėjo ir dėl kito namų negando."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Praha – istorinė vieta Čekijoje, minima Lietuvos politinių, religinių ir kultūrinių ryšių istorijoje. 2002 m. lapkritį čia Lietuva ir dar šešios NATO kandidatės buvo pakviestos pradėti derybas dėl narystės Šiaurės Atlanto sutarties organizacijoje, todėl miestas tapo svarbiu Lietuvos euroatlantinės integracijos epizodo fonu. Viduramžiais Praha buvo pasirinkta ir kaip numatoma kautynių vieta, kai prancūzai priėmė lenkų kvietimą į dvikovą, o imperatorius Vaclovas turėjo būti jos teisėjas. Su Praha siejamas ir švietimo vaidmuo: karalienė Jadvyga čia įkūrė lietuvių kolegiją bei skyrė jai gausių lėšų. Miestas taip pat minimas krikščionybės sklaidos istorijoje, nes Prahos vyskupas šv. Vaitiekus, arba Adalbertas, laikomas pirmuoju žinomu aisčių apaštalu.","sentences":[{"sentence_id":"s1","text":"Praha – istorinė vieta Čekijoje, minima Lietuvos politinių, religinių ir kultūrinių ryšių istorijoje.","support_ids":["c-168460","c-24405"]},{"sentence_id":"s2","text":"2002 m. lapkritį čia Lietuva ir dar šešios NATO kandidatės buvo pakviestos pradėti derybas dėl narystės Šiaurės Atlanto sutarties organizacijoje, todėl miestas tapo svarbiu Lietuvos euroatlantinės integracijos epizodo fonu.","support_ids":["t-181441","c-164994"]},{"sentence_id":"s3","text":"Viduramžiais Praha buvo pasirinkta ir kaip numatoma kautynių vieta, kai prancūzai priėmė lenkų kvietimą į dvikovą, o imperatorius Vaclovas turėjo būti jos teisėjas.","support_ids":["t-183868","c-167253"]},{"sentence_id":"s4","text":"Su Praha siejamas ir švietimo vaidmuo: karalienė Jadvyga čia įkūrė lietuvių kolegiją bei skyrė jai gausių lėšų.","support_ids":["t-185099","c-168460"]},{"sentence_id":"s5","text":"Miestas taip pat minimas krikščionybės sklaidos istorijoje, nes Prahos vyskupas šv. Vaitiekus, arba Adalbertas, laikomas pirmuoju žinomu aisčių apaštalu.","support_ids":["t-193227","c-24405"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia Prahos ryšį su Lietuvos švietimo ir religijos istorija, bet nepakankamai pagrindžia politinius ir kultūrinius ryšius."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis pagrindžia kvietimą pradėti narystės derybas Prahoje, tačiau neparemia išvados, kad miestas tapo svarbiu Lietuvos euroatlantinės integracijos epizodo fonu."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad prancūzai pasirinko Prahą kautynių vieta, o imperatorių Vaclovą – teisėju."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Prahos vyskupas šv. Vaitiekus, arba Adalbertas, buvo pirmasis žinomas aisčių apaštalas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["c-168460","c-24405"]},{"sentence_id":"s2","supported":true,"support_ids":["t-181441","c-164994"]},{"sentence_id":"s3","supported":true,"support_ids":["t-183868","c-167253"]},{"sentence_id":"s4","supported":true,"support_ids":["t-185099","c-168460"]},{"sentence_id":"s5","supported":true,"support_ids":["t-193227","c-24405"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Jonas Basanavičius","claim_id":"t-78004","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Butrimas","claim_id":"t-97031","confidence":0.95},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Zigmantas Kaributas","claim_id":"t-176865","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Žygimantas Kaributaitis","claim_id":"t-114098","confidence":0.8},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-183828","confidence":0.74},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Prancūzai","claim_id":"t-183828","confidence":0.74},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176671","confidence":0.91}],"timeline":[],"support_disclosure":{"claims":6,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 2724b7ba3cf41cd8
+object_page_generated_at: '2026-09-20T03:20:54+00:00'
+object_page_source_checked_at: '2026-09-20T03:20:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '4'
+object_page_seo_description: 'Praha – istorinė vieta Čekijoje, minima Lietuvos politinių, religinių ir kultūrinių ryšių istorijoje. 2002 m. lapkritį čia Lietuva ir dar šešios NATO…'
+object_page_seo_input_hash: c25bcea6381a823c7378dc5b5f2f83287fcef47ecd8e0032b6c4f378921aeac6
+object_page_seo_generated_at: '2026-09-20T03:20:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Praha
 

@@ -1,12 +1,12 @@
 ---
 tipas: paprotys
-pavadinimas: 'Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės'
+pavadinimas: Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1863 m.'
-  - '1864 m.'
-  - '1897 m.'
+  - 1863 m.
+  - 1864 m.
+  - 1897 m.
 date_start: '1863'
 date_end: '1897'
 sukurta: ''
@@ -15,19 +15,29 @@ tags:
   - švietimas
   - paprotys
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T08:12:27+00:00","source_checked_at":"2026-09-20T08:12:27+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"65a9f0f77283fb778c7e0af1","canonical_code":"custom.participants","label":"Dalyviai","group":"Papročio eiga","value":"Kaimiečiai, vyskupas Motiejus Valančius, patikimi kunigai ir rašto mokantis kaimietis, mokęs kitus","context":"Šaltinyje aprašoma po 1863–1864 m. sukilimo vykusi veikla.","support_ids":["t-183334","c-166724"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183334","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166724","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Valdžiai nepavyko į savo pusę patraukti valstiečių – mat didelės dalies etninės Lietuvos kaimo gyventojams vyskupo M. Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba. Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti. O kad neliktų beraščiai, patiems kaimuose organizuoti slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis. Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose."}],"status":"published","conflict_status":"clear"},{"trait_id":"765369ce224fcbb8a6f62817","canonical_code":"custom.occasion","label":"Proga","group":"Papročio eiga","value":"Po 1863–1864 m. sukilimo, valdžiai leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai","context":"Aplinkybės nurodytos šaltinio autoriaus istoriniame pasakojime.","support_ids":["t-183334","c-166724"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183334","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166724","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Valdžiai nepavyko į savo pusę patraukti valstiečių – mat didelės dalies etninės Lietuvos kaimo gyventojams vyskupo M. Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba. Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti. O kad neliktų beraščiai, patiems kaimuose organizuoti slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis. Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose."}],"status":"published","conflict_status":"clear"},{"trait_id":"a99bde3f343a3dd81c6d26d5","canonical_code":"custom.course","label":"Eiga","group":"Papročio eiga","value":"Vyskupas Motiejus Valančius per patikimus kunigus ragino kaimiečius neleisti vaikų į rusiškas mokyklas; kaimuose buvo organizuojamos slaptos mokyklėlės, kuriose rašto mokė raštingas kaimietis; tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose","context":"Šaltinyje aprašoma po 1863–1864 m. sukilimo vykusi veikla.","support_ids":["t-183334","c-166724"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183334","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166724","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Valdžiai nepavyko į savo pusę patraukti valstiečių – mat didelės dalies etninės Lietuvos kaimo gyventojams vyskupo M. Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba. Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti. O kad neliktų beraščiai, patiems kaimuose organizuoti slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis. Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose."}],"status":"published","conflict_status":"clear"},{"trait_id":"ebd6f1af1d8e5cf8ddf08cbd","canonical_code":"custom.means","label":"Priemonės","group":"Papročio bruožai","value":"Slaptos kaimų mokyklėlės, vadintos daraktorinėmis mokyklėlėmis; jose mokyta skaityti ir rašyti gimtąja kalba","context":"Priemonės aprašytos šaltinio autoriaus pasakojime apie mokymosi organizavimą.","support_ids":["t-183334","c-166724"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183334","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166724","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Valdžiai nepavyko į savo pusę patraukti valstiečių – mat didelės dalies etninės Lietuvos kaimo gyventojams vyskupo M. Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba. Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti. O kad neliktų beraščiai, patiems kaimuose organizuoti slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis. Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose."}],"status":"published","conflict_status":"clear"},{"trait_id":"21a1efb6dd63a78d476801da","canonical_code":"custom.significance","label":"Reikšmė","group":"Papročio bruožai","value":"Kad vaikai neliktų beraščiai ir galėtų mokytis skaityti bei rašyti gimtąja kalba","context":"Tai šaltinyje tiesiogiai nurodytas slaptų mokyklėlių organizavimo tikslas.","support_ids":["t-183334","c-166724"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183334","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166724","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Valdžiai nepavyko į savo pusę patraukti valstiečių – mat didelės dalies etninės Lietuvos kaimo gyventojams vyskupo M. Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba. Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti. O kad neliktų beraščiai, patiems kaimuose organizuoti slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis. Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: fe8ee7823beeb8ed
+object_page_generated_at: '2026-09-20T08:12:27+00:00'
+object_page_source_checked_at: '2026-09-20T08:12:27+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės: Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas…'
+object_page_seo_input_hash: 71c7cc73a710d9c524f5d490866a131c349ae39884dc7c6ae14b337e7180cc39
+object_page_seo_generated_at: '2026-09-20T08:12:27+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės
 

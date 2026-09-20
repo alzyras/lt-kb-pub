@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Kolainių pilis (pilis)'
+pavadinimas: Kolainių pilis (pilis)
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1289 m.'
-  - '1290 m.'
-  - '1291 m.'
-  - '1293 m.'
+  - 1289 m.
+  - 1290 m.
+  - 1291 m.
+  - 1293 m.
 date_start: '1289'
 date_end: '1293'
 sukurta: ''
@@ -17,28 +17,42 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fea61b0451d802115dcd0aa6"
-canonical_name: "Kolainių pilis (pilis)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kolainių pilis","Kolainių pilis (pilis)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fea61b0451d802115dcd0aa6
+canonical_name: Kolainių pilis (pilis)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kolainių pilis
+  - Kolainių pilis (pilis)
 sameAs: []
-canonical_biography: "Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį."
+canonical_biography: 'Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Kolainių pilis","url":"https://www.vle.lt/straipsnis/kolainiu-pilis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T05:19:21+00:00","source_checked_at":"2026-09-20T05:19:21+00:00","counts":{"relations":2,"gallery":0,"sources":3},"featured_claim_ids":["t-221112","t-225422","t-184389","t-222964","t-224392"],"featured_claims":[{"claim_id":"t-221112","text":"1291 m. apie vasario 2 d. Bertoldas Bruhavenas su 1500 vyrų rado Kolainių pilį tuščią ir ją sudegino.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-205487"]},{"claim_id":"t-225422","text":"Kolainių pilis dažniausiai siejama su Kalnėnais į vakarus nuo Jurbarko, nors jos vieta tiksliai nenustatyta.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-205013"]},{"claim_id":"t-184389","text":"1290 m. Ordino magistras su daugeliu riterių ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-167757"]},{"claim_id":"t-222964","text":"Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202940","c-203427"]},{"claim_id":"t-224392","text":"Kolainių pilininkas Surminas su pilėnais tarėsi, kaip apgauti pro pilį plaukusius Ordino brolius.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202940"]}],"featured_quote":{"text":"Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį. Ją gynė Surminas « su 120 rinktinių karo vyrų, kurie narsiai pasipriešino broliams ». Pasak Dusburgo, « nuo pilies sienų kraujas tekėjo, tarsi patvinęs vanduo », ir tik 12 gynėjų likę nesu­ žeisti.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","claim_id":"t-68236","evidence_id":"c-67877","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Kolainių pilis","url":"https://www.vle.lt/straipsnis/kolainiu-pilis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/kolainiu-pilis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"2f2dcdd253dbf95e45e9321e","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Pilies vieta tiksliai nenustatyta; ji dažniausiai siejama su Kalnėnais į vakarus nuo Jurbarko, taip pat ieškota toliau į rytus už Bisenės.","context":"Šaltinio komentaro vertinimas; 1985 m.","support_ids":["t-225422","c-205013"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225422","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205013","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie brolio Ernekės, Ragainės pilies komtūro, žūtį 529 D.— Colayne, Jer.— Kalaine. Tiksliau kol kas nelokalizuota Kolainių pilis dažniausiai siejama su Kalnėnais į vak. nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; Łowmiański H., Studja..., 2, p. 97; Lietuvių karas..., p. 190), tačiau ten, Nemuno deš. krante žemiau Mituvos esančioje piliavietėje, buvo XIII a. (žr. paaiškinimus D. III, 83, 2) ir XIV a. (SRP, 2, p. 709) kryžiuočių pilis. Kolainių ieškota ir toliau į rytus už Bisenės (SZM, p. 218—219; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 212—213 ir 1 žemėl.). Manytume, kad Kolainių pilis sietina su piliakalniu, esančiu Jurbarko šiauriniame pakraštyje, Imsrės kair.…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7e72aacfba16ab550cecbfef","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Pilies apylinkės buvo prie Nemuno krantų; 1290 m. ji minima kaip esanti už Bisenos.","context":"Istorinis aprašymas, 1290 m.","support_ids":["t-68236","c-67877"],"source_refs":[{"kind":"internal_claim","claim_id":"t-68236","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-67877","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį. Ją gynė Surminas « su 120 rinktinių karo vyrų, kurie narsiai pasipriešino broliams ». Pasak Dusburgo, « nuo pilies sienų kraujas tekėjo, tarsi patvinęs vanduo », ir tik 12 gynėjų likę nesu­ žeisti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8f4f2f39df2e5ddc4ca1c63f","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Pilį juosė sienos.","context":"Aprašant 1290 m. puolimą, šaltinyje sakoma, kad kraujas tekėjo nuo pilies sienų.","support_ids":["t-68236","c-67877"],"source_refs":[{"kind":"internal_claim","claim_id":"t-68236","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-67877","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį. Ją gynė Surminas « su 120 rinktinių karo vyrų, kurie narsiai pasipriešino broliams ». Pasak Dusburgo, « nuo pilies sienų kraujas tekėjo, tarsi patvinęs vanduo », ir tik 12 gynėjų likę nesu­ žeisti."}],"status":"published","conflict_status":"clear"},{"trait_id":"16a03cedf76fe3c7ba98503f","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Pilies paskirtis buvo gynybinė: joje buvo gynėjų, o ją puolė Ordino kariuomenė.","context":"Istorinis aprašymas, 1290 m.; šaltinio autoriaus pasakojimas apie pilies gynimą ir puolimą.","support_ids":["t-184389","c-167757"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184389","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-167757","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Kadangi Nemunas strateginiu atžvilgiu buvo svarbus tolimesnei kovai, ordinas, pasistatęs savo pilis Ragainėje (1289), Schalauenburge (1293) ir vėliau įsikūręs Tilžėje, stengėsi upės krantus apvalyti nuo pagonių pilių. Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį. Ją gynė Surminas « su 120 rinktinių karo vyrų, kurie narsiai pasipriešino broliams »."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"published","text":"Kolainių pilis – XIII a. pabaigoje minima Lietuvos pilis, susijusi su kovomis prie Nemuno. Tiksli jos vieta nenustatyta, tačiau dažniausiai ji siejama su Kalnėnais į vakarus nuo Jurbarko; taip pat svarstomos vietos prie Jurbarko ir toliau į rytus už Bisenės. 1290 m. pilį puolė Ordino magistras su daugeliu riterių ir didele kariuomene, o jos gynėjams vadovavo Surminas, su 120 rinktinių karo vyrų atkakliai pasipriešinęs užpuolikams. 1291 m. apie vasario 2 d. Bertoldas Bruhavenas su maždaug 1500 vyrų rado pilį tuščią ir ją sudegino, prieš nusiaubdamas Junigedos valsčių. Išskirtinė pilies istorijos detalė – Surmino sumanytas mėginimas apgauti pro pilį laivais plaukusius Ordino brolius: vienas lietuvis turėjo persirengti moteriškais drabužiais ir prašytis priimamas į laivą.","sentences":[{"sentence_id":"s1","text":"Kolainių pilis – XIII a. pabaigoje minima Lietuvos pilis, susijusi su kovomis prie Nemuno.","support_ids":["t-184389","c-167757"]},{"sentence_id":"s2","text":"Tiksli jos vieta nenustatyta, tačiau dažniausiai ji siejama su Kalnėnais į vakarus nuo Jurbarko; taip pat svarstomos vietos prie Jurbarko ir toliau į rytus už Bisenės.","support_ids":["t-225422","c-205013"]},{"sentence_id":"s3","text":"1290 m. pilį puolė Ordino magistras su daugeliu riterių ir didele kariuomene, o jos gynėjams vadovavo Surminas, su 120 rinktinių karo vyrų atkakliai pasipriešinęs užpuolikams.","support_ids":["t-184389","c-167757"]},{"sentence_id":"s4","text":"1291 m. apie vasario 2 d. Bertoldas Bruhavenas su maždaug 1500 vyrų rado pilį tuščią ir ją sudegino, prieš nusiaubdamas Junigedos valsčių.","support_ids":["t-221112","c-205487"]},{"sentence_id":"s5","text":"Išskirtinė pilies istorijos detalė – Surmino sumanytas mėginimas apgauti pro pilį laivais plaukusius Ordino brolius: vienas lietuvis turėjo persirengti moteriškais drabužiais ir prašytis priimamas į laivą.","support_ids":["t-224392","c-202940"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"1290 m. šaltinyje minima Kolainių pilis ir kovos prie Nemuno."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo neaiškią vietą, siejimą su Kalnėnais ir kitas svarstomas lokalizacijas."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1290 m. puolimą, kariuomenę, Surminą ir 120 gynėjų."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1291 m. apie vasario 2 d. įvykį, Bertoldą Bruhaveną, 1500 vyrų, tuščią pilį, jos sudeginimą ir Junigedos valsčiaus nusiaubimą."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai aprašo Surmino sumanymą, persirengimą moteriškais drabužiais ir prašymą priimti į laivą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-184389","c-167757"]},{"sentence_id":"s2","supported":true,"support_ids":["t-225422","c-205013"]},{"sentence_id":"s3","supported":true,"support_ids":["t-184389","c-167757"]},{"sentence_id":"s4","supported":true,"support_ids":["t-221112","c-205487"]},{"sentence_id":"s5","supported":true,"support_ids":["t-224392","c-202940"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Surminas","claim_id":"t-184389","confidence":0.94},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-223521","confidence":0.78}],"timeline":[{"date":"1290 m.","label":"1290 m.","claimId":"t-68236"},{"date":"1290 m.","label":"1290 m.","claimId":"t-184389"},{"date":"1291 m.","label":"1291 m.","claimId":"t-221112"}],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: aeabcaf6736efbe8
+object_page_generated_at: '2026-09-20T05:19:21+00:00'
+object_page_source_checked_at: '2026-09-20T05:19:21+00:00'
+object_page_summary_support_json: '[{"sentence_id":"s1","text":"Kolainių pilis – XIII a. pabaigoje minima Lietuvos pilis, susijusi su kovomis prie Nemuno.","support_ids":["t-184389","c-167757"]},{"sentence_id":"s2","text":"Tiksli jos vieta nenustatyta, tačiau dažniausiai ji siejama su Kalnėnais į vakarus nuo Jurbarko; taip pat svarstomos vietos prie Jurbarko ir toliau į rytus už Bisenės.","support_ids":["t-225422","c-205013"]},{"sentence_id":"s3","text":"1290 m. pilį puolė Ordino magistras su daugeliu riterių ir didele kariuomene, o jos gynėjams vadovavo Surminas, su 120 rinktinių karo vyrų atkakliai pasipriešinęs užpuolikams.","support_ids":["t-184389","c-167757"]},{"sentence_id":"s4","text":"1291 m. apie vasario 2 d. Bertoldas Bruhavenas su maždaug 1500 vyrų rado pilį tuščią ir ją sudegino, prieš nusiaubdamas Junigedos valsčių.","support_ids":["t-221112","c-205487"]},{"sentence_id":"s5","text":"Išskirtinė pilies istorijos detalė – Surmino sumanytas mėginimas apgauti pro pilį laivais plaukusius Ordino brolius: vienas lietuvis turėjo persirengti moteriškais drabužiais ir prašytis priimamas į laivą.","support_ids":["t-224392","c-202940"]}]'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Kolainių pilis (pilis): Kolainių pilis – XIII a. pabaigoje minima Lietuvos pilis, susijusi su kovomis prie Nemuno. Tiksli jos vieta nenustatyta, tačiau…'
+object_page_seo_input_hash: 7925010875f2def14a5022a24ffca16eee44a4d62ab4e1c10c7549a92e4e25d4
+object_page_seo_generated_at: '2026-09-20T05:19:21+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kolainių pilis (pilis)
 

@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Klemensas V'
+pavadinimas: Klemensas V
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1222 m.'
-  - '1313 m.'
+  - 1222 m.
+  - 1313 m.
 date_start: '1222'
 date_end: '1313'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - kunigaikštis
   - popiežius
 amziai:
-  - 'XIII'
-  - 'XIV'
+  - XIII
+  - XIV
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d4bcf072cc89057fd1028618"
-canonical_name: "Klemensas V"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Klemensas V"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d4bcf072cc89057fd1028618
+canonical_name: Klemensas V
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Klemensas V
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol. Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir. Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių."
+canonical_biography: 'Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol. Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir. Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių.'
+external_sources_json: '[{"title":"Klemensas V","url":"https://lt.wikipedia.org/wiki/Klemensas_V","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Klemensas V","url":"https://www.vle.lt/straipsnis/klemensas-v/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:17:33+00:00","source_checked_at":"2026-09-20T06:17:33+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p. 1236).","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","claim_id":"t-225137","evidence_id":"c-206221","origin":"internal"},"wiki":{"status":"published","source":{"title":"Klemensas V","url":"https://lt.wikipedia.org/wiki/Klemensas_V","publisher":"Vikipedija","language":"lt","article_id":"161144","revision_id":"6217511","published_at":"2021-03-23T18:54:36Z","version_pk":"","content_hash":"683f78d1d1f3821824fd41002dafe1b849d36d2b6a6b1b039f2ecd15ca0a052d","retrieved_at":"2026-09-20T06:15:34+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Klemensas_V&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"161144"}},"intro":"Klemensas V (lot. Clemens V, tikroji pavardė pranc. Raymond Bertrand de Gouth, 1264 m. Vilandro, Akvitanija, Prancūzija – 1314 m. balandžio 20 d. Rokmoras, Langedokas-Rusijonas, palaidotas Uzeso katedroje, Akvitanija) – Romos katalikų bažnyčios popiežius nuo 1305 m. gruodžio 5 d. iki mirties.","original_intro":"","translation_status":"native","infobox":[{"code":"nationality","label":"Tautybė","value":"prancūzas","source":"wikipedia_infobox"},{"code":"positions","label":"Pareigos","value":"195-asis Popiežius","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"1264 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Vilandro, Prancūzija","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1314 m. balandžio 20 d.","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Klemensas V","url":"https://lt.wikipedia.org/wiki/Klemensas_V","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Klemensas V","url":"https://www.vle.lt/straipsnis/klemensas-v/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Klemensas_V","https://www.vle.lt/straipsnis/klemensas-v/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a5da2684156c9336e10da253","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Popiežius","context":"Šaltinyje Klemensas V tiesiogiai įvardijamas popiežiumi 1312–1313 m. aprašomuose įvykiuose.","support_ids":["t-221934","c-206221"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221934","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-206221","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių ordiną, įsteigtą 1112 viešpaties metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p. 1236)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Klemensas V buvo popiežius, XIII–XIV amžių sandūroje priėmęs kelis reikšmingus sprendimus Bažnyčios ir Europos politiniame gyvenime. 1303 m. jis atšaukė ankstesnį popiežiaus Bonifaco sprendimą Albrechtą paskelbti imperatoriumi ir perduoti jam Prancūzijos karalystę. 1312 m. kovo 22 d. Vieno sinode Klemensas V pasmerkė tamplierių ordiną, tačiau šis veiksmas dar nebuvo galutinis sprendimas, o tik Apaštališkojo Sosto parengiamasis žingsnis. 1313 m. gegužės 5 d. jis kanonizavo Petrą išpažintoją, anksčiau buvusį popiežių Celestiną V, ir nustatė jo pagerbimo dieną – birželio 14-ąją. Klemenso V mirtis kronikoje datuojama balandžio 20-ąja ir siejama su tuo, kad nuo kometos pasirodymo pradžios buvo praėję metai.","sentences":[{"sentence_id":"s1","text":"Klemensas V buvo popiežius, XIII–XIV amžių sandūroje priėmęs kelis reikšmingus sprendimus Bažnyčios ir Europos politiniame gyvenime.","support_ids":["t-221934","c-206221","t-223005","c-204377"]},{"sentence_id":"s2","text":"1303 m. jis atšaukė ankstesnį popiežiaus Bonifaco sprendimą Albrechtą paskelbti imperatoriumi ir perduoti jam Prancūzijos karalystę.","support_ids":["t-223005","c-204377"]},{"sentence_id":"s3","text":"1312 m. kovo 22 d. Vieno sinode Klemensas V pasmerkė tamplierių ordiną, tačiau šis veiksmas dar nebuvo galutinis sprendimas, o tik Apaštališkojo Sosto parengiamasis žingsnis.","support_ids":["t-221934","c-206221","t-225137"]},{"sentence_id":"s4","text":"1313 m. gegužės 5 d. jis kanonizavo Petrą išpažintoją, anksčiau buvusį popiežių Celestiną V, ir nustatė jo pagerbimo dieną – birželio 14-ąją.","support_ids":["t-225502","c-204909"]},{"sentence_id":"s5","text":"Klemenso V mirtis kronikoje datuojama balandžio 20-ąja ir siejama su tuo, kad nuo kometos pasirodymo pradžios buvo praėję metai.","support_ids":["t-220254","c-202518"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai patvirtina, kad Klemensas V buvo popiežius ir 1303–1313 m. priėmė reikšmingus politinius bei Bažnyčios sprendimus."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai patvirtinta, kad 1303 m. Klemensas V atšaukė Bonifaco sprendimą dėl Albrechto ir Prancūzijos karalystės."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai patvirtinta 1312 m. kovo 22 d. data, Vieno sinodas, tamplierių pasmerkimas ir tai, kad sprendimas buvo parengiamasis, ne galutinis."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai patvirtinta 1313 m. gegužės 5 d. kanonizacija, Celestino V tapatybė ir pagerbimo diena birželio 14 d."},{"sentence_id":"s5","supported":true,"reason":"Tiesiogiai patvirtinta, kad Klemensas V mirė balandžio 20 d., praėjus metams nuo kometos pasirodymo pradžios."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-221934","c-206221","t-223005","c-204377"]},{"sentence_id":"s2","supported":true,"support_ids":["t-223005","c-204377"]},{"sentence_id":"s3","supported":true,"support_ids":["t-221934","c-206221","t-225137"]},{"sentence_id":"s4","supported":true,"support_ids":["t-225502","c-204909"]},{"sentence_id":"s5","supported":true,"support_ids":["t-220254","c-202518"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b7ce859a94ea76b0
+object_page_generated_at: '2026-09-20T06:17:33+00:00'
+object_page_source_checked_at: '2026-09-20T06:17:33+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Klemensas V buvo popiežius, XIII–XIV amžių sandūroje priėmęs kelis reikšmingus sprendimus Bažnyčios ir Europos politiniame gyvenime. 1303 m. jis atšaukė…'
+object_page_seo_input_hash: 3092c2ed1a64715daf476a1f52649ddb82efb81025d3f669bbd567a90196400b
+object_page_seo_generated_at: '2026-09-20T06:17:33+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Klemensas V
 

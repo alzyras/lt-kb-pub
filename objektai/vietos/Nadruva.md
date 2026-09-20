@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Nadruva'
+pavadinimas: Nadruva
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1253 m.'
-  - '1259 m.'
-  - '1274 m.'
+  - 1253 m.
+  - 1259 m.
+  - 1274 m.
 date_start: '1253'
 date_end: '1274'
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - vieta
   - žemė
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d2dee3adf1a5c1329a2a231a"
-canonical_name: "Nadruva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Nadruva"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d2dee3adf1a5c1329a2a231a
+canonical_name: Nadruva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Nadruva
 sameAs: []
-canonical_biography: "Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-Vištyčio ruožo, šaltinio komentaruose siejama su Lietuvos valdovo valdomis, o 1274 m. kronikoje paversta Ordino puolimo taikiniu."
+canonical_biography: 'Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-Vištyčio ruožo, šaltinio komentaruose siejama su Lietuvos valdovo valdomis, o 1274 m. kronikoje paversta Ordino puolimo taikiniu.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Nadruva","url":"https://lt.wikipedia.org/wiki/Nadruva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Nadruva","url":"https://www.vle.lt/straipsnis/nadruva/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T08:06:58+00:00","source_checked_at":"2026-09-19T08:06:58+00:00","counts":{"relations":16,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Nadruva","url":"https://lt.wikipedia.org/wiki/Nadruva","publisher":"Vikipedija","language":"lt","article_id":"28040","revision_id":"7799740","published_at":"2026-04-06T23:20:35Z","version_pk":"","content_hash":"dbd07ecb3e0b63835ecbd8527cf566a3ba5fa8e8025450281bd4bac1af56d2b2","retrieved_at":"2026-09-19T08:04:43+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Nadruva&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"28040"}},"intro":"Nadruva (prūs. Nadrāuwa) (vokiečių istoriniuose šaltiniuose Nadrauja, Nadruva, Nadrawta, Nadrowen, Nadrauen) – Mažosios Lietuvos žemė Priegliaus aukštupio upyne su Pisos, Romintos, Geldapės, Angrapės, Auksinės (Augstės), Alnos žemupio, Įsros, Druojos ir Deimenos intakų upėmis bei Šešupės kairiaisiais intakais – Pilkalnio apskrities pietinė dalis, Stalupėnų, Gumbinės, Darkiemio, Galdapės ir Įsruties apskritys bei Labguvos apskrities rytinė dalis. Šiaurėje ribojasi su Skalva, rytuose – su Sūduva, pietuose – su Barta ir Notanga, vakaruose – su Semba.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Nadruva","url":"https://lt.wikipedia.org/wiki/Nadruva","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Nadruva","url":"https://www.vle.lt/straipsnis/nadruva/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Nadruva","https://www.vle.lt/straipsnis/nadruva/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f9da19ecbb445d4672377518","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Nadruva aprašoma kaip devintoji Prūsijos provincija ir viena iš vienuolikos Prūsijos žemės dalių.","context":"Petro Dusburgiečio kronikoje; istorinis aprašymas.","support_ids":["t-225594","c-203027"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225594","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203027","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."}],"status":"published","conflict_status":"clear"},{"trait_id":"af075b8d252545c78a7d391e","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Šiaurėje Nadruva ribojosi su Sūduva, galbūt per Pisos upę; vakaruose buvo Barta, pietuose – Priegliumi ir Angerape atskirta provincija, rytuose – Lietuva ir Žemaitija. Tarp Nadruvos ir Lietuvos bei Žemaitijos plytėjo dykros.","context":"Teodoro Narbuto aprašymas; sienų nustatymas ir jų tikslumas siejamas su skirtingais laikotarpiais.","support_ids":["t-215249","c-194889"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215249","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194889","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Nadruva Devinta prūsų provincija buvo Nadruva, kuri šiau­ rėje ribojosi su Sūduva, galbūt per Pisos upę. Kiek to­ liau į vakarus buvo Barta, o pietuose — provincija, kurią skyrė Prieglius ir Angerapė. Tačiau vėlesniais laikais ap­ tinkama, jog Nadruvos valdos tęsėsi net iki Nordenburgo. Rytuose Nadruva ribojosi su Lietuva ir Žemaitija, bet anuomet nebuvo visiškai tikslios sienos dėl tarp jų ply- tėjusių dykrų; iš šiaurės sienos buvo tikresnės ir geriau nustatytos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"bc4a327b4ae72f5c496f52b4","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Nadruviai gyveno toliau nuo Nemuno.","context":"Petro Dusburgiečio kronikos pasakojimas apie Ordino veiksmus po karo su nadruviais; karo laikotarpio kontekstas.","support_ids":["t-220689","c-202679"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220689","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202679","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie įvykius prieš šį karą Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius, įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno. 464 D."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d14cf552eba83cb74c7f1a4e","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Nadruva tarptautinėje plotmėje buvo laikoma Lietuvos valdovo žeme.","context":"1253–1259 m. Mindaugo dokumentų vertinimas; šaltinio autoriaus komentare.","support_ids":["t-224542","c-202733"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224542","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202733","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"33. 1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr. 252, 286, 342; PUB, 1, 2, Nr. 39, 79; LIŠ, 1, p. 46—47)."}],"status":"published","conflict_status":"clear"},{"trait_id":"18b584cf68eb35d0a00ca897","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Nadruvoje buvo šventykla – Romuva, kurioje veikė krivis; šaltinyje ji laikoma ankstyva pagonybės virtimo institucine religija apraiška ir savarankiška, iš dovanų išlaikoma institucija.","context":"Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio Lietuvos istorijos vertinimas; 2013 m. leidinyje aprašomas ankstesnis istorinis laikotarpis.","support_ids":["t-77023","c-74492"],"source_refs":[{"kind":"internal_claim","claim_id":"t-77023","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-74492","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tai- gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį. Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Krivis","claim_id":"t-217128","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Auktuolyčiai","claim_id":"t-220340","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Katavos valsčius","claim_id":"t-222576","confidence":0.96},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Katinavos apylinkės","claim_id":"t-223052","confidence":0.88},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Prūsai","claim_id":"t-215450","confidence":0.88},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-223797","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-225594","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Retavos valsčius","claim_id":"t-225201","confidence":0.91},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Romintės giria","claim_id":"t-223471","confidence":0.83},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Romovė Romuva","claim_id":"t-220711","confidence":0.85},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Romuva","claim_id":"t-183626","confidence":0.92},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Sasava (Salavijos tvirtovė)","claim_id":"t-213667","confidence":0.73},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Konradas","claim_id":"t-220673","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-171553","confidence":0.91},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Ditrichas (Sembos fogtas)","claim_id":"t-224031","confidence":0.84},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-171553","confidence":0.91}],"timeline":[],"support_disclosure":{"claims":14,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5feebb172b048de9
+object_page_generated_at: '2026-09-19T08:06:58+00:00'
+object_page_source_checked_at: '2026-09-19T08:06:58+00:00'
+object_page_content_state: content
+object_page_claim_count: '14'
+object_page_source_count: '4'
+object_page_seo_description: 'Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-Vištyčio ruožo, šaltinio komentaruose siejama su Lietuvos valdovo valdomis, o 1274 m.…'
+object_page_seo_input_hash: b4cf5fd8a72215a72b2c697ea697635c98f134d338f52867d2717e0f6996caa1
+object_page_seo_generated_at: '2026-09-19T08:06:58+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Nadruva
 

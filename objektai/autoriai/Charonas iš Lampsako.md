@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Charonas iš Lampsako'
+pavadinimas: Charonas iš Lampsako
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos: []
@@ -11,7 +11,7 @@ atnaujinta: ''
 tags:
   - autorius
 amziai:
-  - 'L'
+  - L
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -19,19 +19,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0a888b8988e606b5fabaafa0"
-canonical_name: "Charonas iš Lampsako"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Charonas iš Lampsako"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0a888b8988e606b5fabaafa0
+canonical_name: Charonas iš Lampsako
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Charonas iš Lampsako
 sameAs: []
-canonical_biography: "Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagistis) vardu. Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks. Charonas iš Lampsako buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima."
+canonical_biography: 'Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagistis) vardu. Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks. Charonas iš Lampsako buvusi prievartos nepakenčiančio jaunimo deivė, tai painioja ją su Laima.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:34:43+00:00","source_checked_at":"2026-09-20T06:34:43+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0bd56cdcbe4540d010e21c36","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Išsaugojo įdomią istoriją apie hamadriades ir Reką, pasirūpinusį griūvančiu ąžuolu.","context":"Teodoras Narbutas tai rašo 1998 m. leidinyje „Lietuvių tautos istorija“, t. 1.","support_ids":["t-219938","c-199057"],"source_refs":[{"kind":"internal_claim","claim_id":"t-219938","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199057","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­ nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę mi- lologinę pasaką: esą hamadriadės gyvendavusios medžiuose, kartu su jais augdavusios, kentėdavusios ir užbaigdavusios sa­ vo gyvenimą. Charonas iš Lampsako išsaugojo mums įdomią istoriją apie šį dalyką. Kažkoks Rekas (Rhoecus), kartą apim­ lus gailesčio dėl griūvančio ąžuolo, liepė apkasti jį šviežia že­ me ir paramstyti."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 8cc03d7a822d5d79
+object_page_generated_at: '2026-09-20T06:34:43+00:00'
+object_page_source_checked_at: '2026-09-20T06:34:43+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagistis) vardu. Charonas iš Lampsako dar vadinamas Szwintestix, Szwaixtiks. Charonas iš…'
+object_page_seo_input_hash: 4059a18b7309814789b5cb862a7ab7b6657e54fcffdc4d97d8cf3c4da0f2b129
+object_page_seo_generated_at: '2026-09-20T06:34:43+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Charonas iš Lampsako
 

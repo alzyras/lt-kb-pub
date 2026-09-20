@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Leipcigas'
+pavadinimas: Leipcigas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1310 m.'
-  - '1563 m.'
-  - '1752 m.'
+  - 1310 m.
+  - 1563 m.
+  - 1752 m.
 date_start: '1310'
 date_end: '1752'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XIV'
-  - 'XVIII'
+  - XIV
+  - XVIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-812bce0ef091aee7fc7691be"
-canonical_name: "Leipcigas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Leipcigas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-812bce0ef091aee7fc7691be
+canonical_name: Leipcigas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Leipcigas
 sameAs: []
-canonical_biography: "Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige."
+canonical_biography: 'Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Leipcigas","url":"https://lt.wikipedia.org/wiki/Leipcigas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Leipcigas","url":"https://www.vle.lt/straipsnis/leipcigas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:54:37+00:00","source_checked_at":"2026-09-20T10:54:37+00:00","counts":{"relations":1,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Leipcigas","url":"https://lt.wikipedia.org/wiki/Leipcigas","publisher":"Vikipedija","language":"lt","article_id":"21345","revision_id":"6870108","published_at":"2023-02-12T15:42:19Z","version_pk":"","content_hash":"c76dc0ef0d02620bcc130200111603bf1afe3a6776fe1fb3a88af384d923f15c","retrieved_at":"2026-09-20T10:53:30+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Leipcigas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"21345"}},"intro":"Leipcigas (vok. Leipzig) – miestas rytinėje Vokietijoje, Saksonijos žemėje. Ties Leipcigu suteka trys upės: Pleisė (Pleisse), Partė (Parthe) ir Baltasis Elsteris (Weisse Elster). Miestas garsėja savo mugėmis, kurios vyksta kas dvejus metus specialiose parodų salėse (bendras plotas 9,7 ha) ir sukviečia tūkstančius lankytojų.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Leipcigas","url":"https://lt.wikipedia.org/wiki/Leipcigas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Leipcigas","url":"https://www.vle.lt/straipsnis/leipcigas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Leipcigas","https://www.vle.lt/straipsnis/leipcigas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"ce7fa1504132cdd9118c4313","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Ernesto Vogelino spaustuvė","context":"1563 m. Leipcige buvo išleista Biblija Ernesto Vogelino spaustuvėje.","support_ids":["t-201626","c-184973"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201626","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184973","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Lietuvos bernardinų istorijos tyrinėtojams nežinomas gvardijonas Eustachijus Vištortas. O kad knygos Kauno vienuolynams būdavo perduodamos praėjus daug laiko nuo jų išspausdinimo, rodo tai, kad 1563 m. Ernesto Vogelino spaustuvėje Leipcige išleista Biblija Kauno jėzuitų kolegijai buvo dovanota tik 1752 m."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Turčinas","claim_id":"t-83729","confidence":0.85}],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: eb4906bd189c3235
+object_page_generated_at: '2026-09-20T10:54:37+00:00'
+object_page_source_checked_at: '2026-09-20T10:54:37+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Leipcigas: Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir…'
+object_page_seo_input_hash: 98f4d8918b86330d66acd0818a71f8461972de3060fac537b7d9f34cc161de7e
+object_page_seo_generated_at: '2026-09-20T10:54:37+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Leipcigas
 

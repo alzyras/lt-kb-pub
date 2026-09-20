@@ -1,10 +1,10 @@
 ---
 tipas: ivykis
-pavadinimas: 'Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)'
+pavadinimas: Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1945 m.'
+  - 1945 m.
 date_start: '1945'
 date_end: ''
 sukurta: ''
@@ -13,19 +13,29 @@ tags:
   - mūšis
   - ivykis
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T07:23:41+00:00","source_checked_at":"2026-09-20T07:23:41+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"beaeee7463d00b7642b416ed","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"NKVD divizija persekiojo Pušaloto, Pasvalio ir Žaliosios girios partizanus, todėl jie pasitraukė į Ažagų-Eimuliškio miškus.","context":"1945 m. kovo pradžioje; taip aprašoma šaltinyje.","support_ids":["t-78607","c-75839"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78607","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75839","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"“ Mūšis 1945 m. kovo pradžioje NKVD divizija puolė Pušaloto, Pasvalio, Žaliosios girios parti- zanus Panevėžio apskrityje. Persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus."}],"status":"published","conflict_status":"clear"},{"trait_id":"100d5e2345557f402a17c339","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Puolimas pradėtas iš vakarų į rytus, siekiant atkirsti partizanams kelius trauktis. Mūšis prasidėjo kovo 27 d. 7 val. ryto.","context":"1945 m. kovo 27 d.; šaltinio aprašyta kautynių eiga.","support_ids":["t-78612","c-75836","c-75838"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78612","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75836","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus. Puolimas pradėtas iš vakarų į rytus, siekiant atkirsti kelius partizanams trauktis. Kovo 27 d. mūšis prasidėjo 7 val. ryto."},{"kind":"evidence","evidence_id":"c-75838","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Mūšis 1945 m. kovo pradžioje NKVD divizija puolė Pušaloto, Pasvalio, Žaliosios girios parti- zanus Panevėžio apskrityje. Persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus. Puolimas pradėtas iš vakarų į rytus, siekiant atkirsti kelius partizanams trauktis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"522bed366ff4c186846a0958","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Dienos pabaigoje, pasinaudoję tamsa, dalis partizanų per Jokubavo mišką sugebėjo prasiveržti Pakruojo link.","context":"1945 m. kovo 27 d. mūšio pabaiga; taip teigiama šaltinyje.","support_ids":["t-78612","c-75840"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78612","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75840","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo prasiveržti Pakruojo link. Mūšio padariniai Žuvo apie 76-80 partizanų (pagal okupan- tus 120-121, paimta į nelaisvę 18-19, iš kurių 5 sužeisti; tačiau tokio skaičiaus nepatvir- tina paimti ginklai). Mūšyje žuvo daugelis 222 Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas ūkininkus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"35baf2d6966e23b04691558a","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Žuvo apie 76–80 partizanų.","context":"Mūšio padariniai; šaltinis pateikia šį skaičių ir pažymi, kad okupantų nurodomo didesnio žuvusiųjų skaičiaus nepatvirtina paimti ginklai.","support_ids":["t-78612","c-75840"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78612","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75840","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo prasiveržti Pakruojo link. Mūšio padariniai Žuvo apie 76-80 partizanų (pagal okupan- tus 120-121, paimta į nelaisvę 18-19, iš kurių 5 sužeisti; tačiau tokio skaičiaus nepatvir- tina paimti ginklai). Mūšyje žuvo daugelis 222 Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas ūkininkus."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 9e7ddf9b98dd6382
+object_page_generated_at: '2026-09-20T07:23:41+00:00'
+object_page_source_checked_at: '2026-09-20T07:23:41+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): NKVD divizija puolė partizanus Panevėžio apskrityje, partizanai pasitraukė į Ažagų-Eimuliškio miškus, o…'
+object_page_seo_input_hash: 75e645d9603bae2e97053631b685449a725b19815ac5443c3e3a4bff453b2671
+object_page_seo_generated_at: '2026-09-20T07:23:41+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)
 

@@ -5,8 +5,8 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1413 m.'
-  - '1417 m.'
+  - 1413 m.
+  - 1417 m.
 date_start: '1413'
 date_end: '1417'
 sukurta: ''
@@ -15,19 +15,29 @@ tags:
   - ivykis
   - krikštas
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:59:14+00:00","source_checked_at":"2026-09-20T12:59:14+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tai padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau- to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą. Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci- ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su Katalikų bažnyčia.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-186620","evidence_id":"c-169900","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a6e8dfadc71659c34982eb5d","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Po Žalgirio mūšio 1413 m. buvo apkrikštyta Žemaitija, o 1417 m. įsteigta Žemaičių vyskupija.","context":"Lietuvos istorijos autorių aprašymas; XV a.","support_ids":["t-186617","c-169899"],"source_refs":[{"kind":"internal_claim","claim_id":"t-186617","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-169899","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž- nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy- tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau- to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"baa29910bc156dd2d2d9751c","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Vytautas įsteigė Žemaičių vyskupiją Medininkuose, kuriuos žemaičiai vadino Varniais, ir pastatė švento Petro bažnyčią.","context":"Lietuvos metraščio, Bychovco kronikos pasakojimas apie Vytauto veiksmus; XV a.","support_ids":["t-210516","c-194047"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210516","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194047","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Tais pačiais metais Vytautas įsteigė Žemaičių vys­ kupiją ir pastatė švento Petro bažnyčią Medininkuose, kuriuos žemaičiai dabar Varniais vadina; paskyrė ka­ nauninkus, apdovanojo bažnyčią turtais9 ir įsakė visą Žemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­ čionių, apkrikštijo visą Užnerio žemę ir įkūrė daug bažnyčiųl0 , todėl Vytautas pramintas antruoju dievo apaštalu\", kadangi jis pačius atkakliausius stabmel­ džius atvertė į krikščionių tikėjimą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"57df33ffd413979a720fc4cb","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Apkrikštyta visa Žemaitija; Lietuvos metraštis taip pat mini visos Užnerio žemės apkrikštijimą.","context":"Lietuvos metraščio, Bychovco kronikos aprašymas; XV a.","support_ids":["t-210516","c-194047"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210516","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194047","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Tais pačiais metais Vytautas įsteigė Žemaičių vys­ kupiją ir pastatė švento Petro bažnyčią Medininkuose, kuriuos žemaičiai dabar Varniais vadina; paskyrė ka­ nauninkus, apdovanojo bažnyčią turtais9 ir įsakė visą Žemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­ čionių, apkrikštijo visą Užnerio žemę ir įkūrė daug bažnyčiųl0 , todėl Vytautas pramintas antruoju dievo apaštalu\", kadangi jis pačius atkakliausius stabmel­ džius atvertė į krikščionių tikėjimą."}],"status":"published","conflict_status":"clear"},{"trait_id":"265b9f0126219ad5a94e43df","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Įsteigta Žemaičių vyskupija, pastatytos Vytauto funduotos bažnyčios ir vienuolynai, o Vakaruose vykdyta plati žinių apie tai sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.","context":"Lietuvos istorijos autorių vertinimas ir aprašymas; po Žalgirio mūšio, 1413–1417 m.","support_ids":["t-186620","c-169900"],"source_refs":[{"kind":"internal_claim","claim_id":"t-186620","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-169900","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tai padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau- to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą. Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci- ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su Katalikų bažnyčia."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a547db650a560edadb7d9c2f","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Medininkuose pastatyta švento Petro bažnyčia, paskirti kanauninkai, bažnyčia apdovanota turtais ir įkurta daug bažnyčių.","context":"Lietuvos metraščio, Bychovco kronikos pasakojimas; Vytauto veikla Žemaitijoje XV a.","support_ids":["t-210516","c-194047"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210516","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194047","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Tais pačiais metais Vytautas įsteigė Žemaičių vys­ kupiją ir pastatė švento Petro bažnyčią Medininkuose, kuriuos žemaičiai dabar Varniais vadina; paskyrė ka­ nauninkus, apdovanojo bažnyčią turtais9 ir įsakė visą Žemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­ čionių, apkrikštijo visą Užnerio žemę ir įkūrė daug bažnyčiųl0 , todėl Vytautas pramintas antruoju dievo apaštalu\", kadangi jis pačius atkakliausius stabmel­ džius atvertė į krikščionių tikėjimą."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5df58d985b881df1
+object_page_generated_at: '2026-09-20T12:59:14+00:00'
+object_page_source_checked_at: '2026-09-20T12:59:14+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '2'
+object_page_seo_description: 'Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.): Taip po Žalgirio mūšio atsirado Vytauto funduotos bažnyčios ir vienuolynai, buvo…'
+object_page_seo_input_hash: fd3fbfb5d1fae3f909acfeb553a032c0747eb62cab4d6d19f1d63174bbb28605
+object_page_seo_generated_at: '2026-09-20T12:59:14+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)
 

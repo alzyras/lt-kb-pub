@@ -1,16 +1,16 @@
 ---
 tipas: vieta
-pavadinimas: 'Druckas'
+pavadinimas: Druckas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1350 m.'
-  - '1505 m.'
-  - '1506 m.'
-  - '2026 m.'
+  - 1350 m.
+  - 1505 m.
+  - 1506 m.
+  - 2026 m.
 date_start: '1350'
 date_end: '2026'
 sukurta: ''
@@ -19,29 +19,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f2bd77aec3e9c67aae54d5f4"
-canonical_name: "Druckas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Druckas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f2bd77aec3e9c67aae54d5f4
+canonical_name: Druckas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Druckas
 sameAs: []
-canonical_biography: "Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko."
+canonical_biography: 'Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Druckas","url":"https://lt.wikipedia.org/wiki/Druckas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:00:32+00:00","source_checked_at":"2026-09-19T23:00:32+00:00","counts":{"relations":4,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Druckas","url":"https://lt.wikipedia.org/wiki/Druckas","publisher":"Vikipedija","language":"lt","article_id":"186981","revision_id":"7761522","published_at":"2026-02-21T16:10:59Z","version_pk":"","content_hash":"cbffe178658d16f72f3b4447e3a1fedc5bf5e4f6d348ba32b5aa048247afb33c","retrieved_at":"2026-09-19T22:59:53+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Druckas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"186981"}},"intro":"Drùckas (bltr. Друцк, rus. Друцк) – kaimas rytinėje Baltarusijoje, 10 km nuo Talačyno, 134 km nuo Vitebsko. Buvęs XI a.- XVI a. senovės Rusios ir Lietuvos Didžiosios Kunigaikštystės miestas.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Druckas","url":"https://lt.wikipedia.org/wiki/Druckas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Druckas"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Petras Šuiskis","claim_id":"t-40393","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-184947","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-67840","confidence":0.78},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Skirgaila","claim_id":"t-67841","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 02b9dddb0b953d71
+object_page_generated_at: '2026-09-19T23:00:32+00:00'
+object_page_source_checked_at: '2026-09-19T23:00:32+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Druckas: Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko. Šaltinių citatos.'
+object_page_seo_input_hash: 3a2f94491e4904978e6dda30bf5bddc3a9b5f29cc237b729c8353ee36aa269f1
+object_page_seo_generated_at: '2026-09-19T23:00:32+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Druckas
 

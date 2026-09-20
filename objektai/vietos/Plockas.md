@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Plockas'
+pavadinimas: Plockas
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1222 m.'
-  - '1225 m.'
-  - '1386 m.'
+  - 1222 m.
+  - 1225 m.
+  - 1386 m.
 date_start: '1222'
 date_end: '1386'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XIII'
-  - 'XIV'
+  - XIII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b3cd0872c30decb5ed36199b"
-canonical_name: "Plockas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Plockas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b3cd0872c30decb5ed36199b
+canonical_name: Plockas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Plockas
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui, netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis, Plocku vadinama163. Dusburgietis teigia, kad 163 Panašiai apie Mazovijos nusiaubimą ir Plocko sudeginimą J."
+canonical_biography: 'Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui, netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis, Plocku vadinama163. Dusburgietis teigia, kad 163 Panašiai apie Mazovijos nusiaubimą ir Plocko sudeginimą J.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Plockas","url":"https://lt.wikipedia.org/wiki/Plockas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Plockas","url":"https://www.vle.lt/straipsnis/plockas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:44:53+00:00","source_checked_at":"2026-09-20T09:44:53+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Plockas","url":"https://lt.wikipedia.org/wiki/Plockas","publisher":"Vikipedija","language":"lt","article_id":"143945","revision_id":"7726528","published_at":"2026-01-02T14:04:51Z","version_pk":"","content_hash":"908df89e019605a116c5be5ded9c100c1cd0c3d8045e661a53ef15dca3e7d022","retrieved_at":"2026-09-20T09:43:59+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Plockas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"143945"}},"intro":"Plòckas (lenk. Płock) – miestas vidurio Lenkijoje, prie Vyslos upės. Išvystyta naftos, mašinų (ypač žemės ūkio), maisto, tekstilės pramonė. Geležinkelio mazgas. Yra Mazovijos muziejus (amatų, baldų eksponatai), per Vyslą nutiesti du tiltai. Miestas yra vienas iš Europos plytų gotikos kelio stočių.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Plockas","url":"https://lt.wikipedia.org/wiki/Plockas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Plockas","url":"https://www.vle.lt/straipsnis/plockas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Plockas","https://www.vle.lt/straipsnis/plockas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-184546","confidence":0.87}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c68572d5e0948f9c
+object_page_generated_at: '2026-09-20T09:44:53+00:00'
+object_page_source_checked_at: '2026-09-20T09:44:53+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Plockas: Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui, netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos…'
+object_page_seo_input_hash: d0745caa6a64bf7849f1d88208f2c93fd3e72408d5c549c14eacd024d6ea38f5
+object_page_seo_generated_at: '2026-09-20T09:44:53+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Plockas
 

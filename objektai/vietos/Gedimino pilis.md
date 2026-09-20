@@ -1,15 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: 'Gedimino pilis (pilis)'
+pavadinimas: Gedimino pilis (pilis)
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1305 m.'
-  - '1317 m.'
-  - '1328 m.'
-  - '1330 m.'
-  - '1357 m.'
+  - 1305 m.
+  - 1317 m.
+  - 1328 m.
+  - 1330 m.
+  - 1357 m.
 date_start: '1305'
 date_end: '1357'
 sukurta: ''
@@ -18,28 +18,41 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a1e241788167c4b92f2564ac"
-canonical_name: "Gedimino pilis (pilis)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Gedimino pilis","Gedimino pilis (pilis)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a1e241788167c4b92f2564ac
+canonical_name: Gedimino pilis (pilis)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Gedimino pilis
+  - Gedimino pilis (pilis)
 sameAs: []
-canonical_biography: "GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 1328 m. Gardino puolimu, Prūsų kry­ žiuočiai sudegino nuo Vytenio laikų pagarsėjusių Karšuvos pilių Putvės (Putenikos) ir Aukaimio priešpilius, teriojo Vėjukus (Wayken), puolė Gedimino. Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį)."
+canonical_biography: 'GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 1328 m. Gardino puolimu, Prūsų kry­ žiuočiai sudegino nuo Vytenio laikų pagarsėjusių Karšuvos pilių Putvės (Putenikos) ir Aukaimio priešpilius, teriojo Vėjukus (Wayken), puolė Gedimino. Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį).'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Gedimino pilis","url":"https://lt.wikipedia.org/wiki/Gedimino_pilis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Gedimino Pilis","url":"https://www.vle.lt/straipsnis/gedimino-pilis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:16:55+00:00","source_checked_at":"2026-09-20T13:16:55+00:00","counts":{"relations":2,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Gedimino pilis","url":"https://lt.wikipedia.org/wiki/Gedimino_pilis","publisher":"Vikipedija","language":"lt","article_id":"55935","revision_id":"7914641","published_at":"2026-08-31T09:04:31Z","version_pk":"","content_hash":"61936808478441b488ad8a0d7fbe21ef0bd53a0cbf753c937d695998b0ed5b67","retrieved_at":"2026-09-20T13:15:30+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Gedimino_pilis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"55935"}},"intro":"Vilniaus aukštutinė pilis – gotikinė pilis Vilniuje, kurios liekanos stūkso Gedimino kalno aikštelėje. Papėdėje buvo LDK kunigaikščio Vytauto Didžiojo rezidencija, dabar – atstatyti Valdovų rūmai. Iš pagarbos Vilniaus įkūrėjui LDK kunigaikščiui Gediminui pilis pavadinta jo vardu. Pilis priklauso Vilniaus pilių rezervatui. Gedimino pilies bokštas – labiausiai turistų lankoma Vilniaus vieta. Skaičiuojama, kad per vienerius metus Gedimino pilyje apsilanko daugiau kaip 150 tūkst. žmonių. Lietuvos valstybės šimtmečio proga buvo pristatyta Aukštutinės pilies atkūrimo vizualizacija.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Gedimino pilis","url":"https://lt.wikipedia.org/wiki/Gedimino_pilis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Gedimino Pilis","url":"https://www.vle.lt/straipsnis/gedimino-pilis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Gedimino_pilis","https://www.vle.lt/straipsnis/gedimino-pilis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"61e7731705c78e336ed27d0a","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Turėjo papilį, kuris 1317 m. buvo visiškai sudegintas iki pamatų.","context":"Petro Dusburgiečio kronikoje aprašoma 1317 m. vasaros karinė akcija; tai šaltinio autoriaus pasakojimas apie įvykį.","support_ids":["t-222360","c-202114"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222360","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202114","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150 vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti. Trečia…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Pagraudė","claim_id":"t-221621","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Fridrichas iš Libencelės","claim_id":"t-223012","confidence":0.69}],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 26f0dfc4bf8c7f06
+object_page_generated_at: '2026-09-20T13:16:55+00:00'
+object_page_source_checked_at: '2026-09-20T13:16:55+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'Gedimino pilis (pilis): GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 1328 m. Gardino puolimu, Prūsų kry­ žiuočiai sudegino nuo…'
+object_page_seo_input_hash: b382c743f0ed9c699f6a19a1abe42ef3dd1ae68fcfbad8e03286338542240eb3
+object_page_seo_generated_at: '2026-09-20T13:16:55+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Gedimino pilis (pilis)
 

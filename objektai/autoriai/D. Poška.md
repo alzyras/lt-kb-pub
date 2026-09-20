@@ -1,14 +1,14 @@
 ---
 tipas: autorius
-pavadinimas: 'D. Poška'
+pavadinimas: D. Poška
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1818 m.'
-  - '1829 m.'
+  - 1818 m.
+  - 1829 m.
 date_start: '1818'
 date_end: '1829'
 sukurta: ''
@@ -17,28 +17,41 @@ tags:
   - autorius
   - mokslininkas
 amziai:
-  - 'XIX'
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fdecf73534a0ef8510145fa5"
-canonical_name: "D. Poška"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["D. Poška"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fdecf73534a0ef8510145fa5
+canonical_name: D. Poška
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - D. Poška
 sameAs: []
-canonical_biography: "Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas. Poška savo Baubly įtaisė net senienų muziejų."
+canonical_biography: 'Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui rinko senas knygas. Poška savo Baubly įtaisė net senienų muziejų.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:47:50+00:00","source_checked_at":"2026-09-19T19:47:50+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3452d7661f972a6626f5e4c4","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Rinko senienas ir senus istorinius dokumentus, Baublyje įtaisė senienų muziejų, bandė rašyti Lietuvos istoriją ir rašė žemaitiškai.","context":"A. Šapokos (red.) 1936 m. veikale „Lietuvos istorija“ aprašoma D. Poškos veikla.","support_ids":["t-05729","c-06625","t-05730","c-06627"],"source_refs":[{"kind":"internal_claim","claim_id":"t-05729","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-05730","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-06625","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Be to, buvo renkamos se- nienos ir seni istoriniai doku- mentai, o D. Poška savo Baubly įtaisė net senienų mu- ziejų. Jis taip pat bandė rašyti ir Lietuvos istoriją."},{"kind":"evidence","evidence_id":"c-06627","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių veikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai."}],"status":"published","conflict_status":"clear"},{"trait_id":"75f6ff7ff749df9dd12d1953","canonical_code":"author.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Globojo lietuviškosios kultūros palaikus savo Baublyje.","context":"A. Šapokos (red.) 1936 m. veikale „Lietuvos istorija“ taip apibūdinama D. Poškos veikla ir santykis su lietuviškąja kultūra.","support_ids":["t-05730","c-06627"],"source_refs":[{"kind":"internal_claim","claim_id":"t-05730","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-06627","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių veikėjų tarpe. Ypač juo buvo susižavėjęs D. Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 2c35ff8bda067e4e
+object_page_generated_at: '2026-09-19T19:47:50+00:00'
+object_page_source_checked_at: '2026-09-19T19:47:50+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'D. Poška: Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs žemaitiškai. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui rinko…'
+object_page_seo_input_hash: 5956f4259cfe9b78bfb85d5a9506627c11f234ad3344b28d9aa92bfc463893da
+object_page_seo_generated_at: '2026-09-19T19:47:50+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # D. Poška
 

@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Turkai'
+pavadinimas: Turkai
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1399 m.'
+  - 1399 m.
 date_start: '1399'
 date_end: ''
 sukurta: ''
@@ -15,19 +15,29 @@ tags:
   - etninė-grupė
   - grupe
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Turkai","url":"https://lt.wikipedia.org/wiki/Turkai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Turkai","url":"https://www.vle.lt/straipsnis/turkai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:48:44+00:00","source_checked_at":"2026-09-20T12:48:44+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Turkai","url":"https://lt.wikipedia.org/wiki/Turkai","publisher":"Vikipedija","language":"lt","article_id":"656000","revision_id":"7532012","published_at":"2025-04-03T10:15:22Z","version_pk":"","content_hash":"c5e4a15c78c297a14b751775a8cd6a1d9de371a6f524442aa10c58dcac4fe877","retrieved_at":"2026-09-20T12:47:10+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Turkai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"656000"}},"intro":"Turkai (turk. türkler) – tiurkų tauta, gyvenanti daugiausia Turkijoje (Mažoji Azija ir rytų Trakija) taip pat Šiaurės Kipre, Balkanuose, Artimuosiuose Rytuose, sudaro gausią diasporą Europos valstybėse (Vokietija, Nyderlandai, Prancūzija, Belgija, Austrija, Jungtinė Karalystė ir kt.), JAV, Australijoje. Vartoja turkų kalbą. Didžioji dauguma tikinčiųjų – musulmonai sunitai, yra alevitų.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Turkai","url":"https://lt.wikipedia.org/wiki/Turkai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Turkai","url":"https://www.vle.lt/straipsnis/turkai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Turkai","https://www.vle.lt/straipsnis/turkai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"33d568dcb885e41e2ee2ef8d","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Paėmė Konstantinopolį.","context":"1453 m. gegužės 29 d.","support_ids":["t-210715","c-193996"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210715","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193996","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Šeši tūkstančiai devyni šimtai šešiasdešimt pirmai­ siais Į1453] metais gegužės dvidešimt devintą turkai paėmė Konstantinopolį."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"adffac1f803df7045cf08cd7","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Atėjo į Moldaviją ir užėmė Kiliją bei Belgorodą.","context":"Laikas šaltinyje nenurodytas.","support_ids":["t-210800","c-194293"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210800","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194293","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"O paskui13 turkai atėjo j Moldaviją ir užėmė Kiliją 14 ir Belgorodą 15."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: de10c5adc060b243
+object_page_generated_at: '2026-09-20T12:48:44+00:00'
+object_page_source_checked_at: '2026-09-20T12:48:44+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Turkai: 1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus. Jogaila sutiko stoti į ginklų…'
+object_page_seo_input_hash: 31243b63db9ea27655900804ad47b8bdc4c00e443c22aef1ffa69a9e36ef2cf4
+object_page_seo_generated_at: '2026-09-20T12:48:44+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Turkai
 

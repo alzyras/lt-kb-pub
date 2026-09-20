@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Abraomas'
+pavadinimas: Abraomas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -16,19 +16,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-68b23899cae456b721039a8b"
-canonical_name: "Abraomas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Abraomas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-68b23899cae456b721039a8b
+canonical_name: Abraomas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Abraomas
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas."
+canonical_biography: 'Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas.'
+external_sources_json: '[{"title":"Abraomas","url":"https://www.vle.lt/straipsnis/abraomas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:48:20+00:00","source_checked_at":"2026-09-20T09:48:20+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Abraomas","url":"https://www.vle.lt/straipsnis/abraomas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/abraomas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"22d8b8fae27c7f187c0f0d69","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Patriarchas","context":"Šaltinio pasakojime Abraomas vadinamas didžiuoju patriarchu; tai siejama su Senojo Testamento pasakojimu apie jo kovą dėl brolio laisvės ir kalinio sugrąžinimo.","support_ids":["t-220505","c-202978"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220505","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202978","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Štai ir senajame testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas padovanojo patriarchui duonos ir vyno, aukai skiriamą dovaną, palaimintą aukščiausiojo dievo, kuriam globojant priešai atsidūrė jo rankose."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: bb1ec1859faf86a6
+object_page_generated_at: '2026-09-20T09:48:20+00:00'
+object_page_source_checked_at: '2026-09-20T09:48:20+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Abraomas: Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus metus kovojo dėl…'
+object_page_seo_input_hash: eb89b2986be27354df037e173acb197a7c67bf27b08fe82e5b202d6e08dedc64
+object_page_seo_generated_at: '2026-09-20T09:48:20+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Abraomas
 

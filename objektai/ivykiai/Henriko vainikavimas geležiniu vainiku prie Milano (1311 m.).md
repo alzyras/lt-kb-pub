@@ -1,0 +1,83 @@
+---
+tipas: ivykis
+pavadinimas: Henriko vainikavimas geležiniu vainiku prie Milano (1311 m.)
+variantai:
+  - Henriko vainikavimas geležiniu vainiku prie Milano
+aliases:
+  - Henriko vainikavimas geležiniu vainiku prie Milano
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - 1234 m.
+  - 1311 m.
+date_start: '1234'
+date_end: '1311'
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - XIII
+  - XIV
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+---
+# Henriko vainikavimas geležiniu vainiku prie Milano (1311 m.)
+
+## Santrauka
+
+1311 m. sausio 6 d. Henrikas, Romos karalius, prie Milano buvo vainikuotas geležiniu vainiku.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-225298"></a>
+- t-001
+  teiginys: "1311 m. sausio 6 d. Henrikas, Romos karalius, prie Milano buvo vainikuotas geležiniu vainiku."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202799
+
+## Santrauka
+
+1311 m. sausio 6 d. Henrikas, Romos karalius, prie Milano buvo vainikuotas geležiniu vainiku.
+
+## Citatos
+
+- id: c-202799
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 247"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247."
+  citata_originali: |
+    1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių,
+    vainikavo prie Milano geležiniu vainiku (Ptol. p. 1234; Mart. p. 446).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

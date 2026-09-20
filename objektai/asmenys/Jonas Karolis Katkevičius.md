@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jonas Karolis Katkevičius'
+pavadinimas: Jonas Karolis Katkevičius
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1590 m.'
-  - '1609 m.'
+  - 1590 m.
+  - 1609 m.
 date_start: '1590'
 date_end: '1609'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - karalius
   - vyskupas
 amziai:
-  - 'XVI'
-  - 'XVII'
+  - XVI
+  - XVII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-03356cc2508cbf3251d330d4"
-canonical_name: "Jonas Karolis Katkevičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jonas Karolis Katkevičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-03356cc2508cbf3251d330d4
+canonical_name: Jonas Karolis Katkevičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jonas Karolis Katkevičius
 sameAs: []
-canonical_biography: "Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius. Jonas Karolis Katkevičius: a. Śliwiński, J. K. Chod- kiewicz (1929) ; Balčiūnas, Pirmasis švedų karas ir Kirchholmo kova (Karo Arch. I); V. Biržiška, D. Lietuvos hetmonas J. K. Katkevičius (Mūsų Žin. 1921, Nr. 3); — XV—XVIII a. Lietuvos kariuomenės vadai (ten pat, 1922, NN 6—7); A.. Jonas Karolis Katkevičius: jonui Jeronimui K. († 1579 m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605 m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.)."
+canonical_biography: 'Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius. Jonas Karolis Katkevičius: a. Śliwiński, J. K. Chod- kiewicz (1929) ; Balčiūnas, Pirmasis švedų karas ir Kirchholmo kova (Karo Arch. I); V. Biržiška, D. Lietuvos hetmonas J. K. Katkevičius (Mūsų Žin. 1921, Nr. 3); — XV—XVIII a. Lietuvos kariuomenės vadai (ten pat, 1922, NN 6—7); A.. Jonas Karolis Katkevičius: jonui Jeronimui K. († 1579 m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605 m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.).'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:38:59+00:00","source_checked_at":"2026-09-20T11:38:59+00:00","counts":{"relations":6,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0c40b6d7095befd3553a62af","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Žemaičių seniūnas, lauko hetmonas, didysis hetmonas ir Vilniaus vaivada","context":"Po Jono Jeronimo Katkevičiaus mirties užėmė jo vietą; iš pradžių gavo Žemaičių seniūniją ir lauko hetmono buožę, 1605 m. – didžiojo hetmono buožę, o 1616 m. – Vilniaus vaivadiją.","support_ids":["t-79044","c-76147"],"source_refs":[{"kind":"internal_claim","claim_id":"t-79044","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-76147","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Jonui Jeronimui K. († 1579 m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605 m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)","claim_id":"t-79043","confidence":0.82},{"predicate":"gyne","direction":"outbound","target":"objektai/vietos/Ryga","claim_id":"t-79042","confidence":0.86},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Švedai","claim_id":"t-79042","confidence":0.92},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-79047","confidence":0.9},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Kuoknesė","claim_id":"t-79047","confidence":0.82},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Viljandis","claim_id":"t-79047","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d1632b12514627a7
+object_page_generated_at: '2026-09-20T11:38:59+00:00'
+object_page_source_checked_at: '2026-09-20T11:38:59+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius. Jonas Karolis Katkevičius: a. Śliwiński, J. K. Chod- kiewicz (1929)…'
+object_page_seo_input_hash: 1e6517cc2700d633eb569be6162b0f14236f1a772923075ee1f4cf8b1d85cb74
+object_page_seo_generated_at: '2026-09-20T11:38:59+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jonas Karolis Katkevičius
 

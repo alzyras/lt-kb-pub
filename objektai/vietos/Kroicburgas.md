@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Kroicburgas'
+pavadinimas: Kroicburgas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1253 m.'
-  - '1263 m.'
-  - '1265 m.'
-  - '1270 m.'
+  - 1253 m.
+  - 1263 m.
+  - 1265 m.
+  - 1270 m.
 date_start: '1253'
 date_end: '1270'
 sukurta: ''
@@ -18,28 +18,40 @@ tags:
   - upė
   - vieta
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-61d55b67adb880f9b7e90191"
-canonical_name: "Kroicburgas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kroicburgas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-61d55b67adb880f9b7e90191
+canonical_name: Kroicburgas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kroicburgas
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118). Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258. Dusburgietis teigia, kad 255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab."
+canonical_biography: 'Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118). Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258. Dusburgietis teigia, kad 255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:53:14+00:00","source_checked_at":"2026-09-20T00:53:14+00:00","counts":{"relations":4,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"9f78fe448d481282ed10a2eb","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Buvo Notangos žemėje prie Kaustros upės; Kroicburgas buvo į pietus nuo Frišingo upės ir į rytus nuo Baigos.","context":"Aprašoma Petro Dusburgiečio kronikos komentare; vieta siejama su XIII a. Kroicburgu.","support_ids":["t-221497","c-201877","t-223461","c-203448"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221497","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-223461","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201877","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab. Slavskoje) į pietus nuo Frišingo (dab. Prochladnaja) upės, į rytus nuo Baigos. Aukštas piliakalnis su pilies griuvėsiais išliko į pietus nuo miesto, deš. Kaustros (D.— Caustere, Jer.— tiliz [...] Kauxtere; GAO, p. 58) krante (Boetticher A., Die Bau...., 2, p. 65; CV, t. 33, sąs. 2, p. 299). Kroicburgas pastatytas 1253 m. (SRP, 1, p. 270, 280)."},{"kind":"evidence","evidence_id":"c-203448","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258."}],"status":"published","conflict_status":"clear"},{"trait_id":"894350434e2fa5e95e91972c","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Aukštas piliakalnis su pilies griuvėsiais išliko į pietus nuo miesto, dešiniajame Kaustros krante.","context":"Vietos būklė aprašyta 1985 m. leidinyje, aiškinant istorinę Kroicburgo vietą.","support_ids":["t-221497","c-201877"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221497","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201877","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab. Slavskoje) į pietus nuo Frišingo (dab. Prochladnaja) upės, į rytus nuo Baigos. Aukštas piliakalnis su pilies griuvėsiais išliko į pietus nuo miesto, deš. Kaustros (D.— Caustere, Jer.— tiliz [...] Kauxtere; GAO, p. 58) krante (Boetticher A., Die Bau...., 2, p. 65; CV, t. 33, sąs. 2, p. 299). Kroicburgas pastatytas 1253 m. (SRP, 1, p. 270, 280)."}],"status":"published","conflict_status":"clear"},{"trait_id":"dbe05af28ee0e0166da973c4","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kroicburgo pilis buvo pastatyta siekiant užkirsti kelią būsimiems pavojams ir atimti prūsams norą ieškotis progų atkristi.","context":"Petro Dusburgiečio kronikoje brolių sprendimas aprašomas XIII a. pilių statybos kontekste.","support_ids":["t-223461","c-203448"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223461","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203448","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258."}],"status":"published","conflict_status":"clear"},{"trait_id":"1b3e34c49f7255096a2d38a9","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Kroicburgo pilis pastatyta 1253 m.; 1263 m. ją apsupo ir trejus metus puolė trimis apgulos mašinomis bei trimis kuorais.","context":"Įvykiai pateikiami Petro Dusburgiečio kronikos pasakojime apie XIII a. Kroicburgą; gynėjai, ilgai kovoję ir pritrūkę maisto, naktį slapta pasitraukė.","support_ids":["t-221497","c-201877","t-224569","c-205970"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221497","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-224569","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201877","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab. Slavskoje) į pietus nuo Frišingo (dab. Prochladnaja) upės, į rytus nuo Baigos. Aukštas piliakalnis su pilies griuvėsiais išliko į pietus nuo miesto, deš. Kaustros (D.— Caustere, Jer.— tiliz [...] Kauxtere; GAO, p. 58) krante (Boetticher A., Die Bau...., 2, p. 65; CV, t. 33, sąs. 2, p. 299). Kroicburgas pastatytas 1253 m. (SRP, 1, p. 270, 280)."},{"kind":"evidence","evidence_id":"c-205970","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna, ilgai ir garbingai ten kovoję ir visiškai pristigę maisto, naktį slapta pasitraukė iš pilies."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Notangai","claim_id":"t-220476","confidence":0.92},{"predicate":"pastate","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-222787","confidence":0.93},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Notanga","claim_id":"t-223461","confidence":0.72},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Notangai","claim_id":"t-220476","confidence":0.9}],"timeline":[{"date":"1263 m.","label":"Kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors šis įvykis aprašomas po vėlesnių pilių statybos epizodų.","claimId":"t-224068"},{"date":"1263 m.","label":"1263 m.","claimId":"t-224569"},{"date":"1263 m.","label":"Petro Dusburgiečio kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors aprašomas po vėlesnių įvykių.","claimId":"t-225267"}],"support_disclosure":{"claims":7,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f6c88d064bd13b55
+object_page_generated_at: '2026-09-20T00:53:14+00:00'
+object_page_source_checked_at: '2026-09-20T00:53:14+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '2'
+object_page_seo_description: 'Kroicburgas: Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).…'
+object_page_seo_input_hash: bc3cbbca68eb1bb07fa3faa10a251641255388435f50baebd4626f810e0b5fc7
+object_page_seo_generated_at: '2026-09-20T00:53:14+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kroicburgas
 

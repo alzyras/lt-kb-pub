@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Dnepras'
+pavadinimas: Dnepras
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1540 m.'
+  - 1540 m.
 date_start: '1540'
 date_end: ''
 sukurta: ''
@@ -16,28 +16,40 @@ tags:
   - kraštas
   - vieta
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-afe89b8c64dd6e8f78e0a1cc"
-canonical_name: "Dnepras"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Dnepras"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-afe89b8c64dd6e8f78e0a1cc
+canonical_name: Dnepras
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Dnepras
 sameAs: []
-canonical_biography: "Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų. Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais. Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono."
+canonical_biography: 'Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų. Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių ir juos sieja su skitais. Narbutas rašė, kad pelazgai ilgainiui plačiai pasklido Juodosios ir Viduržemio jūrų pakrantėse nuo Po ir Arno žiočių iki Dnepro ir Dono.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T05:02:08+00:00","source_checked_at":"2026-09-19T05:02:08+00:00","counts":{"relations":11,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Agatirai","claim_id":"t-212289","confidence":0.82},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Budinai","claim_id":"t-215514","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Gelonai","claim_id":"t-212926","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Graikai","claim_id":"t-213341","confidence":0.7},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Kujavai","claim_id":"t-213146","confidence":0.76},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Roksolanai","claim_id":"t-215843","confidence":0.78},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Sarmatai","claim_id":"t-213576","confidence":0.7},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Hiriai","claim_id":"t-214600","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Slavai","claim_id":"t-214220","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Gerų kraštas","claim_id":"t-212683","confidence":0.63},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Julijonas","claim_id":"t-215743","confidence":0.76}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 90644a9da08af7b6
+object_page_generated_at: '2026-09-19T05:02:08+00:00'
+object_page_source_checked_at: '2026-09-19T05:02:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Dnepras: Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų. Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę…'
+object_page_seo_input_hash: 915e5886ed7e67a14489a3434228240ef1f797acb8e762e6f691e3fe2e50128d
+object_page_seo_generated_at: '2026-09-19T05:02:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Dnepras
 

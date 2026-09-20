@@ -1,11 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'Maironis'
+pavadinimas: Maironis
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1944 m.'
-  - '1951 m.'
+  - 1944 m.
+  - 1951 m.
 date_start: '1944'
 date_end: '1951'
 sukurta: ''
@@ -14,28 +14,41 @@ tags:
   - autorius
   - kunigas
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes:
-  - 'XX a.'
+  - XX a.
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5a9e1b36e4f81a53c8fc0eae"
-canonical_name: "Maironis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Maironis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5a9e1b36e4f81a53c8fc0eae
+canonical_name: Maironis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Maironis
 sameAs: []
-canonical_biography: "Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakštas, Tumas ir kt. Kauno kunigų seminariją galutinai sulietuvino jos rektorius poetas pralotas Mačiulis Maironis."
+canonical_biography: 'Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakštas, Tumas ir kt. Kauno kunigų seminariją galutinai sulietuvino jos rektorius poetas pralotas Mačiulis Maironis.'
+external_sources_json: '[{"title":"Maironis","url":"https://lt.wikipedia.org/wiki/Maironis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Maironis","url":"https://www.vle.lt/straipsnis/maironis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Maironis - Wikipedia","url":"https://en.wikipedia.org/wiki/Maironis","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:09:47+00:00","source_checked_at":"2026-09-20T12:09:47+00:00","counts":{"relations":0,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Maironis","url":"https://lt.wikipedia.org/wiki/Maironis","publisher":"Vikipedija","language":"lt","article_id":"1763","revision_id":"7497324","published_at":"2025-02-16T18:16:14Z","version_pk":"","content_hash":"aca11fe2ef02ede5b6cee6da78d4c0c9b6962ed326f0adc9763451feb934da98","retrieved_at":"2026-09-20T12:08:14+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Maironis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"1763"}},"intro":"Maironis (tikroji pavardė Jonas Mačiulis, 1862 m. spalio 21 d. (pagal Julijaus kalendorių) Pasandravio dvare, Šiluvos valsčiuje, Raseinių apskrityje. – 1932 m. birželio 28 d. Kaune) – kunigas, profesorius; XIX ir XX a. lietuvių romantizmo poetas, parašęs tokius Lietuvoje žymius kūrinius kaip „Trakų pilis“, „Lietuva Brangi“ ir daugelį kitų.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1862 m. spalio 21 d.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Pasandravio dvare, Šiluvos valsčiuje, Raseinių apskrityje.","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1932 m. birželio 28 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Kaune","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Kauno arkikatedra bazilika","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Aleksandras Mačiulis; Ona Kurmauskaitė","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Maironis","url":"https://lt.wikipedia.org/wiki/Maironis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Maironis","url":"https://www.vle.lt/straipsnis/maironis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Maironis","https://www.vle.lt/straipsnis/maironis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3015b1941fe60de708d760fa","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Žymus lietuvių rašytojas","context":"J. Stalino valdymo metais Maironis šaltinyje įvardijamas tarp žymių lietuvių rašytojų, kurių knygos buvo pašalintos iš bibliotekų.","support_ids":["t-125056","c-114279"],"source_refs":[{"kind":"internal_claim","claim_id":"t-125056","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-114279","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Botyriaus nuotrauka L I E T U V O S I S T O R I J A 220 Kultūros suvienodinimas J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kul- tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo komunistų partija: primesta marksistinė-lenininė filosofija, skiepijama ko- munistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant komunistinės ideologijos autoritetus, susidorojama su nepriklausomos Lietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny- gos, tautinio pobūdžio…"}],"status":"published","conflict_status":"clear"},{"trait_id":"ad675796586c0cfe60da54bd","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Kūrė literatūros kūrinius","context":"Po J. Stalino mirties, „atšilimo“ laikotarpiu, oficialiai buvo išspausdinta Maironio kūrinių.","support_ids":["t-125058","c-22167"],"source_refs":[{"kind":"internal_claim","claim_id":"t-125058","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22167","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili- tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas V. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū- rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų)."}],"status":"published","conflict_status":"clear"},{"trait_id":"11d8bb838d434a23eb6d9696","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Lietuvių literatūros klasikas","context":"Šaltinyje, aprašant „atšilimo“ laikotarpį, Maironis priskiriamas lietuvių literatūros klasikams; tai pateikiama kaip vėlesnis kultūrinis vertinimas.","support_ids":["t-125057","c-22167"],"source_refs":[{"kind":"internal_claim","claim_id":"t-125057","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22167","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili- tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas V. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū- rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų)."}],"status":"published","conflict_status":"clear"},{"trait_id":"4729bda5dbc39fa9a85ded5e","canonical_code":"author.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Su Maironiu siejamas atminties modelis, kuriame LDK suprantama kaip kunigaikščių Lietuva, o jos kulminacija laikomi Vytauto laikai","context":"Šaltinio autoriaus vertinimas, apibūdinantis Maironio įtaką istorinei atminčiai.","support_ids":["t-207545","c-190162"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207545","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190162","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"DK istorija buvo svetima – pagal Maironį susikurtas atminties modelis, kad LDK – tai kunigaikščių Lietuva, kurios kulminacija – Vytauto laikai. Tais pač"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1c7e231ff2154c2a
+object_page_generated_at: '2026-09-20T12:09:47+00:00'
+object_page_source_checked_at: '2026-09-20T12:09:47+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '2'
+object_page_seo_description: 'Maironis: Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakštas, Tumas ir kt. Kauno kunigų seminariją galutinai sulietuvino jos rektorius…'
+object_page_seo_input_hash: 509c5127bbee87bc4b8ff6ade482663da3dac67bd698f784fa481f66064e6d27
+object_page_seo_generated_at: '2026-09-20T12:09:47+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Maironis
 

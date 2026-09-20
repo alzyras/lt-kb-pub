@@ -1,14 +1,14 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'paliaubos'
+pavadinimas: paliaubos
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1409 m.'
-  - '1936 m.'
-  - '2026 m.'
+  - 1409 m.
+  - 1936 m.
+  - 2026 m.
 date_start: '1409'
 date_end: '2026'
 sukurta: ''
@@ -17,20 +17,30 @@ tags:
   - sąvoka
   - istorinė-sąvoka
 amziai:
-  - 'XV'
-  - 'XXI'
+  - XV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:20:06+00:00","source_checked_at":"2026-09-20T04:20:06+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f536e918cf43c874e9d337aa","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Karo paliaubos","context":"Šaltinyje vartojamas junginys „apie karo paliaubas“.","support_ids":["t-70265","c-44202"],"source_refs":[{"kind":"internal_claim","claim_id":"t-70265","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-44202","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas. Kpt. Ignatavičius nurodė, kad Lietuvos kariuomenė irgi gavo tokią pat telefonogramą. [...] Tada pašnekesys užsimezgė dėl anos dienos mūšio."}],"status":"published","conflict_status":"clear"},{"trait_id":"57b8af8a733c75de603aacc3","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"„paliaubų metu“","context":"1409 m. sudarytos vienerių metų paliaubos; jų metu susitarta ginčą pavesti išspręsti imperatoriui Vaclovui.","support_ids":["t-70264","c-69319"],"source_refs":[{"kind":"internal_claim","claim_id":"t-70264","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-69319","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Ordinas nesiskubino į Žemaičius, bet pirmučiausia puolė Lenkiją (1409 m.). Iš Lenkijos jo kariuomenė buvo išvyta, ir ne- trukus buvo padarytos vienerių metų paliaubos. Paliaubų metu susitarta pavesti ginčą išspręsti imperatoriui Vaclovui."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"011b88a1189ac4fee2cbd4d1","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"„paliaubų sutartis“","context":"Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka; ši šaka nedalyvavo Tanenbergo mūšyje.","support_ids":["t-70269","c-69320"],"source_refs":[{"kind":"internal_claim","claim_id":"t-70269","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-69320","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di- džiame Tanenbergo mūšyje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f49be11a16bef203b6fe62be","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"„paliaubų metu“","context":"Šaltinyje aprašoma, kad spalio 6 d. prasidėjus paliauboms lenkai per derybų laiką slapta pergrupavo ir papildė savo pajėgas.","support_ids":["t-70268","c-44201"],"source_refs":[{"kind":"internal_claim","claim_id":"t-70268","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-44201","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Spalio 6 d. prasideda paliaubos. Lenkai per derybų laiką slapta pergru- pavo savo pajėgas, gausiai jas papildė ir pasirengė pulti Lietuvą ties Seinais ir Kap- čiamiesčiu."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"fc5866c8630e4656eabd0c36","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"„nepaisydamos paliaubų“","context":"Šaltinio autoriaus pasakojime nurodoma, kad derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link.","support_ids":["t-193152","c-175904"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193152","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-175904","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"**Želigovskio smurtas.** Jau derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų buvę rusų bolševikų. Lenkų vyriausybė apsimetė nieko apie tai nežinanti ir siūlė toliau tęsti derybas Varėnoj, nepabaigtiems klausimams išspręsti."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 46ae2a070dad487c
+object_page_generated_at: '2026-09-20T04:20:06+00:00'
+object_page_source_checked_at: '2026-09-20T04:20:06+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '3'
+object_page_seo_description: 'paliaubos: Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių metų paliaubos. Jogaila su Vytautu apkaltino Vaclovą šališkumu ir…'
+object_page_seo_input_hash: 37b684198c8348749cb49f14bd16a7fbc9ec60b854bd8c021155230193cda430
+object_page_seo_generated_at: '2026-09-20T04:20:06+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # paliaubos
 

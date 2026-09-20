@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'J. Stalinas'
+pavadinimas: J. Stalinas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1944 m.'
-  - '1962 m.'
+  - 1944 m.
+  - 1962 m.
 date_start: '1944'
 date_end: '1962'
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - asmuo
   - kunigas
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes:
-  - 'XX a.'
+  - XX a.
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ae0161a04bcc06160c649901"
-canonical_name: "J. Stalinas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["J. Stalinas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ae0161a04bcc06160c649901
+canonical_name: J. Stalinas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - J. Stalinas
 sameAs: []
-canonical_biography: "Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSRS. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kultūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo komunistų partija: primesta marksistinė-lenininė."
+canonical_biography: 'Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSRS. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kultūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo komunistų partija: primesta marksistinė-lenininė.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:54:32+00:00","source_checked_at":"2026-09-19T18:54:32+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš- kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny- čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo 130 kunigų.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-101641","evidence_id":"c-21710","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"J. Stalinas – šiame istoriniame apraše nagrinėjamas asmuo. Jo laikais okupacinė valdžia siekė fiziškai sunaikinti arba ištremti dvasininkiją, o bažnyčias paversti sandėliais. Ši politika veikė ne tik religijos institucijas, bet ir visuomenės gyvenimą, nes dvasininkijos naikinimas bei šventovių paskirties pakeitimas reiškė stiprų okupacinės valdžios spaudimą. Sovietinėje Lietuvoje mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus, taip pat Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją ir suvažiavimų medžiagą. Todėl jo veikalų studijavimas tapo privalomos mokytojų ideologinio rengimo programos dalimi.","sentences":[{"sentence_id":"s1","text":"J. Stalinas – šiame istoriniame apraše nagrinėjamas asmuo.","support_ids":[]},{"sentence_id":"s2","text":"Jo laikais okupacinė valdžia siekė fiziškai sunaikinti arba ištremti dvasininkiją, o bažnyčias paversti sandėliais.","support_ids":["t-101640","c-21710"]},{"sentence_id":"s3","text":"Ši politika veikė ne tik religijos institucijas, bet ir visuomenės gyvenimą, nes dvasininkijos naikinimas bei šventovių paskirties pakeitimas reiškė stiprų okupacinės valdžios spaudimą.","support_ids":["t-101640","c-21710"]},{"sentence_id":"s4","text":"Sovietinėje Lietuvoje mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus, taip pat Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją ir suvažiavimų medžiagą.","support_ids":["t-101642","c-21709"]},{"sentence_id":"s5","text":"Todėl jo veikalų studijavimas tapo privalomos mokytojų ideologinio rengimo programos dalimi.","support_ids":["t-101642","t-101643","c-21709"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Nėra pateikta support_ids, todėl sakinys tiesiogiai nepagrįstas įrodymais."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai atitinka t-101640 ir c-21710 pateiktą ištrauką."},{"sentence_id":"s3","supported":false,"reason":"Įrodymai nepatvirtina teiginio apie poveikį visuomenės gyvenimui ir stiprų okupacinės valdžios spaudimą; tai papildoma interpretacija."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai patvirtinta t-101642 ir c-21709 ištraukoje, kur išvardijami visi nurodyti veikalai ir dokumentai."},{"sentence_id":"s5","supported":false,"reason":"Įrodymai patvirtina priverstinį studijavimą, bet ne tai, kad jis tapo privalomos mokytojų ideologinio rengimo programos dalimi; tai nepagrįsta išvada."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":[]},{"sentence_id":"s2","supported":true,"support_ids":["t-101640","c-21710"]},{"sentence_id":"s3","supported":true,"support_ids":["t-101640","c-21710"]},{"sentence_id":"s4","supported":true,"support_ids":["t-101642","c-21709"]},{"sentence_id":"s5","supported":true,"support_ids":["t-101642","t-101643","c-21709"]}],"verifier":"gpt-5.6-luna"},"quality":33,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5ba8b79a4451df09
+object_page_generated_at: '2026-09-19T18:54:32+00:00'
+object_page_source_checked_at: '2026-09-19T18:54:32+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'J. Stalinas – šiame istoriniame apraše nagrinėjamas asmuo. Jo laikais okupacinė valdžia siekė fiziškai sunaikinti arba ištremti dvasininkiją, o bažnyčias…'
+object_page_seo_input_hash: 23db35341aa6e8869bdca37e131f8952591ebb53823db5e18102d99bea2449ce
+object_page_seo_generated_at: '2026-09-19T18:54:32+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # J. Stalinas
 

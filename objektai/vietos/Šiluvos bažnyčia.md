@@ -1,0 +1,76 @@
+---
+tipas: vieta
+pavadinimas: Šiluvos bažnyčia
+saltiniai:
+  - Vyskupo Motiejaus Valančiaus pastoracinė veikla
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b360394b6e360b4881d36321
+canonical_name: Šiluvos bažnyčia
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šiluvos bažnyčia
+sameAs: []
+canonical_biography: Našlaitė Liudvė šaukėsi Šiluvos baž nyčioje Dievo Motinos pagalbos ir tuojau buvo išklausy ta.
+place_authority: true
+historical_names: []
+---
+# Šiluvos bažnyčia
+
+## Santrauka
+
+Našlaitė Liudvė Šiluvos bažnyčioje šaukėsi Dievo Motinos pagalbos ir tuojau buvo išklausyta.
+
+## Santrauka
+
+Našlaitė Liudvė Šiluvos bažnyčioje šaukėsi Dievo Motinos pagalbos ir tuojau buvo išklausyta.
+
+## Citatos
+
+- id: c-191333
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 116"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 116."
+  citata_originali: |
+    Čia parodomas Šiluvos Švč. M. Ma­
+    rijos gailestingumas. Našlaitė Liudvė šaukėsi Šiluvos baž­
+    nyčioje Dievo Motinos pagalbos ir tuojau buvo išklausy­
+    ta.
+  citata_rodoma: "Našlaitė Liudvė šaukėsi Šiluvos baž­\nnyčioje Dievo Motinos pagalbos ir tuojau buvo išklausy­\nta."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208713"></a>
+- t-001
+  teiginys: "Našlaitė Liudvė Šiluvos bažnyčioje šaukėsi Dievo Motinos pagalbos ir tuojau buvo išklausyta."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:52Z"
+  pagrindžia:
+    - c-191333
+

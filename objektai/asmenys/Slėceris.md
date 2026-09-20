@@ -1,10 +1,10 @@
 ---
 tipas: asmuo
-pavadinimas: 'Slėceris'
+pavadinimas: Slėceris
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1000 m.'
+  - 1000 m.
 date_start: '1000'
 date_end: ''
 sukurta: ''
@@ -13,28 +13,40 @@ tags:
   - mokslininkas
   - asmuo
 amziai:
-  - 'X'
+  - X
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b58267914eb5ce4016e55479"
-canonical_name: "Slėceris"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Slėceris"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b58267914eb5ce4016e55479
+canonical_name: Slėceris
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Slėceris
 sameAs: []
-canonical_biography: "Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip satrium ir lygino su lietuvišku žodžiu lihtars. Narbuto vertinimu, Slėceris keliautojų sunkumus renkant žinias net apsišvietusiuose kraštuose teisingai priskyrė vaizdinių aiškinimo kliūtims. Narbutas rašo, kad Slėceris laikė juokinga mintį, jog krivičių paminėjimas galėtų reikšti prūsų vyriausiąjį kunigą."
+canonical_biography: 'Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip satrium ir lygino su lietuvišku žodžiu lihtars. Narbuto vertinimu, Slėceris keliautojų sunkumus renkant žinias net apsišvietusiuose kraštuose teisingai priskyrė vaizdinių aiškinimo kliūtims. Narbutas rašo, kad Slėceris laikė juokinga mintį, jog krivičių paminėjimas galėtų reikšti prūsų vyriausiąjį kunigą.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T01:40:27+00:00","source_checked_at":"2026-09-20T01:40:27+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"85ef579c83e98e2bec781429","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Skitų gintaro pavadinimą „sacrium“ skaitė kaip „satrium“ ir lygino su lietuvišku žodžiu „lihtars“.","context":"Teodoro Narbuto perteikimas veikale „Lietuvių tautos istorija“, t. 2 (1995 m.).","support_ids":["t-212263","c-194770"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212263","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194770","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Skitai gintarą vadino sacrium. Šio žodžio galūnė sugraikinta. Slėceris skaito satrium ir tą žodį prilygina lietuviškam lihtars. Tik­ riausiai jį labiausiai reikėtų lyginti su skilu kalbos žodžiais*."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e37cb9836bbb320045de9192","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Aiškino sunkumus, su kuriais keliautojai susiduria rinkdami žinias net labiausiai apsišvietusiuose kraštuose.","context":"Narbuto vertinimu, Slėceris tai priskyrė prie kliūčių, trukdančių išsiaiškinti vaizdinius; 1995 m. veikalo leidime.","support_ids":["t-212410","c-196098"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212410","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196098","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Prie tų kliūčių, kurios trukdo keliautojams išsiaiškin­ ti tokius vaizdinius, Slėceris labai teisingai priskiria sunkumus, su kuriais, norėdami gauti tam tikrų žinių, keliautojai susiduria net ir labiausiai apsišvietusiuose kraštuose. Padavimai, pasakojimai labai dainai panašūs į pa­ sakas. Reikia pačiam keliauti, rinkti pasakojimus įvairiuo­ se užkampiuose, kad įsitikintum, kiek daug būtina iš jų atsijoti norint įrašyti į kritinę-istorinę užrašų knygutę."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"60cbe869976aeb46594a023d","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Kėlė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų žemesnį išsivystymo lygį iš dalies lėmė raitos medžioklės nežinojimas.","context":"Slėcerio paskelbta prielaida, cituojama Teodoro Narbuto veikale „Lietuvių tautos istorija“, t. 2 (1995 m.).","support_ids":["t-214060","c-197050"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214060","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197050","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Slėceris paskelbė prielaidą (Nestor. Dritter Band. S. 84), jog Otaitos, Peru, Meksikos gyventojai iš dalies bu­ vo žemesnio išsivystymo lygio todėl, kad nežinojo raitos medžioklės. Jis rašė: „Kaip išdidžiai atrodo prūsai tarp to­ limos Siaurės genčių, jau prieš 1000 metų nugalėdavę savo užpuolikus kavalerija“."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"dcbd79584b4b1590ecae4d2b","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Pripažino juoko vertu dalyką mintį, kad krivičių paminėjimas galėtų reikšti prūsų vyriausiąjį kunigą.","context":"Narbutas taip aprašo Slėcerio poziciją savo veikale, t. 2 (1995 m.).","support_ids":["t-214113","c-196611"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214113","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196611","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Čia pakalbėsime apie kai kurias detales, palikdami išvadas daryti skaitytojui. Be to, mes neįrodinėsime, nes Slėceris pripažino juoko vertą dalyką, kad, minint krivičius, galima būtų turėti omeny prūsų vyriausiąjį kunigą. Penkios mažos gentys, gresiant pavojui susijungusios, įkūrė rusų valstybę ir išrinko savo vadą iš šeštos gen­ ties."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d2ecc3eee413bd2cc65b01cc","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Skelbė, kad prūsų ir slavų kalbos yra antro giminystės laipsnio.","context":"Slėcerio kalbinė klasifikacija, perteikta Teodoro Narbuto veikale „Lietuvių tautos istorija“, t. 2 (1995 m.).","support_ids":["t-215749","c-197252"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215749","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197252","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Visa tai išliko Prūsijoje. Jie nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų genčių; jų kalba buvo labiau gimininga slavų kalbai: Slėceris šias dvi kalbas skelbia esant antro giminystės laipsnio. Dėl sąjungos su graikų imperatoriumi rusai pri­ siekė savo dievu Perūnu; vadinasi, jis buvo tas pats kaip ir prūsų Perkūnas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4eea5f7f04be415009128349","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Narbuto vertinimu, jo nereikėjo kaltinti melu dėl Baltijos, nes jis galėjo remtis gerais senovės šaltiniais.","context":"Teodoro Narbuto vertinimas, siejamas su Slėcerio pasakojimu apie Baltijos jūrą; 1995 m. leidimas.","support_ids":["t-215318","c-195361"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215318","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195361","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Taip jūros plotas vis didėjo, ir galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra didėjo. Tad tie, kurie pastebėjo fizinių įvykių, lėmusių žemių prie Baltijos jūros dingimą, sakė tikrą tiesą, ir tie, kurie, kaip Melą, teigė, jog Baltijos jūra užgriozta pakrantės salų, kurios vieną sykį panašios į sausumą, o kitą — į archipelagą, sakė taip pat ne mažiau tiesos. Tad kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal­ būt nesilankė prie Baltijos, neturėjo tikro supratimo apie Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su­ vokė."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":7,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 2ad05c90ffd1e2ca
+object_page_generated_at: '2026-09-20T01:40:27+00:00'
+object_page_source_checked_at: '2026-09-20T01:40:27+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '1'
+object_page_seo_description: 'Slėceris: Narbuto perteikimu, Slėceris skitų gintaro pavadinimą sacrium skaitė kaip satrium ir lygino su lietuvišku žodžiu lihtars. Narbuto vertinimu…'
+object_page_seo_input_hash: d6240f543a9a59183c7e805e8c08320f4579751a46e556cf00bd6c60c78e00e4
+object_page_seo_generated_at: '2026-09-20T01:40:27+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Slėceris
 

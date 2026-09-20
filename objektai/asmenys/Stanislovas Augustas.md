@@ -1,9 +1,9 @@
 ---
 tipas: asmuo
-pavadinimas: 'Stanislovas Augustas'
+pavadinimas: Stanislovas Augustas
 saltiniai:
-  - '04-ldk-personalijos-idejos-refleksijos'
-  - 'Lenkai Lietuvoje Dr. J. Basanavičius'
+  - 04-ldk-personalijos-idejos-refleksijos
+  - Lenkai Lietuvoje Dr. J. Basanavičius
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -23,19 +23,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5f2921927c7316c173f95c5c"
-canonical_name: "Stanislovas Augustas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Stanislovas Augustas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5f2921927c7316c173f95c5c
+canonical_name: Stanislovas Augustas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Stanislovas Augustas
 sameAs: []
-canonical_biography: "Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­ gusto III ir Stanislovo Augusto."
+canonical_biography: 'Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­ gusto III ir Stanislovo Augusto.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T02:37:54+00:00","source_checked_at":"2026-09-20T02:37:54+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8dc9cdf135c559806f060f8c","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Karalius ir monarchas","context":"Šaltiniuose Stanislovas Augustas tiesiogiai įvardijamas karaliumi; 1998 m. šaltinis jį taip pat vadina nuverstu monarchu.","support_ids":["t-200767","c-184112","t-208257","c-190888"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200767","source":"darbas/sources/Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.).md"},{"kind":"internal_claim","claim_id":"t-208257","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md"},{"kind":"evidence","evidence_id":"c-184112","source":"darbas/sources/Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.).md","quote":"Nojaus aukojimo grupė frontono viduje kupina veržlaus judesio; nišose tūnančių statulų charakteris — tapybiškas ir afektuotas. Tuose italo Righi, karaliaus Stanislovo Augusto dvaro skulptoriaus, kūri­ niuose skamba gęstanti baroko melodija. Gi trijų medinių, skarda apkalstytų statulų frontono kampuose (vidury — šv."},{"kind":"evidence","evidence_id":"c-190888","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md","quote":"Nei j Lenkiją, nei į Lietuvą A. Midletonas negrįžo. 1796 m. pavasarį persikėlė į Hamburgą, o iš ten - į Danijai priklausiusią Altoną. Čia buvęs pasiuntinybės tarnautojas sulaukėjo nuopelnų įvertinimo -17 9 4 m. data suteikto Šv. Stanislovo ordino ir Stanislovo Augusto, nuversto monarcho, kurio valstybės pertvarkymo vizija šventai tikėjo, finansinės paramos - 200 dukatų. 1796-ųjų metų vasarą pra­ leidęs Kopenhagoje, A. Midletonas vėl persikėlė į Altoną, kur mirė 1797 m. sausio i d. Buvo nevedęs, nei įpėdinių, nei turto nepaliko. Laidotuvių išlaidas apmokėjo Stanislovas Augustas99."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 20370fda5928707e
+object_page_generated_at: '2026-09-20T02:37:54+00:00'
+object_page_source_checked_at: '2026-09-20T02:37:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '4'
+object_page_seo_description: 'Stanislovas Augustas: Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­ gusto III ir…'
+object_page_seo_input_hash: 64ed61d02880333bf392fc5ac590104f2b499fe9fd3ac8f4c84c476935dd357c
+object_page_seo_generated_at: '2026-09-20T02:37:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Stanislovas Augustas
 

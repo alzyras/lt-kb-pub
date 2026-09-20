@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Michał Baliński Mykolas Balinskis'
+pavadinimas: Michał Baliński Mykolas Balinskis
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
@@ -21,19 +21,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ec5d4dec1a4305c132d245a2"
-canonical_name: "Michał Baliński Mykolas Balinskis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Michał Baliński Mykolas Balinskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ec5d4dec1a4305c132d245a2
+canonical_name: Michał Baliński Mykolas Balinskis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Michał Baliński Mykolas Balinskis
 sameAs: []
-canonical_biography: "Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus. Balinskis pa­ liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­ čiuose. Balinskis prisipažįsta, kad Vilniaus miesto is­ torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje."
+canonical_biography: 'Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus. Balinskis pa­ liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­ čiuose. Balinskis prisipažįsta, kad Vilniaus miesto is­ torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T13:09:28+00:00","source_checked_at":"2026-09-19T13:09:28+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1969de3142762cf4
+object_page_generated_at: '2026-09-19T13:09:28+00:00'
+object_page_source_checked_at: '2026-09-19T13:09:28+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Michał Baliński Mykolas Balinskis: Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti…'
+object_page_seo_input_hash: cf327ff63b40025da02e4deb6ff81577007a5ce30636141187f747299e3320ff
+object_page_seo_generated_at: '2026-09-19T13:09:28+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Michał Baliński Mykolas Balinskis
 

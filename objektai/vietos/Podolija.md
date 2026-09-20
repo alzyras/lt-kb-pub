@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Podolija'
+pavadinimas: Podolija
 saltiniai:
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1362 m.'
-  - '1398 m.'
-  - '1403 m.'
-  - '2026 m.'
+  - 1362 m.
+  - 1398 m.
+  - 1403 m.
+  - 2026 m.
 date_start: '1362'
 date_end: '2026'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-84f5142efc2cd60619123256"
-canonical_name: "Podolija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Podolija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-84f5142efc2cd60619123256
+canonical_name: Podolija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Podolija
 sameAs: []
-canonical_biography: "Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje."
+canonical_biography: 'Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:48:05+00:00","source_checked_at":"2026-09-19T18:48:05+00:00","counts":{"relations":3,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"061eeef3c19cb98e5e222225","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Nusitęsusi link Juodosios jūros srities stepių","context":"Zenonas Ivinskis taip apibūdino Algirdo laikų Lietuvos valstybės pietuose buvusią Podoliją.","support_ids":["t-119215","c-109512"],"source_refs":[{"kind":"internal_claim","claim_id":"t-119215","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-109512","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Nuo Lenkijos pakraščio, nuo Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos aukštupių (Rževo). Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje. Tokia plati valstybė negalėjo būti vienalytiška nei tautiniu, nei religiniu atžvilgiu."}],"status":"published","conflict_status":"clear"},{"trait_id":"12d7b3eaacc702ee815703da","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Plati","context":"Zenonas Ivinskis Algirdo laikų Lietuvos valstybės pietuose buvusią Podoliją apibūdino kaip plačią.","support_ids":["t-184394","c-167762"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184394","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-167762","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Per vieną šimtą metų, prieš Algirdui užmerkiant akis, iš, palyginti, dar nedidelės Mindaugo valstybės buvo pasida­ riusi plati rytų Europos «imperija ». Nuo Lenkijos pakraščio, nuo Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos aukštupių (Rževo). Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje."}],"status":"published","conflict_status":"clear"},{"trait_id":"c3b6202020c10e210a8acff2","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Vytauto laikais buvo daug dvarų ir ūkio centrų","context":"Šaltinio autoriaus teigimu, Podolija buvo labiau apgyventa vieta, todėl joje gausiai buvo dvarų ir ūkio centrų.","support_ids":["t-119216","c-109511"],"source_refs":[{"kind":"internal_claim","claim_id":"t-119216","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-109511","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"kunigaikščiui priklau­ sančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž. Lietuvos kunigaikščio būstinės."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-119215","confidence":0.88},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-119213","confidence":0.94},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179688","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":9,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 52bbc60a6139583b
+object_page_generated_at: '2026-09-19T18:48:05+00:00'
+object_page_source_checked_at: '2026-09-19T18:48:05+00:00'
+object_page_content_state: content
+object_page_claim_count: '9'
+object_page_source_count: '2'
+object_page_seo_description: 'Podolija: Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje. Šaltinių citatos.'
+object_page_seo_input_hash: bc7e3c268d1cb5295164f96da76ce7c213fe892397b623fef72906e6ebfebe3d
+object_page_seo_generated_at: '2026-09-19T18:48:05+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Podolija
 

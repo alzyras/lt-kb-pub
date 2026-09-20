@@ -1,17 +1,17 @@
 ---
 tipas: grupe
-pavadinimas: 'Husitai'
+pavadinimas: Husitai
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1421 m.'
-  - '1422 m.'
-  - '1424 m.'
-  - '1429 m.'
-  - '2026 m.'
+  - 1421 m.
+  - 1422 m.
+  - 1424 m.
+  - 1429 m.
+  - 2026 m.
 date_start: '1421'
 date_end: '2026'
 sukurta: ''
@@ -20,20 +20,30 @@ tags:
   - grupe
   - ordinas
 amziai:
-  - 'XV'
-  - 'XXI'
+  - XV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Husitai","url":"https://lt.wikipedia.org/wiki/Husitai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Husitai","url":"https://www.vle.lt/straipsnis/husitai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T16:18:31+00:00","source_checked_at":"2026-09-19T16:18:31+00:00","counts":{"relations":3,"gallery":0,"sources":4},"featured_claim_ids":["t-172100","t-172103","t-172104","t-172101","t-172099"],"featured_claims":[{"claim_id":"t-172100","text":"Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-36797"]},{"claim_id":"t-172103","text":"Vytautas čekams husitams rašė nerėmęs jų mokslo ir siūlėsi tarpininkauti, jei jie atsisakytų erezijos.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-156525"]},{"claim_id":"t-172104","text":"Čekai husitai pasiūlė karališką vainiką Jogailai, bet Jogaila atsisakė jį priimti kaip eretikų siūlymą.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-36796"]},{"claim_id":"t-172101","text":"Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-156527"]},{"claim_id":"t-172099","text":"Husitai ne kartą naudojosi Vytauto globa.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-156526"]}],"featured_quote":{"text":"Daug prisidėjo prie pergalių prieš kryžiuočius, tačiau nesiekė visiš­ ko jų Ordino sunaikinimo, nors turėjo tam galimybių; pritarė ir skelbė sprendimus, varžančius toleranciją, kuria nuo seno Vilnius garsėjo, betgi nė vienos kurios nors tikybos išpažini­ mas dėl to per daug nekentėjo. Pavyzdžiui, husitai dargi ne kartą Vytauto globa naudojosi. Šis kunigaikštis nė nedvejoda­ mas griebdavosi prie jo didybės nelabai derančių būdų, kad tik nukreiptų Jogailos dėmesį nuo Lietuvos valdymo reikalų.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-172106","evidence_id":"c-156526","origin":"internal"},"wiki":{"status":"published","source":{"title":"Husitai","url":"https://lt.wikipedia.org/wiki/Husitai","publisher":"Vikipedija","language":"lt","article_id":"67421","revision_id":"7672640","published_at":"2025-10-20T00:46:32Z","version_pk":"","content_hash":"6ab66a081b917cd4df7d6774757b933deb9eb0a9f72abbe474e4d7510e1e6381","retrieved_at":"2026-09-19T16:16:31+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Husitai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"67421"}},"intro":"Husitai – Jano Huso pasekėjai, Čekijos valstiečių, miestiečių ir smulkiųjų feodalų judėjimo vado jų kovoje prieš vokiečių feodalų ir Romos katalikų bažnyčios viešpatavimą. Husitų judėjimas įgavo itin platų užmojį po to, kai Husas buvo apkaltintas esąs eretikas ir sudegintas ant laužo. 1421–1423 m. – husitai paskelbė Vytautą Čekijos karaliumi.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Husitai","url":"https://lt.wikipedia.org/wiki/Husitai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Husitai","url":"https://www.vle.lt/straipsnis/husitai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Husitai","https://www.vle.lt/straipsnis/husitai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8f320c92e9c2db92f47513c3","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Naudojosi Vytauto globa.","context":"Michał Baliński taip aprašo husitų veiklą Vilniaus istorijos kontekste (2007 m.).","support_ids":["t-172099","c-156526"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172099","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-156526","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Daug prisidėjo prie pergalių prieš kryžiuočius, tačiau nesiekė visiš­ ko jų Ordino sunaikinimo, nors turėjo tam galimybių; pritarė ir skelbė sprendimus, varžančius toleranciją, kuria nuo seno Vilnius garsėjo, betgi nė vienos kurios nors tikybos išpažini­ mas dėl to per daug nekentėjo. Pavyzdžiui, husitai dargi ne kartą Vytauto globa naudojosi. Šis kunigaikštis nė nedvejoda­ mas griebdavosi prie jo didybės nelabai derančių būdų, kad tik nukreiptų Jogailos dėmesį nuo Lietuvos valdymo reikalų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7d8bc2572bb227f95880628d","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Čekai husitai pasiūlė karališką vainiką Jogailai, o vėliau – Vytautui Didžiajam.","context":"Taip teigiama veikale „Vytautas Didysis 1350–1430“ (1930 m.); šaltinio pasakojime Jogaila pasiūlymo nepriėmė, nes laikė jį eretikų siūlymu.","support_ids":["t-172104","c-36796"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172104","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36796","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Ir kai čekai husitai pasiūlė karališką vainiką Jo­ gailai, šis nesutiko jos priimti, nes tai buvo eretikų siūlymas. Tada su tuo pačiu siūlymu jie kreipėsi į Vytautą Didįjį. Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­ mene nusiuntė Zigmantą Kaributą padėti husitams kovose su ciesorium Zigmantu."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Husitai – čekų religinė ir politinė grupė, suvaidinusi svarbų vaidmenį Vytauto Didžiojo laikų Vidurio Europos politikoje. XV a. trečiajame dešimtmetyje jie ne kartą naudojosi Vytauto globa, nors šis viešai teigė nerėmęs jų mokymo ir siekęs grąžinti juos į Bažnyčią. Husitų ryšiai su Vytautu sukėlė popiežiaus pasipriešinimą: jam buvo draudžiama siųsti į Čekiją Kaributą, o už santykių su husitais nenutraukimą grėsė Lietuvai kryžiaus žygis ir Vytauto ekskomunikacija. Išskirtiniu jų politinės įtakos ženklu tapo karališkojo vainiko pasiūlymas Jogailai, kurio šis atsisakė kaip eretikų siūlymo; vėliau tas pats pasiūlymas buvo pateiktas Vytautui, o į Čekiją padėti husitams išsiųstas Zigmantas Kaributas.","sentences":[{"sentence_id":"s1","text":"Husitai – čekų religinė ir politinė grupė, suvaidinusi svarbų vaidmenį Vytauto Didžiojo laikų Vidurio Europos politikoje.","support_ids":["t-172103","t-172104"]},{"sentence_id":"s2","text":"XV a. trečiajame dešimtmetyje jie ne kartą naudojosi Vytauto globa, nors šis viešai teigė nerėmęs jų mokymo ir siekęs grąžinti juos į Bažnyčią.","support_ids":["t-172099","t-172103"]},{"sentence_id":"s3","text":"Husitų ryšiai su Vytautu sukėlė popiežiaus pasipriešinimą: jam buvo draudžiama siųsti į Čekiją Kaributą, o už santykių su husitais nenutraukimą grėsė Lietuvai kryžiaus žygis ir Vytauto ekskomunikacija.","support_ids":["t-172100","t-172101"]},{"sentence_id":"s4","text":"Išskirtiniu jų politinės įtakos ženklu tapo karališkojo vainiko pasiūlymas Jogailai, kurio šis atsisakė kaip eretikų siūlymo; vėliau tas pats pasiūlymas buvo pateiktas Vytautui, o į Čekiją padėti husitams išsiųstas Zigmantas Kaributas.","support_ids":["t-172104"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai nepatvirtina, kad husitai buvo čekų religinė ir politinė grupė ar kad jie suvaidino svarbų vaidmenį Vidurio Europos politikoje."},{"sentence_id":"s2","supported":false,"reason":"Šaltiniai patvirtina globą ir Vytauto viešą poziciją, tačiau pateiktuose įrodymuose tiesiogiai nepatvirtinta XV a. trečiojo dešimtmečio data."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina draudimą siųsti Kaributą, grasinimą kryžiaus žygiu ir Vytauto ekskomunikacijos grėsmę dėl santykių su husitais."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina vainiko pasiūlymą Jogailai, jo atsisakymą, pasiūlymą Vytautui ir Zigmanto Kaributo išsiuntimą į Čekiją."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-172103","t-172104"]},{"sentence_id":"s2","supported":false,"support_ids":["t-172099","t-172103"]},{"sentence_id":"s3","supported":false,"support_ids":["t-172100","t-172101"]},{"sentence_id":"s4","supported":false,"support_ids":["t-172104"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Varėna","claim_id":"t-172102","confidence":0.86},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Kaributas","claim_id":"t-172104","confidence":0.84},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176882","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 9584e3136da6b62b
+object_page_generated_at: '2026-09-19T16:18:31+00:00'
+object_page_source_checked_at: '2026-09-19T16:18:31+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Husitai – čekų religinė ir politinė grupė, suvaidinusi svarbų vaidmenį Vytauto Didžiojo laikų Vidurio Europos politikoje. XV a. trečiajame dešimtmetyje jie ne…'
+object_page_seo_input_hash: 53cc04fadee0265dbadaf650ff94fe7bbded1590765d5a681521c757530d6eec
+object_page_seo_generated_at: '2026-09-19T16:18:31+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Husitai
 

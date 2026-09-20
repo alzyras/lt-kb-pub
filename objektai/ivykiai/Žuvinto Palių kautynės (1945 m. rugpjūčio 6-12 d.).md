@@ -1,11 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)'
+pavadinimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1945 m.'
-  - '2026 m.'
+  - 1945 m.
+  - 2026 m.
 date_start: '1945'
 date_end: '2026'
 sukurta: ''
@@ -14,20 +14,30 @@ tags:
   - mūšis
   - ivykis
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T07:57:54+00:00","source_checked_at":"2026-09-20T07:57:54+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūki- ninkų kluonų duris ir jomis kaip plaustais plaukė ežeru. Partizanai be paliovos juos apšaudė ir granatomis skandino. Mūšis tęsėsi visą savaitę. Matydamas tokią priešo gausą S. Staniškis-Litas įsakė Dzūkų bū- riui trauktis į Buktos (Žaliosios) miško — Palių pakraštį. Kitas būrys užsimaskavo Žuvinto ežero salose. Jų nepastebėjo ne tik iš lėktuvų, bet ir iš valčių. Užsimaskavę vyrai atlaikė sunkiausią išbandymą. Jau temstant NKVD kareiviai, apžiūrėję ke- lias salas ir ten nieko neradę, įsidrąsinę yrėsi prie kitų. Būrio vadas Juozas Kaspa- ravičius-Strausas, matydamas, kad rusų valtys suka jų link ir mūšis neišvengiamas…","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","claim_id":"t-71783","evidence_id":"c-11949","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"57585ee0c76556f5c3279a3f","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per Žuvinto ežerą; partizanai juos apšaudė ir skandino granatomis. Mūšis tęsėsi visą savaitę.","context":"Šaltinyje aprašoma 1945 m. rugpjūčio 6–12 d. vykusių Žuvinto Palių kautynių eiga.","support_ids":["t-71783","c-11949"],"source_refs":[{"kind":"internal_claim","claim_id":"t-71783","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-11949","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūki- ninkų kluonų duris ir jomis kaip plaustais plaukė ežeru. Partizanai be paliovos juos apšaudė ir granatomis skandino. Mūšis tęsėsi visą savaitę. Matydamas tokią priešo gausą S. Staniškis-Litas įsakė Dzūkų bū- riui trauktis į Buktos (Žaliosios) miško — Palių pakraštį. Kitas būrys užsimaskavo Žuvinto ežero salose. Jų nepastebėjo ne tik iš lėktuvų, bet ir iš valčių. Užsimaskavę vyrai atlaikė sunkiausią išbandymą. Jau temstant NKVD kareiviai, apžiūrėję ke- lias salas ir ten nieko neradę, įsidrąsinę yrėsi prie kitų. Būrio vadas Juozas Kaspa- ravičius-Strausas, matydamas, kad rusų valtys suka jų link ir mūšis neišvengiamas…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d5ac42d0fe54c872423657b4","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Matydamas priešo gausą, S. Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško–Palių pakraštį, o kitas būrys užsimaskavo Žuvinto ežero salose.","context":"Tai šaltinio autoriaus perteiktas S. Staniškio-Lito sprendimas kautynių metu, atsižvelgiant į priešo gausą.","support_ids":["t-71783","c-11949"],"source_refs":[{"kind":"internal_claim","claim_id":"t-71783","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-11949","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūki- ninkų kluonų duris ir jomis kaip plaustais plaukė ežeru. Partizanai be paliovos juos apšaudė ir granatomis skandino. Mūšis tęsėsi visą savaitę. Matydamas tokią priešo gausą S. Staniškis-Litas įsakė Dzūkų bū- riui trauktis į Buktos (Žaliosios) miško — Palių pakraštį. Kitas būrys užsimaskavo Žuvinto ežero salose. Jų nepastebėjo ne tik iš lėktuvų, bet ir iš valčių. Užsimaskavę vyrai atlaikė sunkiausią išbandymą. Jau temstant NKVD kareiviai, apžiūrėję ke- lias salas ir ten nieko neradę, įsidrąsinę yrėsi prie kitų. Būrio vadas Juozas Kaspa- ravičius-Strausas, matydamas, kad rusų valtys suka jų link ir mūšis neišvengiamas…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"dalyvavo_musyje","direction":"inbound","target":"objektai/grupes/NKVD","claim_id":"t-183680","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1b8c2bba2024cd1f
+object_page_generated_at: '2026-09-20T07:57:54+00:00'
+object_page_source_checked_at: '2026-09-20T07:57:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): NKVD apsupo Žuvinto ežerą ir Palias, partizanai slėpėsi salose ir pelkėse, o mūšis tęsėsi visą savaitę.…'
+object_page_seo_input_hash: 5665386f6801712e9015f4c10b150631af44d60414d85212fd979551cf157848
+object_page_seo_generated_at: '2026-09-20T07:57:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)
 

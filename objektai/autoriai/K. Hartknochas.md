@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Kristupas Hartknochas'
+pavadinimas: Kristupas Hartknochas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -20,19 +20,33 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-28b4912e937560b8c88a0e74"
-canonical_name: "Kristupas Hartknochas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["K. Hartknochas","Kristupas Hartknochas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-28b4912e937560b8c88a0e74
+canonical_name: Kristupas Hartknochas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - K. Hartknochas
+  - Kristupas Hartknochas
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis teigia, kad 82 De Dusburg Petri [...] Chronłcon Prussiae / Auctore et collectore Christophoro Hartknoch. Dusburgietis teigia, kad hartknochas, pirmas D."
+canonical_biography: 'Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis teigia, kad 82 De Dusburg Petri [...] Chronłcon Prussiae / Auctore et collectore Christophoro Hartknoch. Dusburgietis teigia, kad hartknochas, pirmas D.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T09:37:39+00:00","source_checked_at":"2026-09-19T09:37:39+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"624adfe43154e7915779a985","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Prūsijos istorikas","context":"Teodoras Narbutas Kristupą Hartknochą taip apibūdina 1995 m. leidinyje.","support_ids":["t-213266","c-195233"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213266","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195233","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Turimas omenyje Kristupo Hartknocho (1644—1687), Prūsijos is­ toriko, vienu metu Vilniaus evangelikų mokyklos rektoriaus, vei­ kalas „Senoji ir Naujoji Prūsija“ (Hartknoch Christophorus. Alt- und Neues Preussen oder Preusischer Historien zwey Theile. Frank- furt—Leipzig, 1684)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3c209777d8bc41a500a7512a","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Vilniaus evangelikų mokyklos rektorius","context":"Teodoras Narbutas nurodo, kad Kristupas Hartknochas vienu metu ėjo šias pareigas.","support_ids":["t-213266","c-195233"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213266","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195233","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Turimas omenyje Kristupo Hartknocho (1644—1687), Prūsijos is­ toriko, vienu metu Vilniaus evangelikų mokyklos rektoriaus, vei­ kalas „Senoji ir Naujoji Prūsija“ (Hartknoch Christophorus. Alt- und Neues Preussen oder Preusischer Historien zwey Theile. Frank- furt—Leipzig, 1684)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4dddae5f1c5e8254f254f150","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Parengė pirmąjį Dusburgiečio kronikos leidimą","context":"Šaltinyje nurodoma, kad K. Hartknochas leidimą parengė Karaliaučiuje 1679 m.","support_ids":["t-222542","c-205245"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222542","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205245","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679 m.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio variantas"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 9ac0e09d32d0c57d
+object_page_generated_at: '2026-09-19T09:37:39+00:00'
+object_page_source_checked_at: '2026-09-19T09:37:39+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Kristupas Hartknochas: Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis teigia, kad 82 De Dusburg Petri [...] Chronłcon Prussiae /…'
+object_page_seo_input_hash: 502d59efd0d83342c5afb9fe076f6b75cd2a45e7b35865327350bf753430ec17
+object_page_seo_generated_at: '2026-09-19T09:37:39+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kristupas Hartknochas
 

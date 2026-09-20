@@ -1,3 +1,5 @@
+import { uniqueCitations } from "../util/objectDetail"
+import { objectPageModules, moduleVisible } from "../util/objectPageModules"
 import { ExternalLink, Images } from "lucide-preact"
 import { FullSlug, resolveRelative, simplifySlug } from "../util/path"
 import {
@@ -92,35 +94,6 @@ function externalReading(value: unknown): ExternalReading[] {
   } catch {
     return []
   }
-}
-
-function objectPageModules(frontmatter: Record<string, unknown>): ObjectPageModule {
-  const parseModule = (value: unknown): ObjectPageModule => {
-    try {
-      const parsed = typeof value === "string" ? JSON.parse(value) : value
-      return parsed && typeof parsed === "object" && !Array.isArray(parsed)
-        ? (parsed as ObjectPageModule)
-        : {}
-    } catch {
-      return {}
-    }
-  }
-  const modules = { ...parseModule(frontmatter.object_page_view_json) }
-  const candidate = parseModule(frontmatter.object_page_internal_summary_candidate_json)
-  const currentSummary = parseModule(modules.internal_summary)
-
-  // Keep the latest generated draft available for the development page even
-  // while the finisher still marks it quarantined. A published internal
-  // summary always wins; the candidate is only a fallback for a projection
-  // whose summary has no text yet.
-  if (
-    frontmatter.object_page_preview === true &&
-    cleanText(candidate.text) &&
-    !cleanText(currentSummary.text)
-  ) {
-    modules.internal_summary = { ...currentSummary, ...candidate }
-  }
-  return modules
 }
 
 function moduleRows(value: unknown): ObjectPageModule[] {
@@ -405,7 +378,7 @@ function TraitsSection({
   module: ObjectPageModule
   sourceHrefs: Map<string, string | undefined>
 }) {
-  if (cleanText(module.status) !== "published") return null
+  if (!moduleVisible(module)) return null
   const rows = moduleRows(module.rows).filter((row) => cleanText(row.value))
   if (rows.length === 0) return null
   const groups = groupedTraitRows(rows)
@@ -596,8 +569,8 @@ function ClaimCard({
       </div>
       <p>{claim.text}</p>
       <details>
-        <summary>Įrodymai ({claim.citations.length})</summary>
-        {claim.citations.map((citation) => {
+        <summary>Įrodymai ({uniqueCitations(claim.citations).length})</summary>
+        {uniqueCitations(claim.citations).map((citation) => {
           const source = cleanText(
             citation.fields.get("šaltinis") || citation.fields.get("saltinis"),
           )
@@ -694,7 +667,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
     frontmatter.pavadinimas || frontmatter.canonical_name || frontmatter.title,
   )
   const wikiPublished = Boolean(
-    wikiModule && wikiModule.status === "published" && wikiModuleHasContent(wikiModule),
+    wikiModule && moduleVisible(wikiModule) && wikiModuleHasContent(wikiModule),
   )
   const summaryPortrait = wikiPublished ? "" : heroImage(hero)
   const fallbackMessage = evidence.claims.length
@@ -755,7 +728,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
         )}
         {!wikiPublished && externalLinks.length > 0 && (
           <nav class="object-detail-reading" aria-label="Patikrintos skaitymo nuorodos">
-            {externalLinks.slice(0, 5).map((source) => (
+            {externalLinks.map((source) => (
               <a href={source.url} target="_blank" rel="noreferrer noopener">
                 {source.publisher || source.title} <ExternalLink size={13} />
               </a>
@@ -783,7 +756,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           <div class="object-detail-overview-evidence">
             <div class="object-section-heading">
               <p>Patikrinti teiginiai</p>
-              <h2>Svarbiausi faktai</h2>
+              <h2>Atrinkti teiginiai</h2>
             </div>
             <div class="object-detail-claims">
               {(projectedFeaturedClaims.length || view.featuredClaimIds.length

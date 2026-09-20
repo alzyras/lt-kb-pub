@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Ernestas Galvanauskas'
+pavadinimas: Ernestas Galvanauskas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1921 m.'
-  - '1926 m.'
+  - 1921 m.
+  - 1926 m.
 date_start: '1921'
 date_end: '1926'
 sukurta: ''
@@ -15,28 +15,40 @@ tags:
   - diplomatas
   - ministras
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes:
-  - 'modernioji Lietuva'
+  - modernioji Lietuva
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4c8a05ec7f1c5da946164f34"
-canonical_name: "Ernestas Galvanauskas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Ernestas Galvanauskas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4c8a05ec7f1c5da946164f34
+canonical_name: Ernestas Galvanauskas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Ernestas Galvanauskas
 sameAs: []
-canonical_biography: "Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garantuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių. Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E. Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas."
+canonical_biography: 'Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garantuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių. Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E. Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas.'
+external_sources_json: '[{"title":"Ernestas Galvanauskas","url":"https://lt.wikipedia.org/wiki/Ernestas_Galvanauskas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Ernestas Galvanauskas","url":"https://www.vle.lt/straipsnis/ernestas-galvanauskas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T05:59:37+00:00","source_checked_at":"2026-09-20T05:59:37+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Ernestas Galvanauskas","url":"https://lt.wikipedia.org/wiki/Ernestas_Galvanauskas","publisher":"Vikipedija","language":"lt","article_id":"32328","revision_id":"7848110","published_at":"2026-05-31T21:04:03Z","version_pk":"","content_hash":"1fa50a67589c908e2e4c9b7413f439a691b77feb93a62d8d67e3422af534fc87","retrieved_at":"2026-09-20T05:58:06+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Ernestas_Galvanauskas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"32328"}},"intro":"Ernestas Galvanauskas (1882 m. lapkričio 20 d. Zizonyse, Vabalninko valsčius – 1967 m. liepos 24 d. Eks le Bene, Prancūzija) – Lietuvos inžinierius, politinis bei visuomenės veikėjas.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1882 m. lapkričio 20 d.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Zizonys, Vabalninko valsčius","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1967 m. lapkričio 24 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Eks le Benas, Prancūzija","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Ernestas Galvanauskas","url":"https://lt.wikipedia.org/wiki/Ernestas_Galvanauskas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Ernestas Galvanauskas","url":"https://www.vle.lt/straipsnis/ernestas-galvanauskas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Ernestas_Galvanauskas","https://www.vle.lt/straipsnis/ernestas-galvanauskas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"333bf2b589c8d8f3e1cfb5bb","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvos delegacijos vadovas","context":"Šaltinio autoriai aprašo Ernestą Galvanauską kaip Lietuvos delegacijos vadovą derybose, kuriose buvo siekiama susigrąžinti Vilnių; nurodoma, kad jis gavo didelius įgaliojimus.","support_ids":["t-169967","c-154643"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169967","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154643","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garan- tuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c98c49a0d2e2132a
+object_page_generated_at: '2026-09-20T05:59:37+00:00'
+object_page_source_checked_at: '2026-09-20T05:59:37+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Ernestas Galvanauskas: Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus…'
+object_page_seo_input_hash: 49bd0efc5fb9ac82cd195ece3b6e06d74306fb598d3d3e036d651475e7242482
+object_page_seo_generated_at: '2026-09-20T05:59:37+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ernestas Galvanauskas
 

@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Otokaras'
+pavadinimas: Otokaras
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -15,19 +15,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f2ddfa082c018d12e42a52e1"
-canonical_name: "Otokaras"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Otokaras"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f2ddfa082c018d12e42a52e1
+canonical_name: Otokaras
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Otokaras
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė."
+canonical_biography: 'Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:33:59+00:00","source_checked_at":"2026-09-20T03:33:59+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"5b3ac1ac2044905385b54ad1","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Čekijos karalius ir čekų viešpats","context":"Simonas Daukantas, „Istorija žemaitiška“, t. 1 (1995); Otokaras tiesiogiai įvardijamas kaip Čekijos karalius ir čekų viešpats.","support_ids":["t-201020","c-184370"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201020","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184370","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Tarp diduomių samionų rado sau bendrą kryžėjai jomylistą ponaitį vadinamą, kurį mistras masindamas daug valsčių jam dovenoti. Būt rasi ir tą patį metą kryžėjai į Samiją trau­ kę, jei nebūt atkeliavęs į Parusnį Brunas, vyskupas Oknico, garsus ne vien kilčia ir grakštybe, bet pa­ girtas savo išminčia, gudryba ir mandagumu, kurs į vardą savo viešpaties Otokaro, karaliaus Čekų, kaipo jo siuntinys pas kryžėjų mistrą atėjęs, ap­ reiškė, jog karalius apsižadėjo, kryžium apsiženk- linęs, su kariauna traukti atenčią žiemą į Parusnį netikėlių žemaičių kariauti. Be to, dar atnešė jis raštą samionims nuo savo karaliaus, kuriame lin­ kėjo jis sulig geru jiems krikštytis ir kryžėjų klau­ syti…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"72dd81de7945acb1175f18f7","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Čekijos karalius","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 4 (1997); autorius rašo, kad kryžiuočiai paskatino Čekijos karalių Otokarą atkariauti Lietuvą ir atnaujinti jos krikščionišką karalystę.","support_ids":["t-205708","c-188323"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205708","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188323","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Kai, mirus šiam karaliui, Lietuva vėl grįžo į savo senąjį būvį, kryžiuočiai sugebėjo paakinti Čekijos karalių Otokarą vėl ją atkariauti krikš­ čionių pasauliui. Popiežius Klemensas IV džiaugsmingai pritarė šiam sumanymui, ir Otokarui suteikė įgaliojimus po Mindaugo mirties vėl atnaujinti krikščionišką Lietu­ vos karalystę, tai yra atversti ją į tikėjimą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"87828855d9eaf63ae4d86b37","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Siekė, kad žemaičiai krikštytųsi ir klausytų kryžiuočių","context":"Simonas Daukantas, „Istorija žemaitiška“, t. 1 (1995); per savo pasiuntinį Otokaras samionams linkėjo krikštytis ir klausyti kryžiuočių.","support_ids":["t-201020","c-184370"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201020","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184370","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Tarp diduomių samionų rado sau bendrą kryžėjai jomylistą ponaitį vadinamą, kurį mistras masindamas daug valsčių jam dovenoti. Būt rasi ir tą patį metą kryžėjai į Samiją trau­ kę, jei nebūt atkeliavęs į Parusnį Brunas, vyskupas Oknico, garsus ne vien kilčia ir grakštybe, bet pa­ girtas savo išminčia, gudryba ir mandagumu, kurs į vardą savo viešpaties Otokaro, karaliaus Čekų, kaipo jo siuntinys pas kryžėjų mistrą atėjęs, ap­ reiškė, jog karalius apsižadėjo, kryžium apsiženk- linęs, su kariauna traukti atenčią žiemą į Parusnį netikėlių žemaičių kariauti. Be to, dar atnešė jis raštą samionims nuo savo karaliaus, kuriame lin­ kėjo jis sulig geru jiems krikštytis ir kryžėjų klau­ syti…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"860b0f4b376a0270f03d7a1e","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Siekė Lietuvą atversti į krikščionių tikėjimą ir atnaujinti jos krikščionišką karalystę","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 4 (1997); autorius teigia, kad Otokarui buvo suteikti įgaliojimai po Mindaugo mirties atnaujinti krikščionišką Lietuvos karalystę, t. y. atversti Lietuvą į tikėjimą.","support_ids":["t-205708","c-188323"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205708","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188323","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Kai, mirus šiam karaliui, Lietuva vėl grįžo į savo senąjį būvį, kryžiuočiai sugebėjo paakinti Čekijos karalių Otokarą vėl ją atkariauti krikš­ čionių pasauliui. Popiežius Klemensas IV džiaugsmingai pritarė šiam sumanymui, ir Otokarui suteikė įgaliojimus po Mindaugo mirties vėl atnaujinti krikščionišką Lietu­ vos karalystę, tai yra atversti ją į tikėjimą."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 323aba0acba518b8
+object_page_generated_at: '2026-09-20T03:33:59+00:00'
+object_page_source_checked_at: '2026-09-20T03:33:59+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '2'
+object_page_seo_description: 'Otokaras: Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare…'
+object_page_seo_input_hash: 89baecbbdd292732e434ad5c3ac45461594850d8717cff4d905e95d241857974
+object_page_seo_generated_at: '2026-09-20T03:33:59+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Otokaras
 

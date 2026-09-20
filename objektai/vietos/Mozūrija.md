@@ -1,15 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: 'Mozūrija'
+pavadinimas: Mozūrija
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1244 m.'
-  - '1325 m.'
-  - '1432 m.'
-  - '2026 m.'
+  - 1244 m.
+  - 1325 m.
+  - 1432 m.
+  - 2026 m.
 date_start: '1244'
 date_end: '2026'
 sukurta: ''
@@ -18,29 +18,41 @@ tags:
   - vieta
   - regionas
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-d2841bd8a34b19a1c2af38a3"
-canonical_name: "Mozūrija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Mozūrija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-d2841bd8a34b19a1c2af38a3
+canonical_name: Mozūrija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Mozūrija
 sameAs: []
-canonical_biography: "Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams rekomendavo kelią per Mozūriją."
+canonical_biography: 'Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams rekomendavo kelią per Mozūriją.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Mozūrija","url":"https://www.vle.lt/straipsnis/mozurija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T16:02:36+00:00","source_checked_at":"2026-09-19T16:02:36+00:00","counts":{"relations":4,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tą padarius, traukė naujasis kunigaikštis su surinktu svietu, kutindamas savo kantrybę tikėjimu ir vildamos, jog patys dievai šelps atgiežti apmaudą kuo baisesniai ant mozūrų už jų tokias nuodėmes. Kaipogi lietuviai, įpuolę į Mozūriją, ugnia ir karda nuteriojo visą kraštą, pilis sugriovė, svieto ir gyvolių neapregimas gaujas na­ mo parvarė. Nes vos buvo lietuviai palikę Mozūri­ ją, kad tuo tarpu mozūrai įkandin grūdos į Parusnį ir, lygų už lygų mokėdami, plėšė, teriojo ir degino.","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","claim_id":"t-201083","evidence_id":"c-184433","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Mozūrija","url":"https://www.vle.lt/straipsnis/mozurija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/mozurija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b34ed12ad2adb4dde417385d","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Per Mozūriją ėjo kelias į Lietuvą; jis buvo atviras ir laisvas, be muito ir mokesčio.","context":"Daukantas, cituodamas laiško turinį, aprašo kelią per Mozūriją kaip prieinamą atvykstantiems į Lietuvą; laikas šaltinio pasakojime nenurodytas.","support_ids":["t-201086","c-184436"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201086","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184436","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Šį patį metą aš laukiu keturių kunigų, mokančių lenkiškai, žemgališkai, lietuviškai ir pa- rusiškai, ateinančių į tas bažnyčias, bet nenoriu to­ kių kunigų, kurie iš savo klioštorių daro vagių pakriaušius, alūžnas parduoda* kunigus galuoja ir svietą kropia. Kelias pas mus yra atdaras ir liuosas per Mozūriją be muito ir mokesnio. Ant didesnės kliauties ir įtikėjimo, apžymėjom mes tą gromatą ta pačia žyme, su kuria mes gromatą popiežiui nu­ leidom; ir taip pirma gelžis į vašką, vanduo į plieną pavirs, nekaip mes savo žodį laužysim arba at- šauksim."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f6f001ddd1d4030a0b5760b5","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Mozūrija buvo rekomenduojama kaip kelias į Lietuvą atvykstantiems vakarų svetimšaliams.","context":"Ivinskis aprašo Gedimino laiškuose teiktą rekomendaciją; kalbama apie Gedimino laikotarpį ir jo laiškus.","support_ids":["t-79845","c-76765"],"source_refs":[{"kind":"internal_claim","claim_id":"t-79845","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-76765","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su Mozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams rekomendavo kelią per Mozūriją. Jo 1325 m. sutartis buvo pir­ masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­ čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­ mečio."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4a9acd96102a9d7213166ab1","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Mozūrijoje buvo pilių; pasak šaltinio, per karo žygį jos buvo sugriovėtos.","context":"Daukantas aprašo lietuvių įsiveržimą į Mozūriją ir nurodo, kad tuo metu buvo nuniokotas visas kraštas bei sugriautos pilys.","support_ids":["t-201083","c-184433"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201083","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184433","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Tą padarius, traukė naujasis kunigaikštis su surinktu svietu, kutindamas savo kantrybę tikėjimu ir vildamos, jog patys dievai šelps atgiežti apmaudą kuo baisesniai ant mozūrų už jų tokias nuodėmes. Kaipogi lietuviai, įpuolę į Mozūriją, ugnia ir karda nuteriojo visą kraštą, pilis sugriovė, svieto ir gyvolių neapregimas gaujas na­ mo parvarė. Nes vos buvo lietuviai palikę Mozūri­ ją, kad tuo tarpu mozūrai įkandin grūdos į Parusnį ir, lygų už lygų mokėdami, plėšė, teriojo ir degino."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Mozūrija – istorinė vietovė, Lietuvos ir kaimyninių kraštų ryšiuose minima kaip svarbi kelio, diplomatijos ir karinių veiksmų erdvė. Nuo Traidenio laikų Lietuva palaikė pastovesnį ryšį su Mozūrija, o Gediminas vakarų svetimšaliams, kviečiamiems į Lietuvą, rekomendavo keliauti per šį kraštą. 1325 m. Gedimino sutartis su Lenkija šaltinyje įvardijama kaip pirmasis taikus Lietuvos ir Lenkijos sąlytis, kurio atgarsis buvo juntamas dar Liublino unijos išvakarėse. 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila, patvirtinęs sutartį su Ordinu, sustiprino ryšius su Mozūrija ir kitais kunigaikščiais. Kitas šaltinis Mozūriją vaizduoja kaip atvirą kelią į Lietuvą, kuriuo buvo galima keliauti be muito ir mokesčio, tačiau taip pat mini niokojančius lietuvių ir mozūrų karo žygius.","sentences":[{"sentence_id":"s1","text":"Mozūrija – istorinė vietovė, Lietuvos ir kaimyninių kraštų ryšiuose minima kaip svarbi kelio, diplomatijos ir karinių veiksmų erdvė.","support_ids":["t-79842","t-79845","t-201083","t-201086"]},{"sentence_id":"s2","text":"Nuo Traidenio laikų Lietuva palaikė pastovesnį ryšį su Mozūrija, o Gediminas vakarų svetimšaliams, kviečiamiems į Lietuvą, rekomendavo keliauti per šį kraštą.","support_ids":["t-79845","c-76765"]},{"sentence_id":"s3","text":"1325 m. Gedimino sutartis su Lenkija šaltinyje įvardijama kaip pirmasis taikus Lietuvos ir Lenkijos sąlytis, kurio atgarsis buvo juntamas dar Liublino unijos išvakarėse.","support_ids":["t-79845","c-76765"]},{"sentence_id":"s4","text":"1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila, patvirtinęs sutartį su Ordinu, sustiprino ryšius su Mozūrija ir kitais kunigaikščiais.","support_ids":["t-79843","c-76766"]},{"sentence_id":"s5","text":"Kitas šaltinis Mozūriją vaizduoja kaip atvirą kelią į Lietuvą, kuriuo buvo galima keliauti be muito ir mokesčio, tačiau taip pat mini niokojančius lietuvių ir mozūrų karo žygius.","support_ids":["t-201086","c-184436","t-201083","c-184433"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Nurodyti šaltiniai tiesiogiai aprašo Mozūriją kaip kelio, diplomatinių ryšių ir karinių veiksmų erdvę."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo ryšį nuo Traidenio laikų ir Gedimino rekomenduotą kelią per Mozūriją."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai įvardija 1325 m. sutartį kaip pirmąjį taikų Lietuvos ir Lenkijos sąlytį ir mini jos atminimą Liublino unijos išvakarėse."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis patvirtina 1432 m. gegužės 15 d. įvykį Skirsnemunėje, sutarties patvirtinimą ir ryšių su Mozūrija stiprinimą."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai mini atvirą kelią per Mozūriją be muito ir mokesčio bei lietuvių ir mozūrų niokojančius karo žygius."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-79842","t-79845","t-201083","t-201086"]},{"sentence_id":"s2","supported":true,"support_ids":["t-79845","c-76765"]},{"sentence_id":"s3","supported":true,"support_ids":["t-79845","c-76765"]},{"sentence_id":"s4","supported":true,"support_ids":["t-79843","c-76766"]},{"sentence_id":"s5","supported":true,"support_ids":["t-201086","c-184436","t-201083","c-184433"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Mozūrijos kunigaikštis Jonušas","claim_id":"t-35250","confidence":0.85},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Mozūrų kunigaikštis Henrikas","claim_id":"t-34819","confidence":0.85},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Zemovitas","claim_id":"t-09532","confidence":0.93},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Dovydas (Gardino pilininkas)","claim_id":"t-173133","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":8,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 80531cbeba3fa23b
+object_page_generated_at: '2026-09-19T16:02:36+00:00'
+object_page_source_checked_at: '2026-09-19T16:02:36+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '4'
+object_page_seo_description: 'Mozūrija – istorinė vietovė, Lietuvos ir kaimyninių kraštų ryšiuose minima kaip svarbi kelio, diplomatijos ir karinių veiksmų erdvė. Nuo Traidenio laikų…'
+object_page_seo_input_hash: 48bffc34163c332c21e0e5bf887f59f306a525556557fb33f96c7d69bbfa7411
+object_page_seo_generated_at: '2026-09-19T16:02:36+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mozūrija
 

@@ -1,15 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: 'Ispanija'
+pavadinimas: Ispanija
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1230 m.'
-  - '1232 m.'
-  - '1266 m.'
-  - '1588 m.'
-  - '1990 m.'
+  - 1230 m.
+  - 1232 m.
+  - 1266 m.
+  - 1588 m.
+  - 1990 m.
 date_start: '1230'
 date_end: '1990'
 sukurta: ''
@@ -19,29 +19,41 @@ tags:
   - vieta
   - jūra
 amziai:
-  - 'XIII'
-  - 'XX'
+  - XIII
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-091b1c357d9c1658240d9187"
-canonical_name: "Ispanija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ispanija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-091b1c357d9c1658240d9187
+canonical_name: Ispanija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ispanija
 sameAs: []
-canonical_biography: "O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai? Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo. Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas."
+canonical_biography: 'O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai? Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo. Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Ispanija","url":"https://lt.wikipedia.org/wiki/Ispanija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:03:54+00:00","source_checked_at":"2026-09-20T00:03:54+00:00","counts":{"relations":2,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Ispanija","url":"https://lt.wikipedia.org/wiki/Ispanija","publisher":"Vikipedija","language":"lt","article_id":"1718","revision_id":"7883394","published_at":"2026-07-21T13:22:26Z","version_pk":"","content_hash":"a78098c51f6a992b281cfab58a3eb85157ab039ab6297b499fb0789780224185","retrieved_at":"2026-09-20T00:02:22+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Ispanija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"1718"}},"intro":"Ispanija (isp. España, tariama [esˈpaɲa] (plačiau); oficialiai Ispanijos Karalystė, isp. Reino de España) – valstybė Pietvakarių Europoje. Užima didžiąją dalį (85 %) Pirėnų pusiasalio, Kanarų salas Atlanto vandenye ir Balearų salas Viduržemio jūroje. Ispanijai taip pat priklauso du autonominiai miestai Afrikoje – Seuta ir Melilja. Šiaurės rytuose ribojasi su Prancūzija ir Andora, vakaruose – su Portugalija, pietuose – su Gibraltaru (JK). Šiaurėje Ispanija prieina prie Biskajos įlankos, šiaurės vakaruose, vakaruose ir pietvakariuose – prie Atlanto vandenyno, pietryčiuose ir rytuose – prie Viduržemio jūros. Šalies sostinė ir didžiausias miestas – Madridas. Kiti didieji miestai: Barselona, ​​Valensija, Saragosa, Sevilija, Malaga, Mursija, Maljorkos Palma, Las Palmasas ir Bilbao.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Ispanija","url":"https://lt.wikipedia.org/wiki/Ispanija","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Ispanija"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"893e2ce9b39c0bafd7b95bff","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Savi miestai ir jų ekonomika nebuvo plėtojami.","context":"Anot Lietuvos istorijos autorių, XVI–XVII a. Ispanijos valdų iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos.","support_ids":["t-90459","c-24141"],"source_refs":[{"kind":"internal_claim","claim_id":"t-90459","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-24141","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"O kas nutiko didžiųjų ge- ografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir XVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is- panijos valdose nenusileisdavo saulė."}],"status":"published","conflict_status":"clear"},{"trait_id":"fda0b30a40b194e2d032b764","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Žemės rojus, arba „Paradis“, buvo įsivaizduojamas Ispanijoje prie Tago, visai šalia Sevilijos, prie vietovės Paradas.","context":"Tai Poinsinet de Sivry aiškinimas, pateiktas Teodoro Narbuto veikale; šaltinyje išlaikomas autoriaus priskyrimas.","support_ids":["t-214218","c-196126"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214218","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196126","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Puantine de Sivrej (Poinsinet de Sivry. Origines de premières sociétés des peuples etc.) pirmuosius žmones po Tvano aptiko Pirė­ nuose, įžvelgęs šio pavadinimo pradžią žodyje jt v q , ug­ nis, o žemės rojų, arba Paradis, — Ispanijoje, prie Tago, visai šalia Sevilijos, nes ten yra vietovė Paradas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Almimolinas","claim_id":"t-220305","confidence":0.93},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Almimolinas","claim_id":"t-225083","confidence":0.88}],"timeline":[],"support_disclosure":{"claims":6,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 28ea6a7f52b1ff89
+object_page_generated_at: '2026-09-20T00:03:54+00:00'
+object_page_source_checked_at: '2026-09-20T00:03:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '3'
+object_page_seo_description: 'Ispanija: O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai? Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė…'
+object_page_seo_input_hash: b6a8e0eedf45d906d10f82a08c16ee65df5ab9ecc3302f9b0befb078a974d5b9
+object_page_seo_generated_at: '2026-09-20T00:03:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ispanija
 

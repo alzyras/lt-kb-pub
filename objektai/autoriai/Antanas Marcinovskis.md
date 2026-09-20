@@ -1,12 +1,12 @@
 ---
 tipas: autorius
-pavadinimas: 'Antanas Marcinovskis'
+pavadinimas: Antanas Marcinovskis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1781 m.'
-  - '1855 m.'
+  - 1781 m.
+  - 1855 m.
 date_start: '1781'
 date_end: '1855'
 sukurta: ''
@@ -15,29 +15,48 @@ tags:
   - autorius
   - redaktorius
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b7e65fbd5210c93fdb6bf822"
-canonical_name: "Antanas Marcinovskis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["A. Marcinovskio","A. Marcinovskis","A. Marcinowskicgo","Antanas Marcinovskis","Antanui Marcinovskiui","Marcinovskis","Marcinowski A."]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b7e65fbd5210c93fdb6bf822
+canonical_name: Antanas Marcinovskis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - A. Marcinovskio
+  - A. Marcinovskis
+  - A. Marcinowskicgo
+  - Antanas Marcinovskis
+  - Antanui Marcinovskiui
+  - Marcinovskis
+  - Marcinowski A.
 sameAs: []
-canonical_biography: "Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve ir T. Narbuto „Lietuvių tautos istorijos“ leidyba. Įvado autorė jį apibūdina kaip literatą, redaktorių, spaustuvės savininką ir leidėją, o Narbutas jį vadina „Kurjer Litewski“ redaktoriumi ir savo veikalų leidėju."
+canonical_biography: 'Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve ir T. Narbuto „Lietuvių tautos istorijos“ leidyba. Įvado autorė jį apibūdina kaip literatą, redaktorių, spaustuvės savininką ir leidėją, o Narbutas jį vadina „Kurjer Litewski“ redaktoriumi ir savo veikalų leidėju.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T12:54:05+00:00","source_checked_at":"2026-09-19T12:54:05+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0d16f92875b0bbffe790f908","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Vilniaus literatas, redaktorius, leidėjas ir spaustuvės savininkas; „Kurjer Litewski“ redaktorius ir T. Narbuto veikalų leidėjas.","context":"Šaltinio autoriai jį taip apibūdina XIX a. laikotarpiu.","support_ids":["t-214921","c-194831","t-219413","c-201476"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214921","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-219413","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-194831","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Savaime suprantama, viena iš svar­ biausių problemų, įgyvendinant tokį sumanymą, turėjo būti leidėjo paieškos. Juo tapo Antanas Marcinovskis (1781 —1855) — žinomas Vilniaus literatas, redaktorius ir spaustuvės savininkas, vienas ryškiausių to meto inte­ lektualų. Nesuklysime sakydami, jog būtent jam reikėtų priskirti dalį LTI šlovės, nors iš esmės šito didelio leidy­ binio sumanymo jam nepavyko iki galo įgyvendinti — taip ir nebuvo išspausdintas paskutinis, dešimtas tomas."},{"kind":"evidence","evidence_id":"c-201476","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Pieši­ nys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią piešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“ redaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*."}],"status":"published","conflict_status":"clear"},{"trait_id":"13dd1f62b3c8fbd895c83219","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Rūpinosi leidyba, prenumerata ir reklama; 1835 m. jo lėšomis ir spaustuvėje Vilniuje išleistas pirmasis „Dzieje starożytne narodu Litewskiego“ tomas.","context":"Aprašomi jo leidybiniai gebėjimai ir veikla XIX a.","support_ids":["t-214922","c-195213","t-217118","c-200386"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214922","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-217118","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-195213","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Taigi nuo 1837 metų T. Narbutas galėjo toliau tęsti pradėtą darbą, jau turėdamas pagrįstą viltį, jog LTI bus išspausdinta. Ir ne tik išspausdinta, bet ir perkama: A. Marcinovskis pasirūpino ne tik leidyba, prenumerata, bet ir reklama."},{"kind":"evidence","evidence_id":"c-200386","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"UDK 947.45 Na-162 Versta iš: Dzicjc starožytne narodu Litcwskiego przcz Teodora Narbutta. Tom picrwszy: Mitologia Litcwska z o.šmią rycinami. Wilno, naktadem i drukiem A. Marcinowskicgo, 1835."}],"status":"published","conflict_status":"clear"},{"trait_id":"e6b0c340200bd95c04f07dcd","canonical_code":"author.communication","label":"Bendravimas","group":"Kūryba ir veikla","value":"T. Narbutui atsiuntė tikslią monetos piešinio kopiją.","context":"T. Narbutas tai nurodo aprašydamas gautą kopiją; aplinkybės siejamos su XIX a. leidybine ir istorine veikla.","support_ids":["t-215288","c-195179"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215288","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195179","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Be jokios abejonės moneta priklauso tam kraštui ir tai tautai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nukalta tokiu pat stiliumi kaip gerais Romos cezarių laikais. Piešinys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią piešinio kopiją atsiuntė p/onas/ Marcinovskis, „Kurjer Litewski“ redakto­ rius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir tikriau­ siai pateko į Sankt Peterburgą (žr. 12 piešinį tomo gale)."}],"status":"published","conflict_status":"clear"},{"trait_id":"f81dd748452ed7b9e4a56e0e","canonical_code":"author.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Priklausė masonų organizacijai.","context":"Šaltinyje tai nurodoma kalbant apie „Dziennik Willenski“ ir „Tygodnik Wilenski“ redaktorius bei 1817 m. laikotarpį.","support_ids":["t-219037","c-197686"],"source_refs":[{"kind":"internal_claim","claim_id":"t-219037","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-197686","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Ant taurės išgraviruota data - „1817 m.“ R. Kli­ mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­ mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­ odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas Marcinovskis taip pat priklausė masonų organizacijai."}],"status":"published","conflict_status":"clear"},{"trait_id":"baee472406333674b277d21d","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Apibūdinamas kaip vienas ryškiausių to meto intelektualų; įvado autorė teigia, kad jam reikėtų priskirti dalį „Lietuvių tautos istorijos“ šlovės.","context":"Tai įvado autorės vertinimas, siejamas su XIX a. leidybine veikla; paskutinis, dešimtas tomas nebuvo išspausdintas.","support_ids":["t-219475","c-198236"],"source_refs":[{"kind":"internal_claim","claim_id":"t-219475","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-198236","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Idėjos įkūnijimas. Savaime suprantama, viena iš svarbiau­ sių problemų, įgyvendinant tokį sumanymą, turėjo būti leidė­ jo paieškos. Juo tapo Antanas Marcinovskis (1781-1855) - ži­ nomas Vilniaus literatas, redaktorius ir spaustuvės savininkas, vienas ryškiausių to meto intelektualų. Nesuklysime sakyda­ mi, kad būtent jam reikėtų priskirti dalį LTI šlovės, nors iš"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":11,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5b050e6ef83d3557
+object_page_generated_at: '2026-09-19T12:54:05+00:00'
+object_page_source_checked_at: '2026-09-19T12:54:05+00:00'
+object_page_content_state: content
+object_page_claim_count: '11'
+object_page_source_count: '2'
+object_page_seo_description: 'Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve ir T. Narbuto „Lietuvių tautos istorijos“ leidyba. Įvado autorė jį apibūdina…'
+object_page_seo_input_hash: c947a8da10176a684ddf14b76ab17a6a09f81b5d6f88203695bc344e1c4ce026
+object_page_seo_generated_at: '2026-09-19T12:54:05+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Antanas Marcinovskis
 

@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Olbrachtas'
+pavadinimas: Olbrachtas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -15,19 +15,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ed14f6a790504d408d32990f"
-canonical_name: "Olbrachtas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Olbrachtas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ed14f6a790504d408d32990f
+canonical_name: Olbrachtas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Olbrachtas
 sameAs: []
-canonical_biography: "1496 m. Olbrachtas, Lietuvos metraštyje vadinamas karaliumi, su karalaičiu Zigmantu išvyko į Liubliną, o vėliau Parčeve dalyvavo seime su Aleksandro puse. Lietuvos metraštis pasakoja, kad Olbrachtas po sutarties su Moldavijos vaivada traukė iš Moldavijos per uolėtą Bukoviną, nes norėjo greičiau pasiekti Lenkijos sieną."
+canonical_biography: '1496 m. Olbrachtas, Lietuvos metraštyje vadinamas karaliumi, su karalaičiu Zigmantu išvyko į Liubliną, o vėliau Parčeve dalyvavo seime su Aleksandro puse. Lietuvos metraštis pasakoja, kad Olbrachtas po sutarties su Moldavijos vaivada traukė iš Moldavijos per uolėtą Bukoviną, nes norėjo greičiau pasiekti Lenkijos sieną.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:15:25+00:00","source_checked_at":"2026-09-20T14:15:25+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e2547c1c93df55cfc14fb2a6","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Karalius","context":"Lietuvos metraštyje Olbrachtas vadinamas karaliumi; 1496 m. jis su karalaičiu Zigmantu išvyko į Liubliną.","support_ids":["t-212037","c-193767"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212037","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193767","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Tą pačią žiemą didysis kunigaikštis Aleksandras su didžiąja kunigaikštiene Elena bei su didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­ lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo j Vilnių 3 . Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­ taus gimimo tūkstantis keturi šimtai devyniasdešimt šeštaisiais didysis kunigaikštis Aleksandras išvyko į Brastą \\ o karalius Olbrachtas su jų broliu, karalai­ čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais savo Tarybų ponais suvažiavo į Parčevą 6 dalyvauti sei­ me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­ tais sumanė ir nutarė — visa tai paliko didelė paslap­ tis 7 , Ir išvažinėjo savais keliais…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Olbrachtas buvo karalaitis, po tėvo, karaliaus Kazimiero, mirties paimtas į Lenkijos karalystės sostą. Jo istorija susijusi su Moldavija ir konfliktu su jos vaivada Steponu, kuris, sutelkęs savo žmones bei sąjungininkus, miškuose ir sunkiai pereinamose vietovėse užpuolė Olbrachtą bei jo kariuomenę. Po sutarties su Moldavijos vaivada Olbrachtas pasitraukė iš jo žemės ir, norėdamas greičiau pasiekti Lenkijos sieną, pasirinko tiesesnį kelią per uolėtą Bukoviną, kalnus ir sunkiai pereinamus miškus. Nuo Sučiavos miesto pasitraukęs karalius žygiavo gilyn ir, pasak metraščio, iš visos širdies troško susikauti su priešininku.","sentences":[{"sentence_id":"s1","text":"Olbrachtas buvo karalaitis, po tėvo, karaliaus Kazimiero, mirties paimtas į Lenkijos karalystės sostą.","support_ids":["t-210103","c-193367"]},{"sentence_id":"s2","text":"Jo istorija susijusi su Moldavija ir konfliktu su jos vaivada Steponu, kuris, sutelkęs savo žmones bei sąjungininkus, miškuose ir sunkiai pereinamose vietovėse užpuolė Olbrachtą bei jo kariuomenę.","support_ids":["t-210999","c-194347"]},{"sentence_id":"s3","text":"Po sutarties su Moldavijos vaivada Olbrachtas pasitraukė iš jo žemės ir, norėdamas greičiau pasiekti Lenkijos sieną, pasirinko tiesesnį kelią per uolėtą Bukoviną, kalnus ir sunkiai pereinamus miškus.","support_ids":["t-210485","c-193555"]},{"sentence_id":"s4","text":"Nuo Sučiavos miesto pasitraukęs karalius žygiavo gilyn ir, pasak metraščio, iš visos širdies troško susikauti su priešininku.","support_ids":["t-212013","c-194131"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta: po karaliaus Kazimiero mirties jo sūnus karalaitis Olbrachtas buvo paimtas į Lenkijos karalystės sostą."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta: Moldavijos vaivada Steponas su savo žmonėmis, turkais, vengrais ir valachais miškuose bei sunkiai pereinamose vietovėse užpuolė Olbrachtą ir jo kariuomenę."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta: po sutarties Olbrachtas išėjo iš vaivados žemės ir, norėdamas greičiau bei tiesiau pasiekti Lenkijos sieną, traukė per Bukoviną, kalnus ir uolėtus, sunkiai pereinamus miškus."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta: šaltinyje teigiama, kad karalius Olbrachtas pasitraukė nuo Sučiavos, žygiavo gilyn ir troško susikauti su priešininku."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-210103","c-193367"]},{"sentence_id":"s2","supported":true,"support_ids":["t-210999","c-194347"]},{"sentence_id":"s3","supported":true,"support_ids":["t-210485","c-193555"]},{"sentence_id":"s4","supported":true,"support_ids":["t-212013","c-194131"]}],"verifier":"gpt-5.6-luna"},"quality":53,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: bdc33d8590fa66c5
+object_page_generated_at: '2026-09-20T14:15:25+00:00'
+object_page_source_checked_at: '2026-09-20T14:15:25+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Olbrachtas buvo karalaitis, po tėvo, karaliaus Kazimiero, mirties paimtas į Lenkijos karalystės sostą. Jo istorija susijusi su Moldavija ir konfliktu su jos…'
+object_page_seo_input_hash: 055d8e9513895823607e9bad5a0e4d66a9e746bc67d58487ee98e08968e6a98e
+object_page_seo_generated_at: '2026-09-20T14:15:25+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Olbrachtas
 

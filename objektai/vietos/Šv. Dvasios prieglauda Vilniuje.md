@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Šv. Dvasios prieglauda Vilniuje'
+pavadinimas: Šv. Dvasios prieglauda Vilniuje
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
@@ -15,21 +15,33 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6f8605f437205e20e9ee39d3"
-canonical_name: "Šv. Dvasios prieglauda Vilniuje"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šv. Dvasios prieglauda Vilniuje"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6f8605f437205e20e9ee39d3
+canonical_name: Šv. Dvasios prieglauda Vilniuje
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šv. Dvasios prieglauda Vilniuje
 sameAs: []
-canonical_biography: "Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­ jekto - minėtos prieglaudos prie brolių pamokslininkų [dominikonų} vienuolyno. Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų. Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv."
+canonical_biography: 'Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­ jekto - minėtos prieglaudos prie brolių pamokslininkų [dominikonų} vienuolyno. Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų. Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T08:48:27+00:00","source_checked_at":"2026-09-20T08:48:27+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"ab2546815b0a33e20f8d143f","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Sklypas buvo apibrėžtas nuo vartų priešais Šv. Dvasios bažnyčios kapinių vartus; jo riba įstrižai tęsėsi iki gretimų namų galų, o nurodyti matmenys buvo 100, 20 ir 60 sprindžių arba atitinkamai 34, 7 ir 20 uolekčių.","context":"Michał Baliński 2007 m. veikale cituojamame istoriniame apraše.","support_ids":["t-85854","c-81837"],"source_refs":[{"kind":"internal_claim","claim_id":"t-85854","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-81837","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv. Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, į ilgį besitęsiančia įstrižai prieglaudos sklypo iki Petro Puz- dravičiaus ir Povilo Piestavičiaus, piliečių, Maloningiausiojo Vilniaus vyskupo valdinių, namo galo, per šimtą arba 34 uo­ lektis. Į plotį nuo prieglaudos bažnyčios sklypo į viršų to pa­ ties sklypo per 20 arba 7 uolektis. Žemiau to sklypo prie Pet­ ro Pūzdrąvičiaus namo ir daržo iki Povilo Piestavičiaus namo galo - 60 sprindžių arba 20 uolekčių."}],"status":"published","conflict_status":"clear"},{"trait_id":"9c7902cbf99ed24d49802c7b","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Prieglauda buvo skirta palengvinti išmaldos prašančių žmonių vargą.","context":"Valdovo pavedimo kontekstas, aprašytas Michał Baliński 2007 m. veikale.","support_ids":["t-85856","c-81836"],"source_refs":[{"kind":"internal_claim","claim_id":"t-85856","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-81836","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tad norėdami tokį mūsų va­ lios sprendimą pagaliau įgyvendinti ir vargą tų, kurie prašo išmaldos, palengvinti, pavedėme kai kuriems mūsų tarėjams, 389 ## Puslapis 406 VILNIAUS MIESTO ISTORIJA I I TOMAS kad prie Šv. Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų pavedimą, mums pranešė, kad su tais pačiais Šv. Dvasios vienuolyno tėvais reikalai taip susi­ klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­ tus pagalbinius jos pastatus būtų galima patogiai pastatyti."}],"status":"published","conflict_status":"clear"},{"trait_id":"18ffe80e475c935ca75a108d","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Prieglaudą pradėta mūryti; prie jos buvo numatyti kiti pagalbiniai pastatai, kuriuos būtų galima patogiai pastatyti tinkamoje vietoje.","context":"Valdovo tarėjų apžiūros ir prieglaudos užbaigimo planavimo kontekstas, aprašytas Michał Baliński 2007 m. veikale.","support_ids":["t-85856","c-81836"],"source_refs":[{"kind":"internal_claim","claim_id":"t-85856","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-81836","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tad norėdami tokį mūsų va­ lios sprendimą pagaliau įgyvendinti ir vargą tų, kurie prašo išmaldos, palengvinti, pavedėme kai kuriems mūsų tarėjams, 389 ## Puslapis 406 VILNIAUS MIESTO ISTORIJA I I TOMAS kad prie Šv. Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų pavedimą, mums pranešė, kad su tais pačiais Šv. Dvasios vienuolyno tėvais reikalai taip susi­ klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­ tus pagalbinius jos pastatus būtų galima patogiai pastatyti."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Ulrikas Hozijus","claim_id":"t-85851","confidence":0.78}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f0a9980d862bcbe4
+object_page_generated_at: '2026-09-20T08:48:27+00:00'
+object_page_source_checked_at: '2026-09-20T08:48:27+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Šv. Dvasios prieglauda Vilniuje: Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­ jekto - minėtos prieglaudos prie brolių…'
+object_page_seo_input_hash: 499a56680958d79e6118a672c55c5039d03d5c0787eb2b8f6ecae58fca66a9af
+object_page_seo_generated_at: '2026-09-20T08:48:27+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Šv. Dvasios prieglauda Vilniuje
 

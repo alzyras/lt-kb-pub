@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Panevėžys'
+pavadinimas: Panevėžys
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
@@ -8,12 +8,12 @@ saltiniai:
   - 'Mūsų tautosaka, t.4 (1931)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1560 m.'
-  - '1918 m.'
-  - '1919 m.'
-  - '1935 m.'
-  - '1936 m.'
-  - '2026 m.'
+  - 1560 m.
+  - 1918 m.
+  - 1919 m.
+  - 1935 m.
+  - 1936 m.
+  - 2026 m.
 date_start: '1560'
 date_end: '2026'
 sukurta: ''
@@ -22,29 +22,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XVI'
-  - 'XXI'
+  - XVI
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8be9500628e80d0b0ef7fbca"
-canonical_name: "Panevėžys"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Panevėžys"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8be9500628e80d0b0ef7fbca
+canonical_name: Panevėžys
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Panevėžys
 sameAs: []
-canonical_biography: "Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar."
+canonical_biography: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Panevėžys","url":"https://lt.wikipedia.org/wiki/Panev%C4%97%C5%BEys","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Panevėžys","url":"https://www.vle.lt/straipsnis/panevezys/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:38:06+00:00","source_checked_at":"2026-09-19T22:38:06+00:00","counts":{"relations":0,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Panevėžys","url":"https://lt.wikipedia.org/wiki/Panev%C4%97%C5%BEys","publisher":"Vikipedija","language":"lt","article_id":"885","revision_id":"7912095","published_at":"2026-08-26T08:50:13Z","version_pk":"","content_hash":"0a69551baa49ead2e328980c063ff496cd6e10c066ec0756e2340993130e5619","retrieved_at":"2026-09-19T22:36:48+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Panev%C4%97%C5%BEys&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"885"}},"intro":"Panevėžys – šiaurės Lietuvos miestas, išsidėstęs abipus Nevėžio, Vidurio Lietuvos žemumoje, 136 km į šiaurės vakarus nuo Vilniaus. Penktasis pagal dydį Lietuvos miestas, Panevėžio rajono savivaldybės ir Panevėžio seniūnijos centras. Galinė Panevėžio–Rubikių siauruko stotis (Panevėžio geležinkelio stotis). Yra Panevėžio vyskupija, įvairių tikėjimų bažnyčių, cerkvių, veikia 7 pašto skyriai (centrinis LT-35001). Dešiniajame krante Nevėžio krante yra Panevėžio senamiestis, kairiajame – Naujamiestis, dabartinis miesto centras. Miesto gimtadienis (miesto diena) švenčiamas rugsėjo 7 d.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Panevėžys","url":"https://lt.wikipedia.org/wiki/Panev%C4%97%C5%BEys","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Panevėžys","url":"https://www.vle.lt/straipsnis/panevezys/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Panev%C4%97%C5%BEys","https://www.vle.lt/straipsnis/panevezys/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"affe5236f245a514bf4bbe5f","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Panevėžyje buvo įkurta pijarų mokykla.","context":"Nurodyta A. Šapokos redaguotoje 1936 m. „Lietuvos istorijoje“.","support_ids":["t-183069","c-166460"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183069","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-166460","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui- tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie- tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va- leranavoj, Vitebske, Želviuose ir dar vienur kitur. #### 6."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1560 m.","label":"1560 m.","claimId":"t-201653"},{"date":"1860 m.","label":"1860 m.","claimId":"t-208580"},{"date":"1919 m.","label":"1919 m.","claimId":"t-182774"}],"support_disclosure":{"claims":6,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 0ed95e7970f9023d
+object_page_generated_at: '2026-09-19T22:38:06+00:00'
+object_page_source_checked_at: '2026-09-19T22:38:06+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '4'
+object_page_seo_description: 'Panevėžys: Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje…'
+object_page_seo_input_hash: 89fa0c0789778626d8de6477d151d143f00ef392956564d7261803c53b655a40
+object_page_seo_generated_at: '2026-09-19T22:38:06+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Panevėžys
 

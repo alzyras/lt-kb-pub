@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Kazimieras (Kujavijos kunigaikštis)'
+pavadinimas: Kazimieras (Kujavijos kunigaikštis)
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,19 +16,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-22a1ba4c2121f01577dbf1ef"
-canonical_name: "Kazimieras (Kujavijos kunigaikštis)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kazimieras (Kujavijos kunigaikštis)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-22a1ba4c2121f01577dbf1ef
+canonical_name: Kazimieras (Kujavijos kunigaikštis)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kazimieras (Kujavijos kunigaikštis)
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius ir patarė jiems traukti su kariuomene prieš Sventopelką. Dusburgietis teigia, kad apie naują Sventopelko karą ir susidūrimą prie Renzeno Kadangi žmogaus pojūčiai visados linkę į bloga ir žmogus, nors ir pasenęs, nelengvai 275 Kujavijos kunigaikštis. Dusburgietis teigia, kad galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo."
+canonical_biography: 'Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius ir patarė jiems traukti su kariuomene prieš Sventopelką. Dusburgietis teigia, kad apie naują Sventopelko karą ir susidūrimą prie Renzeno Kadangi žmogaus pojūčiai visados linkę į bloga ir žmogus, nors ir pasenęs, nelengvai 275 Kujavijos kunigaikštis. Dusburgietis teigia, kad galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo.'
+external_sources_json: '[{"title":"Kazimieras","url":"https://www.vle.lt/straipsnis/kazimieras-1/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:15:17+00:00","source_checked_at":"2026-09-20T06:15:17+00:00","counts":{"relations":2,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Kazimieras","url":"https://www.vle.lt/straipsnis/kazimieras-1/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/kazimieras-1/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7321a37fc67d9006ef63bcdc","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kunigaikštis; šaltinyje įvardijamas kaip Lenkijos kunigaikštis ir Kujavijos žemės valdovas.","context":"Petras Dusburgietis aprašo Kazimierą kaip Lenkijos kunigaikštį, dalyvavusį kariniuose žygiuose, ir nurodo, kad Kujavija buvo jo žemė.","support_ids":["t-224449","c-205160","t-225545","c-201846"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224449","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-225545","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205160","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius ir patarė jiems traukti su kariuomene prieš Sventopelką. Paklausę šių nurodymų, jie su didele kariuomene ir patraukė prie Naklo pilies276, prisistatė ten palapinių ir įsikūrė karo stovyklą, pasidarė apsiausties mašinų bei kitokių karo įtaisų ir paruošė visa, kas reikalinga miestams pulti, taip baisiai nugąsdindami pilėnus, jog šie atidavė broliams pilį su sąlyga, kad jiems su manta gyviems būsią leista išeiti."},{"kind":"evidence","evidence_id":"c-201846","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo paėmęs daug grobio ir kitokių gėrybių. Kai jam dėl šito buvo prikaišiojama, jis atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su manimi gyventi taikiai“."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Kazimieras buvo Lenkijos kunigaikštis, veikiantis kariniuose žygiuose prieš Sventopelką. Viename susirėmime lenkams išsigandus Sventopelko raitelių, jis nusprendė kviestis į pagalbą Henriką iš Lichtenšteino; tuo metu dauguma lenkų pabėgo, o Kazimieras liko kartu su vėliavininku Martynu iš Krušvicos. Kitu atveju magistras su Torunės broliais ir Kazimieru ketino žygiuoti prieš Sventopelko statomą pilį Sveče, siekdamas sutrukdyti jos statybai. Kazimieras taip pat buvo pakviestas kartu su Kališo kunigaikščiu ir broliais traukti prieš Sventopelką; jų kariuomenė pasiekė Naklo pilį, įsirengė stovyklą, parengė apsiausties įtaisus, ir pilėnai galiausiai atidavė pilį, gavę leidimą išeiti gyvi su manta. Pateiktuose duomenyse nėra pakankamai informacijos apie šių įvykių datą ar platesnį Kazimiero gyvenimo laikotarpį.","sentences":[{"sentence_id":"s1","text":"Kazimieras buvo Lenkijos kunigaikštis, veikiantis kariniuose žygiuose prieš Sventopelką.","support_ids":["t-224449","c-205160"]},{"sentence_id":"s2","text":"Viename susirėmime lenkams išsigandus Sventopelko raitelių, jis nusprendė kviestis į pagalbą Henriką iš Lichtenšteino; tuo metu dauguma lenkų pabėgo, o Kazimieras liko kartu su vėliavininku Martynu iš Krušvicos.","support_ids":["t-220564","c-202955"]},{"sentence_id":"s3","text":"Kitu atveju magistras su Torunės broliais ir Kazimieru ketino žygiuoti prieš Sventopelko statomą pilį Sveče, siekdamas sutrukdyti jos statybai.","support_ids":["t-222204","c-204804"]},{"sentence_id":"s4","text":"Kazimieras taip pat buvo pakviestas kartu su Kališo kunigaikščiu ir broliais traukti prieš Sventopelką; jų kariuomenė pasiekė Naklo pilį, įsirengė stovyklą, parengė apsiausties įtaisus, ir pilėnai galiausiai atidavė pilį, gavę leidimą išeiti gyvi su manta.","support_ids":["t-224449","c-205160"]},{"sentence_id":"s5","text":"Pateiktuose duomenyse nėra pakankamai informacijos apie šių įvykių datą ar platesnį Kazimiero gyvenimo laikotarpį.","support_ids":[]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta t-224449 ir c-205160."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta t-220564 ir c-202955."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta t-222204 ir c-204804."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta t-224449 ir c-205160."},{"sentence_id":"s5","supported":false,"reason":"Nenurodyti support_ids, todėl teiginys apie informacijos nepakankamumą nėra tiesiogiai paremtas pateiktais įrodymais."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-224449","c-205160"]},{"sentence_id":"s2","supported":true,"support_ids":["t-220564","c-202955"]},{"sentence_id":"s3","supported":true,"support_ids":["t-222204","c-204804"]},{"sentence_id":"s4","supported":true,"support_ids":["t-224449","c-205160"]},{"sentence_id":"s5","supported":false,"support_ids":[]}],"verifier":"gpt-5.6-luna"},"quality":53,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-221485","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kujavija","claim_id":"t-225545","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b08fd3bffc4bc97f
+object_page_generated_at: '2026-09-20T06:15:17+00:00'
+object_page_source_checked_at: '2026-09-20T06:15:17+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'Kazimieras (Kujavijos kunigaikštis): Kazimieras buvo Lenkijos kunigaikštis, veikiantis kariniuose žygiuose prieš Sventopelką. Viename susirėmime lenkams…'
+object_page_seo_input_hash: 9c6a317057c24f490c47c5b48a3e783483b40ef77350daf94bcf42053255faf5
+object_page_seo_generated_at: '2026-09-20T06:15:17+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kazimieras (Kujavijos kunigaikštis)
 

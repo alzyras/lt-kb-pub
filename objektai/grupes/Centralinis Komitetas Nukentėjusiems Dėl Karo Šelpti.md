@@ -1,12 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)'
+pavadinimas: Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1915 m.'
-  - '1916 m.'
-  - '2026 m.'
+  - 1915 m.
+  - 1916 m.
+  - 2026 m.
 date_start: '1915'
 date_end: '2026'
 sukurta: ''
@@ -15,20 +15,30 @@ tags:
   - grupe
   - institucija
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:48:45+00:00","source_checked_at":"2026-09-20T06:48:45+00:00","counts":{"relations":4,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"29945bd09af016101d47fbf5","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Komitete buvo trys kairiųjų pažiūrų nariai, kurie iš jo išstojo.","context":"Šaltinis aprašo padėtį partijų kovų laikotarpiu; 1915 m. vasarą dalis Komiteto narių pasiliko Vilniuje, kita dalis pasitraukė į Rusiją.","support_ids":["t-168143","c-152973"],"source_refs":[{"kind":"internal_claim","claim_id":"t-168143","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-152973","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Partijų kovoms nė tuomet neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū- rų) nariai iš jo išstojo. Kai 1915 metų vasarą Vokietija didelėmis jėgomis puolė Rusiją, paėmė Kauną, o rugsėjo mėnesį Vilnių, — dalis Centra- linio Komiteto narių pasiliko Vilniuje, o kita dalis pasitraukė į Rusiją. Tuo būdu ta pati didžioji ir pastovioji lietuvių orga- nizacija viena atstovavo to meto lietuvių reikalams tiek vokiečių okupuotoje Lietuvoje, tiek Rusijoje."}],"status":"published","conflict_status":"clear"},{"trait_id":"a02f7a77bf1e23c12063f36f","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Komitetas pasidalijo į dvi dalis: viena veikė Vilniuje, kita pasitraukė į Rusiją.","context":"Pasidalijimas įvyko 1915 m., Vokietijai puolant Rusiją ir užėmus Kauną bei Vilnių.","support_ids":["t-168143","c-152973"],"source_refs":[{"kind":"internal_claim","claim_id":"t-168143","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-152973","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Partijų kovoms nė tuomet neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū- rų) nariai iš jo išstojo. Kai 1915 metų vasarą Vokietija didelėmis jėgomis puolė Rusiją, paėmė Kauną, o rugsėjo mėnesį Vilnių, — dalis Centra- linio Komiteto narių pasiliko Vilniuje, o kita dalis pasitraukė į Rusiją. Tuo būdu ta pati didžioji ir pastovioji lietuvių orga- nizacija viena atstovavo to meto lietuvių reikalams tiek vokiečių okupuotoje Lietuvoje, tiek Rusijoje."}],"status":"published","conflict_status":"clear"},{"trait_id":"50de013403c34ea60b608bb4","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Komitetas atstovavo to meto lietuvių reikalams vokiečių okupuotoje Lietuvoje ir Rusijoje.","context":"Šaltinio autoriaus vertinimu, po pasidalijimo ta pati didžioji ir pastovioji lietuvių organizacija atstovavo lietuvių reikalams abiejose vietose.","support_ids":["t-168143","c-152973"],"source_refs":[{"kind":"internal_claim","claim_id":"t-168143","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-152973","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Partijų kovoms nė tuomet neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū- rų) nariai iš jo išstojo. Kai 1915 metų vasarą Vokietija didelėmis jėgomis puolė Rusiją, paėmė Kauną, o rugsėjo mėnesį Vilnių, — dalis Centra- linio Komiteto narių pasiliko Vilniuje, o kita dalis pasitraukė į Rusiją. Tuo būdu ta pati didžioji ir pastovioji lietuvių orga- nizacija viena atstovavo to meto lietuvių reikalams tiek vokiečių okupuotoje Lietuvoje, tiek Rusijoje."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-168139","confidence":0.78},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Petrapilis","claim_id":"t-181304","confidence":0.72},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-168144","confidence":0.83},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-168140","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ca320938a7e742f9
+object_page_generated_at: '2026-09-20T06:48:45+00:00'
+object_page_source_checked_at: '2026-09-20T06:48:45+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija): Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems Dėl Karo…'
+object_page_seo_input_hash: 97abdf8e558578ff03c5cd48523a976b14579feeae8f959ba774f4cfe649660a
+object_page_seo_generated_at: '2026-09-20T06:48:45+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)
 

@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Viena'
+pavadinimas: Viena
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
@@ -8,9 +8,9 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1683 m.'
-  - '1936 m.'
-  - '2026 m.'
+  - 1683 m.
+  - 1936 m.
+  - 2026 m.
 date_start: '1683'
 date_end: '2026'
 sukurta: ''
@@ -19,29 +19,41 @@ tags:
   - vieta
   - sostinė
 amziai:
-  - 'XVII'
-  - 'XXI'
+  - XVII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-358995e43d65ce43d58d11d6"
-canonical_name: "Viena"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Viena"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-358995e43d65ce43d58d11d6
+canonical_name: Viena
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Viena
 sameAs: []
-canonical_biography: "Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio."
+canonical_biography: 'Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Viena","url":"https://lt.wikipedia.org/wiki/Viena","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:08:35+00:00","source_checked_at":"2026-09-20T11:08:35+00:00","counts":{"relations":1,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Viena","url":"https://lt.wikipedia.org/wiki/Viena","publisher":"Vikipedija","language":"lt","article_id":"7480","revision_id":"7912601","published_at":"2026-08-26T15:37:16Z","version_pk":"","content_hash":"570608973d630103bbe512f7cee31c7d066293f0ed716b3874e4cf0ec478f875","retrieved_at":"2026-09-20T11:07:22+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Viena&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"7480"}},"intro":"Viena (vok. Wien) – didžiausias Austrijos miestas, sostinė ir kartu viena iš devynių Austrijos žemių. Pagal gyventojų skaičių Viena yra šeštas pagal dydį miestas Europos Sąjungoje. Miestas įsikūręs rytinėje šalies dalyje netoli sienų su Čekija, Slovakija ir Vengrija. Mieste reziduoja kai kurios tarptautinės organizacijos (JTO, TATENA, OPEC ir kt.). Šimtmečiais Viena buvo Habsburgų dinastijos rezidencija. Taip miestas tuo metu išsivystė į vieną iš Europos kultūros ir politikos centrų. 2001 m. Vienos senamiestis buvo įrašytas į UNESCO Pasaulio kultūros paveldo sąrašą. Viena kartais vadinama „Muzikos miestu“ dėl reikšmingo muzikinio paveldo — vieni garsiausių kompozitorių Volfgangas Amadėjus Mocartas ir Liudvikas van Bethovenas šį miestą vadino savo namais. Viena taip pat sulaukia įvertinimo dėl geros gyvenymo kokybės — Mercer sudarytame miestų, kuriuose geriausia gyventi, sąraše paprastai įvertinama geriausiai.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Viena","url":"https://lt.wikipedia.org/wiki/Viena","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Viena"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Sapiegos","claim_id":"t-91448","confidence":0.62}],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3ad5622e65775e7e
+object_page_generated_at: '2026-09-20T11:08:35+00:00'
+object_page_source_checked_at: '2026-09-20T11:08:35+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Viena: Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos…'
+object_page_seo_input_hash: 05da2b5c2c4cfde039873f7b7445b6fdb7883459913adfa49f57596829ec5d04
+object_page_seo_generated_at: '2026-09-20T11:08:35+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Viena
 

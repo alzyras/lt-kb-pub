@@ -1,15 +1,15 @@
 ---
 tipas: asmuo
-pavadinimas: 'Julijona'
+pavadinimas: Julijona
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
-  - 'Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais'
+  - Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1383 m.'
-  - '1423 m.'
+  - 1383 m.
+  - 1423 m.
 date_start: '1383'
 date_end: '1423'
 sukurta: ''
@@ -18,29 +18,42 @@ tags:
   - asmuo
   - kunigaikštis
 amziai:
-  - 'XIV'
-  - 'XV'
+  - XIV
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-c3be0855aef296d21efa2d24"
-canonical_name: "Julijona"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Julijona","Julijonos"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-c3be0855aef296d21efa2d24
+canonical_name: Julijona
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Julijona
+  - Julijonos
 sameAs: []
-canonical_biography: "Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algirdo žmona ir Jogailos motina. Ivinskio tekste ji vadinama kunigaikščio Aleksandro dukterimi, o ankstesniame šaltinyje minima kaip Tverės kunigaikščio sesuo; abiem atvejais pabrėžiama jos vieta Jogailos ankstyvojoje politikoje."
+canonical_biography: 'Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algirdo žmona ir Jogailos motina. Ivinskio tekste ji vadinama kunigaikščio Aleksandro dukterimi, o ankstesniame šaltinyje minima kaip Tverės kunigaikščio sesuo; abiem atvejais pabrėžiama jos vieta Jogailos ankstyvojoje politikoje.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T08:36:20+00:00","source_checked_at":"2026-09-19T08:36:20+00:00","counts":{"relations":5,"gallery":0,"sources":9},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"62559d2b4d3dd91277922eed","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Galėjo nenorėti, kad Lietuva būtų pakrikštyta lotynų apeigomis.","context":"Zenonas Ivinskis, remdamasis Torno analų žinia, tai svarsto kaip galimą Julijonos įtaką Jogailai; XIV a. pabaigos politiniame ir religiniame kontekste.","support_ids":["t-176503","c-160504"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176503","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-160504","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"pavasarį bus žinojęs apie projektus kviesti jį Lenkijos karaliumi ir sutuokti su Jadvyga. Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva butų pakrikštyta lotynų apeigomis. Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas turėjo labiau susidomėti Vytautu ir jį palaikyti."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"caccf01d4d169ee8de7b8c59","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.","context":"A. Šapokos redaguotame veikale teigiama, kad sutartis buvo sudaryta brolių ir motinos Julijonos pastangomis.","support_ids":["t-176500","c-160505"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176500","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-160505","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos — pastangomis."}],"status":"published","conflict_status":"clear"},{"trait_id":"6e425f8f47c85a1ba9a5ee32","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Buvo apibūdinta kaip pamaldi krikščionė ir krikščionių atrama.","context":"Teodoras Narbutas Julijoną taip vertina pasakodamas apie 1331 m. jos įsakymu panaikintą Ragučio maldyklą ir jos vietoje įkurtą cerkvę.","support_ids":["t-217610","c-201064"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217610","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201064","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­ ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­ vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai. Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­ tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­ dyklos vietoje įkūrė cerkvę su šventiku. Ji ir šiandien liaudiš­ kai vadinama Petionka nuo senojo miško, kurio pavadinimas kilęs nuo Ragučio šventikų, vadintųpietiniki, kitaip Puotinin­ kai (Potinikaj), tai yra ištvirkėliai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"24fef275778b5052f99f578f","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę su šventiku.","context":"Šaltinio pasakojimas apie 1331 m.; tai pateikiama kaip Julijonos religinės veiklos aprašymas.","support_ids":["t-217610","c-201064"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217610","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201064","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­ ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­ vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai. Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­ tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­ dyklos vietoje įkūrė cerkvę su šventiku. Ji ir šiandien liaudiš­ kai vadinama Petionka nuo senojo miško, kurio pavadinimas kilęs nuo Ragučio šventikų, vadintųpietiniki, kitaip Puotinin­ kai (Potinikaj), tai yra ištvirkėliai."}],"status":"published","conflict_status":"clear"},{"trait_id":"04d37c687d0c67bfb149ac5f","canonical_code":"person.habits","label":"Įpročiai","group":"Asmens bruožai","value":"Atsidėkodama Ordino magistrui pasiuntė aukštą kepurę ir porą pirštinių.","context":"1423 m. Ordino magistras Julijoną vaišino Reino vynu; šaltinis ją nurodo kaip antrąją Vytauto žmoną.","support_ids":["t-203609","c-186213"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203609","source":"darbas/sources/Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais.md"},{"kind":"evidence","evidence_id":"c-186213","source":"darbas/sources/Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais.md","quote":"Didysis Ordino magistras 1423 m. Reino vynu malo­ nino ir kunigaikštienę Julijoną, antrąją Vytauto žmoną, už ką ji atsidėkodama magistrui pasiuntė aukštą kepu­ rę ir porą pirštinių (24)."}],"status":"published","conflict_status":"clear"},{"trait_id":"653d469610f8b8c72e0c5fce","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Buvo Algirdo žmona ir Tverės kunigaikščio Aleksandro duktė.","context":"1349 m. santuokos aprašymas Zenono Ivinskio ir Teodoro Narbuto veikaluose.","support_ids":["t-05184","c-160501"],"source_refs":[{"kind":"internal_claim","claim_id":"t-05184","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-160501","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir metropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės kunigaikščio Aleksandro dukterį Julijoną^15."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d650b25d09915c04fae9a6e6","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Buvo antroji Vytauto žmona.","context":"1418 m. Julijonos santuoka su Vytautu aprašoma Vilniaus istorijoje ir Bychovco kronikoje.","support_ids":["t-211609","c-193219"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211609","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193219","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Julijona, Alšėnų kunigaikštytė, buvo ne trečioji, o antroji Vytauto žmona, ištekėjusi už Vytauto Gardine 1418 m. prieš Ka­ lėdas."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Kaributas","claim_id":"t-97457","confidence":0.96},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Karigaila","claim_id":"t-63794","confidence":0.96},{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179700","confidence":0.8},{"predicate":"buvo_zmona","direction":"outbound","target":"objektai/asmenys/Vytautas","claim_id":"t-176706","confidence":0.92},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Paulius Rusdorfas","claim_id":"t-87452","confidence":0.84}],"timeline":[{"date":"1341 m.","label":"1341 m.","claimId":"t-206304"},{"date":"1349 m.","label":"1349 m.","claimId":"t-206303"},{"date":"1418 m.","label":"Po Onos mirties Vilniuje 1418 m.","claimId":"t-176505"},{"date":"1423 m.","label":"Didysis Ordino magistras 1423 m.","claimId":"t-203609"}],"support_disclosure":{"claims":16,"sources":9}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: be2a56bf6ca71ccb
+object_page_generated_at: '2026-09-19T08:36:20+00:00'
+object_page_source_checked_at: '2026-09-19T08:36:20+00:00'
+object_page_content_state: content
+object_page_claim_count: '16'
+object_page_source_count: '9'
+object_page_seo_description: Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algirdo žmona ir Jogailos motina. Ivinskio tekste ji vadinama kunigaikščio Aleksandro…
+object_page_seo_input_hash: 87238dca1a6075a170ed81a53d92cc0b6e694ad5affb740bf12bf327cf252674
+object_page_seo_generated_at: '2026-09-19T08:36:20+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Julijona
 

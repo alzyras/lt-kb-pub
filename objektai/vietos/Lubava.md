@@ -1,16 +1,16 @@
 ---
 tipas: vieta
-pavadinimas: 'Lubava'
+pavadinimas: Lubava
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1209 m.'
-  - '1210 m.'
-  - '1222 m.'
-  - '1302 m.'
-  - '1303 m.'
+  - 1209 m.
+  - 1210 m.
+  - 1222 m.
+  - 1302 m.
+  - 1303 m.
 date_start: '1209'
 date_end: '1303'
 sukurta: ''
@@ -21,29 +21,41 @@ tags:
   - vieta
   - gyvenvietė
 amziai:
-  - 'XIII'
-  - 'XIV'
+  - XIII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-1089e120062c246b40d4834e"
-canonical_name: "Lubava"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Lubava"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-1089e120062c246b40d4834e
+canonical_name: Lubava
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Lubava
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo sritį valdė prūsai, turėję ten savo pilių (III,7). Dusburgietis teigia, kad apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos pilies bei miesto sugriovimą Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei."
+canonical_biography: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo sritį valdė prūsai, turėję ten savo pilių (III,7). Dusburgietis teigia, kad apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos pilies bei miesto sugriovimą Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Liubavos žemė","url":"https://lt.wikipedia.org/wiki/Liubavos_%C5%BEem%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:18:51+00:00","source_checked_at":"2026-09-19T14:18:51+00:00","counts":{"relations":9,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Liubavos žemė","url":"https://lt.wikipedia.org/wiki/Liubavos_%C5%BEem%C4%97","publisher":"Vikipedija","language":"lt","article_id":"253954","revision_id":"7241086","published_at":"2024-04-04T17:50:58Z","version_pk":"","content_hash":"686d165ca3091f72e9c7dd2968944892452cd8ed0b05b847401da3a73b7f8758","retrieved_at":"2026-09-19T14:18:02+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Liubavos_%C5%BEem%C4%97&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"253954"}},"intro":"Liubavos žemė (prūs. Lubawa, lot. terra Lubavia), Liubava – istorinė vakarų baltų prūsų žemė Kulmo žemės rytuose, Pamedės pietuose, Sasnavos vakaruose ir Mazovijos šiaurėje. Žemės pavadinimas baltiškos kilmės, prūsų kalba loba = slėnis, dauba, atitikmuo latvių kalboje lubene = pieva.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":false,"api_redirect":true,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Liubavos žemė","url":"https://lt.wikipedia.org/wiki/Liubavos_%C5%BEem%C4%97","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Liubavos_%C5%BEem%C4%97"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-224326","confidence":0.74},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-220393","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Teutonai","claim_id":"t-220885","confidence":0.88},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Kulmas","claim_id":"t-214680","confidence":0.91},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-223701","confidence":0.76},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-220228","confidence":0.94},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-220231","confidence":0.92},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-223555","confidence":0.92},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Kristijonas","claim_id":"t-224054","confidence":0.76}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c6491f80a8638a27
+object_page_generated_at: '2026-09-19T14:18:51+00:00'
+object_page_source_checked_at: '2026-09-19T14:18:51+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Lubava: Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga…'
+object_page_seo_input_hash: 3508534d91747eb97034f90b20e9a733e4bb35caf73d3c388dbbbc96c4f12879
+object_page_seo_generated_at: '2026-09-19T14:18:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Lubava
 

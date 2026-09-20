@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Adomas Bremenietis'
+pavadinimas: Adomas Bremenietis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1009 m.'
+  - 1009 m.
 date_start: '1009'
 date_end: ''
 sukurta: ''
@@ -15,28 +15,40 @@ tags:
   - istorikas
   - asmuo
 amziai:
-  - 'XI'
+  - XI
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8c4572dd0434eb25bc322c77"
-canonical_name: "Adomas Bremenietis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Adomas Bremenietis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8c4572dd0434eb25bc322c77
+canonical_name: Adomas Bremenietis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Adomas Bremenietis
 sameAs: []
-canonical_biography: "Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, o Albertas Krantcas nurodo, jog jo rūšies nebuvo galima nustatyti. Narbutas, remdamasis Adomu Bremeniečiu, teigia, kad švedų protėviai laikėsi tikėjimo ąžuolo šventumu. Narbutas nurodo, kad Adomas Bremenietis paliko žinių apie prie šventyklų buvusius apeiginius šaltinius ir šulinius."
+canonical_biography: 'Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, o Albertas Krantcas nurodo, jog jo rūšies nebuvo galima nustatyti. Narbutas, remdamasis Adomu Bremeniečiu, teigia, kad švedų protėviai laikėsi tikėjimo ąžuolo šventumu. Narbutas nurodo, kad Adomas Bremenietis paliko žinių apie prie šventyklų buvusius apeiginius šaltinius ir šulinius.'
+external_sources_json: '[{"title":"Adomas Bremenietis","url":"https://www.vle.lt/straipsnis/adomas-bremenietis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:47:29+00:00","source_checked_at":"2026-09-19T20:47:29+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tą ypatybę kronikininkai priskiria velnio galy­ bei, manydami, kad velniai buvo garbinami toje šventykloje šalies dievų pavidalu. Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo­ lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas* 11, nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu­ ria, jog jo rūšies niekas negalėjęs nustatyti. Taigi tai turėjo bū­ ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai, dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji medžiai.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","claim_id":"t-216559","evidence_id":"c-198421","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Adomas Bremenietis","url":"https://www.vle.lt/straipsnis/adomas-bremenietis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/adomas-bremenietis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4ff020f8e5aadc7a9620b0de","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Užsienio kronikininkas","context":"Teodoras Narbutas Adomą Bremenietį įvardija kaip užsienio kronikininką, XIX a. istoriniame pasakojime apie šaltinių tylėjimą dėl krivio.","support_ids":["t-216100","c-199328"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216100","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199328","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­ siškas visų kitų istorijos šaltinių tylėjimas Dusburgiečio pra­ nešimą apie tą krivį daro labai abejotiną. Tai tiesa, kad joks užsienio kronikininkas, joks istorijos šaltinis - nei Vulfstanas, nei Ditmaras Merzeburgiškis, nei Adomas Bremenietis, nei Helmoldas, nei lenkų kronikininkai, nei jokie dokumentai nė vienu žodžiu neužsimena apie krivį. Tačiau norint suvokti prie­ kaišto esmę, reikia visą dalyką panagrinėti šiek tiek iš arčiau."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Adomas Bremenietis – užsienio kronikininkas, kurio vardas Teodoro Narbuto pasakojime siejamas su žiniomis apie šiaurės kraštų religines praktikas. Narbutas pabrėžia, kad Adomas Bremenietis, kaip ir kiti užsienio kronikininkai, nemini Prūsijos krivio, todėl jo liudijimas šiame klausime reiškia svarbią tylą, o ne tiesioginį patvirtinimą. Kitur Adomas Bremenietis minimas dėl pasakojimo apie šventąjį medį Švedijoje, netoli Upsalos; vėlesnis Alber­tas Krantcas teigė, kad medžio rūšies nebuvo įmanoma nustatyti, nors jis esą išliko žaliuojantis. Adomui Bremeniečiui taip pat priskiriamos žinios apie prie šventyklų buvusius apeiginius šaltinius ir šventuosius šulinius, kurių vanduo buvo naudojamas gyvuliams apiplauti ir laikytas apvalančiu. Vis dėlto pateikti duomenys neleidžia patikimai nustatyti jo gyvenimo laikotarpio, kilmės ar konkrečių veikalo aplinkybių.","sentences":[{"sentence_id":"s1","text":"Adomas Bremenietis – užsienio kronikininkas, kurio vardas Teodoro Narbuto pasakojime siejamas su žiniomis apie šiaurės kraštų religines praktikas.","support_ids":["t-216100","t-219331"]},{"sentence_id":"s2","text":"Narbutas pabrėžia, kad Adomas Bremenietis, kaip ir kiti užsienio kronikininkai, nemini Prūsijos krivio, todėl jo liudijimas šiame klausime reiškia svarbią tylą, o ne tiesioginį patvirtinimą.","support_ids":["t-216100","c-199328"]},{"sentence_id":"s3","text":"Kitur Adomas Bremenietis minimas dėl pasakojimo apie šventąjį medį Švedijoje, netoli Upsalos; vėlesnis Albertas Krantcas teigė, kad medžio rūšies nebuvo įmanoma nustatyti, nors jis esą išliko žaliuojantis.","support_ids":["t-216559","c-198421"]},{"sentence_id":"s4","text":"Adomui Bremeniečiui taip pat priskiriamos žinios apie prie šventyklų buvusius apeiginius šaltinius ir šventuosius šulinius, kurių vanduo buvo naudojamas gyvuliams apiplauti ir laikytas apvalančiu.","support_ids":["t-219331","c-201403"]},{"sentence_id":"s5","text":"Vis dėlto pateikti duomenys neleidžia patikimai nustatyti jo gyvenimo laikotarpio, kilmės ar konkrečių veikalo aplinkybių.","support_ids":["t-216100","t-216559","t-219331"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai Adomą Bremenietį įvardija užsienio kronikininku ir sieja su žiniomis apie religines praktikas."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai nurodoma, kad Adomas Bremenietis nemini Prūsijos krivio; išvada apie tylą, o ne patvirtinimą, atitinka pateiktą kontekstą."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis mini šventąjį ąžuolą Švedijoje prie Upsalos, o Albertas Krantcas – nenustatomą rūšį ir nuolatinį žaliavimą."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo šaltinius ir šulinius prie šventyklų, gyvulių apiplovimą bei apvalantį vandenį."},{"sentence_id":"s5","supported":false,"reason":"Pateikti support_ids tiesiogiai nepatvirtina išvados apie Adomo Bremeniečio gyvenimo laikotarpio, kilmės ar konkrečių veikalo aplinkybių nenustatomumą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-216100","t-219331"]},{"sentence_id":"s2","supported":true,"support_ids":["t-216100","c-199328"]},{"sentence_id":"s3","supported":true,"support_ids":["t-216559","c-198421"]},{"sentence_id":"s4","supported":true,"support_ids":["t-219331","c-201403"]},{"sentence_id":"s5","supported":false,"support_ids":["t-216100","t-216559","t-219331"]}],"verifier":"gpt-5.6-luna"},"quality":58,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 028777bcab6b153e
+object_page_generated_at: '2026-09-19T20:47:29+00:00'
+object_page_source_checked_at: '2026-09-19T20:47:29+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Adomas Bremenietis – užsienio kronikininkas, kurio vardas Teodoro Narbuto pasakojime siejamas su žiniomis apie šiaurės kraštų religines praktikas. Narbutas…'
+object_page_seo_input_hash: b3aaec340371bcd9a8dfa729d4a0203292f45cea961f3305336d0018bdb260d3
+object_page_seo_generated_at: '2026-09-19T20:47:29+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Adomas Bremenietis
 

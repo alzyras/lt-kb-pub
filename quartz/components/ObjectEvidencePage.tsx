@@ -1,3 +1,4 @@
+import { uniqueCitations } from "../util/objectDetail"
 import { ArrowLeft, ChevronLeft, ChevronRight } from "lucide-preact"
 import {
   citationQuote,
@@ -41,7 +42,7 @@ export function Claim({ claim, topics = [] }: { claim: ObjectEvidenceClaim; topi
           ))}
         </p>
       )}
-      {claim.citations.map((citation) => {
+      {uniqueCitations(claim.citations).map((citation) => {
         const source = cleanText(citation.fields.get("šaltinis") || citation.fields.get("saltinis"))
         const quote = citationQuote(citation, Number.MAX_SAFE_INTEGER)
         const pages = cleanText(citation.fields.get("puslapiai") || citation.fields.get("indeksas"))

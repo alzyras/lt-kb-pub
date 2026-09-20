@@ -239,10 +239,11 @@
 
   .object-detail-map.object-map-cta {
     align-self: stretch;
-    padding: 1rem;
-    border: 1px solid var(--ui-border);
-    border-radius: 5px;
-    background: var(--ui-surface-raised);
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
   }
 
   .object-detail-map .object-detail-map-heading {

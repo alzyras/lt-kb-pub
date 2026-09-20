@@ -1,15 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: 'Užupis'
+pavadinimas: Užupis
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1493 m.'
-  - '1748 m.'
-  - '1749 m.'
-  - '1794 m.'
+  - 1493 m.
+  - 1748 m.
+  - 1749 m.
+  - 1794 m.
 date_start: '1493'
 date_end: '1794'
 sukurta: ''
@@ -18,29 +18,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XV'
-  - 'XVIII'
+  - XV
+  - XVIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-90dde457a6ec7c839e2487cc"
-canonical_name: "Užupis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Užupis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-90dde457a6ec7c839e2487cc
+canonical_name: Užupis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Užupis
 sameAs: []
-canonical_biography: "Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau daliai pavyko prasiveržti ir užimti Paupį bei Užupį, pastarasis buvo padegtas."
+canonical_biography: 'Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau daliai pavyko prasiveržti ir užimti Paupį bei Užupį, pastarasis buvo padegtas.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Užupis","url":"https://lt.wikipedia.org/wiki/U%C5%BEupis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Užupis","url":"https://www.vle.lt/straipsnis/uzupis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:17:21+00:00","source_checked_at":"2026-09-19T20:17:21+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Užupis","url":"https://lt.wikipedia.org/wiki/U%C5%BEupis","publisher":"Vikipedija","language":"lt","article_id":"62134","revision_id":"7891685","published_at":"2026-07-31T19:07:27Z","version_pk":"","content_hash":"92f9e1410add1618ddd5b098eb01902e91281546a109586c96bbc43242ed038a","retrieved_at":"2026-09-19T20:16:32+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=U%C5%BEupis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"62134"}},"intro":"Užupis – Vilniaus miesto dalis, esanti į rytus nuo Senamiesčio, dešiniajame Vilnios krante prie jos žiočių. Gana uždara teritorija, kurią iš trijų pusių nuo Senamiesčio skiria upė, iš kitos pusės yra stačios kalvos ir pramoninis rajonas.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Užupis","url":"https://lt.wikipedia.org/wiki/U%C5%BEupis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Užupis","url":"https://www.vle.lt/straipsnis/uzupis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/U%C5%BEupis","https://www.vle.lt/straipsnis/uzupis/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-38525","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: bb9e1a2f974777e0
+object_page_generated_at: '2026-09-19T20:17:21+00:00'
+object_page_source_checked_at: '2026-09-19T20:17:21+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Užupis: Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau daliai pavyko prasiveržti ir užimti Paupį bei Užupį, pastarasis buvo padegtas.'
+object_page_seo_input_hash: 03e271799696e19f0f49b4a75716722c0af4d318c0dae86ac172300c2b3a1d5e
+object_page_seo_generated_at: '2026-09-19T20:17:21+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Užupis
 

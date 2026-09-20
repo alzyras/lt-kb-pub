@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Tunmanas'
+pavadinimas: Tunmanas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -20,19 +20,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fca55b2c58dad0e47164cbb0"
-canonical_name: "Tunmanas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Tunmanas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fca55b2c58dad0e47164cbb0
+canonical_name: Tunmanas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Tunmanas
 sameAs: []
-canonical_biography: "Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potockio ir Suroveckio raštuose. Pasak Teodoro Narbuto, Tunmanas tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, užėmė Sembą ir gintaro kasyklas. Narbutas rašo, kad Tunmanas lietuvius kildino iš gaujos bėglių, apie 550 metus įsikūrusių Vyslos šakų skalaujamoje saloje."
+canonical_biography: 'Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potockio ir Suroveckio raštuose. Pasak Teodoro Narbuto, Tunmanas tyrimais rodė, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, užėmė Sembą ir gintaro kasyklas. Narbutas rašo, kad Tunmanas lietuvius kildino iš gaujos bėglių, apie 550 metus įsikūrusių Vyslos šakų skalaujamoje saloje.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:03:50+00:00","source_checked_at":"2026-09-19T21:03:50+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b9505168a9de62f99437073b","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Švedų senovės istorikas ir aiškintojas","context":"Teodoras Narbutas Tunmaną taip apibūdina savo XIX a. istoriniame veikale; vertinimas priklauso Narbutui.","support_ids":["t-212101","c-196829"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212101","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196829","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Ar galima tuo remiantis daryti prie­ laidą, kad Prūsija Jordano laikais vadinosi Vidivarija, kad šis tautų lydinys yra tikras ir vienintelis lietuvių protėvis? Juk žymus švedų senovės istorikas Tunmanas, susižavė­ jęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo gaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje ir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­ rėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­ lio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos."}],"status":"published","conflict_status":"clear"},{"trait_id":"c3fa30954f9350d1e6c3a677","canonical_code":"author.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Lietuvius kildino iš bėglių gaujos, apie 550 metus įsikūrusios Vyslos šakų skalaujamoje saloje.","context":"Tai Tunmano aiškinimas, perteiktas Teodoro Narbuto veikale; kalbama apie lietuvių kilmės sampratą, nurodant apie 550 metus.","support_ids":["t-213902","c-197530"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213902","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197530","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Juk žymus švedų senovės istorikas Tunmanas, susižavė­ jęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo gaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje ir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­ rėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­ lio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos. Jo pateikti lingvistiniai įrodymai, lietuvio nuomone, ne­ 1 Ad littus Oceani, ubi tribus faucibus fluenta Vistula ebibitur, Vidivarii (alii legunt Vidioarii), resident ex diversis nationibus aggre­ gati (Capite 5)."}],"status":"published","conflict_status":"clear"},{"trait_id":"395f91b90d69321083d1e973","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Pateikė lingvistinių įrodymų ir aiškino istorinius bei kilmės klausimus.","context":"Teodoras Narbutas mini Tunmano pateiktus lingvistinius įrodymus; jo aiškinimą amžininkai istorikai vertino kaip paviršutinišką, klaidingą ir paremtą prasimanymais.","support_ids":["t-205482","c-188115","t-213902","c-197530"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205482","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"internal_claim","claim_id":"t-213902","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-188115","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Nepalyginti rimtes­ nis yra mūsų amžininkų istorikų priekaištas Tunmanui, būtent kad gerbiamasis aiškintojas pakeitė kai kuriose jų dalyse linijas ir tarp jų sudėliojo kitus skyrybos ženklus, tad ir visas jo aiškinimas yra paviršutiniškas, klaidingas bei paremtas prasimanymais."},{"kind":"evidence","evidence_id":"c-197530","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Juk žymus švedų senovės istorikas Tunmanas, susižavė­ jęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo gaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje ir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­ rėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­ lio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos. Jo pateikti lingvistiniai įrodymai, lietuvio nuomone, ne­ 1 Ad littus Oceani, ubi tribus faucibus fluenta Vistula ebibitur, Vidivarii (alii legunt Vidioarii), resident ex diversis nationibus aggre­ gati (Capite 5)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 4fc6bfa0cdcbce4a
+object_page_generated_at: '2026-09-19T21:03:50+00:00'
+object_page_source_checked_at: '2026-09-19T21:03:50+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '2'
+object_page_seo_description: 'Tunmanas: Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potockio ir Suroveckio raštuose. Pasak Teodoro Narbuto, Tunmanas tyrimais…'
+object_page_seo_input_hash: 6292f395c42573ae449c4f67fc246750d8ed5ab61eb14c9650203498adfaad31
+object_page_seo_generated_at: '2026-09-19T21:03:50+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Tunmanas
 

@@ -1,12 +1,12 @@
 ---
 tipas: vieta
-pavadinimas: 'Volynija'
+pavadinimas: Volynija
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1384 m.'
-  - '1424 m.'
+  - 1384 m.
+  - 1424 m.
 date_start: '1384'
 date_end: '1424'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - miestas
   - pilis
 amziai:
-  - 'XIV'
-  - 'XV'
+  - XIV
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-144d571f0d20ebd8844ef6a1"
-canonical_name: "Volynija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Volynija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-144d571f0d20ebd8844ef6a1
+canonical_name: Volynija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Volynija
 sameAs: []
-canonical_biography: "Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntinius, kad šis grįžtų į Lietuvą, žadėdamas jam sugrąžinti jo tėviškę ir siūlydamas dar pridėti Volyniją su Lucku. Jogaila, norėdamas iš sa­ vo pusės tą blogą įspūdį šiek tiek sušvelninti, atidavė Vytautui Volyniją su Lucko ir Vladimiro kunigaikštijomis. Dvi iš jų Vytauto ir Jogailos buvo įkurtos pačio­ je Lietuvoje — tai Vilniaus ir Žemaičių arba Medininkų vysku­ pijos, kurios apėmė didelius Aukštaitijos, Žemaitijos ir Sūda- 119 vijos plotus; trečią Vytautas įkūrė Volynijoje (Vladimiro) ir ketvirtą."
+canonical_biography: 'Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntinius, kad šis grįžtų į Lietuvą, žadėdamas jam sugrąžinti jo tėviškę ir siūlydamas dar pridėti Volyniją su Lucku. Jogaila, norėdamas iš sa­ vo pusės tą blogą įspūdį šiek tiek sušvelninti, atidavė Vytautui Volyniją su Lucko ir Vladimiro kunigaikštijomis. Dvi iš jų Vytauto ir Jogailos buvo įkurtos pačio­ je Lietuvoje — tai Vilniaus ir Žemaičių arba Medininkų vysku­ pijos, kurios apėmė didelius Aukštaitijos, Žemaitijos ir Sūda- 119 vijos plotus; trečią Vytautas įkūrė Volynijoje (Vladimiro) ir ketvirtą.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T01:15:15+00:00","source_checked_at":"2026-09-20T01:15:15+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"cc806b40337146eaff90092b","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Labiau apgyventa vieta","context":"Vytauto laikais Volynija apibūdinama kaip labiau apgyventa vieta, kurioje buvo gausu dvarų ir ūkio centrų.","support_ids":["t-120058","c-110164"],"source_refs":[{"kind":"internal_claim","claim_id":"t-120058","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-110164","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"kunigaikščiui priklau­ sančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž. Lietuvos kunigaikščio būstinės."}],"status":"published","conflict_status":"clear"},{"trait_id":"9366b373c67620030dc8efe1","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Prekybos keliais susijusi vietovė","context":"Vytauto laikais Volynijos miestus sausuma lankydavo Krokuvos ir vokiečių pirkliai; šaltinio autorius tai pateikia prekybos atgaivinimo kontekste.","support_ids":["t-120057","c-37848"],"source_refs":[{"kind":"internal_claim","claim_id":"t-120057","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-37848","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą, remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­ jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai. Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­ cijos pirkliai."}],"status":"published","conflict_status":"clear"},{"trait_id":"0d1e7cb971e62aab26f4e495","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Dvarai ir ūkio centrai","context":"Vytauto laikais Volynijoje buvo gausu didžiojo kunigaikščio dvarų ir ūkio centrų.","support_ids":["t-120058","c-110164"],"source_refs":[{"kind":"internal_claim","claim_id":"t-120058","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-110164","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"kunigaikščiui priklau­ sančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž. Lietuvos kunigaikščio būstinės."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Kremenecas","claim_id":"t-179672","confidence":0.74}],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3625b73dd7408d80
+object_page_generated_at: '2026-09-20T01:15:15+00:00'
+object_page_source_checked_at: '2026-09-20T01:15:15+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Volynija: Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntinius, kad šis grįžtų į Lietuvą, žadėdamas jam sugrąžinti jo tėviškę ir…'
+object_page_seo_input_hash: 4a6da89d59408a00042477d9dc17848ead93dc6443399a30aafae3e5407d1ad7
+object_page_seo_generated_at: '2026-09-20T01:15:15+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Volynija
 

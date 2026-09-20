@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Hennė (Ordino agentas)'
+pavadinimas: Hennė (Ordino agentas)
 saltiniai:
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1425 m.'
-  - '1427 m.'
+  - 1425 m.
+  - 1427 m.
 date_start: '1425'
 date_end: '1427'
 sukurta: ''
@@ -13,28 +13,40 @@ atnaujinta: ''
 tags:
   - asmuo
 amziai:
-  - 'XV'
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7ed295ded2480ea34e09ac92"
-canonical_name: "Hennė (Ordino agentas)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Hennė (Ordino agentas)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7ed295ded2480ea34e09ac92
+canonical_name: Hennė (Ordino agentas)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Hennė (Ordino agentas)
 sameAs: []
-canonical_biography: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ). Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas. Vytauto autoritetą rytuose liudija jo juokdario, Ordino agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę — ekspediciją savo valstybės rytiniu pakraščiu 1427 met."
+canonical_biography: 'Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ). Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas. Vytauto autoritetą rytuose liudija jo juokdario, Ordino agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę — ekspediciją savo valstybės rytiniu pakraščiu 1427 met.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:55:40+00:00","source_checked_at":"2026-09-20T13:55:40+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f2c84b2b6c79a6f579ba649e","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Ordino agentas ir juokdarys; šaltinio autorius jį vadina įžymiausiu Vytauto juokdariu bei vokiečių agentu.","context":"Apibūdinimas pateiktas 1930 m. darbe, kalbant apie Vytauto pamėgtus juokdarius ir to meto aplinkybes.","support_ids":["t-35090","c-36315"],"source_refs":[{"kind":"internal_claim","claim_id":"t-35090","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36315","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas. Vytautas čia yra tų laikų vaikas. Maža žinome apie Vytauto šeimyninius santykius."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a9fe93de4c55c2d027549d2b","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.","context":"Šaltinis aprašo Vytauto kelionę; laiškas siejamas su Hennės keliavimu kartu su Vytautu.","support_ids":["t-35091","c-38026"],"source_refs":[{"kind":"internal_claim","claim_id":"t-35091","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-38026","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 )."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"bf702d5f47ec4f5a19c3acb6","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Pranešė apie 1427 m. Vytauto ekspediciją rytiniu valstybės pakraščiu.","context":"1427 m. pranešime, kaip nurodo šaltinis, Hennė aprašė Vytauto kelionę ir jos metu parodytą autoritetą rytuose.","support_ids":["t-184261","c-167645"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184261","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-167645","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė. Vytauto autoritetą rytuose liudija jo juokdario, Ordino agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę — ekspediciją savo valstybės rytiniu pakraščiu 1427 met. Sako jis buvęs nukeliavęs 100 mylių į rytus nuo Smolensko."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Hennė buvo žymiausias Vytauto juokdarys ir kartu vokiečių agentas, veikęs Ordino naudai. Jo išskirtinė padėtis Vytauto aplinkoje atskleidžia, kad juokdario vaidmuo galėjo būti susijęs ir su politine informacija bei tarpininkavimu. 1427 m. Hennė pranešė apie triumfatorišką Vytauto kelionę, kuri vyko per rytinį jo valstybės pakraštį. Pasak pranešimo, Vytautas nukeliavo maždaug 100 mylių į rytus nuo Smolensko, o ši kelionė buvo pateikta kaip Vytauto autoriteto rytuose liudijimas. Tuo metu Hennė taip pat paminėjo, kad Maskvos hegemonijos erdvėje buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kitų kraštų valdovai ar atstovai Vytautui prisiekė ištikimybę bei pažadėjo pagalbą.","sentences":[{"sentence_id":"s1","text":"Hennė buvo žymiausias Vytauto juokdarys ir kartu vokiečių agentas, veikęs Ordino naudai.","support_ids":["t-35090","c-36315"]},{"sentence_id":"s2","text":"Jo išskirtinė padėtis Vytauto aplinkoje atskleidžia, kad juokdario vaidmuo galėjo būti susijęs ir su politine informacija bei tarpininkavimu.","support_ids":["t-35090","c-36315"]},{"sentence_id":"s3","text":"1427 m. Hennė pranešė apie triumfatorišką Vytauto kelionę, kuri vyko per rytinį jo valstybės pakraštį.","support_ids":["t-184261","c-167645"]},{"sentence_id":"s4","text":"Pasak pranešimo, Vytautas nukeliavo maždaug 100 mylių į rytus nuo Smolensko, o ši kelionė buvo pateikta kaip Vytauto autoriteto rytuose liudijimas.","support_ids":["t-184261","c-167645"]},{"sentence_id":"s5","text":"Tuo metu Hennė taip pat paminėjo, kad Maskvos hegemonijos erdvėje buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kitų kraštų valdovai ar atstovai Vytautui prisiekė ištikimybę bei pažadėjo pagalbą.","support_ids":["t-35089","c-38025"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltinis tiesiogiai nurodo, kad Hennė buvo vokiečių agentas, tačiau nepatvirtina, kad jis veikė Ordino naudai."},{"sentence_id":"s2","supported":false,"reason":"Tai interpretacinė išvada apie juokdario vaidmenį, informacijos teikimą ir tarpininkavimą, kurios šaltinis tiesiogiai neparemia."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1427 m. Hennės pranešimą apie triumfatorišką Vytauto ekspediciją rytiniu valstybės pakraščiu."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo kelionę 100 mylių į rytus nuo Smolensko ir sieja ją su Vytauto autoriteto rytuose liudijimu."},{"sentence_id":"s5","supported":true,"reason":"Šaltinio citatoje tiesiogiai išvardijami Tveriaus, Rezanės, Pskovo, Vorotinsko ir kitų kraštų valdovai, prisiekę ištikimybę bei pažadėję pagalbą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-35090","c-36315"]},{"sentence_id":"s2","supported":true,"support_ids":["t-35090","c-36315"]},{"sentence_id":"s3","supported":true,"support_ids":["t-184261","c-167645"]},{"sentence_id":"s4","supported":true,"support_ids":["t-184261","c-167645"]},{"sentence_id":"s5","supported":true,"support_ids":["t-35089","c-38025"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-184260","confidence":0.72}],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 28c7bb23b3cd582b
+object_page_generated_at: '2026-09-20T13:55:40+00:00'
+object_page_source_checked_at: '2026-09-20T13:55:40+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Hennė (Ordino agentas): Hennė buvo žymiausias Vytauto juokdarys ir kartu vokiečių agentas, veikęs Ordino naudai. Jo išskirtinė padėtis Vytauto aplinkoje…'
+object_page_seo_input_hash: 4a1bd2d16cfdf7196202dd1739ed9e9ee9750baccc69556c8e06f7de169a294e
+object_page_seo_generated_at: '2026-09-20T13:55:40+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Hennė (Ordino agentas)
 

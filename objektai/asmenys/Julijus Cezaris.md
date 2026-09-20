@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Julijus Cezaris (vyskupas)'
+pavadinimas: Julijus Cezaris (vyskupas)
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '100 m.'
-  - '144 m.'
+  - 100 m.
+  - 144 m.
 date_start: '100'
 date_end: '144'
 sukurta: ''
@@ -17,29 +17,42 @@ tags:
   - ordinas
   - vyskupas
 amziai:
-  - 'I'
-  - 'II'
+  - I
+  - II
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-07964e1f539f3e0b5fece4d4"
-canonical_name: "Julijus Cezaris (vyskupas)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Julijus Cezaris","Julijus Cezaris (vyskupas)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-07964e1f539f3e0b5fece4d4
+canonical_name: Julijus Cezaris (vyskupas)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Julijus Cezaris
+  - Julijus Cezaris (vyskupas)
 sameAs: []
-canonical_biography: "Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai. Dusburgietis teigia, kad apie naują Teutonų namų ordino brolių karą su prūsų gentimis Pasak senovės istorikų175, daug kas senaisiais laikais yra kariavęs su prūsais: Julijus Autentiškame Konrado dokumente liudytojų mažiau (PKD, p. 34—35). Dusburgietis teigia, kad šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis 176 Gajus Julijus Cezaris (102 ar 100—44 m. pr."
+canonical_biography: 'Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai. Dusburgietis teigia, kad apie naują Teutonų namų ordino brolių karą su prūsų gentimis Pasak senovės istorikų175, daug kas senaisiais laikais yra kariavęs su prūsais: Julijus Autentiškame Konrado dokumente liudytojų mažiau (PKD, p. 34—35). Dusburgietis teigia, kad šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis 176 Gajus Julijus Cezaris (102 ar 100—44 m. pr.'
+external_sources_json: '[{"title":"Julijus Cezaris","url":"https://www.vle.lt/straipsnis/julijus-cezaris/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:27:48+00:00","source_checked_at":"2026-09-19T23:27:48+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Julijus Cezaris","url":"https://www.vle.lt/straipsnis/julijus-cezaris/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/julijus-cezaris/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"43ea98129d770d351016b46d","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Romos valstybės veikėjas, karvedys ir rašytojas","context":"Šaltinyje aprašomas Gajus Julijus Cezaris, gyvenęs 102 arba 100–44 m. pr. m. e.; teiginys pateiktas šaltinyje „Prūsijos žemės kronika“ (1985 m.).","support_ids":["t-221110","c-201685"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221110","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201685","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis 176 Gajus Julijus Cezaris (102 ar 100—44 m. pr. m. e.) —Romos valstybės veikėjas, karvedys, rašytojas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 30ef251599915d41
+object_page_generated_at: '2026-09-19T23:27:48+00:00'
+object_page_source_checked_at: '2026-09-19T23:27:48+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Julijus Cezaris (vyskupas): Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus…'
+object_page_seo_input_hash: 448f6aa672bf180584bd0b2a35ab32008284219ab45c11d65e2bcd95a813a35a
+object_page_seo_generated_at: '2026-09-19T23:27:48+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Julijus Cezaris (vyskupas)
 

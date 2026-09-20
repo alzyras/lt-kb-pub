@@ -1,11 +1,11 @@
 ---
 tipas: saltinis
-pavadinimas: 'Salyno sutartis (1398 m.)'
+pavadinimas: Salyno sutartis (1398 m.)
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1398 m.'
+  - 1398 m.
 date_start: '1398'
 date_end: ''
 sukurta: ''
@@ -16,19 +16,29 @@ tags:
   - valstybė
   - dokumentas
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Salyno sutartis","url":"https://lt.wikipedia.org/wiki/Salyno_sutartis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Salyno Sutartis","url":"https://www.vle.lt/straipsnis/salyno-sutartis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T05:09:26+00:00","source_checked_at":"2026-09-20T05:09:26+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Salyno sutartis","url":"https://lt.wikipedia.org/wiki/Salyno_sutartis","publisher":"Vikipedija","language":"lt","article_id":"281543","revision_id":"7855212","published_at":"2026-06-13T08:37:40Z","version_pk":"","content_hash":"caf8a673d4d346831c57c961f568644f31bfe63ed31f84ce8221f02f490bad05","retrieved_at":"2026-09-20T05:08:17+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Salyno_sutartis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"281543"}},"intro":"Salyno sutartis − Lietuvos didžiojo kunigaikščio Vytauto ir Vokiečių ordino didžiojo magistro Konrado fon Jungingeno (vok. Hochmeister Konrad von Jungingen) sutartis, sudaryta 1398 m. spalio 12 d. Salyno saloje (Nemune, ties Nevėžio žiotimis).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Salyno sutartis","url":"https://lt.wikipedia.org/wiki/Salyno_sutartis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Salyno Sutartis","url":"https://www.vle.lt/straipsnis/salyno-sutartis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Salyno_sutartis","https://www.vle.lt/straipsnis/salyno-sutartis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"9646c3616e21ee86071a6458","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"Sudaryta Vytauto autoritetu; ją pasirašė Vytautas ir Ordino magistras, o Jogaila sutartyje neminimas.","context":"A. Šapokos (red.) 1936 m. Lietuvos istorijos vertinimas apie 1398 m. Salyno sutartį.","support_ids":["t-67536","c-67404","t-67534","c-67405"],"source_refs":[{"kind":"internal_claim","claim_id":"t-67536","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-67534","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-67404","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Taigi ir Salyno sutartis buvo sudaryta jo paties autoritetu: Jogaila ten nė žodžiu neminimas. Vytautas pats, nesiklausęs Jogailos, padarė su ordinu taiką ir net užleido ordinui didelius jam pavestos valstybės plotus."},{"kind":"evidence","evidence_id":"c-67405","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu buvo pasirašyta taikos sutartis. Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie- tos ir sutartis vadinama Salyno sutartim."}],"status":"published","conflict_status":"clear"},{"trait_id":"e9305e656ecf00e1afa2b00a","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"1398 m.","context":"Salyno sutartis sudaryta ir pasirašyta 1398 m.","support_ids":["t-67534","c-67405","t-201501","c-184848"],"source_refs":[{"kind":"internal_claim","claim_id":"t-67534","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-201501","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-67405","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu buvo pasirašyta taikos sutartis. Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie- tos ir sutartis vadinama Salyno sutartim."},{"kind":"evidence","evidence_id":"c-184848","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Svarbi Lietuvos ir Vokiečių ordino santykiams Salyno sutartis sudaryta 1398 m. Nemuno saloje netoli Kauno. Sutartyje atsirado straipsnių, skirtų pre- kybai. Abiejų valstybių pirkliams buvo laiduota prekybos laisvė, jie galėjo netrukdomi keliauti, privalėjo mokėti tik senus muitus ir rinkliavas, buvo sutarta naujų neįvesti."}],"status":"published","conflict_status":"clear"},{"trait_id":"f1fc5d369e0a3f07d420a730","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Taikos sutartis.","context":"Šaltiniuose Salyno sutartis tiesiogiai įvardijama kaip taikos sutartis.","support_ids":["t-67534","c-67405"],"source_refs":[{"kind":"internal_claim","claim_id":"t-67534","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-67405","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu buvo pasirašyta taikos sutartis. Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie- tos ir sutartis vadinama Salyno sutartim."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e4ce8bf1358eda8b
+object_page_generated_at: '2026-09-20T05:09:26+00:00'
+object_page_source_checked_at: '2026-09-20T05:09:26+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '2'
+object_page_seo_description: 'Salyno sutartis (1398 m.): 1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu buvo…'
+object_page_seo_input_hash: f002d2f5307e68ae2f6e2f5dc994f29c6194812926258442886d1b4ac2cb94de
+object_page_seo_generated_at: '2026-09-20T05:09:26+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Salyno sutartis (1398 m.)
 

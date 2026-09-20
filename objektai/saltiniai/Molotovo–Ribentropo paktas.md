@@ -1,37 +1,47 @@
 ---
 tipas: saltinis
-pavadinimas: 'Molotovo–Ribentropo paktas'
+pavadinimas: Molotovo–Ribentropo paktas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1939 m.'
-  - '1940 m.'
-  - '1979 m.'
-  - '1989 m.'
+  - 1939 m.
+  - 1940 m.
+  - 1979 m.
+  - 1989 m.
 date_start: '1939'
 date_end: '1989'
 aliases:
-  - 'objektai/saltiniai/Molotovo-Ribentropo paktas'
+  - objektai/saltiniai/Molotovo-Ribentropo paktas
 variantai:
-  - 'Molotovo-Ribentropo paktas'
+  - Molotovo-Ribentropo paktas
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Molotovo–Ribentropo paktas","url":"https://lt.wikipedia.org/wiki/Molotovo%E2%80%93Ribentropo_paktas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T02:18:20+00:00","source_checked_at":"2026-09-20T02:18:20+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Molotovo–Ribentropo paktas","url":"https://lt.wikipedia.org/wiki/Molotovo%E2%80%93Ribentropo_paktas","publisher":"Vikipedija","language":"lt","article_id":"67595","revision_id":"7855394","published_at":"2026-06-13T09:10:59Z","version_pk":"","content_hash":"0b6be21f4af3a2565abf30fdb863fabd42691b6f83ca4256956eaec66ae527fe","retrieved_at":"2026-09-20T02:16:58+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Molotovo%E2%80%93Ribentropo_paktas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"67595"}},"intro":"Molotovo–Ribentropo paktas (rus. Пакт Молотова-Риббентропа, vok. Molotow-Ribbentrop-Pakt), oficialus pavadinimas – Vokietijos ir Sovietų Sąjungos nepuolimo sutartis, – 1939 m. rugpjūčio 23 d. Maskvoje pasirašytas nacistinės Vokietijos ir Sovietų Sąjungos paktas – nepuolimo sutartis bei slapti Vidurio ir Rytų Europos padalijimo protokolai. Paktą pasirašė šalių užsienio reikalų ministrai – Joachimas fon Ribentropas ir Viačeslavas Molotovas. Neoficialiai sutartis dar vadinama Hitlerio–Stalino paktu arba nacių–sovietų paktu. SSRS ir Vokietijos parlamentai ratifikavo paktą 1939 m. rugpjūčio 31 d. Pagal šios sutarties slaptuosius protokolus į SSRS įtakos sferą pateko Suomija, Estija, Latvija, rytų Lenkija ir dalis Rumunijos (Besarabija). Vokietijos įtakon pateko Lietuva ir vakarų Lenkija. 1989 m. gruodžio 24 d. antrasis SSRS liaudies deputatų suvažiavimas pripažino Molotovo–Ribentropo paktą ir jo slaptuosius protokolus teisiškai negaliojančiais nuo jų pasirašymo dienos. Už šį nutarimą pasisakė, balsavo už 1 435 deputatų, 251 deputatai balsavo prieš, 200 deputatų susilaikė.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Molotovo–Ribentropo paktas","url":"https://lt.wikipedia.org/wiki/Molotovo%E2%80%93Ribentropo_paktas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Molotovo%E2%80%93Ribentropo_paktas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"623eec5592c088da28569741","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"Vokietija ir Sovietų Sąjunga","context":"Šaltinyje nurodoma, kad Molotovo–Ribentropo paktą 1939 m. rugpjūčio 23 d. pasirašė Vokietija ir Sovietų Sąjunga.","support_ids":["t-26663","c-26882"],"source_refs":[{"kind":"internal_claim","claim_id":"t-26663","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-26882","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui. 1979 m. rugpjūčio 23 d. LLL kreipėsi į JT Generalinę Asamblėją, reikalaudama dekolonizuoti tris Baltijos valstybes. Dar didesnio atgarsio susilaukė va- dinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos vals- tybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos De- mokratinės Respublikos vyriausybėms. Memorandumą pasirašė 4 estai, 6 latviai, 35 lietuviai, A. Sacharovas ir 10 žymių rusų disidentų. Šis memo- randumas – svarbiausias LLL paskelbtas dokumentas…"}],"status":"published","conflict_status":"clear"},{"trait_id":"a3b2576dd6f173bd07217eac","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"1939 m. rugpjūčio 23 d.","context":"Šaltinyje paktas datuojamas 1939 m. rugpjūčio 23 d.; ši data pateikiama aprašant jo pasirašymą.","support_ids":["t-26663","c-26882"],"source_refs":[{"kind":"internal_claim","claim_id":"t-26663","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-26882","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui. 1979 m. rugpjūčio 23 d. LLL kreipėsi į JT Generalinę Asamblėją, reikalaudama dekolonizuoti tris Baltijos valstybes. Dar didesnio atgarsio susilaukė va- dinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos vals- tybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos De- mokratinės Respublikos vyriausybėms. Memorandumą pasirašė 4 estai, 6 latviai, 35 lietuviai, A. Sacharovas ir 10 žymių rusų disidentų. Šis memo- randumas – svarbiausias LLL paskelbtas dokumentas…"}],"status":"published","conflict_status":"clear"},{"trait_id":"a7943bbfe937d2ca0e7ec073","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Paktas","context":"Šaltinyje objektas tiesiogiai įvardijamas kaip Molotovo–Ribentropo paktas.","support_ids":["t-26663","c-26882"],"source_refs":[{"kind":"internal_claim","claim_id":"t-26663","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-26882","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui. 1979 m. rugpjūčio 23 d. LLL kreipėsi į JT Generalinę Asamblėją, reikalaudama dekolonizuoti tris Baltijos valstybes. Dar didesnio atgarsio susilaukė va- dinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos vals- tybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos De- mokratinės Respublikos vyriausybėms. Memorandumą pasirašė 4 estai, 6 latviai, 35 lietuviai, A. Sacharovas ir 10 žymių rusų disidentų. Šis memo- randumas – svarbiausias LLL paskelbtas dokumentas…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c09383e88c7ac124
+object_page_generated_at: '2026-09-20T02:18:20+00:00'
+object_page_source_checked_at: '2026-09-20T02:18:20+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 23 d. nacių ir sovietų nepuolimo sutartis su papildomu slaptuoju protokolu, kuriuo…'
+object_page_seo_input_hash: 7acc11af057b9f0972e6e312335c4ae29bf0bc73bc9365e1c4aa0b1d9ca6187f
+object_page_seo_generated_at: '2026-09-20T02:18:20+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Molotovo–Ribentropo paktas
 

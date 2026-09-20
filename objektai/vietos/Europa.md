@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Europa'
+pavadinimas: Europa
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
@@ -8,13 +8,13 @@ saltiniai:
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1429 m.'
-  - '1725 m.'
-  - '1999 m.'
-  - '2000 m.'
-  - '2026 m.'
+  - 1429 m.
+  - 1725 m.
+  - 1999 m.
+  - 2000 m.
+  - 2026 m.
 date_start: '1429'
 date_end: '2026'
 sukurta: ''
@@ -23,29 +23,41 @@ tags:
   - vieta
   - sostinė
 amziai:
-  - 'XV'
-  - 'XXI'
+  - XV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3c1562764430ae0e01e9bb29"
-canonical_name: "Europa"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Europa"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3c1562764430ae0e01e9bb29
+canonical_name: Europa
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Europa
 sameAs: []
-canonical_biography: "Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Iš Prancūzijos ta pati srovė paplito po visą Europą."
+canonical_biography: 'Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Iš Prancūzijos ta pati srovė paplito po visą Europą.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Europa","url":"https://lt.wikipedia.org/wiki/Europa","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Europa","url":"https://www.vle.lt/straipsnis/europa/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Europa – Wikipedia","url":"https://de.wikipedia.org/wiki/Europa","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T09:57:42+00:00","source_checked_at":"2026-09-19T09:57:42+00:00","counts":{"relations":9,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Europa","url":"https://lt.wikipedia.org/wiki/Europa","publisher":"Vikipedija","language":"lt","article_id":"9","revision_id":"7909692","published_at":"2026-08-23T18:56:32Z","version_pk":"","content_hash":"ec82175790465f34bfb218608f13347d8d26d9b42a47f1bb6f9112de50772a6d","retrieved_at":"2026-09-19T09:56:22+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Europa&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"9"}},"intro":"Europa – viena iš pasaulio dalių, kartu su Azija sudaranti Eurazijos žemyną. Europos plotas − 10,1 milijono kvadratinių kilometrų, ji užima 1/15-ąją visos pasaulio sausumos teritorijos. Europoje gyvena apie 747 milijonai žmonių (trečiasis pagal gyventojų skaičių žemynas). Europa taip pat dažnai vadinama „Senuoju žemynu“ priešpriešinant su „Naujuoju žemynu“ (Amerika).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Europa","url":"https://lt.wikipedia.org/wiki/Europa","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Europa","url":"https://www.vle.lt/straipsnis/europa/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Europa","https://www.vle.lt/straipsnis/europa/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8add310189b5f83af3f2b6b8","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Palyginti su Azija ir Afrika, vėliau apgyvendinta ir civilizuota.","context":"Teodoras Narbutas teigia, kad Europa, palyginti su Azija ir Afrika, buvo vėliau apgyvendinta ir civilizuota (1995 m.).","support_ids":["t-213665","c-196063"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213665","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196063","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Europa palyginti su Azija ir Afrika yra naujasis pa­ saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau civilizuotas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-20943","confidence":0.88},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Samojedai","claim_id":"t-216628","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Snorro Sturleson","claim_id":"t-87576","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Persai","claim_id":"t-213138","confidence":0.9},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-117889","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-183337","confidence":0.91},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Bailamberas","claim_id":"t-215340","confidence":0.76},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Hunai","claim_id":"t-215340","confidence":0.92},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-05290","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 271f59e5a3c434f7
+object_page_generated_at: '2026-09-19T09:57:42+00:00'
+object_page_source_checked_at: '2026-09-19T09:57:42+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Europa: Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Iš…'
+object_page_seo_input_hash: 1aaee783e2d4f0a974cfb63bc748601d56e2776b5a539b85ab704d14dc7243a5
+object_page_seo_generated_at: '2026-09-19T09:57:42+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Europa
 

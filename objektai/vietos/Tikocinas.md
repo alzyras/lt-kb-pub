@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Tikocinas'
+pavadinimas: Tikocinas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1345 m.'
+  - 1345 m.
 date_start: '1345'
 date_end: ''
 sukurta: ''
@@ -16,28 +16,40 @@ tags:
   - upė
   - vieta
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e7e62cad0a3a3449aaa75bab"
-canonical_name: "Tikocinas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Tikocinas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e7e62cad0a3a3449aaa75bab
+canonical_name: Tikocinas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Tikocinas
 sameAs: []
-canonical_biography: "Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų. Taip pat ir apmušalai, kurie yra Tikocine arba kur kitur atsiras, Flandrijos užtiesalai iš aukso arba su figū­ romis ir paprasto darbo, taip pat auksu atausti, aksominiai bei kiti šilkiniai apmušalai ir suolų užtiesalai, bet kokie špaleriai iš kamarų. Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius."
+canonical_biography: 'Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų. Taip pat ir apmušalai, kurie yra Tikocine arba kur kitur atsiras, Flandrijos užtiesalai iš aukso arba su figū­ romis ir paprasto darbo, taip pat auksu atausti, aksominiai bei kiti šilkiniai apmušalai ir suolų užtiesalai, bet kokie špaleriai iš kamarų. Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Tykocinas","url":"https://lt.wikipedia.org/wiki/Tykocinas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:27:43+00:00","source_checked_at":"2026-09-20T13:27:43+00:00","counts":{"relations":3,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Tykocinas","url":"https://lt.wikipedia.org/wiki/Tykocinas","publisher":"Vikipedija","language":"lt","article_id":"291606","revision_id":"7863950","published_at":"2026-06-20T00:31:12Z","version_pk":"","content_hash":"c17d4bb546e22cb272b7476df7b8d9923a279c95f35cd301ca1793025322cd5a","retrieved_at":"2026-09-20T13:25:37+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Tykocinas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"291606"}},"intro":"Tykòcinas (lenk. Tykocin) – miestas šiaurės rytų Lenkijoje, Palenkės vaivadijos Balstogės apskrityje, Tykocino valsčiuje, prie Narevo upės, Bebro upės žemumoje. Pro miestą eina vaivadijos kelias Nr. DW671, Tykocinas su kitais Lenkijos miestais sujungtas autobusų linijomis. Vykdomos paukščių globos programos dėka Tykocinas 2001 m. pripažintas Europos gandrų kaimu. Šalia išsidėstę Narevo ir Bebro nacionaliniai parkai, plyti Knišino giria.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":false,"api_redirect":true,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Tykocinas","url":"https://lt.wikipedia.org/wiki/Tykocinas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Tykocinas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"22875adeb8997aa04e75af89","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"valdovo nuosava pilis","context":"Šaltinyje, cituojant testamento nuostatą, nurodoma, kad Tikocine esantys ginklai ir karinė amunicija turėjo likti valdovo nuosavoje pilyje.","support_ids":["t-85858","c-81841"],"source_refs":[{"kind":"internal_claim","claim_id":"t-85858","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-81841","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Visus bet kokio pavadinimo pabūklus, ar- kebuzas, muškietas, pėstininkų ginklus ir kitą karo amunici­ ją bei įrangą, kokie yra Lenkijos Karalystėje - atiduodame Karalystei. Taip pat Lietuvoje esančius ir kur kitur paveda­ me Lietuvos Kunigaikštystei, bet tie, kurie yra Tikocine ir visi ginklai bei karinė amunicija privalo ten likti kaip mūsų nuosavoje pilyje. Taip pat prašome, kad jos didenybė kara- Tarnautojai, samdiniai, pėstininkai, liokajai, kambariniai ir kiti rūmų tar­ nai."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Tikocinas – Palenkėje esanti vieta, šaltinyje minima kaip valdovo pilis ir svarbi turto bei karinės įrangos laikymo vieta. Apie 1345 m. Goštautui išvykus į Tikociną, Vilniuje prastuomenė smurtu užėmė pranciškonų vienuolyną, todėl vietovė netiesiogiai siejama su to meto politinių ir religinių įvykių aplinka. Tikocino pilyje turėjo likti pabūklai, arkebuzos, muškietos, pėstininkų ginklai, karinė amunicija ir kita įranga, nes visa tai laikyta valdovo nuosavybe. Vieta taip pat minima dėl pas Zaleskį buvusių bažnytinių reikmenų, tarp jų kielikų, patenų, kryželių, liktorių, liturginių drabužių ir kitų Dievo tarnystei skirtų daiktų. Buvo numatyta šiuos reikmenis perduoti Vilniaus Šv. Onos bažnyčiai, išskyrus ypatingą auksinį kryžių su safyru ir Šventojo Kryžiaus medžio dalimi.","sentences":[{"sentence_id":"s1","text":"Tikocinas – Palenkėje esanti vieta, šaltinyje minima kaip valdovo pilis ir svarbi turto bei karinės įrangos laikymo vieta.","support_ids":["t-85857","t-85858"]},{"sentence_id":"s2","text":"Apie 1345 m. Goštautui išvykus į Tikociną, Vilniuje prastuomenė smurtu užėmė pranciškonų vienuolyną, todėl vietovė netiesiogiai siejama su to meto politinių ir religinių įvykių aplinka.","support_ids":["t-85857","c-81842"]},{"sentence_id":"s3","text":"Tikocino pilyje turėjo likti pabūklai, arkebuzos, muškietos, pėstininkų ginklai, karinė amunicija ir kita įranga, nes visa tai laikyta valdovo nuosavybe.","support_ids":["t-85858","c-81841"]},{"sentence_id":"s4","text":"Vieta taip pat minima dėl pas Zaleskį buvusių bažnytinių reikmenų, tarp jų kielikų, patenų, kryželių, liktorių, liturginių drabužių ir kitų Dievo tarnystei skirtų daiktų.","support_ids":["t-85859","c-81840"]},{"sentence_id":"s5","text":"Buvo numatyta šiuos reikmenis perduoti Vilniaus Šv. Onos bažnyčiai, išskyrus ypatingą auksinį kryžių su safyru ir Šventojo Kryžiaus medžio dalimi.","support_ids":["t-85859","c-81840"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai patvirtina Tikociną Palenkėje ir pilį su joje laikytais ginklais, tačiau nepatvirtina, kad tai buvo svarbi turto bei karinės įrangos laikymo vieta kaip visuma."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis patvirtina įvykių seką ir smurtinį vienuolyno užėmimą, tačiau vietovės netiesioginis siejimas su politinių ir religinių įvykių aplinka yra interpretacinė išvada, o ne tiesiogiai paremtas faktas."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai išvardija pabūklus, arkebuzas, muškietas, pėstininkų ginklus, amuniciją ir įrangą bei nurodo, kad jie turėjo likti Tikocine kaip valdovo pilyje."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai mini pas Zaleskį Tikocine buvusius bažnytinius reikmenis, įskaitant kielikus, patenas, kryželius, liktorius, bažnytinius apdarus ir kitus Dievo tarnystei skirtus daiktus."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis nurodo, kad šie reikmenys turėjo būti perduoti Vilniaus Šv. Onos bažnyčiai, išskyrus auksinį kryžių su safyru ir Šventojo Kryžiaus medžio dalimi."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-85857","t-85858"]},{"sentence_id":"s2","supported":true,"support_ids":["t-85857","c-81842"]},{"sentence_id":"s3","supported":true,"support_ids":["t-85858","c-81841"]},{"sentence_id":"s4","supported":true,"support_ids":["t-85859","c-81840"]},{"sentence_id":"s5","supported":true,"support_ids":["t-85859","c-81840"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Goštautas","claim_id":"t-185246","confidence":0.89},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Petras Goštautas","claim_id":"t-173208","confidence":0.91},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Ginklai","claim_id":"t-114453","confidence":0.7}],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 8e9a1007acafaac5
+object_page_generated_at: '2026-09-20T13:27:43+00:00'
+object_page_source_checked_at: '2026-09-20T13:27:43+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'Tikocinas – Palenkėje esanti vieta, šaltinyje minima kaip valdovo pilis ir svarbi turto bei karinės įrangos laikymo vieta. Apie 1345 m. Goštautui išvykus į…'
+object_page_seo_input_hash: 14d61046138166df9edd3e49a8883ebfb94bd91218d5c8d0fa00ae5017b1cb59
+object_page_seo_generated_at: '2026-09-20T13:27:43+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Tikocinas
 

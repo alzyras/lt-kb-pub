@@ -11,6 +11,8 @@ import Evidence, { Claim, CitationRecord } from "../quartz/components/ObjectEvid
 import Gallery from "../quartz/components/ObjectMediaGallery"
 import Header from "../quartz/components/LIHeader"
 import config from "../quartz.config"
+import styles from "../quartz/styles/custom.scss"
+import { joinStyles } from "../quartz/util/theme"
 import {
   objectDetailEvidenceFromFile,
   objectEvidenceDisplayItems,
@@ -37,16 +39,15 @@ if (finisherRoot) {
   const projectedPath = path.join(finisherRoot, note)
   if (fs.existsSync(projectedPath)) {
     const projected = matter(fs.readFileSync(projectedPath, "utf8")).data
-    for (const key of ["external_sources_json", "object_page_finisher", "object_page_finisher_hash"])
+    for (const key of [
+      "external_sources_json",
+      "object_page_finisher",
+      "object_page_finisher_hash",
+    ])
       if (projected[key] !== undefined) fm[key] = projected[key]
     try {
       const view = JSON.parse(String(projected.object_page_view_json || "{}"))
-      fm.object_page_view_json = JSON.stringify({
-        version: view.version,
-        portrait: view.portrait,
-        featured_gallery: view.featured_gallery,
-        related_content: view.related_content,
-      })
+      fm.object_page_view_json = JSON.stringify(view)
     } catch {
       // A malformed generated value should never make a preview unusable.
     }
@@ -106,7 +107,11 @@ const index = {
 for (const row of index.items)
   Object.assign(row, { sourceIds: row.sources.map((title) => sources.get(title) || title) })
 const components = [Detail(), Evidence(), Gallery(), Header()]
-const css = components.flatMap((component) => component.css || []).join("\n")
+const css = joinStyles(
+  config.configuration.theme,
+  ...components.flatMap((component) => component.css || []),
+  styles,
+)
 const scripts = [
   ...new Set(components.flatMap((component) => component.afterDOMLoaded || [])),
 ].join("\n")
@@ -152,7 +157,7 @@ const server = http.createServer(async (req, res) => {
     res.setHeader("Content-Type", "text/html; charset=utf-8")
     res.setHeader("Cache-Control", "no-store")
     return res.end(
-      `<!doctype html><html lang="lt"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${String(fm.title).replaceAll("<", "&lt;")}</title><link rel="stylesheet" href="/index.css"><style>${css}</style><script>window.addCleanup=()=>{};</script></head><body data-slug="${route}">${renderToString(components[3](props) as any)}${renderToString(Component(props) as any)}<script type="module">${scripts}\n${spa}</script></body></html>`,
+      `<!doctype html><html lang="lt" saved-theme="${url.searchParams.get("theme") === "dark" ? "dark" : "light"}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${String(fm.title).replaceAll("<", "&lt;")}</title><link rel="stylesheet" href="/index.css"><style>${css}</style><script>window.addCleanup=()=>{};</script></head><body data-slug="${route}">${renderToString(components[3](props) as any)}${renderToString(Component(props) as any)}<script type="module">${scripts}\n${spa}</script></body></html>`,
     )
   }
   await handler(req, res, { public: path.join(root, "public"), cleanUrls: true })

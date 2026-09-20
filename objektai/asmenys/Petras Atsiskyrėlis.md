@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Petras Atsiskyrėlis'
+pavadinimas: Petras Atsiskyrėlis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,19 +16,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-011a90c8ee4effcfcbecbaba"
-canonical_name: "Petras Atsiskyrėlis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Petras Atsiskyrėlis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-011a90c8ee4effcfcbecbaba
+canonical_name: Petras Atsiskyrėlis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Petras Atsiskyrėlis
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų atsiskyręs, todėl jį vadino Petru Atsiskyrėliu, ragindamas jį aplankyti viešpaties kapą bei kitas šventąsias vietas. Dusburgietis teigia, kad petras Atsiskyrėlis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems. Dusburgietis teigia, kad petras Atsiskyrėlis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė, pervažiavo Italiją ir persikėlė per Alpes, uoliai ragindamas ir visaip skatindamas (mat šitai būta išmintingo žmogaus, gebančio ir veikti, ir kalbėti) tiek Rytų, tiek Vakarų valdovus, tiek žemesnių luomų žmones aliai vieną drąsiai ryžtis sunkiai maldininkų kelionei į Jeruzalę, talkinant viešpačiui, o jo pasiuntiniui savo kalbomis teikiant [kryžininkams] visokeriopų malonių."
+canonical_biography: 'Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų atsiskyręs, todėl jį vadino Petru Atsiskyrėliu, ragindamas jį aplankyti viešpaties kapą bei kitas šventąsias vietas. Dusburgietis teigia, kad petras Atsiskyrėlis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems. Dusburgietis teigia, kad petras Atsiskyrėlis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė, pervažiavo Italiją ir persikėlė per Alpes, uoliai ragindamas ir visaip skatindamas (mat šitai būta išmintingo žmogaus, gebančio ir veikti, ir kalbėti) tiek Rytų, tiek Vakarų valdovus, tiek žemesnių luomų žmones aliai vieną drąsiai ryžtis sunkiai maldininkų kelionei į Jeruzalę, talkinant viešpačiui, o jo pasiuntiniui savo kalbomis teikiant [kryžininkams] visokeriopų malonių.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:19:03+00:00","source_checked_at":"2026-09-20T14:19:03+00:00","counts":{"relations":3,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Prancūzija","claim_id":"t-224096","confidence":0.77},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Italija","claim_id":"t-222569","confidence":0.88},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Jeruzalė","claim_id":"t-222569","confidence":0.74}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 41e363df3f594752
+object_page_generated_at: '2026-09-20T14:19:03+00:00'
+object_page_source_checked_at: '2026-09-20T14:19:03+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Petras Atsiskyrėlis: Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų atsiskyręs…'
+object_page_seo_input_hash: 3154f7b840b9c8785049f13f3409b284f3b6a236249a1ee5a63ddb1e10a8b73d
+object_page_seo_generated_at: '2026-09-20T14:19:03+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Petras Atsiskyrėlis
 

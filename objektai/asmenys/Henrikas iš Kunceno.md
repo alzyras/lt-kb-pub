@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Henrikas iš Kunceno'
+pavadinimas: Henrikas iš Kunceno
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -13,19 +13,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-282e9943813167e11dd7b6b8"
-canonical_name: "Henrikas iš Kunceno"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Henrikas iš Kunceno"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-282e9943813167e11dd7b6b8
+canonical_name: Henrikas iš Kunceno
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Henrikas iš Kunceno
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Dusburgietis teigia, kad kai brolis Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai. Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo."
+canonical_biography: 'Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Dusburgietis teigia, kad kai brolis Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai. Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:56:54+00:00","source_checked_at":"2026-09-20T13:56:54+00:00","counts":{"relations":2,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"04c8f6b52c5f70f6d80c3943","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Būdamas pasauliečiu, jis buvo apibūdinamas kaip baisus žiauruolis, didelis grobikas ir piktadarys.","context":"Petras Dusburgietis, Prūsijos žemės kronika; autoriaus vertinimas apie jo laiką pasauliečiu.","support_ids":["t-222522","c-203654"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222522","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203654","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Būdamas pasauliečiu, jis garsėjo kaip baisus žiauruolis, didelis grobikas ir piktadarys. Kartą vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė: „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave į tokią vietą, kur tu pelnysi didelį grobį“."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d3a13f807e2b1cd02a1af33d","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Būdamas vienuolyne, jis pralenkė kitus brolius dorybėmis.","context":"Petras Dusburgietis, Prūsijos žemės kronika; autoriaus vertinimas apie jo gyvenimą vienuolyne po įstojimo į Teutonų ordiną.","support_ids":["t-223213","c-204487"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223213","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204487","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą, davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis. Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas negali tavęs išganyti, tad išpažink žydų tikėjimą“."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a9090df560b6f1ad5da989ed","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Būdamas pasaulietis, jis vėliau davė įžadus Teutonų ordinui ir tapo vienuolyno broliu.","context":"Petras Dusburgietis, Prūsijos žemės kronika; po atvykimo į Prūsiją.","support_ids":["t-223213","c-204487"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223213","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204487","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą, davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis. Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo tikėjimas negali tavęs išganyti, tad išpažink žydų tikėjimą“."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-223213","confidence":0.94},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-222884","confidence":0.95}],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 2b778039caa26eec
+object_page_generated_at: '2026-09-20T13:56:54+00:00'
+object_page_source_checked_at: '2026-09-20T13:56:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Henrikas iš Kunceno: Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje.…'
+object_page_seo_input_hash: 7a0d242f4fb74d641f725fad94abaa5bcb1a99b29fc5102f89351af8b0dd3b79
+object_page_seo_generated_at: '2026-09-20T13:56:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Henrikas iš Kunceno
 

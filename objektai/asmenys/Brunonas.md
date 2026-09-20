@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Brunonas'
+pavadinimas: Brunonas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -17,19 +17,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ca1b56d8cacbfe856833df2f"
-canonical_name: "Brunonas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Brunonas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ca1b56d8cacbfe856833df2f
+canonical_name: Brunonas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Brunonas
 sameAs: []
-canonical_biography: "Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudytas. Brunonas: pagaliau 1008 m. gale jis iš- vyko iš Lenkijos aisčių krikštyti net su 18 palydovų. Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu."
+canonical_biography: 'Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudytas. Brunonas: pagaliau 1008 m. gale jis iš- vyko iš Lenkijos aisčių krikštyti net su 18 palydovų. Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu.'
+external_sources_json: '[{"title":"Brunonas","url":"https://www.vle.lt/straipsnis/brunonas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:39:11+00:00","source_checked_at":"2026-09-19T19:39:11+00:00","counts":{"relations":4,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Po to nugalėtojai, paleisti pasiplėšti grobio, nusiaubė visas apylinkes, naikindami ugnimi ir kala­ viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­ toli Livonijos įlankos, magistras Brunonas nirtulingai juos užpuolė prie Treiderės upės, jau apsikrovusius grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal dėl to, kad neturėjo po ranka kariuomenės (paprastai šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­ džiusi po kaimus.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","claim_id":"t-184682","evidence_id":"c-168043","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Brunonas","url":"https://www.vle.lt/straipsnis/brunonas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/brunonas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3c9b361d7b5cb7c69a448bc2","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Prastai išauklėtas; autorius jį taip pat apibūdina kaip turintį „nesutramdomų laukinių...“","context":"Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.); autoriaus atsargi išvada apie Brunoną Livonijos ordino ir dvasininkijos vaidų kontekste.","support_ids":["t-205657","c-188272"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205657","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188272","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Po kiek laiko vyravusios taikos Livonijoje vėlei įsiliepsnojo ordino vaidai su dva­ sininkija, juo stipriau, kuo labiau asmeniškai įžeistas jau­ tėsi magistras Brunonas, žmogus, kaip galima suprasti, prastai išauklėtas ir turintis nesutramdomų laukinių"}],"status":"published","conflict_status":"clear"},{"trait_id":"87bde680aec68ad117f053ae","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Livonijos žemės magistras","context":"1298 m. Brunonas, būdamas Livonijos žemės magistras, vadovavo nedidelei kariuomenei ir stojo į kovą prie Treiderės upės.","support_ids":["t-220703","c-203222"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220703","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203222","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"brolis Brunonas, Livonijos žemės magistras, leidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d. pajūryje prie Treiderės upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Brunonas – Livonijos žemės magistras, 1298 m. šaltinyje minimas kaip karinis Livonijos ordino vadovas. Prie Treiderės upės, netoli Livonijos įlankos ir jūros kranto, jis vijosi lietuvius arba grobiu apsikrovusius siaubėjus ir surengė netikėtą puolimą. Pasak skirtingų šaltinių, Brunonas išvadavo belaisvius, nukovė 800 žmonių, o viename pasakojime minima, kad buvo išvaduota beveik trys tūkstančiai krikščionių; vis dėlto tame pačiame pasakojime nurodoma, kad galiausiai magistras žuvo. Jo veikla taip pat siejama su Livonijos ordino nesutarimais su dvasininkija: Teodoras Narbutas rašė, kad Brunonas jautėsi asmeniškai įžeistas ir jį apibūdino kaip prastai išauklėtą, impulsyvų žmogų.","sentences":[{"sentence_id":"s1","text":"Brunonas – Livonijos žemės magistras, 1298 m. šaltinyje minimas kaip karinis Livonijos ordino vadovas.","support_ids":["t-220703","c-203222"]},{"sentence_id":"s2","text":"Prie Treiderės upės, netoli Livonijos įlankos ir jūros kranto, jis vijosi lietuvius arba grobiu apsikrovusius siaubėjus ir surengė netikėtą puolimą.","support_ids":["t-184682","c-168043","t-205658","c-188273"]},{"sentence_id":"s3","text":"Pasak skirtingų šaltinių, Brunonas išvadavo belaisvius, nukovė 800 žmonių, o viename pasakojime minima, kad buvo išvaduota beveik trys tūkstančiai krikščionių; vis dėlto tame pačiame pasakojime nurodoma, kad galiausiai magistras žuvo.","support_ids":["t-205658","c-188273","t-220703","c-203222"]},{"sentence_id":"s4","text":"Jo veikla taip pat siejama su Livonijos ordino nesutarimais su dvasininkija: Teodoras Narbutas rašė, kad Brunonas jautėsi asmeniškai įžeistas ir jį apibūdino kaip prastai išauklėtą, impulsyvų žmogų.","support_ids":["t-205657","c-188272"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai tiesiogiai patvirtina, kad Brunonas buvo Livonijos žemės magistras 1298 m., tačiau nepatvirtina apibūdinimo kaip karinio Livonijos ordino vadovo."},{"sentence_id":"s2","supported":false,"reason":"Šaltiniai patvirtina vijimąsi ir puolimą prie Treiderės upės, tačiau tiesiogiai nepatvirtina, kad puolimas buvo netikėtas."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai patvirtina belaisvių išvadavimą, 800 žmonių nukovimą, beveik trijų tūkstančių krikščionių išvadavimą ir magistro žūtį."},{"sentence_id":"s4","supported":false,"reason":"Šaltinis patvirtina asmeninį įžeidimą, nesutarimus su dvasininkija ir prastą išauklėjimą, tačiau nepatvirtina apibūdinimo kaip impulsyvaus žmogaus."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-220703","c-203222"]},{"sentence_id":"s2","supported":true,"support_ids":["t-184682","c-168043","t-205658","c-188273"]},{"sentence_id":"s3","supported":true,"support_ids":["t-205658","c-188273","t-220703","c-203222"]},{"sentence_id":"s4","supported":true,"support_ids":["t-205657","c-188272"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Prieglius","claim_id":"t-181212","confidence":0.86},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-31616","confidence":0.62},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Rusija","claim_id":"t-31616","confidence":0.62},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Treiderės upė","claim_id":"t-185164","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":6,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d89130b90146a123
+object_page_generated_at: '2026-09-19T19:39:11+00:00'
+object_page_source_checked_at: '2026-09-19T19:39:11+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '3'
+object_page_seo_description: 'Brunonas – Livonijos žemės magistras, 1298 m. šaltinyje minimas kaip karinis Livonijos ordino vadovas. Prie Treiderės upės, netoli Livonijos įlankos ir jūros…'
+object_page_seo_input_hash: 542065ad48b5c90e601c20c717e669d68edddb2a96d3551302029ba66ec4d1da
+object_page_seo_generated_at: '2026-09-19T19:39:11+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Brunonas
 

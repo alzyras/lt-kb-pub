@@ -1,19 +1,19 @@
 ---
 tipas: vieta
-pavadinimas: 'Nevėžis'
+pavadinimas: Nevėžis
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Mūsų tautosaka, t.4 (1931)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1384 m.'
-  - '1398 m.'
-  - '1400 m.'
-  - '2026 m.'
+  - 1384 m.
+  - 1398 m.
+  - 1400 m.
+  - 2026 m.
 date_start: '1384'
 date_end: '2026'
 sukurta: ''
@@ -23,29 +23,41 @@ tags:
   - ordinas
   - vieta
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9e4cdcf239d81807614a6278"
-canonical_name: "Nevėžis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Nevėžis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9e4cdcf239d81807614a6278
+canonical_name: Nevėžis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Nevėžis
 sameAs: []
-canonical_biography: "Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas)."
+canonical_biography: 'Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Nevėžis","url":"https://lt.wikipedia.org/wiki/Nev%C4%97%C5%BEis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:04:25+00:00","source_checked_at":"2026-09-19T17:04:25+00:00","counts":{"relations":5,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Dievo Kurko garbei taip pat degė nuolat kurstoma ug­ nis, ypač Prūsuose, didelėje to dievo šventovėje Šventamiesty- je (Szwentameste), kur dabar Heiligenbeilis, lenkiškai Swięta- Siekierka, Šventasis Kirvelis. Lietuvoje, Hartknocho nuomo­ ne, tokia ugnis turėjo degti prie Nevėžio upės. 3.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","claim_id":"t-219351","evidence_id":"c-197912","origin":"internal"},"wiki":{"status":"published","source":{"title":"Nevėžis","url":"https://lt.wikipedia.org/wiki/Nev%C4%97%C5%BEis","publisher":"Vikipedija","language":"lt","article_id":"17297","revision_id":"7910790","published_at":"2026-08-24T20:56:31Z","version_pk":"","content_hash":"92f3df2733a397da3a323e232d41ed101e0776728dc987a652c0e18bccaa6b95","retrieved_at":"2026-09-19T17:02:02+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Nev%C4%97%C5%BEis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"17297"}},"intro":"Nevėžis – vidurio Lietuvos upė, dešinysis Nemuno intakas. Prasideda netoli Grybulių Anykščių raj., 6 km į pietryčius nuo Troškūnų, Paraisčių durpyne. Teka į šiaurės vakarus pro Raguvą, per Panevėžį, žemiau Berčiūnų pasuka į pietus ir vingiuoja Nevėžio žemuma pro Naujamiestį, Krekenavą (Panevėžio rajonas), per Kėdainius, pro Babtus. Ties Kėdainiais upė kerta Šiaulių-Jonavos geležinkelį. Įteka į Nemuną 199 km nuo jo žiočių, ties Raudondvariu (Kauno raj.), kur nutiestas Raudondvario tiltas. Vidutinis upės plotis 15–30 metrų, gylis 2–3 metrai.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Nevėžis","url":"https://lt.wikipedia.org/wiki/Nev%C4%97%C5%BEis","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Nev%C4%97%C5%BEis"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"654a744e09eae3c2a5044fb2","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"upė","context":"Šaltiniuose Nevėžis tiesiogiai įvardijamas kaip upė; 1398 m. jis nurodomas kaip riba, iki kurios buvo užleista Žemaitija, o Hartknochas, perteikiamas T. Narbuto, teigė, kad prie Nevėžio upės galėjo degti ugnis. Laikotarpiai ir vertinimas išlaikyti pagal šaltinius.","support_ids":["t-184312","c-167685","t-184313","c-167686","t-184314","c-37602","t-219351","c-197912"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184312","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-184313","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-184314","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-219351","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-167685","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Jeigu Vytautas mirtą, nepalikęs jokio įpėdinio, tai jie turėtų ati­ tekti Ordinui. Atiduodamas vokiečiams visą Žemaičių kraštą iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną. Prie šito akto Vytauto antspauda neišliko."},{"kind":"evidence","evidence_id":"c-167686","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Ordinas. Vytautas jam buvo už­ rašęs Žemaičių kraštą iki Nevėžio upės (1398) ir Vok. Ordinas visai nesirūpino žemaičių apkrikštyti."},{"kind":"evidence","evidence_id":"c-37602","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"1398 mt. Salyno sutartimi jis pats užleido Ordinui visą Žemai­ tiją, net iki Nevėžio^5 ). O 1400 met. net ginklu padėjo Ordinui suvaldyti ją^6 )."},{"kind":"evidence","evidence_id":"c-197912","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Dievo Kurko garbei taip pat degė nuolat kurstoma ug­ nis, ypač Prūsuose, didelėje to dievo šventovėje Šventamiesty- je (Szwentameste), kur dabar Heiligenbeilis, lenkiškai Swięta- Siekierka, Šventasis Kirvelis. Lietuvoje, Hartknocho nuomo­ ne, tokia ugnis turėjo degti prie Nevėžio upės. 3."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Nevėžis yra upė, istoriniuose šaltiniuose minima kaip svarbi riba, siejama su Žemaitijos politiniu statusu ir kariniais įvykiais. 1398 m. Vytautas Ordinui užrašė Žemaičių kraštą iki Nevėžio upės, o Salyno sutartimi – visą Žemaitiją iki šios ribos. Ši sutartis reiškė, kad Vytautas sutiko užleisti Ordinui Žemaičius iki Nevėžio, mainais Ordinui įsipareigojant nepulti Lietuvos ir padėti Vytautui rytuose. Nevėžis taip pat minimas kaip vieta, anapus kurios žemaičių kariuomenė sustojo, ketindama kautis su didžiuoju kunigaikščiu Kazimieru. Vėlesniame pasakojime, perteikiančiame Hartknocho nuomonę, prie Nevėžio upės galėjo būti kurstoma nuolatinė ugnis dievo Kurko garbei.","sentences":[{"sentence_id":"s1","text":"Nevėžis yra upė, istoriniuose šaltiniuose minima kaip svarbi riba, siejama su Žemaitijos politiniu statusu ir kariniais įvykiais.","support_ids":["t-184313","t-184314","t-211176"]},{"sentence_id":"s2","text":"1398 m. Vytautas Ordinui užrašė Žemaičių kraštą iki Nevėžio upės, o Salyno sutartimi – visą Žemaitiją iki šios ribos.","support_ids":["t-184313","t-184314"]},{"sentence_id":"s3","text":"Ši sutartis reiškė, kad Vytautas sutiko užleisti Ordinui Žemaičius iki Nevėžio, mainais Ordinui įsipareigojant nepulti Lietuvos ir padėti Vytautui rytuose.","support_ids":["t-183062"]},{"sentence_id":"s4","text":"Nevėžis taip pat minimas kaip vieta, anapus kurios žemaičių kariuomenė sustojo, ketindama kautis su didžiuoju kunigaikščiu Kazimieru.","support_ids":["t-211176"]},{"sentence_id":"s5","text":"Vėlesniame pasakojime, perteikiančiame Hartknocho nuomonę, prie Nevėžio upės galėjo būti kurstoma nuolatinė ugnis dievo Kurko garbei.","support_ids":["t-219351"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai Nevėžį nurodo kaip ribą, susijusią su Žemaitijos politiniu statusu ir kariniais įvykiais."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai nurodo 1398 m. Vytauto užrašytą Žemaičių kraštą ir Salyno sutartimi užleistą Žemaitiją iki Nevėžio."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo Žemaičių užleidimą iki Nevėžio ir Ordino įsipareigojimus nepulti Lietuvos bei padėti Vytautui rytuose."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad žemaičiai sustojo anapus Nevėžio, ketindami kautis su Kazimieru."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis perteikia Hartknocho nuomonę, kad Kurko garbei tokia ugnis turėjo degti prie Nevėžio."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-184313","t-184314","t-211176"]},{"sentence_id":"s2","supported":false,"support_ids":["t-184313","t-184314"]},{"sentence_id":"s3","supported":false,"support_ids":["t-183062"]},{"sentence_id":"s4","supported":false,"support_ids":["t-211176"]},{"sentence_id":"s5","supported":false,"support_ids":["t-219351"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Galminas","claim_id":"t-30231","confidence":0.82},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Getautas","claim_id":"t-30255","confidence":0.72},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Klausigaila","claim_id":"t-30231","confidence":0.82},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vasibutas","claim_id":"t-30231","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-69428","confidence":0.52}],"timeline":[],"support_disclosure":{"claims":6,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f235251d5fe71070
+object_page_generated_at: '2026-09-19T17:04:25+00:00'
+object_page_source_checked_at: '2026-09-19T17:04:25+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '4'
+object_page_seo_description: 'Nevėžis yra upė, istoriniuose šaltiniuose minima kaip svarbi riba, siejama su Žemaitijos politiniu statusu ir kariniais įvykiais. 1398 m. Vytautas Ordinui…'
+object_page_seo_input_hash: 77ff609b9c24462dbeef6d588aa4134fba378da1229acf7174aad2cee0a5dd09
+object_page_seo_generated_at: '2026-09-19T17:04:25+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Nevėžis
 

@@ -1,14 +1,14 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'pilėnas'
+pavadinimas: pilėnas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1301 m.'
-  - '1302 m.'
-  - '1305 m.'
-  - '1313 m.'
+  - 1301 m.
+  - 1302 m.
+  - 1305 m.
+  - 1313 m.
 date_start: '1301'
 date_end: '1313'
 sukurta: ''
@@ -18,19 +18,29 @@ tags:
   - sąvoka
   - karinis-terminas
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:21:36+00:00","source_checked_at":"2026-09-20T04:21:36+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f3ede459a9ebfa38296a4284","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Istoriniame pasakojime žodis vartojamas asmeniui ar žmonių grupei, siejamai su konkrečia pilimi: „Aukaimio pilėnas“, „pilėnai“ ir „vienas kitas pilėnas“.","context":"Alberto Vijūko-Kojelavičiaus ir Petro Dusburgiečio istoriniuose pasakojimuose apie pilių puolimus, gynėjus ir pilies gyventojus.","support_ids":["t-184634","c-167995","t-184636","c-167997","t-222153","c-202310"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184634","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-184636","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-222153","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-167995","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Tad nebesitikė­ dami galėsią apgulti pilį, nes to pradėti neleido audra, be to, bijodami pavojaus, kuris galėtų iškilti, jeigu prie­ šui paaiškėtų, kad puolėjų ne tiek daug, jie ryžtingai užpuolė miestą. Pilėnai, kuriems pirmas veržlus ant­ puolis neleido pabėgti, buvo arba išžudyti, arba paimti į nelaisvę, o kurie paspruko į pilį, neteko namų, iš­ plėštų ir sudegintų. Skerdynės čia ėjo didesnės, nei galima buvo tikėtis iš priešų skaičiaus: jų nebuvo dau­ giau kaip trys šimtai samdininkų ir keli kryžiuočių ordino riteriai, o štai grobio buvo tiek, kiek keletas karių galėjo išvežti."},{"kind":"evidence","evidence_id":"c-167997","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Apgula užtruko ištisą mėnesį, tačiau ne dėl to, kad nebuvo A p su p a V ite b s k ą daroma, kas tokiais atvejais reikalinga, o todėl, kad gynė­ jai, ypač Livonijos kariai, klausydami ne tiek Švitri­ gailos skatinimų, kiek įsakymų bei grasinimų, prieši­ nosi iš paskutiniųjų. Galop trisdešimtą dieną Vytauto kariai įsiveržė pro visiškai sugriautus įtvirtinimus į žemutinę pilį. Kovojant dėl miesto sienos, žuvo vienas kitas pilėnas."},{"kind":"evidence","evidence_id":"c-202310","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą, kad, broliams…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f6f5e98099e66258
+object_page_generated_at: '2026-09-20T04:21:36+00:00'
+object_page_source_checked_at: '2026-09-20T04:21:36+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '2'
+object_page_seo_description: 'pilėnas: 1301 m. Aukaimio pilėnas Draika norėjo išsižadėti stabų garbinimo ir slapta kreipėsi pagalbos į Ragainės komtūrą Folradą. 1305 m. Aukaimio pilėnas…'
+object_page_seo_input_hash: c07edb7198f9120e68fc121c81df15d169ae449aeb18d05c4fe6cd5a51b9a301
+object_page_seo_generated_at: '2026-09-20T04:21:36+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # pilėnas
 

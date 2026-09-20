@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jokūbas Jasinskis'
+pavadinimas: Jokūbas Jasinskis
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1794 m.'
+  - 1794 m.
 date_start: '1794'
 date_end: ''
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - asmuo
   - sukilėlis
 amziai:
-  - 'XVIII'
+  - XVIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3e597d5b549c386b0a30c326"
-canonical_name: "Jokūbas Jasinskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jokūbas Jasinskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3e597d5b549c386b0a30c326
+canonical_name: Jokūbas Jasinskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jokūbas Jasinskis
 sameAs: []
-canonical_biography: "Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius T."
+canonical_biography: 'Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius T.'
+external_sources_json: '[{"title":"Jokūbas Jasinskis","url":"https://lt.wikipedia.org/wiki/Jok%C5%ABbas_Jasinskis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Jokūbas Jasinskis","url":"https://www.vle.lt/straipsnis/jokubas-jasinskis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:54:56+00:00","source_checked_at":"2026-09-20T09:54:56+00:00","counts":{"relations":2,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Jokūbas Jasinskis","url":"https://lt.wikipedia.org/wiki/Jok%C5%ABbas_Jasinskis","publisher":"Vikipedija","language":"lt","article_id":"228541","revision_id":"7589562","published_at":"2025-07-06T15:55:54Z","version_pk":"","content_hash":"168e276e46a20d0940b12111a1a1eab81e614697f6820c17fa4e57f7b0a5cd70","retrieved_at":"2026-09-20T09:53:30+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Jok%C5%ABbas_Jasinskis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"228541"}},"intro":"Jokūbas Jasinskis (lenk. Jakub Jasiński, 1761 m. liepos 24 d. Venglevas, dab. Didžiosios Lenkijos vaivadija – 1794 m. lapkričio 4 d. Varšuva) – Lietuvos inžinierius, poetas, politinis veikėjas, 1794 m. sukilimo Lietuvoje vadas, sukilėlių generolas leitenantas.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1761 m. liepos 24 d.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Venglevas, Poznanės vaivadija, ATR","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1794 m. lapkričio 4 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Varšuva, Mazovijos vaivadija, ATR","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Jokūbas Jasinskis","url":"https://lt.wikipedia.org/wiki/Jok%C5%ABbas_Jasinskis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Jokūbas Jasinskis","url":"https://www.vle.lt/straipsnis/jokubas-jasinskis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Jok%C5%ABbas_Jasinskis","https://www.vle.lt/straipsnis/jokubas-jasinskis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"856d2db27903ca5178d077c0","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvos sukilėlių ginkluotųjų pajėgų vadas ir generolas leitenantas; pirmojoje 1794 m. sukilimo fazėje vadovavo visų Lietuvos sukilėlių veiksmams.","context":"1794 m. sukilimo pirmoji fazė; šaltinis nurodo, kad Jokūbą Jasinskį vadu paskyrė Lietuvos tautinė aukščiausioji taryba.","support_ids":["t-63708","c-42007"],"source_refs":[{"kind":"internal_claim","claim_id":"t-63708","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-42007","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"uniforma Lietuvos pajėgų vadovybė Pirmojoje fazėje visų Lietuvos sukilėlių veiksmams vadovavo Vilniaus karo inži- nerijos mokyklos viršininkas, pulkininkas Jokūbas Jasinskis. Šis karininkas priklausė sukilimo organizatorių radikaliajam spar- nui, sukilimo vyriausybės - Lietuvos tau- tinės aukščiausios tarybos buvo paskirtas Lietuvos sukilėlių ginkluotųjų pajėgų vadu, suteiktas generolo leitenanto laipsnis. Kai kurie konservatyvūs sukilimo politinės vadovybės atstovai buvo nepatenkinti jo radikalumu, respublikoniškomis pažiūro- mis, siekiu plėsti Lietuvos savarankiškumą Lenkijos atžvilgiu."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c29fca9bd7bfcb6e6c56a227","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvoje prasidėjus sukilimui tapo sukilėlių vadu.","context":"1794 m. balandžio 16 d., Šiauliai.","support_ids":["t-63710","c-21731"],"source_refs":[{"kind":"internal_claim","claim_id":"t-63710","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-21731","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau- liuose, sukilėlių vadu tapo Jokūbas Jasinskis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e7cf542805c4fc0888f6fa0d","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Radikalus.","context":"Šaltinis nurodo, kad Jokūbas Jasinskis priklausė sukilimo organizatorių radikaliajam sparnui; konservatyvūs politinės vadovybės atstovai buvo nepatenkinti jo radikalumu.","support_ids":["t-63708","c-42007"],"source_refs":[{"kind":"internal_claim","claim_id":"t-63708","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-42007","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"uniforma Lietuvos pajėgų vadovybė Pirmojoje fazėje visų Lietuvos sukilėlių veiksmams vadovavo Vilniaus karo inži- nerijos mokyklos viršininkas, pulkininkas Jokūbas Jasinskis. Šis karininkas priklausė sukilimo organizatorių radikaliajam spar- nui, sukilimo vyriausybės - Lietuvos tau- tinės aukščiausios tarybos buvo paskirtas Lietuvos sukilėlių ginkluotųjų pajėgų vadu, suteiktas generolo leitenanto laipsnis. Kai kurie konservatyvūs sukilimo politinės vadovybės atstovai buvo nepatenkinti jo radikalumu, respublikoniškomis pažiūro- mis, siekiu plėsti Lietuvos savarankiškumą Lenkijos atžvilgiu."}],"status":"published","conflict_status":"clear"},{"trait_id":"a19b71427c97d39a68d1488a","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Respublikoniškos pažiūros; siekė plėsti Lietuvos savarankiškumą Lenkijos atžvilgiu.","context":"Tai šaltinyje pateikta kaip konservatyvių sukilimo politinės vadovybės atstovų vertinimas ir apibūdinimas 1794 m. sukilimo metu.","support_ids":["t-63708","c-42007"],"source_refs":[{"kind":"internal_claim","claim_id":"t-63708","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-42007","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"uniforma Lietuvos pajėgų vadovybė Pirmojoje fazėje visų Lietuvos sukilėlių veiksmams vadovavo Vilniaus karo inži- nerijos mokyklos viršininkas, pulkininkas Jokūbas Jasinskis. Šis karininkas priklausė sukilimo organizatorių radikaliajam spar- nui, sukilimo vyriausybės - Lietuvos tau- tinės aukščiausios tarybos buvo paskirtas Lietuvos sukilėlių ginkluotųjų pajėgų vadu, suteiktas generolo leitenanto laipsnis. Kai kurie konservatyvūs sukilimo politinės vadovybės atstovai buvo nepatenkinti jo radikalumu, respublikoniškomis pažiūro- mis, siekiu plėsti Lietuvos savarankiškumą Lenkijos atžvilgiu."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"outbound","target":"objektai/vietos/Varšuva","claim_id":"t-20133","confidence":0.82},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Varšuva","claim_id":"t-20133","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a0ab2bccec531ae6
+object_page_generated_at: '2026-09-20T09:54:56+00:00'
+object_page_source_checked_at: '2026-09-20T09:54:56+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '2'
+object_page_seo_description: 'Jokūbas Jasinskis: Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis. Jasinskis ir Gegužės trečiosios…'
+object_page_seo_input_hash: 6d72f96dbc1444436cc9d7858b188ee8d20dc9242429cf9d02ee4ff38c5682aa
+object_page_seo_generated_at: '2026-09-20T09:54:56+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jokūbas Jasinskis
 

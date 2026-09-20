@@ -1,6 +1,6 @@
 ---
 tipas: posakis
-pavadinimas: 'stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje'
+pavadinimas: stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -14,12 +14,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T08:16:28+00:00","source_checked_at":"2026-09-20T08:16:28+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus, kiekvienu momentu pasiryžę ginti tikėjimą kare su netikėliais. Štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","claim_id":"t-223312","evidence_id":"c-201839","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"567a722c586cbfd749aa6073","canonical_code":"phrase.meaning","label":"Reikšmė","group":"Posakio bruožai","value":"Aukščiausias Dievas per minėtuosius Ordino brolius Prūsijos žemėje padarė didžių stebuklų.","context":"Petro Dusburgiečio kronikos pratarmėje šis teiginys pateikiamas kaip autoriaus religinis ir idealizuojantis pirmųjų Ordino brolių veiklos vertinimas; XIV a. kronikos kontekstas.","support_ids":["t-221849","c-201839"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221849","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201839","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus, kiekvienu momentu pasiryžę ginti tikėjimą kare su netikėliais. Štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“."}],"status":"published","conflict_status":"clear"},{"trait_id":"50fcd2c177a190596ffb7e6f","canonical_code":"phrase.origin","label":"Kilmė","group":"Posakio bruožai","value":"Posakis cituojamas Petro Dusburgiečio „Prūsijos žemės kronikos“ pratarmėje.","context":"Kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius ir jų veiklą Prūsijoje; lietuviškas leidimas išleistas 1985 m.","support_ids":["t-222852","c-202319"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222852","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202319","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“. Toliau Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo, kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“. Taigi autorius siekia išaukštinti jau užmirštus Ordine pirminius idealus."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 7bc8e743657f5816
+object_page_generated_at: '2026-09-20T08:16:28+00:00'
+object_page_source_checked_at: '2026-09-20T08:16:28+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje: Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščiausias…'
+object_page_seo_input_hash: 78bf31c42776cec0c321cb39c7cff1a49d961ad0ab80a5e4bb10e637dfd9c814
+object_page_seo_generated_at: '2026-09-20T08:16:28+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje
 

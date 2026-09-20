@@ -1,10 +1,10 @@
 ---
 tipas: saltinis
-pavadinimas: 'Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)'
+pavadinimas: Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1536 m.'
+  - 1536 m.
 date_start: '1536'
 date_end: ''
 sukurta: ''
@@ -12,19 +12,29 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:22:26+00:00","source_checked_at":"2026-09-19T22:22:26+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"456570d74755ebc2cb8230a4","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"Žygimantas Senasis","context":"Šaltinio pavadinime privilegija įvardyta kaip Žygimanto Senojo privilegija dėl Vilijos tilto muito; 1536 m.","support_ids":["t-88105","c-84085"],"source_refs":[{"kind":"internal_claim","claim_id":"t-88105","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-84085","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­ niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­ kai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­ lai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­ vadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios Kunigaikštystės iždininkui Ivanui Homostajui ir daugeliui kitų liudininkų. Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA DĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU PER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA…"}],"status":"published","conflict_status":"clear"},{"trait_id":"2a0ba94adea799c593c5735e","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"1536 m. rugpjūčio 6 d.","context":"Šaltinio pavadinime nurodyta data – 1536 m. rugpjūčio 6 d.","support_ids":["t-88105","c-84085"],"source_refs":[{"kind":"internal_claim","claim_id":"t-88105","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-84085","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­ niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­ kai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­ lai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­ vadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios Kunigaikštystės iždininkui Ivanui Homostajui ir daugeliui kitų liudininkų. Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA DĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU PER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA…"}],"status":"published","conflict_status":"clear"},{"trait_id":"f62a22ad058e5ddf766410c7","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Privilegija","context":"Šaltinio pavadinime dokumentas įvardytas kaip privilegija dėl teisės rinkti muitą iš praeivių tiltu per Vilijos upę.","support_ids":["t-88105","c-84085"],"source_refs":[{"kind":"internal_claim","claim_id":"t-88105","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-84085","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­ niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­ kai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­ lai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­ vadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios Kunigaikštystės iždininkui Ivanui Homostajui ir daugeliui kitų liudininkų. Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA DĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU PER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3bba850d0be3fc5c
+object_page_generated_at: '2026-09-19T22:22:26+00:00'
+object_page_source_checked_at: '2026-09-19T22:22:26+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Karalius ŽYGIMANTAS ##…'
+object_page_seo_input_hash: a78d364c04ca5687b700dda311b3ef03c64389dd70fd5b2c0fa9d872efe1bfe6
+object_page_seo_generated_at: '2026-09-19T22:22:26+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)
 

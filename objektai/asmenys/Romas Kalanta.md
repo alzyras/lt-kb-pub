@@ -1,10 +1,10 @@
 ---
 tipas: asmuo
-pavadinimas: 'Romas Kalanta'
+pavadinimas: Romas Kalanta
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1972 m.'
+  - 1972 m.
 date_start: '1972'
 date_end: ''
 sukurta: ''
@@ -13,28 +13,40 @@ tags:
   - asmuo
   - sukilėlis
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes:
-  - 'XX a.'
+  - XX a.
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-13164dd85520c4dc67b98fc4"
-canonical_name: "Romas Kalanta"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Romas Kalanta"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-13164dd85520c4dc67b98fc4
+canonical_name: Romas Kalanta
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Romas Kalanta
 sameAs: []
-canonical_biography: "1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė. Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką. Kalantos susideginimo priežastis – sunki psichikos liga šizofrenija."
+canonical_biography: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė. Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką. Kalantos susideginimo priežastis – sunki psichikos liga šizofrenija.'
+external_sources_json: '[{"title":"Romas Kalanta","url":"https://lt.wikipedia.org/wiki/Romas_Kalanta","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Romas Kalanta","url":"https://www.vle.lt/straipsnis/romas-kalanta/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T01:38:36+00:00","source_checked_at":"2026-09-20T01:38:36+00:00","counts":{"relations":1,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Romas Kalanta","url":"https://lt.wikipedia.org/wiki/Romas_Kalanta","publisher":"Vikipedija","language":"lt","article_id":"19836","revision_id":"7891711","published_at":"2026-07-31T20:27:37Z","version_pk":"","content_hash":"ecc28be989702e467be5f40ea79ace3f2201f72f2f26a5bb6f6e47cfafd49abb","retrieved_at":"2026-09-20T01:37:25+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Romas_Kalanta&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"19836"}},"intro":"Romas Kalanta (1953 m. vasario 22 d. Alytuje – 1972 m. gegužės 14 d. Kaune) – lietuvių disidentas, pagarsėjęs savo susideginimu protestuojant prieš TSRS valdžią Lietuvoje. Palaidotas Romainių kapinėse.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1953 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Alytus","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1972 m.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Kaunas","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Romainių kapinėse","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Romas Kalanta","url":"https://lt.wikipedia.org/wiki/Romas_Kalanta","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Romas Kalanta","url":"https://www.vle.lt/straipsnis/romas-kalanta/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Romas_Kalanta","https://www.vle.lt/straipsnis/romas-kalanta/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"56af2708fa277a835fe87a07","canonical_code":"person.appearance","label":"Išvaizda","group":"Asmens bruožai","value":"Atrodė kaip hipis.","context":"1972 m.; taip R. Kalantą apibūdina Lietuvos istorijos autoriai.","support_ids":["t-183564","c-166957"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183564","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166957","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"1972 m. gegužės 14 d. devyniolikme- tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy- lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė. R. Kalanta ligoninėje mirė."}],"status":"published","conflict_status":"clear"},{"trait_id":"d13357d3c7be0d92114233eb","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Buvo apsiskaitęs, rašė eilėraščius ir grojo gitara.","context":"1972 m.; taip R. Kalantą apibūdina Lietuvos istorijos autoriai.","support_ids":["t-183564","c-166957"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183564","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166957","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"1972 m. gegužės 14 d. devyniolikme- tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy- lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė. R. Kalanta ligoninėje mirė."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Kaunas","claim_id":"t-183564","confidence":0.62}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1a6b8d74279d757a
+object_page_generated_at: '2026-09-20T01:38:36+00:00'
+object_page_source_checked_at: '2026-09-20T01:38:36+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Romas Kalanta: 1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno…'
+object_page_seo_input_hash: 2f93b4c396d8dec5b74a5082c60083dfaa5c2f8661a8e4dae3a804b65c8fce36
+object_page_seo_generated_at: '2026-09-20T01:38:36+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Romas Kalanta
 

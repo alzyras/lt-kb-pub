@@ -1,13 +1,13 @@
 ---
 tipas: grupe
-pavadinimas: 'Targovicos konfederacija'
+pavadinimas: Targovicos konfederacija
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1773 m.'
-  - '1792 m.'
-  - '2026 m.'
+  - 1773 m.
+  - 1792 m.
+  - 2026 m.
 date_start: '1773'
 date_end: '2026'
 sukurta: ''
@@ -16,20 +16,30 @@ tags:
   - grupe
   - institucija
 amziai:
-  - 'XVIII'
-  - 'XXI'
+  - XVIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Targovicos konfederacija","url":"https://lt.wikipedia.org/wiki/Targovicos_konfederacija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:54:07+00:00","source_checked_at":"2026-09-20T03:54:07+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Targovicos konfederacija","url":"https://lt.wikipedia.org/wiki/Targovicos_konfederacija","publisher":"Vikipedija","language":"lt","article_id":"263793","revision_id":"7856587","published_at":"2026-06-15T08:57:05Z","version_pk":"","content_hash":"0a0d721003774517be9e6af29633d7a6f943d3bad141eeebe0abdd4a14fa275e","retrieved_at":"2026-09-20T03:52:52+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Targovicos_konfederacija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"263793"}},"intro":"Targovicos konfederacija (lenk. Konfederacja targowicka) − Abiejų Tautų Respublikų magnatų sąjunga (konfederacija), nukreipta prieš Ketverių metų seimo (1788–1792) reformas ir Gegužės trečiosios konstituciją. Paskelbta 1792 m. balandžio 27 d. Sankt Peterburge, remiant Rusijos imperatorei Jekaterinai II. Konfederacijos paskelbimo akto tekstą paruošė Rusijos generolas Vasilijus Stepanovičius Popovas. Konfederacijos tikslai 1792 m. gegužės 14 d. buvo paskelbti Targovicoje, nedideliame miestelyje ir Potockių dvare (dab. Novoarchangelskas Kirovohrado srityje, Ukrainoje). Po keturių dienų į Abiejų Tautų Respubliką formaliai nepaskelbus karo įsiveržė dvi Rusijos armijos. Targovicos konfederacijos pajėgos Respublikos–Rusijos 1792 m. kare nugalėjo Abiejų Tautų Respublikai lojalią kariuomenę, Seimą ir karalių Stanislovą Augustą Poniatovskį. Karalius buvo priverstas formaliai prisijungti prie konfederacijos. Konfederacijos pergalė nulėmė Antrąjį Abiejų Tautų Respublikos padalijimą ir parengė šalį Trečiajam padalijimui bei valstybės sunaikinimui. Šis rezultatas daugeliui konfederatų buvo netikėtas, nes jie tikėjosi tik atkurti status quo ante, panaikindami Gegužės trečiosios konstituciją.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Targovicos konfederacija","url":"https://lt.wikipedia.org/wiki/Targovicos_konfederacija","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Targovicos_konfederacija"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"6e6fee56db85bbb39c6f2395","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Targovicos konfederacijai pritarusiai Vilniaus konfederacijai vadovavo Lietuvos didysis etmonas Simonas Kosakovskis, Livonijos vyskupas Juozapas Kosakovskis ir Vilniaus vyskupas I. Masalskis.","context":"1792 m. birželio 25 d.; istorijos vadovėlio autorių aprašymas.","support_ids":["t-182712","c-166128"],"source_refs":[{"kind":"internal_claim","claim_id":"t-182712","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166128","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t. y. Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir savo centru paskelbė Gardiną."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0057a22d9281583a9938fca7","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.","context":"1792 m. rugsėjo 11 d.; istorijos vadovėlio autorių aprašymas.","support_ids":["t-182713","c-166128"],"source_refs":[{"kind":"internal_claim","claim_id":"t-182713","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166128","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t. y. Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir savo centru paskelbė Gardiną."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e125ae963719cbd235570749","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Rusija suorganizavo reformų priešų konfederaciją ir davė jai savo kariuomenę.","context":"Aprašoma kaip A. Šapokos redaguotos Lietuvos istorijos vertinimas; įvykiai siejami su reformuojamojo Seimo laikotarpiu, 1936 m. šaltinio pasakojime.","support_ids":["t-182926","c-166328"],"source_refs":[{"kind":"internal_claim","claim_id":"t-182926","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-166328","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Bet reformuoja- masis seimas dar nespėjo baigti savo darbo, kai Rusija suor- ganizavo reformų priešų konfederaciją ir, davusi jai savo ka- riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa- skelbimo vietos yra vadinama Targovicos konfederacija. ##### 4."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9f9050750e1b0b5fd946d5ff","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"1791 m. rugpjūčio 18 d. Targovicos konfederacijos pertvarkymai palietė centrinę iždo administraciją.","context":"1791 m. rugpjūčio 18 d.; šaltinio „03-ldk-tarp-tradiciju-ir-naujoviu“ aprašymas.","support_ids":["t-208190","c-190638"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208190","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md"},{"kind":"evidence","evidence_id":"c-190638","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md","quote":"1791 m. rugpjūčio 18 d. Targovicos konfederacijos per­ tvarkymai palietė ir centrinę iždo administraciją:"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"83ed18c11344389ae4e11c24","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Su kitais Targovicos konfederacijos šalininkais buvo aiškinamasi ilgiau, nes trūko dokumentų, galinčių patvirtinti jų kaltę.","context":"Po Targovicos konfederacijos veiklos; šaltinio autoriaus pasakojimas apie kaltės įrodymų rinkimą.","support_ids":["t-208185","c-190700"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208185","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md"},{"kind":"evidence","evidence_id":"c-190700","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md","quote":"Su kitais Targovicos konfederacijos šalininkais buvo aiškinamasi kur kas ilgiau, nes per trumpą laiką surinkti kaltės įrodymus nebuvo taip paprasta, kadangi trūko dokumentų, kuriais būtų galima patvirtinti targovlcinlnkų kaltę."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1791 m.","label":"Targovicos konfederacijos pertvarkymai 1791 m.","claimId":"t-208190"},{"date":"1792 m.","label":"Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m.","claimId":"t-182712"},{"date":"1792 m.","label":"1792 m.","claimId":"t-182713"}],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 46b98e4f42ccba9e
+object_page_generated_at: '2026-09-20T03:54:07+00:00'
+object_page_source_checked_at: '2026-09-20T03:54:07+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Targovicos konfederacija: Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfederacija. Targovicos konfederacija, kuri ėjo prieš…'
+object_page_seo_input_hash: 113f2e757b59d93d052f27b08cb5a1e35281326ac4b22f620bdabee10c2e055e
+object_page_seo_generated_at: '2026-09-20T03:54:07+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Targovicos konfederacija
 

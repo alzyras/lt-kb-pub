@@ -1,10 +1,10 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jadvyga (Jogailos duktė)'
+pavadinimas: Jadvyga (Jogailos duktė)
 saltiniai:
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1417 m.'
+  - 1417 m.
 date_start: '1417'
 date_end: ''
 sukurta: ''
@@ -13,28 +13,40 @@ tags:
   - asmuo
   - vyskupas
 amziai:
-  - 'XV'
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-500d2e38e7be91abc2f781d5"
-canonical_name: "Jadvyga (Jogailos duktė)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jadvyga (Jogailos duktė)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-500d2e38e7be91abc2f781d5
+canonical_name: Jadvyga (Jogailos duktė)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jadvyga (Jogailos duktė)
 sameAs: []
-canonical_biography: "Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties. Dėl pastarosios unijos buvo susitarta dideliame lietuvių ir lenkų suvažiavime Horodlėje, kur taip pat atvyko Vytautas, Jo­ gaila su žmona ir karalaite Jadvyga, Jogailos dukterim. Kadangi nei Vytautas, nei Jogaila neturėjo įpėdinių, todėl manoma, kad. Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta Lenkijos karalaitė Jogailos duktė Jadvyga ir jai padaryta išti­ kimybės priesaika: matyt, nenorėta tos teisės išplėsti ant tų Jogailos vaikų, kurie būtų kilę ne iš Piastų dinastijos."
+canonical_biography: 'Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties. Dėl pastarosios unijos buvo susitarta dideliame lietuvių ir lenkų suvažiavime Horodlėje, kur taip pat atvyko Vytautas, Jo­ gaila su žmona ir karalaite Jadvyga, Jogailos dukterim. Kadangi nei Vytautas, nei Jogaila neturėjo įpėdinių, todėl manoma, kad. Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta Lenkijos karalaitė Jogailos duktė Jadvyga ir jai padaryta išti­ kimybės priesaika: matyt, nenorėta tos teisės išplėsti ant tų Jogailos vaikų, kurie būtų kilę ne iš Piastų dinastijos.'
+external_sources_json: '[{"title":"Jadvyga","url":"https://www.vle.lt/straipsnis/jadvyga/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:01:42+00:00","source_checked_at":"2026-09-20T14:01:42+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Jadvyga","url":"https://www.vle.lt/straipsnis/jadvyga/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/jadvyga/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c72b5c1313dce1dc06211a27","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lenkijos sosto įpėdinė ir karalaitė","context":"Horodlės suvažiavimo metu; jai buvo duota ištikimybės priesaika, o Vytautas paskirtas jos globėju.","support_ids":["t-51025","c-36328","t-51027","c-52678"],"source_refs":[{"kind":"internal_claim","claim_id":"t-51025","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"internal_claim","claim_id":"t-51027","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36328","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Dėl pastarosios unijos buvo susitarta dideliame lietuvių ir lenkų suvažiavime Horodlėje, kur taip pat atvyko Vytautas, Jo­ gaila su žmona ir karalaite Jadvyga, Jogailos dukterim. Kadangi nei Vytautas, nei Jogaila neturėjo įpėdinių, todėl manoma, kad pirmiausia buvo aptartas lenkų susirinkime įpėdinystės klausi­ mas, kame ir Vytautas dalyvavęs. Čia buvo nutarta karalaitę Jadvygą, kuriai jau ir pirmiau Jedlne lenkų šlėkta buvo pada­ riusi ištikimybės priesaiką, pripažinti Lenkijos sosto įpėdine, o Vytautą jos globėju."},{"kind":"evidence","evidence_id":"c-52678","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Jadvygai mirus lenkai, nenorėdami, kad unija būtų nu­ traukta, Jogailai pažadėjo, jog Lenkijos sostą turės teisę užimti jo vaikai, neatsižvelgiant iš kurios jie būtų žmonos. Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta Lenkijos karalaitė Jogailos duktė Jadvyga ir jai padaryta išti­ kimybės priesaika: matyt, nenorėta tos teisės išplėsti ant tų Jogailos vaikų, kurie būtų kilę ne iš Piastų dinastijos. 1417 m."}],"status":"published","conflict_status":"clear"},{"trait_id":"1075441624b459b9bb8c213c","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Jos vardu buvo įteiktas protestas prieš Žemaičių krašto atidavimą Ordinui","context":"Po jos tėvų mirties; protestą kartu su Žemaičių bajorais įteikė teisėtų įpėdinių vardu.","support_ids":["t-51026","c-52677"],"source_refs":[{"kind":"internal_claim","claim_id":"t-51026","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-52677","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Ordino pasiuntinys, žinoma, jo nepriėmė. Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties. Prie šio teisėtų įpėdinių veto pridėjo savo žodį ir Žemaičių bajorai, pasisaky­ dami neužleisią niekam savo krašto."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_dukte","direction":"outbound","target":"objektai/asmenys/Jogaila","claim_id":"t-51025","confidence":0.97}],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 57f325ccac026fe3
+object_page_generated_at: '2026-09-20T14:01:42+00:00'
+object_page_source_checked_at: '2026-09-20T14:01:42+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Jadvyga (Jogailos duktė): Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos…'
+object_page_seo_input_hash: 5418eabe9b999a2f074b461f51075f17def4b6f319adc2ebb9ea830084785a49
+object_page_seo_generated_at: '2026-09-20T14:01:42+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jadvyga (Jogailos duktė)
 

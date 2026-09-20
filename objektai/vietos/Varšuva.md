@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Varšuva'
+pavadinimas: Varšuva
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
@@ -10,16 +10,16 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1377 m.'
-  - '1570 m.'
-  - '1571 m.'
-  - '1572 m.'
-  - '1573 m.'
-  - '1766 m.'
-  - '1772 m.'
-  - '1773 m.'
-  - '1775 m.'
-  - '1899 m.'
+  - 1377 m.
+  - 1570 m.
+  - 1571 m.
+  - 1572 m.
+  - 1573 m.
+  - 1766 m.
+  - 1772 m.
+  - 1773 m.
+  - 1775 m.
+  - 1899 m.
 date_start: '1377'
 date_end: '1899'
 sukurta: ''
@@ -30,29 +30,41 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XIV'
-  - 'XIX'
+  - XIV
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-030ad4e2c2a4a2a0491e812b"
-canonical_name: "Varšuva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Varšuva"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-030ad4e2c2a4a2a0491e812b
+canonical_name: Varšuva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Varšuva
 sameAs: []
-canonical_biography: "Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki 1564 m. vasario 22 d. (lietuviams išvažiavus, lenkų seimas dar posėdžiavo iki kovo 23 d.). Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių bajorams. Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą."
+canonical_biography: 'Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki 1564 m. vasario 22 d. (lietuviams išvažiavus, lenkų seimas dar posėdžiavo iki kovo 23 d.). Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių bajorams. Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Varšuva","url":"https://lt.wikipedia.org/wiki/Var%C5%A1uva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Varšuva","url":"https://www.vle.lt/straipsnis/varsuva/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T00:29:19+00:00","source_checked_at":"2026-09-19T00:29:19+00:00","counts":{"relations":10,"gallery":0,"sources":13},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kartų perskai­ tę ir išklausę, jį, kaip mūsų nuoširdžia ir gera valia bei palie­ pimu parašytą, mūsų signetu, kuriuo paprastai antspauduo­ davome slaptus raštus, užantspaudavome ir, kad būtų tikriau ir patikimiau, savo ranka pasirašėme, būdami geros atmin­ ties ir sveiko proto. Norėdami, kad šis mūsų valios pareiški­ mas greičiau pasiektų žmones, įsakėme tai perrašyti, kad ta­ da vienas būtų prie mūsų, kitas - pas jos didenybę karalaitę Oną, trečias - Tikocino pilyje. Rašyta Varšuvoje gegužės mė­ nesio 6 dieną, Viešpaties metais tūkstantis penki šimtai sep­ tyniasdešimt pirmais, mūsų karaliavimo keturiasdešimt ant­…","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-170913","evidence_id":"c-155505","origin":"internal"},"wiki":{"status":"published","source":{"title":"Varšuva","url":"https://lt.wikipedia.org/wiki/Var%C5%A1uva","publisher":"Vikipedija","language":"lt","article_id":"5941","revision_id":"7809706","published_at":"2026-04-17T04:15:14Z","version_pk":"","content_hash":"6a579acece083088cfdd09ee079cb507815d63be0378653c37e38c89ca96608e","retrieved_at":"2026-09-19T00:24:31+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Var%C5%A1uva&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"5941"}},"intro":"Varšuva (lenk. Warszawa) – Lenkijos sostinė ir didžiausias miestas, miestas-apskritis. 1,86 mln. gyventojų (2023), su priemiesčiais 3,27 mln. Miestas įsikūręs centrinėje Lenkijoje, Mazovijoje, prie Vyslos upės. Mokslo, kultūros, politinis ir ūkinis centras. Varšuvoje yra Lenkijos parlamento, prezidento ir centrinės valdžios įstaigų buveinės. Varšuva taip pat yra Mazovijos vaivadijos sostinė. Didelis geležinkelio mazgas, miestą aptarnauja 3 pagrindinės stotys: Varšuvos centrinė geležinkelio stotis, Varšuvos rytinė geležinkelio stotis, Varšuvos vakarinė geležinkelio stotis. Mieste yra Lenkijos mokslų akademija, universitetas, medicinos akademija ir kitos aukštosios mokyklos. Daug teatrų, muziejų (paminėtini Nacionalinis, Archeologijos, rūmai-muziejai Lazenkuose, Vilianove, Neborove). Didelis senamiestis, išlikę karališkieji rūmai (XVI–XVII a.), daug bažnyčių. Nacionalinis muziejus su garsiais paveikslas: Jano Mateikos Batoras prie Pskovo, Sobieskis prie Vienos, Vitoldo Pivnickio Mūšis prie Cesoro, Juzefo Brandto Chocimo mūšis, Stanislovo Chlebkovskio Sobieskis prie Vienos.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Varšuva","url":"https://lt.wikipedia.org/wiki/Var%C5%A1uva","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Varšuva","url":"https://www.vle.lt/straipsnis/varsuva/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Var%C5%A1uva","https://www.vle.lt/straipsnis/varsuva/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"22c0498aefd6765db9093109","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Liublino seimas Varšuvą paskyrė seimų vieta.","context":"Istorinis sprendimas po Liublino seimo; lietuviai reikalavo seimus šaukti Lietuvoje arba pasienyje.","support_ids":["t-193242","c-175978"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193242","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-175978","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"**Seimų vieta.** Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą. Tačiau lietuviai visą laiką reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa- sienyje."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c619bf58fce69e6f19437227","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Asesorių teismas beveik visada posėdžiavo Varšuvoje.","context":"Aprašoma Abiejų Tautų Respublikos laikotarpio teismų veikla.","support_ids":["t-201669","c-185016"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201669","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-185016","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Be to, kai kurie Kauno miestui skirti raštai buvo paskel- biami Gdanske, Liubline, Lvove, Marienburge, Petrikave, Ščitne. Asesorių teismas beveik visada posėdžiavo Varšuvoje. Visi šie miestai nurodo maršrutus kelionių, į kurias Kauno miestiečiai leisdavosi tvarkyti miesto ar asmeninių reikalų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6ea87a9e933f1ae85934d94c","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Per Varšuvą ėjo geležinkelis Peterburgas–Varšuva.","context":"XIX a. septintąjį–aštuntąjį dešimtmetį geležinkelis kirto Lietuvą; vėliau buvo nutiesta atšaka per Kauną į Karaliaučių.","support_ids":["t-170890","c-155510"],"source_refs":[{"kind":"internal_claim","claim_id":"t-170890","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-155510","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"viduryje pradėjusios veikti pirmosios telegrafo linijos, Nemune pradėta garlaivių navigacija. Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu- tiesiamos pirmosios telefono linijos, XX a."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9ff87c5ddc9dd0b6f96cabd5","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Varšuvos pilyje vyko pirmasis Įstatymų sargybos posėdis.","context":"1791 m. birželio 19 d.","support_ids":["t-208095","c-190707"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208095","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md"},{"kind":"evidence","evidence_id":"c-190707","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md","quote":"Pirmas Įstatymų sargybos posėdis įvyko Varšuvos pilyje 1791 m. birželio 19 d."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Varšuva – istorinis vietos objektas, šaltiniuose atsiskleidžiantis kaip politinių sprendimų, konfliktų ir lietuviškos kultūrinės veiklos erdvė. 1571 m. gegužės 6 d. čia buvo sudarytas ir aktuotas karaliaus Žygimanto Augusto testamentas, tapęs konkrečiu Lietuvos ir Lenkijos politinės istorijos dokumentu. 1573 m. Varšuvos konfederacijoje Lenkijoje buvo juridiškai įformintas daugiakonfesiškumas, o 1830 m. prasidėjus sukilimui ši vieta tapo įvykių, paskatinusių sukilimo centro kūrimąsi Vilniuje, atspirties tašku. Varšuva taip pat buvo susijusi su skaudžiais XVIII–XX a. politiniais lūžiais: 1794 m. čia įvykdyta Targovicos konfederatų egzekucija, o 1938 m. Lietuvai įteiktas ultimatumas. XIX a. pabaigoje Varšuvos lietuvių studentų draugija „Lietuva“ įsteigė žurnalą „Varpas“, plėtojusį „Aušros“ idėjas.","sentences":[{"sentence_id":"s1","text":"Varšuva – istorinis vietos objektas, šaltiniuose atsiskleidžiantis kaip politinių sprendimų, konfliktų ir lietuviškos kultūrinės veiklos erdvė.","support_ids":["t-170883","t-170888","t-170894"]},{"sentence_id":"s2","text":"1571 m. gegužės 6 d. čia buvo sudarytas ir aktuotas karaliaus Žygimanto Augusto testamentas, tapęs konkrečiu Lietuvos ir Lenkijos politinės istorijos dokumentu.","support_ids":["t-170885","t-170912","t-170913"]},{"sentence_id":"s3","text":"1573 m. Varšuvos konfederacijoje Lenkijoje buvo juridiškai įformintas daugiakonfesiškumas, o 1830 m. prasidėjus sukilimui ši vieta tapo įvykių, paskatinusių sukilimo centro kūrimąsi Vilniuje, atspirties tašku.","support_ids":["t-170883","t-170879"]},{"sentence_id":"s4","text":"Varšuva taip pat buvo susijusi su skaudžiais XVIII–XX a. politiniais lūžiais: čia įvykdyta Targovicos konfederatų egzekucija, o 1938 m. Lietuvai įteiktas ultimatumas.","support_ids":["t-170888","t-170892"]},{"sentence_id":"s5","text":"XIX a. pabaigoje Varšuvos lietuvių studentų draugija „Lietuva“ įsteigė žurnalą „Varpas“, plėtojusį „Aušros“ idėjas.","support_ids":["t-170894"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Bendra išvada tiesiogiai paremta nurodytais politinių, konfliktinių ir lietuviškos kultūrinės veiklos faktais."},{"sentence_id":"s2","supported":false,"reason":"Šaltiniai pagrindžia testamento sudarymą ir aktavimą Varšuvoje, tačiau nepakankamai tiesiogiai pagrindžia teiginį, kad jis tapo Lietuvos ir Lenkijos politinės istorijos dokumentu."},{"sentence_id":"s3","supported":true,"reason":"Abu teiginio dėmenys tiesiogiai paremti nurodytais šaltiniais."},{"sentence_id":"s4","supported":false,"reason":"Šaltinis apie Targovicos konfederatų egzekuciją nenurodo 1794 metų, todėl konkreti data nėra tiesiogiai paremta support_ids."},{"sentence_id":"s5","supported":true,"reason":"Teiginys tiesiogiai atitinka šaltinį apie draugiją „Lietuva“, žurnalą „Varpas“ ir „Aušros“ idėjų plėtojimą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-170883","t-170888","t-170894"]},{"sentence_id":"s2","supported":false,"support_ids":["t-170885","t-170912","t-170913"]},{"sentence_id":"s3","supported":false,"support_ids":["t-170883","t-170879"]},{"sentence_id":"s4","supported":false,"support_ids":["t-170888","t-170892"]},{"sentence_id":"s5","supported":false,"support_ids":["t-170894"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Jokūbas Jasinskis","claim_id":"t-20133","confidence":0.82},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/T. Korsakas","claim_id":"t-20133","confidence":0.82},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Laikinoji Nacionalinė Vyriausybė","claim_id":"t-40979","confidence":0.74},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-176985","confidence":0.9},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Ignotas Masalskis","claim_id":"t-75849","confidence":0.94},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Jokūbas Jasinskis","claim_id":"t-20133","confidence":0.86},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Juozapas Kosakovskis","claim_id":"t-19012","confidence":0.82},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/T. Korsakas","claim_id":"t-20133","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Praga","claim_id":"t-183077","confidence":0.9},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Motiejus Kaviečnijskis","claim_id":"t-170895","confidence":0.92}],"timeline":[{"date":"1570 m.","label":"1570 m.","claimId":"t-170909"},{"date":"1571 m.","label":"Žygimanto Augusto valios pareiškimas buvo rašytas Varšuvoje 1571 m.","claimId":"t-170884"},{"date":"1571 m.","label":"Karaliaus Žygimanto Augusto testamentas buvo sudarytas 1571 m.","claimId":"t-170885"},{"date":"1571 m.","label":"Žygimanto Augusto testamentas buvo aktuotas Varšuvoje 1571 m.","claimId":"t-170912"},{"date":"1571 m.","label":"Testamentas buvo surašytas Varšuvoje 1571 m.","claimId":"t-170913"},{"date":"1572 m.","label":"1572 m.","claimId":"t-170881"},{"date":"1572 m.","label":"1572 m.","claimId":"t-170905"},{"date":"1573 m.","label":"Lenkijoje daugiakonfesiškumo juridinis įforminimas įvyko 1573 m.","claimId":"t-170883"}],"support_disclosure":{"claims":41,"sources":11}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c2ad537e524647c3
+object_page_generated_at: '2026-09-19T00:29:19+00:00'
+object_page_source_checked_at: '2026-09-19T00:29:19+00:00'
+object_page_content_state: content
+object_page_claim_count: '41'
+object_page_source_count: '11'
+object_page_seo_description: 'Varšuva – istorinis vietos objektas, šaltiniuose atsiskleidžiantis kaip politinių sprendimų, konfliktų ir lietuviškos kultūrinės veiklos erdvė. 1571 m.…'
+object_page_seo_input_hash: d9cabb4b1f40e8785f2c02cb6561b2e41427d2fd80041339748b0da6d5fdc794
+object_page_seo_generated_at: '2026-09-19T00:29:19+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Varšuva
 

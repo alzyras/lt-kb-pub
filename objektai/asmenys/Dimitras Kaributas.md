@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Dimitras Kaributas'
+pavadinimas: Dimitras Kaributas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1395 m.'
-  - '1404 m.'
+  - 1395 m.
+  - 1404 m.
 date_start: '1395'
 date_end: '1404'
 sukurta: ''
@@ -15,29 +15,41 @@ tags:
   - asmuo
   - kunigaikštis
 amziai:
-  - 'XIV'
-  - 'XV'
+  - XIV
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-5a8e5856312eccd25d387625"
-canonical_name: "Dimitras Kaributas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Dimitras Kaributas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-5a8e5856312eccd25d387625
+canonical_name: Dimitras Kaributas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Dimitras Kaributas
 sameAs: []
-canonical_biography: "Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti Briansko ir Severijos (Naugardo Seversko ir Černigovo) kunigaikštijas, nes ten buvo ką tik miręs (1404) Kaributas (Dimitras) Algirdaitis."
+canonical_biography: 'Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti Briansko ir Severijos (Naugardo Seversko ir Černigovo) kunigaikštijas, nes ten buvo ką tik miręs (1404) Kaributas (Dimitras) Algirdaitis.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:31:02+00:00","source_checked_at":"2026-09-20T04:31:02+00:00","counts":{"relations":4,"gallery":0,"sources":2},"featured_claim_ids":["t-196441","t-50969","t-184691","t-184692","t-50970"],"featured_claims":[{"claim_id":"t-196441","text":"Užėmus miestą, Dimitro Kaributo lobiai ir į pilį bei bažnyčias sugabenti turtai pateko į Vytauto iždą.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-178690"]},{"claim_id":"t-50969","text":"Vytautas, pritariamas Jogailos, pirmiausia atėmė Sievero žemę iš Dimitro Kaributo.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-36273"]},{"claim_id":"t-184691","text":"Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-168052"]},{"claim_id":"t-184692","text":"Dimitras Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą.","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","evidence_ids":["c-168053"]},{"claim_id":"t-50970","text":"Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","evidence_ids":["c-36273"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"bc543c26166dc28246fe2c96","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Valdė Sievero žemę.","context":"Šaltinyje aprašoma, kad Vytautas ją iš Dimitro Kaributo atėmė.","support_ids":["t-50970","c-36273"],"source_refs":[{"kind":"internal_claim","claim_id":"t-50970","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36273","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­ jime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­ naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­ stovos, jų valdžią silpnino."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"542f31ad81170ec0fd8c0274","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Buvo pasiųstas į Severską.","context":"Po Rusios sutramdymo jis buvo paskirtas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.","support_ids":["t-184691","c-168052"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184691","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168052","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Po šios per­ to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir nusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka­ riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­ gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į Severską — Dimitras Kaributas. Jogaila, atsikratęs šio karo rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­ siuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi Su m u ša S via to sla vą , S m o le n sk o k u n ig a ik ­ štį ti į puolantį priešą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"dbeeb23611c5ad8e0e3a3d10","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Kojelavičiaus apibūdinamas kaip labiau už kitus nesitaikstantis su kito valdžia.","context":"1395 m. pasakojime apie valdovų atsisakymą mokėti Vytauto pasiuntinių reikalautus pinigus; tai šaltinio autoriaus vertinimas.","support_ids":["t-184692","c-168053"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184692","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168053","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Vytautas nutarė pirmiausia ištirti jų nuotaikas, todėl pasiuntė žygūnus, turėjusius pareikalauti iš jų valdomų žemių pinigų, kitados pa­ prastai kasmet mokamų į Lietuvos didžiojo kunigaikš­ čio iždą. Gal jie šitaip elgėsi iš anksto tarp savęs susita­ rę, gal kiekvienas viską darė savo galva, tačiau visi išdidžiai atšovė pasiuntiniams, jog nemokėsią, o ypač 339 ## Puslapis 338 Dimitras, labiau už kitus nesitaikstantis su kito valdžia. Jis atrėžė, jog jo tėvas Algirdas buvęs Lietuvos didy­ sis kunigaikštis, jog pats esąs karaliaus Jogailos brolis, o Vytautui — nieko neskolingas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"58b5860b4e8f4bb2091171a6","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Šaltinyje vaizduojamas išdidžiai atšovęs Vytauto pasiuntiniams, kad nemokės ir Vytautui nieko neskolingas.","context":"1395 m. pasakojime apie reikalautus pinigus; formuluotė perteikia šaltinio autoriaus aprašytą elgesį.","support_ids":["t-184692","c-168053"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184692","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168053","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Vytautas nutarė pirmiausia ištirti jų nuotaikas, todėl pasiuntė žygūnus, turėjusius pareikalauti iš jų valdomų žemių pinigų, kitados pa­ prastai kasmet mokamų į Lietuvos didžiojo kunigaikš­ čio iždą. Gal jie šitaip elgėsi iš anksto tarp savęs susita­ rę, gal kiekvienas viską darė savo galva, tačiau visi išdidžiai atšovė pasiuntiniams, jog nemokėsią, o ypač 339 ## Puslapis 338 Dimitras, labiau už kitus nesitaikstantis su kito valdžia. Jis atrėžė, jog jo tėvas Algirdas buvęs Lietuvos didy­ sis kunigaikštis, jog pats esąs karaliaus Jogailos brolis, o Vytautui — nieko neskolingas."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Dimitras Kaributas buvo kunigaikštis, valdęs Seversko žemę ir susijęs su Lietuvos Didžiosios Kunigaikštystės valdžios įtvirtinimu regione. Po Rusios sutramdymo jis buvo pasiųstas į Severską, kad iš šios pusės nekiltų naujų sąmyšių. Vėliau Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą, pabrėždamas savo ryšį su Algirdu ir Jogaila bei teigdamas, kad Vytautui nieko nesąs skolingas. Vytautas, pritariamas Jogailos, iš jo atėmė Sievero žemę. Užėmus miestą, Kaributo lobiai ir pilyje bei bažnyčiose sukaupti turtai pateko į Vytauto iždą, o Severskui buvo paskirtas vietininkas, turėjęs užkirsti kelią jo šalininkų pasipriešinimui.","sentences":[{"sentence_id":"s1","text":"Dimitras Kaributas buvo kunigaikštis, valdęs Seversko žemę ir susijęs su Lietuvos Didžiosios Kunigaikštystės valdžios įtvirtinimu regione.","support_ids":["t-196441","c-178690"]},{"sentence_id":"s2","text":"Po Rusios sutramdymo jis buvo pasiųstas į Severską, kad iš šios pusės nekiltų naujų sąmyšių.","support_ids":["t-184691","c-168052"]},{"sentence_id":"s3","text":"Vėliau Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą, pabrėždamas savo ryšį su Algirdu ir Jogaila bei teigdamas, kad Vytautui nieko nesąs skolingas.","support_ids":["t-184692","c-168053"]},{"sentence_id":"s4","text":"Vytautas, pritariamas Jogailos, iš jo atėmė Sievero žemę.","support_ids":["t-50969","t-50970","c-36273"]},{"sentence_id":"s5","text":"Užėmus miestą, Kaributo lobiai ir pilyje bei bažnyčiose sukaupti turtai pateko į Vytauto iždą, o Severskui buvo paskirtas vietininkas, turėjęs užkirsti kelią jo šalininkų pasipriešinimui.","support_ids":["t-196441","c-178690"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltinis mini kunigaikštį Dimitrą, jo ryšį su Seversku ir Seversko prijungimą prie LDK valdžios."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad po Rusios sutramdymo Dimitras Kaributas buvo pasiųstas į Severską, kad nekiltų naujų sąmyšių."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina atsisakymą mokėti, ryšį su Algirdu ir Jogaila bei teiginį, kad Vytautui jis nieko neskolingas."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Vytautas, pritariamas Jogailos, atėmė Sievero žemę iš Dimitro Kaributo."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai patvirtina Kaributo lobių ir kitų turtų patekimą į Vytauto iždą bei vietininko paskyrimą, kad būtų užkirstas kelias šalininkų pasipriešinimui."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-196441","c-178690"]},{"sentence_id":"s2","supported":true,"support_ids":["t-184691","c-168052"]},{"sentence_id":"s3","supported":true,"support_ids":["t-184692","c-168053"]},{"sentence_id":"s4","supported":true,"support_ids":["t-50969","t-50970","c-36273"]},{"sentence_id":"s5","supported":true,"support_ids":["t-196441","c-178690"]}],"verifier":"gpt-5.6-luna"},"quality":58,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sunus","direction":"outbound","target":"objektai/asmenys/Algirdas","claim_id":"t-184692","confidence":0.94},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-182020","confidence":0.78},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-182020","confidence":0.78},{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Severskas","claim_id":"t-184691","confidence":0.7}],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 4f0dc54d0f093e9f
+object_page_generated_at: '2026-09-20T04:31:02+00:00'
+object_page_source_checked_at: '2026-09-20T04:31:02+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Dimitras Kaributas buvo kunigaikštis, valdęs Seversko žemę ir susijęs su Lietuvos Didžiosios Kunigaikštystės valdžios įtvirtinimu regione. Po Rusios…'
+object_page_seo_input_hash: 62a3f05fde5d2faa6fcbe3445b77464c89583f0a96164afaee2abe65e981667a
+object_page_seo_generated_at: '2026-09-20T04:31:02+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Dimitras Kaributas
 

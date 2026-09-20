@@ -1,17 +1,17 @@
 ---
 tipas: daiktas
-pavadinimas: 'Kardas'
+pavadinimas: Kardas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Lituanistika-3-Kazimiero-Jogailaicio-dvaras'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Lituanistika-3-Kazimiero-Jogailaicio-dvaras
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1458 m.'
-  - '1917 m.'
-  - '1920 m.'
+  - 1458 m.
+  - 1917 m.
+  - 1920 m.
 date_start: '1458'
 date_end: '1920'
 sukurta: ''
@@ -20,20 +20,30 @@ tags:
   - daiktas
   - ginklas
 amziai:
-  - 'XV'
-  - 'XX'
+  - XV
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Kardas","url":"https://lt.wikipedia.org/wiki/Kardas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T10:31:49+00:00","source_checked_at":"2026-09-19T10:31:49+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Kardas","url":"https://lt.wikipedia.org/wiki/Kardas","publisher":"Vikipedija","language":"lt","article_id":"8371","revision_id":"6765444","published_at":"2022-11-26T11:56:47Z","version_pk":"","content_hash":"65a22f54dcce62ac0ecbf639c2899842da2daeb7546d885ef458e5677c882f25","retrieved_at":"2026-09-19T10:30:37+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Kardas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"8371"}},"intro":"Kardas – ginklas ilga geležte, sudarytas iš geležtės ir rankenos su apsauga. Lietuvių kalboje kardu dažniausiai vadinami tik lenkti kertamieji ir duriamieji ginklai, kokie buvo naudoti Abiejų Tautų Respublikoje. Kardo geležtė paprastai metalinė, su ašmenimis išlenktojoje briaunoje ir su smailiu galu, todėl gali būti naudojama ne tik kaip kertamasis, bet ir kaip duriamasis ginklas. Kardai yra vienarankiai ginklai. Kardai išsivystė iš durklų, kai metalo apdirbimo technologija leido gaminti ilgesnes geležtes – maždaug antro tūkstantmečio pr. m. e. pradžioje. Geležiniai kardai labai paplito, vėliau išradus plieno gamybą, kardus pradėta kalti iš plieno. Kardai senais laikais būdavo pagrindinė kovos jėga mūšyje. Maždaug XVI a. Buvo išrastos špagos. Žmonės kurie kaudavosi špagomis būdavo vadinami dvikovininkais, tačiau dvikovininkai kaudavosi ir kare.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Kardas","url":"https://lt.wikipedia.org/wiki/Kardas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kardas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"935c63c5458efb24c12f5015","canonical_code":"object.purpose","label":"Paskirtis","group":"Naudojimas","value":"Skirtas ulonų, artilerijos ir gurguolės puskarininkiams.","context":"1917 m. modelio lenkiškas kardas; paskirtis nurodyta 1920 m. kontekste.","support_ids":["t-92969","c-88400"],"source_refs":[{"kind":"internal_claim","claim_id":"t-92969","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-88400","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Lenkas, senas karys, irgi ilgai juk neatsiminė, kad turi pistoletą.“ 1917 m. modelio lenkiškas kardas, skirtas ulonų, artilerijos ir gurguolės puskarininkiams 1920 m."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a71d9041d97a6a92
+object_page_generated_at: '2026-09-19T10:31:49+00:00'
+object_page_source_checked_at: '2026-09-19T10:31:49+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Kardas: Višniaveckis jį nu- sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai- sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu…'
+object_page_seo_input_hash: eacdb36a3dfc258e68e2d4f27cb322ed1ce73e5a914df9e07023e206e8ea1a6d
+object_page_seo_generated_at: '2026-09-19T10:31:49+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kardas
 

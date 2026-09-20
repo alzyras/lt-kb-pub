@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Ulrikas Hozijus'
+pavadinimas: Ulrikas Hozijus
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1505 m.'
-  - '1554 m.'
+  - 1505 m.
+  - 1554 m.
 date_start: '1505'
 date_end: '1554'
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - miestas
   - vyskupas
 amziai:
-  - 'XVI'
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9f09819c386524457fc02d2d"
-canonical_name: "Ulrikas Hozijus"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Ulrikas Hozijus"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9f09819c386524457fc02d2d
+canonical_name: Ulrikas Hozijus
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Ulrikas Hozijus
 sameAs: []
-canonical_biography: "Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­ tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52. Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos. Tas pats Ulrikas visą laiką iki pat mirties buvo Vil­ niaus monetų kalyklos prižiūrėtojas."
+canonical_biography: 'Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­ tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52. Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos. Tas pats Ulrikas visą laiką iki pat mirties buvo Vil­ niaus monetų kalyklos prižiūrėtojas.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T16:30:34+00:00","source_checked_at":"2026-09-19T16:30:34+00:00","counts":{"relations":2,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b603abec6d3fd3e758849896","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Vilniaus pilies viršininkas","context":"Karaliaus pavedimo dėl tilto statybos metu.","support_ids":["t-87364","c-83347"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87364","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83347","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­ mąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­ togumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko mus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii- ----• ---- 386 ## Puslapis 403 IV KNYGA niaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­ kalingas dalykas, ir trokšdami tai įgyvendinti, gerai pažin­ dami ir deramai įvertindami šio garbingo Ulriko Hozijaus dorumą ir sąžiningumą, pavedėme jam, kad jis tą tiltą per…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e7a437cc26cf8a2a214b36b3","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Vilniaus monetų kalyklos prižiūrėtojas iki mirties","context":"Šaltinyje nurodoma, kad šias pareigas ėjo visą laiką iki pat mirties.","support_ids":["t-194242","c-83346"],"source_refs":[{"kind":"internal_claim","claim_id":"t-194242","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83346","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Vis kad po 1533 metų gaisro, nuo ugnies buvo išgelbėta Jėzaus kančios skulp­ tūra, kadaise pastatyta prie medinės bažnytėlės palaidotų kankinių atmi­ nimui pagerbti. O koplyčia, apie ku­ rią kalbame, tai ne dabartinė bonif­ ratrų bažnytėlė, nes ši pastatyta vėliau, bet buvo įjungta į vienuoly­ no pastatus ir iki šios dienos jos sie­ nos laiko prioro celę. 15 Iš Lietuvos Metrikos. Knyga, apimanti Metrikos archyvo sąrašą. Raidė S. Antraštė: Molendinum Vilnense [Vil­ niaus malūnas]. Šis dovanojimas da­ tuotas Krokuvoje, artimiausią antra­ dienį po Šv. Baltramiejaus Apaštalo šventės, 1515 metais, IX valdymo metais, po antspaudu - karaliaus Žygimanto parašas. Tas pats Ulrikas visą laiką iki pat…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"64fe36cadedbce8f57cad928","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Šaltinio autoriaus įvardytas kaip doras ir sąžiningas","context":"Karalius, pagrįsdamas pavedimą statyti tiltą, teigė gerai pažįstantis ir deramai įvertinantis Ulriko Hozijaus dorą bei sąžiningumą.","support_ids":["t-87364","c-83347"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87364","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83347","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­ mąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­ togumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko mus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii- ----• ---- 386 ## Puslapis 403 IV KNYGA niaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­ kalingas dalykas, ir trokšdami tai įgyvendinti, gerai pažin­ dami ir deramai įvertindami šio garbingo Ulriko Hozijaus dorumą ir sąžiningumą, pavedėme jam, kad jis tą tiltą per…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"896c052930d8a7489933783d","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Šaltinio autoriaus apibūdintas kaip rūpestingas","context":"Aprašydamas tilto statybą šaltinis teigia, kad Ulrikas jį statė labai greitai ir rūpestingai.","support_ids":["t-87367","c-83344"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87367","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83344","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Dvasios bažnyčios, kur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­ ti ir pamaitinti bei prižiūrėti. Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam amžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­ kestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas, nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­ gant laikui išskaičiavo ir susigrąžino."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Ulriko Hozijaus tiltas per Viliją","claim_id":"t-86154","confidence":0.76},{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Šv. Dvasios prieglauda Vilniuje","claim_id":"t-85851","confidence":0.78}],"timeline":[],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a73d7d7645a73e2f
+object_page_generated_at: '2026-09-19T16:30:34+00:00'
+object_page_source_checked_at: '2026-09-19T16:30:34+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Ulrikas Hozijus: Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­ tyti iš…'
+object_page_seo_input_hash: 67e0bb75e684d91d5f5ed344cb1f5df93d3e53641e79a9b42936ae976db6c029
+object_page_seo_generated_at: '2026-09-19T16:30:34+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ulrikas Hozijus
 

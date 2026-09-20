@@ -1,8 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Pranciškus Ksaveras Mykolas Bohušas'
+pavadinimas: Pranciškus Ksaveras Mykolas Bohušas
 saltiniai:
-  - '04-ldk-personalijos-idejos-refleksijos'
+  - 04-ldk-personalijos-idejos-refleksijos
 datos: []
 date_start: ''
 date_end: ''
@@ -16,19 +16,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a769af8220c2eed92997e78b"
-canonical_name: "Pranciškus Ksaveras Mykolas Bohušas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Pranciškus Ksaveras Mykolas Bohušas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a769af8220c2eed92997e78b
+canonical_name: Pranciškus Ksaveras Mykolas Bohušas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Pranciškus Ksaveras Mykolas Bohušas
 sameAs: []
-canonical_biography: "P. K. Bohušas buvo jėzuitas ir Vilniaus intelektualinio gyvenimo veikėjas. Bohušas į Jėzuitų ordiną įstojo 1761 m. rugsėjo 2 6 d. Pranciškus Ksaveras Mykolas Bohušas gavo trečiaisiais teologijos studijų metais, t."
+canonical_biography: 'P. K. Bohušas buvo jėzuitas ir Vilniaus intelektualinio gyvenimo veikėjas. Bohušas į Jėzuitų ordiną įstojo 1761 m. rugsėjo 2 6 d. Pranciškus Ksaveras Mykolas Bohušas gavo trečiaisiais teologijos studijų metais, t.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:56:49+00:00","source_checked_at":"2026-09-19T21:56:49+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7707d1d4c5d542386e0d7238","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Gebėjo generuoti naujas idėjas.","context":"Šaltinyje teigiama, kad remiantis jo visuomenine ir literatūrine veikla, jis buvo aktyvi Apšvietos epochos asmenybė, gebėjusi generuoti naujas idėjas.","support_ids":["t-208223","c-190826"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208223","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md"},{"kind":"evidence","evidence_id":"c-190826","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md","quote":"Pranciškus Ksaveras Mykolas Bohušas (Franciszek Ksawery M ichał Bohusz, 1746-1810) - vienas iš ryškesnių paskutiniųjų X V III a. dešimtmečių Vilniaus intelektualinio gyvenimo veikėjų. Remiantis jo visuomenine ir literatūrine veikla, galima teigti, kad tai buvo aktyvi Apšvietos epochos asmenybė, gebėjusi generuoti naujas idėjas."}],"status":"published","conflict_status":"clear"},{"trait_id":"f1b1a1e34b8c5ee81ee86556","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Vienas iš ryškesnių XVIII a. paskutiniųjų dešimtmečių Vilniaus intelektualinio gyvenimo veikėjų.","context":"Tai šaltinio autoriaus vertinimas, taikomas XVIII a. paskutiniams dešimtmečiams ir Vilniaus intelektualiniam gyvenimui.","support_ids":["t-208223","c-190826"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208223","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md"},{"kind":"evidence","evidence_id":"c-190826","source":"darbas/sources/04-ldk-personalijos-idejos-refleksijos.md","quote":"Pranciškus Ksaveras Mykolas Bohušas (Franciszek Ksawery M ichał Bohusz, 1746-1810) - vienas iš ryškesnių paskutiniųjų X V III a. dešimtmečių Vilniaus intelektualinio gyvenimo veikėjų. Remiantis jo visuomenine ir literatūrine veikla, galima teigti, kad tai buvo aktyvi Apšvietos epochos asmenybė, gebėjusi generuoti naujas idėjas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f958e14934ac4d72
+object_page_generated_at: '2026-09-19T21:56:49+00:00'
+object_page_source_checked_at: '2026-09-19T21:56:49+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: Pranciškus Ksaveras Mykolas Bohušas šaltinyje apibūdinamas kaip vienas ryškesnių XVIII a. paskutiniųjų dešimtmečių Vilniaus intelektualinio gyvenimo veikėjų.…
+object_page_seo_input_hash: de2500fd05a43c9e2cc42b3984127f45604020d32f236b49d12676c93ae8d5a8
+object_page_seo_generated_at: '2026-09-19T21:56:49+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Pranciškus Ksaveras Mykolas Bohušas
 

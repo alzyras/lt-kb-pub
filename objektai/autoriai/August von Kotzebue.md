@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'August von Kotzebue'
+pavadinimas: August von Kotzebue
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
@@ -21,19 +21,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-38e19940f232db228e4d87e9"
-canonical_name: "August von Kotzebue"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["August von Kotzebue"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-38e19940f232db228e4d87e9
+canonical_name: August von Kotzebue
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - August von Kotzebue
 sameAs: []
-canonical_biography: "Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D. 1324 Nr. 53, kurie visiškai atitinka tuos, kurie yra Kotzebue, T."
+canonical_biography: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D. 1324 Nr. 53, kurie visiškai atitinka tuos, kurie yra Kotzebue, T.'
+external_sources_json: '[{"title":"August von Kotzebue","url":"https://en.wikipedia.org/wiki/August_von_Kotzebue","publisher":"Wikipedia","kind":"encyclopedia","status":"published","confidence":0.99,"language":"en"},{"title":"August Von Kotzebue","url":"https://www.vle.lt/straipsnis/august-von-kotzebue/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:02:36+00:00","source_checked_at":"2026-09-19T22:02:36+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"August von Kotzebue","url":"https://en.wikipedia.org/wiki/August_von_Kotzebue","publisher":"Wikipedia","language":"en","article_id":"180140","revision_id":"1375154183","published_at":"2026-09-16T03:09:01Z","version_pk":"","content_hash":"f5ec33399062e8556e088dee58134bf8ce519897561339797c6f86d79e1a33ad","retrieved_at":"2026-09-19T22:00:55+00:00","history_url":"https://en.wikipedia.org/w/index.php?title=August_von_Kotzebue&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"180140"}},"intro":"Augustas Frydrichas Ferdinandas fon Kotcebū (vok. [ˈaʊɡʊst fɔn ˈkɔtsəbuː], rus. Евстафий Леонтьевич Коцебу, romanizuota: Yevstafiy Leontyevich Kotsebu; 1761 m. gegužės 3 d. [pagal senąjį kalendorių – balandžio 22 d.] – 1819 m. kovo 23 d. [pagal senąjį kalendorių – kovo 11 d.]) buvo vokiečių dramaturgas, taip pat dirbęs Rusijos diplomatu. 1817 m. per Vartburgo festivalį buvo sudeginta viena iš Kotcebū knygų. 1819 m. jį nužudė Karlas Liudvikas Zandas, radikalus Burschenschaften narys. Ši žmogžudystė suteikė Meternichui pretekstą paskelbti 1819 m. Karlsbado dekretus, kuriais buvo paleistos Burschenschaften, suvaržyta liberali spauda ir smarkiai apribota akademinė laisvė Vokietijos konfederacijos valstybėse.","original_intro":"August Friedrich Ferdinand von Kotzebue (German: [ˈaʊɡʊst fɔn ˈkɔtsəbuː], Russian: Евстафий Леонтьевич Коцебу, romanized: Yevstafiy Leontyevich Kotsebu; 3 May [O.S. 22 April] 1761 – 23 March [O.S. 11 March] 1819) was a German playwright, who had also worked as a Russian diplomat. In 1817, one of Kotzebue''s books was burned during the Wartburg festival. He was murdered in 1819 by Karl Ludwig Sand, a militant member of the Burschenschaften. This murder gave Metternich the pretext to issue the Carlsbad Decrees of 1819, which dissolved the Burschenschaften, cracked down on the liberal press, and seriously restricted academic freedom in the states of the German Confederation.","translation_status":"translated_verified","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"en","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Wikipedia","title":"August von Kotzebue","url":"https://en.wikipedia.org/wiki/August_von_Kotzebue","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"August Von Kotzebue","url":"https://www.vle.lt/straipsnis/august-von-kotzebue/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://en.wikipedia.org/wiki/August_von_Kotzebue","https://www.vle.lt/straipsnis/august-von-kotzebue/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f4d0a0a1ffc18424dc905751","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Išrašė tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje ir įdėjo juos į savo veikalą „Preuszens aeltere Geschichte“ (Ryga, 1808).","context":"Tai nurodoma Michało Balińskio veikale apie Vilniaus miesto istoriją; kalbama apie Augusto von Kotzebue 1808 m. Rygoje išleistą veikalą.","support_ids":["t-87938","c-83919"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87938","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83919","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu. Foigto vertimas į len kųk ir teksto lotynų k. pataisymai."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b635b21503310964
+object_page_generated_at: '2026-09-19T22:02:36+00:00'
+object_page_source_checked_at: '2026-09-19T22:02:36+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'August von Kotzebue: Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve…'
+object_page_seo_input_hash: 342df08d40ec4e796598ddff54616938b5c9a366cb1d11c1f1eb02271960ebeb
+object_page_seo_generated_at: '2026-09-19T22:02:36+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # August von Kotzebue
 

@@ -1,29 +1,29 @@
 ---
 tipas: vieta
-pavadinimas: 'Vokietija'
+pavadinimas: Vokietija
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1034 m.'
-  - '1323 m.'
-  - '1525 m.'
-  - '1579 m.'
-  - '1618 m.'
-  - '1629 m.'
-  - '1648 m.'
-  - '1918 m.'
-  - '2026 m.'
+  - 1034 m.
+  - 1323 m.
+  - 1525 m.
+  - 1579 m.
+  - 1618 m.
+  - 1629 m.
+  - 1648 m.
+  - 1918 m.
+  - 2026 m.
 date_start: '1034'
 date_end: '2026'
 amziai:
-  - 'XI'
-  - 'XXI'
+  - XI
+  - XXI
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -32,25 +32,37 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
 tags:
   - kraštas
   - ordinas
   - vieta
-entity_id: "ent-3d1a1fe0f1802807f7af31f9"
-canonical_name: "Vokietija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vokietija"]
+entity_id: ent-3d1a1fe0f1802807f7af31f9
+canonical_name: Vokietija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vokietija
 sameAs: []
-canonical_biography: "Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją. Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),."
+canonical_biography: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją. Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Vokietija","url":"https://www.vle.lt/straipsnis/vokietija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-18T23:55:44+00:00","source_checked_at":"2026-09-18T23:55:44+00:00","counts":{"relations":14,"gallery":0,"sources":10},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"**Protestantizmo plitimas.** Protestantizmas labai greitai pa- siekė Lietuvą. 1525 m. Lietuvos pašonėje priėmė protestantizmą kryžiuočių ordino magistras ir daugumas brolių. Be to, daug didi- kų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsda- vo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia, esant tokiai liūdnai Bažnyčios būklei, jam buvo labai patogi dirva plisti.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-181170","evidence_id":"c-24595","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Vokietija","url":"https://www.vle.lt/straipsnis/vokietija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/vokietija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4738f087dd0db325d471c047","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Vokietijos universitetai buvo protestantiški.","context":"A. Šapokos (red.) teigimu, aprašomu laikotarpiu Vokietijos universitetai buvo protestantiški; dėl to į juos išvykę studentai dažnai grįždavo protestantai.","support_ids":["t-181178","c-164736"],"source_refs":[{"kind":"internal_claim","claim_id":"t-181178","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-164736","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai. Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka- talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro- testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata- likybę."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e78a98c6823f0bd3eaa1a342","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Vokietijoje nuo XI a. trūko laisvų žemių.","context":"Šaltinyje Vokietija apibūdinama kaip išimtis, kurioje nuo XI a. trūko laisvų žemių.","support_ids":["t-203632","c-186236"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203632","source":"darbas/sources/Lituanistika-32634-ATR-palivarko-ukis.md"},{"kind":"evidence","evidence_id":"c-186236","source":"darbas/sources/Lituanistika-32634-ATR-palivarko-ukis.md","quote":"Išimtimi laikytina Vokietija, kurioje jau nuo XI a. trūko laisvų žemių."}],"status":"published","conflict_status":"clear"},{"trait_id":"c28c7fe88a6fe187ad0bd849","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Vokietijoje civilinė valdžia priklausė nuo militarinės valdžios.","context":"1916 m. šaltinio autoriaus aprašymu, Vokietijoje civilinė valdžia apskritai priklausė nuo militarinės valdžios.","support_ids":["t-209659","c-192279"],"source_refs":[{"kind":"internal_claim","claim_id":"t-209659","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md"},{"kind":"evidence","evidence_id":"c-192279","source":"darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md","quote":"Vokietijoje abelnai, o Lietuvoje ypačiai civi­ le valdžia priklauso nuo militarės valdžios, nors ir civilių valdžių ofisuose sėdi ne kas kitas, kaip kareiviai su aficieriais."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Vokietija – Lietuvos istorijoje svarbus politinių sprendimų, tarptautinių susitarimų ir įtakos centras. 1918 m. kovo 23 d. Berlyne kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, tačiau ją siejo su glaudžiais ryšiais su Vokietija ir svarstytomis politinėmis sąjungomis. Po Pirmojo pasaulinio karo Versalio taikos konferencija 1919 m. nuo Vokietijos atskyrė Klaipėdos kraštą, bet Lietuvai jo neatidavė. Tarpukariu santykiai išliko aktyvūs: 1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis. 1939 m. rugpjūčio 23 d. slaptasis Vokietijos ir SSRS protokolas Lietuvą priskyrė Vokietijos įtakos sferai, tačiau rugsėjo 28 d. naujas susitarimas perdavė Lietuvą SSRS įtakos zonai ir Vokietijos spaudimas Lietuvai baigėsi.","sentences":[{"sentence_id":"s1","text":"Vokietija – Lietuvos istorijoje svarbus politinių sprendimų, tarptautinių susitarimų ir įtakos centras.","support_ids":["t-181163","t-181183","t-181192"]},{"sentence_id":"s2","text":"1918 m. kovo 23 d. Berlyne kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, tačiau ją siejo su glaudžiais ryšiais su Vokietija ir svarstytomis politinėmis sąjungomis.","support_ids":["t-181163","t-181172"]},{"sentence_id":"s3","text":"Po Pirmojo pasaulinio karo Versalio taikos konferencija 1919 m. nuo Vokietijos atskyrė Klaipėdos kraštą, bet Lietuvai jo neatidavė.","support_ids":["t-181183"]},{"sentence_id":"s4","text":"Tarpukariu santykiai išliko aktyvūs: 1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis.","support_ids":["t-181192"]},{"sentence_id":"s5","text":"1939 m. rugpjūčio 23 d. slaptasis Vokietijos ir SSRS protokolas Lietuvą priskyrė Vokietijos įtakos sferai, tačiau rugsėjo 28 d. naujas susitarimas perdavė Lietuvą SSRS įtakos zonai ir Vokietijos spaudimas Lietuvai baigėsi.","support_ids":["t-181181","t-181176"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Teiginį pagrindžia Vokietijos vaidmuo Lietuvos nepriklausomybės pripažinime, Versalio sprendimuose dėl Klaipėdos krašto ir 1928 m. sutartyse."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina datą, vietą, Wilhelmo II pareiškimą, glaudžius ryšius ir svarstytas politines sąjungas."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad 1919 m. Versalio taikos konferencija Klaipėdos kraštą atskyrė nuo Vokietijos, bet Lietuvai jo neatidavė."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina, kad 1928 m. Lietuva su Vokietija pasirašė aštuonias sutartis."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina rugpjūčio 23 d. Lietuvos priskyrimą Vokietijos įtakos sferai, rugsėjo 28 d. perdavimą SSRS įtakos zonai ir Vokietijos spaudimo pabaigą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-181163","t-181183","t-181192"]},{"sentence_id":"s2","supported":false,"support_ids":["t-181163","t-181172"]},{"sentence_id":"s3","supported":false,"support_ids":["t-181183"]},{"sentence_id":"s4","supported":false,"support_ids":["t-181192"]},{"sentence_id":"s5","supported":false,"support_ids":["t-181181","t-181176"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gime","direction":"inbound","target":"objektai/asmenys/Albertas Didysis","claim_id":"t-224712","confidence":0.95},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Karolis Tryrietis","claim_id":"t-181196","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Poponas iš Osternos","claim_id":"t-221937","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-181194","confidence":0.84},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-183271","confidence":0.88},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-95169","confidence":0.62},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Klaipėda","claim_id":"t-90672","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lietuva","claim_id":"t-179983","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Liublinas","claim_id":"t-181164","confidence":0.87},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Liublino vaivadija","claim_id":"t-21570","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ruhro sritis","claim_id":"t-69178","confidence":0.76},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Rytprūsiai","claim_id":"t-181188","confidence":0.63},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Šeinfeldas","claim_id":"t-26300","confidence":0.9},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Henrikas I Paukštininkas","claim_id":"t-87688","confidence":0.61}],"timeline":[{"date":"1323 m.","label":"Karolis Tryrietis 1323 m.","claimId":"t-181196"},{"date":"1323 m.","label":"Karolis Tryrietis 1323 m.","claimId":"t-181206"},{"date":"1579 m.","label":"Rengiantis 1579 m.","claimId":"t-181162"},{"date":"1579 m.","label":"Rengiant 1579 m.","claimId":"t-181175"},{"date":"1918 m.","label":"1918 m.","claimId":"t-181163"},{"date":"1918 m.","label":"1918 m.","claimId":"t-181172"},{"date":"1919 m.","label":"1919 m.","claimId":"t-181183"},{"date":"1928 m.","label":"1928 m.","claimId":"t-181180"}],"support_disclosure":{"claims":49,"sources":9}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ba6ddbf7f7b38efd
+object_page_generated_at: '2026-09-18T23:55:44+00:00'
+object_page_source_checked_at: '2026-09-18T23:55:44+00:00'
+object_page_content_state: content
+object_page_claim_count: '49'
+object_page_source_count: '9'
+object_page_seo_description: 'Vokietija – Lietuvos istorijoje svarbus politinių sprendimų, tarptautinių susitarimų ir įtakos centras. 1918 m. kovo 23 d. Berlyne kaizeris Wilhelmas II…'
+object_page_seo_input_hash: 85cd5b9908b97a213b3750dedb53e43386db96b3b006576b9ccf6faf4ef09ce7
+object_page_seo_generated_at: '2026-09-18T23:55:44+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vokietija
 

@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jordanas'
+pavadinimas: Jordanas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1488 m.'
-  - '1544 m.'
+  - 1488 m.
+  - 1544 m.
 date_start: '1488'
 date_end: '1544'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - rašytojas
   - asmuo
 amziai:
-  - 'XV'
-  - 'XVI'
+  - XV
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f221f3a3d7fc1af59c1d690a"
-canonical_name: "Jordanas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jordanas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f221f3a3d7fc1af59c1d690a
+canonical_name: Jordanas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jordanas
 sameAs: []
-canonical_biography: "Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šiaurės tautų lopšį. Jordanas, Narbuto vadinamas gotų rašytoju, aprašė gotų pergales prieš kaimynus, ypač ulmerugius, II krikščioniškosios eros amžiaus pradžioje. Jordanas, Narbuto perteikimu, teigė, kad spaliai gyveno dabartinėje Mazovijoje."
+canonical_biography: 'Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šiaurės tautų lopšį. Jordanas, Narbuto vadinamas gotų rašytoju, aprašė gotų pergales prieš kaimynus, ypač ulmerugius, II krikščioniškosios eros amžiaus pradžioje. Jordanas, Narbuto perteikimu, teigė, kad spaliai gyveno dabartinėje Mazovijoje.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T16:38:32+00:00","source_checked_at":"2026-09-19T16:38:32+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7bb7ab4cbe20f2c9debc69c0","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Gotų istorikas ir autorius","context":"Teodoras Narbutas Jordanas apibūdinamas kaip gotų istorikas ir senovės autorius; tai nurodoma aprašant jo veikalus bei pasakojimus apie gotus ir kitas tautas.","support_ids":["t-213376","c-195678","t-212801","c-196196"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213376","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-212801","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195678","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Apie estus nėra žinių nuo Tacito laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­ tijos jūros pakrančių gyventojais, kurie prekiavo gintaru ir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas, daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­ jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3. Sis autorius, aprašinėdamas Rytų gotų valdovo Germana- riko įtaką Europos vakaruose gyvenančioms tautoms ir gentims, sako: „Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą“4."},{"kind":"evidence","evidence_id":"c-196196","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"O iš čia didelė tauta ėmė lietis į visus kraštus; iš eilės Europos vakarai, šiaurė, rytai bei pietūs regėjo ir gausias kariuomenes, ir daugybę atvy­ kėlių, vadinamų variagais, gotais ir įvairiais kitais var­ dais. Be viso to, dar prisiminkime, ką dėstė daug seno­ vės autorių nuo Jordano* ir net iki Rudbeko** ir Ba­ sės*** apie Šiaurės tautų lopšį. Susimąstykime skaity­ dami išmintingus Aleksandro Humbolto veikalus apie Žemės rutulio temperatūros kitimą ir aiškiai suprasime mūsų pateiktas mintis, jų tikėtinumą, žodžiu, įsitikinsi­ me, kad mūsų Šiaurėje labai seniai būta gyventojų, ku­ rie gyveno po laimingesnių dangumi."}],"status":"published","conflict_status":"clear"},{"trait_id":"94c31ef85973418e02a9a13d","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Puikiai išmanė gotų istoriją","context":"Teodoras Narbutas rašo, kad Jordanas, pasakodamas apie gotų istoriją ir jų ryšius su lietuvių žemėmis, ją puikiai išmanė.","support_ids":["t-212921","c-194855"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212921","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194855","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Pagaliau ir ¡pats Naruševičius, žinojęs tuos pačius ir, ko gero, dar ir kitus mums nežinomus įro­ dymus, visiškai rėmė šią nuomonę4. 247 Tas pats Jordanas, puikiai išmanęs istoriją ¡gotų, nuo neatmenamų laikų turėjusių glaudžių santykių su lietuvių žemėmis, tikriausiai žinojo jų geografinę padėtį ir pava­ dinimus, be to, jo žinios mums labai svarbios. Jis, Įpasa­ kodamas apie vėlesnius įvykius po karaliaus Filimero val­ dymo, tarp Pavyslio gyvenamųjų vietovių, buvusių prie pat jūros, rašo: ,,Okeano pakrantėje, kur įteka trys Vys­ los šakos, gyvena iš įvairių tautų susidarę vidivariai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"aad1fb6429e6dee837d283a3","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Gerai pažinojo alanus","context":"Teodoras Narbutas šį vertinimą pateikia kalbėdamas apie Jordano aprašymų svarbą alanų istorijai; Jordanas apibūdinamas kaip gotas, gerai pažinojęs alanus, o jo senelis buvęs alanų karaliaus sekretorius.","support_ids":["t-215474","c-197630"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215474","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197630","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Šias ir kitas mus mažiau dominančias smulkmenas teigia Klaudianas*, Prokopi- jus, Jonas Magnus (1488—1544)** ir kai kurie vėlesni rašytojai1. Taip pat yra įrodymų, jog alanai buvo susi­ giminiavę su gotais, kuriuos aprašo Jordanas2. Jo apra­ šymai yra svarbūs, nes susiję su pačiu autoriumi, kuris, būdamas gotas, gerai pažinojo alanus, — jo senelis bu­ vo alanų karaliaus Kartdakso sekretorius."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ff83b29649f828d0aeb92bd9","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Jo aprašymai laikomi svarbiais alanų istorijai","context":"Teodoras Narbutas XIX a. istoriniame veikale Jordano aprašymus vertina kaip svarbius dėl jų sąsajų su autoriumi ir jo žiniomis apie alanus.","support_ids":["t-215474","c-197630"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215474","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197630","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Šias ir kitas mus mažiau dominančias smulkmenas teigia Klaudianas*, Prokopi- jus, Jonas Magnus (1488—1544)** ir kai kurie vėlesni rašytojai1. Taip pat yra įrodymų, jog alanai buvo susi­ giminiavę su gotais, kuriuos aprašo Jordanas2. Jo apra­ šymai yra svarbūs, nes susiję su pačiu autoriumi, kuris, būdamas gotas, gerai pažinojo alanus, — jo senelis bu­ vo alanų karaliaus Kartdakso sekretorius."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Jordanas – senovės autorius ir, Teodoro Narbuto pateikimu, gotų istorikas, rašęs apie Šiaurės tautas bei jų kraštus. Jo pasakojimai Narbutui buvo svarbūs aiškinantis Baltijos regiono gyventojus ir senąją tautų geografiją. Jordanas nurodė, kad prie Vyslos žiočių gyveno vidivarai, už jų – estai, o su estais ribojosi agazirai, apibūdinami kaip karinga, žemdirbystei nesitelkusi gentis. Kitur jis minėjo estus prie jūros ir teigė, kad spaliai gyveno dabartinės Mazovijos teritorijoje. Narbutas taip pat pabrėžė Jordano aprašymų reikšmę alanų istorijai, nes, jo teigimu, Jordanas buvęs gotas, o jo senelis tarnavęs alanų karaliaus sekretoriumi. Jordano požiūrį Narbutas pasitelkė ir svarstydamas venedų bei Baltijos pakrantės genčių sąsajas.","sentences":[{"sentence_id":"s1","text":"Jordanas – senovės autorius ir, Teodoro Narbuto pateikimu, gotų istorikas, rašęs apie Šiaurės tautas bei jų kraštus.","support_ids":["t-212801","t-213376"]},{"sentence_id":"s2","text":"Jo pasakojimai Narbutui buvo svarbūs aiškinantis Baltijos regiono gyventojus ir senąją tautų geografiją.","support_ids":["t-212921","t-215767"]},{"sentence_id":"s3","text":"Jordanas nurodė, kad prie Vyslos žiočių gyveno vidivarai, už jų – estai, o su estais ribojosi agazirai, apibūdinami kaip karinga, žemdirbystei nesitelkusi gentis.","support_ids":["t-214217"]},{"sentence_id":"s4","text":"Kitur jis minėjo estus prie jūros ir teigė, kad spaliai gyveno dabartinės Mazovijos teritorijoje.","support_ids":["t-213376","t-215201"]},{"sentence_id":"s5","text":"Narbutas taip pat pabrėžė Jordano aprašymų reikšmę alanų istorijai, nes, jo teigimu, Jordanas buvęs gotas, o jo senelis tarnavęs alanų karaliaus sekretoriumi.","support_ids":["t-215474"]},{"sentence_id":"s6","text":"Jordano požiūrį Narbutas pasitelkė ir svarstydamas venedų bei Baltijos pakrantės genčių sąsajas.","support_ids":["t-215767"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta: Jordanas įvardijamas senovės autoriumi, rašiusiu apie Šiaurės tautas, ir gotų istoriku."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai nurodo, kad Jordano žinios Narbutui buvo svarbios geografinei padėčiai, vietovardžiams ir Baltijos regiono tautoms aiškinti."},{"sentence_id":"s3","supported":true,"reason":"Sakinio vietovės, tautų seka ir agazirų apibūdinimas tiesiogiai pateikti šaltinyje."},{"sentence_id":"s4","supported":true,"reason":"Atskiri teiginiai tiesiogiai paremti: estai minimi prie jūros, o spaliai – dabartinėje Mazovijoje."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis nurodo, kad Jordanas buvo gotas, jo aprašymai svarbūs alanų istorijai, o jo senelis buvo alanų karaliaus sekretorius."},{"sentence_id":"s6","supported":true,"reason":"Šaltinis tiesiogiai sieja Narbuto svarstymus apie venedus, Baltijos pakrantę ir Jordano požiūrį."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-212801","t-213376"]},{"sentence_id":"s2","supported":false,"support_ids":["t-212921","t-215767"]},{"sentence_id":"s3","supported":false,"support_ids":["t-214217"]},{"sentence_id":"s4","supported":false,"support_ids":["t-213376","t-215201"]},{"sentence_id":"s5","supported":false,"support_ids":["t-215474"]},{"sentence_id":"s6","supported":false,"support_ids":["t-215767"]}],"verifier":"gpt-5.6-luna"},"quality":28,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":9,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a450a8246f17af68
+object_page_generated_at: '2026-09-19T16:38:32+00:00'
+object_page_source_checked_at: '2026-09-19T16:38:32+00:00'
+object_page_content_state: content
+object_page_claim_count: '9'
+object_page_source_count: '1'
+object_page_seo_description: 'Jordanas – senovės autorius ir, Teodoro Narbuto pateikimu, gotų istorikas, rašęs apie Šiaurės tautas bei jų kraštus. Jo pasakojimai Narbutui buvo svarbūs…'
+object_page_seo_input_hash: ca66a06816c46f74fd4b3ee57738110d56ea9a903329adc1a12ccbd9cf2a4743
+object_page_seo_generated_at: '2026-09-19T16:38:32+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jordanas
 

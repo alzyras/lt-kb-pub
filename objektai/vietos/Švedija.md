@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Švedija'
+pavadinimas: Švedija
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -9,17 +9,17 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '650 m.'
-  - '1570 m.'
-  - '1581 m.'
-  - '1600 m.'
-  - '1605 m.'
-  - '1629 m.'
-  - '1654 m.'
-  - '1655 m.'
-  - '1660 m.'
-  - '1667 m.'
-  - '2026 m.'
+  - 650 m.
+  - 1570 m.
+  - 1581 m.
+  - 1600 m.
+  - 1605 m.
+  - 1629 m.
+  - 1654 m.
+  - 1655 m.
+  - 1660 m.
+  - 1667 m.
+  - 2026 m.
 date_start: '650'
 date_end: '2026'
 sukurta: ''
@@ -29,29 +29,41 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'VII'
-  - 'XXI'
+  - VII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-21d2584b2c1978aa90b81ebb"
-canonical_name: "Švedija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Švedija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-21d2584b2c1978aa90b81ebb
+canonical_name: Švedija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Švedija
 sameAs: []
-canonical_biography: "Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras. Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija. Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui."
+canonical_biography: 'Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras. Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija. Tėvui mirus, 1593 m. jis nuvyko į Švediją ir karūnavosi jos karalium. Išgyvenęs ten metus, jis grįžo į Krokuvą, o savo valdžią Švedijoj paliko dėdei, Sudermanlandijos kunigaikščiui Karoliui.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Švedija","url":"https://lt.wikipedia.org/wiki/%C5%A0vedija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Švedija","url":"https://www.vle.lt/straipsnis/svedija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T08:58:05+00:00","source_checked_at":"2026-09-19T08:58:05+00:00","counts":{"relations":5,"gallery":0,"sources":7},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos- lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius, su kuriais turėjo daugiausia darbo. Pagaliau čia, Vilniuje, šis didis karalius, nenuilstamai rūpindamasis krašto saugu­ mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­ gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­ sipelniusius.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-122997","evidence_id":"c-112475","origin":"internal"},"wiki":{"status":"published","source":{"title":"Švedija","url":"https://lt.wikipedia.org/wiki/%C5%A0vedija","publisher":"Vikipedija","language":"lt","article_id":"2356","revision_id":"7907566","published_at":"2026-08-20T05:34:30Z","version_pk":"","content_hash":"7e99b48a08edeef482224d17c39a78ed0792cbbbcbffae9b097314176d086cea","retrieved_at":"2026-09-19T08:55:19+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=%C5%A0vedija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"2356"}},"intro":"Švedija (šved. Sverige, tariama [ˈsvæ̌rjɛ] (plačiau); oficialiai Švedijos Karalystė, šved. Konungariket Sverige) – valstybė Šiaurės Europoje, Skandinavijos pusiasalyje. Vakaruose ribojasi su Norvegija, šiaurės rytuose – su Suomija, pietvakariuose Eresundo tiltu jungiasi su Danija. Pietuose ir rytuose Švedija prieina prie Baltijos jūros, pietvakariuose – prie Šiaurės jūros. Švedija yra didžiausia Šiaurės šalis ir trečia didžiausia Europos Sąjungoje. Švedijos sostinė yra Stokholmas, kuris taip pat yra ir didžiausias miestas šalyje su 1,3 milijono gyventojų. Antras pagal dydį miestas yra Geteborgas su 0,5 milijono gyventojų, trečias – Malmė. Švedijos plotas – 450 295 km². Čia gyvena daugiau kaip 10 milijonų gyventojų. Švedijoje labai mažas gyventojų tankis – 21 gyventojas 1 kvadratiniame kilometre. Šalies pietuose gyvena žymiai daugiau žmonių negu šiaurėje. Apie 85 % gyventojų gyvena miestuose, prognozuojama, kad šis skaičius didės. Švedija yra konstitucinė monarchija, turinti parlamentą bei aukštai išvystytą ekonomiką. Ji užima pirmą vietą pasaulyje pagal demokratijos indeksą bei septintą pagal žmogaus socialinės raidos indeksą. Nuo 1995 m. sausio 1 d. Švedija yra Europos Sąjungos, NATO, EBPO narė. Švedijos valstybė susikūrė viduramžiais. XVII a. ji išplėtė savo teritorijas ir tapo viena iš didžiųjų pasaulio valstybių. Didvalstybės laikotarpis (šved. Stormaktstiden) tęsėsi nuo 1611 m. iki 1721 m. Vėliau karuose su Rusija Švedija prarado savo Baltijos valdas (1721 m.) ir Suomiją (1809 m.) Po Napoleono karų, kuriuose dalyvavo ir Švedija, 1814 m. ji prisijungė iš Danijos atimtą Norvegiją. 1905 m. Norvegija išsireikalavo nepriklausomybės. Nuo to laiko Švedija nebedalyvauja karuose.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Švedija","url":"https://lt.wikipedia.org/wiki/%C5%A0vedija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Švedija","url":"https://www.vle.lt/straipsnis/svedija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C5%A0vedija","https://www.vle.lt/straipsnis/svedija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"555b66868d7a897727213faf","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Siekė viešpatauti Baltijos jūroje.","context":"XVII a.; šaltinio autoriaus aprašymas apie Švedijos siekį ir dėl jo kilusius karo veiksmus.","support_ids":["t-122999","c-112482"],"source_refs":[{"kind":"internal_claim","claim_id":"t-122999","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-112482","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici). Dėl to įsilieps- nojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai. L I E T U V O S I S T O R I J A 86 XVII a."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Švedija – istorinis objektas, šaltiniuose siejamas su Lietuvos ir Lenkijos karais, diplomatija bei kultūros turto išvežimu. XVII a. Abiejų Tautų Respublika su Švedija kariavo du karus – 1600–1629 ir 1655–1660 m., o konfliktus komplikavo švedų kilmės Vazų dinastijos valdovų pretenzijos į Švedijos sostą. 1654–1667 m. Rusijos ir Švedijos invazija į Lietuvą ir Lenkiją buvo vadinama „tvanu“, o Šiaurės karo metu Rusija sutriuškino Karolio XII kariuomenę, užėmė Livoniją ir perėmė Baltijos pakrantės ruožą nuo Vyborgo iki Rygos. Diplomatiniai ryšiai matomi ir anksčiau: 1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį, o Vilniuje Suomijos kunigaikštis Jonas vedė Kotryną Jogailaitę. Karų laikotarpiu į Švediją buvo išvežta daug brangenybių, tarp jų – Stokholmo link gabenta akademijos biblioteka ir kiti kultūros turtai.","sentences":[{"sentence_id":"s1","text":"Švedija – istorinis objektas, šaltiniuose siejamas su Lietuvos ir Lenkijos karais, diplomatija bei kultūros turto išvežimu.","support_ids":["t-122995","t-122997","t-122994"]},{"sentence_id":"s2","text":"XVII a. Abiejų Tautų Respublika su Švedija kariavo du karus – 1600–1629 ir 1655–1660 m., o konfliktus komplikavo švedų kilmės Vazų dinastijos valdovų pretenzijos į Švedijos sostą.","support_ids":["t-122995","c-112474"]},{"sentence_id":"s3","text":"1654–1667 m. Rusijos ir Švedijos invazija į Lietuvą ir Lenkiją buvo vadinama „tvanu“, o Šiaurės karo metu Rusija sutriuškino Karolio XII kariuomenę, užėmė Livoniją ir perėmė Baltijos pakrantės ruožą nuo Vyborgo iki Rygos.","support_ids":["t-122987","c-112485","t-122991","c-112477"]},{"sentence_id":"s4","text":"Diplomatiniai ryšiai matomi ir anksčiau: 1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį, o Vilniuje Suomijos kunigaikštis Jonas vedė Kotryną Jogailaitę.","support_ids":["t-122989","c-112475","t-122992","c-112476"]},{"sentence_id":"s5","text":"Karų laikotarpiu į Švediją buvo išvežta daug brangenybių, tarp jų – Stokholmo link gabenta akademijos biblioteka ir kiti kultūros turtai.","support_ids":["t-122994","c-112484"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta nurodytais šaltiniais apie karus, diplomatinius ryšius ir kultūros vertybių išvežimą."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai patvirtina abu karus ir Vazų dinastijos valdovų pretenzijas į Švedijos sostą."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Tvano laikotarpį, Karolio XII kariuomenės sutriuškinimą, Livonijos užėmimą ir Baltijos pakrantės kontrolę."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina 1581 m. pasiuntinybę per Lauryną Goslickį ir Jono bei Kotrynos Jogailaitės santuoką Vilniuje."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai patvirtina brangenybių išvežimą į Švediją, akademijos bibliotekos gabenimą į Stokholmą ir kitų kultūros turtų išvežimą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-122995","t-122997","t-122994"]},{"sentence_id":"s2","supported":true,"support_ids":["t-122995","c-112474"]},{"sentence_id":"s3","supported":true,"support_ids":["t-122987","c-112485","t-122991","c-112477"]},{"sentence_id":"s4","supported":true,"support_ids":["t-122989","c-112475","t-122992","c-112476"]},{"sentence_id":"s5","supported":true,"support_ids":["t-122994","c-112484"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Karolis IX","claim_id":"t-79082","confidence":0.94},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Zigmantas Vaza","claim_id":"t-82987","confidence":0.95},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ryga","claim_id":"t-02535","confidence":0.88},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Steponas Batoras","claim_id":"t-113967","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Kuršiai","claim_id":"t-65560","confidence":0.89}],"timeline":[],"support_disclosure":{"claims":16,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3cb7c0f8c951df30
+object_page_generated_at: '2026-09-19T08:58:05+00:00'
+object_page_source_checked_at: '2026-09-19T08:58:05+00:00'
+object_page_content_state: content
+object_page_claim_count: '16'
+object_page_source_count: '5'
+object_page_seo_description: 'Švedija – istorinis objektas, šaltiniuose siejamas su Lietuvos ir Lenkijos karais, diplomatija bei kultūros turto išvežimu. XVII a. Abiejų Tautų Respublika su…'
+object_page_seo_input_hash: 49b0d42a4a204c2c18500b0815efd2a3c311dda9fe25f324dbbec4555c38f68d
+object_page_seo_generated_at: '2026-09-19T08:58:05+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Švedija
 

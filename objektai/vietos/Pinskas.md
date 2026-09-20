@@ -1,18 +1,18 @@
 ---
 tipas: vieta
-pavadinimas: 'Pinskas'
+pavadinimas: Pinskas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1345 m.'
-  - '2026 m.'
+  - 1345 m.
+  - 2026 m.
 date_start: '1345'
 date_end: '2026'
 sukurta: ''
@@ -23,29 +23,41 @@ tags:
   - kunigaikštis
   - vieta
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-cce10f2bf84478f3b4dd686f"
-canonical_name: "Pinskas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Pinskas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-cce10f2bf84478f3b4dd686f
+canonical_name: Pinskas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Pinskas
 sameAs: []
-canonical_biography: "Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske. Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr."
+canonical_biography: 'Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske. Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Pinskas","url":"https://lt.wikipedia.org/wiki/Pinskas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Pinskas","url":"https://www.vle.lt/straipsnis/pinskas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T04:50:51+00:00","source_checked_at":"2026-09-19T04:50:51+00:00","counts":{"relations":4,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Pinskas","url":"https://lt.wikipedia.org/wiki/Pinskas","publisher":"Vikipedija","language":"lt","article_id":"49217","revision_id":"7883344","published_at":"2026-07-21T11:27:56Z","version_pk":"","content_hash":"8fc6da5346ca2c25fcaed8815513fd8b55c7ff468090828fa2cff6ca9083a48f","retrieved_at":"2026-09-19T04:49:56+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Pinskas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"49217"}},"intro":"Pìnskas (bltr. Пінск, rus. Пинск) – miestas ir upių uostas pietvakarių Baltarusijoje, Polesės žemumose, Bresto srityje, prie Pinos ir Pripetės (Dniepro intakų) upių santakos, 40 km atstumu nuo Dniepro-Bugo kanalo. Nuo Minsko nutolęs 280 km, nuo Vilniaus – 350 km. Geležinkelio stotis, upių uostas. Išvystyta laivybos, chemijos, lengvoji, medienos pramonė. Vienas iš Polesės regiono istorinių ir kultūrinių centrų.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Pinskas","url":"https://lt.wikipedia.org/wiki/Pinskas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Pinskas","url":"https://www.vle.lt/straipsnis/pinskas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Pinskas","https://www.vle.lt/straipsnis/pinskas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Vasilijus Čartoriskis","claim_id":"t-87879","confidence":0.88},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-180412","confidence":0.62},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Narimantas (Pinsko kunigaikštis)","claim_id":"t-180415","confidence":0.98},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/grupes/Gediminaičiai","claim_id":"t-96101","confidence":0.71}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d08bf50f844e6902
+object_page_generated_at: '2026-09-19T04:50:51+00:00'
+object_page_source_checked_at: '2026-09-19T04:50:51+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Pinskas: Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske. Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko…'
+object_page_seo_input_hash: 8c8d0ba6ddf2ad3e04ac2ed9652d73f1d7e900fa65824a6cfaf1fbd3efea78d4
+object_page_seo_generated_at: '2026-09-19T04:50:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Pinskas
 

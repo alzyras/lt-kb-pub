@@ -1,19 +1,19 @@
 ---
 tipas: vieta
-pavadinimas: 'Kulmas'
+pavadinimas: Kulmas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1222 m.'
-  - '1230 m.'
-  - '1231 m.'
-  - '1232 m.'
-  - '1233 m.'
-  - '1235 m.'
-  - '2026 m.'
+  - 1222 m.
+  - 1230 m.
+  - 1231 m.
+  - 1232 m.
+  - 1233 m.
+  - 1235 m.
+  - 2026 m.
 date_start: '1222'
 date_end: '2026'
 sukurta: ''
@@ -24,29 +24,41 @@ tags:
   - pilis
   - žemė
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-14bdca8dbf2485e721b4635c"
-canonical_name: "Kulmas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kulmas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-14bdca8dbf2485e721b4635c
+canonical_name: Kulmas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kulmas
 sameAs: []
-canonical_biography: "tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj."
+canonical_biography: 'tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Kulmas","url":"https://lt.wikipedia.org/wiki/Kulmas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kulmas","url":"https://www.vle.lt/straipsnis/kulmas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T04:36:00+00:00","source_checked_at":"2026-09-19T04:36:00+00:00","counts":{"relations":38,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Į rytus Kulmas tuomet tęsėsi tik ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą. Čia taip pat buvo senų senovės siena, kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­ čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš tikrosios Prūsijos, be to, ten ribojosi provincijų mažos Lubavos ir Sasavos žemės. Vėliau, plečiantis sienoms, abi šios žemės priklausė Kulmui, o jų teritorija driekėsi ligi Galindos.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","claim_id":"t-212485","evidence_id":"c-195718","origin":"internal"},"wiki":{"status":"published","source":{"title":"Kulmas","url":"https://lt.wikipedia.org/wiki/Kulmas","publisher":"Vikipedija","language":"lt","article_id":"190720","revision_id":"7359542","published_at":"2024-08-17T16:49:01Z","version_pk":"","content_hash":"4b4e5faec7004ce679a616b2f70ba0e89e470da32e6dd0e9e2923d1322f647fa","retrieved_at":"2026-09-19T04:35:01+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Kulmas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"190720"}},"intro":"Kulmas (lenk. Chełmno) – miestas Lenkijoje, Kujavijos Pamario vaivadijoje, 40 km į šiaurės rytus nuo Bydgoščiaus, prie tarptautinio kelio E75 (Cešynas–Gdanskas). Apskrities centras. 20 822 gyventojai (2006 m.).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Kulmas","url":"https://lt.wikipedia.org/wiki/Kulmas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kulmas","url":"https://www.vle.lt/straipsnis/kulmas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kulmas","https://www.vle.lt/straipsnis/kulmas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"d7208561e90c498f66f6a207","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Į rytus tęsėsi iki Drevantos krantų.","context":"Teodoras Narbutas, aprašydamas istorinę situaciją, rašė, kad Kulmas tuomet į rytus tęsėsi tik ligi Drevantos krantų.","support_ids":["t-212485","c-195718","t-213666","c-194959"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212485","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-213666","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195718","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Į rytus Kulmas tuomet tęsėsi tik ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą. Čia taip pat buvo senų senovės siena, kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­ čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš tikrosios Prūsijos, be to, ten ribojosi provincijų mažos Lubavos ir Sasavos žemės. Vėliau, plečiantis sienoms, abi šios žemės priklausė Kulmui, o jų teritorija driekėsi ligi Galindos."},{"kind":"evidence","evidence_id":"c-194959","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Be to, šių dviejų provincijų pasienyje plytėjo didžiulė giria, kuri skverbėsi į abiem provincijoms priklausančias žemes. Į rytus Kulmas tuomet tęsėsi tik ligi Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą. Čia taip pat buvo senų senovės siena, kuri Kulmo kraštą skyrė nuo senovės Prūsijos; taip anks­ čiau Noimarko upė, kaip liudija senos sutartys, tekėjo iš tikrosios Prūsijos, be to, ten ribojosi provincijų mažos Lubavos ir Sasavos žemės."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Hermanas iš Šenenbergo","claim_id":"t-225345","confidence":0.78},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-222261","confidence":0.68},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Henrikas iš Lichtenšteino","claim_id":"t-222600","confidence":0.86},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Šventoji Barbora","claim_id":"t-224207","confidence":0.78},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Hermanas (Ordino magistras)","claim_id":"t-225460","confidence":0.92},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Hermanas iš Zalcos","claim_id":"t-217747","confidence":0.9},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-220393","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Lenkai","claim_id":"t-220249","confidence":0.87},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Teutonai","claim_id":"t-220885","confidence":0.88},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Mozūrai","claim_id":"t-52959","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-221418","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Lubava","claim_id":"t-214680","confidence":0.91},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Sasava (Salavijos tvirtovė)","claim_id":"t-214680","confidence":0.91},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Vartenbergas","claim_id":"t-221462","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Divanas","claim_id":"t-221067","confidence":0.8},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-88368","confidence":0.7},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Herkus Mantas","claim_id":"t-175202","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Linkas","claim_id":"t-221434","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Skomantas (lietuvių vadas)","claim_id":"t-40424","confidence":0.96},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Skomantas","claim_id":"t-184827","confidence":0.93},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-222300","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Traidenis","claim_id":"t-185647","confidence":0.93},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vladislovas Lokietka","claim_id":"t-222124","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-222359","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-222552","confidence":0.72},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-222963","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-220231","confidence":0.93},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Sūduvos prūsai","claim_id":"t-185683","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Vengrai","claim_id":"t-221758","confidence":0.9},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Hermanas iš Zalcos","claim_id":"t-224576","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Herkus Mantas","claim_id":"t-220567","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Skomantas","claim_id":"t-224350","confidence":0.94},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-221619","confidence":0.87},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vladislovas Lokietka","claim_id":"t-224431","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-224350","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-221848","confidence":0.82},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-221619","confidence":0.66},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/grupes/Prūsai","claim_id":"t-222152","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 67ea15c6f73d1ac0
+object_page_generated_at: '2026-09-19T04:36:00+00:00'
+object_page_source_checked_at: '2026-09-19T04:36:00+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Kulmas: tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj.'
+object_page_seo_input_hash: f1dc3c6a6310d6f6c6f7c1f618c8f978ff5aa99d3d29f097d93428285ee1f3b2
+object_page_seo_generated_at: '2026-09-19T04:36:00+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kulmas
 

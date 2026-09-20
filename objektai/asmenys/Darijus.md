@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Darijus'
+pavadinimas: Darijus
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -14,19 +14,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9b8e0f2ebc3667cd3b688704"
-canonical_name: "Darijus"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Darijus"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9b8e0f2ebc3667cd3b688704
+canonical_name: Darijus
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Darijus
 sameAs: []
-canonical_biography: "Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir keltis per Dnestrą, Būgą, Dneprą bei Donecą. Iki Darijaus žygio prieš Skitiją gelonai, Narbuto teigimu, jau seniai gyveno tarp budinų, buvo su jais susilieję ir sudarė vieną tautą. Skitų karaliaus Indatiro vadovaujama kariuomenė karo metu kovojo su Darijumi."
+canonical_biography: 'Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir keltis per Dnestrą, Būgą, Dneprą bei Donecą. Iki Darijaus žygio prieš Skitiją gelonai, Narbuto teigimu, jau seniai gyveno tarp budinų, buvo su jais susilieję ir sudarė vieną tautą. Skitų karaliaus Indatiro vadovaujama kariuomenė karo metu kovojo su Darijumi.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:36:13+00:00","source_checked_at":"2026-09-19T21:36:13+00:00","counts":{"relations":7,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"66a028ec39a68be248a39cc8","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Persų karalius, vadovavęs kariuomenei ir užpuolęs Skitiją","context":"Teodoro Narbuto veikale aprašoma, kad Darijus buvo persų karalius, puolė skitus ir vadovavo kariuomenei.","support_ids":["t-212254","c-196232","t-215837","c-195858"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212254","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-215837","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196232","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Siaurine šio ežero pakrante žygiavo didelė Da­ rijaus kariuomenė, artėjusį prie Istro, kai jis puolė ski­ tus, tačiau šie iš savo lygumų traukėsi į rytus ir galop persikėlė kitapus Tanajo, kur Darijus persekiojo juos per 1 Herodot. T. IV. P, 86, 45. r\\ xs -/riliz-a’.. 2 Ibid. P. 86. то''З llovtov. 3 Ibid. P. 57, 100, 101. etį, ёті aUj-utįo ya7eo[i.£oY)u MaiijTO 4 Ibid. P. 45 (P. 300. Not. 52). 5 Vibius Saąuester (ed. Obeli). P. 278. Мсайтіи Maeotin. 6 Herodot. T. IV. P. 57, 100, 86. ly op[A£Č5ixeuoę, e vasto palude profluens... ią [euyou -nįt; Mįautį?, in recessu paludis... Т£ тоир Paci7r)i0p. 7 Ibid. P. 12. s o t i Ss BocnroĮvJg Kipųiipioę /а),£б[А£’.>оц. 8 Ibid. P. 57.vTouię, Suoyii. 9…"},{"kind":"evidence","evidence_id":"c-195858","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Šiandien ji vadinama Pečeros kalva, kuri stūk­ so čia pat prie Dnepro, be užutekių, graži ir patogi gyny­ bai2. Tad negalime nė valandėlės abejoti, jog skitų žem­ dirbiai įkūrė čia vieną pagrindinių savo nuolatinių ko­ lonijų, kur galbūt buvo svarbesnis jų žemdirbystės cent­ ras ir žymesnių žmonių buveinė. Tai turėjo įvykti anks­ čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­ sitiko V amžiaus prieš Kristaus gimimą pradžioje."}],"status":"published","conflict_status":"clear"},{"trait_id":"153fe2194d8bd4cea6d47d12","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Jo žygis turėjo didelę įtaką Skitijos vidaus gyvenimo sąlygoms ir prisidėjo prie jos artėjimo prie žlugimo","context":"Autorius vertina Darijaus žygio poveikį Skitijos vidaus padėčiai; kartu nurodo, kad Darijui nepavyko įveikti skitų.","support_ids":["t-214864","c-195448"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214864","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195448","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Darijui nepavyko įveikti skitų, bet šis žygis turėjo didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­ tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/asmenys/Indatiras","claim_id":"t-215620","confidence":0.95},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/asmenys/Indatiras","claim_id":"t-213360","confidence":0.88},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Skitija","claim_id":"t-214531","confidence":0.84},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Skitija","claim_id":"t-212323","confidence":0.86},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Persai","claim_id":"t-212905","confidence":0.71},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/ivykiai/Darijaus žygis prieš skitus","claim_id":"t-213500","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Skitija","claim_id":"t-215207","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 7db03cdf350872b7
+object_page_generated_at: '2026-09-19T21:36:13+00:00'
+object_page_source_checked_at: '2026-09-19T21:36:13+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'Darijus: Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir keltis per Dnestrą, Būgą, Dneprą bei Donecą. Iki Darijaus žygio prieš…'
+object_page_seo_input_hash: 790056cbf37bf8583c9926e287d8e85121ba09a10ab3da548a63439b95ac49ea
+object_page_seo_generated_at: '2026-09-19T21:36:13+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Darijus
 

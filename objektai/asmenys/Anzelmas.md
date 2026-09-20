@@ -7,7 +7,7 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1254 m.'
+  - 1254 m.
 date_start: '1254'
 date_end: ''
 sukurta: ''
@@ -18,28 +18,41 @@ tags:
   - kunigaikštis
   - valdovas
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-527a87e38044b9ceeff45726"
-canonical_name: "Anzelmas (vyskupas, XIII a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Anzelmas","Anzelmas (vyskupas, XIII a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-527a87e38044b9ceeff45726
+canonical_name: 'Anzelmas (vyskupas, XIII a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Anzelmas
+  - 'Anzelmas (vyskupas, XIII a.)'
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną. Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus."
+canonical_biography: 'Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną. Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:40:02+00:00","source_checked_at":"2026-09-19T22:40:02+00:00","counts":{"relations":1,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"64b233fd7654803caa2b5ba6","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Varmės vyskupas ir Teutonų ordino brolis.","context":"Petras Dusburgietis tai nurodo aprašydamas Brunsbergo pilies ir miesto statybą bei vėlesnį prūsų puolimą; antrosios atskalūnybės metais.","support_ids":["t-220573","c-203548"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220573","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203548","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele kariuomene ją apsupo, visą dieną smarkiai puolė."}],"status":"published","conflict_status":"clear"},{"trait_id":"a7378bfba66bc51fd60aadcc","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Brunsbergo pilies ir miesto Serijos upės žemupio saloje statytojas.","context":"Petras Dusburgietis kronikoje tiesiogiai teigia, kad Anzelmas pastatė Brunsbergo pilį ir miestą; aprašomas laikotarpis prieš antrosios atskalūnybės metų prūsų puolimą.","support_ids":["t-221707","c-203548"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221707","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203548","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele kariuomene ją apsupo, visą dieną smarkiai puolė."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"pastate","direction":"outbound","target":"objektai/vietos/Brunsbergas","claim_id":"t-220573","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":7,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b89b38431fde3f19
+object_page_generated_at: '2026-09-19T22:40:02+00:00'
+object_page_source_checked_at: '2026-09-19T22:40:02+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '4'
+object_page_seo_description: 'Anzelmas (vyskupas, XIII a.): Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko…'
+object_page_seo_input_hash: 351ed2d204ff221a40a4d8141469c985c4f7322a7c8ec765b497dad698b868f5
+object_page_seo_generated_at: '2026-09-19T22:40:02+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Anzelmas (vyskupas, XIII a.)
 

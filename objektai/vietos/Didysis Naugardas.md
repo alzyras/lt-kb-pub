@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Didysis Naugardas'
+pavadinimas: Didysis Naugardas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
@@ -9,17 +9,17 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1000 m.'
-  - '1407 m.'
-  - '1409 m.'
-  - '1418 m.'
-  - '1426 m.'
-  - '1427 m.'
-  - '1428 m.'
-  - '2026 m.'
+  - 1000 m.
+  - 1407 m.
+  - 1409 m.
+  - 1418 m.
+  - 1426 m.
+  - 1427 m.
+  - 1428 m.
+  - 2026 m.
 date_start: '1000'
 date_end: '2026'
 sukurta: ''
@@ -28,29 +28,41 @@ tags:
   - miestas
   - vieta
 amziai:
-  - 'X'
-  - 'XXI'
+  - X
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3073ff3426598fd1798b27aa"
-canonical_name: "Didysis Naugardas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Didysis Naugardas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3073ff3426598fd1798b27aa
+canonical_name: Didysis Naugardas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Didysis Naugardas
 sameAs: []
-canonical_biography: "Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Naugardą."
+canonical_biography: 'Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Naugardą.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Didysis Naugardas","url":"https://www.vle.lt/straipsnis/didysis-naugardas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T02:08:26+00:00","source_checked_at":"2026-09-19T02:08:26+00:00","counts":{"relations":2,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Didžiulė politinė permaina, atėjusi per Jogailą su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos vasalų virtimas turtingiausia aristokratija - visa tai Vilniaus mies­ tiečiams nesuteikė nei progos, nei palankaus meto įgyti daugiau laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-179789","evidence_id":"c-163437","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Didysis Naugardas","url":"https://www.vle.lt/straipsnis/didysis-naugardas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/didysis-naugardas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"32e321e7ce11b8972e649813","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Tinkamas prekybai","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.), aprašydamas laikotarpį iki Vilniaus iškilimo, teigia, kad Didysis Naugardas buvo tinkamas prekybai.","support_ids":["t-179779","c-163435"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179779","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163435","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis. Įsikūrusių toliau šiaurėje mongolų antpuoliai jų ne tik nepalietė taip, kaip visos Rusios, bet ir nelei­ do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­ vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų."}],"status":"published","conflict_status":"clear"},{"trait_id":"2acc53894c2a8564454ebca9","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Tankiai gyvenama gyvenvietė","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.), teigia, kad anksčiau už Vilnių įkurtas Didysis Naugardas greičiau virto tankiai gyvenama gyvenviete.","support_ids":["t-179789","c-163437"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179789","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163437","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Didžiulė politinė permaina, atėjusi per Jogailą su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos vasalų virtimas turtingiausia aristokratija - visa tai Vilniaus mies­ tiečiams nesuteikė nei progos, nei palankaus meto įgyti daugiau laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c685bae9559a1749048bcc05","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Turtingesnė gyvenvietė","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.), teigia, kad Didysis Naugardas greičiau virto turtingesne gyvenviete.","support_ids":["t-179779","c-163435"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179779","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163435","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis. Įsikūrusių toliau šiaurėje mongolų antpuoliai jų ne tik nepalietė taip, kaip visos Rusios, bet ir nelei­ do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­ vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"736b4ed4d28adacb24e9a83a","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Įsikūręs toliau šiaurėje","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.), Didįjį Naugardą priskiria Rusios miestams, įsikūrusiems toliau šiaurėje; šis kontekstas siejamas su mongolų antpuolių poveikiu.","support_ids":["t-179779","c-163435"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179779","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163435","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar- das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti, tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­ tingesnėmis gyvenvietėmis. Įsikūrusių toliau šiaurėje mongolų antpuoliai jų ne tik nepalietė taip, kaip visos Rusios, bet ir nelei­ do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­ vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179775","confidence":0.94},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-178112","confidence":0.8}],"timeline":[],"support_disclosure":{"claims":4,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 87adccbf1cfbaf9a
+object_page_generated_at: '2026-09-19T02:08:26+00:00'
+object_page_source_checked_at: '2026-09-19T02:08:26+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '3'
+object_page_seo_description: 'Didysis Naugardas: Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas.…'
+object_page_seo_input_hash: 2469a70875a3dc5251f04f6206c21e2fac40a037422fb1794c1ace6456fc5c8c
+object_page_seo_generated_at: '2026-09-19T02:08:26+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Didysis Naugardas
 

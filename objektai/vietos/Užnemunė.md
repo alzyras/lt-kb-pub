@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Užnemunė'
+pavadinimas: Užnemunė
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1422 m.'
-  - '1807 m.'
-  - '1867 m.'
-  - '2026 m.'
+  - 1422 m.
+  - 1807 m.
+  - 1867 m.
+  - 2026 m.
 date_start: '1422'
 date_end: '2026'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - vieta
   - kraštas
 amziai:
-  - 'XV'
-  - 'XXI'
+  - XV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-92720fa9712569a3632cacb1"
-canonical_name: "Užnemunė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Užnemunė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-92720fa9712569a3632cacb1
+canonical_name: Užnemunė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Užnemunė
 sameAs: []
-canonical_biography: "Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje. Žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko ir panaikinus Lenkų karalystę."
+canonical_biography: 'Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje. Žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko ir panaikinus Lenkų karalystę.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Užnemunė","url":"https://lt.wikipedia.org/wiki/U%C5%BEnemun%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Užnemunė","url":"https://www.vle.lt/straipsnis/uznemune/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:57:36+00:00","source_checked_at":"2026-09-19T17:57:36+00:00","counts":{"relations":7,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Užnemunė","url":"https://lt.wikipedia.org/wiki/U%C5%BEnemun%C4%97","publisher":"Vikipedija","language":"lt","article_id":"41857","revision_id":"6196020","published_at":"2021-02-20T10:43:32Z","version_pk":"","content_hash":"243f5751ac055dc1ef74bdb933c0b50578c36edd8dbeb8211fe807e5566e88cf","retrieved_at":"2026-09-19T17:55:33+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=U%C5%BEnemun%C4%97&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"41857"}},"intro":"Užnemunė – geografinė sritis kairiajame Nemuno krante. Plotas apie 8200 km², šiaurės vakaruose gyveno sūduviai, pietryčiuose – vakarų dzūkai.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Užnemunė","url":"https://lt.wikipedia.org/wiki/U%C5%BEnemun%C4%97","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Užnemunė","url":"https://www.vle.lt/straipsnis/uznemune/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/U%C5%BEnemun%C4%97","https://www.vle.lt/straipsnis/uznemune/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e009360cd90651ab6b9615a3","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Maždaug šeštadalis dabartinės Lietuvos teritorijos.","context":"XIX a. Lietuvos Užnemunės administracinio statuso aprašyme; autoriai nurodo, kad ji priklausė iš pradžių Augustavo, o nuo 1867 m. Suvalkų gubernijai.","support_ids":["t-182736","c-166152"],"source_refs":[{"kind":"internal_claim","claim_id":"t-182736","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166152","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Nuo ketvirtojo dešimtmečio rusiška administracinio teritorinio val- dymo sistema įvesta ir Kongresinėje Lenkijoje. Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 101 klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Su- valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos."}],"status":"published","conflict_status":"clear"},{"trait_id":"ff34fbee9342abf9737a868a","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Buvo nurodyta kurti mokyklas rusų dėstomąja kalba; lietuvių kalbai paliktas disciplinos statusas, o keliose vidurinėse mokyklose ji įsileista kaip neprivaloma disciplina.","context":"Caro valdžios politika Lietuvos Užnemunėje XIX a.; taip aprašo Lietuvos istorijos autoriai.","support_ids":["t-182735","c-166149"],"source_refs":[{"kind":"internal_claim","claim_id":"t-182735","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166149","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"„Lenkų suartinimo su rusais“ strategine nuostata caro valdžia tuo pat metu siekė apsaugoti nuo sulenkėjimo karalystės ne etninius lenkus. Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie- tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei- kėjo iš vadovėlių, parašytų kirilika). Kaip neprivaloma disciplina lietuvių kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni- versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams, turintiems atestate lietuvių kalbos pažymį."}],"status":"published","conflict_status":"clear"},{"trait_id":"91546d9e65ec3d1f3344a43b","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"1807 m. Užnemunėje įvestas Napoleono kodeksas; juo valstiečiai atleisti nuo baudžiavos, bet be žemės.","context":"Varšuvos kunigaikštystės laikotarpis nuo 1807 m.; taip aprašo A. Šapokos redaguota Lietuvos istorija.","support_ids":["t-193240","c-175977"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193240","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-175977","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na- poleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžia- vos, tik be žemės. Žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko ir panaikinus Lenkų karalystę. Užnemunėje Napoleono kodek- sas, — žinoma, labai papildytas, — tebeveikia dar ir dabar."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gime","direction":"inbound","target":"objektai/asmenys/Jonas Basanavičius","claim_id":"t-78004","confidence":0.68},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-36254","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Augustavo gubernija","claim_id":"t-171614","confidence":0.9},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lenkijos karalystė","claim_id":"t-114457","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-183097","confidence":0.74},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Rusija","claim_id":"t-183279","confidence":0.84},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Varšuvos kunigaikštystė","claim_id":"t-77420","confidence":0.84}],"timeline":[],"support_disclosure":{"claims":9,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3456d147f8a1f271
+object_page_generated_at: '2026-09-19T17:57:36+00:00'
+object_page_source_checked_at: '2026-09-19T17:57:36+00:00'
+object_page_content_state: content
+object_page_claim_count: '9'
+object_page_source_count: '4'
+object_page_seo_description: 'Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje. Žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje…'
+object_page_seo_input_hash: 5c304f6b79a85c99c1c6eae6b73900d8eb685f5dc9d1292f13d4227bddd0e14e
+object_page_seo_generated_at: '2026-09-19T17:57:36+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Užnemunė
 

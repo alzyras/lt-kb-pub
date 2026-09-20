@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Danija'
+pavadinimas: Danija
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1570 m.'
+  - 1570 m.
 date_start: '1570'
 date_end: ''
 sukurta: ''
@@ -16,28 +16,40 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7c7cbf6cdbbf791b27cabdb1"
-canonical_name: "Danija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Danija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7c7cbf6cdbbf791b27cabdb1
+canonical_name: Danija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Danija
 sameAs: []
-canonical_biography: "Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras."
+canonical_biography: 'Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs caras.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Danija","url":"https://lt.wikipedia.org/wiki/Danija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Danija","url":"https://www.vle.lt/straipsnis/danija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:51:35+00:00","source_checked_at":"2026-09-20T00:51:35+00:00","counts":{"relations":4,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Danija","url":"https://lt.wikipedia.org/wiki/Danija","publisher":"Vikipedija","language":"lt","article_id":"731","revision_id":"7921893","published_at":"2026-09-10T14:12:55Z","version_pk":"","content_hash":"b62b0d36692b3189b31eca47c49d45cc6015706c518437a65f5efb49590922d5","retrieved_at":"2026-09-20T00:50:46+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Danija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"731"}},"intro":"Danija (dan. Danmark; oficialiai Danijos Karalystė, dan. Kongeriget Danmark) – valstybė Šiaurės Europoje, tarp Baltijos ir Šiaurės jūrų. Įsikūrusi Jutlandijos pusiasalyje ir aplinkinėse salose: Danijos salyne, Šiaurės Fryzų salose, Bornholme. Jutlandijos pietuose ribojasi su Vokietija (vienintelė sausumos siena – 68 km ilgio). Šalies sostinė ir didžiausias miestas – Kopenhaga. Kategato ir Eresuno sąsiauriai skiria Daniją nuo Švedijos, Skagerako sąsiauris – nuo Norvegijos. Nuo 1973 m. Danija priklauso Europos Sąjungai, bet Grenlandija ir Farerų salos turinčios vidaus autonomiją, Europos Sąjungai nepriklauso. Danija taip pat yra NATO, OECD ir ESBO narė.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Danija","url":"https://lt.wikipedia.org/wiki/Danija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Danija","url":"https://www.vle.lt/straipsnis/danija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Danija","https://www.vle.lt/straipsnis/danija/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Frotonas III","claim_id":"t-214540","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Starkateras","claim_id":"t-215657","confidence":0.74},{"predicate":"prekiavo_su","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-212187","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Slavai","claim_id":"t-215677","confidence":0.92}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 49f44065ef301933
+object_page_generated_at: '2026-09-20T00:51:35+00:00'
+object_page_source_checked_at: '2026-09-20T00:51:35+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Danija: Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuva su Lenkija, kitą — Švedija, trečią — Danija, o ketvirtą buvo užgrobęs…'
+object_page_seo_input_hash: 2693f2a4b4ff1f0cb78dcf4dca81e43a91c53711ab4c985a6f5be3d1ed39a7dd
+object_page_seo_generated_at: '2026-09-20T00:51:35+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Danija
 

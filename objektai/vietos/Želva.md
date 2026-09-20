@@ -1,22 +1,22 @@
 ---
 tipas: vieta
-pavadinimas: 'Želva'
+pavadinimas: Želva
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1865 m.'
-  - '1910 m.'
-  - '1919 m.'
-  - '1921 m.'
-  - '1927 m.'
-  - '1935 m.'
-  - '1946 m.'
-  - '1975 m.'
-  - '1982 m.'
-  - '1985 m.'
-  - '1988 m.'
-  - '2026 m.'
+  - 1865 m.
+  - 1910 m.
+  - 1919 m.
+  - 1921 m.
+  - 1927 m.
+  - 1935 m.
+  - 1946 m.
+  - 1975 m.
+  - 1982 m.
+  - 1985 m.
+  - 1988 m.
+  - 2026 m.
 date_start: '1865'
 date_end: '2026'
 sukurta: ''
@@ -25,29 +25,41 @@ tags:
   - vieta
   - miestelis
 amziai:
-  - 'XIX'
-  - 'XXI'
+  - XIX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e827683729c27281b990b6bb"
-canonical_name: "Želva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Želva"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e827683729c27281b990b6bb
+canonical_name: Želva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Želva
 sameAs: []
-canonical_biography: "Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron Klug (Aronas Kliugas, g."
+canonical_biography: 'Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron Klug (Aronas Kliugas, g.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Želva","url":"https://lt.wikipedia.org/wiki/%C5%BDelva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:17:03+00:00","source_checked_at":"2026-09-20T11:17:03+00:00","counts":{"relations":4,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Želva","url":"https://lt.wikipedia.org/wiki/%C5%BDelva","publisher":"Vikipedija","language":"lt","article_id":"16659","revision_id":"7598658","published_at":"2025-07-20T07:32:19Z","version_pk":"","content_hash":"5604401dd17d3bf361c6e57b354c2c5fb35334e89dcd13ab70530bca0c95eea6","retrieved_at":"2026-09-20T11:14:48+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=%C5%BDelva&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"16659"}},"intro":"Želva – miestelis Ukmergės rajono savivaldybėje, šalia kelio 115 Ukmergė–Molėtai , prie Želvelės upelio (Siesarties intakas). Seniūnijos ir seniūnaitijos centras. Stovi medinė Želvos šv. Ignaco Lojolos bažnyčia (pastatyta 1892 m.), Želvos sinagoga, veikia Ukmergės r. Želvos pagrindinė mokykla, Ukmergės meno mokyklos Želvos filialas, biblioteka, paštas (LT-20015), hipodromas (nuo 1979 m.), paminklas žydų žudynių vietoje. Miestelyje vyksta Šv. Igno atlaidai, prie miestelio stūkso Paželvių piliakalnis.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Želva","url":"https://lt.wikipedia.org/wiki/%C5%BDelva","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C5%BDelva"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c62bf4c6c648400be654a9c7","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"1919 m. Želva buvo Lietuvos 2-ojo pulko susitelkimo vieta prieš puolimą Giedraičių kryptimi.","context":"1919 m. lapkričio 19 d. karinio įsakymo kontekste.","support_ids":["t-172064","c-156492"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172064","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-156492","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"2-ajam pulkui buvo nurodyta su- sitelkti Želvoje ir iš ten pulti Giedraičių kryptimi ir užėmus Giedraičius, pa- sistūmėti iki lapkričio 21 d. 9 val. kiek įmanoma toliau (tuomet į frontą tu- rėjo atvykti Tautų Sąjungos kontrolės komisija sustabdyti kovos veiksmų)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0199ec9b231a0f0cea2c6f57","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"1919 m. spalio 26–27 d. Želvą užėmė lenkų pajėgos.","context":"Lietuvos nepriklausomybės kovų kontekste; šaltinis aprašo karinį įvykį.","support_ids":["t-172063","c-156490"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172063","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-156490","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Spalio 26-27 d. lenkai apėjo kai- rįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį. Susidarė pavo- jinga padėtis, lenkams pasiekus savo puo- limo tikslą, Lietuvai būtų iškilęs pavojus prarasti nepriklausomybę."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Želva – vietovė, minima kaip svarbi karinių veiksmų erdvė skirtingais Lietuvos istorijos laikotarpiais. 1919 m. spalio 26–27 d. ją, kartu su Giedraičiais, Dubingiais ir Vidiškiu, užėmė lietuvių sparną aplenkusios lenkų pajėgos, sukeldamos pavojingą padėtį Lietuvos nepriklausomybei. Tų pačių metų lapkričio 19 d. Želva tapo 2-ojo pulko telkimosi vieta: iš čia buvo planuojama pulti Giedraičių kryptimi, užimti Giedraičius ir iki lapkričio 21 d. pasistūmėti kuo toliau, prieš atvykstant Tautų Sąjungos kontrolės komisijai. Vėliau, 1946 m. sausio 22 d., Želvos valsčiaus Gursčių kaimo apylinkėse apie 50 Plieno būrio partizanų, vadovaujamų Alfonso Morkūno-Plieno ir Povilo Švelniko-Voldemaro, kovėsi su NKVD kariuomene.","sentences":[{"sentence_id":"s1","text":"Želva – vietovė, minima kaip svarbi karinių veiksmų erdvė skirtingais Lietuvos istorijos laikotarpiais.","support_ids":["t-172063","t-172064","t-172065","c-156490","c-156492","c-44110"]},{"sentence_id":"s2","text":"1919 m. spalio 26–27 d. ją, kartu su Giedraičiais, Dubingiais ir Vidiškiu, užėmė lietuvių sparną aplenkusios lenkų pajėgos, sukeldamos pavojingą padėtį Lietuvos nepriklausomybei.","support_ids":["t-172063","c-156490"]},{"sentence_id":"s3","text":"Tų pačių metų lapkričio 19 d. Želva tapo 2-ojo pulko telkimosi vieta: iš čia buvo planuojama pulti Giedraičių kryptimi, užimti Giedraičius ir iki lapkričio 21 d. pasistūmėti kuo toliau, prieš atvykstant Tautų Sąjungos kontrolės komisijai.","support_ids":["t-172064","c-156492"]},{"sentence_id":"s4","text":"Vėliau, 1946 m. sausio 22 d., Želvos valsčiaus Gursčių kaimo apylinkėse apie 50 Plieno būrio partizanų, vadovaujamų Alfonso Morkūno-Plieno ir Povilo Švelniko-Voldemaro, kovėsi su NKVD kariuomene.","support_ids":["t-172065","c-44110"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Visi teiginio faktai paremti nurodytais šaltiniais: Želva minima 1919 m. kariniuose veiksmuose ir 1946 m. partizanų kautynėse."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad 1919 m. spalio 26–27 d. lenkų pajėgos, apėjusios lietuvių kairįjį sparną, užėmė Želvą ir kitas vietoves bei sukėlė pavojų Lietuvos nepriklausomybei."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 2-ojo pulko telkimąsi Želvoje, puolimą Giedraičių kryptimi, siekį užimti Giedraičius ir stumtis iki lapkričio 21 d. prieš atvykstant Tautų Sąjungos komisijai."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1946 m. sausio 22 d. kautynes Želvos valsčiaus Gursčių kaimo apylinkėse, apie 50 Plieno būrio partizanų, jų vadovus ir kovą su NKVD kariuomene."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-172063","t-172064","t-172065","c-156490","c-156492","c-44110"]},{"sentence_id":"s2","supported":true,"support_ids":["t-172063","c-156490"]},{"sentence_id":"s3","supported":true,"support_ids":["t-172064","c-156492"]},{"sentence_id":"s4","supported":true,"support_ids":["t-172065","c-44110"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gime","direction":"inbound","target":"objektai/asmenys/Aaron Klug","claim_id":"t-172066","confidence":0.98},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-171553","confidence":0.6},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-171553","confidence":0.6},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-172063","confidence":0.96}],"timeline":[{"date":"1919 m.","label":"1919 m.","claimId":"t-172064"},{"date":"1946 m.","label":"1946 m.","claimId":"t-172065"},{"date":"1982 m.","label":"Želvoje gimęs Aaron Klug 1982 m.","claimId":"t-172066"}],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: cb893bec78057e37
+object_page_generated_at: '2026-09-20T11:17:03+00:00'
+object_page_source_checked_at: '2026-09-20T11:17:03+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Želva – vietovė, minima kaip svarbi karinių veiksmų erdvė skirtingais Lietuvos istorijos laikotarpiais. 1919 m. spalio 26–27 d. ją, kartu su Giedraičiais…'
+object_page_seo_input_hash: 972a6eeb01279bd13482098efd3fdb2b1c37699a2e8f7441e6c7d67172527375
+object_page_seo_generated_at: '2026-09-20T11:17:03+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Želva
 

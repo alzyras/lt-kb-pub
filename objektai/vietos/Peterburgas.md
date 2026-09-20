@@ -1,22 +1,22 @@
 ---
 tipas: vieta
-pavadinimas: 'Peterburgas'
+pavadinimas: Peterburgas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1792 m.'
-  - '1795 m.'
-  - '1797 m.'
-  - '1807 m.'
-  - '1815 m.'
-  - '1832 m.'
-  - '1839 m.'
-  - '1840 m.'
-  - '1905 m.'
-  - '1906 m.'
-  - '1917 m.'
+  - 1792 m.
+  - 1795 m.
+  - 1797 m.
+  - 1807 m.
+  - 1815 m.
+  - 1832 m.
+  - 1839 m.
+  - 1840 m.
+  - 1905 m.
+  - 1906 m.
+  - 1917 m.
 date_start: '1792'
 date_end: '1917'
 sukurta: ''
@@ -27,29 +27,41 @@ tags:
   - vieta
   - miestelis
 amziai:
-  - 'XVIII'
-  - 'XX'
+  - XVIII
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2e19c7d750ef2e560085e642"
-canonical_name: "Peterburgas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Peterburgas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2e19c7d750ef2e560085e642
+canonical_name: Peterburgas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Peterburgas
 sameAs: []
-canonical_biography: "Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus. Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo. 1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas."
+canonical_biography: 'Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus. Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo. 1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T10:04:17+00:00","source_checked_at":"2026-09-19T10:04:17+00:00","counts":{"relations":1,"gallery":0,"sources":6},"featured_claim_ids":["t-207604","t-214050","t-77134","t-217453","t-77132","t-77141","t-77142"],"featured_claims":[{"claim_id":"t-207604","text":"1795 m. Peterburge buvo pasirašyta konvencija dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","evidence_ids":["c-190221"]},{"claim_id":"t-214050","text":"Peterburge 1839 m. istorikas gavo Jo Didenybės Imperatoriaus dovaną, briliantinį žiedą, po „Lietuvių mitologijos“ įvertinimo.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-195351"]},{"claim_id":"t-77134","text":"Pirmojo pasaulinio karo metais Peterburge ir Voroneže susiformavo lietuvių centrai su laikraščių redakcijomis ir gimnazijomis.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-74583"]},{"claim_id":"t-217453","text":"„Lietuvių mitologija“ buvo įvertinta Peterburge.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-199431"]},{"claim_id":"t-77132","text":"Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-24377"]},{"claim_id":"t-77141","text":"Peterburge telkėsi reformų opozicija, nes Jekaterina II ten susikvietė aršiausius reformų priešininkus.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-24373"]},{"claim_id":"t-77142","text":"XIX a. septintąjį ir aštuntąjį dešimtmečiais Lietuvą kirto geležinkelis Peterburgas-Varšuva.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-74580"]}],"featured_quote":{"text":"Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au- tonomijos Lietuvai suteikimo.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-77143","evidence_id":"c-24379","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"323ad1d10f885b1579a5e6fb","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Geležinkelis Peterburgas–Varšuva","context":"XIX a. septintąjį–aštuntąjį dešimtmečiais geležinkelis kirto Lietuvą.","support_ids":["t-77132","c-24377"],"source_refs":[{"kind":"internal_claim","claim_id":"t-77132","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-24377","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ec9dca2c21898fdae029a56a","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Lietuvių laikraščių redakcijos ir gimnazijos","context":"Pirmojo pasaulinio karo metais Peterburge susiformavo lietuvių centrai, kuriuose veikė lietuviškų laikraščių redakcijos ir gimnazijos.","support_ids":["t-77134","c-74583"],"source_refs":[{"kind":"internal_claim","claim_id":"t-77134","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-74583","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Ateities klausimų svarstymas apėmė svarbiausius lietuvių telkinius. Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi- sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi- formavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, gimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą. Rusijos revoliucija, caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli- tiškai jie skilo: kai 1917 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c5f80416cf79ec4ab9106a06","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Lietuvių centras","context":"Pirmojo pasaulinio karo metais Peterburge susiformavo lietuvių centras; šaltinis nurodo, kad jame veikė lietuviškų laikraščių redakcijos ir gimnazijos.","support_ids":["t-77134","c-74583"],"source_refs":[{"kind":"internal_claim","claim_id":"t-77134","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-74583","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Ateities klausimų svarstymas apėmė svarbiausius lietuvių telkinius. Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi- sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi- formavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, gimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą. Rusijos revoliucija, caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli- tiškai jie skilo: kai 1917 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3863b04c17c2b581dfb4ad21","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Reformų opozicijos telkimosi vieta","context":"Šaltinio autoriai Peterburgą apibūdina kaip opozicijos lizdą; jų teigimu, Jekaterina II ten susikvietė aršiausius reformų priešininkus.","support_ids":["t-77141","c-24373"],"source_refs":[{"kind":"internal_claim","claim_id":"t-77141","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-24373","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6a0231576bc8b7bd0faee049","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Konvencijos dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo pasirašymo vieta","context":"1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė šią konvenciją.","support_ids":["t-207604","c-190221"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207604","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190221","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Peterburgas – reikšminga vieta, siejama su Lietuvos politiniais, kultūriniais ir susisiekimo ryšiais XIX–XX amžiuje. 1795 m. spalio 24 d. čia Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo. XIX a. septintąjį–aštuntąjį dešimtmečiais Lietuvą kirto Peterburgo–Varšuvos geležinkelis, vėliau susietas ir su atšaka per Kauną į Karaliaučių. Pirmojo pasaulinio karo metais Peterburge susiformavo lietuvių centras, kuriame veikė lietuviškų laikraščių redakcijos ir gimnazijos, o jaunimas buvo rengiamas grįžti į Lietuvą. Miestas taip pat išliko svarbus kultūros istorijoje: 1839 m. čia įvertinta Teodoro Narbuto „Lietuvių mitologija“, o istorikas gavo imperatoriaus dovaną – briliantinį žiedą.","sentences":[{"sentence_id":"s1","text":"Peterburgas – reikšminga vieta, siejama su Lietuvos politiniais, kultūriniais ir susisiekimo ryšiais XIX–XX amžiuje.","support_ids":["t-77134","c-74583","t-77142","c-74580","t-217453","c-199431"]},{"sentence_id":"s2","text":"1795 m. spalio 24 d. čia Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.","support_ids":["t-207604","c-190221"]},{"sentence_id":"s3","text":"XIX a. septintąjį–aštuntąjį dešimtmečiais Lietuvą kirto Peterburgo–Varšuvos geležinkelis, vėliau susietas ir su atšaka per Kauną į Karaliaučių.","support_ids":["t-77142","c-74580"]},{"sentence_id":"s4","text":"Pirmojo pasaulinio karo metais Peterburge susiformavo lietuvių centras, kuriame veikė lietuviškų laikraščių redakcijos ir gimnazijos, o jaunimas buvo rengiamas grįžti į Lietuvą.","support_ids":["t-77134","c-74583"]},{"sentence_id":"s5","text":"Miestas taip pat išliko svarbus kultūros istorijoje: 1839 m. čia įvertinta Teodoro Narbuto „Lietuvių mitologija“, o istorikas gavo imperatoriaus dovaną – briliantinį žiedą.","support_ids":["t-214050","c-195351","t-217453","c-199431"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia atskirus politinius, kultūrinius ir susisiekimo ryšius, bet ne bendrą teiginį, kad Peterburgas buvo reikšminga vieta."},{"sentence_id":"s2","supported":true,"reason":"Teiginys tiesiogiai sutampa su pateikta citata."},{"sentence_id":"s3","supported":true,"reason":"Teiginys tiesiogiai paremtas šaltiniu apie Peterburgo–Varšuvos geležinkelį ir atšaką per Kauną į Karaliaučių."},{"sentence_id":"s4","supported":true,"reason":"Teiginys tiesiogiai sutampa su pateikta citata apie lietuvių centrus, laikraščių redakcijas, gimnazijas ir jaunimo rengimą grįžti į Lietuvą."},{"sentence_id":"s5","supported":false,"reason":"Šaltiniai pagrindžia „Lietuvių mitologijos“ įvertinimą Peterburge ir imperatoriaus dovaną, tačiau nepagrindžia bendro teiginio, kad miestas išliko svarbus kultūros istorijoje."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-77134","c-74583","t-77142","c-74580","t-217453","c-199431"]},{"sentence_id":"s2","supported":true,"support_ids":["t-207604","c-190221"]},{"sentence_id":"s3","supported":true,"support_ids":["t-77142","c-74580"]},{"sentence_id":"s4","supported":true,"support_ids":["t-77134","c-74583"]},{"sentence_id":"s5","supported":true,"support_ids":["t-214050","c-195351","t-217453","c-199431"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-68826","confidence":0.78}],"timeline":[{"date":"1795 m.","label":"1795 m.","claimId":"t-207604"},{"date":"1839 m.","label":"Peterburge 1839 m.","claimId":"t-214050"},{"date":"1906 m.","label":"1906 m.","claimId":"t-77138"}],"support_disclosure":{"claims":11,"sources":6}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e8bb529b2d39b53f
+object_page_generated_at: '2026-09-19T10:04:17+00:00'
+object_page_source_checked_at: '2026-09-19T10:04:17+00:00'
+object_page_content_state: content
+object_page_claim_count: '11'
+object_page_source_count: '6'
+object_page_seo_description: 'Peterburgas – reikšminga vieta, siejama su Lietuvos politiniais, kultūriniais ir susisiekimo ryšiais XIX–XX amžiuje. 1795 m. spalio 24 d. čia Rusija, Austrija…'
+object_page_seo_input_hash: 0e6da5135f780ce187173b0d0b737753b2350243acf0814e571fcb377775ce04
+object_page_seo_generated_at: '2026-09-19T10:04:17+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Peterburgas
 

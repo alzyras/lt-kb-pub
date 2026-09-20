@@ -1,14 +1,14 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jekaterina II'
+pavadinimas: Jekaterina II
 saltiniai:
-  - '04-ldk-personalijos-idejos-refleksijos'
+  - 04-ldk-personalijos-idejos-refleksijos
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
 datos:
-  - '1764 m.'
-  - '1793 m.'
+  - 1764 m.
+  - 1793 m.
 date_start: '1764'
 date_end: '1793'
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - asmuo
   - karalius
 amziai:
-  - 'XVIII'
+  - XVIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-568d1ee85b9a0f674af0c5f2"
-canonical_name: "Jekaterina II"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jekaterina II"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-568d1ee85b9a0f674af0c5f2
+canonical_name: Jekaterina II
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jekaterina II
 sameAs: []
-canonical_biography: "Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi net konkrečias gubernijas, kuriose gali gyventi žydai. Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus. Karalius laikėsi pozicijos, kad Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos 21 dieną iš Jekaterinos II gautą notą."
+canonical_biography: 'Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi net konkrečias gubernijas, kuriose gali gyventi žydai. Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus. Karalius laikėsi pozicijos, kad Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos 21 dieną iš Jekaterinos II gautą notą.'
+external_sources_json: '[{"title":"Jekaterina II","url":"https://lt.wikipedia.org/wiki/Jekaterina_II","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Jekaterina Ii","url":"https://www.vle.lt/straipsnis/jekaterina-ii/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:30:02+00:00","source_checked_at":"2026-09-20T03:30:02+00:00","counts":{"relations":3,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Jekaterina II","url":"https://lt.wikipedia.org/wiki/Jekaterina_II","publisher":"Vikipedija","language":"lt","article_id":"85854","revision_id":"7620317","published_at":"2025-08-18T16:59:47Z","version_pk":"","content_hash":"7564d6116387fa2f1bfcde7fb9c204d87e1d2a58452e832dab832eeeaef78e35","retrieved_at":"2026-09-20T03:28:32+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Jekaterina_II&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"85854"}},"intro":"Jekaterina II, arba Kotryna II (rus. Екатерина II, 1729 m. gegužės 2 d. – 1796 m. lapkričio 17 d.), žinoma kaip Jekaterina Didžioji – Rusijos imperatorė nuo 1762 m. liepos 9 d. iki 1796 m. lapkričio 17 d. Apšviestojo absoliutizmo atstovė.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"Rusijos imperatorė","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"~1729 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Štetinas, Prūsijos karalystė","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1796 m. lapkričio 17 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Sankt Peterburgas, Rusijos imperija","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Petropavlovsko tvirtovė","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Kristijonas Augustas fon Anhaltas-Cerbstas; Joana Elžbieta fon Holštein-Gotorp","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Petras III","source":"wikipedia_infobox"},{"code":"children","label":"Vaikai","value":"Pavelas I · Ana · Aleksejus · Jelizaveta","source":"wikipedia_infobox"},{"code":"reign","label":"Valdymas","value":"1762 m. - 1796 m.","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Jekaterina II","url":"https://lt.wikipedia.org/wiki/Jekaterina_II","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Jekaterina Ii","url":"https://www.vle.lt/straipsnis/jekaterina-ii/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Jekaterina_II","https://www.vle.lt/straipsnis/jekaterina-ii/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"276f9136c71c97f83e5a7c4a","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Nerimavo, kad Prancūzijos jakobinizmo šmėkla pasiekė Rusijos sienas.","context":"1793 m.; taip Jekaterinos II laikyseną aprašo Lietuvos istorijos autoriai.","support_ids":["t-170049","c-154735"],"source_refs":[{"kind":"internal_claim","claim_id":"t-170049","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154735","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"LLV sąjungininkę Prūsiją išgąsdino gali- mas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri- na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas. 1793 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"46a0c973b012e2d86361d804","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Rusijos imperatorė.","context":"Šaltiniuose Jekaterina II įvardijama kaip Rusijos imperatorė; jos valdymo laikotarpiu vietos valdymo sistemoje įtrauktos luomų savivaldos institucijos.","support_ids":["t-170049","c-154735","t-170052","c-154732"],"source_refs":[{"kind":"internal_claim","claim_id":"t-170049","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-170052","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154735","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"LLV sąjungininkę Prūsiją išgąsdino gali- mas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri- na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas. 1793 m."},{"kind":"evidence","evidence_id":"c-154732","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"L I E T U V O S I S T O R I J A 100 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin- kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su- bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos vietos administracijos, atlikusios iš esmės pagalbines funkcijas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"336ed500fe6ba25ac3688a5f","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Rėmė Čartoriskius, tikėdamasi per juos plėsti savo įtaką.","context":"XVIII a. politiniame Abiejų Tautų Respublikos kontekste; tai šaltinio autoriaus pateikiamas jos politinių veiksmų vertinimas.","support_ids":["t-170051","c-41979"],"source_refs":[{"kind":"internal_claim","claim_id":"t-170051","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-41979","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Augusto Poniatovskio globėjus Čartoriskius, savo ruožtu, rėmė Rusijos im- peratorė Jekaterina 11. Ji tikėjosi per juos plėsti savo įtaką. Tačiau Čartoriskiai ėmė- si veiksmų norėdami reformuoti valstybę, vienas iš jų tikslų buvo valstybės raidą paraližuojančios liberum veto teisės pa- naikinimas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4cd9fbb183ffe2c497124403","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"1767–1768 m. parėmė Vilniaus–Radomo bajorų konfederaciją ir oficialiai tapo atkurtos senosios tvarkos globėja.","context":"1767–1768 m.; taip jos vaidmenį aprašo šaltinis, aptardamas kovą su Čartoriskių reformomis.","support_ids":["t-170053","c-41980"],"source_refs":[{"kind":"internal_claim","claim_id":"t-170053","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-41980","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Todėl Jekaterina 11 parėmė jų priešininkus Vilniaus-Radomo bajorų konfederaciją (1767-1768 m.). Jai vado- vauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikonas Karolis Sta- nislovas Radvila (Ponas Mielasis). Šie kon- federatai surengė seimą Varšuvoje, kuriame sustabdė Čartoriskių reformas ir atkūrė senąją tvarką, kurios globėja oficialiai tapo Jakaterina rr."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c06b864bf836138c345e0ded","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Pareiškė, kad prijungdama LDK prie Rusijos nepasiėmė nieko svetimo ir jai nepriklausančio.","context":"LDK prijungimo prie Rusijos kontekste; tai šaltinyje pateiktas Jekaterinos II pareiškimas.","support_ids":["t-207421","c-190076"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207421","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190076","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"Jau prijungiant LDK prie Rusijos jos val- dovė Jekaterina II buvo pareiškusi, kad ji nepasiėmė nieko svetimo ir jai nepriklausančio."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_priesas","direction":"outbound","target":"objektai/grupes/Čartoriskiai","claim_id":"t-170053","confidence":0.74},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Bajorai","claim_id":"t-170053","confidence":0.83},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Čartoriskiai","claim_id":"t-170051","confidence":0.98}],"timeline":[],"support_disclosure":{"claims":6,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1eaf6848c1aa53c0
+object_page_generated_at: '2026-09-20T03:30:02+00:00'
+object_page_source_checked_at: '2026-09-20T03:30:02+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '3'
+object_page_seo_description: 'Jekaterina II: Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas. Rusijos imperatorė Jekaterina II rėmė…'
+object_page_seo_input_hash: d2406f5217d04b597b86ddc98a8e82a2a70d8420411afe8683fb9a11b36218d7
+object_page_seo_generated_at: '2026-09-20T03:30:02+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jekaterina II
 

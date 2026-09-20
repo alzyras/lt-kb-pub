@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Haličas'
+pavadinimas: Haličas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1128 m.'
+  - 1128 m.
 date_start: '1128'
 date_end: ''
 sukurta: ''
@@ -16,28 +16,40 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XII'
+  - XII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f3e9a5343c6e4d67c5a9caf0"
-canonical_name: "Haličas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Haličas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f3e9a5343c6e4d67c5a9caf0
+canonical_name: Haličas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Haličas
 sameAs: []
-canonical_biography: "Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai. Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje. Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje."
+canonical_biography: 'Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai. Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje. Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Haličas","url":"https://www.vle.lt/straipsnis/halicas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:58:26+00:00","source_checked_at":"2026-09-20T03:58:26+00:00","counts":{"relations":1,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Haličas","url":"https://www.vle.lt/straipsnis/halicas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/halicas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0f71ce49b79f821e5b5d0b22","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Buvo Lietuvos politinėje įtakoje Gedimino arba Algirdo laikais.","context":"Šaltinio autorių teiginys apie Haličo politinę padėtį Gedimino arba Algirdo valdymo laikais.","support_ids":["t-183593","c-166985"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183593","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166985","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung- tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe."}],"status":"published","conflict_status":"clear"},{"trait_id":"2a95c36e7592b8ec1930870e","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Rajoninis miestas, apie 90 km į pietus nuo Lvovo; XI–XII a. buvo svarbiausias Haličo kunigaikštystės miestas.","context":"Aprašymas pagal 1971 m. šaltinį; 1245 m. sostinė iš Haličo buvo perkelta į Cholmą.","support_ids":["t-210754","c-192992"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210754","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-192992","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Haličas — UTSR Stanislavo sr. rajoninis miestas (apie 90 km | pietus nuo Lvovo), XI—XII a. svarbiausias miestas Haličo kuni­ gaikštystės, kurią 1245 m. Danielius Romanovlčlus sujungė su Vo­ lynės kunigaikštyste j vieną valstybę ir sostinę iš Haličo perkėlė j Cholmą."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-35034","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1577fa4e43e0d985
+object_page_generated_at: '2026-09-20T03:58:26+00:00'
+object_page_source_checked_at: '2026-09-20T03:58:26+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Haličas: Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai. Haličas buvo tarp žemių, buvusių…'
+object_page_seo_input_hash: fdf7375765027f4e02b460cabbaf0740dee618bfa9bdb4494b418144dfa83e1d
+object_page_seo_generated_at: '2026-09-20T03:58:26+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Haličas
 

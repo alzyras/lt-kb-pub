@@ -1,12 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Poloviečiai'
+pavadinimas: Poloviečiai
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1101 m.'
-  - '1127 m.'
+  - 1101 m.
+  - 1127 m.
 date_start: '1101'
 date_end: '1127'
 sukurta: ''
@@ -15,19 +15,29 @@ tags:
   - tauta
   - grupe
 amziai:
-  - 'XII'
+  - XII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:28:47+00:00","source_checked_at":"2026-09-20T00:28:47+00:00","counts":{"relations":5,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a3b8c42cbc675bb2a546a8ca","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Narbutas teigia, kad poloviečiai nebuvo atskira tauta, o buvo pečenegų palikuonys arba jų dalis.","context":"Teodoro Narbuto istorinis aiškinimas; autorius tai pateikia kaip istorinę interpretaciją.","support_ids":["t-214946","c-197068"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214946","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197068","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Juo labiau kad poloviečiai nebuvo atskira tauta, bet bu­ vo palikuonys ar dalis pečenegų, kurie, — o tai pana­ šiausia į tiesą, — susiformavo iš likučių giminingų hunų genčių, persikėlusių į kairiąją Dnestro pakrantę, išsis­ klaidžiusių po Atilos sūnų žlugimo."}],"status":"published","conflict_status":"clear"},{"trait_id":"a2f7ca256148cda60d5bf98e","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Poloviečiai ilgai kariavo su vokiečiais.","context":"Danielius pasiuntė rusus ir poloviečius Tautvilai į pagalbą; veiksmas aprašomas kronikos pasakojime.","support_ids":["t-210621","c-193429"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210621","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193429","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Paėmė jie daug miestų ir pargrįžo namo l3 . O paskui atsiuntė žinią Vykintas, pranešdamas, kad vokiečiai norį stoti Tautvilai į pagalbą. Danielius iš­ siuntė Tautvilą \", ir jam į pagalbą— rusus bei polovie- čius, ir jie ilgai kariavo vieni su kitais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ec27b772bd77d665f02fbd64","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Narbutas rašo, kad poloviečių ordos puldinėjo pietinius Rusios kraštus, pridarydamos daug žalos, ir toliau kovojo net po pralaimėjimų.","context":"Pasakojama apie laikotarpį nuo po Sekalo pergalės iki pasitraukimo už Volgos apie 1127 metus; tai autoriaus apibūdinimas.","support_ids":["t-213943","c-197294"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213943","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197294","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Po šešerių metų antras vadas, vardu Sekalas, užpuolė rusų kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį gro­ bį. Nuo tų laikų sėkmės paskatintos poloviečių ordos, visuomet būdamos stipresnės ir pridarydamos daug žalos, nesiliovė puldinėjusios pietinius Rusios kraštus. Ne sy­ kį jie buvo smarkiai sutriuškinti, tačiau nebuvo taip pa­ laužti, kad liautųsi kovoti. Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš poloviečius prie Sutenio. Dar kelis kartus smarkiai sumušti, galop po 1121 metais patirto iš graikų sutriuškinimo buvo priversti apie 1127 metus pasitraukti už Volgos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a791069e2c8a6e573b8aa5e4","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Poloviečiai rengė puolimus ir apgulė Giurgevą.","context":"Narbutas, remdamasis Nestoro veikalu, šiuos veiksmus priskiria poloviečiams kairiojoje Dnepro pakrantėje iki XII amžiaus pradžios.","support_ids":["t-215023","c-196307"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215023","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196307","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tačiau jis prieštarauja sau ir savo tiksliai išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­ mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­ imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­ riojoje Dnepro pakrantėje, į rytus nuo jo. Be to, tvirto­ vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė taiką; kartu ji nebuvo sunaikinta ir todėl netrukus turė­ jo* būti atstatyta. Tatiščevas**, gal geriau žinojęs šiuos įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje, bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą Jurjevu, stovėjusią prie Osteros upės žiočių."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Giurgevo tvirtovė","claim_id":"t-213160","confidence":0.92},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-210621","confidence":0.74},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Volga","claim_id":"t-214451","confidence":0.78},{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/Tautvila","claim_id":"t-210621","confidence":0.86},{"predicate":"sudare_sutarti_su","direction":"inbound","target":"objektai/asmenys/Sventopelkas","claim_id":"t-213189","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 0ae8b0bd7d7bb050
+object_page_generated_at: '2026-09-20T00:28:47+00:00'
+object_page_source_checked_at: '2026-09-20T00:28:47+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Poloviečiai: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais. Pasak Nestoro, poloviečiai visą…'
+object_page_seo_input_hash: 52719c9ff745fbd51204b1644da42772a9646210f13a3e5d1a0b920bf03b5ed5
+object_page_seo_generated_at: '2026-09-20T00:28:47+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Poloviečiai
 

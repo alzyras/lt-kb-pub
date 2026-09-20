@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Revelis'
+pavadinimas: Revelis
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1323 m.'
-  - '1808 m.'
+  - 1323 m.
+  - 1808 m.
 date_start: '1323'
 date_end: '1808'
 sukurta: ''
@@ -18,29 +18,41 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XIV'
-  - 'XIX'
+  - XIV
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-613b499927e55f47c6924717"
-canonical_name: "Revelis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Revelis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-613b499927e55f47c6924717
+canonical_name: Revelis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Revelis
 sameAs: []
-canonical_biography: "Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę (šiaurinę Estiją)."
+canonical_biography: 'Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę (šiaurinę Estiją).'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:02:54+00:00","source_checked_at":"2026-09-20T11:02:54+00:00","counts":{"relations":4,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"aa54b5e84a057624a94dbdef","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Revelyje yra šv. Olafo bažnyčia.","context":"Teodoras Narbutas nurodo, kad Revelio šv. Olafo bažnyčioje pats matė medinį kotą su audeklo gabalu ir žalvariniu gaidžiu; šis daiktas, autoriaus teigimu, buvo laikomas pagonybės laikų vėliava, paimta Latvijoje.","support_ids":["t-218264","c-198580"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218264","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-198580","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Iš Marienburgo, Karaliaučiaus, Revelio senienų aiškėja, kad lietuvių karo vėliavose paprastai būdavo pavaiz­ duotas žirgas arba gaidys. Revelyje, šv. Olafo bažnyčioje, pats mačiau medinį kotą su kažkokio audeklo gabalu, kuriame bu­ vo žalvarinis balandžio dydžio gaidys; tatai laikyta pagonybės laikų vėliava, paimta Latvijoje."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Dovydas (Gardino pilininkas)","claim_id":"t-220211","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-220712","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Pskoviečiai","claim_id":"t-220211","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-221305","confidence":0.87}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: bc4cb82cdc799864
+object_page_generated_at: '2026-09-20T11:02:54+00:00'
+object_page_source_checked_at: '2026-09-20T11:02:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Revelis: Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę (šiaurinę Estiją). Šaltinių citatos.'
+object_page_seo_input_hash: e81f7194cc5dd50bc3776029a01f47dfb479e6bedb406faf6cd9282bd00688e2
+object_page_seo_generated_at: '2026-09-20T11:02:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Revelis
 

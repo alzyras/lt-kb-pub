@@ -1,10 +1,10 @@
 ---
 tipas: saltinis
-pavadinimas: 'Antrasis Lietuvos Statutas'
+pavadinimas: Antrasis Lietuvos Statutas
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1564 m.'
+  - 1564 m.
 date_start: '1564'
 date_end: ''
 sukurta: ''
@@ -12,19 +12,29 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Antrasis Lietuvos Statutas","url":"https://www.vle.lt/straipsnis/antrasis-lietuvos-statutas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:00:14+00:00","source_checked_at":"2026-09-20T03:00:14+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Antrasis Lietuvos Statutas","url":"https://www.vle.lt/straipsnis/antrasis-lietuvos-statutas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/antrasis-lietuvos-statutas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d838fb6ff636ef68
+object_page_generated_at: '2026-09-20T03:00:14+00:00'
+object_page_source_checked_at: '2026-09-20T03:00:14+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Antrasis Lietuvos Statutas: Čia paminėti įstatymai gali būti laikomi galutiniu išsi­ vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią pasiekė…'
+object_page_seo_input_hash: a9e36fb8900dc90515301d30de277e251f80f481419ea27270c02ac1417c4411
+object_page_seo_generated_at: '2026-09-20T03:00:14+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Antrasis Lietuvos Statutas
 

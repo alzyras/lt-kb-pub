@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Ariogala'
+pavadinimas: Ariogala
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -9,13 +9,13 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1232 m.'
-  - '1254 m.'
-  - '1262 m.'
-  - '1264 m.'
-  - '1322 m.'
-  - '1348 m.'
-  - '2026 m.'
+  - 1232 m.
+  - 1254 m.
+  - 1262 m.
+  - 1264 m.
+  - 1322 m.
+  - 1348 m.
+  - 2026 m.
 date_start: '1232'
 date_end: '2026'
 sukurta: ''
@@ -24,29 +24,42 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f2126eeca01874f28e145da4"
-canonical_name: "Ariogala"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ariogala","Ariogalos"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f2126eeca01874f28e145da4
+canonical_name: Ariogala
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ariogala
+  - Ariogalos
 sameAs: []
-canonical_biography: "Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių sodybos ir nuotykių ieškotojai keliami į riterius. 1352 m. vasarį Kniprodė smarkiai teriojo Ariogalos, Gaižuvos ir Raseinių sritis. 1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške."
+canonical_biography: 'Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių sodybos ir nuotykių ieškotojai keliami į riterius. 1352 m. vasarį Kniprodė smarkiai teriojo Ariogalos, Gaižuvos ir Raseinių sritis. 1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Ariogala","url":"https://lt.wikipedia.org/wiki/Ariogala","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Ariogala","url":"https://www.vle.lt/straipsnis/ariogala/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Ariogala - Wikipedia","url":"https://en.wikipedia.org/wiki/Ariogala","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T06:42:40+00:00","source_checked_at":"2026-09-19T06:42:40+00:00","counts":{"relations":5,"gallery":0,"sources":12},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Ariogala","url":"https://lt.wikipedia.org/wiki/Ariogala","publisher":"Vikipedija","language":"lt","article_id":"17131","revision_id":"7865499","published_at":"2026-06-21T20:49:36Z","version_pk":"","content_hash":"cc8237eaa1291cc421eed7a2afdd27d34a950f9e4b72b431f24ebf5b954ee237","retrieved_at":"2026-09-19T06:39:38+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Ariogala&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"17131"}},"intro":"Ariogala – miestas Raseinių rajono savivaldybėje, 31 km į pietryčius nuo Raseinių, Dubysos kairiajame krante, prie senojo Žemaičių plento, Ariogalos kalvagūbryje (90–100 m virš jūros lygio). Antrasis pagal dydį rajono miestas. Ariogalos miesto seniūnija, yra Ariogalos seniūnijos centras. Mieste stovi Ariogalos Šv. arkangelo Mykolo bažnyčia (pastatyta 1939 m.), Daugirdų ir Partizanų koplyčios, paminklas sovietų okupacijos aukoms. Veikia Ariogalos gimnazija ir Ariogalos pradinė mokykla (nuo 1992 m.), Raseinių meno mokyklos skyrius (nuo 1990 m.), biblioteka, vaikų darželis, kultūros namai, paštas.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Ariogala","url":"https://lt.wikipedia.org/wiki/Ariogala","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Ariogala","url":"https://www.vle.lt/straipsnis/ariogala/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Ariogala","https://www.vle.lt/straipsnis/ariogala/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b91cfd3361cd1d3315794abe","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Ariogalos apylinkės pagonims buvo labai svarbios, nes čia stovėjo Romuva – Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.","context":"Michał Baliński taip aprašo Ariogalos apylinkes savo 2007 m. išleistame veikale, pasakodamas apie kryžiuočių žygį.","support_ids":["t-179751","c-163409"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179751","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163409","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Vaikių krašte buvo šventoji giria, ku­ ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­ tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai išžudyti. Baigusi kruvinus darbus, ginkluota palyda kitą die­ ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes. Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­ vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­ vių Krivaičio pagrindinė buveinė)."}],"status":"published","conflict_status":"clear"},{"trait_id":"fb25059088d2bd059f89bb52","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Ariogala apibūdinama kaip viena iš seniausių krašto tvirtovių ir miestų.","context":"Teodoras Narbutas taip apibūdina Ariogalą, kalbėdamas apie Liutauro tėvoninę valdą.","support_ids":["t-205745","c-188360"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205745","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188360","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Vytenis buvo sūnus Liu­ tauro, kunigaikščio, kitaip tariant, didiko, turėjusio ne­ mažą tėvoninę valdą su sostine — Ariogala — viena iš seniausių šioje žemėje tvirtovių ir miestų, Stulpų herbo giminės buveine1 2."}],"status":"published","conflict_status":"clear"},{"trait_id":"42e9315b69317929aee6ccc7","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Ariogala buvo Liutauro tėvoninės valdos sostinė.","context":"Teodoras Narbutas taip apibūdina Ariogalą savo pasakojime apie Liutaurą.","support_ids":["t-205745","c-188360"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205745","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188360","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Vytenis buvo sūnus Liu­ tauro, kunigaikščio, kitaip tariant, didiko, turėjusio ne­ mažą tėvoninę valdą su sostine — Ariogala — viena iš seniausių šioje žemėje tvirtovių ir miestų, Stulpų herbo giminės buveine1 2."}],"status":"published","conflict_status":"clear"},{"trait_id":"f586fd86aaa69caa90bea20e","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Ariogaloje buvo įsteigta viena iš pirmųjų katalikų bažnyčių Žemaitijoje.","context":"Bychovco kronikoje Ariogala minima tarp pietrytinėje Žemaitijos dalyje įsteigtų pirmųjų katalikų bažnyčių.","support_ids":["t-211499","c-194325"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211499","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194325","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Pirmo­ sios katalikų bažnyčios Žemaitijoje buvo įsteigtos pietrytinėje jos dalyje — Ariogaloje, Raseiniuose, Viduklėje, Kražiuose."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ac8b008e3a53a80b4c730847","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Ariogalos apylinkėse stovėjo Romuva – Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.","context":"Michał Baliński taip aprašo Ariogalos apylinkių statinius ir jų paskirtį, pasakodamas apie kryžiuočių žygį.","support_ids":["t-179751","c-163409"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179751","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-163409","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Vaikių krašte buvo šventoji giria, ku­ ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­ tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai išžudyti. Baigusi kruvinus darbus, ginkluota palyda kitą die­ ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes. Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­ vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­ vių Krivaičio pagrindinė buveinė)."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Ariogala – istorinis Žemaitijos valsčius ir kraštas, viduramžiais patekęs į karinių žygių bei politinių susitarimų lauką. 1253 m., Mindaugo karūnavimo metais, pusė Ariogalos žemės buvo užrašyta ordinui, o kita pusė 1254 m. perduota vyskupui Kristijonui. 1294 m. magistras ketino su kariuomene įsiveržti į Ariogalos valsčių, tačiau nuo šio sumanymo buvo atkalbėtas. 1322 m. šaltinyje Ariogalos valsčius minimas tarp Žemaitijos teritorijų, kurias priešas nusiaubė ir sulygino su žeme. 1352 m. vasarį Kniprodė smarkiai teriojo Ariogalos, Gaižuvos ir Raseinių sritis, o vėlesniame žygyje Ariogalos–Dubysos rajone ištisą savaitę degintos lietuvių sodybos ir dalis žygeivių iškelta į riterius.","sentences":[{"sentence_id":"s1","text":"Ariogala – istorinis Žemaitijos valsčius ir kraštas, viduramžiais patekęs į karinių žygių bei politinių susitarimų lauką.","support_ids":["t-179754:c-05710","t-220571:c-204177"]},{"sentence_id":"s2","text":"1253 m., Mindaugo karūnavimo metais, pusė Ariogalos žemės buvo užrašyta ordinui, o kita pusė 1254 m. perduota vyskupui Kristijonui.","support_ids":["t-179754:c-05710"]},{"sentence_id":"s3","text":"1294 m. magistras ketino su kariuomene įsiveržti į Ariogalos valsčių, tačiau nuo šio sumanymo buvo atkalbėtas.","support_ids":["t-220571:c-204177"]},{"sentence_id":"s4","text":"1322 m. šaltinyje Ariogalos valsčius minimas tarp Žemaitijos teritorijų, kurias priešas nusiaubė ir sulygino su žeme.","support_ids":["t-184921:c-168282"]},{"sentence_id":"s5","text":"1352 m. vasarį Kniprodė smarkiai teriojo Ariogalos, Gaižuvos ir Raseinių sritis, o vėlesniame žygyje Ariogalos–Dubysos rajone ištisą savaitę degintos lietuvių sodybos ir dalis žygeivių iškelta į riterius.","support_ids":["t-179747:c-05711","t-179746:c-163410"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai Ariogalą nurodo kaip Žemaitijos valsčių ir žemę, siejamą su kariniais žygiais bei politiniais susitarimais."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1253 m. pusės Ariogalos žemės užrašymą ordinui ir kitos pusės perdavimą vyskupui Kristijonui 1254 m."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad 1294 m. magistras ketino su kariuomene įsiveržti į Ariogalos valsčių, bet buvo atkalbėtas."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis 1322 m. įvykių kontekste tiesiogiai mini Ariogalos valsčiaus nusiaubimą ir sulyginimą su žeme."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina 1352 m. vasario Kniprodės žygį ir Ariogalos–Dubysos rajone savaitę trukusį siaubimą, sodybų deginimą bei žygeivių kėlimą į riterius."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-179754:c-05710","t-220571:c-204177"]},{"sentence_id":"s2","supported":false,"support_ids":["t-179754:c-05710"]},{"sentence_id":"s3","supported":false,"support_ids":["t-220571:c-204177"]},{"sentence_id":"s4","supported":false,"support_ids":["t-184921:c-168282"]},{"sentence_id":"s5","supported":false,"support_ids":["t-179747:c-05711","t-179746:c-163410"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-219255","confidence":0.95},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Vytenis","claim_id":"t-218162","confidence":0.93},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-179754","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Fridrichas iš Vildenbergo","claim_id":"t-224228","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-184922","confidence":0.72}],"timeline":[{"date":"1232 m.","label":"Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m.","claimId":"t-219317"},{"date":"1294 m.","label":"1294 m.","claimId":"t-220571"},{"date":"1352 m.","label":"1352 m.","claimId":"t-179747"},{"date":"1352 m.","label":"1352 m.","claimId":"t-179750"},{"date":"1950 m.","label":"1950 m.","claimId":"t-179749"}],"support_disclosure":{"claims":17,"sources":9}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 2e046a4008c2fcc0
+object_page_generated_at: '2026-09-19T06:42:40+00:00'
+object_page_source_checked_at: '2026-09-19T06:42:40+00:00'
+object_page_content_state: content
+object_page_claim_count: '17'
+object_page_source_count: '9'
+object_page_seo_description: 'Ariogala – istorinis Žemaitijos valsčius ir kraštas, viduramžiais patekęs į karinių žygių bei politinių susitarimų lauką. 1253 m., Mindaugo karūnavimo metais…'
+object_page_seo_input_hash: 10169347e5fed50a76a2cf906d24b3f8b5b6d48d96984e1a68b9d02f3ca2b362
+object_page_seo_generated_at: '2026-09-19T06:42:40+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ariogala
 

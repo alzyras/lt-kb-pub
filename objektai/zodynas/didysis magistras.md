@@ -1,20 +1,20 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'didysis magistras'
+pavadinimas: didysis magistras
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1309 m.'
-  - '1324 m.'
-  - '1382 m.'
-  - '1391 m.'
-  - '1392 m.'
-  - '1393 m.'
-  - '1410 m.'
-  - '2026 m.'
+  - 1309 m.
+  - 1324 m.
+  - 1382 m.
+  - 1391 m.
+  - 1392 m.
+  - 1393 m.
+  - 1410 m.
+  - 2026 m.
 date_start: '1309'
 date_end: '2026'
 sukurta: ''
@@ -24,20 +24,30 @@ tags:
   - sąvoka
   - pareigybė
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:06:24+00:00","source_checked_at":"2026-09-19T14:06:24+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tačiau Vytautas ir Jogaila pasiekė savo strateginį tikslą — vokie- čių karinė mašina buvo sutriuškinta. Žuvo pats didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino va- dovybė, apie 200 Ordino riterių (trečioji dalis prūsiškųjų kryžiuočių) ir tūkstan- čiai eilinių kryžeivių bei samdinių. Nors Kryžiuočių ordinas nenustojo gyvuoti, bet jam buvo suduotas stiprus smūgis.","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","claim_id":"t-113621","evidence_id":"c-104813","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"12146c52543ab7ab006e7f50","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Ordino vadovas, stovintis jo priešakyje kartu su taryba.","context":"Ordino valstybės santvarkos aprašymas, 1936 m.","support_ids":["t-113616","c-104817"],"source_refs":[{"kind":"internal_claim","claim_id":"t-113616","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-104817","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"**Ordino valstybės santvarka.** Savo organizaciją ordinas at- sinešė jau gatavą, susidariusią dar Palestinoje. Jo priešaky sto- vėjo didysis magistras _(Hochmeister)_ su taryba."}],"status":"published","conflict_status":"clear"},{"trait_id":"f017a5933d4221e31a412e0a","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Istoriniuose pasakojimuose vartojamas Kryžiuočių ordino vadovui, pavyzdžiui, Ulrichui fon Jungingenui, apibūdinti.","context":"Žalgirio mūšio ir ankstesnių karo žygių aprašymai, 2007–2013 m.","support_ids":["t-113612","c-104813","t-113613","c-44160","t-113618","c-104815"],"source_refs":[{"kind":"internal_claim","claim_id":"t-113612","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-113613","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-113618","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-104813","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Tačiau Vytautas ir Jogaila pasiekė savo strateginį tikslą — vokie- čių karinė mašina buvo sutriuškinta. Žuvo pats didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino va- dovybė, apie 200 Ordino riterių (trečioji dalis prūsiškųjų kryžiuočių) ir tūkstan- čiai eilinių kryžeivių bei samdinių. Nors Kryžiuočių ordinas nenustojo gyvuoti, bet jam buvo suduotas stiprus smūgis."},{"kind":"evidence","evidence_id":"c-44160","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūšį metė rezervą. Kryžiuočiai mėgino apeiti lenkų 64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m."},{"kind":"evidence","evidence_id":"c-104815","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"130 ## Puslapis 147 Il KNYGA vanoriais daugelį vokiečių riterių būrių, kurie, susirinkę Ka­ raliaučiuje, prie riterių garbės puotos stalų40, valiodavo už­ miršti apie sunkumus ir nesėkmes, patirtas per praėjusių me­ tų žygį. Pasitikėjimas tokia didžiule Ordino kariuomenės galybe buvo taip visus pakerėjęs, jog ir didysis magistras, ir jo svita, dar žygiui neprasidėjus, Lietuvą jau manė esant nukariautą. Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo Douglo, įžymaus škoto, žuvu­ sio dvikovoje, mirtis, vėlei škotų nesutarimai su prancū­ zais - tai vis bloga lemiantys ženklai, kurie net didįjį ma­ gistrą privertė baigti karo puotą, kariuomenei dar nepasiekus pagonių…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Didysis magistras – aukščiausias Kryžiuočių ordino vadovas, stovėjęs Ordino valstybės priešakyje kartu su taryba. 1410 m. Žalgirio mūšyje šias pareigas ėjęs Ulrichas fon Jungingenas, matydamas, kad mūšio sėkmė krypsta ne jo naudai, į kovą metė rezervą. Šis sprendimas tapo vienu iš dramatiškų mūšio epizodų, tačiau Ordino karinė mašina buvo sutriuškinta: žuvo pats didysis magistras, beveik visa likusi Ordino vadovybė ir apie 200 Ordino riterių. Nors Kryžiuočių ordinas po pralaimėjimo nenustojo gyvuoti, smūgis jam buvo stiprus, todėl didžiojo magistro žūtis tapo reikšmingu Žalgirio mūšio rezultatu.","sentences":[{"sentence_id":"s1","text":"Didysis magistras – aukščiausias Kryžiuočių ordino vadovas, stovėjęs Ordino valstybės priešakyje kartu su taryba.","support_ids":["t-113616","c-104817"]},{"sentence_id":"s2","text":"1410 m. Žalgirio mūšyje šias pareigas ėjęs Ulrichas fon Jungingenas, matydamas, kad mūšio sėkmė krypsta ne jo naudai, į kovą metė rezervą.","support_ids":["t-113613","c-44160"]},{"sentence_id":"s3","text":"Šis sprendimas tapo vienu iš dramatiškų mūšio epizodų, tačiau Ordino karinė mašina buvo sutriuškinta: žuvo pats didysis magistras, beveik visa likusi Ordino vadovybė ir apie 200 Ordino riterių.","support_ids":["t-113612","t-113620","c-104813"]},{"sentence_id":"s4","text":"Nors Kryžiuočių ordinas po pralaimėjimo nenustojo gyvuoti, smūgis jam buvo stiprus, todėl didžiojo magistro žūtis tapo reikšmingu Žalgirio mūšio rezultatu.","support_ids":["t-113612","c-104813"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniu: Ordino priešakyje stovėjo didysis magistras su taryba."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis patvirtina rezervo metimą, tačiau support_ids tiesiogiai nepatvirtina, kad tai buvo Ulrichas fon Jungingenas ir kad įvykis vyko 1410 m."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis patvirtina kariuomenės sutriuškinimą, didžiojo magistro, beveik visos vadovybės ir apie 200 riterių žūtį, tačiau nepatvirtina, kad rezervo metimas buvo vienas dramatiškiausių epizodų."},{"sentence_id":"s4","supported":false,"reason":"Šaltinis patvirtina Ordino išlikimą ir stiprų smūgį, tačiau tiesiogiai neparemia išvados, kad didžiojo magistro žūtis tapo reikšmingu Žalgirio mūšio rezultatu."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-113616","c-104817"]},{"sentence_id":"s2","supported":true,"support_ids":["t-113613","c-44160"]},{"sentence_id":"s3","supported":true,"support_ids":["t-113612","t-113620","c-104813"]},{"sentence_id":"s4","supported":true,"support_ids":["t-113612","c-104813"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":7,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: dce2a6bab84fe082
+object_page_generated_at: '2026-09-19T14:06:24+00:00'
+object_page_source_checked_at: '2026-09-19T14:06:24+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '3'
+object_page_seo_description: 'Didysis magistras – aukščiausias Kryžiuočių ordino vadovas, stovėjęs Ordino valstybės priešakyje kartu su taryba. 1410 m. Žalgirio mūšyje šias pareigas ėjęs…'
+object_page_seo_input_hash: 57a9192f794c6f7d8b36654c7e17b057ba6b4f4464989668d3111a3dfe20812c
+object_page_seo_generated_at: '2026-09-19T14:06:24+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # didysis magistras
 

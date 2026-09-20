@@ -1,17 +1,17 @@
 ---
 tipas: vieta
-pavadinimas: 'Jeruzalė'
+pavadinimas: Jeruzalė
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1096 m.'
-  - '1187 m.'
-  - '1190 m.'
-  - '1231 m.'
-  - '1260 m.'
-  - '1291 m.'
-  - '2026 m.'
+  - 1096 m.
+  - 1187 m.
+  - 1190 m.
+  - 1231 m.
+  - 1260 m.
+  - 1291 m.
+  - 2026 m.
 date_start: '1096'
 date_end: '2026'
 sukurta: ''
@@ -20,29 +20,41 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XI'
-  - 'XXI'
+  - XI
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-faae38a780a74b02627a6255"
-canonical_name: "Jeruzalė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Jeruzalė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-faae38a780a74b02627a6255
+canonical_name: Jeruzalė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Jeruzalė
 sameAs: []
-canonical_biography: "Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios maldininkų."
+canonical_biography: 'Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios maldininkų.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Jeruzalė","url":"https://lt.wikipedia.org/wiki/Jeruzal%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:44:57+00:00","source_checked_at":"2026-09-19T14:44:57+00:00","counts":{"relations":9,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Jeruzalė","url":"https://lt.wikipedia.org/wiki/Jeruzal%C4%97","publisher":"Vikipedija","language":"lt","article_id":"7629","revision_id":"7881814","published_at":"2026-07-19T18:31:20Z","version_pk":"","content_hash":"d3d076344c01bafd18f75c0b215480b443b2eacdf2d52460fa30792cb84d1961","retrieved_at":"2026-09-19T14:42:36+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Jeruzal%C4%97&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"7629"}},"intro":"Jeruzalė (hebr. ‏יְרוּשָׁלַיִם‏‎ = Yerushaláyim, arab. القدس = al-Quds) – senas Artimųjų Rytų miestas, laikomas šventu krikščionybėje, judaizme ir islame. Miesto statusas ginčytinas: ir Izraelis, ir Palestina laiko Jeruzalę savo sostine. Vis dėlto Izraelis kontroliuoja visą miestą ir yra paskelbęs Jeruzalę savo nedaloma sostine, tačiau didžioji dalis tarptautinės bendruomenės to nepripažįsta. Knesetas, prezidentas ir vyriausybė reziduoja Vakarų Jeruzalėje. 1947 m. gruodį dėl Jeruzalės tarp Jordanijos ir kuriamos Izraelio valstybės kilo karas, kurio rezultatas – padalinta Jeruzalė (Rytų Jeruzalė liko Jordano dalis, o Vakarų Jeruzalė atiteko Izraeliui). Tačiau po 1967 m. kilusio Šešių dienų karo ir likusi Jeruzalės dalis buvo užimta Izraelio ir, skirtingai nei likęs Vakarų Krantas, buvo tiesiogiai prijungta prie Izraelio. Vis dėlto, Palestina laiko tą rytinę miesto dalį sava ir planuoja, kad ta jo dalis bus Palestinos valstybės sostinė. Palestiniečių procentas Jeruzalėje ilgainiui mažėja, nes čia atsikelia vis daugiau žydų, o palestiniečiams iš kitur į visą Jeruzalę atvykti neįmanoma dėl apribojimų. Jeruzalės ribos buvo kartą vienašališkai išplėstos, prijungiant prie miesto, taigi ir Izraelio, dar daugiau Vakarų Kranto žemių. Nors Izraelio teisės į Vakarų Jeruzalę plačiai pripažįstamos didžiosios tarptautinės bendruomenės dalies, Rytų Jeruzalė Jungtinių Tautų Organizacijos laikoma palestiniečių teritorija, kurią yra okupavęs Izraelis. Jeruzalė yra šventas miestas net trims religijoms: žydams, krikščionims ir musulmonams. Tradiciškai (nuo XIX a.) Jeruzalės senamiestis skirstomas į keturis kvartalus: žydų, krikščionių, musulmonų ir armėnų. 1981 m. senamiestis įtrauktas į UNESCO pasaulio paveldo sąrašą. Prie Jeruzalės stūkso Siono kalva.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Jeruzalė","url":"https://lt.wikipedia.org/wiki/Jeruzal%C4%97","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Jeruzal%C4%97"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f81ed0a4c44d59b06fe5f78d","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Jeruzalėje įkurta ir pašventinta Švč. Marijos Teutonų ordino vienuolių ligoninė.","context":"Petras Dusburgietis kronikoje teigia, kad popiežius Celestinas III Jeruzalėje įkūrė ir pašventino ligoninę; šaltinis tai datuoja Celestino III veiklos laikotarpiu.","support_ids":["t-222775","c-201786"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222775","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201786","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus, būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos ir Armėnijos152, kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo šulai, o kiti broliai—sienos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d7299a8b70bc0a838f695e27","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Jeruzalėje įkurta ligoninė buvo skirta pavargėliams bei paliegėliams slaugyti.","context":"Petras Dusburgietis aprašo popiežiaus patvirtintą Jeruzalės ligoninės brolių ordiną ir nurodo jo paskirtį slaugyti pavargėlius bei paliegėlius.","support_ids":["t-224275","c-204353"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224275","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204353","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tad popiežius, išklausęs šią pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties dievo vardu patvirtino. Jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas jiems visokių laisvių, lengvatų bei indulgencijų, kurių apaštališkasis sostas 153 Akonas (Akra, Aka) — miestas ir uostas Viduržemio jūros rytinėje pakrantėje (dab Izraelio teritorijoje), XI a."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0a8210e09f26679caa4aa639","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Jeruzalė aprašoma kaip kryžininkų ir maldininkų žygio tikslas bei iš netikėlių rankų išvaduotas miestas.","context":"Petras Dusburgietis, aprašydamas 1096 m. įvykius, teigia, kad Petras su kryžininkais užėmė šventąjį Jeruzalės miestą.","support_ids":["t-225315","c-204587"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225315","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204587","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai bei kiti kilmingieji ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu, duodami viešpačiui įžadus leistis į maldininkų žygį. Taigi 1096 viešpaties metais anksčiau minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą bei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę kitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip šventajame Jeruzalės…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"258f4a74a4f5b08bfb9f1dc1","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"1190 m. Jeruzalėje įsikūrė Kryžiuočių ordinas.","context":"„Pelplino analų“ pirmoji žinutė, kaip ją apibūdina leidinio tekstas, kalba apie Ordino įsikūrimą Jeruzalėje 1190 m.","support_ids":["t-224916","c-204190"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224916","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204190","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Pirmoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje, pradedant Torune (1231 m."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Simeonas","claim_id":"t-222915","confidence":0.62},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Krikščionys","claim_id":"t-223929","confidence":0.88},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Petras Atsiskyrėlis","claim_id":"t-222569","confidence":0.74},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-224117","confidence":0.63},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Celestinas III","claim_id":"t-220894","confidence":0.7},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-224275","confidence":0.61},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Omaras","claim_id":"t-223929","confidence":0.62},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Arabai","claim_id":"t-224096","confidence":0.51},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-224494","confidence":0.74}],"timeline":[{"date":"1096 m.","label":"1096 m.","claimId":"t-225315"},{"date":"1190 m.","label":"„Pelplino analų“ pirmojoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m.","claimId":"t-224916"},{"date":"1291 m.","label":"Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką.","claimId":"t-221686"}],"support_disclosure":{"claims":11,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3c1cbbbea3ad2a83
+object_page_generated_at: '2026-09-19T14:44:57+00:00'
+object_page_source_checked_at: '2026-09-19T14:44:57+00:00'
+object_page_content_state: content
+object_page_claim_count: '11'
+object_page_source_count: '2'
+object_page_seo_description: 'Jeruzalė: Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios maldininkų. Šaltinių citatos.'
+object_page_seo_input_hash: d10276134c8514c8706b3a44d5ea34475ad9831ec67fca5b75e53ec3d0cab875
+object_page_seo_generated_at: '2026-09-19T14:44:57+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jeruzalė
 

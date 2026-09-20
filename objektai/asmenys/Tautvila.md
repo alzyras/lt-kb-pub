@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Tautvila'
+pavadinimas: Tautvila
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1262 m.'
+  - 1262 m.
 date_start: '1262'
 date_end: ''
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - asmuo
   - kunigaikštis
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-07c4c87a34db387fd8c363bb"
-canonical_name: "Tautvila"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Tautvila"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-07c4c87a34db387fd8c363bb
+canonical_name: Tautvila
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Tautvila
 sameAs: []
-canonical_biography: "Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34."
+canonical_biography: 'Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:34:22+00:00","source_checked_at":"2026-09-19T22:34:22+00:00","counts":{"relations":5,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"1bf7e145f5b3458439f3e9bd","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvos kunigaikštis, Kęstučio sūnus ir Vytauto brolis.","context":"Taip aprašyta Michał Baliński veikale „Vilniaus miesto istorija“ (2007 m.), kalbant apie Tautvilos žūtį prie Vilniaus.","support_ids":["t-87601","c-83580"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87601","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83580","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"• — 126 ## Puslapis 143 Il KNYGA po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­ žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34. Šitaip Kryžiuočių ordino kruvina politika 34 Strijkovskis prie nukautų tos apsupties metu priskiria Nariman­ tą, įdėdamas šį D 1 u g o š o prasi­ manytą pasakojimą: „Narimantas, Pinsko kunigaikštis, Jogailos tikras brolis, tuo metu, kai narsiai abi pilis su Lietuva ir Rusia…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"092f0bcfc212737b6fa406fa","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Polocko kunigaikštis.","context":"Taip Tautvilą aprašo Teodoras Narbutas „Lietuvių tautos istorijoje“, t. 1 (1998 m.), pasakodamas apie įvykius po Mindaugo žūties.","support_ids":["t-217566","c-200377"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217566","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-200377","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Šiojo sūnus Liu­ tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą. Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui, jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman­ tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­ bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­ niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­ kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"42f4a668192127ce152b578d","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Galėjo palaikyti ryšius su Naugardu būdamas Vitebske.","context":"Tai Teodoro Narbuto spėjimas, pateiktas „Lietuvių tautos istorijoje“, t. 4 (1997 m.); autorius šiuo aiškinimu grindžia abejonę Tautvilos sąjungos su Naugardu tikrumu.","support_ids":["t-205714","c-188329"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205714","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188329","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Šiaip ar taip, tai verčia spėti tariamą jungą bu­ vus prasimanymu Tautvilos, kuris, Vitebske būdamas, galėjo iš ten palaikyti ryšius su Naugardu, todėl ir tą sąjungą garantavo."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sunus","direction":"outbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-87601","confidence":0.99},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-87601","confidence":0.8},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-87601","confidence":0.95},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Poloviečiai","claim_id":"t-210621","confidence":0.86},{"predicate":"reme","direction":"inbound","target":"objektai/grupes/Rusai","claim_id":"t-210621","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":7,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: cf7003aaec16db93
+object_page_generated_at: '2026-09-19T22:34:22+00:00'
+object_page_source_checked_at: '2026-09-19T22:34:22+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '5'
+object_page_seo_description: 'Tautvila: Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus…'
+object_page_seo_input_hash: 29a208ef84a4ad37f0f871837ea076684dd2071a289e8bbda933d5ceec61f1f6
+object_page_seo_generated_at: '2026-09-19T22:34:22+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Tautvila
 

@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mykolas Sleževičius'
+pavadinimas: Mykolas Sleževičius
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1918 m.'
-  - '1920 m.'
+  - 1918 m.
+  - 1920 m.
 date_start: '1918'
 date_end: '1920'
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - asmuo
   - ministras
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes:
-  - 'modernioji Lietuva'
+  - modernioji Lietuva
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4c506776f57c40e6b499f51c"
-canonical_name: "Mykolas Sleževičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mykolas Sleževičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4c506776f57c40e6b499f51c
+canonical_name: Mykolas Sleževičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mykolas Sleževičius
 sameAs: []
-canonical_biography: "Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,. Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“. Sleževičius pabrėžė, kad lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dvarininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę."
+canonical_biography: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,. Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“. Sleževičius pabrėžė, kad lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dvarininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.'
+external_sources_json: '[{"title":"Mykolas Sleževičius","url":"https://lt.wikipedia.org/wiki/Mykolas_Sle%C5%BEevi%C4%8Dius","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Mykolas Sleževičius","url":"https://www.vle.lt/straipsnis/mykolas-slezevicius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:51:47+00:00","source_checked_at":"2026-09-19T21:51:47+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Mykolas Sleževičius","url":"https://lt.wikipedia.org/wiki/Mykolas_Sle%C5%BEevi%C4%8Dius","publisher":"Vikipedija","language":"lt","article_id":"33080","revision_id":"7891233","published_at":"2026-07-31T17:13:45Z","version_pk":"","content_hash":"bdd8d9bd5109c9ca313dec0f07d9dbed1937b01775852cdc740c7779fc63840b","retrieved_at":"2026-09-19T21:51:05+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Mykolas_Sle%C5%BEevi%C4%8Dius&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"33080"}},"intro":"Mykolas Sleževičius (1882 m. vasario 21 d. Dremblių vienkiemyje, Viduklės valsčius Raseinių apskritis, Rusijos imperija – 1939 m. lapkričio 11 d. Kaune. Palaidotas Kauno Petrašiūnų kapinėse.) – Lietuvos teisininkas, advokatas, politinis, valstybės ir visuomenės veikėjas.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1882 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Drembliuose, Viduklės valsčius Raseinių apskritis, Rusijos imperija","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1939 m. lapkričio 11 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Kaune","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Petrašiūnų kapinėse","source":"wikipedia_infobox"},{"code":"positions","label":"Pareigos","value":"Lietuvos Respublikos Seimo atstovas · Ministras pirmininkas","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Mykolas Sleževičius","url":"https://lt.wikipedia.org/wiki/Mykolas_Sle%C5%BEevi%C4%8Dius","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Mykolas Sleževičius","url":"https://www.vle.lt/straipsnis/mykolas-slezevicius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Mykolas_Sle%C5%BEevi%C4%8Dius","https://www.vle.lt/straipsnis/mykolas-slezevicius/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 543cc8cdcf8b93c0
+object_page_generated_at: '2026-09-19T21:51:47+00:00'
+object_page_source_checked_at: '2026-09-19T21:51:47+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Mykolas Sleževičius: Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,. Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų…'
+object_page_seo_input_hash: b65adec8dc4bd99fe18472e7d0241308cae1ed2092515dd2667f82951a892f22
+object_page_seo_generated_at: '2026-09-19T21:51:47+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mykolas Sleževičius
 

@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Fateris'
+pavadinimas: Fateris
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -14,19 +14,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-dca4f1127b37879a158d0f07"
-canonical_name: "Fateris"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Fateris"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-dca4f1127b37879a158d0f07
+canonical_name: Fateris
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Fateris
 sameAs: []
-canonical_biography: "Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie krivį. Pasak Narbuto, Fateris Dusburgiečio žinią apie krivį laikė nesusipratimu dėl rusinų, latviškai vadinamų krieviais. Fateris išspręsdavo privačių asmenų ir žemių arba vienos genties atskirų kaimų ginčus."
+canonical_biography: 'Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie krivį. Pasak Narbuto, Fateris Dusburgiečio žinią apie krivį laikė nesusipratimu dėl rusinų, latviškai vadinamų krieviais. Fateris išspręsdavo privačių asmenų ir žemių arba vienos genties atskirų kaimų ginčus.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:36:12+00:00","source_checked_at":"2026-09-20T06:36:12+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f12a1b4381ba7a568e95f19f","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Atliko tyrimus ir paskelbė Lėrbergo tyrimų turinį veikale „Apie senovės prūsų kalbą“.","context":"Teodoras Narbutas teigia, kad Fateris savo veikale pirmasis paskelbė Lėrbergo tyrimų turinį.","support_ids":["t-219833","c-200479"],"source_refs":[{"kind":"internal_claim","claim_id":"t-219833","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-200479","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Jo tyrimų turinį pirmasis paskelbė Fateris savo veikale „Apie senovės prūsų kalbą“ (p. 35, pratarmė)."}],"status":"published","conflict_status":"clear"},{"trait_id":"4b13a7b34de1e7733bc94417","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Pirmasis paskelbė Lėrbergo tyrimų turinį.","context":"Teodoro Narbuto vertinimas apie Faterio indėlį; nurodyta veikalo pratarmėje.","support_ids":["t-219833","c-200479"],"source_refs":[{"kind":"internal_claim","claim_id":"t-219833","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-200479","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Jo tyrimų turinį pirmasis paskelbė Fateris savo veikale „Apie senovės prūsų kalbą“ (p. 35, pratarmė)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 068bb6a030c22240
+object_page_generated_at: '2026-09-20T06:36:12+00:00'
+object_page_source_checked_at: '2026-09-20T06:36:12+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Fateris: Narbutas Faterį mini tarp istorikų, kurie kėlė abejonių dėl padavimo apie krivį. Pasak Narbuto, Fateris Dusburgiečio žinią apie krivį laikė…'
+object_page_seo_input_hash: 96b59575bbe9dde276c73b6cb5b297150d8ba48c619ea59f98ed16352d098b14
+object_page_seo_generated_at: '2026-09-20T06:36:12+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Fateris
 

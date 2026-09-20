@@ -1,14 +1,14 @@
 ---
 tipas: saltinis
-pavadinimas: 'Prūsijos žemės kronika'
+pavadinimas: Prūsijos žemės kronika
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1248 m.'
-  - '2026 m.'
+  - 1248 m.
+  - 2026 m.
 date_start: '1248'
 date_end: '2026'
 sukurta: ''
@@ -16,20 +16,30 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Prūsijos žemės kronika","url":"https://lt.wikipedia.org/wiki/Pr%C5%ABsijos_%C5%BEem%C4%97s_kronika","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:02:23+00:00","source_checked_at":"2026-09-19T20:02:23+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Prūsijos žemės kronika","url":"https://lt.wikipedia.org/wiki/Pr%C5%ABsijos_%C5%BEem%C4%97s_kronika","publisher":"Vikipedija","language":"lt","article_id":"167172","revision_id":"7803873","published_at":"2026-04-11T00:53:21Z","version_pk":"","content_hash":"5607ad23220a288572a5ecafdde5fc96915caff020977774c00c9a4cdebb989c","retrieved_at":"2026-09-19T20:01:20+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Pr%C5%ABsijos_%C5%BEem%C4%97s_kronika&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"167172"}},"intro":"Prūsijos žemės kronika (lot. Chronicon terrae Prussiae), Dusburgiečio kronika, Dusburgo kronika – Vokiečių ordino 1190–1330 m. karų istorija. Seniausia išlikusi kryžiuočių kronika, kurią Karaliaučiuje lotynų kalba parašė Petras Dusburgietis.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Prūsijos žemės kronika","url":"https://lt.wikipedia.org/wiki/Pr%C5%ABsijos_%C5%BEem%C4%97s_kronika","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Pr%C5%ABsijos_%C5%BEem%C4%97s_kronika"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"5e7f1dda409393488d0e064f","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"Petro Dusburgiečio","context":"Šaltinyje nurodoma, kad tai ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“; ištrauka aprašo Durbės mūšį, vykusį 1260 m.","support_ids":["t-10540","c-175819"],"source_refs":[{"kind":"internal_claim","claim_id":"t-10540","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-175819","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"XIII a. Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį. „1260 m."}],"status":"published","conflict_status":"clear"},{"trait_id":"f664cbeb31732a6899197ca2","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Kronika","context":"Šaltinis tiesiogiai įvardijamas kaip Petro Dusburgiečio „Prūsijos žemės kronika“; pateikta ištrauka apie Durbės mūšį.","support_ids":["t-10540","c-175819"],"source_refs":[{"kind":"internal_claim","claim_id":"t-10540","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-175819","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"XIII a. Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį. „1260 m."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f4f30030bc6d8c95
+object_page_generated_at: '2026-09-19T20:02:23+00:00'
+object_page_source_checked_at: '2026-09-19T20:02:23+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Prūsijos žemės kronika: Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituojama „Prūsijos žemės kronika“ ištrauka apie Vytenio įsiveržimą į…'
+object_page_seo_input_hash: e0f0985f68bf7b1bbb929b86ca8d50b63db69e097822d7163aaa2fe660424a6a
+object_page_seo_generated_at: '2026-09-19T20:02:23+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Prūsijos žemės kronika
 

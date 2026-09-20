@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Rusia'
+pavadinimas: Rusia
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1430 m.'
-  - '1621 m.'
+  - 1430 m.
+  - 1621 m.
 date_start: '1430'
 date_end: '1621'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - vieta
   - pilis
 amziai:
-  - 'XV'
-  - 'XVII'
+  - XV
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6196aaab95248d6f05ed46b3"
-canonical_name: "Rusia"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rusia"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6196aaab95248d6f05ed46b3
+canonical_name: Rusia
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rusia
 sameAs: []
-canonical_biography: "Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi. 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios. Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu."
+canonical_biography: 'Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi. 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios. Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Rusia","url":"https://lt.wikipedia.org/wiki/Rusia","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Rusia","url":"https://www.vle.lt/straipsnis/rusia/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:13:51+00:00","source_checked_at":"2026-09-19T20:13:51+00:00","counts":{"relations":6,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Rusia","url":"https://lt.wikipedia.org/wiki/Rusia","publisher":"Vikipedija","language":"lt","article_id":"72283","revision_id":"7492129","published_at":"2025-02-09T18:17:54Z","version_pk":"","content_hash":"c558be24e21e96eea0cfe8298f0d883c8175f20cfe50b4abd48f6d7f8a02ff3c","retrieved_at":"2026-09-19T20:11:25+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Rusia&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"72283"}},"intro":"Rusia (lot. Ruthenia arba Rutenia, lenk. Ruś, bltr. Рутэнія, Русь, rus. Русь, ukr. Рутенія, Русь) – kultūrinis-istorinis rytų slavų žemių istorinis regionas, egzistavęs Rytų Europos lygumos teritorijose, kurios šiuo metu apima Europinę Rusijos dalį, Baltarusiją, šiaurinę pusę Ukrainos, pietrytinį Lenkijos (Liublino, Pakarpatės, Palenkės vaivadijų) pakraštį.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Rusia","url":"https://lt.wikipedia.org/wiki/Rusia","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Rusia","url":"https://www.vle.lt/straipsnis/rusia/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Rusia","https://www.vle.lt/straipsnis/rusia/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c0ca513b6ff8ef762a259a3e","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Atskiras kraštas, vėliau apėmęs tik tikrąją Rusią.","context":"Pasak Teodoro Narbuto, Rusia kaip atskiras kraštas minima VI amžiuje.","support_ids":["t-212979","c-197471"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212979","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197471","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"vėliau jis apėmė tik tikrąją Rusią, kuri, kaip atskiras kraštas, minima VI amžiuje"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Fridleifas","claim_id":"t-212798","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-213377","confidence":0.83},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-212272","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Salavija","claim_id":"t-213400","confidence":0.92},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lenkai","claim_id":"t-186155","confidence":0.55},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-85945","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":8,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e802e3f12756f2e9
+object_page_generated_at: '2026-09-19T20:13:51+00:00'
+object_page_source_checked_at: '2026-09-19T20:13:51+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '4'
+object_page_seo_description: 'Rusia: Jogailos reformų pradžioje prekyba su Rusia ir Prūsija buvo seniai nutrūkusi. 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės…'
+object_page_seo_input_hash: e62b96b476df2d5f9db759c6e77250e7863cadfa2e8fc19558859dc5ac4baefd
+object_page_seo_generated_at: '2026-09-19T20:13:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Rusia
 

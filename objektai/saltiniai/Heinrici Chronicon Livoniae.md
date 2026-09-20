@@ -1,23 +1,23 @@
 ---
 tipas: saltinis
-pavadinimas: 'Heinrici Chronicon Livoniae'
+pavadinimas: Heinrici Chronicon Livoniae
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1225 m.'
-  - '1227 m.'
-  - '1290 m.'
-  - '1955 m.'
+  - 1225 m.
+  - 1227 m.
+  - 1290 m.
+  - 1955 m.
 date_start: '1225'
 date_end: '1955'
 aliases:
-  - 'objektai/saltiniai/Henriko Latvio kronika'
+  - objektai/saltiniai/Henriko Latvio kronika
 variantai:
-  - 'Henriko Latvio kronika'
+  - Henriko Latvio kronika
 amziai:
-  - 'XIII'
-  - 'XX'
+  - XIII
+  - XX
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -26,12 +26,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Livonian Chronicle of Henry","url":"https://en.wikipedia.org/wiki/Livonian_Chronicle_of_Henry","publisher":"Wikipedia","kind":"encyclopedia","status":"published","confidence":0.99,"language":"en"},{"title":"Henriko Latvio Kronika","url":"https://www.vle.lt/straipsnis/henriko-latvio-kronika/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:02:43+00:00","source_checked_at":"2026-09-20T03:02:43+00:00","counts":{"relations":0,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Livonian Chronicle of Henry","url":"https://en.wikipedia.org/wiki/Livonian_Chronicle_of_Henry","publisher":"Wikipedia","language":"en","article_id":"572557","revision_id":"1333747253","published_at":"2026-01-19T14:55:57Z","version_pk":"","content_hash":"c5e12c920d94aeea993efbd21eda07383d44624f614bba166b701c47bee83c33","retrieved_at":"2026-09-20T03:00:31+00:00","history_url":"https://en.wikipedia.org/w/index.php?title=Livonian_Chronicle_of_Henry&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"572557"}},"intro":"Livonijos Henriko kronika (lot. Heinrici Cronicon Lyvoniae) – lotyniškas pasakojimas apie įvykius Livonijoje (apytiksliai dabartinės Estijos ir Latvijos teritorijose) ir aplinkinėse vietovėse 1180–1227 m. Ją apie 1229 m. parašė dvasininkas, vardu Henrikas. Be kai kurių nuorodų į XII a. danų istoriko Sakso Gramatiko patriotinį veikalą „Gesta Danorum“ ir kelių paminėjimų Kijevo Rusioje sudarytoje „Pirminėje kronikoje“, Henriko kronika yra seniausias žinomas rašytinis dokumentas apie Estijos ir Latvijos istoriją.","original_intro":"The Livonian Chronicle of Henry (Latin: Heinrici Cronicon Lyvoniae) is a Latin narrative of events in Livonia (roughly corresponding to today''s Estonia and Latvia) and surrounding areas from 1180 to 1227. It was written c. 1229 by a priest named Henry. Apart from some references in Gesta Danorum – a patriotic work by the 12th-century Danish historian Saxo Grammaticus – and few mentions in the Primary Chronicle compiled in Kievan Rus'', the Chronicle of Henry is the oldest known written document about the history of Estonia and Latvia.","translation_status":"translated_verified","infobox":[],"identity_signals":{"exact_title":false,"api_redirect":true,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"en","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Wikipedia","title":"Livonian Chronicle of Henry","url":"https://en.wikipedia.org/wiki/Livonian_Chronicle_of_Henry","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Henriko Latvio Kronika","url":"https://www.vle.lt/straipsnis/henriko-latvio-kronika/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://en.wikipedia.org/wiki/Livonian_Chronicle_of_Henry","https://www.vle.lt/straipsnis/henriko-latvio-kronika/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3cdaef68583b06757b226964","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"Surašyta 1225–1227 m.","context":"Zenonas Ivinskis ją datuoja 1225–1227 m.","support_ids":["t-199236","c-03534"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199236","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-03534","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Kiek plačiau ordino priešą minėjo pir­ mosios Pabaltijyje vokiečių kronikos, būtent, Latvijos Henriko (surašyta 1225-27 m.) ir Eiliuotinė Livonijos kronika (po 1290 m.)."}],"status":"published","conflict_status":"clear"},{"trait_id":"604c7c2d8cc52967a329aa88","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Kronika","context":"Ivinskis ją priskiria pirmosioms Pabaltijo vokiečių kronikoms.","support_ids":["t-199236","c-03534"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199236","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-03534","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Kiek plačiau ordino priešą minėjo pir­ mosios Pabaltijyje vokiečių kronikos, būtent, Latvijos Henriko (surašyta 1225-27 m.) ir Eiliuotinė Livonijos kronika (po 1290 m.)."}],"status":"published","conflict_status":"clear"},{"trait_id":"d798c244537abbae329e22aa","canonical_code":"source.language","label":"Kalba","group":"Šaltinio bruožai","value":"Vokiečių kalba","context":"Ivinskis ją apibūdina kaip vieną iš pirmųjų Pabaltijyje vokiečių kronikų.","support_ids":["t-199236","c-03534"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199236","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-03534","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Kiek plačiau ordino priešą minėjo pir­ mosios Pabaltijyje vokiečių kronikos, būtent, Latvijos Henriko (surašyta 1225-27 m.) ir Eiliuotinė Livonijos kronika (po 1290 m.)."}],"status":"published","conflict_status":"clear"},{"trait_id":"d5a5050da500846e55059017","canonical_code":"source.survival","label":"Išlikimas","group":"Šaltinio istorija","value":"Išlikę XVII a. prierašai arba pastabos, kuriuos parašė kunigas Glumeris","context":"Teodoras Narbutas teigia turėjęs šiuos prierašus rankoje; jo vertinimas ir nurodomas laikas priklauso XVII a. prierašų kontekstui.","support_ids":["t-219019","c-199018"],"source_refs":[{"kind":"internal_claim","claim_id":"t-219019","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199018","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Henriko Latvio kronikos prierašuose, arba pastabose, ku­ rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias turiu rankoje, tarp nedaugelio Lietuvos istoriją liečiančių da­ lykų yra parašyta, kad, kai 1243 metais Livonijos riteriai, šauk­ dami tikrojo Dievo vardą, užpuolė lietuvius, šie savo ruožtu rėkė: JogKauou, jogKauaile! („Jok Kove, jok Kovaiti!“)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b6920c0b1104a62a
+object_page_generated_at: '2026-09-20T03:02:43+00:00'
+object_page_source_checked_at: '2026-09-20T03:02:43+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '4'
+object_page_seo_description: 'Heinrici Chronicon Livoniae: Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kronikų, surašyta 1225-27 m. Santrumpų sąraše taip pat…'
+object_page_seo_input_hash: 66c86956d83214ec24662378feeb42089bbe590cc5cf6e20d7d521e192d21dea
+object_page_seo_generated_at: '2026-09-20T03:02:43+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Heinrici Chronicon Livoniae
 

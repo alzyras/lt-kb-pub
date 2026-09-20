@@ -1,14 +1,14 @@
 ---
 tipas: asmuo
-pavadinimas: 'Albertas Vijūkas-Kojalavičius'
+pavadinimas: Albertas Vijūkas-Kojalavičius
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1618 m.'
-  - '1646 m.'
+  - 1618 m.
+  - 1646 m.
 date_start: '1618'
 date_end: '1646'
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - mokslininkas
   - asmuo
 amziai:
-  - 'XVII'
+  - XVII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f5c1ea6b86470cb1c040821b"
-canonical_name: "Albertas Vijūkas-Kojalavičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Albertas Vijūkas-Kojalavičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f5c1ea6b86470cb1c040821b
+canonical_name: Albertas Vijūkas-Kojalavičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Albertas Vijūkas-Kojalavičius
 sameAs: []
-canonical_biography: "Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos ir daugiatautės bei daugiakonfesės LDK."
+canonical_biography: 'Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos ir daugiatautės bei daugiakonfesės LDK.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:23:57+00:00","source_checked_at":"2026-09-20T09:23:57+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"83b995c12a439643835eebba","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Istorikas","context":"Alfredas Bumblauskas Albertą Vijūką-Kojalavičių įvardija kaip istoriką; 2013 m. veikale apie LDK tradiciją.","support_ids":["t-207467","c-190032"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207467","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190032","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"Žymiausios LDK kultūros asmenybės – užtektų paminėti is- toriką Albertą Vijūką-Kojalavičių ar karo inžinierių Kazimierą Semenavičių – jie abu savo garsiuosiuose veikaluose savo pavardes parašė jau lenkiška forma (Siemienowicz, Kojało- wicz)."}],"status":"published","conflict_status":"clear"},{"trait_id":"b3d114fd73925262c3c4ed42","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Priskiriamas prie žymiausių LDK kultūros asmenybių","context":"Tai Alfredo Bumblausko vertinimas veikale apie LDK tradiciją.","support_ids":["t-207467","c-190032"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207467","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190032","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"Žymiausios LDK kultūros asmenybės – užtektų paminėti is- toriką Albertą Vijūką-Kojalavičių ar karo inžinierių Kazimierą Semenavičių – jie abu savo garsiuosiuose veikaluose savo pavardes parašė jau lenkiška forma (Siemienowicz, Kojało- wicz)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e6b76971f17d7d4e242ac347","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje","context":"Lietuvos istorijoje aprašomas Alberto Vijūko-Kojalavičiaus darbų vaidmuo; šaltinis nurodo jų įtaką, siekusią toli už etninės Lietuvos ribų.","support_ids":["t-18765","c-21550"],"source_refs":[{"kind":"internal_claim","claim_id":"t-18765","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-21550","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"do ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: aa488bb4e94b0f9b
+object_page_generated_at: '2026-09-20T09:23:57+00:00'
+object_page_source_checked_at: '2026-09-20T09:23:57+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Albertas Vijūkas-Kojalavičius: Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje. Narbutas nurodo, kad…'
+object_page_seo_input_hash: 32d00ed88f09f51b9eb70273962cbb94a1d25e948fea5e05ce7bedafa770a203
+object_page_seo_generated_at: '2026-09-20T09:23:57+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Albertas Vijūkas-Kojalavičius
 

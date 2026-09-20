@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jonas Jeronimaitis Chodkevičius'
+pavadinimas: Jonas Jeronimaitis Chodkevičius
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1562 m.'
-  - '1569 m.'
+  - 1562 m.
+  - 1569 m.
 date_start: '1562'
 date_end: '1569'
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - asmuo
   - diplomatas
 amziai:
-  - 'XVI'
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-c803cf804b81db02cb5becd6"
-canonical_name: "Jonas Jeronimaitis Chodkevičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jonas Jeronimaitis Chodkevičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-c803cf804b81db02cb5becd6
+canonical_name: Jonas Jeronimaitis Chodkevičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jonas Jeronimaitis Chodkevičius
 sameAs: []
-canonical_biography: "Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Lenkija, arba Lietuvą užkariauja Rusija. Jonas Jeronimaitis Chodkevičius teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti."
+canonical_biography: 'Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Lenkija, arba Lietuvą užkariauja Rusija. Jonas Jeronimaitis Chodkevičius teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:09:06+00:00","source_checked_at":"2026-09-20T06:09:06+00:00","counts":{"relations":1,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-101650","confidence":0.84}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 00edca4d358e43e5
+object_page_generated_at: '2026-09-20T06:09:06+00:00'
+object_page_source_checked_at: '2026-09-20T06:09:06+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Jonas Jeronimaitis Chodkevičius: Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją…'
+object_page_seo_input_hash: 4d1acfe6dd5aec5ac487193be46427de968d5388f00ec77906c7658c73aa9cbf
+object_page_seo_generated_at: '2026-09-20T06:09:06+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jonas Jeronimaitis Chodkevičius
 

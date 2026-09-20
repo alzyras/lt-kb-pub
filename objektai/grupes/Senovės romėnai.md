@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Senovės romėnai'
+pavadinimas: Senovės romėnai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -14,12 +14,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T11:12:13+00:00","source_checked_at":"2026-09-19T11:12:13+00:00","counts":{"relations":2,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Šiuos prietarus žinojo ir Lietuvos rusinai. Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė- jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­ gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­ vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","claim_id":"t-216759","evidence_id":"c-201346","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"301255648f165f53cdd24798","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Statė prabangius ir didingus aukurus, skirtus atskiriems dievams.","context":"Teodoras Narbutas, aprašydamas senovės egiptiečius, graikus ir romėnus, teigia, kad jie statė tokius aukurus.","support_ids":["t-216533","c-199293"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216533","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199293","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Kunigai, stovėdami ant pa­ kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­ kai, romėnai statė prabangius ir didingus aukurus, paskirtus skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­ prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus kai kuriuos, buvusius Perkūno šventyklose."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"15294aa6b53005870b71e284","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Garbinėjo žalčius.","context":"Teodoras Narbutas teigia, kad senovėje žalčių garbinimas buvo visuotinis ir kad romėnai nebuvo laisvi nuo šių prietarų.","support_ids":["t-216759","c-201346"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216759","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201346","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Šiuos prietarus žinojo ir Lietuvos rusinai. Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė- jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­ gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­ vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"396eae167fd963b945563e20","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Laikėsi nuostatos, kad savižudybė smerktina.","context":"Teodoras Narbutas teigia, kad senovės graikai ir romėnai laikėsi tos pačios nuomonės; tai pateikiama kalbant apie senovės lietuvių požiūrį į savižudybę.","support_ids":["t-216307","c-197992"],"source_refs":[{"kind":"internal_claim","claim_id":"t-216307","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-197992","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Juk mirtingai būtybei net sekundė gyvenimo yra malonus turtas. Negalime neigti, kad senovės lietuviai nesmerkė savižudy­ bės; juk nepalyginti labiau apsišvietę graikai ir romėnai buvo tos pačios nuomonės. Tai nugrimzdusios į paklydimą religijos silpnoji pusė."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-215999","confidence":0.86},{"predicate":"pastate","direction":"outbound","target":"objektai/daiktai/Aukurai","claim_id":"t-216533","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 361b9c74a8a1894a
+object_page_generated_at: '2026-09-19T11:12:13+00:00'
+object_page_source_checked_at: '2026-09-19T11:12:13+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Senovės romėnai: Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuriai buvo lemta tapti pasaulio valdymo pavyzdžiu. Narbutas rašo, kad…'
+object_page_seo_input_hash: af46926b9e285614e8257b6a6f4b9b93e2b2296d6a888370f2731f3159867857
+object_page_seo_generated_at: '2026-09-19T11:12:13+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Senovės romėnai
 

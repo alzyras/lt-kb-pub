@@ -1,8 +1,8 @@
 ---
 tipas: autorius
-pavadinimas: 'Wulfstanas'
+pavadinimas: Wulfstanas
 saltiniai:
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -15,19 +15,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e0c57b9537ab888c43b86d82"
-canonical_name: "Wulfstanas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Wulfstanas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e0c57b9537ab888c43b86d82
+canonical_name: Wulfstanas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Wulfstanas
 sameAs: []
-canonical_biography: "Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies. Įdomiai Wulfstanas pasakojo apie prūsų laidojimo papročius."
+canonical_biography: 'Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies. Įdomiai Wulfstanas pasakojo apie prūsų laidojimo papročius.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:20:59+00:00","source_checked_at":"2026-09-20T12:20:59+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Jų metu žymioji dalis turto, kuris į 5-6 dalis 5-6 mylių atstume išskirstomas, tekdavusi tam, kuris su savo žirgu pirmasis pasiekdavęs toliausiai padėtą didžiąją dalį. Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII amž. Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies. Tarp savęs aisčiai daug kariaują.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","claim_id":"t-97236","evidence_id":"c-91712","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"34bb61efcd6f087d54e6b1a2","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Jūrininkas, lankęsis Baltijos jūros pakraščių kraštuose.","context":"Taip jį apibūdina šaltinio autorius, aptardamas Wulfstano žinių kilmę.","support_ids":["t-97235","c-36706"],"source_refs":[{"kind":"internal_claim","claim_id":"t-97235","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-36706","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Tas žinias jis sako gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose lankęsis. Istoriografijoj tos žinios ir žinomos kaip Wulfstano (^1) ) Klim."}],"status":"published","conflict_status":"clear"},{"trait_id":"9764c4792d6a8f40b59e7ab5","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Pasakojo ir rašė apie prūsų laidojimo papročius bei aisčių kraštą, jo dydį, medų ir žuvį.","context":"Šaltiniuose perteikiami Wulfstano pasakojimai apie jo lankytus kraštus.","support_ids":["t-97232","c-91714","t-97234","c-91712"],"source_refs":[{"kind":"internal_claim","claim_id":"t-97232","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"internal_claim","claim_id":"t-97234","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-91714","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Tad alaus « ais­ čiai » nedarą. Įdomiai Wulfstanas pasakojo apie prūsų laidojimo papročius. «Aisčiai» moką išlaikyti užšaldytus lavonus net vasaros karščių metu."},{"kind":"evidence","evidence_id":"c-91712","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Jų metu žymioji dalis turto, kuris į 5-6 dalis 5-6 mylių atstume išskirstomas, tekdavusi tam, kuris su savo žirgu pirmasis pasiekdavęs toliausiai padėtą didžiąją dalį. Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII amž. Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies. Tarp savęs aisčiai daug kariaują."}],"status":"published","conflict_status":"clear"},{"trait_id":"d9f8ca4c632b86232dcde734","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Pirmasis autorius, pats matęs aprašomą rytų Pabaltijo kraštą.","context":"Zenonas Ivinskis taip vertina Wulfstano liudijimo reikšmę, aprašydamas jo kelionę iš Haithabu į Trusą.","support_ids":["t-97233","c-91713"],"source_refs":[{"kind":"internal_claim","claim_id":"t-97233","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-91713","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Dažnai miglotos ankstyvesnių autorių žinios apie rytų Pabaltijį buvo atėjusios netikrais ir vingiuotais keliais. Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Iš Haithabu (Schleswige) keliautojas buriniu laivu atvyko iki Truso (Drausensee)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Wulfstanas buvo keliautojas ir autorius, pirmasis pats matęs aprašomą rytų Pabaltijo kraštą. Iš Haithabu, dar vadinamo Schleswigu, jis buriniu laivu atvyko iki Truso, todėl jo pasakojimas išsiskyrė tiesiogine patirtimi. Apibūdindamas aisčių žemę, Wulfstanas teigė, kad ji buvo labai didelė, joje netrūko medaus ir žuvies, o aisčiai tarpusavyje dažnai kariaudavo. Ypač įdomiai jis pasakojo apie prūsų laidojimo papročius: aisčiai, pasak jo, mokėjo išlaikyti lavonus užšaldytus net vasaros karščių metu.","sentences":[{"sentence_id":"s1","text":"Wulfstanas buvo keliautojas ir autorius, pirmasis pats matęs aprašomą rytų Pabaltijo kraštą.","support_ids":["t-97233","c-91713"]},{"sentence_id":"s2","text":"Iš Haithabu, dar vadinamo Schleswigu, jis buriniu laivu atvyko iki Truso, todėl jo pasakojimas išsiskyrė tiesiogine patirtimi.","support_ids":["t-97233","c-91713"]},{"sentence_id":"s3","text":"Apibūdindamas aisčių žemę, Wulfstanas teigė, kad ji buvo labai didelė, joje netrūko medaus ir žuvies, o aisčiai tarpusavyje dažnai kariaudavo.","support_ids":["t-97234","c-91712"]},{"sentence_id":"s4","text":"Ypač įdomiai jis pasakojo apie prūsų laidojimo papročius: aisčiai, pasak jo, mokėjo išlaikyti lavonus užšaldytus net vasaros karščių metu.","support_ids":["t-97232","c-91714"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta: Wulfstanas įvardijamas keliautoju ir pirmuoju, pačiam mačiusiu aprašomą kraštą; šaltinis jį taip pat pateikia kaip autorių."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai nurodyta, kad jis iš Haithabu (Schleswigo) buriniu laivu atvyko iki Truso; tiesioginė patirtis logiškai išplaukia iš jo paties kelionės."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad aisčių žemė buvo labai didelė, joje buvo daug medaus ir žuvies, o aisčiai tarpusavyje daug kariavo."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo Wulfstano pasakojimą apie prūsų laidojimo papročius ir aisčių gebėjimą vasarą išlaikyti lavonus užšaldytus."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-97233","c-91713"]},{"sentence_id":"s2","supported":true,"support_ids":["t-97233","c-91713"]},{"sentence_id":"s3","supported":true,"support_ids":["t-97234","c-91712"]},{"sentence_id":"s4","supported":true,"support_ids":["t-97232","c-91714"]}],"verifier":"gpt-5.6-luna"},"quality":53,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c0e558552be95acf
+object_page_generated_at: '2026-09-20T12:20:59+00:00'
+object_page_source_checked_at: '2026-09-20T12:20:59+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '2'
+object_page_seo_description: 'Wulfstanas buvo keliautojas ir autorius, pirmasis pats matęs aprašomą rytų Pabaltijo kraštą. Iš Haithabu, dar vadinamo Schleswigu, jis buriniu laivu atvyko…'
+object_page_seo_input_hash: 09f1b76cb49a2c78f78db25c882d4dcf38d51e97ee9db128912fb56b595eaefd
+object_page_seo_generated_at: '2026-09-20T12:20:59+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Wulfstanas
 

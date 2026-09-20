@@ -1,12 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Varšuvos Mokslo bičiulių draugija'
+pavadinimas: Varšuvos Mokslo bičiulių draugija
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1816 m.'
-  - '1820 m.'
-  - '1822 m.'
+  - 1816 m.
+  - 1820 m.
+  - 1822 m.
 date_start: '1816'
 date_end: '1822'
 sukurta: ''
@@ -16,19 +16,29 @@ tags:
   - grupe
   - institucija
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Varšuvos mokslo bičiulių draugija","url":"https://www.vle.lt/straipsnis/varsuvos-mokslo-biciuliu-draugija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:34:55+00:00","source_checked_at":"2026-09-20T10:34:55+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Varšuvos mokslo bičiulių draugija","url":"https://www.vle.lt/straipsnis/varsuvos-mokslo-biciuliu-draugija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/varsuvos-mokslo-biciuliu-draugija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c2340b036809b77e2bc147c5","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Draugijoje buvo nutarta, kad statulėlė yra indiškos kilmės, išvadą grindžiant tik panašumu.","context":"1820 m.; pagal Teodoro Narbuto pasakojimą šaltinyje, remiantis draugijos sprendimu.","support_ids":["t-214432","c-196851"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214432","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196851","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"1820 metais grafas tą statulėlę nusiuntė į Varšuvos Mokslo bičiulių draugiją. Draugijoje buvo nutarta, jog figūrėlė yra in­ diškos kilmės: tokią išvadą padarė remdamiesi tik panašumu."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"880f61db249d9101bf5f9191","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Draugijos nuomonei apie statulėlės kilmę pritarė ne visi mokslininkai, net pačioje Varšuvoje.","context":"Teodoro Narbuto vertinimas; apie 1836 m. jam tuo klausimu rašė vienas Varšuvos korespondentų.","support_ids":["t-219614","c-200572"],"source_refs":[{"kind":"internal_claim","claim_id":"t-219614","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-200572","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Trys žuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­ kančias upes: Nerį, Nemuną ir Nevėžį. Kad ir kaip ten būtų bu­ vę, Varšuvos draugijos nuomonei pritarė ne visi mokslininkai, net pačioje Varšuvoje. Apie tai 1836 metais man rašė vienas iš tenykščių korespondentų, į kurį buvau kreipęsis tuo klausimu *."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 21aaed879c4d8c8c
+object_page_generated_at: '2026-09-20T10:34:55+00:00'
+object_page_source_checked_at: '2026-09-20T10:34:55+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '3'
+object_page_seo_description: 'Varšuvos Mokslo bičiulių draugija šiame šaltinyje minima ir kaip tautinės kultūros programos pavyzdys, ir kaip institucija, kuriai 1820 m. buvo nusiųsta Kaune…'
+object_page_seo_input_hash: 34087ddd2a23c214d2c6b4ba0c58242d135e8e52b697fb8b9e3a93be87e848f4
+object_page_seo_generated_at: '2026-09-20T10:34:55+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Varšuvos Mokslo bičiulių draugija
 

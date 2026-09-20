@@ -1,11 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'Nikolajus Karamzinas'
+pavadinimas: Nikolajus Karamzinas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1569 m.'
+  - 1569 m.
 date_start: '1569'
 date_end: ''
 sukurta: ''
@@ -14,28 +14,41 @@ tags:
   - istorikas
   - autorius
 amziai:
-  - 'XVI'
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-43f578d799316acdf9db6337"
-canonical_name: "Nikolajus Karamzinas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Nikolajus Karamzinas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-43f578d799316acdf9db6337
+canonical_name: Nikolajus Karamzinas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Nikolajus Karamzinas
 sameAs: []
-canonical_biography: "Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“ turinį. Narbutas rašo, kad Nikolajus Karamzinas Perkūno vardą kildino iš indų kalbos žodžio „Penui“, reiškiančio didelį. Karamzinas, Narbuto perteikimu, rašė apie vitbionų sostinę Witsby prie Dauguvos, siejamą su Vitebsku."
+canonical_biography: 'Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“ turinį. Narbutas rašo, kad Nikolajus Karamzinas Perkūno vardą kildino iš indų kalbos žodžio „Penui“, reiškiančio didelį. Karamzinas, Narbuto perteikimu, rašė apie vitbionų sostinę Witsby prie Dauguvos, siejamą su Vitebsku.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:44:41+00:00","source_checked_at":"2026-09-20T03:44:41+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"57cdb0f1ecb506b00e6c377a","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Autorius","context":"Nikolajus Karamzinas yra dvylikatomės „Rusijos valstybės istorijos“ (1816–1829) autorius; taip jį aprašo Teodoras Narbutas.","support_ids":["t-206234","c-188849"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206234","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188849","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Daugiausia nuorodų į devyniatomės „Prūsijos istorijos“ (1827-1838) autorių Johaną Foigtą (Johannes Voigt) ir į dvy- likatomės „Rusijos valstybės istorijos“ (1816-1829) autorių Nikolajų Karamziną."}],"status":"published","conflict_status":"clear"},{"trait_id":"9c1d6bfd1624a4e1a17bbe1f","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"„Rusijos valstybės istorijos“ autorius","context":"Teodoras Narbutas Nikolajų Karamziną įvardija dvylikatomės „Rusijos valstybės istorijos“ (1816–1829) autoriumi.","support_ids":["t-206234","c-188849"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206234","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188849","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Daugiausia nuorodų į devyniatomės „Prūsijos istorijos“ (1827-1838) autorių Johaną Foigtą (Johannes Voigt) ir į dvy- likatomės „Rusijos valstybės istorijos“ (1816-1829) autorių Nikolajų Karamziną."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b1d9fa0c4bcad679
+object_page_generated_at: '2026-09-20T03:44:41+00:00'
+object_page_source_checked_at: '2026-09-20T03:44:41+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Nikolajus Karamzinas: Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“…'
+object_page_seo_input_hash: 26eb52709865f9901e0c76a4559800eb630b3a50a401a6e4d9afb014dc8d39e9
+object_page_seo_generated_at: '2026-09-20T03:44:41+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Nikolajus Karamzinas
 

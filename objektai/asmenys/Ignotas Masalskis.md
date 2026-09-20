@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Ignotas Masalskis'
+pavadinimas: Ignotas Masalskis
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1740 m.'
-  - '1821 m.'
+  - 1740 m.
+  - 1821 m.
 date_start: '1740'
 date_end: '1821'
 sukurta: ''
@@ -14,29 +14,41 @@ tags:
   - asmuo
   - vyskupas
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f766da7b461d16225326c011"
-canonical_name: "Ignotas Masalskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Ignotas Masalskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f766da7b461d16225326c011
+canonical_name: Ignotas Masalskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Ignotas Masalskis
 sameAs: []
-canonical_biography: "Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Masalskis. Masalskis ir Livonijos vyskupas J."
+canonical_biography: Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Masalskis. Masalskis ir Livonijos vyskupas J.
+external_sources_json: '[{"title":"Ignotas Masalskis","url":"https://lt.wikipedia.org/wiki/Ignotas_Masalskis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:57:50+00:00","source_checked_at":"2026-09-20T13:57:50+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Ignotas Masalskis","url":"https://lt.wikipedia.org/wiki/Ignotas_Masalskis","publisher":"Vikipedija","language":"lt","article_id":"222744","revision_id":"7467748","published_at":"2025-01-11T11:27:07Z","version_pk":"","content_hash":"fede92b2aa68e37fa1d1bf413174119411b19d12faa22f8552c97d22d08b526e","retrieved_at":"2026-09-20T13:57:09+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Ignotas_Masalskis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"222744"}},"intro":"Ignotas Jokūbas Masalskis (lenk. Ignacy Jakub Massalski, 1726 m. liepos 30 d. – 1794 m. birželio 28 d.) – Vilniaus vyskupas, Verkių rūmų statytojas, Vilniaus katedros rekonstrukcijos fundatorius, pirmasis Edukacinės komisijos pirmininkas. Targovicos konfederacijos narys; 1794 m. sukilimo metu buvo viešai pakartas už išdavystę Varšuvoje. Yra vaizduojamas lietuvių grožinėje literatūroje – istorinėse dramose: Balio Sruogos „Apyaušrio dalioje“, Justino Marcinkevičiaus „Katedroje“.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"Vilniaus vyskupas","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"~1726 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Alekšicai","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1794 m.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Varšuva","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Vilniaus katedra","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Mykolas Juozapas Masalskis; Pranciška Oginska","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Ignotas Masalskis","url":"https://lt.wikipedia.org/wiki/Ignotas_Masalskis","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Ignotas_Masalskis"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Varšuva","claim_id":"t-75849","confidence":0.94}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 7186e610832da094
+object_page_generated_at: '2026-09-20T13:57:50+00:00'
+object_page_source_checked_at: '2026-09-20T13:57:50+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Ignotas Masalskis: Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Masalskis. Masalskis…'
+object_page_seo_input_hash: ff208edb4100e7095b50509e51b839b10d98244d9dad339ddfdd2c15dca41f06
+object_page_seo_generated_at: '2026-09-20T13:57:50+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ignotas Masalskis
 

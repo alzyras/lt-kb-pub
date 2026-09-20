@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Lenkų senatas'
+pavadinimas: Lenkų senatas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
@@ -14,12 +14,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:59:34+00:00","source_checked_at":"2026-09-20T06:59:34+00:00","counts":{"relations":1,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"siunte_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-185430","confidence":0.95}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 675ad75635bb7f43
+object_page_generated_at: '2026-09-20T06:59:34+00:00'
+object_page_source_checked_at: '2026-09-20T06:59:34+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui. Žygimanto…'
+object_page_seo_input_hash: e24174e2d9ffd88a72ad909c679d49841c4a67d7cb88200bf8e9981c32a85bb3
+object_page_seo_generated_at: '2026-09-20T06:59:34+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Lenkų senatas
 

@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Pitėjas'
+pavadinimas: Pitėjas
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -15,19 +15,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6c35e8edbc31a58d8c235659"
-canonical_name: "Pitėjas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Pitėjas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6c35e8edbc31a58d8c235659
+canonical_name: Pitėjas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Pitėjas
 sameAs: []
-canonical_biography: "Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Britaniją, antrą kartą į šiaurės rytus. Narbutas pažymėjo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti. Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti."
+canonical_biography: 'Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Britaniją, antrą kartą į šiaurės rytus. Narbutas pažymėjo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti. Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti.'
+external_sources_json: '[{"title":"Pitėjas","url":"https://lt.wikipedia.org/wiki/Pit%C4%97jas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:00:14+00:00","source_checked_at":"2026-09-19T21:00:14+00:00","counts":{"relations":1,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Pitėjas","url":"https://lt.wikipedia.org/wiki/Pit%C4%97jas","publisher":"Vikipedija","language":"lt","article_id":"225163","revision_id":"6726879","published_at":"2022-10-19T04:00:16Z","version_pk":"","content_hash":"5ab165df3949cd728d85cb08de781831ff3fbf69edc3248752a4add6967b32b6","retrieved_at":"2026-09-19T20:58:47+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Pit%C4%97jas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"225163"}},"intro":"Pitėjas Masilietis (sen. gr. Πυθέας; gyveno IV a. pr. m. e.) – senovės graikų geografas, keliautojas, astronomas bei matematikas, kilęs iš Graikijos kolonijos Masilėjos (dabartinio Marselio). Maždaug 325 m. pr. m. e. atliko tiriamąją ekspediciją į šiaurės vakarų Europą. Savo keliones aprašė darbe, kuris iki šių dienų neišliko; yra likę tik fragmentai perpasakoti kitų autorių. Manoma paminėjo aisčių gentį vadinama Ostiaioi (nuor. Ostimioi). Pitėjas – pirmasis, apibūdinęs Vidurnakčio Saulę, poliarinį ledą, pirmasis, paminėjęs Britanijos vardą bei Balisia salą jūroje. Įrodė, kad Mėnulis lemia jūrų potvynius bei atoslūgius. Atrado, jog Šiaurinė žvaigždė iš tiesų nėra ties pačiu šiaurės ašigaliu.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Pitėjas","url":"https://lt.wikipedia.org/wiki/Pit%C4%97jas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Pit%C4%97jas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"84b1942c03e3412867925141","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Žemę vadina šventa.","context":"Pasak Simono Daukanto cituojamo pasakojimo, Pitėjas žemę vadina šventa; šaltinis nepatikslina, apie kurią žemę kalbama.","support_ids":["t-201023","c-184373"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201023","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184373","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Nuo to gi gal lemti, jog ta pasaka galėjo bū­ ti pradžioj yna, bet paskui yra pertaisyta nuo kokio noris zokanyko gudo arba vokyčio 15 ar 16 amžiuj, kaipogi daugioj vietoj pati pasaka sau prieštarauja, bylodama, jog pirmąją žinyčią Rusnėj viešpats Bra- tenis įkūręs ties ąžuolu, visuomet žaliuojančiu, savo buveinę Rūmais pravardavęs ir kunigus įstatęs. Nes jei Brutenis buvo jau viešpačiu ir tarnu dievų ir visų vyriausiu valdymieru ūkės dar pirm Vitevudo, kaip pati pasaka byloja, tai turėjo pirmesniai būti žinyčia įkurta ir kunigai paskirti, kurie ūkės dievus pirm to jau godojo, ką ne vien Pitėjas, kurs tą žemę šventa vadina, bet ir patys raštai Nemuno, kursai būk pirmasis žinyčią Rusnėj…"}],"status":"published","conflict_status":"clear"},{"trait_id":"ed6bb8c48c71c99a6cfcdf70","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Masilijos astronomas ir jūrų keliautojas.","context":"Teodoras Narbutas aprašo Pitėją kaip Masilijos astronomą ir jūrų keliautoją, išsiųstą į kelionę Atlanto vandenynu; įvykis datuojamas maždaug 340 m. pr. Kr.","support_ids":["t-215775","c-196675"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215775","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196675","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­ mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis, gerai nustatęs išvykimo vietos, t. y. Masilijos uosto, geo­ grafinę padėtį, išplaukė į Atlanto vandenyną. Tai įvyko praėjus 90 metų po H imi Ikaro kelionės, arba 340 metais ¡prieš Kristaus gimimą"}],"status":"published","conflict_status":"clear"},{"trait_id":"5935af65af5364a846d35439","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Įžymus.","context":"Teodoras Narbutas Pitėją tiesiogiai vadina įžymiu; tai yra šaltinio autoriaus vertinimas, susijęs su jo aprašomu vaidmeniu kelionėje.","support_ids":["t-215775","c-196675"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215775","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196675","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­ mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis, gerai nustatęs išvykimo vietos, t. y. Masilijos uosto, geo­ grafinę padėtį, išplaukė į Atlanto vandenyną. Tai įvyko praėjus 90 metų po H imi Ikaro kelionės, arba 340 metais ¡prieš Kristaus gimimą"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Baltija","claim_id":"t-215072","confidence":0.68}],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ca898b2545fcbdf2
+object_page_generated_at: '2026-09-19T21:00:14+00:00'
+object_page_source_checked_at: '2026-09-19T21:00:14+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Pitėjas: Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Britaniją, antrą kartą į šiaurės rytus. Narbutas pažymėjo, kad Pitėjas gutonus…'
+object_page_seo_input_hash: d73bc5b079d0d7540ea849183b17b668eea1012fa31869c13f891ec41fec4f6d
+object_page_seo_generated_at: '2026-09-19T21:00:14+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Pitėjas
 

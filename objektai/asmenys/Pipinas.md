@@ -1,10 +1,10 @@
 ---
 tipas: asmuo
-pavadinimas: 'Pipinas'
+pavadinimas: Pipinas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1223 m.'
+  - 1223 m.
 date_start: '1223'
 date_end: ''
 sukurta: ''
@@ -13,28 +13,40 @@ tags:
   - asmuo
   - karys
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-c2fb98b77458cdf1190b1e0b"
-canonical_name: "Pipinas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Pipinas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-c2fb98b77458cdf1190b1e0b
+canonical_name: Pipinas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Pipinas
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas. Dusburgietis teigia, kad palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija, ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas: išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas, buvo verčiamas. Dusburgietis teigia, kad vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę arba nužudomas."
+canonical_biography: 'Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas. Dusburgietis teigia, kad palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija, ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas: išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas, buvo verčiamas. Dusburgietis teigia, kad vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę arba nužudomas.'
+external_sources_json: '[{"title":"Pipinas","url":"https://www.vle.lt/straipsnis/pipinas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:20:40+00:00","source_checked_at":"2026-09-20T14:20:40+00:00","counts":{"relations":4,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Pipinas","url":"https://www.vle.lt/straipsnis/pipinas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/pipinas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"dc08d4466fea60e3be0aab93","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Pamedės kilmingasis","context":"Petras Dusburgietis, „Prūsijos žemės kronika“ (1985 m.); aprašoma, kad Pipinas gyveno pilaitėje.","support_ids":["t-220197","c-206167"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220197","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-206167","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę arba nužudomas. Vieni krikščionis puolė iš aukščiau pastatytos pilies, kiti — iš žemiau, o šis — iš esančios per patį vidurį."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b020b651f6f0fdefe3d8ea6d","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Prūsų kovotojas prieš Vokiečių ordino agresiją","context":"Šaltinio autoriaus vertinimas: Pipinas apibūdinamas kaip vienas iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją; vertinimas pateiktas aprašant jo mirtį.","support_ids":["t-223009","c-203757"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223009","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203757","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas. Palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija, ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas: išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas, buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c30e4798a937cdc33be6fe4b","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Vienas iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją","context":"Petras Dusburgietis, „Prūsijos žemės kronika“ (1985 m.); autoriaus vertinimas, pateiktas aprašant Pipino mirtį.","support_ids":["t-223009","c-203757"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223009","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203757","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas. Palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija, ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas: išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas, buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Mata","claim_id":"t-221449","confidence":0.97},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Pilaitė","claim_id":"t-220197","confidence":0.93},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-221449","confidence":0.9},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Torunė","claim_id":"t-220516","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 759aa3aa76e132f0
+object_page_generated_at: '2026-09-20T14:20:40+00:00'
+object_page_source_checked_at: '2026-09-20T14:20:40+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Pipinas: Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į…'
+object_page_seo_input_hash: ba9c5f73931c85050d12b37bebeb0643a1a9391a0cacecccde5488e5d3d0154b
+object_page_seo_generated_at: '2026-09-20T14:20:40+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Pipinas
 

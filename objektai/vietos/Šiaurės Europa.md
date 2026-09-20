@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Šiaurės Europa'
+pavadinimas: Šiaurės Europa
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -16,21 +16,33 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-dc80ae1660fbf0ba3ff5875a"
-canonical_name: "Šiaurės Europa"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Šiaurės Europa"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-dc80ae1660fbf0ba3ff5875a
+canonical_name: Šiaurės Europa
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Šiaurės Europa
 sameAs: []
-canonical_biography: "Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a."
+canonical_biography: 'Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Šiaurės Europa","url":"https://lt.wikipedia.org/wiki/%C5%A0iaur%C4%97s_Europa","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:15:00+00:00","source_checked_at":"2026-09-20T04:15:00+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Šiaurės Europa","url":"https://lt.wikipedia.org/wiki/%C5%A0iaur%C4%97s_Europa","publisher":"Vikipedija","language":"lt","article_id":"224829","revision_id":"7494035","published_at":"2025-02-11T19:11:08Z","version_pk":"","content_hash":"cb49a30b7bbd466d91651525526e49cea8db95d3ed4fce9b06d249e82b5a7858","retrieved_at":"2026-09-20T04:13:58+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=%C5%A0iaur%C4%97s_Europa&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"224829"}},"intro":"Šiaurės Europa – šiaurinė Europos žemyno dalis. Kultūriškai Šiaurės Europą sudaro (su priklausomomis teritorijomis):","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Šiaurės Europa","url":"https://lt.wikipedia.org/wiki/%C5%A0iaur%C4%97s_Europa","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C5%A0iaur%C4%97s_Europa"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b74ac038d50cd927
+object_page_generated_at: '2026-09-20T04:15:00+00:00'
+object_page_source_checked_at: '2026-09-20T04:15:00+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Šiaurės Europa: Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos…'
+object_page_seo_input_hash: cc9881e90eaafd35d5086c868337d127f059977df6a07e7ba69f191e5168f804
+object_page_seo_generated_at: '2026-09-20T04:15:00+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Šiaurės Europa
 

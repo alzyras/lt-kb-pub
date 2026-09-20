@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Aukaimis'
+pavadinimas: Aukaimis
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1357 m.'
-  - '1414 m.'
+  - 1357 m.
+  - 1414 m.
 date_start: '1357'
 date_end: '1414'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XIV'
-  - 'XV'
+  - XIV
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-674b31383514ddfc90d68228"
-canonical_name: "Aukaimis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Aukaimis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-674b31383514ddfc90d68228
+canonical_name: Aukaimis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Aukaimis
 sameAs: []
-canonical_biography: "Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­ šui padegus pilį, turėję pasiduoti."
+canonical_biography: 'Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­ šui padegus pilį, turėję pasiduoti.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Aukaimis","url":"https://www.vle.lt/straipsnis/aukaimis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:21:35+00:00","source_checked_at":"2026-09-19T15:21:35+00:00","counts":{"relations":5,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Aukaimis","url":"https://www.vle.lt/straipsnis/aukaimis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/aukaimis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c7d49e97fb15a43f5b88c8b5","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Aukaimis yra prie Jūros upės; šaltinyje taip pat minimos Aukaimio apylinkės ir Aukaimio kaimas.","context":"Teodoro Narbuto pasakojime apie Prūsijos ir Livonijos pulkų žygį; taip pat nurodoma, kad 1414 m. liepos 28 d. Aukaimio kaime mirė Gintautas.","support_ids":["t-206455","c-189070","t-219653","c-199379"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206455","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"internal_claim","claim_id":"t-219653","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-189070","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Tad pulkai iš Prūsijos bei Livonijos susijungė prie M e­ melio ir įsibrovė į Žemaitijos kraštą, kur, kaip įprasta, nioko­ dami priartėjo prie Jūros upės Aukaimio"},{"kind":"evidence","evidence_id":"c-199379","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Paskui šitaip klestėjo Žemaičių kunigaikš­ tystėje iki paskutinių atsivertimo laikų, būtent iki 1414 metų liepos 28 dienos, kurią Aukaimio kaime mirė paskutinis Kri­ vių Krivaitis, vardu Gintautas, iš eilės 74 žynys"}],"status":"published","conflict_status":"clear"},{"trait_id":"cc53296bc1b1800e11b9125b","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Aukaimis apibūdinamas kaip tvirtovė, pilis ir papilys.","context":"Skirtinguose šaltiniuose vartojami pavadinimai „Aukaimio tvirtovė“, „Aukaimio pilis“ ir „Aukaimio papilis“; autoriai aprašo skirtingus istorinius įvykius.","support_ids":["t-205747","c-188362","t-184923","c-168284","t-222690","c-203772"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205747","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"internal_claim","claim_id":"t-184923","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-222690","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-188362","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Po šio įvykio lietuviai sumanė pasinaudoti Ragainės vado mirtimi ir su gausiu būriu išvyko iš Aukaimio tvirtovės; net iki Ragainės nusigavo bandydami, ar nepavyktų čia surengti kokio puolimo."},{"kind":"evidence","evidence_id":"c-168284","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Vis dėlto žmonių ne­ daug žuvo, nes gyventojai, palikę namus priešų valiai, patys su visais brangesniais daiktais išsislapstė miškų tankmėse. Tais pačiais me­ tais per išdavystę buvo prarasta Aukaimio pilis. Pilies viršininkas Draika pradėjo linkti į krikščionių tikėji­ mą."},{"kind":"evidence","evidence_id":"c-203772","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Aukaimio papilio sudeginimą Neilgai trukus po to tie patys Ragainės broliai užpuolė su savo valdiniais, pilėnams bemiegant, Aukaimio papilį ir jį iki pamatų sudegino; neskaitant 4 vyrų, buvusių pilyje, ir saujelės pabėgusių, visi kiti žuvo arba nuo ugnies, arba nuo kalavijo drauge su žmonomis, vaikais, galvijais ir gyvuliais. 9."}],"status":"published","conflict_status":"clear"},{"trait_id":"a5b066613abe7d5a8702eb43","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Aukaimio tvirtovė buvo prieglobstis į ją pasitraukusiems maištininkams.","context":"Tai tiesioginis Teodoro Narbuto vertinimas jo pasakojime apie Aukaimio tvirtovę.","support_ids":["t-205749","c-188364"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205749","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188364","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Aukaimio tvirtovė buvo prieglobstis tų patra­ kusių maištininkų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"54796fd453d82da81990b94c","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Iš Aukaimio tvirtovės lietuviai išvyko su gausiu būriu, mėgindami surengti puolimą prie Ragainės.","context":"Teodoro Narbuto pasakojimas apie įvykius po Ragainės vado mirties.","support_ids":["t-205747","c-188362"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205747","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188362","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Po šio įvykio lietuviai sumanė pasinaudoti Ragainės vado mirtimi ir su gausiu būriu išvyko iš Aukaimio tvirtovės; net iki Ragainės nusigavo bandydami, ar nepavyktų čia surengti kokio puolimo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ebfab724b34c286a8a77fe45","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Aukaimio tvirtovė turėjo įėjimą; šaltinyje nurodoma, kad puolėjai rado laisvą, išdaviko parengtą įėjimą.","context":"Teodoro Narbuto pasakojime apie Aukaimio puolimą; po užpuolimo pilis buvo sudeginta ir sulyginta su žeme.","support_ids":["t-205750","c-188365"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205750","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188365","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Prisiartinęs prie Aukaimio, rado laisvą įėjimą, išdaviko parengtą. Tai­ gi kilo baisios vyrų skerdynės, vaikai ir moterys buvo paimti į nelaisvę, pilis degėsiais paversta, su žeme su­ lyginta."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-220225","confidence":0.7},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Gintautas","claim_id":"t-218237","confidence":0.82},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Henrikas iš Dobino","claim_id":"t-223882","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-102841","confidence":0.76},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-222007","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":8,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: bcbd6873c3e6a252
+object_page_generated_at: '2026-09-19T15:21:35+00:00'
+object_page_source_checked_at: '2026-09-19T15:21:35+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '5'
+object_page_seo_description: 'Aukaimis: Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį).…'
+object_page_seo_input_hash: e5041b8806432edf9da7981311208aaf36d8bc939cafeff738913fb0eed72308
+object_page_seo_generated_at: '2026-09-19T15:21:35+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Aukaimis
 

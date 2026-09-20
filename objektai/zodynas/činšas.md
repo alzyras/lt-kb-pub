@@ -1,16 +1,16 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'činšas'
+pavadinimas: činšas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
 datos:
-  - '1398 m.'
-  - '1541 m.'
-  - '1632 m.'
-  - '1763 m.'
+  - 1398 m.
+  - 1541 m.
+  - 1632 m.
+  - 1763 m.
 date_start: '1398'
 date_end: '1763'
 sukurta: ''
@@ -20,20 +20,30 @@ tags:
   - mokestis
   - ekonominis-terminas
 amziai:
-  - 'XIV'
-  - 'XVIII'
+  - XIV
+  - XVIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Činšas","url":"https://lt.wikipedia.org/wiki/%C4%8Cin%C5%A1as","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"činšas","url":"https://www.vle.lt/straipsnis/cinsas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T12:25:44+00:00","source_checked_at":"2026-09-19T12:25:44+00:00","counts":{"relations":0,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Činšas","url":"https://lt.wikipedia.org/wiki/%C4%8Cin%C5%A1as","publisher":"Vikipedija","language":"lt","article_id":"162301","revision_id":"7588331","published_at":"2025-07-03T14:49:36Z","version_pk":"","content_hash":"6d3478af7180a74493c03209270c6b955f9c55b64d6c281810a669ce583b7173","retrieved_at":"2026-09-19T12:24:03+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=%C4%8Cin%C5%A1as&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"162301"}},"intro":"Činšas (vok. Zins, lenk. czynsz, iš lot. census – turto įkainojimas, aprašas) – feodalinių ir vėlesnių laikų Europos žemės renta, baudžiauninkų ir laisvųjų žmonių, žemės naudotojų, arba laikytojų mokama senjorui, vėliau – žemės savininkui pinigais arba natūra. Jų santykius reguliavo činšo teisė.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Činšas","url":"https://lt.wikipedia.org/wiki/%C4%8Cin%C5%A1as","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"činšas","url":"https://www.vle.lt/straipsnis/cinsas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/%C4%8Cin%C5%A1as","https://www.vle.lt/straipsnis/cinsas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"2a29de8eb8e304cadfd7cf4f","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Duoklininkas – duoklę mokantis valstietis.","context":"Zenonas Ivinskis, cituodamas istorinį aiškinimą apie Žemaičių padėtį Vytauto laikais.","support_ids":["t-82131","c-78623"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82131","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-78623","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"c. _Žemaičių sukilimai._ — Ilgas ir įkyrus aiškinimasis su Vy­ tautu, kas Žemaičiuose yra laisvas ir kas činšininkas — duoklinin­ kas, nieko gera nedavė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7e64f0a66b67aa13f298258c","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Mokestis už sklypą mieste.","context":"Zigmantas Kiaupa jį apibūdina kaip vieną seniausių ir pastoviausių miestiečių prievolių; šaltinyje kalbama apie savavaldžių miestų prievoles valstybei.","support_ids":["t-201509","c-184856"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201509","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184856","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Būtina pažymėti, kad savavaldžių miestų prievolių valstybei visu- ma buvo kintantis dydis, vienos prievolės išnykdavo, atsirasdavo naujų, deklaruojamų kaip prievolės karo meto poreikiams tenkinti, ilgainiui virstančių nuolatinėmis. Bene seniausiais ir pastoviausias mokestis buvo mokestis už sklypus mieste, vadina- masis činšas. Tiesa, kartais šaltiniuose činšas įvardijamas kitaip, - kaip vartų ar namų mokestis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"084f754c4ec28bf02b53cd40","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Istoriniame kontekste činšininkais vadinti valstiečiai, kurie nebuvo baudžiauninkai.","context":"A. Šapokos redaguotoje Lietuvos istorijoje teigiama, kad daugelis tokių valstiečių iki pat rusų valdymo pradžios buvo činšininkai, o ne baudžiauninkai; autorius juos vertina kaip buvusius beveik lygius smulkiesiems bajorams.","support_ids":["t-193167","c-175916"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193167","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-175916","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Tačiau būdami neturtingi, bajorai čia tebebuvo nenutolę nuo liaudies ir tebekalbėjo lietuviškai. Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai. Todėl jie beveik buvo lygūs su smulkbajoriais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"95947f1157f55d9be0977d5f","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Žodis vartojamas istoriniuose pasakojimuose apie mokestį už namą ar jo nuomą.","context":"Michał Baliński aprašo Filipovo namo činšą: jis buvo mokamas kasmet vienuolika metų, po to mokėjimas nutrūko ir prasidėjo teismo procesas; aplinkybė siejama su XVI amžiaus įvykiais.","support_ids":["t-82136","c-78627"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82136","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-78627","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tą Fi- lipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį būstą. Šis činšas buvo mokamas vienuolika metų, bet paskui liautasi mokėti, ir kapitula su kunigaikščiu Kristupu pradėjo teismo procesą dėl Filipovo namo. Tačiau 1573 metais kovo 26 dieną su kapitula įsigaliojo sutartis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c3260ae5466de7f54bc59a4b","canonical_code":"term.variants","label":"Variantai","group":"Vartosena","value":"Vartų mokestis arba namų mokestis.","context":"Zigmantas Kiaupa nurodo, kad šaltiniuose činšas kartais įvardijamas kitaip – kaip vartų ar namų mokestis.","support_ids":["t-201509","c-184856"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201509","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-184856","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Būtina pažymėti, kad savavaldžių miestų prievolių valstybei visu- ma buvo kintantis dydis, vienos prievolės išnykdavo, atsirasdavo naujų, deklaruojamų kaip prievolės karo meto poreikiams tenkinti, ilgainiui virstančių nuolatinėmis. Bene seniausiais ir pastoviausias mokestis buvo mokestis už sklypus mieste, vadina- masis činšas. Tiesa, kartais šaltiniuose činšas įvardijamas kitaip, - kaip vartų ar namų mokestis."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a106e3df457e6e88
+object_page_generated_at: '2026-09-19T12:25:44+00:00'
+object_page_source_checked_at: '2026-09-19T12:25:44+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '4'
+object_page_seo_description: 'činšas: Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai…'
+object_page_seo_input_hash: b9fa05cb1ceb1ef79c3ce654c28e9cba775562f17fb4d4105c10525b1df42a27
+object_page_seo_generated_at: '2026-09-19T12:25:44+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # činšas
 

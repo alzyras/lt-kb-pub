@@ -1,16 +1,16 @@
 ---
 tipas: grupe
-pavadinimas: 'Litvakai'
+pavadinimas: Litvakai
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1865 m.'
-  - '1910 m.'
-  - '1927 m.'
-  - '1967 m.'
-  - '1975 m.'
-  - '1988 m.'
-  - '2002 m.'
+  - 1865 m.
+  - 1910 m.
+  - 1927 m.
+  - 1967 m.
+  - 1975 m.
+  - 1988 m.
+  - 2002 m.
 date_start: '1865'
 date_end: '2002'
 sukurta: ''
@@ -19,20 +19,30 @@ tags:
   - grupe
   - tauta
 amziai:
-  - 'XIX'
-  - 'XXI'
+  - XIX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Litvakai","url":"https://www.vle.lt/straipsnis/litvakai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T07:10:51+00:00","source_checked_at":"2026-09-20T07:10:51+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Litvakai","url":"https://www.vle.lt/straipsnis/litvakai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/litvakai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"412d09da432f21611d7b36a1","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Žydai iš istorinės Lietuvos (LDK po Liublino unijos).","context":"Šaltinyje sąvoka „litvakas“ aiškinama kaip žydas iš Lietuvos; vėliau taip pat vadinti žydai, kuriems būdinga savita gyvensena.","support_ids":["t-45106","c-22658"],"source_refs":[{"kind":"internal_claim","claim_id":"t-45106","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22658","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Ir šian- dien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pava- dinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK po Liublino unijos). Tačiau kartu litvakais imta vadinti žydus, kuriems būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-45106","confidence":0.72}],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 937b40b2d33fd997
+object_page_generated_at: '2026-09-20T07:10:51+00:00'
+object_page_source_checked_at: '2026-09-20T07:10:51+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'Litvakai: Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu…'
+object_page_seo_input_hash: 0f98ad398cd3350dede6736656f88175f1b99aae6b078f09cab1fb560edce4cb
+object_page_seo_generated_at: '2026-09-20T07:10:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Litvakai
 

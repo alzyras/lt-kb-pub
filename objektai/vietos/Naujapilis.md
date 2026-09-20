@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Naujapilis'
+pavadinimas: Naujapilis
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1380 m.'
-  - '1381 m.'
-  - '2026 m.'
+  - 1380 m.
+  - 1381 m.
+  - 2026 m.
 date_start: '1380'
 date_end: '2026'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-31bd922b7d220218c98850b0"
-canonical_name: "Naujapilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Naujapilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-31bd922b7d220218c98850b0
+canonical_name: Naujapilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Naujapilis
 sameAs: []
-canonical_biography: "122, 132, 158, 160, 169, 189, 197, 213, 225, 230, 240- 242, 262, 263, 266, 272, 274, 303, 305, 307, 313, 319-322, 324, 327, 351, 372, 379 Naugardas-Sieverskas 262, 312, 313, 321 Naugardo metraštis 163-164, 168, 183, 244, 311, 320 Naugardukas 119, 125, 126."
+canonical_biography: '122, 132, 158, 160, 169, 189, 197, 213, 225, 230, 240- 242, 262, 263, 266, 272, 274, 303, 305, 307, 313, 319-322, 324, 327, 351, 372, 379 Naugardas-Sieverskas 262, 312, 313, 321 Naugardo metraštis 163-164, 168, 183, 244, 311, 320 Naugardukas 119, 125, 126.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Naujapilis","url":"https://lt.wikipedia.org/wiki/Naujapilis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:59:05+00:00","source_checked_at":"2026-09-20T10:59:05+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Naujapilis","url":"https://lt.wikipedia.org/wiki/Naujapilis","publisher":"Vikipedija","language":"lt","article_id":"324461","revision_id":"6858418","published_at":"2023-02-04T06:29:38Z","version_pk":"","content_hash":"b2cef8961a00b8f8aa3ea50f876a8e8cacd2e5acc2a690d463a3e9b90700da36","retrieved_at":"2026-09-20T10:57:20+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Naujapilis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"324461"}},"intro":"Naujapilis – viensėdis Širvintų rajono savivaldybėje, prie šiaurinės Širvintų miesto ribos, prie kelio 4301 Širvintos–Šešuoliai–Miegučiai . Stovi Naujapilio koplyčia.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Naujapilis","url":"https://lt.wikipedia.org/wiki/Naujapilis","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Naujapilis"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"97b8431b2c8db0489e96f565","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Prie Liškiavos esantis kalnas","context":"Teodoro Narbuto teigimu, vietos ir istorijos duomenų palyginimas leidžia šį kalną susieti su Naujapiliu.","support_ids":["t-206532","c-189147"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206532","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-189147","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Sis vietos ir istori­ jos duomenų palyginimas įtikina, kad prie Liškiavos esantis kalnas ir buvo toji garsi Lietuvos istorijoje senovinė pilis, kurią žinome rusišku Lietuvos Naugar­ duko, arba lietuvišku Naujapilio - Nauenpille - vardu."}],"status":"published","conflict_status":"clear"},{"trait_id":"6987f489d6059c556636b22d","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Senovinė pilis, dar vadinta Naujapiliu arba Nauenpille","context":"Teodoras Narbutas Naujapilį apibūdina kaip senovinę pilį.","support_ids":["t-206532","c-189147"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206532","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-189147","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Sis vietos ir istori­ jos duomenų palyginimas įtikina, kad prie Liškiavos esantis kalnas ir buvo toji garsi Lietuvos istorijoje senovinė pilis, kurią žinome rusišku Lietuvos Naugar­ duko, arba lietuvišku Naujapilio - Nauenpille - vardu."}],"status":"published","conflict_status":"clear"},{"trait_id":"fd40e5010e9939bc52789a06","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Tvirtovė su pilimi ir įgula","context":"1381 m. šaltinyje Naujapilis aprašomas kaip tvirtovė, kurios įgula slėpėsi pilies viduje; po trijų dienų kryžiuočiai jį padegė.","support_ids":["t-206530","c-189145","t-206531","c-189146"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206530","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"internal_claim","claim_id":"t-206531","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-189145","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Vėliau dar didesnio žygio buvo imtasi: maršalka Kūnas Hatenšteinas ir didysis komtūras Ridigeris Elneris, ordino ri­ terių ir svetimšalių atėjūnų nemažo pulko lydimi, tarp kurių buvo daug įžymių asmenų, būtent Badeno markgrafas, gau­ sios kariaunos priekyje įsibrovė į Vaiguvos pavietą ir naktį su priešakiniais kavalerijos būriais priartėjo prie Naujapilio. Tvir­ tovės įgula jiems pasipriešino, bet, patyrusi nuostolių, buvo pri­ versta pasislėpti pilies viduje. Kitą, 1381 metų vasario 14 dieną, atžygiavo kariuomenė su sunkiomis ugniasvaidėmis patranko­ mis. Vygandas teigia, kad kryžiuočiai iki tol nebuvo jų naudoję. Išgąstis dėl tų griausmus ir perkūnus svaidančių mašinų padarė tai, kad…"},{"kind":"evidence","evidence_id":"c-189146","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Trečią dieną, padegę Naujapilį, kryžiuočiai atsitraukė, tačiau nu­ sivijo kažkokį lietuvių kariuomenės būrį, tikriausiai sugebėjusį prasiveržti iš pilies."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Naujapilis – senovinė Lietuvos pilis, kurią Teodoras Narbutas sieja su prie Liškiavos esančiu kalnu. Pasak jo, ši vieta istoriniuose šaltiniuose vadinta rusišku Lietuvos Naugarduko ir lietuvišku Naujapilio, arba Nauenpille, vardu. 1380–1381 m. vykusių susirėmimų metu Naujapilį paėmė kariuomenės dalis, kartu paimdama 3000 žmonių. Šis epizodas išryškina pilies vaidmenį kariniuose konfliktuose ir jos reikšmę to meto karo veiksmuose. Po trijų dienų kryžiuočiai pilį padegė ir atsitraukė, tačiau pakeliui užklupo lietuvių kariuomenės būrį, kuris, tikėtina, buvo prasiveržęs iš Naujapilio.","sentences":[{"sentence_id":"s1","text":"Naujapilis – senovinė Lietuvos pilis, kurią Teodoras Narbutas sieja su prie Liškiavos esančiu kalnu.","support_ids":["t-206532","c-189147"]},{"sentence_id":"s2","text":"Pasak jo, ši vieta istoriniuose šaltiniuose vadinta rusišku Lietuvos Naugarduko ir lietuvišku Naujapilio, arba Nauenpille, vardu.","support_ids":["t-206532","c-189147"]},{"sentence_id":"s3","text":"1380–1381 m. vykusių susirėmimų metu Naujapilį paėmė kariuomenės dalis, kartu paimdama 3000 žmonių.","support_ids":["t-33800","c-35029"]},{"sentence_id":"s4","text":"Šis epizodas išryškina pilies vaidmenį kariniuose konfliktuose ir jos reikšmę to meto karo veiksmuose.","support_ids":["t-33800","c-35029"]},{"sentence_id":"s5","text":"Po trijų dienų kryžiuočiai pilį padegė ir atsitraukė, tačiau pakeliui užklupo lietuvių kariuomenės būrį, kuris, tikėtina, buvo prasiveržęs iš Naujapilio.","support_ids":["t-206531","c-189146"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta t-206532 ir c-189147."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta t-206532 ir c-189147."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta t-33800 ir c-35029."},{"sentence_id":"s4","supported":false,"reason":"Ši interpretacinė išvada šaltiniuose tiesiogiai neparemta."},{"sentence_id":"s5","supported":true,"reason":"Tiesiogiai paremta t-206531 ir c-189146."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-206532","c-189147"]},{"sentence_id":"s2","supported":true,"support_ids":["t-206532","c-189147"]},{"sentence_id":"s3","supported":true,"support_ids":["t-33800","c-35029"]},{"sentence_id":"s4","supported":true,"support_ids":["t-33800","c-35029"]},{"sentence_id":"s5","supported":true,"support_ids":["t-206531","c-189146"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 73f5bdb2bae64432
+object_page_generated_at: '2026-09-20T10:59:05+00:00'
+object_page_source_checked_at: '2026-09-20T10:59:05+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '2'
+object_page_seo_description: 'Naujapilis – senovinė Lietuvos pilis, kurią Teodoras Narbutas sieja su prie Liškiavos esančiu kalnu. Pasak jo, ši vieta istoriniuose šaltiniuose vadinta…'
+object_page_seo_input_hash: 7da62299579389e1d71b765530ac8252acb5a3300a4b052704887101116d95da
+object_page_seo_generated_at: '2026-09-20T10:59:05+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Naujapilis
 

@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Johanas Foigtas'
+pavadinimas: Johanas Foigtas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1770 m.'
+  - 1770 m.
 date_start: '1770'
 date_end: ''
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - istorikas
   - asmuo
 amziai:
-  - 'XVIII'
+  - XVIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-bd9d4115d4f6c2e075243dce"
-canonical_name: "Johanas Foigtas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Johanas Foigtas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-bd9d4115d4f6c2e075243dce
+canonical_name: Johanas Foigtas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Johanas Foigtas
 sameAs: []
-canonical_biography: "Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho. Narbutas rašo, kad Johanas Foigtas, remdamasis prūsų apskaitos knygomis, nurodė 1770 m. Semboje surinktą didelį gintaro kiekį. Pasak Narbuto, Reinchardo teiginys apie Stavaniją rėmėsi Johanu Foigtu ir vietovardžiais Stabinas bei Staviškės."
+canonical_biography: 'Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho. Narbutas rašo, kad Johanas Foigtas, remdamasis prūsų apskaitos knygomis, nurodė 1770 m. Semboje surinktą didelį gintaro kiekį. Pasak Narbuto, Reinchardo teiginys apie Stavaniją rėmėsi Johanu Foigtu ir vietovardžiais Stabinas bei Staviškės.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:55:40+00:00","source_checked_at":"2026-09-19T18:55:40+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: cccf41157defa456
+object_page_generated_at: '2026-09-19T18:55:40+00:00'
+object_page_source_checked_at: '2026-09-19T18:55:40+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Johanas Foigtas: Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho.…'
+object_page_seo_input_hash: 4890ac6b3ef4b88a5b7876d923eaeb72287a6b0de19a45853d8cd388a4cefb04
+object_page_seo_generated_at: '2026-09-19T18:55:40+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Johanas Foigtas
 

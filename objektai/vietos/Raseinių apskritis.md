@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Raseinių apskritis'
+pavadinimas: Raseinių apskritis
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1945 m.'
+  - 1945 m.
 date_start: '1945'
 date_end: ''
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - kaimas
   - vieta
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-793cdcf78f3a0294495f7606"
-canonical_name: "Raseinių apskritis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Raseinių apskritis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-793cdcf78f3a0294495f7606
+canonical_name: Raseinių apskritis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Raseinių apskritis
 sameAs: []
-canonical_biography: "X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps."
+canonical_biography: X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Raseinių apskritis","url":"https://lt.wikipedia.org/wiki/Raseini%C5%B3_apskritis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Raseinių apskritis","url":"https://www.vle.lt/straipsnis/raseiniu-apskritis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:14:18+00:00","source_checked_at":"2026-09-19T23:14:18+00:00","counts":{"relations":0,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"T. Narbutas Lietuvoje suranda ir antikinio mito apie Plu­ tono pagrobtą Demetros dukterį Persefonę atitikmenį. Visiš­ kai panašų „pasakojimą“ jis nugirsta Raseinių apskrityje, Pa­ švenčio apylinkėse.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","claim_id":"t-219881","evidence_id":"c-199886","origin":"internal"},"wiki":{"status":"published","source":{"title":"Raseinių apskritis","url":"https://lt.wikipedia.org/wiki/Raseini%C5%B3_apskritis","publisher":"Vikipedija","language":"lt","article_id":"188507","revision_id":"7614070","published_at":"2025-08-08T17:01:25Z","version_pk":"","content_hash":"331df25672efa7fdc42b37584090dd2a9be6f3a53ac64c701f511c608b825226","retrieved_at":"2026-09-19T23:12:26+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Raseini%C5%B3_apskritis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"188507"}},"intro":"Raseinių apskritis (arba Raseinių reparticija, Raseinių žemė, Raseinių kreizas, Raseinių pavietas, Raseinių ujezdas; lenk. Rossieński powiat, rus. Россіенскій уѣздъ, vok. Kreis Rossienie) – buvęs administracinis-teritorinis vienetas dabartinės Lietuvos vakaruose, pietryčių Žemaitijoje, gyvavę 1764–1950 m. Centras – Raseiniai.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Raseinių apskritis","url":"https://lt.wikipedia.org/wiki/Raseini%C5%B3_apskritis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Raseinių apskritis","url":"https://www.vle.lt/straipsnis/raseiniu-apskritis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Raseini%C5%B3_apskritis","https://www.vle.lt/straipsnis/raseiniu-apskritis/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Raseinių apskritis – šaltiniuose minima vietovė, išryškėjanti per XIX–XX amžių socialinius, kultūrinius ir karinius įvykius. 1858 m. rudenį jos klebonus valdžia oficialiai klausinėjo, kuo remiantis kuriamos blaivininkų organizacijos, o blaivininkai čia sudarė 72 proc. katalikų. Šis rodiklis rodo reikšmingą blaivybės judėjimo mastą apskrityje, nors pateikti duomenys neleidžia tiksliai apibūdinti visos jos administracinės istorijos. 1945 m. vasario 15 d. Graužų–Lenčių (Zembiškio) miške Vlado Pabarčiaus 40 partizanų būrys surengė pasalą iš užduoties grįžtantiems NKVD Betygalos stribams; žuvo šeši stribai. Pašvenčio apylinkėse T. Narbutas užrašė mitologinį pasakojimą apie karalienę Krūminę ir jos dukterį, siejamą su senųjų deivių bei antikinio mito atgarsiais.","sentences":[{"sentence_id":"s1","text":"Raseinių apskritis – šaltiniuose minima vietovė, išryškėjanti per XIX–XX amžių socialinius, kultūrinius ir karinius įvykius.","support_ids":["t-209349","c-191992","t-38540","c-40344","t-218072","c-201481"]},{"sentence_id":"s2","text":"1858 m. rudenį jos klebonus valdžia oficialiai klausinėjo, kuo remiantis kuriamos blaivininkų organizacijos, o blaivininkai čia sudarė 72 proc. katalikų.","support_ids":["t-209349","c-191992","t-208595","c-191215"]},{"sentence_id":"s3","text":"Šis rodiklis rodo reikšmingą blaivybės judėjimo mastą apskrityje, nors pateikti duomenys neleidžia tiksliai apibūdinti visos jos administracinės istorijos.","support_ids":["t-208595","c-191215"]},{"sentence_id":"s4","text":"1945 m. vasario 15 d. Graužų–Lenčių (Zembiškio) miške Vlado Pabarčiaus 40 partizanų būrys surengė pasalą iš užduoties grįžtantiems NKVD Betygalos stribams; žuvo šeši stribai.","support_ids":["t-38540","c-40344"]},{"sentence_id":"s5","text":"Pašvenčio apylinkėse T. Narbutas užrašė mitologinį pasakojimą apie karalienę Krūminę ir jos dukterį, siejamą su senųjų deivių bei antikinio mito atgarsiais.","support_ids":["t-218072","c-201481","t-219881","c-199886"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Sakinio teiginiai apibendrina pateiktuose šaltiniuose nurodytus XIX–XX a. blaivybės, karinius ir mitologinius įvykius Raseinių apskrityje."},{"sentence_id":"s2","supported":true,"reason":"Abu konkretūs teiginiai tiesiogiai paremti nurodytais šaltiniais: 1858 m. klebonų apklausa ir 72 proc. blaivininkų rodiklis."},{"sentence_id":"s3","supported":false,"reason":"Šaltiniai patvirtina 72 proc. rodiklį, bet tiesiogiai nepatvirtina jo interpretacijos kaip reikšmingo judėjimo masto ir teiginio apie administracinės istorijos neapibūdinamumą."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo datą, Graužų–Lenčių (Zembiškio) mišką, Vlado Pabarčiaus 40 partizanų būrį, pasalą NKVD stribams ir šešių stribų žūtį."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai nurodo T. Narbuto girdėtą pasakojimą Pašvenčio apylinkėse apie karalienę Krūminę ir jos dukterį bei jo sąsają su deive ir antikinio mito atitikmeniu."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-209349","c-191992","t-38540","c-40344","t-218072","c-201481"]},{"sentence_id":"s2","supported":true,"support_ids":["t-209349","c-191992","t-208595","c-191215"]},{"sentence_id":"s3","supported":true,"support_ids":["t-208595","c-191215"]},{"sentence_id":"s4","supported":true,"support_ids":["t-38540","c-40344"]},{"sentence_id":"s5","supported":true,"support_ids":["t-218072","c-201481","t-219881","c-199886"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d6d78c4a72eecfd1
+object_page_generated_at: '2026-09-19T23:14:18+00:00'
+object_page_source_checked_at: '2026-09-19T23:14:18+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '4'
+object_page_seo_description: 'Raseinių apskritis – šaltiniuose minima vietovė, išryškėjanti per XIX–XX amžių socialinius, kultūrinius ir karinius įvykius. 1858 m. rudenį jos klebonus…'
+object_page_seo_input_hash: e43849875c0cb4b8d123677b4d382635a88e6fa7d76952b774b68ffa5d9e1734
+object_page_seo_generated_at: '2026-09-19T23:14:18+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Raseinių apskritis
 

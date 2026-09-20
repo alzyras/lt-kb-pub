@@ -1,10 +1,10 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mykolas Lietuvis'
+pavadinimas: Mykolas Lietuvis
 saltiniai:
   - 'Lietuvių tautos istorija, t. 3'
-  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
-  - 'Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje'
+  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
+  - Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -18,19 +18,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-009ba19249efe97cead92b10"
-canonical_name: "Mykolas Lietuvis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mykolas Lietuvis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-009ba19249efe97cead92b10
+canonical_name: Mykolas Lietuvis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mykolas Lietuvis
 sameAs: []
-canonical_biography: "Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėnus, žalčių laikymu išlikusį Eskulapo garbinimą. Narbutas Mykolą Lietuvį minėjo tarp nedaugelio lietuvių, kurie per 400 metų pasirūpino krašto praeitimi. Mykolas Lietuvis, Narbuto apibūdintas kaip Lenkijos mokslo amžiaus autorius, stengėsi įrodyti lietuvių ir lotynų kalbų vienodumą."
+canonical_biography: 'Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėnus, žalčių laikymu išlikusį Eskulapo garbinimą. Narbutas Mykolą Lietuvį minėjo tarp nedaugelio lietuvių, kurie per 400 metų pasirūpino krašto praeitimi. Mykolas Lietuvis, Narbuto apibūdintas kaip Lenkijos mokslo amžiaus autorius, stengėsi įrodyti lietuvių ir lotynų kalbų vienodumą.'
+external_sources_json: '[{"title":"Mykolas Lietuvis","url":"https://www.vle.lt/straipsnis/mykolas-lietuvis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:50:02+00:00","source_checked_at":"2026-09-19T22:50:02+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Mykolas Lietuvis","url":"https://www.vle.lt/straipsnis/mykolas-lietuvis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/mykolas-lietuvis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7d2fea625f74f4d400da801b","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Teodoro Narbuto teigimu, Mykolas Lietuvis puikiai mokėjo lietuvių ir lotynų kalbas.","context":"Vertinimas pateiktas Teodoro Narbuto veikale „Lietuvių tautos istorija“, t. 2 (1995 m.).","support_ids":["t-212267","c-196856"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212267","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196856","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"199 Nenutraukdami mūsų pastabų sekos, laikysime, jog lai­ mingesnės aplinkybės leido graikams ir italams puikiau išlavinti tą patį religingumą, labiau išplėtoti švietimą, išpuošti tą pačią kalbą, tatai nėmaž netrukdo po daugelio amžių pripažinti jai giminingą kalbą tautos, nublokštos j rūsčias pasaulio šalis. Lenkijos mokslo amžiuje gyvenęs Mykolas Lietuvis stengėsi įrodyti lietuvių ir lotynų kalbų ■vienodumą2. Ilgai čia reikėtų dėstyti jo įrodymus, parem­ tus vien žodžių ir religinių apeigų panašumu, bet pasaky­ sime tik tiek, jog šis autorius, puikiai mokėjęs abi kalbas, labiau įrodė jų kilmę iš vieno šaltinio negu jų tapatybę."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d9e501536316f49c
+object_page_generated_at: '2026-09-19T22:50:02+00:00'
+object_page_source_checked_at: '2026-09-19T22:50:02+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '3'
+object_page_seo_description: 'Mykolas Lietuvis: Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėnus, žalčių laikymu išlikusį Eskulapo garbinimą. Narbutas…'
+object_page_seo_input_hash: fe8894e75d4d820ae164ebbebea89884783c04cd2b288a98fc60707d479215c1
+object_page_seo_generated_at: '2026-09-19T22:50:02+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mykolas Lietuvis
 

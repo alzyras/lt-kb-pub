@@ -1,13 +1,13 @@
 ---
 tipas: asmuo
-pavadinimas: 'Danielius'
+pavadinimas: Danielius
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1237 m.'
+  - 1237 m.
 date_start: '1237'
 date_end: ''
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - kunigaikštis
   - tauta
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8df0d56b9d94600bc3bd1c98"
-canonical_name: "Danielius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Danielius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8df0d56b9d94600bc3bd1c98
+canonical_name: Danielius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Danielius
 sameAs: []
-canonical_biography: "Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį). Danielius tuojau pasiuntė Vykintą į Livonijos ordiną, siūlydamas jam sąjungą."
+canonical_biography: 'Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį). Danielius tuojau pasiuntė Vykintą į Livonijos ordiną, siūlydamas jam sąjungą.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T17:35:19+00:00","source_checked_at":"2026-09-19T17:35:19+00:00","counts":{"relations":2,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8ab66af99fb3157133ea9f6c","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kunigaikštis; Pietų Rusios kunigaikščių vadas","context":"Teodoras Narbutas Danielių taip įvardija aprašydamas 1237 m. žygį prieš jotvingius prie Brastos.","support_ids":["t-212805","c-195150"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212805","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195150","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Būgas jau tuomet buvo Mazovijos ir rusų žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­ bių jotvingių gyvenviečių, nes jas tikėjosi užpulti Pietų Rusios kunigaikščiai, kuriems vadovavo Danielius — klastingas, godus ir neramus žmogus. 1237 metais jis ve­ dė savo būrius prieš jotvingius į Brastos apylinkes, bet itin dideli pavasario potvyniai ;užtvindė upių krantus, ir jo sumanymas nebuvo įgyvendintas3."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"df29f360785c74505b5bf209","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lenevaldės pilies kamendotas","context":"Daukantas Danielių taip įvardija aprašydamas konfliktą su Kuoknesės kunigaikščiu Veiseke.","support_ids":["t-200977","c-184327"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200977","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"evidence","evidence_id":"c-184327","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Albertui apipasakoti, kursai vėl nusiuntė kunigą juos Dievo žody stiprinti ir bažnyčią jiems įkūrė. Tuo pačiu laiku rados netaikos tarp Veisekės, Kuoknesės kunigaikščio, ir kamendoto Lenevaldės pilės Danieliaus, kurios įgulė antpuolė naktį pasalu Kuoknesės įgulę miegančią ir tenai, vienus netikė­ lius lietuvius nugalavusi, kitus išblaškiusi, nutvėrė patį kunigaikštį ir su jo tarnais apkalo; tą padarius, vokyčiai apreiškė savo pilės vyrui Danieliui, kursai atstu veizėjos, kas tenai nutiko, drovėdamos pats tenai kištis, nurašė apie tą v. Albertui, kursai, noris tokiu darbu širdyj džiaugės, vienok rašte jį peikė ir kunigaikščiui pilį sugrąžino, kurį, dar didžiomis do- venomis apdovenojęs nuo…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"91e7fe08031cc8cf4b5ab156","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Klastingas, godus ir neramus","context":"Teodoras Narbutas taip vertina Danielių, aprašydamas 1237 m. jo vadovautą žygį prieš jotvingius prie Brastos.","support_ids":["t-212805","c-195150"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212805","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195150","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Būgas jau tuomet buvo Mazovijos ir rusų žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­ bių jotvingių gyvenviečių, nes jas tikėjosi užpulti Pietų Rusios kunigaikščiai, kuriems vadovavo Danielius — klastingas, godus ir neramus žmogus. 1237 metais jis ve­ dė savo būrius prieš jotvingius į Brastos apylinkes, bet itin dideli pavasario potvyniai ;užtvindė upių krantus, ir jo sumanymas nebuvo įgyvendintas3."}],"status":"published","conflict_status":"clear"},{"trait_id":"776f5846a6946fa16d6365ab","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Vedė derybas, pasibaigusias taikos sutartimi","context":"Teodoras Narbutas rašo, kad Danielius kartu su Vasilka vedė derybas su didžiuoju kunigaikščiu; sutartimi jiems palikti Volkovyskas ir Slonimas, o įkaitu atiduotas Vaišelga.","support_ids":["t-205660","c-188275"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205660","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188275","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Didysis kunigaikštis, matydamas taip gerai klojantis Ru­ sios kunigaikščiams, su Danieliumi ir Vasilka pradėjo de­ rybas, pasibaigusias taikos sutartimi, kuria aniems buvo palikti Volkovyskas ir Slonimas; laiduojant už įkaitą buvo atiduotas Vaišelga, Mindaugo sūnus1 2."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9fc3748a31a6c21e4575e2eb","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Siuntė pasiuntinius pas jotvingius, žemaičius ir į Rygą pas vokiečius","context":"Bychovco kronikoje aprašoma, kad Danielius su Vasilka nusiuntė Vykintą šiomis kryptimis.","support_ids":["t-211824","c-194151"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211824","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194151","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Danielius su Vasilka nusiuntė Vykin­ tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Jotvingiai","claim_id":"t-212805","confidence":0.78},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Brasta","claim_id":"t-212805","confidence":0.8}],"timeline":[],"support_disclosure":{"claims":9,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: facffd1490ce949b
+object_page_generated_at: '2026-09-19T17:35:19+00:00'
+object_page_source_checked_at: '2026-09-19T17:35:19+00:00'
+object_page_content_state: content
+object_page_claim_count: '9'
+object_page_source_count: '4'
+object_page_seo_description: Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį). Danielius…
+object_page_seo_input_hash: 405898e0dd78fddf7c5bea542d84a951e21c3bca1138660c490922244d0bd1f2
+object_page_seo_generated_at: '2026-09-19T17:35:19+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Danielius
 

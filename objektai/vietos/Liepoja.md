@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Liepoja'
+pavadinimas: Liepoja
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1917 m.'
-  - '1923 m.'
-  - '2026 m.'
+  - 1917 m.
+  - 1923 m.
+  - 2026 m.
 date_start: '1917'
 date_end: '2026'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - vieta
   - sostinė
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-df2e760f5d55523aa6d8b0c1"
-canonical_name: "Liepoja"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Liepoja"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-df2e760f5d55523aa6d8b0c1
+canonical_name: Liepoja
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Liepoja
 sameAs: []
-canonical_biography: "Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda. Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų."
+canonical_biography: 'Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda. Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Liepoja","url":"https://lt.wikipedia.org/wiki/Liepoja","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Liepoja","url":"https://www.vle.lt/straipsnis/liepoja/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:07:26+00:00","source_checked_at":"2026-09-19T23:07:26+00:00","counts":{"relations":0,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Liepoja","url":"https://lt.wikipedia.org/wiki/Liepoja","publisher":"Vikipedija","language":"lt","article_id":"20765","revision_id":"7782249","published_at":"2026-03-16T12:48:04Z","version_pk":"","content_hash":"059abcad47797f09c758e3ce427b603fe17ee17583baa4a8f5a79b7c75b5ebe1","retrieved_at":"2026-09-19T23:05:55+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Liepoja&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"20765"}},"intro":"Liepoja (latv. Liepāja) – miestas vakarų Latvijoje prie Baltijos jūros. Trečias didžiausias miestas Latvijoje ir svarbus uostas. Pirmą kartą paminėta 1253 metais. Miesto teisės gautos 1625 m. kovo 18 d. 1874 m. nutiestas Liepojos-Romnų geležinkelis. Pirmojo ir Antrojo pasaulinių karų metu šalia Liepojos veikė karinis miestelis Karuosta (dab. miesto rajonas). Liepoja išrinkta 2027 m. Europos kultūros sostine.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Liepoja","url":"https://lt.wikipedia.org/wiki/Liepoja","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Liepoja","url":"https://www.vle.lt/straipsnis/liepoja/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Liepoja","https://www.vle.lt/straipsnis/liepoja/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7345ea8a43d1606bb6fa6a64","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Uostas","context":"Liepoja šaltiniuose apibūdinama kaip uostas; 1863 m. sukilėliai planavo jį užimti, o 1917 m. lietuvių atstovai numatė jo reikalauti.","support_ids":["t-68453","c-167178","t-68454","c-24245"],"source_refs":[{"kind":"internal_claim","claim_id":"t-68453","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-68454","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-167178","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Zigmantą Sierakauską, ginklų ir savanorių iš Londono. Sukilėliai planavo užimti Palangos ir Liepojos uos- tus. Turėdami savo rankose uostų kontrolę, sukilėliai tikėjosi palaikyti nuolatinius ryšius su Lenkija ir kitomis šalimis, iš kur tikėtasi paramos."},{"kind":"evidence","evidence_id":"c-24245","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio 2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme- tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e29d6843e89608ed987aa71d","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Išėjimas į jūrą","context":"Lietuvos delegacija buvo instruktuota siekti išėjimo į jūrą per Liepoją; tai nurodyta Lietuvos valstybės sienų ir ekonominių interesų kontekste.","support_ids":["t-68452","c-24246"],"source_refs":[{"kind":"internal_claim","claim_id":"t-68452","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-24246","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da- rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė- dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų Sąjungos bendriją."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"484e41753836e5774d5b146b","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Uosto kontrolė ir ryšiai su kitomis šalimis","context":"1863 m. sukilėliai planavo užimti Liepojos uostą, kad kontroliuodami uostus palaikytų nuolatinius ryšius su Lenkija ir kitomis šalimis.","support_ids":["t-183792","c-167178"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183792","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-167178","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Zigmantą Sierakauską, ginklų ir savanorių iš Londono. Sukilėliai planavo užimti Palangos ir Liepojos uos- tus. Turėdami savo rankose uostų kontrolę, sukilėliai tikėjosi palaikyti nuolatinius ryšius su Lenkija ir kitomis šalimis, iš kur tikėtasi paramos."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3b0dab983d2674d1070b9869","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Gimnazija","context":"XIX a. pradžioje, vyskupo Motiejaus Valančiaus ganytojavimo pradžioje, Liepojoje veikė gimnazija, kurioje nebuvo katalikų kapeliono.","support_ids":["t-208574","c-191194"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208574","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"},{"kind":"evidence","evidence_id":"c-191194","source":"darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md","quote":"Kuršo gubernijos Liepojos ir Min­ taujos gimnazijos vysk. M. Valančiaus ganytojavimo pra­ džioje katalikų kapelionų nebuvo 4."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":7,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ca7e1c79aef67572
+object_page_generated_at: '2026-09-19T23:07:26+00:00'
+object_page_source_checked_at: '2026-09-19T23:07:26+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '4'
+object_page_seo_description: 'Liepoja: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis)…'
+object_page_seo_input_hash: 50a28cc7753d2a039647b573bc99692cf85b60db81c5f1755c342c6486538366
+object_page_seo_generated_at: '2026-09-19T23:07:26+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Liepoja
 

@@ -1,6 +1,6 @@
 ---
 tipas: daiktas
-pavadinimas: 'Dievų stabai'
+pavadinimas: Dievų stabai
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -14,12 +14,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:53:55+00:00","source_checked_at":"2026-09-20T04:53:55+00:00","counts":{"relations":2,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a202abe9be90a0a59a254da2","canonical_code":"object.materials","label":"Medžiagos","group":"Daikto bruožai","value":"Akmuo ir metalas","context":"Teodoras Narbutas rašė, kad upės, ežerai ir pelkės slepia dievų stabus iš akmens ir metalo.","support_ids":["t-218495","c-199324"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218495","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199324","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Šios rūšies paminklai buvo labiausiai naikinami Lietuvai priimant krikščionių tikėjimą; ypač atvertėjai - kryžiuočių ir kalavijuočių riteriai griovė, naikino, skandino viską, kas tik nors kiek buvo susiję su stabmeldiškųjų dievų vaizdavimu. Mūsų upės, ežerai ir pelkės ne vienoje vietoje slepia dievų stabus iš akmens ir metalo. Prilvico stabai saugomi Raceburgo bibliotekoje ir Nauja­ jame Brandenburge, Sponholco kabinete**."}],"status":"published","conflict_status":"clear"},{"trait_id":"2758cc46167b7ef330aef8f6","canonical_code":"object.form","label":"Forma","group":"Daikto bruožai","value":"Vaizduojantys dievų veidus","context":"Simonas Daukantas aprašė, kad žmonės išvydo stabų vaizduojamus dievų veidus.","support_ids":["t-210255","c-192859"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210255","source":"darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md"},{"kind":"evidence","evidence_id":"c-192859","source":"darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md","quote":"Žaliajame pagiry stovėjęs ąžuolas, kursai savo amžium, aukštybe ir platybe visų girių medžius pranokęs; tenai liepęs kūrėjų kūrėjas Brutenis svietui sueiti ir, jam suėjus, taip būk sakęs: „Dievai mūsų maloningi nuo šiol tarp jūsų gyvens, kurie šį ąžuolą paskyrė sau už buveinę.“ Ant tų žodžių nudengęs jis tris dievų stabus, uoksuose to ąžuolo įstatytus, kaip viršiau regėjom; svietas tuo būk prasidžiugęs ir stebėjęs, nesgi iki šiolei svietas meldęs dievus, veizėdamas į saulę ir delčią, o dabar išvydęs jų veidus."}],"status":"published","conflict_status":"clear"},{"trait_id":"3e0c09d49d4d6be2cb6e0e57","canonical_code":"object.purpose","label":"Paskirtis","group":"Naudojimas","value":"Dievų vaizdavimas","context":"Teodoras Narbutas rašė, kad dievų stabai buvo susiję su stabmeldiškųjų dievų vaizdavimu.","support_ids":["t-218495","c-199324"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218495","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199324","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Šios rūšies paminklai buvo labiausiai naikinami Lietuvai priimant krikščionių tikėjimą; ypač atvertėjai - kryžiuočių ir kalavijuočių riteriai griovė, naikino, skandino viską, kas tik nors kiek buvo susiję su stabmeldiškųjų dievų vaizdavimu. Mūsų upės, ežerai ir pelkės ne vienoje vietoje slepia dievų stabus iš akmens ir metalo. Prilvico stabai saugomi Raceburgo bibliotekoje ir Nauja­ jame Brandenburge, Sponholco kabinete**."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Aurelijus Antoninas","claim_id":"t-218296","confidence":0.76},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Upsala","claim_id":"t-216425","confidence":0.78}],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 62ec968ac4875c3f
+object_page_generated_at: '2026-09-20T04:53:55+00:00'
+object_page_source_checked_at: '2026-09-20T04:53:55+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Dievų stabai: Tris dievų stabai buvo įstatyti ąžuolo uoksuose. Per metines viešas aukas prie aukuro ir stabo buvo meldžiamasi šėtroje.'
+object_page_seo_input_hash: d44877364f5919a04bf3b6b8e8497fc5c14637da7f856e36e49e64d3907f0c57
+object_page_seo_generated_at: '2026-09-20T04:53:55+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Dievų stabai
 

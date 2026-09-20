@@ -1,12 +1,12 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'urėdas'
+pavadinimas: urėdas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1386 m.'
+  - 1386 m.
 date_start: '1386'
 date_end: ''
 sukurta: ''
@@ -15,19 +15,29 @@ tags:
   - sąvoka
   - pareigybė
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:25:00+00:00","source_checked_at":"2026-09-20T04:25:00+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b77f70c23d0ac717d96fd8cb","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Urėdas – pareigūnas; pirmasis lenkų urėdas Lietuvoje buvo 1386 m. Jogailos į Vilnių atsiųstas Vilniaus seniūnas, lenk. starosta.","context":"Šaltinio autoriaus teiginys apie 1386 m. Lietuvą.","support_ids":["t-12598","c-14719"],"source_refs":[{"kind":"internal_claim","claim_id":"t-12598","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-14719","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Pirmas lenkų urėdas atsiradęs Lietuvoje vadinosi seniūnu (lenk. starosta). Tai buvo 1386 met. Jogailos Vilniun atsiųstas jau minėtas vad. „Vilniaus seniūnas“."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 9d11dadafdb7a809
+object_page_generated_at: '2026-09-20T04:25:00+00:00'
+object_page_source_checked_at: '2026-09-20T04:25:00+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'urėdas: Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekanclerio urėdas, nusileido ir prispaudė antspaudą. Šaltinių citatos.'
+object_page_seo_input_hash: 8f1fa8de128922072eb34b3de2f43ac748983571f20074c750983c52f2faec6e
+object_page_seo_generated_at: '2026-09-20T04:25:00+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # urėdas
 

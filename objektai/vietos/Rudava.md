@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Rudava'
+pavadinimas: Rudava
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1370 m.'
-  - '2026 m.'
+  - 1370 m.
+  - 2026 m.
 date_start: '1370'
 date_end: '2026'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - vieta
   - pilis
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ef9c53ac4c2a108d637a9563"
-canonical_name: "Rudava"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rudava"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ef9c53ac4c2a108d637a9563
+canonical_name: Rudava
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rudava
 sameAs: []
-canonical_biography: "Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). 324 Rudaičiai 77, 105 Rudamina 76, 112 Rudava, prie Karaliaučiaus 149, 253, 259 Rude Gerhardas 226 Rūdninkai 162 Ruginienė, žr."
+canonical_biography: 'Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). 324 Rudaičiai 77, 105 Rudamina 76, 112 Rudava, prie Karaliaučiaus 149, 253, 259 Rude Gerhardas 226 Rūdninkai 162 Ruginienė, žr.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Rudava","url":"https://en.wikipedia.org/wiki/Rudava","publisher":"Wikipedia","kind":"encyclopedia","status":"published","confidence":0.99,"language":"en"},{"title":"Rudava","url":"https://www.vle.lt/straipsnis/rudava/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:09:10+00:00","source_checked_at":"2026-09-20T04:09:10+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Rudava","url":"https://en.wikipedia.org/wiki/Rudava","publisher":"Wikipedia","language":"en","article_id":"7412431","revision_id":"1374553016","published_at":"2026-09-12T19:21:50Z","version_pk":"","content_hash":"be7bcfd72b0f9f228a97367f9f27aaf03648793b2dcfe9a6fef26e2a743e9947","retrieved_at":"2026-09-20T04:08:25+00:00","history_url":"https://en.wikipedia.org/w/index.php?title=Rudava&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"7412431"}},"intro":"Rudava – upė vakarų Slovakijoje, Zahorės regione. Ji yra kairysis Moravos upės intakas. Dalis šios upės teka per Zahorės karinį poligoną. Jos ilgis – 47,3 km, o baseino plotas – 418 km².","original_intro":"Rudava is a river in western Slovakia, Záhorie region. It is a left tributary to the river Morava. Part of this river flows through the military district of Záhorie. It is 47.3 km (29.4 mi) long and its basin size is 418 km2 (161 sq mi).","translation_status":"translated_verified","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"en","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Wikipedia","title":"Rudava","url":"https://en.wikipedia.org/wiki/Rudava","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Rudava","url":"https://www.vle.lt/straipsnis/rudava/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://en.wikipedia.org/wiki/Rudava","https://www.vle.lt/straipsnis/rudava/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-135441","confidence":0.71}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 15dba1e60db8bf07
+object_page_generated_at: '2026-09-20T04:09:10+00:00'
+object_page_source_checked_at: '2026-09-20T04:09:10+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Rudava: Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). 324 Rudaičiai 77, 105 Rudamina…'
+object_page_seo_input_hash: fb9125aed7bb1de4253b73af1bc06e084cb079275b28f12fbdf68267c38595c5
+object_page_seo_generated_at: '2026-09-20T04:09:10+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Rudava
 

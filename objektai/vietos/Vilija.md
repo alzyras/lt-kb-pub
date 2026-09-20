@@ -1,16 +1,16 @@
 ---
 tipas: vieta
-pavadinimas: 'Vilija'
+pavadinimas: Vilija
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1398 m.'
-  - '1492 m.'
-  - '1529 m.'
-  - '1536 m.'
-  - '1547 m.'
-  - '1556 m.'
-  - '1557 m.'
+  - 1398 m.
+  - 1492 m.
+  - 1529 m.
+  - 1536 m.
+  - 1547 m.
+  - 1556 m.
+  - 1557 m.
 date_start: '1398'
 date_end: '1557'
 sukurta: ''
@@ -20,29 +20,41 @@ tags:
   - gyvenvietė
   - upė
 amziai:
-  - 'XIV'
-  - 'XVI'
+  - XIV
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7b1df160e05a346b681dc555"
-canonical_name: "Vilija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vilija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7b1df160e05a346b681dc555
+canonical_name: Vilija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vilija
 sameAs: []
-canonical_biography: "Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­ dangino su visu guotu į Šventaragio slėnį, už keturių mylių nuo Trakų, kur Vilnios upė įteka į Viliją. Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­ nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­ ta, saugoma aukštų sienų ir trijų bokštų."
+canonical_biography: 'Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­ dangino su visu guotu į Šventaragio slėnį, už keturių mylių nuo Trakų, kur Vilnios upė įteka į Viliją. Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­ nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­ ta, saugoma aukštų sienų ir trijų bokštų.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Vilija","url":"https://de.wikipedia.org/wiki/Vilija","publisher":"Wikipedia (vokiečių)","kind":"encyclopedia","status":"published","confidence":0.99,"language":"de"},{"title":"„ Vilija “","url":"https://www.vle.lt/straipsnis/vilija-1/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:13:09+00:00","source_checked_at":"2026-09-19T15:13:09+00:00","counts":{"relations":2,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Vilija","url":"https://de.wikipedia.org/wiki/Vilija","publisher":"Wikipedia (vokiečių)","language":"de","article_id":"6537012","revision_id":"232624171","published_at":"2023-04-09T09:40:59Z","version_pk":"","content_hash":"e78dc1a6271514d3cec319e7b9137c22272bc9e1ae85e97894f69718135ed5fa","retrieved_at":"2026-09-19T15:11:51+00:00","history_url":"https://de.wikipedia.org/w/index.php?title=Vilija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"6537012"}},"intro":"Vilija yra lietuviškas moteriškas vardas.","original_intro":"Vilija ist ein litauischer weiblicher Vorname.","translation_status":"translated_verified","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"de","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Wikipedia (vokiečių)","title":"Vilija","url":"https://de.wikipedia.org/wiki/Vilija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"„ Vilija “","url":"https://www.vle.lt/straipsnis/vilija-1/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://de.wikipedia.org/wiki/Vilija","https://www.vle.lt/straipsnis/vilija-1/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"bfae23d660167e7d34aaf8bf","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Laivyba nuo Vilniaus iki Kauno ir atgal Vilniaus miestiečių laivams su prekėmis.","context":"Šaltinyje aprašoma, kad Aleksandras garantavo šią laisvą laivybą; keliantis perkėla visur buvo atleista nuo mokesčių.","support_ids":["t-174171","c-158380"],"source_refs":[{"kind":"internal_claim","claim_id":"t-174171","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-158380","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"), Aleksan­ dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo metu vadintą Zabójnica (žudike), panaikindamas visas pri­ vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­ mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­ kymu, buvo kuo rūpestingiausiai garantuojama laisva laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­ niaus miestiečių laivams su prekėmis, o keliantis perkėla visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- siljevičiaus užmačių."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Barboros rūmai Vilniuje","claim_id":"t-86129","confidence":0.6},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Paleckio stiklo liejykla prie Vilijos","claim_id":"t-86027","confidence":0.66}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e6b51c7e86f91d06
+object_page_generated_at: '2026-09-19T15:13:09+00:00'
+object_page_source_checked_at: '2026-09-19T15:13:09+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Vilija: Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­ dangino su visu guotu į Šventaragio slėnį, už keturių mylių nuo…'
+object_page_seo_input_hash: 97c17551c7ce331b83a62c827ef7ac946c3b47e77b6dc12e0c1c199f36dbf109
+object_page_seo_generated_at: '2026-09-19T15:13:09+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vilija
 

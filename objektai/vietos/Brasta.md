@@ -1,21 +1,21 @@
 ---
 tipas: vieta
-pavadinimas: 'Brasta'
+pavadinimas: Brasta
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1237 m.'
-  - '1379 m.'
-  - '1399 m.'
-  - '1505 m.'
-  - '1544 m.'
-  - '1553 m.'
-  - '2026 m.'
+  - 1237 m.
+  - 1379 m.
+  - 1399 m.
+  - 1505 m.
+  - 1544 m.
+  - 1553 m.
+  - 2026 m.
 date_start: '1237'
 date_end: '2026'
 sukurta: ''
@@ -24,29 +24,41 @@ tags:
   - vieta
   - pilis
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9a67439be1195fc01d42b771"
-canonical_name: "Brasta"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Brasta"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9a67439be1195fc01d42b771
+canonical_name: Brasta
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Brasta
 sameAs: []
-canonical_biography: "Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta. 1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o vėliau pasiųstas gyventi į Trakus."
+canonical_biography: 'Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta. 1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o vėliau pasiųstas gyventi į Trakus.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Brasta","url":"https://www.vle.lt/straipsnis/brasta/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T01:03:10+00:00","source_checked_at":"2026-09-19T01:03:10+00:00","counts":{"relations":9,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Brasta","url":"https://www.vle.lt/straipsnis/brasta/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/brasta/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Švedai","claim_id":"t-40709","confidence":0.96},{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-176985","confidence":0.74},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Jotvingiai","claim_id":"t-212429","confidence":0.82},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Šach Achmedas","claim_id":"t-176960","confidence":0.92},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Liubešavas","claim_id":"t-02554","confidence":0.78},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Danielius","claim_id":"t-212805","confidence":0.8},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-176978","confidence":0.96},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-180152","confidence":0.72},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-176959","confidence":0.84}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5f8815dc929e8e5b
+object_page_generated_at: '2026-09-19T01:03:10+00:00'
+object_page_source_checked_at: '2026-09-19T01:03:10+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Brasta: Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai…'
+object_page_seo_input_hash: b8047ed076e6423522ae1bce1e1796a92e0c894d74e0bf18317a80c334ce91de
+object_page_seo_generated_at: '2026-09-19T01:03:10+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Brasta
 

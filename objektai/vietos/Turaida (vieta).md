@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Turaida (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Turaida (vieta)
+identifikacija: vieta
 variantai:
-  - 'Turaida'
+  - Turaida
 aliases:
-  - 'Turaida'
+  - Turaida
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
 sukurta: ''
@@ -16,21 +16,34 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-14baf0304a4ad15574d2cab9"
-canonical_name: "Turaida (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Turaida","Turaida (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-14baf0304a4ad15574d2cab9
+canonical_name: Turaida (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Turaida
+  - Turaida (vieta)
 sameAs: []
-canonical_biography: "To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti, kurį kraštą paskaidė į parakvijas ir Kaupo pilėj bažnyčią įkūrė."
+canonical_biography: 'To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti, kurį kraštą paskaidė į parakvijas ir Kaupo pilėj bažnyčią įkūrė.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Turaida - Wikipedia","url":"https://en.wikipedia.org/wiki/Turaida","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T01:13:40+00:00","source_checked_at":"2026-09-20T01:13:40+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Wikipedia","title":"Turaida - Wikipedia","url":"https://en.wikipedia.org/wiki/Turaida","kind":"institutional","bucket":"wikipedia"}],"primary_source_urls":["https://en.wikipedia.org/wiki/Turaida"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"736e3943f0c1db632cc81364","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Turaida minima kaip Livonijos provincija.","context":"XIII a. pradžios istoriniame pasakojime.","support_ids":["t-205334","c-188120"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205334","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188120","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Savo noru priėmus krikštą visose provincijose, sudariu­ siose tuometinę Livoniją, — Turaidoje, Kubeselėje, Metse- polėje, Holme, Lielvardėje, Remine, Ašeradėje, Vendene, Idūmėjoje ir Ropoję, šalyje jau buvo įsigalėjusi ramybė."}],"status":"published","conflict_status":"clear"},{"trait_id":"553b6e825b01f30228243055","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Turaidoje stovėjo pajūrio sargybos pulkai.","context":"Karo žygio metu; šaltinio autoriaus pasakojimas apie tuo metu Turaidoje buvusius pulkus.","support_ids":["t-205349","c-187859"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205349","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187859","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Kunigaikštis įsakė visai kariau­ nai grįžti, kas juolab buvo paspartinta gavus žinią iš Turaidoje stovėjusių pajūrio sargyboje pulkų, esą paste­ bėti laivai, pasukę Dauguvos žiočių link."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"de7f8f13a57209694fd770b1","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Turaidoje buvo pilis, kurioje atvykėliai įsikūrė nakvynei.","context":"Karo žygio metu; šaltinis aprašo atvykimą į Turaidos pilį.","support_ids":["t-205468","c-188163"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205468","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188163","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Galop, atvykę į Turaidos pilį, įsikūrė nakvynei. Žemgalių kariaunos iš­ siųstieji žygūnai apie tai pranešė nurodę, kad lietuviai per Rodenpoisą traukia į Ikškilę."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"796777ce62c9c0d45eb32dbe","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Turaida turėjo apylinkes, per kurias buvo persikeliama per Gaujos upę.","context":"1206 m. per Kalėdas; šaltinis aprašo lietuvių žygį į Turaidos apylinkes ir persikėlimą per Gaują.","support_ids":["t-205505","c-187876"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205505","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187876","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Įpykę dėl to lietuviai 1206 metais netikėtai surengė žygį. Naktį prieš pat Kalėdas atvyko į Turaidos apylinkes, auštant persi­ kėlė per Gaujos upę ir siaubdami ką tik radę išsisklaidė po valsčius."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ee5b7516435d6248
+object_page_generated_at: '2026-09-20T01:13:40+00:00'
+object_page_source_checked_at: '2026-09-20T01:13:40+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Turaida (vieta): To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti, kurį kraštą paskaidė į parakvijas ir Kaupo pilėj bažnyčią įkūrė.'
+object_page_seo_input_hash: 2086a1d760d1cee20013a7de123a03601c31175d3a17a936e6a604063761e790
+object_page_seo_generated_at: '2026-09-20T01:13:40+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Turaida (vieta)
 

@@ -1,10 +1,10 @@
 ---
 tipas: paprotys
-pavadinimas: 'Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)'
+pavadinimas: Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1283 m.'
+  - 1283 m.
 date_start: '1283'
 date_end: ''
 sukurta: ''
@@ -13,19 +13,29 @@ tags:
   - paprotys
   - šeima
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T08:04:14+00:00","source_checked_at":"2026-09-20T08:04:14+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"df9fe0271d3f664251d04d67","canonical_code":"custom.participants","label":"Dalyviai","group":"Papročio eiga","value":"Kilmingas sūduvis Ruseinis su visais savo namais ir šeimyna.","context":"Petras Dusburgietis aprašo konkretų Ruseinio atsivertimo atvejį.","support_ids":["t-222394","c-205121"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222394","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205121","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs, dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo. Kunigas uoliai padarė, ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs padirbdinti."}],"status":"published","conflict_status":"clear"},{"trait_id":"32fd658e0315df149a1ce23e","canonical_code":"custom.course","label":"Eiga","group":"Papročio eiga","value":"Ruseinis atvyko pas Baigos komtūrą išklausyti pamaldų, tačiau jam neleido. Sužinojęs priežastis, jis bematant leidosi apkrikštijamas su visa savo šeimyna.","context":"Taip įvykį aprašo Petras Dusburgietis Prūsijos žemės kronikoje.","support_ids":["t-222394","c-205121"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222394","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205121","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs, dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo. Kunigas uoliai padarė, ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs padirbdinti."}],"status":"published","conflict_status":"clear"},{"trait_id":"f08a2cf69739d67236335c44","canonical_code":"custom.means","label":"Priemonės","group":"Papročio bruožai","value":"Medinis kryžius, kurį Ruseinis buvo liepęs padirbdinti.","context":"Po krikšto susirgęs Ruseinis gulėjo su kryžiumi kojūgalyje; tai aprašo Petras Dusburgietis.","support_ids":["t-222394","c-205121"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222394","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205121","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Sužinojęs, dėl kokių priežasčių jam šitai draudžiama, bematant leidosi apkrikštijamas su visa savo šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo. Kunigas uoliai padarė, ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs padirbdinti."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Tai paprotys, vaizduojantis kilmingo sūduvio atvykimą pas Baigos komtūrą su namais bei šeimyna, siekiant priimti krikštą. Pasakojime minimas Ruseinis atvyko norėdamas išklausyti pamaldų, tačiau jam tai buvo uždrausta. Sužinojęs tokio draudimo priežastis, jis bematant pasikrikštijo kartu su visa šeimyna. Vėliau susirgęs Ruseinis pasikvietė jį pakrikštijusį Baigos brolį kunigą ir paprašė pamokyti Kristaus tikėjimo; kunigas prie jo kojūgalio pamatė medinį kryžių, kurį sūduvis buvo liepęs pagaminti. Šis pasakojimas išskirtinis tuo, kad krikštas čia pateikiamas kaip sąmoningas kilmingo sūduvio ir jo šeimynos apsisprendimas, lydimas religinio mokymosi bei kryžiaus atsiradimo. Pateikti duomenys nenurodo konkretaus laikotarpio, todėl istorinio datavimo santrauka nėra visiškai pagrįsta.","sentences":[{"sentence_id":"s1","text":"Tai paprotys, vaizduojantis kilmingo sūduvio atvykimą pas Baigos komtūrą su namais bei šeimyna, siekiant priimti krikštą.","support_ids":["t-222394","t-222930","c-205121"]},{"sentence_id":"s2","text":"Pasakojime minimas Ruseinis atvyko norėdamas išklausyti pamaldas, tačiau jam tai buvo uždrausta.","support_ids":["t-222394","t-222930","c-205121"]},{"sentence_id":"s3","text":"Sužinojęs tokio draudimo priežastis, jis bematant pasikrikštijo kartu su visa šeimyna.","support_ids":["t-222394","t-222968","c-205121"]},{"sentence_id":"s4","text":"Vėliau susirgęs Ruseinis pasikvietė jį pakrikštijusį Baigos brolį kunigą ir paprašė pamokyti Kristaus tikėjimo; kunigas prie jo kojūgalio pamatė medinį kryžių, kurį sūduvis buvo liepęs pagaminti.","support_ids":["t-222394","c-205121"]},{"sentence_id":"s5","text":"Šis pasakojimas išskirtinis tuo, kad krikštas čia pateikiamas kaip sąmoningas kilmingo sūduvio ir jo šeimynos apsisprendimas, lydimas religinio mokymosi bei kryžiaus atsiradimo.","support_ids":["t-222968","c-205121"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltinis tiesiogiai patvirtina atvykimą pas Baigos komtūrą su namais ir šeimyna bei norą išklausyti pamaldų, tačiau nepatvirtina, kad tai buvo paprotys ar kad atvykimo tikslas buvo priimti krikštą."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Ruseinis atvyko norėdamas išklausyti pamaldų, tačiau jam tai buvo uždrausta."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad sužinojęs draudimo priežastis Ruseinis bematant pasikrikštijo kartu su visa šeimyna."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai patvirtina, kad Ruseinis susirgęs pasikvietė jį pakrikštijusį Baigos brolį kunigą, paprašė mokyti Kristaus tikėjimo, o kunigas pamatė jo liepimu pagamintą medinį kryžių."},{"sentence_id":"s5","supported":false,"reason":"Šaltinis patvirtina krikštą, prašymą mokyti tikėjimo ir medinį kryžių, tačiau nepatvirtina vertinamojo teiginio, kad pasakojimas yra išskirtinis, ar kad tai buvo sąmoningas apsisprendimas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-222394","t-222930","c-205121"]},{"sentence_id":"s2","supported":true,"support_ids":["t-222394","t-222930","c-205121"]},{"sentence_id":"s3","supported":true,"support_ids":["t-222394","t-222968","c-205121"]},{"sentence_id":"s4","supported":true,"support_ids":["t-222394","c-205121"]},{"sentence_id":"s5","supported":true,"support_ids":["t-222968","c-205121"]}],"verifier":"gpt-5.6-luna"},"quality":43,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6e402931aa45a1ec
+object_page_generated_at: '2026-09-20T08:04:14+00:00'
+object_page_source_checked_at: '2026-09-20T08:04:14+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas): Tai paprotys, vaizduojantis kilmingo sūduvio atvykimą pas Baigos…'
+object_page_seo_input_hash: 7024cfa48643bf19044f1ca8703a6a85c5445d0e6d954ab6c211339a35b625e2
+object_page_seo_generated_at: '2026-09-20T08:04:14+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)
 

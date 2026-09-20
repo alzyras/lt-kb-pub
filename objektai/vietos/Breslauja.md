@@ -1,15 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: 'Breslauja'
+pavadinimas: Breslauja
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1200 m.'
-  - '1337 m.'
-  - '2026 m.'
+  - 1200 m.
+  - 1337 m.
+  - 2026 m.
 date_start: '1200'
 date_end: '2026'
 sukurta: ''
@@ -20,29 +20,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XII'
-  - 'XXI'
+  - XII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-229ad97f401fad52dcf95a0e"
-canonical_name: "Breslauja"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Breslauja"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-229ad97f401fad52dcf95a0e
+canonical_name: Breslauja
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Breslauja
 sameAs: []
-canonical_biography: "Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti net keli pavietai; pav., iš Vilniaus vaivadijos buvo išskirta Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaivadijos — Gardino, Kauno ir Upytės pavietai."
+canonical_biography: 'Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti net keli pavietai; pav., iš Vilniaus vaivadijos buvo išskirta Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaivadijos — Gardino, Kauno ir Upytės pavietai.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Breslauja","url":"https://lt.wikipedia.org/wiki/Breslauja","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Breslauja","url":"https://www.vle.lt/straipsnis/breslauja/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:45:22+00:00","source_checked_at":"2026-09-20T10:45:22+00:00","counts":{"relations":4,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Breslauja","url":"https://lt.wikipedia.org/wiki/Breslauja","publisher":"Vikipedija","language":"lt","article_id":"83072","revision_id":"7710176","published_at":"2025-12-09T20:33:33Z","version_pk":"","content_hash":"4cbd28ad4e20bde1f05be478d48278df31f6da24cb54d18f2ad3d71ed604d593","retrieved_at":"2026-09-20T10:43:59+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Breslauja&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"83072"}},"intro":"Breslaujà (arba Brėslauja; bltr. Браслаў, rus. Браслав) – miestas šiaurės Baltarusijoje, Vitebsko srityje, netoli Lietuvos ir Latvijos sienų, Druveto ežero pakrantėje; Breslaujos rajono centras. Maisto pramonė. Yra pilies griuvėsiai. Populiari poilsiavietė. Stovi katalikų bažnyčia, kurioje sumontuoti garsaus lietuvių meistro Jono Garalevičiaus pagaminti vargonai.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Breslauja","url":"https://lt.wikipedia.org/wiki/Breslauja","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Breslauja","url":"https://www.vle.lt/straipsnis/breslauja/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Breslauja","https://www.vle.lt/straipsnis/breslauja/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"320be97a633f1853c3661015","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"pilis","context":"Zenonas Ivinskis 1978 m. aprašo istorinį laikotarpį, kai Breslauja su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.","support_ids":["t-187204","c-170276"],"source_refs":[{"kind":"internal_claim","claim_id":"t-187204","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-170276","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Per sostinę įgydamas didžiojo kunigaikščio titulą, t. y. vyres­ niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai valdančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw). Kiti šeši Gedimino sūnus taip pat gavo savo dalis."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/asmenys/Jaunutis","claim_id":"t-180709","confidence":0.82},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Kernius","claim_id":"t-210930","confidence":0.84},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Jaunutis","claim_id":"t-176952","confidence":0.88},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/asmenys/Jaunutis","claim_id":"t-187205","confidence":0.93}],"timeline":[],"support_disclosure":{"claims":4,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 06218cec482d3f6c
+object_page_generated_at: '2026-09-20T10:45:22+00:00'
+object_page_source_checked_at: '2026-09-20T10:45:22+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '2'
+object_page_seo_description: 'Breslauja: Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti net keli pavietai; pav., iš Vilniaus vaivadijos buvo…'
+object_page_seo_input_hash: 9a846ac447dc8531f41dcfd6fe4ec437bf4d6ec904e7f363759c3247893d5868
+object_page_seo_generated_at: '2026-09-20T10:45:22+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Breslauja
 

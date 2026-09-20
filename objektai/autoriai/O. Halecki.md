@@ -1,8 +1,8 @@
 ---
 tipas: autorius
-pavadinimas: 'O. Halecki'
+pavadinimas: O. Halecki
 saltiniai:
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
 date_start: ''
@@ -20,19 +20,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0a3bc946439c63c87eebc9eb"
-canonical_name: "O. Halecki"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["O. Halecki"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0a3bc946439c63c87eebc9eb
+canonical_name: O. Halecki
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - O. Halecki
 sameAs: []
-canonical_biography: "O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo darbai apie Jogailaičių uniją, Krėvos aktą, Vytautą ir platesnę Lietuvos bei Lenkijos istoriją."
+canonical_biography: 'O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo darbai apie Jogailaičių uniją, Krėvos aktą, Vytautą ir platesnę Lietuvos bei Lenkijos istoriją.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:39:04+00:00","source_checked_at":"2026-09-19T18:39:04+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4ad3a832163f7e6aa7ee730f","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Gausiais raštais tyrė Lietuvos istoriją ir išsamiai vertino Vytauto vaidmenį.","context":"O. Haleckio darbuose, įskaitant 1958 m. „From Florence to Brest“, aprašomi Lietuvos istorijos klausimai.","support_ids":["t-179557","c-163240","t-179560","c-163245"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179557","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"internal_claim","claim_id":"t-179560","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-163240","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"** (^61) **O. Halecki :** **_From Florence to Brest_** **, Sacrum Poloniae Millennium, V, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).** (^62) **A."},{"kind":"evidence","evidence_id":"c-163245","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­ žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU)."}],"status":"published","conflict_status":"clear"},{"trait_id":"5ae78887ec544796f626108d","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Paliko plačius pėdsakus Lietuvos istorijos tyrimuose.","context":"Zenonas Ivinskis 1978 m. rašė, kad O. Haleckis gausiais raštais paliko plačius pėdsakus Lietuvos istorijos srityje.","support_ids":["t-179565","c-163245"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179565","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-163245","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­ žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU)."}],"status":"published","conflict_status":"clear"},{"trait_id":"d35f910dd5c987fe37b14edb","canonical_code":"author.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Į Lietuvą žvelgė iš savo lenkiškosios perspektyvos.","context":"Zenonas Ivinskis 1978 m. taip apibūdino O. Haleckio požiūrį, taip pat nurodydamas, kad emigracijoje jis daug dėmesio skyrė Lietuvai.","support_ids":["t-179560","c-163245"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179560","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-163245","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­ žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 352bc4597988c61a
+object_page_generated_at: '2026-09-19T18:39:04+00:00'
+object_page_source_checked_at: '2026-09-19T18:39:04+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '2'
+object_page_seo_description: 'O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo darbai apie Jogailaičių uniją, Krėvos aktą, Vytautą ir platesnę Lietuvos bei…'
+object_page_seo_input_hash: c642c32ac570b03be923b5bdb01a220c91c367e09971369cf1c099723f7d16ad
+object_page_seo_generated_at: '2026-09-19T18:39:04+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # O. Halecki
 

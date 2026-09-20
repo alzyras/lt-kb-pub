@@ -1,10 +1,10 @@
 ---
 tipas: saltinis
-pavadinimas: 'Lietuvos kronika'
+pavadinimas: Lietuvos kronika
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1268 m.'
+  - 1268 m.
 date_start: '1268'
 date_end: ''
 sukurta: ''
@@ -12,19 +12,29 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:43:44+00:00","source_checked_at":"2026-09-20T10:43:44+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":["t-205326","t-206243","t-212250","t-214327","t-205536"],"featured_claims":[{"claim_id":"t-205326","text":"Sis trumpas Polocko užkariavimo aprašymas, likęs Lietuvos Kronikoje, išsaugojo svarbų Lietuvos istorijos įvykį, būtent sukūrimą trečios kunigaikš tystės, priklausančios Lietuvos didikams, kuri buvo pa vadinta Lietuvos-Polocko kunigaikštyste.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","evidence_ids":["c-187880"]},{"claim_id":"t-206243","text":"Teodoras Narbutas Lietuvos kronikoje įžvelgė aiškių trūkumų: joje laikotarpio prieš Gedimino mirtį chronologija nepatikima, o dalis vėlesnių aplinkybių liko nepaminėta.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","evidence_ids":["c-188858"]},{"claim_id":"t-212250","text":"Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir primetė gyventojams savo paskirtą valdovą.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196091"]},{"claim_id":"t-214327","text":"Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, priklausomu nuo Lietuvos didžiojo kunigaikščio ir mokėjusiu duoklę.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196131"]},{"claim_id":"t-205536","text":"Iš to, ką nuveikė Skirmantas, mūsų minėtoje kronikoje yra išsau gotas atminimas apie jo žygį, surengtą į Rusios žemes pietinėje Lietuvos kunigaikštystės dalyje, kurį buvo su manęs dar tėvui gyvam esant.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","evidence_ids":["c-188016"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"d9d251c63f55a00ef31974a3","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Kronika","context":"Šaltinis tiesiogiai vadinamas Lietuvos kronika.","support_ids":["t-205326","c-187880"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205326","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187880","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Sis trumpas Polocko užkariavimo aprašymas, likęs Lietuvos Kronikoje, išsaugojo svarbų Lietuvos istorijos įvykį, būtent sukūrimą trečios kunigaikš­ tystės, priklausančios Lietuvos didikams, kuri buvo pa­ vadinta Lietuvos-Polocko kunigaikštyste."}],"status":"published","conflict_status":"clear"},{"trait_id":"1b14c4876b46e2989169a309","canonical_code":"source.survival","label":"Išlikimas","group":"Šaltinio istorija","value":"Išlikusi; joje išsaugoti istorinių įvykių ir žygių atminimai","context":"Teodoras Narbutas nurodo, kad Lietuvos kronikoje išliko Polocko užkariavimo aprašymas ir Skirmanto žygio atminimas.","support_ids":["t-205326","c-187880","t-205536","c-188016"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205326","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"internal_claim","claim_id":"t-205536","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187880","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Sis trumpas Polocko užkariavimo aprašymas, likęs Lietuvos Kronikoje, išsaugojo svarbų Lietuvos istorijos įvykį, būtent sukūrimą trečios kunigaikš­ tystės, priklausančios Lietuvos didikams, kuri buvo pa­ vadinta Lietuvos-Polocko kunigaikštyste."},{"kind":"evidence","evidence_id":"c-188016","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Iš to, ką nuveikė Skirmantas, mūsų minėtoje kronikoje yra išsau­ gotas atminimas apie jo žygį, surengtą į Rusios žemes pietinėje Lietuvos kunigaikštystės dalyje, kurį buvo su­ manęs dar tėvui gyvam esant. Šio žygio data reikia pri­ pažinti 1160 metus, juk didžiojo kunigaikščio Iziaslavo Mstislavovičiaus sūnus Mstislavas tada ką tik buvo ga­ vęs valdyti Rusią, iš pietų pusės besiribojusią su Lietuva, ir Voluinės Vladimire įkūręs savo sostinę1."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Lietuvos kronika – istorinis pasakojimas, kuriame išliko žinių apie Lietuvos valdovų veiksmus, užkariavimus ir politinius pokyčius. Joje išsaugotas trumpas Polocko užkariavimo aprašymas, siejamas su Lietuvos didikams priklausiusios trečiosios kunigaikštystės – Lietuvos-Polocko kunigaikštystės – sukūrimu. Kronika taip pat mini Skirmanto žygį į Rusios žemes pietinėje Lietuvos kunigaikštystės dalyje, kurį šaltinio aiškinime siūloma datuoti 1160 metais. Kitas pasakojimas susijęs su Narimanto įsiveržimu į jotvingių Polesę apie 1268 metus ir Traidenio paskyrimu šios srities valdovu; Traidenis vaizduojamas kaip priklausomas nuo Lietuvos didžiojo kunigaikščio ir mokėjęs duoklę. Vis dėlto Lietuvos kronikos chronologija laikotarpiu prieš Gedimino mirtį laikoma nepatikima, o kai kurios vėlesnės aplinkybės joje nepaminėtos.","sentences":[{"sentence_id":"s1","text":"Lietuvos kronika – istorinis pasakojimas, kuriame išliko žinių apie Lietuvos valdovų veiksmus, užkariavimus ir politinius pokyčius.","support_ids":["c-187880","c-188016","c-196091"]},{"sentence_id":"s2","text":"Joje išsaugotas trumpas Polocko užkariavimo aprašymas, siejamas su Lietuvos didikams priklausiusios trečiosios kunigaikštystės – Lietuvos-Polocko kunigaikštystės – sukūrimu.","support_ids":["c-187880"]},{"sentence_id":"s3","text":"Kronika taip pat mini Skirmanto žygį į Rusios žemes pietinėje Lietuvos kunigaikštystės dalyje, kurį šaltinio aiškinime siūloma datuoti 1160 metais.","support_ids":["c-188016"]},{"sentence_id":"s4","text":"Kitas pasakojimas susijęs su Narimanto įsiveržimu į jotvingių Polesę apie 1268 metus ir Traidenio paskyrimu šios srities valdovu; Traidenis vaizduojamas kaip priklausomas nuo Lietuvos didžiojo kunigaikščio ir mokėjęs duoklę.","support_ids":["c-196091","c-196131"]},{"sentence_id":"s5","text":"Vis dėlto Lietuvos kronikos chronologija laikotarpiu prieš Gedimino mirtį laikoma nepatikima, o kai kurios vėlesnės aplinkybės joje nepaminėtos.","support_ids":["c-188858"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Pateikti šaltiniai tiesiogiai pagrindžia konkrečius įvykius, bet ne bendrą teiginį apie kronikos turinį ir politinius pokyčius."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta c-187880."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta c-188016, įskaitant 1160 metų datavimą."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta c-196091 ir c-196131."},{"sentence_id":"s5","supported":true,"reason":"Tiesiogiai paremta c-188858."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["c-187880","c-188016","c-196091"]},{"sentence_id":"s2","supported":false,"support_ids":["c-187880"]},{"sentence_id":"s3","supported":false,"support_ids":["c-188016"]},{"sentence_id":"s4","supported":false,"support_ids":["c-196091","c-196131"]},{"sentence_id":"s5","supported":false,"support_ids":["c-188858"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 2db40ca82eb9ccf9
+object_page_generated_at: '2026-09-20T10:43:44+00:00'
+object_page_source_checked_at: '2026-09-20T10:43:44+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Lietuvos kronika – istorinis pasakojimas, kuriame išliko žinių apie Lietuvos valdovų veiksmus, užkariavimus ir politinius pokyčius. Joje išsaugotas trumpas…'
+object_page_seo_input_hash: b1dc793ee7c1182c0c6e6f95ad95a5c7f307dcb324078da8cfa71f6c67a30a7e
+object_page_seo_generated_at: '2026-09-20T10:43:44+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Lietuvos kronika
 

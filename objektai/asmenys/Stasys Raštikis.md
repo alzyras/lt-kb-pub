@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Stasys Raštikis'
+pavadinimas: Stasys Raštikis
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1934 m.'
-  - '1940 m.'
+  - 1934 m.
+  - 1940 m.
 date_start: '1934'
 date_end: '1940'
 sukurta: ''
@@ -15,28 +15,40 @@ tags:
   - diplomatas
   - ministras
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes:
-  - 'modernioji Lietuva'
+  - modernioji Lietuva
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7eada71c2feda5a4ed80a129"
-canonical_name: "Stasys Raštikis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Stasys Raštikis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7eada71c2feda5a4ed80a129
+canonical_name: Stasys Raštikis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Stasys Raštikis
 sameAs: []
-canonical_biography: "Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konflikto 1940 m. balandį atleido jį iš pareigų. Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuomenės vadas gen. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimybes, pasisakė už trijų šalių karinę sąjungą, tačiau A."
+canonical_biography: 'Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konflikto 1940 m. balandį atleido jį iš pareigų. Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuomenės vadas gen. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimybes, pasisakė už trijų šalių karinę sąjungą, tačiau A.'
+external_sources_json: '[{"title":"Stasys Raštikis","url":"https://lt.wikipedia.org/wiki/Stasys_Ra%C5%A1tikis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Stasys Raštikis","url":"https://www.vle.lt/straipsnis/stasys-rastikis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T16:47:25+00:00","source_checked_at":"2026-09-19T16:47:25+00:00","counts":{"relations":1,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Stasys Raštikis","url":"https://lt.wikipedia.org/wiki/Stasys_Ra%C5%A1tikis","publisher":"Vikipedija","language":"lt","article_id":"69501","revision_id":"7846268","published_at":"2026-05-28T16:22:03Z","version_pk":"","content_hash":"f105191645263b6da63ed1d52f0bfa3b072895c382a5688cebc8b570c3b81b3b","retrieved_at":"2026-09-19T16:46:17+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Stasys_Ra%C5%A1tikis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"69501"}},"intro":"Stasys Raštikis (1896 m. rugsėjo 13 d. Kuršėnuose – 1985 m. gegužės 3 d. Los Andžele, JAV) – Lietuvos kariuomenės vadas, generolas, politikas, LR krašto apsaugos ministras.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1896 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Kuršėnuose","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1985 m.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Los Andžele, JAV","source":"wikipedia_infobox"},{"code":"spouse","label":"Sutuoktiniai","value":"Elena Smetonaitė-Raštikienė","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Stasys Raštikis","url":"https://lt.wikipedia.org/wiki/Stasys_Ra%C5%A1tikis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Stasys Raštikis","url":"https://www.vle.lt/straipsnis/stasys-rastikis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Stasys_Ra%C5%A1tikis","https://www.vle.lt/straipsnis/stasys-rastikis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"6c33118344d968a640f0a6ef","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kariuomenės vadas","context":"Šaltinyje aprašoma 1940 m. balandžio situacija.","support_ids":["t-101711","c-21998"],"source_refs":[{"kind":"internal_claim","claim_id":"t-101711","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-21998","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje"}],"status":"published","conflict_status":"clear"},{"trait_id":"7d88e43855748b92cb574b50","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Visuomenėje įgijo didelį populiarumą","context":"Šaltinio autorių vertinimu, iki 1940 m. balandžio Stasys Raštikis visuomenėje buvo labai populiarus; dėl ambicijų konflikto prezidentas jį atleido iš pareigų.","support_ids":["t-101711","c-21998"],"source_refs":[{"kind":"internal_claim","claim_id":"t-101711","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-21998","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-101707","confidence":0.93}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 4a36d95bd9a75e56
+object_page_generated_at: '2026-09-19T16:47:25+00:00'
+object_page_source_checked_at: '2026-09-19T16:47:25+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konflikto 1940 m.…'
+object_page_seo_input_hash: 02ec7c2682a23f03b2bcf1a67143c07a459168141750f22cef4b3a47ec08e96f
+object_page_seo_generated_at: '2026-09-19T16:47:25+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Stasys Raštikis
 

@@ -1,14 +1,14 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'tribunolas'
+pavadinimas: tribunolas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1578 m.'
-  - '1581 m.'
-  - '1823 m.'
+  - 1578 m.
+  - 1581 m.
+  - 1823 m.
 date_start: '1578'
 date_end: '1823'
 sukurta: ''
@@ -17,20 +17,30 @@ tags:
   - sąvoka
   - teisinis-terminas
 amziai:
-  - 'XVI'
-  - 'XIX'
+  - XVI
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Tribunolas","url":"https://www.vle.lt/straipsnis/tribunolas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T05:45:20+00:00","source_checked_at":"2026-09-20T05:45:20+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Tribunolas","url":"https://www.vle.lt/straipsnis/tribunolas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/tribunolas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4346cdd126b9e5f62d74b91a","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Mišrusis teismas, arba dvasiškasis tribunolas.","context":"A. Šapokos (red.) Lietuvos istorijoje aprašoma, kad bajorijos byloms su dvasininkais būdavo sudaromas toks tribunolas; į jį įeidavo keturių vyskupijų kapitulų skiriami kunigai ir šeši tribunolo deputatai.","support_ids":["t-193162","c-175913"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193162","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-175913","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Bylos bū- davo sprendžiamos balsų dauguma. O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai. **8."}],"status":"published","conflict_status":"clear"},{"trait_id":"cfcd7da08a2e0108f07fa5cb","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Aukščiausioji instancija.","context":"A. Šapokos (red.) Lietuvos istorijoje, aprašant laikotarpį, kai Rusijos senatas buvo aukščiausioji instancija, Oginskis siūlė įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą.","support_ids":["t-82102","c-78593"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82102","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-78593","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Be to, jis siūlė pa- likti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepri- klausomą tribunolą (mat, tada aukščiausioji instan- cija buvo Rusijos senatas)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1581 m.","label":"Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m.","claimId":"t-82098"},{"date":"1581 m.","label":"Lietuvai paskirtas Tribunolas 1581 m.","claimId":"t-82100"},{"date":"1581 m.","label":"Vyriausiasis Lietuvos tribunolas buvo įkurtas 1581 m.","claimId":"t-82101"}],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 4a3bcb70ae4bbcb9
+object_page_generated_at: '2026-09-20T05:45:20+00:00'
+object_page_source_checked_at: '2026-09-20T05:45:20+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'tribunolas: Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.…'
+object_page_seo_input_hash: 98d5fbdc8f0da49ee83c1ed04c3dcc933da4e1670e1d256344e54748504bc4d3
+object_page_seo_generated_at: '2026-09-20T05:45:20+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # tribunolas
 

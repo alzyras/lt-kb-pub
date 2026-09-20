@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Pretorijus'
+pavadinimas: Pretorijus
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -15,19 +15,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-45aaf4ace592fc5aafeb76e7"
-canonical_name: "Pretorijus"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Pretorijus"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-45aaf4ace592fc5aafeb76e7
+canonical_name: Pretorijus
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Pretorijus
 sameAs: []
-canonical_biography: "Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriwe aiškino kaip žynį ar tautos teisėją. Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, tyrusių juos pagal paprastų žmonių sakytinius padavimus. Narbutas rašo, kad Pretorijus, atpasakodamas Dusburgiečio kronikos vietą apie žynio lazdą, ją vadino krivūle."
+canonical_biography: 'Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriwe aiškino kaip žynį ar tautos teisėją. Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, tyrusių juos pagal paprastų žmonių sakytinius padavimus. Narbutas rašo, kad Pretorijus, atpasakodamas Dusburgiečio kronikos vietą apie žynio lazdą, ją vadino krivūle.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:17:50+00:00","source_checked_at":"2026-09-20T00:17:50+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"43082ee343af9c4edf9c0c13","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Pretorijus laikė prūsus ir rusus iš pradžių priklausius vienai genčiai, o variagų vardą kildino iš prūsiško žodžio „Warejs“.","context":"Taip perteikia Teodoras Narbutas savo 1995 m. išleistame veikale; teiginys priskiriamas Pretorijui.","support_ids":["t-213071","c-195865"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213071","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195865","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tai, žinoma, vien panašumai, kuriuos pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako, jog prūsai ir rusai iš pradžių priklausė vienai genčiai; variagų vardą jis kildina iš grynai prūsiško žodžio Wa- rejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu, jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir krivičiams."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"96b1fd18a9a910550f1bc9eb","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Pretorijus žodį „Kreive“ arba „Kriwe“ aiškino kaip žynį arba tautos teisėją.","context":"Teodoro Narbuto teigimu, Pretorijus tai aiškino Hartknocho studijų prierašuose; šaltinis datuotas 1998 m.","support_ids":["t-218457","c-198302"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218457","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-198302","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Vadinasi, šito pavadinimo etimolo­ gija dar neištirta. Pretorijus Hartknocho studijų prierašuose aiškina teisin­ gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­ ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­ dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­ rijos teisėjais arba žyniais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"42591e53407d8a441326a254","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Mokėjo prūsų ir žemaičių kalbas.","context":"Teodoras Narbutas tai nurodo aiškindamas Pretorijaus kalbinę interpretaciją; šaltinis datuotas 1998 m.","support_ids":["t-218457","c-198302"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218457","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-198302","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Vadinasi, šito pavadinimo etimolo­ gija dar neištirta. Pretorijus Hartknocho studijų prierašuose aiškina teisin­ gai, kadangi jis mokėjo prūsų ir žemaičių kalbą. Pasak jo, Kre­ ive, arba ir Kriwe, reiškia ne ką kita kaip tik žynį arba tautos teisėją, kadangi žemesnieji teisėjai vėlesniais laikais buvo va­ dinami Krewule, tai yra mažaisiais kriviais, žemesnės katego­ rijos teisėjais arba žyniais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f88872709d8a5a8263c176a9","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Tyrė žynių vyrų ir moterų vardus pagal paprastų žmonių sakytinius padavimus.","context":"Teodoras Narbutas rašo, kad Meletijus ir Pretorijus šiuos vardus tyrė remdamiesi sakytiniais padavimais; šaltinis datuotas 1998 m.","support_ids":["t-219140","c-200529"],"source_refs":[{"kind":"internal_claim","claim_id":"t-219140","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-200529","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Daugeliu požiūrių šios žynės buvo Antikos bakchančių pamėgdžiojimas. Visi šie žynių - vyrų ir moterų - vardai paimti iš Meleti- jaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa­ kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai. Burtininkė (Burte) Lietuvių barde - Burtyniczka."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":7,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 86c07390cf6a33d1
+object_page_generated_at: '2026-09-20T00:17:50+00:00'
+object_page_source_checked_at: '2026-09-20T00:17:50+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '2'
+object_page_seo_description: 'Pretorijus: Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriwe aiškino kaip žynį ar tautos teisėją. Narbutas žynių vyrų ir moterų…'
+object_page_seo_input_hash: 92cf86b9a2fe0c90b0f98b916554e873f04fb069c9c32de6e754fd3e3dbc136d
+object_page_seo_generated_at: '2026-09-20T00:17:50+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Pretorijus
 

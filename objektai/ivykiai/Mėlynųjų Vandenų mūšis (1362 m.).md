@@ -1,17 +1,17 @@
 ---
 tipas: ivykis
-pavadinimas: 'Mėlynųjų Vandenų mūšis (1362 m.)'
+pavadinimas: Mėlynųjų Vandenų mūšis (1362 m.)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1307 m.'
-  - '1320 m.'
-  - '1322 m.'
-  - '1340 m.'
-  - '1362 m.'
-  - '1363 m.'
-  - '2026 m.'
+  - 1307 m.
+  - 1320 m.
+  - 1322 m.
+  - 1340 m.
+  - 1362 m.
+  - 1363 m.
+  - 2026 m.
 date_start: '1307'
 date_end: '2026'
 sukurta: ''
@@ -21,20 +21,30 @@ tags:
   - mūšis
   - žygis
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Mėlynųjų Vandenų mūšis","url":"https://lt.wikipedia.org/wiki/M%C4%97lyn%C5%B3j%C5%B3_Vanden%C5%B3_m%C5%AB%C5%A1is","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Mėlynųjų Vandenų mūšis","url":"https://www.vle.lt/straipsnis/melynuju-vandenu-musis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:53:42+00:00","source_checked_at":"2026-09-20T12:53:42+00:00","counts":{"relations":5,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Mėlynųjų Vandenų mūšis","url":"https://lt.wikipedia.org/wiki/M%C4%97lyn%C5%B3j%C5%B3_Vanden%C5%B3_m%C5%AB%C5%A1is","publisher":"Vikipedija","language":"lt","article_id":"245032","revision_id":"7855606","published_at":"2026-06-13T11:17:17Z","version_pk":"","content_hash":"c84015a76f3850d561057e2b254a526cebe4b51a73a5153e7610f1a05815b50a","retrieved_at":"2026-09-20T12:52:20+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=M%C4%97lyn%C5%B3j%C5%B3_Vanden%C5%B3_m%C5%AB%C5%A1is&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"245032"}},"intro":"Mėlynųjų Vandenų mūšis – mūšis, 1362 ar 1363 m. rudenį įvykęs tarp Lietuvos Didžiosios Kunigaikštystės kariuomenės ir Aukso ordos prie Mėlynųjų Vandenų (veikiausiai dab. Siniucha, Pietų Bugo kairysis intakas).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Mėlynųjų Vandenų mūšis","url":"https://lt.wikipedia.org/wiki/M%C4%97lyn%C5%B3j%C5%B3_Vanden%C5%B3_m%C5%AB%C5%A1is","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Mėlynųjų Vandenų mūšis","url":"https://www.vle.lt/straipsnis/melynuju-vandenu-musis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/M%C4%97lyn%C5%B3j%C5%B3_Vanden%C5%B3_m%C5%AB%C5%A1is","https://www.vle.lt/straipsnis/melynuju-vandenu-musis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"5c58cddd88cac367ee5b90ba","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Pergalė sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.","context":"Karolio Zikaro sudarytame 2013 m. leidinyje teigiama, kad Algirdo pajėgų pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir Kijeve.","support_ids":["t-10253","c-11889"],"source_refs":[{"kind":"internal_claim","claim_id":"t-10253","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-11889","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Taigi po mūšio buvo nusiaub- tas Aukso ordos valdų plotas tarp pietinio Bugo ir Dniestro prie Juodosios jūros. Pergalės tarptautinė reikšmė Algirdo pajėgų žygis prieš toto- rius ir pergalė prie Mėlynųjų Van- denų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve. Po pergalės Lietuvos kariuomenė nuniokojo totoriams pavaldų kraštą - Podolę, pasiekdama Juodąją jūrą. Tai buvo pirmas Rytų Europoje toks didelis įsiverži- mas į Ordos valdas, sudavęs jos įtakai di- delį smūgį."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9b6880f3c16828f73a9880b9","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Po pergalės prieš Aukso ordą Kijevas galėjo būti prijungtas prie Lietuvos 1362 arba 1363 m.","context":"Lietuvos istorijoje (2013 m.) autoriai nurodo, kad labiau linkstama manyti, jog Algirdas Kijevą prijungė po pergalės prie Mėlynųjų Vandenų 1362 arba 1363 m.; tai pateikiama kaip tikėtina, bet neabejotina išvada.","support_ids":["t-186371","c-169732"],"source_refs":[{"kind":"internal_claim","claim_id":"t-186371","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-169732","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Algirdo didvalstybė Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes. Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai- kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui- nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos. Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga Vidurio ir Rytų Europos jėga."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"dalyvavo_musyje","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-10253","confidence":0.9},{"predicate":"dalyvavo_musyje","direction":"inbound","target":"objektai/asmenys/Dmitrijus (totorių vadas)","claim_id":"t-78962","confidence":0.62},{"predicate":"dalyvavo_musyje","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-171344","confidence":0.73},{"predicate":"dalyvavo_musyje","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-41581","confidence":0.9},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-10670","confidence":0.8}],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 44102fe101493dc2
+object_page_generated_at: '2026-09-20T12:53:42+00:00'
+object_page_source_checked_at: '2026-09-20T12:53:42+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Mėlynųjų Vandenų mūšis (1362 m.): 1362 m. Algirdas prie Mėlynųjų Vandenų sumušė totorius. Šaltinyje šio mūšio padariniai siejami su Podolės, Dniepro žemupio…'
+object_page_seo_input_hash: 1eeb464db92ff7aec58dfe80bde84a500f800d52ac26e5e3d7f61ddca793653b
+object_page_seo_generated_at: '2026-09-20T12:53:42+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mėlynųjų Vandenų mūšis (1362 m.)
 

@@ -1,46 +1,59 @@
 ---
 tipas: asmuo
-pavadinimas: 'Vincas Kudirka'
+pavadinimas: Vincas Kudirka
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1858 m.'
-  - '1951 m.'
+  - 1858 m.
+  - 1951 m.
 date_start: '1858'
 date_end: '1951'
 aliases:
-  - 'objektai/autoriai/Vincas Kudirka'
+  - objektai/autoriai/Vincas Kudirka
 variantai:
-  - 'Vincas Kudirka'
+  - Vincas Kudirka
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - redaktorius
 amziai:
-  - 'XIX'
-  - 'XX'
+  - XIX
+  - XX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4978e6f44b9dfeba38b0cf49"
-canonical_name: "Vincas Kudirka"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["objektai/autoriai/Vincas Kudirka","Vincas Kudirka"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4978e6f44b9dfeba38b0cf49
+canonical_name: Vincas Kudirka
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - objektai/autoriai/Vincas Kudirka
+  - Vincas Kudirka
 sameAs: []
-canonical_biography: "Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos Žymantienės-Žemaitės sodri realistinė sociali proza. Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra."
+canonical_biography: 'Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos Žymantienės-Žemaitės sodri realistinė sociali proza. Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
+external_sources_json: '[{"title":"Vincas Kudirka","url":"https://lt.wikipedia.org/wiki/Vincas_Kudirka","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vincas Kudirka","url":"https://www.vle.lt/straipsnis/vincas-kudirka/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:31:39+00:00","source_checked_at":"2026-09-20T14:31:39+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Vincas Kudirka","url":"https://lt.wikipedia.org/wiki/Vincas_Kudirka","publisher":"Vikipedija","language":"lt","article_id":"21782","revision_id":"7609328","published_at":"2025-08-02T20:00:12Z","version_pk":"","content_hash":"6d0294391ce91282bf0679c5805d98e780b9ca67173d1ec42440e685026f5184","retrieved_at":"2026-09-20T14:30:29+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Vincas_Kudirka&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"21782"}},"intro":"Vincas Kudirka (1858 m. gruodžio 31 d. Paežeriuose, Paežerių valsčius, Vilkaviškio apskritis – 1899 m. lapkričio 16 d. Naumiestyje) – Lietuvos gydytojas, prozininkas, poetas, publicistas, kritikas, vertėjas, varpininkas, laikraščio „Varpas“ redaktorius, vienas iš lietuvių tautinio sąjūdžio ideologų. Lietuvos himno autorius.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"~1858 m. gruodžio 31 d.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Paežeriai, Vilkaviškio apskritis, Lenkijos Kongreso karalystė, Rusijos imperija","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1899 m. lapkričio 16 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Naumiestis, Suvalkų gubernija, Lenkijos Kongreso karalystė, Rusijos imperija","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Meištų kapinėse","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Motiejus Kudirka; Elžbieta Jasulevičiūtė","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Vincas Kudirka","url":"https://lt.wikipedia.org/wiki/Vincas_Kudirka","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Vincas Kudirka","url":"https://www.vle.lt/straipsnis/vincas-kudirka/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vincas_Kudirka","https://www.vle.lt/straipsnis/vincas-kudirka/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"1c1f6c202f67b5c3967d8f96","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją.","context":"Šaltinyje aprašoma V. Kudirkos veikla; iki mirties redagavo žurnalą „Varpas“.","support_ids":["t-78010","c-75326"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78010","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75326","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri- nys taps Lietuvos himnu."}],"status":"published","conflict_status":"clear"},{"trait_id":"e07f12f1abc87bf080dab8ff","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Buvo žurnalo „Varpas“ redaktorius ir gydytojas.","context":"Šaltinyje nurodoma, kad žurnalą redagavo iki pat savo mirties (1858–1899).","support_ids":["t-78010","c-75326"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78010","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75326","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri- nys taps Lietuvos himnu."}],"status":"published","conflict_status":"clear"},{"trait_id":"9e2eb020e011bc712cef6fbe","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Jo sukurtas eilėraštis „Tautiška giesmė“ ir melodija tapo Lietuvos himnu.","context":"Šaltinio autoriai nurodo vėlesnę kūrinio reikšmę: „šis kūrinys taps Lietuvos himnu“.","support_ids":["t-78010","c-75326"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78010","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75326","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“. V. Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūri- nys taps Lietuvos himnu."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 2dfb0454d384e3c4
+object_page_generated_at: '2026-09-20T14:31:39+00:00'
+object_page_source_checked_at: '2026-09-20T14:31:39+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Vincas Kudirka: Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į…'
+object_page_seo_input_hash: 55340aa570393c50ab0add3aa984774666e18830e658a97215faccb8d540a245
+object_page_seo_generated_at: '2026-09-20T14:31:39+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vincas Kudirka
 

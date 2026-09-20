@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Kuršas'
+pavadinimas: Kuršas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -11,13 +11,13 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '675 m.'
-  - '1236 m.'
-  - '1244 m.'
-  - '1245 m.'
-  - '1246 m.'
-  - '1259 m.'
-  - '2026 m.'
+  - 675 m.
+  - 1236 m.
+  - 1244 m.
+  - 1245 m.
+  - 1246 m.
+  - 1259 m.
+  - 2026 m.
 date_start: '675'
 date_end: '2026'
 sukurta: ''
@@ -26,29 +26,45 @@ tags:
   - kraštas
   - vieta
 amziai:
-  - 'VII'
-  - 'XXI'
+  - VII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-be9de4b505f1692daf92b99c"
-canonical_name: "Kuršas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kurland","Kuršas","Kurše","Kuršu","Kuržemėj"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-be9de4b505f1692daf92b99c
+canonical_name: Kuršas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kurland
+  - Kuršas
+  - Kurše
+  - Kuršu
+  - Kuržemėj
 sameAs: []
-canonical_biography: "1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę. 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą. Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį."
+canonical_biography: 1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę. 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą. Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Kuršas","url":"https://lt.wikipedia.org/wiki/Kur%C5%A1as","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kuršas","url":"https://www.vle.lt/straipsnis/kursas-2/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T01:04:07+00:00","source_checked_at":"2026-09-19T01:04:07+00:00","counts":{"relations":17,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Kuršas","url":"https://lt.wikipedia.org/wiki/Kur%C5%A1as","publisher":"Vikipedija","language":"lt","article_id":"3812","revision_id":"7694320","published_at":"2025-11-16T11:07:17Z","version_pk":"","content_hash":"7e81751af0fc19489397db04e43317f3ff4a01964bfa52f9e93dbe3ce54d16a9","retrieved_at":"2026-09-19T01:03:25+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Kur%C5%A1as&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"3812"}},"intro":"Kuršas (latv. Kurzeme, lyv. Kurāmō) – istorinis etnografinis regionas dabartinėje Latvijoje, atskirais laikotarpiais apėmęs ir dalį dabartinės Lietuvos teritorijos. Didesni dabartiniai centrai – Liepoja ir Ventspilis. Žiemgala ir Sėla kartais priskiriami Kuršui, nes priklausė Kuršo hercogystei.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Kuršas","url":"https://lt.wikipedia.org/wiki/Kur%C5%A1as","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kuršas","url":"https://www.vle.lt/straipsnis/kursas-2/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kur%C5%A1as","https://www.vle.lt/straipsnis/kursas-2/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Fridrichas Ketleris","claim_id":"t-40109","confidence":0.86},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Ketleris","claim_id":"t-212705","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Jotvingiai","claim_id":"t-214820","confidence":0.72},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Latviai","claim_id":"t-215024","confidence":0.88},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lybiai","claim_id":"t-96812","confidence":0.84},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Henrikas Botelis","claim_id":"t-221546","confidence":0.83},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Alsunga","claim_id":"t-218042","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Alūkšta","claim_id":"t-21342","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Heilsbergas","claim_id":"t-185102","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Karšuva","claim_id":"t-185102","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Piltenė","claim_id":"t-43827","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Jarmerikas","claim_id":"t-215301","confidence":0.75},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Mindaugas","claim_id":"t-90763","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-171531","confidence":0.84},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-180279","confidence":0.74},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Mindaugas","claim_id":"t-41712","confidence":0.86},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Jarmerikas","claim_id":"t-215301","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c7982cce96fc269f
+object_page_generated_at: '2026-09-19T01:04:07+00:00'
+object_page_source_checked_at: '2026-09-19T01:04:07+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Kuršas: 1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę. 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir…'
+object_page_seo_input_hash: 8f3d905a7c7ba8d0f6ac1ef69c61a6b007cbd798f548997bb201de7009bbb70b
+object_page_seo_generated_at: '2026-09-19T01:04:07+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kuršas
 

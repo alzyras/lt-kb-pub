@@ -1,12 +1,12 @@
 ---
 tipas: autorius
-pavadinimas: 'Jonas Potockis'
+pavadinimas: Jonas Potockis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1797 m.'
-  - '1828 m.'
+  - 1797 m.
+  - 1828 m.
 date_start: '1797'
 date_end: '1828'
 sukurta: ''
@@ -15,29 +15,42 @@ tags:
   - istorikas
   - autorius
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 periodo_grupes:
-  - 'naujieji laikai'
+  - naujieji laikai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-69d66d2cc9ecc0a08554bd8d"
-canonical_name: "Jonas Potockis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Jonas Potockis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-69d66d2cc9ecc0a08554bd8d
+canonical_name: Jonas Potockis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Jonas Potockis
 sameAs: []
-canonical_biography: "Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Potockio ir Suroveckio raštais. Narbutas turėjo omenyje Jono Potockio 1797 m. kelionės į Astrachanę aprašymą, publikuotą „Dziennik Wilenski“ 1828 m. Grafas Jonas Potockis tokį garbinimą pastebėjo pas kalmukus, o Narbutas jį laikė ne tokiu ryškiu kaip senovės lietuvių papročiuose."
+canonical_biography: 'Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Potockio ir Suroveckio raštais. Narbutas turėjo omenyje Jono Potockio 1797 m. kelionės į Astrachanę aprašymą, publikuotą „Dziennik Wilenski“ 1828 m. Grafas Jonas Potockis tokį garbinimą pastebėjo pas kalmukus, o Narbutas jį laikė ne tokiu ryškiu kaip senovės lietuvių papročiuose.'
+external_sources_json: '[{"title":"Jonas Potockis","url":"https://lt.wikipedia.org/wiki/Jonas_Potockis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:05:54+00:00","source_checked_at":"2026-09-20T12:05:54+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Jonas Potockis","url":"https://lt.wikipedia.org/wiki/Jonas_Potockis","publisher":"Vikipedija","language":"lt","article_id":"485850","revision_id":"6082748","published_at":"2021-01-22T01:54:18Z","version_pk":"","content_hash":"e3de1636f878f0c5ef21d5e4272d9d193ca2082dbedeff0218ca9d2a0dcac34d","retrieved_at":"2026-09-20T12:04:30+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Jonas_Potockis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"485850"}},"intro":"Jonas Potockis (?– m. 1744) – ATR valstybinis veikėjas, Lenkijos bajoras.","original_intro":"","translation_status":"native","infobox":[{"code":"death_date","label":"Mirė","value":"1744 m.","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Juozas Stanislovas Potockis; Eleonora Rey","source":"wikipedia_infobox"},{"code":"children","label":"Vaikai","value":"Joachimas Karolis, · Teodoras, · Ana","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Jonas Potockis","url":"https://lt.wikipedia.org/wiki/Jonas_Potockis","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Jonas_Potockis"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e8efaad1abf79c9820099e4c","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Grafas","context":"Teodoras Narbutas Joną Potockį įvardija grafu; cituojamas 1828 m. J. Potockio darbas apie kelionę į Astrachanę.","support_ids":["t-213186","c-194573"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213186","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194573","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Grafas Jonas Potockis tokį garbinimą pastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys), bet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės lietuvius1. Senovės slavai specialiai darydavo žemas duris, kad ateinantysis arba išeinantysis nusilenktų slenksčiui2. 1 Potocki J. Podrož do Astrahanu // Dziennik Wilenski. 1828. T. V. S. 293."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e35c5651157c34dc
+object_page_generated_at: '2026-09-20T12:05:54+00:00'
+object_page_source_checked_at: '2026-09-20T12:05:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Jonas Potockis: Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Potockio ir Suroveckio raštais. Narbutas turėjo omenyje Jono…'
+object_page_seo_input_hash: b23ed64f7f67e95a6b4fe153aa5adfad256db7f5e6926ae5e4728a94cdef07ac
+object_page_seo_generated_at: '2026-09-20T12:05:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jonas Potockis
 

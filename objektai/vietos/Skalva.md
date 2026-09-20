@@ -1,12 +1,12 @@
 ---
 tipas: vieta
-pavadinimas: 'Skalva'
+pavadinimas: Skalva
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1253 m.'
-  - '1259 m.'
+  - 1253 m.
+  - 1259 m.
 date_start: '1253'
 date_end: '1259'
 sukurta: ''
@@ -16,28 +16,40 @@ tags:
   - vieta
   - žemė
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-175ab9568e13a2a18bfeb291"
-canonical_name: "Skalva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Skalva"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-175ab9568e13a2a18bfeb291
+canonical_name: Skalva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Skalva
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją, pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina kaip prūsų gyvenamą3. Dusburgietis teigia, kad 1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr."
+canonical_biography: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją, pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina kaip prūsų gyvenamą3. Dusburgietis teigia, kad 1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Skalva","url":"https://lt.wikipedia.org/wiki/Skalva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Skalva","url":"https://www.vle.lt/straipsnis/skalva/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:49:33+00:00","source_checked_at":"2026-09-19T18:49:33+00:00","counts":{"relations":5,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Skalva","url":"https://lt.wikipedia.org/wiki/Skalva","publisher":"Vikipedija","language":"lt","article_id":"28041","revision_id":"7638256","published_at":"2025-09-10T19:19:03Z","version_pk":"","content_hash":"f1671dfa86dc3f576e9c7d82871ff32c01b305d548f6c840ebdcc0b0d1083b26","retrieved_at":"2026-09-19T18:48:20+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Skalva&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"28041"}},"intro":"Skalva (lot. Scalovia, Sclavonia, Schlavonia, vok. Sclavonia, Schalauen, prūsų k. Skālwa) – skalvių genties žemė, buvusi tarp Nadruvos ir Žemaičių. Ši žemė apėmė Nemuno žemupį nuo Smalininkų ir Minijos žemupį nuo Priekulės apylinkių. Centras – Ragainė. Skalvai dažnai priskiriama Lamata arba Lamotė, kurios ribos beveik sutampa su Šilutės rajono savivaldybės riba, bet dar priskiriama Priekulės, Agluonėnų, Veiviržėnų, Judrėnų apylinkės. Skalvos religiniu centru laikomas Rambynas. Nuo XIII a. 5 dešimtmečio Skalvą pradėjo puldinėti kryžiuočiai. 1259 m. rugpjūčio 7 d. nutarimu Mindaugas Skalvą dovanojo kryžiuočiams. 1274–1278 m., po didžiojo prūsų sukilimo, vokiečių riteriai šią žemę užkariavo. Nuo 1289 m. priklausė Ragainės komtūrijai, o nuo XVI a. beveik visa Skalva tapo Mažosios Lietuvos dalimi.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Skalva","url":"https://lt.wikipedia.org/wiki/Skalva","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Skalva","url":"https://www.vle.lt/straipsnis/skalva/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Skalva","https://www.vle.lt/straipsnis/skalva/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"936f32f4c873682de736ede7","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Prūsijos žemės dalis","context":"Petro iš Dusburgo kronikoje Skalva išvardyta tarp 11 Prūsijos žemės dalių.","support_ids":["t-221442","c-204791"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221442","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204791","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."}],"status":"published","conflict_status":"clear"},{"trait_id":"386a10b85091b03e419ddfe8","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Lietuvos valdovo žemė","context":"Šaltinio autoriaus vertinimu, 1253–1259 m. Mindaugo dokumentai liudija, kad tuo metu Skalva tarptautinėje plotmėje buvo laikoma Lietuvos valdovo žeme.","support_ids":["t-223797","c-203320"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223797","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203320","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"1253—1259 m. Mindaugo dokumentai, kad ir kaip juos vertintume, liudija, kad tuo metu Dainava (plačiąja prasme), arba Jotvingija, taip pat Skalva, Nadruva tarptautinėje plotmėje buvo laikomos Lietuvos valdovo žemėmis (LUB, 1, Nr."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ragainė","claim_id":"t-225347","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-223797","confidence":0.86},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Prūsija","claim_id":"t-221442","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Žemaitija","claim_id":"t-225213","confidence":0.91},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Patrikas","claim_id":"t-179849","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b1dea6b87d0bcc6c
+object_page_generated_at: '2026-09-19T18:49:33+00:00'
+object_page_source_checked_at: '2026-09-19T18:49:33+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Skalva: Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga…'
+object_page_seo_input_hash: c32e3144f696e08d6559fee425142074f3bd5ed6d2eea156c99a2d5bda57c426
+object_page_seo_generated_at: '2026-09-19T18:49:33+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Skalva
 

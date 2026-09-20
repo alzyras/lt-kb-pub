@@ -1,11 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'Kazimieras Semenavičius'
+pavadinimas: Kazimieras Semenavičius
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1579 m.'
-  - '1650 m.'
+  - 1579 m.
+  - 1650 m.
 date_start: '1579'
 date_end: '1650'
 sukurta: ''
@@ -14,29 +14,45 @@ tags:
   - autorius
   - mokslininkas
 amziai:
-  - 'XVI'
-  - 'XVII'
+  - XVI
+  - XVII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ca24842a70b4a49a431c22b6"
-canonical_name: "Kazimieras Semenavičius"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["K. Semenavičiaus","K. Semenavičius","Kazimieras Semenavičius","Kazimiero Semenavičiaus"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ca24842a70b4a49a431c22b6
+canonical_name: Kazimieras Semenavičius
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - K. Semenavičiaus
+  - K. Semenavičius
+  - Kazimieras Semenavičius
+  - Kazimiero Semenavičiaus
 sameAs: []
-canonical_biography: "Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšmingiausias originalios karinės inžinerijos mokyklos darbas; veikale siejamos šiuolaikinės artilerijos ir kosmonautikos ištakos bei daugiapakopių raketų teorija."
+canonical_biography: Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšmingiausias originalios karinės inžinerijos mokyklos darbas; veikale siejamos šiuolaikinės artilerijos ir kosmonautikos ištakos bei daugiapakopių raketų teorija.
+external_sources_json: '[{"title":"Kazimieras Semenavičius","url":"https://www.vle.lt/straipsnis/kazimieras-semenavicius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:07:59+00:00","source_checked_at":"2026-09-20T12:07:59+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","claim_id":"t-23234","evidence_id":"c-70088","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Kazimieras Semenavičius","url":"https://www.vle.lt/straipsnis/kazimieras-semenavicius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/kazimieras-semenavicius/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"5a277e79ff8fdd79e438c956","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Rašė apie tai, ką derėtų vaizduoti fejerverkuose ir kaip organizuoti jų kūrimo darbą.","context":"Veikale „Didysis artilerijos menas“; XVII–XVIII a. Europos artilerijos vadovėlio kontekste.","support_ids":["t-208019","c-190641"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208019","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md"},{"kind":"evidence","evidence_id":"c-190641","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md","quote":"Apie tai, ką derėtų vaizduoti fejerverkuose ir kaip organizuoti jų kūrimo darbą, rašė Kazimieras Semenavičius veikale Didysis artilerijos menas'''' - viename iš svarbiausių XVII-XVIII a. artilerijos vadovėlių Europoje. Anot K. Semenavičiaus, pirotechnikas turėjo įvaldyti piešimo meną, sugebėti iš medžio, vaško ar kitų medžiagų padaryti modelį, pagal modelį apskaičiuoti realius parametrus ir pasamdyti reikiamus meis­ trus tai adikti, sekti, kad pasamdyti amatininkai viską vykdytų pagal nurodymus."}],"status":"published","conflict_status":"clear"},{"trait_id":"f1ec889b71689e212f99ed60","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Veikalo „Artis magnae artilleriae“ („Didysis artilerijos menas“) autorius.","context":"Veikalas išleistas 1650 m.; Lietuvos karinės inžinerijos mokyklos kontekste.","support_ids":["t-26715","c-16789"],"source_refs":[{"kind":"internal_claim","claim_id":"t-26715","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-16789","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky- klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur- tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te- orija."}],"status":"published","conflict_status":"clear"},{"trait_id":"4e387e9713d978c7ab229402","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Jo veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) įvardijamas reikšmingiausiu Lietuvos karinės inžinerijos mokyklos darbu; jame išdėstyta daugiapakopių raketų teorija, siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis.","context":"Lietuvos istorijos autoriai taip vertina 1650 m. veikalą Lietuvos siekio būti integralia Vidurio Europos dalimi ir karinės inžinerijos mokyklos kontekste.","support_ids":["t-26715","c-16789"],"source_refs":[{"kind":"internal_claim","claim_id":"t-26715","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-16789","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky- klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur- tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te- orija."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Kazimieras Semenavičius – XVII amžiaus autorius, kurio svarbiausiu darbu laikomas veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“), išleistas 1650 metais. Šis darbas tapo reikšmingiausiu solidžios ir originalios karinės inžinerijos mokyklos kūriniu, jame buvo išdėstyta daugiapakopių raketų teorija, siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis. Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 metais, todėl jo veikla išryškėja ne tik kaip tekstinis, bet ir kaip techninis indėlis į to meto karinę mintį. Autorius taip pat rašė apie fejerverkų vaizdinius ir jų kūrimo organizavimą: pirotechnikas, jo manymu, turėjo mokėti piešti, kurti modelius, apskaičiuoti jų parametrus, pasitelkti amatininkus ir prižiūrėti, kad šie laikytųsi nurodymų.","sentences":[{"sentence_id":"s1","text":"Kazimieras Semenavičius – XVII amžiaus autorius, kurio svarbiausiu darbu laikomas veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“), išleistas 1650 metais.","support_ids":["t-26715","c-16789"]},{"sentence_id":"s2","text":"Šis darbas tapo reikšmingiausiu solidžios ir originalios karinės inžinerijos mokyklos kūriniu, jame buvo išdėstyta daugiapakopių raketų teorija, siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis.","support_ids":["t-26715","c-16789"]},{"sentence_id":"s3","text":"Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 metais, todėl jo veikla išryškėja ne tik kaip tekstinis, bet ir kaip techninis indėlis į to meto karinę mintį.","support_ids":["t-23234","c-70088"]},{"sentence_id":"s4","text":"Autorius taip pat rašė apie fejerverkų vaizdinius ir jų kūrimo organizavimą: pirotechnikas, jo manymu, turėjo mokėti piešti, kurti modelius, apskaičiuoti jų parametrus, pasitelkti amatininkus ir prižiūrėti, kad šie laikytųsi nurodymų.","support_ids":["t-208019","c-190641"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai tiesiogiai patvirtina veikalo pavadinimą, reikšmingumą ir 1650 m. datą, tačiau nepatvirtina, kad Semenavičius buvo XVII amžiaus autorius."},{"sentence_id":"s2","supported":true,"reason":"Visi teiginio faktai tiesiogiai paremti nurodyta citata: karinės inžinerijos mokykla, veikalas, daugiapakopių raketų teorija ir sąsaja su artilerijos bei kosmonautikos ištakomis."},{"sentence_id":"s3","supported":false,"reason":"Šaltinis tiesiogiai patvirtina raketų brėžinių sąsają su Amsterdamu ir 1650 m., tačiau nepatvirtina išvados apie tekstinį ir techninį indėlį į to meto karinę mintį."},{"sentence_id":"s4","supported":true,"reason":"Citata tiesiogiai patvirtina rašymą apie fejerverkų vaizdavimą ir kūrimo organizavimą bei visas išvardytas pirotechniko pareigas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-26715","c-16789"]},{"sentence_id":"s2","supported":true,"support_ids":["t-26715","c-16789"]},{"sentence_id":"s3","supported":true,"support_ids":["t-23234","c-70088"]},{"sentence_id":"s4","supported":true,"support_ids":["t-208019","c-190641"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ec42dbf186a4adcc
+object_page_generated_at: '2026-09-20T12:07:59+00:00'
+object_page_source_checked_at: '2026-09-20T12:07:59+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '2'
+object_page_seo_description: 'Kazimieras Semenavičius – XVII amžiaus autorius, kurio svarbiausiu darbu laikomas veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“), išleistas…'
+object_page_seo_input_hash: 76c9ebaf59eef735442384f70f2ad1e3c0c57f020f1e4be33820f8dcc282b40e
+object_page_seo_generated_at: '2026-09-20T12:07:59+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kazimieras Semenavičius
 

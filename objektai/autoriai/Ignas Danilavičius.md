@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Ignas Danilavičius'
+pavadinimas: Ignas Danilavičius
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -15,7 +15,7 @@ tags:
   - autorius
   - diplomatas
 amziai:
-  - 'D'
+  - D
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -23,19 +23,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6824317e3af819fe11862300"
-canonical_name: "Ignas Danilavičius"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Ignas Danilavičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6824317e3af819fe11862300
+canonical_name: Ignas Danilavičius
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Ignas Danilavičius
 sameAs: []
-canonical_biography: "Čia reikia paminėti labai kritišką Igną Danilavičių (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų dokumentų ar jų santraukų (regestų) rinkinį lenkų kalba, pradedant nuo Herodoto. Janulaitis : Ignas Danilavičius, Kaunas 1932."
+canonical_biography: 'Čia reikia paminėti labai kritišką Igną Danilavičių (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų dokumentų ar jų santraukų (regestų) rinkinį lenkų kalba, pradedant nuo Herodoto. Janulaitis : Ignas Danilavičius, Kaunas 1932.'
+external_sources_json: '[{"title":"Ignas Danilavičius","url":"https://www.vle.lt/straipsnis/ignas-danilavicius/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:31:04+00:00","source_checked_at":"2026-09-19T22:31:04+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Ignas Danilavičius","url":"https://www.vle.lt/straipsnis/ignas-danilavicius/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/ignas-danilavicius/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"1cff17f6bde3d88dba06ee21","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Dalį Lietuvos Statutuose nurodytų bausmių kildino iš magdeburginės teisės.","context":"XIX a. pirmoje pusėje; šaltinio autoriaus teiginys apie Igną Danilavičių.","support_ids":["t-203665","c-186269"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203665","source":"darbas/sources/Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose.md"},{"kind":"evidence","evidence_id":"c-186269","source":"darbas/sources/Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose.md","quote":"Jau XIX a. pirmoje pusėje Ignas Danilavičius dalį tokių bausmių Statutuose kildino iš magdeburginės teisės28."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 05a823009d389f9d
+object_page_generated_at: '2026-09-19T22:31:04+00:00'
+object_page_source_checked_at: '2026-09-19T22:31:04+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Ignas Danilavičius: Čia reikia paminėti labai kritišką Igną Danilavičių (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų dokumentų ar jų…'
+object_page_seo_input_hash: ca68599d95204cd191747d5db791b07ad3186bbf3f5bf5f1f7a0b79948314fb1
+object_page_seo_generated_at: '2026-09-19T22:31:04+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ignas Danilavičius
 

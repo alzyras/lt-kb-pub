@@ -1,14 +1,14 @@
 ---
 tipas: asmuo
-pavadinimas: 'Teodoras Karijotaitis'
+pavadinimas: Teodoras Karijotaitis
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvių tautos istorija, t. 5'
-  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - Lietuvos Didžioji Kunigaikštija ir jos tradicija
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1395 m.'
-  - '1414 m.'
+  - 1395 m.
+  - 1414 m.
 date_start: '1395'
 date_end: '1414'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - kunigaikštis
   - asmuo
 amziai:
-  - 'XIV'
-  - 'XV'
+  - XIV
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-1feedff9221d9a35cf803a4e"
-canonical_name: "Teodoras Karijotaitis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Teodoras Karijotaitis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-1feedff9221d9a35cf803a4e
+canonical_name: Teodoras Karijotaitis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Teodoras Karijotaitis
 sameAs: []
-canonical_biography: "Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patraukė prieš Vytautą ir susidūrė su juo prie Braclavo. Teodoras Karijotaitis, Vytauto smarkiai persekiojamas, po karių pabėgimo vargais negalais paspruko į Kamenecą. Kunigaikštis Teodoras Karijotaitis su šeima buvo išgabentas į Vilnių, kai pilis perduota ir Podolė vėl prijungta prie Lietuvos."
+canonical_biography: 'Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patraukė prieš Vytautą ir susidūrė su juo prie Braclavo. Teodoras Karijotaitis, Vytauto smarkiai persekiojamas, po karių pabėgimo vargais negalais paspruko į Kamenecą. Kunigaikštis Teodoras Karijotaitis su šeima buvo išgabentas į Vilnių, kai pilis perduota ir Podolė vėl prijungta prie Lietuvos.'
+external_sources_json: '[{"title":"Teodoras Karijotaitis","url":"https://lt.wikipedia.org/wiki/Teodoras_Karijotaitis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:46:13+00:00","source_checked_at":"2026-09-19T19:46:13+00:00","counts":{"relations":0,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Teodoras Karijotaitis","url":"https://lt.wikipedia.org/wiki/Teodoras_Karijotaitis","publisher":"Vikipedija","language":"lt","article_id":"359185","revision_id":"6885485","published_at":"2023-02-17T22:29:55Z","version_pk":"","content_hash":"ebf3b96ff0c8edef6f2d6589d7fc77ba13c15657925a43e77da4f784e6b3c7c7","retrieved_at":"2026-09-19T19:44:48+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Teodoras_Karijotaitis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"359185"}},"intro":"Teodoras Karijotaitis (ukr. Федір Коріятович, veng. Korjatovics Tódor ; g. (?) – m. apie 1414, Mukačevėje) – Lietuvos kunigaikštis, Podolės kunigaikštystės valdovas, Palanoko pilies Mukačevėje statytojas. Stačiatikiškai pakrikštytas Fiodoru. Lietuvos didžiojo kunigaikščio Gedimino anūkas.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"(?)","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"apie 1414 m.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Mukačevėje","source":"wikipedia_infobox"},{"code":"parents","label":"Tėvai","value":"Karijotas","source":"wikipedia_infobox"},{"code":"positions","label":"Pareigos","value":"Podolės kunigaikštis","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Teodoras Karijotaitis","url":"https://lt.wikipedia.org/wiki/Teodoras_Karijotaitis","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Teodoras_Karijotaitis"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"65fb0104ac36034105103cb7","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Naugarduko kunigaikštis","context":"Po brolio mirties, Algirdo remiamas, Teodoras tapo Naugarduko kunigaikščiu; vėliau buvo išvarytas iš visų valdų. Tai aprašė Albertas Vijūkas-Kojelavičius Lietuvos istorijoje.","support_ids":["t-196601","c-178790"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196601","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-178790","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Neilgai trukus po to sugrįžęs į Podolę, jis čia ir mirė. Kai mirė brolis, jo įpėdiniu, Algirdo remiamas, tapo Naugardu- K o n sta n tin a s K a rijo ­ ta itis, A lg ird o b ro ­ lėn as, k v ie č ia m a s į L e n k ijo s ka ra liu s 23 o ko kunigaikštis Teodoras Ka- A lg ird a s su tra m d o rijotaitis; kadangi šis, įsigi- m a išta u ja n tį b ro lėn ą jęs naujų žemių, ėmė nebe­ siskaityti su Lietuvos didžio­ jo kunigaikščio senosiomis teisėmis, buvo išvarytas iš visų valdų. Karą prieš maištininką pradėjo pats Algir­ das."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d5f576bd4d6bbdbf4688ea7b","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Vietininkas Podolėje","context":"1395 m. Teodoras Karijotaitis ėjo vietininko pareigas Podolėje; vėliau pasitraukė į Vengriją.","support_ids":["t-207453","c-190097"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207453","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190097","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"1395 m. paskiria savo vietininką Podolėje (Teodoras Karijotaitis pasitraukė į Vengriją ir iki šiol prisimenamas Mukačiove), Siverų Naugardą gauna valdyti iš Voluinės Vladimiro atkeltas Teodoras Liubartaitis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"257e664354ba60153235855a","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Podolės valdovas, nepaklusęs didžiajam kunigaikščiui Algirdui","context":"Bychovco kronikoje teigiama, kad paėmęs Podolės žemę Teodoras nebenorėjo su ja paklusti Algirdui.","support_ids":["t-210125","c-193485"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210125","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193485","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Kunigaikštis Teodoras, paėmęs Podolės žemę, nebenorėjo su Podolės žeme pa­ klusti didžiajam kunigaikščiui Algirdui"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"50ee73848adee678c06b135f","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Iki šiol prisimenamas Mukačiove","context":"Tai 1395 m. įvykių kontekste nurodo Alfredas Bumblauskas veikale apie Lietuvos Didžiąją Kunigaikštystę ir jos tradiciją.","support_ids":["t-207453","c-190097"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207453","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-190097","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"1395 m. paskiria savo vietininką Podolėje (Teodoras Karijotaitis pasitraukė į Vengriją ir iki šiol prisimenamas Mukačiove), Siverų Naugardą gauna valdyti iš Voluinės Vladimiro atkeltas Teodoras Liubartaitis."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":7,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ab46d4cbe075ef88
+object_page_generated_at: '2026-09-19T19:46:13+00:00'
+object_page_source_checked_at: '2026-09-19T19:46:13+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '4'
+object_page_seo_description: 'Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patraukė prieš Vytautą ir susidūrė su juo prie Braclavo. Teodoras Karijotaitis, Vytauto…'
+object_page_seo_input_hash: e022364ffa6f669bc1e8e9e5421bfcb21aa9c9b2550b41bb243c30849702648e
+object_page_seo_generated_at: '2026-09-19T19:46:13+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Teodoras Karijotaitis
 

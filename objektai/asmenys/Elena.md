@@ -5,8 +5,8 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1494 m.'
-  - '1513 m.'
+  - 1494 m.
+  - 1513 m.
 date_start: '1494'
 date_end: '1513'
 sukurta: ''
@@ -17,29 +17,47 @@ tags:
   - karalius
   - dvasininkas
 amziai:
-  - 'XV'
-  - 'XVI'
+  - XV
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a7114b75d8920812f5ecb300"
-canonical_name: "Elena (vyskupas, XV–XVI a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["didžioji Lietuvos, Rusios, Žemaitijos kunigaikštienė","Elena","Elena (vyskupas, XV–XVI a.)","Elenos","Eleną","karalienė Elena","ponia Elena"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a7114b75d8920812f5ecb300
+canonical_name: 'Elena (vyskupas, XV–XVI a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - 'didžioji Lietuvos, Rusios, Žemaitijos kunigaikštienė'
+  - Elena
+  - 'Elena (vyskupas, XV–XVI a.)'
+  - Elenos
+  - Eleną
+  - karalienė Elena
+  - ponia Elena
 sameAs: []
-canonical_biography: "Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro žmona. Ji atvyko į Vilnių, buvo sutuokta su Aleksandru, jos santuoka siejama su Vilniaus prekybos ryšių plėtra, o vėlesni dokumentai mini jai skirtas dovanas, globą ir mirtį Vilniuje."
+canonical_biography: 'Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro žmona. Ji atvyko į Vilnių, buvo sutuokta su Aleksandru, jos santuoka siejama su Vilniaus prekybos ryšių plėtra, o vėlesni dokumentai mini jai skirtas dovanas, globą ir mirtį Vilniuje.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T09:42:24+00:00","source_checked_at":"2026-09-19T09:42:24+00:00","counts":{"relations":16,"gallery":0,"sources":1},"featured_claim_ids":["t-82284","t-54959","t-54961","t-82286","t-54960"],"featured_claims":[{"claim_id":"t-82284","text":"Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-78769"]},{"claim_id":"t-54959","text":"Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55320"]},{"claim_id":"t-54961","text":"Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55322"]},{"claim_id":"t-82286","text":"Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-78765"]},{"claim_id":"t-54960","text":"Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-55321"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7c53a77b37c6f48a37749097","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"meili ir vedybiškai ištikima","context":"Aleksandro rašte Elena taip apibūdinama kaip jo žmona; tai autoriaus cituojamas vertinimas, o ne savarankiška išvada.","support_ids":["t-82284","c-78769"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82284","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-78769","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Amžinai dalykų atminčiai. Šiuo raštu skelbiame visiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­ damas į šviesiausiosios karalienės, mūsų brangiausiosios žmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir norėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė, jai dovanojome, užrašėme ir šiuo raštu duodame, užrašome ir dovanojame tik tam laikui, kol bus gyva, Mogiliavo pilį, stovinčią šalia Dniepro upės, su visomis žemėmis, ir kitas valdas, prie šios pilies nuo seno esančias ir jai priklausan­ čias su žmonėmis ir jų patarnavimais bei darbais, činšais, pajamomis, mokesčiais - ar grašiais, ar medumi, rinkliavo­ mis, dvareliais, dirvomis, laukais ir ganyklomis, gervuogių…"}],"status":"published","conflict_status":"clear"},{"trait_id":"cfb018aff5b5c3a24e88154d","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"karalienė","context":"Šaltinis ją tiesiogiai vadina karaliene Elena.","support_ids":["t-54960","c-55321"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54960","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55321","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tačiau neilga buvo karaliaus vieš­ nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui piešdami ir degindami, prie Lydos prisiartino Krymo cha­ no sūnūs su 20 000 totorių. Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuomenei vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­ kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­ nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas Laskis."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Elena – karalienė ir Aleksandro žmona, XV–XVI a. sandūroje veikusi Lietuvos valdovo aplinkoje. Ji lydėjo sunkiai susirgusį Aleksandrą, kai šis, Krymo totorių grėsmei priartėjus prie Lydos, buvo nugabentas į Vilnių kartu su kitais aukštais pareigūnais. Elenos santuoka su Aleksandru išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere bei paskatino steigti naujas užeigas į sostinę atvykstantiems pirkliams. Vilniaus pilyje ji savo lėšomis pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams, o Aleksandras jai iki gyvos galvos užrašė Mogiliavo pilį prie Dniepro su priklausančiomis valdomis, žmonėmis ir pajamomis. Pateikti šaltiniai neleidžia tiksliai nustatyti Elenos gyvenimo datų ar viso jos politinio vaidmens.","sentences":[{"sentence_id":"s1","text":"Elena – karalienė ir Aleksandro žmona, XV–XVI a. sandūroje veikusi Lietuvos valdovo aplinkoje.","support_ids":["t-54959","t-82284","c-55320","c-78769"]},{"sentence_id":"s2","text":"Ji lydėjo sunkiai susirgusį Aleksandrą, kai šis, Krymo totorių grėsmei priartėjus prie Lydos, buvo nugabentas į Vilnių kartu su kitais aukštais pareigūnais.","support_ids":["t-54960","c-55321"]},{"sentence_id":"s3","text":"Elenos santuoka su Aleksandru išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere bei paskatino steigti naujas užeigas į sostinę atvykstantiems pirkliams.","support_ids":["t-54959","t-82286","c-55320","c-78765"]},{"sentence_id":"s4","text":"Vilniaus pilyje ji savo lėšomis pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams, o Aleksandras jai iki gyvos galvos užrašė Mogiliavo pilį prie Dniepro su priklausančiomis valdomis, žmonėmis ir pajamomis.","support_ids":["t-54961","t-82284","c-55322","c-78769"]},{"sentence_id":"s5","text":"Pateikti šaltiniai neleidžia tiksliai nustatyti Elenos gyvenimo datų ar viso jos politinio vaidmens.","support_ids":[]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai nurodo, kad Elena buvo karalienė ir Aleksandro žmona; laikotarpį patvirtina šaltiniuose minimi 1500 m. įvykiai."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad Aleksandras, totoriams priartėjus prie Lydos ir jam sunkiai susirgus, buvo nugabentas į Vilnių, lydimas karalienės Elenos."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina prekybinių ryšių su Maskva, Naugardu, Pskovu ir Tvere plėtrą bei naujų užeigų steigimą pirkliams."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Elenos lėšomis pastatytą namą bojarinams ir pasiuntiniams bei Mogiliavo pilies su valdomis, žmonėmis ir pajamomis suteikimą iki gyvos galvos."},{"sentence_id":"s5","supported":false,"reason":"Sakinys neturi support_ids, o pateikti šaltiniai priešingai nurodo konkrečią Elenos mirties datą — 1513 m.; teiginys apie viso politinio vaidmens nenustatomumą taip pat nepagrįstas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-54959","t-82284","c-55320","c-78769"]},{"sentence_id":"s2","supported":true,"support_ids":["t-54960","c-55321"]},{"sentence_id":"s3","supported":true,"support_ids":["t-54959","t-82286","c-55320","c-78765"]},{"sentence_id":"s4","supported":true,"support_ids":["t-54961","t-82284","c-55322","c-78769"]},{"sentence_id":"s5","supported":false,"support_ids":[]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_dukte","direction":"outbound","target":"objektai/asmenys/Vasiljevičius (Maskvos valdovas)","claim_id":"t-54956","confidence":0.92},{"predicate":"buvo_zmona","direction":"outbound","target":"objektai/asmenys/Aleksandras Jogailaitis","claim_id":"t-82176","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Maskva","claim_id":"t-87198","confidence":0.55},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Polockas","claim_id":"t-210521","confidence":0.74},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-54957","confidence":0.9},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Vitebskas","claim_id":"t-210521","confidence":0.74},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-82287","confidence":0.94},{"predicate":"pastate","direction":"outbound","target":"objektai/daiktai/Namas","claim_id":"t-174214","confidence":0.95},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Losičiai","claim_id":"t-82285","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Mogiliavas","claim_id":"t-54962","confidence":0.86},{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Žygimantas Senasis","claim_id":"t-173331","confidence":0.68},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Mogiliavo pilis","claim_id":"t-86089","confidence":0.82},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Mogiliavas","claim_id":"t-88257","confidence":0.88},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-88437","confidence":0.64},{"predicate":"vede","direction":"inbound","target":"objektai/asmenys/Aleksandras Jogailaitis","claim_id":"t-54942","confidence":0.86},{"predicate":"vede","direction":"inbound","target":"objektai/asmenys/Aleksandras","claim_id":"t-54956","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: fc1e93db7e890ba5
+object_page_generated_at: '2026-09-19T09:42:24+00:00'
+object_page_source_checked_at: '2026-09-19T09:42:24+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Elena (vyskupas, XV–XVI a.): Elena – karalienė ir Aleksandro žmona, XV–XVI a. sandūroje veikusi Lietuvos valdovo aplinkoje. Ji lydėjo sunkiai susirgusį…'
+object_page_seo_input_hash: dffc4bf17a981652b036a8269460f38b89f8ba76769d2d944679de4eb4b0fd85
+object_page_seo_generated_at: '2026-09-19T09:42:24+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Elena (vyskupas, XV–XVI a.)
 

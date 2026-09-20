@@ -1,13 +1,13 @@
 ---
 tipas: saltinis
-pavadinimas: 'Simono Grunau kronika'
+pavadinimas: Simono Grunau kronika
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1500 m.'
-  - '1699 m.'
+  - 1500 m.
+  - 1699 m.
 date_start: '1500'
 date_end: '1699'
 sukurta: ''
@@ -15,20 +15,30 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XV'
-  - 'XVII'
+  - XV
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T13:58:05+00:00","source_checked_at":"2026-09-19T13:58:05+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e800f87d87eb1405832cbdd2","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"Simonas Grunau","context":"Šaltinis įvardijamas kaip Simono Grunau kronika.","support_ids":["t-23409","c-175825","t-207566","c-190183"],"source_refs":[{"kind":"internal_claim","claim_id":"t-23409","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-207566","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-175825","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Atsikirsdami kritikams romantikai pasitelkdavo XVI–XVII a. Prū- sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die- vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus. Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų ir griausmų dievas, o trečiasis – javų dievas Patrimpas. Aprašomas šių dievų kultas ir kulto tarnų hierarchija, vaidilutės."},{"kind":"evidence","evidence_id":"c-190183","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"rsdami romantikai pasitelkdavo XVI–XVII a. Prūsijos šaltinius, kuriuose kro- nikininkai tiesiai kalbėjo apie prūsų dievus. Plačiausiai apie prūsų dievų panteoną papa- sakota Simono Grunau kronikoje. Pasak"}],"status":"published","conflict_status":"clear"},{"trait_id":"3f7bbca5bb7430a69cd4af99","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Kronika","context":"Šaltinis tiesiogiai įvardijamas kaip kronika.","support_ids":["t-23409","c-175825","t-207566","c-190183"],"source_refs":[{"kind":"internal_claim","claim_id":"t-23409","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-207566","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"},{"kind":"evidence","evidence_id":"c-175825","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Atsikirsdami kritikams romantikai pasitelkdavo XVI–XVII a. Prū- sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die- vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus. Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų ir griausmų dievas, o trečiasis – javų dievas Patrimpas. Aprašomas šių dievų kultas ir kulto tarnų hierarchija, vaidilutės."},{"kind":"evidence","evidence_id":"c-190183","source":"darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md","quote":"rsdami romantikai pasitelkdavo XVI–XVII a. Prūsijos šaltinius, kuriuose kro- nikininkai tiesiai kalbėjo apie prūsų dievus. Plačiausiai apie prūsų dievų panteoną papa- sakota Simono Grunau kronikoje. Pasak"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Simono Grunau kronika – istorijos šaltinis, kuriame pasakojama apie Rikojotą, prūsų dievų kulto centrą. Ši vietovė apibūdinama kaip erdvė, kurioje augo žiemą ir vasarą žaliuojantis ąžuolas, o po juo buvo įsikūrusi prūsų dievų šventykla. Šventykla vaizduojama papuošta trimis stabais, susijusiais su trimis prūsų dievais: Pakulu, Perkūnu ir Patrimpu. Kronikoje taip pat aprašomas šių dievų kultas, kulto tarnų hierarchija ir vaidilutės, todėl Rikojotas pateikiamas ne vien kaip konkreti vietovė, bet ir kaip religinės tvarkos bei apeigų centras. Išskirtinę šio pasakojimo detalę sudaro amžinai žaliuojantis ąžuolas, po kuriuo esanti šventykla tampa viso kulto vaizdinio ašimi.","sentences":[{"sentence_id":"s1","text":"Simono Grunau kronika – istorijos šaltinis, kuriame pasakojama apie Rikojotą, prūsų dievų kulto centrą.","support_ids":["t-23411","c-175825"]},{"sentence_id":"s2","text":"Ši vietovė apibūdinama kaip erdvė, kurioje augo žiemą ir vasarą žaliuojantis ąžuolas, o po juo buvo įsikūrusi prūsų dievų šventykla.","support_ids":["t-23412","c-175825"]},{"sentence_id":"s3","text":"Šventykla vaizduojama papuošta trimis stabais, susijusiais su trimis prūsų dievais: Pakulu, Perkūnu ir Patrimpu.","support_ids":["t-23409","c-175825"]},{"sentence_id":"s4","text":"Kronikoje taip pat aprašomas šių dievų kultas, kulto tarnų hierarchija ir vaidilutės, todėl Rikojotas pateikiamas kaip religinės tvarkos bei apeigų centras.","support_ids":["t-23409","t-23411","c-175825"]},{"sentence_id":"s5","text":"Išskirtinę šio pasakojimo detalę sudaro amžinai žaliuojantis ąžuolas, po kuriuo esanti šventykla tampa viso kulto vaizdinio ašimi.","support_ids":["t-23412","c-175825"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta šaltiniu: Rikojotas įvardijamas kaip prūsų dievų kulto centras Simono Grunau kronikoje."},{"sentence_id":"s2","supported":true,"reason":"Šaltinyje tiesiogiai aprašomas žiemą ir vasarą žaliuojantis ąžuolas bei po juo įsikūrusi šventykla."},{"sentence_id":"s3","supported":true,"reason":"Šaltinyje tiesiogiai nurodoma, kad šventykla papuošta trimis stabais, vaizduojančiais Pakulą, Perkūną ir Patrimpą."},{"sentence_id":"s4","supported":false,"reason":"Kultas, kulto tarnų hierarchija ir vaidilutės šaltinyje minimi, tačiau išvada, kad Rikojotas yra religinės tvarkos bei apeigų centras, nėra tiesiogiai paremta."},{"sentence_id":"s5","supported":false,"reason":"Ąžuolas ir po juo esanti šventykla aprašomi tiesiogiai, tačiau teiginiai apie išskirtinumą ir vaizdinio ašį yra interpretaciniai, o ne tiesiogiai paremti."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-23411","c-175825"]},{"sentence_id":"s2","supported":true,"support_ids":["t-23412","c-175825"]},{"sentence_id":"s3","supported":true,"support_ids":["t-23409","c-175825"]},{"sentence_id":"s4","supported":true,"support_ids":["t-23409","t-23411","c-175825"]},{"sentence_id":"s5","supported":true,"support_ids":["t-23412","c-175825"]}],"verifier":"gpt-5.6-luna"},"quality":63,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 131e5a7c690029b0
+object_page_generated_at: '2026-09-19T13:58:05+00:00'
+object_page_source_checked_at: '2026-09-19T13:58:05+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '2'
+object_page_seo_description: 'Simono Grunau kronika – istorijos šaltinis, kuriame pasakojama apie Rikojotą, prūsų dievų kulto centrą. Ši vietovė apibūdinama kaip erdvė, kurioje augo žiemą…'
+object_page_seo_input_hash: 08b136a2853c433d0473e264a9b368f33d1133eb7bb1564362c478ce8a593e0d
+object_page_seo_generated_at: '2026-09-19T13:58:05+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Simono Grunau kronika
 

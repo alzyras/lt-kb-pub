@@ -83,9 +83,35 @@ function field(entry: EvidenceEntry, ...keys: string[]): string {
 }
 
 function citationIds(entry: EvidenceEntry): string[] {
-  return [...(entry.lists.get("pagrindžia") ?? entry.lists.get("pagrindzia") ?? [])]
-    .map((id) => id.replace(/^q-/i, "c-"))
-    .filter(Boolean)
+  return [
+    ...new Set(
+      [...(entry.lists.get("pagrindžia") ?? entry.lists.get("pagrindzia") ?? [])]
+        .map((id) => id.replace(/^q-/i, "c-"))
+        .filter(Boolean),
+    ),
+  ]
+}
+
+export function citationDisplayKey(entry: EvidenceEntry): string {
+  const normalize = (value: string) => value.normalize("NFKC").replace(/\s+/g, " ").trim()
+  const quote = citationQuote(entry, Number.MAX_SAFE_INTEGER)
+  if (!quote) return `id:${entry.id}`
+  return JSON.stringify([
+    normalize(field(entry, "šaltinis", "saltinis")),
+    normalize(field(entry, "puslapiai", "indeksas")),
+    normalize(quote),
+  ])
+}
+
+/** Collapse display duplicates while leaving every evidence record and ID intact. */
+export function uniqueCitations(entries: EvidenceEntry[]): EvidenceEntry[] {
+  const seen = new Set<string>()
+  return entries.filter((entry) => {
+    const key = citationDisplayKey(entry)
+    if (seen.has(key)) return false
+    seen.add(key)
+    return true
+  })
 }
 
 function summaryFromMarkdown(markdown: string): string {

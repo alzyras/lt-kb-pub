@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Jėzuitai (grupė)'
-identifikacija: 'grupė'
+pavadinimas: Jėzuitai (grupė)
+identifikacija: grupė
 variantai:
-  - 'Jėzuitai'
+  - Jėzuitai
 aliases:
-  - 'Jėzuitai'
+  - Jėzuitai
 saltiniai:
   - 'Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
@@ -17,12 +17,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Jėzuitai","url":"https://lt.wikipedia.org/wiki/J%C4%97zuitai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"jėzuitai","url":"https://www.vle.lt/straipsnis/jezuitai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:51:43+00:00","source_checked_at":"2026-09-19T19:51:43+00:00","counts":{"relations":0,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Jėzuitai","url":"https://lt.wikipedia.org/wiki/J%C4%97zuitai","publisher":"Vikipedija","language":"lt","article_id":"39664","revision_id":"7846877","published_at":"2026-05-29T17:24:37Z","version_pk":"","content_hash":"f1ebd0120634f429821ef266d44fc29c31a0041485db6b329cfc76e8482820d0","retrieved_at":"2026-09-19T19:50:16+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=J%C4%97zuitai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"39664"}},"intro":"Jėzaus draugija (lot. Societas Jesu, sutrumpintai SJ), žinomi kaip jėzuitai – Romos katalikų vienuolių ordinas, 1540 m. Ignaco Lojolos ir jo sekėjų įkurtas Romoje. Ordinas tiesiogiai pavaldus popiežiui. Jėzaus draugija – tarptautinė katalikiška kunigų ir brolių bendruomenė, bendradarbiaujanti su pasauliečiais. Jėzuitai visame pasaulyje kuruoja dešimtis aukštųjų ir šimtus vidurinių mokyklų. Bent 50 kalbų leidžia periodinius leidinius ir knygas.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Jėzuitai","url":"https://lt.wikipedia.org/wiki/J%C4%97zuitai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"jėzuitai","url":"https://www.vle.lt/straipsnis/jezuitai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/J%C4%97zuitai","https://www.vle.lt/straipsnis/jezuitai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"6731f7e8d4af92b81eba2921","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Kaupė savo padalinių archyvinę medžiagą centriniame archyve Romoje.","context":"Šaltinis teigia, kad jėzuitai ypač gerai kaupė šią medžiagą; nenurodytas konkretus laikotarpis.","support_ids":["t-201847","c-185194"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201847","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"},{"kind":"evidence","evidence_id":"c-185194","source":"darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md","quote":"Ypač gerai savo padalinių archyvinę medžiagą kaupė jėzuitai savo cen- triniame archyve Archiwum Romanum Societatis lesu Romoje. Šiame archyve yra ir Kauno jėzuitų istorijos medžiagos, dar išsamiai nepanaudotos istorijos mokslo. Pabrėžiant lemiamą rašytinių šaltinių svarbą tiriant XV-XVIII a."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d2e93900799c07a41a80bb68","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"XVIII a. aktyviausiai dalyvavo Lietuvos viešajame gyvenime.","context":"T. šaltinyje jėzuitų kongregacija minima kartu su pijorų kongregacija.","support_ids":["t-208032","c-190808"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208032","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md"},{"kind":"evidence","evidence_id":"c-190808","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md","quote":"XVIII a. Lietuvos viešajame gyvenime aktyviausiai dalyvavo jėzuitų ir pijorų kongregacijos, o jų konkurencinė sąveika skatino inovacijas abiejų vienuolijų mokymo programose."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c531a9847afc123b8a14a391","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Konkuravo su pijorais; ši konkurencinė sąveika skatino abiejų vienuolijų mokymo programų inovacijas.","context":"XVIII a. Lietuvos viešajame gyvenime; tai šaltinio autoriaus apibūdinimas.","support_ids":["t-208032","c-190808"],"source_refs":[{"kind":"internal_claim","claim_id":"t-208032","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md"},{"kind":"evidence","evidence_id":"c-190808","source":"darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md","quote":"XVIII a. Lietuvos viešajame gyvenime aktyviausiai dalyvavo jėzuitų ir pijorų kongregacijos, o jų konkurencinė sąveika skatino inovacijas abiejų vienuolijų mokymo programose."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"74ee11319fea5481a8891f00","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Apaštalavo Žemaitijoje ir 1583 m. aptiko didelių akmenų garbinimo pėdsakų.","context":"1583 m.; taip teigia T. Narbutas.","support_ids":["t-213954","c-194695"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213954","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194695","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"1583 metais jėzuitai, apašta­ laudami Žemaitijoje, aptiko tam tikrų didelių akmenų garbinimo pėdsakus2."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":8,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ddbf064b3e9ee52b
+object_page_generated_at: '2026-09-19T19:51:43+00:00'
+object_page_source_checked_at: '2026-09-19T19:51:43+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '4'
+object_page_seo_description: 'Jėzuitai (grupė): Ypač gerai savo padalinių archyvinę medžiagą kaupė jėzuitai savo centriniame archyve Archiwum Romanum Societatis lesu Romoje. Po trejų metų…'
+object_page_seo_input_hash: 6521a3959b3d5c23055c65319f345629e1557ed450bf7dec87437dde47818cb1
+object_page_seo_generated_at: '2026-09-19T19:51:43+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jėzuitai (grupė)
 

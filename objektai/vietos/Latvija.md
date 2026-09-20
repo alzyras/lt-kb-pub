@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Latvija'
+pavadinimas: Latvija
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1202 m.'
-  - '1920 m.'
-  - '2026 m.'
+  - 1202 m.
+  - 1920 m.
+  - 2026 m.
 date_start: '1202'
 date_end: '2026'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - vieta
   - kraštas
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2ff0cccae2d958a3058366a0"
-canonical_name: "Latvija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Latvija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2ff0cccae2d958a3058366a0
+canonical_name: Latvija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Latvija
 sameAs: []
-canonical_biography: "26 d. ties Kuršėnais iš Latvijos perėjo į Lietuvos teritoriją stipri jungtinė vo. Iš 8-tos ir 10-tos vokiečių armijų likučių Latvijoje buvo sudaryta tam reikalui speciali ka."
+canonical_biography: 26 d. ties Kuršėnais iš Latvijos perėjo į Lietuvos teritoriją stipri jungtinė vo. Iš 8-tos ir 10-tos vokiečių armijų likučių Latvijoje buvo sudaryta tam reikalui speciali ka.
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Latvija","url":"https://lt.wikipedia.org/wiki/Latvija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Latvija","url":"https://www.vle.lt/straipsnis/latvija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:11:10+00:00","source_checked_at":"2026-09-19T20:11:10+00:00","counts":{"relations":10,"gallery":0,"sources":6},"featured_claim_ids":["t-183790","t-181429","t-210538","t-215965","t-216768"],"featured_claims":[{"claim_id":"t-183790","text":"1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","evidence_ids":["c-43566"]},{"claim_id":"t-181429","text":"SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-164983"]},{"claim_id":"t-210538","text":"Latvija buvo trečioji, labiausiai į šiaurę nutolusi lietuvių genties sritis.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196175"]},{"claim_id":"t-215965","text":"Narbutas rašo Revelio šv. Olafo bažnyčioje matęs vėliavą su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-197802"]},{"claim_id":"t-216768","text":"Latvijos kaimiečiai, išlaikę tą mitą, dar ir dabar, išvydę šiaurės pašvaiste, sako: Johdi Kaujahs, dvasios kaunasi.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-197752"]}],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Latvija","url":"https://lt.wikipedia.org/wiki/Latvija","publisher":"Vikipedija","language":"lt","article_id":"952","revision_id":"7910799","published_at":"2026-08-24T21:51:52Z","version_pk":"","content_hash":"151f20b52be14858b2c98e59accf9141c570153cb579c59c2e89d42c5c121a53","retrieved_at":"2026-09-19T20:08:58+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Latvija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"952"}},"intro":"Latvija (oficialiai Latvijos Respublika; latv. Latvijas Republika) – valstybė Europos šiaurės rytuose, Baltijos jūros rytinėje pakrantėje. Latvija yra viena iš Baltijos šalių kartu su Estija (bendros sienos ilgis 343 km) ir Lietuva (588 km), kurios yra jos kaimynės iš šiaurės ir pietų. Rytuose Latvija ribojasi su Rusija (276 km), o pietryčiuose su Baltarusija (141 km). Jūros siena Latvija ribojasi su Švedija. Latvija priskiriama vidutinių platumų klimato zonai. Sostinė ir didžiausias šalies miestas yra Ryga. Latvija yra unitarinė parlamentinė respublika, kuri administraciniu atžvilgiu skirstoma į 7 valstybės miestus ir 35 savivaldybes. Latvija nuo 1991 m. rugsėjo 17 d. yra Jungtinių Tautų, nuo 2004 m. balandžio 2 d. NATO, o nuo tų pačių metų gegužės 1-osios, kartu su Lietuva ir Estija, Europos Sąjungos narė. Nuo 2014 m. valstybė priklauso euro zonai. 2016 m. tapo OECD nare. Latvijos nacionaliniai simboliai – baltoji kielė, dvitaškė boružė, baltoji ramunė, liepa ir ąžuolas.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Latvija","url":"https://lt.wikipedia.org/wiki/Latvija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Latvija","url":"https://www.vle.lt/straipsnis/latvija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Latvija","https://www.vle.lt/straipsnis/latvija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"13bdd9d4f981d08d1a561e67","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Latvijoje valstiečio ūkio ploto vidurkis buvo 21,0 ha.","context":"Palyginimas su Lietuva ir Estija; nurodyta 2013 m. leidinyje, remiantis šaltinio autorių pateikiamais istoriniais duomenimis.","support_ids":["t-181428","c-164981"],"source_refs":[{"kind":"internal_claim","claim_id":"t-181428","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-164981","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lyginant su Latvija ir Estija, dvarininkų žemėvalda Lietuvoje buvo perpus mažesnė, o dvarai mažesni 5–6 kartus, valstiečių ūkio ploto vidurkis Lietuvoje – 15,2 ha (Latvijoje – 21,0, Estijoje 29,4 ha)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ea1bca416f9c19af493b7552","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Latvija apibūdinama kaip trečioji, labiausiai į šiaurę nutolusi lietuvių genties sritis.","context":"Teodoro Narbuto istorinis apibūdinimas; autoriaus teiginys pateiktas 1995 m. leidinyje.","support_ids":["t-210538","c-196175"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210538","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196175","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Trečia lietuvių genties sritis, labiausiai nuto­ lusi į šiaurę, vadinasi Latvija, o joje gyvenantys žmo­ nės — latviai"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Latvija šiame šaltinių rinkinyje apibūdinama kaip trečioji, labiausiai į šiaurę nutolusi lietuvių genties sritis, kurioje gyveno latviai. 1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio, todėl Latvijos teritorija buvo išvalyta nuo bolševikų. Vėlesniu laikotarpiu, autorių vertinimu, SSRS unifikacinė politika gerokai nusmukdė Latvijos ir Estijos lygį, nors kartu leido Lietuvai juos pasivyti. Su Latvija siejama ir išskirtinė Revelio šv. Olafo bažnyčioje saugota vėliava su žalvariniu gaidžiu, laikyta pagonybės laikų radiniu, paimtu Latvijoje. Dar viena įdomi detalė – Latvijos kaimiečių posakis „Johdi Kaujahs“, tariamas išvydus šiaurės pašvaistę ir aiškinamas kaip dvasių kovos ženklas.","sentences":[{"sentence_id":"s1","text":"Latvija šiame šaltinių rinkinyje apibūdinama kaip trečioji, labiausiai į šiaurę nutolusi lietuvių genties sritis, kurioje gyveno latviai.","support_ids":["t-210538","c-196175"]},{"sentence_id":"s2","text":"1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio, todėl Latvijos teritorija buvo išvalyta nuo bolševikų.","support_ids":["t-183790","c-43566"]},{"sentence_id":"s3","text":"Vėlesniu laikotarpiu, autorių vertinimu, SSRS unifikacinė politika gerokai nusmukdė Latvijos ir Estijos lygį, nors kartu leido Lietuvai juos pasivyti.","support_ids":["t-181429","c-164983"]},{"sentence_id":"s4","text":"Su Latvija siejama ir išskirtinė Revelio šv. Olafo bažnyčioje saugota vėliava su žalvariniu gaidžiu, laikyta pagonybės laikų radiniu, paimtu Latvijoje.","support_ids":["t-215965","c-197802"]},{"sentence_id":"s5","text":"Dar viena įdomi detalė – Latvijos kaimiečių posakis „Johdi Kaujahs“, tariamas išvydus šiaurės pašvaistę ir aiškinamas kaip dvasių kovos ženklas.","support_ids":["t-216768","c-197752"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta nurodytais šaltiniais: Latvija įvardijama kaip trečioji, labiausiai į šiaurę nutolusi lietuvių genties sritis, kurioje gyveno latviai."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1920 m. sausio pradžios veiksmus Daugpilyje ir Latvijos teritorijos išvalymą nuo bolševikų."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad SSRS unifikacinė politika nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai mini Revelio šv. Olafo bažnyčioje matytą vėliavą su žalvariniu gaidžiu, laikytą pagonybės laikų radiniu, paimtu Latvijoje."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai patvirtina Latvijos kaimiečių posakį „Johdi Kaujahs“, tariamą išvydus šiaurės pašvaistę ir aiškinamą kaip dvasių kovą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-210538","c-196175"]},{"sentence_id":"s2","supported":true,"support_ids":["t-183790","c-43566"]},{"sentence_id":"s3","supported":true,"support_ids":["t-181429","c-164983"]},{"sentence_id":"s4","supported":true,"support_ids":["t-215965","c-197802"]},{"sentence_id":"s5","supported":true,"support_ids":["t-216768","c-197752"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Kalavijuočių ordinas","claim_id":"t-175530","confidence":0.86},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Lybiai","claim_id":"t-96812","confidence":0.74},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Latvių Tautos Taryba","claim_id":"t-72361","confidence":0.74},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Baltijos valstybės","claim_id":"t-45354","confidence":0.75},{"predicate":"priklause","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-214072","confidence":0.78},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Livonija","claim_id":"t-212211","confidence":0.82},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/SSRS","claim_id":"t-26350","confidence":0.68},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Priekulė","claim_id":"t-42043","confidence":0.84},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Sovietų Sąjunga","claim_id":"t-22212","confidence":0.82},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/grupes/Sovietų Sąjunga","claim_id":"t-74923","confidence":0.96}],"timeline":[{"date":"1920 m.","label":"1920 m.","claimId":"t-181428"},{"date":"1920 m.","label":"ORiebiniai 1920 m.","claimId":"t-181431"},{"date":"1920 m.","label":"1920 m.","claimId":"t-183790"}],"support_disclosure":{"claims":8,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: fcf1c8b274de8dde
+object_page_generated_at: '2026-09-19T20:11:10+00:00'
+object_page_source_checked_at: '2026-09-19T20:11:10+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '4'
+object_page_seo_description: 'Latvija šiame šaltinių rinkinyje apibūdinama kaip trečioji, labiausiai į šiaurę nutolusi lietuvių genties sritis, kurioje gyveno latviai. 1920 m. sausio…'
+object_page_seo_input_hash: 0786c08f8f93194ace6e4cb5583b89c355600740200a58a9d8645473d6243e0a
+object_page_seo_generated_at: '2026-09-19T20:11:10+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Latvija
 

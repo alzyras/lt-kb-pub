@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Justinianas'
+pavadinimas: Justinianas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -15,19 +15,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8548fc0cb467c53619d9c34b"
-canonical_name: "Justinianas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Justinianas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8548fc0cb467c53619d9c34b
+canonical_name: Justinianas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Justinianas
 sameAs: []
-canonical_biography: "Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus. Imperatorius Justinianas šaltinyje siejamas su VI amžiumi, kai gyveno istorikas Prokopijus. Kai Roma antrąkart pateko Totilai, Justinianas surinko kariuomenę, kurioje greta longobardų ir persų buvo herulų."
+canonical_biography: 'Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus. Imperatorius Justinianas šaltinyje siejamas su VI amžiumi, kai gyveno istorikas Prokopijus. Kai Roma antrąkart pateko Totilai, Justinianas surinko kariuomenę, kurioje greta longobardų ir persų buvo herulų.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T04:41:24+00:00","source_checked_at":"2026-09-20T04:41:24+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"9d1838ba8efcbcaeb943a449","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Imperatorius, viešpatavęs Bizantijoje","context":"Albertas Vijūkas-Kojelavičius rašo, kad Justinianui viešpataujant Belizarijus naudojosi herulų pagalba; Teodoras Narbutas jį vadina imperatoriumi. VI amžius.","support_ids":["t-186121","c-169482","t-213689","c-196475"],"source_refs":[{"kind":"internal_claim","claim_id":"t-186121","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-213689","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-169482","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Tačiau didelė herulų da­ lis persikėlė iš Italijos į Grai- 493 m e ta i kiją, mat sutartys leido Bi­ zantijos imperatoriui kvies­ tis tą gentį į karo sąjungininkus. Štai, Justinianui vieš­ pataujant, herulų, vadovaujamų Getero, pagalba pasi­ naudojo Belizarijus, nugalėjęs persus. Kita jų dalis, pasikvietusi iš tėvynės kunigaikštį Datą, įsikūrė prie Dunojaus Noriko pasienyje."},{"kind":"evidence","evidence_id":"c-196475","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Žinios apie šį bendrinį pa­ vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­ ni estus, kalbėdamas apie karingus Odoakro vadovauja­ mus herulus, kilusius iš estų tautos. Sis istorikas gyveno imperatoriaus Justiniano laikais, arba VI amžiuje. Po trijų amžių Eginhartas**, Karolio Didžiojo biografas, apie estus rašo taip: „Prie šios įlankos (Baltijos jūros) gy­ vena daug genčių, būtent danai ir švedai, taip pat tie, kuriuos mes vadiname normanais, jos turi šiaurinę dalį ir visas ten esančias salas; į pietus yra slavai ir estai (Aisti vietoj Aesti), o už jų gyvena kitos tautos“6."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f4e2160daca50557172a3fff","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Surinko kariuomenę, kurioje buvo longobardų, persų ir herulų","context":"Teodoras Narbutas aprašo 552 m. kariuomenės sutelkimą Pado žemupyje Naršui vadovaujant, kai Roma antrąkart pateko Totilai.","support_ids":["t-212942","c-195936"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212942","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195936","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Taip pat ir Romai antrąkart pakliuvus į Totilos rankas, kai Justinianas surinko ka­ riuomenę, greta longobardų ir persų buvo herulų. Si ka­ riuomenė buvo sutelkta Pado žemupyje 552 metais Nar­ šui vadovaujant ir dalyvavo Taginos mūšyje; čia ir žuvo Totila. Nedaug herulų, gal išlikusių kažkur Rytų valsty­ bės provincijose po to, kai prieš keturiasdešimt metų bu­ vo išblaškyti, liko šiose vietose gyventi1."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Justinianas buvo Bizantijos imperatorius, siejamas su VI amžiumi. Jo valdymo laikotarpiu Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus, todėl herulai tapo svarbiais Bizantijos kariniais sąjungininkais. 552 metais, Romai antrąkart patekus į Totilos rankas, Justinianas surinko kariuomenę, kurioje, be longobardų ir persų, buvo ir herulų; Pado žemupyje sutelkta kariuomenė, vadovaujama Naršo, dalyvavo Taginos mūšyje, kuriame žuvo Totila. Po Justiniano mirties dalis herulų, vedama Alueto ir Filimunto, pasitraukė per Liguriją į Trakiją, ketindama toliau tarnauti imperatoriaus kariuomenėje.","sentences":[{"sentence_id":"s1","text":"Justinianas buvo Bizantijos imperatorius, siejamas su VI amžiumi.","support_ids":["t-186121","t-214802","c-169482","c-196475"]},{"sentence_id":"s2","text":"Jo valdymo laikotarpiu Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus, todėl herulai tapo svarbiais Bizantijos kariniais sąjungininkais.","support_ids":["t-186121","c-169482"]},{"sentence_id":"s3","text":"552 metais, Romai antrąkart patekus į Totilos rankas, Justinianas surinko kariuomenę, kurioje, be longobardų ir persų, buvo ir herulų; Pado žemupyje sutelkta kariuomenė, vadovaujama Naršo, dalyvavo Taginos mūšyje, kuriame žuvo Totila.","support_ids":["t-212942","t-215059","c-195936"]},{"sentence_id":"s4","text":"Po Justiniano mirties dalis herulų, vedama Alueto ir Filimunto, pasitraukė per Liguriją į Trakiją, ketindama toliau tarnauti imperatoriaus kariuomenėje.","support_ids":["t-196511","c-178739"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta: Justinianas siejamas su Bizantija ir VI amžiumi."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis patvirtina Belizarijaus pergalę, padedant Getero vadovaujamiems herulams, tačiau tiesiogiai nepatvirtina, kad dėl to herulai tapo svarbiais Bizantijos kariniais sąjungininkais."},{"sentence_id":"s3","supported":true,"reason":"Visi nurodyti faktai tiesiogiai paremti šaltiniu: Romos užėmimas, kariuomenės sudėtis, 552 metai, Naršo vadovavimas, Taginos mūšis ir Totilos žūtis."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta: po Justiniano mirties herulai, vedami Alueto ir Filimunto, per Liguriją pasitraukė į Trakiją tarnauti imperatoriaus kariuomenėje."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-186121","t-214802","c-169482","c-196475"]},{"sentence_id":"s2","supported":true,"support_ids":["t-186121","c-169482"]},{"sentence_id":"s3","supported":true,"support_ids":["t-212942","t-215059","c-195936"]},{"sentence_id":"s4","supported":true,"support_ids":["t-196511","c-178739"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f18c2422f2caab42
+object_page_generated_at: '2026-09-20T04:41:24+00:00'
+object_page_source_checked_at: '2026-09-20T04:41:24+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Justinianas buvo Bizantijos imperatorius, siejamas su VI amžiumi. Jo valdymo laikotarpiu Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus…'
+object_page_seo_input_hash: 09c94b5b3dc5cd7d582ce584146a2101ed69dec26e7612f75759ff83b7e8b1f7
+object_page_seo_generated_at: '2026-09-20T04:41:24+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Justinianas
 

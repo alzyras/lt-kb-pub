@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Frotonas III'
+pavadinimas: Frotonas III
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -14,19 +14,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f149a395a8c11eaca9b82bd6"
-canonical_name: "Frotonas III"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Frotonas III"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f149a395a8c11eaca9b82bd6
+canonical_name: Frotonas III
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Frotonas III
 sameAs: []
-canonical_biography: "Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. Teodoro Narbuto pasakojime Frotono III sūnus Fridleifas Rusioje augo pas Chunigardijos gimines ir susigrąžino Danijos sostą. Frotonas III kariavo su slavais, kurių karvedys Strunikas1 buvo nukautas."
+canonical_biography: 'Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. Teodoro Narbuto pasakojime Frotono III sūnus Fridleifas Rusioje augo pas Chunigardijos gimines ir susigrąžino Danijos sostą. Frotonas III kariavo su slavais, kurių karvedys Strunikas1 buvo nukautas.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:01:59+00:00","source_checked_at":"2026-09-20T06:01:59+00:00","counts":{"relations":2,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"12f07b1b0aca61052b64f0f4","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Danijos karalius","context":"Šaltinyje Frotonas III tiesiogiai įvardijamas Danijos karaliumi; pasakojama, kad jis kariavo su slavais, naudodamas laivyną ir sausumos kariuomenę.","support_ids":["t-215890","c-197403"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215890","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197403","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Danijos karalius Frotonas III su galingu laivynu ir sausumos kariuomene rengė žygius į Baltijos jūros ryti­ nes pakrantes. Pirmiausia jis kariavo su slavais, kurių karvedys Strunikas1 buvo nukautas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Frotonas III – šaltiniuose minimas Danijos karalius, siejamas su III krikščioniškosios eros amžiumi. Pasak Teodoro Narbuto pateikiamo pasakojimo, jis su galingu laivynu ir sausumos kariuomene rengė žygius į rytines Baltijos jūros pakrantes bei kariavo su slavais, kurių karvedys Strunikas buvo nukautas. Šaltinyje teigiama, kad Frotonas užėmė daug Rusios plotų ir anksčiau pavergtas šiaurės bei rytų žemes paskirstė skirtingiems valdytojams: Olimarui atiteko Holmogardija, Daganui – Hestija, Semba ir gretimos prūsų provincijos, o Onevui – Konogardijos žemė. Jo istorija taip pat siejama su sūnumi Fridleifu, kuris augo Rusioje pas motinos Chunigardijos giminaičius ir, padedamas rusnėnų karaliuko, susigrąžino Danijos sostą. Šie pasakojimo motyvai Frotoną vaizduoja kaip karingą valdovą, veikusį tarp Danijos, Rusios ir Baltijos regiono.","sentences":[{"sentence_id":"s1","text":"Frotonas III – šaltiniuose minimas Danijos karalius, siejamas su III krikščioniškosios eros amžiumi.","support_ids":["t-213803","c-196649","t-215890","c-197403"]},{"sentence_id":"s2","text":"Pasak Teodoro Narbuto pateikiamo pasakojimo, jis su galingu laivynu ir sausumos kariuomene rengė žygius į rytines Baltijos jūros pakrantes bei kariavo su slavais, kurių karvedys Strunikas buvo nukautas.","support_ids":["t-215890","c-197403"]},{"sentence_id":"s3","text":"Šaltinyje teigiama, kad Frotonas užėmė daug Rusios plotų ir anksčiau pavergtas šiaurės bei rytų žemes paskirstė skirtingiems valdytojams: Olimarui atiteko Holmogardija, Daganui – Hestija, Semba ir gretimos prūsų provincijos, o Onevui – Konogardijos žemė.","support_ids":["t-214360","c-195826"]},{"sentence_id":"s4","text":"Jo istorija taip pat siejama su sūnumi Fridleifu, kuris augo Rusioje pas motinos Chunigardijos giminaičius ir, padedamas rusnėnų karaliuko, susigrąžino Danijos sostą.","support_ids":["t-215682","c-195180"]},{"sentence_id":"s5","text":"Šie pasakojimo motyvai Frotoną vaizduoja kaip karingą valdovą, veikusį tarp Danijos, Rusios ir Baltijos regiono.","support_ids":["t-215890","c-197403","t-214360","c-195826","t-215682","c-195180"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai Frotono III valdymą sieja su III amžiumi ir įvardija jį Danijos karaliumi."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai nurodyta, kad Frotonas rengė žygius į rytines Baltijos pakrantes, kariavo su slavais, o Strunikas buvo nukautas."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina Rusios plotų užėmimą ir Holmogardijos, Hestijos, Sembos, prūsų provincijų bei Konogardijos paskyrimą nurodytiems valdytojams."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai nurodyta, kad Fridleifas augo Rusioje pas motinos Chunigardijos gimines ir, padedamas rusnėnų karaliuko, susigrąžino Danijos sostą."},{"sentence_id":"s5","supported":true,"reason":"Sakinys pagrįstai apibendrina šaltiniuose aprašytą Frotono karingą veiklą Danijos, Rusios ir Baltijos regionuose."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-213803","c-196649","t-215890","c-197403"]},{"sentence_id":"s2","supported":true,"support_ids":["t-215890","c-197403"]},{"sentence_id":"s3","supported":true,"support_ids":["t-214360","c-195826"]},{"sentence_id":"s4","supported":true,"support_ids":["t-215682","c-195180"]},{"sentence_id":"s5","supported":true,"support_ids":["t-215890","c-197403","t-214360","c-195826","t-215682","c-195180"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Danija","claim_id":"t-214540","confidence":0.9},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Slavai","claim_id":"t-214540","confidence":0.93}],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 947fd10e52108eb2
+object_page_generated_at: '2026-09-20T06:01:59+00:00'
+object_page_source_checked_at: '2026-09-20T06:01:59+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'Frotonas III – šaltiniuose minimas Danijos karalius, siejamas su III krikščioniškosios eros amžiumi. Pasak Teodoro Narbuto pateikiamo pasakojimo, jis su…'
+object_page_seo_input_hash: 4782e1c50611093325b3034e1d20009a02ef546d1953fef52659615e2e910836
+object_page_seo_generated_at: '2026-09-20T06:01:59+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Frotonas III
 

@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mečislovas'
+pavadinimas: Mečislovas
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -15,19 +15,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8db73004bcb5be18721119b5"
-canonical_name: "Mečislovas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mečislovas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8db73004bcb5be18721119b5
+canonical_name: Mečislovas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mečislovas
 sameAs: []
-canonical_biography: "Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 metų. Pasakoja, jog Vladimiras, norėdamas atsiženklinti karėmis, būk kariavęs su Mečislovu, lenkų vieš pačiu, kuriam atėmęs piles Červenę, Peremyšlį Raus vuosiuose Guduose."
+canonical_biography: 'Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 metų. Pasakoja, jog Vladimiras, norėdamas atsiženklinti karėmis, būk kariavęs su Mečislovu, lenkų vieš pačiu, kuriam atėmęs piles Červenę, Peremyšlį Raus vuosiuose Guduose.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:06:27+00:00","source_checked_at":"2026-09-20T10:06:27+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"cc7c35fe4fe7c13b58a46578","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Pasidavė lepūniškam ištižimui.","context":"Teodoras Narbutas taip vertina Mečislovą, neatsižvelgusį į apsuptą šalį, įniršusius kaimynus ir vidaus grupuotes, nusistačiusias prieš jį.","support_ids":["t-205166","c-188119"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205166","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188119","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Mirus narsiam ir išmintingam tėvui, Lenkijos sostas atiteko .sūnui, kuriam prigimtis neskyrė būti valdovu, bet paveldėjo jis didžiulę ¡ką tik sukurtą karalystę, sulipdytą iš įvairių sričių, todėl ir karalius jai buvo reikalingas toks, kuris ir riteriško šaunumo nestokotų, ir ¡būtų pajėgus pakelti krašto valdžios naštą. Mečislovas, šito nepaisyda­ mas ir neatsižvelgdamas į tai, kad šalis apsupta įniršusių kaimynų ir net pačioje šalyje yra grupuočių, nusistačiusių prieš jį ir prieš gražų visų sutarimą, pasidavė lepūniškam ištižimui."}],"status":"published","conflict_status":"clear"},{"trait_id":"bbf0630fb32d283af619cc4a","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lenkų kunigaikštis.","context":"Teodoras Narbutas Mečislovą įvardija Boleslovo Narsiojo tėvu ir lenkų kunigaikščiu.","support_ids":["t-212458","c-194384"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212458","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194384","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"222 Tai paminėję, pereikime prie rašytinių liudijimų, ku­ rie įrodo, jog Nemuno žemupyje iš tikrųjų buvęs Rusia vadinamas kraštas. Muratoris išsaugojo donaeiją apašta­ liškajam sostui; ją sudarė lenkų kunigaikštis, pasivadinęs Misica. Tai buvo Boleslovo Narsiojo tėvas Mečislovas, valdęs nuo 964 iki 999 metų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"02b17f17e80a29b625dd22c6","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Valdė nuo 964 iki 999 metų.","context":"Teodoras Narbutas nurodo Mečislovo valdymo laikotarpį.","support_ids":["t-215361","c-194384"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215361","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194384","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"222 Tai paminėję, pereikime prie rašytinių liudijimų, ku­ rie įrodo, jog Nemuno žemupyje iš tikrųjų buvęs Rusia vadinamas kraštas. Muratoris išsaugojo donaeiją apašta­ liškajam sostui; ją sudarė lenkų kunigaikštis, pasivadinęs Misica. Tai buvo Boleslovo Narsiojo tėvas Mečislovas, valdęs nuo 964 iki 999 metų."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Mečislovas – lenkų kunigaikštis ir valdovas, Narbuto siejamas su ankstyvąja Lenkijos karalystės istorija. Anot pateikto šaltinio, jis valdė nuo 964 iki 999 metų, taigi jo veikla apima dešimtmečius, kai valstybės valdovui teko telkti įvairias sritis. Mečislovas taip pat nurodomas kaip Boleslovo Narsiojo tėvas, todėl jo reikšmė siejama ir su valdžios tęstinumu. Kitas pasakojimas teigia, kad Vladimiras kariavo su Mečislovu ir iš jo atėmė Červenę bei Peremyšlį Rausvuosiuose Guduose. Šis epizodas išryškina Mečislovą kaip valdovą, įtrauktą į sudėtingus regiono karinius konfliktus, nors pateikti šaltiniai neleidžia plačiau apibūdinti jo valdymo politikos ar gyvenimo aplinkybių.","sentences":[{"sentence_id":"s1","text":"Mečislovas – lenkų kunigaikštis ir valdovas, Narbuto siejamas su ankstyvąja Lenkijos karalystės istorija.","support_ids":["t-212458","c-194384","t-205166","c-188119"]},{"sentence_id":"s2","text":"Anot pateikto šaltinio, jis valdė nuo 964 iki 999 metų, taigi jo veikla apima dešimtmečius, kai valstybės valdovui teko telkti įvairias sritis.","support_ids":["t-215361","c-194384","t-205166","c-188119"]},{"sentence_id":"s3","text":"Mečislovas taip pat nurodomas kaip Boleslovo Narsiojo tėvas, todėl jo reikšmė siejama ir su valdžios tęstinumu.","support_ids":["t-212458","c-194384"]},{"sentence_id":"s4","text":"Kitas pasakojimas teigia, kad Vladimiras kariavo su Mečislovu ir iš jo atėmė Červenę bei Peremyšlį Rausvuosiuose Guduose.","support_ids":["t-201014","c-184364"]},{"sentence_id":"s5","text":"Šis epizodas išryškina Mečislovą kaip valdovą, įtrauktą į sudėtingus regiono karinius konfliktus, nors pateikti šaltiniai neleidžia plačiau apibūdinti jo valdymo politikos ar gyvenimo aplinkybių.","support_ids":["t-201014","c-184364","t-205166","c-188119"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai nurodo Mečislovą kaip lenkų kunigaikštį ir sieja jį su Narbuto aprašoma Lenkijos istorija."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo valdymo laikotarpį 964–999 m. ir aprašo įvairių sričių sudarytą karalystę bei valdovo pareigas."},{"sentence_id":"s3","supported":false,"reason":"Tėvystė tiesiogiai patvirtinta, tačiau teiginys apie reikšmę valdžios tęstinumui yra interpretacinė išvada, kurios šaltinis tiesiogiai neformuluoja."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai, nors pasakojimo forma ir su abejonę reiškiančiu „būk“, teigia, kad Vladimiras kariavo su Mečislovu ir atėmė Červenę bei Peremyšlį."},{"sentence_id":"s5","supported":false,"reason":"Pirmoji dalis yra interpretacinė išvada iš vieno epizodo, o teiginys, kad šaltiniai neleidžia plačiau apibūdinti jo valdymo ar gyvenimo, nėra tiesiogiai paremtas nurodytais support_ids."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-212458","c-194384","t-205166","c-188119"]},{"sentence_id":"s2","supported":true,"support_ids":["t-215361","c-194384","t-205166","c-188119"]},{"sentence_id":"s3","supported":true,"support_ids":["t-212458","c-194384"]},{"sentence_id":"s4","supported":true,"support_ids":["t-201014","c-184364"]},{"sentence_id":"s5","supported":true,"support_ids":["t-201014","c-184364","t-205166","c-188119"]}],"verifier":"gpt-5.6-luna"},"quality":53,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 292bfd6c9a36533d
+object_page_generated_at: '2026-09-20T10:06:27+00:00'
+object_page_source_checked_at: '2026-09-20T10:06:27+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Mečislovas – lenkų kunigaikštis ir valdovas, Narbuto siejamas su ankstyvąja Lenkijos karalystės istorija. Anot pateikto šaltinio, jis valdė nuo 964 iki 999…'
+object_page_seo_input_hash: 86b413bc31100b76f96de9a3c1c8277fca677d8678f82f6305a53f05f3b1197b
+object_page_seo_generated_at: '2026-09-20T10:06:27+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mečislovas
 

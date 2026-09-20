@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Josifas Stalinas'
+pavadinimas: Josifas Stalinas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1939 m.'
-  - '1972 m.'
+  - 1939 m.
+  - 1972 m.
 date_start: '1939'
 date_end: '1972'
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - asmuo
   - kunigas
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes:
-  - 'modernioji Lietuva'
+  - modernioji Lietuva
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4de06b30d09e12f2921beafe"
-canonical_name: "Josifas Stalinas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Josifas Stalinas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4de06b30d09e12f2921beafe
+canonical_name: Josifas Stalinas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Josifas Stalinas
 sameAs: []
-canonical_biography: "Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J."
+canonical_biography: 'Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J.'
+external_sources_json: '[{"title":"Josifas Stalinas","url":"https://lt.wikipedia.org/wiki/Josifas_Stalinas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T13:04:04+00:00","source_checked_at":"2026-09-19T13:04:04+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Josifas Stalinas","url":"https://lt.wikipedia.org/wiki/Josifas_Stalinas","publisher":"Vikipedija","language":"lt","article_id":"2611","revision_id":"7857352","published_at":"2026-06-15T17:31:05Z","version_pk":"","content_hash":"97e9fe3b614a25fee269e77239a665b0bbfb1e1b3eb53d3798fe0272667f98fc","retrieved_at":"2026-09-19T13:03:16+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Josifas_Stalinas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"2611"}},"intro":"Josifas Stalinas (nuo rus. сталь – „plienas“; 1879 m. gruodžio 18 d. Goryje, Gruzijoje – 1953 m. kovo 5 d. Maskvoje, Kuncevo viloje; tikroji pavardė Džiugašvilis, gruz. იოსებ ჯუღაშვილი, rus. Иосиф Виссарионович Джугашвили-Сталин) – Tarybų Sąjungos politinis veikėjas. Jis užėmė TSRS Komunistų partijos generalinio sekretoriaus (1922–1952) ir TSRS Ministrų Tarybos pirmininko pareigas (1941–1953). Stalinas politinę galią valstybėje galutinai konsolidavo ir vienvaldžiu diktatoriumi tapo XX a. 4 deš.","original_intro":"","translation_status":"native","infobox":[{"code":"positions","label":"Pareigos","value":"TSRS generalinis sekretorius ir Ministrų Tarybos pirmininkas; Tarybų Sąjungos komunistų partijos generalinis sekretorius; TSRS Ministrų Tarybos Pirmininkas","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"~1878 m. gruodžio 18 d.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"border|20px Goris, Rusijos imperija","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1953 m. gruodžio 5 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"border|20px Maskva, Rusijos TFSR, Sovietų Sąjunga","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"1961 m. spalio 31 d. · Nekropolyje prie Kremliaus sienos","source":"wikipedia_infobox"},{"code":"nationality","label":"Tautybė","value":"gruzinas","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Josifas Stalinas","url":"https://lt.wikipedia.org/wiki/Josifas_Stalinas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Josifas_Stalinas"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Maskva","claim_id":"t-101653","confidence":0.65}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 023b504b22e803a3
+object_page_generated_at: '2026-09-19T13:04:04+00:00'
+object_page_source_checked_at: '2026-09-19T13:04:04+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Josifas Stalinas: Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J.'
+object_page_seo_input_hash: cb139d5ec5a395f3552d1143c146bef6c931c26b2e684a1af7fb52c8d93aa4dd
+object_page_seo_generated_at: '2026-09-19T13:04:04+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Josifas Stalinas
 

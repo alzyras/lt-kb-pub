@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Liudvikas iš Libencelės'
+pavadinimas: Liudvikas iš Libencelės
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1294 m.'
-  - '1300 m.'
+  - 1294 m.
+  - 1300 m.
 date_start: '1294'
 date_end: '1300'
 sukurta: ''
@@ -15,28 +15,40 @@ tags:
   - karalius
   - pilis
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7303cb461320335f91a83163"
-canonical_name: "Liudvikas iš Libencelės"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Liudvikas iš Libencelės"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7303cb461320335f91a83163
+canonical_name: Liudvikas iš Libencelės
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Liudvikas iš Libencelės
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių. Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai. Dusburgietis teigia, kad siekdamas šio tikslo, subūrė daug brolių bei kitų karių; kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų lyčių sūduvių."
+canonical_biography: 'Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių. Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai. Dusburgietis teigia, kad siekdamas šio tikslo, subūrė daug brolių bei kitų karių; kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų lyčių sūduvių.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:43:21+00:00","source_checked_at":"2026-09-19T21:43:21+00:00","counts":{"relations":4,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7d89790aa9561fb9dae437dc","canonical_code":"person.abilities","label":"Gebėjimai","group":"Asmens veikla","value":"Nuo jaunystės įgudęs kariauti.","context":"Petras Dusburgietis, Prūsijos žemės kronika; apibūdinimas pateiktas pasakojant apie Liudviką iš Libencelės.","support_ids":["t-224388","c-202244"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224388","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202244","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių. Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."}],"status":"published","conflict_status":"clear"},{"trait_id":"ac26c999fe354175b712577d","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Drąsus.","context":"Petras Dusburgietis teigia, kad Liudvikas buvo toks pat drąsus kaip Skomantas; tai autoriaus pateiktas vertinimas pasakojime apie Liudviko nelaisvę.","support_ids":["t-224388","c-202244"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224388","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202244","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių. Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."}],"status":"published","conflict_status":"clear"},{"trait_id":"85ef59c2f7501933947d4fff","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Ragainės komtūras.","context":"1294–1300 m. laikotarpiu, pagal Petro Dusburgiečio kroniką.","support_ids":["t-221027","c-203057"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221027","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203057","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300 Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei ginklanešiais jis daug kartų šlovingai kariavo su lietuviais. Ne sykį jis traukė į karą laivais, o kartą — prieš Lietuvos karaliaus žemę Aukštaičius542, čia sudegino kaimą, vardu 542 D."}],"status":"published","conflict_status":"clear"},{"trait_id":"1baac4a27ebdb8bc3f497560","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"Kronikos autorius jo žygius vadina nuostabiais ir karus su lietuviais – šlovingais.","context":"Tai Petro Dusburgiečio vertinimas kronikoje, aprašant Liudviko gyvenimą ir 1294–1300 m. karus.","support_ids":["t-224388","c-202244","t-221027","c-203057"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224388","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-221027","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202244","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių. Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."},{"kind":"evidence","evidence_id":"c-203057","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300 Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei ginklanešiais jis daug kartų šlovingai kariavo su lietuviais. Ne sykį jis traukė į karą laivais, o kartą — prieš Lietuvos karaliaus žemę Aukštaičius542, čia sudegino kaimą, vardu 542 D."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sajungininkas_su","direction":"outbound","target":"objektai/asmenys/Markvardas iš Revelingės","claim_id":"t-220363","confidence":0.72},{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/asmenys/Markvardas iš Revelingės","claim_id":"t-224440","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-220363","confidence":0.86},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Pagraudė","claim_id":"t-222917","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":8,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: a0a644fcb46490ca
+object_page_generated_at: '2026-09-19T21:43:21+00:00'
+object_page_source_checked_at: '2026-09-19T21:43:21+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '1'
+object_page_seo_description: 'Liudvikas iš Libencelės: Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę Brolis Liudvikas iš…'
+object_page_seo_input_hash: 0dc498e49addd72dd3ab102060c63809a8b2919418966c107f48daf958c4439d
+object_page_seo_generated_at: '2026-09-19T21:43:21+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Liudvikas iš Libencelės
 

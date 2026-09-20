@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Medvėgalis'
+pavadinimas: Medvėgalis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1316 m.'
-  - '1329 m.'
-  - '1357 m.'
+  - 1316 m.
+  - 1329 m.
+  - 1357 m.
 date_start: '1316'
 date_end: '1357'
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-30c3024b7318e58663bc0c6e"
-canonical_name: "Medvėgalis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Medvėgalis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-30c3024b7318e58663bc0c6e
+canonical_name: Medvėgalis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Medvėgalis
 sameAs: []
-canonical_biography: "(^234) II skyrius: valstybės iškilimas Wigando kronikoje pažymi, jog esą daug Medvėgalio srities kil­ mingųjų (« multi pagani maiores ») derėjosi su magistru : «jie visi jam paklustų, jeigu juos apsaugotų nuo karaliaus pykčio ir jėgos, kadangi kitaip jie. Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį)."
+canonical_biography: '(^234) II skyrius: valstybės iškilimas Wigando kronikoje pažymi, jog esą daug Medvėgalio srities kil­ mingųjų (« multi pagani maiores ») derėjosi su magistru : «jie visi jam paklustų, jeigu juos apsaugotų nuo karaliaus pykčio ir jėgos, kadangi kitaip jie. Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį).'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Medvėgalis","url":"https://lt.wikipedia.org/wiki/Medv%C4%97galis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Medvėgalis","url":"https://www.vle.lt/straipsnis/medvegalis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T05:24:05+00:00","source_checked_at":"2026-09-20T05:24:05+00:00","counts":{"relations":2,"gallery":0,"sources":4},"featured_claim_ids":["t-223271","t-98617","t-222106","t-98616","t-98618"],"featured_claims":[{"claim_id":"t-223271","text":"1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202783"]},{"claim_id":"t-98617","text":"Medvėgalyje žemaičiai atkakliai gynėsi, tačiau priešui padegus pilį turėjo pasiduoti.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-92841"]},{"claim_id":"t-222106","text":"Grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius po Ordino brolių vėliava.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202783","c-204981"]},{"claim_id":"t-98616","text":"Daug Medvėgalio srities kilmingųjų derėjosi su magistru, siūlydami paklusti už apsaugą nuo karaliaus pykčio ir jėgos.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-92842"]},{"claim_id":"t-98618","text":"Wigando kronikoje rašoma, kad daug Medvėgalio srities kilmingųjų derėjosi su magistru dėl paklusimo mainais į apsaugą nuo karaliaus.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-92842"]}],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Medvėgalis","url":"https://lt.wikipedia.org/wiki/Medv%C4%97galis","publisher":"Vikipedija","language":"lt","article_id":"38910","revision_id":"7890455","published_at":"2026-07-30T23:30:00Z","version_pk":"","content_hash":"4699337a9fbca6b49a27129737bdbb753f73527556b51007febd797411d410fa","retrieved_at":"2026-09-20T05:21:57+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Medv%C4%97galis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"38910"}},"intro":"Medvėgalis – XIV a. lietuvių pilies, vėliau – piliakalnio ir greta esančios aukščiausios Žemaitijos kalvos (234,6 m) pavadinimas. Išsidėstęs Šilalės rajone, apie 8 km į šiaurės vakarus nuo Kaltinėnų, 12 km į pietus nuo Varnių, Karūžiškės dvaro laukuose. Tai didžiausias žemaičių piliakalnis. Į šiaurės rytus nuo jo yra kūlgrinda, į pietvakarius – kalva, vadinama Alka. Medvėgalis – tai dvi viršūnės: aukštesniojoje yra aukščiausias Žemaitijos taškas, žemesniojoje (pietinė) – Medvėgalio piliakalnis (Pilies kalnas). Nuo 1960 m. Medvėgalio kraštovaizdžio istorinis draustinis. Piliakalnio aikštelė ovali, 120×50 m dydžio, viduryje kiek iškilusi. Jos galuose supilti pylimai. Pietrytiniame šlaite, apie 16 m žemiau aikštelės, yra pylimėlis. Piliakalnio pietvakarinėje papėdėje rasta I mūsų eros tūkstantmečio gyvenvietės liekanų. Į šiaurės rytus nuo piliakalnio yra pelkė, per kurią buvo nutiesta kūlgrinda.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Medvėgalis","url":"https://lt.wikipedia.org/wiki/Medv%C4%97galis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Medvėgalis","url":"https://www.vle.lt/straipsnis/medvegalis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Medv%C4%97galis","https://www.vle.lt/straipsnis/medvegalis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"2e3321a87f34e9e59bbff430","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"pilis","context":"1329 m. šaltinis Medvėgalį tiesiogiai įvardija kaip pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui.","support_ids":["t-223271","c-202783"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223271","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202783","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Medvėgalio pilėnus 1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo, Saumburgo, Falkenšteino grafais ir Kerpeno, Geros, Bergo, Rotenšteino, Damiso, Kotbuso, Meiseno valdovais bei Donos burggrafu ir su daugybe Vokietijos bei Anglijos karalysčių kilmingųjų. Su šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių ir 18 tūkstančių karių, neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo…"}],"status":"published","conflict_status":"clear"},{"trait_id":"f724257766d3e75740d81895","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"gynyba","context":"1357 m. aprašyme nurodoma, kad žemaičiai Medvėgalyje atkakliai gynėsi; priešui padegus pilį, jie turėjo pasiduoti.","support_ids":["t-98617","c-92841"],"source_refs":[{"kind":"internal_claim","claim_id":"t-98617","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-92841","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Šis žygis, kuriame buvo daug svečių iš visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m. rašytame veikale « Confort d’Ami » (« Draugo parama »). Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­ šui padegus pilį, turėję pasiduoti."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Medvėgalis – istorinė pilis ir su ja siejama sritis, viduramžiais tapusi svarbia karinių žygių bei politinių derybų vieta. 1329 m. ją apsupo brolio Vernerio vadovaujama kariuomenė, o po ilgų kovų pilis pasidavė krikščionių tikėjimui. Tame žygyje dalyvavo Čekijos karalius Jonas Liuksemburgietis, daugybė Europos kilmingųjų, 200 Ordino brolių ir apie 18 tūkstančių karių, neskaitant pėstininkų. Kituose šaltiniuose pasakojama, kad 1357 m. žemaičiai Medvėgalyje atkakliai gynėsi, tačiau priešui padegus pilį buvo priversti pasiduoti. Medvėgalio reikšmę atskleidžia ir tai, kad jo srities kilmingieji derėjosi su magistru, siūlydami paklusti mainais į apsaugą nuo karaliaus pykčio bei jėgos; be to, prie pilies grafas iš Bergo daug karių įšventino į riterius po Ordino brolių vėliava.","sentences":[{"sentence_id":"s1","text":"Medvėgalis – istorinė pilis ir su ja siejama sritis, viduramžiais tapusi svarbia karinių žygių bei politinių derybų vieta.","support_ids":["t-223271","t-98616"]},{"sentence_id":"s2","text":"1329 m. ją apsupo brolio Vernerio vadovaujama kariuomenė, o po ilgų kovų pilis pasidavė krikščionių tikėjimui.","support_ids":["t-223271","c-202783"]},{"sentence_id":"s3","text":"Tame žygyje dalyvavo Čekijos karalius Jonas Liuksemburgietis, daugybė Europos kilmingųjų, 200 Ordino brolių ir apie 18 tūkstančių karių, neskaitant pėstininkų.","support_ids":["c-202783"]},{"sentence_id":"s4","text":"Kituose šaltiniuose pasakojama, kad 1357 m. žemaičiai Medvėgalyje atkakliai gynėsi, tačiau priešui padegus pilį buvo priversti pasiduoti.","support_ids":["t-98617","c-92841"]},{"sentence_id":"s5","text":"Medvėgalio reikšmę atskleidžia ir tai, kad jo srities kilmingieji derėjosi su magistru, siūlydami paklusti mainais į apsaugą nuo karaliaus pykčio bei jėgos; be to, prie pilies grafas iš Bergo daug karių įšventino į riterius po Ordino brolių vėliava.","support_ids":["t-98616","c-92842","t-222106","c-204981"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai tiesiogiai pagrindžia Medvėgalį kaip pilį ir sritį bei jos reikšmingus įvykius, tačiau nepatvirtina formuluotės, kad tai buvo svarbi karinių žygių ir politinių derybų vieta."},{"sentence_id":"s2","supported":true,"reason":"Sakinį tiesiogiai patvirtina nurodyti šaltiniai: 1329 m. brolis Verneris apsupo pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo Joną Liuksemburgietį, Europos kilminguosius, 200 Ordino brolių ir 18 tūkstančių karių, neskaitant pėstininkų."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai nurodo 1357 m. žemaičių atkaklų pasipriešinimą ir pasidavimą priešui padegus pilį."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Medvėgalio srities kilmingųjų derybas su magistru dėl apsaugos ir grafo iš Bergo karių įšventinimą į riterius prie pilies."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-223271","t-98616"]},{"sentence_id":"s2","supported":true,"support_ids":["t-223271","c-202783"]},{"sentence_id":"s3","supported":false,"support_ids":["c-202783"]},{"sentence_id":"s4","supported":true,"support_ids":["t-98617","c-92841"]},{"sentence_id":"s5","supported":true,"support_ids":["t-98616","c-92842","t-222106","c-204981"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/asmenys/Verneris iš Orzelno","claim_id":"t-223271","confidence":0.94},{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-179913","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6dfdb2148cec4fd7
+object_page_generated_at: '2026-09-20T05:24:05+00:00'
+object_page_source_checked_at: '2026-09-20T05:24:05+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Medvėgalis – istorinė pilis ir su ja siejama sritis, viduramžiais tapusi svarbia karinių žygių bei politinių derybų vieta. 1329 m. ją apsupo brolio Vernerio…'
+object_page_seo_input_hash: 225c44189ec9f5acd5ab2e5b1d6e689dd18c7eb3a8c8fde6d928df20c5e01044
+object_page_seo_generated_at: '2026-09-20T05:24:05+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Medvėgalis
 

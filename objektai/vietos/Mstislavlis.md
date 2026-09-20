@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Mstislavlis'
+pavadinimas: Mstislavlis
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1362 m.'
-  - '2026 m.'
+  - 1362 m.
+  - 2026 m.
 date_start: '1362'
 date_end: '2026'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a1c66cbd5fbc3a06a47d379b"
-canonical_name: "Mstislavlis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Mstislavlis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a1c66cbd5fbc3a06a47d379b
+canonical_name: Mstislavlis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Mstislavlis
 sameAs: []
-canonical_biography: "Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje."
+canonical_biography: Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Mstislavlis","url":"https://www.vle.lt/straipsnis/mstislavlis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T20:43:06+00:00","source_checked_at":"2026-09-19T20:43:06+00:00","counts":{"relations":10,"gallery":0,"sources":4},"featured_claim_ids":["t-182083","t-206528","t-210762","t-182082","t-182085","t-210523","t-212020"],"featured_claims":[{"claim_id":"t-182083","text":"Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-165572"]},{"claim_id":"t-206528","text":"Mstislavlyje gynėsi kunigaikštis Karigaila, o puolimas kovo 18 dieną tęsėsi dešimt dienų.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","evidence_ids":["c-189143"]},{"claim_id":"t-210762","text":"Lietuvos metraštis vaizduoja, kad Gavėnios metu Svetoslavas su Smolensko bajorais patraukė į Mstislavlį ir ten praliejo daug krikščioniško kraujo.","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","evidence_ids":["c-193091","c-193499"]},{"claim_id":"t-182082","text":"Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-165574"]},{"claim_id":"t-182085","text":"Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-165575"]},{"claim_id":"t-210523","text":"Mstislavlio mūšis įvyko prie Sožo intako Vechros.","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","evidence_ids":["c-193408"]},{"claim_id":"t-212020","text":"Po Žygimanto mirties kunigaikštis Jurgis Lengvenaitis išvyko į Mstislavlį.","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","evidence_ids":["c-193763"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Mstislavlis","url":"https://www.vle.lt/straipsnis/mstislavlis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/mstislavlis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b22654c33bb1e8ab49d40293","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Stovi prie Vechros, Sožo intako.","context":"Bychovco kronika aprašo Mstislavlio mūšį; laikas nenurodytas.","support_ids":["t-210523","c-193408"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210523","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193408","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Mūšis įvyko prie Sožo intako Vechros, prie kurios stovi Mstislavlis."}],"status":"published","conflict_status":"clear"},{"trait_id":"4aa1210e117c466c82bfd9e3","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Miestas.","context":"Šaltiniai Mstislavlį vadina miestu; 1386 m. balandžio 18 d. jis buvo apgultas.","support_ids":["t-206528","c-189143","t-211245","c-193261"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206528","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"internal_claim","claim_id":"t-211245","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-189143","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Netrukus, grįžęs į Smolenską, pasiėmė puolimo technikos, dar apginklavo žmonių ir vėl įsi­ veržė į didžiojo kunigaikščio žemes, pasiekė Mstislavlio mies­ tą1 ir kovo 18 dieną apsupo. Jame gynėsi kunigaikštis Karigaila; be perstojo dešimtį dienų tęsėsi puolimas, kasdien vis įnirtin­ giau pradedamas."},{"kind":"evidence","evidence_id":"c-193261","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Smolensko kunigaikštis Sveloslavas apgulė Mstislavl|. 1386.IV.18. Mstislavlio gynybai vadovavo Jogailos brolis Karigaila, Mstislavlio vietininkas."}],"status":"published","conflict_status":"clear"},{"trait_id":"03a74b220a07539546cb29af","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Mieste buvo pilys, kurias puolėjai mėgino įveikti.","context":"Lietuvos metraštis aprašo Svetoslavo žygį į Mstislavlį ir mini, kad puolėjai neįveikė pilių; kontekstas – apgultis Gavėnios metu.","support_ids":["t-210762","c-193091"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210762","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193091","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Ir prisikariavę bei paėmę belaisvių, bet neįveikę pi­ lių sugrįžo, iš kur atėję. Tą pačią žiemą, Gavėnios metu, Svetoslavas su Smo­ lensko bajorais ėmė tartis dėl krikščionių kraujo pra­ liejimo ir patraukė į Mstislavlio miestą8 . Sustoję prie ## Puslapis 89 Mstislavlio, pradėjo šturmuoti miestą ir daužyti iš pa­ trankų, o savo karius paleido po Mstislavlio žemų ir praliejo daug krikščioniško kraujo."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Mstislavlis – istorinis miestas prie Vechros, Sožo intako, išsiskiriantis kaip svarbi karinių susidūrimų ir valdžios kovų vieta. Iki 1362 m. Algirdas jį užėmė kartu su Smolensko kunigaikštijai priklausiusiais Mogiliavu ir Toropiecu. Vėliau, būdamas sąjungoje su Andriumi, Mstislavlį užvaldė Smolensko kunigaikštis Sviatoslavas, tačiau maištininkai netrukus buvo įveikti. Vieno puolimo metu mieste gynėsi kunigaikštis Karigaila, o kovo 18 dieną prasidėjęs šturmas tęsėsi dešimt dienų. Mstislavlio apylinkės taip pat tapo mūšio vieta: čia žuvus Sviatoslavui, jo sūnus Jurgis pažadėjo paklusnumą Jogailai, o vėlesni šaltiniai mini prie miesto vykusius išpuolius ir patrankomis grįstą puolimą.","sentences":[{"sentence_id":"s1","text":"Mstislavlis – istorinis miestas prie Vechros, Sožo intako, išsiskiriantis kaip svarbi karinių susidūrimų ir valdžios kovų vieta.","support_ids":["t-210523","t-182083","t-182085","t-206528"]},{"sentence_id":"s2","text":"Iki 1362 m. Algirdas jį užėmė kartu su Smolensko kunigaikštijai priklausiusiais Mogiliavu ir Toropiecu.","support_ids":["t-182083"]},{"sentence_id":"s3","text":"Vėliau, būdamas sąjungoje su Andriumi, Mstislavlį užvaldė Smolensko kunigaikštis Sviatoslavas, tačiau maištininkai netrukus buvo įveikti.","support_ids":["t-182085"]},{"sentence_id":"s4","text":"Vieno puolimo metu mieste gynėsi kunigaikštis Karigaila, o kovo 18 dieną prasidėjęs šturmas tęsėsi dešimt dienų.","support_ids":["t-206528"]},{"sentence_id":"s5","text":"Mstislavlio apylinkės taip pat tapo mūšio vieta: čia žuvus Sviatoslavui, jo sūnus Jurgis pažadėjo paklusnumą Jogailai, o vėlesni šaltiniai mini prie miesto vykusius išpuolius ir patrankomis grįstą puolimą.","support_ids":["t-182082","t-210523","t-210762"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Mstislavlis siejamas su Vechra, Sožo intaku, o pateikti šaltiniai pagrindžia jo kaip mūšių ir valdžios kovų vietos reikšmę."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai paremta t-182083: iki 1362 m. Algirdas užėmė Mstislavlį, Mogiliavą ir Toropiecą."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta t-182085: Sviatoslavas, būdamas sąjungoje su Andriumi, užvaldė Mstislavlį, o maištininkai buvo įveikti."},{"sentence_id":"s4","supported":true,"reason":"Tiesiogiai paremta t-206528: Karigaila gynėsi Mstislavlyje, o kovo 18 d. prasidėjęs puolimas truko dešimt dienų."},{"sentence_id":"s5","supported":false,"reason":"Sakinys jungia paremtus faktus su nevisiškai tiesiogiai pagrįstu apibendrinimu apie „vėlesnius šaltinius“ ir daugiskaita „išpuolius“; pateikti įrodymai aiškiai fiksuoja konkretų puolimą patrankomis."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-210523","t-182083","t-182085","t-206528"]},{"sentence_id":"s2","supported":false,"support_ids":["t-182083"]},{"sentence_id":"s3","supported":false,"support_ids":["t-182085"]},{"sentence_id":"s4","supported":false,"support_ids":["t-206528"]},{"sentence_id":"s5","supported":false,"support_ids":["t-182082","t-210523","t-210762"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Karigaila","claim_id":"t-63793","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Simonas Lengvenis","claim_id":"t-184825","confidence":0.84},{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Sviatoslavas","claim_id":"t-179685","confidence":0.96},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Smolenskas","claim_id":"t-182083","confidence":0.86},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Bajorai","claim_id":"t-210762","confidence":0.68},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/A. N. Trubeckojus","claim_id":"t-39979","confidence":0.94},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-182083","confidence":0.9},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Sviatoslavas","claim_id":"t-179683","confidence":0.96},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Sviatoslavas","claim_id":"t-182085","confidence":0.9},{"predicate":"valde_teritorija","direction":"inbound","target":"objektai/grupes/Gediminaičiai","claim_id":"t-96101","confidence":0.71}],"timeline":[],"support_disclosure":{"claims":8,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1465f9f52b25b796
+object_page_generated_at: '2026-09-19T20:43:06+00:00'
+object_page_source_checked_at: '2026-09-19T20:43:06+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '3'
+object_page_seo_description: 'Mstislavlis – istorinis miestas prie Vechros, Sožo intako, išsiskiriantis kaip svarbi karinių susidūrimų ir valdžios kovų vieta. Iki 1362 m. Algirdas jį užėmė…'
+object_page_seo_input_hash: f4972aee605451b833ce3d5ce04cfd1bdcfe95c16eb26f41335e2ebc52e2bc0e
+object_page_seo_generated_at: '2026-09-19T20:43:06+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mstislavlis
 

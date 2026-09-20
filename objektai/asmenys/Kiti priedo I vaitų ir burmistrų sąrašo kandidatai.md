@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Kiti priedo I vaitų ir burmistrų sąrašo kandidatai'
+pavadinimas: Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
@@ -12,7 +12,7 @@ tags:
   - asmuo
   - karalius
 amziai:
-  - 'V'
+  - V
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -20,19 +20,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e4e2b8ee0a95deaba76c0bfc"
-canonical_name: "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Kiti priedo I vaitų ir burmistrų sąrašo kandidatai"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e4e2b8ee0a95deaba76c0bfc
+canonical_name: Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
 sameAs: []
-canonical_biography: "72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS KETVIRTOSIOS KNYGOS I VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ a) Iki Unijos 1. Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius. Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
+canonical_biography: '72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS KETVIRTOSIOS KNYGOS I VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ a) Iki Unijos 1. Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius. Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:39:42+00:00","source_checked_at":"2026-09-19T21:39:42+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6dbae6fdc51b3935
+object_page_generated_at: '2026-09-19T21:39:42+00:00'
+object_page_source_checked_at: '2026-09-19T21:39:42+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: 72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS…'
+object_page_seo_input_hash: 897c95bab6f832a6f6f81fa4072ac322ff2fb3eb0d9c45e74e1a6e16d765b79c
+object_page_seo_generated_at: '2026-09-19T21:39:42+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kiti priedo I vaitų ir burmistrų sąrašo kandidatai
 

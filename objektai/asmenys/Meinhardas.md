@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Meinhardas'
+pavadinimas: Meinhardas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
@@ -16,19 +16,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-af5c7bd9741cd99cce99accd"
-canonical_name: "Meinhardas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Meinhardas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-af5c7bd9741cd99cce99accd
+canonical_name: Meinhardas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Meinhardas
 sameAs: []
-canonical_biography: "Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo paskirtas ir pirmuoju Livonijos vyskupu (apie 1180 m.)."
+canonical_biography: 'Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo paskirtas ir pirmuoju Livonijos vyskupu (apie 1180 m.).'
+external_sources_json: '[{"title":"Meinhardas","url":"https://www.vle.lt/straipsnis/meinhardas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:08:34+00:00","source_checked_at":"2026-09-19T14:08:34+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Meinhardas","url":"https://www.vle.lt/straipsnis/meinhardas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/meinhardas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"480d8dad7b728db5ca0c5ec7","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Augustinų ordino vienuolis iš Zigebergo vienuolyno","context":"Apie 1186 metus, prieš išvykdamas su pirkliais į Livonijos kraštą; taip Meinhardą aprašo Teodoras Narbutas.","support_ids":["t-205161","c-188059"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205161","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188059","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Vėliau atsirado žmogus, vertas būti apaštalu, vardu — Meinhardas, Au­ gustinų ordino vienuolis iš Zigebergo vienuolyno, kuris, gavęs Bremeno arkivyskupo ir vyresniųjų dvasininkų lei­ dimą, apie 1186 metus leidosi su pirkliais į Livonijos kraštą. Tai buvo dievotas žmogus, pasižymėjęs prakil­ niausiomis dorybėmis, romaus būdo, apimtas noro išganyti pagonis."}],"status":"published","conflict_status":"clear"},{"trait_id":"d3ef2baca4d481685757e01e","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Ramaus būdo","context":"Teodoro Narbuto apibūdinimas, siejamas su Meinhardo veikla apie 1186 metus.","support_ids":["t-205161","c-188059"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205161","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188059","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Vėliau atsirado žmogus, vertas būti apaštalu, vardu — Meinhardas, Au­ gustinų ordino vienuolis iš Zigebergo vienuolyno, kuris, gavęs Bremeno arkivyskupo ir vyresniųjų dvasininkų lei­ dimą, apie 1186 metus leidosi su pirkliais į Livonijos kraštą. Tai buvo dievotas žmogus, pasižymėjęs prakil­ niausiomis dorybėmis, romaus būdo, apimtas noro išganyti pagonis."}],"status":"published","conflict_status":"clear"},{"trait_id":"39baed5171192ac5655e6c4c","canonical_code":"person.worldview","label":"Pažiūros","group":"Asmens bruožai","value":"Dievotas, apimtas noro išganyti pagonis","context":"Teodoro Narbuto apibūdinimas Meinhardui, išvykstančiam į Livonijos kraštą apie 1186 metus.","support_ids":["t-205161","c-188059"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205161","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188059","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Vėliau atsirado žmogus, vertas būti apaštalu, vardu — Meinhardas, Au­ gustinų ordino vienuolis iš Zigebergo vienuolyno, kuris, gavęs Bremeno arkivyskupo ir vyresniųjų dvasininkų lei­ dimą, apie 1186 metus leidosi su pirkliais į Livonijos kraštą. Tai buvo dievotas žmogus, pasižymėjęs prakil­ niausiomis dorybėmis, romaus būdo, apimtas noro išganyti pagonis."}],"status":"published","conflict_status":"clear"},{"trait_id":"3ccf50f3be010304a0c54e5c","canonical_code":"person.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"„Vertas būti apaštalu“ ir pasižymėjęs prakilniausiomis dorybėmis","context":"Tai Teodoro Narbuto vertinimas, pateiktas aprašant Meinhardą jo misijos Livonijoje pradžioje apie 1186 metus.","support_ids":["t-205161","c-188059"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205161","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188059","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Vėliau atsirado žmogus, vertas būti apaštalu, vardu — Meinhardas, Au­ gustinų ordino vienuolis iš Zigebergo vienuolyno, kuris, gavęs Bremeno arkivyskupo ir vyresniųjų dvasininkų lei­ dimą, apie 1186 metus leidosi su pirkliais į Livonijos kraštą. Tai buvo dievotas žmogus, pasižymėjęs prakil­ niausiomis dorybėmis, romaus būdo, apimtas noro išganyti pagonis."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":10,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d49011cf360eaf85
+object_page_generated_at: '2026-09-19T14:08:34+00:00'
+object_page_source_checked_at: '2026-09-19T14:08:34+00:00'
+object_page_content_state: content
+object_page_claim_count: '10'
+object_page_source_count: '2'
+object_page_seo_description: 'Meinhardas: Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo paskirtas ir pirmuoju Livonijos vyskupu (apie 1180 m.).'
+object_page_seo_input_hash: bd1ff7b660212242d385aa4afa2ce162b31422686fd9af99636994e0b5a1022b
+object_page_seo_generated_at: '2026-09-19T14:08:34+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Meinhardas
 

@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Karšuva'
+pavadinimas: Karšuva
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1303 m.'
-  - '2026 m.'
+  - 1303 m.
+  - 2026 m.
 date_start: '1303'
 date_end: '2026'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-483646b425055470507cd9ce"
-canonical_name: "Karšuva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Karšuva"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-483646b425055470507cd9ce
+canonical_name: Karšuva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Karšuva
 sameAs: []
-canonical_biography: "Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbarką žemaičiai pasistatė savo pilį — Karšuvą."
+canonical_biography: Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbarką žemaičiai pasistatė savo pilį — Karšuvą.
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Karšuva","url":"https://lt.wikipedia.org/wiki/Kar%C5%A1uva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Karšuva","url":"https://www.vle.lt/straipsnis/karsuva/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:18:23+00:00","source_checked_at":"2026-09-20T13:18:23+00:00","counts":{"relations":8,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Karšuva","url":"https://lt.wikipedia.org/wiki/Kar%C5%A1uva","publisher":"Vikipedija","language":"lt","article_id":"121858","revision_id":"7928113","published_at":"2026-09-20T06:31:40Z","version_pk":"","content_hash":"4cca6a6efa9cdd82064d64f9f320c00a2512a8dfbf8ddfdac4e6c33350f8be24","retrieved_at":"2026-09-20T13:17:11+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Kar%C5%A1uva&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"121858"}},"intro":"Karšuva (lot. Carsovia, terra Carsoviae, vok. Karschow) – iki XIV a. I pusės kaip atskiras LDK administracinis-teritorinis vienetas egzistavusi buvusi žemaičių genties žemė (sritinė kunigaikštystė; nepainioti su XII/XIII−XVIII a. gyvavusiu Karšuvos valsčiumi) ir kartu – XII−XIII a. sulietuvėjusių Žemaičių aukštumos senkapių kultūros nešėjų palikuonių gyventa LDK etnokultūrinė sritis.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Karšuva","url":"https://lt.wikipedia.org/wiki/Kar%C5%A1uva","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Karšuva","url":"https://www.vle.lt/straipsnis/karsuva/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kar%C5%A1uva","https://www.vle.lt/straipsnis/karsuva/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"9a8ea0a2df04136ded435b42","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Karšuvos sritis apėmė beveik visą Jūros baseiną.","context":"XIV a.; Zenonas Ivinskis, „Lietuvos istorija iki Vytauto Didžiojo mirties“ (1978).","support_ids":["t-90529","c-32090"],"source_refs":[{"kind":"internal_claim","claim_id":"t-90529","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32090","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"XIV amž. Karšuvos sritis (beveik visas Jūros baseinas) tapo negy­ venama dykra. 1311 ordinas turėjo vėl laikinų pasisekimų."}],"status":"published","conflict_status":"clear"},{"trait_id":"caabc885f13f3d522b03713f","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Karšuvos sritis tapo negyvenama dykra.","context":"XIV a.; Zenono Ivinskio aprašymas.","support_ids":["t-90529","c-32090"],"source_refs":[{"kind":"internal_claim","claim_id":"t-90529","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32090","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"XIV amž. Karšuvos sritis (beveik visas Jūros baseinas) tapo negy­ venama dykra. 1311 ordinas turėjo vėl laikinų pasisekimų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"650a6246b02d0e5f2cc36b2d","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Karšuvos žemė buvo taip nusiaubta, kad gyventojai su visu turtu išsikėlė į Lietuvą.","context":"Žemaitijoje vykusių kryžiuočių antpuolių laikotarpiu; Alberto Vijūko-Kojelavičiaus aprašymas, „Lietuvos istorija“ (1989).","support_ids":["t-184973","c-168334"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184973","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168334","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Sutelktu būriu užgriuvę iš pasalų nieko nenu- jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais, ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­ je Karšuvos žemę, kad gyventojai, nematydami iš­ eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­ sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys buvo priešo ir liepsnų sunaikintos, o truputį anksčiau Pūtvės pilį išdavė jos seniūnas Spūdas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"23a4fbabaed9c95ab3738dee","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Karšuvos srityje buvo pilys Skronaičiai ir Bebirvaičiai; riteriai jas sudegino.","context":"1307 m. ir tų pačių metų rudenį, pasak Zenono Ivinskio; pilys vėliau sunaikintos gaisro.","support_ids":["t-90533","c-32089"],"source_refs":[{"kind":"internal_claim","claim_id":"t-90533","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32089","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Nesisekė tada lietuviams ir Karšuvos srityje. Kai karšuviai «su didele kariuomene » išžygiavo prieš Klaipėdos pilį, Ragainės komtūro riteriai 1307 nuteriojo Karšuvą. Tą pat rudenį karšuviai, esą «matydami, jog nebeįstengs ilgiau priešintis broliams, pasi­ traukė ir paliko dvi savo pilis Skronaičius (Scroneyte) ir Bebirvai­ čius (Biverwate) », kurias riteriai sudegino^14."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/Žemaičiai","claim_id":"t-90531","confidence":0.68},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Burchardas iš Hornhauzeno","claim_id":"t-220244","confidence":0.74},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Kuršas","claim_id":"t-185102","confidence":0.76},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Karšuvos sritis","claim_id":"t-90529","confidence":0.66},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Karšuvos žemė","claim_id":"t-220417","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Putvė","claim_id":"t-32491","confidence":0.91},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Švento Jurgio pilis","claim_id":"t-224476","confidence":0.83},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-184973","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: fe972044cb7ab70e
+object_page_generated_at: '2026-09-20T13:18:23+00:00'
+object_page_source_checked_at: '2026-09-20T13:18:23+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '2'
+object_page_seo_description: 'Karšuva: Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Šaltinių citatos.'
+object_page_seo_input_hash: 5e6bb0d1253c0de07be32a7cad3653fa2856365244bbcd7594ec887830ba7ecb
+object_page_seo_generated_at: '2026-09-20T13:18:23+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Karšuva
 

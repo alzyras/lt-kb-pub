@@ -7,6 +7,7 @@ import {
   objectDetailEvidence,
   objectDetailTier,
   objectPageIndexable,
+  uniqueCitations,
 } from "./objectDetail"
 
 const supported = `## Santrauka
@@ -86,4 +87,29 @@ test("keeps every Vytautas claim, canonical citation, and significant mention re
   assert.equal(evidence.citations.size, 290)
   assert.equal(evidence.citationRecords.filter((record) => record.significantMention).length, 30)
   assert.equal(evidence.citationRecords.filter((record) => record.standalone).length, 23)
+})
+
+test("collapses duplicate quote displays but preserves distinct sources, pages and records", () => {
+  const entry = (id: string, source = "Metraštis", pages = "12", quote = "Tas pats tekstas.") => ({
+    id,
+    fields: new Map([
+      ["šaltinis", source],
+      ["puslapiai", pages],
+      ["citata", quote],
+    ]),
+    lists: new Map<string, string[]>(),
+  })
+  const entries = [
+    entry("c-001"),
+    entry("c-001"),
+    entry("c-002"),
+    entry("c-003", "Kitas šaltinis"),
+    entry("c-004", "Metraštis", "13"),
+    entry("c-005", "Metraštis", "12", "Kita citata."),
+  ]
+  assert.deepEqual(
+    uniqueCitations(entries).map((row) => row.id),
+    ["c-001", "c-003", "c-004", "c-005"],
+  )
+  assert.equal(entries.length, 6)
 })

@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Henenbergeris'
+pavadinimas: Henenbergeris
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1584 m.'
+  - 1584 m.
 date_start: '1584'
 date_end: ''
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - asmuo
   - istorikas
 amziai:
-  - 'XVI'
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-48e172c904630b730ffd9fe1"
-canonical_name: "Henenbergeris"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Henenbergeris"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-48e172c904630b730ffd9fe1
+canonical_name: Henenbergeris
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Henenbergeris
 sameAs: []
-canonical_biography: "Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išblyškusį senį pastėrusiomis akimis ir balta drobule apmuturiuota galva. Narbutas rašo, kad Henenbergeris apie 1584 metus tikino pats matęs senų vienaakių žmonių, siejamų su šventos upės poveikiu. Henenbergeris tikino, kad XVI a. pabaigoje Sakininkų kaime prie Rusnės augo didžiulė liepa, prie kurios kaimiečiai slapčia melsdavosi."
+canonical_biography: 'Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išblyškusį senį pastėrusiomis akimis ir balta drobule apmuturiuota galva. Narbutas rašo, kad Henenbergeris apie 1584 metus tikino pats matęs senų vienaakių žmonių, siejamų su šventos upės poveikiu. Henenbergeris tikino, kad XVI a. pabaigoje Sakininkų kaime prie Rusnės augo didžiulė liepa, prie kurios kaimiečiai slapčia melsdavosi.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T12:52:00+00:00","source_checked_at":"2026-09-19T12:52:00+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":["t-213038","t-218449","t-215904","t-219600","t-220020","t-212197","t-215238"],"featured_claims":[{"claim_id":"t-213038","text":"Narbutas nurodo, kad XV a. prūsų kronikininkas Henenbergeris pateikė daugiau jau neegzistuojančių Nemuno deltos šakų pavadinimų.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196614"]},{"claim_id":"t-218449","text":"Narbutas vertino, kad Henenbergeris, Hartknochas, Kojalavičius ir Škicas apšmeižė senovės lietuvius dėl tariamo žiaurumo ligoniams.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-201377"]},{"claim_id":"t-215904","text":"XV am žiaus prūsų kronikininkas Henenbergeris nurodo dar dau giau šiandien jau neegzistuojančių šakų: Akmenės, Szyrwinde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm, Kallamppe, Taszargis, U Imis, Szloda.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196614"]},{"claim_id":"t-219600","text":"Henenbergeris tikino, kad XVI a. pabaigoje Sakininkų kaime prie Rusnės augo didžiulė liepa, prie kurios kaimiečiai slapčia melsdavosi.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-199463"]},{"claim_id":"t-220020","text":"Pasak Henenbergerio tyrimų, turtingųjų namuose gedulas trukdavo keturias savaites, o samdytos raudotojos turėdavo nuolat apraudoti mirusįjį.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-198712"]},{"claim_id":"t-212197","text":"Narbutas Henenbergerį mini tarp kronikininkų, citavusių pirmojo Kulmo, arba Prūsijos, vyskupo Kristijono kroniką apie senovės Prūsiją.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-196383"]},{"claim_id":"t-215238","text":"Narbutas remiasi Henenbergeriu kaip patvirtinimu, kad buvo sudinų gentis arba taip vadinta giminė.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","evidence_ids":["c-195685"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4598a180c54506f11ec70386","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Prūsų kronikininkas","context":"XV amžius; taip Henenbergerį apibūdina Teodoras Narbutas.","support_ids":["t-213038","c-196614"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213038","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196614","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"XV am­ žiaus prūsų kronikininkas Henenbergeris nurodo dar dau­ giau šiandien jau neegzistuojančių šakų: Akmenės, Szyr- winde, Alt-Russe, Neyupe, Theigsupe, Russe arba Holm, Kallamppe, Taszargis, U Imis, Szloda. Visi šie pavadinimai lietuvių kalboje turi prasmę ir teikia didelių galimybių etimologiniams tyrimams. Pagrindinė kairioji vaga, atsi­ šakojusi prie Sancinės, vadinama Gilge, arba Gilia, tai reiškia gylį; žemiau, ties Būdveitų kaimu, jį išsišakoja į dvi vagas, dešinioji yra senoji Gilija, kuri labai vingiuota; jos tik prie Dreiškių kaimo vėl susilieja į vieną."}],"status":"published","conflict_status":"clear"},{"trait_id":"d0cef2c85312f95aff098155","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Apšmeižė senovės lietuvius, priskirdamas jiems žiaurumą su ligoniais, bejėgiais, luošaisiais ir mirštančiaisiais","context":"Teodoro Narbuto vertinimas apie Henenbergerio, Škico, Hartknocho ir Kojalavičiaus pasakojimą apie senovės lietuvius; vertinimas pateiktas XIX a. istoriniame veikale apie senovę.","support_ids":["t-218449","c-201377"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218449","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201377","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Draugystės, svetingumo, santai­ kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­ baimingai tautai tikriausiai nebuvo tušti simboliai. Tad Ški­ cas, Henenbergeris, Hartknochas ir Kojalavičius apšmeižė se­ novės lietuvius, priskirdami jiems žiaurumą su ligoniais, bejė­ giais, luošaisiais arba mirštančiais žmonėmis, esą buvę įprasta pagreitinti jų mirtį . Tuo nepatikės niekas, kas bent kiek pa- 13 13 Iš dalies tą darė herulai - tai pasakysime mūsų istorijos tęsiny­ je, - bet ne smurtu ir ne pagal religijos nuostatus, o tik prietaringų ir ligos palaužtų senelių prašymu."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Henenbergeris – prūsų kronikininkas, kurį Narbutas mini tarp Kristijono, pirmojo Kulmo, arba Prūsijos, vyskupo, kroniką apie senovės Prūsiją citavusių autorių. Jo užrašai svarbūs Nemuno deltos istorijai: jis pateikė daugybės šiandien nebeegzistuojančių šakų pavadinimus, tarp jų Akmenės, Szyrwinde, Alt-Russe, Neyupe ir Gilijos. Narbutas taip pat rėmėsi Henenbergeriu teigdamas, kad egzistavo sudinų gentis arba taip vadinta giminė. Henenbergeris pasakojo, kad XVI amžiaus pabaigoje prie Rusnės, Sakininkų kaime, augusi didžiulė liepa, prie kurios žmonės slapta melsdavosi. Jo tyrimuose aprašyta ir turtingųjų namų gedulo tradicija: gedulas trukdavęs keturias savaites, o samdytos raudotojos nuolat apraudodavusios mirusįjį. Pateikti duomenys prieštarauja dėl Henenbergerio datavimo: vienur jis vadinamas XV amžiaus, kitur jo laikų liudytoju XVI amžiaus pabaigoje kronikininku.","sentences":[{"sentence_id":"s1","text":"Henenbergeris – prūsų kronikininkas, kurį Narbutas mini tarp Kristijono, pirmojo Kulmo, arba Prūsijos, vyskupo, kroniką apie senovės Prūsiją citavusių autorių.","support_ids":["t-212197","c-196383"]},{"sentence_id":"s2","text":"Jo užrašai svarbūs Nemuno deltos istorijai: jis pateikė daugybės šiandien nebeegzistuojančių šakų pavadinimus, tarp jų Akmenės, Szyrwinde, Alt-Russe, Neyupe ir Gilijos.","support_ids":["t-213038","c-196614"]},{"sentence_id":"s3","text":"Narbutas taip pat rėmėsi Henenbergeriu teigdamas, kad egzistavo sudinų gentis arba taip vadinta giminė.","support_ids":["t-215238","c-195685"]},{"sentence_id":"s4","text":"Henenbergeris pasakojo, kad XVI amžiaus pabaigoje prie Rusnės, Sakininkų kaime, augusi didžiulė liepa, prie kurios žmonės slapta melsdavosi.","support_ids":["t-219600","c-199463"]},{"sentence_id":"s5","text":"Pateikti duomenys prieštarauja dėl Henenbergerio datavimo: vienur jis vadinamas XV amžiaus, kitur jo laikų liudytoju XVI amžiaus pabaigoje kronikininku.","support_ids":["t-213038","c-196614","t-219600","c-199463"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta abiem nurodytais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo nebeegzistuojančias Nemuno deltos šakas ir pateikia visus išvardytus pavadinimus, įskaitant Giliją."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai paremta šaltiniu, kuriame Narbutas Henenbergerį nurodo kaip sudinų genties ar giminės patvirtinimą."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo XVI amžiaus pabaigą, Sakininkų kaimą prie Rusnės, didžiulę liepą ir slaptą meldimąsi."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai pateikia nesuderinamus chronologinius teiginius: Henenbergeris vadinamas XV amžiaus kronikininku, tačiau kartu kalbama apie jo laikus XVI amžiaus pabaigoje."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-212197","c-196383"]},{"sentence_id":"s2","supported":true,"support_ids":["t-213038","c-196614"]},{"sentence_id":"s3","supported":true,"support_ids":["t-215238","c-195685"]},{"sentence_id":"s4","supported":true,"support_ids":["t-219600","c-199463"]},{"sentence_id":"s5","supported":true,"support_ids":["t-213038","c-196614","t-219600","c-199463"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":8,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 15a738f6f9f0722d
+object_page_generated_at: '2026-09-19T12:52:00+00:00'
+object_page_source_checked_at: '2026-09-19T12:52:00+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '2'
+object_page_seo_description: 'Henenbergeris – prūsų kronikininkas, kurį Narbutas mini tarp Kristijono, pirmojo Kulmo, arba Prūsijos, vyskupo, kroniką apie senovės Prūsiją citavusių…'
+object_page_seo_input_hash: 4d33d762063533f3963617b91bca7fb15fca9642c1c06e05bad2ee2960ef9e4e
+object_page_seo_generated_at: '2026-09-19T12:52:00+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Henenbergeris
 

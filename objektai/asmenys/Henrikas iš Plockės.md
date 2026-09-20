@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Henrikas iš Plockės'
+pavadinimas: Henrikas iš Plockės
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1314 m.'
-  - '1320 m.'
+  - 1314 m.
+  - 1320 m.
 date_start: '1314'
 date_end: '1320'
 sukurta: ''
@@ -15,28 +15,40 @@ tags:
   - karvedys
   - pareigūnas
 amziai:
-  - 'XIV'
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-0824540e39e301aa225f28d0"
-canonical_name: "Henrikas iš Plockės"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Henrikas iš Plockės"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-0824540e39e301aa225f28d0
+canonical_name: Henrikas iš Plockės
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Henrikas iš Plockės
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir. Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du. Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje."
+canonical_biography: 'Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir. Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du. Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:04:13+00:00","source_checked_at":"2026-09-20T06:04:13+00:00","counts":{"relations":6,"gallery":0,"sources":1},"featured_claim_ids":["t-221830","t-223789","t-220360","t-220680","t-222319"],"featured_claims":[{"claim_id":"t-221830","text":"1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-204322"]},{"claim_id":"t-223789","text":"1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-204096"]},{"claim_id":"t-220360","text":"Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-205266"]},{"claim_id":"t-220680","text":"1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202597","c-204322","c-205266"]},{"claim_id":"t-222319","text":"1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių.","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","evidence_ids":["c-202862","c-204322"]}],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b9189918071a8e7668024f82","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Prūsijos žemės maršalas","context":"XIV a. pradžioje, vadovavo kariuomenės žygiams ir apguloms.","support_ids":["t-220360","c-205266"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220360","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205266","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą. 317 (310)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Henrikas iš Plockės buvo Prūsijos žemės maršalas ir Vokiečių ordino karo vadas, vadovavęs žygiams į Lietuvos valsčius bei pilių apgultims. 1314 m. apie vasario 2 d. jis su visa kariuomene puolė Sizditės pilį Medininkų valsčiuje, tačiau pilėnai atkakliai priešinosi, o ordino kariai patyrė nuostolių. 1316 m. Henrikas nusiaubė Paštuvos valsčių, degindamas ir plėšdamas gyvenvietes, o vėliau, prisidėjęs Reino krašto maldininkams, surengė žygį į Medininkų valsčių. Tarp jo karinių veiksmų išsiskyrė Bisenės pilies apgultis, kurios metu kariuomenė Nemune pastatė laivų tiltą ir naudojo karo įrenginius, tačiau pilies užimti nepajėgė. 1320 m. liepos 27 d. Medininkų valsčiuje Henrikas žuvo per mūšį kartu su 29 broliais ir daugybe kitų žmonių.","sentences":[{"sentence_id":"s1","text":"Henrikas iš Plockės buvo Prūsijos žemės maršalas ir Vokiečių ordino karo vadas, vadovavęs žygiams į Lietuvos valsčius bei pilių apgultims.","support_ids":["t-220360","t-220680","t-223789"]},{"sentence_id":"s2","text":"1314 m. apie vasario 2 d. jis su visa kariuomene puolė Sizditės pilį Medininkų valsčiuje, tačiau pilėnai atkakliai priešinosi, o ordino kariai patyrė nuostolių.","support_ids":["t-223789","c-204096"]},{"sentence_id":"s3","text":"1316 m. Henrikas nusiaubė Paštuvos valsčių, degindamas ir plėšdamas gyvenvietes, o vėliau, prisidėjęs Reino krašto maldininkams, surengė žygį į Medininkų valsčių.","support_ids":["t-220680","c-202597","t-222319","c-202862"]},{"sentence_id":"s4","text":"Tarp jo karinių veiksmų išsiskyrė Bisenės pilies apgultis, kurios metu kariuomenė Nemune pastatė laivų tiltą ir naudojo karo įrenginius, tačiau pilies užimti nepajėgė.","support_ids":["t-220360","c-205266"]},{"sentence_id":"s5","text":"1320 m. liepos 27 d. Medininkų valsčiuje Henrikas žuvo per mūšį kartu su 29 broliais ir daugybe kitų žmonių.","support_ids":["t-221830","c-204322"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai Henriką įvardija Prūsijos žemės maršalu ir aprašo jo vadovautus žygius bei apgultis."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1314 m. žygį su visa kariuomene į Medininkų valsčių, Sizditės pilies puolimą, pilėnų pasipriešinimą ir ordino nuostolius."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina 1316 m. Paštuvos valsčiaus nusiaubimą ir vėlesnį žygį į Medininkų valsčių kartu su Reino krašto maldininkais."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai aprašo Bisenės pilies apgultį, laivų tiltą per Nemuną, karo įrenginius ir nesėkmingą puolimą."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1320 m. liepos 27 d. Henriko žūtį Medininkų valsčiuje kartu su 29 broliais ir daugybe kitų žmonių."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-220360","t-220680","t-223789"]},{"sentence_id":"s2","supported":true,"support_ids":["t-223789","c-204096"]},{"sentence_id":"s3","supported":true,"support_ids":["t-220680","c-202597","t-222319","c-202862"]},{"sentence_id":"s4","supported":true,"support_ids":["t-220360","c-205266"]},{"sentence_id":"s5","supported":true,"support_ids":["t-221830","c-204322"]}],"verifier":"gpt-5.6-luna"},"quality":50,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"outbound","target":"objektai/vietos/Bisenė","claim_id":"t-220360","confidence":0.91},{"predicate":"mire","direction":"outbound","target":"objektai/vietos/Medininkai","claim_id":"t-221830","confidence":0.82},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Bisenė","claim_id":"t-220360","confidence":0.9},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Medininkai","claim_id":"t-222319","confidence":0.88},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Sizditė","claim_id":"t-223789","confidence":0.96},{"predicate":"surenge_zygi_i","direction":"outbound","target":"objektai/vietos/Medininkai","claim_id":"t-221830","confidence":0.9}],"timeline":[{"date":"1314 m.","label":"1314 m.","claimId":"t-223789"},{"date":"1316 m.","label":"1316 m.","claimId":"t-220680"},{"date":"1316 m.","label":"1316 m.","claimId":"t-222319"},{"date":"1320 m.","label":"1320 m.","claimId":"t-221830"}],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6085f61e5a16cec1
+object_page_generated_at: '2026-09-20T06:04:13+00:00'
+object_page_source_checked_at: '2026-09-20T06:04:13+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Henrikas iš Plockės buvo Prūsijos žemės maršalas ir Vokiečių ordino karo vadas, vadovavęs žygiams į Lietuvos valsčius bei pilių apgultims. 1314 m. apie…'
+object_page_seo_input_hash: a34451631f58467cd7103d17594f7c14009a2abe4ff30aa2085b87d6c1f15666
+object_page_seo_generated_at: '2026-09-20T06:04:13+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Henrikas iš Plockės
 

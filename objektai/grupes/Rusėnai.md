@@ -1,14 +1,14 @@
 ---
 tipas: grupe
-pavadinimas: 'Rusėnai'
+pavadinimas: Rusėnai
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1490 m.'
-  - '1517 m.'
-  - '1519 m.'
-  - '1522 m.'
-  - '1541 m.'
+  - 1490 m.
+  - 1517 m.
+  - 1519 m.
+  - 1522 m.
+  - 1541 m.
 date_start: '1490'
 date_end: '1541'
 sukurta: ''
@@ -18,20 +18,30 @@ tags:
   - grupe
   - tauta
 amziai:
-  - 'XV'
-  - 'XVI'
+  - XV
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Rusėnai","url":"https://lt.wikipedia.org/wiki/Rus%C4%97nai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"rusėnai","url":"https://www.vle.lt/straipsnis/rusenai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T16:51:23+00:00","source_checked_at":"2026-09-19T16:51:23+00:00","counts":{"relations":4,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Rusėnai","url":"https://lt.wikipedia.org/wiki/Rus%C4%97nai","publisher":"Vikipedija","language":"lt","article_id":"18184","revision_id":"7055652","published_at":"2023-09-15T15:03:24Z","version_pk":"","content_hash":"fea806164602d4e02d421bdf0b6dc452723b5299c692bc889584ae0d366a559f","retrieved_at":"2026-09-19T16:50:35+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Rus%C4%97nai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"18184"}},"intro":"Nepainioti su Rusinai. Apie kaimą Vilniaus rajone žr. Rusėnai (kaimas).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Rusėnai","url":"https://lt.wikipedia.org/wiki/Rus%C4%97nai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"rusėnai","url":"https://www.vle.lt/straipsnis/rusenai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Rus%C4%97nai","https://www.vle.lt/straipsnis/rusenai/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sajungininkas_su","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-170310","confidence":0.92},{"predicate":"dalyvavo_musyje","direction":"outbound","target":"objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)","claim_id":"t-66813","confidence":0.84},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Lenkija","claim_id":"t-169928","confidence":0.87},{"predicate":"priklause","direction":"inbound","target":"objektai/grupes/Tiškevičiai","claim_id":"t-20050","confidence":0.78}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 088718d985b43aaf
+object_page_generated_at: '2026-09-19T16:51:23+00:00'
+object_page_source_checked_at: '2026-09-19T16:51:23+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Rusėnai: Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip…'
+object_page_seo_input_hash: 47d8b445ed8a468b13660294e1cde748dd52a216dcd2949cc9912c05543054e1
+object_page_seo_generated_at: '2026-09-19T16:51:23+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Rusėnai
 

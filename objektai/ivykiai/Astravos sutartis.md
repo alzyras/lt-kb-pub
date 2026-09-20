@@ -1,11 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Astravos sutartis'
+pavadinimas: Astravos sutartis
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1392 m.'
+  - 1392 m.
 date_start: '1392'
 date_end: ''
 sukurta: ''
@@ -14,19 +14,29 @@ tags:
   - sutartis
   - ivykis
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Astravos sutartis","url":"https://lt.wikipedia.org/wiki/Astravos_sutartis","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Astravos Sutartis","url":"https://www.vle.lt/straipsnis/astravos-sutartis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:52:04+00:00","source_checked_at":"2026-09-20T12:52:04+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Astravos sutartis","url":"https://lt.wikipedia.org/wiki/Astravos_sutartis","publisher":"Vikipedija","language":"lt","article_id":"28267","revision_id":"7855210","published_at":"2026-06-13T08:37:08Z","version_pk":"","content_hash":"56b68ce5f927548aba0144ae645fe040991730aa0e5e30c26b7eee127944e596","retrieved_at":"2026-09-20T12:51:24+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Astravos_sutartis&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"28267"}},"intro":"Astravos sutartis – 1392 m. rugpjūčio 4 d. pasirašyta Jogailos ir Vytauto sutartis, pagal kurią Jogaila sugrąžino Vytautui Trakų kunigaikštystę ir kitas tėvonines žemes bei dovanojo naujų. Vytautas gavo teisę valdyti LDK su sostine Vilniuje ir tituluotis „Lietuvos kunigaikščiu“. Jis oficialiai pripažino esąs Jogailos vasalas, kurio žemės po jo mirties atiteks siuzerenui – Lenkijos karaliui. Skirgailai paliktas valdyti Polockas, vėliau – Kijevo kunigaikštystė.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Astravos sutartis","url":"https://lt.wikipedia.org/wiki/Astravos_sutartis","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Astravos Sutartis","url":"https://www.vle.lt/straipsnis/astravos-sutartis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Astravos_sutartis","https://www.vle.lt/straipsnis/astravos-sutartis/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 56588f4797f4a85f
+object_page_generated_at: '2026-09-20T12:52:04+00:00'
+object_page_source_checked_at: '2026-09-20T12:52:04+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Astravos sutartis: Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Lydą. 1930 m. veikale ši taika vadinama Ostrovos taika ir…'
+object_page_seo_input_hash: bcaa184daf090eb4854d6cc19265359894ad735ec2ccb8acaa8dab0a2232591a
+object_page_seo_generated_at: '2026-09-20T12:52:04+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Astravos sutartis
 

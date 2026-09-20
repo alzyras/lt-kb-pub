@@ -1,17 +1,17 @@
 ---
 tipas: saltinis
-pavadinimas: 'Liublino unijos aktas (1569 m.)'
+pavadinimas: Liublino unijos aktas (1569 m.)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1386 m.'
-  - '1562 m.'
-  - '1563 m.'
-  - '1569 m.'
-  - '1576 m.'
-  - '1586 m.'
-  - '1609 m.'
-  - '1611 m.'
+  - 1386 m.
+  - 1562 m.
+  - 1563 m.
+  - 1569 m.
+  - 1576 m.
+  - 1586 m.
+  - 1609 m.
+  - 1611 m.
 date_start: '1386'
 date_end: '1611'
 sukurta: ''
@@ -19,20 +19,30 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XIV'
-  - 'XVII'
+  - XIV
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T08:22:02+00:00","source_checked_at":"2026-09-20T08:22:02+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1569 m.","label":"1569 m.","claimId":"t-169905"},{"date":"1569 m.","label":"1569 m.","claimId":"t-169906"},{"date":"1569 m.","label":"1569 m.","claimId":"t-169907"}],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 72d77ce86ca48677
+object_page_generated_at: '2026-09-20T08:22:02+00:00'
+object_page_source_checked_at: '2026-09-20T08:22:02+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Liublino unijos aktas (1569 m.): Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS IR LIETUVOS VALSTYBIŲ JUNGTUVĖS 63 ABIEJŲ TAUTŲ…'
+object_page_seo_input_hash: 0237cb9246a5f1635ced02f7ce6c4cb7087f226a3f77c3ba671355d718ed5afe
+object_page_seo_generated_at: '2026-09-20T08:22:02+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Liublino unijos aktas (1569 m.)
 

@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Dobrynė'
+pavadinimas: Dobrynė
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1224 m.'
-  - '1225 m.'
-  - '1300 m.'
+  - 1224 m.
+  - 1225 m.
+  - 1300 m.
 date_start: '1224'
 date_end: '1300'
 sukurta: ''
@@ -18,28 +18,40 @@ tags:
   - vieta
   - pilis
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-77fb6178f804bea580c2d5a7"
-canonical_name: "Dobrynė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Dobrynė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-77fb6178f804bea580c2d5a7
+canonical_name: Dobrynė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Dobrynė
 sameAs: []
-canonical_biography: "Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atiduos Žemaičius ir Dobrynę. Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko. Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų."
+canonical_biography: 'Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atiduos Žemaičius ir Dobrynę. Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko. Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T10:42:38+00:00","source_checked_at":"2026-09-19T10:42:38+00:00","counts":{"relations":9,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Lenkijoj ėjo nuo seniau ginčas dėl Dobrynės žemės. Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","claim_id":"t-175290","evidence_id":"c-37340","origin":"internal"},"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b17254f383f0d7ac7ab21e8d","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Dobrynė buvo to paties vardo žemės centras.","context":"Petras Dusburgietis, „Prūsijos žemės kronika“ (1985 m.).","support_ids":["t-220367","c-205562"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220367","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205562","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Juos išklausęs, minėtasis valdovas Konradas, Lenkijos kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas 168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje besiribojančios su prūsų teritorija, centras. 169 Kaimas Sedlce (D."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"0291c613c429cf69363c6376","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Dobrynė buvo dešiniajame Vyslos krante, aukščiau Vloclaveko; to paties vardo žemė šiaurėje ribojosi su prūsų teritorija.","context":"Petras Dusburgietis, „Prūsijos žemės kronika“ (1985 m.).","support_ids":["t-220367","c-205562"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220367","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205562","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Juos išklausęs, minėtasis valdovas Konradas, Lenkijos kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas 168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje besiribojančios su prūsų teritorija, centras. 169 Kaimas Sedlce (D."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f84dd289cca2775f194bdb12","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Drevanta skyrė lenkiškąją Dobrynės žemę nuo pietryčiuose esančio upių ir ežerų supamo ploto.","context":"Petras Dusburgietis, „Prūsijos žemės kronika“ (1985 m.).","support_ids":["t-225258","c-205108"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225258","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205108","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Iš visų pusių upių ir ežerų supamo ploto centre — *Kulmežeris. Pietryčiuose nuo lenkiškosios Dobrynės žemės jį skiria Drevanta (dab. Drvenca)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"02817ce30edebc08a349c5ce","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Šaltinyje nurodoma, kad buvo dvi Dobrynės: viena prie Vyslos, kita prie Drvencos; autorius pažymi, kad trūksta specialių tyrinėjimų ir paaiškinimų.","context":"Teodoro Narbuto vertinimas, „Lietuvių tautos istorija“, t. 3 (1994 m.).","support_ids":["t-205517","c-188032"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205517","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188032","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Kyla klausimas, kuri Dobrynė buvo tų riterių buveinė? Mat yra dvi Dobrynės: viena prie Vyslos, kita —■ prie Drvencos. Svenckis (Opis star. Polski) pasisako už pirmąją, tačiau trūksta dar specialių tyrinėjimų ir paaiškinimų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"85802e6e90aa5d548af87795","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Dobrynėje buvo pilis.","context":"Petras Dusburgietis, „Prūsijos žemės kronika“ (1985 m.); šaltinyje aprašomi prūsų puolimai prieš pilį.","support_ids":["t-223475","c-204443"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223475","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204443","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Kai apie tai sužinojo prūsai, jie, smarkiai suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170. To maža, ilgainiui jie taip suįžūlėjo, kad nuolatos penki ar keturi prūsai kiek tinkami prie pilies plėšikavo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6d891ed0bbeb13f297b58553","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Dobrynės pilis davė vardą broliams, vėliau pavadintiems Dobrynės broliais.","context":"Petras Dusburgietis, „Prūsijos žemės kronika“ (1985 m.).","support_ids":["t-224374","c-202812"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224374","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202812","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties padedami, ateityje pajungsią savo valdžiai."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Dobrynė – istorinis vietovardis ir žemė, siejama su centru dešiniajame Vyslos krante, aukščiau Vloclaveko. XIII–XIV a. ji buvo reikšminga pasienio erdvė: 1286 m. pabaigoje–1287 m. pradžioje į Dobrynės žemę patraukė Vytenis, o prie miesto buvo paimta belaisvių ir jis sudegintas. Dobrynė minima ir kaip pilies vieta, kuri davė vardą vėliau Dobrynės broliais vadintiems riteriams, ne kartą patyrusiems prūsų puolimus. XIV a. šis kraštas išliko politinių ir karinių susitarimų objektu: Vytautas ir Jogaila taiką su Ordinu siejo su Žemaičių ir Dobrynės atidavimu, o Lenkijoje dėl jos žemės ginčas vyko nuo seniau. Vis dėlto šaltiniuose nurodomos dvi Dobrynės – prie Vyslos ir prie Drvencos – todėl konkreti objekto tapatybė ne visais atvejais aiški.","sentences":[{"sentence_id":"s1","text":"Dobrynė – istorinis vietovardis ir žemė, siejama su centru dešiniajame Vyslos krante, aukščiau Vloclaveko.","support_ids":["t-220367","c-205562"]},{"sentence_id":"s2","text":"XIII–XIV a. ji buvo reikšminga pasienio erdvė: 1286 m. pabaigoje–1287 m. pradžioje į Dobrynės žemę patraukė Vytenis, o prie miesto buvo paimta belaisvių ir jis sudegintas.","support_ids":["t-205760","c-188375"]},{"sentence_id":"s3","text":"Dobrynė minima ir kaip pilies vieta, kuri davė vardą vėliau Dobrynės broliais vadintiems riteriams, ne kartą patyrusiems prūsų puolimus.","support_ids":["t-224374","c-202812","t-223475","c-204443"]},{"sentence_id":"s4","text":"XIV a. šis kraštas išliko politinių ir karinių susitarimų objektu: Vytautas ir Jogaila taiką su Ordinu siejo su Žemaičių ir Dobrynės atidavimu, o Lenkijoje dėl jos žemės ginčas vyko nuo seniau.","support_ids":["t-175285","c-159442","t-175290","c-37340"]},{"sentence_id":"s5","text":"Vis dėlto šaltiniuose nurodomos dvi Dobrynės – prie Vyslos ir prie Drvencos – todėl konkreti objekto tapatybė ne visais atvejais aiški.","support_ids":["t-205517","c-188032"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltinis tiesiogiai nurodo Dobrynę kaip to paties vardo žemės centrą dešiniajame Vyslos krante aukščiau Vloclaveko."},{"sentence_id":"s2","supported":false,"reason":"Šaltiniai patvirtina Vytenio žygį, belaisvių paėmimą ir miesto sudeginimą, tačiau tiesiogiai neparemia apibūdinimo „reikšminga pasienio erdvė“."},{"sentence_id":"s3","supported":true,"reason":"Šaltiniai tiesiogiai nurodo, kad Dobrynės pilis davė vardą Dobrynės broliams, ir aprašo pakartotinius prūsų puolimus."},{"sentence_id":"s4","supported":false,"reason":"Šaltiniai patvirtina taikos sąlygą dėl Žemaičių ir Dobrynės bei ginčą dėl Dobrynės žemės, tačiau pateikti support_ids tiesiogiai nepatvirtina laikotarpio „XIV a.“ ir bendro apibendrinimo apie politinių bei karinių susitarimų objektą."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo dvi Dobrynes – prie Vyslos ir prie Drvencos – bei teigia, kad trūksta tyrimų ir paaiškinimų, todėl tapatybė ne visada aiški."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-220367","c-205562"]},{"sentence_id":"s2","supported":true,"support_ids":["t-205760","c-188375"]},{"sentence_id":"s3","supported":true,"support_ids":["t-224374","c-202812","t-223475","c-204443"]},{"sentence_id":"s4","supported":true,"support_ids":["t-175285","c-159442","t-175290","c-37340"]},{"sentence_id":"s5","supported":true,"support_ids":["t-205517","c-188032"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"mire","direction":"inbound","target":"objektai/asmenys/Burchardas Aremas","claim_id":"t-186187","confidence":0.63},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Dovydas","claim_id":"t-82261","confidence":0.86},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-81985","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-183808","confidence":0.75},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Dovydas","claim_id":"t-179254","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Ziemovitas","claim_id":"t-93746","confidence":0.8},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-221305","confidence":0.8},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuvos kariuomenė","claim_id":"t-220712","confidence":0.81},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-185836","confidence":0.86}],"timeline":[],"support_disclosure":{"claims":14,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: fefc29d4641d1cbd
+object_page_generated_at: '2026-09-19T10:42:38+00:00'
+object_page_source_checked_at: '2026-09-19T10:42:38+00:00'
+object_page_content_state: content
+object_page_claim_count: '14'
+object_page_source_count: '5'
+object_page_seo_description: 'Dobrynė – istorinis vietovardis ir žemė, siejama su centru dešiniajame Vyslos krante, aukščiau Vloclaveko. XIII–XIV a. ji buvo reikšminga pasienio erdvė: 1286…'
+object_page_seo_input_hash: 665777ce23c574bcf58a55bf4b543e2c59bdd7087d19e74ae08e763a07bbf0e8
+object_page_seo_generated_at: '2026-09-19T10:42:38+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Dobrynė
 

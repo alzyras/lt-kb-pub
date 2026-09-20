@@ -1,16 +1,16 @@
 ---
 tipas: vieta
-pavadinimas: 'Kražiai'
+pavadinimas: Kražiai
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1618 m.'
-  - '1836 m.'
-  - '1840 m.'
-  - '1905 m.'
-  - '2026 m.'
+  - 1618 m.
+  - 1836 m.
+  - 1840 m.
+  - 1905 m.
+  - 2026 m.
 date_start: '1618'
 date_end: '2026'
 sukurta: ''
@@ -19,29 +19,41 @@ tags:
   - vieta
   - miestelis
 amziai:
-  - 'XVII'
-  - 'XXI'
+  - XVII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-63784ee184abc8d0d5cc53fd"
-canonical_name: "Kražiai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kražiai"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-63784ee184abc8d0d5cc53fd
+canonical_name: Kražiai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kražiai
 sameAs: []
-canonical_biography: "Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt."
+canonical_biography: 'Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Kražiai","url":"https://lt.wikipedia.org/wiki/Kra%C5%BEiai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Kražiai","url":"https://www.vle.lt/straipsnis/kraziai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:36:32+00:00","source_checked_at":"2026-09-19T22:36:32+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Kražiai","url":"https://lt.wikipedia.org/wiki/Kra%C5%BEiai","publisher":"Vikipedija","language":"lt","article_id":"19541","revision_id":"7680945","published_at":"2025-10-28T21:43:20Z","version_pk":"","content_hash":"8c1e1746d8714b464494217afa2671401c8d5098250f5dfbc126aeceecfa983b","retrieved_at":"2026-09-19T22:35:44+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Kra%C5%BEiai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"19541"}},"intro":"Kražiai – miestelis Kelmės rajono savivaldybėje, 16 km į vakarus nuo Kelmės, prie kelio Kelmė–Varniai. Urbanistikos paminklas. Seniūnijos ir seniūnaitijos centras. Stovi Kražių Švč. Mergelės Marijos Nekaltojo Prasidėjimo bažnyčia, veikia Kražių gimnazija, biblioteka, kraštotyros muziejus, paštas (LT-86026). Iš Kražių kolegijos išlikęs moksleivių bendrabutis (bursa; XVII a. gotikos ir renesanso bruožų), Radvilų pilies liekanos. Link Medžiokalnio veda tautodailininkų medžio skulptūrų alėja (nuo 2003 m.).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Kražiai","url":"https://lt.wikipedia.org/wiki/Kra%C5%BEiai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Kražiai","url":"https://www.vle.lt/straipsnis/kraziai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Kra%C5%BEiai","https://www.vle.lt/straipsnis/kraziai/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Kazokai","claim_id":"t-183228","confidence":0.87}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 34cd117e5d3a28a0
+object_page_generated_at: '2026-09-19T22:36:32+00:00'
+object_page_source_checked_at: '2026-09-19T22:36:32+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Kražiai: Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt.'
+object_page_seo_input_hash: 746c71a4f3a7a90a42af59166ee600c1689660b0a1352c3f003a79c83342e5e4
+object_page_seo_generated_at: '2026-09-19T22:36:32+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kražiai
 

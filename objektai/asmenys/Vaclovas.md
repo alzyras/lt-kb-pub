@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Vaclovas'
+pavadinimas: Vaclovas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1336 m.'
-  - '1410 m.'
+  - 1336 m.
+  - 1410 m.
 date_start: '1336'
 date_end: '1410'
 sukurta: ''
@@ -15,29 +15,41 @@ tags:
   - asmuo
   - kunigaikštis
 amziai:
-  - 'XIV'
-  - 'XV'
+  - XIV
+  - XV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7f7b231e9131315decadd551"
-canonical_name: "Vaclovas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Vaclovas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7f7b231e9131315decadd551
+canonical_name: Vaclovas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Vaclovas
 sameAs: []
-canonical_biography: "Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) iki kitų metų šv. Sprendimu Vaclovo, kuris iš kryžiuočių už tai gavo keliasdešimt tūkstančių vengriškų « raudonųjų », Pra­ goję 1410.II.15 d. buvo surašytas naujas dokumentas."
+canonical_biography: 'Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) iki kitų metų šv. Sprendimu Vaclovo, kuris iš kryžiuočių už tai gavo keliasdešimt tūkstančių vengriškų « raudonųjų », Pra­ goję 1410.II.15 d. buvo surašytas naujas dokumentas.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T02:47:30+00:00","source_checked_at":"2026-09-20T02:47:30+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"cc8e34a44f155870df30e3f2","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Mazovijos kunigaikštis; Plocko kunigaikštis; Čekijos karalius ir nuo 1300 m. Lenkijos karalius.","context":"Albertas Vijūkas-Kojelavičius Vaclovą, dar vadinamą Vanka, apibūdina kaip Mazovijos kunigaikštį; Teodoras Narbutas – kaip Plocko kunigaikštį; Petras Dusburgietis nurodo, kad 1300 m. jis, būdamas Čekijos karalius, buvo vainikuotas Lenkijos karaliumi.","support_ids":["t-184851","c-168212","t-205726","c-188341","t-224486","c-202456"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184851","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"internal_claim","claim_id":"t-205726","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"internal_claim","claim_id":"t-224486","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-168212","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Kadangi tyli ir metraš­ tininkai, aišku, kad artimiausiais metais ir su kaimy­ nais gyventa santaikoje, ir valstybės viduje nebuvo jokių sambrūzdžių. Ramybė liovėsi, kai mirė Vanka, arba Vaclovas, Mazovijos kunigaikštis (vedęs Algirdo seserį). Lietuviai, manydami, jog kunigaikščio mirtimi nutraukiama ir giminystė, ir 1336 m e ta i santarvė, su didžiule kariuo­ mene lapkričio mėnesį nu­ niokojo Mažo vi ją; žygyje dalyvavo pats Algirdas su kitais broliais; rašoma, jog buvo išvesta tūkstantis du šimtai belaisvių."},{"kind":"evidence","evidence_id":"c-188341","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Prie tos sutarties prisidėjo ir kiti Mazovijos kunigaikš­ čiai, ypač Plocko kunigaikštis Vanka, arba Vaclovas"},{"kind":"evidence","evidence_id":"c-202456","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3df7d80536ff0871444270f5","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Tarpininkavo sudarant paliaubas.","context":"Zenonas Ivinskis nurodo, kad 1409 m. spalio 8 d. Vaclovui tarpininkaujant buvo sudarytos paliaubos iki 1410 m. birželio 24 d.","support_ids":["t-28977","c-28881"],"source_refs":[{"kind":"internal_claim","claim_id":"t-28977","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-28881","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) iki kitų metų šv. Jono (VI.24) buvo padarytos paliau­ bos 1 2."}],"status":"published","conflict_status":"clear"},{"trait_id":"ae1d0afcff3c1bf851692eea","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Prisidėjo prie sutarties, prie kurios jungėsi kiti Mazovijos kunigaikščiai.","context":"Pasak Teodoro Narbuto, Plocko kunigaikštis Vanka, arba Vaclovas, prisidėjo prie sutarties; aprašomas istorinis įvykis, kuriame dalyvavo ir kiti Mazovijos kunigaikščiai.","support_ids":["t-205726","c-188341"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205726","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188341","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Prie tos sutarties prisidėjo ir kiti Mazovijos kunigaikš­ čiai, ypač Plocko kunigaikštis Vanka, arba Vaclovas"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 966c9ec592ef63f0
+object_page_generated_at: '2026-09-20T02:47:30+00:00'
+object_page_source_checked_at: '2026-09-20T02:47:30+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '4'
+object_page_seo_description: 'Vaclovas: Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) iki kitų metų šv. Sprendimu Vaclovo, kuris iš kryžiuočių už tai gavo…'
+object_page_seo_input_hash: c3ff425327eb454cc150e16eeac7a3fc5d817bcea3f01477d021c58caf18a8e0
+object_page_seo_generated_at: '2026-09-20T02:47:30+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vaclovas
 

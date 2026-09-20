@@ -1,17 +1,17 @@
 ---
 tipas: vieta
-pavadinimas: 'Mažoji Lietuva'
+pavadinimas: Mažoji Lietuva
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1422 m.'
-  - '1750 m.'
-  - '1879 m.'
-  - '1914 m.'
-  - '1921 m.'
-  - '1970 m.'
+  - 1422 m.
+  - 1750 m.
+  - 1879 m.
+  - 1914 m.
+  - 1921 m.
+  - 1970 m.
 date_start: '1422'
 date_end: '1970'
 sukurta: ''
@@ -20,29 +20,41 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XV'
-  - 'XX'
+  - XV
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a45f001afaab7c25bd9cba85"
-canonical_name: "Mažoji Lietuva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Mažoji Lietuva"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a45f001afaab7c25bd9cba85
+canonical_name: Mažoji Lietuva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Mažoji Lietuva
 sameAs: []
-canonical_biography: "Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius. Tuo pat metu protestantizmas labai uoliai buvo platinamas ir Mažojoje Lietuvoje. Lietuviškai protestantizmas tebuvo skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judėjimas buvo labai silpnas ir trumpas."
+canonical_biography: 'Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius. Tuo pat metu protestantizmas labai uoliai buvo platinamas ir Mažojoje Lietuvoje. Lietuviškai protestantizmas tebuvo skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judėjimas buvo labai silpnas ir trumpas.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Mažoji Lietuva","url":"https://lt.wikipedia.org/wiki/Ma%C5%BEoji_Lietuva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T10:24:18+00:00","source_checked_at":"2026-09-19T10:24:18+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Mažoji Lietuva","url":"https://lt.wikipedia.org/wiki/Ma%C5%BEoji_Lietuva","publisher":"Vikipedija","language":"lt","article_id":"9896","revision_id":"7859103","published_at":"2026-06-16T10:38:41Z","version_pk":"","content_hash":"e1b05ba9fbb8c04c29d4c5962410aa18213a6724fc594b22ad3e0c31dad519f9","retrieved_at":"2026-09-19T10:23:23+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Ma%C5%BEoji_Lietuva&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"9896"}},"intro":"Mažoji Lietuva (vok. Kleinlitauen), arba Prūsų Lietuva (vok. Preußisch Litauen) – istorinis-etnografinis Prūsijos, o vėliau Rytprūsių regionas, apėmęs šiaurrytines Prūsijos provincijos dalis, kuriose gyveno lietuvininkai. Iki Kalavijuočių Ordino invazijos XIII a., vėliau Mažąja Lietuva tapusio regiono gyventojai buvo daugiausia skalvių ir nadruvių gentys. Vykstant kovoms tarp Lietuvos ir Ordino ši teritorija prarado didelę dalį savo gyventojų. Regionas vėl pradėtas apgyvendinti po Melno taikos, gyventojų pagrindą sudarė likusieji baltai, naujai atsikėlę lietuviai ir iš kitų Prūsijos regionų grįžtantys gyventojai. „Mažosios Lietuvos“ sąvoka pirmą kartą paminėta tarp 1517 ir 1526 m. Šiuo metu jo dauguma priklauso Kaliningrado sričiai, dalis – Lietuvos Respublikai (Klaipėdos kraštas) ir Lenkijai. Siaurąja prasme taip vadinamas ir tik Klaipėdos kraštas, esantis vienu iš penkių dabartinės Lietuvos etnokultūrinių regionų. Veikiama protestantų bažnyčios ir Prūsijos valstybės Mažojoje Lietuvoje susiformavo savita lietuvių kultūra, kuri skyrėsi nuo Lenkijos ypač paveiktos katalikiškos Lietuvos Didžiosios Kunigaikštystės lietuvių kultūros. Mažosios Lietuvos lietuviai save vadino lietuvininkais ir tuo skyrėsi nuo Didžiosios Kunigaikštystės lietuvių. Nors po 1945 m. Mažojoje Lietuvoje praktiškai nebeliko lietuvininkų ir jų kultūros, šis regionas buvo svarbus Lietuvos kultūrai. Mažojoje Lietuvoje buvo išspausdinta pirmoji knyga lietuvių kalba, pirmoji lietuviška Biblija, pirmoji lietuvių kalbos gramatika, pradėtas leisti pirmasis laikraštis lietuvių kalba. Iki 1709–1710 m. maro lietuviai sudarė Rytprūsių gyventojų daugumą, gyveno daugiausia kaime, o miestuose vyravo vokiečiai. Iki pat II Pasaulinio karo pabaigos tai buvo ypatingas regionas, su daugmaž vienoda vokiečių ir lietuvių populiacija. Per ilgalaikę Prūsijos ir Vokietijos imperijos istoriją buvo įvairiai vadinamas - Lietuvos departamentas, Rytprūsiai. Unikalus krašto vystymasis ir istorija baigėsi 1946 m. pasitraukus 99% natūralių gyventojų (1945 m. sovietams artinantis Mėmelyje buvo likę 6 žmonės) ir kraštui tapus LTSR dalimi, kuomet atvyko naujakuriai iš didžiosios Lietuvos ir RTFSR.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Mažoji Lietuva","url":"https://lt.wikipedia.org/wiki/Ma%C5%BEoji_Lietuva","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Ma%C5%BEoji_Lietuva"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e7f3311be779f9bf
+object_page_generated_at: '2026-09-19T10:24:18+00:00'
+object_page_source_checked_at: '2026-09-19T10:24:18+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Mažoji Lietuva: Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius. Tuo…'
+object_page_seo_input_hash: fb352c5a311d14044b0223fb014845457a388f65d8bb64aec2e3b03e1c647e0b
+object_page_seo_generated_at: '2026-09-19T10:24:18+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mažoji Lietuva
 

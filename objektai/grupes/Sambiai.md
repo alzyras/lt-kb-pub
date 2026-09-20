@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Sambiai'
+pavadinimas: Sambiai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -15,12 +15,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:30:46+00:00","source_checked_at":"2026-09-20T10:30:46+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f46feece83e5bdd052d61066","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Kovėsi gindami savo namus ir dievų šventyklas; lietuviai ir sambiai supylė apkasus gindami senąją pilį.","context":"Teodoras Narbutas sambius apibūdina kaip narsiai kovojusius; aprašomi įvykiai susiję su danų riterių puolimu ir senosios pilies gynyba.","support_ids":["t-205343","c-187845","t-214759","c-197233"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205343","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"internal_claim","claim_id":"t-214759","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-187845","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Šaunūs sambiai taip narsiai kovėsi gindami savo namus ir dievų šventyklas, ikad po kruvinų ir baisių sker­ dynių danų riteriai buvo priversti trauktis į savo laivus."},{"kind":"evidence","evidence_id":"c-197233","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Miesto riba turėjo būti prie apkasų, kur prieš daugelį metų prie Ne­ muno stovėjo pilis, prie Memelio ir Dangės upės santakos, iki pat apkasų, kuriuos buvo supylę lietuviai ir sambiai, gindami senąją pilį."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 9b9b112b8fe4ac9e
+object_page_generated_at: '2026-09-20T10:30:46+00:00'
+object_page_source_checked_at: '2026-09-20T10:30:46+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Sambiai: Narbutas prie „didžiųjų“ lietuvių dievų priskyrė dievus, kuriuos M. Strijkovskis siejo su lietuviais, žemaičiais, sambiais, latviais ir prūsais.'
+object_page_seo_input_hash: c905e9a0e997a7cfb220b6c3afde6faf8e9311ce76ca58816b88313d36ced4bf
+object_page_seo_generated_at: '2026-09-20T10:30:46+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Sambiai
 

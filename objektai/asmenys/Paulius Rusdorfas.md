@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Paulius Rusdorfas'
+pavadinimas: Paulius Rusdorfas
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -22,19 +22,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-7e2b7ab5fac20dd1202e8ba2"
-canonical_name: "Paulius Rusdorfas"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Paulius Rusdorfas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-7e2b7ab5fac20dd1202e8ba2
+canonical_name: Paulius Rusdorfas
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Paulius Rusdorfas
 sameAs: []
-canonical_biography: "Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės. Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo. 1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos."
+canonical_biography: 'Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės. Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo. 1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:48:30+00:00","source_checked_at":"2026-09-20T11:48:30+00:00","counts":{"relations":2,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b669ed55e88321dc9bf58a51","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Didysis magistras","context":"1426 m. liepos 8 d. Julijonos laiške minimas kaip didysis magistras Paulius fon Rusdorfas.","support_ids":["t-87454","c-83432"],"source_refs":[{"kind":"internal_claim","claim_id":"t-87454","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83432","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"54 Index Cod. Hist. Dipl. Livoniae, T. I, N. 1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojan- čios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­ niais laikais. Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­ dymo meną išmanantys: vienas - pagal profesiją fizikas, arba rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas; antras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­ dymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus gydymo būdo, kaip…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"reme","direction":"outbound","target":"objektai/asmenys/Julijona","claim_id":"t-87452","confidence":0.84},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-87453","confidence":0.62}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6086e0c36958bcab
+object_page_generated_at: '2026-09-20T11:48:30+00:00'
+object_page_source_checked_at: '2026-09-20T11:48:30+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Paulius Rusdorfas: Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės. Prūsi­ jos…'
+object_page_seo_input_hash: 5cd63180d79281ba91c2d3ac96604b8b7c394c50b6e58124e2bfa89000525262
+object_page_seo_generated_at: '2026-09-20T11:48:30+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Paulius Rusdorfas
 

@@ -1,10 +1,10 @@
 ---
 tipas: autorius
-pavadinimas: 'Pitėjas'
+pavadinimas: Pitėjas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '340 m.'
+  - 340 m.
 date_start: '340'
 date_end: ''
 sukurta: ''
@@ -13,28 +13,41 @@ tags:
   - mokslininkas
   - autorius
 amziai:
-  - 'IV'
+  - IV
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-07d6caba0e407ed6d001f542"
-canonical_name: "Pitėjas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Pitėjas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-07d6caba0e407ed6d001f542
+canonical_name: Pitėjas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Pitėjas
 sameAs: []
-canonical_biography: "Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes bei tyrinėjo gintaro gavybos vietas. Teodoras Narbutas Pitėją vadina Masilijos astronomu ir jūrų keliautoju, apie 340 m. pr. Kr. išplaukusiu į Atlantą. Teodoro Narbuto pasakojime Pitėjas per tą pačią kelionę atrado šiaurines Tanajo upės žiotis."
+canonical_biography: 'Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes bei tyrinėjo gintaro gavybos vietas. Teodoras Narbutas Pitėją vadina Masilijos astronomu ir jūrų keliautoju, apie 340 m. pr. Kr. išplaukusiu į Atlantą. Teodoro Narbuto pasakojime Pitėjas per tą pačią kelionę atrado šiaurines Tanajo upės žiotis.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:39:59+00:00","source_checked_at":"2026-09-20T06:39:59+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"6bf6ad61ac35b500ea0c8a7f","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Atrado šiaurines Tanajo upės žiotis.","context":"Teodoro Narbuto pasakojime nurodoma, kad tos pačios kelionės metu Pitėjas atrado šiaurines Tanajo upės žiotis.","support_ids":["t-212612","c-196514"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212612","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196514","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Plinijus paliko mums tokius šio keliautojo aprašymų papildymus: „Pakrantėje, kuri vadinasi Mente- nomonu ir plyti per 6000 stadijų, gyvena germanų gutonų gentis. Per vieną plaukimo iš ten dieną yra Abalo sala, į kurią pavasario audrų bangos išmeta gintaro, sumetė­ jusio jūros produkto. Gyventojai naudoja jį vietoj malkų kurui arba parduoda kaimynams teutonams“2. Tos pačios kelionės metu Pitėjas atrado šiaurinės Tanajo upės žiotis3."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d5531e6fd8c1ebe5
+object_page_generated_at: '2026-09-20T06:39:59+00:00'
+object_page_source_checked_at: '2026-09-20T06:39:59+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Pitėjas: Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes bei tyrinėjo gintaro gavybos vietas. Teodoras Narbutas Pitėją vadina…'
+object_page_seo_input_hash: 79493ce46ba7fc07accd5bf4ada6d8180a6f4dd2d7be77a196dd87f52fc44e62
+object_page_seo_generated_at: '2026-09-20T06:39:59+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Pitėjas
 

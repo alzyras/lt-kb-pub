@@ -1,10 +1,10 @@
 ---
 tipas: saltinis
-pavadinimas: 'Gedimino laiškas popiežiui Jonui XXII (1323 m.)'
+pavadinimas: Gedimino laiškas popiežiui Jonui XXII (1323 m.)
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1323 m.'
+  - 1323 m.
 date_start: '1323'
 date_end: ''
 sukurta: ''
@@ -12,19 +12,29 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:48:26+00:00","source_checked_at":"2026-09-20T00:48:26+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"10c7ee671ed1c9ec69436181","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Laiškas","context":"Teodoras Narbutas 1997 m. aprašo, kad Gediminas rašė popiežiui Jonui XXII laišką.","support_ids":["t-205640","c-188255"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205640","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188255","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Paskui Gediminas rašė popiežiui Jonui XXII laišką***, kuriame pabrėžė, kad pripažindamas teisingumą priklau­ syti Apaštališkajai sostinei, kokį turi kitos galingos Eu­ ropos valstybės, prisimena savo pirmtako Mindaugo at­ sivertimą į krikščionybę su visa Lietuvos valstybe, ta­ čiau dėl klastingumo, begalės išdavysčių ir daugiakarčių nuoskaudų, vokiečių ordino atseikėtų, toji valstybė dėl savo atokumo ir jis pats iki šiol pasilieka netikėjimo klystkeliuose."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3cc7f7fe9392fe9c
+object_page_generated_at: '2026-09-20T00:48:26+00:00'
+object_page_source_checked_at: '2026-09-20T00:48:26+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Gedimino laiškas popiežiui Jonui XXII (1323 m.): Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominikonų ordinui, Mažesniesiems…'
+object_page_seo_input_hash: b89cdd4d607faf2fc3439cdac9f66d4e3f7d1fd461a010824d6d926d1fbf4a74
+object_page_seo_generated_at: '2026-09-20T00:48:26+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Gedimino laiškas popiežiui Jonui XXII (1323 m.)
 

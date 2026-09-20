@@ -4,8 +4,8 @@ pavadinimas: 'Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1539 m.'
-  - '1559 m.'
+  - 1539 m.
+  - 1559 m.
 date_start: '1539'
 date_end: '1559'
 sukurta: ''
@@ -16,28 +16,40 @@ tags:
   - kunigaikštis
   - kunigas
 amziai:
-  - 'XVI'
+  - XVI
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b8c99ceddfadab2504e3e68b"
-canonical_name: "Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b8c99ceddfadab2504e3e68b
+canonical_name: 'Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - 'Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)'
 sameAs: []
-canonical_biography: "Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų................... Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­ vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­ tydino nedidukę oratoriją, arba koplyčią14. 14 Šios koplyčios fundacijos akte, 1543 metais išleistame to paties vyskupo (žr."
+canonical_biography: 'Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų................... Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­ vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­ tydino nedidukę oratoriją, arba koplyčią14. 14 Šios koplyčios fundacijos akte, 1543 metais išleistame to paties vyskupo (žr.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:55:18+00:00","source_checked_at":"2026-09-19T21:55:18+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b638d401c7ff0bf17361f8e8","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Vilniaus vyskupas ir Alšėnų kunigaikštis","context":"Michał Baliński aprašo Povilą kaip Vilniaus vyskupą ir Alšėnų kunigaikštį.","support_ids":["t-173220","c-157544"],"source_refs":[{"kind":"internal_claim","claim_id":"t-173220","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157544","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Mikalojaus bažnyčią. O po dvi­ dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­ vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­ tydino nedidukę oratoriją, arba koplyčią14."}],"status":"published","conflict_status":"clear"},{"trait_id":"77b8c3d8b09168e7c54560b4","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Drąsus","context":"Šaltinio autorius Povilui priskiria drąsą, apibūdindamas jo poelgį, kai šis sustabdė karalių ir nukreipė jį į katalikų katedrą.","support_ids":["t-173221","c-157548"],"source_refs":[{"kind":"internal_claim","claim_id":"t-173221","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157548","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis Pone, kuriuo Tavo pro­ tėviai ėjo Dievui garbės atiduoti, bet šitas! - ir parodė į ka­ tedros bažnyčią pilyje. - Apleidi, Karaliau, motiną, kuri ta­ ve pagimdė ir į šias garbingas pareigas iškėlė, o išeini pas pamotę!\" Šis drąsus vyskupo poelgis taip nustebino kara­ lių, kad, atsisakęs ketinimo, pasuko į katalikų katedrą46."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6c8dd97067c971cb
+object_page_generated_at: '2026-09-19T21:55:18+00:00'
+object_page_source_checked_at: '2026-09-19T21:55:18+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas): Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui…'
+object_page_seo_input_hash: 2373f9fb1092553afccb439cc31e286213bad23e493da2063ee1198214bfc296
+object_page_seo_generated_at: '2026-09-19T21:55:18+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)
 

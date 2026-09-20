@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Žemgala'
+pavadinimas: Žemgala
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -14,21 +14,33 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-74ccbb9d8e2f7d6b7e7b000e"
-canonical_name: "Žemgala"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Žemgala"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-74ccbb9d8e2f7d6b7e7b000e
+canonical_name: Žemgala
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Žemgala
 sameAs: []
-canonical_biography: "Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma atskira kunigaikštyste. Iš tikrųjų lai buvo žemgalių gentys."
+canonical_biography: 'Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma atskira kunigaikštyste. Iš tikrųjų lai buvo žemgalių gentys.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:27:54+00:00","source_checked_at":"2026-09-19T21:27:54+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c87256a1919f215e45e093e0","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Žemgalos teritoriją sudarė Mituvos (Jelgavos) ir Selburgo (Sėlpilio) valsčiai.","context":"Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), aprašydamas XIII a. Žemgalą.","support_ids":["t-214993","c-195395"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214993","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195395","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tačiau apie XIII amžių jie turėjo savo valdovą1, ir todėl ši provin­ cija visuomet buvo laikoma atskira kunigaikštyste, va­ dinama Žemgala. Jos teritoriją sudaro Mituvos (Jelga­ vos) ir Selburgo (Sėlpilio) valsčiai. Šioje lietuvių žemės vietoje toliausiai į jūrą nusidriekusi sausuma, todėl ji buvo pavadinta žemės galu — Zeme-galo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a005b0de723ca94c36725b2c","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Žemgala buvo toliausiai į jūrą nusidriekusi sausuma Lietuvos žemės dalyje; jos pavadinimas aiškintas kaip „žemės galas“.","context":"Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), aiškindamas Žemgalos pavadinimą ir geografinę padėtį.","support_ids":["t-214993","c-195395"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214993","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195395","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Tačiau apie XIII amžių jie turėjo savo valdovą1, ir todėl ši provin­ cija visuomet buvo laikoma atskira kunigaikštyste, va­ dinama Žemgala. Jos teritoriją sudaro Mituvos (Jelga­ vos) ir Selburgo (Sėlpilio) valsčiai. Šioje lietuvių žemės vietoje toliausiai į jūrą nusidriekusi sausuma, todėl ji buvo pavadinta žemės galu — Zeme-galo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"49ae6aef038897a0207180b3","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Žemgala buvo Latvijos provincija, nuo seno buvusi Polocko kunigaikštystės vasalinėje priklausomybėje.","context":"Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.), remdamasis Nestoru.","support_ids":["t-205562","c-187902"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205562","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187902","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Latvijos Žemgalos provincija nuo seno, kaip kad liudija Nestoras, buvo Po­ locko1 kunigaikštystės vasalinėje priklausomybėje."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Kuršiai","claim_id":"t-214514","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":8,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 9422c616b4f4df0e
+object_page_generated_at: '2026-09-19T21:27:54+00:00'
+object_page_source_checked_at: '2026-09-19T21:27:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '2'
+object_page_seo_description: 'Žemgala: Narbuto teigimu, apie XIII a. Žemgala turėjo valdovą ir todėl buvo laikoma atskira kunigaikštyste. Iš tikrųjų lai buvo žemgalių gentys.'
+object_page_seo_input_hash: 6c22a895cd9b5cbe19cae00fa584bfd25e1ff4095ae1f4942c17f61240c25c82
+object_page_seo_generated_at: '2026-09-19T21:27:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Žemgala
 

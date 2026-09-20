@@ -1,18 +1,18 @@
 ---
 tipas: vieta
-pavadinimas: 'Riazanė'
+pavadinimas: Riazanė
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1389 m.'
-  - '1396 m.'
-  - '1430 m.'
-  - '2026 m.'
+  - 1389 m.
+  - 1396 m.
+  - 1430 m.
+  - 2026 m.
 date_start: '1389'
 date_end: '2026'
 sukurta: ''
@@ -22,29 +22,41 @@ tags:
   - miestas
   - vieta
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-cfb374c77598f3a9f19e8b59"
-canonical_name: "Riazanė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Riazanė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-cfb374c77598f3a9f19e8b59
+canonical_name: Riazanė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Riazanė
 sameAs: []
-canonical_biography: "Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėti joms didelę įtaką. 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi. Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos."
+canonical_biography: 'Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėti joms didelę įtaką. 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi. Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Riazanė","url":"https://lt.wikipedia.org/wiki/Riazan%C4%97","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Riazanė","url":"https://www.vle.lt/straipsnis/riazane/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T08:51:52+00:00","source_checked_at":"2026-09-19T08:51:52+00:00","counts":{"relations":5,"gallery":0,"sources":9},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­ gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­ čiai, totoriai. Vytautas nori visus juos paimti savo valdžion ar bent turėti jiems didelę įtaką.","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","claim_id":"t-99067","evidence_id":"c-37695","origin":"internal"},"wiki":{"status":"published","source":{"title":"Riazanė","url":"https://lt.wikipedia.org/wiki/Riazan%C4%97","publisher":"Vikipedija","language":"lt","article_id":"93656","revision_id":"6406894","published_at":"2021-11-16T16:43:19Z","version_pk":"","content_hash":"7807ed78731314e47eb44876330d40f6f0a18180e27be94f85f41a08d151878d","retrieved_at":"2026-09-19T08:48:50+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Riazan%C4%97&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"93656"}},"intro":"Riazanė (rus. Рязань) – miestas Rusijoje, Riazanės srities centras. 2021 m. duomenimis, Riazanė yra 32-as pagal gyventojų skaičių Rusijos miestas ir 87-as Europos žemyno miestas – 2021 m. gyveno 534 801 žmonių. Miestas yra 200 km į pietryčius nuo Maskvos, per jį teka upė Oka. Į pietryčius nuo Riazanės yra Turlatovo oro uostas. Yra aviacijos akademija.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Riazanė","url":"https://lt.wikipedia.org/wiki/Riazan%C4%97","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Riazanė","url":"https://www.vle.lt/straipsnis/riazane/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Riazan%C4%97","https://www.vle.lt/straipsnis/riazane/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"ca353c35e82723855b2d7d53","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Vytautas siekė Riazanę paimti savo valdžion arba turėti jai didelę įtaką.","context":"Vytauto Didžiojo rytų politikos aprašymas; šaltinio autoriaus teiginys apie laikotarpį iki 1430 m.","support_ids":["t-99062","c-37695"],"source_refs":[{"kind":"internal_claim","claim_id":"t-99062","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-37695","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­ gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­ čiai, totoriai. Vytautas nori visus juos paimti savo valdžion ar bent turėti jiems didelę įtaką."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Riazanė – istorinis Rusios krašto ir kunigaikštystės centras, su kuriuo Vytauto laikais Lietuvą siejo karo, politinės įtakos ir dinastiniai ryšiai. XIV–XV amžių sandūroje Vytautas siekė Riazanę paimti savo valdžion arba bent įgyti jai didelę įtaką. Iš Smolensko puldamas Riazanę, jis priartėjo prie savo žento, Maskvos valdovo Vosyliaus I, valdų, nors oficialiai su juo laikėsi taikos; tuo metu Riazanė buvo įtraukta į slaptą sąjungą prieš Vytautą. Riazanės kunigaikštis Olegas priėmė pas jį pabėgusį savo žentą Jurgį, o vėliau atkakliai prašė ir laidavo dėl Vilniaus Aukštutinėje pilyje kalinto Kaributo paleidimo. 1430 m., Vytautui rengiantis karūnuotis Lietuvos karaliumi, Riazanės kunigaikštis atvyko į Trakus ir Vilnių kartu su kitais Rusios valdovais, taip tapdamas svarbiu iškilmių politinio telkinio dalyviu.","sentences":[{"sentence_id":"s1","text":"Riazanė – istorinis Rusios krašto ir kunigaikštystės centras, su kuriuo Vytauto laikais Lietuvą siejo karo, politinės įtakos ir dinastiniai ryšiai.","support_ids":["t-99062","t-99065","t-99069"]},{"sentence_id":"s2","text":"XIV–XV amžių sandūroje Vytautas siekė Riazanę paimti savo valdžion arba bent įgyti jai didelę įtaką.","support_ids":["t-99062","c-37695"]},{"sentence_id":"s3","text":"Iš Smolensko puldamas Riazanę, jis priartėjo prie savo žento, Maskvos valdovo Vosyliaus I, valdų, nors oficialiai su juo laikėsi taikos; tuo metu Riazanė buvo įtraukta į slaptą sąjungą prieš Vytautą.","support_ids":["t-99065","c-32383"]},{"sentence_id":"s4","text":"Riazanės kunigaikštis Olegas priėmė pas jį pabėgusį savo žentą Jurgį, o vėliau atkakliai prašė ir laidavo dėl Vilniaus Aukštutinėje pilyje kalinto Kaributo paleidimo.","support_ids":["t-99069","c-37694","t-99070","c-93189"]},{"sentence_id":"s5","text":"1430 m., Vytautui rengiantis karūnuotis Lietuvos karaliumi, Riazanės kunigaikštis atvyko į Trakus ir Vilnių kartu su kitais Rusios valdovais, taip tapdamas svarbiu iškilmių politinio telkinio dalyviu.","support_ids":["t-99064","c-93193","t-99072"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":false,"reason":"Šaltiniai pagrindžia Vytauto siekį daryti įtaką Riazanei, karo ir dinastinius ryšius, tačiau nepatvirtina, kad Riazanė buvo istorinis Rusios krašto ir kunigaikštystės centras."},{"sentence_id":"s2","supported":false,"reason":"Šaltinis pagrindžia siekį paimti Riazanę valdžion arba daryti jai įtaką, tačiau nenurodo XIV–XV amžių sandūros."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai patvirtinta, kad Vytautas iš Smolensko puolė Riazanę, priartėjo prie Vosyliaus I valdų, laikėsi oficialios taikos, o Riazanė buvo slaptoje sąjungoje prieš jį."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina, kad Olegas priėmė į Riazanę pabėgusį žentą Jurgį ir prašė bei laidavo dėl Kaributo paleidimo iš Vilniaus Aukštutinės pilies."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad 1430 m. į Trakus ir Vilnių atvyko Riazanės kunigaikščiai, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi; jų politinis dalyvavimas pagrįstai išvedamas iš šio konteksto."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-99062","t-99065","t-99069"]},{"sentence_id":"s2","supported":true,"support_ids":["t-99062","c-37695"]},{"sentence_id":"s3","supported":true,"support_ids":["t-99065","c-32383"]},{"sentence_id":"s4","supported":true,"support_ids":["t-99069","c-37694","t-99070","c-93189"]},{"sentence_id":"s5","supported":true,"support_ids":["t-99064","c-93193","t-99072"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Chudandachas","claim_id":"t-34713","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Simonas Lengvenis","claim_id":"t-185834","confidence":0.93},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-99065","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Užvolgio totoriai","claim_id":"t-34713","confidence":0.89},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Simonas Lengvenis","claim_id":"t-185834","confidence":0.64}],"timeline":[],"support_disclosure":{"claims":16,"sources":7}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 2876427a42d07ada
+object_page_generated_at: '2026-09-19T08:51:52+00:00'
+object_page_source_checked_at: '2026-09-19T08:51:52+00:00'
+object_page_content_state: content
+object_page_claim_count: '16'
+object_page_source_count: '7'
+object_page_seo_description: 'Riazanė – istorinis Rusios krašto ir kunigaikštystės centras, su kuriuo Vytauto laikais Lietuvą siejo karo, politinės įtakos ir dinastiniai ryšiai. XIV–XV…'
+object_page_seo_input_hash: 32d267fde9ffa93d67450b10b9bb597cb6cf41d17886fe483f0ab5cbb6ab7bdb
+object_page_seo_generated_at: '2026-09-19T08:51:52+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Riazanė
 

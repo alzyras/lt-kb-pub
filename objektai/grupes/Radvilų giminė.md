@@ -1,13 +1,13 @@
 ---
 tipas: grupe
-pavadinimas: 'Radvilų giminė'
+pavadinimas: Radvilų giminė
 saltiniai:
   - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1493 m.'
-  - '1541 m.'
-  - '1828 m.'
+  - 1493 m.
+  - 1541 m.
+  - 1828 m.
 date_start: '1493'
 date_end: '1828'
 sukurta: ''
@@ -17,20 +17,30 @@ tags:
   - grupe
   - kunigaikštis
 amziai:
-  - 'XV'
-  - 'XIX'
+  - XV
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T13:55:55+00:00","source_checked_at":"2026-09-19T13:55:55+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"540591d541f911050b2eb8c5","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Radvilų manufaktūrose Nesvyžiuje buvo audžiamas linas, Minske – gobelenai, o Slucke – gelumbė ir Slucko juostos.","context":"Aprašyta Marijos Matušakaitės 2011 m. straipsnyje apie XVI–XVIII a. LDK gyventojų aprangą.","support_ids":["t-202312","c-185659"],"source_refs":[{"kind":"internal_claim","claim_id":"t-202312","source":"darbas/sources/Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.).md"},{"kind":"evidence","evidence_id":"c-185659","source":"darbas/sources/Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.).md","quote":"Šilkiniai au- diniai, vėliau ir kontušų juostos taip pat austos Mykolo Kleo- po Oginskio manufaktūrose Sokolove. Radvilų manufaktūrose Nesvyžiuje austas linas, Minske – gobelenai, Slucke – gelumbė ir plačiai pagarsėjusios Slucko juostos. Drabužių anuomet būdavo galima užsisakyti pas amatininkus arba įsigyti jau pagamintų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"07b0fccf47aa7a130d31b247","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Radvilų atstovai ėjo didžiojo medžioklio pareigas; ši pareigybė apėmė ir rūpinimąsi medžioklės klausimais.","context":"Šaltinis aprašo Radvilų, Pacų ir Chreptavičių giminių atstovus bei jų žinias apie to meto kilmingųjų bendravimo etiketą.","support_ids":["t-204084","c-186688"],"source_refs":[{"kind":"internal_claim","claim_id":"t-204084","source":"darbas/sources/Lituanistika-66360-Didieji-medziokliai-Radvilos.md"},{"kind":"evidence","evidence_id":"c-186688","source":"darbas/sources/Lituanistika-66360-Didieji-medziokliai-Radvilos.md","quote":"Todėl nenuostabu, kad šias pareigybes turėjo iškilių giminių – Radvilų, Pacų, Chreptavičių ir kt. – atstovai, išmanan- tys to meto kilmingųjų bendravimo etiketą. Taip pat didysis medžioklis turėjo rūpintis ir ne itin reikšmingais medžioklės klausimais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5dcff6c09eae9c71ab25380b","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"1548 m. Mikalojus Radvila Rudasis, gavęs Žygimanto Augusto leidimą, medžiojo valdovo giriose ir siuntė sumedžiotą žvėrieną Barborai Radvilaitei į Vilnių.","context":"Aprašytas 1548 m. atvejis; šaltinis Mikalojų Radvilą Rudąjį taip pat įvardija pagrindiniu LDK medžioklės ūkį prižiūrinčiu pareigūnu.","support_ids":["t-204085","c-186689"],"source_refs":[{"kind":"internal_claim","claim_id":"t-204085","source":"darbas/sources/Lituanistika-66360-Didieji-medziokliai-Radvilos.md"},{"kind":"evidence","evidence_id":"c-186689","source":"darbas/sources/Lituanistika-66360-Didieji-medziokliai-Radvilos.md","quote":"Žinoma, kad 1548 m. valdovas Žygimantas Augustas leido didžiajam LDK medžiokliui Radvilai Rudajam me- džioti valdovui priklausančiose giriose, kad jis galėtų nusiųsti sumedžiotos žvėrienos Barborai Radvilaitei į Vilnių45. Šis minėtas atvejis atskleidžia, kad Mikalojaus Radvilos Rudojo, kaip pagrindinio LDK medžioklės ūkį prižiū- rinčio pareigūno ir valdovo svainio, vaidmuo šioje vietoje tarytum persipi- na."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2557ab00d296a5513704fdbd","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Radvilų archyve Kardinalijoje buvo saugomas autentiškų Stepono Batoro laiškų, rašytų Radviloms dėl muitų ir mokesčių, rinkinys, kuriame buvo du laiškai.","context":"Šaltinis aprašo archyvo sudėtį ir saugojimo vietą.","support_ids":["t-172766","c-157126"],"source_refs":[{"kind":"internal_claim","claim_id":"t-172766","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-157126","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Baltramiejaus šventės, tūkstantis penki šimtai penkiasde­ šimt devintaisiais Viešpaties metais, o mūsų valdymo tris­ dešimtaisiais. Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS VII DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ, RAŠYTŲ RADVILOMS, TURINYS: APIE MUITUS IR MOKESČIUS VILNIAUS PIRKLIAMS IR MIESTIEČIAMS Autentiškų karaliaus Stepono laiškų, rašytų Radviloms, rinkinyje, saugomame Radvilų archyve, Kardinalijoje, yra du laiškai, atskleidžiantys, kad vis dėlto karalius, nenoriai ir tai tik atkakliai prašomas Lietuvos senatorių ir protestuo­ jant Vilniaus pirkliams, laikinai juos atleido nuo naujai nu­ statyto muito mokesčio. Viename tų laiškų, rašytame iš…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Radvilų giminė – istorinė giminė, kurios veikla šaltiniuose siejama su LDK politiniu gyvenimu, valdų kultūra ir Vilniaus istorija. Mikalojui Radvilai bei jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai, rodę ypatingą valdovų palankumą. 1541 m. Mikalojus Radvila Juodasis iš kapitulos nuomojo Filipovo namą Vilniuje ir kasmet mokėjo 20 kapų lietuviškų grašių, kad galėtų praplėsti savo būstą. Radvilų giminės galia ir turtai augo, o jų valdžios pėdsakai, net ir sunykę, autoriui stebino savo didybe. Giminės ekonominį ir kultūrinį mastą liudija manufaktūros: Nesvyžiuje buvo audžiamas linas, Minske – gobelenai, o Slucke gaminta gelumbė ir garsiosios Slucko juostos. Radvilų archyve Kardinalijoje taip pat saugoti du autentiški Stepono Batoro laiškai apie Vilniaus muitus.","sentences":[{"sentence_id":"s1","text":"Radvilų giminė – istorinė giminė, kurios veikla šaltiniuose siejama su LDK politiniu gyvenimu, valdų kultūra ir Vilniaus istorija.","support_ids":["t-172761","t-172762","t-202312"]},{"sentence_id":"s2","text":"Mikalojui Radvilai bei jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai, rodę ypatingą valdovų palankumą.","support_ids":["t-172761","c-157131"]},{"sentence_id":"s3","text":"1541 m. Mikalojus Radvila Juodasis iš kapitulos nuomojo Filipovo namą Vilniuje ir kasmet mokėjo 20 kapų lietuviškų grašių, kad galėtų praplėsti savo būstą.","support_ids":["t-172762","c-157130"]},{"sentence_id":"s4","text":"Radvilų giminės galia ir turtai augo, o jų valdžios pėdsakai, net ir sunykę, autoriui stebino savo didybe.","support_ids":["t-172763","c-157127"]},{"sentence_id":"s5","text":"Giminės ekonominį ir kultūrinį mastą liudija manufaktūros: Nesvyžiuje buvo audžiamas linas, Minske – gobelenai, o Slucke gaminta gelumbė ir garsiosios Slucko juostos.","support_ids":["t-202312","c-185659"]},{"sentence_id":"s6","text":"Radvilų archyve Kardinalijoje taip pat saugoti du autentiški Stepono Batoro laiškai apie Vilniaus muitus.","support_ids":["t-172766","c-157126"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Teiginį tiesiogiai pagrindžia šaltiniai apie Radvilų politinę veiklą, Vilniaus istoriją ir manufaktūras."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai nurodo suteiktas privilegijas, laisves ir imunitetus bei ypatingą valdovų palankumą."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1541 m. nuomą iš kapitulos, 20 kapų mokestį ir būsto praplėtimo tikslą."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai nurodo augusią giminės galią ir turtus bei didybe stebinančius jų valdžios pėdsakus."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai patvirtina lino audimą Nesvyžiuje, gobelenų gamybą Minske, gelumbę ir Slucko juostas Slucke."},{"sentence_id":"s6","supported":true,"reason":"Šaltinis tiesiogiai nurodo du autentiškus Stepono Batoro laiškus Radvilų archyve Kardinalijoje apie muitus."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-172761","t-172762","t-202312"]},{"sentence_id":"s2","supported":true,"support_ids":["t-172761","c-157131"]},{"sentence_id":"s3","supported":true,"support_ids":["t-172762","c-157130"]},{"sentence_id":"s4","supported":true,"support_ids":["t-172763","c-157127"]},{"sentence_id":"s5","supported":true,"support_ids":["t-202312","c-185659"]},{"sentence_id":"s6","supported":true,"support_ids":["t-172766","c-157126"]}],"verifier":"gpt-5.6-luna"},"quality":45,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":10,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: d88e94ef82f77738
+object_page_generated_at: '2026-09-19T13:55:55+00:00'
+object_page_source_checked_at: '2026-09-19T13:55:55+00:00'
+object_page_content_state: content
+object_page_claim_count: '10'
+object_page_source_count: '4'
+object_page_seo_description: 'Radvilų giminė – istorinė giminė, kurios veikla šaltiniuose siejama su LDK politiniu gyvenimu, valdų kultūra ir Vilniaus istorija. Mikalojui Radvilai bei jo…'
+object_page_seo_input_hash: 3fa121210260d8929606b4a8dd8b17e673f612847380820ca89607d048711978
+object_page_seo_generated_at: '2026-09-19T13:55:55+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Radvilų giminė
 

@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Vėluva'
+pavadinimas: Vėluva
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -11,17 +11,17 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1230 m.'
-  - '1243 m.'
-  - '1262 m.'
-  - '1263 m.'
-  - '1282 m.'
-  - '1320 m.'
-  - '1322 m.'
-  - '1323 m.'
-  - '1324 m.'
-  - '1347 m.'
-  - '2026 m.'
+  - 1230 m.
+  - 1243 m.
+  - 1262 m.
+  - 1263 m.
+  - 1282 m.
+  - 1320 m.
+  - 1322 m.
+  - 1323 m.
+  - 1324 m.
+  - 1347 m.
+  - 2026 m.
 date_start: '1230'
 date_end: '2026'
 sukurta: ''
@@ -31,29 +31,41 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9a473dbff06c784ba1473f82"
-canonical_name: "Vėluva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vėluva"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9a473dbff06c784ba1473f82
+canonical_name: Vėluva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vėluva
 sameAs: []
-canonical_biography: "Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.."
+canonical_biography: 'Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Vėluva","url":"https://lt.wikipedia.org/wiki/V%C4%97luva","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vėluva","url":"https://www.vle.lt/straipsnis/veluva/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T09:52:44+00:00","source_checked_at":"2026-09-19T09:52:44+00:00","counts":{"relations":13,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Pati Vėluva priklauso prie pilių, pastatytų pagoniškais laikais.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","claim_id":"t-213021","evidence_id":"c-196030","origin":"internal"},"wiki":{"status":"published","source":{"title":"Vėluva","url":"https://lt.wikipedia.org/wiki/V%C4%97luva","publisher":"Vikipedija","language":"lt","article_id":"188815","revision_id":"7502264","published_at":"2025-02-23T06:44:52Z","version_pk":"","content_hash":"4247247871c992a68f073ec4242c6f7b7a6959f62b698ef74f15fde66e66c297","retrieved_at":"2026-09-19T09:51:27+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=V%C4%97luva&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"188815"}},"intro":"Vėluva (vok. Wehlau, 1945–1946 m. rus. Велау, nuo 1946 m. rugsėjo 7 d. Znamenskas, rus. Знаменск) – gyvenvietė Rusijoje, Kaliningrado srities centrinėje dalyje, Gvardeisko rajone, Alnos ir Priegliaus santakoje. Nuo 2008 m. birželio 30 d. Znamensko kaimo gyvenvietės kaimas. Veikia Vėluvos geležinkelio stotis, popieriaus fabrikas „Velau papir“ („Велау папир“), margarino kombinatas „Velau“ („Велау“), malūnas, baldų fabrikas, lentpjūvė.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Vėluva","url":"https://lt.wikipedia.org/wiki/V%C4%97luva","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Vėluva","url":"https://www.vle.lt/straipsnis/veluva/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/V%C4%97luva","https://www.vle.lt/straipsnis/veluva/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3210cae5cf08be9128981b8b","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Pilis, pastatyta pagoniškais laikais.","context":"Teodoras Narbutas Vėluvą priskiria prie pilių, pastatytų pagoniškais laikais.","support_ids":["t-213021","c-196030"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213021","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196030","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Pati Vėluva priklauso prie pilių, pastatytų pagoniškais laikais."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-220187","confidence":0.84},{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-220187","confidence":0.84},{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Henrikas Tupadelis","claim_id":"t-222185","confidence":0.82},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-99858","confidence":0.84},{"predicate":"pastate","direction":"inbound","target":"objektai/grupes/Nadruviai","claim_id":"t-222838","confidence":0.88},{"predicate":"pastate","direction":"inbound","target":"objektai/grupes/Skalviai","claim_id":"t-222529","confidence":0.88},{"predicate":"pastate","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-222529","confidence":0.88},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Algirdas","claim_id":"t-171553","confidence":0.66},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Kęstutis","claim_id":"t-171553","confidence":0.66},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-183808","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Sūduviai","claim_id":"t-221593","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-221305","confidence":0.8},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Tirskas","claim_id":"t-224995","confidence":0.72}],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5f71971cd22f4a22
+object_page_generated_at: '2026-09-19T09:52:44+00:00'
+object_page_source_checked_at: '2026-09-19T09:52:44+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'Vėluva: Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas —…'
+object_page_seo_input_hash: c6191df008404615fa1db958330486ece45e5523100df6c025b110d6ea99c665
+object_page_seo_generated_at: '2026-09-19T09:52:44+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vėluva
 

@@ -1,15 +1,15 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'papilys'
+pavadinimas: papilys
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1277 m.'
-  - '1293 m.'
-  - '1296 m.'
-  - '1324 m.'
+  - 1277 m.
+  - 1293 m.
+  - 1296 m.
+  - 1324 m.
 date_start: '1277'
 date_end: '1324'
 sukurta: ''
@@ -19,20 +19,30 @@ tags:
   - sąvoka
   - istorinė-sąvoka
 amziai:
-  - 'XIII'
-  - 'XIV'
+  - XIII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Papilys","url":"https://lt.wikipedia.org/wiki/Papilys","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T05:47:52+00:00","source_checked_at":"2026-09-19T05:47:52+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Papilys","url":"https://lt.wikipedia.org/wiki/Papilys","publisher":"Vikipedija","language":"lt","article_id":"19524","revision_id":"7598488","published_at":"2025-07-20T05:02:26Z","version_pk":"","content_hash":"2c79f267be4a87aa2a4d90f068ba469939760ca2c29daad81de658403af88143","retrieved_at":"2026-09-19T05:46:50+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Papilys&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"19524"}},"intro":"Papilys – miestelis Biržų rajono savivaldybėje, pusiaukelėje tarp Biržų ir Pandėlio, greta kelio 123 Biržai–Pandėlys–Rokiškis . Seniūnijos ir seniūnaitijos centras. Stovi Papilio Nekaltosios Švč. Mergelės Marijos bažnyčia (1936 m.), Papilio evangelikų reformatų bažnyčia (1595 m.), veikia Papilio pagrindinė mokykla, biblioteka, paštas (LT-41012). Išlikęs Papilio dvaras.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Papilys","url":"https://lt.wikipedia.org/wiki/Papilys","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Papilys"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"52026b0d48c56c5469888c77","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Palei pilį esanti vietovė.","context":"Teodoras Narbutas aprašo papilį kaip vietovę palei pilį, užimtą po nuo ryto iki vakaro trukusio mūšio.","support_ids":["t-205644","c-188259"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205644","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"},{"kind":"evidence","evidence_id":"c-188259","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md","quote":"Po atkaklaus mūšio, trukusio nuo ryto iki vakaro, buvo užimtas papilys, kitaip sa­ kant, vien tik palei pilį buvusi vietovė, beveik visi gy­ ventojai išžudyti ir sunaikinti."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f3d270f82f067760
+object_page_generated_at: '2026-09-19T05:47:52+00:00'
+object_page_source_checked_at: '2026-09-19T05:47:52+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '2'
+object_page_seo_description: 'papilys: Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai jį užpuolė, visiškai sugriovė pamedėnų gyvenvietę bei…'
+object_page_seo_input_hash: c59c6cd69982d972039cacc4007d8a8f20758fe092a768c8df0b2e019c28419c
+object_page_seo_generated_at: '2026-09-19T05:47:52+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # papilys
 

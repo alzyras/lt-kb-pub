@@ -1,13 +1,13 @@
 ---
 tipas: autorius
-pavadinimas: 'Adomas Bremenietis'
+pavadinimas: Adomas Bremenietis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1009 m.'
-  - '1076 m.'
+  - 1009 m.
+  - 1076 m.
 date_start: '1009'
 date_end: '1076'
 sukurta: ''
@@ -17,28 +17,41 @@ tags:
   - metraštininkas
   - autorius
 amziai:
-  - 'XI'
+  - XI
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4da2536e06bfda3dc9c50ccc"
-canonical_name: "Adomas Bremenietis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Adomas Bremenietis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4da2536e06bfda3dc9c50ccc
+canonical_name: Adomas Bremenietis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Adomas Bremenietis
 sameAs: []
-canonical_biography: "O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė daugiau žinių apie prūsus ir ypač."
+canonical_biography: 'O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė daugiau žinių apie prūsus ir ypač.'
+external_sources_json: '[{"title":"Adomas Bremenietis","url":"https://www.vle.lt/straipsnis/adomas-bremenietis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T09:03:36+00:00","source_checked_at":"2026-09-19T09:03:36+00:00","counts":{"relations":0,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Adomas Bremenietis","url":"https://www.vle.lt/straipsnis/adomas-bremenietis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/adomas-bremenietis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"82fb7e3134a5aedefd18e696","canonical_code":"author.role","label":"Pareigos ir vaidmuo","group":"Kūryba ir veikla","value":"Arkivyskupas.","context":"Zenonas Ivinskis jį taip įvardija aprašydamas Adomo veiklą 1072–1076 m.","support_ids":["t-30554","c-32896"],"source_refs":[{"kind":"internal_claim","claim_id":"t-30554","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32896","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė daugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų."}],"status":"published","conflict_status":"clear"},{"trait_id":"11567a76fbaff36350c92800","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"1072–1076 m. parašė veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtąją knygą, kurioje pateikė Skandinavijos ir pietinių bei rytinių Baltijos žemių geografiją bei žinių apie prūsus.","context":"Zenono Ivinskio aprašymas; nurodomas 1072–1076 m. laikotarpis.","support_ids":["t-30554","c-32896"],"source_refs":[{"kind":"internal_claim","claim_id":"t-30554","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32896","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė daugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5aff210560a8e86f9a8381ef","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Rašė apie herulus ir jų apsistojimą prie Hebolos, arba Havolos, upės.","context":"Teodoras Narbutas nurodo, kad taip teigia Helmoldas ir Adomas Bremenietis.","support_ids":["t-214141","c-197292"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214141","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197292","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Helmoldas ir Adomas Bremenietis teigia, jog herulai pirmiausia ap­ sistojo prie Hebolos, arba Havolos, upės; dėl to kai ku­ rie kronikininkai priskiria juos prie slavų havolėnų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"29baa26362e7c0d624eeb38a","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Rašė apie Upsalos žynius, tarnavusius piktosioms dvasioms.","context":"Teodoras Narbutas cituoja Adomą Bremenietį, veikalo 235 skyrių.","support_ids":["t-215945","c-199007"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215945","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199007","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Tautos šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­ vėjo trijų vyriausiųjų dievų stabai (Adamus Bremenensis. De situ Daniae. - Cap. 233); ten, kaip ir Romovėje, gyveno tar­ nauti dievams pašaukti žyniai ir, be abejo, taip pat vyriausiasis žynys. Adomas Bremenietis (skyrius 235) sako: de sacerdoti­ bus, qui ad Ubsolam Daemonibus astare solebant (apie žynius, kurie Upsaloje buvo papratę tarnauti piktosioms dvasioms)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9505eef19d1b7aea1679fb78","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Užsiminė apie šventąjį ąžuolą, augusį Švedijoje netoli Upsalos.","context":"Teodoro Narbuto pateikiamas Adomo Bremeniečio liudijimas.","support_ids":["t-217764","c-198287"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217764","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-198287","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Tą ypatybę kronikininkai priskiria velnio galy­ bei, manydami, kad velniai buvo garbinami toje šventykloje šalies dievų pavidalu. Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo­ lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas* 11, nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu­ ria, jog jo rūšies niekas negalėjęs nustatyti. Taigi tai turėjo bū­ ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai, dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji medžiai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"571d736b399d9879cd6bf0c4","canonical_code":"author.significance","label":"Istorinė reikšmė","group":"Reikšmė","value":"„Europos šiaurės Tacitas“.","context":"Zenono Ivinskio vertinimas, pateiktas kalbant apie Adomą Bremenietį ir jo 1072–1076 m. veikalą.","support_ids":["t-30554","c-32896"],"source_refs":[{"kind":"internal_claim","claim_id":"t-30554","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-32896","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. savo veikalo « Gesta Hammaburgensis ecclesiae pontificum» 4-oje knygoje, duodamas Skandinavijos ir Baltijos pietų ir rytų žemių geografiją, suteikė daugiau žinių apie prūsus ir ypač iškėlė jų prekybinius santykius su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Adomas Bremenietis – XI amžiaus autorius, savo veikale „Gesta Hammaburgensis ecclesiae pontificum“ pateikęs žinių apie Baltijos regiono tautas ir jų ryšius. 1072–1076 m. parašyto veikalo ketvirtoje knygoje jis aprašė Skandinavijos bei pietines ir rytines Baltijos žemes, ypač paminėdamas prūsus. Autorius išskyrė sembų arba prūsų prekybinius santykius su švedais ir apibūdino juos kaip labai žmoniškus žmones, gelbėjusius jūroje pavojuje atsidūrusius ar piratų užpultus asmenis. Pasak Narbuto, Adomas Bremenietis taip pat liudijo, kad krikščionių dvasininkai iš Vokietijos ir kitų kraštų jūra atvykdavo skelbti Evangelijos prūsams, lietuviams ir latviams. Kitas jo užrašytas motyvas – šventasis medis Švedijoje, netoli Upsalos; šaltinyje pabrėžiama, kad medis visą laiką žaliavo, tačiau jo rūšies nustatyti nepavyko.","sentences":[{"sentence_id":"s1","text":"Adomas Bremenietis – XI amžiaus autorius, savo veikale „Gesta Hammaburgensis ecclesiae pontificum“ pateikęs žinių apie Baltijos regiono tautas ir jų ryšius.","support_ids":["t-30554","c-32896"]},{"sentence_id":"s2","text":"1072–1076 m. parašyto veikalo ketvirtoje knygoje jis aprašė Skandinavijos bei pietines ir rytines Baltijos žemes, ypač paminėdamas prūsus.","support_ids":["t-30554","c-32896"]},{"sentence_id":"s3","text":"Autorius išskyrė sembų arba prūsų prekybinius santykius su švedais ir apibūdino juos kaip labai žmoniškus žmones, gelbėjusius jūroje pavojuje atsidūrusius ar piratų užpultus asmenis.","support_ids":["t-30554","c-32896"]},{"sentence_id":"s4","text":"Pasak Narbuto, Adomas Bremenietis taip pat liudijo, kad krikščionių dvasininkai iš Vokietijos ir kitų kraštų jūra atvykdavo skelbti Evangelijos prūsams, lietuviams ir latviams.","support_ids":["t-205503","c-187909"]},{"sentence_id":"s5","text":"Kitas jo užrašytas motyvas – šventasis medis Švedijoje, netoli Upsalos; šaltinyje pabrėžiama, kad medis visą laiką žaliavo, tačiau jo rūšies nustatyti nepavyko.","support_ids":["t-216928","t-217764","c-198287"]}],"verification":{"verified":true,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta: šaltinis nurodo autorių, veikalą ir jo pateiktas žinias apie Baltijos žemes, prūsus bei jų ryšius."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo 1072–1076 m., ketvirtąją knygą, Skandinaviją, Baltijos pietines ir rytines žemes bei prūsus."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai aprašo sembų arba prūsų prekybą su švedais, jų žmoniškumą ir pagalbą jūroje nukentėjusiems bei piratų užpultiems asmenims."},{"sentence_id":"s4","supported":true,"reason":"Šaltinis tiesiogiai teigia, kad dvasininkai iš Vokietijos ir kitų kraštų jūra atvykdavo skelbti Evangelijos prūsams, lietuviams ir latviams."},{"sentence_id":"s5","supported":true,"reason":"Šaltinis tiesiogiai mini šventąjį medį Švedijoje prie Upsalos, jo nuolatinį žaliavimą ir nenustatytą rūšį."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-30554","c-32896"]},{"sentence_id":"s2","supported":true,"support_ids":["t-30554","c-32896"]},{"sentence_id":"s3","supported":true,"support_ids":["t-30554","c-32896"]},{"sentence_id":"s4","supported":true,"support_ids":["t-205503","c-187909"]},{"sentence_id":"s5","supported":true,"support_ids":["t-216928","t-217764","c-198287"]}],"verifier":"gpt-5.6-luna"},"quality":70,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":4}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 931e3204d97c8bd3
+object_page_generated_at: '2026-09-19T09:03:36+00:00'
+object_page_source_checked_at: '2026-09-19T09:03:36+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '4'
+object_page_seo_description: 'Adomas Bremenietis – XI amžiaus autorius, savo veikale „Gesta Hammaburgensis ecclesiae pontificum“ pateikęs žinių apie Baltijos regiono tautas ir jų ryšius.…'
+object_page_seo_input_hash: a1ec97fccfa3bdd7011c2233b909b29e674d59c722377c973b06049dda3b1f8b
+object_page_seo_generated_at: '2026-09-19T09:03:36+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Adomas Bremenietis
 

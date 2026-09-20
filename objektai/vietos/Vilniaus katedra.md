@@ -1,21 +1,21 @@
 ---
 tipas: vieta
-pavadinimas: 'Vilniaus katedra'
+pavadinimas: Vilniaus katedra
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1387 m.'
-  - '1389 m.'
-  - '1396 m.'
-  - '1522 m.'
-  - '1531 m.'
-  - '1536 m.'
-  - '2026 m.'
+  - 1387 m.
+  - 1389 m.
+  - 1396 m.
+  - 1522 m.
+  - 1531 m.
+  - 1536 m.
+  - 2026 m.
 date_start: '1387'
 date_end: '2026'
 sukurta: ''
@@ -24,29 +24,41 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f8700d3fa243af737535c3dc"
-canonical_name: "Vilniaus katedra"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vilniaus katedra"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f8700d3fa243af737535c3dc
+canonical_name: Vilniaus katedra
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vilniaus katedra
 sameAs: []
-canonical_biography: "Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas katedros rūsyje, po šv. Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą; bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas. Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro."
+canonical_biography: 'Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas katedros rūsyje, po šv. Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą; bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas. Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T04:14:55+00:00","source_checked_at":"2026-09-19T04:14:55+00:00","counts":{"relations":7,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e696c546b86f42772cb56c97","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"1389 m. bažnyčia buvo pripažinta katedra.","context":"Michał Baliński, Vilniaus miesto istorija (2007); 1389 m., po pastatymo ant pagonių šventyklos griuvėsių.","support_ids":["t-110146","c-102052"],"source_refs":[{"kind":"internal_claim","claim_id":"t-110146","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-102052","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą, vietovė, vadinama Vilniumi ir laikytina mies­ tu, o bažnyčia, pastatyta ant pagonių šventyklos griuvėsių, šv. Stanislovo garbei, iškilmingai pripažinta katedra. O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­ piją20."}],"status":"published","conflict_status":"clear"},{"trait_id":"41c5567b6568ff8413fff3a9","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Bažnyčia pastatyta ant pagonių šventyklos griuvėsių.","context":"Michał Baliński aprašymas (2007).","support_ids":["t-110146","c-102052"],"source_refs":[{"kind":"internal_claim","claim_id":"t-110146","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-102052","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą, vietovė, vadinama Vilniumi ir laikytina mies­ tu, o bažnyčia, pastatyta ant pagonių šventyklos griuvėsių, šv. Stanislovo garbei, iškilmingai pripažinta katedra. O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­ piją20."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"fd9f403a4a71c95561e0dc7c","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Katedros fasadą puošė 1784–1787 m. sukurtos skulptūros.","context":"Lietuvos istorijos autorių vertinimas (2013); skulptūros siejamos su baroko epochos Lietuvoje pabaiga.","support_ids":["t-110148","c-24575"],"source_refs":[{"kind":"internal_claim","claim_id":"t-110148","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-24575","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"597fe011ab7b262d5e4adbd4","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Prie katedros 1522 m. buvo įkurta penktoji scholastiko prelatūra Katedros mokyklai išlaikyti.","context":"Michał Baliński, Vilniaus miesto istorija (2007); pagrindinė scholastiko pareiga buvo Katedros mokyklos išlaikymas.","support_ids":["t-110150","c-102046"],"source_refs":[{"kind":"internal_claim","claim_id":"t-110150","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-102046","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galima ap­ žiūrėti Vilniaus universiteto biblio­ tekoje. 270 ## Puslapis 287 IV KNYGA ko papročiu, veikiančių mieste prie vienuolynų, skaičius iš­ augo, Vilniaus vyskupui Jonui iš Lietuvos kunigaikščių 1522 metais prie katedros įkūrus penktąją scholastiko prelatūrą, kadangi pagrindinė scholastiko pareiga buvo Katedros mo­ kyklos išlaikymas26. 1525 metais Vilniuje jau veikė spaustu­ vė, kurioje Jokūbas Babičius spausdino slaviškas knygas27."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e16c0ee19f52a06539120ca5","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Katedroje buvo du iš brangaus marmuro pastatyti antkapiai Elžbietai ir Barborai.","context":"Michał Baliński, Vilniaus miesto istorija (2007); antkapiai vėliau, XVIII a., pražuvo senosios Katedros griuvėsiuose.","support_ids":["t-110151","c-102051"],"source_refs":[{"kind":"internal_claim","claim_id":"t-110151","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-102051","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"• — 275 ## Puslapis 292 VILNIAUS MIESTO ISTORIJA I I TOMAS de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo meno kūriniais. Italai, čia nuolat dirbdami šešerius metus, iš brangaus marmuro pastatė du puikius antkapius kara­ liaus žmonoms - Elžbietai ir Barborai Šv. Stanislovo bažny­ čioje, deja, dėl kapitulos priekaištingo aplaidumo vėliau, XVIII amžiuje, tie antkapiai visiems laikams pražuvo seno­ sios Katedros griuvėsiuose."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4658c43dffd483c0d2825296","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Katedros kapitulai priklausė Cudzeniškių valda.","context":"Michał Baliński, Vilniaus miesto istorija (2007); 1396 m. Vytautas, Jogailai sutikus, valdą padovanojo kapitulai.","support_ids":["t-110157","c-102049"],"source_refs":[{"kind":"internal_claim","claim_id":"t-110157","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-102049","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­ kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­ bių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"911bc3728f8d7289298d44e6","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Katedros bažnyčia buvo perstatoma per penkerius metus, pradedant 1536 m.","context":"Michał Baliński, Vilniaus miesto istorija (2007); tai nurodyta kapitulos sutartyje su mūrijimo meistru Bernardu Zanobijumi.","support_ids":["t-110161","c-102056"],"source_refs":[{"kind":"internal_claim","claim_id":"t-110161","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-102056","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"287. 12 Vilniaus kapitulos archyve yra vysku­ po sutartis su Bernardu Zanobijumi, romiečiu, mūrijimo meistru, dėl Šv. Stanislovo katedros bažnyčios per- mūrijimo per penkerius metus, pra­ dėjus nuo 1536 metų."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"bc25c9a2b1f0a8aa5242b35e","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Katedrai pamatai buvo padėti kartu su Šv. Martyno ir Šv. Jono bažnyčių pamatais.","context":"Vytautas Didysis 1350–1430 (1930).","support_ids":["t-110166","c-37803"],"source_refs":[{"kind":"internal_claim","claim_id":"t-110166","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-37803","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Be esančių jau Vilniuje nuo seniau šv. Mikalojaus, šv. Petro ir šv. Panelės bažnyčių, dabar buvo padė­ ti pamatai Vilniaus katedrai ir šv. Martyno bei šv. Jono baž­ nyčioms* 2)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"804361ba10b512ecc2f7dedf","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Katedros zakristijoje buvo saugoma XVII a. pabaigos dramblio kaulo Nukryžiuotojo figūra, vadinta Vytautiniu Krucifiksu.","context":"Mikalojus Vorobjovas, Vilniaus menas (1940); autoriaus vertinimu, figūra negalėjo būti susijusi su Vytautu, nes kilo iš XVII a. pabaigos.","support_ids":["t-200785","c-184130"],"source_refs":[{"kind":"internal_claim","claim_id":"t-200785","source":"darbas/sources/Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.).md"},{"kind":"evidence","evidence_id":"c-184130","source":"darbas/sources/Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.).md","quote":"Petro ir Povilo bažnyčios lobyną sukrovė milžinišką gyvenimo pilnumą ir begalinę tikrovės įvairybę, — nuo primityvių kasdieninio gyvenimo reik­ menų iki aukščiausiųjų dvasios realybių. Vilniaus barokinės skulptūros paminklų įspūdžiams papildyti apžiūrėsime dar Nukryžiuotojo figūrą iš dramblio kaulo ( 51 ), saugomą Katedros za­ kristijoje. Medinis kryžius su šita figūra yra vadinamas Vytautiniu Kruci­ fiksu— kaipo tariamoji Vytauto Didžiojo dovana; bet iš tikrųjų jis negali turėti jokio ryšio su Vytautu, nes yra kilęs iš XVII amžiaus pabaigos."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-110164","confidence":0.9},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Bokštai","claim_id":"t-86173","confidence":0.83},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Dambrava","claim_id":"t-86174","confidence":0.88},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Labanoras","claim_id":"t-83724","confidence":0.72},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Tauragnai","claim_id":"t-119675","confidence":0.82},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Tauragnų pilis","claim_id":"t-115025","confidence":0.85},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Verkiai","claim_id":"t-119675","confidence":0.84}],"timeline":[{"date":"1389 m.","label":"1389 m.","claimId":"t-110146"},{"date":"1396 m.","label":"Didysis kunigaikštis didino Vilniaus katedros lobius ir 1396 m.","claimId":"t-110153"},{"date":"1396 m.","label":"1396 m.","claimId":"t-110157"},{"date":"1522 m.","label":"1522 m.","claimId":"t-110150"},{"date":"1522 m.","label":"1522 m.","claimId":"t-110160"}],"support_disclosure":{"claims":13,"sources":5}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 4c99a4d96c9f10eb
+object_page_generated_at: '2026-09-19T04:14:55+00:00'
+object_page_source_checked_at: '2026-09-19T04:14:55+00:00'
+object_page_content_state: content
+object_page_claim_count: '13'
+object_page_source_count: '5'
+object_page_seo_description: 'Vilniaus katedra: Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas katedros rūsyje, po šv.…'
+object_page_seo_input_hash: e4a707a284ac156e362a55331a689c6de0ec1d7ce51de6a4b4ff30bb40d30a18
+object_page_seo_generated_at: '2026-09-19T04:14:55+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vilniaus katedra
 

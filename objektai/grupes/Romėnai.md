@@ -1,13 +1,13 @@
 ---
 tipas: grupe
-pavadinimas: 'Romėnai'
+pavadinimas: Romėnai
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1936 m.'
-  - '2026 m.'
+  - 1936 m.
+  - 2026 m.
 date_start: '1936'
 date_end: '2026'
 sukurta: ''
@@ -16,20 +16,30 @@ tags:
   - grupe
   - tauta
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T14:15:08+00:00","source_checked_at":"2026-09-19T14:15:08+00:00","counts":{"relations":14,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7f5ad4ce0f0b71d373937573","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Romėnai pažindavo Juodosios jūros, Okeano ir Baltijos jūros pakrantes.","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.); aprašoma ankstesnė romėnų veikla.","support_ids":["t-215177","c-197010"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215177","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197010","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Romėnai pirmiausia pažindavo vienas Juodosios jūros pusės pakrantes, vė­ liau — kitas, esančias prie Okeano ir Baltijos jūros, ta­ čiau viduryje gana ilgą laiką buvo visiškai nepažintas"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"22f962b0a7942153efa5fe22","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Romėnai, kaip nugalėtojai, pažengė toliau, tačiau apie kraštus už Elbės ir Arkados žiočių nepaliko jokių rašytinių šaltinių.","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.); autoriaus aprašymas apie romėnų veiklą ir rašytinius palikimus.","support_ids":["t-215394","c-196210"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215394","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196210","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Graikai, ypač masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­ vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­ lėtojai, pažengė toliau, tačiau apie kraštus, esančius už Elbės ir Arkados žiočių, nepaliko jokių rašytinių"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b6916da2037e600aa9acdb6b","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Romėnai niekad nenuplaukė toliau Elbės upės.","context":"Strabono teiginys, kurį cituoja Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.); kalbama apie romėnų geografinius tyrimus.","support_ids":["t-213019","c-195728"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213019","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-195728","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Būdavo aptinkamos didelių upių žiotys, būdavo keliaujama jomis aukštyn, bet visa tai nesuteikdavo pa­ kankamai medžiagos nupiešti Siaurės Europos žemėlapį, atitinkantį tikrąjį vaizdą. Pirmieji geografijos žemėlapiai pernelyg priartindavo Vakarų jūras prie Juodosios jūros, iš to išeidavo, kad Galija buvo vos ne prie vieno dieno­ vidžio su Skitija, o Baltijos jūra įsiterpdavo tarp jų. Iš to Bazilija, arba šiandienė Semba, buvo vaizduojama čia pat, virš Galijos. Tai, ką čia pateikėme, įrodė ir parašė Diodoro amžininkas Strabonas: „Visas žemynas, esąs už Elbės upės, aukštyn net iki didelės jūros yra dar visiškai nežinomas, nes romėnai niekad nenuplaukė toliau Elbės ir niekas dar neapvažiavo…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3fcfa6de0a78e2c5e13441d1","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Iš Karnunto prie Dunojaus buvo išsiųstas kilmingas romėnas atgabenti gintaro.","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 2 (1995 m.); 54 arba 55 m. po Kr., Nerono laikais.","support_ids":["t-215547","c-197387"],"source_refs":[{"kind":"internal_claim","claim_id":"t-215547","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197387","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Krikščioniškosios eros 54 ar 55 metais imperatorius Neronas, norėjęs parodyti Romai ypač prašmatnų reginį, sumanė atgabenti daug gintaro iš tų vietų, kur jis gauna­ mas. Dėl to iš Karnunto gyvenvietės prie Dunojaus buvo išsiųstas kilmingas romėnas."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"fd49dd3d90d9421a649d6c9c","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Romėnai šventę vadindavo Circumpotatio („gėrimas ratu“).","context":"Teodoras Narbutas, „Lietuvių tautos istorija“, t. 1 (1998 m.); aprašomas senovinis šventės pavadinimas.","support_ids":["t-217065","c-201410"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217065","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201410","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Romėnai šią šventę vadindavo Circumpotatio (gėrimas ra­ tu), senovės slavai - Stypa arba Strawa."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"inbound","target":"objektai/asmenys/Galėnas","claim_id":"t-215877","confidence":0.78},{"predicate":"gyne","direction":"outbound","target":"objektai/vietos/Florencija","claim_id":"t-214841","confidence":0.71},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Juvava","claim_id":"t-215494","confidence":0.76},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Jotvingiai","claim_id":"t-214726","confidence":0.94},{"predicate":"kariavo_pries","direction":"inbound","target":"objektai/grupes/Kimbrai","claim_id":"t-212742","confidence":0.88},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Kimbrai","claim_id":"t-212742","confidence":0.88},{"predicate":"kariavo_pries","direction":"outbound","target":"objektai/grupes/Sarmatai","claim_id":"t-214855","confidence":0.72},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Baltija","claim_id":"t-216163","confidence":0.74},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-217109","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Galeros","claim_id":"t-214637","confidence":0.8},{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Laivai","claim_id":"t-216163","confidence":0.86},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Juvava","claim_id":"t-212461","confidence":0.78},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Herulai","claim_id":"t-215877","confidence":0.9},{"predicate":"puole","direction":"inbound","target":"objektai/grupes/Roksolanai","claim_id":"t-212352","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":6,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 28cbb2113baa6383
+object_page_generated_at: '2026-09-19T14:15:08+00:00'
+object_page_source_checked_at: '2026-09-19T14:15:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '2'
+object_page_seo_description: 'Romėnai: Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašytojas Tacitas savo veikale „Germania". Šaltinių citatos.'
+object_page_seo_input_hash: 7623e7d7a4d66937371265f2694b068274f06bfe75ade60a2dbe8051a9e949fd
+object_page_seo_generated_at: '2026-09-19T14:15:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Romėnai
 

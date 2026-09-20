@@ -1,15 +1,15 @@
 ---
 tipas: saltinis
-pavadinimas: 'Henriko iš Hohenlohės pranešimas'
+pavadinimas: Henriko iš Hohenlohės pranešimas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1050 m.'
-  - '1228 m.'
-  - '1242 m.'
-  - '1243 m.'
-  - '1244 m.'
-  - '1245 m.'
+  - 1050 m.
+  - 1228 m.
+  - 1242 m.
+  - 1243 m.
+  - 1244 m.
+  - 1245 m.
 date_start: '1050'
 date_end: '1245'
 sukurta: ''
@@ -18,20 +18,30 @@ tags:
   - saltinis
   - dokumentas
 amziai:
-  - 'XI'
-  - 'XIII'
+  - XI
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T08:20:10+00:00","source_checked_at":"2026-09-20T08:20:10+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"80e60a1a96340d7544959173","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"Henrikas iš Hohenlohės","context":"Šaltinis įvardijamas kaip Henriko iš Hohenlohės pranešimas.","support_ids":["t-220644","c-203164"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220644","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203164","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144."}],"status":"published","conflict_status":"clear"},{"trait_id":"e4c86785c79b8f91d45959f7","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"XIII a. vidurys","context":"Šaltinis datuojamas XIII a. viduriu.","support_ids":["t-225230","c-201853"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225230","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201853","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje."}],"status":"published","conflict_status":"clear"},{"trait_id":"8d7339e42e0463fe136312ba","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Pranešimas","context":"Šaltinis tiesiogiai vadinamas Henriko iš Hohenlohės pranešimu.","support_ids":["t-220644","c-203164"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220644","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203164","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: cc1630e378ae6471
+object_page_generated_at: '2026-09-20T08:20:10+00:00'
+object_page_source_checked_at: '2026-09-20T08:20:10+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Henriko iš Hohenlohės pranešimas: Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis —…'
+object_page_seo_input_hash: d51c9438e079d93303cd44e14e43b03a0cd02a9d18baf9bed3c26471fa8436ee
+object_page_seo_generated_at: '2026-09-20T08:20:10+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Henriko iš Hohenlohės pranešimas
 

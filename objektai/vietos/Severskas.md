@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Severskas'
+pavadinimas: Severskas
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1448 m.'
+  - 1448 m.
 date_start: '1448'
 date_end: ''
 sukurta: ''
@@ -16,28 +16,40 @@ tags:
   - miestas
   - pilis
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-1b2eeca7a8c933b1c28e480d"
-canonical_name: "Severskas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Severskas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-1b2eeca7a8c933b1c28e480d
+canonical_name: Severskas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Severskas
 sameAs: []
-canonical_biography: "Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos. Levas, net nepabandęs kovoti lauke, kuo greičiausiai pabėgo į Severską. Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską."
+canonical_biography: 'Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos. Levas, net nepabandęs kovoti lauke, kuo greičiausiai pabėgo į Severską. Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Severskas","url":"https://lt.wikipedia.org/wiki/Severskas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:23:10+00:00","source_checked_at":"2026-09-20T13:23:10+00:00","counts":{"relations":7,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Severskas","url":"https://lt.wikipedia.org/wiki/Severskas","publisher":"Vikipedija","language":"lt","article_id":"351558","revision_id":"6780965","published_at":"2022-11-26T15:24:10Z","version_pk":"","content_hash":"9c6027c3d50bc3226d57667043b0a161a2af2c3f93df81dd0f8d5f45b6185d21","retrieved_at":"2026-09-20T13:21:45+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Severskas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"351558"}},"intro":"Severskas – uždaras miestas rytų Rusijoje, 15 km į šiaurės vakarus nuo Tomsko, Tomės upės dešiniajame krante. Išvystyta chemijos pramonė. Yra technologijos akademija.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Severskas","url":"https://lt.wikipedia.org/wiki/Severskas","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Severskas"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"ba4f391f68e5889c6a7e34fe","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Nemažas miestas","context":"Albertas Vijūkas-Kojelavičius, „Lietuvos istorija“ (1989 m.), aprašydamas Seversko Naugardą.","support_ids":["t-185135","c-168496"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185135","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168496","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Vytautas, šitai išvy- S usikauna su D im it- dęs, su visomis jėgomis puo- tu, S e v e r s k o kuni- lė vytis atsitraukiančiųjų, g a ikščiu persekioti pakrikusio priešo, galop, su narsiausiais kariais pasivijęs pagrindinę kovos rikiuotę ir ją pralaužęs, pri­ vertė rusus bėgti, kur pakliuvo. Nenorėdamas, kad nu- 340 ## Puslapis 339 galėtieji turėtų laiko kokioje S u m u ša S e v e r s k o ka- vietoje atsikvėpti, jis išsiuntė iiu s lengvųjų raitelių būrius bė­ gančiųjų persekioti, tuo tarpu pats, surinkęs grobį, su pagrindinėmis jėgomis patraukė į Severską. To krašto sostinė Seversko Naugardas — nemažas miestas, garsėjęs ne tik valdovo, bet ir kitų žmonių turtais."}],"status":"published","conflict_status":"clear"},{"trait_id":"b1a36850737aa01df717a432","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Seversko krašto sostinė","context":"Albertas Vijūkas-Kojelavičius, „Lietuvos istorija“ (1989 m.), Seversko Naugardą įvardija krašto sostine.","support_ids":["t-185135","c-168496"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185135","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168496","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Vytautas, šitai išvy- S usikauna su D im it- dęs, su visomis jėgomis puo- tu, S e v e r s k o kuni- lė vytis atsitraukiančiųjų, g a ikščiu persekioti pakrikusio priešo, galop, su narsiausiais kariais pasivijęs pagrindinę kovos rikiuotę ir ją pralaužęs, pri­ vertė rusus bėgti, kur pakliuvo. Nenorėdamas, kad nu- 340 ## Puslapis 339 galėtieji turėtų laiko kokioje S u m u ša S e v e r s k o ka- vietoje atsikvėpti, jis išsiuntė iiu s lengvųjų raitelių būrius bė­ gančiųjų persekioti, tuo tarpu pats, surinkęs grobį, su pagrindinėmis jėgomis patraukė į Severską. To krašto sostinė Seversko Naugardas — nemažas miestas, garsėjęs ne tik valdovo, bet ir kitų žmonių turtais."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6feb9f18cd77b5e81eaa68cc","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Seversko valstybės centras","context":"Michał Baliński, „Vilniaus miesto istorija“ (2007 m.), kalbėdamas apie Vytauto užimtą Seversko Naugardą ir Seversko valstybės prijungimą prie Lietuvos.","support_ids":["t-86104","c-82083"],"source_refs":[{"kind":"internal_claim","claim_id":"t-86104","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-82083","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Paminėsime tad tik žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais. Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri- jaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse kautynėse prie Nedokudo- vo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs patį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur gana ilgai buvo saugomas sargybos, kol, atkakliai prašant ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo 139 ## Puslapis 156 VILNIAUS MIESTO ISTORIJA /…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-184700","confidence":0.9},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Žygimantas Kęstutaitis","claim_id":"t-184915","confidence":0.66},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-86104","confidence":0.9},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/Dimitras Kaributas","claim_id":"t-184691","confidence":0.7},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Skirmantas","claim_id":"t-185052","confidence":0.78},{"predicate":"uzkariavo","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-185134","confidence":0.84},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Kaributas","claim_id":"t-97460","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":5,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 74b515e82bde8436
+object_page_generated_at: '2026-09-20T13:23:10+00:00'
+object_page_source_checked_at: '2026-09-20T13:23:10+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '2'
+object_page_seo_description: 'Severskas: Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos. Levas, net nepabandęs kovoti lauke, kuo greičiausiai pabėgo į…'
+object_page_seo_input_hash: e5bd0262692fca16ab3611cee3c3dc1179f2644ac708ecc6655ef7bd790e5ac8
+object_page_seo_generated_at: '2026-09-20T13:23:10+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Severskas
 

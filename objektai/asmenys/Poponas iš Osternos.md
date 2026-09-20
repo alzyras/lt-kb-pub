@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Poponas iš Osternos'
+pavadinimas: Poponas iš Osternos
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1241 m.'
-  - '1244 m.'
+  - 1241 m.
+  - 1244 m.
 date_start: '1241'
 date_end: '1244'
 sukurta: ''
@@ -15,28 +15,40 @@ tags:
   - kunigaikštis
   - karys
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fec266f4491f38e2f6d5ba66"
-canonical_name: "Poponas iš Osternos"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Poponas iš Osternos"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fec266f4491f38e2f6d5ba66
+canonical_name: Poponas iš Osternos
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Poponas iš Osternos
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius metus, o atsisakęs pareigų 1241, sugrįžo į Vokietijos kraštą, kur vėliau buvo išrinktas didžiuoju magistru265. Dusburgietis teigia, kad kai šitai buvo padaryta, 1244 atvyko brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos. Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus laivus; priartėjęs prie Santyro, jis ten išvydo."
+canonical_biography: 'Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius metus, o atsisakęs pareigų 1241, sugrįžo į Vokietijos kraštą, kur vėliau buvo išrinktas didžiuoju magistru265. Dusburgietis teigia, kad kai šitai buvo padaryta, 1244 atvyko brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos. Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus laivus; priartėjęs prie Santyro, jis ten išvydo.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T01:34:57+00:00","source_checked_at":"2026-09-20T01:34:57+00:00","counts":{"relations":2,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"18420e3791b3fff5788cf3ad","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Antrasis Prūsijos žemės magistras; pareigas ėjo septynerius metus ir 1241 m. jų atsisakė.","context":"Petras Dusburgietis, Prūsijos žemės kronika; aprašoma 1241 m. situacija.","support_ids":["t-220716","c-206244"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220716","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-206244","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie brolį Poponą, antrą Prūsijos žemės magistrą Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius metus, o atsisakęs pareigų 1241, sugrįžo į Vokietijos kraštą, kur vėliau buvo išrinktas didžiuoju magistru265. 30."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a39de0673d26d9dda63d3a26","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Šeštasis Teutonų namų ordino didysis magistras.","context":"Petras Dusburgietis, Prūsijos žemės kronika; aprašomas laikotarpis, kai Poponas ėjo šias pareigas.","support_ids":["t-221049","c-203738"],"source_refs":[{"kind":"internal_claim","claim_id":"t-221049","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203738","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos. Daug kartų garbingai kariavęs Prūsijoje ir Livonijoje prieš tai, kai priėmė šias pareigas, ir po to, kai jas priėmė, pavargęs nuo metų ir rūpesčių naštos, jis nuolankiai atsisakė savo pareigybės, o ją paveldėjo anksčiau jau šias pareigas ėjęs brolis Anonas. 39."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"50101204a324b6f105d2064f","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"1244 m. magistras atvyko su keturiais broliais; dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.","context":"Petras Dusburgietis, Prūsijos žemės kronika; 1244 m. įvykių aprašymas.","support_ids":["t-223568","c-202182"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223568","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202182","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Kai šitai buvo padaryta, 1244 atvyko brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos. Be to, Austrijos kunigaikštis dar atsiuntė šiai žemei padėti 30 raitųjų lankininkų, išlaikomų savo lėšomis. Šiems atvykus, broliai be galo džiaugėsi, o Sventopelkas priešingai — taip sunerimo ir išsigando, kad iš tos baimės pabandė susitaikyti su broliais, o to jam nebuvo 282 Manoma, jog Dusburgietis galėjęs šį mūšį prie Kulmo išgalvoti, norėdamas Sventopelko pralaimėjimo vaizdais sušvelninti ankstesnio Ordino pralaimėjimo įspūdį (PKD, p."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2fa2b4d64a6c08950566b6e7","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Šaltinyje apibūdinamas kaip nuolankiai atsisakęs didžiojo magistro pareigybės, pavargęs nuo metų ir rūpesčių naštos.","context":"Tai yra Petro Dusburgiečio vertinimas ir apibūdinimas; kalbama apie laiką, kai Poponas ėjo Teutonų namų ordino didžiojo magistro pareigas.","support_ids":["t-222224","c-203738"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222224","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-203738","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos. Daug kartų garbingai kariavęs Prūsijoje ir Livonijoje prieš tai, kai priėmė šias pareigas, ir po to, kai jas priėmė, pavargęs nuo metų ir rūpesčių naštos, jis nuolankiai atsisakė savo pareigybės, o ją paveldėjo anksčiau jau šias pareigas ėjęs brolis Anonas. 39."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Višogrudas","claim_id":"t-224128","confidence":0.88},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Vokietija","claim_id":"t-221937","confidence":0.9}],"timeline":[{"date":"1241 m.","label":"Poponas iš Osternos vadovavo septynerius metus, 1241 m.","claimId":"t-220716"},{"date":"1241 m.","label":"Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjo septynerius metus ir 1241 m.","claimId":"t-221937"},{"date":"1244 m.","label":"1244 m.","claimId":"t-221591"},{"date":"1244 m.","label":"1244 m.","claimId":"t-223568"}],"support_disclosure":{"claims":7,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b29b7f29f6deb6b2
+object_page_generated_at: '2026-09-20T01:34:57+00:00'
+object_page_source_checked_at: '2026-09-20T01:34:57+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '1'
+object_page_seo_description: 'Poponas iš Osternos: Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą Brolis Poponas iš Osternos, antras Prūsų žemės magistras…'
+object_page_seo_input_hash: c7de9984eda7660bbdfbc11a6c09dabfc1295ad20bc5ed24470f24d44b7c2341
+object_page_seo_generated_at: '2026-09-20T01:34:57+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Poponas iš Osternos
 

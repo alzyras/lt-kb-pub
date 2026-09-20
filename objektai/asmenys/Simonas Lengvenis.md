@@ -6,7 +6,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1348 m.'
+  - 1348 m.
 date_start: '1348'
 date_end: ''
 sukurta: ''
@@ -16,28 +16,41 @@ tags:
   - kunigaikštis
   - valdovas
 amziai:
-  - 'XIV'
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b74d1ed67730120639a4c689"
-canonical_name: "Simonas Lengvenis (valdovas, XIV a.)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Simonas Lengvenis","Simonas Lengvenis (valdovas, XIV a.)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b74d1ed67730120639a4c689
+canonical_name: 'Simonas Lengvenis (valdovas, XIV a.)'
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Simonas Lengvenis
+  - 'Simonas Lengvenis (valdovas, XIV a.)'
 sameAs: []
-canonical_biography: "Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis."
+canonical_biography: 'Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T10:08:10+00:00","source_checked_at":"2026-09-20T10:08:10+00:00","counts":{"relations":5,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e077a22aa214b1bbd25a87c8","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Lietuvos kunigaikštis, Rusios ir Ladogos kunigaikštis, Didžiojo Naugardo valdovas arba vaivada","context":"Michał Balińskio 2007 m. šaltinyje Simonas Lengvenis įvardijamas Algirdo sūnumi ir šių valdų valdovu; po Patriko perėmė valdžią.","support_ids":["t-82662","t-82664","c-79125"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82662","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-82664","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-79125","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"; o po jo ten val­ džią perėmęs jo sūnus Patrikas, ar­ ba Patricijus; po pastarojo tapo val­ dovu, arba Žečpospolitos vaivada, ir Rusios bei Ladogos kunigaikštis Simonas Lungvinas, arba tiksliau Lengvenis, Lietuvos kunigaikštis, Algirdo sūnus: žr."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sunus","direction":"outbound","target":"objektai/asmenys/Algirdas","claim_id":"t-82662","confidence":0.95},{"predicate":"buvo_valdovas","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-82662","confidence":0.82},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Mstislavlis","claim_id":"t-184825","confidence":0.84},{"predicate":"puole","direction":"outbound","target":"objektai/vietos/Riazanė","claim_id":"t-185834","confidence":0.93},{"predicate":"uzeme","direction":"outbound","target":"objektai/vietos/Riazanė","claim_id":"t-185834","confidence":0.64}],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 01961b3436821ce7
+object_page_generated_at: '2026-09-20T10:08:10+00:00'
+object_page_source_checked_at: '2026-09-20T10:08:10+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '2'
+object_page_seo_description: 'Simonas Lengvenis (valdovas, XIV a.): Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir…'
+object_page_seo_input_hash: a25a0464c00f72f5dd6327bdba26d33bc1f59fe33dca105afa9ed12892e4a158
+object_page_seo_generated_at: '2026-09-20T10:08:10+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Simonas Lengvenis (valdovas, XIV a.)
 

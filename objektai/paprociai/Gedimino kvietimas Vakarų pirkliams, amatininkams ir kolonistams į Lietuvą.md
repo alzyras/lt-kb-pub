@@ -5,8 +5,8 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1323 m.'
-  - '1324 m.'
+  - 1323 m.
+  - 1324 m.
 date_start: '1323'
 date_end: '1324'
 sukurta: ''
@@ -14,19 +14,29 @@ atnaujinta: ''
 tags:
   - paprotys
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T13:02:03+00:00","source_checked_at":"2026-09-20T13:02:03+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"87e7bce827be5839def9cdf0","canonical_code":"custom.participants","label":"Dalyviai","group":"Papročio eiga","value":"Pirkliai, amatininkai, ginklakaliai, karo technikos meistrai, siuvėjai, akmentašiai, račiai, druskininkai, auksakaliai, žvejai ir apskritai įvairių amatų žmonės su žmonomis bei vaikais; taip pat vokiečių kolonistai.","context":"Gedimino kvietimo į Lietuvą kontekste.","support_ids":["t-113465","c-104695","t-113464","c-104696"],"source_refs":[{"kind":"internal_claim","claim_id":"t-113465","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-113464","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-104695","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Karius, kurie atvyks pas mus, aprūpinsim to­ kiom pajamom ir žeme, kiek tik bus reikalingi. Pirkliai ir amatininkai, ginklakaliai, karo technikos meistrai, siuvė­ jai, akmentašiai, račiai, druskininkai, auksakaliai, žvejai ir apskritai žmonės bet kokio amato su žmonomis, vaikais, jiems be jokių mokesčių ir prievolių, mūsų valstybėj yra atviri keliai atvykti ir išvykti. Žemdirbiams, kurie norėtų pas mus atsikelti ir įsikurti, duodame dešimties metų lai­ ką, per kurį jie bus atleisti nuo bet kokių mokesčių ir dar- ł To laiško nuorašas tais pačiais lai- Palyginimui žr. Gedimino laiškai p. 21 kais rašytas, ant pergamento, be da- (Leid. past.) tos Slapt. arch. Spinta XVIII, Nr. 1. 72 ##…"},{"kind":"evidence","evidence_id":"c-104696","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo. Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko- 1 skyrius • S E N O J I L I E T U VA 33 lonistus."}],"status":"published","conflict_status":"clear"},{"trait_id":"5a104acead14ab6714c07f66","canonical_code":"custom.course","label":"Eiga","group":"Papročio eiga","value":"Gediminas kvietė atvykti į Lietuvą ir suteikė galimybę atvykusiems žmonėms laisvai atvykti bei išvykti; žemdirbiams, norintiems atsikelti ir įsikurti, buvo žadamas dešimties metų atleidimas nuo mokesčių.","context":"Tai aprašyta Gedimino laiško nuoraše, kurį cituoja Michał Baliński; šaltinyje kvietimas siejamas su Gedimino laikotarpiu.","support_ids":["t-113465","c-104695"],"source_refs":[{"kind":"internal_claim","claim_id":"t-113465","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-104695","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Karius, kurie atvyks pas mus, aprūpinsim to­ kiom pajamom ir žeme, kiek tik bus reikalingi. Pirkliai ir amatininkai, ginklakaliai, karo technikos meistrai, siuvė­ jai, akmentašiai, račiai, druskininkai, auksakaliai, žvejai ir apskritai žmonės bet kokio amato su žmonomis, vaikais, jiems be jokių mokesčių ir prievolių, mūsų valstybėj yra atviri keliai atvykti ir išvykti. Žemdirbiams, kurie norėtų pas mus atsikelti ir įsikurti, duodame dešimties metų lai­ ką, per kurį jie bus atleisti nuo bet kokių mokesčių ir dar- ł To laiško nuorašas tais pačiais lai- Palyginimui žr. Gedimino laiškai p. 21 kais rašytas, ant pergamento, be da- (Leid. past.) tos Slapt. arch. Spinta XVIII, Nr. 1. 72 ##…"}],"status":"published","conflict_status":"clear"},{"trait_id":"584a57ff8027cd4ce00c1d46","canonical_code":"custom.significance","label":"Reikšmė","group":"Papročio bruožai","value":"Pasak Lietuvos istorijos autorių, krikšto atsisakymas nereiškė, kad Gediminas atsisakė tikslo priartinti Lietuvą prie Vakarų Europos; šiam tikslui jis kvietė atvykti vokiečių kolonistus.","context":"Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas ir Mindaugas Tamošaitis tai aprašo kalbėdami apie 1323–1324 m. Gedimino krikšto akcijos nesėkmę ir jos padarinius.","support_ids":["t-113464","c-104696","t-113469","c-104696"],"source_refs":[{"kind":"internal_claim","claim_id":"t-113464","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-113469","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-104696","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo. Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko- 1 skyrius • S E N O J I L I E T U VA 33 lonistus."},{"kind":"evidence","evidence_id":"c-104696","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo. Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko- 1 skyrius • S E N O J I L I E T U VA 33 lonistus."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 05c4458a6010e111
+object_page_generated_at: '2026-09-20T13:02:03+00:00'
+object_page_source_checked_at: '2026-09-20T13:02:03+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '2'
+object_page_seo_description: 'Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą: Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai. Krikšto…'
+object_page_seo_input_hash: 450d33be660fbec1ba56de7dcbb24827c44555b0e3e975534df838d21e4def66
+object_page_seo_generated_at: '2026-09-20T13:02:03+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą
 

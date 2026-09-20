@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jurijus Sviatoslavovičius'
+pavadinimas: Jurijus Sviatoslavovičius
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
@@ -14,19 +14,31 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4e8af8a2bdf9b92fdb62be46"
-canonical_name: "Jurijus Sviatoslavovičius"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Jurijus Sviatoslavovičius"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4e8af8a2bdf9b92fdb62be46
+canonical_name: Jurijus Sviatoslavovičius
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Jurijus Sviatoslavovičius
 sameAs: []
-canonical_biography: "Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto."
+canonical_biography: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T11:40:44+00:00","source_checked_at":"2026-09-20T11:40:44+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b7815d532690cafa1b8f6e8b","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Elgėsi kaip neabejotinas priešas; išsigandęs Vytauto kariuomenės nuslėpė nedraugiškus jausmus.","context":"Šaltinio autoriaus vertinimas ir pasakojimas apie laikotarpį, kai Vytautas atvyko su kariuomene.","support_ids":["t-186120","c-169481"],"source_refs":[{"kind":"internal_claim","claim_id":"t-186120","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-169481","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Drucko kunigaikščiai, pirmųjų Rusios valdo­ vų palikuonys, kurie šių neramumų pradžioje mažai klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus antpuolio sutriuškinti, supra- S u tra m d o rusų didi- to, jog kur kas geriau mal­ kus dauti Vytautą — kad ir ne­ patikimo — atlaidumo, nei iš naujo ginkluotis ir griebtis kalavijo, todėl nesunkiai, pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­ niams, susilaukė, ko prašė. Taip pat ir Jurijus Svia- toslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­ draugiškus jausmus ir prijungė, puoselėdamas tam tik­ rus sumanymus, savo…"}],"status":"published","conflict_status":"clear"},{"trait_id":"61cdbaf516764b8e1532d783","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Smolensko valdovas.","context":"Tiesiogiai nurodyta šaltinyje.","support_ids":["t-186120","c-169481"],"source_refs":[{"kind":"internal_claim","claim_id":"t-186120","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-169481","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Drucko kunigaikščiai, pirmųjų Rusios valdo­ vų palikuonys, kurie šių neramumų pradžioje mažai klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus antpuolio sutriuškinti, supra- S u tra m d o rusų didi- to, jog kur kas geriau mal­ kus dauti Vytautą — kad ir ne­ patikimo — atlaidumo, nei iš naujo ginkluotis ir griebtis kalavijo, todėl nesunkiai, pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­ niams, susilaukė, ko prašė. Taip pat ir Jurijus Svia- toslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­ draugiškus jausmus ir prijungė, puoselėdamas tam tik­ rus sumanymus, savo…"}],"status":"published","conflict_status":"clear"},{"trait_id":"8cc76828b85d19be41bf6361","canonical_code":"person.communication","label":"Bendravimas","group":"Asmens veikla","value":"Prijungė savo pajėgas prie Vytauto, nors puoselėjo tam tikrus sumanymus.","context":"Veiksmas aprašomas po to, kai Jurijus Sviatoslavovičius išsigando atvykusios Vytauto kariuomenės; šaltinis jo ketinimus vertina kaip turėjusius slaptų sumanymų.","support_ids":["t-186120","c-169481"],"source_refs":[{"kind":"internal_claim","claim_id":"t-186120","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-169481","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Drucko kunigaikščiai, pirmųjų Rusios valdo­ vų palikuonys, kurie šių neramumų pradžioje mažai klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus antpuolio sutriuškinti, supra- S u tra m d o rusų didi- to, jog kur kas geriau mal­ kus dauti Vytautą — kad ir ne­ patikimo — atlaidumo, nei iš naujo ginkluotis ir griebtis kalavijo, todėl nesunkiai, pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­ niams, susilaukė, ko prašė. Taip pat ir Jurijus Svia- toslavovičius, Smolensko valdovas, nors ir elgėsi kaip neabejotinas priešas, kol Vytautas dar nebuvo atvykęs, tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­ draugiškus jausmus ir prijungė, puoselėdamas tam tik­ rus sumanymus, savo…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Smolenskas","claim_id":"t-186120","confidence":0.89}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b4e5ccfe6a04d714
+object_page_generated_at: '2026-09-20T11:40:44+00:00'
+object_page_source_checked_at: '2026-09-20T11:40:44+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto. Šaltinių citatos.'
+object_page_seo_input_hash: 8d3fbd0cc11419140030874e994b1fa871f104bce0e0762ea1f31e5677d28549
+object_page_seo_generated_at: '2026-09-20T11:40:44+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Jurijus Sviatoslavovičius
 

@@ -1,12 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Riurikaičių dinastija'
+pavadinimas: Riurikaičių dinastija
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1598 m.'
-  - '2026 m.'
+  - 1598 m.
+  - 2026 m.
 date_start: '1598'
 date_end: '2026'
 sukurta: ''
@@ -15,20 +15,30 @@ tags:
   - dinastija
   - grupe
 amziai:
-  - 'XVI'
-  - 'XXI'
+  - XVI
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Riurikaičių dinastija","url":"https://lt.wikipedia.org/wiki/Riurikai%C4%8Di%C5%B3_dinastija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T12:42:46+00:00","source_checked_at":"2026-09-20T12:42:46+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Riurikaičių dinastija","url":"https://lt.wikipedia.org/wiki/Riurikai%C4%8Di%C5%B3_dinastija","publisher":"Vikipedija","language":"lt","article_id":"240231","revision_id":"7648189","published_at":"2025-09-20T06:31:57Z","version_pk":"","content_hash":"438c29720ef5da926a1ae5047e22b35ab63c90aefdb73cc935e3c43f805594ca","retrieved_at":"2026-09-20T12:41:07+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Riurikai%C4%8Di%C5%B3_dinastija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"240231"}},"intro":"Riurikaičių dinastija – kunigaikščių dinastija ir giminė, kuri valdė Kijevo Rusią ir nuo jos atskilusias kunigaikštystes nuo IX a. iki 1598 m., kai nepalikęs palikuonių mirė Rusijos caras Fiodoras I.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Riurikaičių dinastija","url":"https://lt.wikipedia.org/wiki/Riurikai%C4%8Di%C5%B3_dinastija","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Riurikai%C4%8Di%C5%B3_dinastija"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"901a444ba970f3d98d62f31e","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Riurikaičių dinastijai priklausė smulkūs Riurikaičiai, taip pat valdžios šeimos nariai ir daliniai kunigaikščiai.","context":"Zenonas Ivinskis, 1978 m.; aprašoma Lietuvos valdžios struktūra Gedimino laikais.","support_ids":["t-96866","c-91460"],"source_refs":[{"kind":"internal_claim","claim_id":"t-96866","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-91460","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Abu jiedu įkūrė iki šiol patverusias sostines (Vilnių, Kremlių), į jų pamatus įmūrydami amžiną Gedimino sosti­ nės ir Maskvos antagonizmą, išlaikytą ne tik jų dinastijų, bet ir vėlybesnių palikuonių. Ir Gediminas, ir Jonas Kalita savo valdžioje turėjo eilę dalinių kunigaikščių. Tik Lietuvos daliniai kunigaikščiai, ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai, nebuvo savarankus valdovai."}],"status":"published","conflict_status":"clear"},{"trait_id":"29fc37248106f8e18cb1b5a5","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.","context":"Zenonas Ivinskis, 1978 m.; autoriaus istorinis vertinimas apie Lietuvos dalinių kunigaikščių padėtį.","support_ids":["t-96867","c-31248"],"source_refs":[{"kind":"internal_claim","claim_id":"t-96867","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-31248","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Ir Gediminas, ir Jonas Kalita savo valdžioje turėjo eilę dalinių kunigaikščių. Tik Lietuvos daliniai kunigaikščiai, ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai, nebuvo savarankus valdovai. Jie labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d0fee5bf5ffd9d956cd3a869","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Didysis kunigaikštis galėjo dalinių kunigaikščių sūnus iškelti kitur ir nepripažinti jiems žemių, kurias valdė jų tėvai.","context":"Zenonas Ivinskis, 1978 m.; aprašomas didžiojo kunigaikščio valdžios mechanizmas Lietuvos dalinių kunigaikščių atžvilgiu.","support_ids":["t-184334","c-167704"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184334","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-167704","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Tik Lietuvos daliniai kunigaikščiai, ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai, nebuvo savarankus valdovai. Jie labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio. Šis galėjo, iškeldamas dalinių kunigaikš­ čių sūnus kitur, nepripažinti jiems tų žemių, kurias valdė jų tėvai."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d63f39b93b3982ccc07019cd","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Riurikaičių dinastija išsibaigė 1598 m.","context":"Zenonas Ivinskis, 1978 m.; autoriaus teigimu, šis įvykis Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.","support_ids":["t-96869","c-31247"],"source_refs":[{"kind":"internal_claim","claim_id":"t-96869","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-31247","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,— pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­ mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje «abiejų tautų » respublikoje. Tačiau epocha caro Petro Didžiojo, kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­ sijos įtakon."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Rusija","claim_id":"t-40106","confidence":0.95}],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f065d1cb056c931d
+object_page_generated_at: '2026-09-20T12:42:46+00:00'
+object_page_source_checked_at: '2026-09-20T12:42:46+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'Riurikaičių dinastija: Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio gyvenimo.'
+object_page_seo_input_hash: 3e2f7c81109c2c43bc5e9397e1bcc377f7f88da419a5d7e2d85c635b4f901cce
+object_page_seo_generated_at: '2026-09-20T12:42:46+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Riurikaičių dinastija
 

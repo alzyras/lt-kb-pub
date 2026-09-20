@@ -1,15 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: 'Klaipėdos kraštas'
+pavadinimas: Klaipėdos kraštas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1919 m.'
-  - '1923 m.'
-  - '1925 m.'
-  - '1990 m.'
+  - 1919 m.
+  - 1923 m.
+  - 1925 m.
+  - 1990 m.
 date_start: '1919'
 date_end: '1990'
 sukurta: ''
@@ -19,28 +19,40 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2d8354634aef0a549c73e0a9"
-canonical_name: "Klaipėdos kraštas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Klaipėdos kraštas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2d8354634aef0a549c73e0a9
+canonical_name: Klaipėdos kraštas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Klaipėdos kraštas
 sameAs: []
-canonical_biography: "Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui. Nuo to laiko Klaipėdos kraštas yra neginčijama Lietuvos valstybės dalis."
+canonical_biography: 'Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui. Nuo to laiko Klaipėdos kraštas yra neginčijama Lietuvos valstybės dalis.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Klaipėdos kraštas","url":"https://lt.wikipedia.org/wiki/Klaip%C4%97dos_kra%C5%A1tas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Klaipėdos kraštas","url":"https://www.vle.lt/straipsnis/klaipedos-krastas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T16:24:28+00:00","source_checked_at":"2026-09-19T16:24:28+00:00","counts":{"relations":3,"gallery":0,"sources":5},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Klaipėdos kraštas","url":"https://lt.wikipedia.org/wiki/Klaip%C4%97dos_kra%C5%A1tas","publisher":"Vikipedija","language":"lt","article_id":"8834","revision_id":"7670802","published_at":"2025-10-16T18:32:43Z","version_pk":"","content_hash":"e6abac862fb72442deaf468e0d572473dc120062eb28a9ab1b4c0f6c0e2373a1","retrieved_at":"2026-09-19T16:22:21+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Klaip%C4%97dos_kra%C5%A1tas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"8834"}},"intro":"Klaipėdos kraštas (vok. Memelland) – šiaurinėje Mažosios Lietuvos dalyje ir palei Nemuno žemupį bei Baltijos jūrą 1919–1939 m. egzistavęs teritorinis vienetas. Plotas (be vidaus vandenų) 2416 km², ilgis apie 140 km. Jį sudarė dabartinių Klaipėdos, Šilutės, Tauragės, Jurbarko ir Kretingos rajonų, Pagėgių savivaldybės teritorija, Klaipėda ir Neringa. Klaipėdos kraštas ilgą laiką buvo Prūsijos karalystėje, po 1871 m. – Vokietijos imperijoje. Antantės pavedimu 1920–1923 m. krašte buvo Prancūzijos kariuomenė, 1923 m. kraštą prisijungė Lietuva. 1939 m. kovo 23 d. A. Hitleriui pareikalavus Klaipėdos kraštas buvo perduotas Trečiajam Reichui. 1945 m. sausio 28 d. Raudonoji Armija įžengė į Klaipėdą, o vasario 4 d. ir į Kuršių neriją. Po to Klaipėdos kraštas buvo okupuotas ir tapo Lietuvos TSR dalimi.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Klaipėdos kraštas","url":"https://lt.wikipedia.org/wiki/Klaip%C4%97dos_kra%C5%A1tas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Klaipėdos kraštas","url":"https://www.vle.lt/straipsnis/klaipedos-krastas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Klaip%C4%97dos_kra%C5%A1tas","https://www.vle.lt/straipsnis/klaipedos-krastas/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"96309d7ebc5706de6cb3c0e8","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Nuo Vokietijos atskirta Mažosios Lietuvos dalis, sudariusi Klaipėdos kraštą.","context":"1919 m. Versalio taikos konferencijos metu; šaltinio autoriai teigia, kad kraštas buvo atskirtas nuo Vokietijos, tačiau Lietuvai neatiduotas.","support_ids":["t-183602","c-166994"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183602","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166994","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Be to, moderniosios Lietuvos valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes. Tiesa, Versalio taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu- vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė- diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas))."}],"status":"published","conflict_status":"clear"},{"trait_id":"3a5f5be3809e9b0f622e9634","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Laikinai paliktas didžiųjų valstybių žinioje.","context":"Po Taikos konferencijos, kai kraštas buvo atskirtas nuo Vokietijos, bet dar nebuvo prijungtas prie Lietuvos.","support_ids":["t-183030","c-166422"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183030","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-166422","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"**Klaipėdos krašto atskyrimas nuo Vokietijos.** Taikos kon- ferencija tik iš dalies teatsižvelgė į tuos lietuvių reikalavimus: ji atskyrė nuo Vokietijos tik mažą dalį žemių, kuriose nuo senų senovės gyveno lietuviai. Bet kadangi tada Lietuvos liki- mas formaliai dar nebuvo išspręstas, tai tas atskirtas kraštas, gavęs Klaipėdos krašto vardą, nebuvo prijungtas prie Lietuvos, o buvo laikinai paliktas didžiųjų valstybių žinioje."}],"status":"published","conflict_status":"clear"},{"trait_id":"42d12c66f244680512c1f5cb","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Turėjo neužšąlantį uostą.","context":"Po 1925 m. gyventojų surašymo; šaltinio autoriai nurodo, kad Lietuva, perėmusi kraštą, įgijo neužšąlantį uostą.","support_ids":["t-193639","c-176310"],"source_refs":[{"kind":"internal_claim","claim_id":"t-193639","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-176310","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"1925 m. Klaipėdos krašto gyventojų surašy- mo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai. Kadangi Lietuva be vidinių skrupulų laikė „klaipėdiečius“ lie- tuviais, skaičiavo krašte esant 50,8 proc. lietuvių. Lietuva įgijo neužšalantį uostą."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-183702","confidence":0.9},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Vokiečiai","claim_id":"t-182764","confidence":0.86},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Prancūzai","claim_id":"t-183603","confidence":0.8}],"timeline":[],"support_disclosure":{"claims":10,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 45c2c4cad53bcb73
+object_page_generated_at: '2026-09-19T16:24:28+00:00'
+object_page_source_checked_at: '2026-09-19T16:24:28+00:00'
+object_page_content_state: content
+object_page_claim_count: '10'
+object_page_source_count: '3'
+object_page_seo_description: 'Klaipėdos kraštas: Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos…'
+object_page_seo_input_hash: 0f28eb5828efc5ded0348f23310c83c569b5069ff744b37273f43b493770fe51
+object_page_seo_generated_at: '2026-09-19T16:24:28+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Klaipėdos kraštas
 

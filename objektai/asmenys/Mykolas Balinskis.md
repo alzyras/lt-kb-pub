@@ -1,13 +1,13 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mykolas Balinskis'
+pavadinimas: Mykolas Balinskis
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1794 m.'
-  - '1864 m.'
+  - 1794 m.
+  - 1864 m.
 date_start: '1794'
 date_end: '1864'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - istorikas
   - asmuo
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-62074087859a96ae6e80ea5c"
-canonical_name: "Mykolas Balinskis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mykolas Balinskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-62074087859a96ae6e80ea5c
+canonical_name: Mykolas Balinskis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mykolas Balinskis
 sameAs: []
-canonical_biography: "Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įskaitant anoniminius tekstus. Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus. Mykolas Balinskis visiškai nuneigti negalėjo."
+canonical_biography: 'Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įskaitant anoniminius tekstus. Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus. Mykolas Balinskis visiškai nuneigti negalėjo.'
+external_sources_json: '[{"title":"Mykolas Balinskis","url":"https://www.vle.lt/straipsnis/mykolas-balinskis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:07:18+00:00","source_checked_at":"2026-09-19T18:07:18+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Mykolas Balinskis","url":"https://www.vle.lt/straipsnis/mykolas-balinskis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/mykolas-balinskis/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 7cb0679aa615cc0b
+object_page_generated_at: '2026-09-19T18:07:18+00:00'
+object_page_source_checked_at: '2026-09-19T18:07:18+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Mykolas Balinskis: Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įskaitant anoniminius tekstus. Balinskio asmenybė yra neblogai…'
+object_page_seo_input_hash: 43fd28065a3c727d1c182ad9e8e360fcbac4fe047224ce9ef6a423ada9f71ded
+object_page_seo_generated_at: '2026-09-19T18:07:18+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mykolas Balinskis
 

@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mingaila'
+pavadinimas: Mingaila
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
@@ -9,7 +9,7 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1396 m.'
+  - 1396 m.
 date_start: '1396'
 date_end: ''
 sukurta: ''
@@ -18,28 +18,40 @@ tags:
   - kunigas
   - asmuo
 amziai:
-  - 'XIV'
+  - XIV
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-57ae01bf1b9a07beba47d8ad"
-canonical_name: "Mingaila"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Mingaila"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-57ae01bf1b9a07beba47d8ad
+canonical_name: Mingaila
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Mingaila
 sameAs: []
-canonical_biography: "Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo]."
+canonical_biography: 'Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T19:19:53+00:00","source_checked_at":"2026-09-19T19:19:53+00:00","counts":{"relations":1,"gallery":0,"sources":6},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"d779cc7930a0a74d97736528","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Ašmenos seniūnas","context":"Teodoro Narbuto 2001 m. pateiktame dokumente Mingaila įvardijamas Ašmenos seniūnu.","support_ids":["t-206363","c-188978"],"source_refs":[{"kind":"internal_claim","claim_id":"t-206363","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"},{"kind":"evidence","evidence_id":"c-188978","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md","quote":"Ir mes, Vladimiras, minėto valdovo kunigaikščio Aleksandro dėdė; Žy­ gimantas, to paties minėto valdovo Aleksandro brolis; Jurgis iš Pinsko; Mykolas iš Zaslavlio; Aleksandras iš Starodubo; Jonas iš Alšėnų; Jonas iš Drucko; Jomantas iš Klecko; Mingaila, Ašme­ nos seniūnas; Manvydas, Vilniaus seniūnas; Barkus iš Uiso; Vasi­ lijus, Boreikos sūnus; Čupurna, anksčiau m inėto valdovo kunigaikščio Aleksandro rūmų maršalka; Krėvos vietininkas Goš­ tautas; Kymantas Ginvila, Trakųvietininkas;Sungailą Kauno vie­ tininkas; Valim antas, Pluškio sūnus; Vigaila, U km ergės vietininkas; Astikas, Užpalių vietininkas; Kareiva, Medininkų vie­ tininkas; Buivydas, Kernavės vietininkas; Girdė, Saumanto sū­ nus…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a17dc14185243461209ad803","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Kunigaikštis, valdęs Polocke","context":"Daukanto 1995 m. veikale Mingaila vadinamas kunigaikščiu; Teodoras Narbutas 1994 m. rašo, kad jis buvo perėmęs valdžią Polocke ir perdavė ją sūnui Ginvilai.","support_ids":["t-201016","c-184366","t-205157","c-188079"],"source_refs":[{"kind":"internal_claim","claim_id":"t-201016","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"},{"kind":"internal_claim","claim_id":"t-205157","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-184366","source":"darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md","quote":"Taip pasibengė rėdą ūkės polockionų, vienok lyčiaus tos karės raštuose nėra randama. Ne­ trukus Mingaila kunigaikštis nustipo, palikdamas du sūnų karšinčiais — Ginvilą rėdytoju Polocko, o Skirmantą Naujapilio. Letgaliai, nebtverdamies vergyba vokyčių, pa­ trako**, kurie vienok nevildamies stengti, patelkė ne vien lietuvius, bet ir gudus pagalbon."},{"kind":"evidence","evidence_id":"c-188079","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Mingaila, ¡paėmęs valdžią Polocke, per­ leido ją savo sūnui Ginvilai. Pats jis baigė savo gyve­ nimo dienas 1192 metais Naugarduke (Trakų)2."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"39ab310ac0fbe45276730bff","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Skrupulingas","context":"Teodoro Narbuto 1998 m. veikale, cituojant laiške minimą kunigo Pranckevičiaus dienoraštį, Mingaila apibūdinamas kaip „skrúpulas“; tai šaltinio autoriaus pateiktas vertinimas konkrečiame pasakojime apie statulėlę.","support_ids":["t-217170","c-200611"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217170","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-200611","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"„Reikėtų priminti ir tai, - rašoma jo laiške, - jog amžiną atilsį kunigas Pranckevičius, buvęs Kauno klebonas (klebona­ vęs maždaug prieš amžiną atilsį kunigą Pucilovskį) savo dieno­ raštyje (jis ir šiandien yra klebonijoje) taip aprašo šį įvykį: „Aš, norėdamas savo bute, klebonijoje, pasidaryti sandėliuką, prieš išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­ kirsti angą ir ją sutvirtinti. Ten dirbęs žmogus, išmušęs keletą sluoksnių plytų, aptiko kadaise įmūrytą cinkinę deivės Veneros statulėlę, kurią nunešė kunigui vikanu Mingailai. Kunigas vika­ ras, skrupulas, nelaukdamas mano sugrįžimo, įsakė tą antiką sudaužyti ir nucinkuoti prikaistuvus bei puodus."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_sunus","direction":"inbound","target":"objektai/asmenys/Ginvilas","claim_id":"t-186111","confidence":0.84}],"timeline":[],"support_disclosure":{"claims":7,"sources":6}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 7e05a80db96b16b4
+object_page_generated_at: '2026-09-19T19:19:53+00:00'
+object_page_source_checked_at: '2026-09-19T19:19:53+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '6'
+object_page_seo_description: 'Mingaila: Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei…'
+object_page_seo_input_hash: 3dc2cf5285a772650ebaf1d31502b05b497c0856030188072864d633d041f9f5
+object_page_seo_generated_at: '2026-09-19T19:19:53+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Mingaila
 

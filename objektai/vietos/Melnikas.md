@@ -1,13 +1,13 @@
 ---
 tipas: vieta
-pavadinimas: 'Melnikas'
+pavadinimas: Melnikas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
-  - '1440 m.'
-  - '2026 m.'
+  - 1440 m.
+  - 2026 m.
 date_start: '1440'
 date_end: '2026'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XV'
-  - 'XXI'
+  - XV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8ae6163f449df65e61c75cc3"
-canonical_name: "Melnikas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Melnikas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8ae6163f449df65e61c75cc3
+canonical_name: Melnikas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Melnikas
 sameAs: []
-canonical_biography: "Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų ir Melniku. Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis. Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną."
+canonical_biography: 'Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų ir Melniku. Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis. Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:10:46+00:00","source_checked_at":"2026-09-19T23:10:46+00:00","counts":{"relations":5,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4639372b300782efcc193b7e","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"žemė","context":"1930 m. šaltinyje Melnikas įvardijamas kaip Trakų kunigaikštijos žemė.","support_ids":["t-199610","c-182400"],"source_refs":[{"kind":"internal_claim","claim_id":"t-199610","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-182400","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­ tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­ timis galį taikos ir nesilaikyti^1 )."}],"status":"published","conflict_status":"clear"},{"trait_id":"7be9e25aa7c004d5f8a69513","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"mokesčių rinkimo vieta","context":"Šaltinis nurodo, kad J. Ižykovičius buvo Melniko mokesčių rinkėjas; tai apibūdina XVI a. administracinį naudojimą.","support_ids":["t-207794","c-190411"],"source_refs":[{"kind":"internal_claim","claim_id":"t-207794","source":"darbas/sources/02-kiaupiene-mes-lietuva-ldk-bajorija.md"},{"kind":"evidence","evidence_id":"c-190411","source":"darbas/sources/02-kiaupiene-mes-lietuva-ldk-bajorija.md","quote":"J. Ižykovičius tapo Drohičino ir Melniko mokesčių rinkėju, 1598 m. gavo Drohičino pakamarės urėdą."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"priklause","direction":"inbound","target":"objektai/daiktai/Pilys","claim_id":"t-112047","confidence":0.62},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Mazovija","claim_id":"t-210755","confidence":0.72},{"predicate":"priklause","direction":"outbound","target":"objektai/vietos/Palenkė","claim_id":"t-68689","confidence":0.82},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Jurgis Nosuta","claim_id":"t-210755","confidence":0.78},{"predicate":"valde_miesta","direction":"inbound","target":"objektai/asmenys/Nikodemas Janavičius iš Čechanovičių","claim_id":"t-87806","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":5,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 9acdbdbee6f9b1ca
+object_page_generated_at: '2026-09-19T23:10:46+00:00'
+object_page_source_checked_at: '2026-09-19T23:10:46+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '3'
+object_page_seo_description: 'Melnikas: Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų ir Melniku. Vytauto laikais Melnikas buvo tarp Palenkės…'
+object_page_seo_input_hash: 7ded8f4fa271d14772babc2c7c74428a184a2b43e597acd9741a121ac6270682
+object_page_seo_generated_at: '2026-09-19T23:10:46+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Melnikas
 

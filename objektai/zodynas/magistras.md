@@ -1,11 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'magistras'
+pavadinimas: magistras
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
-  - '1521 m.'
+  - 1521 m.
 date_start: '1521'
 date_end: ''
 sukurta: ''
@@ -14,19 +14,29 @@ tags:
   - sąvoka
   - pareigybė
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Magistras","url":"https://lt.wikipedia.org/wiki/Magistras","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T00:13:29+00:00","source_checked_at":"2026-09-20T00:13:29+00:00","counts":{"relations":0,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Viso nepasisekimo kaltininkas, magistras, buvo paskelb- tas pamišėliu ir pašalintas iš vietos.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","claim_id":"t-175181","evidence_id":"c-159335","origin":"internal"},"wiki":{"status":"published","source":{"title":"Magistras","url":"https://lt.wikipedia.org/wiki/Magistras","publisher":"Vikipedija","language":"lt","article_id":"17450","revision_id":"5390561","published_at":"2018-05-29T15:21:14Z","version_pk":"","content_hash":"46c4f0002c39ff2964d6a59008897a9890cdd25eea2ae2aa5c896e2280532f90","retrieved_at":"2026-09-20T00:11:27+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Magistras&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"17450"}},"intro":"Magistras (angl. master, iš lot. magister ''mokytojas, meistras, vadovaujantysis'') – antrosios pakopos akademinis kvalifikacinis laipsnis, suteikiamas aukštosios mokyklos absolventams, baigusiems tęstines (podiplomines) studijas. Magistro studijų metu gilinamasi į jau studijuotą sritį arba pradedamos kitos, dažnai giminingos srities studijos. Pagal atitinkamą sritį gali būti šakinės (teisės magistras, verslo administravimo magistras ir kt.) arba tarpšakinės studijos. Šakinės – specializuotos (pvz., Europos teisės magistras, LL.M. Eur.; verslo teisės magistras, MBL ir t. t.). Magistro laipsnis Europoje liudija apie įgytą ne tik akademinę, bet ir tam tikrą mokslinę kvalifikaciją, todėl jį turintiems asmenims yra suteikiama teisė stoti į doktorantūrą. Licenciato laipsnis prilyginamas magistrui, yra laikomas lygiaverčiu magistrui. Magistrantūra yra asmens profesinei ir mokslinei kvalifikacijai kelti skirtos antrosios pakopos nuosekliosios universitetinės studijos. Asmeniui, išėjusiam magistrantūros studijų programą, suteikiamas magistro kvalifikacinis laipsnis (MA, Master of Arts; MSc, Master of Science). Magistro laipsnį turintis asmuo yra magistras ar magistrė. Jis turi teisę greta savo pavardės nurodyti įgytą laipsnį (paprastai santrumpą, pvz., LL.M., MBA ir kt.).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Magistras","url":"https://lt.wikipedia.org/wiki/Magistras","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Magistras"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[{"index":0,"canonical_code":"term.meaning","support_ids":["claim_id:t-222321","evidence_id:c-205411","claim_id:t-224255","evidence_id:c-202029"],"reason":"invalid_code_or_support"},{"index":1,"canonical_code":"term.usage","support_ids":["claim_id:t-196381","evidence_id:c-176107"],"reason":"invalid_code_or_support"}],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Magistras šiame įraše – Prūsijos žemės vadovas, kronikoje minimas kaip pareigas einantis asmuo. Helvigas iš Goldbacho įvardijamas penkioliktuoju Prūsijos žemės magistru: jis vadovavo vienus metus, atsisakė pareigų, grįžo į Vokietiją, ten mirė ir buvo palaidotas. Liudvikas iš Šipeno vadinamas keturioliktuoju Prūsijos žemės magistru; jis taip pat vadovavo vienus metus, o 1299 metais mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje. Kituose pateiktuose šaltiniuose magistras vaizduojamas kaip karinis vadas: pasisamdęs Vokietijoje dešimt tūkstančių algininkų, jis įsiveržė į karaliui priklausiusias Prūsijos apygardas, tačiau po nesėkmingo žygio buvo paskelbtas pamišėliu ir pašalintas iš pareigų. Vis dėlto pateikti duomenys neleidžia patikimai nustatyti, kokiai konkrečiai institucijai ar laikotarpiui šis įrašas skirtas.","sentences":[{"sentence_id":"s1","text":"Magistras šiame įraše – Prūsijos žemės vadovas, kronikoje minimas kaip pareigas einantis asmuo.","support_ids":["t-222321","c-205411","t-224255","c-202029"]},{"sentence_id":"s2","text":"Helvigas iš Goldbacho įvardijamas penkioliktuoju Prūsijos žemės magistru: jis vadovavo vienus metus, atsisakė pareigų, grįžo į Vokietiją, ten mirė ir buvo palaidotas.","support_ids":["t-222321","c-205411"]},{"sentence_id":"s3","text":"Liudvikas iš Šipeno vadinamas keturioliktuoju Prūsijos žemės magistru; jis taip pat vadovavo vienus metus, o 1299 metais mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje.","support_ids":["t-224255","c-202029"]},{"sentence_id":"s4","text":"Kituose pateiktuose šaltiniuose magistras vaizduojamas kaip karinis vadas: pasisamdęs Vokietijoje dešimt tūkstančių algininkų, jis įsiveržė į karaliui priklausiusias Prūsijos apygardas, tačiau po nesėkmingo žygio buvo paskelbtas pamišėliu ir pašalintas iš pareigų.","support_ids":["t-196381","c-176107","t-175181","c-159335"]},{"sentence_id":"s5","text":"Vis dėlto pateikti duomenys neleidžia patikimai nustatyti, kokiai konkrečiai institucijai ar laikotarpiui šis įrašas skirtas.","support_ids":[]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Teiginį tiesiogiai pagrindžia šaltiniai, kuriuose magistras įvardijamas Prūsijos žemės magistru ir nurodoma, kad jis vadovavo."},{"sentence_id":"s2","supported":true,"reason":"Visi teiginio faktai tiesiogiai pateikti c-205411 citatoje."},{"sentence_id":"s3","supported":true,"reason":"Visi teiginio faktai tiesiogiai pateikti c-202029 citatoje."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai nurodo, kad magistras pasamdė dešimt tūkstančių algininkų, įsiveržė į karaliui priklausiusias Prūsijos apygardas, o po nesėkmingo žygio buvo paskelbtas pamišėliu ir pašalintas iš pareigų."},{"sentence_id":"s5","supported":false,"reason":"Sakinys neturi support_ids, o pateikti šaltiniai tiesiogiai nepatvirtina išvados apie konkrečios institucijos ar laikotarpio nenustatomumą."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-222321","c-205411","t-224255","c-202029"]},{"sentence_id":"s2","supported":true,"support_ids":["t-222321","c-205411"]},{"sentence_id":"s3","supported":true,"support_ids":["t-224255","c-202029"]},{"sentence_id":"s4","supported":true,"support_ids":["t-196381","c-176107","t-175181","c-159335"]},{"sentence_id":"s5","supported":false,"support_ids":[]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":7,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: cf5e403bd5cfaf40
+object_page_generated_at: '2026-09-20T00:13:29+00:00'
+object_page_source_checked_at: '2026-09-20T00:13:29+00:00'
+object_page_content_state: content
+object_page_claim_count: '7'
+object_page_source_count: '3'
+object_page_seo_description: 'Magistras šiame įraše – Prūsijos žemės vadovas, kronikoje minimas kaip pareigas einantis asmuo. Helvigas iš Goldbacho įvardijamas penkioliktuoju Prūsijos…'
+object_page_seo_input_hash: e544b1c7af36b3fdc0fab249311cb92bcf0e289610412081b0bebaa39e3fcb91
+object_page_seo_generated_at: '2026-09-20T00:13:29+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # magistras
 

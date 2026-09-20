@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Frydrichas Stenderis'
+pavadinimas: Frydrichas Stenderis
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -14,19 +14,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-fcf4a1f56ca0df501e06bdf3"
-canonical_name: "Frydrichas Stenderis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Frydrichas Stenderis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-fcf4a1f56ca0df501e06bdf3
+canonical_name: Frydrichas Stenderis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Frydrichas Stenderis
 sameAs: []
-canonical_biography: "Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klaidingas ir pernelyg grindžiamas vietinių žodžių paieška. Narbutas nesutiko su Stenderio siejimu Tiimpus su Atrimpos ir vadino Tiimpus paprastu girtuoklių globėjo epitetu. Stenderio nuomone, latvių mitologijoje kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja lytimis."
+canonical_biography: 'Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klaidingas ir pernelyg grindžiamas vietinių žodžių paieška. Narbutas nesutiko su Stenderio siejimu Tiimpus su Atrimpos ir vadino Tiimpus paprastu girtuoklių globėjo epitetu. Stenderio nuomone, latvių mitologijoje kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja lytimis.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T11:56:12+00:00","source_checked_at":"2026-09-19T11:56:12+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c9d84edebb057077
+object_page_generated_at: '2026-09-19T11:56:12+00:00'
+object_page_source_checked_at: '2026-09-19T11:56:12+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Frydrichas Stenderis: Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klaidingas ir pernelyg grindžiamas vietinių žodžių paieška.…'
+object_page_seo_input_hash: 75b3d53791d5571829f16a97dfb33660450658c3e73276f9a111e6f7c61bbf5f
+object_page_seo_generated_at: '2026-09-19T11:56:12+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Frydrichas Stenderis
 

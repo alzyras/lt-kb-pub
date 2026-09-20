@@ -1,12 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Draugija Užsienio Lietuviams Remti (DULR)'
+pavadinimas: Draugija Užsienio Lietuviams Remti (DULR)
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1932 m.'
-  - '1935 m.'
-  - '2026 m.'
+  - 1932 m.
+  - 1935 m.
+  - 2026 m.
 date_start: '1932'
 date_end: '2026'
 sukurta: ''
@@ -16,20 +16,30 @@ tags:
   - grupe
   - tauta
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Draugija užsienio lietuviams remti","url":"https://www.vle.lt/straipsnis/draugija-uzsienio-lietuviams-remti/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T06:52:43+00:00","source_checked_at":"2026-09-20T06:52:43+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Draugija užsienio lietuviams remti","url":"https://www.vle.lt/straipsnis/draugija-uzsienio-lietuviams-remti/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/draugija-uzsienio-lietuviams-remti/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"c64e3957920b92e41496d14d","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne.","context":"Sukurta lietuvių kolonijų užsienyje gausėjimo ir emigracijos kontekste.","support_ids":["t-77822","c-75145"],"source_refs":[{"kind":"internal_claim","claim_id":"t-77822","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75145","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy- venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Per 20 metų iš šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų). Jiems padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse pagamintas lengvasis bombonešis ANBO VIII (1939 m.) L I E T U V O S I S T O R I J A 176 remti."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Lietuviai","claim_id":"t-01610","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 7b60ec9d5b721ca2
+object_page_generated_at: '2026-09-20T06:52:43+00:00'
+object_page_source_checked_at: '2026-09-20T06:52:43+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Draugija Užsienio Lietuviams Remti (DULR): Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpindamasi, kad kraštas palaikytų su…'
+object_page_seo_input_hash: 806652415739b256a128d283349dd97896899ee67cb8cd2740c28a3e52e378be
+object_page_seo_generated_at: '2026-09-20T06:52:43+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Draugija Užsienio Lietuviams Remti (DULR)
 

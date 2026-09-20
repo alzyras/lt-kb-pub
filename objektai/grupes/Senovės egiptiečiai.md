@@ -1,10 +1,10 @@
 ---
 tipas: grupe
-pavadinimas: 'Senovės egiptiečiai'
+pavadinimas: Senovės egiptiečiai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '2000 m.'
+  - 2000 m.
 date_start: '2000'
 date_end: ''
 sukurta: ''
@@ -13,19 +13,29 @@ tags:
   - tauta
   - grupe
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T15:06:39+00:00","source_checked_at":"2026-09-19T15:06:39+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f308ff8a7768360b90117927","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Statė prabangius ir didingus aukurus, skirtus atskiriems dievams.","context":"Teodoras Narbutas tai aprašo kaip senovės egiptiečių religinę veiklą; šaltinis nenurodo konkretaus laikotarpio.","support_ids":["t-218488","c-197722"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218488","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-197722","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Kunigai, stovėdami ant pa­ kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­ kai, romėnai statė prabangius ir didingus aukurus, paskirtus skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­ prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus kai kuriuos, buvusius Perkūno šventyklose."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"79e4be30730876847365095a","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Garbinо ugnį kaip dievybę.","context":"Teodoras Narbutas teigia, kad egiptiečiai, kartu su kitomis tautomis, garbino ugnį; kalbama apie senovės religinę praktiką.","support_ids":["t-218488","c-197737"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218488","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-197737","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­ dingos mūsų tėvynės istorijai. Šventoji ugnis Chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti kaip dievybę garbino ugnį. Gvebrai, ligi šiol išpažįstantys Zoroast- ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą, bet nemoka tos esybės pavadinti vardu."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"661a66c4fce3ba10c05d629a","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Garbino žalčius.","context":"Teodoras Narbutas teigia, kad senovėje egiptiečiai buvo tarp tautų, garbinusių žalčius; tai pateikiama kaip to meto prietaras.","support_ids":["t-218602","c-201533"],"source_refs":[{"kind":"internal_claim","claim_id":"t-218602","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-201533","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Šiuos prietarus žinojo ir Lietuvos rusinai. Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė- jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­ gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­ vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ed34a8409025ec18
+object_page_generated_at: '2026-09-19T15:06:39+00:00'
+object_page_source_checked_at: '2026-09-19T15:06:39+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Senovės egiptiečiai: Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniais Europos pakraščiais, rado kitokių polinkių žmones.…'
+object_page_seo_input_hash: 24d2c0dca3cde67dd4fa15171a43a345d99afb12c93a136a29b02ec5d6dfa4a4
+object_page_seo_generated_at: '2026-09-19T15:06:39+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Senovės egiptiečiai
 

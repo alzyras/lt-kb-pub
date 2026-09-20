@@ -1,20 +1,20 @@
 ---
 tipas: vieta
-pavadinimas: 'Ašmena'
+pavadinimas: Ašmena
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1200 m.'
-  - '1385 m.'
-  - '1388 m.'
-  - '1654 m.'
-  - '1655 m.'
-  - '2026 m.'
+  - 1200 m.
+  - 1385 m.
+  - 1388 m.
+  - 1654 m.
+  - 1655 m.
+  - 2026 m.
 date_start: '1200'
 date_end: '2026'
 sukurta: ''
@@ -23,29 +23,44 @@ tags:
   - vieta
   - miestas
 amziai:
-  - 'XII'
-  - 'XXI'
+  - XII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ed381e77e0f8d07066f680b0"
-canonical_name: "Ašmena"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Ašmena","Ašmenos","Ašmenos dvare","Ašmeną"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ed381e77e0f8d07066f680b0
+canonical_name: Ašmena
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Ašmena
+  - Ašmenos
+  - Ašmenos dvare
+  - Ašmeną
 sameAs: []
-canonical_biography: "Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis, ir kaip kryžiuočių žygių pasiektas taškas. Prie ankstesnių paminėjimų prisideda Jaunučio valdų aprašas bei 1385 m. vasaros ordino žygis iki Vilniaus ir Ašmenos."
+canonical_biography: 'Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis, ir kaip kryžiuočių žygių pasiektas taškas. Prie ankstesnių paminėjimų prisideda Jaunučio valdų aprašas bei 1385 m. vasaros ordino žygis iki Vilniaus ir Ašmenos.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Ašmena","url":"https://lt.wikipedia.org/wiki/A%C5%A1mena","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Ašmena","url":"https://www.vle.lt/straipsnis/asmena/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T05:00:54+00:00","source_checked_at":"2026-09-19T05:00:54+00:00","counts":{"relations":16,"gallery":0,"sources":9},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Ašmena","url":"https://lt.wikipedia.org/wiki/A%C5%A1mena","publisher":"Vikipedija","language":"lt","article_id":"20174","revision_id":"6845866","published_at":"2023-01-22T13:23:24Z","version_pk":"","content_hash":"9833a57de78fbb433995b23647bb356df40f8667c49de176383f19d05500881e","retrieved_at":"2026-09-19T04:57:54+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=A%C5%A1mena&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"20174"}},"intro":"Ašmenà (bltr. Ашмяны, rus. Ошмяны) – miestas Baltarusijoje, 50 km į pietryčius nuo Vilniaus. Ašmenos rajono centras. Išsidėstęs kalvotose, derlingose vietose, prie Ašmenos upės. Per miestą eina plentas E28 Berlynas-Gdanskas-Kaliningradas-Marijampolė-Prienai-Vilnius-Minskas . Yra stačiatikių cerkvė, Ašmenos šv. arkangelo Mykolo katalikų bažnyčia. Veikia lengvoji ir maisto pramonė. Yra kraštotyros muziejus.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Ašmena","url":"https://lt.wikipedia.org/wiki/A%C5%A1mena","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Ašmena","url":"https://www.vle.lt/straipsnis/asmena/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/A%C5%A1mena","https://www.vle.lt/straipsnis/asmena/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0d098ad122f990db8eb9e9af","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Kadaise buvo kaimas, išaugęs šalia kunigaikščio dvaro.","context":"Michał Baliński aprašo Ašmenos būklę anais laikais.","support_ids":["t-176932","c-160882"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176932","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160882","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"14 Dabartinė Ašmena, Vilniaus guber­ nijos apskrities miestas, nutolęs nuo Vilniaus per 7 mylias, anais laikais tebuvo kaimas, kitados išaugęs ša­ lia kunigaikščio dvaro, dabar Staros- cino.-O pats miestas buvęs ten, kur dabar stovi pranciškonų vienuoly­ nas bei mažas kaimelis, priklausan­ tis vienuolynui, čia pat, už dabarti­ nio miesto, vadinamas Senąja Ašmena. Švitrigailos dvaras stovėjo kaip tik toje vietoje, kur ir dabarti­ nis dvaras."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9922e78e90e7af0980596d2b","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Dabartinė Ašmena apibūdinama kaip Vilniaus gubernijos apskrities miestas, nutolęs nuo Vilniaus per 7 mylias.","context":"Michał Baliński aprašo dabartinę Ašmeną savo veikalo laikotarpiu.","support_ids":["t-176945","c-160882"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176945","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160882","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"14 Dabartinė Ašmena, Vilniaus guber­ nijos apskrities miestas, nutolęs nuo Vilniaus per 7 mylias, anais laikais tebuvo kaimas, kitados išaugęs ša­ lia kunigaikščio dvaro, dabar Staros- cino.-O pats miestas buvęs ten, kur dabar stovi pranciškonų vienuoly­ nas bei mažas kaimelis, priklausan­ tis vienuolynui, čia pat, už dabarti­ nio miesto, vadinamas Senąja Ašmena. Švitrigailos dvaras stovėjo kaip tik toje vietoje, kur ir dabarti­ nis dvaras."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a84e0b44125d8f9585af3c21","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Prie Ašmenos miesto buvo Švitrigailos dvaras.","context":"Michał Baliński aprašo dvarą istoriniame 1432 m. įvykių kontekste.","support_ids":["t-176939","c-160883"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176939","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-160883","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų bajorų, galingos kariuomenės 13 Tą patvirtina Slaptajame Karaliau­ čiaus archyve esantis Švitrigailos laiškas, rašytas iš Vilniaus didžiajam magistrui 1432 metų sausio 5 dieną."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3ae62e541c9436cb64315f83","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Ašmenoje buvo pastatyta šv. Pranciškaus ordino bažnyčia ir vienuolynas.","context":"Albertas Vijūkas-Kojelavičius tai aprašo Vytauto laikų kontekste.","support_ids":["t-184925","c-168286"],"source_refs":[{"kind":"internal_claim","claim_id":"t-184925","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168286","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Tuo metu Andrius Vygandas, Starodubo kunigaikštis, raštiškai pasižadėjo būti ištikimas karaliui: Vytautui mirus, jis esą su kitais Lietuvos kunigaikščiais nepripažinsiąs ki­ tos valdžios, kaip Lenkijos karaliaus Jogailos. Vytautas, sugrįžęs į Lietuvą, panoro pareikšti padėką gerajam viešpačiui dievui už neseniai patirtą malonę, leidusią jam sveikam ir gyvam pasprukti iš nelemtojo praėjusių metų mūšio, todėl pastatė šv. Pranciškaus ordino vienuo­ liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią bei vienuolyną ir dosniai juos apdovanojo."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8bd189ba0fd7993d8d1c5ed5","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Ašmenoje buvo sukviečiami vietiniai ir apylinkių žmonės, mokomi tikėjimo tiesų ir krikštijami.","context":"Šaltinis aprašo Jogailos apsilankymą rytų Lietuvoje prieš vyskupijos įkūrimą.","support_ids":["t-176953","c-160881"],"source_refs":[{"kind":"internal_claim","claim_id":"t-176953","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"},{"kind":"evidence","evidence_id":"c-160881","source":"darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md","quote":"Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Ašmena – vieta, šaltiniuose minima kaip kaimas, išaugęs šalia kunigaikščio dvaro. 1388 m. ji jau buvo atpažįstama kaip vietovė Lietuvoje: Lucke tarp liudytojų paminėtas Mangaila iš Ašmenos. Vėliau Ašmena priklausė Jaunučiui paskirtam žemių daliniui, kuriame taip pat buvo Vilnius, Ukmergė ir Breslauja. XIV a. pabaigos karo istorijoje ji iškyla kaip svarbi kryptis: 1385 m. Prūsų ordino kariuomenė nužygiavo iki Vilniaus ir Ašmenos, o Švitrigaila, remiamas Livonijos magistro ir totorių, vėl užėmė Ašmeną bei priartėjo prie Vilniaus per septynetą mylių. 1655 m. liepą prie Ašmenos rusai ir jų sąjungininkai kazokai sumušė Lietuvos kariuomenę ir priartėjo prie Vilniaus.","sentences":[{"sentence_id":"s1","text":"Ašmena – vieta, šaltiniuose minima kaip kaimas, išaugęs šalia kunigaikščio dvaro.","support_ids":["t-176945","c-160882"]},{"sentence_id":"s2","text":"1388 m. ji jau buvo atpažįstama kaip vietovė Lietuvoje: Lucke tarp liudytojų paminėtas Mangaila iš Ašmenos.","support_ids":["t-176943","c-160877"]},{"sentence_id":"s3","text":"Vėliau Ašmena priklausė Jaunučiui paskirtam žemių daliniui, kuriame taip pat buvo Vilnius, Ukmergė ir Breslauja.","support_ids":["t-176944","c-31954"]},{"sentence_id":"s4","text":"XIV a. pabaigos karo istorijoje ji iškyla kaip svarbi kryptis: 1385 m. Prūsų ordino kariuomenė nužygiavo iki Vilniaus ir Ašmenos, o Švitrigaila, remiamas Livonijos magistro ir totorių, vėl užėmė Ašmeną bei priartėjo prie Vilniaus per septynetą mylių.","support_ids":["t-176948","c-160892","t-176947","c-160880"]},{"sentence_id":"s5","text":"1655 m. liepą prie Ašmenos rusai ir jų sąjungininkai kazokai sumušė Lietuvos kariuomenę ir priartėjo prie Vilniaus.","support_ids":["t-176946","c-12704"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Tiesiogiai paremta nurodytais šaltiniais."},{"sentence_id":"s2","supported":true,"reason":"Tiesiogiai patvirtinta: 1388 m. Lucke minimas Mangaila iš Ašmenos."},{"sentence_id":"s3","supported":true,"reason":"Tiesiogiai patvirtinta, kad Ašmena priklausė Jaunučiui paskirtam daliniui kartu su Vilniumi, Ukmerge ir Breslauja."},{"sentence_id":"s4","supported":false,"reason":"Sakinys chronologiškai netikslus: 1385 m. įvykis yra XIV a., tačiau Švitrigailos Ašmenos užėmimas ir priartėjimas prie Vilniaus vyko 1432 m., jau XV a."},{"sentence_id":"s5","supported":true,"reason":"Tiesiogiai patvirtinta nurodytu šaltiniu."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-176945","c-160882"]},{"sentence_id":"s2","supported":true,"support_ids":["t-176943","c-160877"]},{"sentence_id":"s3","supported":true,"support_ids":["t-176944","c-31954"]},{"sentence_id":"s4","supported":true,"support_ids":["t-176948","c-160892","t-176947","c-160880"]},{"sentence_id":"s5","supported":true,"support_ids":["t-176946","c-12704"]}],"verifier":"gpt-5.6-luna"},"quality":40,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Mangaila iš Ašmenos","claim_id":"t-87770","confidence":0.64},{"predicate":"gyveno","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-176939","confidence":0.83},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Totoriai","claim_id":"t-171433","confidence":0.78},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Goštautas","claim_id":"t-113785","confidence":0.72},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Jogaila","claim_id":"t-176941","confidence":0.88},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Žygimantas","claim_id":"t-176950","confidence":0.91},{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-179968","confidence":0.66},{"predicate":"priklause","direction":"outbound","target":"objektai/asmenys/Jaunutis","claim_id":"t-176936","confidence":0.79},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Simonas (Alšėnų kunigaikštis)","claim_id":"t-87574","confidence":0.73},{"predicate":"puole","direction":"inbound","target":"objektai/asmenys/Žygimantas","claim_id":"t-88511","confidence":0.92},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Petrašu Montgirdaitis","claim_id":"t-87561","confidence":0.74},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Simonas (Alšėnų kunigaikštis)","claim_id":"t-87573","confidence":0.75},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/asmenys/Žygimantas","claim_id":"t-179712","confidence":0.88},{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-176948","confidence":0.86},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179726","confidence":0.94},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Jaunutis","claim_id":"t-176952","confidence":0.88}],"timeline":[{"date":"1385 m.","label":"1385 m.","claimId":"t-176948"},{"date":"1388 m.","label":"1388 m.","claimId":"t-176943"},{"date":"1655 m.","label":"1655 m.","claimId":"t-176933"},{"date":"1655 m.","label":"1655 m.","claimId":"t-176946"},{"date":"1655 m.","label":"1655 m.","claimId":"t-176951"}],"support_disclosure":{"claims":21,"sources":7}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c823f8e1a7b852cf
+object_page_generated_at: '2026-09-19T05:00:54+00:00'
+object_page_source_checked_at: '2026-09-19T05:00:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '21'
+object_page_source_count: '7'
+object_page_seo_description: 'Ašmena – vieta, šaltiniuose minima kaip kaimas, išaugęs šalia kunigaikščio dvaro. 1388 m. ji jau buvo atpažįstama kaip vietovė Lietuvoje: Lucke tarp liudytojų…'
+object_page_seo_input_hash: e7a0dd23ef84cba929cd218b090541eb5f0814b08c8119a5f324630491b9172f
+object_page_seo_generated_at: '2026-09-19T05:00:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ašmena
 

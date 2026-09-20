@@ -1,15 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: 'Varniai'
+pavadinimas: Varniai
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - Vytautas Didysis 1350-1430 (1930 m.)
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1314 m.'
-  - '1316 m.'
-  - '2026 m.'
+  - 1314 m.
+  - 1316 m.
+  - 2026 m.
 date_start: '1314'
 date_end: '2026'
 sukurta: ''
@@ -18,29 +18,41 @@ tags:
   - kraštas
   - vieta
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9288260cef4c6eded00bbdea"
-canonical_name: "Varniai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Varniai"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9288260cef4c6eded00bbdea
+canonical_name: Varniai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Varniai
 sameAs: []
-canonical_biography: "Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur."
+canonical_biography: 'Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Varniai","url":"https://lt.wikipedia.org/wiki/Varniai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Varniai","url":"https://www.vle.lt/straipsnis/varniai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""},{"title":"Varniai - Wikipedia","url":"https://en.wikipedia.org/wiki/Varniai","publisher":"Wikipedia","kind":"institutional","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T03:09:55+00:00","source_checked_at":"2026-09-19T03:09:55+00:00","counts":{"relations":1,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Varniai","url":"https://lt.wikipedia.org/wiki/Varniai","publisher":"Vikipedija","language":"lt","article_id":"19444","revision_id":"7672234","published_at":"2025-10-18T23:41:37Z","version_pk":"","content_hash":"911721e750f0b969f3c8bfbc4ad446291c78c385ccbdf233f28bc80bb931ce5e","retrieved_at":"2026-09-19T03:09:19+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Varniai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"19444"}},"intro":"Varniai – miestas Telšių rajono savivaldybėje, 33 km į pietus nuo Telšių, prie Varnelės upės. Prie kelio 160 Telšiai–Varniai–Laukuva ir kelio 223 Užventis–Varniai . Seniūnijos centras, Varnių seniūnaitija. Miesto planas radialinis. Yra istorijos, architektūros ir dailės paminklų – namas, kuriame 1850–1864 m. gyveno vyskupas Motiejus Valančius, Varnių šv. apaštalų Petro ir Pauliaus bažnyčia (seniausia Žemaitijoje, pastatyta 1691 m.; buvusi katedra, ypatingi šventoriaus vartai), medinė Varnių šv. Aleksandro bažnyčia (pastatyta 1804 m.), Žemaičių vyskupystės muziejus kunigų seminarijos rūmuose. Veikia Varnių Motiejaus Valančiaus gimnazija, Telšių regioninis profesinio mokymo centras, biblioteka (nuo 1938 m.), paštas (LT-88050).","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Varniai","url":"https://lt.wikipedia.org/wiki/Varniai","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Varniai","url":"https://www.vle.lt/straipsnis/varniai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Varniai","https://www.vle.lt/straipsnis/varniai/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"surenge_zygi_i","direction":"inbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-99304","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 191c3ee7d48c5ac4
+object_page_generated_at: '2026-09-19T03:09:55+00:00'
+object_page_source_checked_at: '2026-09-19T03:09:55+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Varniai: Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime…'
+object_page_seo_input_hash: ed3c8987995514325315e512c17b6f63c6cd30b529735dd962484b3c69d1b73f
+object_page_seo_generated_at: '2026-09-19T03:09:55+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Varniai
 

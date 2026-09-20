@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Konstantinas Sirvydas (kunigas)'
+pavadinimas: Konstantinas Sirvydas (kunigas)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -23,19 +23,33 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-938f8a5e0e7209966d16b064"
-canonical_name: "Konstantinas Sirvydas (kunigas)"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Konstantinas Sirvydas","Konstantinas Sirvydas (kunigas)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-938f8a5e0e7209966d16b064
+canonical_name: Konstantinas Sirvydas (kunigas)
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Konstantinas Sirvydas
+  - Konstantinas Sirvydas (kunigas)
 sameAs: []
-canonical_biography: "Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę. Narbutas rašo, kad kunigas Sirvydas savo žodyne Vilijos upę lietuviškai vadina Nerimi. Narbutas nurodo, kad kunigas Sirvydas savo žodyne Aitvarą vadina Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec."
+canonical_biography: 'Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę. Narbutas rašo, kad kunigas Sirvydas savo žodyne Vilijos upę lietuviškai vadina Nerimi. Narbutas nurodo, kad kunigas Sirvydas savo žodyne Aitvarą vadina Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec.'
+external_sources_json: '[{"title":"Konstantinas Sirvydas","url":"https://lt.wikipedia.org/wiki/Konstantinas_Sirvydas","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Konstantinas Sirvydas","url":"https://www.vle.lt/straipsnis/konstantinas-sirvydas/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T23:42:01+00:00","source_checked_at":"2026-09-19T23:42:01+00:00","counts":{"relations":0,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Konstantinas Sirvydas","url":"https://lt.wikipedia.org/wiki/Konstantinas_Sirvydas","publisher":"Vikipedija","language":"lt","article_id":"33892","revision_id":"7858790","published_at":"2026-06-16T10:09:23Z","version_pk":"","content_hash":"c135c16b0d9e0379187aaf0db20d5959d466e52374bf0e0a19fc4c02e9846271","retrieved_at":"2026-09-19T23:41:03+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Konstantinas_Sirvydas&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"33892"}},"intro":"Konstantinas Sirvydas (kai kuriuose šaltiniuose rašoma Širvydas; apie 1579–1631 m. rugpjūčio 23 d.) – vienas lietuviškos raštijos pradininkų, leksikografas, pirmasis stambus lietuvių kalbininkas, kunigas ir vienas žymiausių senųjų rašytojų. Visus veikalus rašė lietuviškai, o vėliau jie buvo pradėti versti į lenkų kalbą.","original_intro":"","translation_status":"native","infobox":[{"code":"birth_date","label":"Gimė","value":"Apie 1579 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Sirvydai","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1631 m. rugpjūčio 23 d.","source":"wikipedia_infobox"},{"code":"death_place","label":"Mirties vieta","value":"Vilnius","source":"wikipedia_infobox"},{"code":"burial","label":"Palaidotas","value":"Vilniaus Šv. Jonų bažnyčia","source":"wikipedia_infobox"},{"code":"nationality","label":"Tautybė","value":"Lietuvis","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Konstantinas Sirvydas","url":"https://lt.wikipedia.org/wiki/Konstantinas_Sirvydas","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Konstantinas Sirvydas","url":"https://www.vle.lt/straipsnis/konstantinas-sirvydas/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Konstantinas_Sirvydas","https://www.vle.lt/straipsnis/konstantinas-sirvydas/"],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"rejected_rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 0c897d4983d581b7
+object_page_generated_at: '2026-09-19T23:42:01+00:00'
+object_page_source_checked_at: '2026-09-19T23:42:01+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Konstantinas Sirvydas (kunigas): Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę. Narbutas rašo…'
+object_page_seo_input_hash: c9a72b33b836883c7d3b8f53043e89292104e455cdc93657720a3a317eceecb8
+object_page_seo_generated_at: '2026-09-19T23:42:01+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Konstantinas Sirvydas (kunigas)
 

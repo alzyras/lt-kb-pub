@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Konradas iš Tirbergo Vyresnysis'
+pavadinimas: Konradas iš Tirbergo Vyresnysis
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1271 m.'
-  - '1279 m.'
+  - 1271 m.
+  - 1279 m.
 date_start: '1271'
 date_end: '1279'
 sukurta: ''
@@ -15,28 +15,40 @@ tags:
   - asmuo
   - karvedys
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-ad1ff2a3b5d7c76f49e9742b"
-canonical_name: "Konradas iš Tirbergo Vyresnysis"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Konradas iš Tirbergo Vyresnysis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-ad1ff2a3b5d7c76f49e9742b
+canonical_name: Konradas iš Tirbergo Vyresnysis
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Konradas iš Tirbergo Vyresnysis
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo Vyresnysis. Dusburgietis teigia, kad apie brolį Konradą, devintą Prūsijos magistrą Brolis Konradas iš Tirbergo Vyresnysis, devintas Prūsijos žemės magistras, vadovavo šešerius metus nuo 1273 viešpaties metų409. Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį."
+canonical_biography: 'Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo Vyresnysis. Dusburgietis teigia, kad apie brolį Konradą, devintą Prūsijos magistrą Brolis Konradas iš Tirbergo Vyresnysis, devintas Prūsijos žemės magistras, vadovavo šešerius metus nuo 1273 viešpaties metų409. Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T21:41:30+00:00","source_checked_at":"2026-09-19T21:41:30+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"0f6df17fd34a718253bcfa02","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Devintasis Prūsijos žemės magistras; vadovavo šešerius metus nuo 1273 m.","context":"Taip Konradą iš Tirbergo Vyresnįjį aprašo Petras Dusburgietis savo kronikoje.","support_ids":["t-223997","c-204010"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223997","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-204010","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie brolį Konradą, devintą Prūsijos magistrą Brolis Konradas iš Tirbergo Vyresnysis, devintas Prūsijos žemės magistras, vadovavo šešerius metus nuo 1273 viešpaties metų409. Didžiojo magistro kviečiamas į kapitulą, jis ir mirė kelionėje. 135 (130)."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f5aba4468649102342d132cb","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Vadovavo kryžiuočių kariuomenės žygiams į Sūduvą, Pagudę ir Skalvių žemes.","context":"Kronikoje aprašyti jo vadovauti žygiai ir kariniai veiksmai; šaltinis nurodo konkrečius įvykius, o ne bendrą asmens savybių vertinimą.","support_ids":["t-222016","c-202564","t-223325","c-203641","t-223673","c-202809"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222016","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-223325","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-223673","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202564","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Konradas iš Tirbergo, magistras, ir broliai, subūrę didelę kariuomenę, įsiveržė į Pagudės žemę ir, išžudę nesuskaičiuojamą galybę vyrų, ugnimi nusiaubę visą žemę bei ją apiplėšę, išsivarė į nelaisvę moteris ir vaikus. Kai šitai vyko, ir vyrai, ir moterys paskutiniais žodžiais keikė vieną sembą, vardu Bansas, Pabečių valsčiaus kamerarijų, tvirtindami, jog jis esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas."},{"kind":"evidence","evidence_id":"c-203641","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488; neskaitant galybės užmuštųjų, jie išsivarė su savimi tūkstantį belaisvių ir išsigabeno galybę kitokio grobio. Kitą dieną, kai brolių kariuomenė atsitraukdama priėjo mišką, vardu Vinsas489, juos pasivijo trys tūkstančiai rinktinių sūduvių vyrų, kuriuos broliai su saviškiais drąsiai užpuolė, daugybę nukovė ir mirtinai sužeidė, o kitus nuvijo iki įeigos į jų žemę."},{"kind":"evidence","evidence_id":"c-202809","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Sasavos pilies užkariavimą Sužinojęs apie tai, brolis Konradas iš Tirbergo, magistras, labai susijaudino ir, subūręs tūkstantį penkis šimtus raitelių, o kitiems išplaukus į priekį su 15 laivų, atitraukė prie Sasavos, skalvių pilies475, kurią pradėjo smarkiai pulti; po ilgų grumtynių ją užėmė ir sudegino, dalį priešų paėmęs į nelaisvę, o kitus išžudęs kalaviju. ir apskritai vakarines žemaičių žemes, su kuriomis ribojasi Nemuno deš."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"44d5c2e81dc9063b73c66e84","canonical_code":"person.character","label":"Būdas","group":"Asmens bruožai","value":"Labai susijaudino sužinojęs apie Sasavos pilies įvykius.","context":"Tai konkreti emocinė reakcija, kurią Petras Dusburgietis aprašo prieš 1275 m. puolimą; ji nepriskiriama kaip pastovus charakterio bruožas.","support_ids":["t-223673","c-202809"],"source_refs":[{"kind":"internal_claim","claim_id":"t-223673","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202809","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Sasavos pilies užkariavimą Sužinojęs apie tai, brolis Konradas iš Tirbergo, magistras, labai susijaudino ir, subūręs tūkstantį penkis šimtus raitelių, o kitiems išplaukus į priekį su 15 laivų, atitraukė prie Sasavos, skalvių pilies475, kurią pradėjo smarkiai pulti; po ilgų grumtynių ją užėmė ir sudegino, dalį priešų paėmęs į nelaisvę, o kitus išžudęs kalaviju. ir apskritai vakarines žemaičių žemes, su kuriomis ribojasi Nemuno deš."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":8,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5247a628a08c6ff2
+object_page_generated_at: '2026-09-19T21:41:30+00:00'
+object_page_source_checked_at: '2026-09-19T21:41:30+00:00'
+object_page_content_state: content
+object_page_claim_count: '8'
+object_page_source_count: '1'
+object_page_seo_description: 'Konradas iš Tirbergo Vyresnysis: Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo Vyresnysis. Dusburgietis teigia, kad apie…'
+object_page_seo_input_hash: 4257b92b0b79037eaaea8de11f43cd9e923cfddab48ae2285ba3314c0276462b
+object_page_seo_generated_at: '2026-09-19T21:41:30+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Konradas iš Tirbergo Vyresnysis
 

@@ -1,12 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Grigalius IX'
+pavadinimas: Grigalius IX
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1230 m.'
-  - '1236 m.'
+  - 1230 m.
+  - 1236 m.
 date_start: '1230'
 date_end: '1236'
 sukurta: ''
@@ -17,28 +17,40 @@ tags:
   - popiežius
   - valdovas
 amziai:
-  - 'XIII'
+  - XIII
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-eafbba716a3b6fa8b590e04d"
-canonical_name: "Grigalius IX"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Grigalius IX"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-eafbba716a3b6fa8b590e04d
+canonical_name: Grigalius IX
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Grigalius IX
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į kovų Kai Romos kurija išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX."
+canonical_biography: 'Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į kovų Kai Romos kurija išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX.'
+external_sources_json: '[{"title":"Grigalius IX","url":"https://lt.wikipedia.org/wiki/Grigalius_IX","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Grigalius Ix","url":"https://www.vle.lt/straipsnis/grigalius-ix/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T09:51:08+00:00","source_checked_at":"2026-09-20T09:51:08+00:00","counts":{"relations":4,"gallery":0,"sources":4},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Grigalius IX","url":"https://lt.wikipedia.org/wiki/Grigalius_IX","publisher":"Vikipedija","language":"lt","article_id":"160921","revision_id":"5813951","published_at":"2020-06-09T18:37:52Z","version_pk":"","content_hash":"7657b4a65ec33713e88b07c15d7f4743a11901f0f1986b399a0cc383f5f8d0fe","retrieved_at":"2026-09-20T09:49:44+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Grigalius_IX&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"160921"}},"intro":"Grigalius IX (lot. Gregorius IX, tikrasis vardas Ugolino de Segni arba Ugolino di Anagni, apie 1170 m. Ananjis – 1241 m. rugpjūčio 22 d. Roma) – Romos katalikų bažnyčios popiežius nuo 1227 m. kovo 21 d. iki mirties.","original_intro":"","translation_status":"native","infobox":[{"code":"nationality","label":"Tautybė","value":"italas","source":"wikipedia_infobox"},{"code":"positions","label":"Pareigos","value":"178-asis Popiežius","source":"wikipedia_infobox"},{"code":"birth_date","label":"Gimė","value":"apie ~1170 m.","source":"wikipedia_infobox"},{"code":"birth_place","label":"Gimimo vieta","value":"Ananjis, Italija","source":"wikipedia_infobox"},{"code":"death_date","label":"Mirė","value":"1241 m. rugpjūčio 22 d.","source":"wikipedia_infobox"}],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Grigalius IX","url":"https://lt.wikipedia.org/wiki/Grigalius_IX","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Grigalius Ix","url":"https://www.vle.lt/straipsnis/grigalius-ix/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Grigalius_IX","https://www.vle.lt/straipsnis/grigalius-ix/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"483629e6b2627cafd939e846","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Popiežius","context":"Šaltiniuose Grigalius IX tiesiogiai įvardijamas popiežiumi; 1233 m. Kuršo pasiuntiniai vyko pas jį, o jis paskyrė Balduiną iš Alnos Zemgalos vyskupu ir Apaštališkojo sosto legatu Livonijai.","support_ids":["t-205233","c-188055","t-205426","c-187800"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205233","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"internal_claim","claim_id":"t-205426","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188055","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"O vėliau buvo išruošti viso Kuršo pasiun­ tiniai įteikti popiežiui Grigaliui IX bulės, pažymėtos 1233 metų vasario 11-osios data, kuria buvo patvirtinamos vi­ sos su Balduinu sudarytos sutartys ir priimamos jo są­ lygos."},{"kind":"evidence","evidence_id":"c-187800","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Bulė, kuria popiežius Grigalius IX Zemgalos vyskupu ir Apaštališkojo sosto legatu Livonijai paskiria Balduiną iš Alnos1"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"22532ee30d0f9c7cae5e98f4","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Sprendimų priėmėjas kartu su kardinolų taryba","context":"1235 m. Grigalius IX kartu su kardinolų taryba nutarė gyvus išlikusius Kristaus karių brolijos brolius suvienyti su kryžiuočiais.","support_ids":["t-79023","c-41926"],"source_refs":[{"kind":"internal_claim","claim_id":"t-79023","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-41926","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Po tokio liūdno įvykio gyvi išlikę Kristaus karių brolijos broliai kartu su Rygos, Dorpato ir Ezelio vyskupais maldaujamuose laiškuose popiežiui Grigaliui rx kartojo prašymą teikti jiems vilties, kad, susijungę į vieną ordą [su kryžiuočiais], jie pergalinga ranka greitai su- naikins priešo jėgas. Ir taip minėtas šventasis tėvas Grigalius kartu su kardinolų taryba 1235 m. nutarė tuos brolius suvienyti [...].“ 1 1236 m."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"paskyre","direction":"outbound","target":"objektai/grupes/Teutonai","claim_id":"t-223972","confidence":0.7},{"predicate":"reme","direction":"outbound","target":"objektai/grupes/Teutonai","claim_id":"t-221165","confidence":0.7},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/grupes/Kryžiuočių ordinas","claim_id":"t-221730","confidence":0.84},{"predicate":"sudare_sutarti_su","direction":"outbound","target":"objektai/grupes/Teutonai","claim_id":"t-223972","confidence":0.82}],"timeline":[],"support_disclosure":{"claims":3,"sources":2}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c3e4c0fbf14e305a
+object_page_generated_at: '2026-09-20T09:51:08+00:00'
+object_page_source_checked_at: '2026-09-20T09:51:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '2'
+object_page_seo_description: 'Grigalius IX: Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į kovų Kai Romos kurija išgirdo…'
+object_page_seo_input_hash: d7096a11a1559aa5b7c1f29875094df94d2783f643b13bdccfaf252a864190b5
+object_page_seo_generated_at: '2026-09-20T09:51:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Grigalius IX
 

@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Prienai'
+pavadinimas: Prienai
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1919 m.'
-  - '1936 m.'
-  - '2026 m.'
+  - 1919 m.
+  - 1936 m.
+  - 2026 m.
 date_start: '1919'
 date_end: '2026'
 sukurta: ''
@@ -17,29 +17,41 @@ tags:
   - vieta
   - upė
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-2c6af0d836deb5ede0057f11"
-canonical_name: "Prienai"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Prienai"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-2c6af0d836deb5ede0057f11
+canonical_name: Prienai
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Prienai
 sameAs: []
-canonical_biography: "Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai palankus."
+canonical_biography: 'Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai palankus.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Prienai","url":"https://lt.wikipedia.org/wiki/Prienai","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T18:26:24+00:00","source_checked_at":"2026-09-19T18:26:24+00:00","counts":{"relations":3,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"published","source":{"title":"Prienai","url":"https://lt.wikipedia.org/wiki/Prienai","publisher":"Vikipedija","language":"lt","article_id":"7489","revision_id":"7867773","published_at":"2026-06-24T18:16:43Z","version_pk":"","content_hash":"647eb2d24735efca8d6a0da845e779be67067c636669379b1a6fa0894df3a298","retrieved_at":"2026-09-19T18:25:20+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Prienai&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"7489"}},"intro":"Prienai – miestas Lietuvos pietuose, Kauno apskrityje, abipus Nemuno. Prienų rajono savivaldybės ir Prienų seniūnijos centras. Didžioji Prienų dalis yra išsidėsčiusi kairiajame Nemuno krante – dešiniajame yra tik Paprienės mikrorajonas, kuriame yra centrinė ligoninė. Taip pat yra senelių globos namai. Per Nemuną Prienuose nutiestas vienas tiltas – Greimų tiltas. Miesto centre yra Laisvės aikštė, medinė Prienų Kristaus Apsireiškimo bažnyčia (pastatyta 1750 m.), krašto muziejus, kultūros centras, paštas, Ldk Kęstučio paminklas (pastatytas iš bronzos 1937 m., skulptorius K. Ausiejus; atstatytas 1990 m., skulptorius G. Kamarauskas, architektas K. Lupeikis), Prienų piliavietė (arba Butlerio pilis) ir Revuonos parkas (miesto parkas), link šiaurės – miesto kapinės. Prie Drubengio kranto išlikę vienos didžiausių Lietuvoje buvusių popieriaus dirbtuvių (XVIII–XIX a.) pastatai. Išlikęs vandens malūnas, pastatytas XIX a. Prienų piliavietės ir Prienų dvaro vietoje.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Prienai","url":"https://lt.wikipedia.org/wiki/Prienai","kind":"encyclopedia","bucket":"wikipedia"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Prienai"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a2839981516affd87d8fa077","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Prie Prienų Nemunas daro pusračio vingį.","context":"Teodoras Narbutas tai rašo kaip savo pastebėjimą veikale „Lietuvių tautos istorija“, t. 1 (1998 m.).","support_ids":["t-217121","c-199820"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217121","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199820","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Už Tilžės, žemiau Vingio (Winge) dvaro, prie Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­ nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­ kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį, pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk Kronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­ rai vadino Kruoniu (Kronus)'', o gal kaip deivė upė buvo garbi- 17 Stender."}],"status":"published","conflict_status":"clear"},{"trait_id":"1756ad4d5a4b94b0ad307399","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Ties Prienais autorius pastebėjo piliakalnį, vadintą Krono-kilpinie, arba Kruonio kilpa.","context":"Teodoras Narbutas tai nurodo kaip savo pastebėjimą veikale „Lietuvių tautos istorija“, t. 1 (1998 m.).","support_ids":["t-217121","c-199820"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217121","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199820","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Už Tilžės, žemiau Vingio (Winge) dvaro, prie Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­ nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­ kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį, pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk Kronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­ rai vadino Kruoniu (Kronus)'', o gal kaip deivė upė buvo garbi- 17 Stender."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/A. Žemaitis","claim_id":"t-39988","confidence":0.78},{"predicate":"priklause","direction":"inbound","target":"objektai/vietos/Ašminta","claim_id":"t-38441","confidence":0.86},{"predicate":"siunte_i","direction":"inbound","target":"objektai/asmenys/P. Liatukas","claim_id":"t-39622","confidence":0.93}],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e89ada38bc77c237
+object_page_generated_at: '2026-09-19T18:26:24+00:00'
+object_page_source_checked_at: '2026-09-19T18:26:24+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Prienai: Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai palankus.'
+object_page_seo_input_hash: ebc53a5b9ab37b20f37ca8913d761c9752c09db89583998bfa93f6c5249f5b24
+object_page_seo_generated_at: '2026-09-19T18:26:24+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Prienai
 

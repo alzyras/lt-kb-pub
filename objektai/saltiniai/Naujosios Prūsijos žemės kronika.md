@@ -1,15 +1,15 @@
 ---
 tipas: saltinis
-pavadinimas: 'Naujosios Prūsijos žemės kronika'
+pavadinimas: Naujosios Prūsijos žemės kronika
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1330 m.'
-  - '1376 m.'
-  - '1384 m.'
-  - '2026 m.'
+  - 1330 m.
+  - 1376 m.
+  - 1384 m.
+  - 2026 m.
 date_start: '1330'
 date_end: '2026'
 sukurta: ''
@@ -17,20 +17,30 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T03:57:01+00:00","source_checked_at":"2026-09-20T03:57:01+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e52cf2bdbbc24b8ad84db287","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"Vygandas Marburgietis","context":"Šaltinis cituojamas kaip Vygando Marburgiečio kronika; ištraukoje aprašomi 1376 m. įvykiai ir 1384 m. Marienverderio pilies šturmas.","support_ids":["t-171552","c-11260"],"source_refs":[{"kind":"internal_claim","claim_id":"t-171552","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-11260","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio pilies šturmą 1384 m."}],"status":"published","conflict_status":"clear"},{"trait_id":"a7a2c6163ba78e8665e6af62","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Kronika","context":"Šaltinis įvardijamas kaip „Naujosios Prūsijos žemės kronika“ / „Naujosios Prūsijos kronika“.","support_ids":["t-171552","c-11260"],"source_refs":[{"kind":"internal_claim","claim_id":"t-171552","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-11260","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio pilies šturmą 1384 m."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 2502e3338d531e65
+object_page_generated_at: '2026-09-20T03:57:01+00:00'
+object_page_source_checked_at: '2026-09-20T03:57:01+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Naujosios Prūsijos žemės kronika: Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.…'
+object_page_seo_input_hash: e4426b444d4560133d1a8b84433cf098da7e969cf72b1326ea383eade9eba9ce
+object_page_seo_generated_at: '2026-09-20T03:57:01+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Naujosios Prūsijos žemės kronika
 

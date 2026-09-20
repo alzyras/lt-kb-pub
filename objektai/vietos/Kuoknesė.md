@@ -1,15 +1,15 @@
 ---
 tipas: vieta
-pavadinimas: 'Kuoknesė'
+pavadinimas: Kuoknesė
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1581 m.'
-  - '1601 m.'
-  - '1608 m.'
-  - '1609 m.'
-  - '1919 m.'
+  - 1581 m.
+  - 1601 m.
+  - 1608 m.
+  - 1609 m.
+  - 1919 m.
 date_start: '1581'
 date_end: '1919'
 sukurta: ''
@@ -19,29 +19,41 @@ tags:
   - pilis
   - vieta
 amziai:
-  - 'XVI'
-  - 'XX'
+  - XVI
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-a9497f02be07b4fb75fd64e5"
-canonical_name: "Kuoknesė"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kuoknesė"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-a9497f02be07b4fb75fd64e5
+canonical_name: Kuoknesė
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kuoknesė
 sameAs: []
-canonical_biography: "Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė. Paėmė beveik visus laivus, kuriais Dauguvos upe švedai atplukdė 96 KUOKNESĖS MŪŠIS 1601 m. birželio 23 d. L Arialentibas (Souk snjam Lirhuanis (rus (areli Duos SadSijimunds Tereu Pisa S See Regs ac newfie Kuoknesés mūšis 1601 m. XVIII a."
+canonical_biography: 'Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė. Paėmė beveik visus laivus, kuriais Dauguvos upe švedai atplukdė 96 KUOKNESĖS MŪŠIS 1601 m. birželio 23 d. L Arialentibas (Souk snjam Lirhuanis (rus (areli Duos SadSijimunds Tereu Pisa S See Regs ac newfie Kuoknesés mūšis 1601 m. XVIII a.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T12:46:44+00:00","source_checked_at":"2026-09-19T12:46:44+00:00","counts":{"relations":5,"gallery":0,"sources":3},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"e94bb3a8d1aaa4766b23074e","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Kuoknesės pilis buvo visiškai sugriauta; jos vietoje buvo kalva, apaugusi krūmais ir nusėta įvairiomis šiukšlėmis.","context":"Teodoro Narbuto pasakojime apie laikotarpį prieš vyskupo Alberto pilies atnaujinimą.","support_ids":["t-205197","c-187784"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205197","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187784","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Grįžęs iš Vokieti­ jos vyskupas Albertas, apsvarstęs aplinkybes, jj siejan­ čias su Lietuva, mat tikėjosi sulaukti iš tos pusės puo­ limų, juolab turėdamas valdą Kuoknesėje, sumanė atnau­ jinti tenykštę pilį, kurią rado visiškai sugriautą, kitaip tariant, jos vietoje kalvą, apauguslią krūmais, įvairių šiukšlių nusėtą. Įsakęs iškuopti, sumūrijo tvirtovę. Treč­ dalį perleido kalavijuočių riteriams, o kitus du trečdalius savo nuožiūra atidavė valdyti Rudolfui iš Jericho."}],"status":"published","conflict_status":"clear"},{"trait_id":"9aefa87b09718281126d9d83","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Kuoknesėje buvo pilis, kurią vyskupas Albertas atnaujino ir jos vietoje sumūrė tvirtovę; trečdalį tvirtovės perleido kalavijuočių riteriams.","context":"Teodoras Narbutas aprašo 1208 m. įvykius.","support_ids":["t-205197","c-187784"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205197","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187784","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Grįžęs iš Vokieti­ jos vyskupas Albertas, apsvarstęs aplinkybes, jj siejan­ čias su Lietuva, mat tikėjosi sulaukti iš tos pusės puo­ limų, juolab turėdamas valdą Kuoknesėje, sumanė atnau­ jinti tenykštę pilį, kurią rado visiškai sugriautą, kitaip tariant, jos vietoje kalvą, apauguslią krūmais, įvairių šiukšlių nusėtą. Įsakęs iškuopti, sumūrijo tvirtovę. Treč­ dalį perleido kalavijuočių riteriams, o kitus du trečdalius savo nuožiūra atidavė valdyti Rudolfui iš Jericho."}],"status":"published","conflict_status":"clear"},{"trait_id":"99014f46a4ff6d85ec0e1b7a","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kuoknesės pilis ir valda buvo vyskupo nuosavybė.","context":"Teodoras Narbutas taip apibūdina padėtį po konflikto su kunigaikščiu Vosyliumi.","support_ids":["t-205440","c-187793"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205440","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187793","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Nuo to laiko Kuoknesės pilis ir valda vi­ siems laikams liko vyskupo nuosavybė1."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"20181588c06656343325850d","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Kuoknesės pilis su aplinkinėmis valdomis buvo vyskupo Alberto dovanojama valda.","context":"Teodoras Narbutas nurodo, kad vyskupas Albertas šią pilį su aplinkinėmis valdomis buvo dovanojęs sutuoktiniams.","support_ids":["t-205381","c-187904"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205381","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187904","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Šiems sutuoktiniams vyskupas Al­ bertas buvo dovanojęs Kuoknesės pilį su aplinkinėmis valdomis."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"Kuoknesė yra istorinė vieta, minima kaip miestas, pilis ir su ja susijusi valda. 1222 m. Kuoknesę valdė kunigaikštis Vosylius, o po konflikto su juo pilis ir valda liko vyskupo nuosavybė. Vėliau vyskupas Albertas Kuoknesės pilį su aplinkinėmis valdomis dovanojo sutuoktiniams, nors pateiktuose šaltiniuose jų tapatybė šiame fragmente nenurodyta. 1601 m. balandžio 1 d., mūšio išvakarėse, Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė; mieste įsitvirtino 2500 švedų karių, o apsuptajai kariuomenei buvo siunčiami maistas ir šaudmenys.","sentences":[{"sentence_id":"s1","text":"Kuoknesė yra istorinė vieta, minima kaip miestas, pilis ir su ja susijusi valda.","support_ids":["t-79513","c-76495","t-205440","c-187793"]},{"sentence_id":"s2","text":"1222 m. Kuoknesę valdė kunigaikštis Vosylius, o po konflikto su juo pilis ir valda liko vyskupo nuosavybė.","support_ids":["t-205417","c-187948","t-205440","c-187793"]},{"sentence_id":"s3","text":"Vėliau vyskupas Albertas Kuoknesės pilį su aplinkinėmis valdomis dovanojo sutuoktiniams, nors pateiktuose šaltiniuose jų tapatybė šiame fragmente nenurodyta.","support_ids":["t-205381","c-187904"]},{"sentence_id":"s4","text":"1601 m. balandžio 1 d., mūšio išvakarėse, Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė; mieste įsitvirtino 2500 švedų karių, o apsuptajai kariuomenei buvo siunčiami maistas ir šaudmenys.","support_ids":["t-79513","c-76495"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina Kuoknesę kaip miestą, pilį ir valdą."},{"sentence_id":"s2","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina, kad 1222 m. Kuoknesę valdė Vosylius, o po konflikto pilis ir valda liko vyskupo nuosavybė."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad vyskupas Albertas dovanojo sutuoktiniams Kuoknesės pilį su aplinkinėmis valdomis; jų tapatybė fragmente nenurodyta."},{"sentence_id":"s4","supported":false,"reason":"Šaltinis patvirtina miesto užėmimą, pilies apsuptį, lietuvių įgulos nepasidavimą ir 2500 švedų karių įsitvirtinimą, tačiau maistas ir šaudmenys buvo siunčiami apsuptajai švedų kariuomenei, ne apsuptajai lietuvių kariuomenei."}],"deterministic_support_check":[{"sentence_id":"s1","supported":true,"support_ids":["t-79513","c-76495","t-205440","c-187793"]},{"sentence_id":"s2","supported":true,"support_ids":["t-205417","c-187948","t-205440","c-187793"]},{"sentence_id":"s3","supported":true,"support_ids":["t-205381","c-187904"]},{"sentence_id":"s4","supported":true,"support_ids":["t-79513","c-76495"]}],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"apgule","direction":"inbound","target":"objektai/grupes/Švedijos kariuomenė","claim_id":"t-41213","confidence":0.86},{"predicate":"gyne","direction":"inbound","target":"objektai/grupes/Lietuviai","claim_id":"t-49164","confidence":0.84},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Jonas Karolis Chodkevičius","claim_id":"t-180226","confidence":0.8},{"predicate":"uzeme","direction":"inbound","target":"objektai/asmenys/Jonas Karolis Katkevičius","claim_id":"t-79047","confidence":0.82},{"predicate":"uzeme","direction":"inbound","target":"objektai/grupes/Švedijos kariuomenė","claim_id":"t-41213","confidence":0.96}],"timeline":[{"date":"1208 m.","label":"1208 m.","claimId":"t-205197"},{"date":"1222 m.","label":"Kunigaikštis Vosylius 1222 m.","claimId":"t-205417"},{"date":"1601 m.","label":"Mūšio išvakarėse 1601 m.","claimId":"t-79513"},{"date":"1608 m.","label":"Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m.","claimId":"t-79512"},{"date":"1608 m.","label":"1608 m.","claimId":"t-79515"}],"support_disclosure":{"claims":11,"sources":3}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: bb4f675f7a068b36
+object_page_generated_at: '2026-09-19T12:46:44+00:00'
+object_page_source_checked_at: '2026-09-19T12:46:44+00:00'
+object_page_content_state: content
+object_page_claim_count: '11'
+object_page_source_count: '3'
+object_page_seo_description: 'Kuoknesė yra istorinė vieta, minima kaip miestas, pilis ir su ja susijusi valda. 1222 m. Kuoknesę valdė kunigaikštis Vosylius, o po konflikto su juo pilis ir…'
+object_page_seo_input_hash: f4fb8879eadd77125b4216486c610765b5d20bb27d51def3cc9f31740e713be7
+object_page_seo_generated_at: '2026-09-19T12:46:44+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kuoknesė
 

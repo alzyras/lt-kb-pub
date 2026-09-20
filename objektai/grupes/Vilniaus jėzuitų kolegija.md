@@ -1,12 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Vilniaus jėzuitų kolegija'
+pavadinimas: Vilniaus jėzuitų kolegija
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1571 m.'
-  - '1581 m.'
-  - '1651 m.'
+  - 1571 m.
+  - 1581 m.
+  - 1651 m.
 date_start: '1571'
 date_end: '1651'
 sukurta: ''
@@ -15,20 +15,30 @@ tags:
   - institucija
   - grupe
 amziai:
-  - 'XVI'
-  - 'XVII'
+  - XVI
+  - XVII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Vilniaus jėzuitų kolegija","url":"https://www.vle.lt/straipsnis/vilniaus-jezuitu-kolegija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T22:11:51+00:00","source_checked_at":"2026-09-19T22:11:51+00:00","counts":{"relations":1,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Vilniaus jėzuitų kolegija","url":"https://www.vle.lt/straipsnis/vilniaus-jezuitu-kolegija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/vilniaus-jezuitu-kolegija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"68342875abddaa1e6b47b257","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Mirdamas Žygimantas Augustas Knišinas savo turtingą biblioteką atidavė Vilniaus jėzuitų kolegijai.","context":"Šaltinio autoriaus aprašymas apie Knišino testamentinį sprendimą; laikas – mirties metas, data šaltinyje nenurodyta.","support_ids":["t-86704","c-82684"],"source_refs":[{"kind":"internal_claim","claim_id":"t-86704","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-82684","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos sostinę: užbaigti pradėtą statyti Šv. Onos bažnyčią, išplėsti Švč. Trejybės prieglaudą ir ją geriau aprūpinti pave­ dė kelissyk testamente minimoms seserims ir respublikai, o turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą, atidavė Vilniaus jėzuitų kolegijai."}],"status":"published","conflict_status":"clear"},{"trait_id":"1b2d27694f5ba53dfa069cee","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Akademijos kolegijos rektoriai jėzuitai turėjo teisę siūlyti Šv. Jono bažnyčios vikarus.","context":"Šaltinio autoriaus aprašymas; teisė perleista Vilniaus kapitulos 1581 m. birželio 9 d., o 1651 m. spalio 2 d. patvirtinta.","support_ids":["t-86705","c-82686"],"source_refs":[{"kind":"internal_claim","claim_id":"t-86705","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-82686","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Jono bažnyčios užtikrinta priklausomybė pripažinta vienuoliams jėzuitams. 1581 metų birželio 9 dieną. Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti nuolati­ nio vikaro pareigas, Vilniaus kapitula, Jus Patronatus teisės siūlyti į vikarus atsisako ir perleidžia Akademijos kolegijos Rektoriams tėvams jėzuitams, kas taip pat 1651 metų spalio 2 dieną patvirtinta."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"reme","direction":"inbound","target":"objektai/asmenys/Žygimantas Augustas","claim_id":"t-86704","confidence":0.7}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f167fb59b772bd11
+object_page_generated_at: '2026-09-19T22:11:51+00:00'
+object_page_source_checked_at: '2026-09-19T22:11:51+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Vilniaus jėzuitų kolegija: Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­ toriaus instancijai su visu…'
+object_page_seo_input_hash: 0afd1d2a73bcb7798d875f2b7bbafcf12dab370da89951404b5ab720fefdec0a
+object_page_seo_generated_at: '2026-09-19T22:11:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vilniaus jėzuitų kolegija
 

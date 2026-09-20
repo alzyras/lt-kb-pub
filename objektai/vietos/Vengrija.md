@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Vengrija'
+pavadinimas: Vengrija
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
@@ -10,15 +10,15 @@ saltiniai:
   - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1211 m.'
-  - '1224 m.'
-  - '1402 m.'
-  - '1514 m.'
-  - '1526 m.'
-  - '1553 m.'
-  - '1579 m.'
-  - '1738 m.'
-  - '2026 m.'
+  - 1211 m.
+  - 1224 m.
+  - 1402 m.
+  - 1514 m.
+  - 1526 m.
+  - 1553 m.
+  - 1579 m.
+  - 1738 m.
+  - 2026 m.
 date_start: '1211'
 date_end: '2026'
 sukurta: ''
@@ -27,29 +27,41 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XIII'
-  - 'XXI'
+  - XIII
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6f4514e3926a308e1a5aff67"
-canonical_name: "Vengrija"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vengrija"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6f4514e3926a308e1a5aff67
+canonical_name: Vengrija
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vengrija
 sameAs: []
-canonical_biography: "Į Vengriją ordinas buvo pakviestas kariauti su ją puolančiais pagonimis kumanais. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),. Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai."
+canonical_biography: 'Į Vengriją ordinas buvo pakviestas kariauti su ją puolančiais pagonimis kumanais. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),. Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Vengrija","url":"https://lt.wikipedia.org/wiki/Vengrija","publisher":"Vikipedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":"lt"},{"title":"Vengrija","url":"https://www.vle.lt/straipsnis/vengrija/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-19T08:42:54+00:00","source_checked_at":"2026-09-19T08:42:54+00:00","counts":{"relations":8,"gallery":0,"sources":10},"featured_claim_ids":["t-180766","t-180775","t-180768","t-180764","t-200719","t-204330","t-180770"],"featured_claims":[{"claim_id":"t-180766","text":"1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad šis ruošiasi kurti savo valstybę, o ne jam tarnauti.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-164349"]},{"claim_id":"t-180775","text":"1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","evidence_ids":["c-164352"]},{"claim_id":"t-180768","text":"1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad jis siekia kurti savo valstybę, o ne tarnauti karaliui.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-164349"]},{"claim_id":"t-180764","text":"Karalius Kazimieras Vilniuje gavo žinią apie sūnaus Jono Albrechto sutriuškinimą Vengrijoje.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","evidence_ids":["c-164356"]},{"claim_id":"t-200719","text":"1738 m. Marcijonas Mykolas Oginskis iš Vengrijos pirko 25 statines seno ir jauno vyno už 274 raudonuosius auksinus, o vyno atgabenimas į Vilnių kainavo dar 125 raudonuosius auksinus.","source":"darbas/sources/Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.).md","evidence_ids":["c-184064"]},{"claim_id":"t-204330","text":"LDK bajorai gerdavo iš Vengrijos importuotą vyną.","source":"darbas/sources/Lituanistika-53374-Bajoru-virtuve.md","evidence_ids":["c-186894"]},{"claim_id":"t-180770","text":"Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje.","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","evidence_ids":["c-164351"]}],"featured_quote":{"text":"Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37. Šiame anuomet garsiame fabrike išlieta labai daug pabūk­ lų, gaminta bombos ir kiti karo reikmenys.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-180772","evidence_id":"c-164355","origin":"internal"},"wiki":{"status":"published","source":{"title":"Vengrija","url":"https://lt.wikipedia.org/wiki/Vengrija","publisher":"Vikipedija","language":"lt","article_id":"1546","revision_id":"7923555","published_at":"2026-09-13T04:40:14Z","version_pk":"","content_hash":"6f1e6d36823535fec7079b68eae68be497bd2c32433d9f76b102930f90f5f5ab","retrieved_at":"2026-09-19T08:40:09+00:00","history_url":"https://lt.wikipedia.org/w/index.php?title=Vengrija&action=history","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","license":"CC BY-SA 4.0","extraction":{"method":"MediaWiki parse API","location":"first_non_empty_lead_paragraph_and_top_level_infobox","page_id":"1546"}},"intro":"Vengrija (veng. Magyarország) – valstybė Vidurio Europoje. Šiaurės vakaruose ribojasi su Austrija, šiaurėje – su Slovakija, šiaurės rytuose – su Ukraina, rytuose ir pietryčiuose – su Rumunija, pietuose – su Serbija, pietvakariuose – su Kroatija ir Slovėnija. Šalies sostinė ir didžiausias miestas – Budapeštas. Kiti didieji miestai – Debrecenas, Segedas, Miškolcas, Pėčas ir Dėras.","original_intro":"","translation_status":"native","infobox":[],"identity_signals":{"exact_title":true,"api_redirect":false,"page_exists":true,"wikidata_qid":true,"not_disambiguation":true,"provider":"mediawiki_api","language":"lt","label_match":true,"type_match":true,"not_authority_collision":true,"resolved":true,"identity_verified":true,"stable_id_match":true}},"source_buttons":[{"label":"Vikipedija","title":"Vengrija","url":"https://lt.wikipedia.org/wiki/Vengrija","kind":"encyclopedia","bucket":"wikipedia"},{"label":"Visuotinė lietuvių enciklopedija","title":"Vengrija","url":"https://www.vle.lt/straipsnis/vengrija/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://lt.wikipedia.org/wiki/Vengrija","https://www.vle.lt/straipsnis/vengrija/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8abd91164efa145d89405886","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Avių ir galvijų auginimo regionas","context":"Šaltinyje Vengrija priskiriama avių ir galvijų auginimo regionams pagal vyraujantį palivarko produkcijos pobūdį.","support_ids":["t-203630","c-186234"],"source_refs":[{"kind":"internal_claim","claim_id":"t-203630","source":"darbas/sources/Lituanistika-32634-ATR-palivarko-ukis.md"},{"kind":"evidence","evidence_id":"c-186234","source":"darbas/sources/Lituanistika-32634-ATR-palivarko-ukis.md","quote":"pagal vyraujantį palivarko produkcijos pobūdį schema. Grūdų augi­ nimo regionui priskiriama Lenkija, Livo­ nijos žemės, avių ir galvijų auginimo regi­ onams – Mecklenburgas, Vakarų Pamarys, Moldavija, Valakija (dabartinė Rumunijos sritis), Vengrija. Miškų ūkio regionu laiko­ mos Livonijos žemės, kanapių ir linų ga­ mybos regionais – Lietuva ir rusėniškosios LDK žemės (dabartinė Rytų Baltarusija)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"quarantined","text":"Vengrija – istoriniuose šaltiniuose minima vieta, susijusi su politiniais konfliktais, prekyba, karyba ir kultūriniais ryšiais. 1224 m. Vengrijos karalius išvijo ordiną, nes šis, užuot tarnavęs karaliui, rengėsi kurti savo valstybę. 1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir, šaltinio teigimu, dingo iš Europos žemėlapio. XVI amžiuje ji buvo svarbi karinių išteklių tiekimo vieta: rengiantis 1579 m. žygiui ten samdyta kareivių, o iš Vengrijos per Krokuvą į Vilnių gabenti alavas ir varis. Vengrijos ryšiai su Lietuvos Didžiąja Kunigaikštyste atsiskleidė ir per vyno prekybą: bajorai gerdavo iš ten importuotą vyną, o 1738 m. Marcijonas Mykolas Oginskis įsigijo įvairaus vyno už 274 raudonuosius auksinus, dar 125 sumokėdamas už jo atgabenimą į Vilnių.","sentences":[{"sentence_id":"s1","text":"Vengrija – istoriniuose šaltiniuose minima vieta, susijusi su politiniais konfliktais, prekyba, karyba ir kultūriniais ryšiais.","support_ids":["t-180766","t-180770","t-180772","t-202545","t-204330"]},{"sentence_id":"s2","text":"1224 m. Vengrijos karalius išvijo ordiną, nes šis, užuot tarnavęs karaliui, rengėsi kurti savo valstybę.","support_ids":["t-180766","c-164349"]},{"sentence_id":"s3","text":"1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir, šaltinio teigimu, dingo iš Europos žemėlapio.","support_ids":["t-180775","c-164352"]},{"sentence_id":"s4","text":"XVI amžiuje ji buvo svarbi karinių išteklių tiekimo vieta: rengiantis 1579 m. žygiui ten samdyta kareivių, o iš Vengrijos per Krokuvą į Vilnių gabenti alavas ir varis.","support_ids":["t-180770","c-164351","t-180772","c-164355"]},{"sentence_id":"s5","text":"Vengrijos ryšiai su Lietuvos Didžiąja Kunigaikštyste atsiskleidė ir per vyno prekybą: bajorai gerdavo iš ten importuotą vyną, o 1738 m. Marcijonas Mykolas Oginskis įsigijo įvairaus vyno už 274 raudonuosius auksinus, dar 125 sumokėdamas už jo atgabenimą į Vilnių.","support_ids":["t-204330","c-186894","t-200719","c-184064","t-202545","c-185903"]}],"verification":{"verified":false,"sentences":[{"sentence_id":"s1","supported":true,"reason":"Teiginį tiesiogiai pagrindžia nurodyti šaltiniai apie politinius konfliktus, karybą, prekybą ir vyno kultūrinius ryšius."},{"sentence_id":"s2","supported":true,"reason":"Šaltinis tiesiogiai nurodo, kad 1224 m. Vengrijos karalius išvijo ordiną, nes šis rengėsi kurti savo valstybę."},{"sentence_id":"s3","supported":true,"reason":"Šaltinis tiesiogiai patvirtina 1526 m. Mohačo mūšį, katastrofą ir Vengrijos dingimą iš Europos žemėlapio."},{"sentence_id":"s4","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina kareivių samdymą Vengrijoje 1579 m. žygiui ir alavo bei vario gabenimą iš Vengrijos per Krokuvą į Vilnių."},{"sentence_id":"s5","supported":true,"reason":"Šaltiniai tiesiogiai patvirtina LDK bajorų vartotą iš Vengrijos importuotą vyną ir 1738 m. Oginskio pirkinius bei nurodytas sumas."}],"deterministic_support_check":[{"sentence_id":"s1","supported":false,"support_ids":["t-180766","t-180770","t-180772","t-202545","t-204330"]},{"sentence_id":"s2","supported":true,"support_ids":["t-180766","c-164349"]},{"sentence_id":"s3","supported":true,"support_ids":["t-180775","c-164352"]},{"sentence_id":"s4","supported":true,"support_ids":["t-180770","c-164351","t-180772","c-164355"]},{"sentence_id":"s5","supported":true,"support_ids":["t-204330","c-186894","t-200719","c-184064","t-202545","c-185903"]}],"verifier":"gpt-5.6-luna"},"quality":65,"improves_current":true,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Motiejus Huniadis","claim_id":"t-79132","confidence":0.9},{"predicate":"buvo_valdovas","direction":"inbound","target":"objektai/asmenys/Zigmantas Liuksemburgietis","claim_id":"t-90744","confidence":0.9},{"predicate":"gyveno","direction":"inbound","target":"objektai/grupes/Jazygai","claim_id":"t-212721","confidence":0.92},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Vytautas","claim_id":"t-10729","confidence":0.95},{"predicate":"keliavo_i","direction":"inbound","target":"objektai/asmenys/Švitrigaila","claim_id":"t-179716","confidence":0.92},{"predicate":"prekiavo_su","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-180772","confidence":0.76},{"predicate":"valde","direction":"inbound","target":"objektai/asmenys/Vladislovas Jogailaitis","claim_id":"t-183769","confidence":0.78},{"predicate":"valde","direction":"inbound","target":"objektai/grupes/Jogailaičių dinastija","claim_id":"t-101620","confidence":0.94}],"timeline":[{"date":"1211 m.","label":"Joje Vengrijos karalius Andrius 11 1211 m.","claimId":"t-224786"},{"date":"1224 m.","label":"1224 m.","claimId":"t-180766"},{"date":"1224 m.","label":"1224 m.","claimId":"t-180768"},{"date":"1526 m.","label":"1526 m.","claimId":"t-180775"},{"date":"1579 m.","label":"1579 m.","claimId":"t-180763"},{"date":"1579 m.","label":"Rengiantis 1579 m.","claimId":"t-180770"},{"date":"1738 m.","label":"1738 m.","claimId":"t-200719"},{"date":"1738 m.","label":"1738 m.","claimId":"t-202545"}],"support_disclosure":{"claims":15,"sources":8}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ddeb534f78c0ef7a
+object_page_generated_at: '2026-09-19T08:42:54+00:00'
+object_page_source_checked_at: '2026-09-19T08:42:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '15'
+object_page_source_count: '8'
+object_page_seo_description: 'Vengrija – istoriniuose šaltiniuose minima vieta, susijusi su politiniais konfliktais, prekyba, karyba ir kultūriniais ryšiais. 1224 m. Vengrijos karalius…'
+object_page_seo_input_hash: 387d8fd9356d829cca844fe51dd95a96adf152ca3b55bfc66c541fe70e0a08fa
+object_page_seo_generated_at: '2026-09-19T08:42:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vengrija
 

@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Albrechtas (Romos karalius)'
+pavadinimas: Albrechtas (Romos karalius)
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1222 m.'
-  - '1308 m.'
+  - 1222 m.
+  - 1308 m.
 date_start: '1222'
 date_end: '1308'
 sukurta: ''
@@ -16,29 +16,41 @@ tags:
   - kunigaikštis
   - popiežius
 amziai:
-  - 'XIII'
-  - 'XIV'
+  - XIII
+  - XIV
 periodo_grupes:
-  - 'viduramžiai'
+  - viduramžiai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3f0f39ea0d1b7a72ad847da3"
-canonical_name: "Albrechtas (Romos karalius)"
-entity_roles: ["person"]
-entity_view_role: "person"
-entity_aliases: ["Albrechtas (Romos karalius)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3f0f39ea0d1b7a72ad847da3
+canonical_name: Albrechtas (Romos karalius)
+entity_roles:
+  - person
+entity_view_role: person
+entity_aliases:
+  - Albrechtas (Romos karalius)
 sameAs: []
-canonical_biography: "Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sūnaus iškėlimu į Čekijos sostą ir 1308 m. nužudymu."
+canonical_biography: 'Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sūnaus iškėlimu į Čekijos sostą ir 1308 m. nužudymu.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T05:53:09+00:00","source_checked_at":"2026-09-20T05:53:09+00:00","counts":{"relations":3,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing","rows":[],"source":null},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"feef64932d066ce32319d4bd","canonical_code":"person.role","label":"Pareigos ir vaidmuo","group":"Asmens veikla","value":"Romos karalius","context":"Petras Dusburgietis kronikoje Albrechtą vadina Romos karaliumi; 1303 m. popiežius Bonifacas VIII jį paskelbė imperatoriumi, tačiau Klemensas V vėliau šį sprendimą atšaukė.","support_ids":["t-220210","c-201765"],"source_refs":[{"kind":"internal_claim","claim_id":"t-220210","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201765","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"insufficient_data","text":"","sentences":[],"verification":{"verified":false,"sentences":[],"verifier":"gpt-5.6-luna"},"quality":0,"improves_current":false,"generation_error":""},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"paskyre","direction":"outbound","target":"objektai/asmenys/Albrechtas","claim_id":"t-221255","confidence":0.55},{"predicate":"paskyre","direction":"inbound","target":"objektai/asmenys/Bonifacas VIII","claim_id":"t-220210","confidence":0.82},{"predicate":"valde","direction":"outbound","target":"objektai/vietos/Prancūzija","claim_id":"t-220210","confidence":0.84}],"timeline":[{"date":"1303 m.","label":"Dusburgietis pasakoja, kad 1303 m.","claimId":"t-220210"},{"date":"1303 m.","label":"1303 m.","claimId":"t-223327"},{"date":"1307 m.","label":"Dusburgietis pasakoja, kad 1307 m.","claimId":"t-221255"},{"date":"1308 m.","label":"Dusburgietis pasakoja, kad 1308 m.","claimId":"t-220418"},{"date":"1308 m.","label":"1308 m.","claimId":"t-225401"}],"support_disclosure":{"claims":6,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e4e2913318094545
+object_page_generated_at: '2026-09-20T05:53:09+00:00'
+object_page_source_checked_at: '2026-09-20T05:53:09+00:00'
+object_page_content_state: content
+object_page_claim_count: '6'
+object_page_source_count: '1'
+object_page_seo_description: 'Albrechtas (Romos karalius): Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sūnaus iškėlimu į Čekijos sostą ir 1308 m. nužudymu.'
+object_page_seo_input_hash: b67a1564d3dabef20a9ea3a54cb2e491431413ca8152549ffe42f0409a94a050
+object_page_seo_generated_at: '2026-09-20T05:53:09+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Albrechtas (Romos karalius)
 
