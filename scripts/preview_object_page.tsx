@@ -157,7 +157,7 @@ const server = http.createServer(async (req, res) => {
     res.setHeader("Content-Type", "text/html; charset=utf-8")
     res.setHeader("Cache-Control", "no-store")
     return res.end(
-      `<!doctype html><html lang="lt" saved-theme="${url.searchParams.get("theme") === "dark" ? "dark" : "light"}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${String(fm.title).replaceAll("<", "&lt;")}</title><link rel="stylesheet" href="/index.css"><style>${css}</style><script>window.addCleanup=()=>{};</script></head><body data-slug="${route}">${renderToString(components[3](props) as any)}${renderToString(Component(props) as any)}<script type="module">${scripts}\n${spa}</script></body></html>`,
+      `<!doctype html><html lang="lt" saved-theme="${url.searchParams.get("theme") === "dark" ? "dark" : "light"}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${String(fm.title).replaceAll("<", "&lt;")}</title><link rel="stylesheet" href="/index.css"><style>${css}</style><script>window.addCleanup=()=>{};</script></head><body data-slug="${route}">${renderToString(components[3](props) as any)}<div class="page"><div id="quartz-body"><div class="center">${renderToString(Component(props) as any)}</div></div></div><script type="module">${scripts}\n${spa}</script></body></html>`,
     )
   }
   await handler(req, res, { public: path.join(root, "public"), cleanUrls: true })
