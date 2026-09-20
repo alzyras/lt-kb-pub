@@ -65,6 +65,11 @@
       margin-left: auto;
       margin-right: auto;
       position: relative;
+      box-sizing: border-box;
+      padding: 1rem;
+      background: var(--light);
+      border: 1px solid var(--lightgray);
+      border-radius: 4px;
 
       @media all and not ($desktop) {
         width: 90%;
@@ -330,8 +335,10 @@
   padding: .85rem;
   border: 1px solid var(--lightgray);
   border-radius: .7rem;
-  background: color-mix(in srgb, var(--light) 70%, transparent);
+  background: var(--light);
 }
+
+.search-filters[hidden] { display: none; }
 
 .search-filter-field { display: grid; gap: .3rem; color: var(--darkgray); font-size: .72rem; font-weight: 700; }
 .search-filter-field select { width: 100%; min-width: 0; padding: .45rem .5rem; border: 1px solid var(--lightgray); border-radius: .4rem; background: var(--light); color: var(--dark); font: inherit; font-size: .82rem; }
