@@ -1,24 +1,24 @@
 ---
 tipas: asmuo
-pavadinimas: Jonas Radvila (1474-1522)
-canonical_entity_id: ent-noble-4a15248e679aefe981a2d4a9
-noble_scope: ldk-didikai-iki-1795-v1
-noble_family: Radvilos
+pavadinimas: 'Jonas Radvila (1474-1522)'
+canonical_entity_id: "ent-noble-4a15248e679aefe981a2d4a9"
+noble_scope: "ldk-didikai-iki-1795-v1"
+noble_family: "Radvilos"
 aliases:
-  - Jonas Radvila
+  - 'Jonas Radvila'
 saltiniai:
   - 'VLE: Radvilos'
 date_start: '1474'
 date_end: '1522'
 periodo_grupes:
-  - LDK
+  - 'LDK'
 bukle: viesas_pradinis
 datos:
-  - 1474 m.
-  - 1522 m.
+  - '1474 m.'
+  - '1522 m.'
 amziai:
-  - XV
-  - XVI
+  - 'XV'
+  - 'XVI'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,25 +30,26 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-noble-4a15248e679aefe981a2d4a9
-canonical_name: Jonas Radvila (1474-1522)
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Jonas Radvila
-  - Jonas Radvila (1474-1522)
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-noble-4a15248e679aefe981a2d4a9"
+canonical_name: "Jonas Radvila (1474-1522)"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Radvila","Jonas Radvila (1474-1522)"]
 sameAs: []
-canonical_biography: Jonas Radvila (1474-1522) - Radvilos giminės atstovas.
+canonical_biography: "Jonas buvo Mikalojaus Radvilos Senojo ir Sofijos Manvydaitės sūnus. Vedęs Oną Kiškaitę gavo Nesvyžių ir Olyką. Jo sūnus Mikalojus Juodasis tapo vienu įtakingiausių XVI a. Lietuvos didikų."
 ---
+
 # Jonas Radvila (1474-1522)
 
 ## Santrauka
 
-Jonas Radvila (1474-1522) yra Radvilos giminės atstovas. Šis pradinis puslapis sukurtas pagal VLE giminės straipsnį ir bus papildytas knygų medžiaga.
+Jonas buvo Mikalojaus Radvilos Senojo ir Sofijos Manvydaitės sūnus. Vedęs Oną Kiškaitę gavo Nesvyžių ir Olyką. Jo sūnus Mikalojus Juodasis tapo vienu įtakingiausių XVI a. Lietuvos didikų.
 
 ## Giminė
 
@@ -57,3 +58,14 @@ Jonas Radvila (1474-1522) yra Radvilos giminės atstovas. Šis pradinis puslapis
 ## Pastabos
 
 Aprėpties įrašas: `noble-4a15248e679aefe981a2d4a9`.
+
+## Šaltiniai
+
+- [VLE: Jonas Radvila (1474-1522)](https://www.vle.lt/straipsnis/jonas-radvila/)
+
+## Šeima
+
+- [[objektai/asmenys/Mikalojus Radvila Senasis|Mikalojus Radvila Senasis]]
+- [[objektai/asmenys/Sofija Manvydaitė Radvilienė|Sofija Manvydaitė Radvilienė]]
+- [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]
+- [[objektai/asmenys/Ona Kiškaitė (Jono Radvilos žmona)|Ona Kiškaitė (Jono Radvilos žmona)]]

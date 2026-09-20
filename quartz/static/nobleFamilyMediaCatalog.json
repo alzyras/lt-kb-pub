@@ -1,0 +1,1394 @@
+{
+  "schemaVersion": "1",
+  "entries": [
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021802/LIMIS_600571046",
+      "caption": "Barboros Radvilaitės portretas heliografijoje kartu su Žygimanto Augusto portretais.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Autorius nenustatytas",
+      "dateDisplay": "Reprodukcijos data nenustatyta",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg",
+      "firstDiscoveredAt": "2026-07-11T21:03:55.525537+03:00",
+      "height": null,
+      "institution": "",
+      "isPrimary": 1,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Vaizdas ir metaduomenys tiesiogiai patvirtina, kad centre vaizduojama Barbora Radvilaitė.",
+      "language": "",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseUrl": "",
+      "mediaId": "m-69c86a9729a3c4f737482478",
+      "metadataEvidence": "Pavadinime tiesiogiai nurodyta „Barbora Radvilaitė ir Žygimantas Augustas“, o aprašyme aiškiai identifikuotas centrinis Barboros portretas.",
+      "originalTitle": "Heliografija. Barbora Radvilaitė ir Žygimantas Augustas",
+      "provider": "europeana",
+      "providerLabel": "Trakai History Museum",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Barbora Radvilaitė.md",
+          "relationType": "portrait_of",
+          "title": "Barbora Radvilaitė"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-31T05:59:54.691148+03:00",
+      "rightsNote": "http://creativecommons.org/licenses/by/4.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [],
+      "sourceUrl": "https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "atvaizdas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "atvaizdas"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        },
+        {
+          "code": "karalienė",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "karalienė"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        }
+      ],
+      "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE",
+      "title": "Heliografija. Barbora Radvilaitė ir Žygimantas Augustas",
+      "visualEvidence": "Centre matomas moters reprezentacinis pusfigūris portretas, o šonuose – du vyro portretai; leidinio antraštė ir vaizdų išdėstymas atitinka Barboros bei Žygimanto Augusto porą.",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "width": null
+    },
+    {
+      "mediaId": "m-62c0deb93607f0d97044fbc3",
+      "title": "Mikalojaus Radvilos Juodojo pomirtinis portretas",
+      "caption": "Mikalojaus Radvilos Juodojo pomirtinis portretas",
+      "originalTitle": "Mikałaj Radzivił Čorny. Мікалай Радзівіл Чорны (1646-53).jpg",
+      "creator": "Nežinomas dailininkas",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "license": "Public domain",
+      "rightsNote": "Public domain",
+      "licenseUrl": "",
+      "attribution": "Федеральное государственное бюджетное учреждение культуры \"Государственный Эрмитаж\". ОР-45841.",
+      "dateDisplay": "1646–1653 m.",
+      "dateStart": null,
+      "dateEnd": null,
+      "width": 1306,
+      "height": 1794,
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AMika%C5%82aj_Radzivi%C5%82_%C4%8Corny._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A7%D0%BE%D1%80%D0%BD%D1%8B_%281646-53%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mika%C5%82aj_Radzivi%C5%82_%C4%8Corny._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A7%D0%BE%D1%80%D0%BD%D1%8B_%281646-53%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbUrl": "/static/gimines/radvilos/juodasis-1646-1653.jpg",
+      "displayUrl": "/static/gimines/radvilos/juodasis-1646-1653.jpg",
+      "institution": "",
+      "collection": "",
+      "country": "",
+      "language": "",
+      "tags": [
+        {
+          "code": "portretas",
+          "label": "portretas",
+          "facetKind": "vaizdo_tipas",
+          "confidence": 1
+        },
+        {
+          "code": "atvaizdas",
+          "label": "atvaizdas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "didikas",
+          "label": "didikas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "istorinis-portretas",
+          "label": "istorinis portretas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "portretas",
+          "label": "portretas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        }
+      ],
+      "sourceTags": [
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Mikołaj Radziwiłł the Black",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Template Unknown (author)",
+          "language": "",
+          "canonicalCode": ""
+        }
+      ],
+      "relatedObjects": [
+        {
+          "notePath": "objektai/asmenys/Mikalojus Radvila Juodasis.md",
+          "title": "Mikalojus Radvila Juodasis",
+          "itemType": "asmuo",
+          "relationType": "portrait_of",
+          "directness": "direct"
+        }
+      ],
+      "firstDiscoveredAt": "2026-08-08T14:57:09.288918+03:00",
+      "reviewedAt": "2026-08-08T14:59:25.001381+03:00",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "visualEvidence": "Matomas vienas barzdotas didikas, pavaizduotas biuste su puošniais valdžios ir kilmės atributais.",
+      "metadataEvidence": "Pavadinime ir apraše aiškiai įvardytas Mikałaj Radzivił Čorny kaip portreto asmuo.",
+      "confidenceLevel": "high",
+      "relationType": "portrait_of",
+      "directness": "direct",
+      "reviewStatus": "accepted",
+      "confidence": 0.95,
+      "sourceMethod": "media_collector",
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Tiesioginis targeto istorinis portretas.",
+      "isPrimary": 0
+    },
+    {
+      "mediaId": "m-0f5dc6b972d4e433d92aa241",
+      "title": "Mikalojaus Radvilos Rudojo pomirtinis portretas",
+      "caption": "Mikalojaus Radvilos Rudojo pomirtinis portretas",
+      "originalTitle": "Mikałaj Radzivił Rudy. Мікалай Радзівіл Руды (1646-53).jpg",
+      "creator": "Nežinomas dailininkas",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "license": "Public domain",
+      "rightsNote": "Public domain",
+      "licenseUrl": "",
+      "attribution": "Федеральное государственное бюджетное учреждение культуры \"Государственный Эрмитаж\". ОР-45840.",
+      "dateDisplay": "1646–1653 m.",
+      "dateStart": null,
+      "dateEnd": null,
+      "width": 1311,
+      "height": 1814,
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AMika%C5%82aj_Radzivi%C5%82_Rudy._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A0%D1%83%D0%B4%D1%8B_%281646-53%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mika%C5%82aj_Radzivi%C5%82_Rudy._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A0%D1%83%D0%B4%D1%8B_%281646-53%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbUrl": "/static/gimines/radvilos/rudasis-1646-1653.jpg",
+      "displayUrl": "/static/gimines/radvilos/rudasis-1646-1653.jpg",
+      "institution": "",
+      "collection": "",
+      "country": "",
+      "language": "",
+      "tags": [
+        {
+          "code": "portretas",
+          "label": "portretas",
+          "facetKind": "vaizdo_tipas",
+          "confidence": 1
+        },
+        {
+          "code": "atvaizdas",
+          "label": "atvaizdas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "didikas",
+          "label": "didikas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "ginklas",
+          "label": "ginklas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "graviūra",
+          "label": "graviūra",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "iliustracija",
+          "label": "iliustracija",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "istorinis-portretas",
+          "label": "istorinis portretas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "portretas",
+          "label": "portretas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        }
+      ],
+      "sourceTags": [
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Mikołaj \"the Red\" Radziwiłł",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Template Unknown (author)",
+          "language": "",
+          "canonicalCode": ""
+        }
+      ],
+      "relatedObjects": [
+        {
+          "notePath": "objektai/asmenys/Mikalojus Radvila Rudasis.md",
+          "title": "Mikalojus Radvila Rudasis (kunigaikštis, XVI a.)",
+          "itemType": "asmuo",
+          "relationType": "portrait_of",
+          "directness": "direct"
+        }
+      ],
+      "firstDiscoveredAt": "2026-08-08T15:06:15.638964+03:00",
+      "reviewedAt": "2026-08-08T15:10:01.451085+03:00",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "visualEvidence": "Matomas barzdoto didiko portretas su šarvais, ginklais ir aiškia Radvilos ikonografija.",
+      "metadataEvidence": "Pavadinime ir apraše tiesiogiai nurodytas „Mikałaj Radzivił Rudy“; apačioje esantis įrašas mini hetmoną ir evangeliką.",
+      "confidenceLevel": "high",
+      "relationType": "portrait_of",
+      "directness": "direct",
+      "reviewStatus": "accepted",
+      "confidence": 0.95,
+      "sourceMethod": "media_collector",
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Tai tiesioginis istorinis M. Radvilos Rudojo portretas.",
+      "isPrimary": 0
+    },
+    {
+      "mediaId": "m-b746b7fb18d60f6926955392",
+      "title": "Kristupo Radvilos Perkūno pomirtinis portretas",
+      "caption": "Kristupo Radvilos Perkūno pomirtinis portretas",
+      "originalTitle": "Kryštap Mikałaj Radzivił Piarun. Крыштап Мікалай Радзівіл Пярун (M. Bacciarelli, 1781).jpg",
+      "creator": "Marcello Bacciarelli",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "license": "Public domain",
+      "rightsNote": "Public domain",
+      "licenseUrl": "",
+      "attribution": "Warsaw Royal Castle",
+      "dateDisplay": "1781 m.",
+      "dateStart": null,
+      "dateEnd": null,
+      "width": 1530,
+      "height": 1917,
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AKry%C5%A1tap_Mika%C5%82aj_Radzivi%C5%82_Piarun._%D0%9A%D1%80%D1%8B%D1%88%D1%82%D0%B0%D0%BF_%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%9F%D1%8F%D1%80%D1%83%D0%BD_%28M._Bacciarelli%2C_1781%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kry%C5%A1tap_Mika%C5%82aj_Radzivi%C5%82_Piarun._%D0%9A%D1%80%D1%8B%D1%88%D1%82%D0%B0%D0%BF_%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%9F%D1%8F%D1%80%D1%83%D0%BD_%28M._Bacciarelli%2C_1781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbUrl": "/static/gimines/radvilos/perkunas-1781.jpg",
+      "displayUrl": "/static/gimines/radvilos/perkunas-1781.jpg",
+      "institution": "",
+      "collection": "",
+      "country": "",
+      "language": "",
+      "tags": [
+        {
+          "code": "paveikslėlis",
+          "label": "paveikslėlis",
+          "facetKind": "vaizdo_tipas",
+          "confidence": 1
+        },
+        {
+          "code": "didikas",
+          "label": "didikas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "istorinis-portretas",
+          "label": "istorinis portretas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "portretas",
+          "label": "portretas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "tapyba",
+          "label": "tapyba",
+          "facetKind": "tema",
+          "confidence": 0.95
+        }
+      ],
+      "sourceTags": [
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "18th-century portrait paintings of bearded men",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "18th-century portraits wearing armour",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Artworks with known accession number",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Artworks without Wikidata item",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Famous Poles by Bacciarelli",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Krzysztof Mikołaj Radziwiłł",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Pages using Template:Technique with deprecated term",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Portrait paintings of men holding ceremonial mace",
+          "language": "",
+          "canonicalCode": ""
+        }
+      ],
+      "relatedObjects": [
+        {
+          "notePath": "objektai/asmenys/Kristupas Radvila Perkūnas.md",
+          "title": "Kristupas Radvila Perkūnas",
+          "itemType": "asmuo",
+          "relationType": "painting_of",
+          "directness": "direct"
+        }
+      ],
+      "firstDiscoveredAt": "2026-08-08T15:54:11.209669+03:00",
+      "reviewedAt": "2026-08-08T18:56:06.297179+03:00",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "visualEvidence": "Ovaliniame paveiksle pavaizduotas barzdotas karys-didikas su šarvais, karūnuota buože ir istorinei Radvilų ikonografijai būdingais bruožais.",
+      "metadataEvidence": "Failo pavadinimas ir aprašas tiesiogiai įvardija Kryštapą Mikalojų Radvilą Perkūną; nurodytas Marcello Bacciarelli ir 1781 m.",
+      "confidenceLevel": "high",
+      "relationType": "painting_of",
+      "directness": "direct",
+      "reviewStatus": "accepted",
+      "confidence": 0.95,
+      "sourceMethod": "media_collector",
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Metaduomenys ir vaizdas sutampa su konkretaus target istoriniu portretu.",
+      "isPrimary": 1
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021803/C10000028237",
+      "caption": "Kristupo Radvilos privilegija, suteikusi Magdeburgo teises Biržų miestui, 1589 m.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Kristupo Radvilos raštinė (pagal katalogą)",
+      "dateDisplay": "1589 m. gegužės 1 d. (pagal katalogą)",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "contextual",
+      "displayUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10000028237/thumbnail-original/C10000028237.jpg",
+      "firstDiscoveredAt": "2026-07-30T23:39:52.418664+03:00",
+      "height": null,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Vaizdas dokumentuoja konkretų Magdeburgo teisių suteikimo aktą, todėl ryšys aiškus, nors ne su Vilniaus 1387 m. aktu.",
+      "language": "",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "",
+      "mediaId": "m-1b0efe87072ac37d51868fd4",
+      "metadataEvidence": "Pavadinime nurodyta: „Vilniaus vaivados Kristupo Radvilos privilegija, suteikianti Magdeburgo teises Biržų miestui“, 1589.V.1.",
+      "originalTitle": "LIETUVOS EVANGELIKŲ REFORMATŲ SINODAS. XI : Lietuvos ir Baltarusijos evangelikų reformatų vietovės. 7 : Biržai : [Vilniaus vaivados Kristupo Radvilos privilegija, suteikianti Magdeburgo teises Biržų miestui]. - 1589.V.1. - 4 lap., 1 dok.",
+      "provider": "europeana",
+      "providerLabel": "Martynas Mažvydas National Library of Lithuania",
+      "relatedObjects": [
+        {
+          "directness": "contextual",
+          "itemType": "zodyno_irasas",
+          "notePath": "objektai/zodynas/Magdeburgo teisės.md",
+          "relationType": "event_documentation_of",
+          "title": "Magdeburgo teisės"
+        }
+      ],
+      "relationType": "event_documentation_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-30T23:40:57.106475+03:00",
+      "rightsNote": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Eskuizkribu",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Handskrift",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Håndskrift",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Käsikiri",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Käsikirjoitus",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Kézirat",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Lámhscríbhinn",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manoscritto",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manuscript",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manuscris",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manuscrit",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manuscrito",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manuskript",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "rankraštis",
+          "field": "edm_concepts",
+          "label": "Rankraštis",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Rokopis",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Rokraksts",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Rukopis",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Rękopis",
+          "language": "def",
+          "provider": "europeana"
+        }
+      ],
+      "sourceUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10000028237/thumbnail-original/C10000028237.jpg",
+      "tags": [],
+      "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FC10000028237%2Fthumbnail-original%2FC10000028237.jpg&type=TEXT",
+      "title": "LIETUVOS EVANGELIKŲ REFORMATŲ SINODAS. XI : Lietuvos ir Baltarusijos evangelikų reformatų vietovės. 7 : Biržai : [Vilniaus vaivados Kristupo Radvilos privilegija, suteikianti Magdeburgo teises Biržų miestui]. - 1589.V.1. - 4 lap., 1 dok.",
+      "visualEvidence": "Matomas sulankstytas senas rankraštinis dokumentas su archyvinėmis žymomis.",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "width": null
+    },
+    {
+      "mediaId": "m-76992266da1c0243e4ae397b",
+      "title": "Mikalojaus Kristupo Radvilos Našlaitėlio pomirtinis portretas",
+      "caption": "Mikalojaus Kristupo Radvilos Našlaitėlio pomirtinis portretas",
+      "originalTitle": "Mikałaj Radzivił Sirotka. Мікалай Радзівіл Сіротка (XVIII).jpg",
+      "creator": "Nežinomas dailininkas",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "license": "Public domain",
+      "rightsNote": "Public domain",
+      "licenseUrl": "",
+      "attribution": "National Museum, Warsaw",
+      "dateDisplay": "XVIII a.",
+      "dateStart": null,
+      "dateEnd": null,
+      "width": 1588,
+      "height": 2000,
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AMika%C5%82aj_Radzivi%C5%82_Sirotka._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A1%D1%96%D1%80%D0%BE%D1%82%D0%BA%D0%B0_%28XVIII%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mika%C5%82aj_Radzivi%C5%82_Sirotka._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A1%D1%96%D1%80%D0%BE%D1%82%D0%BA%D0%B0_%28XVIII%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbUrl": "/static/gimines/radvilos/naslaitelis-xviii-a.jpg",
+      "displayUrl": "/static/gimines/radvilos/naslaitelis-xviii-a.jpg",
+      "institution": "",
+      "collection": "",
+      "country": "",
+      "language": "",
+      "tags": [
+        {
+          "code": "paveikslėlis",
+          "label": "paveikslėlis",
+          "facetKind": "vaizdo_tipas",
+          "confidence": 1
+        },
+        {
+          "code": "atvaizdas",
+          "label": "atvaizdas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "istorinis-portretas",
+          "label": "istorinis portretas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "portretas",
+          "label": "portretas",
+          "facetKind": "tema",
+          "confidence": 0.95
+        },
+        {
+          "code": "tapyba",
+          "label": "tapyba",
+          "facetKind": "tema",
+          "confidence": 0.95
+        }
+      ],
+      "sourceTags": [
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Artworks digital representation of 2D work",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Artworks with Wikidata item",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Artworks with known accession number",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Mikołaj Radziwiłł the Orphan",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Niasviž Castle gallery of portraits",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "canonicalCode": ""
+        },
+        {
+          "provider": "commons",
+          "field": "categories",
+          "label": "Portrait paintings of males in the National Museum in Warsaw",
+          "language": "",
+          "canonicalCode": ""
+        }
+      ],
+      "relatedObjects": [
+        {
+          "notePath": "objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md",
+          "title": "Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)",
+          "itemType": "asmuo",
+          "relationType": "painting_of",
+          "directness": "direct"
+        }
+      ],
+      "firstDiscoveredAt": "2026-08-08T15:35:35.008160+03:00",
+      "reviewedAt": "2026-08-08T18:27:27.597234+03:00",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "visualEvidence": "Matomas individualus vyro portretas ovaliame paveikslo formate.",
+      "metadataEvidence": "Aprašas identifikuoja vaizduojamą asmenį kaip Mikołaj VIII Krzysztof Radziwiłł, 1549–1616, vadinamą Našlaitėliu.",
+      "confidenceLevel": "high",
+      "relationType": "painting_of",
+      "directness": "direct",
+      "reviewStatus": "accepted",
+      "confidence": 0.95,
+      "sourceMethod": "media_collector",
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Tapatybę aiškiai patvirtina kandidato metaduomenys ir portreto pobūdis.",
+      "isPrimary": 1
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021803/C10002552867",
+      "caption": "Karaliaus Stepono Batoro raštas Mikalojui Kristupui Radvilai dėl Šiaulėnų valsčiaus gyventojo skundo",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Stepono Batoro raštinė (pagal katalogą)",
+      "dateDisplay": "Stepono Batoro valdymo laikotarpis; tiksli data tikslintina",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "displayUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10002552867/thumbnail-original/C10002552867.jpg",
+      "firstDiscoveredAt": "2026-07-18T23:40:42.963094+03:00",
+      "height": null,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Vaizdas ir pavadinimas tiesiogiai identifikuoja Stepono Batoro istorinį dokumentą.",
+      "language": "",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "",
+      "mediaId": "m-7354a097a348851565b37e5a",
+      "metadataEvidence": "Kandidato pavadinime tiesiogiai nurodyta, kad tai karaliaus Stepono Batoro raštas.",
+      "originalTitle": "[Karaliaus Stepono Batoro raštas Mikalojui Kristupui Radvilai dėl Šiaulėnų valsč. gyventojo Statkevičiaus skundo, užgrobus jo žemes]",
+      "provider": "europeana",
+      "providerLabel": "Martynas Mažvydas National Library of Lithuania",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Steponas Batoras.md",
+          "relationType": "manuscript_depiction_of",
+          "title": "Steponas Batoras"
+        }
+      ],
+      "relationType": "manuscript_depiction_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-19T01:00:30.373419+03:00",
+      "rightsNote": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Eskuizkribu",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Handskrift",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Håndskrift",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Käsikiri",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Käsikirjoitus",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Kézirat",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Lámhscríbhinn",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manoscritto",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manuscript",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manuscris",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manuscrit",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manuscrito",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Manuskript",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "rankraštis",
+          "field": "edm_concepts",
+          "label": "Rankraštis",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Rokopis",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Rokraksts",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Rukopis",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Rękopis",
+          "language": "def",
+          "provider": "europeana"
+        }
+      ],
+      "sourceUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10002552867/thumbnail-original/C10002552867.jpg",
+      "tags": [],
+      "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FC10002552867%2Fthumbnail-original%2FC10002552867.jpg&type=TEXT",
+      "title": "[Karaliaus Stepono Batoro raštas Mikalojui Kristupui Radvilai dėl Šiaulėnų valsč. gyventojo Statkevičiaus skundo, užgrobus jo žemes]",
+      "visualEvidence": "Matomas senas rankraštinis dokumentas su gausiu tekstu ir dideliu vaškiniu antspaudu.",
+      "visualReviewVersion": "media-visual-validator-v2",
+      "width": null
+    },
+    {
+      "attribution": "Alex Zelenko · CC BY-SA 4.0",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Belarus-Niasvizh-Panorama.jpg",
+      "caption": "Nesvyžius · dabartinis vietovės vaizdas",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Alex Zelenko",
+      "dateDisplay": "2005 m.",
+      "dateEnd": null,
+      "dateStart": null,
+      "displayUrl": "/static/media/museum/vieta-nesvyzius.webp",
+      "focalPoint": {
+        "x": 50,
+        "y": 50
+      },
+      "height": 718,
+      "institution": "",
+      "isPrimary": 1,
+      "judgeModel": "editorial-curation",
+      "judgeReason": "Parodos ir objektų enciklopedinis papildymas.",
+      "language": "",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "mediaId": "m-5f7a4e798f2ca135dc10a1fc",
+      "metadataEvidence": "https://commons.wikimedia.org/wiki/File:Belarus-Niasvizh-Panorama.jpg",
+      "originalTitle": "Nesvyžius · dabartinis vietovės vaizdas",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "vieta",
+          "notePath": "objektai/vietos/Nesvyžius.md",
+          "relationType": "depicts",
+          "title": "Nesvyžius"
+        }
+      ],
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-09-20T21:40:55+03:00",
+      "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+      "sourceMethod": "museum_curated_v1",
+      "sourceTags": [],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Belarus-Niasvizh-Panorama.jpg",
+      "tags": [],
+      "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Belarus-Niasvizh-Panorama.jpg/960px-Belarus-Niasvizh-Panorama.jpg",
+      "title": "Nesvyžius · dabartinis vietovės vaizdas",
+      "visualEvidence": "Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą.",
+      "visualReviewVersion": "media-import-visual-v1",
+      "width": 960
+    },
+    {
+      "mediaId": "m-82a18d575f90537c3403b695",
+      "title": "Leono Sapiegos pomirtinis portretas",
+      "caption": "Leono Sapiegos pomirtinis portretas",
+      "originalTitle": "Leŭ Sapieha. Леў Сапега (1709).jpg",
+      "creator": "Nežinomas dailininkas",
+      "dateDisplay": "1709 m.",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Le%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "displayUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
+      "thumbUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rightsNote": "Wawel Royal Castle",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-09-20T23:43:33.853727+03:00",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "sourceMethod": "family-editorial-review",
+      "visualReviewVersion": "family-editorial-20260920",
+      "visualEvidence": "Pusfigūris vyro portretas su plunksna, antspaudu, buože ir lotynišku Leono vardu; pomirtinis atvaizdas pagal 1709 m. Commons datavimą.",
+      "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
+      "relatedObjects": [
+        {
+          "notePath": "objektai/asmenys/Leonas Sapiega.md",
+          "relationType": "portrait_of",
+          "directness": "direct",
+          "title": "Leonas Sapiega (kunigaikštis, XVI a.)",
+          "itemType": "asmuo"
+        }
+      ],
+      "width": 648,
+      "height": 1000,
+      "tags": [],
+      "sourceTags": [],
+      "attribution": "Wawel Royal Castle"
+    },
+    {
+      "mediaId": "m-a4227fe400f93004ec9fa223",
+      "title": "Trečiojo Lietuvos Statuto titulinis lapas",
+      "caption": "Trečiojo Lietuvos Statuto titulinis lapas",
+      "originalTitle": "Statut-1588.jpg",
+      "creator": "Mamoničių spaustuvė",
+      "dateDisplay": "1588 m. Statutas; atvaizdo kortelėje – po 1588 m.",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AStatut-1588.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statut-1588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "displayUrl": "/static/gimines/sapiegos/statutas-1588.jpg",
+      "thumbUrl": "/static/gimines/sapiegos/statutas-1588.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rightsNote": "Vilnius University Library Цітоў А. Геральдыка Беларусі. — Менск: МФЦП, 2010. — 144 с.: іл. ISBN 978-985-454-500-4 . — С. 106.",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-09-20T23:43:33.855408+03:00",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "sourceMethod": "family-editorial-review",
+      "visualReviewVersion": "family-editorial-20260920",
+      "visualEvidence": "Titulinis Statuto puslapis kirilika, raudona antraštė ir Vytis; atitinka Commons kortelę.",
+      "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AStatut-1588.jpg",
+      "relatedObjects": [
+        {
+          "notePath": "objektai/saltiniai/Trečiasis Lietuvos Statutas (1588 m.).md",
+          "relationType": "depicts",
+          "directness": "direct",
+          "title": "Trečiasis Lietuvos Statutas (1588 m.)",
+          "itemType": "saltinis"
+        }
+      ],
+      "width": 777,
+      "height": 1265,
+      "tags": [],
+      "sourceTags": [],
+      "attribution": "Vilnius University Library Цітоў А. Геральдыка Беларусі. — Менск: МФЦП, 2010. — 144 с.: іл. ISBN 978-985-454-500-4 . — С. 106."
+    },
+    {
+      "mediaId": "m-ec65801b243614ad8c254d8a",
+      "title": "Sapiegų rūmai Antakalnyje",
+      "caption": "Sapiegų rūmai Antakalnyje",
+      "originalTitle": "Vilnia, Antokal, Sapieha. Вільня, Антокаль, Сапега (M. Januševič, 1830-40).jpg",
+      "creator": "Marcelijus Januševičius",
+      "dateDisplay": "1830–1840 m.",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
+      "displayUrl": "/static/gimines/sapiegos/antakalnio-rumai-1830-1840.jpg",
+      "thumbUrl": "/static/gimines/sapiegos/antakalnio-rumai-1830-1840.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rightsNote": "Public domain",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-09-20T23:43:33.855435+03:00",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "sourceMethod": "family-editorial-review",
+      "visualReviewVersion": "family-editorial-20260920",
+      "visualEvidence": "Priekinis rūmų fasadas su dviem kampiniais bokšteliais, frontonu ir autoriaus parašu; pagal kortelę Antakalnio Sapiegų rūmai.",
+      "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AVilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
+      "relatedObjects": [
+        {
+          "notePath": "objektai/vietos/Antakalnis.md",
+          "relationType": "depicts",
+          "directness": "contextual",
+          "title": "Antakalnis",
+          "itemType": "vieta"
+        }
+      ],
+      "width": 4000,
+      "height": 2913,
+      "tags": [],
+      "sourceTags": [],
+      "attribution": ""
+    },
+    {
+      "mediaId": "m-4f79533af5aa20d83601a3c8",
+      "title": "Sapiegų herbo raižinys",
+      "caption": "Sapiegų herbo raižinys",
+      "originalTitle": "Sapieha, Lis. Сапега, Ліс.jpg",
+      "creator": "Nežinomas dailininkas",
+      "dateDisplay": "XVIII a.",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ASapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "displayUrl": "/static/gimines/sapiegos/herbas-xviii-a.jpg",
+      "thumbUrl": "/static/gimines/sapiegos/herbas-xviii-a.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rightsNote": "Public domain",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-09-20T23:43:33.857432+03:00",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "sourceMethod": "family-editorial-review",
+      "visualReviewVersion": "family-editorial-20260920",
+      "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+      "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3ASapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg",
+      "relatedObjects": [
+        {
+          "notePath": "objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md",
+          "relationType": "associated_symbol_of",
+          "directness": "contextual",
+          "title": "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)",
+          "itemType": "asmuo"
+        }
+      ],
+      "width": 967,
+      "height": 1240,
+      "tags": [],
+      "sourceTags": [],
+      "attribution": ""
+    },
+    {
+      "mediaId": "m-6c312efae92df2bded20d4e4",
+      "title": "Aleksandro Mykolo Sapiegos portretas",
+      "caption": "Aleksandro Mykolo Sapiegos portretas",
+      "originalTitle": "Alaksandar Michał Sapieha. Аляксандар Міхал Сапега (J. Lampi, 1790).jpg",
+      "creator": "Johann Baptist von Lampi the Elder",
+      "dateDisplay": "Apie 1790 m.",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AAlaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Alaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "displayUrl": "/static/gimines/sapiegos/aleksandras-mykolas-apie-1790.jpg",
+      "thumbUrl": "/static/gimines/sapiegos/aleksandras-mykolas-apie-1790.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rightsNote": "Public domain",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-09-20T23:43:33.858600+03:00",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "sourceMethod": "family-editorial-review",
+      "visualReviewVersion": "family-editorial-20260920",
+      "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+      "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AAlaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg",
+      "relatedObjects": [
+        {
+          "notePath": "objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md",
+          "relationType": "portrait_of",
+          "directness": "direct",
+          "title": "Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)",
+          "itemType": "asmuo"
+        }
+      ],
+      "width": 798,
+      "height": 945,
+      "tags": [],
+      "sourceTags": [],
+      "attribution": ""
+    },
+    {
+      "mediaId": "m-2db28d7dd431920b8ca858fe",
+      "title": "Laiškas apie laisvą kanclerio vietą",
+      "caption": "Laiškas apie laisvą kanclerio vietą",
+      "originalTitle": "„O Niczym tu więcey nie mowią, jako o tym komu się dostanie pieczęć wakująca...“",
+      "creator": "Ševaljė, Janas, 1732-1780, aut.",
+      "dateDisplay": "1775 m. rugpjūčio 16 d.",
+      "provider": "epaveldas",
+      "providerLabel": "Vilniaus universiteto biblioteka",
+      "canonicalUrl": "https://www.epaveldas.lt/preview?id=VUB01-000903024",
+      "sourceUrl": "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903024/original/VUB01-000903024_00001.jpg",
+      "displayUrl": "/static/gimines/sapiegos/laiskas-1775-08-16.jpg",
+      "thumbUrl": "/static/gimines/sapiegos/laiskas-1775-08-16.jpg",
+      "license": "PD",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rightsNote": "PD",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-09-20T23:43:33.860399+03:00",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "sourceMethod": "family-editorial-review",
+      "visualReviewVersion": "family-editorial-20260920",
+      "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+      "metadataEvidence": "https://www.epaveldas.lt/preview?id=VUB01-000903024",
+      "relatedObjects": [
+        {
+          "notePath": "objektai/grupes/Lietuvos Didžioji Kunigaikštija.md",
+          "relationType": "event_documentation_of",
+          "directness": "contextual",
+          "title": "Lietuvos Didžioji Kunigaikštija",
+          "itemType": "grupe"
+        },
+        {
+          "notePath": "objektai/grupes/LDK didikai.md",
+          "relationType": "event_documentation_of",
+          "directness": "contextual",
+          "title": "LDK didikai",
+          "itemType": "grupe"
+        },
+        {
+          "notePath": "objektai/vietos/Lietuvos Didžioji Kunigaikštystė.md",
+          "relationType": "event_documentation_of",
+          "directness": "contextual",
+          "title": "Lietuvos Didžioji Kunigaikštystė",
+          "itemType": "vieta"
+        }
+      ],
+      "width": null,
+      "height": null,
+      "tags": [],
+      "sourceTags": [],
+      "attribution": ""
+    },
+    {
+      "mediaId": "m-55bacbf82369d854b039d484",
+      "title": "Laiškas apie gautas knygas ir instrumentus",
+      "caption": "Laiškas apie gautas knygas ir instrumentus",
+      "originalTitle": "„Pak z xięgami dla Grella i pudełko z szerszerami doszły mnie d. 17...“",
+      "creator": "Ševaljė, Janas, 1732-1780, aut.",
+      "dateDisplay": "1775 m. rugpjūčio 21 d.",
+      "provider": "epaveldas",
+      "providerLabel": "Vilniaus universiteto biblioteka",
+      "canonicalUrl": "https://www.epaveldas.lt/preview?id=VUB01-000903047",
+      "sourceUrl": "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903047/original/VUB01-000903047_00001.jpg",
+      "displayUrl": "/static/gimines/sapiegos/laiskas-1775-08-21.jpg",
+      "thumbUrl": "/static/gimines/sapiegos/laiskas-1775-08-21.jpg",
+      "license": "PD",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rightsNote": "PD",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-09-20T23:43:33.860796+03:00",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "sourceMethod": "family-editorial-review",
+      "visualReviewVersion": "family-editorial-20260920",
+      "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+      "metadataEvidence": "https://www.epaveldas.lt/preview?id=VUB01-000903047",
+      "relatedObjects": [
+        {
+          "notePath": "objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md",
+          "relationType": "manuscript_depiction_of",
+          "directness": "contextual",
+          "title": "Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)",
+          "itemType": "asmuo"
+        },
+        {
+          "notePath": "objektai/vietos/Lietuvos Didžioji Kunigaikštystė.md",
+          "relationType": "manuscript_depiction_of",
+          "directness": "contextual",
+          "title": "Lietuvos Didžioji Kunigaikštystė",
+          "itemType": "vieta"
+        }
+      ],
+      "width": null,
+      "height": null,
+      "tags": [],
+      "sourceTags": [],
+      "attribution": ""
+    },
+    {
+      "mediaId": "m-19a174c29661a7d41d96bc5d",
+      "title": "Pranešimas apie Švobiškio dvaro perdavimą",
+      "caption": "Pranešimas apie Švobiškio dvaro perdavimą",
+      "originalTitle": "[Upytės pav. teismų vaznio pranešimas apie Švobiškio dvaro perėmimą iš neteisėto Puzinų valdymo ir perdavimą Vilniaus vaivados, LDK lauko etmono Kazimiero Sapiegos žinion]",
+      "creator": "Teismo pareigūno dokumentas",
+      "dateDisplay": "1695 m. liepos 25 d.",
+      "provider": "epaveldas",
+      "providerLabel": "Lietuvos nacionalinė Martyno Mažvydo biblioteka",
+      "canonicalUrl": "https://www.epaveldas.lt/preview?id=C10002389685",
+      "sourceUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10002389685/original/0001-B3BBE7A9D8EB43C682C7320FF5DF7218.jpg",
+      "displayUrl": "/static/gimines/sapiegos/svobiskis-1695.jpg",
+      "thumbUrl": "/static/gimines/sapiegos/svobiskis-1695.jpg",
+      "license": "PD",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rightsNote": "PD",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-09-20T23:43:33.860835+03:00",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "sourceMethod": "family-editorial-review",
+      "visualReviewVersion": "family-editorial-20260920",
+      "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+      "metadataEvidence": "https://www.epaveldas.lt/preview?id=C10002389685",
+      "relatedObjects": [
+        {
+          "notePath": "objektai/grupes/LDK didikai.md",
+          "relationType": "event_documentation_of",
+          "directness": "contextual",
+          "title": "LDK didikai",
+          "itemType": "grupe"
+        }
+      ],
+      "width": null,
+      "height": null,
+      "tags": [],
+      "sourceTags": [],
+      "attribution": ""
+    }
+  ]
+}

@@ -79,6 +79,15 @@ test("classifies each object completeness tier deterministically", () => {
   )
 })
 
+test("sourced biographies are discoverable without manufacturing quotation records", () => {
+  const prose = "Tai biografijos pastraipa su patikrintomis gyvenimo datomis ir veiklos aprašymu."
+  const withSource = objectDetailEvidence(`## Santrauka\n${prose}\n\n## Šaltiniai\n- [Enciklopedija](https://www.vle.lt/straipsnis/sapiegos/)`)
+  assert.equal(objectDetailTier(withSource), "t1")
+  assert.equal(objectPageIndexable(withSource), true)
+  assert.equal(withSource.claims.length, 0)
+  assert.equal(objectPageIndexable(objectDetailEvidence(`## Santrauka\n${prose}`)), false)
+})
+
 test("keeps every Vytautas claim, canonical citation, and significant mention reachable", () => {
   const source = path.join(process.cwd(), "objektai/asmenys/Vytautas.md")
   if (!fs.existsSync(source)) return
@@ -124,4 +133,20 @@ test("authored relation links retain bracketed historical names and parenthesize
   assert.deepEqual(result.relations.map(row => row.target), [
     "objektai/grupes/Lietuviai", "objektai/asmenys/Zygfridas iš Da[he]nfeldo", "objektai/ivykiai/Strevos-musis-(1348-m.)",
   ])
+})
+
+test("authored biographies retain external provenance and family links without inventing claims", () => {
+  const result = objectDetailEvidence(`## Santrauka
+Sūnus.
+## Šaltiniai
+- [Muziejaus katalogas](https://example.org/biografija)
+- [Nesaugi nuoroda](javascript:alert(1))
+## Šeima
+- [[objektai/asmenys/Tėvas|Tėvas]]
+`)
+  assert.deepEqual(result.authoredSources, [{ title: "Muziejaus katalogas", url: "https://example.org/biografija" }])
+  assert.equal(result.familyLinks?.[0].target, "objektai/asmenys/Tėvas")
+  assert.equal(result.claims.length, 0)
+  assert.equal(result.citationRecords.length, 0)
+  assert.deepEqual(objectDetailEvidence("## Šeima\n- [[objektai/asmenys/Tėvas]]").familyLinks, [])
 })

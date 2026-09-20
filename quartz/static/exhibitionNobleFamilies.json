@@ -1,0 +1,3666 @@
+{
+  "exhibitions": [
+    {
+      "description": "Radvilos statė pilis, vadovavo kariuomenei ir leido knygas. Jų šeimoje buvo karalienė, kardinolas, keliautojas ir dramaturgė. Išlikę portretai bei raštai pasakoja apie žmones, kurių santuokos, tikėjimas ir politiniai sprendimai keitė Lietuvos istoriją.",
+      "editorialProfile": "family-overview",
+      "exhibitionId": "radvilos-gimine-valdos-ir-paveldas",
+      "familyMembers": [
+        {
+          "dates": "mirė 1519 m.",
+          "href": "/objektai/asmenys/Vaitiekus-II-Radvila",
+          "name": "Albertas (Vaitiekus) Radvila",
+          "sources": [
+            {
+              "title": "Rimvydas Petrauskas: Albertas Radvila",
+              "url": "https://www.lkma.lt/site/archive/studijos/IX/BIS-9_visas.pdf"
+            }
+          ]
+        },
+        {
+          "dates": "1558–1592",
+          "href": "/objektai/asmenys/Albrechtas-Radvila-(1558-1592)",
+          "name": "Albrechtas Radvila (1558–1592)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/radvilos/"
+            }
+          ]
+        },
+        {
+          "dates": "1593–1656",
+          "href": "/objektai/asmenys/Albrechtas-Stanislovas-Radvila",
+          "name": "Albrechtas Stanislovas Radvila",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/albrechtas-albertas-stanislovas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1594–1654",
+          "href": "/objektai/asmenys/Aleksandras-Liudvikas-Radvila-(1594-1654)",
+          "name": "Aleksandras Liudvikas Radvila (1594–1654)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/aleksandras-liudvikas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1775–1833",
+          "href": "/objektai/asmenys/Antanas-Henrikas-Radvila-(1775-1833)",
+          "name": "Antanas Henrikas Radvila (1775–1833)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/antanas-henrikas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Barbora-Kiskaite-(Jurgio-Radvilos-zmona)",
+          "name": "Barbora Kiškaitė (Jurgio Radvilos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jurgis-radvila/"
+            },
+            {
+              "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, p. 8–9",
+              "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1550 m.",
+          "href": "/objektai/asmenys/Barbora-Kolanka",
+          "name": "Barbora Kolanka",
+          "sources": [
+            {
+              "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, 2012, p. 8–9",
+              "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+            }
+          ]
+        },
+        {
+          "dates": "1520 arba 1522–1551",
+          "href": "/objektai/asmenys/Barbora-Radvilaite",
+          "name": "Barbora Radvilaitė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/barbora-radvilaite/"
+            }
+          ]
+        },
+        {
+          "dates": "1620–1669",
+          "href": "/objektai/asmenys/Boguslavas-Radvila",
+          "name": "Boguslavas Radvila",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/boguslavas-radvila/"
+            },
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/liudvika-karolina-radvilaite/"
+            }
+          ]
+        },
+        {
+          "dates": "1786–1813",
+          "href": "/objektai/asmenys/Dominykas-Jeronimas-Radvila-(1786-1813)",
+          "name": "Dominykas Jeronimas Radvila (1786–1813)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/dominykas-jeronimas-radvila/"
+            },
+            {
+              "title": "Virgilijus Pugačiauskas, „Dominykas Jeronimas ir Antanas Henrikas Radvilos: gyvenimiškos dilemos“, 2020, p. 595–611 (santrauka)",
+              "url": "https://www.lituanistika.lt/content/109785"
+            }
+          ]
+        },
+        {
+          "dates": "XVIII–XIX a.",
+          "href": "/objektai/asmenys/Elena-Psezdzeckaite",
+          "name": "Elena Pšezdzeckaitė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mykolas-jeronimas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "XV–XVI a.",
+          "href": "/objektai/asmenys/Elzbieta-Gostautaite-(Jono-Radvilos-zmona)",
+          "name": "Elžbieta Goštautaitė (Jono Radvilos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI–XVII a.",
+          "href": "/objektai/asmenys/Elzbieta-Radvilaite-(Leono-Sapiegos-zmona)",
+          "name": "Elžbieta Radvilaitė (Leono Sapiegos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1550–1591",
+          "href": "/objektai/asmenys/Elzbieta-Radvilaite-(Mikalojaus-Meleckio-zmona)",
+          "name": "Elžbieta Radvilaitė (Mikalojaus Meleckio žmona)",
+          "sources": [
+            {
+              "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, Istorija 87 (2012), p. 3–15",
+              "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Elzbieta-Sofija-Hohencolernaite",
+          "name": "Elžbieta Sofija Hohencolernaitė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonusas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Elzbieta-Sidloveckaite",
+          "name": "Elžbieta Šidloveckaitė",
+          "sources": [
+            {
+              "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, Istorija 87 (2012), p. 3–15",
+              "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+            }
+          ]
+        },
+        {
+          "dates": "1834–1926",
+          "href": "/objektai/asmenys/Ferdinandas-Frydrichas-Radvila-(1834-1926)",
+          "name": "Ferdinandas Frydrichas Radvila (1834–1926)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/ferdinandas-frydrichas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1715–1760",
+          "href": "/objektai/asmenys/Jeronimas-Florijonas-Radvila",
+          "name": "Jeronimas Florijonas Radvila",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jeronimas-florijonas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1759–1786",
+          "href": "/objektai/asmenys/Jeronimas-Vincentas-Radvila-(1759-1786)",
+          "name": "Jeronimas Vincentas Radvila (1759–1786)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/dominykas-jeronimas-radvila/"
+            },
+            {
+              "title": "Virgilijus Pugačiauskas, „Dominykas Jeronimas ir Antanas Henrikas Radvilos: gyvenimiškos dilemos“, 2020, p. 595–611 (santrauka)",
+              "url": "https://www.lituanistika.lt/content/109785"
+            }
+          ]
+        },
+        {
+          "dates": "1474–1522",
+          "href": "/objektai/asmenys/Jonas-Radvila-(1474-1522)",
+          "name": "Jonas Radvila (1474-1522)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1880–1967",
+          "href": "/objektai/asmenys/Jonusas-Pranciskus-Radvila-(1880-1967)",
+          "name": "Jonušas Pranciškus Radvila (1880–1967)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonusas-pranciskus-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1579–1620",
+          "href": "/objektai/asmenys/Jonusas-Radvila-(1579-1620)",
+          "name": "Jonušas Radvila (1579-1620)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonusas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1612–1655",
+          "href": "/objektai/asmenys/Jonusas-Radvila-(1612-1655)",
+          "name": "Jonušas Radvila (1612-1655)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonusas-radvila-1/"
+            }
+          ]
+        },
+        {
+          "dates": "1480–1541",
+          "href": "/objektai/asmenys/Jurgis-Radvila-(1480-1541)",
+          "name": "Jurgis Radvila (1480–1541)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jurgis-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1556–1600",
+          "href": "/objektai/asmenys/Jurgis-Radvila-(1556-1600)",
+          "name": "Jurgis Radvila (1556–1600)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jurgis-radvila-1/"
+            }
+          ]
+        },
+        {
+          "dates": "1707–1765",
+          "href": "/objektai/asmenys/Karolina-Terese-Radvilaite-(1707-1765)",
+          "name": "Karolina Teresė Radvilaitė (1707–1765)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1734–1790",
+          "href": "/objektai/asmenys/Karolis-Stanislovas-Radvila",
+          "name": "Karolis Stanislovas Radvila „Panie Kochanku“",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/karolis-stanislovas-radvila-1/"
+            }
+          ]
+        },
+        {
+          "dates": "1669–1719",
+          "href": "/objektai/asmenys/Karolis-Stanislovas-Radvila-(1669-1719)",
+          "name": "Karolis Stanislovas Radvila (1669–1719)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/karolis-stanislovas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Konstancija-Radvilaite-(Jono-Frydricho-Sapiegos-zmona)",
+          "name": "Konstancija Radvilaitė (Jono Frydricho Sapiegos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega-1/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1645 m.",
+          "href": "/objektai/asmenys/Kotryna-Potockyte-(Jonuso-Radvilos-zmona)",
+          "name": "Kotryna Potockytė (Jonušo Radvilos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonusas-radvila-1/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Kotryna-Sobieskyte",
+          "name": "Kotryna Sobieskytė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mykolas-kazimieras-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1560–1580",
+          "href": "/objektai/asmenys/Kristina-Radvilaite-(Jano-Zamoiskio-zmona)",
+          "name": "Kristina Radvilaitė (Jano Zamoiskio žmona)",
+          "sources": [
+            {
+              "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, Istorija 87 (2012), p. 3–15",
+              "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+            }
+          ]
+        },
+        {
+          "dates": "1585–1640",
+          "href": "/objektai/asmenys/Kristupas-II-Radvila",
+          "name": "Kristupas II Radvila",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kristupas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1547–1603",
+          "href": "/objektai/asmenys/Kristupas-Radvila-Perkunas",
+          "name": "Kristupas Radvila Perkūnas",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kristupas-radvila-perkunas/"
+            }
+          ]
+        },
+        {
+          "dates": "1808–1885",
+          "href": "/objektai/asmenys/Leonas-Jeronimas-Radvila-(1808-1885)",
+          "name": "Leonas Jeronimas Radvila (1808–1885)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/leonas-jeronimas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1667–1695",
+          "href": "/objektai/asmenys/Liudvika-Karolina-Radvilaite",
+          "name": "Liudvika Karolina Radvilaitė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/liudvika-karolina-radvilaite/"
+            }
+          ]
+        },
+        {
+          "dates": "1549–1616",
+          "href": "/objektai/asmenys/Mikalojus-Kristupas-Radvila-Naslaitelis-a8fd5e94",
+          "name": "Mikalojus Kristupas Radvila Našlaitėlis",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-kristupas-radvila-naslaitelis/"
+            }
+          ]
+        },
+        {
+          "dates": "1470–1521",
+          "href": "/objektai/asmenys/Mikalojus-Mikalojaitis-Radvila-Jaunasis",
+          "name": "Mikalojus Radvila (1470–1521)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1515–1565",
+          "href": "/objektai/asmenys/Mikalojus-Radvila-Juodasis",
+          "name": "Mikalojus Radvila Juodasis",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-radvila-juodasis/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.; mirė 1584 m.",
+          "href": "/objektai/asmenys/Mikalojus-Radvila-Rudasis",
+          "name": "Mikalojus Radvila Rudasis",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-radvila-rudasis/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1509 m.",
+          "href": "/objektai/asmenys/Mikalojus-Radvila-Senasis",
+          "name": "Mikalojus Radvila Senasis",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-radvila-senasis/"
+            }
+          ]
+        },
+        {
+          "dates": "1778–1850",
+          "href": "/objektai/asmenys/Mykolas-Gedeonas-Radvila-(1778-1850)",
+          "name": "Mykolas Gedeonas Radvila (1778-1850)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mykolas-gedeonas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1744–1831",
+          "href": "/objektai/asmenys/Mykolas-Jeronimas-Radvila-(1744-1831)",
+          "name": "Mykolas Jeronimas Radvila (1744-1831)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mykolas-jeronimas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1625 arba 1635–1680",
+          "href": "/objektai/asmenys/Mykolas-Kazimieras-Radvila-(mire-1680-m.)",
+          "name": "Mykolas Kazimieras Radvila (mirė 1680 m.)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mykolas-kazimieras-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1702–1762",
+          "href": "/objektai/asmenys/Mykolas-Kazimieras-Radvila-Zuvele-(Vilniaus-vaivada,-XVIII-a.)",
+          "name": "Mykolas Kazimieras Radvila Žuvelė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mykolas-kazimieras-radvila-zuvele/"
+            }
+          ]
+        },
+        {
+          "dates": "1749–1800",
+          "href": "/objektai/asmenys/Motiejus-Radvila-(1749-1800)",
+          "name": "Motiejus Radvila (1749–1800)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/motiejus-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Ona-Kiskaite-(Jono-Radvilos-zmona)",
+          "name": "Ona Kiškaitė (Jono Radvilos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Ona-Kotryna-Sanguskaite",
+          "name": "Ona Kotryna Sanguškaitė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/karolis-stanislovas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1640–1667",
+          "href": "/objektai/asmenys/Ona-Marija-Radvilaite-(Boguslavo-Radvilos-zmona)",
+          "name": "Ona Marija Radvilaitė (Boguslavo Radvilos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/boguslavas-radvila/"
+            },
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/liudvika-karolina-radvilaite/"
+            }
+          ]
+        },
+        {
+          "dates": "1553–1590",
+          "href": "/objektai/asmenys/Ona-Radvilaite-(Mikalojaus-Tvorovskio-zmona)",
+          "name": "Ona Radvilaitė (Mikalojaus Tvorovskio žmona)",
+          "sources": [
+            {
+              "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, Istorija 87 (2012), p. 3–15",
+              "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+            }
+          ]
+        },
+        {
+          "dates": "1705–1753",
+          "href": "/objektai/asmenys/Pranciska-Ursule-Radviliene-(1705-1753)",
+          "name": "Pranciška Uršulė Radvilienė (1705–1753)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/pranciska-ursule-radviliene/"
+            }
+          ]
+        },
+        {
+          "dates": "XVIII–XIX a.",
+          "href": "/objektai/asmenys/Sofija-Dorota-Fryderika-von-Thurn-und-Taxis",
+          "name": "Sofija Dorota Fryderika von Thurn und Taxis",
+          "sources": [
+            {
+              "title": "Virgilijus Pugačiauskas, „Dominykas Jeronimas ir Antanas Henrikas Radvilos: gyvenimiškos dilemos“, 2020, p. 595–611 (santrauka)",
+              "url": "https://www.lituanistika.lt/content/109785"
+            }
+          ]
+        },
+        {
+          "dates": "XV–XVI a.",
+          "href": "/objektai/asmenys/Sofija-Manvydaite-Radviliene",
+          "name": "Sofija Manvydaitė Radvilienė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-radvila-senasis/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1612 m.",
+          "href": "/objektai/asmenys/Sofija-Olelkaite-(Jonuso-Radvilos-zmona)",
+          "name": "Sofija Olelkaitė (Jonušo Radvilos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonusas-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1552–1608",
+          "href": "/objektai/asmenys/Sofija-Radvilaite-(Achacijaus-Cemos-zmona)",
+          "name": "Sofija Radvilaitė (Achacijaus Čėmos žmona)",
+          "sources": [
+            {
+              "title": "Raimonda Ragauskienė, „XVI a. didikų Radvilų lenkų kilmės žmonos“, Istorija 87 (2012), p. 3–15",
+              "url": "https://portalcris.vdu.lt/server/api/core/bitstreams/444301b0-9882-40ed-abb8-ca0af39c3d7d/content"
+            }
+          ]
+        },
+        {
+          "dates": "1559–1599",
+          "href": "/objektai/asmenys/Stanislovas-Radvila-Pamaldusis-(1559-1599)",
+          "name": "Stanislovas Radvila Pamaldusis (1559–1599)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/radvilos/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Tekle-Valaviciute-(Aleksandro-Liudviko-Radvilos-zmona)",
+          "name": "Teklė Valavičiūtė (Aleksandro Liudviko Radvilos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mykolas-kazimieras-radvila/"
+            }
+          ]
+        },
+        {
+          "dates": "1591–1642",
+          "href": "/objektai/asmenys/Zigmantas-Karolis-Radvila-(1591-1642)",
+          "name": "Zigmantas Karolis Radvila (1591–1642)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/radvilos/"
+            }
+          ]
+        }
+      ],
+      "familyMembersScope": "Čia surinkti 58 šaltiniais identifikuoti istoriniai asmenys: giminės nariai ir jų sutuoktiniai. Registras apima XV–XX a. biografijas, tačiau nėra visų palikuonių genealoginis medis. Kai tikslios datos nepatvirtintos, nurodytas tik amžius. Kiekvienas vardas veda į atskirą puslapį.",
+      "hero": {
+        "attribution": "Warsaw Royal Castle",
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AKry%C5%A1tap_Mika%C5%82aj_Radzivi%C5%82_Piarun._%D0%9A%D1%80%D1%8B%D1%88%D1%82%D0%B0%D0%BF_%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%9F%D1%8F%D1%80%D1%83%D0%BD_%28M._Bacciarelli%2C_1781%29.jpg",
+        "caption": "Kristupo Radvilos Perkūno pomirtinis portretas",
+        "collection": "",
+        "confidence": 0.95,
+        "confidenceLevel": "high",
+        "country": "",
+        "creator": "Marcello Bacciarelli",
+        "dateDisplay": "1781 m.",
+        "dateEnd": null,
+        "dateStart": null,
+        "directness": "direct",
+        "displayUrl": "/static/gimines/radvilos/perkunas-1781.jpg",
+        "firstDiscoveredAt": "2026-08-08T15:54:11.209669+03:00",
+        "height": 1917,
+        "institution": "",
+        "isPrimary": 1,
+        "judgeModel": "gpt-5.6-luna",
+        "judgeReason": "Metaduomenys ir vaizdas sutampa su konkretaus target istoriniu portretu.",
+        "language": "",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "mediaId": "m-b746b7fb18d60f6926955392",
+        "metadataEvidence": "Failo pavadinimas ir aprašas tiesiogiai įvardija Kryštapą Mikalojų Radvilą Perkūną; nurodytas Marcello Bacciarelli ir 1781 m.",
+        "originalTitle": "Kryštap Mikałaj Radzivił Piarun. Крыштап Мікалай Радзівіл Пярун (M. Bacciarelli, 1781).jpg",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "relatedObjects": [
+          {
+            "directness": "direct",
+            "itemType": "asmuo",
+            "notePath": "objektai/asmenys/Kristupas Radvila Perkūnas.md",
+            "relationType": "painting_of",
+            "title": "Kristupas Radvila Perkūnas"
+          }
+        ],
+        "relationType": "painting_of",
+        "reviewStatus": "accepted",
+        "reviewedAt": "2026-08-08T18:56:06.297179+03:00",
+        "rightsNote": "Public domain",
+        "sourceMethod": "media_collector",
+        "sourceTags": [
+          {
+            "canonicalCode": "",
+            "field": "categories",
+            "label": "18th-century portrait paintings of bearded men",
+            "language": "",
+            "provider": "commons"
+          },
+          {
+            "canonicalCode": "",
+            "field": "categories",
+            "label": "18th-century portraits wearing armour",
+            "language": "",
+            "provider": "commons"
+          },
+          {
+            "canonicalCode": "",
+            "field": "categories",
+            "label": "Artworks with known accession number",
+            "language": "",
+            "provider": "commons"
+          },
+          {
+            "canonicalCode": "",
+            "field": "categories",
+            "label": "Artworks without Wikidata item",
+            "language": "",
+            "provider": "commons"
+          },
+          {
+            "canonicalCode": "",
+            "field": "categories",
+            "label": "Author died more than 100 years ago public domain images",
+            "language": "",
+            "provider": "commons"
+          },
+          {
+            "canonicalCode": "",
+            "field": "categories",
+            "label": "CC-PD-Mark",
+            "language": "",
+            "provider": "commons"
+          },
+          {
+            "canonicalCode": "",
+            "field": "categories",
+            "label": "Famous Poles by Bacciarelli",
+            "language": "",
+            "provider": "commons"
+          },
+          {
+            "canonicalCode": "",
+            "field": "categories",
+            "label": "Krzysztof Mikołaj Radziwiłł",
+            "language": "",
+            "provider": "commons"
+          },
+          {
+            "canonicalCode": "",
+            "field": "categories",
+            "label": "PD-old missing SDC copyright status",
+            "language": "",
+            "provider": "commons"
+          },
+          {
+            "canonicalCode": "",
+            "field": "categories",
+            "label": "Pages using Template:Technique with deprecated term",
+            "language": "",
+            "provider": "commons"
+          },
+          {
+            "canonicalCode": "",
+            "field": "categories",
+            "label": "Portrait paintings of men holding ceremonial mace",
+            "language": "",
+            "provider": "commons"
+          }
+        ],
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kry%C5%A1tap_Mika%C5%82aj_Radzivi%C5%82_Piarun._%D0%9A%D1%80%D1%8B%D1%88%D1%82%D0%B0%D0%BF_%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%9F%D1%8F%D1%80%D1%83%D0%BD_%28M._Bacciarelli%2C_1781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "tags": [
+          {
+            "code": "paveikslėlis",
+            "confidence": 1,
+            "facetKind": "vaizdo_tipas",
+            "label": "paveikslėlis"
+          },
+          {
+            "code": "didikas",
+            "confidence": 0.95,
+            "facetKind": "tema",
+            "label": "didikas"
+          },
+          {
+            "code": "istorinis-portretas",
+            "confidence": 0.95,
+            "facetKind": "tema",
+            "label": "istorinis portretas"
+          },
+          {
+            "code": "portretas",
+            "confidence": 0.95,
+            "facetKind": "tema",
+            "label": "portretas"
+          },
+          {
+            "code": "tapyba",
+            "confidence": 0.95,
+            "facetKind": "tema",
+            "label": "tapyba"
+          }
+        ],
+        "thumbUrl": "/static/gimines/radvilos/perkunas-1781.jpg",
+        "title": "Kristupo Radvilos Perkūno pomirtinis portretas",
+        "visualEvidence": "Ovaliniame paveiksle pavaizduotas barzdotas karys-didikas su šarvais, karūnuota buože ir istorinei Radvilų ikonografijai būdingais bruožais.",
+        "visualReviewVersion": "media-visual-validator-v2",
+        "width": 1530
+      },
+      "heroMediaId": "m-b746b7fb18d60f6926955392",
+      "imageUrls": [
+        "https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mika%C5%82aj_Radzivi%C5%82_%C4%8Corny._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A7%D0%BE%D1%80%D0%BD%D1%8B_%281646-53%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://upload.wikimedia.org/wikipedia/commons/9/94/Mika%C5%82aj_Radzivi%C5%82_Rudy._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A0%D1%83%D0%B4%D1%8B_%281646-53%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://upload.wikimedia.org/wikipedia/commons/2/29/Kry%C5%A1tap_Mika%C5%82aj_Radzivi%C5%82_Piarun._%D0%9A%D1%80%D1%8B%D1%88%D1%82%D0%B0%D0%BF_%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%9F%D1%8F%D1%80%D1%83%D0%BD_%28M._Bacciarelli%2C_1781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://www.epaveldas.lt/static/lnb-bucket/C10000028237/thumbnail-original/C10000028237.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/Mika%C5%82aj_Radzivi%C5%82_Sirotka._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A1%D1%96%D1%80%D0%BE%D1%82%D0%BA%D0%B0_%28XVIII%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://www.epaveldas.lt/static/lnb-bucket/C10002552867/thumbnail-original/C10002552867.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c1/Belarus-Niasvizh-Panorama.jpg"
+      ],
+      "noindex": false,
+      "relatedContent": [
+        {
+          "href": "/straipsniai/radvilos-gimine-valdos-ir-paveldas",
+          "title": "Radvilos: nariai, šakos ir valdos · straipsnis"
+        }
+      ],
+      "relatedObject": {
+        "href": "/objektai/grupes/Radvilos",
+        "label": "Radvilų giminės puslapis"
+      },
+      "schemaVersion": "ltkb-exhibition/v1",
+      "sections": [
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Barboros Radvilaitės portreto heliografinė reprodukcija. Viename lape karalienės atvaizdas pateikiamas su dviem Žygimanto Augusto portretais. Reprodukcijos sukūrimo data nenustatyta. Skaitmeninio vaizdo šaltinis – Trakų istorijos muziejaus katalogo įrašas, pasiekiamas per Europeana.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Autorius nenustatytas",
+              "dateDisplay": "Reprodukcijos data nenustatyta",
+              "descriptionLt": "Barbora Radvilaitė karūnuota Krokuvoje 1550 m. gruodžio 7 d. Iki tol jos ir Žygimanto Augusto santuokai priešinosi karaliaus motina Bona Sforza ir dalis Lenkijos didikų. Jie baiminosi išaugusios Radvilų įtakos. Karūnos Barbora sulaukė jau sirgdama; 1551 m. gegužės 8 d. mirė. Jos palaikus valdovas atlydėjo į Vilnių.\n\nHeliografijos lape Barboros atvaizdas įkomponuotas tarp dviejų Žygimanto Augusto portretų. Karalienę čia atpažįstame iš užrašo ir puošnaus galvos apdangalo. Kelių atvaizdų junginys sukurtas vėliau, kai poros istorija jau buvo tapusi kolekcionuojamų istorinių portretų dalimi.",
+              "evidenceNoteLt": "Heliografijos data nenustatyta. Barboros gimimas datuojamas apytikriai, apie 1520–1522 m.",
+              "exhibitionItemId": "rad-barbora",
+              "externalSources": [
+                {
+                  "title": "VLE: Barbora Radvilaitė",
+                  "url": "https://www.vle.lt/straipsnis/barbora-radvilaite/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://www.europeana.eu/item/2021802/LIMIS_600571046",
+                "caption": "Barboros Radvilaitės portretas heliografijoje kartu su Žygimanto Augusto portretais.",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "country": "",
+                "creator": "Autorius nenustatytas",
+                "dateDisplay": "Reprodukcijos data nenustatyta",
+                "dateEnd": null,
+                "dateStart": null,
+                "directness": "direct",
+                "displayUrl": "https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg",
+                "firstDiscoveredAt": "2026-07-11T21:03:55.525537+03:00",
+                "height": null,
+                "institution": "",
+                "isPrimary": 1,
+                "judgeModel": "gpt-5.6-luna",
+                "judgeReason": "Vaizdas ir metaduomenys tiesiogiai patvirtina, kad centre vaizduojama Barbora Radvilaitė.",
+                "language": "",
+                "license": "http://creativecommons.org/licenses/by/4.0/",
+                "licenseUrl": "",
+                "mediaId": "m-69c86a9729a3c4f737482478",
+                "metadataEvidence": "Pavadinime tiesiogiai nurodyta „Barbora Radvilaitė ir Žygimantas Augustas“, o aprašyme aiškiai identifikuotas centrinis Barboros portretas.",
+                "originalTitle": "Heliografija. Barbora Radvilaitė ir Žygimantas Augustas",
+                "provider": "europeana",
+                "providerLabel": "Trakai History Museum",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Barbora Radvilaitė.md",
+                    "relationType": "portrait_of",
+                    "title": "Barbora Radvilaitė"
+                  }
+                ],
+                "relationType": "portrait_of",
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-07-31T05:59:54.691148+03:00",
+                "rightsNote": "http://creativecommons.org/licenses/by/4.0/",
+                "sourceMethod": "media_collector",
+                "sourceTags": [],
+                "sourceUrl": "https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg",
+                "tags": [
+                  {
+                    "code": "portretas",
+                    "confidence": 1,
+                    "facetKind": "vaizdo_tipas",
+                    "label": "portretas"
+                  },
+                  {
+                    "code": "asmuo",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "asmuo"
+                  },
+                  {
+                    "code": "atvaizdas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "atvaizdas"
+                  },
+                  {
+                    "code": "istorinis-portretas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "istorinis portretas"
+                  },
+                  {
+                    "code": "karalienė",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "karalienė"
+                  },
+                  {
+                    "code": "portretas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "portretas"
+                  }
+                ],
+                "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE",
+                "title": "Heliografija. Barbora Radvilaitė ir Žygimantas Augustas",
+                "visualEvidence": "Centre matomas moters reprezentacinis pusfigūris portretas, o šonuose – du vyro portretai; leidinio antraštė ir vaizdų išdėstymas atitinka Barboros bei Žygimanto Augusto porą.",
+                "visualReviewVersion": "media-visual-validator-v2",
+                "width": null
+              },
+              "mediaId": "m-69c86a9729a3c4f737482478",
+              "objectSlug": "objektai/asmenys/Barbora-Radvilaite",
+              "titleLt": "Barbora: karalienė penkiems mėnesiams"
+            },
+            {
+              "catalogDescriptionLt": "Mikalojaus Radvilos Juodojo pomirtinis portretas, datuojamas 1646–1653 m. Raižinyje pavaizduotas didikas su puošnia apranga ir šarvais. Autorius nenustatytas; skaitmeninė reprodukcija paskelbta Wikimedia Commons, prie jos nurodytas Ermitažo rinkinio inventoriaus numeris.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Nežinomas dailininkas",
+              "dateDisplay": "1646–1653 m.",
+              "descriptionLt": "Mikalojus Radvila Juodasis (1515–1565) buvo LDK kancleris, Vilniaus vaivada ir artimas Žygimanto Augusto patarėjas. Valdovui išvykus į Lenkiją, jam būdavo pavedami Lietuvos valdymo reikalai. 1547 m. Juodasis išsirūpino kunigaikščio titulą, o giminaitės Barboros santuoka dar labiau sustiprino jo padėtį dvare.\n\nJuodasis rėmė evangelikus reformatus ir 1563 m. Brastoje išleistą Bibliją lenkų kalba. Šeimoje tikėjimas pasikeitė jau kitoje kartoje: sūnus Našlaitėlis perėjo į katalikybę, jaunesnysis Jurgis tapo kardinolu. Tėvo remta Reformacija nesutrukdė jo vaikams įsitraukti į katalikišką Lietuvos gyvenimą.",
+              "evidenceNoteLt": "Pomirtinis raižinys, 1646–1653 m. Jo autorius nenustatytas.",
+              "exhibitionItemId": "rad-juodasis",
+              "externalSources": [
+                {
+                  "title": "VLE: Mikalojus Radvila Juodasis",
+                  "url": "https://www.vle.lt/straipsnis/mikalojus-radvila-juodasis/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "Федеральное государственное бюджетное учреждение культуры \"Государственный Эрмитаж\". ОР-45841.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AMika%C5%82aj_Radzivi%C5%82_%C4%8Corny._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A7%D0%BE%D1%80%D0%BD%D1%8B_%281646-53%29.jpg",
+                "caption": "Mikalojaus Radvilos Juodojo pomirtinis portretas",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "country": "",
+                "creator": "Nežinomas dailininkas",
+                "dateDisplay": "1646–1653 m.",
+                "dateEnd": null,
+                "dateStart": null,
+                "directness": "direct",
+                "displayUrl": "/static/gimines/radvilos/juodasis-1646-1653.jpg",
+                "firstDiscoveredAt": "2026-08-08T14:57:09.288918+03:00",
+                "height": 1794,
+                "institution": "",
+                "isPrimary": 0,
+                "judgeModel": "gpt-5.6-luna",
+                "judgeReason": "Tiesioginis targeto istorinis portretas.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "",
+                "mediaId": "m-62c0deb93607f0d97044fbc3",
+                "metadataEvidence": "Pavadinime ir apraše aiškiai įvardytas Mikałaj Radzivił Čorny kaip portreto asmuo.",
+                "originalTitle": "Mikałaj Radzivił Čorny. Мікалай Радзівіл Чорны (1646-53).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Mikalojus Radvila Juodasis.md",
+                    "relationType": "portrait_of",
+                    "title": "Mikalojus Radvila Juodasis"
+                  }
+                ],
+                "relationType": "portrait_of",
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-08-08T14:59:25.001381+03:00",
+                "rightsNote": "Public domain",
+                "sourceMethod": "media_collector",
+                "sourceTags": [
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Author died more than 100 years ago public domain images",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "CC-PD-Mark",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Mikołaj Radziwiłł the Black",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "PD-old missing SDC copyright status",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Template Unknown (author)",
+                    "language": "",
+                    "provider": "commons"
+                  }
+                ],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Mika%C5%82aj_Radzivi%C5%82_%C4%8Corny._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A7%D0%BE%D1%80%D0%BD%D1%8B_%281646-53%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [
+                  {
+                    "code": "portretas",
+                    "confidence": 1,
+                    "facetKind": "vaizdo_tipas",
+                    "label": "portretas"
+                  },
+                  {
+                    "code": "atvaizdas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "atvaizdas"
+                  },
+                  {
+                    "code": "didikas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "didikas"
+                  },
+                  {
+                    "code": "istorinis-portretas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "istorinis portretas"
+                  },
+                  {
+                    "code": "portretas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "portretas"
+                  }
+                ],
+                "thumbUrl": "/static/gimines/radvilos/juodasis-1646-1653.jpg",
+                "title": "Mikalojaus Radvilos Juodojo pomirtinis portretas",
+                "visualEvidence": "Matomas vienas barzdotas didikas, pavaizduotas biuste su puošniais valdžios ir kilmės atributais.",
+                "visualReviewVersion": "media-visual-validator-v2",
+                "width": 1306
+              },
+              "mediaId": "m-62c0deb93607f0d97044fbc3",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Jurgis-Radvila-(1556-1600)",
+                  "title": "Jurgis Radvila (1556–1600)"
+                },
+                {
+                  "href": "/objektai/asmenys/Elzbieta-Sidloveckaite",
+                  "title": "Elžbieta Šidloveckaitė"
+                }
+              ],
+              "objectSlug": "objektai/asmenys/Mikalojus-Radvila-Juodasis",
+              "titleLt": "Juodasis: valdovo patarėjas ir Biblijos leidėjas"
+            }
+          ],
+          "lead": "Barbora ir Mikalojus Rudasis buvo brolis ir sesuo, o Mikalojus Juodasis – jų pusbrolis. XVI a. viduryje ši trijulė atsidūrė arti Žygimanto Augusto. Barboros santuoka su valdovu sukėlė ginčus dėl karūnos ir Radvilų įtakos; jos giminaičiai tuo metu ėjo aukščiausias valstybės pareigas.",
+          "navMediaId": "m-69c86a9729a3c4f737482478",
+          "sectionId": "rad-gimine-ir-valdovas",
+          "slug": "gimine-ir-valdovas",
+          "title": "Giminė prie valdovo"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Mikalojaus Radvilos Rudojo pomirtinis portretas. Nežinomo dailininko raižinys datuojamas 1646–1653 m., jame didikas pavaizduotas su šarvais. Skaitmeninė reprodukcija pasiekiama Wikimedia Commons; originalo saugotojas ir inventoriaus numeris pateikiami kūrinio šaltinio kortelėje.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Nežinomas dailininkas",
+              "dateDisplay": "1646–1653 m.",
+              "descriptionLt": "Mikalojus Radvila Rudasis (1512–1584), Barboros brolis, vadovavo LDK kariuomenei. 1564 m. jo vardą išgarsino pergalė prieš Maskvos kariuomenę prie Ulos. Po penkerių metų Liublino seime spręsta, kokiomis sąlygomis Lietuva ir Lenkija sudarys bendrą valstybę. Rudasis unijos akto nepasirašė.\n\nBiržai buvo jo paveldėta valda. Iš šios šeimos linijos kilo Kristupas Perkūnas ir vėlesni Biržų–Dubingių kunigaikščiai. Rudasis rėmė evangelikus reformatus; tikėjimo bendruomenės globa liko svarbi ir jo palikuonims. Išlikusiame vėlesniame raižinyje jis pavaizduotas su šarvais – kaip karvedys, kurį turėjo prisiminti giminė.",
+              "evidenceNoteLt": "Raižinys sukurtas 1646–1653 m., po Rudojo mirties.",
+              "exhibitionItemId": "rad-rudasis",
+              "externalSources": [
+                {
+                  "title": "VLE: Mikalojus Radvila Rudasis",
+                  "url": "https://www.vle.lt/straipsnis/mikalojus-radvila-rudasis/"
+                },
+                {
+                  "title": "Biržų krašto muziejus: valdų istorija",
+                  "url": "https://www.birzumuziejus.lt/birzu-kunigaikstyste-xvi-xix-a/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "Федеральное государственное бюджетное учреждение культуры \"Государственный Эрмитаж\". ОР-45840.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AMika%C5%82aj_Radzivi%C5%82_Rudy._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A0%D1%83%D0%B4%D1%8B_%281646-53%29.jpg",
+                "caption": "Mikalojaus Radvilos Rudojo pomirtinis portretas",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "country": "",
+                "creator": "Nežinomas dailininkas",
+                "dateDisplay": "1646–1653 m.",
+                "dateEnd": null,
+                "dateStart": null,
+                "directness": "direct",
+                "displayUrl": "/static/gimines/radvilos/rudasis-1646-1653.jpg",
+                "firstDiscoveredAt": "2026-08-08T15:06:15.638964+03:00",
+                "height": 1814,
+                "institution": "",
+                "isPrimary": 0,
+                "judgeModel": "gpt-5.6-luna",
+                "judgeReason": "Tai tiesioginis istorinis M. Radvilos Rudojo portretas.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "",
+                "mediaId": "m-0f5dc6b972d4e433d92aa241",
+                "metadataEvidence": "Pavadinime ir apraše tiesiogiai nurodytas „Mikałaj Radzivił Rudy“; apačioje esantis įrašas mini hetmoną ir evangeliką.",
+                "originalTitle": "Mikałaj Radzivił Rudy. Мікалай Радзівіл Руды (1646-53).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Mikalojus Radvila Rudasis.md",
+                    "relationType": "portrait_of",
+                    "title": "Mikalojus Radvila Rudasis (kunigaikštis, XVI a.)"
+                  }
+                ],
+                "relationType": "portrait_of",
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-08-08T15:10:01.451085+03:00",
+                "rightsNote": "Public domain",
+                "sourceMethod": "media_collector",
+                "sourceTags": [
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Author died more than 100 years ago public domain images",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "CC-PD-Mark",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Mikołaj \"the Red\" Radziwiłł",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "PD-old missing SDC copyright status",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Template Unknown (author)",
+                    "language": "",
+                    "provider": "commons"
+                  }
+                ],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mika%C5%82aj_Radzivi%C5%82_Rudy._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A0%D1%83%D0%B4%D1%8B_%281646-53%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [
+                  {
+                    "code": "portretas",
+                    "confidence": 1,
+                    "facetKind": "vaizdo_tipas",
+                    "label": "portretas"
+                  },
+                  {
+                    "code": "atvaizdas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "atvaizdas"
+                  },
+                  {
+                    "code": "didikas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "didikas"
+                  },
+                  {
+                    "code": "ginklas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "ginklas"
+                  },
+                  {
+                    "code": "graviūra",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "graviūra"
+                  },
+                  {
+                    "code": "iliustracija",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "iliustracija"
+                  },
+                  {
+                    "code": "istorinis-portretas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "istorinis portretas"
+                  },
+                  {
+                    "code": "portretas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "portretas"
+                  }
+                ],
+                "thumbUrl": "/static/gimines/radvilos/rudasis-1646-1653.jpg",
+                "title": "Mikalojaus Radvilos Rudojo pomirtinis portretas",
+                "visualEvidence": "Matomas barzdoto didiko portretas su šarvais, ginklais ir aiškia Radvilos ikonografija.",
+                "visualReviewVersion": "media-visual-validator-v2",
+                "width": 1311
+              },
+              "mediaId": "m-0f5dc6b972d4e433d92aa241",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Jurgis-Radvila-(1480-1541)",
+                  "title": "Jurgis Radvila (1480–1541)"
+                },
+                {
+                  "href": "/objektai/asmenys/Barbora-Radvilaite",
+                  "title": "Barbora Radvilaitė"
+                }
+              ],
+              "objectSlug": "objektai/asmenys/Mikalojus-Radvila-Rudasis",
+              "titleLt": "Rudasis: Ulos mūšis ir Liublino seimas"
+            },
+            {
+              "catalogDescriptionLt": "Kristupo Radvilos Perkūno pomirtinis portretas, kurį 1781 m. nutapė Marcello Bacciarelli. Kunigaikštis pavaizduotas su šarvais ir buože. Kūrinys siejamas su Varšuvos karalių pilies rinkiniu, skaitmeninė jo reprodukcija paskelbta Wikimedia Commons.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Marcello Bacciarelli",
+              "dateDisplay": "1781 m.",
+              "descriptionLt": "Kristupas Radvila Perkūnas (1547–1603), Rudojo sūnus, Biržų tvirtovę statė 1586–1589 m. Ji saugojo šiaurinį valdų pakraštį ir buvo kunigaikščio rezidencija. Pilies gyvenimui reikėjo karių, atsargų, amatininkų bei aplinkinių valdų pajamų. Perkūno pradėta tvirtovė vėliau buvo plečiama ir perstatoma.\n\nMarcello Bacciarelli portrete kunigaikštis laiko buožę, dėvi šarvus. Dailininkas jį nutapė 1781 m., praėjus 178 metams po Perkūno mirties. Paveikslas priklauso vėlesnei karvedžio atminimo istorijai. XVII a. pilį paveldėję Radvilos turėjo rūpintis visai praktiškais reikalais: tvirtovės gynyba ir jos išlaikymu.",
+              "evidenceNoteLt": "Bacciarelli pomirtinis portretas, 1781 m. Dabartinė Biržų pilis atkurta po vėlesnių sugriovimų.",
+              "exhibitionItemId": "rad-perkunas",
+              "externalSources": [
+                {
+                  "title": "VLE: Kristupas Radvila Perkūnas",
+                  "url": "https://www.vle.lt/straipsnis/kristupas-radvila-perkunas/"
+                },
+                {
+                  "title": "Biržų krašto muziejus: kunigaikštystės istorija",
+                  "url": "https://www.birzumuziejus.lt/birzu-kunigaikstyste-xvi-xix-a/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "Warsaw Royal Castle",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AKry%C5%A1tap_Mika%C5%82aj_Radzivi%C5%82_Piarun._%D0%9A%D1%80%D1%8B%D1%88%D1%82%D0%B0%D0%BF_%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%9F%D1%8F%D1%80%D1%83%D0%BD_%28M._Bacciarelli%2C_1781%29.jpg",
+                "caption": "Kristupo Radvilos Perkūno pomirtinis portretas",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "country": "",
+                "creator": "Marcello Bacciarelli",
+                "dateDisplay": "1781 m.",
+                "dateEnd": null,
+                "dateStart": null,
+                "directness": "direct",
+                "displayUrl": "/static/gimines/radvilos/perkunas-1781.jpg",
+                "firstDiscoveredAt": "2026-08-08T15:54:11.209669+03:00",
+                "height": 1917,
+                "institution": "",
+                "isPrimary": 1,
+                "judgeModel": "gpt-5.6-luna",
+                "judgeReason": "Metaduomenys ir vaizdas sutampa su konkretaus target istoriniu portretu.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "",
+                "mediaId": "m-b746b7fb18d60f6926955392",
+                "metadataEvidence": "Failo pavadinimas ir aprašas tiesiogiai įvardija Kryštapą Mikalojų Radvilą Perkūną; nurodytas Marcello Bacciarelli ir 1781 m.",
+                "originalTitle": "Kryštap Mikałaj Radzivił Piarun. Крыштап Мікалай Радзівіл Пярун (M. Bacciarelli, 1781).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Kristupas Radvila Perkūnas.md",
+                    "relationType": "painting_of",
+                    "title": "Kristupas Radvila Perkūnas"
+                  }
+                ],
+                "relationType": "painting_of",
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-08-08T18:56:06.297179+03:00",
+                "rightsNote": "Public domain",
+                "sourceMethod": "media_collector",
+                "sourceTags": [
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "18th-century portrait paintings of bearded men",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "18th-century portraits wearing armour",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Artworks with known accession number",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Artworks without Wikidata item",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Author died more than 100 years ago public domain images",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "CC-PD-Mark",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Famous Poles by Bacciarelli",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Krzysztof Mikołaj Radziwiłł",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "PD-old missing SDC copyright status",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Pages using Template:Technique with deprecated term",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Portrait paintings of men holding ceremonial mace",
+                    "language": "",
+                    "provider": "commons"
+                  }
+                ],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kry%C5%A1tap_Mika%C5%82aj_Radzivi%C5%82_Piarun._%D0%9A%D1%80%D1%8B%D1%88%D1%82%D0%B0%D0%BF_%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%9F%D1%8F%D1%80%D1%83%D0%BD_%28M._Bacciarelli%2C_1781%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [
+                  {
+                    "code": "paveikslėlis",
+                    "confidence": 1,
+                    "facetKind": "vaizdo_tipas",
+                    "label": "paveikslėlis"
+                  },
+                  {
+                    "code": "didikas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "didikas"
+                  },
+                  {
+                    "code": "istorinis-portretas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "istorinis portretas"
+                  },
+                  {
+                    "code": "portretas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "portretas"
+                  },
+                  {
+                    "code": "tapyba",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "tapyba"
+                  }
+                ],
+                "thumbUrl": "/static/gimines/radvilos/perkunas-1781.jpg",
+                "title": "Kristupo Radvilos Perkūno pomirtinis portretas",
+                "visualEvidence": "Ovaliniame paveiksle pavaizduotas barzdotas karys-didikas su šarvais, karūnuota buože ir istorinei Radvilų ikonografijai būdingais bruožais.",
+                "visualReviewVersion": "media-visual-validator-v2",
+                "width": 1530
+              },
+              "mediaId": "m-b746b7fb18d60f6926955392",
+              "objectLinks": [
+                {
+                  "href": "/objektai/vietos/Birzai",
+                  "title": "Biržai"
+                },
+                {
+                  "href": "/objektai/asmenys/Elzbieta-Radvilaite-(Leono-Sapiegos-zmona)",
+                  "title": "Elžbieta Radvilaitė (Leono Sapiegos žmona)"
+                }
+              ],
+              "objectSlug": "objektai/asmenys/Kristupas-Radvila-Perkunas",
+              "titleLt": "Perkūnas stato Biržų tvirtovę"
+            },
+            {
+              "catalogDescriptionLt": "Kristupo Radvilos raštas Biržų miestui, bibliotekos kataloge datuojamas 1589 m. gegužės 1 d. Matoma sulankstyto dokumento dalis su archyviniais užrašais. Kataloge nurodytas keturių lapų dokumentas; viso jo teksto transkripcija nepateikiama.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Kristupo Radvilos raštinė (pagal katalogą)",
+              "dateDisplay": "1589 m. gegužės 1 d. (pagal katalogą)",
+              "descriptionLt": "1589 m. kovo 9 d. Zigmantas Vaza Biržams suteikė Magdeburgo teises. Čia rodomas kitas tų metų raštas: bibliotekos kataloge jis datuojamas gegužės 1 d. ir siejamas su Kristupu Radvila. Valdovo privilegija ir kunigaikščio dokumentas atsirado tuo metu, kai buvo baigiama statyti Biržų tvirtovė.\n\nSkaitmenintame lape matyti sulenkimų žymės ir archyviniai užrašai. Visas dokumentas susideda iš keturių lapų. Parodoje matoma jo dalis leidžia apžiūrėti patį išsaugotą raštą, tačiau miesto gyventojams nustatytų teisių bei prievolių tekstas čia nepateikiamas.",
+              "evidenceNoteLt": "Gegužės 1 d. data ir dokumento apimtis – pagal bibliotekos katalogą; visas tekstas netranskribuotas.",
+              "exhibitionItemId": "rad-privilegija",
+              "externalSources": [
+                {
+                  "title": "Europeana: bibliotekos dokumento kortelė",
+                  "url": "https://www.europeana.eu/item/2021803/C10000028237"
+                },
+                {
+                  "title": "Biržų krašto muziejus: Perkūnas ir miesto privilegija",
+                  "url": "https://www.birzumuziejus.lt/radvilu-portretai/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://www.europeana.eu/item/2021803/C10000028237",
+                "caption": "Kristupo Radvilos privilegija, suteikusi Magdeburgo teises Biržų miestui, 1589 m.",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "country": "",
+                "creator": "Kristupo Radvilos raštinė (pagal katalogą)",
+                "dateDisplay": "1589 m. gegužės 1 d. (pagal katalogą)",
+                "dateEnd": null,
+                "dateStart": null,
+                "directness": "contextual",
+                "displayUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10000028237/thumbnail-original/C10000028237.jpg",
+                "firstDiscoveredAt": "2026-07-30T23:39:52.418664+03:00",
+                "height": null,
+                "institution": "",
+                "isPrimary": 0,
+                "judgeModel": "gpt-5.5",
+                "judgeReason": "Vaizdas dokumentuoja konkretų Magdeburgo teisių suteikimo aktą, todėl ryšys aiškus, nors ne su Vilniaus 1387 m. aktu.",
+                "language": "",
+                "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+                "licenseUrl": "",
+                "mediaId": "m-1b0efe87072ac37d51868fd4",
+                "metadataEvidence": "Pavadinime nurodyta: „Vilniaus vaivados Kristupo Radvilos privilegija, suteikianti Magdeburgo teises Biržų miestui“, 1589.V.1.",
+                "originalTitle": "LIETUVOS EVANGELIKŲ REFORMATŲ SINODAS. XI : Lietuvos ir Baltarusijos evangelikų reformatų vietovės. 7 : Biržai : [Vilniaus vaivados Kristupo Radvilos privilegija, suteikianti Magdeburgo teises Biržų miestui]. - 1589.V.1. - 4 lap., 1 dok.",
+                "provider": "europeana",
+                "providerLabel": "Martynas Mažvydas National Library of Lithuania",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "zodyno_irasas",
+                    "notePath": "objektai/zodynas/Magdeburgo teisės.md",
+                    "relationType": "event_documentation_of",
+                    "title": "Magdeburgo teisės"
+                  }
+                ],
+                "relationType": "event_documentation_of",
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-07-30T23:40:57.106475+03:00",
+                "rightsNote": "http://creativecommons.org/publicdomain/mark/1.0/",
+                "sourceMethod": "media_collector",
+                "sourceTags": [
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Eskuizkribu",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Handskrift",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Håndskrift",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Käsikiri",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Käsikirjoitus",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Kézirat",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Lámhscríbhinn",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manoscritto",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manuscript",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manuscris",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manuscrit",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manuscrito",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manuskript",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "rankraštis",
+                    "field": "edm_concepts",
+                    "label": "Rankraštis",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Rokopis",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Rokraksts",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Rukopis",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Rękopis",
+                    "language": "def",
+                    "provider": "europeana"
+                  }
+                ],
+                "sourceUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10000028237/thumbnail-original/C10000028237.jpg",
+                "tags": [],
+                "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FC10000028237%2Fthumbnail-original%2FC10000028237.jpg&type=TEXT",
+                "title": "LIETUVOS EVANGELIKŲ REFORMATŲ SINODAS. XI : Lietuvos ir Baltarusijos evangelikų reformatų vietovės. 7 : Biržai : [Vilniaus vaivados Kristupo Radvilos privilegija, suteikianti Magdeburgo teises Biržų miestui]. - 1589.V.1. - 4 lap., 1 dok.",
+                "visualEvidence": "Matomas sulankstytas senas rankraštinis dokumentas su archyvinėmis žymomis.",
+                "visualReviewVersion": "media-visual-validator-v2",
+                "width": null
+              },
+              "mediaId": "m-1b0efe87072ac37d51868fd4",
+              "objectSlug": "objektai/asmenys/Kristupas-Radvila-Perkunas",
+              "titleLt": "Du 1589 metų Biržų dokumentai"
+            }
+          ],
+          "lead": "Mikalojaus Rudojo sūnus Kristupas Perkūnas Biržuose pastatė tvirtovę. Jo įpėdiniai ją plėtė, gynė ir atstatinėjo. Šalia augo miestas, o kunigaikštystės žemėse gyveno bajorai, miestiečiai, valstiečiai ir už karinę tarnybą žemės gavę totoriai. Biržai turėjo aprūpinti pilį, pilis – saugoti valdą.",
+          "navMediaId": "m-0f5dc6b972d4e433d92aa241",
+          "sectionId": "rad-birzai-ir-dubingiai",
+          "slug": "birzai-ir-dubingiai",
+          "title": "Biržai: tvirtovė, miestas ir valdos"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Mikalojaus Kristupo Radvilos Našlaitėlio pomirtinis portretas, datuojamas XVIII a. Autorius nenustatytas. Skaitmeninė reprodukcija paskelbta Wikimedia Commons, kūrinio saugotoju nurodytas Varšuvos nacionalinis muziejus. Portreto sukūrimo laikas atskirtas nuo vaizduojamo žmogaus gyvenimo datų.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Nežinomas dailininkas",
+              "dateDisplay": "XVIII a.",
+              "descriptionLt": "Mikalojus Kristupas Radvila Našlaitėlis (1549–1616) išsirengė į ilgą kelionę: 1582–1584 m. aplankė Šventąją Žemę, Siriją ir Egiptą. Grįžęs aprašė patirtus įspūdžius. Jo „Kelionė į Jeruzalę“ išleista 1601 m.\n\nKunigaikštis domėjosi ir savo šalies geografija. Jis organizavo kartografavimo darbus, kurių rezultatas – 1613 m. išleistas LDK žemėlapis. Kelionės, knygos ir kartografija lydėjo jo rūpinimąsi rezidencijomis: iš tėvo paveldėtus Vilniaus rūmus jis sutvarkė, išplėtė jų teritoriją ir sukaupė biblioteką. Nesvyžius liko jo šeimos šakos centru, kuriame vėlesnės kartos statė, kaupė archyvą ir puoselėjo meną.",
+              "evidenceNoteLt": "XVIII a. pomirtinis portretas. Žemėlapį rengė keli žmonės; Našlaitėlis buvo darbų organizatorius ir rėmėjas.",
+              "exhibitionItemId": "rad-naslaitelis",
+              "externalSources": [
+                {
+                  "title": "VLE: Našlaitėlio biografija",
+                  "url": "https://www.vle.lt/straipsnis/mikalojus-kristupas-radvila-naslaitelis/"
+                },
+                {
+                  "title": "LNDM: Radvilų rūmai ir Našlaitėlis",
+                  "url": "https://www.lndm.lt/pilies-gatve/pilies-g-23/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "National Museum, Warsaw",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AMika%C5%82aj_Radzivi%C5%82_Sirotka._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A1%D1%96%D1%80%D0%BE%D1%82%D0%BA%D0%B0_%28XVIII%29.jpg",
+                "caption": "Mikalojaus Kristupo Radvilos Našlaitėlio pomirtinis portretas",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "country": "",
+                "creator": "Nežinomas dailininkas",
+                "dateDisplay": "XVIII a.",
+                "dateEnd": null,
+                "dateStart": null,
+                "directness": "direct",
+                "displayUrl": "/static/gimines/radvilos/naslaitelis-xviii-a.jpg",
+                "firstDiscoveredAt": "2026-08-08T15:35:35.008160+03:00",
+                "height": 2000,
+                "institution": "",
+                "isPrimary": 1,
+                "judgeModel": "gpt-5.6-luna",
+                "judgeReason": "Tapatybę aiškiai patvirtina kandidato metaduomenys ir portreto pobūdis.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "",
+                "mediaId": "m-76992266da1c0243e4ae397b",
+                "metadataEvidence": "Aprašas identifikuoja vaizduojamą asmenį kaip Mikołaj VIII Krzysztof Radziwiłł, 1549–1616, vadinamą Našlaitėliu.",
+                "originalTitle": "Mikałaj Radzivił Sirotka. Мікалай Радзівіл Сіротка (XVIII).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md",
+                    "relationType": "painting_of",
+                    "title": "Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)"
+                  }
+                ],
+                "relationType": "painting_of",
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-08-08T18:27:27.597234+03:00",
+                "rightsNote": "Public domain",
+                "sourceMethod": "media_collector",
+                "sourceTags": [
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Artworks digital representation of 2D work",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Artworks with Wikidata item",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Artworks with known accession number",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Author died more than 100 years ago public domain images",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "CC-PD-Mark",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Mikołaj Radziwiłł the Orphan",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Niasviž Castle gallery of portraits",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "PD-old missing SDC copyright status",
+                    "language": "",
+                    "provider": "commons"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "categories",
+                    "label": "Portrait paintings of males in the National Museum in Warsaw",
+                    "language": "",
+                    "provider": "commons"
+                  }
+                ],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mika%C5%82aj_Radzivi%C5%82_Sirotka._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A1%D1%96%D1%80%D0%BE%D1%82%D0%BA%D0%B0_%28XVIII%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [
+                  {
+                    "code": "paveikslėlis",
+                    "confidence": 1,
+                    "facetKind": "vaizdo_tipas",
+                    "label": "paveikslėlis"
+                  },
+                  {
+                    "code": "atvaizdas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "atvaizdas"
+                  },
+                  {
+                    "code": "istorinis-portretas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "istorinis portretas"
+                  },
+                  {
+                    "code": "portretas",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "portretas"
+                  },
+                  {
+                    "code": "tapyba",
+                    "confidence": 0.95,
+                    "facetKind": "tema",
+                    "label": "tapyba"
+                  }
+                ],
+                "thumbUrl": "/static/gimines/radvilos/naslaitelis-xviii-a.jpg",
+                "title": "Mikalojaus Kristupo Radvilos Našlaitėlio pomirtinis portretas",
+                "visualEvidence": "Matomas individualus vyro portretas ovaliame paveikslo formate.",
+                "visualReviewVersion": "media-visual-validator-v2",
+                "width": 1588
+              },
+              "mediaId": "m-76992266da1c0243e4ae397b",
+              "objectSlug": "objektai/asmenys/Mikalojus-Kristupas-Radvila-Naslaitelis",
+              "titleLt": "Našlaitėlis: į Jeruzalę ir atgal"
+            },
+            {
+              "catalogDescriptionLt": "Stepono Batoro raštas Mikalojui Kristupui Radvilai dėl Šiaulėnų valsčiaus gyventojo Statkevičiaus skundo. Dokumento tapatybė nustatyta pagal bibliotekos katalogą. Skaitmeninė kopija pasiekiama per Europeana ir ePaveldą; tiksli rašto data dar nenustatyta.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Stepono Batoro raštinė (pagal katalogą)",
+              "dateDisplay": "Stepono Batoro valdymo laikotarpis; tiksli data tikslintina",
+              "descriptionLt": "Šiaulėnų valsčiaus gyventojas Statkevičius skundėsi dėl užgrobtos žemės. Apie jo skundą žinome iš bibliotekos kataloge aprašyto Stepono Batoro rašto Mikalojui Kristupui Radvilai. Greta didikų vardų dokumente išliko ir žmogaus, ginusio savo žemę, pavardė.\n\nRaštas adresuotas kunigaikščiui, bet jo paskirtis – spręsti konkretaus gyventojo reikalą. Dvarų archyvuose saugotos privilegijos ir nuosavybės dokumentai turėjo tokią pat praktinę paskirtį: jų reikėdavo kilus ginčui. Šio skundo baigties katalogo aprašas neatskleidžia. Nežinome ir ginčyto sklypo dydžio – tam reikėtų viso dokumento bei bylos tyrimo.",
+              "evidenceNoteLt": "Turinys perteiktas pagal katalogą. Tiksli rašto data ir ginčo baigtis nenustatytos.",
+              "exhibitionItemId": "rad-zemes-skundo-rastas",
+              "externalSources": [
+                {
+                  "title": "Europeana: rašto dėl Statkevičiaus skundo kortelė",
+                  "url": "https://www.europeana.eu/item/2021803/C10002552867"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://www.europeana.eu/item/2021803/C10002552867",
+                "caption": "Karaliaus Stepono Batoro raštas Mikalojui Kristupui Radvilai dėl Šiaulėnų valsčiaus gyventojo skundo",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "country": "",
+                "creator": "Stepono Batoro raštinė (pagal katalogą)",
+                "dateDisplay": "Stepono Batoro valdymo laikotarpis; tiksli data tikslintina",
+                "dateEnd": null,
+                "dateStart": null,
+                "directness": "direct",
+                "displayUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10002552867/thumbnail-original/C10002552867.jpg",
+                "firstDiscoveredAt": "2026-07-18T23:40:42.963094+03:00",
+                "height": null,
+                "institution": "",
+                "isPrimary": 0,
+                "judgeModel": "gpt-5.6-luna",
+                "judgeReason": "Vaizdas ir pavadinimas tiesiogiai identifikuoja Stepono Batoro istorinį dokumentą.",
+                "language": "",
+                "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+                "licenseUrl": "",
+                "mediaId": "m-7354a097a348851565b37e5a",
+                "metadataEvidence": "Kandidato pavadinime tiesiogiai nurodyta, kad tai karaliaus Stepono Batoro raštas.",
+                "originalTitle": "[Karaliaus Stepono Batoro raštas Mikalojui Kristupui Radvilai dėl Šiaulėnų valsč. gyventojo Statkevičiaus skundo, užgrobus jo žemes]",
+                "provider": "europeana",
+                "providerLabel": "Martynas Mažvydas National Library of Lithuania",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Steponas Batoras.md",
+                    "relationType": "manuscript_depiction_of",
+                    "title": "Steponas Batoras"
+                  }
+                ],
+                "relationType": "manuscript_depiction_of",
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-07-19T01:00:30.373419+03:00",
+                "rightsNote": "http://creativecommons.org/publicdomain/mark/1.0/",
+                "sourceMethod": "media_collector",
+                "sourceTags": [
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Eskuizkribu",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Handskrift",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Håndskrift",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Käsikiri",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Käsikirjoitus",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Kézirat",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Lámhscríbhinn",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manoscritto",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manuscript",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manuscris",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manuscrit",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manuscrito",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Manuskript",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "rankraštis",
+                    "field": "edm_concepts",
+                    "label": "Rankraštis",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Rokopis",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Rokraksts",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Rukopis",
+                    "language": "def",
+                    "provider": "europeana"
+                  },
+                  {
+                    "canonicalCode": "",
+                    "field": "edm_concepts",
+                    "label": "Rękopis",
+                    "language": "def",
+                    "provider": "europeana"
+                  }
+                ],
+                "sourceUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10002552867/thumbnail-original/C10002552867.jpg",
+                "tags": [],
+                "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FC10002552867%2Fthumbnail-original%2FC10002552867.jpg&type=TEXT",
+                "title": "[Karaliaus Stepono Batoro raštas Mikalojui Kristupui Radvilai dėl Šiaulėnų valsč. gyventojo Statkevičiaus skundo, užgrobus jo žemes]",
+                "visualEvidence": "Matomas senas rankraštinis dokumentas su gausiu tekstu ir dideliu vaškiniu antspaudu.",
+                "visualReviewVersion": "media-visual-validator-v2",
+                "width": null
+              },
+              "mediaId": "m-7354a097a348851565b37e5a",
+              "titleLt": "Statkevičius skundžiasi dėl žemės"
+            }
+          ],
+          "lead": "Juodojo sūnus Našlaitėlis pasirinko katalikybę ir išsirengė į Šventąją Žemę. Jo vardas liko kelionės knygoje ir LDK žemėlapio istorijoje. Šalia portreto – visai kitokio pobūdžio raštas: Šiaulėnų gyventojo skundas dėl žemės. Jame užrašyta ir skundą teikusio gyventojo pavardė – Statkevičius.",
+          "navMediaId": "m-76992266da1c0243e4ae397b",
+          "sectionId": "rad-nesvyzius-ir-pazinimas",
+          "slug": "nesvyzius-ir-pazinimas",
+          "title": "Našlaitėlio kelionės ir žemės reikalai"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Alexo Zelenko 2005 m. Nesvyžiaus miesto panorama. Už vandens telkinio matyti bažnyčia ir kiti miesto pastatai. Fotografija paskelbta Wikimedia Commons pagal CC BY-SA 4.0 licenciją, nurodant autorių ir originalios rinkmenos adresą.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Alex Zelenko",
+              "dateDisplay": "2005 m.",
+              "descriptionLt": "Nesvyžiuje Radvilos gyveno iki 1939 m. Per šimtmečius plėtėsi rūmai, atsirado galerijos, archyvas, arsenalas. Netoliese stovinti Dievo Kūno bažnyčia tapo šeimos laidojimo vieta. Pastatus supo parkai ir vandens telkiniai.\n\nXVIII a. rūmuose veikė teatras. Pranciška Uršulė Radvilienė rašė pjeses ir statė spektaklius, o 1748 m. įrengta speciali salė. Vėliau vaidino ir profesionalūs aktoriai, buvo mokomi baleto šokėjai. Alexo Zelenko nuotraukoje matyti jau kitos epochos Nesvyžius: miesto pastatai su bažnyčia už vandens. Rūmų ansamblis ir miesto panorama primena, kokioje aplinkoje kelios Radvilų kartos praleido savo gyvenimą.",
+              "evidenceNoteLt": "2005 m. miesto panorama. Fotografija rodo miestą, ne rūmų kiemą ar teatro salę.",
+              "exhibitionItemId": "rad-nesvyzius",
+              "externalSources": [
+                {
+                  "title": "UNESCO: Nesvyžiaus Radvilų kompleksas",
+                  "url": "https://whc.unesco.org/en/list/1196/"
+                },
+                {
+                  "title": "VLE: didikų teatrai",
+                  "url": "https://www.vle.lt/straipsnis/didiku-teatrai-lietuvos-teritorijoje/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "Alex Zelenko · CC BY-SA 4.0",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Belarus-Niasvizh-Panorama.jpg",
+                "caption": "Nesvyžius · dabartinis vietovės vaizdas",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "country": "",
+                "creator": "Alex Zelenko",
+                "dateDisplay": "2005 m.",
+                "dateEnd": null,
+                "dateStart": null,
+                "displayUrl": "/static/media/museum/vieta-nesvyzius.webp",
+                "focalPoint": {
+                  "x": 50,
+                  "y": 50
+                },
+                "height": 718,
+                "institution": "",
+                "isPrimary": 1,
+                "judgeModel": "editorial-curation",
+                "judgeReason": "Parodos ir objektų enciklopedinis papildymas.",
+                "language": "",
+                "license": "CC BY-SA 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+                "mediaId": "m-5f7a4e798f2ca135dc10a1fc",
+                "metadataEvidence": "https://commons.wikimedia.org/wiki/File:Belarus-Niasvizh-Panorama.jpg",
+                "originalTitle": "Nesvyžius · dabartinis vietovės vaizdas",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "vieta",
+                    "notePath": "objektai/vietos/Nesvyžius.md",
+                    "relationType": "depicts",
+                    "title": "Nesvyžius"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T21:40:55+03:00",
+                "rightsNote": "Licencija ir autorystė pagal Wikimedia Commons rinkmenos įrašą.",
+                "sourceMethod": "museum_curated_v1",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Belarus-Niasvizh-Panorama.jpg",
+                "tags": [],
+                "thumbUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Belarus-Niasvizh-Panorama.jpg/960px-Belarus-Niasvizh-Panorama.jpg",
+                "title": "Nesvyžius · dabartinis vietovės vaizdas",
+                "visualEvidence": "Kompozicija apžiūrėta; vardas ir kūrinio laikotarpis tikrinti pagal šaltinio įrašą.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 960
+              },
+              "mediaId": "m-5f7a4e798f2ca135dc10a1fc",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Pranciska-Ursule-Radviliene-(1705-1753)",
+                  "title": "Pranciška Uršulė Radvilienė (1705–1753)"
+                },
+                {
+                  "href": "/objektai/vietos/Nesvyzius",
+                  "title": "Nesvyžius"
+                }
+              ],
+              "titleLt": "Miestas, kuriame vaidintos kunigaikštienės pjesės"
+            }
+          ],
+          "lead": "Nesvyžių keitė kiekviena karta. XVIII a. rūmuose įrengta teatro salė, Pranciška Uršulė Radvilienė rašė pjeses ir statė spektaklius. Vėliau čia dirbo profesionalūs aktoriai, muzikantai, baleto šokėjai. Rūmų, bažnyčios ir parkų ansamblis liko vienu ryškiausių giminės pėdsakų dabartinėje Baltarusijoje.",
+          "navMediaId": "m-5f7a4e798f2ca135dc10a1fc",
+          "sectionId": "rad-paveldas",
+          "slug": "paveldas",
+          "title": "Nesvyžius po Našlaitėlio"
+        }
+      ],
+      "seo_title": "Radvilos: giminė, portretai, valdos ir paveldas",
+      "slug": "parodos/radvilos-gimine-valdos-ir-paveldas",
+      "status": "published",
+      "subtitle": "Barboros karūna, Biržų tvirtovė ir Nesvyžiaus rūmai",
+      "theme": "historical",
+      "title": "Radvilos: giminė, valdos ir paveldas",
+      "updatedAt": "2026-09-21T00:50:10.947860+03:00"
+    },
+    {
+      "description": "Sapiegų vardas liko teisyno antraštėse, rūmų sienose ir privačiuose laiškuose. Aštuoni portretai bei dokumentai pasakoja apie valstybės tarnybą, ginčijamas valdas ir šeimos kasdienybę.",
+      "editorialProfile": "family-overview",
+      "exhibitionId": "sapiegos-statutai-rumai-ir-laiskai",
+      "familyMembers": [
+        {
+          "dates": "1828–1903",
+          "href": "/objektai/asmenys/Adomas-Sapiega-(1828-1903)",
+          "name": "Adomas Sapiega (1828–1903)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/adomas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1867–1951",
+          "href": "/objektai/asmenys/Adomas-Steponas-Sapiega-(1867-1951)",
+          "name": "Adomas Steponas Sapiega (1867–1951)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/adomas-steponas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1619 m.",
+          "href": "/objektai/asmenys/Aleksandras-Kazimieras-Sapiega-(mire-1619-m.)",
+          "name": "Aleksandras Kazimieras Sapiega (mirė 1619 m.)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "1730–1793",
+          "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
+          "name": "Aleksandras Mykolas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/aleksandras-mykolas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1672–1734",
+          "href": "/objektai/asmenys/Aleksandras-Povilas-Sapiega-(1672-1734)",
+          "name": "Aleksandras Povilas Sapiega (1672–1734)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1624–1671",
+          "href": "/objektai/asmenys/Aleksandras-Sapiega-(1624-1671)",
+          "name": "Aleksandras Sapiega (1624–1671)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/aleksandras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1773–1812",
+          "href": "/objektai/asmenys/Aleksandras-Sapiega-(1773-1812)",
+          "name": "Aleksandras Sapiega (1773–1812)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/sapiegos/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI–XVII a.",
+          "href": "/objektai/asmenys/Alse-Sapiegaite-(Mikalojaus-dukte)",
+          "name": "Alšė Sapiegaitė (Mikalojaus duktė)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI–XVII a.",
+          "href": "/objektai/asmenys/Andriejus-Sapiega-(Leono-brolis)",
+          "name": "Andriejus Sapiega (Leono brolis)",
+          "sources": [
+            {
+              "title": "Vilniaus arkivyskupija: Sapiegų kriptoje palaidoti žmonės",
+              "url": "https://vilnensis.lt/isskirtines-ekskursijos-sapiegu-kriptoje-ir-triju-parodu-uzdarymas-baznytinio-paveldo-muziejuje/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI–XVII a.",
+          "href": "/objektai/asmenys/Andriejus-Sapiega-(Leono-sunus)",
+          "name": "Andriejus Sapiega (Leono sūnus)",
+          "sources": [
+            {
+              "title": "Vilniaus arkivyskupija: Sapiegų kriptoje palaidoti žmonės",
+              "url": "https://vilnensis.lt/isskirtines-ekskursijos-sapiegu-kriptoje-ir-triju-parodu-uzdarymas-baznytinio-paveldo-muziejuje/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1621 m.",
+          "href": "/objektai/asmenys/Andrius-Sapiega-(mire-1621-m.)",
+          "name": "Andrius Sapiega (mirė 1621 m.)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/andrius-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1689–1739",
+          "href": "/objektai/asmenys/Antanas-Kazimieras-Sapiega",
+          "name": "Antanas Kazimieras Sapiega",
+          "sources": [
+            {
+              "title": "Lietuvos istorijos institutas: Antano Kazimiero Sapiegos korespondencija",
+              "url": "https://www.istorija.lt/data/public/uploads/2022/02/2020-xviii-a.-studijos-t.-6-1-jolita-sarceviciene-ieskau-jusu-mylistos-p.-18-43.pdf"
+            }
+          ]
+        },
+        {
+          "dates": "XV–XVI a.",
+          "href": "/objektai/asmenys/Bagdonas-Sapiega-(Simono-sunus)",
+          "name": "Bagdonas Sapiega (Simono sūnus)",
+          "sources": [
+            {
+              "title": "Biografijos ir giminystės šaltinis",
+              "url": "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2018~1575026033687/J.04~2018~1575026033687.pdf"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1643–1707",
+          "href": "/objektai/asmenys/B.-P.-Sapiega",
+          "name": "Benediktas Povilas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/benediktas-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Bogdana-Druckyte-Sokolinskaite",
+          "name": "Bogdana Druckytė-Sokolinskaitė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1591 m.",
+          "href": "/objektai/asmenys/Doroteja-Firlejute",
+          "name": "Dorotėja Firlėjūtė",
+          "sources": [
+            {
+              "title": "Bažnytinio paveldo muziejus: Leono Sapiegos ir jo žmonų antkapis",
+              "url": "https://gidas.bpmuziejus.lt/products/tours/church-of-st-michael-the-archangel-and-treasury/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Elena-Alseniskaite-(Povilo-Sapiegos-zmona)",
+          "name": "Elena Alšėniškaitė (Povilo Sapiegos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI–XVII a.",
+          "href": "/objektai/asmenys/Elzbieta-Radvilaite-(Leono-Sapiegos-zmona)",
+          "name": "Elžbieta Radvilaitė (Leono Sapiegos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1881–1963",
+          "href": "/objektai/asmenys/Eustachijus-Kajetonas-Sapiega-(1881-1963)",
+          "name": "Eustachijus Kajetonas Sapiega (1881–1963)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/eustachy-kajetan-sapieha/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1626 m.",
+          "href": "/objektai/asmenys/Frydrichas-Sapiega-(mire-1626-m.)",
+          "name": "Frydrichas Sapiega (mirė 1626 m.)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI–XVII a.",
+          "href": "/objektai/asmenys/Gabriele-Sapiegaite-(Mikalojaus-dukte)",
+          "name": "Gabrielė Sapiegaitė (Mikalojaus duktė)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Grizelda-Vodinskyte",
+          "name": "Grizelda Vodinskytė",
+          "sources": [
+            {
+              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+            }
+          ]
+        },
+        {
+          "dates": "1618–1664",
+          "href": "/objektai/asmenys/Jonas-Frydrichas-Sapiega-(1618-1664)",
+          "name": "Jonas Frydrichas Sapiega (1618–1664)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1680–1751",
+          "href": "/objektai/asmenys/Jonas-Frydrichas-Sapiega-(1680-1751)",
+          "name": "Jonas Frydrichas Sapiega (1680–1751)",
+          "sources": [
+            {
+              "title": "LNB proveniencijų duomenų bazė",
+              "url": "https://proveniencijos.lnb.lt/sapiega-jonas-frydrichas/"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1450–1517",
+          "href": "/objektai/asmenys/Jonas-Ivanas-Sapiega-(apie-1450-1517)",
+          "name": "Jonas Ivanas Sapiega (apie 1450–1517)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-ivanas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1730 m.",
+          "href": "/objektai/asmenys/Jonas-Kazimieras-Sapiega-(mire-1730-m.)",
+          "name": "Jonas Kazimieras Sapiega (mirė 1730 m.)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1569–1611",
+          "href": "/objektai/asmenys/Jonas-Petras-Sapiega-(1569-1611)",
+          "name": "Jonas Petras Sapiega (1569–1611)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Jonas-Sapiega-(Leono-tevas,-Orsos-paseniunis)",
+          "name": "Jonas Sapiega (Leono tėvas, Oršos paseniūnis)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1602 m.",
+          "href": "/objektai/asmenys/Jonas-Sapiega-(mire-1602-m.)",
+          "name": "Jonas Sapiega (mirė 1602 m.)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "1589–1635",
+          "href": "/objektai/asmenys/Jonas-Stanislovas-Sapiega-(1589-1635)",
+          "name": "Jonas Stanislovas Sapiega (1589–1635)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-stanislovas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1737–1792",
+          "href": "/objektai/asmenys/Juozapas-Sapiega-(1737-1792)",
+          "name": "Juozapas Sapiega (1737–1792)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/juozapas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1708–1754",
+          "href": "/objektai/asmenys/Juozapas-Sapiega-(Vilniaus-koadjutorius,-XVIII-a.)",
+          "name": "Juozapas Sapiega, Vilniaus koadjutorius",
+          "sources": [
+            {
+              "title": "Dalia Tarandaitė: Sapiegų portretai",
+              "url": "https://www.bernardinai.lt/2012-03-19-dalia-tarandaite-genealogia-sapieharum-arba-ka-pasakoja-portretai/"
+            }
+          ]
+        },
+        {
+          "dates": "1707–1765",
+          "href": "/objektai/asmenys/Karolina-Terese-Radvilaite-(1707-1765)",
+          "name": "Karolina Teresė Radvilaitė (1707–1765)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Karolis-Sapiega-(Jono-Stanislovo-sunus)",
+          "name": "Karolis Sapiega (Jono Stanislovo sūnus)",
+          "sources": [
+            {
+              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1642–1720",
+          "href": "/objektai/asmenys/Kazimieras-Jonas-Sapiega",
+          "name": "Kazimieras Jonas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-povilas-jonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1697–1738",
+          "href": "/objektai/asmenys/Kazimieras-Leonas-Sapiega",
+          "name": "Kazimieras Leonas Karolis Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1609–1656",
+          "href": "/objektai/asmenys/Kazimieras-Leonas-Sapiega-(1609-1656)",
+          "name": "Kazimieras Leonas Sapiega (1609–1656)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1757–1798",
+          "href": "/objektai/asmenys/Kazimieras-Nestoras-Sapiega",
+          "name": "Kazimieras Nestoras Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-nestoras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Kazimieras-Vladislovas-Sapiega",
+          "name": "Kazimieras Vladislovas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega-1/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Konstancija-Radvilaite-(Jono-Frydricho-Sapiegos-zmona)",
+          "name": "Konstancija Radvilaitė (Jono Frydricho Sapiegos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega-1/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Kristina-Hlebaviciute",
+          "name": "Kristina Hlebavičiūtė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1607–1631",
+          "href": "/objektai/asmenys/Kristupas-Mikalojus-Sapiega-(1607-1631)",
+          "name": "Kristupas Mikalojus Sapiega (1607–1631)",
+          "sources": [
+            {
+              "title": "VU bibliotekos projektas „Virtus“",
+              "url": "https://virtus.biblioteka.vu.lt/"
+            }
+          ]
+        },
+        {
+          "dates": "1590–1637",
+          "href": "/objektai/asmenys/Kristupas-Sapiega-(1590-1637)",
+          "name": "Kristupas Sapiega (1590–1637)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Kristupas-Sapiega-(Jono-Stanislovo-sunus)",
+          "name": "Kristupas Sapiega (Jono Stanislovo sūnus)",
+          "sources": [
+            {
+              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+            }
+          ]
+        },
+        {
+          "dates": "1557–1633",
+          "href": "/objektai/asmenys/Leonas-Sapiega",
+          "name": "Leonas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1803–1878",
+          "href": "/objektai/asmenys/Leonas-Sapiega-(1803-1878)",
+          "name": "Leonas Sapiega (1803–1878)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/leonas-sapiega-1/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Liudvika-Opalinskaite",
+          "name": "Liudvika Opalinskaitė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Marija-Kristina-de-Bethune",
+          "name": "Marija Kristina de Béthune",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1545–1599",
+          "href": "/objektai/asmenys/Mikalojus-Sapiega-(apie-1545-1599)",
+          "name": "Mikalojus Sapiega (apie 1545–1599)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1581–1644",
+          "href": "/objektai/asmenys/Mikalojus-Sapiega-(apie-1581-1644)",
+          "name": "Mikalojus Sapiega (apie 1581–1644)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1711–1760",
+          "href": "/objektai/asmenys/Mykolas-Antanas-Sapiega-(LDK-pakancleris,-1711-1760)",
+          "name": "Mykolas Antanas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mykolas-antanas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Mykolas-Juozapas-Sapiega",
+          "name": "Mykolas Juozapas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/sapiegos/"
+            }
+          ]
+        },
+        {
+          "dates": "1735–1766",
+          "href": "/objektai/asmenys/Mykolas-Ksaveras-Sapiega-(Anyksciu-ir-Punios-seniunas,-1735-1766)",
+          "name": "Mykolas Ksaveras Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1670–1700",
+          "href": "/objektai/asmenys/M.-P.-Sapiega",
+          "name": "Mykolas Pranciškus Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mykolas-pranciskus-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Ona-Chodkeviciute-(Jono-Petro-Sapiegos-motina)",
+          "name": "Ona Chodkevičiūtė (Jono Petro Sapiegos motina)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1728–1800",
+          "href": "/objektai/asmenys/Ona-Sapiegaite-Jablonowska",
+          "name": "Ona Paulina Sapiegaitė-Jablonowska",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1625 m.",
+          "href": "/objektai/asmenys/Ona-Scholastika-Chodkeviciute",
+          "name": "Ona Scholastika Chodkevičiūtė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-stanislovas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Ona-Visnioveckaite-(Mikalojaus-Sapiegos-zmona)",
+          "name": "Ona Višnioveckaitė (Mikalojaus Sapiegos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "1701–1771",
+          "href": "/objektai/asmenys/Petras-Povilas-Sapiega-(1701-1771)",
+          "name": "Petras Povilas Sapiega (1701–1771)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/petras-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1609–1665",
+          "href": "/objektai/asmenys/Povilas-Sapiega",
+          "name": "Povilas Jonas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/povilas-jonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1657–1715",
+          "href": "/objektai/asmenys/Povilas-Pranciskus-Sapiega-(1657-1715)",
+          "name": "Povilas Pranciškus Sapiega (1657–1715)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/povilas-pranciskus-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1490–1579",
+          "href": "/objektai/asmenys/Povilas-Sapiega-(apie-1490-1579)",
+          "name": "Povilas Sapiega (apie 1490–1579)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1580 m.",
+          "href": "/objektai/asmenys/Povilas-Sapiega-(Jono-Petro-tevas)",
+          "name": "Povilas Sapiega (Jono Petro tėvas)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1565–1635",
+          "href": "/objektai/asmenys/Povilas-Steponas-Sapiega-(1565-1635)",
+          "name": "Povilas Steponas Sapiega (1565–1635)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/povilas-steponas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Pranciskus-Steponas-Sapiega",
+          "name": "Pranciškus Steponas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XV a.",
+          "href": "/objektai/asmenys/Simonas-Sapiega-(XV-a.-rastininkas)",
+          "name": "Simonas Sapiega (XV a. raštininkas)",
+          "sources": [
+            {
+              "title": "Biografijos ir giminystės šaltinis",
+              "url": "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2018~1575026033687/J.04~2018~1575026033687.pdf"
+            }
+          ]
+        },
+        {
+          "dates": "XVIII a.",
+          "href": "/objektai/asmenys/Sofija-Skavronskaite",
+          "name": "Sofija Skavronskaitė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/petras-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Teodora-Kristina-Tarnovskyte",
+          "name": "Teodora Kristina Tarnovskytė",
+          "sources": [
+            {
+              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+            }
+          ]
+        }
+      ],
+      "familyMembersScope": "Čia surinkti 68 šaltiniais identifikuoti istoriniai asmenys: giminės nariai ir jų sutuoktiniai. Registras apima XV–XX a. biografijas, tačiau nėra visų palikuonių genealoginis medis. Kai tikslios datos nepatvirtintos, nurodytas tik amžius. Kiekvienas vardas veda į atskirą puslapį.",
+      "hero": {
+        "attribution": "Wawel Royal Castle",
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
+        "caption": "Leono Sapiegos pomirtinis portretas",
+        "confidence": 0.95,
+        "confidenceLevel": "high",
+        "creator": "Nežinomas dailininkas",
+        "dateDisplay": "1709 m.",
+        "displayUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
+        "height": 1000,
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "mediaId": "m-82a18d575f90537c3403b695",
+        "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
+        "originalTitle": "Leŭ Sapieha. Леў Сапега (1709).jpg",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "relatedObjects": [
+          {
+            "directness": "direct",
+            "itemType": "asmuo",
+            "notePath": "objektai/asmenys/Leonas Sapiega.md",
+            "relationType": "portrait_of",
+            "title": "Leonas Sapiega (kunigaikštis, XVI a.)"
+          }
+        ],
+        "reviewStatus": "accepted",
+        "reviewedAt": "2026-09-20T23:43:33.853727+03:00",
+        "rightsNote": "Wawel Royal Castle",
+        "sourceMethod": "family-editorial-review",
+        "sourceTags": [],
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Le%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "tags": [],
+        "thumbUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
+        "title": "Leono Sapiegos pomirtinis portretas",
+        "visualEvidence": "Pusfigūris vyro portretas su plunksna, antspaudu, buože ir lotynišku Leono vardu; pomirtinis atvaizdas pagal 1709 m. Commons datavimą.",
+        "visualReviewVersion": "family-editorial-20260920",
+        "width": 648
+      },
+      "heroMediaId": "m-82a18d575f90537c3403b695",
+      "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Le%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statut-1588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Vilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
+        "https://www.epaveldas.lt/static/lnb-bucket/C10002389685/original/0001-B3BBE7A9D8EB43C682C7320FF5DF7218.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9e/Alaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903024/original/VUB01-000903024_00001.jpg",
+        "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903047/original/VUB01-000903047_00001.jpg"
+      ],
+      "noindex": false,
+      "relatedContent": [
+        {
+          "href": "/straipsniai/sapiegos-statutai-rumai-ir-laiskai",
+          "title": "Sapiegų žmonės, valdos ir giminystė · straipsnis"
+        },
+        {
+          "href": "/parodos/radvilos-gimine-valdos-ir-paveldas",
+          "title": "Radvilos: giminė, valdos ir paveldas"
+        }
+      ],
+      "relatedObject": {
+        "href": "/objektai/grupes/Sapiegos",
+        "label": "Sapiegų giminės puslapis"
+      },
+      "schemaVersion": "ltkb-exhibition/v1",
+      "sections": [
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Nežinomo autoriaus XVIII a. Sapiegų herbo raižinys. Lapino ženklas pavaizduotas sudėtinio skydo centre; virš skydo matyti karūna, apačioje – ordinas. Skaitmeninis atvaizdas pateiktas Wikimedia Commons, pažymėtas viešosios srities kūriniu.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Nežinomas dailininkas",
+              "dateDisplay": "XVIII a.",
+              "descriptionLt": "Raižinio centre – strėlės pavidalo Lapino herbo ženklas su dviem skersiniais. Aplink jį sudėtas puošnesnis skydas, viršuje iškelta karūna, apačioje kabo ordinas. XVIII amžiaus atvaizdas priklauso laikui, kai šeimos kilmė buvo viešai rodoma knygose, portretuose ir rūmų puošyboje.\n\nTokio skydo negalima skaityti kaip paprasto šeimos medžio. Jo laukai ir puošmenos turi savą heraldinę reikšmę, o konkrečią giminystę reikia tikrinti dokumentais. Sapiegų vardu vadinama daug kartų ir kelios šakos. Jų žmonių puslapiai bei šaltinių teiginiai surinkti giminės registre.",
+              "evidenceNoteLt": "Raižinys nėra genealogijos schema; pavieniai laukai čia nepriskiriami konkretiems protėviams.",
+              "exhibitionItemId": "sap-herbas",
+              "externalSources": [
+                {
+                  "title": "Herbo atvaizdo kortelė",
+                  "url": "https://commons.wikimedia.org/wiki/File%3ASapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ASapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg",
+                "caption": "Sapiegų herbo raižinys",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Nežinomas dailininkas",
+                "dateDisplay": "XVIII a.",
+                "displayUrl": "/static/gimines/sapiegos/herbas-xviii-a.jpg",
+                "height": 1240,
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-4f79533af5aa20d83601a3c8",
+                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3ASapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg",
+                "originalTitle": "Sapieha, Lis. Сапега, Ліс.jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md",
+                    "relationType": "associated_symbol_of",
+                    "title": "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.857432+03:00",
+                "rightsNote": "Public domain",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/herbas-xviii-a.jpg",
+                "title": "Sapiegų herbo raižinys",
+                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": 967
+              },
+              "mediaId": "m-4f79533af5aa20d83601a3c8",
+              "objectLinks": [
+                {
+                  "href": "/objektai/grupes/Sapiegos",
+                  "title": "Sapiegų giminė"
+                },
+                {
+                  "href": "/objektai/grupes/Sapiegu-gimine",
+                  "title": "Giminės šaltinių teiginiai"
+                }
+              ],
+              "titleLt": "Šeimos ženklas"
+            },
+            {
+              "catalogDescriptionLt": "Nežinomo dailininko 1709 m. Leono Sapiegos portretas. Aliejus ant drobės, 118 × 77 cm. Vavelio karališkosios pilies rinkinys, inventoriaus numeris 9147. Rodoma viešosios srities paveikslo skaitmeninė reprodukcija.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Nežinomas dailininkas",
+              "dateDisplay": "1709 m.",
+              "descriptionLt": "Leonas Sapiega pavaizduotas prie stalo. Prieš jį guli plunksna, šalia – antspaudas, rankoje laikoma buožė. Dailininkas viename portrete sutelkė raštininko, kanclerio ir kariuomenės vado pareigas. Apačioje esantis įrašas įvardija vaizduojamą žmogų ir primena jo tarnybą.\n\nPaveikslas nutapytas 1709 m., o Leonas mirė 1633-iaisiais. Tai šeimos atminties dalis. Jo vardą išsaugojo ir gerokai anksčiau atsiradusi knyga – Trečiasis Lietuvos Statutas, kurio leidybą jis finansavo. Išlikę kanceliarijos dokumentai leidžia jo veiklą sekti ir už portreto rėmų.",
+              "evidenceNoteLt": "Pomirtinis portretas, sukurtas praėjus 76 metams po Leono mirties.",
+              "exhibitionItemId": "sap-leonas",
+              "externalSources": [
+                {
+                  "title": "Vavelio portreto kortelė",
+                  "url": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg"
+                },
+                {
+                  "title": "Leono Sapiegos biografija",
+                  "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "Wawel Royal Castle",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
+                "caption": "Leono Sapiegos pomirtinis portretas",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Nežinomas dailininkas",
+                "dateDisplay": "1709 m.",
+                "displayUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
+                "height": 1000,
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-82a18d575f90537c3403b695",
+                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
+                "originalTitle": "Leŭ Sapieha. Леў Сапега (1709).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Leonas Sapiega.md",
+                    "relationType": "portrait_of",
+                    "title": "Leonas Sapiega (kunigaikštis, XVI a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.853727+03:00",
+                "rightsNote": "Wawel Royal Castle",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Le%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
+                "title": "Leono Sapiegos pomirtinis portretas",
+                "visualEvidence": "Pusfigūris vyro portretas su plunksna, antspaudu, buože ir lotynišku Leono vardu; pomirtinis atvaizdas pagal 1709 m. Commons datavimą.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": 648
+              },
+              "mediaId": "m-82a18d575f90537c3403b695",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Leonas-Sapiega",
+                  "title": "Leonas Sapiega"
+                },
+                {
+                  "href": "/objektai/ivykiai/Didziosios-Leono-Sapiegos-pasiuntinybe-i-Maskva",
+                  "title": "Pasiuntinybė į Maskvą"
+                },
+                {
+                  "href": "/objektai/asmenys/Doroteja-Firlejute",
+                  "title": "Dorotėja Firlėjūtė"
+                },
+                {
+                  "href": "/objektai/asmenys/Elzbieta-Radvilaite-(Leono-Sapiegos-zmona)",
+                  "title": "Elžbieta Radvilaitė (Leono Sapiegos žmona)"
+                }
+              ],
+              "titleLt": "Plunksna, antspaudas ir buožė"
+            },
+            {
+              "catalogDescriptionLt": "Trečiojo Lietuvos Statuto titulinio puslapio reprodukcija. Matyti kirilikos antraštė ir Lietuvos Didžiosios Kunigaikštystės herbas. Commons įraše nurodyta Mamoničių spaustuvė ir Vilniaus universiteto biblioteka; datavimas kortelėje pateiktas kaip po 1588 m.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Mamoničių spaustuvė",
+              "dateDisplay": "1588 m. Statutas; atvaizdo kortelėje – po 1588 m.",
+              "descriptionLt": "Titulinio lapo viršuje išraityta raudona antraštė, viduryje – Vytis. Trečiasis Lietuvos Statutas 1588 m. išėjo Vilniuje, Mamoničių spaustuvėje. Teisynas buvo išspausdintas rusėnų kalba kirilika. Leono Sapiegos finansinė parama padėjo jam pasiekti skaitytojus.\n\nŠios knygos istorija nesibaigia vienu leidimu ar vienu žmogumi. Statutas rėmėsi ankstesne Lietuvos teise, buvo perleidžiamas ir naudojamas vėlesnių kartų. Todėl šalia Sapiegos vardo lieka spaustuvininkai, teisės rengėjai ir daugybė žmonių, kurie šiuo tekstu rėmėsi teismuose. Išlikęs titulinis lapas rodo, kaip teisynas prisistatė savo skaitytojui.",
+              "evidenceNoteLt": "Rinkmenos aprašas sieja lapą su 1588 m. Statutu, bet datą pateikia „po 1588 m.“; konkretaus egzemplioriaus leidimas papildomai netikslinamas.",
+              "exhibitionItemId": "sap-statutas",
+              "externalSources": [
+                {
+                  "title": "Titulinio lapo kortelė",
+                  "url": "https://commons.wikimedia.org/wiki/File%3AStatut-1588.jpg"
+                },
+                {
+                  "title": "Vrublevskių biblioteka: Mamoničių spaustuvė",
+                  "url": "https://sena.mab.lt/lt/archyvas/1375/1147"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "Vilnius University Library Цітоў А. Геральдыка Беларусі. — Менск: МФЦП, 2010. — 144 с.: іл. ISBN 978-985-454-500-4 . — С. 106.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AStatut-1588.jpg",
+                "caption": "Trečiojo Lietuvos Statuto titulinis lapas",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Mamoničių spaustuvė",
+                "dateDisplay": "1588 m. Statutas; atvaizdo kortelėje – po 1588 m.",
+                "displayUrl": "/static/gimines/sapiegos/statutas-1588.jpg",
+                "height": 1265,
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-a4227fe400f93004ec9fa223",
+                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AStatut-1588.jpg",
+                "originalTitle": "Statut-1588.jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "saltinis",
+                    "notePath": "objektai/saltiniai/Trečiasis Lietuvos Statutas (1588 m.).md",
+                    "relationType": "depicts",
+                    "title": "Trečiasis Lietuvos Statutas (1588 m.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.855408+03:00",
+                "rightsNote": "Vilnius University Library Цітоў А. Геральдыка Беларусі. — Менск: МФЦП, 2010. — 144 с.: іл. ISBN 978-985-454-500-4 . — С. 106.",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statut-1588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/statutas-1588.jpg",
+                "title": "Trečiojo Lietuvos Statuto titulinis lapas",
+                "visualEvidence": "Titulinis Statuto puslapis kirilika, raudona antraštė ir Vytis; atitinka Commons kortelę.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": 777
+              },
+              "mediaId": "m-a4227fe400f93004ec9fa223",
+              "objectLinks": [
+                {
+                  "href": "/objektai/saltiniai/Treciasis-Lietuvos-Statutas-(1588-m.)",
+                  "title": "Trečiasis Lietuvos Statutas"
+                },
+                {
+                  "href": "/objektai/asmenys/Leonas-Sapiega",
+                  "title": "Leonas Sapiega"
+                }
+              ],
+              "titleLt": "Knyga, kuri liko po kanclerio"
+            }
+          ],
+          "lead": "Herbas skelbė šeimos vardą. Leono portrete pareigas primena trys daiktai: plunksna, antspaudas ir buožė.",
+          "navMediaId": "m-4f79533af5aa20d83601a3c8",
+          "sectionId": "sap-vardas-ir-tarnyba",
+          "slug": "vardas-ir-tarnyba",
+          "title": "Vardas ir tarnyba"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Marcelijaus Januševičiaus Sapiegų rūmų Antakalnyje piešinys, datuojamas 1830–1840 m. Pavaizduotas pagrindinis fasadas su frontonu ir bokšteliais. Viešosios srities atvaizdas pateiktas Wikimedia Commons; šiame puslapyje rodomas sumažintas jo variantas.",
+              "claimCodes": [
+                "t-01798"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-02036",
+                  "claimId": "t-01798",
+                  "label": "1696 m. taikos sąlygos",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-01798",
+                  "sourceTitle": "A. Šapoka (red.), Lietuvos istorija (1936 m.)",
+                  "text": "1696 m. gale pasirašyta taika įpareigojo vyskupą atšaukti ekskomuniką, o hetmoną išvesti kariuomenę iš bažnytinių dvarų.",
+                  "url": "/objektai/ivykiai/Sapieg%C5%B3-ir-vyskupo-B%C5%BEostausko-taikos-pasira%C5%A1ymas-%281696-m.-gale%29#claim-t-01798"
+                }
+              ],
+              "creatorDisplay": "Marcelijus Januševičius",
+              "dateDisplay": "1830–1840 m.",
+              "descriptionLt": "Marcelijus Januševičius nupiešė Antakalnio rūmus su dviem kampiniais bokšteliais ir puošniu frontonu. Tuo metu pastate jau veikė karo ligoninė. Piešinys datuojamas 1830–1840 m., taigi jame dar matyti dalys, pakeistos per kitą dešimtmetį vykusią rekonstrukciją.\n\nRūmus XVII a. pabaigoje užsakė Kazimieras Jonas Sapiega. Jo konfliktai pasiekė ir rezidenciją: po pralaimėjimo prie Valkininkų 1700 m. rūmai buvo nusiaubti. Iki tol etmonas buvo susipykęs su Vilniaus vyskupu dėl kariuomenės laikymo bažnytinėse valdose. Žemiau pateikta nuoroda veda į šaltinyje aprašytą 1696 m. susitaikymą.",
+              "evidenceNoteLt": "XIX a. pastato vaizdas, ne XVII a. statybos ar Valkininkų įvykių iliustracija.",
+              "exhibitionItemId": "sap-rumai",
+              "externalSources": [
+                {
+                  "title": "Sapiegų rūmų istorija",
+                  "url": "https://sapiegurumai.lt/istorija/"
+                },
+                {
+                  "title": "Valdovų rūmų muziejus apie rezidenciją",
+                  "url": "https://www.valdovurumai.lt/lt/renginiai/i/2963/sapiegu-rumai-antakalnyje/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
+                "caption": "Sapiegų rūmai Antakalnyje",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Marcelijus Januševičius",
+                "dateDisplay": "1830–1840 m.",
+                "displayUrl": "/static/gimines/sapiegos/antakalnio-rumai-1830-1840.jpg",
+                "height": 2913,
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-ec65801b243614ad8c254d8a",
+                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AVilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
+                "originalTitle": "Vilnia, Antokal, Sapieha. Вільня, Антокаль, Сапега (M. Januševič, 1830-40).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "vieta",
+                    "notePath": "objektai/vietos/Antakalnis.md",
+                    "relationType": "depicts",
+                    "title": "Antakalnis"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.855435+03:00",
+                "rightsNote": "Public domain",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/antakalnio-rumai-1830-1840.jpg",
+                "title": "Sapiegų rūmai Antakalnyje",
+                "visualEvidence": "Priekinis rūmų fasadas su dviem kampiniais bokšteliais, frontonu ir autoriaus parašu; pagal kortelę Antakalnio Sapiegų rūmai.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": 4000
+              },
+              "mediaId": "m-ec65801b243614ad8c254d8a",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Kazimieras-Jonas-Sapiega",
+                  "title": "Kazimieras Jonas Sapiega"
+                },
+                {
+                  "href": "/objektai/vietos/Antakalnis",
+                  "title": "Antakalnis"
+                },
+                {
+                  "href": "/objektai/ivykiai/Valkininku-konfederacija-ir-Sapiegu-pralaimejimas-(1700-m.)",
+                  "title": "1700 m. pralaimėjimas prie Valkininkų"
+                }
+              ],
+              "titleLt": "Rūmai prieš didįjį perstatymą"
+            },
+            {
+              "catalogDescriptionLt": "Upytės pavieto teismo vaznio pranešimo pirmasis lapas apie Švobiškio dvaro perėmimą ir perdavimą Kazimiero Sapiegos žinion. Katalogo data – 1695 m. liepos 25 d. Skaitmeninta rankraščio kopija pateikta ePaveldo portale.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Teismo pareigūno dokumentas",
+              "dateDisplay": "1695 m. liepos 25 d.",
+              "descriptionLt": "1695 m. liepos 25 d. dokumente užrašytas Švobiškio dvaro perėmimas. Katalogo apraše sakoma, kad Upytės pavieto teismo vaznys pranešė apie dvaro perdavimą iš Puzinų Kazimiero Sapiegos žinion. Tokie raštai fiksavo konkrečią vietą, žmones ir teisinį veiksmą.\n\nŠeimos valdų istorija susideda ir iš tokių lapų. Rūmai ar miestelis žemėlapyje gali atrodyti kaip pastovus giminės turtas, bet nuosavybė būdavo ginčijama ir perleidžiama. Vien šio pranešimo nepakanka visai Švobiškio bylai atkurti. Jis liudija vieną datuotą jos epizodą, kurį galima toliau tikrinti pagal originalų dokumentą.",
+              "evidenceNoteLt": "Turinys apibendrintas pagal katalogą; dokumento antraštėje pateiktas pareigybės įvardijimas čia netaisomas ir nekartojamas kaip patikrintas biografijos faktas.",
+              "exhibitionItemId": "sap-svobiskis",
+              "externalSources": [
+                {
+                  "title": "ePaveldas: Švobiškio dvaro pranešimas",
+                  "url": "https://www.epaveldas.lt/preview?id=C10002389685"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://www.epaveldas.lt/preview?id=C10002389685",
+                "caption": "Pranešimas apie Švobiškio dvaro perdavimą",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Teismo pareigūno dokumentas",
+                "dateDisplay": "1695 m. liepos 25 d.",
+                "displayUrl": "/static/gimines/sapiegos/svobiskis-1695.jpg",
+                "height": null,
+                "license": "PD",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-19a174c29661a7d41d96bc5d",
+                "metadataEvidence": "https://www.epaveldas.lt/preview?id=C10002389685",
+                "originalTitle": "[Upytės pav. teismų vaznio pranešimas apie Švobiškio dvaro perėmimą iš neteisėto Puzinų valdymo ir perdavimą Vilniaus vaivados, LDK lauko etmono Kazimiero Sapiegos žinion]",
+                "provider": "epaveldas",
+                "providerLabel": "Lietuvos nacionalinė Martyno Mažvydo biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "grupe",
+                    "notePath": "objektai/grupes/LDK didikai.md",
+                    "relationType": "event_documentation_of",
+                    "title": "LDK didikai"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.860835+03:00",
+                "rightsNote": "PD",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10002389685/original/0001-B3BBE7A9D8EB43C682C7320FF5DF7218.jpg",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/svobiskis-1695.jpg",
+                "title": "Pranešimas apie Švobiškio dvaro perdavimą",
+                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": null
+              },
+              "mediaId": "m-19a174c29661a7d41d96bc5d",
+              "objectLinks": [
+                {
+                  "href": "/objektai/grupes/Sapiegu-gimine",
+                  "title": "Giminės dokumentai"
+                }
+              ],
+              "titleLt": "Kaip dvaras perduodamas į kitas rankas"
+            }
+          ],
+          "lead": "Antakalnyje kilo puošni rezidencija, o Švobiškyje teismo pareigūnas fiksavo dvaro perdavimą. Abu pėdsakai priklauso tai pačiai žemvaldžių istorijai.",
+          "navMediaId": "m-ec65801b243614ad8c254d8a",
+          "sectionId": "sap-rumai-ir-valdos",
+          "slug": "rumai-ir-valdos",
+          "title": "Rūmai ir ginčijamos valdos"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Johanno Baptisto Lampio vyresniojo Aleksandro Mykolo Sapiegos portretas, apie 1790 m. Pavaizduotas didikas su kailiu apsiūtu drabužiu ir apdovanojimu. Viešosios srities paveikslo reprodukcija pateikta Wikimedia Commons, išsaugant originalaus įrašo nuorodą.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Johann Baptist von Lampi the Elder",
+              "dateDisplay": "Apie 1790 m.",
+              "descriptionLt": "Apie 1790 m. Johannas Baptistas Lampis nutapė Aleksandrą Mykolą Sapiegą su kailiu apsiūtu drabužiu ir ordinu. Tuomet didikas jau buvo LDK kancleris. Anksčiau jis ėjo Polocko vaivados ir lauko etmono pareigas.\n\nRužanuose Aleksandras Mykolas steigė gelumbės audyklas ir fajanso dirbtuves, išlaikė teatrą; spektakliai buvo rengiami ir Derečine bei jo Varšuvos rūmuose. Jo biografijoje valstybės tarnyba, dvaro ūkis ir scena užėmė vietą greta viena kitos. Toliau eksponuojamas laiškas užfiksuoja ankstesnį momentą – kai Aleksandro vardas dar buvo minimas tarp kandidatų į kanclerio vietą.",
+              "evidenceNoteLt": "Portretas nutapytas jau po 1775 m. laiškuose aptariamo paskyrimo.",
+              "exhibitionItemId": "sap-aleksandras",
+              "externalSources": [
+                {
+                  "title": "Aleksandro Mykolo biografija",
+                  "url": "https://www.vle.lt/straipsnis/aleksandras-mykolas-sapiega/"
+                },
+                {
+                  "title": "Portreto kortelė",
+                  "url": "https://commons.wikimedia.org/wiki/File%3AAlaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AAlaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg",
+                "caption": "Aleksandro Mykolo Sapiegos portretas",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Johann Baptist von Lampi the Elder",
+                "dateDisplay": "Apie 1790 m.",
+                "displayUrl": "/static/gimines/sapiegos/aleksandras-mykolas-apie-1790.jpg",
+                "height": 945,
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-6c312efae92df2bded20d4e4",
+                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AAlaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg",
+                "originalTitle": "Alaksandar Michał Sapieha. Аляксандар Міхал Сапега (J. Lampi, 1790).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md",
+                    "relationType": "portrait_of",
+                    "title": "Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.858600+03:00",
+                "rightsNote": "Public domain",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Alaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/aleksandras-mykolas-apie-1790.jpg",
+                "title": "Aleksandro Mykolo Sapiegos portretas",
+                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": 798
+              },
+              "mediaId": "m-6c312efae92df2bded20d4e4",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
+                  "title": "Aleksandras Mykolas Sapiega"
+                },
+                {
+                  "href": "/objektai/asmenys/Mykolas-Antanas-Sapiega-(LDK-pakancleris,-1711-1760)",
+                  "title": "Jo dėdė Mykolas Antanas"
+                }
+              ],
+              "titleLt": "Kancleris, kuris išlaikė teatrus"
+            },
+            {
+              "catalogDescriptionLt": "Jano Ševaljė 1775 m. rugpjūčio 16 d. laiško iš Varšuvos pirmasis lapas. Kataloge aprašytos žinios apie laisvą LDK kanclerio vietą, laidotuves ir laukiamą siuntą. Dokumentą pateikia Vilniaus universiteto biblioteka per ePaveldą.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Ševaljė, Janas, 1732-1780, aut.",
+              "dateDisplay": "1775 m. rugpjūčio 16 d.",
+              "descriptionLt": "1775 m. rugpjūčio 16 d. Janas Ševaljė iš Varšuvos rašė apie mirusio kanclerio Mykolo Fryderiko Čartoryskio įpėdinį. Svarstytos dvi pavardės – Chreptavičius ir Aleksandras Mykolas Sapiega. Laiško pradžioje jaučiamas naujienų laukimas: paskyrimas dar nežinomas, bet apie jį kalbama.\n\nAntspaudas čia reiškė valstybės pareigas. Ševaljė greta politinių spėlionių aptarė laidotuves ir laukiamą knygų bei astronominių instrumentų siuntą. Laiškas išsaugojo vienos dienos žinias, kai būsimas įvykis dar nebuvo tapęs trumpu sakiniu biografijoje. Kancleriu tais metais tapo Sapiega.",
+              "evidenceNoteLt": "Laiške užrašytos to meto spėlionės; galutinis paskyrimas patikrinamas atskirai pagal biografiją.",
+              "exhibitionItemId": "sap-antspaudas",
+              "externalSources": [
+                {
+                  "title": "VU biblioteka: 1775 m. rugpjūčio 16 d. laiškas",
+                  "url": "https://www.epaveldas.lt/preview?id=VUB01-000903024"
+                },
+                {
+                  "title": "Paskyrimas kancleriu",
+                  "url": "https://www.vle.lt/straipsnis/aleksandras-mykolas-sapiega/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://www.epaveldas.lt/preview?id=VUB01-000903024",
+                "caption": "Laiškas apie laisvą kanclerio vietą",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Ševaljė, Janas, 1732-1780, aut.",
+                "dateDisplay": "1775 m. rugpjūčio 16 d.",
+                "displayUrl": "/static/gimines/sapiegos/laiskas-1775-08-16.jpg",
+                "height": null,
+                "license": "PD",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-2db28d7dd431920b8ca858fe",
+                "metadataEvidence": "https://www.epaveldas.lt/preview?id=VUB01-000903024",
+                "originalTitle": "„O Niczym tu więcey nie mowią, jako o tym komu się dostanie pieczęć wakująca...“",
+                "provider": "epaveldas",
+                "providerLabel": "Vilniaus universiteto biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "grupe",
+                    "notePath": "objektai/grupes/Lietuvos Didžioji Kunigaikštija.md",
+                    "relationType": "event_documentation_of",
+                    "title": "Lietuvos Didžioji Kunigaikštija"
+                  },
+                  {
+                    "directness": "contextual",
+                    "itemType": "grupe",
+                    "notePath": "objektai/grupes/LDK didikai.md",
+                    "relationType": "event_documentation_of",
+                    "title": "LDK didikai"
+                  },
+                  {
+                    "directness": "contextual",
+                    "itemType": "vieta",
+                    "notePath": "objektai/vietos/Lietuvos Didžioji Kunigaikštystė.md",
+                    "relationType": "event_documentation_of",
+                    "title": "Lietuvos Didžioji Kunigaikštystė"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.860399+03:00",
+                "rightsNote": "PD",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903024/original/VUB01-000903024_00001.jpg",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/laiskas-1775-08-16.jpg",
+                "title": "Laiškas apie laisvą kanclerio vietą",
+                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": null
+              },
+              "mediaId": "m-2db28d7dd431920b8ca858fe",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
+                  "title": "Aleksandras Mykolas Sapiega"
+                }
+              ],
+              "titleLt": "Kam atiteks antspaudas?"
+            },
+            {
+              "catalogDescriptionLt": "Jano Ševaljė 1775 m. rugpjūčio 21 d. laiško iš Varšuvos pirmasis lapas. Vilniaus universiteto bibliotekos kataloge minimos gautos knygos ir astronominiai instrumentai, siunčiami leidiniai bei politinės naujienos. Skaitmeninis vaizdas pateiktas ePavelde.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Ševaljė, Janas, 1732-1780, aut.",
+              "dateDisplay": "1775 m. rugpjūčio 21 d.",
+              "descriptionLt": "Po penkių dienų Ševaljė pranešė, kad knygos ir astronominiai prietaisai gauti. Laiške minimi jų gavėjai, į Vilnių siunčiami leidiniai, laukiami žmonės. Tarp šių reikalų vėl pasirodo Aleksandro Mykolo Sapiegos vardas ir politinės naujienos.\n\nKnygų kelionės jungė miestus ir šeimas. Gerokai anksčiau kita Sapiegų kolekcija – Leono ir jo sūnų biblioteka – iš Ružanų pateko į Vilniaus universitetą. Šis XVIII a. laiškas jai nepriklauso ir nėra jos perdavimo dokumentas. Jis rodo vėlesnį susirašinėjimo pasaulį, kuriame knygos, moksliniai instrumentai ir žinios keliaudavo tais pačiais pažinčių ryšiais.",
+              "evidenceNoteLt": "Šis laiškas nėra XVII a. Bibliotheca Sapiehana perdavimo dokumentas.",
+              "exhibitionItemId": "sap-knygos",
+              "externalSources": [
+                {
+                  "title": "VU biblioteka: 1775 m. rugpjūčio 21 d. laiškas",
+                  "url": "https://www.epaveldas.lt/preview?id=VUB01-000903047"
+                },
+                {
+                  "title": "Sapiegų bibliotekos istorija",
+                  "url": "https://www.vle.lt/straipsnis/sapiegu-biblioteka/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://www.epaveldas.lt/preview?id=VUB01-000903047",
+                "caption": "Laiškas apie gautas knygas ir instrumentus",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Ševaljė, Janas, 1732-1780, aut.",
+                "dateDisplay": "1775 m. rugpjūčio 21 d.",
+                "displayUrl": "/static/gimines/sapiegos/laiskas-1775-08-21.jpg",
+                "height": null,
+                "license": "PD",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-55bacbf82369d854b039d484",
+                "metadataEvidence": "https://www.epaveldas.lt/preview?id=VUB01-000903047",
+                "originalTitle": "„Pak z xięgami dla Grella i pudełko z szerszerami doszły mnie d. 17...“",
+                "provider": "epaveldas",
+                "providerLabel": "Vilniaus universiteto biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md",
+                    "relationType": "manuscript_depiction_of",
+                    "title": "Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)"
+                  },
+                  {
+                    "directness": "contextual",
+                    "itemType": "vieta",
+                    "notePath": "objektai/vietos/Lietuvos Didžioji Kunigaikštystė.md",
+                    "relationType": "manuscript_depiction_of",
+                    "title": "Lietuvos Didžioji Kunigaikštystė"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.860796+03:00",
+                "rightsNote": "PD",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903047/original/VUB01-000903047_00001.jpg",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/laiskas-1775-08-21.jpg",
+                "title": "Laiškas apie gautas knygas ir instrumentus",
+                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": null
+              },
+              "mediaId": "m-55bacbf82369d854b039d484",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
+                  "title": "Aleksandras Mykolas Sapiega"
+                },
+                {
+                  "href": "/objektai/asmenys/Ona-Sapiegaite-Jablonowska",
+                  "title": "Ona Sapiegaitė-Jablonowska"
+                },
+                {
+                  "href": "/objektai/asmenys/Kazimieras-Leonas-Sapiega-(1609-1656)",
+                  "title": "Kazimieras Leonas Sapiega (1609–1656)"
+                }
+              ],
+              "titleLt": "Siuntinys jau atėjo"
+            }
+          ],
+          "lead": "Aleksandro Mykolo portretas rodo aukštas pareigas pasiekusį žmogų. Laiškai išsaugojo laiką, kai apie tas pareigas dar buvo spėliojama.",
+          "navMediaId": "m-6c312efae92df2bded20d4e4",
+          "sectionId": "sap-kancleris-ir-laiskai",
+          "slug": "kancleris-ir-laiskai",
+          "title": "Kancleris ir jo amžininkų laiškai"
+        }
+      ],
+      "slug": "parodos/sapiegos-statutai-rumai-ir-laiskai",
+      "status": "published",
+      "subtitle": "Nuo Leono plunksnos iki Varšuvoje laukiamo antspaudo",
+      "theme": "historical",
+      "title": "Sapiegos: Statutas, rūmai ir šeimos laiškai",
+      "updatedAt": "2026-09-21T00:50:10.917930+03:00"
+    }
+  ],
+  "schemaVersion": "ltkb-exhibition/v1"
+}

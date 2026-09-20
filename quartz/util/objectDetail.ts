@@ -31,6 +31,8 @@ export type ObjectDetailEvidence = {
   citationRecords: ObjectEvidenceCitation[]
   sourceTitles: string[]
   relations: Array<{ label: string; target: string; display: string }>
+  authoredSources?: Array<{ title: string; url: string }>
+  familyLinks?: Array<{ label: string; target: string; display: string }>
 }
 
 export type ObjectEvidenceDisplayItem =
@@ -174,6 +176,11 @@ export function relationsFromMarkdown(
 }
 
 export function objectDetailEvidence(markdown: string): ObjectDetailEvidence {
+  const sourceSection = markdown.match(/^##\s+Šaltiniai\s*\n([\s\S]*?)(?=^##\s+|(?![\s\S]))/mu)?.[1] || ""
+  const authoredSources = [...sourceSection.matchAll(/^\s*-\s+\[([^\]]+)\]\((https:\/\/[^\s]+)\)\s*$/gmu)]
+    .map((match) => ({ title: match[1], url: match[2] }))
+    .filter((source) => { try { return new URL(source.url).protocol === "https:" } catch { return false } })
+  const familySection = markdown.match(/^##\s+Šeima\s*\n([\s\S]*?)(?=^##\s+|(?![\s\S]))/mu)?.[1] || ""
   const globalIds = new Map<string, string[]>()
   for (const match of markdown.matchAll(/((?:<a\s+id="claim-[^"]+"><\/a>\s*)+)-\s+(t-\d+)/gu)) {
     globalIds.set(
@@ -267,6 +274,8 @@ export function objectDetailEvidence(markdown: string): ObjectDetailEvidence {
   )
 
   return {
+    authoredSources,
+    familyLinks: authoredSources.length ? relationsFromMarkdown("## Ryšiai\n" + familySection) : [],
     summary: isMeaningfulObjectText(summaryFromMarkdown(markdown))
       ? summaryFromMarkdown(markdown)
       : "",
@@ -349,6 +358,11 @@ export function objectClaimHref(slug: string, evidence: ObjectDetailEvidence, id
   return `/${slug}/irodymai${page > 1 ? `/${page}` : ""}#claim-${id}`
 }
 
+function hasSourcedBiography(evidence: ObjectDetailEvidence): boolean {
+  return Boolean(evidence.authoredSources?.length) && evidence.summary.trim().length >= 60 &&
+    !evidence.summary.includes("Šis pradinis puslapis sukurtas pagal VLE")
+}
+
 export function objectDetailTier(
   evidence: ObjectDetailEvidence,
   options: { directMediaCount?: number; relationCount?: number } = {},
@@ -357,7 +371,7 @@ export function objectDetailTier(
   const sourceCount = evidence.sourceTitles.length
   const richSignal =
     Number(options.directMediaCount ?? 0) > 0 || Number(options.relationCount ?? 0) >= 5
-  if (factCount === 0) return "t0"
+  if (factCount === 0) return hasSourcedBiography(evidence) ? "t1" : "t0"
   if (factCount >= 10 || (factCount >= 5 && sourceCount >= 2 && richSignal)) return "t3"
   if (factCount >= 3 || sourceCount >= 2) return "t2"
   return "t1"
@@ -393,6 +407,7 @@ export function objectPageIndexable(
   if (tier === "t1") {
     const supportedClaims = evidence.claims.filter((claim) => claim.citations.length > 0)
     return (
+      hasSourcedBiography(evidence) ||
       supportedClaims.length >= 2 ||
       supportedClaims.some(
         (claim) =>

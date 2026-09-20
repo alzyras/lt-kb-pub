@@ -1,17 +1,17 @@
 ---
 tipas: asmuo
-pavadinimas: Albrechtas Stanislovas Radvila
-canonical_entity_id: ent-noble-366bfe34472d30681e17f8e1
-noble_scope: ldk-didikai-iki-1795-v1
-noble_family: Radvilos
+pavadinimas: 'Albrechtas Stanislovas Radvila'
+canonical_entity_id: "ent-noble-366bfe34472d30681e17f8e1"
+noble_scope: "ldk-didikai-iki-1795-v1"
+noble_family: "Radvilos"
 aliases:
-  - Albrechtas Stanislovas Radvila
+  - 'Albrechtas Stanislovas Radvila'
 saltiniai:
   - 'VLE: Radvilos'
-date_start: ''
-date_end: ''
+date_start: ""
+date_end: ""
 periodo_grupes:
-  - LDK
+  - 'LDK'
 bukle: viesas_pradinis
 sukurta: ''
 atnaujinta: ''
@@ -24,24 +24,26 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: '[]'
-media_contextual_json: '[]'
-media_all_json: '[]'
-entity_id: ent-noble-366bfe34472d30681e17f8e1
-canonical_name: Albrechtas Stanislovas Radvila
-entity_roles:
-  - person
-entity_view_role: person
-entity_aliases:
-  - Albrechtas Stanislovas Radvila
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-noble-366bfe34472d30681e17f8e1"
+canonical_name: "Albrechtas Stanislovas Radvila"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Albrechtas Stanislovas Radvila"]
 sameAs: []
-canonical_biography: Albrechtas Stanislovas Radvila - Radvilos giminės atstovas.
+canonical_biography: "Stanislovo Radvilos Pamaldžiojo sūnus Albrechtas Stanislovas nuo 1623 m. buvo LDK kancleris. Rašė politinius ir religinius veikalus, paliko atsiminimus apie valstybės gyvenimą. Jo rezidencija buvo Olykoje."
 ---
+
 # Albrechtas Stanislovas Radvila
 
 ## Santrauka
 
-Albrechtas Stanislovas Radvila yra Radvilos giminės atstovas. Šis pradinis puslapis sukurtas pagal VLE giminės straipsnį ir bus papildytas knygų medžiaga.
+Stanislovo Radvilos Pamaldžiojo sūnus Albrechtas Stanislovas nuo 1623 m. buvo LDK kancleris. Rašė politinius ir religinius veikalus, paliko atsiminimus apie valstybės gyvenimą. Jo rezidencija buvo Olykoje.
 
 ## Giminė
 
@@ -50,3 +52,11 @@ Albrechtas Stanislovas Radvila yra Radvilos giminės atstovas. Šis pradinis pus
 ## Pastabos
 
 Aprėpties įrašas: `noble-366bfe34472d30681e17f8e1`.
+
+## Šaltiniai
+
+- [VLE: Albrechtas Stanislovas Radvila](https://www.vle.lt/straipsnis/albrechtas-albertas-stanislovas-radvila/)
+
+## Šeima
+
+- [[objektai/asmenys/Stanislovas Radvila Pamaldusis (1559–1599)|Stanislovas Radvila Pamaldusis (1559–1599)]]

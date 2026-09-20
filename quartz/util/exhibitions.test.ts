@@ -49,6 +49,28 @@ function normalized(value: string): string {
 
 describe("exhibition manifest", () => {
   const exhibitions = loadExhibitions()
+  test("family registers link distinct people and sources to real public notes", () => {
+    const families = exhibitions.filter(entry => entry.familyMembers?.length)
+    assert.equal(families.length, 2)
+    for (const family of families) {
+      const members = family.familyMembers!
+      assert.ok(members.length >= 50)
+      assert.ok(family.familyMembersScope)
+      assert.equal(new Set(members.map(member => member.href)).size, members.length)
+      for (const member of members) {
+        assert.ok(sourcePath(member.href), `${member.name}: missing person page ${member.href}`)
+        assert.ok(member.dates)
+        assert.ok(member.sources.length)
+        for (const source of member.sources) {
+          assert.ok(source.title)
+          assert.equal(new URL(source.url).protocol, "https:")
+        }
+      }
+      for (const item of family.sections.flatMap(section => section.items))
+        for (const link of item.objectLinks ?? [])
+          assert.ok(sourcePath(link.href), `${item.titleLt}: missing related object ${link.href}`)
+    }
+  })
   const historical = exhibitions.find(
     (entry) => entry.exhibitionId === "vytautas-didysis-tarp-istorijos-ir-atvaizdo",
   )

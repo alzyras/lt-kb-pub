@@ -668,6 +668,9 @@ const ObjectDetailPage: QuartzComponent = (props) => {
   )
   const fallbackRelationCount = objectRelationCount(relations)
   const externalLinks = externalReading(frontmatter.external_sources_json)
+  const authoredSources = evidence.authoredSources ?? []
+  const familyLinks = objectRelationGroups(evidence.familyLinks ?? [], index.bySlug)
+    .flatMap((group) => group.targets)
   const galleryHref = publicRouteHref(objectGallerySlug(slug))
   const evidenceHref = publicRouteHref(`${slug}/irodymai` as FullSlug)
   const relationCount = Math.max(view.counts.relations, fallbackRelationCount)
@@ -713,7 +716,9 @@ const ObjectDetailPage: QuartzComponent = (props) => {
                 <>
                   <p class="object-detail-summary">{summary}</p>
                   <p class="object-detail-paragraph-source">
-                    Šaltinis: <a href="https://lietuvosistorija.eu">lietuvosistorija.eu</a>
+                    {authoredSources.length ? <>Šaltiniai: {authoredSources.map((source, index) => <>
+                      {index > 0 && " · "}<a href={source.url} target="_blank" rel="noopener noreferrer">{source.title}</a>
+                    </>)}</> : <>Šaltinis: <a href="https://lietuvosistorija.eu">lietuvosistorija.eu</a></>}
                   </p>
                 </>
               ) : (
@@ -736,6 +741,12 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           </div>
         )}
         {!wikiPublished && <ObjectSnowflake props={props} />}
+        {familyLinks.length > 0 && <nav class="object-detail-reading" aria-label="Biografijoje nurodyti šeimos nariai">
+          <strong>Šeima</strong>
+          {familyLinks.map((person) => person.linked
+            ? <a class="internal" href={publicRouteHref(person.slug)}>{person.title}</a>
+            : <span>{person.title}</span>)}
+        </nav>}
         {view.featuredQuote && (
           <figure class="object-detail-featured-quote">
             <blockquote>{view.featuredQuote.text}</blockquote>
@@ -891,7 +902,10 @@ const ObjectDetailPage: QuartzComponent = (props) => {
             </table>
           </div>
         )}
-        {sources.length === 0 && (
+        {authoredSources.length > 0 && <ul>{authoredSources.map((source) =>
+          <li><a href={source.url} target="_blank" rel="noopener noreferrer">{source.title}</a></li>,
+        )}</ul>}
+        {sources.length === 0 && authoredSources.length === 0 && (
           <p class="object-detail-panel-note">
             Šaltinių sąrašas bus papildytas kartu su įrodymais.
           </p>

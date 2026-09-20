@@ -164,6 +164,7 @@ function Exhibit({
   item,
   index,
   exhibitionId,
+  familyOverview = false,
   relationTargetTitle,
   relatedItems,
   itemTitleById,
@@ -171,6 +172,7 @@ function Exhibit({
   item: ExhibitionItem
   index: number
   exhibitionId: string
+  familyOverview?: boolean
   relationTargetTitle?: string
   relatedItems: ExhibitionItem[]
   itemTitleById: Map<string, string>
@@ -217,10 +219,40 @@ function Exhibit({
         <h3>{item.titleLt}</h3>
         <ItemMeta item={item} />
         <RelationNote item={item} targetTitle={relationTargetTitle} />
-        <div class="exhibition-narrative-label">Parodos pasakojimas</div>
-        <p class="exhibition-item-description">{item.descriptionLt}</p>
+        {!familyOverview && <div class="exhibition-narrative-label">Parodos pasakojimas</div>}
+        {item.descriptionLt.split(/\n\s*\n/).map((paragraph) => (
+          <p class="exhibition-item-description">{paragraph}</p>
+        ))}
         {item.evidenceNoteLt && <p class="exhibition-evidence-note">{item.evidenceNoteLt}</p>}
         <ClaimLinks claims={item.claims} />
+        {item.objectSlug && (
+          <a class="exhibition-source-link internal" href={`/${item.objectSlug}`}>
+            Asmens puslapis <ArrowRight size={14} />
+          </a>
+        )}
+        {Boolean(item.objectLinks?.length) && (
+          <nav class="exhibition-item-sources" aria-label="Susiję žmonės, vietos ir dokumentai">
+            <ul>
+              {item.objectLinks!.map((link) => (
+                <li><a class="internal" href={link.href}>{link.title}</a></li>
+              ))}
+            </ul>
+          </nav>
+        )}
+        {Boolean(item.externalSources?.length) && (
+          <div class="exhibition-item-sources" aria-label="Pasakojimo šaltiniai">
+            <strong>Pasakojimo šaltiniai</strong>
+            <ul>
+              {item.externalSources!.map((source) => (
+                <li>
+                  <a href={source.url} target="_blank" rel="noreferrer noopener">
+                    {source.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
         <ItemTags item={item} />
         {media.canonicalUrl && (
           <a
@@ -305,6 +337,7 @@ function RelatedExhibits({
 
 function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
   const hero = mediaThumbnailUrl(exhibition.hero)
+  const familyOverview = exhibition.editorialProfile === "family-overview"
   let exhibitIndex = 0
   const itemTitleById = new Map(
     exhibition.sections.flatMap((section) =>
@@ -315,6 +348,7 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
     <main
       class={`exhibition-page exhibition-theme--${exhibition.theme || "historical"}`}
       data-exhibition-id={exhibition.exhibitionId}
+      data-editorial-profile={exhibition.editorialProfile}
     >
       <header class="exhibition-hero">
         <div class="exhibition-hero-media" aria-hidden="true">
@@ -341,19 +375,24 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
               {exhibition.noindex && " · redakcinė peržiūra"}
             </p>
           )}
-          <p class="exhibition-proof-note">
-            {exhibition.exhibitionId.startsWith("valancius-")
-              ? "Eksponatų aprašymus papildo katalogų nuorodos ir istorinių šaltinių ištraukos."
-              : "Kiekvienas faktinis teiginys turi nuorodą į šaltinį. Vaizdo interpretacijos pažymėtos kaip parodos pasakojimas."}
-          </p>
-          <div class="exhibition-reading-key" aria-label="Kaip skaityti parodą">
-            <span class="is-narrative">Parodos pasakojimas</span>
-            <span class="is-source">Šaltinis ir citata</span>
-          </div>
+          {!familyOverview && (
+            <p class="exhibition-proof-note">
+              {exhibition.exhibitionId.startsWith("valancius-")
+                ? "Eksponatų aprašymus papildo katalogų nuorodos ir istorinių šaltinių ištraukos."
+                : "Kiekvienas faktinis teiginys turi nuorodą į šaltinį. Vaizdo interpretacijos pažymėtos kaip parodos pasakojimas."}
+            </p>
+          )}
+          {!familyOverview && (
+            <div class="exhibition-reading-key" aria-label="Kaip skaityti parodą">
+              <span class="is-narrative">Parodos pasakojimas</span>
+              <span class="is-source">Šaltinis ir citata</span>
+            </div>
+          )}
           <div class="exhibition-hero-actions">
             <a href="#parodos-pradzia">
               Pradėti parodą <ArrowRight size={17} />
             </a>
+            {!!exhibition.familyMembers?.length && <a href="#gimines-zmones">Giminės žmonės</a>}
             <a
               class="is-slideshow"
               href="?mode=slideshow"
@@ -425,6 +464,7 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
                     item={item}
                     index={index}
                     exhibitionId={exhibition.exhibitionId}
+                    familyOverview={familyOverview}
                     relationTargetTitle={
                       item.relation ? itemTitleById.get(item.relation.targetItemId) : undefined
                     }
@@ -443,6 +483,25 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
           </section>
         )
       })}
+      {!!exhibition.familyMembers?.length && (
+        <section class="exhibition-section exhibition-family-members" id="gimines-zmones">
+          <header>
+            <h2>Giminės žmonės</h2>
+            <p>{exhibition.familyMembersScope}</p>
+          </header>
+          <ul class="exhibition-family-register">
+            {exhibition.familyMembers.map((person) => (
+              <li>
+                <a class="internal" href={person.href}>{person.name}</a>
+                <span>{person.dates}</span>
+                <small>{person.sources.map((source, index) => <>
+                  {index > 0 && " · "}<a href={source.url} target="_blank" rel="noopener noreferrer">{source.title}</a>
+                </>)}</small>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
       {exhibition.relatedContent?.length ? (
         <RelatedContent
           links={exhibition.relatedContent}
@@ -513,7 +572,12 @@ function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] })
 
 const ExhibitionPage: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const detail = parseManifest(fileData.frontmatter?.exhibition_manifest_json)
-  if (detail) return detail.layout === "chronological" ? <RulersExhibition exhibition={detail} /> : <ExhibitionDetail exhibition={detail} />
+  if (detail)
+    return detail.layout === "chronological" ? (
+      <RulersExhibition exhibition={detail} />
+    ) : (
+      <ExhibitionDetail exhibition={detail} />
+    )
   let exhibitions: ExhibitionManifest[] = []
   try {
     const value = fileData.frontmatter?.exhibitions_index_json

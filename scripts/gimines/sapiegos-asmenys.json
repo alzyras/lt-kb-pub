@@ -1,0 +1,935 @@
+{
+  "family": "Sapiegos",
+  "scope": "Šaltiniais identifikuoti XV–XX a. istoriniai asmenys ir sutuoktiniai. Neįvardyti arba tapatybės patikros laukiantys asmenys neįtraukiami kaip patvirtinti nariai.",
+  "people": [
+    {
+      "name": "Simonas Sapiega (XV a. raštininkas)",
+      "notePath": "objektai/asmenys/Simonas Sapiega (XV a. raštininkas).md",
+      "dates": "XV a.",
+      "bio": "Simonas, dar vadinamas Semionu, XV a. viduryje dirbo valdovo kanceliarijos raštininku. Jo sūnūs Bagdonas ir Jonas taip pat pradėjo karjerą kanceliarijoje. Ši tarnyba tapo ankstyvojo Sapiegų iškilimo pagrindu.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2018~1575026033687/J.04~2018~1575026033687.pdf"
+        }
+      ],
+      "related": [
+        "Bagdonas Sapiega (Simono sūnus)",
+        "Jonas Ivanas Sapiega (apie 1450–1517)"
+      ],
+      "aliases": [
+        "Semionas Sapiega"
+      ]
+    },
+    {
+      "name": "Bagdonas Sapiega (Simono sūnus)",
+      "notePath": "objektai/asmenys/Bagdonas Sapiega (Simono sūnus).md",
+      "dates": "XV–XVI a.",
+      "bio": "Bagdonas buvo valdovo raštininko Simono Sapiegos sūnus ir Jono Simonaičio brolis. Kaip ir brolis, tarnybą pradėjo valdovo kanceliarijoje. Ankstyvoji šeimos istorija glaudžiai susijusi su šios įstaigos žmonėmis.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2018~1575026033687/J.04~2018~1575026033687.pdf"
+        }
+      ],
+      "related": [
+        "Simonas Sapiega (XV a. raštininkas)",
+        "Jonas Ivanas Sapiega (apie 1450–1517)"
+      ],
+      "aliases": [
+        "Bogdanas Sapiega"
+      ]
+    },
+    {
+      "name": "Jonas Ivanas Sapiega (apie 1450–1517)",
+      "notePath": "objektai/asmenys/Jonas Ivanas Sapiega (apie 1450–1517).md",
+      "dates": "apie 1450–1517",
+      "bio": "Jonas Ivanas Sapiega buvo diplomatas ir vienas ankstyvųjų Sapiegų pareigūnų. Tarnavo valdovų kanceliarijoje, vyko į Maskvą bei Romą, tapo Vitebsko ir Palenkės vaivada. Jo įsigytas Kodenis virto svarbia šeimos rezidencija.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/jonas-ivanas-sapiega/"
+        }
+      ],
+      "related": [
+        "Simonas Sapiega (XV a. raštininkas)",
+        "Bagdonas Sapiega (Simono sūnus)"
+      ],
+      "aliases": [
+        "Jonas Simonaitis Sapiega"
+      ]
+    },
+    {
+      "name": "Povilas Steponas Sapiega (1565–1635)",
+      "notePath": "objektai/asmenys/Povilas Steponas Sapiega (1565–1635).md",
+      "dates": "1565–1635",
+      "bio": "Povilas Steponas Sapiega tarnavo Stepono Batoro ir Zigmanto Vazos dvare. Ilgai ėjo Lietuvos žirgininko pareigas, 1623 m. tapo pakancleriu. Jo mecenatystė siejama su Alšėnų pranciškonų vienuolynu ir bažnyčia.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/povilas-steponas-sapiega/"
+        }
+      ],
+      "related": [],
+      "aliases": []
+    },
+    {
+      "name": "Mikalojus Sapiega (apie 1545–1599)",
+      "notePath": "objektai/asmenys/Mikalojus Sapiega (apie 1545–1599).md",
+      "dates": "apie 1545–1599",
+      "bio": "Mikalojus Sapiega dalyvavo Livonijos kare, ėjo vaivados pareigas. Jo ir Onos Višnioveckaitės šeimoje augo septyni vaikai.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+        }
+      ],
+      "related": [
+        "Ona Višnioveckaitė (Mikalojaus Sapiegos žmona)",
+        "Mikalojus Sapiega (apie 1581–1644)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Ona Višnioveckaitė (Mikalojaus Sapiegos žmona)",
+      "notePath": "objektai/asmenys/Ona Višnioveckaitė (Mikalojaus Sapiegos žmona).md",
+      "dates": "XVI a.",
+      "bio": "Ona Višnioveckaitė 1580 m. ištekėjo už Mikalojaus Sapiegos. Buvo septynių jo vaikų motina.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+        }
+      ],
+      "related": [
+        "Mikalojus Sapiega (apie 1545–1599)"
+      ],
+      "aliases": [
+        "Ana Višnioveckaitė"
+      ]
+    },
+    {
+      "name": "Jonas Sapiega (mirė 1602 m.)",
+      "notePath": "objektai/asmenys/Jonas Sapiega (mirė 1602 m.).md",
+      "dates": "mirė 1602 m.",
+      "bio": "Mikalojaus Sapiegos ir Onos Višnioveckaitės sūnus.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+        }
+      ],
+      "related": [
+        "Mikalojus Sapiega (apie 1545–1599)",
+        "Ona Višnioveckaitė (Mikalojaus Sapiegos žmona)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Kristupas Sapiega (1590–1637)",
+      "notePath": "objektai/asmenys/Kristupas Sapiega (1590–1637).md",
+      "dates": "1590–1637",
+      "bio": "Mikalojaus Sapiegos ir Onos Višnioveckaitės sūnus.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+        }
+      ],
+      "related": [
+        "Mikalojus Sapiega (apie 1545–1599)",
+        "Ona Višnioveckaitė (Mikalojaus Sapiegos žmona)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Frydrichas Sapiega (mirė 1626 m.)",
+      "notePath": "objektai/asmenys/Frydrichas Sapiega (mirė 1626 m.).md",
+      "dates": "mirė 1626 m.",
+      "bio": "Mikalojaus Sapiegos ir Onos Višnioveckaitės sūnus.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+        }
+      ],
+      "related": [
+        "Mikalojus Sapiega (apie 1545–1599)",
+        "Ona Višnioveckaitė (Mikalojaus Sapiegos žmona)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Aleksandras Kazimieras Sapiega (mirė 1619 m.)",
+      "notePath": "objektai/asmenys/Aleksandras Kazimieras Sapiega (mirė 1619 m.).md",
+      "dates": "mirė 1619 m.",
+      "bio": "Mikalojaus Sapiegos ir Onos Višnioveckaitės sūnus.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+        }
+      ],
+      "related": [
+        "Mikalojus Sapiega (apie 1545–1599)",
+        "Ona Višnioveckaitė (Mikalojaus Sapiegos žmona)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Alšė Sapiegaitė (Mikalojaus duktė)",
+      "notePath": "objektai/asmenys/Alšė Sapiegaitė (Mikalojaus duktė).md",
+      "dates": "XVI–XVII a.",
+      "bio": "Mikalojaus Sapiegos ir Onos Višnioveckaitės duktė.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+        }
+      ],
+      "related": [
+        "Mikalojus Sapiega (apie 1545–1599)",
+        "Ona Višnioveckaitė (Mikalojaus Sapiegos žmona)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Gabrielė Sapiegaitė (Mikalojaus duktė)",
+      "notePath": "objektai/asmenys/Gabrielė Sapiegaitė (Mikalojaus duktė).md",
+      "dates": "XVI–XVII a.",
+      "bio": "Mikalojaus Sapiegos ir Onos Višnioveckaitės duktė.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+        }
+      ],
+      "related": [
+        "Mikalojus Sapiega (apie 1545–1599)",
+        "Ona Višnioveckaitė (Mikalojaus Sapiegos žmona)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Mikalojus Sapiega (apie 1581–1644)",
+      "notePath": "objektai/asmenys/Mikalojus Sapiega (apie 1581–1644).md",
+      "dates": "apie 1581–1644",
+      "bio": "Mikalojus Sapiega tarnavo Šventosios Romos imperijos kariuomenėje, vėliau ėjo LDK didžiojo vėliavininko, Lietuvos Brastos vaivados ir Vilniaus kašteliono pareigas. Jo vardas siejamas su Kodenio bažnyčia. Pasakojimas apie iš Romos atgabento paveikslo pagrobimą enciklopedijoje pažymėtas kaip nepatvirtintas.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega/"
+        }
+      ],
+      "related": [
+        "Mikalojus Sapiega (apie 1545–1599)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Andrius Sapiega (mirė 1621 m.)",
+      "notePath": "objektai/asmenys/Andrius Sapiega (mirė 1621 m.).md",
+      "dates": "mirė 1621 m.",
+      "bio": "Andrius Sapiega buvo LDK karo ir valstybės veikėjas, Polocko ir Smolensko vaivada. Dalyvavo Livonijos kare. Po 1578 m. kovų parašytas jo eilėraštis vėliau pateko į „Radviliados“ leidinį.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/andrius-sapiega/"
+        }
+      ],
+      "related": [
+        "Mikalojus Sapiega (apie 1545–1599)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jonas Frydrichas Sapiega (1618–1664)",
+      "notePath": "objektai/asmenys/Jonas Frydrichas Sapiega (1618–1664).md",
+      "dates": "1618–1664",
+      "bio": "Jonas Frydrichas Sapiega studijavo Krokuvoje ir Italijoje, tarnavo Prancūzijos kariuomenėje. Grįžęs kariavo ATR pajėgose, ėjo lauko raštininko pareigas, o 1663 m. tapo LDK lauko etmonu. Jo sūnus Povilas Pranciškus pasirinko dvasininko kelią.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega/"
+        }
+      ],
+      "related": [
+        "Povilas Pranciškus Sapiega (1657–1715)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jonas Frydrichas Sapiega (1680–1751)",
+      "notePath": "objektai/asmenys/Jonas Frydrichas Sapiega (1680–1751).md",
+      "dates": "1680–1751",
+      "bio": "Jonas Frydrichas Sapiega buvo kancleris, rašytojas ir knygų kolekcininkas. Kodenio Šv. Onos bažnyčioje jo iniciatyva įrengta Sapiegų portretų galerija. Ankstyvųjų protėvių atvaizdai buvo įsivaizduojami, vėlesnieji kopijuoti iš žinomų portretų ir graviūrų.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://proveniencijos.lnb.lt/sapiega-jonas-frydrichas/"
+        }
+      ],
+      "related": [
+        "Konstancija Radvilaitė (Jono Frydricho Sapiegos žmona)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Konstancija Radvilaitė (Jono Frydricho Sapiegos žmona)",
+      "notePath": "objektai/asmenys/Konstancija Radvilaitė (Jono Frydricho Sapiegos žmona).md",
+      "dates": "XVII–XVIII a.",
+      "bio": "Konstancija Radvilaitė buvo Karolio Stanislovo Radvilos duktė ir Jono Frydricho Sapiegos, gyvenusio 1680–1751 m., žmona. Jos santuoka siejo Radvilas su Kodenio Sapiegomis.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega-1/"
+        }
+      ],
+      "related": [
+        "Jonas Frydrichas Sapiega (1680–1751)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jonas Stanislovas Sapiega (1589–1635)",
+      "notePath": "objektai/asmenys/Jonas Stanislovas Sapiega (1589–1635).md",
+      "dates": "1589–1635",
+      "bio": "Leono sūnus Jonas Stanislovas studijavo Vilniuje ir Vakarų Europoje. Nuo 1621 m. buvo LDK didysis maršalka, dalyvavo karuose ir diplomatinėse pasiuntinybėse. Vedęs Oną Scholastiką Chodkevičiūtę, paveldėjo jos užrašytas valdas, tarp jų Kretingą, Skuodą ir Liachavičius.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/jonas-stanislovas-sapiega/"
+        }
+      ],
+      "related": [
+        "Leonas Sapiega",
+        "Kazimieras Leonas Sapiega (1609–1656)",
+        "Ona Scholastika Chodkevičiūtė"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Ona Scholastika Chodkevičiūtė",
+      "notePath": "objektai/asmenys/Ona Scholastika Chodkevičiūtė.md",
+      "dates": "mirė 1625 m.",
+      "bio": "Ona Scholastika buvo Jono Karolio Chodkevičiaus duktė. 1620 m. ištekėjo už Jono Stanislovo Sapiegos. Prieš mirtį vyrui užrašė valdas, tarp kurių buvo Kretinga, Skuodas ir Liachavičiai.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/jonas-stanislovas-sapiega/"
+        }
+      ],
+      "related": [
+        "Jonas Stanislovas Sapiega (1589–1635)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Kristupas Mikalojus Sapiega (1607–1631)",
+      "notePath": "objektai/asmenys/Kristupas Mikalojus Sapiega (1607–1631).md",
+      "dates": "1607–1631",
+      "bio": "Kristupas Mikalojus buvo vienas iš Leono Sapiegos sūnų. Jo knygos kartu su tėvo ir brolių rinkiniais sudarė biblioteką, vėliau patekusią į Vilniaus universitetą ir vadinamą Bibliotheca Sapiehana.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://virtus.biblioteka.vu.lt/"
+        }
+      ],
+      "related": [
+        "Leonas Sapiega",
+        "Jonas Stanislovas Sapiega (1589–1635)",
+        "Kazimieras Leonas Sapiega (1609–1656)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Kazimieras Leonas Sapiega (1609–1656)",
+      "notePath": "objektai/asmenys/Kazimieras Leonas Sapiega (1609–1656).md",
+      "dates": "1609–1656",
+      "bio": "Kazimieras Leonas buvo Leono Sapiegos ir Elžbietos Radvilaitės sūnus. Rėmė teisės studijas Vilniaus universitete, Berezos kartūzus, paliko universitetui šeimos biblioteką. Ėjo LDK pakanclerio pareigas. Tai XVII a. mecenatas, kurį reikia skirti nuo vėliau gyvenusio bendravardžio.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-sapiega/"
+        }
+      ],
+      "related": [
+        "Leonas Sapiega",
+        "Elžbieta Radvilaitė (Leono Sapiegos žmona)",
+        "Jonas Stanislovas Sapiega (1589–1635)",
+        "Kristupas Mikalojus Sapiega (1607–1631)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Elžbieta Radvilaitė (Leono Sapiegos žmona)",
+      "notePath": "objektai/asmenys/Elžbieta Radvilaitė (Leono Sapiegos žmona).md",
+      "dates": "XVI–XVII a.",
+      "bio": "Elžbieta Radvilaitė buvo Kristupo Radvilos Perkūno duktė, antroji Leono Sapiegos žmona ir Kazimiero Leono Sapiegos motina. Šis ryšys sujungė Leono šeimą su Biržų Radvilomis.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-sapiega/"
+        }
+      ],
+      "related": [
+        "Kristupas Radvila Perkūnas",
+        "Leonas Sapiega",
+        "Kazimieras Leonas Sapiega (1609–1656)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Aleksandras Povilas Sapiega (1672–1734)",
+      "notePath": "objektai/asmenys/Aleksandras Povilas Sapiega (1672–1734).md",
+      "dates": "1672–1734",
+      "bio": "Aleksandras Povilas buvo Kazimiero Jono Sapiegos ir Kristinos Hlebavičiūtės sūnus. Ėjo LDK didžiojo maršalkos pareigas, dalyvavo 1700 m. Valkininkų mūšyje. Su Marija Kristina de Béthune susilaukė trijų sūnų.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
+        }
+      ],
+      "related": [
+        "Kazimieras Jonas Sapiega",
+        "Kristina Hlebavičiūtė",
+        "Marija Kristina de Béthune",
+        "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Kristina Hlebavičiūtė",
+      "notePath": "objektai/asmenys/Kristina Hlebavičiūtė.md",
+      "dates": "XVII a.",
+      "bio": "Kristina Hlebavičiūtė buvo Kazimiero Jono Sapiegos žmona ir Aleksandro Povilo Sapiegos motina. Ji priklausė Hlebavičių giminei.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
+        }
+      ],
+      "related": [
+        "Kazimieras Jonas Sapiega",
+        "Aleksandras Povilas Sapiega (1672–1734)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Marija Kristina de Béthune",
+      "notePath": "objektai/asmenys/Marija Kristina de Béthune.md",
+      "dates": "XVII–XVIII a.",
+      "bio": "Marija Kristina de Béthune, anksčiau Radvilienė, ištekėjo už Aleksandro Povilo Sapiegos. Buvo karalienės Marijos Kazimieros dukterėčia. Jų šeimoje gimė trys sūnūs.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
+        }
+      ],
+      "related": [
+        "Aleksandras Povilas Sapiega (1672–1734)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Karolina Teresė Radvilaitė (1707–1765)",
+      "notePath": "objektai/asmenys/Karolina Teresė Radvilaitė (1707–1765).md",
+      "dates": "1707–1765",
+      "bio": "Karolina Teresė buvo Karolio Stanislovo Radvilos ir Onos Kotrynos Sanguškaitės duktė. 1727 m. ištekėjo už Kazimiero Leono Karolio Sapiegos. Jų vaikai – Ona Paulina, Aleksandras Mykolas ir Mykolas Ksaveras.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
+        }
+      ],
+      "related": [
+        "Kazimieras Leonas Sapiega",
+        "Ona Sapiegaitė-Jablonowska",
+        "Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)",
+        "Mykolas Ksaveras Sapiega (Anykščių ir Punios seniūnas, 1735–1766)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Aleksandras Sapiega (1624–1671)",
+      "notePath": "objektai/asmenys/Aleksandras Sapiega (1624–1671).md",
+      "dates": "1624–1671",
+      "bio": "Aleksandras Sapiega studijavo teologiją, filosofiją ir bažnytinę teisę. Iš pradžių buvo Vilniaus sufraganas, vėliau Žemaičių, nuo 1667 m. – Vilniaus vyskupas. Rėmė bažnyčių statybą ir parapijų kūrimą.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/aleksandras-sapiega/"
+        }
+      ],
+      "related": [],
+      "aliases": []
+    },
+    {
+      "name": "Povilas Pranciškus Sapiega (1657–1715)",
+      "notePath": "objektai/asmenys/Povilas Pranciškus Sapiega (1657–1715).md",
+      "dates": "1657–1715",
+      "bio": "Povilas Pranciškus Sapiega tapo cistersu ir vienuolyno abatu. 1715 m. paskirtas Žemaičių vyskupu, tačiau Varnių nepasiekė: susirgo ir mirė pakeliui.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/povilas-pranciskus-sapiega/"
+        }
+      ],
+      "related": [
+        "Jonas Frydrichas Sapiega (1618–1664)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jonas Kazimieras Sapiega (mirė 1730 m.)",
+      "notePath": "objektai/asmenys/Jonas Kazimieras Sapiega (mirė 1730 m.).md",
+      "dates": "mirė 1730 m.",
+      "bio": "Jonas Kazimieras Sapiega ėjo LDK didžiojo etmono pareigas, vėliau tarnavo Rusijoje ir tapo feldmaršalu. Santuoka su Liudvika Opalinskaite siejo jį su didelėmis valdomis Didžiojoje Lenkijoje. Jo sūnus buvo Petras Povilas.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
+        }
+      ],
+      "related": [
+        "Liudvika Opalinskaitė",
+        "Petras Povilas Sapiega (1701–1771)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Liudvika Opalinskaitė",
+      "notePath": "objektai/asmenys/Liudvika Opalinskaitė.md",
+      "dates": "XVII–XVIII a.",
+      "bio": "Liudvika Opalinskaitė buvo Jono Kazimiero Sapiegos žmona. Su jos kraičiu šeima įgijo didelių valdų Didžiojoje Lenkijoje.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
+        }
+      ],
+      "related": [
+        "Jonas Kazimieras Sapiega (mirė 1730 m.)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Petras Povilas Sapiega (1701–1771)",
+      "notePath": "objektai/asmenys/Petras Povilas Sapiega (1701–1771).md",
+      "dates": "1701–1771",
+      "bio": "Petras Povilas buvo Jono Kazimiero Sapiegos sūnus. Jaunystėje gyveno Rusijoje, vedė Sofiją Skavronskaitę, vėliau grįžo į ATR. Nuo 1744 m. buvo Smolensko vaivada; gyvenimo pabaigoje rėmė Baro konfederaciją.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/petras-povilas-sapiega/"
+        }
+      ],
+      "related": [
+        "Jonas Kazimieras Sapiega (mirė 1730 m.)",
+        "Sofija Skavronskaitė"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Sofija Skavronskaitė",
+      "notePath": "objektai/asmenys/Sofija Skavronskaitė.md",
+      "dates": "XVIII a.",
+      "bio": "Sofija Skavronskaitė buvo Rusijos imperatorienės Jekaterinos I dukterėčia ir Petro Povilo Sapiegos žmona. Ši santuoka sustiprino Sapiegų ryšius su Rusijos valdovo dvaru.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/petras-povilas-sapiega/"
+        }
+      ],
+      "related": [
+        "Petras Povilas Sapiega (1701–1771)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Juozapas Sapiega (1737–1792)",
+      "notePath": "objektai/asmenys/Juozapas Sapiega (1737–1792).md",
+      "dates": "1737–1792",
+      "bio": "Juozapas Sapiega buvo kavalerijos pulkininkas ir vienas Baro konfederacijos organizatorių LDK. 1769 m. tapo Lietuvos konfederatų maršalka ir jų kariuomenės vadu. Jo sūnus Aleksandras vėliau veikė Napoleono laikų Lietuvoje.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/juozapas-sapiega/"
+        }
+      ],
+      "related": [
+        "Aleksandras Sapiega (1773–1812)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Aleksandras Sapiega (1773–1812)",
+      "notePath": "objektai/asmenys/Aleksandras Sapiega (1773–1812).md",
+      "dates": "1773–1812",
+      "bio": "Aleksandras, Juozapo Sapiegos sūnus, buvo Napoleono bendražygis. 1812 m. dalyvavo Lietuvos laikinosios vyriausybės komisijos veikloje.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/sapiegos/"
+        }
+      ],
+      "related": [
+        "Juozapas Sapiega (1737–1792)",
+        "Leonas Sapiega (1803–1878)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Leonas Sapiega (1803–1878)",
+      "notePath": "objektai/asmenys/Leonas Sapiega (1803–1878).md",
+      "dates": "1803–1878",
+      "bio": "Leonas Sapiega dalyvavo 1830–1831 m. sukilime, vėliau gyveno Galicijoje. Rėmė žemės ūkio švietimą, prisidėjo prie kredito įstaigų kūrimo ir Krokuvos–Lvovo geležinkelio tiesimo. Buvo Galicijos seimo maršalka.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/leonas-sapiega-1/"
+        }
+      ],
+      "related": [
+        "Adomas Sapiega (1828–1903)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Adomas Sapiega (1828–1903)",
+      "notePath": "objektai/asmenys/Adomas Sapiega (1828–1903).md",
+      "dates": "1828–1903",
+      "bio": "Adomas Sapiega organizavo paramą 1863–1864 m. sukilimui. Vėliau veikė Galicijos politikoje ir ūkio draugijose, rėmė spaudą. Krasičine kaupė knygas ir muziejines vertybes. Buvo Leono sūnus ir būsimojo kardinolo Adomo Stepono tėvas.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/adomas-sapiega/"
+        }
+      ],
+      "related": [
+        "Leonas Sapiega (1803–1878)",
+        "Adomas Steponas Sapiega (1867–1951)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Adomas Steponas Sapiega (1867–1951)",
+      "notePath": "objektai/asmenys/Adomas Steponas Sapiega (1867–1951).md",
+      "dates": "1867–1951",
+      "bio": "Adomas Steponas Sapiega tapo Krokuvos vyskupu, vėliau arkivyskupu ir kardinolu. Antrojo pasaulinio karo metais Krokuvoje įsteigė pogrindinę kunigų seminariją. Jo tėvas Adomas buvo Galicijos visuomenės veikėjas.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/adomas-steponas-sapiega/"
+        }
+      ],
+      "related": [
+        "Adomas Sapiega (1828–1903)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Eustachijus Kajetonas Sapiega (1881–1963)",
+      "notePath": "objektai/asmenys/Eustachijus Kajetonas Sapiega (1881–1963).md",
+      "dates": "1881–1963",
+      "bio": "Eustachijus Kajetonas Sapiega buvo Lenkijos diplomatas, 1920–1921 m. užsienio reikalų ministras. Briuselyje dalyvavo derybose su Lietuvos atstovais. Antrojo pasaulinio karo pradžioje kalintas SSRS, vėliau išvyko į Keniją.",
+      "sources": [
+        {
+          "title": "Biografijos ir giminystės šaltinis",
+          "url": "https://www.vle.lt/straipsnis/eustachy-kajetan-sapieha/"
+        }
+      ],
+      "related": [],
+      "aliases": [
+        "Eustachy Kajetan Sapieha"
+      ]
+    },
+    {
+      "name": "Jonas Petras Sapiega (1569–1611)",
+      "notePath": "objektai/asmenys/Jonas Petras Sapiega (1569–1611).md",
+      "dates": "1569–1611",
+      "bio": "Jonas Petras buvo Leono Sapiegos pusbrolis ir Povilo Jono Sapiegos tėvas. 1605 m. Salaspilio mūšyje vadovavo dešiniajam kariuomenės sparnui. Vėliau dalyvavo žygiuose į Maskvą ir paliko 1608–1611 m. įvykių dienoraštį.",
+      "sources": [
+        {
+          "title": "VLE: Jonas Petras Sapiega (1569–1611)",
+          "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
+        }
+      ],
+      "related": [
+        "Leonas Sapiega",
+        "Povilas Sapiega",
+        "Povilas Sapiega (Jono Petro tėvas)",
+        "Ona Chodkevičiūtė (Jono Petro Sapiegos motina)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Povilas Sapiega (Jono Petro tėvas)",
+      "notePath": "objektai/asmenys/Povilas Sapiega (Jono Petro tėvas).md",
+      "dates": "mirė 1580 m.",
+      "bio": "Povilas Sapiega ir Ona Chodkevičiūtė buvo karvedžio Jono Petro Sapiegos tėvai. Šį Povilą reikia skirti nuo ankstesnės kartos Povilo, vadinto Nestoru.",
+      "sources": [
+        {
+          "title": "VLE: Povilas Sapiega (Jono Petro tėvas)",
+          "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
+        }
+      ],
+      "related": [
+        "Jonas Petras Sapiega (1569–1611)",
+        "Ona Chodkevičiūtė (Jono Petro Sapiegos motina)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Ona Chodkevičiūtė (Jono Petro Sapiegos motina)",
+      "notePath": "objektai/asmenys/Ona Chodkevičiūtė (Jono Petro Sapiegos motina).md",
+      "dates": "XVI a.",
+      "bio": "Ona Chodkevičiūtė buvo Povilo Sapiegos žmona ir Jono Petro Sapiegos motina.",
+      "sources": [
+        {
+          "title": "VLE: Ona Chodkevičiūtė (Jono Petro Sapiegos motina)",
+          "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
+        }
+      ],
+      "related": [
+        "Povilas Sapiega (Jono Petro tėvas)",
+        "Jonas Petras Sapiega (1569–1611)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jonas Sapiega (Leono tėvas, Oršos paseniūnis)",
+      "notePath": "objektai/asmenys/Jonas Sapiega (Leono tėvas, Oršos paseniūnis).md",
+      "dates": "XVI a.",
+      "bio": "Oršos paseniūnis Jonas Sapiega ir Bogdana Druckytė-Sokolinskaitė buvo Leono Sapiegos tėvai.",
+      "sources": [
+        {
+          "title": "VLE: Jonas Sapiega (Leono tėvas, Oršos paseniūnis)",
+          "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
+        }
+      ],
+      "related": [
+        "Leonas Sapiega",
+        "Bogdana Druckytė-Sokolinskaitė"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Bogdana Druckytė-Sokolinskaitė",
+      "notePath": "objektai/asmenys/Bogdana Druckytė-Sokolinskaitė.md",
+      "dates": "XVI a.",
+      "bio": "Bogdana Druckytė-Sokolinskaitė buvo Oršos paseniūnio Jono Sapiegos žmona ir Leono Sapiegos motina.",
+      "sources": [
+        {
+          "title": "VLE: Bogdana Druckytė-Sokolinskaitė",
+          "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
+        }
+      ],
+      "related": [
+        "Leonas Sapiega",
+        "Jonas Sapiega (Leono tėvas, Oršos paseniūnis)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Povilas Sapiega (apie 1490–1579)",
+      "notePath": "objektai/asmenys/Povilas Sapiega (apie 1490–1579).md",
+      "dates": "apie 1490–1579",
+      "bio": "Povilas ir Elena Alšėniškaitė buvo Mikalojaus bei Andriaus Sapiegų tėvai. Datos šiame puslapyje pateikiamos pagal atskirą Mikalojaus Sapiegos biografiją; bendroje VLE giminės apžvalgoje jos skiriasi.",
+      "sources": [
+        {
+          "title": "VLE: Povilas Sapiega (apie 1490–1579)",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+        }
+      ],
+      "related": [
+        "Elena Alšėniškaitė (Povilo Sapiegos žmona)",
+        "Mikalojus Sapiega (apie 1545–1599)",
+        "Andrius Sapiega (mirė 1621 m.)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Elena Alšėniškaitė (Povilo Sapiegos žmona)",
+      "notePath": "objektai/asmenys/Elena Alšėniškaitė (Povilo Sapiegos žmona).md",
+      "dates": "XVI a.",
+      "bio": "Elena buvo Povilo Sapiegos žmona ir Mikalojaus Sapiegos motina.",
+      "sources": [
+        {
+          "title": "VLE: Elena Alšėniškaitė (Povilo Sapiegos žmona)",
+          "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+        }
+      ],
+      "related": [
+        "Povilas Sapiega (apie 1490–1579)",
+        "Mikalojus Sapiega (apie 1545–1599)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Kazimieras Vladislovas Sapiega",
+      "notePath": "objektai/asmenys/Kazimieras Vladislovas Sapiega.md",
+      "dates": "XVII–XVIII a.",
+      "bio": "Kazimieras Vladislovas buvo Jono Frydricho Sapiegos, gyvenusio 1680–1751 m., tėvas. Jo paties tėvas buvo ankstesnės kartos Jonas Frydrichas, LDK lauko etmonas.",
+      "sources": [
+        {
+          "title": "VLE: Kazimieras Vladislovas Sapiega",
+          "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega-1/"
+        }
+      ],
+      "related": [
+        "Jonas Frydrichas Sapiega (1618–1664)",
+        "Jonas Frydrichas Sapiega (1680–1751)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Mykolas Juozapas Sapiega",
+      "notePath": "objektai/asmenys/Mykolas Juozapas Sapiega.md",
+      "dates": "XVII–XVIII a.",
+      "bio": "Benedikto Povilo Sapiegos sūnus, Palenkės vaivada.",
+      "sources": [
+        {
+          "title": "VLE: Mykolas Juozapas Sapiega",
+          "url": "https://www.vle.lt/straipsnis/sapiegos/"
+        }
+      ],
+      "related": [
+        "B. P. Sapiega"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Pranciškus Steponas Sapiega",
+      "notePath": "objektai/asmenys/Pranciškus Steponas Sapiega.md",
+      "dates": "XVII a.",
+      "bio": "Pranciškus Steponas buvo Jono Kazimiero Sapiegos tėvas.",
+      "sources": [
+        {
+          "title": "VLE: Pranciškus Steponas Sapiega",
+          "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
+        }
+      ],
+      "related": [
+        "Jonas Kazimieras Sapiega (mirė 1730 m.)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Dorotėja Firlėjūtė",
+      "notePath": "objektai/asmenys/Dorotėja Firlėjūtė.md",
+      "dates": "mirė 1591 m.",
+      "bio": "Dorotėja Firlėjūtė buvo pirmoji Leono Sapiegos žmona. Jos atvaizdas ir epitafija išliko bendrame šeimos antkapiniame paminkle Vilniaus Šv. arkangelo Mykolo bažnyčioje.",
+      "sources": [
+        {
+          "title": "Bažnytinio paveldo muziejus: Leono Sapiegos ir jo žmonų antkapis",
+          "url": "https://gidas.bpmuziejus.lt/products/tours/church-of-st-michael-the-archangel-and-treasury/"
+        }
+      ],
+      "related": [
+        "Leonas Sapiega"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Grizelda Vodinskytė",
+      "notePath": "objektai/asmenys/Grizelda Vodinskytė.md",
+      "dates": "XVII a.",
+      "bio": "Antroji Jono Stanislovo Sapiegos žmona, Kristupo motina. Palaidota šeimos mauzoliejuje Vilniuje.",
+      "sources": [
+        {
+          "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+          "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+        }
+      ],
+      "related": [
+        "Jonas Stanislovas Sapiega (1589–1635)",
+        "Kristupas Sapiega (Jono Stanislovo sūnus)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Karolis Sapiega (Jono Stanislovo sūnus)",
+      "notePath": "objektai/asmenys/Karolis Sapiega (Jono Stanislovo sūnus).md",
+      "dates": "XVII a.",
+      "bio": "Jono Stanislovo Sapiegos ir Onos Chodkevičiūtės sūnus, palaidotas Vilniaus Šv. arkangelo Mykolo bažnyčioje.",
+      "sources": [
+        {
+          "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+          "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+        }
+      ],
+      "related": [
+        "Jonas Stanislovas Sapiega (1589–1635)",
+        "Ona Scholastika Chodkevičiūtė"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Kristupas Sapiega (Jono Stanislovo sūnus)",
+      "notePath": "objektai/asmenys/Kristupas Sapiega (Jono Stanislovo sūnus).md",
+      "dates": "XVII a.",
+      "bio": "Jono Stanislovo Sapiegos ir Grizeldos Vodinskytės sūnus, palaidotas šeimos mauzoliejuje Vilniuje.",
+      "sources": [
+        {
+          "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+          "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+        }
+      ],
+      "related": [
+        "Jonas Stanislovas Sapiega (1589–1635)",
+        "Grizelda Vodinskytė"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Teodora Kristina Tarnovskytė",
+      "notePath": "objektai/asmenys/Teodora Kristina Tarnovskytė.md",
+      "dates": "XVII a.",
+      "bio": "Kazimiero Leono Sapiegos (1609–1656) žmona. Jos atminimą saugo antkapis Vilniaus Šv. arkangelo Mykolo bažnyčioje.",
+      "sources": [
+        {
+          "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+          "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+        }
+      ],
+      "related": [
+        "Kazimieras Leonas Sapiega (1609–1656)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Andriejus Sapiega (Leono brolis)",
+      "notePath": "objektai/asmenys/Andriejus Sapiega (Leono brolis).md",
+      "dates": "XVI–XVII a.",
+      "bio": "Leono Sapiegos brolis, palaidotas šeimos kriptoje Vilniaus Šv. arkangelo Mykolo bažnyčioje.",
+      "sources": [
+        {
+          "title": "Vilniaus arkivyskupija: Sapiegų kriptoje palaidoti žmonės",
+          "url": "https://vilnensis.lt/isskirtines-ekskursijos-sapiegu-kriptoje-ir-triju-parodu-uzdarymas-baznytinio-paveldo-muziejuje/"
+        }
+      ],
+      "related": [
+        "Leonas Sapiega"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Andriejus Sapiega (Leono sūnus)",
+      "notePath": "objektai/asmenys/Andriejus Sapiega (Leono sūnus).md",
+      "dates": "XVI–XVII a.",
+      "bio": "Mažametis Leono Sapiegos sūnus, palaidotas šeimos kriptoje. Jo nereikia painioti su bendravardžiu Leono broliu.",
+      "sources": [
+        {
+          "title": "Vilniaus arkivyskupija: Sapiegų kriptoje palaidoti žmonės",
+          "url": "https://vilnensis.lt/isskirtines-ekskursijos-sapiegu-kriptoje-ir-triju-parodu-uzdarymas-baznytinio-paveldo-muziejuje/"
+        }
+      ],
+      "related": [
+        "Leonas Sapiega"
+      ],
+      "aliases": []
+    }
+  ],
+  "articleSlug": "sapiegos-statutai-rumai-ir-laiskai"
+}

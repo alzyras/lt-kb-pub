@@ -1005,6 +1005,9 @@
 }
 
 @media (max-width: 800px) {
+  .exhibition-page[data-editorial-profile="family-overview"] .exhibition-hero-content {
+    box-sizing: border-box;
+  }
   // Keep the edited A title inside its card, including padding.
   .exhibition-page[data-exhibition-id="valancius-laiskai-imperijos-seselyje"] .exhibition-hero-content {
     box-sizing: border-box;
@@ -1116,4 +1119,33 @@
   .exhibition-chapter-scrim {
     transition: none;
   }
+}
+
+.exhibition-family-members > header {
+  display: block;
+}
+
+.exhibition-family-register {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 2rem;
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+
+  > li {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.35rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--lightgray);
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  > li > span, small { color: var(--gray); }
+  small { font-size: 0.8rem; line-height: 1.5; }
+
+  @media (max-width: 700px) { grid-template-columns: 1fr; }
 }
