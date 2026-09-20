@@ -296,6 +296,27 @@ function pageTitle(page: QuartzPluginData): string {
   return String(page.frontmatter?.title ?? page.frontmatter?.pavadinimas ?? page.slug ?? "")
 }
 
+function objectPageView(page: QuartzPluginData): Record<string, unknown> {
+  const raw = page.frontmatter?.object_page_view_json
+  if (raw && typeof raw === "object" && !Array.isArray(raw)) {
+    return raw as Record<string, unknown>
+  }
+  if (typeof raw === "string") {
+    try {
+      const parsed = JSON.parse(raw)
+      return parsed && typeof parsed === "object" && !Array.isArray(parsed) ? parsed : {}
+    } catch {
+      return {}
+    }
+  }
+  return {}
+}
+
+function featuredClaimIds(page: QuartzPluginData): string[] {
+  const ids = objectPageView(page).featured_claim_ids
+  return Array.isArray(ids) ? ids.map(String).filter(Boolean) : []
+}
+
 function plainTitle(title: string): string {
   return title.replace(/\s*\([^)]*\)\s*$/g, "").trim() || title
 }
@@ -387,7 +408,7 @@ function claimSupportIds(block: string): string[] {
   return [...match[1].matchAll(/-\s+(c-\d+)/g)].map((support) => support[1])
 }
 
-function spotlightClaims(markdown: string): SpotlightClaim[] {
+function spotlightClaims(markdown: string, preferredIds: string[] = []): SpotlightClaim[] {
   const claimsSection = sectionMarkdown(markdown, "Teiginiai")
   const citations = citationSources(markdown)
   const claimRegex =
@@ -416,6 +437,14 @@ function spotlightClaims(markdown: string): SpotlightClaim[] {
     })
   }
 
+  if (preferredIds.length > 0) {
+    const claimsById = new Map(claims.map((claim) => [claim.id, claim]))
+    const selected = preferredIds
+      .map((id) => claimsById.get(id))
+      .filter((claim): claim is SpotlightClaim => Boolean(claim))
+    if (selected.length > 0) return selected
+  }
+
   return claims
 }
 
@@ -440,8 +469,11 @@ export function buildHomeCollectionSpotlight(allFiles: QuartzPluginData[]): Spot
         return undefined
       }
 
-      const claims = claimPool(spotlightClaims(markdown), 48)
-      if (claims.length < 10) {
+      const preferredIds = featuredClaimIds(page)
+      const claims = preferredIds.length
+        ? spotlightClaims(markdown, preferredIds).slice(0, 6)
+        : claimPool(spotlightClaims(markdown), 48)
+      if (preferredIds.length ? claims.length === 0 : claims.length < 10) {
         return undefined
       }
 

@@ -1,12 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvių tautininkų sąjunga'
+pavadinimas: Lietuvių tautininkų sąjunga
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1924 m.'
-  - '1931 m.'
-  - '1938 m.'
+  - 1924 m.
+  - 1931 m.
+  - 1938 m.
 date_start: '1924'
 date_end: '1938'
 sukurta: ''
@@ -16,19 +16,17 @@ tags:
   - institucija
   - tauta
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+object_page_view_json: '{"wiki":{"intro":"Lietuvių tautininkų ir respublikonų sąjunga (LTRS) – 1924–1940 m., 1989–2008 m. kaip Lietuvių tautininkų sąjunga, 2011-2017 m. kaip Tautininkų sąjunga ir 2017–2022 m. veikusi dešinioji Lietuvos politinė partija.","infobox":[{"code":"row_1","label":"","value":"Tautininkų sąjunga","cells":[{"text":"Tautininkų sąjunga","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"Pirmininkas","value":"Petras Gražulis","cells":[{"text":"Pirmininkas","header":true,"colspan":1,"rowspan":1},{"text":"Petras Gražulis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"Įkurta","value":"1924-1940 m.\n1989-2008 m.\n2011-2024 m.","cells":[{"text":"Įkurta","header":true,"colspan":1,"rowspan":1},{"text":"1924-1940 m.\n1989-2008 m.\n2011-2024 m.","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Būstinė","value":"Vilnius","cells":[{"text":"Būstinė","header":true,"colspan":1,"rowspan":1},{"text":"Vilnius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Narių skaičius","value":"7000","cells":[{"text":"Narių skaičius","header":true,"colspan":1,"rowspan":1},{"text":"7000","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Politinė ideologija","value":"Nacionalizmas, Konservatizmas","cells":[{"text":"Politinė ideologija","header":true,"colspan":1,"rowspan":1},{"text":"Nacionalizmas, Konservatizmas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"","value":"Svetainė","cells":[{"text":"Svetainė","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"","value":"http://www.tautininkai.lt/","cells":[{"text":"http://www.tautininkai.lt/","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"1827","revision_id":"7689514","status":"published","translation_status":"native","source":{"title":"Lietuvos tautininkų ir respublikonų sąjunga","url":"https://lt.wikipedia.org/wiki/Lietuvos_tautinink%C5%B3_ir_respublikon%C5%B3_s%C4%85junga","publisher":"Vikipedija","language":"lt","article_id":"1827","revision_id":"7689514","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7689514","history_url":"https://lt.wikipedia.org/w/index.php?title=Lietuvos_tautinink%C5%B3_ir_respublikon%C5%B3_s%C4%85junga&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:10.796515+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"e26fe4e8989a8acca74977d6ba20840d9386bd0d4d02621933788360af113a26","version_pk":"b0139c78723bf06300b229762d5a7239"}}}'
 ---
 # Lietuvių tautininkų sąjunga
 

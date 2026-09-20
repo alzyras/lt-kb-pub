@@ -1,0 +1,64 @@
+.external-sources {
+  display: grid;
+  gap: 1.15rem;
+  margin: 2.2rem 0 0;
+  padding: 1.25rem 1.35rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.9rem;
+  background: color-mix(in srgb, var(--lightgray) 22%, transparent);
+}
+
+.external-sources-heading h2,
+.external-sources-group h3,
+.external-sources-heading p {
+  margin: 0;
+}
+
+.external-sources-heading h2 {
+  font-size: 1.15rem;
+}
+
+.external-sources-eyebrow {
+  color: var(--secondary);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.external-sources-groups {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  gap: 1rem 1.5rem;
+}
+
+.external-sources-group h3 {
+  color: var(--darkgray);
+  font-size: 0.82rem;
+}
+
+.external-sources-group ul {
+  display: grid;
+  gap: 0.45rem;
+  margin: 0.55rem 0 0;
+  padding-left: 1.1rem;
+}
+
+.external-sources-group li {
+  padding-left: 0.1rem;
+}
+
+.external-sources-group a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.external-sources-group a:hover {
+  text-decoration: underline;
+}
+
+.external-sources-publisher {
+  display: block;
+  color: var(--gray);
+  font-size: 0.72rem;
+}

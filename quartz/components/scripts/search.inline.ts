@@ -302,6 +302,9 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
 async function setupSearch(searchElement: Element) {
   const container = searchElement.querySelector(".search-container") as HTMLElement
   if (!container) return
+  if (container.dataset.searchInitialized === "true") return
+  container.dataset.searchInitialized = "true"
+  window.addCleanup(() => delete container.dataset.searchInitialized)
 
   const sidebar = container.closest(".sidebar") as HTMLElement | null
 
@@ -931,9 +934,9 @@ async function fillDocument(data: ContentIndex) {
   indexPopulated = true
 }
 
-document.addEventListener("nav", async () => {
+export async function initClient() {
   const searchElement = document.getElementsByClassName("search")
   for (const element of searchElement) {
     await setupSearch(element)
   }
-})
+}

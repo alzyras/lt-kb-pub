@@ -11,6 +11,7 @@ import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
 import {
   cleanText,
+  applyObjectPagePrimary,
   displayCaption,
   displayCreator,
   displayDate,
@@ -18,53 +19,38 @@ import {
   MediaEntry,
   mediaDetailSlug,
   mediaImageUrl,
+  mediaThumbnailUrl,
   mergeMediaEntries,
   objectGallerySlug,
 } from "../../util/objectMedia"
-import { buildMediaCatalog, mediaEntriesByObject } from "../../util/mediaCatalog"
+import {
+  assertObjectMediaIndexEquality,
+  buildMediaCatalog,
+  buildObjectMediaIndex,
+  canonicalMediaFrontmatter,
+  mediaSetForObject,
+  objectMediaIndexSnapshot,
+} from "../../util/mediaCatalog"
 import { loadExhibitions } from "../../util/exhibitions"
 import {
   computeFacetSummary,
+  emptyGalleryState,
   MEDIA_GALLERY_PAGE_SIZE,
+  rankMediaEntries,
   type MediaGalleryBootstrap,
 } from "../../util/mediaGallery"
 import { objectDetailEvidenceFromFile } from "../../util/objectDetail"
 import { objectPageViewModel } from "../../util/objectPageView"
 
-function publicEntry(entry: MediaEntry): MediaEntry {
-  return {
-    mediaId: entry.mediaId,
-    detailUrl: entry.detailUrl,
-    title: entry.title,
-    caption: entry.caption,
-    originalTitle: entry.originalTitle,
-    creator: entry.creator,
-    provider: entry.provider,
-    providerLabel: entry.providerLabel,
-    license: entry.license,
-    rightsNote: entry.rightsNote,
-    licenseUrl: entry.licenseUrl,
-    attribution: entry.attribution,
-    dateDisplay: entry.dateDisplay,
-    dateStart: entry.dateStart,
-    dateEnd: entry.dateEnd,
-    width: entry.width,
-    height: entry.height,
-    canonicalUrl: entry.canonicalUrl,
-    sourceUrl: entry.sourceUrl,
-    // Source URLs are embedded directly; no local derivative is created.
-    displayUrl: entry.displayUrl,
-    institution: entry.institution,
-    collection: entry.collection,
-    country: entry.country,
-    language: entry.language,
-    tags: entry.tags?.map(({ code, label, facetKind }) => ({ code, label, facetKind })),
-    relatedObjects: entry.relatedObjects?.map(({ notePath, title, itemType }) => ({
-      notePath,
-      title,
-      itemType,
-    })),
-  }
+function lightEntry(entry: MediaEntry): MediaEntry {
+  const {
+    rightsNote: _rightsNote,
+    visualEvidence: _visualEvidence,
+    metadataEvidence: _metadataEvidence,
+    judgeReason: _judgeReason,
+    ...light
+  } = entry
+  return light
 }
 
 function mediaDescription(entry: MediaEntry): string {
@@ -88,7 +74,7 @@ function mediaStructuredData(entry: MediaEntry, pageUrl: string, description: st
   const imageId = `${pageUrl}#image`
   const creator = displayCreator(entry.creator)
   const rawContentUrl = mediaImageUrl(entry)
-  const rawThumbnailUrl = cleanText(entry.thumbUrl || rawContentUrl)
+  const rawThumbnailUrl = mediaThumbnailUrl(entry)
   const absoluteImage = (value: string) =>
     !value || /^https?:\/\//i.test(value) ? value : new URL(value, pageUrl).toString()
   const contentUrl = absoluteImage(rawContentUrl)
@@ -161,8 +147,9 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
             ),
           ),
       )
-      const objectEntries = mediaEntriesByObject(catalog)
-      const lightCatalog = catalog.map(publicEntry)
+      const objectIndex = buildObjectMediaIndex(catalog)
+      assertObjectMediaIndexEquality(allFiles, objectIndex)
+      const lightCatalog = catalog.map(lightEntry)
       const catalogContent = JSON.stringify(lightCatalog)
       const catalogVersion = createHash("sha256").update(catalogContent).digest("hex").slice(0, 12)
       yield write({
@@ -171,11 +158,17 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
         slug: joinSegments("static", "mediaCatalog") as FullSlug,
         ext: ".json",
       })
+      yield write({
+        ctx,
+        content: JSON.stringify(objectMediaIndexSnapshot(objectIndex)),
+        slug: joinSegments("static", "objectMediaIndex") as FullSlug,
+        ext: ".json",
+      })
       for (const entry of catalog) {
         if (!entry.mediaId) continue
         yield write({
           ctx,
-          content: JSON.stringify(publicEntry(entry)),
+          content: JSON.stringify(lightEntry(entry)),
           slug: joinSegments("static", "media", entry.mediaId) as FullSlug,
           ext: ".json",
         })
@@ -188,13 +181,15 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
         entries: MediaEntry[],
         frontmatter: Record<string, unknown>,
       ) {
+        const lockedObject = cleanText(frontmatter.object_note_path)
+        const rankedEntries = rankMediaEntries(entries, emptyGalleryState(), { lockedObject })
         const bootstrap: MediaGalleryBootstrap = {
-          initialEntries: entries.slice(0, MEDIA_GALLERY_PAGE_SIZE),
-          totalCount: entries.length,
-          facetSummary: computeFacetSummary(entries),
+          initialEntries: rankedEntries.slice(0, MEDIA_GALLERY_PAGE_SIZE),
+          totalCount: rankedEntries.length,
+          facetSummary: computeFacetSummary(rankedEntries),
           catalogUrl: `/static/mediaCatalog.json?v=${catalogVersion}`,
           catalogVersion,
-          lockedObject: cleanText(frontmatter.object_note_path) || undefined,
+          lockedObject: lockedObject || undefined,
         }
         const [tree, vfile] = defaultProcessedContent({
           slug,
@@ -205,9 +200,9 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
             description,
             media_gallery_page: true,
             media_gallery_bootstrap_json: JSON.stringify(bootstrap),
-            media_primary_thumb_url: entries[0] ? mediaImageUrl(entries[0]) : "",
-            media_primary_width: entries[0]?.width,
-            media_primary_height: entries[0]?.height,
+            media_primary_thumb_url: rankedEntries[0] ? mediaThumbnailUrl(rankedEntries[0]) : "",
+            media_primary_width: rankedEntries[0]?.width,
+            media_primary_height: rankedEntries[0]?.height,
             ...frontmatter,
           },
         })
@@ -243,9 +238,14 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
           continue
         const objectSlug = rawObjectSlug as FullSlug
         const notePath = `${objectSlug}.md`
+        const objectMedia = applyObjectPagePrimary(
+          mediaSetForObject(objectIndex, notePath),
+          file.data.frontmatter,
+        )
+        if (!objectMedia.totalCount) continue
         const objectTitle =
           cleanText(file.data.frontmatter?.title) || objectSlug.split("/").at(-1) || "Objektas"
-        const entries = mergeMediaEntries(objectEntries.get(notePath) ?? []).map(publicEntry)
+        const entries = mergeMediaEntries(objectMedia.all).map(lightEntry)
         const evidence = objectDetailEvidenceFromFile(String(file.data.filePath ?? ""))
         const view = objectPageViewModel(
           (file.data.frontmatter ?? {}) as Record<string, unknown>,
@@ -259,6 +259,7 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
           `${objectTitle}: patikrinti atvaizdai, kūriniai ir istorinis kontekstas.`,
           entries,
           {
+            ...canonicalMediaFrontmatter(objectMedia),
             object_title: objectTitle,
             object_slug: objectSlug,
             object_note_path: notePath,
@@ -283,9 +284,9 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
             title,
             description,
             media_detail_page: true,
-            media_detail_json: JSON.stringify(publicEntry(entry)),
+            media_detail_json: JSON.stringify(entry),
+            media_primary_thumb_url: mediaThumbnailUrl(entry),
             media_exhibition_return: exhibitionReturns.get(entry.mediaId),
-            media_primary_thumb_url: mediaImageUrl(entry),
             media_primary_width: entry.width,
             media_primary_height: entry.height,
             media_social_alt: title,

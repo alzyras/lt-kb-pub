@@ -1,11 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'Mykolas Kleopas Oginskis'
+pavadinimas: Mykolas Kleopas Oginskis
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1794 m.'
-  - '1806 m.'
+  - 1794 m.
+  - 1806 m.
 date_start: '1794'
 date_end: '1806'
 sukurta: ''
@@ -15,29 +15,30 @@ tags:
   - bajoras
   - sukilėlis
 amziai:
-  - 'XVIII'
-  - 'XIX'
+  - XVIII
+  - XIX
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-76fcd4e61b900ad7996311f5"
-canonical_name: "Mykolas Kleopas Oginskis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Mykolas Kleopas Oginskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-76fcd4e61b900ad7996311f5
+canonical_name: Mykolas Kleopas Oginskis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Mykolas Kleopas Oginskis
 sameAs: []
-canonical_biography: "Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvyne“ autoriumi; iliustracijos antraštėje jis taip pat pristatomas kaip paskutinio LDK atkūrimo projekto autorius."
+canonical_biography: Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvyne“ autoriumi; iliustracijos antraštėje jis taip pat pristatomas kaip paskutinio LDK atkūrimo projekto autorius.
+object_page_view_json: '{"wiki":{"intro":"Mykolas Kleopas Oginskis (lenk. Michał Kleofas Ogiński 1765 m. rugsėjo 25 d. – 1833 m. spalio 15 d. Florencijoje) – lietuvių kunigaikštis, diplomatas, Abiejų Tautų Respublikos politinis veikėjas, vienas iš 1794 m. sukilimo vadų, 1802 m. Vilniaus universiteto garbės narys, kompozitorius, populiarių Europoje polonezų, mazurkų autorius.","infobox":[{"code":"row_1","label":"","value":"Mykolas Kleopas Oginskis","cells":[{"text":"Mykolas Kleopas Oginskis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Oginskiai","cells":[{"text":"Oginskiai","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Oginskių herbas","cells":[{"text":"Oginskių herbas","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Gimė","value":"1765 m. rugsėjo 25 d.\nGuzuvas arba Salantų apylinkės, Abiejų Tautų Respublika","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1765 m. rugsėjo 25 d.\nGuzuvas arba Salantų apylinkės, Abiejų Tautų Respublika","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Mirė","value":"1833 m. spalio 15 d. (68 metai)\nFlorencija, Toskanos didžioji kunigaikštystė","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"1833 m. spalio 15 d. (68 metai)\nFlorencija, Toskanos didžioji kunigaikštystė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Tėvas","value":"Andrius Ignotas Oginskis","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Andrius Ignotas Oginskis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Motina","value":"Paula Paulina Šembek","cells":[{"text":"Motina","header":true,"colspan":1,"rowspan":1},{"text":"Paula Paulina Šembek","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Sutuoktinis (-ė)","value":"Izabelė Lasocka\nMarija de Neri","cells":[{"text":"Sutuoktinis (-ė)","header":true,"colspan":1,"rowspan":1},{"text":"Izabelė Lasocka\nMarija de Neri","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Vaikai","value":"Tadas\nPransiškus\nAmelija Zaluska\nEma\nIda\nIrenėjus Kleopas","cells":[{"text":"Vaikai","header":true,"colspan":1,"rowspan":1},{"text":"Tadas\nPransiškus\nAmelija Zaluska\nEma\nIda\nIrenėjus Kleopas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"","value":"Žymūs apdovanojimai","cells":[{"text":"Žymūs apdovanojimai","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_11","label":"","value":"Šv. Stanislovo ordinas","cells":[{"text":"Šv. Stanislovo ordinas","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_12","label":"Vikiteka","value":"Mykolas Kleopas Oginskis","cells":[{"text":"Vikiteka","header":false,"colspan":1,"rowspan":1},{"text":"Mykolas Kleopas Oginskis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"91935","revision_id":"7855738","status":"published","translation_status":"native","source":{"title":"Mykolas Kleopas Oginskis","url":"https://lt.wikipedia.org/wiki/Mykolas_Kleopas_Oginskis","publisher":"Vikipedija","language":"lt","article_id":"91935","revision_id":"7855738","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7855738","history_url":"https://lt.wikipedia.org/w/index.php?title=Mykolas_Kleopas_Oginskis&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:06.959655+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"b6c11a8cf1111fc3aa5127b1e1e54130c50b1f08697a758a0d9477a9960da56e","version_pk":"4b034572fb9b300cb1523318cf95f778"}}}'
 ---
 # Mykolas Kleopas Oginskis
 

@@ -1,11 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'Arvydas Anušauskas'
+pavadinimas: Arvydas Anušauskas
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1963 m.'
-  - '2000 m.'
+  - 1963 m.
+  - 2000 m.
 date_start: '1963'
 date_end: '2000'
 sukurta: ''
@@ -14,28 +14,29 @@ tags:
   - autorius
   - istorikas
 amziai:
-  - 'XX'
+  - XX
 periodo_grupes:
-  - 'XX a.'
+  - XX a.
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-4d13662aada7cd31af55bcec"
-canonical_name: "Arvydas Anušauskas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Arvydas Anušauskas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-4d13662aada7cd31af55bcec
+canonical_name: Arvydas Anušauskas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Arvydas Anušauskas
 sameAs: []
-canonical_biography: "Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Lietuvos partizanų susirėmimus autorius. Autorių sąraše jis apibūdinamas kaip Lietuvos naujausių laikų istorikas ir rezistencinių kovų tyrėjas."
+canonical_biography: Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Lietuvos partizanų susirėmimus autorius. Autorių sąraše jis apibūdinamas kaip Lietuvos naujausių laikų istorikas ir rezistencinių kovų tyrėjas.
+object_page_view_json: '{"wiki":{"intro":"Arvydas Anušauskas (g. 1963 m. rugsėjo 29 d. Vilniuje) – Lietuvos istorikas, publicistas, scenaristas, visuomenės ir politinis veikėjas.","infobox":[{"code":"row_1","label":"","value":"Arvydas Anušauskas","cells":[{"text":"Arvydas Anušauskas","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Arvydas Anušauskas","cells":[{"text":"Arvydas Anušauskas","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"Gimė","value":"1963 m. rugsėjo 29 d.\nVilnius","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1963 m. rugsėjo 29 d.\nVilnius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Veikla","value":"istorikas, publicistas, scenaristas, politinis veikėjas","cells":[{"text":"Veikla","header":true,"colspan":1,"rowspan":1},{"text":"istorikas, publicistas, scenaristas, politinis veikėjas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Pareigos","value":"Krašto apsaugos ministras (nuo 2020 m. iki 2024 m.)","cells":[{"text":"Pareigos","header":true,"colspan":1,"rowspan":1},{"text":"Krašto apsaugos ministras (nuo 2020 m. iki 2024 m.)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Partija","value":"2007 m. TS-LKD","cells":[{"text":"Partija","header":true,"colspan":1,"rowspan":1},{"text":"2007 m. TS-LKD","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Alma mater","value":"1989 m. Vilniaus universitetas","cells":[{"text":"Alma mater","header":true,"colspan":1,"rowspan":1},{"text":"1989 m. Vilniaus universitetas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"","value":"Parašas","cells":[{"text":"Parašas","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"210237","revision_id":"7851710","status":"published","translation_status":"native","source":{"title":"Arvydas Anušauskas","url":"https://lt.wikipedia.org/wiki/Arvydas_Anu%C5%A1auskas","publisher":"Vikipedija","language":"lt","article_id":"210237","revision_id":"7851710","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7851710","history_url":"https://lt.wikipedia.org/w/index.php?title=Arvydas_Anu%C5%A1auskas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:24:56.716648+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"a588eb82d25d48ffaf8c97f81c9f408f2090863d7fd8d5225f0e28dbf6f35890","version_pk":"0107fa77b887d165b6fc2c3a40e2aa12"}}}'
 ---
 # Arvydas Anušauskas
 

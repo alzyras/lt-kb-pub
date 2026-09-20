@@ -274,7 +274,16 @@ const server = http.createServer(async (req, res) => {
       `<!doctype html><html lang="lt"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${route}</title><style>${css}</style><script>window.addCleanup=()=>{};</script></head><body data-slug="${route}/index">${previewBody(props, body)}<script type="module">${scripts}\n${spa}</script></body></html>`,
     )
   }
+  const otherObject = files.find(entry => entry.slug === route && entry.filePath && route.startsWith("objektai/"))
+  if (otherObject && route !== slug && fs.existsSync(otherObject.filePath)) {
+    const fresh = matter(fs.readFileSync(otherObject.filePath, "utf8")).data
+    const props: any = {fileData: {...otherObject, frontmatter: fresh}, allFiles: files, cfg:config.configuration, ctx:{cfg:config}, tree:{type:"root",children:[]},children:[],externalResources:{css:[],js:[]}}
+    res.setHeader("Content-Type", "text/html; charset=utf-8")
+    res.setHeader("Cache-Control", "no-store")
+    return res.end(`<!doctype html><html lang="lt"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>${css}</style></head><body data-slug="${route}">${previewBody(props,components[0](props))}<script type="module">window.addCleanup=()=>{};${scripts}\n${spa}</script></body></html>`)
+  }
   if (route === slug || route.startsWith(`${slug}/`)) {
+    if (!finisherRoot) Object.assign(fm, matter(fs.readFileSync(filePath, "utf8")).data)
     const isEvidence = route.includes("/irodymai")
     const isRelations = route.includes("/rysiai")
     const isGallery = route.endsWith("/galerija")

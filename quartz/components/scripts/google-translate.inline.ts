@@ -241,5 +241,6 @@ function setupGoogleTranslate() {
   control?.addEventListener("pointerdown", activate, { once: true })
 }
 
-document.addEventListener("DOMContentLoaded", setupGoogleTranslate)
-document.addEventListener("nav", () => window.setTimeout(setupGoogleTranslate, 0))
+export function initClient() {
+  setupGoogleTranslate()
+}

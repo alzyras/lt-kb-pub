@@ -228,7 +228,7 @@ function WikipediaIntro({
     (entry, index) => links.findIndex((candidate) => candidate.url === entry.url) === index,
   )
   const portraitUrl = heroImage(portrait)
-  const hasAside = Boolean(infobox.length > 0 || (portraitUrl && galleryHref))
+  const hasAside = infobox.length > 0
   const hasLinks = uniqueLinks.length > 0
   const attribution = (
     <p class="object-detail-wiki-attribution">
@@ -279,22 +279,22 @@ function WikipediaIntro({
             </p>
           </div>
         )}
-      </div>
-      {hasAside && (
-        <aside class="object-detail-wiki-aside" aria-label="Vikipedijos duomenys ir portretas">
           {portraitUrl && galleryHref && (
             <a class="object-detail-wiki-portrait" href={galleryHref}>
               <img
                 src={portraitUrl}
                 alt={displayCaption(portrait!)}
-                width={portrait?.width || undefined}
-                height={portrait?.height || undefined}
-                style={`object-position:${mediaPosition(portrait!)}`}
+                width={portrait?.width || 800}
+                height={portrait?.height || 1000}
+                style={`object-position:${mediaPosition(portrait!)};aspect-ratio:${portrait?.width || 800}/${portrait?.height || 1000}`}
                 decoding="async"
               />
               <span>{portrait?.dateDisplay ? `${portrait.dateDisplay} · ` : ""}Žiūrėti galerijoje</span>
             </a>
           )}
+      </div>
+      {hasAside && (
+        <aside class="object-detail-wiki-aside" aria-label="Vikipedijos duomenys ir portretas">
           {infobox.length > 0 && (
             <div class="object-detail-wiki-infobox">
               <p class="object-detail-wiki-infobox-label">

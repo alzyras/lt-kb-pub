@@ -1,11 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'Alfonsas Eidintas'
+pavadinimas: Alfonsas Eidintas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1990 m.'
-  - '2013 m.'
+  - 1990 m.
+  - 2013 m.
 date_start: '1990'
 date_end: '2013'
 sukurta: ''
@@ -15,29 +15,33 @@ tags:
   - mokslininkas
   - redaktorius
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 periodo_grupes:
-  - 'šiuolaikinė Lietuva'
+  - šiuolaikinė Lietuva
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-de2da352af0cec071f177e6a"
-canonical_name: "Alfonsas Eidintas"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["A. Eidinto","Alfonsas Eidintas","Eidintas A.","prof. Alfonsas Eidintas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-de2da352af0cec071f177e6a
+canonical_name: Alfonsas Eidintas
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - A. Eidinto
+  - Alfonsas Eidintas
+  - Eidintas A.
+  - prof. Alfonsas Eidintas
 sameAs: []
-canonical_biography: "Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių; šiame įraše iš šaltinio fiksuojamas bibliografinis jo darbas."
+canonical_biography: Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių; šiame įraše iš šaltinio fiksuojamas bibliografinis jo darbas.
+object_page_view_json: '{"wiki":{"intro":"Alfonsas Eidintas (g. 1952 m. sausio 4 d. Vaiguvoje, Kelmės rajonas) – Lietuvos istorikas, rašytojas, diplomatas, VU profesorius, habilituotas humanitarinių mokslų daktaras.","infobox":[{"code":"row_1","label":"","value":"Alfonsas Eidintas","cells":[{"text":"Alfonsas Eidintas","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"2023 m.","cells":[{"text":"2023 m.","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"Gimė","value":"1952 m. sausio 4 d.\nVaiguva, Kelmės rajonas","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1952 m. sausio 4 d.\nVaiguva, Kelmės rajonas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Sutuoktinis (-ė)","value":"Birutė","cells":[{"text":"Sutuoktinis (-ė)","header":true,"colspan":1,"rowspan":1},{"text":"Birutė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Vaikai","value":"Aistė, Monika Albina, Donatas","cells":[{"text":"Vaikai","header":true,"colspan":1,"rowspan":1},{"text":"Aistė, Monika Albina, Donatas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Veikla","value":"istorikas, rašytojas, diplomatas","cells":[{"text":"Veikla","header":true,"colspan":1,"rowspan":1},{"text":"istorikas, rašytojas, diplomatas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Alma mater","value":"1973 m. Vilniaus pedagoginis institutas","cells":[{"text":"Alma mater","header":true,"colspan":1,"rowspan":1},{"text":"1973 m. Vilniaus pedagoginis institutas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"191082","revision_id":"7561790","status":"published","translation_status":"native","source":{"title":"Alfonsas Eidintas","url":"https://lt.wikipedia.org/wiki/Alfonsas_Eidintas","publisher":"Vikipedija","language":"lt","article_id":"191082","revision_id":"7561790","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7561790","history_url":"https://lt.wikipedia.org/w/index.php?title=Alfonsas_Eidintas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:00.251073+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"3b4fd0be370997b9b038ff26c5e68865c3cd7644ab928b2898c44b4d0d1ecbc0","version_pk":"c7d6b933153f37287e7070037d663afe"}}}'
 ---
 # Alfonsas Eidintas
 

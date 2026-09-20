@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Karačevas'
+pavadinimas: Karačevas
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -14,21 +14,21 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-bd533fa2c150d814777be6ca"
-canonical_name: "Karačevas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Karačevas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-bd533fa2c150d814777be6ca
+canonical_name: Karačevas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Karačevas
 sameAs: []
-canonical_biography: "Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais. Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą. Lietuvos metraštis pasakoja, kad Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą."
+canonical_biography: 'Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais. Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą. Lietuvos metraštis pasakoja, kad Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.'
 place_authority: true
 historical_names: []
+object_page_view_json: '{"wiki":{"intro":"Karačevas (rus. Карачев) – miestas Rusijoje, Briansko srityje, 43 km į pietryčius nuo Briansko, prie Snežetės upės; rajono centras. Paeina Briansko–Oriolo geležinkelis ir plentas. Vystoma automobilių dalių gamyba, elektronikos, siuvimo, maisto pramonė. Veikia krašto muziejus. Yra XVIII a. Arkangelo Mykolo, Kristaus Prisikėlimo cerkvės.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"610747","revision_id":"7760486","status":"published","translation_status":"native","source":{"title":"Karačevas","url":"https://lt.wikipedia.org/wiki/Kara%C4%8Devas","publisher":"Vikipedija","language":"lt","article_id":"610747","revision_id":"7760486","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7760486","history_url":"https://lt.wikipedia.org/w/index.php?title=Kara%C4%8Devas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:32.965974+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"4db92e6e54999048c6fb17da7906b47cd41b2b60a739bae153fd7c4aa35b16ff","version_pk":"c1b654cd7cc5e515e5153f7f53cd0616"}}}'
 ---
 # Karačevas
 

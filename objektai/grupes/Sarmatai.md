@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Sarmatai'
+pavadinimas: Sarmatai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -14,12 +14,10 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+object_page_view_json: '{"wiki":{"intro":"Sarmatai (sen. gr. Σαρμάται, lot. Sarmatae) – klajoklių rytų iranėnų tauta, ankstyvojo geležies amžiaus pabaigoje (VI-IV a. pr. m. e.) sudariusi genčių sąjungą, kuri užėmė Ponto stepės plotą, gyveno nuo Tisos ir Dunojaus vandenskyros iki Aralo jūros, Uralo kalnų (dabartinėse Ukrainos, Rusijos ir Kazachstano teritorijose). Mokslininkų manymu, sarmatus „sauromatų” pavadinimu pirmasis paminėjo Herodotas. Jis rašė: „Persikėlus per Tanaiso (dab. Donas) upę, ten jau ne skitų žemė, o sauromatų.” N. Lysenkos manymu, nuo tada, kai Markas Vipsanijus Agripa sudarė pasaulio žemėlapį, tautovardžiai „sauromatai” ir „sarmatai” buvo vartojami kaip sinonimai.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"28368","revision_id":"7811683","status":"published","translation_status":"native","source":{"title":"Sarmatai","url":"https://lt.wikipedia.org/wiki/Sarmatai","publisher":"Vikipedija","language":"lt","article_id":"28368","revision_id":"7811683","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7811683","history_url":"https://lt.wikipedia.org/w/index.php?title=Sarmatai&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:40.909002+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"920df90f654dc36a9fb870932289cce76f8e1ad193611f62a6d4ffe28c6d0b7c","version_pk":"778ee3b6a0ed4a9d8992e4bfc4b51b95"}}}'
 ---
 # Sarmatai
 

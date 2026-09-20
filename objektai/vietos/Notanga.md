@@ -1,6 +1,6 @@
 ---
 tipas: vieta
-pavadinimas: 'Notanga'
+pavadinimas: Notanga
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -16,21 +16,21 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-af7020f25b4614eb46e31776"
-canonical_name: "Notanga"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Notanga"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-af7020f25b4614eb46e31776
+canonical_name: Notanga
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Notanga
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad siaurės rytuose priėjo Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais priskiriama Notangai). Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų."
+canonical_biography: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad siaurės rytuose priėjo Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais priskiriama Notangai). Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų.'
 place_authority: true
 historical_names: []
+object_page_view_json: '{"wiki":{"intro":"Notanga (prūs. Nātanga) – prūsų žemė už Varmės iki Priegliaus ir Alnos. Šiaurėje Priegliaus upė skyrė nuo Sembos, pietvakariuose ribojosi su Varme, pietuose nuo Bartos skyrė Alna. Notanga siekė ir Baltijos pakrantę (Aistmarės). Joje gyveno prūsų gentis notangai. Notangos šiaurinei daliai priklausė Seilavos balynas su iš jo ištekančiu Frišingu (Virsingu) bei šio upyno upėmis – Stradiku ir Pasmara.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"28050","revision_id":"7618508","status":"published","translation_status":"native","source":{"title":"Notanga","url":"https://lt.wikipedia.org/wiki/Notanga","publisher":"Vikipedija","language":"lt","article_id":"28050","revision_id":"7618508","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7618508","history_url":"https://lt.wikipedia.org/w/index.php?title=Notanga&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:24.956085+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"30e032b7b15b78fc1bf1543dd7969572907caeab65ca0dc5ef0286a03a3d9cc8","version_pk":"edc1f359c5b85726961455217aa949c6"}}}'
 ---
 # Notanga
 

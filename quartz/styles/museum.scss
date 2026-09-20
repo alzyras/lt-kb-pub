@@ -61,17 +61,18 @@
   .object-detail-page .object-detail-overview { gap: 2.5rem; }
   .object-detail-page .object-detail-wiki-portrait { padding: 0; border: 0; border-radius: 0; background: transparent; }
   .object-detail-page :is(h2, h3) { font-family: var(--museum-serif); font-weight: 400; }
-  .object-snowflake { width: 100%; height: clamp(560px, 50vw, 680px); display: block; margin: 1rem auto 3rem; background: transparent; border: 0; }
-  .object-snowflake svg { display: block; width: 100%; height: 100%; overflow: visible; }
-  .snowflake-edges path { fill: none; stroke: var(--museum-muted); stroke-width: .45; opacity: .24; }
+  .object-detail-page { isolation: isolate; }
+  .object-detail-page > section:not(.object-snowflake) { position: relative; z-index: 1; }
+  .object-snowflake { position: relative; z-index: 0; width: 100%; height: clamp(560px, 50vw, 680px); display: block; margin: 1rem auto 3rem; background: transparent; border: 0; }
+  .object-snowflake svg { display: block; width: 100%; height: 100%; overflow: visible; transform-origin: center; }
+  .object-snowflake[data-depth-motion] .snowflake-scene { opacity: var(--snowflake-opacity, 1); transform: translateY(var(--snowflake-shift, 0px)) scale(var(--snowflake-scale, 1)); }
+  .object-snowflake:is(:has(.snowflake-node:hover), :focus-within) .snowflake-scene { opacity: 1; }
+  .snowflake-edges path { fill: none; stroke: var(--node-color, var(--museum-muted)); stroke-width: .6; opacity: .24; }
   .snowflake-hit { fill: transparent; }
-  .snowflake-dot { fill: #797061; stroke: var(--ui-surface); stroke-width: .8; transition: fill 180ms; }
-  [data-node-type="asmuo"] .snowflake-dot { fill: #4d7769; }
-  [data-node-type="vieta"] .snowflake-dot { fill: #647f96; }
-  [data-node-type="ivykis"] .snowflake-dot { fill: #a95743; }
+  .snowflake-dot { fill: var(--node-color); stroke: var(--ui-surface); stroke-width: 1; transition: stroke-width 180ms; }
   .snowflake-node text { font: 12px var(--bodyFont); fill: var(--ui-text); stroke: var(--ui-surface); stroke-width: 5px; paint-order: stroke; opacity: 0; pointer-events: none; }
   .snowflake-node:hover text, .snowflake-node:focus text, .snowflake-node.is-selected text { opacity: 1; }
-  .snowflake-node:hover .snowflake-dot, .snowflake-node:focus .snowflake-dot { fill: var(--secondary); stroke: var(--secondary); stroke-width: 3; }
+  .snowflake-node:hover .snowflake-dot, .snowflake-node:focus .snowflake-dot { stroke: var(--node-color); stroke-width: 3; }
   .snowflake-center circle { fill: var(--museum-accent); stroke: var(--ui-surface); stroke-width: 6px; }
   .snowflake-center text { fill: var(--ui-text); font: 15px var(--museum-serif); stroke: var(--ui-surface); stroke-width: 5px; paint-order: stroke; }
   .museum-section { transition: opacity 400ms ease, transform 400ms ease; }
@@ -87,7 +88,10 @@
   .ruler-era-heading h3 { font: 400 1.5rem var(--museum-serif); margin: 0; }
   .ruler-era-heading span { color: var(--museum-muted); font-size: .8rem; }
   .ruler-controls { display: flex; gap: .5rem; }
+  .object-detail-wiki-main > .object-detail-wiki-portrait { margin-top: 2rem; max-width: 520px; }
+  .object-detail-wiki-main > .object-detail-wiki-portrait img { max-height: 560px; aspect-ratio: auto; }
   .object-detail-page .object-detail-wiki-table :is(th, td) { white-space: pre-line; vertical-align: top; line-height: 1.65; overflow-wrap: anywhere; }
+  .object-detail-page .object-detail-wiki-table th:not([colspan]) { width: 34%; min-width: 6rem; overflow-wrap: normal; hyphens: auto; }
   .object-detail-page .object-detail-wiki-table th[colspan] { text-align: left; font-weight: 600; background: transparent; }
   .object-detail-page .object-detail-wiki-table th[colspan="2"] { padding-top: 1.25rem; color: var(--museum-accent); }
   .object-detail-wiki-table-wrap { max-width: 100%; overflow-x: auto; }
@@ -143,6 +147,9 @@
   .ruler-sources { display: flex; flex-wrap: wrap; gap: .65rem 1.25rem; margin: 2rem 0 1.5rem; }
   .ruler-sources a { color: var(--museum-muted); font-size: .75rem; }
   .ruler-context-image { object-fit: contain !important; }
+  @media (prefers-reduced-motion: reduce) {
+    .object-snowflake[data-depth-motion] .snowflake-scene { opacity: 1; transform: none; }
+  }
   @media (max-width: 800px) {
     .museum-section-header { display: block; }
     .museum-places { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -163,6 +170,8 @@
     .object-detail-page .object-detail-wiki-portrait { padding: 0; border: 0; border-radius: 0; background: transparent; }
   .object-detail-page :is(h2, h3) { font-family: var(--museum-serif); font-weight: 400; }
   .object-snowflake { height: clamp(360px, 80vw, 440px); margin-block: 0 2rem; }
+  .snowflake-node text { font-size: 25px; }
+  .snowflake-center text { font-size: 26px; }
     .collection-home .collection-hero-content { width: calc(100% - 2.5rem); }
     .object-detail-page :is(td, th) { padding: .7rem .6rem; }
   }

@@ -115,3 +115,13 @@ test("collapses duplicate quote displays but preserves distinct sources, pages a
   )
   assert.equal(entries.length, 6)
 })
+
+test("authored relation links retain bracketed historical names and parenthesized dates", () => {
+  const result = objectDetailEvidence(`## Ryšiai
+- Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
+- Dalyvavo: [Strėvos mūšis](/objektai/ivykiai/Strevos-musis-(1348-m.))
+`)
+  assert.deepEqual(result.relations.map(row => row.target), [
+    "objektai/grupes/Lietuviai", "objektai/asmenys/Zygfridas iš Da[he]nfeldo", "objektai/ivykiai/Strevos-musis-(1348-m.)",
+  ])
+})

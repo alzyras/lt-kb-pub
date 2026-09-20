@@ -5,6 +5,8 @@ import crypto from 'node:crypto'
 import matter from 'gray-matter'
 const [exportRoot] = process.argv.slice(2)
 if (!exportRoot) throw new Error('Usage: node scripts/museum/project_curated.mjs DB_EXPORT_DIRECTORY')
+const mediaSnapshot = JSON.parse(fs.readFileSync(path.join(exportRoot,'museumMediaCatalog.json'),'utf8'))
+const canonicalMedia = new Map(mediaSnapshot.entries.map(entry => [entry.mediaId, entry]))
 const report = JSON.parse(fs.readFileSync(path.join(exportRoot,'objects.json'),'utf8'))
 const curated = JSON.parse(fs.readFileSync('scripts/museum/curated-input.json','utf8'))
 const manifest = JSON.parse(fs.readFileSync('public-projection-manifest.json','utf8'))
@@ -14,7 +16,8 @@ for (const obj of report.objects) {
   const exists = fs.existsSync(obj.notePath)
   const current = matter(exists ? fs.readFileSync(obj.notePath,'utf8') : obj.canonical_text)
   const view = parse(current.data.object_page_view_json)
-  const media = obj.media
+  const media = {...obj.media, ...canonicalMedia.get(obj.media.mediaId), displayUrl: obj.media.displayUrl, focalPoint: obj.media.focalPoint, width: obj.media.width, height: obj.media.height}
+  if (obj.wiki.extraction_version !== "wikipedia-rendered-v2") throw new Error(`Complete Wikipedia snapshot required: ${obj.notePath}`)
   view.wiki = obj.wiki
   view.portrait = {media_id:media.mediaId}
   view.version = 3

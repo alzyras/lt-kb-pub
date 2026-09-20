@@ -16,6 +16,10 @@ export type SeoInput = {
   datePublished?: unknown
   dateModified?: unknown
   collectionPage?: boolean
+  objectContentState?: unknown
+  claimCount?: unknown
+  claimSummary?: unknown
+  sameAs?: unknown
 }
 
 export function seoText(value: unknown): string {
@@ -52,7 +56,7 @@ function trimAtWord(value: string, limit: number): string {
 
 export function seoDescription(input: SeoInput, maxLength = 158): string {
   const title = seoText(input.title) || "Lietuvos istorija"
-  const raw = seoText(input.description) || seoText(input.text)
+  const raw = seoText(input.description) || seoText(input.claimSummary) || seoText(input.text)
   const fallback = `${title} – ${itemTypeLabel(input.itemType)} Lietuvos istorijos žinyno įrašas su šaltiniais ir kontekstu.`
   if (!raw || PLACEHOLDER.test(raw) || POOR_DESCRIPTION.test(raw))
     return trimAtWord(fallback, maxLength)
@@ -96,6 +100,13 @@ export function isPoorSeoPage(input: SeoInput): boolean {
   ) {
     return true
   }
+  const objectState = seoText(input.objectContentState).toLocaleLowerCase("lt")
+  const claimCount = Number(input.claimCount ?? 0)
+  if (objectState === "empty") return true
+  // A contentful object is indexable even before its AI modules exist.  The
+  // fallback description is intentionally neutral; OCR-noise heuristics must
+  // not hide a page that already has accepted, evidence-backed claims.
+  if (objectState === "content" || objectState === "enriched" || claimCount > 0) return false
   if (/\uFFFD/.test(summary) || /(?:\b\p{L}\s+){9,}/u.test(summary)) return true
   const tokens = summary.split(/\s+/).filter(Boolean)
   const singleCharacterRatio =
@@ -203,6 +214,7 @@ export function pageStructuredData(
       description,
       inLanguage: "lt",
       mainEntity: { "@id": `${input.canonicalUrl}#entity` },
+      ...(input.dateModified ? { dateModified: String(input.dateModified) } : {}),
     },
     {
       "@type": "BreadcrumbList",

@@ -1,6 +1,4 @@
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
-// @ts-ignore
-import script from "./scripts/google-translate.inline"
 import styles from "./styles/googleTranslate.scss"
 
 const GoogleTranslate: QuartzComponent = () => {
@@ -31,6 +29,4 @@ const GoogleTranslate: QuartzComponent = () => {
 }
 
 GoogleTranslate.css = styles
-GoogleTranslate.afterDOMLoaded = script
-
 export default (() => GoogleTranslate) satisfies QuartzComponentConstructor

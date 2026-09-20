@@ -12,12 +12,25 @@ import {
   seoTitle,
   seoImageUrl,
 } from "../util/seo"
-import { displayCaption, parseMediaEntry } from "../util/objectMedia"
+import { displayCaption, isObjectPage, parseMediaEntry } from "../util/objectMedia"
 import {
   isObjectDetailSlug,
   objectDetailEvidenceFromFile,
   objectPageIndexable,
 } from "../util/objectDetail"
+
+function publishedExternalUrls(value: unknown): string[] {
+  const raw = typeof value === "string" ? (() => {
+    try { return JSON.parse(value) } catch { return null }
+  })() : value
+  if (!Array.isArray(raw)) return []
+  return [...new Set(raw
+    .filter((row): row is Record<string, unknown> => Boolean(row && typeof row === "object"))
+    .filter((row) => !row.status || row.status === "published")
+    .map((row) => String(row.canonical_url ?? row.url ?? "").trim())
+    .filter((url) => /^https:\/\//i.test(url)))]
+}
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -26,26 +39,35 @@ export default (() => {
     ctx,
   }: QuartzComponentProps) => {
     const titleBase = String(
-      fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title,
+      (isObjectPage(fileData.slug) ? fileData.frontmatter?.pavadinimas : undefined) ??
+        fileData.frontmatter?.title ??
+        i18n(cfg.locale).propertyDefaults.title,
     ).trim()
     const siteTitle = String(cfg.pageTitle ?? "").trim()
     const titleSuffix = titleBase === siteTitle ? "" : (cfg.pageTitleSuffix ?? "")
     const descriptionSource =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
+      fileData.frontmatter?.object_page_seo_description ??
       unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+    const objectClaimCount = Number(fileData.frontmatter?.object_page_claim_count ?? 0)
+    const sameAs = publishedExternalUrls(fileData.frontmatter?.external_sources_json)
     const seoInput = {
       slug: fileData.slug,
       title: titleBase,
       seoTitle: fileData.frontmatter?.seo_title,
       author: fileData.frontmatter?.autorius,
       datePublished: fileData.frontmatter?.date,
-      dateModified: fileData.frontmatter?.atnaujinta,
       collectionPage: fileData.frontmatter?.exhibition_page === true,
       description: descriptionSource,
       text: fileData.text,
       itemType: fileData.frontmatter?.tipas,
       noindex: fileData.frontmatter?.noindex,
+      objectContentState: fileData.frontmatter?.object_page_content_state,
+      claimCount: objectClaimCount,
+      claimSummary: fileData.frontmatter?.object_page_seo_description,
+      sameAs,
+      dateModified: fileData.frontmatter?.atnaujinta ?? fileData.frontmatter?.modified,
     }
     const title = seoTitle(seoInput, siteTitle, titleSuffix)
     const description = seoDescription(seoInput)

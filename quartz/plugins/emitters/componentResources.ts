@@ -1,3 +1,4 @@
+import path from "node:path"
 import { FullSlug, joinSegments } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 
@@ -22,6 +23,13 @@ import {
 import { Features, transform } from "lightningcss"
 import { transform as transpile } from "esbuild"
 import { write } from "./helpers"
+import {
+  buildClientBundles,
+  clientBundleLoaderScript,
+  type ClientBundleManifest,
+} from "../../util/clientBundles"
+import { buildAssetVersion } from "../../util/buildVersion"
+import { stripInlineCssSourceMaps } from "../../util/stylesheets"
 
 type ComponentResources = {
   css: string[]
@@ -307,13 +315,32 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
       // important that this goes *after* component scripts
       // as the "nav" event gets triggered here and we should make sure
       // that everyone else had the chance to register a listener for it
+      const clientOutputDirectory = path.resolve(ctx.argv.output, "static/client")
+      const clientBundles = await buildClientBundles(process.cwd(), clientOutputDirectory)
+      for (const file of clientBundles.files) {
+        yield write({
+          ctx,
+          slug: joinSegments("static", "client", file.relativePath) as FullSlug,
+          ext: "",
+          content: Buffer.from(file.contents),
+        })
+      }
+      const versionedClientManifest = Object.fromEntries(
+        Object.entries(clientBundles.manifest).map(([name, asset]) => [
+          name,
+          `${asset}?v=${buildAssetVersion}`,
+        ]),
+      ) as ClientBundleManifest
+      componentResources.afterDOMLoaded.push(clientBundleLoaderScript(versionedClientManifest))
       addGlobalPageResources(ctx, componentResources)
 
-      const stylesheet = joinStyles(
-        ctx.cfg.configuration.theme,
-        googleFontsStyleSheet,
-        ...componentResources.css,
-        styles,
+      const stylesheet = stripInlineCssSourceMaps(
+        joinStyles(
+          ctx.cfg.configuration.theme,
+          googleFontsStyleSheet,
+          ...componentResources.css,
+          styles,
+        ),
       )
 
       const [prescript, postscript] = await Promise.all([
@@ -329,6 +356,7 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
           filename: "index.css",
           code: Buffer.from(stylesheet),
           minify: true,
+          sourceMap: false,
           targets: {
             safari: (15 << 16) | (6 << 8), // 15.6
             ios_saf: (15 << 16) | (6 << 8), // 15.6

@@ -1,6 +1,4 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-// @ts-ignore
-import script from "./scripts/graph.inline"
 import style from "./styles/graph.scss"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
@@ -100,7 +98,11 @@ export default ((opts?: Partial<GraphOptions>) => {
           <span class="graph-legend-item graph-legend-topic">Temos</span>
         </div>
         <div class="graph-outer">
-          <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
+          <div class="graph-container" data-cfg={JSON.stringify(localGraph)}>
+            <button type="button" class="graph-load-button">
+              Rodyti grafiką
+            </button>
+          </div>
           <button class="global-graph-icon" aria-label="Atidaryti viso ekrano žemėlapį">
             <svg
               version="1.1"
@@ -136,7 +138,5 @@ export default ((opts?: Partial<GraphOptions>) => {
   }
 
   Graph.css = style
-  Graph.afterDOMLoaded = script
-
   return Graph
 }) satisfies QuartzComponentConstructor

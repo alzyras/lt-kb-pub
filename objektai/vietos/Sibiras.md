@@ -1,12 +1,12 @@
 ---
 tipas: vieta
-pavadinimas: 'Sibiras'
+pavadinimas: Sibiras
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1940 m.'
-  - '1941 m.'
-  - '1944 m.'
+  - 1940 m.
+  - 1941 m.
+  - 1944 m.
 date_start: '1940'
 date_end: '1944'
 sukurta: ''
@@ -15,28 +15,28 @@ tags:
   - miestas
   - vieta
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-3171f75e671cab278fe00509"
-canonical_name: "Sibiras"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Sibiras"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-3171f75e671cab278fe00509
+canonical_name: Sibiras
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Sibiras
 sameAs: []
-canonical_biography: "Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą. Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse."
+canonical_biography: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą. Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse.'
 place_authority: true
 historical_names: []
+object_page_view_json: '{"wiki":{"intro":"Sibiras (rus. Сибирь) – didelis gamtinis regionas, užimantis rytinę Rusijos dalį ir iš dalies sutampantis su Šiaurės Azija. Sibiras sudaro 77 % Rusijos ploto (13,1 mln. km²), bet ten gyvena tik 28 % šalies gyventojų (40 mln.). Sibiras dengia ~10 % Žemės sausumos.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"11494","revision_id":"7713046","status":"published","translation_status":"native","source":{"title":"Sibiras","url":"https://lt.wikipedia.org/wiki/Sibiras","publisher":"Vikipedija","language":"lt","article_id":"11494","revision_id":"7713046","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7713046","history_url":"https://lt.wikipedia.org/w/index.php?title=Sibiras&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:08.521013+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"d7875b3e70d869469d1c16db97d63005c5aee0bcc5828dc1d081b4f2e92c731a","version_pk":"94cbfb70b65722b4e8865103b03ead1b"}}}'
 ---
 # Sibiras
 

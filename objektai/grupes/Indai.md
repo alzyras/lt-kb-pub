@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Indai'
+pavadinimas: Indai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
@@ -14,12 +14,10 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+object_page_view_json: '{"wiki":{"intro":"Indai – dabartinės Indijos Respublikos gyventojai. Tuo pačiu taip nuo seno buvo vadinami, to, kas yra suprantama kaip Indijos civilizacija, atstovai, tačiau šis vardas nė iš tolo neapibūdina kokios nors homogeniškos etninės grupės. Svarbu pabrėžti, kad 1947 metais susikūrusi moderni Indijos valstybė suvienijo kultūrinius darinius, kurie, iš esmės, politiškai neturėjo nieko bendra. 1,1 milijardas Indijos valstybės gyventojų dalijasi į 2000 etninių grupių, kurios kalba maždaug 200 skirtingų kalbų, todėl indai kaip tauta vis dar išgyvena formavimosi procesus.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"142975","revision_id":"6762817","status":"published","translation_status":"native","source":{"title":"Indai","url":"https://lt.wikipedia.org/wiki/Indai","publisher":"Vikipedija","language":"lt","article_id":"142975","revision_id":"6762817","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=6762817","history_url":"https://lt.wikipedia.org/w/index.php?title=Indai&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:37.120677+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"2b4a42d80d223d91dfc3480f86e82772a67213915c5bf6c7adfc3fd02b6d469c","version_pk":"a2fca1bceff3437ccb36778a4728dc1b"}}}'
 ---
 # Indai
 

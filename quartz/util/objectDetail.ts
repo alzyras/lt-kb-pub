@@ -138,7 +138,7 @@ export function relationsFromMarkdown(
     // Some legacy authored pages use ordinary Markdown links in the
     // relations list.  Keep those local object links in the same projection
     // as wikilinks so a valid relation is not silently dropped.
-    for (const link of line.matchAll(/\[([^\]]+)\]\((\/objektai\/[^)#]+)(?:#[^)]*)?\)/gu)) {
+    for (const link of line.matchAll(/\[((?:[^\[\]]|\[[^\]]*\])+)\]\((\/objektai\/(?:[^()#]|\([^()]*\))+)(?:#[^)]*)?\)/gu)) {
       let target = link[2]
       try {
         target = decodeURIComponent(target)

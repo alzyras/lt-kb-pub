@@ -1,7 +1,5 @@
 import { BrandLockup } from "./BrandLockup"
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
-// @ts-ignore
-import script from "./scripts/graph-explorer.inline"
 import style from "./styles/graph-explorer.scss"
 
 const Icon = ({ children }: { children: any }) => (
@@ -291,6 +289,5 @@ export default (() => {
   )
 
   GraphExplorer.css = style
-  GraphExplorer.afterDOMLoaded = script
   return GraphExplorer
 }) satisfies QuartzComponentConstructor

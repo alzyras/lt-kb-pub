@@ -726,7 +726,7 @@ function renderClaimsSection(
     const toggle = `<button class="claim-evidence-toggle-button" type="button" data-claim-toggle="true" aria-expanded="false" aria-controls="${escapeHtml(detailId)}"><span class="claim-evidence-toggle-icon" aria-hidden="true">▸</span><span class="sr-only">Rodyti citatas</span></button>`
     const claimCell = `${globalAnchor}${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
-      `<tr id="${escapeHtml(localAnchorId)}" data-claim-row="true" data-global-claim-id="${escapeHtml(globalId)}" data-citation-source-ids="${escapeHtml(sourceIds.join("|"))}"><td>${claimCell}</td></tr>`,
+      `<tr id="${escapeHtml(localAnchorId)}" data-claim-row="true" data-claim-local-id="${escapeHtml(entry.id)}" data-global-claim-id="${escapeHtml(globalId)}" data-citation-source-ids="${escapeHtml(sourceIds.join("|"))}"><td>${claimCell}</td></tr>`,
       renderClaimEvidenceDetailRow(
         entry,
         detailId,
@@ -940,7 +940,7 @@ function renderClaimEvidenceDetailRow(
     cards.length > 0 ? cards.join("") : `<p class="claim-citation-missing">Citata nerasta.</p>`
   const content = `${claimTechnicalHtml}${citationContent}`
   const payload = JSON.stringify(content).replaceAll("<", "\\u003c")
-  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(domKey)}" hidden><td colspan="1"><div class="claim-evidence-detail" data-claim-detail-content="true"></div><script type="application/json" data-claim-detail-payload="true">${payload}</script></td></tr>`
+  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(domKey)}" data-claim-detail-for="${escapeHtml(globalId || claimEntry.id)}" hidden><td colspan="1"><div class="claim-evidence-detail" data-claim-detail-content="true"></div><script type="application/json" data-claim-detail-payload="true">${payload}</script></td></tr>`
 }
 
 function advancedRows(

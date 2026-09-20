@@ -1,11 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'Andrius Rudamina'
+pavadinimas: Andrius Rudamina
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1626 m.'
-  - '1634 m.'
+  - 1626 m.
+  - 1634 m.
 date_start: '1626'
 date_end: '1634'
 sukurta: ''
@@ -14,28 +14,30 @@ tags:
   - autorius
   - dvasininkas
 amziai:
-  - 'XVII'
+  - XVII
 periodo_grupes:
-  - 'LDK'
+  - LDK
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-1d21d5ff040b8c75a5ad8fa0"
-canonical_name: "Andrius Rudamina"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Andrius Rudamina","Andrių Rudaminą"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-1d21d5ff040b8c75a5ad8fa0
+canonical_name: Andrius Rudamina
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Andrius Rudamina
+  - Andrių Rudaminą
 sameAs: []
-canonical_biography: "Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje misionieriavęs 1626–1634 m. ir rašęs asketikos veikalus kinų kalba."
+canonical_biography: 'Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje misionieriavęs 1626–1634 m. ir rašęs asketikos veikalus kinų kalba.'
+object_page_view_json: '{"wiki":{"intro":"Andrius Rudamina (lenk. Andrzej Rudomina, lot. Andreas Rudamina, 1596 m. Senajame Daugėliškyje – 1631 m. rugsėjo 5 d. Fudžou, Kinija) – lietuvių krikščionių misionierius Kinijoje.","infobox":[{"code":"row_1","label":"","value":"Andrius Rudamina","cells":[{"text":"Andrius Rudamina","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Trąby","cells":[{"text":"Trąby","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"Gimė","value":"1596 m.\nSenasis Daugėliškis","cells":[{"text":"Gimė","header":true,"colspan":1,"rowspan":1},{"text":"1596 m.\nSenasis Daugėliškis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Mirė","value":"1631 m. rugsėjo 5 d. (~35 metai)\nFudžou, Kinija","cells":[{"text":"Mirė","header":true,"colspan":1,"rowspan":1},{"text":"1631 m. rugsėjo 5 d. (~35 metai)\nFudžou, Kinija","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Tautybė","value":"lietuvis","cells":[{"text":"Tautybė","header":true,"colspan":1,"rowspan":1},{"text":"lietuvis","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Tėvas","value":"Jonas Rudamina","cells":[{"text":"Tėvas","header":true,"colspan":1,"rowspan":1},{"text":"Jonas Rudamina","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Motina","value":"Dorota Galvelanka","cells":[{"text":"Motina","header":true,"colspan":1,"rowspan":1},{"text":"Dorota Galvelanka","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"126268","revision_id":"7712912","status":"published","translation_status":"native","source":{"title":"Andrius Rudamina","url":"https://lt.wikipedia.org/wiki/Andrius_Rudamina","publisher":"Vikipedija","language":"lt","article_id":"126268","revision_id":"7712912","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7712912","history_url":"https://lt.wikipedia.org/w/index.php?title=Andrius_Rudamina&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:04.637510+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"737756ecf85b51ed4c53bb440d792d8a5c9ac8715c27c80e390e945e0ee9af8d","version_pk":"b81b9d5e8149ede26931cd696dae1efe"}}}'
 ---
 # Andrius Rudamina
 

@@ -1,8 +1,11 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { isObjectPage } from "../util/objectMedia"
 
 const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const title = fileData.frontmatter?.title
+  const title = isObjectPage(fileData.slug)
+    ? (fileData.frontmatter?.pavadinimas ?? fileData.frontmatter?.title)
+    : fileData.frontmatter?.title
   if (title) {
     const normalizedTitle = String(title).trim()
     const titleLengthClass =

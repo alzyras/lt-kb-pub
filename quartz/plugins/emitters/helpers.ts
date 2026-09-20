@@ -30,24 +30,22 @@ function offsetRelativeAssetPathsForPrettyIndex(content: string): string {
 }
 
 export const write = async ({ ctx, slug, ext, content }: WriteOptions): Promise<FilePath> => {
-  const pathToPage = joinSegments(ctx.argv.output, slug + ext) as FilePath
+  // Clean routes have one representation on disk. Root and 404 remain files
+  // because static hosts conventionally require those exact names.
+  const usePrettyHtmlPath =
+    ext === ".html" && slug !== "index" && slug !== "404" && !slug.endsWith("/index")
+  const pathToPage = (
+    usePrettyHtmlPath
+      ? joinSegments(ctx.argv.output, slug, "index.html")
+      : joinSegments(ctx.argv.output, slug + ext)
+  ) as FilePath
   const dir = path.dirname(pathToPage)
+  const outputContent =
+    usePrettyHtmlPath && (typeof content === "string" || Buffer.isBuffer(content))
+      ? offsetRelativeAssetPathsForPrettyIndex(content.toString())
+      : content
   await fs.promises.mkdir(dir, { recursive: true })
-  await fs.promises.writeFile(pathToPage, content)
-
-  if (
-    ext === ".html" &&
-    slug !== "index" &&
-    slug !== "404" &&
-    !slug.endsWith("/index") &&
-    (typeof content === "string" || Buffer.isBuffer(content))
-  ) {
-    const prettyPath = joinSegments(ctx.argv.output, slug, "index.html") as FilePath
-    const prettyDir = path.dirname(prettyPath)
-    const prettyContent = offsetRelativeAssetPathsForPrettyIndex(content.toString())
-    await fs.promises.mkdir(prettyDir, { recursive: true })
-    await fs.promises.writeFile(prettyPath, prettyContent)
-  }
+  await fs.promises.writeFile(pathToPage, outputContent)
 
   return pathToPage
 }

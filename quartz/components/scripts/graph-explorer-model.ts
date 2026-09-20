@@ -1,4 +1,17 @@
 export type RelationCount = { out: number; in: number }
+export type GraphPlaceAuthority = {
+  latitude?: number | null
+  longitude?: number | null
+  parent_entity_id?: string
+  parent_region?: string
+  valid_from?: string
+  valid_to?: string
+  historical_names?: Array<{
+    name: string
+    valid_from?: string
+    valid_to?: string
+  }>
+}
 export type TopologyNode = {
   slug: string
   title: string
@@ -9,6 +22,13 @@ export type TopologyNode = {
   dateEnd?: number
   sourceTitles: string[]
   sourceIds: string[]
+  entityId?: string
+  canonicalName?: string
+  entityRoles?: string[]
+  entityViewRole?: string
+  entityAliases?: string[]
+  sameAs?: string[]
+  placeAuthority?: GraphPlaceAuthority
   x?: number
   y?: number
   degree: number
@@ -199,6 +219,10 @@ export function serializeGraphState(state: GraphState, defaults: { relations: st
 
 export function cloneGraphState(state: GraphState): GraphState {
   return { ...state, types: [...state.types], relations: [...state.relations], sources: [...state.sources] }
+}
+
+export function isCurrentPanelRequest(requestToken: number, activeToken: number, panel: GraphState["panel"]): boolean {
+  return requestToken === activeToken && panel !== "hidden"
 }
 
 function nodePasses(node: TopologyNode, state: GraphState, selectedSourceIds: Set<string>): boolean {

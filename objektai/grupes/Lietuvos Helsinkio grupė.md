@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvos Helsinkio grupė'
+pavadinimas: Lietuvos Helsinkio grupė
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1976 m.'
-  - '1988 m.'
+  - 1976 m.
+  - 1988 m.
 date_start: '1976'
 date_end: '1988'
 sukurta: ''
@@ -14,19 +14,17 @@ tags:
   - organizacija
   - grupe
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+object_page_view_json: '{"wiki":{"intro":"Lietuvos Helsinkio grupė (piln. Helsinkio susitarimų vykdymui remti Lietuvos visuomeninė grupė) – Lietuvos disidentų organizacija, veikusi 1975–1983 m.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"362076","revision_id":"7750973","status":"published","translation_status":"native","source":{"title":"Lietuvos Helsinkio grupė","url":"https://lt.wikipedia.org/wiki/Lietuvos_Helsinkio_grup%C4%97","publisher":"Vikipedija","language":"lt","article_id":"362076","revision_id":"7750973","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7750973","history_url":"https://lt.wikipedia.org/w/index.php?title=Lietuvos_Helsinkio_grup%C4%97&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:14.675945+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"4ab9e9407192b5cb5a4bc716f6eee46ec8ada283a0ae7ee62610ccc1b1a97049","version_pk":"9968b634b3ab7b5fa0f76b70267556fe"}}}'
 ---
 # Lietuvos Helsinkio grupė
 

@@ -1,5 +1,6 @@
 import {
   ANALYTICS_EVENT_NAMES,
+  ANALYTICS_FEATURE_PARAM_KEYS,
   ANALYTICS_MAP_ACTIONS,
   ANALYTICS_SCHEMA_VERSION,
   AnalyticsEventName,
@@ -36,21 +37,7 @@ const SESSION_DEDUPE_KEY = `li.analytics.dedupe.${ANALYTICS_SCHEMA_VERSION}`
 const PRODUCTION_HOSTS = new Set(["lietuvosistorija.eu", "www.lietuvosistorija.eu"])
 const EVENT_ALLOWLIST = new Set<string>(ANALYTICS_EVENT_NAMES)
 const MAP_ACTION_ALLOWLIST = new Set<string>(ANALYTICS_MAP_ACTIONS)
-const FEATURE_PARAM_ALLOWLIST = new Set([
-  "feature_value",
-  "media_action",
-  "media_filter",
-  "media_sort",
-  "settings_area",
-  "settings_action",
-  "translation_language",
-  "translation_status",
-  "list_action",
-  "filter_name",
-  "filter_value",
-  "result_count",
-  "term_length",
-])
+const FEATURE_PARAM_ALLOWLIST = new Set<string>(ANALYTICS_FEATURE_PARAM_KEYS)
 const MAP_PARAM_ALLOWLIST = new Set([
   "map_view",
   "map_object_type",
@@ -390,7 +377,11 @@ function installAnalytics() {
     if (detail.name === "media_gallery" && detail.action === "open") {
       track(
         "gallery_open",
-        { ...commonParams("gallery"), media_action: "open" },
+        {
+          ...commonParams("gallery"),
+          media_action: "open",
+          ...normalizeAnalyticsParams(detail.params, FEATURE_PARAM_ALLOWLIST),
+        },
         {
           dedupeScope: detail.dedupeScope ?? "page",
           dedupeKey: detail.dedupeKey ?? analyticsDedupeKey([pageMetadata().content_id, "gallery"]),

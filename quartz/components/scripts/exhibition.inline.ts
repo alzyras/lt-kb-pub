@@ -2,7 +2,7 @@ import PhotoSwipe from "photoswipe"
 import PhotoSwipeLightbox from "photoswipe/lightbox"
 import { emitAnalyticsExhibition } from "../../util/analytics-client"
 import type { MediaEntry } from "../../util/objectMedia"
-import { cleanText, displayCaption, mediaImageUrl } from "../../util/objectMedia"
+import { cleanText, displayCaption, mediaImageUrl, mediaThumbnailUrl } from "../../util/objectMedia"
 import { mediaLicenseLabel } from "../../util/mediaGallery"
 import {
   exhibitionSlideshowDurationMs,
@@ -409,7 +409,7 @@ function initExhibitionViewer() {
   const dataSource = () =>
     sequence.map((entry) => ({
       src: mediaImageUrl(entry),
-      msrc: mediaImageUrl(entry),
+      msrc: mediaThumbnailUrl(entry),
       ...viewerDimensions(entry),
       alt: displayCaption(entry),
     }))
@@ -771,5 +771,6 @@ function initExhibitionPage() {
   initExhibitionViewer()
 }
 
-document.addEventListener("nav", initExhibitionPage)
-initExhibitionPage()
+export function initClient() {
+  initExhibitionPage()
+}

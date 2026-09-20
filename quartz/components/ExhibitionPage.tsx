@@ -15,13 +15,12 @@ import {
   displayDate,
   mediaDetailUrl,
   mediaImageUrl,
+  mediaThumbnailUrl,
 } from "../util/objectMedia"
 import { mediaLicenseLabel } from "../util/mediaGallery"
 import style from "./styles/exhibitionPage.scss"
 import photoswipeStyle from "./styles/photoswipe.scss"
 import viewerStyle from "./styles/objectMediaGallery.scss"
-// @ts-ignore
-import script from "./scripts/exhibition.inline"
 import { RelatedContent } from "./ContentCycle"
 
 function parseManifest(value: unknown): ExhibitionManifest | undefined {
@@ -177,8 +176,7 @@ function Exhibit({
   itemTitleById: Map<string, string>
 }) {
   const media = item.media
-  // Large exhibition panels should never upscale a thumbnail.
-  const imageUrl = mediaImageUrl(media)
+  const imageUrl = mediaThumbnailUrl(media)
   const frame = mediaFrame(item)
   return (
     <article
@@ -306,7 +304,7 @@ function RelatedExhibits({
 }
 
 function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
-  const hero = mediaImageUrl(exhibition.hero)
+  const hero = mediaThumbnailUrl(exhibition.hero)
   let exhibitIndex = 0
   const itemTitleById = new Map(
     exhibition.sections.flatMap((section) =>
@@ -375,9 +373,10 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
         {exhibition.sections.map((section, index) => (
           <a href={`#${section.slug}`} data-exhibition-chapter={section.slug}>
             <img
-              src={mediaImageUrl(section.navMedia)}
+              src={mediaThumbnailUrl(section.navMedia)}
               alt=""
               aria-hidden="true"
+              loading="lazy"
               style={`object-position:${section.navImagePosition || "50% 30%"}`}
             />
             <span class="exhibition-chapter-scrim" aria-hidden="true" />
@@ -487,7 +486,7 @@ function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] })
             class={`exhibition-index-card exhibition-theme--${exhibition.theme || "historical"}`}
           >
             <a href={`/${exhibition.slug}`}>
-              <img src={mediaImageUrl(exhibition.hero)} alt={exhibition.title} />
+              <img src={mediaThumbnailUrl(exhibition.hero)} alt={exhibition.title} loading="lazy" />
             </a>
             <div>
               <span>
@@ -525,6 +524,5 @@ const ExhibitionPage: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
 }
 
 ExhibitionPage.css = [photoswipeStyle, viewerStyle, style]
-ExhibitionPage.afterDOMLoaded = `${script}\n${museumScript}`
-
+ExhibitionPage.afterDOMLoaded = museumScript
 export default (() => ExhibitionPage) satisfies QuartzComponentConstructor

@@ -357,6 +357,185 @@ function syncCurrentPageFilter() {
   notice.hidden = !showNotice
 }
 
+type ObjectClaimFilterState = {
+  search: string
+  mode: "any" | "all"
+  topics: Set<string>
+}
+
+let objectClaimFilterState: ObjectClaimFilterState | null = null
+let objectClaimFilterPage = ""
+let objectClaimTopicClickBound = false
+let objectClaimFiltersPopstateBound = false
+
+function objectClaimParams(): URLSearchParams {
+  return new URLSearchParams(window.location.search)
+}
+
+function readObjectClaimFilterState(): ObjectClaimFilterState {
+  const params = objectClaimParams()
+  const mode = params.get("claim-mode") === "all" ? "all" : "any"
+  const topics = new Set(
+    (params.get("claim-topic") ?? "")
+      .split(",")
+      .map((value) => value.trim())
+      .filter(Boolean),
+  )
+  return { search: params.get("claim-q") ?? "", mode, topics }
+}
+
+function writeObjectClaimFilterState(state: ObjectClaimFilterState, push = false) {
+  const params = objectClaimParams()
+  if (state.search.trim()) params.set("claim-q", state.search.trim())
+  else params.delete("claim-q")
+  if (state.topics.size) params.set("claim-topic", [...state.topics].sort().join(","))
+  else params.delete("claim-topic")
+  if (state.mode === "all" && state.topics.size) params.set("claim-mode", "all")
+  else params.delete("claim-mode")
+  const query = params.toString()
+  const next = `${window.location.pathname}${query ? `?${query}` : ""}${window.location.hash}`
+  if (push) window.history.pushState({}, "", next)
+  else window.history.replaceState({}, "", next)
+}
+
+function objectClaimRowsMatchBase(row: HTMLElement, filterState: ObjectClaimFilterState): boolean {
+  const query = filterState.search.trim().toLocaleLowerCase("lt-LT")
+  if (query && !row.textContent?.toLocaleLowerCase("lt-LT").includes(query)) return false
+  const sourceIds = parseSourceIds(row.dataset.citationSourceIds)
+  return sourceMatchesSelectionForObjectClaim(sourceIds)
+}
+
+function sourceMatchesSelectionForObjectClaim(sourceIds: string[]): boolean {
+  if (state.textSources.mode === "all" && state.textSources.rules.length === 0) return true
+  return matchesSourceSelection(sourceIds)
+}
+
+function selectedObjectClaimTopics(row: HTMLElement): string[] {
+  return (row.dataset.claimTopics ?? "").split("|").map((value) => value.trim()).filter(Boolean)
+}
+
+function syncObjectClaimFilterControls(toolbar: HTMLElement, filterState: ObjectClaimFilterState, baseVisibleCount: number, resultCount: number) {
+  const search = toolbar.querySelector<HTMLInputElement>("[data-object-claim-search]")
+  if (search && search.value !== filterState.search) search.value = filterState.search
+  toolbar.dataset.objectClaimMode = filterState.mode
+  toolbar.dataset.objectClaimSelected = [...filterState.topics].join(",")
+  toolbar.querySelectorAll<HTMLElement>("[data-object-topic-id]").forEach((button) => {
+    const active = filterState.topics.has(button.dataset.topicId ?? "")
+    button.setAttribute("aria-pressed", String(active))
+  })
+  toolbar.querySelectorAll<HTMLElement>("[data-object-topic-mode]").forEach((button) => {
+    const active = (button.dataset.objectTopicMode ?? "any") === filterState.mode
+    button.classList.toggle("is-active", active)
+    button.setAttribute("aria-pressed", String(active))
+  })
+  const result = toolbar.querySelector<HTMLElement>("[data-object-claim-result-count]")
+  if (result) result.textContent = String(resultCount)
+  const summary = toolbar.querySelector<HTMLElement>(".object-claim-filter-summary")
+  if (summary) summary.lastChild && (summary.lastChild.textContent = ` iš ${baseVisibleCount} teiginių`)
+}
+
+function applyObjectClaimFilters() {
+  const toolbar = document.querySelector<HTMLElement>('[data-object-claim-filters="true"]')
+  const rows = [...document.querySelectorAll<HTMLElement>('[data-claim-row="true"]')]
+  if (!toolbar || rows.length === 0) return
+  const page = document.body.dataset.slug ?? window.location.pathname
+  if (objectClaimFilterPage !== page || objectClaimFilterState === null) {
+    objectClaimFilterPage = page
+    objectClaimFilterState = readObjectClaimFilterState()
+  }
+  const filterState = objectClaimFilterState
+  const baseRows = rows.filter((row) => objectClaimRowsMatchBase(row, filterState))
+  const selected = filterState.topics
+  rows.forEach((row) => {
+    const topics = selectedObjectClaimTopics(row)
+    const topicMatch = selected.size === 0 || (filterState.mode === "all"
+      ? [...selected].every((topic) => topics.includes(topic))
+      : [...selected].some((topic) => topics.includes(topic)))
+    row.hidden = !objectClaimRowsMatchBase(row, filterState) || !topicMatch
+    if (row.hidden) {
+      const key = row.dataset.globalClaimId || row.dataset.claimLocalId || ""
+      document.querySelectorAll<HTMLElement>(`[data-claim-detail-for]`).forEach((detail) => {
+        if (detail.dataset.claimDetailFor === key) detail.hidden = true
+      })
+    }
+  })
+  toolbar.querySelectorAll<HTMLElement>("[data-topic-count]").forEach((count) => {
+    const topic = count.dataset.topicCount ?? ""
+    count.textContent = String(baseRows.filter((row) => selectedObjectClaimTopics(row).includes(topic)).length)
+  })
+  const resultCount = rows.filter((row) => !row.hidden).length
+  document.querySelectorAll<HTMLElement>('[data-claims-table="true"]').forEach((table) => {
+    table.hidden = table.querySelectorAll('[data-claim-row="true"]:not([hidden])').length === 0
+  })
+  document.querySelectorAll<HTMLElement>('[data-claims-section="true"]').forEach((wrapper) =>
+    syncEmptyState(wrapper, {
+      selector: '[data-claim-row="true"]',
+      emptySelector: "[data-claims-empty-state]",
+      emptyAttr: "data-claims-empty-state",
+      emptyText: "Nėra teiginių pagal pasirinktus filtrus.",
+    }),
+  )
+  syncObjectClaimFilterControls(toolbar, filterState, baseRows.length, resultCount)
+}
+
+function bindObjectClaimFilters(toolbar: HTMLElement) {
+  if (toolbar.dataset.objectClaimBound === "true") return
+  toolbar.dataset.objectClaimBound = "true"
+  const search = toolbar.querySelector<HTMLInputElement>("[data-object-claim-search]")
+  search?.addEventListener("input", () => {
+    if (!objectClaimFilterState) objectClaimFilterState = readObjectClaimFilterState()
+    objectClaimFilterState.search = search.value
+    writeObjectClaimFilterState(objectClaimFilterState)
+    applyObjectClaimFilters()
+  })
+  toolbar.addEventListener("click", (event) => {
+    const target = event.target instanceof HTMLElement ? event.target.closest<HTMLElement>("[data-object-topic-id], [data-object-topic-mode], [data-object-claim-clear]") : null
+    if (!target) return
+    if (!objectClaimFilterState) objectClaimFilterState = readObjectClaimFilterState()
+    if (target.hasAttribute("data-object-claim-clear")) {
+      objectClaimFilterState = { search: "", mode: "any", topics: new Set() }
+      writeObjectClaimFilterState(objectClaimFilterState, true)
+    } else if (target.dataset.objectTopicMode) {
+      objectClaimFilterState.mode = target.dataset.objectTopicMode === "all" ? "all" : "any"
+      writeObjectClaimFilterState(objectClaimFilterState, true)
+    } else if (target.dataset.topicId) {
+      const topic = target.dataset.topicId
+      if (objectClaimFilterState.topics.has(topic)) objectClaimFilterState.topics.delete(topic)
+      else objectClaimFilterState.topics.add(topic)
+      writeObjectClaimFilterState(objectClaimFilterState, true)
+    }
+    applyObjectClaimFilters()
+  })
+  if (!objectClaimTopicClickBound) {
+    objectClaimTopicClickBound = true
+    document.addEventListener("click", (event) => {
+      const target = event.target instanceof HTMLElement ? event.target.closest<HTMLElement>("[data-claim-topic]") : null
+      if (!target) return
+      const topic = target.dataset.claimTopic
+      if (!topic) return
+      event.preventDefault()
+      if (!objectClaimFilterState) objectClaimFilterState = readObjectClaimFilterState()
+      if (objectClaimFilterState.topics.has(topic)) objectClaimFilterState.topics.delete(topic)
+      else objectClaimFilterState.topics.add(topic)
+      writeObjectClaimFilterState(objectClaimFilterState, true)
+      applyObjectClaimFilters()
+    })
+  }
+  if (window.location.hash.startsWith("#claim-") && document.getElementById(window.location.hash.slice(1))) {
+    objectClaimFilterState = { search: "", mode: "any", topics: new Set() }
+    writeObjectClaimFilterState(objectClaimFilterState)
+  }
+}
+
+function bindObjectClaimFiltersPopstate() {
+  if (objectClaimFiltersPopstateBound) return
+  objectClaimFiltersPopstateBound = true
+  window.addEventListener("popstate", () => {
+    objectClaimFilterState = readObjectClaimFilterState()
+    applyObjectClaimFilters()
+  })
+}
+
 function applyCitationFilters() {
   const claimRows = document.querySelectorAll<HTMLElement>('[data-claim-row="true"]')
   claimRows.forEach((row) => {
@@ -494,6 +673,10 @@ function applyFilters() {
   applyListFilters()
   applyExplorerFilters()
   applyCitationFilters()
+  const objectClaimToolbar = document.querySelector<HTMLElement>('[data-object-claim-filters="true"]')
+  if (objectClaimToolbar) bindObjectClaimFilters(objectClaimToolbar)
+  bindObjectClaimFiltersPopstate()
+  applyObjectClaimFilters()
   applyPrimaryMediaFilter()
   void applyRelationFilters()
   syncCurrentPageFilter()

@@ -7,6 +7,7 @@ import { analyticsZoomBucket } from "../../util/analytics"
 import {
   buildVisibleGraph,
   cloneGraphState,
+  isCurrentPanelRequest,
   layoutGlobalGraph,
   parseGraphState,
   serializeGraphState,
@@ -24,6 +25,16 @@ type NodeDetails = {
   summary: string
   topClaims: Array<{ id: string; text: string }>
   sources: string[]
+  authority?: {
+    entityId: string
+    canonicalName: string
+    canonicalBiography: string
+    roles: string[]
+    viewRole: string
+    aliases: string[]
+    sameAs: string[]
+    place?: unknown
+  }
 }
 type EdgeEvidence = {
   claimId: string
@@ -320,7 +331,9 @@ async function renderNodePanel(
   state: GraphState,
   setPanel: (mode: GraphState["panel"]) => void,
   toggleRelation: (kind: string) => void,
+  isCurrent: () => boolean = () => true,
 ) {
+  if (!isCurrent()) return
   panel.scrollTop = 0
   if (state.panel === "page") {
     panel.innerHTML = `${panelControls(state)}<p>Kraunamas puslapis…</p>`
@@ -328,23 +341,30 @@ async function renderNodePanel(
     try {
       const response = await fetch(relativePageUrl(node.id))
       const html = await response.text()
+      if (!isCurrent()) return
       const doc = new DOMParser().parseFromString(html, "text/html")
       const article = doc.querySelector(".object-detail-page, article.popover-hint, article")
       panel.innerHTML = `${panelControls(state)}<div class="graph-explorer-page-content">${article?.innerHTML ?? "Puslapio nepavyko įkelti."}</div>`
       bindPanelControls(panel, setPanel)
     } catch {
+      if (!isCurrent()) return
       panel.innerHTML = `${panelControls(state)}<p>Puslapio nepavyko įkelti.</p>`
       bindPanelControls(panel, setPanel)
     }
     return
   }
-  const details = await nodeDetails(node.id, topology)
   const counts = summarizeFocusedGraph(graph)
-  panel.innerHTML = `${panelControls(state)}
+  const header = `${panelControls(state)}
     <header class="graph-explorer-panel-header"><p>${escapeHtml(typeLabels[node.type] ?? node.type)}</p><h2>${escapeHtml(node.title)}</h2></header>
     <dl class="graph-explorer-stats"><div><dt>Teiginiai</dt><dd>${node.claimCount}</dd></div><div><dt>Citatos</dt><dd>${node.quoteCount}</dd></div><div><dt>Susiję objektai</dt><dd>${counts.linkedObjects}</dd></div><div><dt>Tiesioginiai ryšiai</dt><dd>${counts.directEdges} / ${counts.possibleDirectEdges}</dd></div><div><dt>Subgrafo ryšiai</dt><dd>${counts.subgraphEdges}</dd></div></dl>
     <p class="graph-count-explanation">Tiesioginiai ryšiai jungia pasirinktą objektą su jo kaimynais. Subgrafo ryšiai apima ir ekrane rodomų kaimynų tarpusavio ryšius. Skaičiai pateikti kaip aktyvūs / visi.</p>
-    ${activeFilterSummary(state, topology)}
+    ${activeFilterSummary(state, topology)}`
+  panel.innerHTML = `${header}<p class="graph-explorer-panel-status">Kraunamos objekto detalės…</p>`
+  bindPanelControls(panel, setPanel)
+  try {
+    const details = await nodeDetails(node.id, topology)
+    if (!isCurrent()) return
+    panel.innerHTML = `${header}
     ${details?.summary ? `<p class="graph-explorer-summary">${escapeHtml(details.summary)}</p>` : ""}
     <div class="graph-explorer-actions"><a href="${relativePageUrl(node.id)}">Atidaryti objektą</a><a href="${relativePageUrl(node.id).replace(/\/$/u, "")}/irodymai">Visi ${node.claimCount} teiginiai</a><a href="${relativePageUrl(node.id).replace(/\/$/u, "")}/rysiai">Visi ryšiai</a></div>
     ${relationBreakdown(node, graph, topology, state)}
@@ -363,12 +383,17 @@ async function renderNodePanel(
             .join("")}</ul>`
         : ""
     }`
-  bindPanelControls(panel, setPanel)
-  panel
-    .querySelectorAll<HTMLButtonElement>("[data-panel-relation]")
-    .forEach((button) =>
-      button.addEventListener("click", () => toggleRelation(button.dataset.panelRelation!)),
-    )
+    bindPanelControls(panel, setPanel)
+    panel
+      .querySelectorAll<HTMLButtonElement>("[data-panel-relation]")
+      .forEach((button) =>
+        button.addEventListener("click", () => toggleRelation(button.dataset.panelRelation!)),
+      )
+  } catch {
+    if (!isCurrent()) return
+    panel.innerHTML = `${header}<p class="graph-explorer-panel-status">Papildomų detalių įkelti nepavyko. Pagrindinė objekto informacija pateikta.</p>`
+    bindPanelControls(panel, setPanel)
+  }
 }
 async function renderEdgePanel(
   panel: HTMLElement,
@@ -376,13 +401,20 @@ async function renderEdgePanel(
   topology: GraphTopology,
   state: GraphState,
   setPanel: (mode: GraphState["panel"]) => void,
+  isCurrent: () => boolean = () => true,
 ) {
+  if (!isCurrent()) return
   panel.scrollTop = 0
   const spec = topology.relationKinds[edge.kind]
-  const evidence = await edgeEvidence(edge.id, topology)
-  panel.innerHTML = `${panelControls(state)}<header class="graph-explorer-panel-header"><p>Ryšys</p><h2>${escapeHtml(edge.source.title)} <span>${escapeHtml(spec?.label ?? edge.kind)}</span> ${escapeHtml(edge.target.title)}</h2></header>
+  const header = `${panelControls(state)}<header class="graph-explorer-panel-header"><p>Ryšys</p><h2>${escapeHtml(edge.source.title)} <span>${escapeHtml(spec?.label ?? edge.kind)}</span> ${escapeHtml(edge.target.title)}</h2></header>
     <dl class="graph-explorer-stats"><div><dt>Patikimumas</dt><dd>${Math.round(edge.confidence * 100)}%</dd></div><div><dt>Įrodymai</dt><dd>${edge.evidenceCount}</dd></div><div><dt>Sluoksnis</dt><dd>${escapeHtml(edge.layer)}</dd></div></dl>
-    ${edge.sourceTitles.length ? `<p class="graph-edge-sources"><strong>Šaltiniai:</strong> ${edge.sourceTitles.map(escapeHtml).join(", ")}</p>` : ""}
+    ${edge.sourceTitles.length ? `<p class="graph-edge-sources"><strong>Šaltiniai:</strong> ${edge.sourceTitles.map(escapeHtml).join(", ")}</p>` : ""}`
+  panel.innerHTML = `${header}<p class="graph-explorer-panel-status">Kraunami ryšio įrodymai…</p>`
+  bindPanelControls(panel, setPanel)
+  try {
+    const evidence = await edgeEvidence(edge.id, topology)
+    if (!isCurrent()) return
+    panel.innerHTML = `${header}
     ${
       evidence
         .slice(0, 3)
@@ -392,7 +424,12 @@ async function renderEdgePanel(
         )
         .join("") || "<p>Ryšys pateiktas viešame puslapyje be atskiros citatos peržiūros.</p>"
     }`
-  bindPanelControls(panel, setPanel)
+    bindPanelControls(panel, setPanel)
+  } catch {
+    if (!isCurrent()) return
+    panel.innerHTML = `${header}<p class="graph-explorer-panel-status">Ryšio įrodymų įkelti nepavyko, tačiau pagrindinė ryšio informacija pateikta.</p>`
+    bindPanelControls(panel, setPanel)
+  }
 }
 type Renderer = { destroy: () => void; camera: () => Camera; applyCamera: (camera: Camera) => void }
 async function renderPixi(
@@ -941,7 +978,7 @@ function relationOptions(
     }),
   )
 }
-function popovers(root: HTMLElement) {
+function popovers(root: HTMLElement): () => void {
   const close = () => {
     root
       .querySelectorAll<HTMLElement>("[data-popover-panel]")
@@ -964,9 +1001,11 @@ function popovers(root: HTMLElement) {
   root
     .querySelectorAll<HTMLButtonElement>("[data-popover-close]")
     .forEach((button) => button.addEventListener("click", close))
-  document.addEventListener("keydown", (event) => {
+  const onKeyDown = (event: KeyboardEvent) => {
     if (event.key === "Escape") close()
-  })
+  }
+  document.addEventListener("keydown", onKeyDown)
+  return () => document.removeEventListener("keydown", onKeyDown)
 }
 async function setup(root: HTMLElement) {
   document.body.classList.add("graph-explorer-active")
@@ -1026,6 +1065,7 @@ async function setup(root: HTMLElement) {
   let renderer: Renderer | null = null
   const worker = createLayoutWorker()
   let renderToken = 0
+  let panelRenderToken = 0
   let camera: Camera | undefined
   let historyEntries: HistoryEntry[] = [{ state: cloneGraphState(state) }],
     historyIndex = 0
@@ -1059,6 +1099,15 @@ async function setup(root: HTMLElement) {
     }
     updateHistoryButtons()
   }
+  const setPanelMode = (mode: GraphState["panel"]) => {
+    panelRenderToken++
+    state = { ...state, panel: mode }
+    root.dataset.panel = mode
+    if (mode === "hidden") panel.replaceChildren()
+    commit("replace")
+    sync()
+    void rerender(camera)
+  }
   async function ensureLayers() {
     for (const kind of state.relations)
       if (genericKinds.has(kind) && !layerCache.has(kind)) {
@@ -1067,6 +1116,9 @@ async function setup(root: HTMLElement) {
   }
   async function rerender(restoreCamera?: Camera) {
     const token = ++renderToken
+    const panelToken = ++panelRenderToken
+    root.dataset.panel = state.panel
+    if (state.panel === "hidden") panel.replaceChildren()
     status.hidden = false
     status.textContent = "Ruošiamas žemėlapis…"
     await ensureLayers()
@@ -1100,6 +1152,7 @@ async function setup(root: HTMLElement) {
         void rerender()
       },
       edge: (edge) => {
+        const edgePanelToken = ++panelRenderToken
         state = { ...state, panel: "details" }
         root.dataset.panel = "details"
         emitAnalyticsMap("edge_select", {
@@ -1108,12 +1161,9 @@ async function setup(root: HTMLElement) {
           input_method: "canvas",
         })
         commit("replace")
-        void renderEdgePanel(panel, edge, topology, state, (mode) => {
-          state = { ...state, panel: mode }
-          root.dataset.panel = mode
-          commit("replace")
-          void rerender(camera)
-        })
+        void renderEdgePanel(panel, edge, topology, state, setPanelMode, () =>
+          isCurrentPanelRequest(edgePanelToken, panelRenderToken, state.panel),
+        )
       },
       camera: (value) => {
         if (lastCamera) {
@@ -1153,11 +1203,7 @@ async function setup(root: HTMLElement) {
           graph,
           topology,
           state,
-          (mode) => {
-            state = { ...state, panel: mode }
-            commit("replace")
-            void rerender(camera)
-          },
+          setPanelMode,
           (kind) => {
             state.relations = state.relations.includes(kind)
               ? state.relations.filter((value) => value !== kind)
@@ -1166,15 +1212,12 @@ async function setup(root: HTMLElement) {
             sync()
             void rerender()
           },
+          () => isCurrentPanelRequest(panelToken, panelRenderToken, state.panel),
         )
       }
     } else if (state.panel !== "hidden") {
       panel.innerHTML = `${panelControls(state)}<h2>${graph.nodes.length.toLocaleString("lt-LT")} objektai</h2><p>${graph.edges.length.toLocaleString("lt-LT")} ryšiai visame matomame tinkle. Pasirink objektą arba ryšį.</p>`
-      bindPanelControls(panel, (mode) => {
-        state = { ...state, panel: mode }
-        commit("replace")
-        void rerender(camera)
-      })
+      bindPanelControls(panel, setPanelMode)
     }
 
     const scope = graph.focus ? "Subgrafas" : "Tinklas"
@@ -1218,7 +1261,7 @@ async function setup(root: HTMLElement) {
     root.dataset.panel = state.panel
     updateHistoryButtons()
   }
-  popovers(root)
+  const cleanupPopovers = popovers(root)
   sync()
   updateHistoryButtons()
   window.history.replaceState({ graphIndex: 0 }, "", stateUrl(state, defaults))
@@ -1333,7 +1376,9 @@ async function setup(root: HTMLElement) {
   }
   root.querySelector<HTMLButtonElement>("[data-graph-home]")!.onclick = () => {
     emitAnalyticsMap("home", { map_view: "full", input_method: "button" })
+    panelRenderToken++
     state = { ...state, focus: "", depth: 1, panel: "hidden" }
+    panel.replaceChildren()
     commit()
     sync()
     renderer?.destroy()
@@ -1343,7 +1388,9 @@ async function setup(root: HTMLElement) {
   }
   root.querySelector<HTMLButtonElement>("[data-clear-focus]")!.onclick = () => {
     emitAnalyticsMap("home", { map_view: "full", input_method: "button" })
+    panelRenderToken++
     state = { ...state, focus: "", depth: 1, panel: "hidden" }
+    panel.replaceChildren()
     const context = root.querySelector<HTMLElement>("[data-focus-context]")!
     context.hidden = true
     root.querySelector<HTMLElement>("[data-focus-title]")!.textContent = ""
@@ -1363,22 +1410,17 @@ async function setup(root: HTMLElement) {
     void rerender()
   }
   root.querySelector<HTMLButtonElement>("[data-panel-toggle]")!.onclick = () => {
-    state = { ...state, panel: state.panel === "hidden" ? "details" : "hidden" }
+    const mode = state.panel === "hidden" ? "details" : "hidden"
     emitAnalyticsMap("panel_mode_change", {
       map_view: "full",
-      map_panel_mode: state.panel,
+      map_panel_mode: mode,
       input_method: "button",
     })
-    commit("replace")
-    sync()
-    void rerender()
+    setPanelMode(mode)
   }
   root.querySelector<HTMLButtonElement>("[data-panel-show]")!.onclick = () => {
-    state = { ...state, panel: "details" }
     emitAnalyticsMap("panel_open", { map_view: "full", map_panel_mode: "details" })
-    commit("replace")
-    sync()
-    void rerender()
+    setPanelMode("details")
   }
   root.querySelectorAll<HTMLInputElement>("input[name='depth']").forEach(
     (input) =>
@@ -1476,7 +1518,7 @@ async function setup(root: HTMLElement) {
     void rerender()
   }
   renderSources()
-  window.addEventListener("popstate", (event) => {
+  const onPopState = (event: PopStateEvent) => {
     const index = Number(event.state?.graphIndex)
     if (Number.isInteger(index) && historyEntries[index]) {
       historyIndex = index
@@ -1488,7 +1530,8 @@ async function setup(root: HTMLElement) {
     }
     sync()
     void rerender(camera)
-  })
+  }
+  window.addEventListener("popstate", onPopState)
   root.querySelector<HTMLButtonElement>("[data-overview-search]")!.onclick = () => search.focus()
   root.querySelector<HTMLButtonElement>("[data-overview-all]")!.onclick = () => {
     overview.hidden = true
@@ -1501,19 +1544,24 @@ async function setup(root: HTMLElement) {
   }
   window.addCleanup?.(() => {
     root.removeEventListener("change", onGraphFilterChange)
+    window.removeEventListener("popstate", onPopState)
+    cleanupPopovers()
     renderer?.destroy()
     worker.terminate()
+    delete root.dataset.graphExplorerInitialized
     document.body.classList.remove("graph-explorer-active")
   })
 }
 
-document.addEventListener("nav", () => {
+export async function initClient() {
   const root = document.querySelector<HTMLElement>("[data-graph-explorer]")
-  if (root)
-    void setup(root).catch((error) => {
-      emitAnalyticsMap("load_error", { map_view: "full" })
-      const status = root.querySelector<HTMLElement>("[data-graph-status]")
-      if (status)
-        status.textContent = `Nepavyko įkelti žemėlapio: ${error instanceof Error ? error.message : String(error)}`
-    })
-})
+  if (!root || root.dataset.graphExplorerInitialized === "true") return
+  root.dataset.graphExplorerInitialized = "true"
+  await setup(root).catch((error) => {
+    delete root.dataset.graphExplorerInitialized
+    emitAnalyticsMap("load_error", { map_view: "full" })
+    const status = root.querySelector<HTMLElement>("[data-graph-status]")
+    if (status)
+      status.textContent = `Nepavyko įkelti žemėlapio: ${error instanceof Error ? error.message : String(error)}`
+  })
+}

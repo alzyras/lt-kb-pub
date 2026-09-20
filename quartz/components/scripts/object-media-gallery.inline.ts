@@ -2,7 +2,13 @@ import createJustifiedLayout from "justified-layout"
 import PhotoSwipe from "photoswipe"
 import PhotoSwipeLightbox from "photoswipe/lightbox"
 import type { MediaEntry } from "../../util/objectMedia"
-import { cleanText, displayCaption, mediaImageUrl, relationLabel } from "../../util/objectMedia"
+import {
+  cleanText,
+  displayCaption,
+  mediaImageUrl,
+  mediaThumbnailUrl,
+  relationLabel,
+} from "../../util/objectMedia"
 import {
   buildMediaSearchIndex,
   computeDynamicFacetCounts,
@@ -104,7 +110,7 @@ function loadNaturalDimensions(
   let request = naturalSizeCache.get(key)
   if (!request) {
     request = new Promise((resolve) => {
-      const src = mediaImageUrl(entry)
+      const src = mediaThumbnailUrl(entry)
       if (!src) return resolve(null)
       const image = new Image()
       image.decoding = "async"
@@ -254,7 +260,7 @@ function card(entry: MediaEntry, index: number, onImageDimensions?: () => void):
       ? ` width="${width}" height="${height}"`
       : ""
   article.innerHTML = `<a href="${escapeHtml(href)}" data-media-open="${index}" aria-label="Atidaryti: ${escapeHtml(caption)}">
-    <span class="media-gallery-card-media"><img src="${escapeHtml(mediaImageUrl(entry))}" alt="${escapeHtml(caption)}"${intrinsicSize} loading="${index < 8 ? "eager" : "lazy"}" decoding="async">
+    <span class="media-gallery-card-media"><img src="${escapeHtml(mediaThumbnailUrl(entry))}" alt="${escapeHtml(caption)}"${intrinsicSize} loading="${index === 0 ? "eager" : "lazy"}" decoding="async">
     <span class="media-gallery-card-overlay"><span class="media-gallery-card-title">${escapeHtml(caption)}</span>${date ? `<span>${escapeHtml(date)}</span>` : ""}</span>
     <span class="media-gallery-card-hover" aria-hidden="true"><span>${escapeHtml(creator)}</span><span>${escapeHtml(objects)}</span></span></span></a>`
   const image = article.querySelector<HTMLImageElement>("img")
@@ -345,7 +351,7 @@ function initViewer(
   const dataSource = () =>
     getEntries().map((entry) => ({
       src: mediaImageUrl(entry),
-      msrc: mediaImageUrl(entry),
+      msrc: mediaThumbnailUrl(entry),
       ...normalizedDimensions(entry),
       alt: displayCaption(entry),
       mediaId: entry.mediaId,
@@ -491,7 +497,19 @@ function initViewer(
     const headerHeight = Math.ceil(header?.getBoundingClientRect().height ?? 0)
     lightbox.pswp?.element?.style.setProperty("--media-viewer-header-height", `${headerHeight}px`)
     document.body.classList.add("media-viewer-open")
-    emitAnalyticsFeature({ name: "media_gallery", action: "open" })
+    const position = lightbox.pswp?.currIndex ?? 0
+    const openedEntry = getEntries()[position]
+    emitAnalyticsFeature({
+      name: "media_gallery",
+      action: "open",
+      params: {
+        media_id: text(openedEntry?.mediaId),
+        media_position: position + 1,
+        media_sort: getState().sort,
+        result_count: getEntries().length,
+      },
+      dedupeScope: "none",
+    })
   })
   lightbox.on("close", () => {
     emitAnalyticsFeature({ name: "media_gallery", action: "close" })
@@ -978,8 +996,10 @@ function initGalleries() {
   document.querySelectorAll<HTMLElement>("[data-media-gallery]").forEach(initGallery)
 }
 
-initGalleries()
-document.addEventListener("nav", initGalleries)
+export function initClient() {
+  initGalleries()
+}
+
 document.addEventListener("quartz-settings-change", () =>
   document
     .querySelectorAll<HTMLElement>("[data-media-gallery]")

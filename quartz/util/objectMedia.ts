@@ -46,6 +46,8 @@ export type MediaEntry = {
   judgeModel?: string
   judgeReason?: string
   isPrimary?: number
+  /** Optional provider/import perceptual hash used to suppress near-duplicates. */
+  perceptualHash?: string
 }
 
 export type MediaTag = {
@@ -210,7 +212,62 @@ export function objectMediaSet(frontmatter: QuartzPluginData["frontmatter"]): Ob
   const fallbackPrimary = primary ?? direct[0] ?? contextual[0] ?? all[0]
   const totalCount = Number(frontmatter?.media_total_count ?? all.length) || all.length
 
-  return { direct, contextual, all, primary, fallbackPrimary, totalCount }
+  return applyObjectPagePrimary({ direct, contextual, all, primary, fallbackPrimary, totalCount }, frontmatter)
+}
+
+function objectPageView(frontmatter: QuartzPluginData["frontmatter"]): Record<string, unknown> {
+  const raw = frontmatter?.object_page_view_json
+  if (raw && typeof raw === "object" && !Array.isArray(raw)) return raw as Record<string, unknown>
+  if (typeof raw !== "string" || !raw.trim()) return {}
+  try {
+    const parsed = JSON.parse(raw)
+    return parsed && typeof parsed === "object" && !Array.isArray(parsed) ? parsed as Record<string, unknown> : {}
+  } catch {
+    return {}
+  }
+}
+
+export function applyObjectPagePrimary(set: ObjectMediaSet, frontmatter: QuartzPluginData["frontmatter"]): ObjectMediaSet {
+  const view = objectPageView(frontmatter)
+  const portrait = view.portrait && typeof view.portrait === "object" ? view.portrait as Record<string, unknown> : undefined
+  const verification = view.media_verification && typeof view.media_verification === "object" ? view.media_verification as Record<string, unknown> : undefined
+  const frontmatterPrimary = parseMediaEntry(frontmatter?.media_primary_json)
+  const requestedId = cleanText(frontmatter?.object_page_primary_media_id) || cleanText(portrait?.media_id) || cleanText(frontmatterPrimary?.mediaId)
+  const identityVerified = portrait?.identity_verified === true || verification?.status === "verified" || verification?.status === "not_required" || Boolean(frontmatterPrimary)
+  const objectType = cleanText(frontmatter?.tipas).toLocaleLowerCase("lt")
+  const isPerson = objectType === "asmuo" || objectType === "autorius"
+  const isVerifiedPersonImage = (entry: MediaEntry): boolean => {
+    if (!isPerson) return true
+    const confidence = Number(entry.confidence ?? 0)
+    const relatedToPerson = (entry.relatedObjects ?? []).some((object) =>
+      ["asmuo", "autorius"].includes(cleanText(object.itemType).toLocaleLowerCase("lt")) &&
+      cleanText(object.directness).toLocaleLowerCase("lt") === "direct",
+    )
+    return Boolean(
+      cleanText(entry.visualReviewVersion) &&
+      cleanText(entry.visualEvidence) &&
+      cleanText(entry.metadataEvidence) &&
+      ["accepted", "published"].includes(cleanText(entry.reviewStatus).toLocaleLowerCase("lt")) &&
+      cleanText(entry.directness).toLocaleLowerCase("lt") === "direct" &&
+      confidence >= 0.9 &&
+      relatedToPerson,
+    )
+  }
+  const verifiedCandidates = set.all.filter(isVerifiedPersonImage)
+  const selected = requestedId && identityVerified
+    ? set.all.find((entry) => cleanText(entry.mediaId) === requestedId && isVerifiedPersonImage(entry))
+    : undefined
+  if (selected) {
+    const primary = { ...selected, isPrimary: 1 }
+    return { ...set, primary, fallbackPrimary: primary }
+  }
+  if (!isPerson) return set
+  const safeFallback = verifiedCandidates.find((entry) => Number(entry.isPrimary ?? 0) === 1) ?? verifiedCandidates[0]
+  if (safeFallback) return { ...set, primary: safeFallback, fallbackPrimary: safeFallback }
+  // A person page must not silently promote an unverified image merely because
+  // the gallery has a candidate. Keep the gallery visible, but leave its
+  // primary slot empty until the visual identity gate succeeds.
+  return { ...set, primary: undefined, fallbackPrimary: undefined }
 }
 
 export function relationLabel(relationType: string | undefined): string {
@@ -264,6 +321,7 @@ export function displayCaption(entry: MediaEntry): string {
 }
 
 /**
+ * Resolve the full-size image used only for an explicitly opened detail view.
  * Media source URLs can point to an archival original (including PDFs), while
  * thumbnails are actual image responses. DB export supplies `displayUrl` for
  * exceptional providers; this fallback keeps earlier exports safe as well.
@@ -283,6 +341,15 @@ export function mediaImageUrl(entry: MediaEntry): string {
     /(?:^|\.)fbc\.pionier\.net\.pl$/i.test(hostname) ||
     /(?:^|\.)iiif\.deutsche-digitale-bibliothek\.de$/i.test(hostname)
   return isDocument || knownUnreliableImageHost ? thumbnail || source : source || thumbnail
+}
+
+/**
+ * Resolve the lightweight image used by cards, page previews, and placeholders.
+ * Provider thumbnails are deliberately preferred even when the archival source
+ * is itself an image; the original remains available through `mediaImageUrl`.
+ */
+export function mediaThumbnailUrl(entry: MediaEntry): string {
+  return cleanText(entry.thumbUrl) || mediaImageUrl(entry)
 }
 
 export function displayCreator(value: unknown): string {

@@ -57,13 +57,33 @@ export const ANALYTICS_CUSTOM_DIMENSIONS = [
   "map_panel_mode",
   "map_zoom_bucket",
   "media_action",
+  "media_id",
+  "media_sort",
   "settings_area",
   "translation_language",
   "translation_status",
   "list_action",
 ] as const
 
-export const ANALYTICS_CUSTOM_METRICS = ["result_count", "term_length"] as const
+export const ANALYTICS_CUSTOM_METRICS = ["result_count", "term_length", "media_position"] as const
+
+export const ANALYTICS_FEATURE_PARAM_KEYS = [
+  "feature_value",
+  "media_action",
+  "media_filter",
+  "media_id",
+  "media_position",
+  "media_sort",
+  "settings_area",
+  "settings_action",
+  "translation_language",
+  "translation_status",
+  "list_action",
+  "filter_name",
+  "filter_value",
+  "result_count",
+  "term_length",
+] as const
 
 export type AnalyticsParamValue = string | number | boolean
 export type AnalyticsParams = Record<string, AnalyticsParamValue>

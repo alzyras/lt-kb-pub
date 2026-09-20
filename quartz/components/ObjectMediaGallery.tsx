@@ -25,6 +25,7 @@ import {
   MediaEntry,
   mediaDetailUrl,
   mediaImageUrl,
+  mediaThumbnailUrl,
   parseMediaEntry,
   relationLabel,
 } from "../util/objectMedia"
@@ -35,8 +36,6 @@ import {
   type MediaFacetOption,
   type MediaGalleryBootstrap,
 } from "../util/mediaGallery"
-// @ts-ignore
-import script from "./scripts/object-media-gallery.inline"
 
 const FACET_VISIBLE_LIMIT: Partial<Record<MediaFacetKey, number>> = {
   objects: 24,
@@ -255,11 +254,11 @@ function MediaCard({
       >
         <span class="media-gallery-card-media">
           <img
-            src={mediaImageUrl(entry)}
+            src={mediaThumbnailUrl(entry)}
             alt={displayCaption(entry)}
             width={entry.width || undefined}
             height={entry.height || undefined}
-            loading={index < 8 ? "eager" : "lazy"}
+            loading={index === 0 ? "eager" : "lazy"}
             decoding="async"
           />
           <span class="media-gallery-card-overlay">
@@ -508,6 +507,6 @@ const ObjectMediaGallery: QuartzComponent = (props: QuartzComponentProps) => {
 }
 
 ObjectMediaGallery.css = [photoswipeStyle, style, objectDetailStyle]
-ObjectMediaGallery.afterDOMLoaded = `${script}\n${tabsScript}\n${mapScript}`
+ObjectMediaGallery.afterDOMLoaded = `${tabsScript}\n${mapScript}`
 
 export default (() => ObjectMediaGallery) satisfies QuartzComponentConstructor

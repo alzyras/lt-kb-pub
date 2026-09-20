@@ -2,6 +2,7 @@ import assert from "node:assert/strict"
 import test, { describe } from "node:test"
 import {
   buildVisibleGraph,
+  isCurrentPanelRequest,
   layoutGlobalGraph,
   parseGraphState,
   serializeGraphState,
@@ -70,6 +71,12 @@ function state(overrides: Partial<GraphState> = {}): GraphState {
 }
 
 describe("graph explorer model", () => {
+  test("panel requests cannot repaint a hidden or stale panel", () => {
+    assert.equal(isCurrentPanelRequest(4, 4, "details"), true)
+    assert.equal(isCurrentPanelRequest(4, 5, "details"), false)
+    assert.equal(isCurrentPanelRequest(4, 4, "hidden"), false)
+  })
+
   test("global view has no node cap and hides only isolated nodes by default", () => {
     const graph = buildVisibleGraph(topology, edges, state())
     assert.deepEqual(new Set(graph.nodes.map((entry) => entry.id)), new Set(["A", "B", "C", "D"]))

@@ -6,6 +6,7 @@ import {
   mediaDetailSlug,
   mediaDetailUrl,
   mediaImageUrl,
+  mediaThumbnailUrl,
   mergeMediaEntries,
   objectMediaSet,
   withMediaDetailUrl,
@@ -82,5 +83,15 @@ describe("media catalog", () => {
     assert.equal(result.primary?.mediaId, "m-new")
     assert.equal(result.fallbackPrimary?.caption, "Naujas portretas")
     assert.equal(result.primary?.isPrimary, 1)
+  })
+
+  it("uses provider derivatives for thumbnails without hiding the original image", () => {
+    const original = "https://upload.wikimedia.org/wikipedia/commons/a/ab/example.jpg"
+    const thumbnail =
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/example.jpg/960px-example.jpg"
+    const entry = { sourceUrl: original, displayUrl: original, thumbUrl: thumbnail }
+
+    assert.equal(mediaThumbnailUrl(entry), thumbnail)
+    assert.equal(mediaImageUrl(entry), original)
   })
 })

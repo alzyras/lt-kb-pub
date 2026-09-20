@@ -15,6 +15,7 @@ import { styleText } from "util"
 import { buildAssetVersion } from "../util/buildVersion"
 import { graphVisualRegistry } from "../util/graphVisualRegistry"
 import { classifyAnalyticsPage } from "../util/analytics"
+import { stripInlineCssSourceMaps } from "../util/stylesheets"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -82,7 +83,11 @@ globalThis.fetchData = {
       {
         content: versionedAsset(joinSegments(baseDir, "index.css")),
       },
-      ...staticResources.css,
+      ...staticResources.css.map((resource) =>
+        resource.inline
+          ? { ...resource, content: stripInlineCssSourceMaps(resource.content) }
+          : resource,
+      ),
     ],
     js: [
       {

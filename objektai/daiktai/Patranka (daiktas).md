@@ -19,6 +19,7 @@ media_primary_json: ''
 media_direct_json: '[]'
 media_contextual_json: '[]'
 media_all_json: '[]'
+object_page_view_json: '{"wiki":{"intro":"Patranka – artilerijos ginklų tipas, nuo kitų artilerijos vamzdinių ginklų (pvz., haubicų ar mortyrų) besiskiriantis ilgu vamzdžiu, dideliu sviedinio pradiniu greičiu, bet mažesniu maksimalaus paaukštėjimo lanku.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"115460","revision_id":"6775738","status":"published","translation_status":"native","source":{"title":"Patranka","url":"https://lt.wikipedia.org/wiki/Patranka","publisher":"Vikipedija","language":"lt","article_id":"115460","revision_id":"6775738","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=6775738","history_url":"https://lt.wikipedia.org/w/index.php?title=Patranka&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:44.737224+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"4b82d683474fa230d6d56a42065bbc6e0d3523d182c7913a73513e7afa3dab8f","version_pk":"853a09fec2021136330476c62dcc7b82"}}}'
 ---
 # Patranka (daiktas)
 

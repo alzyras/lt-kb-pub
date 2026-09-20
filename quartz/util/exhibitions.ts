@@ -11,6 +11,7 @@ import {
   type EvidenceEntry,
 } from "./citationFilter"
 import { mediaImageUrl, type MediaEntry } from "./objectMedia"
+import { loadCanonicalMediaCatalog } from "./mediaCatalog"
 import { createUniqueSlugMap, type FilePath } from "./path"
 import { objectClaimHref, objectDetailEvidenceFromFile } from "./objectDetail"
 
@@ -147,10 +148,8 @@ function listMarkdownFiles(dir: string): string[] {
 }
 
 function loadMediaCatalog(): Map<string, MediaEntry> {
-  const path = resolve(process.cwd(), "quartz/static/mediaCatalogSource.json")
-  const payload = readJsonFile<{ entries?: MediaEntry[] }>(path)
   const mediaById = new Map<string, MediaEntry>()
-  for (const entry of payload?.entries ?? []) {
+  for (const entry of loadCanonicalMediaCatalog()) {
     if (entry && typeof entry.mediaId === "string") mediaById.set(entry.mediaId, entry)
   }
   return mediaById
@@ -198,9 +197,13 @@ function resolveClaim(
   ref: ExhibitionClaimRef,
   registry: Map<string, ClaimRegistryEntry>,
   context: string,
-): ExhibitionClaim {
+): ExhibitionClaim | null {
   const entry = registry.get(ref.claimId)
-  if (!entry) throw new Error(`${context}: global claim ${ref.claimId} was not found`)
+  // Public claims are intentionally absent until their independent evidence
+  // check succeeds. Keep the exhibition and its media available while omitting
+  // a stale reference instead of turning one quarantined claim into a build
+  // failure for the whole site.
+  if (!entry) return null
   const citation = entry.citations.get(ref.citationId)
   if (!citation) {
     throw new Error(`${context}: citation ${ref.citationId} was not found for ${ref.claimId}`)
@@ -273,9 +276,10 @@ function resolveExhibition(
         `${source.exhibitionId}/${section.sectionId}: navigation media ${section.navMediaId} was not found`,
       )
     }
-    const sectionClaims = (section.claimRefs ?? []).map((ref) =>
-      resolveClaim(ref, claimsById, `${source.exhibitionId}/${section.sectionId}`),
-    )
+    const sectionClaims = (section.claimRefs ?? []).flatMap((ref) => {
+      const claim = resolveClaim(ref, claimsById, `${source.exhibitionId}/${section.sectionId}`)
+      return claim ? [claim] : []
+    })
     const items = section.items.map((item): ExhibitionItem => {
       const media = item.media ?? mediaById.get(item.mediaId)
       if (!media) {
@@ -285,13 +289,14 @@ function resolveExhibition(
       }
       const imageUrl = mediaImageUrl(media)
       if (imageUrl) imageUrls.push(imageUrl)
-      const claims = (item.claimRefs ?? []).map((ref) =>
-        resolveClaim(
+      const claims = (item.claimRefs ?? []).flatMap((ref) => {
+        const claim = resolveClaim(
           ref,
           claimsById,
           `${source.exhibitionId}/${section.sectionId}/${item.exhibitionItemId}`,
-        ),
-      )
+        )
+        return claim ? [claim] : []
+      })
       return { ...item, media, claims }
     })
     if (!items.some((item) => item.mediaId === section.navMediaId)) {

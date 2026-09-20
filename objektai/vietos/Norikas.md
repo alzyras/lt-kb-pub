@@ -1,10 +1,10 @@
 ---
 tipas: vieta
-pavadinimas: 'Norikas'
+pavadinimas: Norikas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '477 m.'
+  - 477 m.
 date_start: '477'
 date_end: ''
 sukurta: ''
@@ -13,28 +13,28 @@ tags:
   - kraštas
   - vieta
 amziai:
-  - 'V'
+  - V
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-b6ba19af8cb9844ade907a22"
-canonical_name: "Norikas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Norikas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-b6ba19af8cb9844ade907a22
+canonical_name: Norikas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Norikas
 sameAs: []
-canonical_biography: "Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės. Narbuto pasakojime 486 m. Norike likusius sąjungininkus engė rugių karalius Febanas. Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją."
+canonical_biography: 'Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės. Narbuto pasakojime 486 m. Norike likusius sąjungininkus engė rugių karalius Febanas. Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.'
 place_authority: true
 historical_names: []
+object_page_view_json: '{"wiki":{"intro":"Norikas buvo keltų karalystė dabartinės Austrijos teritorijoje, vėliau Romos imperijos klientelinė valstybė Regnum Noricum, dar vėliau – Romos provincija. Šiaurėje ribojosi su Dunojumi, vakaruose su Retija ir Vindelicija, rytuose su Panonija, pietuose – su Panonija, Dalmatija ir Italija. Provincija buvo dabartinių Štirijos, Karintijos ir Austrijos į vakarus nuo Vienos teritorijoje, taip pat apėmė dalį Bavarijos ir Zalcburgo.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"22172","revision_id":"6773866","status":"published","translation_status":"native","source":{"title":"Norikas","url":"https://lt.wikipedia.org/wiki/Norikas","publisher":"Vikipedija","language":"lt","article_id":"22172","revision_id":"6773866","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=6773866","history_url":"https://lt.wikipedia.org/w/index.php?title=Norikas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:38.582314+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"931b512369221b3c23349fa836e3edce0de94c5beff298939d0b0f0147b590b4","version_pk":"baccd868b0ae802cc6e8f4876a34a0b1"}}}'
 ---
 # Norikas
 

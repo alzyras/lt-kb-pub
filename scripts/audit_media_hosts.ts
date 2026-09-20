@@ -2,7 +2,16 @@ import fs from "node:fs"
 import path from "node:path"
 
 type CatalogEntry = { mediaId?: unknown; displayUrl?: unknown; sourceUrl?: unknown; thumbUrl?: unknown }
-type CheckResult = { url: string; ok: boolean; status?: number; contentType?: string; error?: string }
+type CheckResult = {
+  url: string
+  ok: boolean
+  status?: number
+  contentType?: string
+  error?: string
+  attempts: number
+  inconclusive?: boolean
+}
+type HttpCheckResult = CheckResult & { retryAfter?: string | null }
 
 const full = process.argv.includes("--full")
 const publicRoot = path.resolve(process.env.PUBLIC_ROOT ?? "public")
@@ -12,7 +21,6 @@ const sourcePath = fs.existsSync(path.join(publicRoot, "static/mediaCatalog.json
 const outputPath = path.resolve(process.env.MEDIA_HOST_AUDIT_JSON ?? "media-host-audit.json")
 const perHostLimit = full ? Number.POSITIVE_INFINITY : 1
 const timeoutMs = Number(process.env.MEDIA_HOST_TIMEOUT_MS ?? "15000")
-const concurrency = Math.max(1, Number(process.env.MEDIA_HOST_CONCURRENCY ?? "3"))
 const siteOrigin = String(process.env.SITE_ORIGIN ?? "https://lietuvosistorija.eu").replace(/\/$/, "")
 const firstPartyHosts = new Set<string>()
 try {
@@ -23,12 +31,54 @@ try {
 } catch {
   // Malformed SITE_ORIGIN is reported by the URL validation/build checks.
 }
+// Never fan out a full audit against one provider. A few archive hosts (most
+// notably Wikimedia) correctly throttle clients that probe hundreds of image
+// files in parallel. One orderly stream per host is both kinder and gives the
+// report a meaningful signal about availability.
+const minHostIntervalMs = Math.max(
+  0,
+  Number(process.env.MEDIA_HOST_MIN_INTERVAL_MS ?? (full ? "350" : "0")),
+)
+const maxRateLimitRetries = Math.max(0, Number(process.env.MEDIA_HOST_RATE_LIMIT_RETRIES ?? "3"))
+
+function delay(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
+
+function retryAfterMs(value: string | null | undefined, attempt: number): number {
+  if (value) {
+    const seconds = Number(value)
+    if (Number.isFinite(seconds) && seconds >= 0) return Math.min(seconds * 1000, 60_000)
+    const date = Date.parse(value)
+    if (Number.isFinite(date)) return Math.min(Math.max(0, date - Date.now()), 60_000)
+  }
+  return Math.min(1_000 * 2 ** attempt, 15_000)
+}
 
 function sourceUrl(entry: CatalogEntry): string {
   return String(entry.displayUrl ?? entry.sourceUrl ?? entry.thumbUrl ?? "").trim()
 }
 
 async function check(url: string): Promise<CheckResult> {
+  let last: HttpCheckResult | undefined
+  for (let attempt = 0; attempt <= maxRateLimitRetries; attempt++) {
+    const result = await checkOnce(url, attempt + 1)
+    if (result.status !== 429) return result
+    last = result
+    if (attempt < maxRateLimitRetries) await delay(retryAfterMs(result.retryAfter, attempt))
+  }
+  return {
+    ...(last ?? { url, ok: false, attempts: maxRateLimitRetries + 1 }),
+    error: "rate_limited",
+    // A provider throttling this audit does not prove that it blocks Google.
+    inconclusive: true,
+  }
+}
+
+async function checkOnce(
+  url: string,
+  attempts: number,
+): Promise<HttpCheckResult> {
   const controller = new AbortController()
   const timer = setTimeout(() => controller.abort(), timeoutMs)
   try {
@@ -56,9 +106,16 @@ async function check(url: string): Promise<CheckResult> {
       status: response.status,
       contentType,
       error: response.ok && !contentType.startsWith("image/") ? "not_an_image_response" : undefined,
+      attempts,
+      retryAfter: response.headers.get("retry-after"),
     }
   } catch (error) {
-    return { url, ok: false, error: error instanceof Error ? error.message : String(error) }
+    return {
+      url,
+      ok: false,
+      error: error instanceof Error ? error.message : String(error),
+      attempts,
+    }
   } finally {
     clearTimeout(timer)
   }
@@ -83,21 +140,21 @@ for (const entry of catalog) {
   }
 }
 
-const targets = [...byHost.entries()].flatMap(([host, urls]) =>
-  urls.slice(0, perHostLimit).map((url) => ({ host, url })),
-)
 const results: Array<CheckResult & { host: string }> = []
-let cursor = 0
 await Promise.all(
-  Array.from({ length: Math.min(concurrency, targets.length) }, async () => {
-    while (cursor < targets.length) {
-      const target = targets[cursor++]
-      results.push({ host: target.host, ...(await check(target.url)) })
+  [...byHost.entries()].map(async ([host, urls]) => {
+    let previousStartedAt = 0
+    for (const url of urls.slice(0, perHostLimit)) {
+      const remaining = minHostIntervalMs - (Date.now() - previousStartedAt)
+      if (remaining > 0) await delay(remaining)
+      previousStartedAt = Date.now()
+      results.push({ host, ...(await check(url)) })
     }
   }),
 )
 
-const failures = results.filter((result) => !result.ok)
+const failures = results.filter((result) => !result.ok && !result.inconclusive)
+const warnings = results.filter((result) => result.inconclusive)
 const report = {
   schema: "ltkb-media-host-audit/v1",
   mode: full ? "full" : "representative-per-host",
@@ -105,7 +162,8 @@ const report = {
   hosts: byHost.size,
   checked: results.length,
   failures,
-  status: failures.length ? "failed" : "passed",
+  warnings,
+  status: failures.length ? "failed" : warnings.length ? "passed_with_warnings" : "passed",
 }
 fs.writeFileSync(outputPath, `${JSON.stringify(report, null, 2)}\n`)
 console.log(JSON.stringify(report, null, 2))

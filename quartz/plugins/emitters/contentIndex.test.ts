@@ -4,6 +4,7 @@ import {
   generateSiteMap,
   exhibitionContentEntry,
   filterPublicNavigationLinks,
+  authorityDetailsFromFrontmatter,
   ContentDetails,
   ContentIndexMap,
 } from "./contentIndex"
@@ -143,5 +144,49 @@ describe("ContentIndex links", () => {
       ),
       [],
     )
+  })
+})
+
+describe("ContentIndex canonical authority", () => {
+  test("projects identity, aliases, sameAs and place authority from frontmatter", () => {
+    assert.deepStrictEqual(
+      authorityDetailsFromFrontmatter({
+        entity_id: "place:vilnius",
+        canonical_name: "Vilnius",
+        canonical_biography: "Kanoninis miesto aprašas.",
+        entity_roles: ["place"],
+        entity_view_role: "place",
+        entity_aliases: ["Vilna", "Wilno"],
+        sameAs: ["https://www.wikidata.org/entity/Q216"],
+        place_authority: true,
+        latitude: 54.6872,
+        longitude: 25.2797,
+        parent_region: "Lietuva",
+        valid_from: "1323",
+        historical_names: ["Vilna | valid_to=1918"],
+      }),
+      {
+        entityId: "place:vilnius",
+        canonicalName: "Vilnius",
+        canonicalBiography: "Kanoninis miesto aprašas.",
+        entityRoles: ["place"],
+        entityViewRole: "place",
+        entityAliases: ["Vilna", "Wilno"],
+        sameAs: ["https://www.wikidata.org/entity/Q216"],
+        placeAuthority: {
+          latitude: 54.6872,
+          longitude: 25.2797,
+          parentEntityId: undefined,
+          parentRegion: "Lietuva",
+          validFrom: "1323",
+          validTo: undefined,
+          historicalNames: ["Vilna | valid_to=1918"],
+        },
+      },
+    )
+  })
+
+  test("does not invent an authority for ordinary notes", () => {
+    assert.deepStrictEqual(authorityDetailsFromFrontmatter({ title: "Puslapis" }), {})
   })
 })

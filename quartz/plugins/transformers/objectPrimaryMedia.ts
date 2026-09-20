@@ -9,11 +9,15 @@ import {
   displayMeta,
   isObjectPage,
   mediaDetailUrl,
-  mediaImageUrl,
+  mediaThumbnailUrl,
   objectGallerySlug,
-  objectMediaSet,
   relationLabel,
 } from "../../util/objectMedia"
+import {
+  buildObjectMediaIndex,
+  hydrateCanonicalObjectMedia,
+  loadCanonicalMediaCatalog,
+} from "../../util/mediaCatalog"
 
 function text(value: string): ElementContent {
   return { type: "text", value }
@@ -33,10 +37,22 @@ function hasClass(node: RootContent, className: string): boolean {
   return Array.isArray(classes) ? classes.includes(className) : classes === className
 }
 
+function findElementByClass(node: RootContent, className: string): Element | undefined {
+  if (node.type !== "element") return undefined
+  if (hasClass(node, className)) return node
+  for (const child of node.children) {
+    const found = findElementByClass(child, className)
+    if (found) return found
+  }
+  return undefined
+}
+
 function isSummaryHeading(node: RootContent): boolean {
   if (node.type !== "element" || node.tagName !== "h2") return false
   return toString(node).replace(/\s+/g, " ").trim().toLowerCase() === "santrauka"
 }
+
+const canonicalObjectMediaIndex = buildObjectMediaIndex(loadCanonicalMediaCatalog())
 
 export const ObjectPrimaryMedia: QuartzTransformerPlugin = () => ({
   name: "ObjectPrimaryMedia",
@@ -47,12 +63,12 @@ export const ObjectPrimaryMedia: QuartzTransformerPlugin = () => ({
           const rawSlug = file.data.slug
           if (!rawSlug || !isObjectPage(rawSlug) || rawSlug.endsWith("/galerija")) return
           const slug = rawSlug as FullSlug
+          const { direct, contextual, all, fallbackPrimary, totalCount } =
+            hydrateCanonicalObjectMedia(file.data, canonicalObjectMediaIndex)
           if (tree.children.some((child) => hasClass(child, "object-primary-media"))) return
-
-          const { direct, contextual, all, fallbackPrimary, totalCount } = objectMediaSet(file.data.frontmatter)
           if (!fallbackPrimary || all.length === 0) return
 
-          const imageSrc = mediaImageUrl(fallbackPrimary)
+          const imageSrc = mediaThumbnailUrl(fallbackPrimary)
           if (!imageSrc) return
 
           const objectTitle = cleanText(file.data.frontmatter?.title)
@@ -111,6 +127,14 @@ export const ObjectPrimaryMedia: QuartzTransformerPlugin = () => ({
               ]),
             ]),
           ])
+
+          const mediaSlot = tree.children
+            .map((child) => findElementByClass(child, "object-page-media-slot"))
+            .find((slot): slot is Element => Boolean(slot))
+          if (mediaSlot) {
+            mediaSlot.children = [section]
+            return
+          }
 
           const summaryIndex = tree.children.findIndex(isSummaryHeading)
           if (summaryIndex === -1) return

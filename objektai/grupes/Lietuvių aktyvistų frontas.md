@@ -1,12 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvių aktyvistų frontas'
+pavadinimas: Lietuvių aktyvistų frontas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1940 m.'
-  - '1941 m.'
-  - '1990 m.'
+  - 1940 m.
+  - 1941 m.
+  - 1990 m.
 date_start: '1940'
 date_end: '1990'
 sukurta: ''
@@ -15,19 +15,17 @@ tags:
   - organizacija
   - grupe
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+object_page_view_json: '{"wiki":{"intro":"Lietuvių aktyvistų frontas (LAF, Lietuvių aktyvistai) – antisovietinio pasipriešinimo organizacija, veikusi 1940–1941 m, parengusi ir įvykdžiusi 1941 m. birželio sukilimą.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"69162","revision_id":"7192075","status":"published","translation_status":"native","source":{"title":"Lietuvių aktyvistų frontas","url":"https://lt.wikipedia.org/wiki/Lietuvi%C5%B3_aktyvist%C5%B3_frontas","publisher":"Vikipedija","language":"lt","article_id":"69162","revision_id":"7192075","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7192075","history_url":"https://lt.wikipedia.org/w/index.php?title=Lietuvi%C5%B3_aktyvist%C5%B3_frontas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:03.222630+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"329a69709485b84c386b811e32176312c0e010a92feddb29ef3c30a26d5d326f","version_pk":"bcb67545a88e8dbe20e068f0444a56e6"}}}'
 ---
 # Lietuvių aktyvistų frontas
 

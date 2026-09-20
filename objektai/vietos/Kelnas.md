@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Kelnas'
+pavadinimas: Kelnas
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1280 m.'
-  - '1300 m.'
+  - 1280 m.
+  - 1300 m.
 date_start: '1280'
 date_end: '1300'
 sukurta: ''
@@ -14,28 +14,28 @@ tags:
   - miestas
   - vieta
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-f4658b95aa55408a6b589d33"
-canonical_name: "Kelnas"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kelnas"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-f4658b95aa55408a6b589d33
+canonical_name: Kelnas
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kelnas
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne. Dusburgietis teigia, kad apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300."
+canonical_biography: 'Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne. Dusburgietis teigia, kad apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300.'
 place_authority: true
 historical_names: []
+object_page_view_json: '{"wiki":{"intro":"Kelnas, rečiau Kiolnas (vok. Köln) – ketvirtasis pagal dydį Vokietijos miestas, taip pat didžiausias Šiaurės Reino-Vestfalijos žemės miestas. Miestą garsina jo istorija, kultūra, architektūra ir tarptautinio svarbumo renginiai.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"52596","revision_id":"7365935","status":"published","translation_status":"native","source":{"title":"Kelnas","url":"https://lt.wikipedia.org/wiki/Kelnas","publisher":"Vikipedija","language":"lt","article_id":"52596","revision_id":"7365935","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7365935","history_url":"https://lt.wikipedia.org/w/index.php?title=Kelnas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:26.581949+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"65bde1c130521f207ed4a292c2a7efca6aee3cee96fbe492296f3ce9f57ad523","version_pk":"6d10e3ffc19f46f80f70bb52a4781d82"}}}'
 ---
 # Kelnas
 

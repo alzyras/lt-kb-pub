@@ -1,11 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Gardino seimas'
+pavadinimas: Gardino seimas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1772 m.'
-  - '1793 m.'
+  - 1772 m.
+  - 1793 m.
 date_start: '1772'
 date_end: '1793'
 sukurta: ''
@@ -14,19 +14,17 @@ tags:
   - grupe
   - institucija
 amziai:
-  - 'XVIII'
+  - XVIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+object_page_view_json: '{"wiki":{"intro":"Gardino Seimas arba Nebylusis Seimas – Gardine 1793 m. birželio 21 d. – lapkričio 23 d., veikęs paskutinis Abiejų Tautų Respublikos Seimas.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"84115","revision_id":"7856602","status":"published","translation_status":"native","source":{"title":"Gardino seimas","url":"https://lt.wikipedia.org/wiki/Gardino_seimas","publisher":"Vikipedija","language":"lt","article_id":"84115","revision_id":"7856602","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7856602","history_url":"https://lt.wikipedia.org/w/index.php?title=Gardino_seimas&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:24:41.285016+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"7b5ffb078d1b681c17104d169339b3d9624a57cf4b8c6a366ea9deb4e0543926","version_pk":"e1df4a9ffb3cf4f0a69576dc579d6014"}}}'
 ---
 # Gardino seimas
 

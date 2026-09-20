@@ -4,6 +4,7 @@ import { objectDetailEvidenceFromFile } from "../util/objectDetail"
 import { objectRelationInputs } from "../util/objectRelations"
 import { cleanText } from "../util/objectMedia"
 import { slugifyFilePath } from "../util/path"
+import { graphVisualRegistry } from "../util/graphVisualRegistry"
 
 const fileIndexes = new WeakMap<QuartzComponentProps["allFiles"], Map<string, QuartzComponentProps["fileData"]>>()
 function labelLines(title: string): string[] {
@@ -37,30 +38,43 @@ export function ObjectSnowflake({ props }: { props: QuartzComponentProps }) {
   }).sort((a, b) => a.type.localeCompare(b.type) || a.title.localeCompare(b.title, "lt"))
   if (!nodes.length) return null
   const title = cleanText(fm.canonical_name || fm.pavadinimas || fm.title).replace(/\s*\([^)]*\)$/, "")
-  const points = nodes.map((node, index) => {
-    // Golden-angle spacing distributes every neighbour without a moving simulation.
-    const angle = index * Math.PI * (3 - Math.sqrt(5))
-    const radius = 62 + 212 * Math.sqrt((index + 1) / nodes.length)
-    return { ...node, x: Math.cos(angle) * radius, y: Math.sin(angle) * radius, lines: labelLines(node.title) }
+  const typeOrder = Object.keys(graphVisualRegistry.typeLabels)
+  const groups = [...new Set(nodes.map(node => node.type))].sort((a,b) => typeOrder.indexOf(a)-typeOrder.indexOf(b))
+    .map(type => ({type, nodes: nodes.filter(node => node.type === type)}))
+  const totalWeight = groups.reduce((sum, group) => sum + Math.sqrt(group.nodes.length), 0)
+  const gap = groups.length > 1 ? .15 : 0
+  let angleStart = -Math.PI / 2
+  const points = groups.flatMap(group => {
+    const span = (Math.PI * 2 - gap * groups.length) * Math.sqrt(group.nodes.length) / totalWeight
+    const color = `#${(graphVisualRegistry.typeColors[group.type as keyof typeof graphVisualRegistry.typeColors] ?? graphVisualRegistry.fallbackNode).toString(16).padStart(6,"0")}`
+    const result = group.nodes.map((node, index) => {
+      // Stable sectors keep each type together; all real neighbours stay visible.
+      const fraction = ((index + .5) * .61803398875) % 1
+      const angle = angleStart + span * (.06 + .88 * fraction)
+      const radius = 78 + 194 * Math.sqrt((index + .5) / group.nodes.length)
+      return {...node, color, x: Math.cos(angle)*radius, y: Math.sin(angle)*radius, lines: labelLines(node.title)}
+    })
+    angleStart += span + gap
+    return result
   })
   return (
-    <section class="object-snowflake" aria-label={`${title}: susiję objektai`}>
-      <svg viewBox="-310 -310 620 620" role="group" aria-label="Ryšių žemėlapis">
+    <section id="rysiu-snaige" class="object-snowflake" data-neighbour-count={nodes.length} aria-label={`${title}: susiję objektai`}>
+      <svg class="snowflake-scene" viewBox="-310 -310 620 620" role="group" aria-label="Ryšių žemėlapis">
         <g class="snowflake-edges" aria-hidden="true">
-          {points.map((point) => <path d={`M 0 0 Q ${point.x * .12 - point.y * .08} ${point.y * .12 + point.x * .08} ${point.x} ${point.y}`} />)}
+          {points.map((point) => <path style={`--node-color:${point.color}`} d={`M 0 0 Q ${point.x * .12 - point.y * .08} ${point.y * .12 + point.x * .08} ${point.x} ${point.y}`} />)}
         </g>
         {points.map((point) => (
-          <a class="snowflake-node" href={`/${point.slug}`} aria-label={point.title} data-node-type={point.type}>
+          <a class="snowflake-node" href={`/${point.slug}`} aria-label={point.title} data-node-type={point.type} style={`--node-color:${point.color}`}>
             <circle class="snowflake-hit" cx={point.x} cy={point.y} r="12" />
-            <circle class="snowflake-dot" cx={point.x} cy={point.y} r={nodes.length > 160 ? 3 : 4.5} />
+            <circle class="snowflake-dot" cx={point.x} cy={point.y} r={nodes.length > 500 ? 2.8 : 4.5} />
             <text x={point.x} y={Math.max(-288, point.y - 12 - (point.lines.length - 1) * 14)} text-anchor={point.x > 120 ? "end" : point.x < -120 ? "start" : "middle"}>
-              {point.lines.map((line, i) => <tspan x={point.x} dy={i ? 14 : 0}>{line}</tspan>)}
+              {point.lines.map((line, i) => <tspan x={point.x} dy={i ? "1.2em" : 0}>{line}</tspan>)}
             </text>
           </a>
         ))}
         <a class="snowflake-center" href={`/zemelapis/?focus=${encodeURIComponent(current)}&depth=1&panel=details`} aria-label={`Atidaryti visą ${title} ryšių žemėlapį`}>
           <circle r="27" />
-          <text y="47" text-anchor="middle">{labelLines(title).map((line, i) => <tspan x="0" dy={i ? 14 : 0}>{line}</tspan>)}</text>
+          <text y="47" text-anchor="middle">{labelLines(title).map((line, i) => <tspan x="0" dy={i ? "1.2em" : 0}>{line}</tspan>)}</text>
         </a>
       </svg>
     </section>

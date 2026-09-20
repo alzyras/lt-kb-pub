@@ -1,12 +1,12 @@
 ---
 tipas: vieta
-pavadinimas: 'Salacgryva'
+pavadinimas: Salacgryva
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1581 m.'
-  - '1609 m.'
-  - '1919 m.'
+  - 1581 m.
+  - 1609 m.
+  - 1919 m.
 date_start: '1581'
 date_end: '1919'
 sukurta: ''
@@ -15,29 +15,29 @@ tags:
   - vieta
   - uostas
 amziai:
-  - 'XVI'
-  - 'XX'
+  - XVI
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-8f8c9f12c225deb72607d489"
-canonical_name: "Salacgryva"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Salacgryva"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-8f8c9f12c225deb72607d489
+canonical_name: Salacgryva
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Salacgryva
 sameAs: []
-canonical_biography: "Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. Norėdamas užklupti priešą nepasiruošusį, jis prie Salacgryvos (Salismiinde) žygiavo tiesiai per miškus. Suformuota flotilė patraukė Salacgryvos uosto link, kurio prieigose etmono įsakymu slapta buvo parengti du branderiai - padegamieji laivai, kurie medinių laivų amžiuje buvo labai efektyvi priemonė naikinant priešo laivus, ypač stovinčius uoste."
+canonical_biography: 'Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. Norėdamas užklupti priešą nepasiruošusį, jis prie Salacgryvos (Salismiinde) žygiavo tiesiai per miškus. Suformuota flotilė patraukė Salacgryvos uosto link, kurio prieigose etmono įsakymu slapta buvo parengti du branderiai - padegamieji laivai, kurie medinių laivų amžiuje buvo labai efektyvi priemonė naikinant priešo laivus, ypač stovinčius uoste.'
 place_authority: true
 historical_names: []
+object_page_view_json: '{"wiki":{"intro":"Salacgryva (latv. Salacgrīva, lyv. Salats) – miestas Latvijoje, šiaurinėje Vidžemės dalyje, Limbažių savivaldybėje. Miestas išsidėstęs Rygos įlankos pakrantėje, prie Salacos upės žiočių (Salacgrīva latviškai reiškia „Salacos žiotys“). Kerta kelias Via Baltica. Atstumas iki Rygos – 103 km, iki Limbažių – 50 km, iki Valmieros – 95 km. Iki Estijos sienos - 10 km. 2600 gyventojų. Yra švyturys.","infobox":[],"infobox_status":"absent_in_source","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"51883","revision_id":"6641510","status":"published","translation_status":"native","source":{"title":"Salacgryva","url":"https://lt.wikipedia.org/wiki/Salacgryva","publisher":"Vikipedija","language":"lt","article_id":"51883","revision_id":"6641510","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=6641510","history_url":"https://lt.wikipedia.org/w/index.php?title=Salacgryva&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:21.022831+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"7b3fa6d62652ef36fa2b7f2a167c681fa99995c2304f8a50852e529269cf5c8b","version_pk":"96774446cd3531bd8a2b19da2858a608"}}}'
 ---
 # Salacgryva
 

@@ -1,21 +1,21 @@
 ---
 tipas: ivykis
-pavadinimas: 'Durbės mūšis (1260 m.)'
+pavadinimas: Durbės mūšis (1260 m.)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1219 m.'
-  - '1238 m.'
-  - '1259 m.'
-  - '1260 m.'
-  - '1261 m.'
+  - 1219 m.
+  - 1238 m.
+  - 1259 m.
+  - 1260 m.
+  - 1261 m.
 date_start: '1219'
 date_end: '1261'
 aliases:
-  - 'objektai/ivykiai/Durbės mūšis'
+  - objektai/ivykiai/Durbės mūšis
 variantai:
-  - 'Durbės mūšis'
+  - Durbės mūšis
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,19 +23,17 @@ tags:
   - karas
   - mūšis
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+object_page_view_json: '{"wiki":{"intro":"Durbės mūšis – žemaičių kariuomenės mūšis su Vokiečių ordino ir po sutriuškinimo 1236 m. Saulės mūšyje jo autonomine šaka tapusio Livonijos ordino kariuomene, įvykęs 1260 m. liepos 13 d. kuršių žemėje, prie Durbės ežero (dab. Pietų Kuršo savivaldybė, Latvija), kurio metu žemaičiai ir iš Ordino kariuomenės persimetę kuršiai ir estai sumušė kryžiuočius.","infobox":[{"code":"row_1","label":"","value":"Durbės mūšis","cells":[{"text":"Durbės mūšis","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"","value":"Kryžiuočių ordino valstybės 1260 m.","cells":[{"text":"Kryžiuočių ordino valstybės 1260 m.","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"","value":"Data\n1260 m. liepos 13 d.\nVieta\nkuršių žemėje, prie Durbės ežero (dab. Pietų Kuršas, Latvija)\nRezultatas\nžemaičiai sumušė kryžiuočius","cells":[{"text":"Data\n1260 m. liepos 13 d.\nVieta\nkuršių žemėje, prie Durbės ežero (dab. Pietų Kuršas, Latvija)\nRezultatas\nžemaičiai sumušė kryžiuočius","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"","value":"Konflikto šalys","cells":[{"text":"Konflikto šalys","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Žemaičiai","value":"Livonijos ordinas","cells":[{"text":"Žemaičiai","header":false,"colspan":1,"rowspan":1},{"text":"Livonijos ordinas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"","value":"Pajėgos","cells":[{"text":"Pajėgos","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Apie 4000","value":"Apie 8000\n190 riterių","cells":[{"text":"Apie 4000","header":false,"colspan":1,"rowspan":1},{"text":"Apie 8000\n190 riterių","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"","value":"Nuostoliai","cells":[{"text":"Nuostoliai","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"","value":"Livonijos žemės magistras Burkhardas fon Hornhauzenas\nPrūsijos žemės maršalas Heinrichas Botelis\n150 riterių","cells":[{"text":"","header":false,"colspan":1,"rowspan":1},{"text":"Livonijos žemės magistras Burkhardas fon Hornhauzenas\nPrūsijos žemės maršalas Heinrichas Botelis\n150 riterių","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"12810","revision_id":"7855545","status":"published","translation_status":"native","source":{"title":"Durbės mūšis","url":"https://lt.wikipedia.org/wiki/Durb%C4%97s_m%C5%AB%C5%A1is","publisher":"Vikipedija","language":"lt","article_id":"12810","revision_id":"7855545","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7855545","history_url":"https://lt.wikipedia.org/w/index.php?title=Durb%C4%97s_m%C5%AB%C5%A1is&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:24:39.180867+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"7abaa8826e21570cee7d973fea96df3c34a27ee29e92da5aa07c1d8e16259076","version_pk":"3678a42bc5fb78e4e99241187ee76cbf"}}}'
 ---
 # Durbės mūšis (1260 m.)
 

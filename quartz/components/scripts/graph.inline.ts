@@ -722,12 +722,11 @@ function cleanupGlobalGraphs() {
   globalGraphCleanups = []
 }
 
-document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
-  // A few third-party/page-local scripts can emit a bare `nav` event while a
-  // page is being morphed. Do not let an incomplete event abort the shared
-  // postscript before the SPA router has finished registering.
-  const slug = e.detail?.url
-  if (!slug) return
+export async function initClient() {
+  const graphPage = document.querySelector<HTMLElement>(".graph")
+  if (!graphPage || graphPage.dataset.graphClientInitialized === "true") return
+  graphPage.dataset.graphClientInitialized = "true"
+  const slug = getFullSlug(window)
   addToVisited(simplifySlug(slug))
 
   async function renderLocalGraph(container: HTMLElement) {
@@ -813,5 +812,6 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     document.removeEventListener("keydown", shortcutHandler)
     cleanupLocalGraphs()
     cleanupGlobalGraphs()
+    delete graphPage.dataset.graphClientInitialized
   })
-})
+}

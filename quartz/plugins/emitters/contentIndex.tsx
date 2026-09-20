@@ -21,7 +21,12 @@ import {
   parseEvidenceSections,
 } from "../../util/citationFilter"
 import { normalizeCitationSourceId } from "../../util/citationFilter"
-import { buildMediaCatalog, MediaCatalogFile, mediaEntriesByObject } from "../../util/mediaCatalog"
+import {
+  buildMediaCatalog,
+  buildObjectMediaIndex,
+  MediaCatalogFile,
+  mediaSetForFile,
+} from "../../util/mediaCatalog"
 import {
   isObjectPage as isMediaObjectPage,
   mediaDetailSlug,
@@ -69,6 +74,15 @@ export type SitemapExtraEntry = {
   modifiedDate?: Date
   imageUrls?: string[]
 }
+export type PlaceAuthorityDetails = {
+  latitude?: number
+  longitude?: number
+  parentEntityId?: string
+  parentRegion?: string
+  validFrom?: string
+  validTo?: string
+  historicalNames: string[]
+}
 export type ContentDetails = {
   slug: FullSlug
   filePath: FilePath
@@ -96,6 +110,14 @@ export type ContentDetails = {
   periodGroups?: string[]
   claimTopics?: string[]
   claimTopicLabels?: string[]
+  entityId?: string
+  canonicalName?: string
+  canonicalBiography?: string
+  entityRoles?: string[]
+  entityViewRole?: string
+  entityAliases?: string[]
+  sameAs?: string[]
+  placeAuthority?: PlaceAuthorityDetails
   claimEntries?: GraphExplorerClaimDetails[]
   quoteEntries?: GraphExplorerQuoteDetails[]
   noindex?: boolean
@@ -113,9 +135,30 @@ export type ContentMetaDetails = Pick<
   | "itemType"
   | "dateStart"
   | "dateEnd"
+  | "entityId"
+  | "canonicalName"
+  | "canonicalBiography"
+  | "entityRoles"
+  | "entityViewRole"
+  | "entityAliases"
+  | "sameAs"
+  | "placeAuthority"
 >
 
-export type GraphIndexDetails = Pick<ContentDetails, "slug" | "title" | "links" | "tags">
+export type GraphIndexDetails = Pick<
+  ContentDetails,
+  | "slug"
+  | "title"
+  | "links"
+  | "tags"
+  | "entityId"
+  | "canonicalName"
+  | "entityRoles"
+  | "entityViewRole"
+  | "entityAliases"
+  | "sameAs"
+  | "placeAuthority"
+>
 
 export type GraphExplorerEvidencePreview = {
   claimId?: string
@@ -165,6 +208,14 @@ export type GraphExplorerIndexDetails = {
   centuries: string[]
   periodGroups: string[]
   summary: string
+  entityId?: string
+  canonicalName?: string
+  canonicalBiography?: string
+  entityRoles: string[]
+  entityViewRole?: string
+  entityAliases: string[]
+  sameAs: string[]
+  placeAuthority?: PlaceAuthorityDetails
   topClaims: GraphExplorerClaimDetails[]
   links: GraphExplorerLinkDetails[]
 }
@@ -281,6 +332,65 @@ function frontmatterArray(value: unknown): string[] {
       .filter(Boolean)
   }
   return []
+}
+
+function optionalFrontmatterString(value: unknown): string | undefined {
+  if (value == null) return undefined
+  const normalized = String(value).trim()
+  return normalized || undefined
+}
+
+function parseFrontmatterNumber(value: unknown): number | undefined {
+  if (value == null || value === "") return undefined
+  const parsed = Number(value)
+  return Number.isFinite(parsed) ? parsed : undefined
+}
+
+export function authorityDetailsFromFrontmatter(
+  frontmatter: Record<string, unknown> | undefined,
+): Pick<
+  ContentDetails,
+  | "entityId"
+  | "canonicalName"
+  | "canonicalBiography"
+  | "entityRoles"
+  | "entityViewRole"
+  | "entityAliases"
+  | "sameAs"
+  | "placeAuthority"
+> {
+  const entityId = optionalFrontmatterString(frontmatter?.entity_id)
+  if (!entityId) return {}
+  const entityRoles = frontmatterArray(frontmatter?.entity_roles)
+  const latitude = parseFrontmatterNumber(frontmatter?.latitude)
+  const longitude = parseFrontmatterNumber(frontmatter?.longitude)
+  const hasPlaceAuthority =
+    frontmatter?.place_authority === true ||
+    entityRoles.includes("place") ||
+    latitude !== undefined ||
+    longitude !== undefined ||
+    Boolean(frontmatter?.parent_entity_id || frontmatter?.parent_region)
+  const placeAuthority: PlaceAuthorityDetails | undefined = hasPlaceAuthority
+    ? {
+        latitude,
+        longitude,
+        parentEntityId: optionalFrontmatterString(frontmatter?.parent_entity_id),
+        parentRegion: optionalFrontmatterString(frontmatter?.parent_region),
+        validFrom: optionalFrontmatterString(frontmatter?.valid_from),
+        validTo: optionalFrontmatterString(frontmatter?.valid_to),
+        historicalNames: frontmatterArray(frontmatter?.historical_names),
+      }
+    : undefined
+  return {
+    entityId,
+    canonicalName: optionalFrontmatterString(frontmatter?.canonical_name),
+    canonicalBiography: optionalFrontmatterString(frontmatter?.canonical_biography),
+    entityRoles,
+    entityViewRole: optionalFrontmatterString(frontmatter?.entity_view_role),
+    entityAliases: frontmatterArray(frontmatter?.entity_aliases),
+    sameAs: frontmatterArray(frontmatter?.sameAs),
+    placeAuthority,
+  }
 }
 
 function parseFrontmatterYear(value: unknown): number | undefined {
@@ -453,6 +563,14 @@ function asContentMeta(content: ContentDetails): ContentMetaDetails {
     itemType: content.itemType,
     dateStart: content.dateStart,
     dateEnd: content.dateEnd,
+    entityId: content.entityId,
+    canonicalName: content.canonicalName,
+    canonicalBiography: content.canonicalBiography,
+    entityRoles: content.entityRoles,
+    entityViewRole: content.entityViewRole,
+    entityAliases: content.entityAliases,
+    sameAs: content.sameAs,
+    placeAuthority: content.placeAuthority,
   }
 }
 
@@ -461,6 +579,9 @@ function compactSearchContent(content: ContentDetails): string {
     content.title,
     ...(content.aliases ?? []),
     content.summary,
+    content.canonicalName,
+    content.canonicalBiography,
+    ...(content.entityAliases ?? []),
     ...(content.claims ?? []),
     ...(content.tags ?? []).map((tag) => `#${tag}`),
     ...(content.claimTopicLabels ?? content.claimTopics ?? []).map((topic) => `tema: ${topic}`),
@@ -497,6 +618,13 @@ function asGraphIndex(content: ContentDetails): GraphIndexDetails {
     title: content.title,
     links: content.links,
     tags: content.tags,
+    entityId: content.entityId,
+    canonicalName: content.canonicalName,
+    entityRoles: content.entityRoles,
+    entityViewRole: content.entityViewRole,
+    entityAliases: content.entityAliases,
+    sameAs: content.sameAs,
+    placeAuthority: content.placeAuthority,
   }
 }
 
@@ -551,6 +679,14 @@ export function buildGraphExplorerIndex(
           centuries: content.centuries ?? [],
           periodGroups: content.periodGroups ?? [],
           summary: content.summary ?? "",
+          entityId: content.entityId,
+          canonicalName: content.canonicalName,
+          canonicalBiography: content.canonicalBiography,
+          entityRoles: content.entityRoles ?? [],
+          entityViewRole: content.entityViewRole,
+          entityAliases: content.entityAliases ?? [],
+          sameAs: content.sameAs ?? [],
+          placeAuthority: content.placeAuthority,
           topClaims: (content.claimEntries ?? []).slice(0, 5),
           links,
         } satisfies GraphExplorerIndexDetails,
@@ -608,7 +744,7 @@ function entryModifiedDate(value: unknown): Date | undefined {
 export function gallerySitemapEntries(files: MediaCatalogFile[]): SitemapExtraEntry[] {
   const catalog = buildMediaCatalog(files)
   if (!catalog.length) return []
-  const byObject = mediaEntriesByObject(catalog)
+  const objectIndex = buildObjectMediaIndex(catalog)
   const imageUrl = (entry: (typeof catalog)[number]) => mediaImageUrl(entry)
   // Review/import timestamps are internal QA metadata; do not leak them via
   // public sitemap lastmod values.
@@ -624,7 +760,7 @@ export function gallerySitemapEntries(files: MediaCatalogFile[]): SitemapExtraEn
   for (const file of files) {
     const slug = file.slug
     if (!slug || !isMediaObjectPage(slug) || slug.endsWith("/galerija")) continue
-    const related = byObject.get(`${slug}.md`) ?? []
+    const related = mediaSetForFile(objectIndex, file).all
     if (!related.length) continue
     entries.push({
       slug: objectGallerySlug(slug as FullSlug),
@@ -811,11 +947,17 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             text: contentText,
             itemType: frontmatter?.tipas,
             noindex: frontmatter?.noindex,
+            objectContentState: frontmatter?.object_page_content_state,
+            claimCount: claimEntries.length || claims.length || Number(frontmatter?.object_page_claim_count ?? 0),
+            claimSummary: frontmatter?.object_page_seo_description,
           })
           const noindex = isObjectDetailSlug(slug)
             ? Boolean(frontmatter?.noindex === true || frontmatter?.noindex === "true") ||
               !objectPageIndexable(objectDetailEvidence(markdownSource))
             : standardNoindex
+          const authorityDetails = authorityDetailsFromFrontmatter(
+            frontmatter as Record<string, unknown> | undefined,
+          )
           linkIndex.set(slug, {
             slug,
             filePath: relativePath,
@@ -849,6 +991,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             claimTopicLabels: frontmatterArray(
               frontmatter?.claim_topic_labels ?? frontmatter?.teiginiu_temu_pavadinimai,
             ),
+            ...authorityDetails,
             claimEntries,
             quoteEntries,
             noindex,
@@ -875,23 +1018,31 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       if (opts?.enableRSS) {
         yield write({
           ctx,
-          content: generateRSSFeed(cfg, linkIndex, opts.rssLimit),
+          content: generateRSSFeed(
+            cfg,
+            new Map(Array.from(linkIndex).filter(([, entry]) => !entry.noindex)),
+            opts.rssLimit,
+          ),
           slug: (opts?.rssSlug ?? "index") as FullSlug,
           ext: ".xml",
         })
       }
 
+      // A noindex page remains directly reachable, but it must not leak into
+      // catalog, search, graph, or random-content indexes. The sitemap keeps
+      // the complete linkIndex and applies its own noindex filter above.
+      const publicLinkIndex = new Map(Array.from(linkIndex).filter(([, entry]) => !entry.noindex))
       const contentMetaIndex = Object.fromEntries(
-        Array.from(linkIndex).map(([slug, content]) => [slug, asContentMeta(content)]),
+        Array.from(publicLinkIndex).map(([slug, content]) => [slug, asContentMeta(content)]),
       )
       const searchIndex = Object.fromEntries(
-        Array.from(linkIndex).map(([slug, content]) => [slug, asSearchIndex(content)]),
+        Array.from(publicLinkIndex).map(([slug, content]) => [slug, asSearchIndex(content)]),
       )
       const graphIndex = Object.fromEntries(
-        Array.from(linkIndex).map(([slug, content]) => [slug, asGraphIndex(content)]),
+        Array.from(publicLinkIndex).map(([slug, content]) => [slug, asGraphIndex(content)]),
       )
       const randomClaimsIndex = Object.fromEntries(
-        Array.from(linkIndex)
+        Array.from(publicLinkIndex)
           .map(([slug, content]) => [slug, asRandomClaims(content)] as const)
           .filter(
             (entry): entry is readonly [FullSlug, RandomClaimsDetails] => entry[1] !== undefined,

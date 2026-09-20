@@ -1,15 +1,15 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvos socialdemokratų partija'
+pavadinimas: Lietuvos socialdemokratų partija
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1920 m.'
-  - '1926 m.'
-  - '1927 m.'
-  - '1940 m.'
-  - '1990 m.'
-  - '1993 m.'
+  - 1920 m.
+  - 1926 m.
+  - 1927 m.
+  - 1940 m.
+  - 1990 m.
+  - 1993 m.
 date_start: '1920'
 date_end: '1993'
 sukurta: ''
@@ -18,19 +18,17 @@ tags:
   - grupe
   - institucija
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+object_page_view_json: '{"wiki":{"intro":"Lietuvos socialdemokratų partija (LSDP) – seniausia Lietuvos politinė partija, veikianti nuo 1896 m. Savo veikloje deklaruoja besivadovaujanti socialdemokratijos ideologija. 2026 m. gegužės 1 d. partijos lyderiu išrinktas Mindaugas Sinkevičius.","infobox":[{"code":"row_1","label":"","value":"Lietuvos socialdemokratų partija","cells":[{"text":"Lietuvos socialdemokratų partija","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_2","label":"Trumpinys","value":"LSDP","cells":[{"text":"Trumpinys","header":true,"colspan":1,"rowspan":1},{"text":"LSDP","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_3","label":"Pirmininkas","value":"Mindaugas Sinkevičius","cells":[{"text":"Pirmininkas","header":true,"colspan":1,"rowspan":1},{"text":"Mindaugas Sinkevičius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_4","label":"Pirmininko pavaduotojai","value":"Žr. sąrašą\nOrinta Leiputė\nDovilė Šakalienė\nRasa Budbergytė\nInga Ruginienė\nJūratė Zailskienė\nRaminta Popovienė\nIndrė Kižienė\nRobert Duchnevič\nNerijus Cesiulis\nRobertas Kaunas\nJuozas Olekas\nAlgirdas Raslanas\nMindaugas Rinkevičius","cells":[{"text":"Pirmininko pavaduotojai","header":true,"colspan":1,"rowspan":1},{"text":"Žr. sąrašą\nOrinta Leiputė\nDovilė Šakalienė\nRasa Budbergytė\nInga Ruginienė\nJūratė Zailskienė\nRaminta Popovienė\nIndrė Kižienė\nRobert Duchnevič\nNerijus Cesiulis\nRobertas Kaunas\nJuozas Olekas\nAlgirdas Raslanas\nMindaugas Rinkevičius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_5","label":"Įkurta","value":"1896 m. gegužės 1 d. (1896-05-01)","cells":[{"text":"Įkurta","header":true,"colspan":1,"rowspan":1},{"text":"1896 m. gegužės 1 d. (1896-05-01)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_6","label":"Būstinė","value":"B. Radvilaitės g. 1, Vilnius","cells":[{"text":"Būstinė","header":true,"colspan":1,"rowspan":1},{"text":"B. Radvilaitės g. 1, Vilnius","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_7","label":"Narių skaičius","value":"14 336 (2023)","cells":[{"text":"Narių skaičius","header":true,"colspan":1,"rowspan":1},{"text":"14 336 (2023)","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_8","label":"Politinė ideologija","value":"Socialdemokratija","cells":[{"text":"Politinė ideologija","header":true,"colspan":1,"rowspan":1},{"text":"Socialdemokratija","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_9","label":"Politinė pozicija","value":"Centro kairė","cells":[{"text":"Politinė pozicija","header":true,"colspan":1,"rowspan":1},{"text":"Centro kairė","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_10","label":"Europos narystė","value":"Europos socialistų partija","cells":[{"text":"Europos narystė","header":true,"colspan":1,"rowspan":1},{"text":"Europos socialistų partija","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_11","label":"Europos Parlamento grupė","value":"Socialistų ir demokratų pažangusis aljansas","cells":[{"text":"Europos Parlamento grupė","header":true,"colspan":1,"rowspan":1},{"text":"Socialistų ir demokratų pažangusis aljansas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_12","label":"Tarptautinė narystė","value":"Pažangusis aljansas\nSocialistų Internacionalas","cells":[{"text":"Tarptautinė narystė","header":true,"colspan":1,"rowspan":1},{"text":"Pažangusis aljansas\nSocialistų Internacionalas","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_13","label":"Spalvos","value":"Raudona","cells":[{"text":"Spalvos","header":true,"colspan":1,"rowspan":1},{"text":"Raudona","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_14","label":"Seimas","value":"53 / 141","cells":[{"text":"Seimas","header":true,"colspan":1,"rowspan":1},{"text":"53 / 141","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_15","label":"Europos Parlamentas","value":"2 / 11","cells":[{"text":"Europos Parlamentas","header":true,"colspan":1,"rowspan":1},{"text":"2 / 11","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_16","label":"Savivaldybių tarybos","value":"358 / 1 498","cells":[{"text":"Savivaldybių tarybos","header":true,"colspan":1,"rowspan":1},{"text":"358 / 1 498","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_17","label":"Merai","value":"17 / 60","cells":[{"text":"Merai","header":true,"colspan":1,"rowspan":1},{"text":"17 / 60","header":false,"colspan":1,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_18","label":"","value":"Svetainė","cells":[{"text":"Svetainė","header":true,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"},{"code":"row_19","label":"","value":"www.lsdp.lt","cells":[{"text":"www.lsdp.lt","header":false,"colspan":2,"rowspan":1}],"source":"wikipedia_rendered_infobox"}],"infobox_status":"present","extraction_version":"wikipedia-rendered-v2","language":"lt","article_id":"1832","revision_id":"7897743","status":"published","translation_status":"native","source":{"title":"Lietuvos socialdemokratų partija","url":"https://lt.wikipedia.org/wiki/Lietuvos_socialdemokrat%C5%B3_partija","publisher":"Vikipedija","language":"lt","article_id":"1832","revision_id":"7897743","revision_url":"https://lt.wikipedia.org/w/index.php?oldid=7897743","history_url":"https://lt.wikipedia.org/w/index.php?title=Lietuvos_socialdemokrat%C5%B3_partija&action=history","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","authors":["Vikipedijos bendradarbiai"],"retrieved_at":"2026-09-20T22:25:12.400051+03:00","extraction":{"version":"wikipedia-rendered-v2","method":"Wikipedia rendered article HTML","location":"first_lead_paragraph_and_complete_primary_infobox","modifications":"Formatting and reference markers removed; images handled by reviewed media pipeline; article text unabridged"},"content_hash":"ca274fd507b215aa12be20d3f4d03cf54e8e77408fd4af7f3c790fe844598856","version_pk":"7091f2285453ddb024c53a095ad6d087"}}}'
 ---
 # Lietuvos socialdemokratų partija
 

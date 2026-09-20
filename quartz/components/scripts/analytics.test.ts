@@ -4,6 +4,7 @@ import {
   ANALYTICS_EVENT_NAMES,
   ANALYTICS_CUSTOM_DIMENSIONS,
   ANALYTICS_CUSTOM_METRICS,
+  ANALYTICS_FEATURE_PARAM_KEYS,
   ANALYTICS_MAP_ACTIONS,
   ANALYTICS_SCHEMA_VERSION,
   analyticsZoomBucket,
@@ -90,7 +91,12 @@ test("event allowlist and dedupe keys are deterministic", () => {
   assert.deepEqual(ANALYTICS_MAP_ACTIONS.includes("node_select"), true)
   assert.deepEqual(ANALYTICS_CUSTOM_DIMENSIONS.includes("map_action"), true)
   assert.deepEqual(ANALYTICS_CUSTOM_DIMENSIONS.includes("exhibition_action"), true)
+  assert.deepEqual(ANALYTICS_CUSTOM_DIMENSIONS.includes("media_id"), true)
+  assert.deepEqual(ANALYTICS_CUSTOM_DIMENSIONS.includes("media_sort"), true)
+  assert.deepEqual(ANALYTICS_FEATURE_PARAM_KEYS.includes("media_id"), true)
+  assert.deepEqual(ANALYTICS_FEATURE_PARAM_KEYS.includes("media_position"), true)
   assert.deepEqual(ANALYTICS_CUSTOM_METRICS.includes("result_count"), true)
+  assert.deepEqual(ANALYTICS_CUSTOM_METRICS.includes("media_position"), true)
   assert.equal(ANALYTICS_SCHEMA_VERSION, "ga4_events_v2")
   assert.equal(analyticsDedupeKey(["Feature", "On", 1]), "feature|on|1")
 })
