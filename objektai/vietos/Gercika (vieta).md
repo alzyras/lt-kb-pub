@@ -1,11 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Gercika (vieta)'
-identifikacija: 'vieta'
+pavadinimas: Gercika (vieta)
+identifikacija: vieta
 variantai:
-  - 'Gercika'
+  - Gercika
 aliases:
-  - 'Gercika'
+  - Gercika
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)'
 sukurta: ''
@@ -16,21 +16,34 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-abf695be8481203857e4dfb1"
-canonical_name: "Gercika (vieta)"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Gercika","Gercika (vieta)"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-abf695be8481203857e4dfb1
+canonical_name: Gercika (vieta)
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Gercika
+  - Gercika (vieta)
 sameAs: []
-canonical_biography: "Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kunigaikštis ar smulkus valdovas. Lengvai, padarius rašy bos klaidą — sukeitus raides, Carogradas virto į Heroiką arba Gerciką. Gercikoje viešpatavo rusų kunigaikštis Vsevolodas; šaltinyje nurodoma, kad ten dabar esąs miestelis Carogradas."
+canonical_biography: 'Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kunigaikštis ar smulkus valdovas. Lengvai, padarius rašy bos klaidą — sukeitus raides, Carogradas virto į Heroiką arba Gerciką. Gercikoje viešpatavo rusų kunigaikštis Vsevolodas; šaltinyje nurodoma, kad ten dabar esąs miestelis Carogradas.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:33:29+00:00","source_checked_at":"2026-09-20T18:33:29+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"4dfc222151f0ec5181d0ea28","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Miestas; šaltinyje taip pat vadinama tvirtove.","context":"Teodoras Narbutas aprašo Gerciką kaip miestą ir tvirtovę; 1994 m. leidinyje nurodoma, kad į tvirtovę įsiveržė Livonijos riteriai ir rusinai.","support_ids":["t-205352","c-188025"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205352","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-188025","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Iš ten tiesiai priėjo prie Gercikos miesto. Rusinai suruošė smarkų ant­ puolį, tačiau po įnirtingo mūšio jie buvo nublokšti ir taip smarkiai priremti, kad Livonijos riteriai kartu su ru- sinais įpuolė į tvirtovę. Krikščionys dėl savo tikėjimo liovėsi žudę, pasitenkino užėmę miestą ir pagrobę gyven­ tojus į nelaisvę."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"384ec0f4a117134e07dad53e","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Vėlesniu metu vieta apibūdinama kaip miestelis, vadinamas Carogradu.","context":"Teodoras Narbutas teigia, kad Gercikos vietoje dabar yra miestelis, vadinamas Carogradu; 1994 m. leidinyje išlaikomas šis autoriaus pateiktas dabarties laiko vertinimas.","support_ids":["t-205550","c-187678"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205550","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187678","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Bet kliūtis išplėsti savo valdžią, kaip pastebėta, buvo dar ir rusų kunigaikš­ tis, Viešpatavęs Gercikoje, kur dabar yra miestelis, vadi­ namas Carogradu1. Sis kunigaikštis, vardu Vsevolodas1 2, vedęs Lietuvoje viešpatavusio kunigaikščio Utenio, kitaip Dangeručio, dukrą ir tuo būdu įgijęs kai kurias valdas Lietuvos Užnerio kunigaikštystėje, todėl turėjo artimus ryšius su lietuviais"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"b2ca02b0312d144e9d6e8190","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Miestas buvo atstatytas.","context":"Teodoras Narbutas rašo, kad Vsevolodas atstatė savo Gercikos miestą; 1994 m. leidinyje tai pateikiama pasakojant apie Vsevolodo veiksmus.","support_ids":["t-205263","c-187979"],"source_refs":[{"kind":"internal_claim","claim_id":"t-205263","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"},{"kind":"evidence","evidence_id":"c-187979","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md","quote":"Bet šis, atstatęs savo Gercikos miestą ir nuosavybėn gavęs kraštą su kitais dviem miesteliūkš­ čiais — Antine ir Zasa1 2, — slapta susimokęs nenutraukė ryšių su lietuviais, įgalindamas juos puldinėti Kuoknesę."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:33:29+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 8d388dc445ae38de
+object_page_generated_at: '2026-09-20T18:33:29+00:00'
+object_page_source_checked_at: '2026-09-20T18:33:29+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: 'Gercika (vieta): Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kunigaikštis ar smulkus valdovas. Lengvai, padarius rašy bos klaidą —…'
+object_page_seo_input_hash: 7850d0623b4de5a55731300f1aac7b0e38bd3cebbbcca8249796f683413a4ab1
+object_page_seo_generated_at: '2026-09-20T18:33:29+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Gercika (vieta)
 

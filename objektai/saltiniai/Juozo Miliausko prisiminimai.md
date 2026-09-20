@@ -1,11 +1,11 @@
 ---
 tipas: saltinis
-pavadinimas: 'Juozo Miliausko prisiminimai'
+pavadinimas: Juozo Miliausko prisiminimai
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '2013 m.'
-  - '2026 m.'
+  - 2013 m.
+  - 2026 m.
 date_start: '2013'
 date_end: '2026'
 sukurta: ''
@@ -13,19 +13,29 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XXI'
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:17:49+00:00","source_checked_at":"2026-09-20T18:17:49+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f7c225b7c8f59255d63896b7","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"Juozas Miliauskas – prisiminimų autorius; ištrauką pateikia Karolis Zikaras, sudarytojas.","context":"Šaltinyje ištrauka įvardyta kaip sukilimo dalyvio Juozo Miliausko prisiminimai; ji publikuota Karolio Zikaro sudarytame leidinyje.","support_ids":["t-78853","c-75984"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78853","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75984","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"antroji pusė. Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYNĖS TANKUMYNE Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko pri- siminimų. Jis aprašo epizodą kai Švėkšnos apylinkių miškuose medžių uzvartom su- tvirtintą sukilėlių stovyklą užpuola rusų pajėgos."}],"status":"published","conflict_status":"clear"},{"trait_id":"3f34203f9ca8e533360d7041","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Prisiminimai","context":"Tekstas tiesiogiai įvardytas kaip Juozo Miliausko prisiminimų ištrauka.","support_ids":["t-78853","c-75984"],"source_refs":[{"kind":"internal_claim","claim_id":"t-78853","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"},{"kind":"evidence","evidence_id":"c-75984","source":"darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md","quote":"antroji pusė. Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYNĖS TANKUMYNE Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko pri- siminimų. Jis aprašo epizodą kai Švėkšnos apylinkių miškuose medžių uzvartom su- tvirtintą sukilėlių stovyklą užpuola rusų pajėgos."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:17:49+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e0d73057931b50f7
+object_page_generated_at: '2026-09-20T18:17:49+00:00'
+object_page_source_checked_at: '2026-09-20T18:17:49+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Juozo Miliausko prisiminimai: Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisiminimai“ šiame veikale cituojamas kaip atskiras šaltinis.'
+object_page_seo_input_hash: 098025d017fa22b81e0c3eb06c5d2969f7b26306ad2a9e9ffb7bf900df1eb24a
+object_page_seo_generated_at: '2026-09-20T18:17:49+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Juozo Miliausko prisiminimai
 

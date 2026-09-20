@@ -4,7 +4,7 @@ pavadinimas: 'Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukim
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
-  - '1383 m.'
+  - 1383 m.
 date_start: '1383'
 date_end: ''
 sukurta: ''
@@ -12,19 +12,29 @@ atnaujinta: ''
 tags:
   - ivykis
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:59:26+00:00","source_checked_at":"2026-09-20T16:59:26+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Lais­ vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­ va valia nutarusi dalytis su vyru likimo užkrautais var­ gais, čia jį ir palydėjo su dviem mergaitėmis. Ši aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­ vę: dažnai juk likimą lemia menkų menkiausios prie­ žastys. Vienas sargybinis kar­ tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą. Žmona apie viską pranešė vyrui ir patarė apsirengus merginos drabužiais apgauti sargy­ binius ir pasprukti iš priešo rankų ir nuo tikros mir­ ties: draugai jau, girdi, parūpinę visko, kas reikalinga bėgliui. Kaip sumanyta, taip ir padaryta: pavakaryje, apsivilkęs mergaitės…","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","claim_id":"t-196268","evidence_id":"c-168903","origin":"internal"},"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"cc1a47bf1afd7ea307c86f35","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"Vytautui grėsė mirtis, o Jogailos siųsti budeliai buvo atvykę į Krėvą.","context":"Pasak Alberto Vijūko-Kojelavičiaus, tai buvo aprašyta Vytauto kalinimo Krėvoje metu.","support_ids":["t-196268","c-168903"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196268","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168903","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Lais­ vai prie jo prileidžiama tebuvo žmona Ona, kuri, lais­ va valia nutarusi dalytis su vyru likimo užkrautais var­ gais, čia jį ir palydėjo su dviem mergaitėmis. Ši aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­ vę: dažnai juk likimą lemia menkų menkiausios prie­ žastys. Vienas sargybinis kar­ tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą. Žmona apie viską pranešė vyrui ir patarė apsirengus merginos drabužiais apgauti sargy­ binius ir pasprukti iš priešo rankų ir nuo tikros mir­ ties: draugai jau, girdi, parūpinę visko, kas reikalinga bėgliui. Kaip sumanyta, taip ir padaryta: pavakaryje, apsivilkęs mergaitės…"}],"status":"published","conflict_status":"clear"},{"trait_id":"a4868bfcba1b11e44f015a00","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Vežamas iš Vilniaus į Krėvą Vytautas buvo laikomas nelyginant karalius, tačiau nuolat saugomas budrios sargybos.","context":"Tai – Kojelavičiaus pasakojime pateiktas vertinimas apie Vytauto laikymą Krėvoje.","support_ids":["t-196267","c-178603"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196267","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-178603","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Nedrįso Jogaila greitosiomis imtis prieš jį kokių griežtesnių priemonių ir dėl senos drau­ gystės, ir dėl to, kad žinojo, jog šis ir paskutiniuoju V iln iu je J o g a ila įsa ­ k o su im ti K ę stu tį ir V y ta u tą K ęstu tis K r ė v o je p a ­ sm a u g ia m a s, V id i- m a n ta s n u k a n k in a ­ m a s ratu, V y ta u ta s įm eta m a s k a lėjim a n 2 7 3 laiku rodąs jam palankumą. Jis taip ilgai brandino nu­ sikalstamą sumanymą, kad Vytautas turėjo pakanka­ mai laiko išlikti gyvas ir sulaukti geresnių dienų. Kai jį vežė iš Vilniaus į Krėvą, jam rodė karališką pagar­ bą; čia irgi buvo laikomas nelyginant karalius, tik nuolatos saugomas budrios sargybos, kuri neleido nei su artimaisiais…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d020ad265e739f8677ecf896","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Pavakaryje Vytautas, apsivilkęs mergaitės drabužiais, praėjo pro sargybinius, tamsoje nusileido nuo sienų, užsėdo ant žirgo ir paspruko į Mazoviją.","context":"Pasak Kojelavičiaus, pabėgimas įvyko Krėvoje, Vytauto žmonai Onai patarus taip apgauti sargybinius.","support_ids":["t-196269","c-178604"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196269","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-178604","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Žmona apie viską pranešė vyrui ir patarė apsirengus merginos drabužiais apgauti sargy­ binius ir pasprukti iš priešo rankų ir nuo tikros mir­ ties: draugai jau, girdi, parūpinę visko, kas reikalinga bėgliui. Kaip sumanyta, taip ir padaryta: pavakaryje, apsivilkęs mergaitės drabužiais, Vytautas lyg niekur nieko praėjo pro sargybinius, tamsoje nusileidęs nuo sienų, užsėdo ant žirgo ir pa- P a b ėg a iš p radžių į spruko į Mazoviją. Ten jį M a z o v iją , p a sk u i į maloniai priėmė kunigaikštis P rūsiją Jonušas, žmonos Onos tėvas, kuris jam suteikė paramą ir paskyrė valdų, tačiau, neilgai trukus, gal dėl kokios kitos priežasties, gal dėl to, kad žemę dažnai niokojo lietuvių antpuoliai, o…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a81bde0c827ba1f4f09c83cb","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Mazovijoje Vytautą maloniai priėmė kunigaikštis Jonušas, žmonos Onos tėvas, suteikė jam paramą ir paskyrė valdų.","context":"Tai aprašoma kaip tiesioginė pabėgimo į Mazoviją pasekmė.","support_ids":["t-196269","c-178604"],"source_refs":[{"kind":"internal_claim","claim_id":"t-196269","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-178604","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Žmona apie viską pranešė vyrui ir patarė apsirengus merginos drabužiais apgauti sargy­ binius ir pasprukti iš priešo rankų ir nuo tikros mir­ ties: draugai jau, girdi, parūpinę visko, kas reikalinga bėgliui. Kaip sumanyta, taip ir padaryta: pavakaryje, apsivilkęs mergaitės drabužiais, Vytautas lyg niekur nieko praėjo pro sargybinius, tamsoje nusileidęs nuo sienų, užsėdo ant žirgo ir pa- P a b ėg a iš p radžių į spruko į Mazoviją. Ten jį M a z o v iją , p a sk u i į maloniai priėmė kunigaikštis P rūsiją Jonušas, žmonos Onos tėvas, kuris jam suteikė paramą ir paskyrė valdų, tačiau, neilgai trukus, gal dėl kokios kitos priežasties, gal dėl to, kad žemę dažnai niokojo lietuvių antpuoliai, o…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:59:26+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: dced5d2c921cf6bf
+object_page_generated_at: '2026-09-20T16:59:26+00:00'
+object_page_source_checked_at: '2026-09-20T16:59:26+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją: Tai Vytauto kalinimo Krėvoje ir išsigelbėjimo nuo gresiančios mirties epizodas.…'
+object_page_seo_input_hash: 60a8aec9636833549fd8b6cfecaa14ecd7d409227b26a0453079452ba1c154fd
+object_page_seo_generated_at: '2026-09-20T16:59:26+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją
 

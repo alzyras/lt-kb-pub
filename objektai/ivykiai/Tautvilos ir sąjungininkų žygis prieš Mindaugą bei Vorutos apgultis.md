@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis'
+pavadinimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -14,12 +14,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:48:15+00:00","source_checked_at":"2026-09-20T16:48:15+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b1db32f4eb880c48135a9537","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"Lietuva netapo krikščioniška.","context":"Lietuvos metraščio pasakojime tai nurodoma kaip ankstesnių veiksmų priežastis; šaltinio autoriaus formuluotė.","support_ids":["t-210876","c-194161"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210876","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194161","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Visa tai padarė, kad Lietuva netapo krikščioniška. Andrių broliai riteriai pašalino iš pareigų, o Tautvilą parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė jotvingius ir žemaičius bei Danieliaus pagalbą, kurią Danielius buvo jam anksčiau davęs, ir išžygiavo prieš Mindaugą. Mindaugas buvo pasiruošęs, bet nutarė su jais at- virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir"}],"status":"published","conflict_status":"clear"},{"trait_id":"1c7693255d41f37df3ec818f","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Tautvilas parbėgo į Žemaitiją pas savo dėdę Vykintą, pasiėmė jotvingius ir žemaičius bei Danieliaus pagalbą ir išžygiavo prieš Mindaugą. Mindaugas, pasiruošęs, nusprendė su jais atvirame lauke nesikauti ir užsidarė pilyje Vorutoje.","context":"Lietuvos metraščio pasakojimas apie žygį prieš Mindaugą ir Mindaugo veiksmus; šaltinio autoriaus pasakojimas.","support_ids":["t-211763","c-194161"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211763","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194161","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Visa tai padarė, kad Lietuva netapo krikščioniška. Andrių broliai riteriai pašalino iš pareigų, o Tautvilą parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė jotvingius ir žemaičius bei Danieliaus pagalbą, kurią Danielius buvo jam anksčiau davęs, ir išžygiavo prieš Mindaugą. Mindaugas buvo pasiruošęs, bet nutarė su jais at- virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir"}],"status":"published","conflict_status":"clear"},{"trait_id":"8ce7ea798e80b0f9dafab848","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Žygyje dalyvavo Tautvilas, jotvingiai, žemaičiai ir Danieliaus suteikta pagalba; puolimo taikinys buvo Mindaugas, užsidaręs Vorutos pilyje.","context":"Dalyviai ir vieta nurodomi Lietuvos metraščio pasakojime.","support_ids":["t-210876","c-194161"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210876","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194161","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Visa tai padarė, kad Lietuva netapo krikščioniška. Andrių broliai riteriai pašalino iš pareigų, o Tautvilą parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė jotvingius ir žemaičius bei Danieliaus pagalbą, kurią Danielius buvo jam anksčiau davęs, ir išžygiavo prieš Mindaugą. Mindaugas buvo pasiruošęs, bet nutarė su jais at- virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:48:15+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 430402e86285fd3c
+object_page_generated_at: '2026-09-20T16:48:15+00:00'
+object_page_source_checked_at: '2026-09-20T16:48:15+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: Mindaugas, pasak metraščio, nesiryžo kautis atvirame lauke ir užsidarė Vorutos pilyje.…'
+object_page_seo_input_hash: dfbc1ea5b5ca2ac47e86914a99c14ba9019009e81a09c473e1d5ba3ee3c62421
+object_page_seo_generated_at: '2026-09-20T16:48:15+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis
 

@@ -1,10 +1,10 @@
 ---
 tipas: vieta
-pavadinimas: 'Kaliningrado sritis'
+pavadinimas: Kaliningrado sritis
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1990 m.'
+  - 1990 m.
 date_start: '1990'
 date_end: ''
 sukurta: ''
@@ -14,28 +14,40 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-cde446a43438903624ead9f2"
-canonical_name: "Kaliningrado sritis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Kaliningrado sritis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-cde446a43438903624ead9f2
+canonical_name: Kaliningrado sritis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Kaliningrado sritis
 sameAs: []
-canonical_biography: "Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva. Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai. Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruose įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje atiduota 50-čiai metų administruoti SSRS."
+canonical_biography: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva. Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai. Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruose įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje atiduota 50-čiai metų administruoti SSRS.'
 place_authority: true
 historical_names: []
+external_sources_json: '[{"title":"Kaliningrado Sritis","url":"https://www.vle.lt/straipsnis/kaliningrado-sritis/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:35:50+00:00","source_checked_at":"2026-09-20T18:35:50+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Kaliningrado Sritis","url":"https://www.vle.lt/straipsnis/kaliningrado-sritis/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/kaliningrado-sritis/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"073e7192cd3d0d8191812c2a","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Su Lietuva turinti sieną","context":"Atkūrus nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusija, Kaliningrado sritimi.","support_ids":["t-76355","c-73950"],"source_refs":[{"kind":"internal_claim","claim_id":"t-76355","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73950","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje"}],"status":"published","conflict_status":"clear"},{"trait_id":"b52578e8a17db0fefde12b6c","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Potsdamo konferencijoje 50 metų atiduota administruoti SSRS","context":"Po Antrojo pasaulinio karo, Potsdamo konferencijoje; taip aprašo Lietuvos istorijos autoriai.","support_ids":["t-183597","c-166989"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183597","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166989","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tau- tinių mažumų klausimas kartais dar kelia karštas diskusijas. Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo- se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje atiduota 50-čiai metų administruoti SSRS. Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė lietuvių tautos kovą dėl nepriklausomybės."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:35:50+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: de5ea5a6fe7ca927
+object_page_generated_at: '2026-09-20T18:35:50+00:00'
+object_page_source_checked_at: '2026-09-20T18:35:50+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Kaliningrado sritis: Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai…'
+object_page_seo_input_hash: 16031fef1f7455d0654038be846e6db66f855fd771801e9c510ac081ad80fca1
+object_page_seo_generated_at: '2026-09-20T18:35:50+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kaliningrado sritis
 

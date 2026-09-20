@@ -1,10 +1,10 @@
 ---
 tipas: vieta
-pavadinimas: 'Žemaičių jūra'
+pavadinimas: Žemaičių jūra
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 datos:
-  - '1561 m.'
+  - 1561 m.
 date_start: '1561'
 date_end: ''
 sukurta: ''
@@ -14,28 +14,44 @@ tags:
   - kraštas
   - vieta
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-934d646923a8038d7afdd2f1"
-canonical_name: "Žemaičių jūra"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Rusų mare","Žemaičių jūra","Žemaičių jūroj","Žemaičių jūroje","Žemaičių jūros"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-934d646923a8038d7afdd2f1
+canonical_name: Žemaičių jūra
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Rusų mare
+  - Žemaičių jūra
+  - Žemaičių jūroj
+  - Žemaičių jūroje
+  - Žemaičių jūros
 sameAs: []
-canonical_biography: "Žemaičių jūra per 1000 metų nuseko kelias uolektis. Į Žemaičių jūrą tekėjo šiaurinės upės."
+canonical_biography: Žemaičių jūra per 1000 metų nuseko kelias uolektis. Į Žemaičių jūrą tekėjo šiaurinės upės.
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T19:11:38+00:00","source_checked_at":"2026-09-20T19:11:38+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"53bd62305ca668b36be9ecda","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Sieta su karyba ir prekybos plėtra","context":"Simonas Daukantas aprašo, kad Žemaičių jūroje buvo kariaujama, o nurimus tautų konfliktams prekyba vėl pradėjo plėstis.","support_ids":["t-210014","c-192743"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210014","source":"darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md"},{"kind":"evidence","evidence_id":"c-192743","source":"darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md","quote":"Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis."}],"status":"published","conflict_status":"clear"},{"trait_id":"6cce8b9abc300821f3679432","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Į ją tekėjo šiaurinės įšlaitės upės","context":"Simonas Daukantas nurodo, kad į Žemaičių jūrą tekėjo šiaurinės įšlaitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla.","support_ids":["t-210047","c-192826"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210047","source":"darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md"},{"kind":"evidence","evidence_id":"c-192826","source":"darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md","quote":"Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla."}],"status":"published","conflict_status":"clear"},{"trait_id":"bfed86d04e089ba0c423e25a","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Per 1000 metų nuseko kelias uolektis","context":"Simonas Daukantas, remdamasis ženklais ant žuvėdų uolų, teigia, kad Žemaičių jūra per 1000 metų nuseko kelias uolektis.","support_ids":["t-210152","c-192896"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210152","source":"darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md"},{"kind":"evidence","evidence_id":"c-192896","source":"darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md","quote":"Žuvėdai^14 turi ant savo uolų ženklus, kurie rodo, jog Žemaičių jūra per 1000 metų yra per kelias uolektis nusekusi."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T19:11:38+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 5a0032addaefb628
+object_page_generated_at: '2026-09-20T19:11:38+00:00'
+object_page_source_checked_at: '2026-09-20T19:11:38+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: Žemaičių jūra per 1000 metų nuseko kelias uolektis. Į Žemaičių jūrą tekėjo šiaurinės upės. Šaltinių citatos.
+object_page_seo_input_hash: fc4b50c7cf36fbac65ebc6eaf7288723a2492d0eca798a25714086a119ae982a
+object_page_seo_generated_at: '2026-09-20T19:11:38+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Žemaičių jūra
 

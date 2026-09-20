@@ -4,7 +4,7 @@ pavadinimas: 'Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikin
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
-  - '1307 m.'
+  - 1307 m.
 date_start: '1307'
 date_end: ''
 sukurta: ''
@@ -14,19 +14,29 @@ tags:
   - žygis
   - ivykis
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:34:54+00:00","source_checked_at":"2026-09-20T16:34:54+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"9b92f86dd4832ba8bc8dfa60","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"1307 m. į Prūsiją atvyko grafo Jono fon Španheimo vedama kariuomenė; ji kartu su Ordino riteriais planavo žygiuoti į Lietuvą, tačiau dėl silpno ledo negalėjo persikelti per upę ir grįžo atgal vos pradėjusi žygį.","context":"Taip 1307 m. įvykį aprašo Albertas Vijūkas-Kojelavičius: kariuomenė nusprendė neapgulti pilių, o veržtis į krašto gilumą ir siaubti lengvai užimamas vietoves.","support_ids":["t-185496","c-168857"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185496","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168857","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Mat į Prūsiją papildymui at- 1307 m e la i vyko kariuomenė, vedama grafo Jono fon Španheimo, kurią sudarė kilmingiausi vokiečių riteriai, su jais ėjo ranka rankon tūkstantis keturi šimtai ordino riterių, turėjusių būti vokiečių są- P rū sijo s k ry žiu o č ių jungininkais bei vadovais ž y g ia i p rie š lie tu v iu s Lietuvoje. Ir vieni, ir kiti nu­ tarė neeikvoti jėgų pilių ap­ gulai, bet brautis, kol kariai dar nepavargę, į krašto gilumą ir ten siaubti kalaviju ir ugnimi vietoves, ku­ rias lengva užimti. Nieko *iš to neišėjo. Mat silpnas le­ das dar negalėjo atlaikyti besikeliančios per upę ka­ riuomenės; kadangi persikelti buvo labai sunku, jie, nieko nepešę, grįžo atgal vos pradėję…"}],"status":"published","conflict_status":"clear"},{"trait_id":"9dda115ac16dbe582f89bf7c","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Kariuomenę sudarė kilmingiausi vokiečių riteriai ir 1 400 Ordino riterių.","context":"1307 m. sudėtį nurodo Albertas Vijūkas-Kojelavičius; Ordino riteriai turėjo būti vokiečių sąjungininkais ir vadovais žygyje prieš lietuvius.","support_ids":["t-185496","c-168857"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185496","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168857","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Mat į Prūsiją papildymui at- 1307 m e la i vyko kariuomenė, vedama grafo Jono fon Španheimo, kurią sudarė kilmingiausi vokiečių riteriai, su jais ėjo ranka rankon tūkstantis keturi šimtai ordino riterių, turėjusių būti vokiečių są- P rū sijo s k ry žiu o č ių jungininkais bei vadovais ž y g ia i p rie š lie tu v iu s Lietuvoje. Ir vieni, ir kiti nu­ tarė neeikvoti jėgų pilių ap­ gulai, bet brautis, kol kariai dar nepavargę, į krašto gilumą ir ten siaubti kalaviju ir ugnimi vietoves, ku­ rias lengva užimti. Nieko *iš to neišėjo. Mat silpnas le­ das dar negalėjo atlaikyti besikeliančios per upę ka­ riuomenės; kadangi persikelti buvo labai sunku, jie, nieko nepešę, grįžo atgal vos pradėję…"}],"status":"published","conflict_status":"clear"},{"trait_id":"f0ee645a319f426d48a0e7b3","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Žygis nepavyko: kariuomenė, negalėdama persikelti per silpną ledą, nieko nepešusi grįžo atgal vos pradėjusi žygį.","context":"Tai Alberto Vijūko-Kojelavičiaus 1307 m. aprašytas įvykio vertinimas ir baigtis.","support_ids":["t-185496","c-168857"],"source_refs":[{"kind":"internal_claim","claim_id":"t-185496","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"},{"kind":"evidence","evidence_id":"c-168857","source":"darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md","quote":"Mat į Prūsiją papildymui at- 1307 m e la i vyko kariuomenė, vedama grafo Jono fon Španheimo, kurią sudarė kilmingiausi vokiečių riteriai, su jais ėjo ranka rankon tūkstantis keturi šimtai ordino riterių, turėjusių būti vokiečių są- P rū sijo s k ry žiu o č ių jungininkais bei vadovais ž y g ia i p rie š lie tu v iu s Lietuvoje. Ir vieni, ir kiti nu­ tarė neeikvoti jėgų pilių ap­ gulai, bet brautis, kol kariai dar nepavargę, į krašto gilumą ir ten siaubti kalaviju ir ugnimi vietoves, ku­ rias lengva užimti. Nieko *iš to neišėjo. Mat silpnas le­ das dar negalėjo atlaikyti besikeliančios per upę ka­ riuomenės; kadangi persikelti buvo labai sunku, jie, nieko nepešę, grįžo atgal vos pradėję…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:34:54+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: cbe7909c03ca833d
+object_page_generated_at: '2026-09-20T16:34:54+00:00'
+object_page_source_checked_at: '2026-09-20T16:34:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.): 1307 m. į Prūsiją atvyko grafo Jono fon Španheimo vedama…'
+object_page_seo_input_hash: 48d880c54c6a18fbcda3900d02437ffc1d890b92af352b641fbf04617dba1238
+object_page_seo_generated_at: '2026-09-20T16:34:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)
 

@@ -49,7 +49,7 @@ node scripts/museum/project_wikipedia.mjs PATH_TO/wikipedia-backfill.json
 Inventoriuje naudojamos patikrintos objektų tapatybės, ne spėjamos nuorodos pagal
 vardą. Užklausos ribojamos, pakartotinis paleidimas naudoja revizijų podėlį.
 Atnaujinimas neliečia vietinių teiginių ir jų citatų. 2026-09-20 patikrintas
-521 susietas objektas: 171 straipsnis turi pagrindinę lentelę, 350 jos neturi.
+522 susieti objektas: 171 straipsnis turi pagrindinę lentelę, 351 jos neturi.
 Tai nėra teiginys, kad kiekvienam iš viso korpuso objektų jau rastas straipsnis.
 
 ## Dizaino patikros

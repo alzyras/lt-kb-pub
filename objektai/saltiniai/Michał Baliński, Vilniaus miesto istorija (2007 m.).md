@@ -4,11 +4,11 @@ pavadinimas: 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1430 m.'
-  - '1560 m.'
-  - '1836 m.'
-  - '1837 m.'
-  - '2007 m.'
+  - 1430 m.
+  - 1560 m.
+  - 1836 m.
+  - 1837 m.
+  - 2007 m.
 date_start: '1430'
 date_end: '2007'
 sukurta: ''
@@ -16,20 +16,30 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XV'
-  - 'XXI'
+  - XV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:21:30+00:00","source_checked_at":"2026-09-20T18:21:30+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"20864f9e84dca5471c08b254","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"Michał Baliński","context":"Šaltinis verstas iš Michało Balińskio veikalo „Historya Miasta Wilna“.","support_ids":["t-54396","c-55236"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54396","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55236","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"UDK 947.45 Ba237 Versta iš Michała Balińskiego History a Miasta Wilna Wilno. Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Respublikos kultūros ministerija Knyga išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus Redaktorė Skirmantė Ramanauskaitė Knygos dailininkas Romas Dubonis ISBN 978-5-417-00907-5 © Vertimas į lietuvių kalbą, Ona Slavėnaitė, 2007 © Vertimas į lietuvių kalbą, Irena Katilienė, 2007 © Vertimas į lietuvių kalbą, Jūratė Dalia Baronienė, 2007 © Romas Dubonis, apipavidalinimas, 2007 © MINTIS, 2007"}],"status":"published","conflict_status":"clear"},{"trait_id":"364b61d54eb0453151400442","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"2007 m.","context":"Šio leidimo vertimas į lietuvių kalbą išleistas 2007 m.","support_ids":["t-54396","c-55236"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54396","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55236","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"UDK 947.45 Ba237 Versta iš Michała Balińskiego History a Miasta Wilna Wilno. Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Respublikos kultūros ministerija Knyga išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus Redaktorė Skirmantė Ramanauskaitė Knygos dailininkas Romas Dubonis ISBN 978-5-417-00907-5 © Vertimas į lietuvių kalbą, Ona Slavėnaitė, 2007 © Vertimas į lietuvių kalbą, Irena Katilienė, 2007 © Vertimas į lietuvių kalbą, Jūratė Dalia Baronienė, 2007 © Romas Dubonis, apipavidalinimas, 2007 © MINTIS, 2007"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"ff61d24196e36ffddff825be","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"1836–1837 m.","context":"Originalus Michało Balińskio veikalas „Historya Miasta Wilna“ buvo spausdintas Vilniuje 1836–1837 m.","support_ids":["t-54396","c-55236"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54396","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55236","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"UDK 947.45 Ba237 Versta iš Michała Balińskiego History a Miasta Wilna Wilno. Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Respublikos kultūros ministerija Knyga išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus Redaktorė Skirmantė Ramanauskaitė Knygos dailininkas Romas Dubonis ISBN 978-5-417-00907-5 © Vertimas į lietuvių kalbą, Ona Slavėnaitė, 2007 © Vertimas į lietuvių kalbą, Irena Katilienė, 2007 © Vertimas į lietuvių kalbą, Jūratė Dalia Baronienė, 2007 © Romas Dubonis, apipavidalinimas, 2007 © MINTIS, 2007"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"192713df6fbd704f2642b2f6","canonical_code":"source.language","label":"Kalba","group":"Šaltinio bruožai","value":"lietuvių kalba","context":"Šaltinis yra vertimas į lietuvių kalbą.","support_ids":["t-54396","c-55236"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54396","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55236","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"UDK 947.45 Ba237 Versta iš Michała Balińskiego History a Miasta Wilna Wilno. Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Respublikos kultūros ministerija Knyga išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus Redaktorė Skirmantė Ramanauskaitė Knygos dailininkas Romas Dubonis ISBN 978-5-417-00907-5 © Vertimas į lietuvių kalbą, Ona Slavėnaitė, 2007 © Vertimas į lietuvių kalbą, Irena Katilienė, 2007 © Vertimas į lietuvių kalbą, Jūratė Dalia Baronienė, 2007 © Romas Dubonis, apipavidalinimas, 2007 © MINTIS, 2007"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:21:30+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 29cfc1e31a14c5d0
+object_page_generated_at: '2026-09-20T18:21:30+00:00'
+object_page_source_checked_at: '2026-09-20T18:21:30+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Michał Baliński, Vilniaus miesto istorija (2007 m.): Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, verstas iš lenkiško veikalo…'
+object_page_seo_input_hash: 41a9948802ca9412bb158eda12fb7821693e448529fda7c129e7e5be782056b9
+object_page_seo_generated_at: '2026-09-20T18:21:30+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Michał Baliński, Vilniaus miesto istorija (2007 m.)
 

@@ -1,12 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Lenkų įgula Vilniaus Aukštutinėje pilyje'
+pavadinimas: Lenkų įgula Vilniaus Aukštutinėje pilyje
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1387 m.'
-  - '1390 m.'
-  - '1827 m.'
+  - 1387 m.
+  - 1390 m.
+  - 1827 m.
 date_start: '1387'
 date_end: '1827'
 sukurta: ''
@@ -16,20 +16,30 @@ tags:
   - grupe
   - tauta
 amziai:
-  - 'XIV'
-  - 'XIX'
+  - XIV
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T15:29:14+00:00","source_checked_at":"2026-09-20T15:29:14+00:00","counts":{"relations":2,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b7710598fa31d87f3329f0cf","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Visa lenkų įgula ir dalis lietuvių pajėgų","context":"Po mūšio tarp Verkių ir Šeškinės įgula bei lietuvių pajėgų dalis užsidarė Vilniaus tvirtovių mūruose ir aptvaruose.","support_ids":["t-86717","c-82699"],"source_refs":[{"kind":"internal_claim","claim_id":"t-86717","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-82699","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuvių- lenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­ rios ir platų frontą rėpiančios gynybos. Tad visa lenkų įgula ir dalis lietuvių pajėgų užsidarė tarp tuometinių Vilniaus tvirtovių mūrų bei aptvarų27. Pagaliau 1390 metų rugsėjo 4 caut, fils du Marėchal de ce nom."}],"status":"published","conflict_status":"clear"},{"trait_id":"7770f3f11bf229baa945e359","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Dalyvavo sunkiuose kautynėse ir ginčuose penkias Vilniaus apsupties savaites","context":"Michał Baliński taip apibūdina lenkų įgulos Aukštutinėje pilyje laikotarpį Vilniaus apsupties metu.","support_ids":["t-86718","c-82698"],"source_refs":[{"kind":"internal_claim","claim_id":"t-86718","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-82698","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o imperatorių Vaclovą abiejų tautų teisėju pasirinkę32. Taip įvairioms kautynėms ir ginčams besitęsiant praėjo penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­ nėje pilyje33. Tokios atkaklios Moskoževskio gynybos aplin­ kybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­ riaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi ir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­ imtų į nelaisvę."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"28fd247b9783266774abc832","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Atlaikė nuolatines atakas, rengė sumanius ir staigius išpuolius bei taisė priešo padarytą žalą","context":"Šaltinio autoriaus vertinimu, įsitvirtinusią įgulą atakos smarkiai kamavo, tačiau jos nepalaužė; aprašomas Moskoževskio vadovaujamas penkių savaičių gynybos laikotarpis.","support_ids":["t-86720","c-82700"],"source_refs":[{"kind":"internal_claim","claim_id":"t-86720","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-82700","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet niekas neįstengė palaužti lenkų narsos ir ištvermės Mos- koževskio gynybos linijose. Tas šaunus karys, išvaręs iš tvir­ tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­ čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­ liams. Niekas nebuvo išleista iš akių Moskoževskiui ginant jam patikėtą pilį: atakas atgieždavo sumaniais ir ūmiais išpuoliais; priešo padarytą žalą ir išardas taip apsukriai ir išmoningai užtaisydavo, jog atrodė, kad įgula tik stiprė­ janti, vis daugiau įgaudama drąsos, o tvirtovė atrodė vis grėsmingesnė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"6fcd3c01f9a1dc81dabed4d9","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Įgulai vadovavo Jogailos paliktas vadas","context":"Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula tuo metu valdė ir kitus gyventojus.","support_ids":["t-86721","c-82696"],"source_refs":[{"kind":"internal_claim","claim_id":"t-86721","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-82696","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux Tro- censis, bet niekur nėra Dux Lithua- niae. Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie kurią užsimena F o i g- t a s, V, 507, sudarytoje ties Kaunu 1388 metais, Scriptum prope Cowno in crastino b. Martini Fpi^copi et confes. an. dom. 1388 [pasirašyta ties Kaunu rytojaus dieną po Šv. Martyno, vys­ kupo ir išpažinėjo, Viešpaties metais 1388], Skirgaila save vadina: Schir- galo Dei gratia dux lithuanie et…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T15:29:14+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyne","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-86717","confidence":0.73},{"predicate":"valde_miesta","direction":"outbound","target":"objektai/vietos/Vilnius","claim_id":"t-86721","confidence":0.63}],"timeline":[],"support_disclosure":{"claims":4,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c75a39b46571bc3f
+object_page_generated_at: '2026-09-20T15:29:14+00:00'
+object_page_source_checked_at: '2026-09-20T15:29:14+00:00'
+object_page_content_state: content
+object_page_claim_count: '4'
+object_page_source_count: '1'
+object_page_seo_description: Lenkų įgula Vilniaus Aukštutinėje pilyje buvo miesto tvirtovę gynusi lenkų karių grupė. Po mūšio tarp Verkių ir Šeškinės ji kartu su dalimi lietuvių pajėgų…
+object_page_seo_input_hash: ca32a457c9304a6a70a39667671f05c3a283e8312cfe41b323ad2a4e294f32de
+object_page_seo_generated_at: '2026-09-20T15:29:14+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Lenkų įgula Vilniaus Aukštutinėje pilyje
 

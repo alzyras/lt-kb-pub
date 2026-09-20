@@ -1,12 +1,12 @@
 ---
 tipas: posakis
-pavadinimas: '„jogailaičių Europa“ „krikščionybės forpostas“'
+pavadinimas: „jogailaičių Europa“ „krikščionybės forpostas“
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1514 m.'
-  - '1526 m.'
-  - '1572 m.'
+  - 1514 m.
+  - 1526 m.
+  - 1572 m.
 date_start: '1514'
 date_end: '1572'
 sukurta: ''
@@ -15,19 +15,29 @@ tags:
   - posakis
   - frazė
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:07:11+00:00","source_checked_at":"2026-09-20T18:07:11+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7526b67193d62e23d8bb5068","canonical_code":"phrase.meaning","label":"Reikšmė","group":"Posakio bruožai","value":"„Jogailaičių Europa“ – rytinė Vidurio Europa, kurioje Jogailaičių dinastija valdė Lenkijos, Lietuvos, Čekijos ir Vengrijos sostus; autoriai ją apibūdina kaip pradėjusią vaidinti „krikščionybės forposto“ vaidmenį.","context":"Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio 2013 m. Lietuvos istorijoje ši sąvoka taikoma XV a. pabaigos–XVI a. pradžios epochai; autoriai pabrėžia, kad šis vaidmuo buvo atliekamas nevienodai sėkmingai.","support_ids":["t-183493","c-166887"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183493","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166887","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Lenkijos ir Lietuvos sostuose sė- dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo- je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi, šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente. Jo- gailaičių Europa pradėjo vaidinti „krikščionybės forposto“ vaidmenį, tie- sa, nevienodai sėkmingai. Lietuva, Lenkijos padedama, atsilaikė prieš sta- čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė- lapio."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:07:11+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 13aa106647a5859e
+object_page_generated_at: '2026-09-20T18:07:11+00:00'
+object_page_source_checked_at: '2026-09-20T18:07:11+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: '„jogailaičių Europa“ „krikščionybės forpostas“: Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a.…'
+object_page_seo_input_hash: 6c3df99bd549d9aefc0a16a48aa53bf44799a429ec6c0c7d7f0e26d090b67d1d
+object_page_seo_generated_at: '2026-09-20T18:07:11+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # „jogailaičių Europa“ „krikščionybės forpostas“
 

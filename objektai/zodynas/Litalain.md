@@ -1,6 +1,6 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Litalain'
+pavadinimas: Litalain
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -15,12 +15,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T19:22:26+00:00","source_checked_at":"2026-09-20T19:22:26+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"319ec4c886538ac2af635174","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Estai, gyvenantys prie Peipaus ežero, žodžiu „Litalain“ vadina lietuvius ir juo supranta Lietuvos dalį, dabar sudarančią Ukmergės apskritį.","context":"Teodoro Narbuto 1995 m. leidinyje pateiktas aiškinimas; autorius tai formuluoja kaip teiginį apie estų vartoseną savo laikų kontekste.","support_ids":["t-213337","c-196389"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213337","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196389","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Taip pat mes neneigsime šio autoriaus nuomonės, kad buvusi lie- tuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­ lėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių- alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai, gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­ ri dabar sudaro Ukmergės apskritį*."}],"status":"published","conflict_status":"clear"},{"trait_id":"f17d755fbe7605abcf48cf40","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"„Litalain“ vartojamas estų, gyvenančių prie Peipaus ežero, lietuviams ir atitinkamai Lietuvos daliai įvardyti.","context":"Narbutas rašo, kad estai prie Peipaus ežero lietuvius taip vadina „dar ir šiandien“.","support_ids":["t-213204","c-196389"],"source_refs":[{"kind":"internal_claim","claim_id":"t-213204","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-196389","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Taip pat mes neneigsime šio autoriaus nuomonės, kad buvusi lie- tuvių-alanų tauta, vadinama litalarrais, kuri visiškai ga­ lėjo susidaryti iš lietuvių ir alanų mišinio. Sutiksime net ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių- alanų gentis2. Tai, regis, galima įrodyti tuo, jog estai, gyvenantys prie Peipaus ežero, dar ir šiandien lietuvius vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­ ri dabar sudaro Ukmergės apskritį*."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T19:22:26+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 9c677fb51114bebe
+object_page_generated_at: '2026-09-20T19:22:26+00:00'
+object_page_source_checked_at: '2026-09-20T19:22:26+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Litalain: „Litalain“ – tai Teodoro Narbuto šaltinyje užfiksuotas pavadinimas, siejamas su lietuviais ir Lietuvos dalimi. Narbutas teigia, kad prie Peipaus…'
+object_page_seo_input_hash: fe1358f06669ea00966ec1ebef3c768e982bd7ef7cc5bac2110fbaf5d231e883
+object_page_seo_generated_at: '2026-09-20T19:22:26+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Litalain
 

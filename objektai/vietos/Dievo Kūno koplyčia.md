@@ -1,17 +1,17 @@
 ---
 tipas: vieta
-pavadinimas: 'Dievo Kūno koplyčia'
+pavadinimas: Dievo Kūno koplyčia
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1539 m.'
-  - '1589 m.'
-  - '1601 m.'
-  - '1610 m.'
-  - '1633 m.'
-  - '1646 m.'
-  - '1664 m.'
-  - '1737 m.'
+  - 1539 m.
+  - 1589 m.
+  - 1601 m.
+  - 1610 m.
+  - 1633 m.
+  - 1646 m.
+  - 1664 m.
+  - 1737 m.
 date_start: '1539'
 date_end: '1737'
 sukurta: ''
@@ -20,29 +20,41 @@ tags:
   - miestas
   - vieta
 amziai:
-  - 'XVI'
-  - 'XVIII'
+  - XVI
+  - XVIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-e279aec3e8a4a9022405e1d2"
-canonical_name: "Dievo Kūno koplyčia"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Dievo Kūno koplyčia"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-e279aec3e8a4a9022405e1d2
+canonical_name: Dievo Kūno koplyčia
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Dievo Kūno koplyčia
 sameAs: []
-canonical_biography: "174 ## Puslapis 191 Il KNYGA B) Žinios apie Dievo Kūno koplyčios įkūrimą Patikimų pirminių žinių apie tos koplyčios būklę nėra galimybių išsiaiškinti, kadangi dokumentų ir visokių senų­ jų raštų dalis 1660 metais maskvėnų paimta, dalis 1737 me­ tais per. Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis nuo įvairių mūrinių namų, renkamas iš vietos didikų, 'bet dėl pradangintų dokumentų pajamų dydis nėra žinomas; tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios priklauso; jais disponuoja. ; Jo­ nas Kazimieras -1664 m. Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­ šė Trakų vaivada ponas Oginskis."
+canonical_biography: '174 ## Puslapis 191 Il KNYGA B) Žinios apie Dievo Kūno koplyčios įkūrimą Patikimų pirminių žinių apie tos koplyčios būklę nėra galimybių išsiaiškinti, kadangi dokumentų ir visokių senų­ jų raštų dalis 1660 metais maskvėnų paimta, dalis 1737 me­ tais per. Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis nuo įvairių mūrinių namų, renkamas iš vietos didikų, ''bet dėl pradangintų dokumentų pajamų dydis nėra žinomas; tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios priklauso; jais disponuoja. ; Jo­ nas Kazimieras -1664 m. Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­ šė Trakų vaivada ponas Oginskis.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:31:08+00:00","source_checked_at":"2026-09-20T18:31:08+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­ šė Trakų vaivada ponas Oginskis. Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. buvo paskelbta Maloningosios Dievo Motinos brolijos įkū­ rimas ir kunigo Petro Skargos suteikta promocija sujungta 175 ## Puslapis 192 VILNIAUS MIESTO ISTORIJA I TOMAS su Dievo Kūno arkibrolija; funduota buvo sekant Romos mon­ tium pietatis pavyzdžiu, kur turtai būdavo kaupiami varguo­ lių ir prieglaudų dėlei, tačiau šito ir pėdsakų jau nebelikę.","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","claim_id":"t-85888","evidence_id":"c-81870","origin":"internal"},"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"476e81ad0db331a06e5a87f7","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Buvo iš griuvėsių atstatyta ir išpuošta.","context":"Michał Baliński aprašė, kad Trakų vaivada Oginskis koplyčią kėlė iš griuvėsių ir, skyręs daug lėšų, ją išpuošė; istorinis kontekstas.","support_ids":["t-85885","c-81870"],"source_refs":[{"kind":"internal_claim","claim_id":"t-85885","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-81870","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­ šė Trakų vaivada ponas Oginskis. Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. buvo paskelbta Maloningosios Dievo Motinos brolijos įkū­ rimas ir kunigo Petro Skargos suteikta promocija sujungta 175 ## Puslapis 192 VILNIAUS MIESTO ISTORIJA I TOMAS su Dievo Kūno arkibrolija; funduota buvo sekant Romos mon­ tium pietatis pavyzdžiu, kur turtai būdavo kaupiami varguo­ lių ir prieglaudų dėlei, tačiau šito ir pėdsakų jau nebelikę."}],"status":"published","conflict_status":"clear"},{"trait_id":"fcc70694d0a57ba3603632c2","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"Su koplyčia buvo siejami įvairūs mūriniai namai, kurių pajamos buvo skiriamos jos reikmėms; dalį jų valdė Vilniaus magistratas per savo valdytojus.","context":"Michał Baliński aprašė istorines koplyčios pajamas ir su jomis susietą nekilnojamąjį turtą; šaltinyje nurodyta, kad kai kurie mūriniai namai tuo metu priklausė koplyčiai.","support_ids":["t-85889","c-81867"],"source_refs":[{"kind":"internal_claim","claim_id":"t-85889","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-81867","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"1577 metų gruodžio 19 dienos, o pirmesne 1539 metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­ fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­ piežius Inocentas X irgi patvirtino. Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis nuo įvairių mūrinių namų, renkamas iš vietos didikų, ’bet dėl pradangintų dokumentų pajamų dydis nėra žinomas; tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios priklauso; jais disponuoja Vilniaus magistratas per savo val­ dytojus, o iš gautų pajamų tenkinami koplyčios poreikiai. Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nuo mokesčių atleido Lenkijos kara­ liai: Žygimantas III - 1601 m."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"7c57535258e2c1edbb0cea2e","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Jos reikmėms buvo skiriamos pajamos iš mūrinių namų; šios pajamos buvo naudojamos koplyčios poreikiams tenkinti.","context":"Michał Baliński aprašė istorinę finansinę paskirtį ir pajamų naudojimą; pajamos buvo renkamos iš vietos didikams priklausiusių namų, o kai kuriuos namus valdė Vilniaus magistratas.","support_ids":["t-85889","c-81867"],"source_refs":[{"kind":"internal_claim","claim_id":"t-85889","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-81867","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"1577 metų gruodžio 19 dienos, o pirmesne 1539 metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­ fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­ piežius Inocentas X irgi patvirtino. Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis nuo įvairių mūrinių namų, renkamas iš vietos didikų, ’bet dėl pradangintų dokumentų pajamų dydis nėra žinomas; tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios priklauso; jais disponuoja Vilniaus magistratas per savo val­ dytojus, o iš gautų pajamų tenkinami koplyčios poreikiai. Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nuo mokesčių atleido Lenkijos kara­ liai: Žygimantas III - 1601 m."}],"status":"published","conflict_status":"clear"},{"trait_id":"b4a6f94a5adaccdf527bcb05","canonical_code":"place.infrastructure","label":"Infrastruktūra","group":"Naudojimas","value":"1610 m. jai buvo paskirtas 25 metų činšo mokestis nuo mūrinio namo su sklypu.","context":"Michał Baliński nurodė, kad Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, įpareigodamas 25 metų činšo mokestį skirti Dievo Kūno koplyčios naudai.","support_ids":["t-85886","c-81868"],"source_refs":[{"kind":"internal_claim","claim_id":"t-85886","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-81868","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui Vilčiopolskiui. 1610. Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskutinę valią pareikšdamas, užrašė Akademijos kolegijai, įpareigodamas, kad 25 metus činšo mokestis nuo jo eitų Dievo Kūno koplyčios naudai, o po 25 metų Akademijos kolegijai turėsiąs priklausyti."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:31:08+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 28658d3e334db76a
+object_page_generated_at: '2026-09-20T18:31:08+00:00'
+object_page_source_checked_at: '2026-09-20T18:31:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Dievo Kūno koplyčia – Vilniaus istorijoje minima religinė vieta, kurios praeitį gaubia prarastų dokumentų ir tradicijos sluoksnis. Jos ankstyvieji raštai…'
+object_page_seo_input_hash: 3b77270837b5146aa7b7042b9ee94ea431d45640ab1a4300502644b9a909ad8c
+object_page_seo_generated_at: '2026-09-20T18:31:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Dievo Kūno koplyčia
 

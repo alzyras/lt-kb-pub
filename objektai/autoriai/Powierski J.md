@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Powierski J'
+pavadinimas: Powierski J
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos: []
@@ -19,19 +19,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-6b1daf3ff594333b80640a97"
-canonical_name: "Powierski J"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Powierski J"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-6b1daf3ff594333b80640a97
+canonical_name: Powierski J
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Powierski J
 sameAs: []
-canonical_biography: "Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J."
+canonical_biography: 'Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:55:27+00:00","source_checked_at":"2026-09-20T14:55:27+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"74ee2c1d0eda9de3e58bbdce","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Jo darbai nagrinėja Romovės arba Romuvos temą.","context":"J. Powierskio darbai „Nadrowia“ ir „Stosunki...“ nurodyti 1985 m. leidinio literatūros sąraše prie Romovės arba Romuvos temos.","support_ids":["t-224684","c-202519"],"source_refs":[{"kind":"internal_claim","claim_id":"t-224684","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-202519","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808; Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32, d. 2, p. 321; t. 33, p. 264; t. 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T14:55:27+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 9aebaa4c58f010ad
+object_page_generated_at: '2026-09-20T14:55:27+00:00'
+object_page_source_checked_at: '2026-09-20T14:55:27+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Powierski J: Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p.…'
+object_page_seo_input_hash: e98182cae8c20b1eb14bd5d3f19c85f57d5feaa3f8d2a8b486bf1849e9b3745f
+object_page_seo_generated_at: '2026-09-20T14:55:27+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Powierski J
 

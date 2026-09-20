@@ -1,10 +1,10 @@
 ---
 tipas: ivykis
-pavadinimas: 'Lietuvos krikštas Vilniuje (1387 m.)'
+pavadinimas: Lietuvos krikštas Vilniuje (1387 m.)
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1387 m.'
+  - 1387 m.
 date_start: '1387'
 date_end: ''
 sukurta: ''
@@ -14,19 +14,29 @@ tags:
   - seimas
   - ivykis
 amziai:
-  - 'XIV'
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:27:54+00:00","source_checked_at":"2026-09-20T16:27:54+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"bc1d3419c674d667eccf51d8","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Vilniuje sušauktas visuotinis lietuvių kunigaikščių ir bajorų seimas paskelbė apie didelį ir esminį religijos pokytį; visi dar pagonys buvę Vilniaus gyventojai buvo pakrikštyti, užgesinta amžinoji ugnis, iškirstos šventos girios ir sugriauta Perkūno šventykla.","context":"Aprašoma Lietuvos krikšto Vilniuje apeigų ir veiksmų eiga.","support_ids":["t-54446","c-55329"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54446","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55329","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Su tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­ taus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­ sirinkusiems žmonėms apie didelį ir esminį religijos pokytį. Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­ mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­ griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi- liavietės, pradėta statyti Šv. Stanislovo katedra8."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"8416214b730c62119640fcc5","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Gniezno arkivyskupas Bodzanta pašventino Šv. Stanislovo katedrą.","context":"Šaltinis nurodo, kad katedra pašventinta iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.","support_ids":["t-54450","c-55328"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54450","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55328","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"035ade40961729c1cfbff3ef","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Įvykyje dalyvavo lietuvių ir lenkų kunigaikščiai bei didikai; pakrikštyti visi dar pagonys buvę Vilniaus gyventojai.","context":"Šaltinis aprašo dalyvius ir Vilniaus gyventojų, kuriems buvo suteiktas krikštas, apimtį.","support_ids":["t-54446","c-55329","t-54450","c-55328"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54446","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-54450","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55329","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Su tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­ taus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­ sirinkusiems žmonėms apie didelį ir esminį religijos pokytį. Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­ mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­ griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi- liavietės, pradėta statyti Šv. Stanislovo katedra8."},{"kind":"evidence","evidence_id":"c-55328","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta."}],"status":"published","conflict_status":"clear"},{"trait_id":"6f2aee50afad1a3261869051","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Perkūno šventyklos vietoje, viduryje piliavietės, pradėta statyti Šv. Stanislovo katedra.","context":"Šaltinis šį statybos pradėjimą sieja su Perkūno šventyklos sugriovimu po krikšto apeigų.","support_ids":["t-54446","c-55329"],"source_refs":[{"kind":"internal_claim","claim_id":"t-54446","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55329","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Su tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­ taus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­ sirinkusiems žmonėms apie didelį ir esminį religijos pokytį. Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­ mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­ griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi- liavietės, pradėta statyti Šv. Stanislovo katedra8."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:27:54+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 01bdeb0744576968
+object_page_generated_at: '2026-09-20T16:27:54+00:00'
+object_page_source_checked_at: '2026-09-20T16:27:54+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Lietuvos krikštas Vilniuje (1387 m.): 1387 m. sausį Vladislovas Jogaila su Jadvyga, dvasininkais, kunigaikščiais ir didikais atvyko į Gedimino sostinę.…'
+object_page_seo_input_hash: 9903fa20caf247fbc00350fd08d2dc600fd6e16ae6c642f788833c22687625b9
+object_page_seo_generated_at: '2026-09-20T16:27:54+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Lietuvos krikštas Vilniuje (1387 m.)
 

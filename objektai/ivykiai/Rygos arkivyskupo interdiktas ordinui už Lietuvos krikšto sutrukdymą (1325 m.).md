@@ -1,11 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)'
+pavadinimas: Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1325 m.'
-  - '2026 m.'
+  - 1325 m.
+  - 2026 m.
 date_start: '1325'
 date_end: '2026'
 sukurta: ''
@@ -14,20 +14,30 @@ tags:
   - krikštas
   - ivykis
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - XIV
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:39:19+00:00","source_checked_at":"2026-09-20T16:39:19+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":{"text":"Iš Avignono 1325 m. sugrįžęs Rygos arki­ vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","claim_id":"t-97036","evidence_id":"c-04995","origin":"internal"},"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3f98e92a670f8fe729b2dd00","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"Lietuvos krikšto sutrukdymas","context":"Šaltinyje nurodoma kaip interdikto priežastis.","support_ids":["t-97034","c-04995"],"source_refs":[{"kind":"internal_claim","claim_id":"t-97034","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-04995","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Iš Avignono 1325 m. sugrįžęs Rygos arki­ vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą."}],"status":"published","conflict_status":"clear"},{"trait_id":"512072a950d1e206202e68d8","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas Ordinui metė interdiktą.","context":"Zenono Ivinskio aprašymas; įvykis datuojamas 1325 m.","support_ids":["t-97034","c-04995"],"source_refs":[{"kind":"internal_claim","claim_id":"t-97034","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-04995","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Iš Avignono 1325 m. sugrįžęs Rygos arki­ vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą."}],"status":"published","conflict_status":"clear"},{"trait_id":"5132646da17d529c812139f3","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Krikšto klausimas buvo atidėtas.","context":"Šaltinyje tai pateikiama kaip tolesnis kontekstas po interdikto; autorius nenurodo tiesioginio priežastinio ryšio.","support_ids":["t-97036","c-04996"],"source_refs":[{"kind":"internal_claim","claim_id":"t-97036","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-04996","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­ darytoji taika."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:39:19+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6bbb822686ce8c2e
+object_page_generated_at: '2026-09-20T16:39:19+00:00'
+object_page_source_checked_at: '2026-09-20T16:39:19+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.): 1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas ordinui paskelbė interdiktą už…'
+object_page_seo_input_hash: 887186d235b07a22a212e268244d5dac1b3a59e8f85063114acb73650bc9ef6a
+object_page_seo_generated_at: '2026-09-20T16:39:19+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)
 

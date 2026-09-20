@@ -1,15 +1,15 @@
 ---
 tipas: paprotys
-pavadinimas: 'Kūčių dienos ir vakarienės apeigos'
+pavadinimas: Kūčių dienos ir vakarienės apeigos
 sukurta: ''
 atnaujinta: ''
 variantai: []
 aliases: []
 saltiniai:
   - 'Mūsų tautosaka, t.4 (1931)'
-laikotarpis: 'Kūčios'
+laikotarpis: Kūčios
 datos:
-  - 'Kūčios'
+  - Kūčios
 periodas: ''
 periodo_grupes: []
 amziai: []
@@ -29,12 +29,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T17:29:59+00:00","source_checked_at":"2026-09-20T17:29:59+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"06c88ffb125f2068922581f9","canonical_code":"custom.course","label":"Eiga","group":"Papročio eiga","value":"Kūčių dieną krosnis būdavo kūrenama du kartus: iš ryto ir popiet.","context":"Taip buvo daroma ruošiant įvairius valgius šventėms ir Kūčių dienai.","support_ids":["t-195396","c-177812"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195396","source":"darbas/sources/Mūsų tautosaka, t.4 (1931).md"},{"kind":"evidence","evidence_id":"c-177812","source":"darbas/sources/Mūsų tautosaka, t.4 (1931).md","quote":"Kūčių dieną krosnis kuriama du sykiu: iš ryto ir popiet, nes reikia pasitiekti įvairių valgymų šventėms ir skyrium šiai dienai — Kūčioms."}],"status":"published","conflict_status":"clear"},{"trait_id":"e26bb5d6a8012f5273dd2f20","canonical_code":"custom.participants","label":"Dalyviai","group":"Papročio eiga","value":"Samdininkai po Kūčių tapdavo svečiais.","context":"Šaltinyje teigiama, kad po Kūčių jiems baigdavosi tarnybos metai; jie būdavo persirengę savais drabužiais.","support_ids":["t-195398","c-177814"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195398","source":"darbas/sources/Mūsų tautosaka, t.4 (1931).md"},{"kind":"evidence","evidence_id":"c-177814","source":"darbas/sources/Mūsų tautosaka, t.4 (1931).md","quote":"Po Kūčių samdininkams baigėsi tarnybos metai. Jie pasirėdę jau savo drapanomis, jie dabar svečiai."}],"status":"published","conflict_status":"clear"},{"trait_id":"d9b4f5947dacb5a60c25859a","canonical_code":"custom.occasion","label":"Proga","group":"Papročio eiga","value":"Po Kūčių samdininkams baigdavosi tarnybos metai.","context":"Šaltinio autoriaus aprašytas paprotys, susijęs su laikotarpiu po Kūčių.","support_ids":["t-195398","c-177814"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195398","source":"darbas/sources/Mūsų tautosaka, t.4 (1931).md"},{"kind":"evidence","evidence_id":"c-177814","source":"darbas/sources/Mūsų tautosaka, t.4 (1931).md","quote":"Po Kūčių samdininkams baigėsi tarnybos metai. Jie pasirėdę jau savo drapanomis, jie dabar svečiai."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T17:29:59+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6c10a3af7d1c34dd
+object_page_generated_at: '2026-09-20T17:29:59+00:00'
+object_page_source_checked_at: '2026-09-20T17:29:59+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Kūčių dienos ir vakarienės apeigos: Kūčių dieną du kartus kūrenama krosnis, ruošiami pasninkiniai valgiai, laužomi plotkai, iš vieno dubens valgomi barščiai…'
+object_page_seo_input_hash: 04217caa4e55f052eb55f2b9768f19764668f852b6595c98a875f124629bea2f
+object_page_seo_generated_at: '2026-09-20T17:29:59+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kūčių dienos ir vakarienės apeigos
 

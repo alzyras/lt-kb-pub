@@ -4,8 +4,8 @@ pavadinimas: 'Tautinės savimonės telkimas per poeziją, liaudies dainas ir gie
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1879 m.'
-  - '1895 m.'
+  - 1879 m.
+  - 1895 m.
 date_start: '1879'
 date_end: '1895'
 sukurta: ''
@@ -13,19 +13,29 @@ atnaujinta: ''
 tags:
   - paprotys
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T17:49:08+00:00","source_checked_at":"2026-09-20T17:49:08+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b1c25a95e66a674fecd65a44","canonical_code":"custom.means","label":"Priemonės","group":"Papročio bruožai","value":"Maironio lietuviškai rašyta poezija; jo eilėraščiai virto liaudies dainomis.","context":"Lietuvos istorijoje nurodoma, kad 1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.","support_ids":["t-75398","c-73200"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75398","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73200","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tautos patriarchas dr. Jonas Basanavičius L I E T U V O S I S T O R I J A 120 Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu- viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus, J. Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal- ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis. Tautinę savi- monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų…"}],"status":"published","conflict_status":"clear"},{"trait_id":"4f98b2d1bae8fe2f0e990426","canonical_code":"custom.significance","label":"Reikšmė","group":"Papročio bruožai","value":"Maironio lietuviškai rašyta poezija turėjo didžiulę reikšmę lietuvių tautinės savimonės plėtotei ir lietuviškai kalbančių kaimo masių tautiniam susipratimui.","context":"Lietuvos istorijos autoriai šį vertinimą pateikia aprašydami XIX a. lietuvių tautinės savimonės plėtotę.","support_ids":["t-75401","c-73200"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75401","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73200","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tautos patriarchas dr. Jonas Basanavičius L I E T U V O S I S T O R I J A 120 Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu- viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus, J. Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal- ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis. Tautinę savi- monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"5add36e9782747572cb227da","canonical_code":"custom.significance","label":"Reikšmė","group":"Papročio bruožai","value":"Vinco Kudirkos poezija ir satyriniai apsakymai žadino lietuvių tautinę savimonę.","context":"Lietuvos istorijos autoriai taip apibūdina Vinco Kudirkos kūrybos poveikį tautinei savimonei.","support_ids":["t-75398","c-73200"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75398","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73200","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tautos patriarchas dr. Jonas Basanavičius L I E T U V O S I S T O R I J A 120 Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu- viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus, J. Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal- ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis. Tautinę savi- monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakymai, iš smulkiųjų…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T17:49:08+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 13f38516ef30dcab
+object_page_generated_at: '2026-09-20T17:49:08+00:00'
+object_page_source_checked_at: '2026-09-20T17:49:08+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną: Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietuviškai…'
+object_page_seo_input_hash: 272ed52fb5d1322deb0e3ebad5cc312c9a08028217a088d8007aeeb8bdde68ca
+object_page_seo_generated_at: '2026-09-20T17:49:08+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną
 

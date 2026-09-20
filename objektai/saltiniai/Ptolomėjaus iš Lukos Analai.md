@@ -1,17 +1,17 @@
 ---
 tipas: saltinis
-pavadinimas: 'Ptolomėjaus iš Lukos Analai'
+pavadinimas: Ptolomėjaus iš Lukos Analai
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1112 m.'
-  - '1216 m.'
-  - '1221 m.'
-  - '1228 m.'
-  - '1236 m.'
-  - '1241 m.'
-  - '1312 m.'
-  - '1327 m.'
+  - 1112 m.
+  - 1216 m.
+  - 1221 m.
+  - 1228 m.
+  - 1236 m.
+  - 1241 m.
+  - 1312 m.
+  - 1327 m.
 date_start: '1112'
 date_end: '1327'
 sukurta: ''
@@ -19,20 +19,30 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XII'
-  - 'XIV'
+  - XII
+  - XIV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:23:02+00:00","source_checked_at":"2026-09-20T18:23:02+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0}},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:23:02+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: bc99b3fd628e5a07
+object_page_generated_at: '2026-09-20T18:23:02+00:00'
+object_page_source_checked_at: '2026-09-20T18:23:02+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Ptolomėjaus iš Lukos Analai: Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus bibliotekininkas…'
+object_page_seo_input_hash: efe8184edb4557f1ee2da7f8b1cca16fb61594f738d39a7dd6e576c9d37d0664
+object_page_seo_generated_at: '2026-09-20T18:23:02+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Ptolomėjaus iš Lukos Analai
 

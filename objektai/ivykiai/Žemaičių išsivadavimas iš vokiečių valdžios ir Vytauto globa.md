@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa'
+pavadinimas: Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
@@ -14,12 +14,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T17:08:37+00:00","source_checked_at":"2026-09-20T17:08:37+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"1cd21483694ae7d43971d3f5","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"Žemaičiai nebenorėjo būti vokiečių valdžioje.","context":"Pasak Lietuvos metraščio, po to jie išžudė Prūsijos vokiečių vietininkus.","support_ids":["t-210967","c-194100"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210967","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194100","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami daugiau būti vokiečių val­ džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš juos kariuomenę Palangoje, norėdami vėl juos pavergti, bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­ mušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­ kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­ gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­ kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų valdovu. Ir Vytautas juos priėmė savo globon 6 ."}],"status":"published","conflict_status":"clear"},{"trait_id":"5721f2466e5174c46aebed27","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Prūsijos ir Livonijos vokiečiai telkė kariuomenę Palangoje, tačiau susibūrę žemaičiai ją nuo kopų akmenimis išmušė. Po pergalės jie pasiuntė pasiuntinius pas Vytautą.","context":"Lietuvos metraščio pasakojimas apie įvykio eigą.","support_ids":["t-210967","c-194100"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210967","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194100","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami daugiau būti vokiečių val­ džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš juos kariuomenę Palangoje, norėdami vėl juos pavergti, bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­ mušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­ kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­ gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­ kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų valdovu. Ir Vytautas juos priėmė savo globon 6 ."}],"status":"published","conflict_status":"clear"},{"trait_id":"d0c80607911ef4e4da2c3a7b","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Į įvykį buvo įtraukti žemaičiai, Prūsijos ir Livonijos vokiečiai bei jų kariuomenė Palangoje.","context":"Šaltinis tiesiogiai mini šias grupes ir kariuomenės telkimą.","support_ids":["t-210967","c-194100"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210967","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194100","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami daugiau būti vokiečių val­ džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš juos kariuomenę Palangoje, norėdami vėl juos pavergti, bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­ mušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­ kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­ gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­ kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų valdovu. Ir Vytautas juos priėmė savo globon 6 ."}],"status":"published","conflict_status":"clear"},{"trait_id":"137d342bcf9f838a6ba73ec0","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Žemaičiai paprašė Vytauto juos valdyti ir daugiau niekam jų nebeužstatinėti; Vytautas juos priėmė savo globon.","context":"Lietuvos metraštis šį sprendimą pateikia kaip įvykio padarinį.","support_ids":["t-210967","c-194100"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210967","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194100","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami daugiau būti vokiečių val­ džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš juos kariuomenę Palangoje, norėdami vėl juos pavergti, bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­ mušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­ kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­ gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­ kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų valdovu. Ir Vytautas juos priėmė savo globon 6 ."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T17:08:37+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 7ce074b2a7b7b033
+object_page_generated_at: '2026-09-20T17:08:37+00:00'
+object_page_source_checked_at: '2026-09-20T17:08:37+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa: Lietuvos metraštis pasakoja, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami…'
+object_page_seo_input_hash: 1972a9a3969c9804e87f59ff5a4caa2b2796848fc115ee60f34769d4718de3e3
+object_page_seo_generated_at: '2026-09-20T17:08:37+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa
 

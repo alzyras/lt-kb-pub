@@ -1,11 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)'
+pavadinimas: Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1937 m.'
-  - '1938 m.'
+  - 1937 m.
+  - 1938 m.
 date_start: '1937'
 date_end: '1938'
 sukurta: ''
@@ -14,19 +14,29 @@ tags:
   - ivykis
   - karas
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:23:34+00:00","source_checked_at":"2026-09-20T16:23:34+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"18ee573c0caa8ee85083a888","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Lietuva atkūrė diplomatinius santykius su Lenkija ir turėjo apsikeisti pasiuntinybėmis.","context":"Po Lenkijos ultimatumo priėmimo; šaltinio autoriai nurodo, kad diplomatiniai santykiai buvo atkurti.","support_ids":["t-75118","c-22992"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75118","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22992","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun- tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir Lietuvos bendradarbiavimas nesusiklostė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"c88311bb702e880672283317","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Vilniuje turėjo būti įsteigtas Lietuvos konsulatas.","context":"Po Lenkijos ultimatumo priėmimo.","support_ids":["t-75118","c-22992"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75118","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22992","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun- tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir Lietuvos bendradarbiavimas nesusiklostė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"d0cad59e96336efacef430c0","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Buvo paleista 700 000 narių turėjusi patriotinė „Vilniui vaduoti sąjunga“.","context":"Po Lenkijos ultimatumo priėmimo.","support_ids":["t-75118","c-22992"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75118","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22992","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun- tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir Lietuvos bendradarbiavimas nesusiklostė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"4828b1e52f97dd396e3fc507","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Turėjo būti nutrauktas žurnalo „Mūsų Vilnius“ leidimas ir nustota minėti spalio 9-oji – Vilniaus praradimo diena.","context":"Po Lenkijos ultimatumo priėmimo; šaltinio autoriai tai vertina kaip stiprų smūgį tautinėms lietuvių ambicijoms.","support_ids":["t-75118","c-22992"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75118","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22992","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun- tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir Lietuvos bendradarbiavimas nesusiklostė."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"e977f78bd53f9d5fea21ca26","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Lenkijos ir Lietuvos bendradarbiavimas nesusiklostė.","context":"Vėlesnis šaltinio autorių vertinimas po diplomatinių santykių atkūrimo.","support_ids":["t-75118","c-22992"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75118","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-22992","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun- tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir Lietuvos bendradarbiavimas nesusiklostė."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:23:34+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 1a25b639733e101f
+object_page_generated_at: '2026-09-20T16:23:34+00:00'
+object_page_source_checked_at: '2026-09-20T16:23:34+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.): Nors per panašius incidentus lenkai buvo nušovę 7 lietuvių pasienio policininkus…'
+object_page_seo_input_hash: 1d97161b3cf05ca72778f5de640f3302cd2fa60c9912d2de7b27c6ec474dc647
+object_page_seo_generated_at: '2026-09-20T16:23:34+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)
 

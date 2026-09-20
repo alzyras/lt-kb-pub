@@ -1,12 +1,12 @@
 ---
 tipas: paprotys
-pavadinimas: 'Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje'
+pavadinimas: Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1830 m.'
-  - '1831 m.'
-  - '1855 m.'
+  - 1830 m.
+  - 1831 m.
+  - 1855 m.
 date_start: '1830'
 date_end: '1855'
 sukurta: ''
@@ -14,19 +14,29 @@ atnaujinta: ''
 tags:
   - paprotys
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T17:36:33+00:00","source_checked_at":"2026-09-20T17:36:33+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0}},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T17:36:33+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3c2cdc05d6499208
+object_page_generated_at: '2026-09-20T17:36:33+00:00'
+object_page_source_checked_at: '2026-09-20T17:36:33+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: XIX a. penktame-šeštame dešimtmetyje Lietuvos socialinis, ekonominis ir kultūrinis gyvenimas…'
+object_page_seo_input_hash: d446a613ad7d93297b579df61ca821809d0194cf3c90ba3b8a16c8aad6cb042f
+object_page_seo_generated_at: '2026-09-20T17:36:33+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje
 

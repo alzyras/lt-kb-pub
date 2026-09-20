@@ -1,14 +1,14 @@
 ---
 tipas: grupe
-pavadinimas: 'Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai'
+pavadinimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1515 m.'
-  - '1563 m.'
-  - '1565 m.'
-  - '1587 m.'
-  - '1763 m.'
+  - 1515 m.
+  - 1563 m.
+  - 1565 m.
+  - 1587 m.
+  - 1763 m.
 date_start: '1515'
 date_end: '1763'
 sukurta: ''
@@ -17,20 +17,30 @@ tags:
   - religinė-bendruomenė
   - grupe
 amziai:
-  - 'XVI'
-  - 'XVIII'
+  - XVI
+  - XVIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T15:20:36+00:00","source_checked_at":"2026-09-20T15:20:36+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"8a3894829770796fdd33e1a6","canonical_code":"group.composition","label":"Sudėtis","group":"Grupės bruožai","value":"Labai gausi; evangelikų reformatų tikėjimą parėmė LDK didikai, į kalvinizmą perėjo beveik visi didikai katalikai ir dalis ortodoksų.","context":"Lietuvoje formavosi Evangelikų reformatų bažnyčia; šaltinio autoriai ją apibūdina kaip gerokai stipresnę nei Lenkijoje.","support_ids":["t-101238","c-166515","t-183130"],"source_refs":[{"kind":"internal_claim","claim_id":"t-101238","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-183130","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166515","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Tačiau Lietuvoje formavosi labai gausi Evangelikų re- formatų bažnyčia, gerokai stipresnė nei Lenkijoje. Tai nulėmė, kad LDK didikai (aukščiausias visuomenės sluoksnis) parėmė būtent evangelikų reformatų tikėjimą. Beveik visi didikai katalikai, taip pat dalis ortodoksų perėjo į kalvinistų tikėjimą ir sekuliarizavo beveik 50 proc. katalikų baž- nyčių. Tiesa, kalvinizmas pamažu pradėjo menkti."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T15:20:36+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"reme","direction":"inbound","target":"objektai/grupes/LDK didikai","claim_id":"t-101238","confidence":0.73}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 351d3f99de114ace
+object_page_generated_at: '2026-09-20T15:20:36+00:00'
+object_page_source_checked_at: '2026-09-20T15:20:36+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį –…'
+object_page_seo_input_hash: f8eaf041d67d9e30ab0dbc0b164981b7138cd5ef7d94c3660c25d4b66cd3f547
+object_page_seo_generated_at: '2026-09-20T15:20:36+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai
 

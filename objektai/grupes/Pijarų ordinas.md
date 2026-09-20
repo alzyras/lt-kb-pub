@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Pijarų ordinas'
+pavadinimas: Pijarų ordinas
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 sukurta: ''
@@ -16,12 +16,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T15:44:35+00:00","source_checked_at":"2026-09-20T15:44:35+00:00","counts":{"relations":3,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"df59c7ce0890b59052f0a535","canonical_code":"group.goals","label":"Tikslai","group":"Veikla","value":"Rūpinosi jaunuomenės auklėjimu.","context":"XVIII a. į Lietuvą atsikraustęs Pijarų ordinas, kaip aprašyta A. Šapokos redaguotoje „Lietuvos istorijoje“ (1936 m.).","support_ids":["t-72604","c-71007"],"source_refs":[{"kind":"internal_claim","claim_id":"t-72604","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-71007","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"tuvoje buvo jau gana daug. Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias mokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami pijarais). Jie turėjo ne vien pradinių mokyklų, bet ir tokių pat kolegijų, kaip ir jėzuitai."}],"status":"published","conflict_status":"clear"},{"trait_id":"da454b1ee675cc55d4a3e5b3","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Kūrė vadinamąsias dievobaimingąsias mokyklas, steigė pradines mokyklas ir kolegijas; mokymas buvo jų pagrindinė veikla.","context":"XVIII a. Lietuvoje ir vėlesniame aprašomame laikotarpyje; šaltinis nurodo, kad pijarai „niekuo daugiau neužsiimdami, kaip tik mokymu“ gyveno ten, kur buvo jų mokyklos.","support_ids":["t-72604","c-71007","t-72602","c-71006"],"source_refs":[{"kind":"internal_claim","claim_id":"t-72604","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"internal_claim","claim_id":"t-72602","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-71007","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"tuvoje buvo jau gana daug. Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias mokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami pijarais). Jie turėjo ne vien pradinių mokyklų, bet ir tokių pat kolegijų, kaip ir jėzuitai."},{"kind":"evidence","evidence_id":"c-71006","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Ypač dėl šito jėzuitų prisitaikymo prie naujųjų reika- lavimų, jų mokyklos nenustojo klestėjusios, ir pijarų mokyklos nebegalėjo su jomis konkuruoti (pijarų mokyklų buvo daug ma- žiau, negu jėzuitų). Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiū- nų ir bajorijos fundacijų. Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui- tai stengėsi visur apsigyventi."}],"status":"published","conflict_status":"clear"},{"trait_id":"ec0190e32404691e4b074d8b","canonical_code":"group.structure","label":"Struktūra","group":"Grupės bruožai","value":"Turėjo pilnas kolegijas ir žemesniąsias mokyklas.","context":"Pijarų mokyklos buvo įkurtos Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajame Dolske, Ščucine, Panevėžyje, Verenavoje, Ukmergėje, Raseiniuose, Valeranavoje, Vitebske, Želviuose ir kitur.","support_ids":["t-72605","c-71010"],"source_refs":[{"kind":"internal_claim","claim_id":"t-72605","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"},{"kind":"evidence","evidence_id":"c-71010","source":"darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md","quote":"Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiū- nų ir bajorijos fundacijų. Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui- tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie- tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va- leranavoj, Vitebske, Želviuose ir dar vienur kitur."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T15:44:35+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Vitebskas","claim_id":"t-72605","confidence":0.75},{"predicate":"gyveno","direction":"outbound","target":"objektai/vietos/Želviai","claim_id":"t-72605","confidence":0.75},{"predicate":"keliavo_i","direction":"outbound","target":"objektai/vietos/Lietuva","claim_id":"t-72604","confidence":0.9}],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 95a3f9ff4f39de13
+object_page_generated_at: '2026-09-20T15:44:35+00:00'
+object_page_source_checked_at: '2026-09-20T15:44:35+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Pijarų ordinas: Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų ordinas (pijarai kurdavo vadinamąsias…'
+object_page_seo_input_hash: 0eecf2f90bc3a961be3a170504a0a533b795eab746395d8baefdb6b888131ad8
+object_page_seo_generated_at: '2026-09-20T15:44:35+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Pijarų ordinas
 

@@ -4,10 +4,10 @@ pavadinimas: 'Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1031 m.'
-  - '1041 m.'
-  - '1121 m.'
-  - '1128 m.'
+  - 1031 m.
+  - 1041 m.
+  - 1121 m.
+  - 1128 m.
 date_start: '1031'
 date_end: '1128'
 sukurta: ''
@@ -16,20 +16,30 @@ tags:
   - ivykis
   - socialinis-įvykis
 amziai:
-  - 'XI'
-  - 'XII'
+  - XI
+  - XII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:11:09+00:00","source_checked_at":"2026-09-20T16:11:09+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0}},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:11:09+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 0d947bb8fc576d39
+object_page_generated_at: '2026-09-20T16:11:09+00:00'
+object_page_source_checked_at: '2026-09-20T16:11:09+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai: Teodoro Narbuto pasakojime III a. pabaigoje ar IV a. pradžioje slavų…'
+object_page_seo_input_hash: e7a7c92a181ab9f5bc3c4b951b2c24b3880dcd4c1bdd3e89f2cc4645d38e5198
+object_page_seo_generated_at: '2026-09-20T16:11:09+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai
 

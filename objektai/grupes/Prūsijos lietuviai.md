@@ -1,10 +1,10 @@
 ---
 tipas: grupe
-pavadinimas: 'Prūsijos lietuviai'
+pavadinimas: Prūsijos lietuviai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1530 m.'
+  - 1530 m.
 date_start: '1530'
 date_end: ''
 sukurta: ''
@@ -13,19 +13,29 @@ tags:
   - etninė-grupė
   - grupe
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[{"title":"Prūsijos lietuviai","url":"https://www.vle.lt/straipsnis/prusijos-lietuviai/","publisher":"Visuotinė lietuvių enciklopedija","kind":"encyclopedia","status":"published","confidence":0.99,"language":""}]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T15:46:53+00:00","source_checked_at":"2026-09-20T15:46:53+00:00","counts":{"relations":0,"gallery":0,"sources":2},"featured_claim_ids":["t-216871","t-217622","t-216202"],"featured_claims":[{"claim_id":"t-216871","text":"Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų, kaip liudija Karaliaučiaus bažnyčios Agenda.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-199959","c-201336","c-201491"]},{"claim_id":"t-217622","text":"Aukų atnašavimo Pergrubei apei gų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute ronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny čios Agenda.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-199341"]},{"claim_id":"t-216202","text":"Tas skaičius devyni yra religinis, ypač, kaip pažymi ponas Rėza, Prūsijos lietuviams, kurie jį perėmė iš skandinavų.","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","evidence_ids":["c-201491"]}],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[{"label":"Visuotinė lietuvių enciklopedija","title":"Prūsijos lietuviai","url":"https://www.vle.lt/straipsnis/prusijos-lietuviai/","kind":"encyclopedia","bucket":"vle"}],"primary_source_urls":["https://www.vle.lt/straipsnis/prusijos-lietuviai/"],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3b9674b426782ca087148bf5","canonical_code":"group.activity","label":"Veikla","group":"Veikla","value":"Prūsijos lietuviai laikėsi Pergrubei skirtų aukų atnašavimo apeigų iki 1530 metų.","context":"Taip aprašo Teodoras Narbutas, remdamasis liuteronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažnyčios Agenda.","support_ids":["t-217622","c-199341"],"source_refs":[{"kind":"internal_claim","claim_id":"t-217622","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"},{"kind":"evidence","evidence_id":"c-199341","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md","quote":"Aukų atnašavimo Pergrubei apei­ gų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­ ronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­ čios Agenda."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T15:46:53+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e30ee21b68eb6d56
+object_page_generated_at: '2026-09-20T15:46:53+00:00'
+object_page_source_checked_at: '2026-09-20T15:46:53+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Prūsijos lietuviai – istorinė lietuvių grupė, kurios religinėje tradicijoje skaičius devyni buvo laikomas reikšmingu. Pasak pateikto šaltinio, jie šį simbolį…'
+object_page_seo_input_hash: 8e3d620e272b72c3f04063b9bd3961a615c2053f09fba3a117ebbbd8bb7b817a
+object_page_seo_generated_at: '2026-09-20T15:46:53+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Prūsijos lietuviai
 

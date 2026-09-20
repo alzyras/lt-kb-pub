@@ -1,22 +1,22 @@
 ---
 tipas: vieta
-pavadinimas: 'Vilniaus Aukštutinė pilis'
+pavadinimas: Vilniaus Aukštutinė pilis
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1387 m.'
-  - '1827 m.'
+  - 1387 m.
+  - 1827 m.
 date_start: '1387'
 date_end: '1827'
 aliases:
-  - 'Vilniaus Aukštutinė pilis'
-  - 'Vilniaus Aukštutinė pilis'
+  - Vilniaus Aukštutinė pilis
+  - Vilniaus Aukštutinė pilis
 variantai:
-  - 'Vilniaus Aukštutinė pilis'
-  - 'Vilniaus Aukštutinė pilis'
+  - Vilniaus Aukštutinė pilis
+  - Vilniaus Aukštutinė pilis
 amziai:
-  - 'XIV'
-  - 'XIX'
+  - XIV
+  - XIX
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,21 +29,33 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-847cc36eeafe6ea4bf156628"
-canonical_name: "Vilniaus Aukštutinė pilis"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vilniaus Aukštutinė pilis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-847cc36eeafe6ea4bf156628
+canonical_name: Vilniaus Aukštutinė pilis
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vilniaus Aukštutinė pilis
 sameAs: []
-canonical_biography: "Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą. Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux. Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse."
+canonical_biography: 'Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą. Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux. Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T19:01:51+00:00","source_checked_at":"2026-09-20T19:01:51+00:00","counts":{"relations":1,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"7151714c06286a5779879cb7","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Mūro pilis","context":"Pagal Lizdeikos sapno aiškinimą Gediminas pastatydino Vilniaus Aukštutinę mūro pilį.","support_ids":["t-195165","c-177530"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195165","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177530","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"„Tad tenai Gedimi­ nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­ kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­ nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­ nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­ tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­ ną jų tad kaip didžią dovaną kartą garbingame valdovų ir kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos…"}],"status":"published","conflict_status":"clear"},{"trait_id":"e777d01b58db1784b42a31cd","canonical_code":"place.environment","label":"Aplinka","group":"Vietos bruožai","value":"Ant Tauro kalno","context":"Pasakojime pilis siejama su kalnu, kuris vadinamas Tauro kalnu.","support_ids":["t-195165","c-177530"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195165","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177530","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"„Tad tenai Gedimi­ nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­ kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­ nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­ nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­ tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­ ną jų tad kaip didžią dovaną kartą garbingame valdovų ir kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos…"}],"status":"published","conflict_status":"clear"},{"trait_id":"128824e2c1004e75648a1168","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Sulaikymo ir saugojimo vieta","context":"139 m. Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.","support_ids":["t-195164","c-177528"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195164","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177528","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Paminėsime tad tik žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais. Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri- jaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse kautynėse prie Nedokudo- vo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs patį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur gana ilgai buvo saugomas sargybos, kol, atkakliai prašant ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo 139 ## Puslapis 156 VILNIAUS MIESTO ISTORIJA /…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T19:01:51+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[{"predicate":"pastate","direction":"inbound","target":"objektai/asmenys/Gediminas","claim_id":"t-86854","confidence":0.78}],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 76c647469f7e22df
+object_page_generated_at: '2026-09-20T19:01:51+00:00'
+object_page_source_checked_at: '2026-09-20T19:01:51+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Vilniaus Aukštutinė pilis: Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o…'
+object_page_seo_input_hash: 5ae0b6729e3a6c5484a2300b81a296a0c09295c715cb3b4261a7906e418261d0
+object_page_seo_generated_at: '2026-09-20T19:01:51+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vilniaus Aukštutinė pilis
 

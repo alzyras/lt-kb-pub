@@ -1,14 +1,14 @@
 ---
 tipas: vieta
-pavadinimas: 'Vilniaus tiltas per Viliją'
+pavadinimas: Vilniaus tiltas per Viliją
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 aliases:
-  - 'Vilniaus tiltas per Viliją'
-  - 'Vilniaus tiltas per Viliją'
+  - Vilniaus tiltas per Viliją
+  - Vilniaus tiltas per Viliją
 variantai:
-  - 'Vilniaus tiltas per Viliją'
-  - 'Vilniaus tiltas per Viliją'
+  - Vilniaus tiltas per Viliją
+  - Vilniaus tiltas per Viliją
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,21 +22,33 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-9de3d3bef5a1571bdc0c2196"
-canonical_name: "Vilniaus tiltas per Viliją"
-entity_roles: ["place"]
-entity_view_role: "place"
-entity_aliases: ["Vilniaus tiltas per Viliją"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-9de3d3bef5a1571bdc0c2196
+canonical_name: Vilniaus tiltas per Viliją
+entity_roles:
+  - place
+entity_view_role: place
+entity_aliases:
+  - Vilniaus tiltas per Viliją
 sameAs: []
-canonical_biography: "Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė. O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame."
+canonical_biography: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė. O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.'
 place_authority: true
 historical_names: []
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T19:03:55+00:00","source_checked_at":"2026-09-20T19:03:55+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"151a98a7bea1025a2d7a17b9","canonical_code":"place.physical_features","label":"Fiziniai bruožai","group":"Vietos bruožai","value":"Tvirtas, sutvirtintas ir pastatytas ilgam amžiui, kiek buvo įmanoma.","context":"Michał Balińskio veikale cituojamame istoriniame rašte tiltas apibūdinamas kaip tvirtas; vėliau nurodoma, kad jis buvo pastatytas ilgam amžiui ir sutvirtintas. XVI a. istorinis kontekstas.","support_ids":["t-195185","c-177550","t-195189","c-177553"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195185","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-195189","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177550","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios bažnyčios, kur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­ ti ir pamaitinti bei prižiūrėti. Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam amžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­ kestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas, nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­ gant laikui išskaičiavo ir susigrąžino."},{"kind":"evidence","evidence_id":"c-177553","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Šiuo raštu skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar esantiems, tiek ateityje būsiantiems, kuriuos žinia apie jį pa­ sieks. Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­ mąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­ togumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko mus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii- ----• ---- 386 ## Puslapis 403 IV KNYGA niaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­ kalingas dalykas, ir trokšdami tai…"}],"status":"published","conflict_status":"clear"},{"trait_id":"0acb41462fe92e9e99855b27","canonical_code":"place.purpose","label":"Paskirtis","group":"Naudojimas","value":"Pakeisti nepatogią perkėlą per Viliją ir padėti išvengti sunkumų, išlaidų, nepatogumų bei daiktų nukentėjimo keliantis per upę.","context":"Michał Balińskio veikale cituojamame istoriniame rašte tiltas pristatomas kaip sprendimas pavaldinių patiriamiems sunkumams perkėloje prie Vilniaus. XVI a. istorinis kontekstas.","support_ids":["t-195189","c-177553"],"source_refs":[{"kind":"internal_claim","claim_id":"t-195189","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-177553","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Šiuo raštu skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar esantiems, tiek ateityje būsiantiems, kuriuos žinia apie jį pa­ sieks. Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­ mąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­ togumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko mus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii- ----• ---- 386 ## Puslapis 403 IV KNYGA niaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­ kalingas dalykas, ir trokšdami tai…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T19:03:55+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 68576ce99edeacc2
+object_page_generated_at: '2026-09-20T19:03:55+00:00'
+object_page_source_checked_at: '2026-09-20T19:03:55+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Vilniaus tiltas per Viliją: Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje…'
+object_page_seo_input_hash: 30139c87b699c170e8b75007346f5b184b7324d2efeab513a6b7364b653d5422
+object_page_seo_generated_at: '2026-09-20T19:03:55+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vilniaus tiltas per Viliją
 

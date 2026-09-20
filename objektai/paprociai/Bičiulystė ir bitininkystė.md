@@ -1,10 +1,10 @@
 ---
 tipas: paprotys
-pavadinimas: 'Bičiulystė ir bitininkystė'
+pavadinimas: Bičiulystė ir bitininkystė
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1529 m.'
+  - 1529 m.
 date_start: '1529'
 date_end: ''
 sukurta: ''
@@ -13,19 +13,29 @@ tags:
   - paprotys
   - teisinė-praktika
 amziai:
-  - 'XVI'
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T17:13:39+00:00","source_checked_at":"2026-09-20T17:13:39+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3054033caae17dd41ac625e3","canonical_code":"custom.significance","label":"Reikšmė","group":"Papročio bruožai","value":"Bitininkystė sukūrė bičiulyste vadintus papročius ir žmonių santykiavimo formas.","context":"Zenono Ivinskio 1978 m. veikale „Lietuvos istorija iki Vytauto Didžiojo mirties“ bitininkystė taip apibūdinama Lietuvos istoriniame kontekste.","support_ids":["t-97127","c-31405"],"source_refs":[{"kind":"internal_claim","claim_id":"t-97127","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-31405","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Atskirus papročius ir žmonių santykiavimo formas, vadinamą « bičiulystę » (iš čia ir « bičiulis ») sukūrė užsiėmimas bitininkyste. Seniausia miškinės bitininkystės forma Lietuvoje yra paliudyta ir mitologijoje bei tautosakoje. Kad bitininkystė dar ir vėliau buvo svarbi ūkio šaka, rodo randami nuostatai apie bites ir bitininkų teises Lietuvos Statute (1529)."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T17:13:39+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: ff02d465c08efe7f
+object_page_generated_at: '2026-09-20T17:13:39+00:00'
+object_page_source_checked_at: '2026-09-20T17:13:39+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Bičiulystė ir bitininkystė: Atskirus papročius ir žmonių santykiavimo formas, vadinamą « bičiulystę » (iš čia ir « bičiulis ») sukūrė užsiėmimas bitininkyste.…'
+object_page_seo_input_hash: 20155834691f9ccf74d1a4a00db13adc1f0f97b55c8cbff4aceed35bff3f5781
+object_page_seo_generated_at: '2026-09-20T17:13:39+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Bičiulystė ir bitininkystė
 

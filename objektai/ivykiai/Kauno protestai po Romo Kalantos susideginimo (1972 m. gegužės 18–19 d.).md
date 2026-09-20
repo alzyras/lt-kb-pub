@@ -1,10 +1,10 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)'
+pavadinimas: Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1972 m.'
+  - 1972 m.
 date_start: '1972'
 date_end: ''
 sukurta: ''
@@ -13,19 +13,29 @@ tags:
   - ivykis
   - sukilimas
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:15:28+00:00","source_checked_at":"2026-09-20T16:15:28+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"bbf879d60b5ee627ca19e006","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.","context":"1972 m. gegužės 18 d. Kauno Laisvės alėjoje.","support_ids":["t-75109","c-73024"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75109","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73024","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš- kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va- džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:15:28+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 3e0f81069fe74d1a
+object_page_generated_at: '2026-09-20T16:15:28+00:00'
+object_page_source_checked_at: '2026-09-20T16:15:28+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.): Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką. Iš daugiau…'
+object_page_seo_input_hash: c24ae2363cd175618b3c70f91c09a3be19a0dd0fd90237aa2f34e9e820fe74eb
+object_page_seo_generated_at: '2026-09-20T16:15:28+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)
 

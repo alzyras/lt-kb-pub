@@ -1,15 +1,15 @@
 ---
 tipas: ivykis
-pavadinimas: 'Sausio 13-oji (1991 m.)'
+pavadinimas: Sausio 13-oji (1991 m.)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1909 m.'
-  - '1944 m.'
-  - '1967 m.'
-  - '1988 m.'
-  - '1990 m.'
-  - '1991 m.'
+  - 1909 m.
+  - 1944 m.
+  - 1967 m.
+  - 1988 m.
+  - 1990 m.
+  - 1991 m.
 date_start: '1909'
 date_end: '1991'
 sukurta: ''
@@ -20,19 +20,29 @@ tags:
   - socialinis-įvykis
   - konfliktas
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:42:07+00:00","source_checked_at":"2026-09-20T16:42:07+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a8c7b744d19f090c8483cf33","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"1991 m. sausio 12-osios vakarą, Atkuriamojo Seimo vadovybei pakvietus, minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos bei televizijos bokšto. Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.","context":"Aprašoma 1991 m. sausio 12–13 d. įvykių eiga; autoriai nurodo, kad pastatą savo kūnais gynė daugiatūkstantinė taikių Lietuvos gyventojų minia.","support_ids":["t-75265","c-73106"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75265","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73106","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 245 Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare mi- nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto. Aplink AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie 12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė daugiatūkstantinė taikių Lietuvos gyventojų minia."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"1710abdf462b16bc3b0b81bd","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"1991 m. sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones ir ragino daryti viską, kad sovietų kariuomenės agresija būtų sustabdyta.","context":"Tai autoriaus aprašytas Lietuvos AT-AS kreipimasis į SSRS žmones įvykių metu.","support_ids":["t-75266","c-23211"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75266","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-23211","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primin- damas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad ši sovietų kariuomenės agresija būtų sustabdyta."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"f7152421d889b5e8d528e02d","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Prie parlamento, Lietuvos radijo ir televizijos bei televizijos bokšto budėjo minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių; televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą gynė daugiatūkstantinė taikių Lietuvos gyventojų minia.","context":"Šaltinis apibūdina 1991 m. sausio 12–13 d. susirinkusių ir pastatus gynusių žmonių skaičių bei mastą.","support_ids":["t-75267","c-73106"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75267","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73106","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 245 Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare mi- nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto. Aplink AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie 12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė daugiatūkstantinė taikių Lietuvos gyventojų minia."}],"status":"published","conflict_status":"clear"},{"trait_id":"baad771d954830383e0b9f9b","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų.","context":"Autoriai aprašo tiesioginį šturmo padarinį; tarp žuvusiųjų buvo Loreta Asanavičiūtė, gimusi 1967 m., kuri pateko po tanko vikšrais ir mirė ligoninėje.","support_ids":["t-75270","c-23210"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75270","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-23210","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais- vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:42:07+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1991 m.","label":"1991 m.","claimId":"t-75265"},{"date":"1991 m.","label":"1991 m.","claimId":"t-75266"},{"date":"1991 m.","label":"1991 m.","claimId":"t-75270"}],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f856c4a41338ad08
+object_page_generated_at: '2026-09-20T16:42:07+00:00'
+object_page_source_checked_at: '2026-09-20T16:42:07+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Sausio 13-oji (1991 m.) – įvykis, per kurį Lietuvos visuomenė telkėsi ginti svarbiausių valstybės institucijų ir priešinosi sovietų kariuomenės agresijai.…'
+object_page_seo_input_hash: 01479e0d00830a2ca8affe56a4bb47b112658c02d0623870ae3a3a87735a2600
+object_page_seo_generated_at: '2026-09-20T16:42:07+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Sausio 13-oji (1991 m.)
 

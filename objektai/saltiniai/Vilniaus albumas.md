@@ -1,13 +1,13 @@
 ---
 tipas: saltinis
-pavadinimas: 'Vilniaus albumas'
+pavadinimas: Vilniaus albumas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1848 m.'
-  - '1850 m.'
-  - '1857 m.'
-  - '1858 m.'
+  - 1848 m.
+  - 1850 m.
+  - 1857 m.
+  - 1858 m.
 date_start: '1848'
 date_end: '1858'
 sukurta: ''
@@ -15,19 +15,29 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:25:19+00:00","source_checked_at":"2026-09-20T18:25:19+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"f9dea80d37577aba12977f11","canonical_code":"source.authorship","label":"Autorystė","group":"Šaltinio bruožai","value":"J. K. Vilčinskis","context":"Šaltinis tiesiogiai įvardijamas kaip J. K. Vilčinskio „Vilniaus albumas“.","support_ids":["t-75528","c-25075"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75528","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-25075","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Po poros metų šių blaivybės brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei- Motiejus Valančius iš J. K. Vilčinskio „Vilniaus albumo“."}],"status":"published","conflict_status":"clear"},{"trait_id":"16c0616c9a7459b24ee9ca07","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"1848 m. ir 1850 m.","context":"Šaltinyje pateiktų vaizdų datos: P. Benoist Verkių rūmų interjero vaizdas – 1848 m.; Vilniaus universiteto Didžiojo kiemo ir Šv. Jonų bažnyčios vaizdas – 1850 m.","support_ids":["t-75533","c-73285","t-75531","c-24004"],"source_refs":[{"kind":"internal_claim","claim_id":"t-75533","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"internal_claim","claim_id":"t-75531","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-73285","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija, Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras iš J. K. Vilčinskio „Vilniaus albumo“. Dail. P. Benoist, 1848 m."},{"kind":"evidence","evidence_id":"c-24004","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Jonų bažnyčia iš J. K. Vilčinskio „Vilniaus albumo“. Dail. Ph. Benoist, A. Bayot, 1850 m."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:25:19+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: c2c5c01e6ea8766a
+object_page_generated_at: '2026-09-20T18:25:19+00:00'
+object_page_source_checked_at: '2026-09-20T18:25:19+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Vilniaus albumas: Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę.'
+object_page_seo_input_hash: 56c54ba991ff0c47944af81c08f5b95f5f02190fa9af07693a93573ad86f087b
+object_page_seo_generated_at: '2026-09-20T18:25:19+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vilniaus albumas
 

@@ -1,10 +1,10 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Užuotas ąžuolas'
+pavadinimas: Užuotas ąžuolas
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
-  - '1258 m.'
+  - 1258 m.
 date_start: '1258'
 date_end: ''
 sukurta: ''
@@ -13,19 +13,29 @@ tags:
   - religinis-terminas
   - sąvoka
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T19:30:05+00:00","source_checked_at":"2026-09-20T19:30:05+00:00","counts":{"relations":0,"gallery":0,"sources":0},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"review_required","rows":[],"verification":{"verified":false,"verifier":"evidence_gate","external_assertions_checked":0}},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T19:30:05+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":0,"sources":0}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: aeb989671bffdb0e
+object_page_generated_at: '2026-09-20T19:30:05+00:00'
+object_page_source_checked_at: '2026-09-20T19:30:05+00:00'
+object_page_content_state: content
+object_page_claim_count: '0'
+object_page_source_count: '0'
+object_page_seo_description: 'Užuotas ąžuolas: Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieglaudą, kurią, kronikininkų liudijimu, puolant Prūsiją bandė sunaikinti…'
+object_page_seo_input_hash: c5484b150f6f3b9c0916a10c6f29daa6ab0a4917e2adb47af4d8cf5e39f3f015
+object_page_seo_generated_at: '2026-09-20T19:30:05+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Užuotas ąžuolas
 

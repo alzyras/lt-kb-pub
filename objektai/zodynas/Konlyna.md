@@ -1,6 +1,6 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'Konlyna'
+pavadinimas: Konlyna
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -14,12 +14,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T19:20:07+00:00","source_checked_at":"2026-09-20T19:20:07+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"aab662eae43d0ad1fd29249d","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Ypatingos konstrukcijos skrynia, skirta stalo sidabrui laikyti; paprastai gerai apkaustyta ir apkabinėta spynomis.","context":"Teodoras Narbutas, aprašydamas XVI a. Lietuvoje rusų kalba rašytas piliečių sutartis, teigia, kad „Konlyna“ taip buvo vadinama.","support_ids":["t-212784","c-194858"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212784","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194858","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Aš pats piliečių sutartyse, parašytose Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон- тьма — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis. Si skrynia būdavo naudojama ir kelionės daiktams, ginklams susidė­ ti; tai buvo pačių vertingiausių daiktų saugykla (хранилище). Taigi galėjo būti, jog slavų protėviai taip vadino dievų šventyk­ las."}],"status":"published","conflict_status":"clear"},{"trait_id":"6b59b2de5c41272a53a12481","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Vartota XVI a. Lietuvoje rusų kalba rašytose piliečių sutartyse.","context":"Tai nurodo šaltinio autorius Teodoras Narbutas, remdamasis savo skaitytomis sutartimis.","support_ids":["t-212784","c-194858"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212784","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-194858","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Aš pats piliečių sutartyse, parašytose Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон- тьма — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis. Si skrynia būdavo naudojama ir kelionės daiktams, ginklams susidė­ ti; tai buvo pačių vertingiausių daiktų saugykla (хранилище). Taigi galėjo būti, jog slavų protėviai taip vadino dievų šventyk­ las."}],"status":"published","conflict_status":"clear"},{"trait_id":"41bb0a55fd095280fda40d02","canonical_code":"term.variants","label":"Variantai","group":"Vartosena","value":"Контьma","context":"Šaltinyje „Konlyna“ pateikiama kartu su forma „Контьma“; forma išlaikyta pagal šaltinio citatą.","support_ids":["t-214005","c-197090"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214005","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197090","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Aš pats piliečių sutartyse, parašytose Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Контьma — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T19:20:07+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 13464d65a93dab89
+object_page_generated_at: '2026-09-20T19:20:07+00:00'
+object_page_source_checked_at: '2026-09-20T19:20:07+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Konlyna: Narbutas aiškina, kad XVI amžiaus Lietuvoje rusų kalba rašytose piliečių sutartyse Konlyna / Контьma reiškė ypatingos konstrukcijos skrynią. Narbutas…'
+object_page_seo_input_hash: ac400e712a38f5472e3e99a69d81c0676c420f04ec3bd8013959f23000a2c1fc
+object_page_seo_generated_at: '2026-09-20T19:20:07+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Konlyna
 

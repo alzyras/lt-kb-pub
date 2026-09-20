@@ -4,8 +4,8 @@ pavadinimas: 'Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apl
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1264 m.'
-  - '1300 m.'
+  - 1264 m.
+  - 1300 m.
 date_start: '1264'
 date_end: '1300'
 sukurta: ''
@@ -16,19 +16,29 @@ tags:
   - pilis
   - mūšis
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:02:11+00:00","source_checked_at":"2026-09-20T16:02:11+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"b63c40dfb9420be46b32ce14","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Bartenšteino pilis buvo apsupta; aplink ją prūsai įrengė tris kuorus ir naudojo tris apgulos mašinas piliai pulti.","context":"Petro Dusburgiečio kronikos pasakojime apie Bartenšteino pilies puolimą.","support_ids":["t-222644","c-201961"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222644","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201961","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris apgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę MGP, p. 50). Dabar—Ruvnina Doloje (Odoj R. Dorobek.., p. 102—103). 391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė (literatūroje — Ungurupė arba Unguriškė, dab. Kaliningrado srt.— Angrapa, LLR — Vengorapa), ištekanti iš Mamrų ežero, šiaurėje siekianti Įsruties (dab. Černiachovskas) apylinkes. Aprašytos kautynės įvyko, matyt, kiek į šiaurę nuo Mamrų ežero. broliai…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"a44321a7295cdba7225b9d21","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Pilyje buvo 400 brolių ir ginklanešių, o trijuose kuoruose aplink pilį nuolat laikyta 1300 karių.","context":"Petro Dusburgiečio kronikos pasakojime apie apsiaustį.","support_ids":["t-222644","c-201961"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222644","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-201961","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris apgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę MGP, p. 50). Dabar—Ruvnina Doloje (Odoj R. Dorobek.., p. 102—103). 391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė (literatūroje — Ungurupė arba Unguriškė, dab. Kaliningrado srt.— Angrapa, LLR — Vengorapa), ištekanti iš Mamrų ežero, šiaurėje siekianti Įsruties (dab. Černiachovskas) apylinkes. Aprašytos kautynės įvyko, matyt, kiek į šiaurę nuo Mamrų ežero. broliai…"}],"status":"published","conflict_status":"clear"},{"trait_id":"d47e1be923d189c16895ba63","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Broliai ir jų šeimyna pasidalijo į dvi dalis: vieni pasitraukė į Karaliaučiaus pilį, kiti – į Elbingą; pilyje jie paliko vieną seną ir aklą brolį.","context":"Petro Dusburgiečio kronikos pasakojime, kai dėl padėties pilyje nebebuvo galima ilgiau slėpti išvykimo.","support_ids":["t-225637","c-206105"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225637","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-206105","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Šitai išgirdę, broliai ir jų šeimyna, kitą dieną pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti. 392 Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III, 123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49). Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu. Galop, kai nebebuvo galima ilgiau reikalo slėpti, priešai vienas po kito pradėjo artėti ir, išvydę, kad niekas jiems nesipriešina, įsibrovė į pilį; nužudę brolį, pilį jie panaudojo savo reikalams, iš jos dažnai…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"af1a05180bb791117a225be3","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Priešai, pamatę, kad pilyje niekas nesipriešina, į ją įsibrovė, nužudė paliktą brolį ir panaudojo pilį savo reikalams bei dažniems puldinėjimams.","context":"Petro Dusburgiečio kronikos autoriaus pasakojime apie įvykius po brolių pasitraukimo.","support_ids":["t-225637","c-206105"],"source_refs":[{"kind":"internal_claim","claim_id":"t-225637","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-206105","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Šitai išgirdę, broliai ir jų šeimyna, kitą dieną pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti. 392 Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D. III, 123; žr. Ewald A. L., Die Eroberung.., 4, p. 59; Jasas R., Didysis..., p. 49). Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu. Galop, kai nebebuvo galima ilgiau reikalo slėpti, priešai vienas po kito pradėjo artėti ir, išvydę, kad niekas jiems nesipriešina, įsibrovė į pilį; nužudę brolį, pilį jie panaudojo savo reikalams, iš jos dažnai…"}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:02:11+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e96d269d52dd6d40
+object_page_generated_at: '2026-09-20T16:02:11+00:00'
+object_page_source_checked_at: '2026-09-20T16:02:11+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.): Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino…'
+object_page_seo_input_hash: b817d511fe321ce0fc5a4be96dc9515a6b6f7a774af90342fa4078b6662f29d5
+object_page_seo_generated_at: '2026-09-20T16:02:11+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)
 

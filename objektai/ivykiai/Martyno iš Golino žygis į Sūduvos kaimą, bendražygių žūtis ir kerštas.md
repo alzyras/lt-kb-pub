@@ -4,7 +4,7 @@ pavadinimas: 'Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūti
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1280 m.'
+  - 1280 m.
 date_start: '1280'
 date_end: ''
 sukurta: ''
@@ -13,19 +13,29 @@ tags:
   - žygis
   - ivykis
 amziai:
-  - 'XIII'
+  - XIII
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:32:10+00:00","source_checked_at":"2026-09-20T16:32:10+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"3e0d5a24131eeb6d737cd79b","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Martynas iš Golino su bendražygiais užgrobė kaimą Sūduvos žemėje, o grįžtant juos užpuolė priešai.","context":"Petro Dusburgiečio kronikoje aprašoma, kad Martynas su bendražygiais ramiai pietavo, kai juos netikėtai užpuolė priešai.","support_ids":["t-222668","c-205037"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222668","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205037","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur, nekreipdamas dėmesio į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o kiti išbėgiojo palikę visus turimus ginklus bei visą maistą."}],"status":"published","conflict_status":"clear"},{"trait_id":"c60cf9e3375f2a22e5538be2","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Žygyje dalyvavo Martynas iš Golino, 4 vokiečiai ir 11 prūsų; buvo užgrobtas vienas kaimas Sūduvos žemėje.","context":"Šaltinis nurodo dalyvių skaičių ir užpultą teritoriją.","support_ids":["t-222668","c-205037"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222668","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205037","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur, nekreipdamas dėmesio į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o kiti išbėgiojo palikę visus turimus ginklus bei visą maistą."}],"status":"published","conflict_status":"clear"},{"trait_id":"941611b664a57e3eaefff4a2","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Per priešų antpuolį žuvo keturi Martyno bendražygiai vokiečiai, o kiti pabėgo palikę ginklus ir maistą.","context":"Tai aprašoma kaip tiesioginė antpuolio pasekmė.","support_ids":["t-222668","c-205037"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222668","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205037","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur, nekreipdamas dėmesio į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o kiti išbėgiojo palikę visus turimus ginklus bei visą maistą."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"9d37faee1a772174ec6b90b0","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Susikrimtęs Martynas sušaukė išsklaidytus bendražygius, slapta atgavo skydus, kalavijus ir ietis, o turėdamas ginklų užpuolė sūduvius ir juos išžudė.","context":"Petro Dusburgiečio pasakojime kerštas įvyksta po bendražygių žūties ir ginklų atgavimo.","support_ids":["t-222871","c-205750","t-222889","c-205750"],"source_refs":[{"kind":"internal_claim","claim_id":"t-222871","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"internal_claim","claim_id":"t-222889","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"},{"kind":"evidence","evidence_id":"c-205750","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tas Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur, nekreipdamas dėmesio į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o kiti išbėgiojo palikę visus turimus ginklus bei visą maistą. Sūduviai dėl to labai džiaugėsi, tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o turėdamas ginklų, staiga…"},{"kind":"evidence","evidence_id":"c-205750","source":"darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md","quote":"Tas Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur, nekreipdamas dėmesio į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o kiti išbėgiojo palikę visus turimus ginklus bei visą maistą. Sūduviai dėl to labai džiaugėsi, tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o turėdamas ginklų, staiga…"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:32:10+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: b50786058e2157a9
+object_page_generated_at: '2026-09-20T16:32:10+00:00'
+object_page_source_checked_at: '2026-09-20T16:32:10+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas: Dusburgietis teigia, kad tas Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą…'
+object_page_seo_input_hash: 01d2cac54ec9a7191cb81e4c8b112441c5ea4c45f6c15e82a00eda0c41242411
+object_page_seo_generated_at: '2026-09-20T16:32:10+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas
 

@@ -1,11 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Livonijos ordino reidas po šiaurės rytų Lietuvą'
+pavadinimas: Livonijos ordino reidas po šiaurės rytų Lietuvą
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1432 m.'
-  - '1433 m.'
+  - 1432 m.
+  - 1433 m.
 date_start: '1432'
 date_end: '1433'
 sukurta: ''
@@ -15,19 +15,29 @@ tags:
   - ivykis
   - karas
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:30:28+00:00","source_checked_at":"2026-09-20T16:30:28+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":["t-210714","t-210423","t-210995","t-211543","t-211095"],"featured_claims":[{"claim_id":"t-210714","text":"1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą, o Švitrigaila pasiliko Lukomlyje telkti kariuomenės.","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","evidence_ids":["c-193399","c-194147"]},{"claim_id":"t-210423","text":"1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių.","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","evidence_ids":["c-194147"]},{"claim_id":"t-210995","text":"1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą.","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","evidence_ids":["c-193399","c-194147"]},{"claim_id":"t-211543","text":"1433 m. sausio 25 d. buvo sutarta, kad Livonijos ordino magistras Rutenbergas įsiverš į Lietuvą, o Švitrigaila žygiuos nuo Vitebsko.","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","evidence_ids":["c-194147"]},{"claim_id":"t-211095","text":"Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","evidence_ids":["c-194147"]}],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"a6156d9f7b30064093865214","canonical_code":"event.causes","label":"Priežastys","group":"Įvykio eiga","value":"Nepavykus 1432 m. rudens puolimui, buvo sutarta dėl naujo Livonijos ordino magistro Rutenbergo ir Švitrigailos žygio į Vilnių.","context":"Šaltinio autoriaus aprašymas apie 1433 m. sausio pabaigos–vasario pradžios veiksmus.","support_ids":["t-210423","c-194147"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210423","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194147","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"” Kalbama apie naujus Švitrigailos veiksmus 1433 m. sausio pabaigoje — vasario pradžioje. Nepavykus 1432 m. rudens puoli­ mui. buvo sutarta, kad Švitrigailos sąjungininkas Livonijos ordino magistras Rutenbeigas 1433.1.25 jsiverš j Lietuvą iš Daugpilio pu­ sės, o pats Švitrigaila — nuo Vitebsko pusės. Ir vasario 15 d. su­ sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­ nių. Tačiau susitarim as nebuvo jgyvendintas."}],"status":"published","conflict_status":"clear"},{"trait_id":"a9fa8c15bf7033c5828728e6","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą; ji nežygiavo link Molodečno, o Švitrigaila pasiliko Lukomlyje telkti kariuomenės.","context":"Reidas vyko per Linkmenų, Tauragnų, Utenos ir Užpalių valsčius; Švitrigaila buvo netoli Vitebsko.","support_ids":["t-210714","c-193399"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210714","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193399","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Livonijos kariuome­ nė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­ du po šiaurės rytų Lietuvą (per Linkmenų, Tauragnų, Utenos, Už­ palių vaisčiusi, o Švitrigaila pasiliko Lukomlyje. arti Vitebsko, to­ liau telkti kariuomenės."}],"status":"published","conflict_status":"clear"},{"trait_id":"e6383838577fc4768c2e8209","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Reidas apėmė šiaurės rytų Lietuvą: Linkmenų, Tauragnų, Utenos ir Užpalių valsčius; jame dalyvavo Livonijos kariuomenė, o susijusiuose veiksmuose – Švitrigaila ir Livonijos ordino magistras Rutenbergas.","context":"1433 m. sausio 25–vasario 9 d. planuoti ir vykdyti kariniai veiksmai.","support_ids":["t-210714","c-193399","t-211543","c-194147"],"source_refs":[{"kind":"internal_claim","claim_id":"t-210714","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"internal_claim","claim_id":"t-211543","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-193399","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"Livonijos kariuome­ nė, nežygiuodama link Molodečno, pasitenkino 1433.L30—II.9 rei­ du po šiaurės rytų Lietuvą (per Linkmenų, Tauragnų, Utenos, Už­ palių vaisčiusi, o Švitrigaila pasiliko Lukomlyje. arti Vitebsko, to­ liau telkti kariuomenės."},{"kind":"evidence","evidence_id":"c-194147","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"” Kalbama apie naujus Švitrigailos veiksmus 1433 m. sausio pabaigoje — vasario pradžioje. Nepavykus 1432 m. rudens puoli­ mui. buvo sutarta, kad Švitrigailos sąjungininkas Livonijos ordino magistras Rutenbeigas 1433.1.25 jsiverš j Lietuvą iš Daugpilio pu­ sės, o pats Švitrigaila — nuo Vitebsko pusės. Ir vasario 15 d. su­ sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­ nių. Tačiau susitarim as nebuvo jgyvendintas."}],"status":"published","conflict_status":"clear"},{"trait_id":"d10860f3d4d3d0abb4fa27df","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Numatytas Švitrigailos ir Rutenbergo susijungimas Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.","context":"Šaltinio autoriaus vertinimas apie 1433 m. planą; susijungimas turėjo įvykti vasario 15 d. į šiaurę nuo Molodečno.","support_ids":["t-211095","c-194147"],"source_refs":[{"kind":"internal_claim","claim_id":"t-211095","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"},{"kind":"evidence","evidence_id":"c-194147","source":"darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md","quote":"” Kalbama apie naujus Švitrigailos veiksmus 1433 m. sausio pabaigoje — vasario pradžioje. Nepavykus 1432 m. rudens puoli­ mui. buvo sutarta, kad Švitrigailos sąjungininkas Livonijos ordino magistras Rutenbeigas 1433.1.25 jsiverš j Lietuvą iš Daugpilio pu­ sės, o pats Švitrigaila — nuo Vitebsko pusės. Ir vasario 15 d. su­ sijungs Kurenece, | šiaurę nuo Molodečno, bendram žygiui j Vil­ nių. Tačiau susitarim as nebuvo jgyvendintas."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:30:28+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[{"date":"1433 m.","label":"1433 m.","claimId":"t-210423"},{"date":"1433 m.","label":"1433 m.","claimId":"t-210714"},{"date":"1433 m.","label":"1433 m.","claimId":"t-210995"},{"date":"1433 m.","label":"1433 m.","claimId":"t-211543"}],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e23d0cdd03c78762
+object_page_generated_at: '2026-09-20T16:30:28+00:00'
+object_page_source_checked_at: '2026-09-20T16:30:28+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Livonijos ordino reidas po šiaurės rytų Lietuvą – 1433 m. sausio 30–vasario 9 d. vykęs karinis žygis per Linkmenų, Tauragnų, Utenos ir Užpalių valsčius. Jį…'
+object_page_seo_input_hash: 8a8dd0fe67e30328345bd3140ece30b0e8d42d89ea2c3ca4f995ff3a4c7ffe47
+object_page_seo_generated_at: '2026-09-20T16:30:28+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Livonijos ordino reidas po šiaurės rytų Lietuvą
 

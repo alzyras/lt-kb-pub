@@ -1,6 +1,6 @@
 ---
 tipas: autorius
-pavadinimas: 'Stryjkowski Strijkovskis'
+pavadinimas: Stryjkowski Strijkovskis
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
@@ -20,19 +20,32 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
-entity_id: "ent-bf038ba23d1673b38f1aa4b2"
-canonical_name: "Stryjkowski Strijkovskis"
-entity_roles: ["author","person"]
-entity_view_role: "author"
-entity_aliases: ["Stryjkowski Strijkovskis"]
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+entity_id: ent-bf038ba23d1673b38f1aa4b2
+canonical_name: Stryjkowski Strijkovskis
+entity_roles:
+  - author
+  - person
+entity_view_role: author
+entity_aliases:
+  - Stryjkowski Strijkovskis
 sameAs: []
-canonical_biography: "7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn. Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk. 31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių."
+canonical_biography: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn. Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk. 31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių.'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T14:58:46+00:00","source_checked_at":"2026-09-20T14:58:46+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"5a2c1fa19dc083909982aa88","canonical_code":"author.abilities","label":"Gebėjimai","group":"Kūryba ir veikla","value":"Savo kronikoje aiškino Šventaragio vardo kilmę.","context":"Michał Balińskis nurodo, kad Stryjkowski tai aiškino savo kronikos VIII knygoje, p. 345–348.","support_ids":["t-88006","c-83988"],"source_refs":[{"kind":"internal_claim","claim_id":"t-88006","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-83988","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn. VIII, p. 345-348; Kojałowicz, Hist. Lithu. Pars. I. lib. V, p. 138 ir Grzybowski knygoje Skarb nie- oszacowany 00. Franciszkanów Litew­ skich. Wilno 1740 in 8vo, skyr. I."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T14:58:46+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"needs_review","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: db070226efbd3e8c
+object_page_generated_at: '2026-09-20T14:58:46+00:00'
+object_page_source_checked_at: '2026-09-20T14:58:46+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Stryjkowski Strijkovskis: 7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn. Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią…'
+object_page_seo_input_hash: f22746f872aef5cb3a72869b7aa046f204a177c1fdb320ae4045c8d2c31002fb
+object_page_seo_generated_at: '2026-09-20T14:58:46+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Stryjkowski Strijkovskis
 

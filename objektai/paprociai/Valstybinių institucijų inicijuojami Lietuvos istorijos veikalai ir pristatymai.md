@@ -1,14 +1,14 @@
 ---
 tipas: paprotys
-pavadinimas: 'Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)'
+pavadinimas: Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1936 m.'
-  - '1939 m.'
-  - '1990 m.'
-  - '2004 m.'
-  - '2013 m.'
+  - 1936 m.
+  - 1939 m.
+  - 1990 m.
+  - 2004 m.
+  - 2013 m.
 date_start: '1936'
 date_end: '2013'
 sukurta: ''
@@ -17,20 +17,30 @@ tags:
   - paprotys
   - šeima
 amziai:
-  - 'XX'
-  - 'XXI'
+  - XX
+  - XXI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T17:53:39+00:00","source_checked_at":"2026-09-20T17:53:39+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"13ef4f9f6c80ffe0c75ce451","canonical_code":"custom.participants","label":"Dalyviai","group":"Papročio eiga","value":"Valstybės institucijos ir lietuvių istorikų grupės","context":"Šaltinyje nurodoma, kad darbus kartais inicijuoja valstybės institucijos, o 1936 m. Lietuvos istoriją parašė grupė lietuvių istorikų.","support_ids":["t-183336","c-166726"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183336","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166726","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži- niais valstybės raidos etapais ir išskirtinėmis progomis. Kartais juos inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty- bės nueitas kelias būtų įamžintas ir įvertintas iš platesnės perspekty- vos – patriotiniu, bet teisingu, skvarbiu, visumą apimančiu žvilgsniu. 1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Ka- zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para- šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."}],"status":"published","conflict_status":"clear"},{"trait_id":"3b87ddc26cf0c23cc92527e1","canonical_code":"custom.occasion","label":"Proga","group":"Papročio eiga","value":"Lūžiniai valstybės raidos etapai ir išskirtinės progos","context":"Šaltinio autoriai teigia, kad apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūžiniais valstybės raidos etapais ir išskirtinėmis progomis.","support_ids":["t-183336","c-166726"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183336","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166726","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži- niais valstybės raidos etapais ir išskirtinėmis progomis. Kartais juos inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty- bės nueitas kelias būtų įamžintas ir įvertintas iš platesnės perspekty- vos – patriotiniu, bet teisingu, skvarbiu, visumą apimančiu žvilgsniu. 1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Ka- zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para- šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."}],"status":"published","conflict_status":"clear"},{"trait_id":"78a478a7f085b06cbe756083","canonical_code":"custom.course","label":"Eiga","group":"Papročio eiga","value":"Valstybės institucija inicijuoja darbą, istorikų grupė jį parašo ir išleidžia","context":"1936 m. Lietuvos Respublikos švietimo ministerijos iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.","support_ids":["t-183336","c-166726"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183336","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166726","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži- niais valstybės raidos etapais ir išskirtinėmis progomis. Kartais juos inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty- bės nueitas kelias būtų įamžintas ir įvertintas iš platesnės perspekty- vos – patriotiniu, bet teisingu, skvarbiu, visumą apimančiu žvilgsniu. 1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Ka- zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para- šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."}],"status":"published","conflict_status":"clear"},{"trait_id":"6d9b376be34e174935a5f9a4","canonical_code":"custom.significance","label":"Reikšmė","group":"Papročio bruožai","value":"Valstybės nueitas kelias įamžinamas ir įvertinamas iš platesnės perspektyvos","context":"Šaltinyje valstybės institucijų pareiga vertinama kaip siekis užtikrinti, kad valstybės nueitas kelias būtų įamžintas ir įvertintas iš platesnės perspektyvos – patriotiniu, bet teisingu, skvarbiu ir visumą apimančiu žvilgsniu.","support_ids":["t-183336","c-166726"],"source_refs":[{"kind":"internal_claim","claim_id":"t-183336","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-166726","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži- niais valstybės raidos etapais ir išskirtinėmis progomis. Kartais juos inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty- bės nueitas kelias būtų įamžintas ir įvertintas iš platesnės perspekty- vos – patriotiniu, bet teisingu, skvarbiu, visumą apimančiu žvilgsniu. 1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Ka- zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para- šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T17:53:39+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":1,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 059301ea2d14abf1
+object_page_generated_at: '2026-09-20T17:53:39+00:00'
+object_page_source_checked_at: '2026-09-20T17:53:39+00:00'
+object_page_content_state: content
+object_page_claim_count: '1'
+object_page_source_count: '1'
+object_page_seo_description: 'Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija): Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta…'
+object_page_seo_input_hash: 0ad6f31b2b880c4624395ba38a821260ad213126f759039c564a48fcd80fe92b
+object_page_seo_generated_at: '2026-09-20T17:53:39+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)
 

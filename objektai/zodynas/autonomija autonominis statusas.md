@@ -1,10 +1,10 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'autonomija autonominis statusas'
+pavadinimas: autonomija autonominis statusas
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1921 m.'
+  - 1921 m.
 date_start: '1921'
 date_end: ''
 sukurta: ''
@@ -14,19 +14,29 @@ tags:
   - sąvoka
   - istorinė-sąvoka
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T19:32:12+00:00","source_checked_at":"2026-09-20T19:32:12+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"9716b9561e2702356de993bc","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"kultūrinė autonomija","context":"Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms.","support_ids":["t-70093","c-69194"],"source_refs":[{"kind":"internal_claim","claim_id":"t-70093","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-69194","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"rėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"cc79d7be4209f279c5110536","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"autonominio rajono statusas","context":"1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas turėjo autonominio rajono, o ne kantono statusą.","support_ids":["t-70096","c-69195"],"source_refs":[{"kind":"internal_claim","claim_id":"t-70096","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-69195","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi"}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T19:32:12+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":2,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: f242c506a7b2e968
+object_page_generated_at: '2026-09-20T19:32:12+00:00'
+object_page_source_checked_at: '2026-09-20T19:32:12+00:00'
+object_page_content_state: content
+object_page_claim_count: '2'
+object_page_source_count: '1'
+object_page_seo_description: 'autonomija autonominis statusas: Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą…'
+object_page_seo_input_hash: 20fbefff417344a7a0793bcb8f1713fb06f4a06ad666f76672f1f0067c22b4ed
+object_page_seo_generated_at: '2026-09-20T19:32:12+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # autonomija autonominis statusas
 

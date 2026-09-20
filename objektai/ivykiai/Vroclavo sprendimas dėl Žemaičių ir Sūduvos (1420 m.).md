@@ -1,12 +1,12 @@
 ---
 tipas: ivykis
-pavadinimas: 'Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)'
+pavadinimas: Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1412 m.'
-  - '1420 m.'
-  - '1423 m.'
+  - 1412 m.
+  - 1420 m.
+  - 1423 m.
 date_start: '1412'
 date_end: '1423'
 sukurta: ''
@@ -17,19 +17,30 @@ tags:
   - sutartis
   - ivykis
 amziai:
-  - 'XV'
+  - XV
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:56:34+00:00","source_checked_at":"2026-09-20T16:56:34+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":["t-179459","t-179455","t-179457"],"featured_claims":[{"claim_id":"t-179459","text":"Jogaila apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-05002"]},{"claim_id":"t-179455","text":"1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-05001"]},{"claim_id":"t-179457","text":"Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis.","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","evidence_ids":["c-05001"]}],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"08161db66f3637e349fe4a9c","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.","context":"Zenono Ivinskio aprašymas apie paskutines derybas ir 1420 m. sprendimą.","support_ids":["t-179455","c-05001"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179455","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-05001","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau pripažino, negu jie patys per paskutines derybas buvo užsiprašę, suerzino tiek Vytautą tiek Jogailą. Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13. Pus­ broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­ beno savo politinę karjerą pradedąs Zbignievas Olesnickis."}],"status":"published","conflict_status":"clear"},{"trait_id":"e56630adfb9b0b0c0e5bd2c2","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Šis sprendimas, autoriaus vertinimu, suerzino Vytautą ir Jogailą; po susitikimo Dauguose jie tuojau pasiuntė protestus į Vroclavą, kuriuos gabeno Zbignievas Olesnickis.","context":"Po 1420 m. Vroclavo sprendimo; vertinimas ir pasakojimas pateikiami Zenono Ivinskio veikale.","support_ids":["t-179455","t-179457","c-05001"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179455","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"internal_claim","claim_id":"t-179457","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-05001","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau pripažino, negu jie patys per paskutines derybas buvo užsiprašę, suerzino tiek Vytautą tiek Jogailą. Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13. Pus­ broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­ beno savo politinę karjerą pradedąs Zbignievas Olesnickis."}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"2cc497384f2cdd35e92805d6","canonical_code":"event.consequences","label":"Padariniai","group":"Įvykio poveikis","value":"Jogaila tuojau apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą.","context":"Po Vroclavo sprendimo, kaip aprašo Zenonas Ivinskis.","support_ids":["t-179459","c-05002"],"source_refs":[{"kind":"internal_claim","claim_id":"t-179459","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"},{"kind":"evidence","evidence_id":"c-05002","source":"darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md","quote":"Abu valdovai tačiau kratėsi tokio sprendimo. Jogaila tuojau apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"published","generated_at":"2026-09-20T16:56:34+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 876aa8f173aaaf8d
+object_page_generated_at: '2026-09-20T16:56:34+00:00'
+object_page_source_checked_at: '2026-09-20T16:56:34+00:00'
+object_page_summary_support_json: '[{"sentence_id":"s1","text":"Vroclavo sprendimas dėl Žemaičių ir Sūduvos – 1420 m. Vroclave imperatoriaus Zigmanto priimtas politinis sprendimas, palankus Kryžiuočių ordinui.","support_ids":["t-179455","c-05001"]},{"sentence_id":"s2","text":"Juo kryžiuočiams buvo pripažinta daugiau, negu jie patys buvo prašę per paskutines derybas, todėl sprendimas tapo itin nepriimtinas Vytautui ir Jogailai.","support_ids":["t-179455","c-05001"]},{"sentence_id":"s3","text":"Abu valdovai, apie ištarmę sužinoję Dauguose, tuojau pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.","support_ids":["t-179457","c-05001"]},{"sentence_id":"s4","text":"Jogaila taip pat kreipėsi į popiežių Martyną V, prašydamas panaikinti šį sprendimą.","support_ids":["t-179459","c-05002"]},{"sentence_id":"s5","text":"Šaltinyje išlikusi vaizdinga detalė pabrėžia valdovų reakcijos stiprumą: teigiama, kad jie dėl ištarmės esą „rėkę ir raudoję, kaip du sužeisti hutai“.","support_ids":["t-179455","c-05001"]}]'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.): Vroclavo sprendimas dėl Žemaičių ir Sūduvos – 1420 m. Vroclave imperatoriaus Zigmanto priimtas…'
+object_page_seo_input_hash: 788c7cc045b04fee3dabe217ec485006d3f07e8f7d95bb9029be038efdc10876
+object_page_seo_generated_at: '2026-09-20T16:56:34+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)
 

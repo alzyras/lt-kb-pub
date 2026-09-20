@@ -1,12 +1,12 @@
 ---
 tipas: ivykis
-pavadinimas: 'Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)'
+pavadinimas: Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1940 m.'
-  - '1967 m.'
-  - '1991 m.'
+  - 1940 m.
+  - 1967 m.
+  - 1991 m.
 date_start: '1940'
 date_end: '1991'
 sukurta: ''
@@ -15,19 +15,29 @@ tags:
   - ivykis
   - seimas
 amziai:
-  - 'XX'
+  - XX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T16:44:01+00:00","source_checked_at":"2026-09-20T16:44:01+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"eb23bfcd41a2945e32aa0e7a","canonical_code":"event.course","label":"Eiga","group":"Įvykio eiga","value":"Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė Vilniaus televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.","context":"1991 m. sausio 12–13 d. naktį.","support_ids":["t-169856","c-154539"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169856","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154539","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 245 Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare mi- nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto. Aplink AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie 12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė daugiatūkstantinė taikių Lietuvos gyventojų minia."}],"status":"published","conflict_status":"clear"},{"trait_id":"56a7c2befda1c78dd4ca3128","canonical_code":"event.scale","label":"Mastas","group":"Įvykio poveikis","value":"Prie televizijos bokšto budėjo iš Vilniaus ir kitų Lietuvos vietų atvykę žmonės; pastatą savo kūnais gynė daugiatūkstantinė taikių Lietuvos gyventojų minia.","context":"1991 m. sausio 12 d. vakaras ir naktis į sausio 13-ąją.","support_ids":["t-169853","c-154539"],"source_refs":[{"kind":"internal_claim","claim_id":"t-169853","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"},{"kind":"evidence","evidence_id":"c-154539","source":"darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md","quote":"6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 245 Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare mi- nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto. Aplink AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie 12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė daugiatūkstantinė taikių Lietuvos gyventojų minia."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T16:44:01+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":3,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 6dc80c3da4d86f5a
+object_page_generated_at: '2026-09-20T16:44:01+00:00'
+object_page_source_checked_at: '2026-09-20T16:44:01+00:00'
+object_page_content_state: content
+object_page_claim_count: '3'
+object_page_source_count: '1'
+object_page_seo_description: 'Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.): Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios…'
+object_page_seo_input_hash: cf28c7a20bdbfeb4db223ee197d5b5c84fba500f9953ba180670f4c8c1cf49b2
+object_page_seo_generated_at: '2026-09-20T16:44:01+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)
 

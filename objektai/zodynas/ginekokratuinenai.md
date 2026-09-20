@@ -1,6 +1,6 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'ginekokratuinenai'
+pavadinimas: ginekokratuinenai
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -14,12 +14,22 @@ media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T19:34:22+00:00","source_checked_at":"2026-09-20T19:34:22+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"5e8ec638935d1d7f368e0da4","canonical_code":"term.meaning","label":"Reikšmė","group":"Žodžio bruožai","value":"Narbutas ginekokratuinenus aprašo kaip sarmatų grupę, kurią valdė amazonių karalienės.","context":"Narbutas, remdamasis Plinijumi ir pasakojimais, tai mini istoriniame sarmatų aprašyme.","support_ids":["t-214251","c-197273"],"source_refs":[{"kind":"internal_claim","claim_id":"t-214251","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197273","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai, yra medų palikuonys, gyvenę prie Dono žemupio ir Juo- dosios jūros; pirmiausia buvo sarmatai, amazonių kara- lienių valdomi ginekokratuinenai, po jų evazai, kotai, ki- kimenai, mesėnai, kostobokai, choatrai, žigai, dandarai, tisagetai, turkai1."}],"status":"published","conflict_status":"clear"},{"trait_id":"c0b0eddd461f6ef6401bca71","canonical_code":"term.origin","label":"Kilmė","group":"Žodžio bruožai","value":"Narbutas sarmatus, tarp jų ginekokratuinenus, sieja su medų palikuonimis; kitur juos vadina medų–skitų gentimi.","context":"Tai Narbuto pateikiamas aiškinimas, siejamas su pasakojimais apie sarmatus prie Dono žemupio ir Juodosios jūros.","support_ids":["t-212349","t-212529","c-197273"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212349","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"internal_claim","claim_id":"t-212529","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197273","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai, yra medų palikuonys, gyvenę prie Dono žemupio ir Juo- dosios jūros; pirmiausia buvo sarmatai, amazonių kara- lienių valdomi ginekokratuinenai, po jų evazai, kotai, ki- kimenai, mesėnai, kostobokai, choatrai, žigai, dandarai, tisagetai, turkai1."}],"status":"published","conflict_status":"clear"},{"trait_id":"60bee3eeb4c16f8af084feb8","canonical_code":"term.usage","label":"Vartosena","group":"Vartosena","value":"Žodis vartojamas istoriniame sarmatų tautų ir genčių sąraše, siejamame su Dono žemupiu ir Juodąja jūra.","context":"Narbutas jį pateikia greta kitų sarmatų grupių, remdamasis Plinijaus žinia ir pasakojimais.","support_ids":["t-212552","c-197273"],"source_refs":[{"kind":"internal_claim","claim_id":"t-212552","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"},{"kind":"evidence","evidence_id":"c-197273","source":"darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md","quote":"Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai, yra medų palikuonys, gyvenę prie Dono žemupio ir Juo- dosios jūros; pirmiausia buvo sarmatai, amazonių kara- lienių valdomi ginekokratuinenai, po jų evazai, kotai, ki- kimenai, mesėnai, kostobokai, choatrai, žigai, dandarai, tisagetai, turkai1."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T19:34:22+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 8a80a82c829793da
+object_page_generated_at: '2026-09-20T19:34:22+00:00'
+object_page_source_checked_at: '2026-09-20T19:34:22+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'ginekokratuinenai: Narbutas aiškina, kad Plinijus sarmatus vardija kaip amazonių karalienių valdomus ginekokratuinenus. Narbutas aiškina, kad Šis vardijimas…'
+object_page_seo_input_hash: e95eb8367c52a2329cc290b14c74773e375322c394978c7c59c2fb3d2ce28bfb
+object_page_seo_generated_at: '2026-09-20T19:34:22+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # ginekokratuinenai
 

@@ -13493,7 +13493,8 @@
     },
     "objektai/autoriai/A. Prochaska.md": {
       "content_hash": "4aaa99eddbe08f09e587b7365220877f8125016e837abc2bc4f8e87794e28c4d",
-      "rendered_hash": "a95b5f83ed63316477f55ad2321b1a1ae9fe5759e7bc85b3af441e9ee032a8bf"
+      "rendered_hash": "45dd93097582a79eb5d293c7ac6cc2d86af81d77051a09fc1b767ba4c3b3b0c5",
+      "projection_mode": "authored_object_page"
     },
     "objektai/autoriai/A. Raulinaitis.md": {
       "content_hash": "a96d4e94f8918016b0fb6d4211707661cdc9d4e64f4690ed2e07da2f0fb15095",
@@ -13723,7 +13724,7 @@
     },
     "objektai/autoriai/Alfonsas Eidintas.md": {
       "content_hash": "4a399f94e175235d6b46110274f9ecaba81166e00e72ae00ec3fd03071d8d771",
-      "rendered_hash": "266688d916a5bfa9f156ac896eb6d9077d54c3ed839d0179bbb88f43f0b570d2",
+      "rendered_hash": "71f93442f3ffc38b0004d809cf9e1428b97b9e112387f2b2ef8f270a7b1bee2e",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -13764,7 +13765,7 @@
     },
     "objektai/autoriai/Andrius Rudamina.md": {
       "content_hash": "dad7d305b73b85ac5fc9ed6ffb90be40a7ef9868d2133cc0936bbe3f87df1bec",
-      "rendered_hash": "947a6e43e4191b73075be472b1b68268014e8aa29bc3c48cf89ec150d331b4f4",
+      "rendered_hash": "8baf86dfaa667a92d7b30fd423acd98e1fe998e3edb9d7d3fff1be03d5cdac51",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -13882,7 +13883,7 @@
     },
     "objektai/autoriai/Arvydas Anušauskas.md": {
       "content_hash": "ecaec6959d61c9b2ed58833c007bd13b31f41e2f16fd67c76358a49995fe5813",
-      "rendered_hash": "cfe535b9cc34fbffbe176fa723066bf1ae52e418810ef1e23a4fd841bc6b2199",
+      "rendered_hash": "5a016d4a8f66221ef8b89b5ecd783ddb4731bc62bbee754742d9563f4a77dab1",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -14790,7 +14791,8 @@
     },
     "objektai/autoriai/Grigorijus Camblakas.md": {
       "content_hash": "0b343cc5e6f01cb21e18c84a3ba864fff021b81685a02cedea3db9714c29e324",
-      "rendered_hash": "badfb69ae90236ff161f49a1e982c8d571bb4c3cb2853b8b3f706f08365ba9e5"
+      "rendered_hash": "4a48578a44953f98dcca9c18ae685e3c5e6ab9874e11c608850e959fc0a311e3",
+      "projection_mode": "authored_object_page"
     },
     "objektai/autoriai/Grigorijus Demčenka.md": {
       "content_hash": "2f4c3c37cf1729ae6b6d4caf6f2a492ce9a7ea1fe5f9220af11b0f5acba00b87",
@@ -15416,7 +15418,8 @@
     },
     "objektai/autoriai/Jakštas, J.md": {
       "content_hash": "257c6697506e0a01a76859d230771928bb8ff5ac4ce926ab055bc3bdf43776b2",
-      "rendered_hash": "3d0f4809ada2075d4d49dddf0009fbc7a2b6ddd186f30d8083335989824e0754"
+      "rendered_hash": "3df294300d99730d85a60c6b2c004c4bd3e28464241de8cbaef43070f0e260b6",
+      "projection_mode": "authored_object_page"
     },
     "objektai/autoriai/Jakubovskij, A. J.md": {
       "content_hash": "5d654131ccbd0804c88657423e2dacf7d547db853d31013029cefd829f9cbcc7",
@@ -15861,7 +15864,8 @@
     },
     "objektai/autoriai/Karolis Riteris.md": {
       "content_hash": "f7564e9667b90e29680a7eeed9f20fe9550b8bdaa897b3c36173605f8ef93f57",
-      "rendered_hash": "bf214dac48ed0a780890e9abf696006344c626b81bcbc7e34944c0863b667847"
+      "rendered_hash": "10f5e7ec5d3e2be6d2328e00a8025ce6b79c3068d1e0e31e52fa76f46774b73a",
+      "projection_mode": "authored_object_page"
     },
     "objektai/autoriai/Karolis Zikaras.md": {
       "content_hash": "4f7f7772a99bf8f05418460b0996a512c710fbe074d1611a21f437c997efa29a",
@@ -16196,7 +16200,8 @@
     },
     "objektai/autoriai/Labuda G.md": {
       "content_hash": "ff3aa6827fee42feabcc578e9a41a6063d150a28585958a46a523b9cea4bccc5",
-      "rendered_hash": "f2bcabe94b3408e252828da8cbe5cdf37f7505b110934b044f157e4cad3d73f5"
+      "rendered_hash": "cddc994f7a4091e4412998c85e4eae14558aa70491d075fe707945ffefd7b4de",
+      "projection_mode": "authored_object_page"
     },
     "objektai/autoriai/Lasickis J.md": {
       "content_hash": "54fdf3b7b029c3bfabea249cbe8f0033b217a2aa5c1e9522a390226d37b76445",
@@ -16300,7 +16305,8 @@
     },
     "objektai/autoriai/Lindenblattas Johannes Lindenblatt.md": {
       "content_hash": "5065a92a08aa8aa3c872d65e72c48dced0fa4517c96ce33200aeb366aa72ded7",
-      "rendered_hash": "9166a88eaf93cf7696efc341731ecb4b2a3b42d609ae5ad3c3e8c84b42ff0dbc"
+      "rendered_hash": "dfadcc0b2229cc255baed2f3a585dfe76dfd52371eaeb2c0c4959e132bd0bff5",
+      "projection_mode": "authored_object_page"
     },
     "objektai/autoriai/Lindenblattas.md": {
       "content_hash": "7e88883234613a9f4ce350d0540348a747263bb5875a2ba64bac4cb38e7a1af5",
@@ -16753,7 +16759,7 @@
     },
     "objektai/autoriai/Mykolas Kleopas Oginskis.md": {
       "content_hash": "901d986b3ec4f0ee50e8efc0ec46fc64f9bb3e53c143285406da6ccf2d7a159c",
-      "rendered_hash": "5cbfa967db3bd58d43ddd0b4b84e0834456048e107b3ccd37664938a1c49ad79",
+      "rendered_hash": "ebc4d22237829cd1274bea9393e43a512f4f28cd66c5581e6af7fae86fa43c19",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -16822,7 +16828,8 @@
     },
     "objektai/autoriai/Motiejus Pretorijus.md": {
       "content_hash": "81d8bc442bb96867529026de9377d324deb38382d7506a25fae87225f5b2d9a1",
-      "rendered_hash": "41caf7c5157ded8f7644f05890ec750dcaaec64388b28cc24e1a8f318eb4a50e"
+      "rendered_hash": "f000d0b1a99dd888926434436570607ba34acaff04ae9e9dcfd64906f5d44bba",
+      "projection_mode": "authored_object_page"
     },
     "objektai/autoriai/Motiejus Stryjkovskis.md": {
       "content_hash": "0a689c15699e55405fa8224795c3097a3a3eaa0f79a76dfce5fe1aa1364a4c32",
@@ -17258,7 +17265,8 @@
     },
     "objektai/autoriai/Powierski J.md": {
       "content_hash": "ba745a97dfcdab84a20bef756c4bf86ff5b1274c7d17ffe6889c01aeea7f57e7",
-      "rendered_hash": "0d89e3b4bd164e64436f81eaf5779f02b8e62ea04dd621437ed6d45951f72367"
+      "rendered_hash": "35271a38ccd7a696ff46357ebb90a8d032de42eb0fd63ca7fafb1883141683ff",
+      "projection_mode": "authored_object_page"
     },
     "objektai/autoriai/Pr. Gaida.md": {
       "content_hash": "a21032e463dce536e6caa09260a7e458f1d26fde9ab6013da382790b05938181",
@@ -17626,7 +17634,8 @@
     },
     "objektai/autoriai/Safaržykas.md": {
       "content_hash": "1601ddbc3541031f52be405866d4521840f94cb463ebb01b8eaad62822f46a76",
-      "rendered_hash": "15f3e41a30bd12b3b1c31a4473c02c98969ed3e780a652f873039185bb5777bc"
+      "rendered_hash": "b616b1a7849f0c94e467084464f6dfe90626affeb574eb88abf76c8e080b6078",
+      "projection_mode": "authored_object_page"
     },
     "objektai/autoriai/Sakso Gramatiko.md": {
       "content_hash": "e3f37a30e65a7ab00473da51f551ae6f808164cc09b0498663d5f14514f84ee4",
@@ -17874,7 +17883,8 @@
     },
     "objektai/autoriai/Stryjkowski Strijkovskis.md": {
       "content_hash": "e288fe34f0dfe6116941a116540c548a500fa90c103001ed00f8023976f29f53",
-      "rendered_hash": "1f9710cfbd80a12e4eb4330dcc6a7ba537b8c91fb30c825b8c22aaf99972298e"
+      "rendered_hash": "a0285748165d1a32f48516942f6857dffac4af7c0df2d2020922971d73775f23",
+      "projection_mode": "authored_object_page"
     },
     "objektai/autoriai/Sulikovskis.md": {
       "content_hash": "e040a0299876053206611fcaaabaadde7aeef2a0adb352c00d53549d6c65b7f6",
@@ -17983,7 +17993,8 @@
     },
     "objektai/autoriai/Tadas Korsakas.md": {
       "content_hash": "a576d95196f7cc194d967c6b3f6cfd945d199bcb051c36a04c3def4d1a8e63a8",
-      "rendered_hash": "0a9155e6805cb31b863602c6eaaa5e4b15cf4d8652a3e7603426d350e785cc54"
+      "rendered_hash": "77c7b505d504f09e46415f32f3aa8e3ec71dba594e5efd79979c7a329ac250e8",
+      "projection_mode": "authored_object_page"
     },
     "objektai/autoriai/Tadas Lipinskis.md": {
       "content_hash": "af496a56a0b77a04467d42799331388ece8028476d4080a1881e4a5edcfc777b",
@@ -18868,7 +18879,8 @@
     },
     "objektai/daiktai/ANBO lėktuvai.md": {
       "content_hash": "d7bc9ce1dacb38d5b172646d9ffe22e16dae865763a71b0e906701c7af0e55e6",
-      "rendered_hash": "748b98e5b781be489bd4328d3289149179c66d6be71435c5f6a718a2492f3a6c"
+      "rendered_hash": "95c6b5382e0e0af0182d758bf287d9e4caa21e38e8916948b1fc2df2b02b4897",
+      "projection_mode": "authored_object_page"
     },
     "objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai.md": {
       "content_hash": "5fd69feb8332987755ca17a1b5990c2dd15212f73e994670ac0e2cb4225d34ae",
@@ -19332,7 +19344,8 @@
     },
     "objektai/daiktai/Du pliki kardai.md": {
       "content_hash": "ec414feb56a21bcb4d419b49d3fca339dd020d5ddbc32713686455fbeaaf81cb",
-      "rendered_hash": "7688453b0c2334d185eb677b1a180b95cce590509e97c773823efa923c40be83"
+      "rendered_hash": "a8bf824511ff46e174b0ddc7378151411afb656fbf2349e51f8902568bfa1772",
+      "projection_mode": "authored_object_page"
     },
     "objektai/daiktai/Dubnia herbas.md": {
       "content_hash": "5aa77cf861c68e15d5e7c2f8608601b53c2ab25b4e1dbcefe4b7032ef0dcb1c7",
@@ -19404,7 +19417,8 @@
     },
     "objektai/daiktai/Gedimino antspaudas.md": {
       "content_hash": "908d7edaf7eac80626c199d6bdf21e746e8adc78b771c737350d4d3e4fdf2a02",
-      "rendered_hash": "271fcb8ae41a41afd7db594761e5b13555992035f8d7537f2b2c4aacf6b852b3"
+      "rendered_hash": "bf85c15af280085db6aec351b9efb8518463eb5f2afea73cc953e94b0471ff70",
+      "projection_mode": "authored_object_page"
     },
     "objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios.md": {
       "content_hash": "468bf5508a0d8f331c42863058f1bd330e9733029131213e595f0f69eeb8ff5f",
@@ -20105,7 +20119,8 @@
     },
     "objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje.md": {
       "content_hash": "ef6d2238f1be27c73ee76d6b3f5d1a3a2521a65f3f07177ce612f598eea9e4e9",
-      "rendered_hash": "d33c767febe8cab39f097e1ed3dd33a8e65caa04da29ce4845df4d38a1d12337"
+      "rendered_hash": "acbcef8196881134066c37d8faa846bafb93ab4318b76121dedcc72b49618701",
+      "projection_mode": "authored_object_page"
     },
     "objektai/daiktai/Masonų apeigų taurė.md": {
       "content_hash": "c5a1c52ffd209ea60f048c09e190e253a6acbba0d6b6714dab09f32b34978eb1",
@@ -21126,7 +21141,8 @@
     },
     "objektai/daiktai/Šarvuotasis traukinys Gediminas.md": {
       "content_hash": "15c9b6a3d60395db6b97697879d6bb46f10067c6b547d57fd473384027f60575",
-      "rendered_hash": "7e4f6f7bb10ae0a51447883424803b9f74f223f70b602c3277aa8e526e23aea9"
+      "rendered_hash": "50996fe2a52bd08f4e44504d7fd1f8b575495eea4cef9cb6e2a9e86ebe26bcf2",
+      "projection_mode": "authored_object_page"
     },
     "objektai/daiktai/Šaukštas.md": {
       "content_hash": "6d89c17059b2e9d4da14009f45490839d14ba13b074bf1d31c4bb9ea99baf3ad",
@@ -21274,7 +21290,8 @@
     },
     "objektai/daiktai/Terba.md": {
       "content_hash": "a1a01d3179898d5726bdc4000ecd4f6188d9521147555afa8d4d3006d14241a1",
-      "rendered_hash": "2e43fe06cb71714dcd6058baa479f588c2e0a22d0108ce084f7a770aa93af71b"
+      "rendered_hash": "c16d7263043ddaa724691624b7b57730bd0a21b18cc47b35f7d41fdcc8c3ec74",
+      "projection_mode": "authored_object_page"
     },
     "objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md": {
       "content_hash": "6241d64ce02501b004a7112da103e2f535a7899cccae763006209299750a9d29",
@@ -21354,7 +21371,8 @@
     },
     "objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje.md": {
       "content_hash": "e474c227f9f54bbcb010e549c4f1811cef74fc86cd0648b5ed75f28e9b095c4e",
-      "rendered_hash": "665aa2bf365f3a24378bb14083877a207e73a285a247f50b6a1a26c02f71d9c7"
+      "rendered_hash": "0d646f284d9900394e34976da2c5b4b0e886068e7c49299e2e1b412c1214b215",
+      "projection_mode": "authored_object_page"
     },
     "objektai/daiktai/Vaidilų apeiginiai drabužiai.md": {
       "content_hash": "eefdaa037aff69b4b1e3c07a962b7a20171715aa34ce2413aa157bea1e740b33",
@@ -22304,7 +22322,8 @@
     },
     "objektai/grupes/Boristeniečiai.md": {
       "content_hash": "ae361d36057a8867049ba0fd5b67f94f996723af80d90ffb9a53b960b887d35b",
-      "rendered_hash": "ecb22be904a8f92fe6c6860d330414b0c9460bb3b14e6f0e668f100f0b2934ed"
+      "rendered_hash": "61976dbfed18570a21104a9d615b127e9e7d4cc257e0a3c62f00ee2ba74b1231",
+      "projection_mode": "authored_object_page"
     },
     "objektai/grupes/Bremeno pirkliai.md": {
       "content_hash": "9c57427bd1b10e3d06e7965333225a3c3b7eab3254304f3cb4e6c57b22b1c25a",
@@ -22649,7 +22668,8 @@
     },
     "objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai.md": {
       "content_hash": "4071fe7049a35b27323d7bdbe4f82eee2679e5e75a4391d4e92baa1f2563a4ae",
-      "rendered_hash": "cca2dad559989230b350a77e1904d0ff63e457c96b01d5c82878685544cc6f2e"
+      "rendered_hash": "db3658e18e369c2269589340a394d9c26f484c06ea584fb4dff8091c24e03cab",
+      "projection_mode": "authored_object_page"
     },
     "objektai/grupes/Evangelikų reformatų bažnyčia.md": {
       "content_hash": "621e0206f0badc396c9b01e1a953f688565ce847cbe1998214bed474b6a241c8",
@@ -22701,7 +22721,7 @@
     },
     "objektai/grupes/Gardino seimas.md": {
       "content_hash": "f2bfd04bfb24a2a2b3320ca6d647f6662bc1eac5d0127c9d6a97cfe294435654",
-      "rendered_hash": "adb32d946786fda7994a6a6f63436cbf0dbe6f2c29ad9d2dfedad58d44102c6f",
+      "rendered_hash": "c4af05a7d8634137fb619710a7052d2ebc3b07355a4a9483e100cf2832a377a8",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -22916,7 +22936,8 @@
     },
     "objektai/grupes/Hiriai.md": {
       "content_hash": "2b45a6b286799feeeaced6df7d5d84810886a2f972f3942edf74daca2770b370",
-      "rendered_hash": "e7f2b2760269074d0853f0b3eedcebea8bb96efa9f61af2b6dff5758d63c826f"
+      "rendered_hash": "c05d03680bfcfa70651a752dc55b94f413f9b5cac814e9084b9fad68fddbd91e",
+      "projection_mode": "authored_object_page"
     },
     "objektai/grupes/Hohenštaufenų dinastija.md": {
       "content_hash": "66d20708dba8fe9d980906dedead9ba7f1c351fd593a10a2b826dfbfa1ac5c63",
@@ -22963,7 +22984,7 @@
     },
     "objektai/grupes/Indai.md": {
       "content_hash": "733e5e3571a660c364a5804ff2bb1e83d7940b566e2a750fd6a5e3e7687ccf77",
-      "rendered_hash": "2ff8d8245048b96e5534cd46e9333fa62681497d0b4d45d2425bb28d033915dd",
+      "rendered_hash": "46ae614464e3aef03cdf0f9624837013989408cb5ac4f3ce0044f5503c3e765f",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -23878,7 +23899,8 @@
     },
     "objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md": {
       "content_hash": "8b3a03dc22467522b213d81079b71478136b13b802308c98858daaf361aa180e",
-      "rendered_hash": "6c76e35a9d173f03ba6c06e2918d4d64115c777ad66b0a8b196f886e400f6014"
+      "rendered_hash": "3d4db13dfd4b886371a2f108c953141784e69c92aecd4a3dbfce6db10b258097",
+      "projection_mode": "authored_object_page"
     },
     "objektai/grupes/Lenkų karinė organizacija.md": {
       "content_hash": "55f2fab43206c9ddb2ab7118a40a9e273419078cd9e497ca02bea205a3c3ed3e",
@@ -23975,7 +23997,7 @@
     },
     "objektai/grupes/Lietuvių aktyvistų frontas.md": {
       "content_hash": "087058b70855718055d7c7cec2eb4210df6aa343f150278e0a58ae19d16b7940",
-      "rendered_hash": "edc2daa204399dfc710db7bdd8e6fdca21bc73da6b0d3c6f8fdfa650d3fb8bb9",
+      "rendered_hash": "d0eb2a249237190608190b350e31618cfe440dc94fa3fdd424400363cb22b1ac",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -23985,7 +24007,8 @@
     },
     "objektai/grupes/Lietuvių bajorija.md": {
       "content_hash": "4c276a09fb85e1cdb6d8f6efee1d92cfada1002f72fd9fbe34f423b1df4419ec",
-      "rendered_hash": "5d50229651bb75246506180ad14f56f69e4cc0d0c38b376a07d9f11ea85f2f2c"
+      "rendered_hash": "9da4e171a5d27459134eb4ee2b517e308dcbe88785910f192bb05253cca1c6e4",
+      "projection_mode": "authored_object_page"
     },
     "objektai/grupes/Lietuvių Dailės Draugija.md": {
       "content_hash": "ac302951e893d5b34c5ca2ecce31beadf1a7280951a823d3e109d0f4c53d6e92",
@@ -24039,7 +24062,7 @@
     },
     "objektai/grupes/Lietuvių tautininkų sąjunga.md": {
       "content_hash": "a802c17ff283eec64d1b9c23fbfc274c290f53f8195bd1924f26d9ec509d4e41",
-      "rendered_hash": "263d687130829bd2d74e866f0c0947ff2e952afc367381f41aa4989d07554e93",
+      "rendered_hash": "e0b7265b65d709638b181fd7f66eb839e063a34f701baca08d6ea994f34cad45",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -24168,7 +24191,7 @@
     },
     "objektai/grupes/Lietuvos Helsinkio grupė.md": {
       "content_hash": "093bdfd5e9aa5ed495dcc4b7100805f128002ed1534b0bef9203255703a8628c",
-      "rendered_hash": "29af20a306753b89a045fcef69103f72b19723bf77e1c92c437e1d91c9a7edf8",
+      "rendered_hash": "5a50f72c7c026b54b19abecb755b6d000fc44b720759a39c2e2676b6c07574bd",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -24367,7 +24390,7 @@
     },
     "objektai/grupes/Lietuvos socialdemokratų partija.md": {
       "content_hash": "1cd5d31171f3ee60d45e58ba544e91855daaf432ae54e1f87a3aed8496bcc3cc",
-      "rendered_hash": "cdea4e9ce3b8a4c73e58d8c01cf507a8c26ede841e0aa07b9ccf67f9ba915a5f",
+      "rendered_hash": "cf3aa6605d6f62e79db03a7f684cd2701976aba85a75ee5df3876fd944bd3aac",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -24377,7 +24400,8 @@
     },
     "objektai/grupes/Lietuvos SSR Aukščiausioji Taryba.md": {
       "content_hash": "7a9cec520b9aa3e205ee2628484e020b2d7928762a66294eed4a41e27a1f198a",
-      "rendered_hash": "0f0239ee6939e0fe3a066ab6f54f2996f83569c1cc4b02eb89b4fafadf7d5d94"
+      "rendered_hash": "5d3617d39cfdcee0c8198c38e043e9059a5d17fbec2ac73d9a28ca6ffdd39d2f",
+      "projection_mode": "authored_object_page"
     },
     "objektai/grupes/Lietuvos SSR liaudies komisarų taryba.md": {
       "content_hash": "b965d00cf86252aa4a7071b6ae8652a5e550d423809bc23494681a40141d0146",
@@ -24945,7 +24969,8 @@
     },
     "objektai/grupes/Nuolatinė Taryba.md": {
       "content_hash": "0316bcd805bc11f768770e32fcaae73fd05aef004638317a0b8df580aa66a77c",
-      "rendered_hash": "09edf84e479bb437f2319c3074ea7b27aa8244c805ca310dc04c54d491aadb33"
+      "rendered_hash": "7d27c49b607a56414130e49702c8a07460d7e0825e6329243d878502a63a1c7f",
+      "projection_mode": "authored_object_page"
     },
     "objektai/grupes/Oberostas.md": {
       "content_hash": "3724c6c8e55273b5fe5d48420b8c87806f969fdfdff648e230491c78be8e30c0",
@@ -25149,7 +25174,8 @@
     },
     "objektai/grupes/Pijarų ordinas.md": {
       "content_hash": "73d16dfba2d78e91873721bf26374a664de8c694974f7fd85520fb61d5b4fa95",
-      "rendered_hash": "4869fcb0b8ee41e45f3001b0d1ecda13b49604875df93ff414a347a59863ff27"
+      "rendered_hash": "8fd861baaa8817f670307fd9eff52220fcdd170206b7a70b514d3bd44ba53cff",
+      "projection_mode": "authored_object_page"
     },
     "objektai/grupes/Pijorai (grupė).md": {
       "content_hash": "342de5f4b3fb29c4d6282f04119ea2ffed2ae9c34a0d5757ac37cbebe4ac1f15",
@@ -25298,7 +25324,8 @@
     },
     "objektai/grupes/Prūsijos lietuviai.md": {
       "content_hash": "724b443a2e7f17a68bc18427fbea9341613d31f9ce3eb1c5a348613913c85406",
-      "rendered_hash": "32eed3a15beb14edffa9b48c54865e6eef6a9bcb09f560d1e1ea2792445ec8af"
+      "rendered_hash": "e5c385368519e81d5c966e7f5910de8a2e3652849899fdde16c0459dda4c9d44",
+      "projection_mode": "authored_object_page"
     },
     "objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md": {
       "content_hash": "4ad55d434757dfe7841dd7287cacf7d6501bc39b5e9e4eaaae61e310fbb7b7b7",
@@ -25630,7 +25657,7 @@
     },
     "objektai/grupes/Sarmatai.md": {
       "content_hash": "d1ce0917ab425041e45138454f013d208d66780ec1eef7bc5f6122dbf3e414b6",
-      "rendered_hash": "278e3e46289ce54956ecbe78428f7e7ce3882cd96c2638dd78f33dbb176255a5",
+      "rendered_hash": "5ce298c8846a6b3343c95f151c2f4ab995f994ef1fb107094c34d3e6bcb90a6c",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -25747,7 +25774,8 @@
     },
     "objektai/grupes/Skiriai.md": {
       "content_hash": "a5aeaf6d5a6ceca5eab57dbe401c076a326d6dc8585cd5bd89d66018a1bc92a0",
-      "rendered_hash": "e2d08d6856957b2b8dd826c0b9b6683bfe39f30744c6ee9deff7cdde40ef892b"
+      "rendered_hash": "b89cc553fe3fc8b32b71e02a2053b0319394492fbfc28b90c03731e8f048437c",
+      "projection_mode": "authored_object_page"
     },
     "objektai/grupes/Skitai.md": {
       "content_hash": "dac27fbb0257b53293bb08cc5ccbb81b7feb8f897f6b6ad02695b12250460f32",
@@ -26657,7 +26685,8 @@
     },
     "objektai/grupes/Vilniaus žydų kahalas.md": {
       "content_hash": "a8bbf679d95a65f2648525559c1a8e6e5d05ac186700a40a715aaa4d085cb9fe",
-      "rendered_hash": "2ddcad3833c7a9d3a625f46f0940d61d26e2bb6c0a174c6b7fddd9fe31b34869"
+      "rendered_hash": "6255a97ecfbe63ea6a23cfa60566f30b5c0bc276adeb501a4b202433ee1512e1",
+      "projection_mode": "authored_object_page"
     },
     "objektai/grupes/Vilniui vaduoti sąjunga.md": {
       "content_hash": "90867e36266619b6b6acd82dcc8ca512368274d04ea3cb47cb2bc1ff8b9f9a35",
@@ -27430,11 +27459,13 @@
     },
     "objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md": {
       "content_hash": "d5e6962087be155425285f02225c78c170abb8f3952fd673ed208bb63eeb5a59",
-      "rendered_hash": "7b751b73dfa1c16db66b32f176e10385b689289d4597c8a7a2196f3265c8ab0f"
+      "rendered_hash": "47897c267be0bfd85e812c9d0cb6defc96dbf7aa509bb1752cb96b4ad21985e9",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/1794 m. sukilimas Lietuvoje.md": {
       "content_hash": "8d51fca7cafbea8211f0b224d18d17f233a1f7d67106bed696dddf35429ced1a",
-      "rendered_hash": "7a148a14ac899f3172f7d472bb9a854b628df341d3edaf7bd142f0721f8a538d"
+      "rendered_hash": "66eae682b8bdee3b291cdd2c052518c93678b229e47133c4e77b87582de07116",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo.md": {
       "content_hash": "0c9a190d135bcb5d24eef6116b1a62327aef9cb7cfd025ed002030cef6b6db56",
@@ -27504,7 +27535,8 @@
     },
     "objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md": {
       "content_hash": "cad08a4315ceef7e7be147e2bdf0add809fbc699747d02705fad280900bcf479",
-      "rendered_hash": "a68fcd8cd03e9730144a1b039476c79b3348c248532403bb7f2751e9d6b807ab"
+      "rendered_hash": "4cb6f13ba1d558ba90e7f1005308b467f40f2854cdbb396e172e2b20df78015c",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md": {
       "content_hash": "bc573d799125ea1285e01355bcd024e49b4ffef88652fc1d9c0b6501b2c99f3c",
@@ -27530,7 +27562,7 @@
     },
     "objektai/ivykiai/1941 m. Birželio sukilimas.md": {
       "content_hash": "5e60be62935afdd28d3edb4c5dd12474834c7f8884982c4619323ecd43d2c267",
-      "rendered_hash": "7b29edf46c864b79fd2ebbdbb6ed187d0f6435fb678f6774a1c92abcd91f4af9",
+      "rendered_hash": "d13f1fd49674f869f15f5cd48372f46fc4a944e79cc7825bb7af220a6861c365",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -27820,7 +27852,8 @@
     },
     "objektai/ivykiai/Antrasis Panevėžio puolimas.md": {
       "content_hash": "bc96f5dcea0448567e899acb381cb5d8012ed4ca7cadbb8b238146bf6c54c40e",
-      "rendered_hash": "076876b51cc5c026077924676dda0028ac16f3090899dd0629f8dd7ce4fb82d2"
+      "rendered_hash": "12ae306410a952fb7235840763ae2e292b180eabe664d3736d064797406bba62",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Antrasis Respublikos padalinimas (1793 m.).md": {
       "content_hash": "1f070e1f2e5a9930cffc3bb2a422a510312ed0a478f68ee4579e3b9e620d3cb5",
@@ -27903,7 +27936,8 @@
     },
     "objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md": {
       "content_hash": "5e8a99eba18b954c0bd9105496148f88a8a0943e86b1b51daea0a44d41db54b5",
-      "rendered_hash": "cad9e7305fa02494525625a5302920898a4c76287f940f8d758c1c376d32cc22"
+      "rendered_hash": "ea778a4f3da6a04c6958b9bcc0b727b9c89417c0460c3229f32612a9c987d933",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Augustavo-Suvalkų operacija.md": {
       "content_hash": "6ea2bed143101da1c341a01fff6616c456afe0607fa7d3ffc257c91b42bd29d7",
@@ -28051,7 +28085,8 @@
     },
     "objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.).md": {
       "content_hash": "5db0b4127276e6eff9258b5647ad322e74d40ad7c7be400e8bae61933e030975",
-      "rendered_hash": "6cd02d3413e282507f313bf073470e4f7f19671cc25447e17e3974204c94603a"
+      "rendered_hash": "a04dbe9d1fb10f0ab76668a62c67a5ae1bc8015c6a3f3e073d28a68e24ca2916",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Bartolomėjaus Petravičiaus skundas Upytės pilies teisme.md": {
       "content_hash": "499549636164843ec19981dd920ec18a505cdbc6bb09b9d190b378973bdeee1f",
@@ -28083,7 +28118,8 @@
     },
     "objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md": {
       "content_hash": "3cd78f341a6fa8b0688eddf57f06226cb70ee8d3feac794699f856c0d4e305a4",
-      "rendered_hash": "56156a38e5b9fd4c7152d7a917019fb65a66f5036e6784f68d7b8a5937c0e665"
+      "rendered_hash": "8ea4e1afca4a1b1f08c19c117d0d7a67d5b73e664fd1711d5d59eb1da9dfc859",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Benedikto Aleksandravičiaus dvarelio Savičiaus gatvėje puolimas (1741 m.).md": {
       "content_hash": "15b67a7003a8c77848522df53928993a523534a538f8806de9b2a428b8c3962d",
@@ -28641,7 +28677,8 @@
     },
     "objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md": {
       "content_hash": "ad04bac9ed6c919f017211a28c7de59c427ead0c0eb5fb5d147beb4ebd9ad420",
-      "rendered_hash": "87b7f5c629012d15993c407dde5ce8ceb46af1dce7e38174e8f8d0895d7995cf"
+      "rendered_hash": "704b6aa1fdb9a52bdb9e1e425b1f05512c6853ad937b20dd6d38d821991aadb9",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Druskininkų kapavietėje rastos monetos radimas.md": {
       "content_hash": "dc4d913a02fcde1bf1434c78685b066e932346c4ad07b79450bfaab4aee571b0",
@@ -28669,7 +28706,7 @@
     },
     "objektai/ivykiai/Durbės mūšis (1260 m.).md": {
       "content_hash": "eae00d51b710a030ed3a255a7777dbd139f38fe9b5a162c9319d50a56e4cf4ac",
-      "rendered_hash": "73c6780268c72d41ead45b0ba729d711ab7f63aece3f0e5faeb3e46b36962c95",
+      "rendered_hash": "d91612dd3e079298abd05bf65e2e52cdaf578e1fdc886792749e231b65036580",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -28941,7 +28978,8 @@
     },
     "objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md": {
       "content_hash": "08ff6615acd81e8b36d0a1011851b66f8beffed9ffb580755c772bee36671762",
-      "rendered_hash": "31c59ab6b027b7021c69f6dc62678e366ea26266288d8a333d5dfb0a27f1b670"
+      "rendered_hash": "8195a112c86bcba71e95e6bec709e716094427c18eaf14342589885cac3eecae",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.).md": {
       "content_hash": "c831e317b7f8c44387c560a61e819fb93be3f44024b7cdbc798797345026c43b",
@@ -28973,7 +29011,8 @@
     },
     "objektai/ivykiai/Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.).md": {
       "content_hash": "4178afdf3fa3d0266824378d07b2e138f562386eaf9016a9662565ed5f8600eb",
-      "rendered_hash": "4504de59a87a9386a4e2cfb7adc8b165de2cdcf724086d7c082ae88cfde755b7"
+      "rendered_hash": "e6a54f9df8d558409385c7f341222db1b91d96c4c5760003bd700162e54873e5",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Gelgaudo vadovaujami kariuomenės žygiai į Vilnių ir Šiaulius (1831 m.).md": {
       "content_hash": "4cdb7cfa27ed0ad8b9c13d78b48abe7680536aa7502405b4ccef2b6975590a75",
@@ -29169,7 +29208,8 @@
     },
     "objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md": {
       "content_hash": "20f09e6d6e2a2f369e52a001e55a6d84471cc87d5d569ac28580344dd4244f5b",
-      "rendered_hash": "fa7bc11eb327fbfaf82bfeb9953badddb74374d9746223372be58b1433acd0fa"
+      "rendered_hash": "413c6087d8c3f3e74402ee784e08361ec1148b118b7422cccad1405dbf48673f",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Holmo sukilimas ir vokiečių žygis prieš sukilėlius (1204–1205 m.).md": {
       "content_hash": "5aad3337a0b53df1b42fcbd34ff26fb52dd7c3c5b10953312427cd059c0ebc46",
@@ -29293,7 +29333,8 @@
     },
     "objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md": {
       "content_hash": "4df22ef7fdc5f158f6a1f1747d36207ac54952236be0b7108dac7da0a93464c6",
-      "rendered_hash": "5be3aaf1971a792e6d4243b312c1e20471a5aaebad2e896fa864b1ec3b010dc0"
+      "rendered_hash": "c787fa65e273bfce93fd6cedef26dc6fa1e194bb7e9e07f3d5432805b1e61749",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Jeronimo Prahiškio atsiskaitymas Bazelio bažnytiniam susirinkimui.md": {
       "content_hash": "7ba8100bd9575e3b6f753972957c04897060c4d05806731bafd2228bd8c8dc00",
@@ -29917,7 +29958,8 @@
     },
     "objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md": {
       "content_hash": "b8f4de31e0c876b97de5f9e8da58f5ca3b0d4ffd753a6c819062dd4aabab461c",
-      "rendered_hash": "71d17525304110ca7e52d33a37979fbc12505b1918aa9d655ac772b33f67266e"
+      "rendered_hash": "9e4855b3f0029d5ca75b1a124bc1d443172051f4894be4e2600f8ce6bba607a5",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Kauno rotušės statybų prižiūrėtojų rinkimai.md": {
       "content_hash": "36efb94b0c437832218d1e20e7befa7d6c7549aa09b0c659538cf96d359e5fde",
@@ -30033,7 +30075,8 @@
     },
     "objektai/ivykiai/Kėdainių-Šėtos kautynės.md": {
       "content_hash": "d19bf9bf57f4abfa185e00678476e69ebd9c623291e4d11fa2fc0446539cc511",
-      "rendered_hash": "3b5ed87a6b146e71266453bdd8a973675bf1d2e23dff56ffa5fe804b1ab952ec"
+      "rendered_hash": "7f3bd25ab55dc7f6eb35dde627ae8336491d63279f4eedbf07d9733ae211ce30",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md": {
       "content_hash": "9dc1b538ec72d30160a37c0dce4f1ebe9db3612e7a78a3ad218571e0eba7bba9",
@@ -30830,7 +30873,8 @@
     },
     "objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md": {
       "content_hash": "ef9028e8925307685fcc1c4de568621ace0c3550f1036b6061b122f7eee40624",
-      "rendered_hash": "f8b7e33c5677ab1594571e9d78da98dab21726daa55d25c01eec77442284499d"
+      "rendered_hash": "c442688f648b7e1d12657f90dd6b75cc6fd6daaa0ac3b1db7bd2a9317c09208c",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Kurbakos nuskandinimas Čečerske.md": {
       "content_hash": "0d0c522f8df7b04be0d0532911ad58322d774d77aa56283c4509cececaeb23b5",
@@ -30962,7 +31006,8 @@
     },
     "objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.).md": {
       "content_hash": "bde7fba7847420ea8ec450882933c92aca6875af3e0931442c1f39d53625fb88",
-      "rendered_hash": "7e40b5b142d67bbab072a4bd6aa06bab442928869c536433021bcfaa07a932ef"
+      "rendered_hash": "091f7260e00bf2569f1dab27f9e3a7bb787f2b497f5c8774f854d26a2a3f37ae",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais.md": {
       "content_hash": "505627a9461f76958f4233f3eaeee1066cdfa4cbed349f707fec93fbe08311c6",
@@ -31258,7 +31303,8 @@
     },
     "objektai/ivykiai/Lietuvos delegacijos prašymas Maskvoje įeiti į SSRS sudėtį (1940 m. rugpjūčio 3 d.).md": {
       "content_hash": "f9641095bed8c939599d2f2e35b184dd542d1c8d33fd44b2bfd15f62a812eadd",
-      "rendered_hash": "3932907accb0723de104db261302bda99460ed043c0706afe4e0194db4eac175"
+      "rendered_hash": "3aa4951f8f8f0ec8dfaff9ca3dc05948d7d6dfc2b745a80272451bf2a978a61c",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Lietuvos demokratų partijos susikūrimas.md": {
       "content_hash": "002c348627ad0f43b145301fb545f44bd375001c5684121e79f40c163fa839f8",
@@ -31439,7 +31485,8 @@
     },
     "objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md": {
       "content_hash": "b8dc7471c1585854bf98d78f151a7d9768fe1ed5b72a13ad548b8862af54662f",
-      "rendered_hash": "da6fac0949585d9fee57b2e514c66cd26de49de1eeb7e8b848b151fa689a354f"
+      "rendered_hash": "abaaa7723bd452b6bb5a546a1f3d1d21d862927540b972b75dc8c5e4decefdfd",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Lietuvos krikšto ir katalikų tikėjimo priėmimo paminėjimai.md": {
       "content_hash": "f4bba163827bce8396854abf1eb37b84a001d4479c126daf96c1b6505f6192ea",
@@ -31772,7 +31819,8 @@
     },
     "objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md": {
       "content_hash": "16dbb702a844be08866d0a4b8957e308738751ab4d8789b146ac47f526193b6d",
-      "rendered_hash": "43e3909c1cc153285253824c92f62886b7160ba7fab6ab354bb84ea29d655fc7"
+      "rendered_hash": "35ed3429ca80875a57f980ac410fe55dd72e74a860955a7522304c7b64165b61",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Livonijos ordino Vilniaus apgultis.md": {
       "content_hash": "c79c85085e901325681a3951ca39e0c56d9dbc473055d8f743c51ff04845e18a",
@@ -31943,7 +31991,8 @@
     },
     "objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas.md": {
       "content_hash": "9d3eb80c4271b4c7b486dc780a6100e71446ed72253ac1b3e8828e7077cfe216",
-      "rendered_hash": "1804a98e38af50a9c988a0083280511d1a34e067de7486168975349598dbf233"
+      "rendered_hash": "1f850b669ca8822f2c1b0714eb8046552492836616b5f10a01f8e2a15f72d9e9",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.).md": {
       "content_hash": "68ffbc164f253032b1b769c9f2deaae50c84d3a201fc2803dd8b3f4658919506",
@@ -32827,7 +32876,8 @@
     },
     "objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md": {
       "content_hash": "3dd5b5d5819f60ee4393512a1ae25695b7cb5e5d790d5f727a2009b2cf3e4f65",
-      "rendered_hash": "25bc302bf8353ed769eef5c3528cadea4cfef40e205dff9db855327702486be7"
+      "rendered_hash": "7d8e8e37d8aaf6da173a0609e9c6573d44d4cdc697d3d04766024b61e14bd77f",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Pirmasis savarankiškas lietuvių žygis į Rusios žemes (1183 m.).md": {
       "content_hash": "fda00dfa27783df6a1d2f9ba7d3e5a661d5933b22627b55e6142923274f304ef",
@@ -33001,7 +33051,8 @@
     },
     "objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md": {
       "content_hash": "9f75c03881f6ecfa5a19930bb4371e07c1f8912ac567b3ccd65099cfe6f901d5",
-      "rendered_hash": "c2439e1f444e4323ac4a0fcf1ba4ecc083bc98c8004fdd1c0956b76f93320b7d"
+      "rendered_hash": "e602ad3d1df33588e8a03bf3da0678cff0d7440888c6de9a827ccd02a5ae8d75",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Prūsijos užpuolimas 1356 m.md": {
       "content_hash": "012e14376511f52d6f5061966ce90d5d74dfd50d42c4bf017912f59da1f989ca",
@@ -33131,7 +33182,8 @@
     },
     "objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md": {
       "content_hash": "7719041ab3294ca077b9a91d7fee30c0efa3dc462ee7e7374ed6b56662c7d3f8",
-      "rendered_hash": "109243752d424cf9e14e27eed65995ca8d561c8b2a2f63a3fbf95ccd5378cee3"
+      "rendered_hash": "b8853ae87891ef8b5fbcbfbfc67b47bfe18274a2cf4b6b033d79282f121b90b7",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md": {
       "content_hash": "e9e0e9f05f860665295ce11313321361e122152770a441f70aa8a7d9c250c94d",
@@ -33159,7 +33211,8 @@
     },
     "objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md": {
       "content_hash": "e6e867c352089be7de690e5cb3fe89a6663c81da53f826bf6053a54c29ab50dd",
-      "rendered_hash": "8cef50590c99a67094a6852275cfac9d589cd394e395b6bb1a5ead42cfb64f5c"
+      "rendered_hash": "94639a0895162b548019e48a31de408cbce9396007bf103cceb1992ec8264b56",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Rygos atitekimas švedams (1621 m.).md": {
       "content_hash": "6fb25f48e1f474154cf75a7b612b0b4e8bfb8d6546eef8eeebb80f2ffddb7db6",
@@ -33393,11 +33446,13 @@
     },
     "objektai/ivykiai/Sausio 13-oji (1991 m.).md": {
       "content_hash": "11da598cf70c36ff77ce7ce64171de56549a5f2a7515c79be39f6660feea3508",
-      "rendered_hash": "0f2d56d54cbf2045e952393d4862965a61324ad501abdf7bd404e249139b2c19"
+      "rendered_hash": "11db46ab15d17f319f8db2298fc6a11195ec61282dedd40b922f185c17e9bf61",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.).md": {
       "content_hash": "34f5590ef9106878ae314eedb9b69da470bd445f44690c102cd4ba3a884fce52",
-      "rendered_hash": "b9781b34970d0d8ab651bc8f8ddbc3e10c037afa24925441afc3144370dc4a10"
+      "rendered_hash": "940400976d5ae5ae2f3fb9422747bf27ec914f60319c5a59356a3f3c6312d1ad",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Sedgailos nužudymas Ašeradės pilyje.md": {
       "content_hash": "87279477ed59199d443e095911a653aaf689dd02bfb3d2c5125b96618a80fc53",
@@ -33832,7 +33887,8 @@
     },
     "objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris).md": {
       "content_hash": "ce718eeb7c2c18d47160ff9507ce4e8fe942385c18fb8b81bb8a6e980a12fbb1",
-      "rendered_hash": "05f0fa2a70a36701c878a93078d4a2770f910565be0dfed9de51cc4339299d37"
+      "rendered_hash": "93af62592537d261a0442acb86496fec7ebdc8827318e4d766353eca9099245b",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos.md": {
       "content_hash": "861974a1c095ac32ec68a910b039c3e87fb5d594718719058fed27e58201bddd",
@@ -33866,7 +33922,8 @@
     },
     "objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos.md": {
       "content_hash": "85d3bca72866d9d732484ed59e1aa675435252a109f7d543579761dcbabf12ab",
-      "rendered_hash": "513b3fa1e23f4ca5cf00a77c05b4544a0d0d54b824269383722d88b1ccbc69e1"
+      "rendered_hash": "3d0799eda5806f1e65bb36e0559d3d56378cc63944f2148ce5b097319bc28b47",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.).md": {
       "content_hash": "c256553a50498dcf5e08800664aac9a6cc993aff502060566017aa4a7b2a18ff",
@@ -34162,7 +34219,8 @@
     },
     "objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md": {
       "content_hash": "0331d72dee319965b8cd05e77226363e523e44bae79834379016b50c65cd473b",
-      "rendered_hash": "499ba2cc86131c5eb673f78cee71c5a0e25a37ce3f2272d6797326f562ce9027"
+      "rendered_hash": "a5fa32cc2277b0d396c3fd361f45c0df84cc219d816e44a0c5b7d1b8201be3be",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Tautvilos krikštas Rygoje.md": {
       "content_hash": "d8a7255a0eef201dcc1370380654c736f78a3300ad0dd301f400646d309c6bd2",
@@ -34464,7 +34522,8 @@
     },
     "objektai/ivykiai/Vaistotpilio kovos ir pilies apleidimas.md": {
       "content_hash": "259ec891fa4b4d517a7bc1399b6d9247b5c66d63be7c0a1d0f4f01550c7779ea",
-      "rendered_hash": "426895ea01be4e223f6c04c72f5e8ccbf939b42224243f43346bae2be78ac671"
+      "rendered_hash": "4b42713170d52237ab72e83dbfe393edafcd2f44694a4dffcc78626a8b41f0c9",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Vaišelgos atsisakymas sosto ir Švarno valdymas.md": {
       "content_hash": "e3ba3c033a9549600dfe64ef95e8b33c3e44b27400b1149fa485291b069a76fb",
@@ -34818,7 +34877,8 @@
     },
     "objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md": {
       "content_hash": "cfcf5258515cc41a057c86a095fee93ea5c2c6ebe8a1c62c5ed5653a0df49b50",
-      "rendered_hash": "06969473b2fc3873733e9f18f7b7126961f472a6928eef42582f121c902b4ed9"
+      "rendered_hash": "b09e9c4bbb807ca8561f7a142acef9cb47178c4693072123b9b1c5e7862a9612",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Vilniaus pilies bokšto kalėjimo puolimas (1731 m.).md": {
       "content_hash": "98dbadc7e642fe899a306c03c66373cf5fab5cb82ec9bc52f050a1a4f3c2b3eb",
@@ -35038,7 +35098,8 @@
     },
     "objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją.md": {
       "content_hash": "a83e6876d014d86e05a188d349990bde2049506b50c496c86426f8b319c3a0fa",
-      "rendered_hash": "541849ee61b45cee4ad6753196633921a3a083c2ec90747cc9df919ca9934a1e"
+      "rendered_hash": "bb25916f808a1e00168b0d372327f49583afab190ed8a43fa732bbf8374a8b74",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Vytauto karas su Pskovu (1426 m. rugpjūtis).md": {
       "content_hash": "626f68bc12fdefdc3669af70e9e7d242873fcf288b1a68c300f9e4ab4d8a6503",
@@ -35224,7 +35285,8 @@
     },
     "objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md": {
       "content_hash": "fd243076d38055bd2d09d3d54949dab195744e11f132047514b25081a8a4656c",
-      "rendered_hash": "6b51331440e78f85d9370395739212449f499942265cc74768ab8a7c9d8af8c1"
+      "rendered_hash": "d6274cc0a799ff17bb401a4e1286eb058315be8a70ff54da48d091b675d7892b",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.).md": {
       "content_hash": "649ee99d048580c8865f49425d4d9a8f6f974af037da664189added0664b8b35",
@@ -35300,7 +35362,8 @@
     },
     "objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.).md": {
       "content_hash": "9a65f173bd7fb08f9a5b150141805c5b4e9584835bca29c461265879103c1cad",
-      "rendered_hash": "6a3ad59db249e680f01f2c3d718279faa258391edb514a93a6d6ef0668a7831c"
+      "rendered_hash": "e607cda6000b4c6d9216e8a23c1f071aa091c53cf4085ff067be626b5ad47c59",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Vytenio įsiveržimas į Kujaviją (1291 m.).md": {
       "content_hash": "ab9437338d88f0e67ecabab0aebd224043954586ad16bc1181e5ee623eb15e23",
@@ -35480,7 +35543,8 @@
     },
     "objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md": {
       "content_hash": "21ef11500e070ef4c5936b9439c4723af47eab45626a95b40eeb7fb9b34a6985",
-      "rendered_hash": "464dd7d567efc04abc41e21a688cd605fcf0ead50919b9f0956329f4bbd774b3"
+      "rendered_hash": "1274f648d6dd04904746776ff7e3a19c5ec520f63a4a92b507e24518843b3a27",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Vsevolodo susitarimas su Rygos vyskupu (1209 m.).md": {
       "content_hash": "d16ed780f4e9c8f3ffc0390e6ced63230509010c0ab321ef663a076d69eab919",
@@ -35559,7 +35623,8 @@
     },
     "objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md": {
       "content_hash": "35e12a5529e5ac9d80ddebc436a44817754c218fd7b81a8ce3116041618a6cfc",
-      "rendered_hash": "ceedeb9737dab24993b23d1f830131981f0e56176f05d6c9fd1a9dedb99e693a"
+      "rendered_hash": "e50857d12e875f34ecb731f53790942a6bdd2d5bfdaf69cfcb00f32ba9223dfe",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Žemaičių Klaipėdos pilies užėmimas ir sudeginimas.md": {
       "content_hash": "bdcf9d04cc51c381ae69609f96ca1fcb51f64198bffb38cbeee2f86116e19042",
@@ -35733,7 +35798,8 @@
     },
     "objektai/ivykiai/Žygimanto Kęstutaičio pakėlimas Lietuvos didžiuoju kunigaikščiu (1432 m.).md": {
       "content_hash": "83464aba1ece97e6d649043e19223fe866fee15c46700884b2e7c61cae9a933f",
-      "rendered_hash": "1cc52e3f9372a2d9e2695e040f767e187c725bb26da2833efc3acdbe1181fedc"
+      "rendered_hash": "e276b0bcf5d79c47c9375b4b5741797b9b1c9c3066045cae9d22ba118e838854",
+      "projection_mode": "authored_object_page"
     },
     "objektai/ivykiai/Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.).md": {
       "content_hash": "0580758fc8ef6b36c2f8d220a6a8fc4dc58ca56b42be0cccfa6129237ac75067",
@@ -36289,7 +36355,8 @@
     },
     "objektai/paprociai/Bičiulystė ir bitininkystė.md": {
       "content_hash": "eee561b8593ce25f6bff5be8f852682a11d3e3f72052e87289209893e50f5aa0",
-      "rendered_hash": "eeddaba972cb9ba57b8fb26d04ce1e06090c9b68965b9cbd7c53a9cded9e36a9"
+      "rendered_hash": "360895a40ded3c1a81bf21082339e7e791fbaa823c6805d7ad7f1a5ecc89878d",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas.md": {
       "content_hash": "c73ecae6d44832a224a08ee7b1f1fead491ae95cc381d602d9e88d0124fbaf4d",
@@ -36333,7 +36400,8 @@
     },
     "objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md": {
       "content_hash": "d017cbefe6dd8b7bc0e4b78946006bdd3ec6147cdec605dc95411544b1633114",
-      "rendered_hash": "e4a9288020042ad790e9de8550d9f3bbee13e9be4b04c93632e8a0ac96379170"
+      "rendered_hash": "9382d990aa2ef3a47bad56b0fc331526556ed2a3c30d6a5ddb4d2c7d3abe202c",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos.md": {
       "content_hash": "bc0db7b6e0679b3ee5670c7af988352c47e5a5a705d342431bfc681cdc68aa43",
@@ -36779,7 +36847,8 @@
     },
     "objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md": {
       "content_hash": "3da7470955fc6982a76893c0d0ef27d0e7b25e5729bf2a5cc91acfe523e327d9",
-      "rendered_hash": "b67bacc9aa0176cb06d44b4923ec7906372d5dc399202e57298c5d49636c6523"
+      "rendered_hash": "889e8cc4c8927dceac5077a2c53b1f64351ed69df7c448637f28bbf42bc23f20",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Jėzuitų kolegijų religinė rutina.md": {
       "content_hash": "61eea9a5ff5aee2a9f6f17ba2f490f69cf2db0cc4afb28292f98397c38b372c6",
@@ -36917,7 +36986,8 @@
     },
     "objektai/paprociai/Kariuomenės sutikimas papuoštu vieškeliu.md": {
       "content_hash": "98cbf61bd84ec1071c64f0314d665c69e09312e16a84daf37007ebce227cdd15",
-      "rendered_hash": "75d594c321eb7394535be002cca2666c91c7d41bb73b97d252564bfc8a77677c"
+      "rendered_hash": "366089e1a730843cdd71988f91cdf67f078219ed37635362f4d0e52f0704927d",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Kariuomenės žygis keliais skirtingais keliais.md": {
       "content_hash": "1fd54f9986107f0643c889ffafbb2131300900a84d802b0480b817385c3c48c6",
@@ -37081,7 +37151,8 @@
     },
     "objektai/paprociai/Kelio dievo aukojimas, kelionės maldos ir kelio prietarai.md": {
       "content_hash": "c4684d7f6cbaf7c4c10033e16e311cd0367539dbcd86a97f4210efc913397441",
-      "rendered_hash": "cb07310f5fb37f50348ebcc1232552b751b6fb69bdfeb5dfae4cae6e0085357b"
+      "rendered_hash": "e0cdbd7ddbc3c7c3c8915cd0c3302eb7a41a4d34c9a5e2b7b428ca8b56c906af",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Kepurės padėjimas teismo priesaikoje.md": {
       "content_hash": "5aac1bba30cdbdcf29c7081c7f817b5496a831aba73bda9e98e082e5e08857ef",
@@ -37267,7 +37338,8 @@
     },
     "objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas.md": {
       "content_hash": "6b81197c549ad48fd6400f87a21de2ea1cc6b67ae30cdcd1236c9186a8d37e4f",
-      "rendered_hash": "92c51a1038015d40a8c83cf798511871df63ccaa654bf97320b34d35d64f4459"
+      "rendered_hash": "76276ce946c0102081765eaef0a95c4471de467bf09264160ae93a2eca5c4a23",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika.md": {
       "content_hash": "a6ecda6560d01c1559b66c44a8fdd9471a7111ebf349537d3a2ddf9442a49a4e",
@@ -37287,7 +37359,8 @@
     },
     "objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas.md": {
       "content_hash": "01efd5153aaf647f3364820cbfc0016bd0ecb25468475c5785f4418b98456787",
-      "rendered_hash": "1b00d836afef31d10ba80374a43574f0c14c83a8432f9314ceb72267bd6e2270"
+      "rendered_hash": "24646d85d38796e7ff4d29121dbf5e0583691e9b816a4978e5a6854880a8c69f",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Kruvini bajorijos susibūrimai, ypač seimeliuose.md": {
       "content_hash": "84f6d59e63995549c48e0c5e1e8ed26d6042e6d2ea890349f9a49cb93fc7e87a",
@@ -37295,7 +37368,8 @@
     },
     "objektai/paprociai/Kūčių dienos ir vakarienės apeigos.md": {
       "content_hash": "8ee0a163d61fd105320e3e1603cec11731f09bc55b7909d1673ede413f42f39b",
-      "rendered_hash": "87a795862c3c45705923c94f4cf407f4681f458452381e175c350d8d9094cb11"
+      "rendered_hash": "e5be579e5ed1b87447ec4e034171724043df619b66c0a2209909cbf5034d9ccf",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Kūlimo jaujoje darbo tvarka.md": {
       "content_hash": "0ef9d32a2c117ecfabba71d0a14a177a6a4fc64db6fc33ca884c0869e5db9f5d",
@@ -37467,7 +37541,8 @@
     },
     "objektai/paprociai/Lydimoji žemdirbystė.md": {
       "content_hash": "9b29018e0113c428aa54450abc752017da08d1a6f00c0cd10dfdd3042a6ef594",
-      "rendered_hash": "4229438640f0f087529d55c48f3d3c7cb600f92d522dd87c882ea9ec4fd97224"
+      "rendered_hash": "8d4ac2a434d641368d13d47bfb55edd5f202d485332ea76e819c8fdc200dce77",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika.md": {
       "content_hash": "289ffd91d99499f11ad99be6333e38be81f21319d86febf1d5867329af3b48b8",
@@ -37507,7 +37582,8 @@
     },
     "objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md": {
       "content_hash": "ee7827a514ea8543619406a9f4ee56ad88793bb32155f2348195afdc538d39d1",
-      "rendered_hash": "3bd08e134c24b107e2b3fe7d1be3b2841784a445346b8c02c7f191b2d5532abe"
+      "rendered_hash": "1509d2c048d4327aa679568a2e943e973181ae58b4695adf807749242aa8bc0f",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos.md": {
       "content_hash": "8bfe2d971dfb5bda08380ca16a49bf75f548b4b5c0299d20856bff45fb62e0ff",
@@ -37573,7 +37649,8 @@
     },
     "objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md": {
       "content_hash": "9e6cd15feca986070ce160b8b3dd44f7b32b3ac956aadd3a28f28dd4b323d1a8",
-      "rendered_hash": "534b82e4e1253d3141186222879d2c0e5f6ca2588ba5beb368587956144175e3"
+      "rendered_hash": "7c7c6df2f794ea2b67270ec03cde1cea2a8ab05dcb034b2347fcc384fdf57513",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu.md": {
       "content_hash": "3833eb832d99c7515c93098cbf8fcfa9c7fc33d164e4319cd28576761ccb79df",
@@ -37607,7 +37684,8 @@
     },
     "objektai/paprociai/Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje.md": {
       "content_hash": "7f3ce12f3dcf2fc10ead49578b8aca732716c358e371a52daee7e2c8745e0fc6",
-      "rendered_hash": "9c1fd9b38b8ad1554fd293a199c33cd1ef8152969c6b91a0a9bc14f8f03fb355"
+      "rendered_hash": "51711b3cbae7df49fb30ab4de5cc18442d8d4f5d30d1bf0bb1cc929de0f27c73",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai.md": {
       "content_hash": "d64b65386ebfbdb2a54f253b9eff49219d8c7e26e605da73df4655dbc75049ba",
@@ -37885,7 +37963,8 @@
     },
     "objektai/paprociai/Ordino karo religinio įprasminimo praktika.md": {
       "content_hash": "81d9e5f875be00151bfa8f4c46c3aa1501f308576942de21c7284dbd646e9fcf",
-      "rendered_hash": "e024f7451aa883aeabe802dc7d0aad93c94d4637634483252d2afeed5add77b3"
+      "rendered_hash": "d8cbbca81fca2c1c8cd97fb643c5cee7e0aef758b9b633e802fd0f4b811938d7",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika.md": {
       "content_hash": "29eb226efd9dc17c489b7be5880b320ab02817346795faef973d4d4b37338b64",
@@ -38125,7 +38204,8 @@
     },
     "objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md": {
       "content_hash": "46e8c2fc4a385da3426d7b54e08c6469ded0b1f304f355174a4ab2f77f0c21d0",
-      "rendered_hash": "a753fa83fbdd5287b81a0f6d480b4ab4f8fa27822aa7bad42cd8ae73df652110"
+      "rendered_hash": "da70b839132e9cf98d0fa2742379967ea6ec8a1bc6d427e9cebec2bcd4fac9b2",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais.md": {
       "content_hash": "82f2751e482511ab722b1a3ea96326abf91005b5804f8f677ef9bc60d29ea440",
@@ -38205,7 +38285,8 @@
     },
     "objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md": {
       "content_hash": "144e784f21fd809c63e8060ec3a3d6eab2bd4ba4077b9789c66ae5b82e759573",
-      "rendered_hash": "4ca6536df886d429bcc7ab137fae1a0812ff732158de3c699ffb123e81759df0"
+      "rendered_hash": "6229755043d89fe61761019802ebf9fb8060964cd92e6e87be079ac2dc1d3681",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Privalomas naujai išspausdintų knygų egzempliorių davimas kancleriams ir Viešajai bibliotekai.md": {
       "content_hash": "2543bb094fab561231b175381a301965da852966e09913b70845e9edc1929efa",
@@ -38543,7 +38624,8 @@
     },
     "objektai/paprociai/Smurtinės mirties aukų laidojimas radimo vietoje ir šakelių laužo palaikymas.md": {
       "content_hash": "cac8780d7ba066b72eecde63a21a31cac548a7df306b3a70743516f062e29170",
-      "rendered_hash": "0c0d96937602c6199ce33004e6c9bef158d06cd963fa395c6116908a0016813b"
+      "rendered_hash": "c70c555949dcf45fe87ccb56a7dedc5e58ca2cef69eb6e9e9579eb2f62b46c07",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Sodybos šeimininkų pagalba partizanams.md": {
       "content_hash": "250a2347b52c7fa73299aacee8571e9b1fcb840d3d3de9718724cb5c50495203",
@@ -38723,7 +38805,8 @@
     },
     "objektai/paprociai/Šventieji gėrimai aukose ir apeigose.md": {
       "content_hash": "7df02afe44e877e5f672bfaa79ab07532a8b826dbe8ef628efcdce31e0e5b9bd",
-      "rendered_hash": "0515cdaf1fe33178604607b7633959a2d0b25e57060d4b87a31c28aa53e7cc88"
+      "rendered_hash": "750e02b5a5cc21dd2c67ba01bbca4eb7ef94d63556df3f57a18c7e160f63a32e",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Šventinio stalo kepinių ruošimas.md": {
       "content_hash": "4e95b0200191ecd1716bc671160a88d0370e7f2637c77a527a725d5f2913c765",
@@ -38815,7 +38898,8 @@
     },
     "objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną.md": {
       "content_hash": "fee747608da0192da417b0f7fa7417559138c973810e637b1cc8e945f28456b5",
-      "rendered_hash": "071510e601b6f467bf6911cb604741024b9f57d9d7aa950d31b4288281d70f0f"
+      "rendered_hash": "27f012f5d15ae55645f933299ae3f4b2d7e5b027943a128cc76f71c79361d314",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas.md": {
       "content_hash": "664cc7695fd2551ea948ede1b2d15f7ec5c0930755c986226fb518a0617efe6a",
@@ -38895,7 +38979,8 @@
     },
     "objektai/paprociai/Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes.md": {
       "content_hash": "28beed24558e811b64a561b9af04d09b7e1151b19388485c566b014897ef1487",
-      "rendered_hash": "ac3ef8cfa42fb924d649148cd90c4328e08f8794f863f27a9b67272984704126"
+      "rendered_hash": "6240fdf684e2047019397f960dcece5be0c1310cb3877b2091dfff450f124d40",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Trilaukio ūkio sistema.md": {
       "content_hash": "01cc4577f6ae7cc4943d04030fb7af235f55c0034961264772eb75aac3cda248",
@@ -39103,7 +39188,8 @@
     },
     "objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai.md": {
       "content_hash": "205e73d7a661324e87fb4d7c9571c804132f6612725ed1ec03fdcea1e92217b0",
-      "rendered_hash": "153207fc144199dc6504bcdf82e00b9fa81310a2434cbd5ffa4d69233a4a8e1a"
+      "rendered_hash": "ff7e030b650bf5dae8613539ad1754dc84d01ed24583721684f4e2303c340af7",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Valstiečių duoklės ir prievolės.md": {
       "content_hash": "75a1186e0552453f72ffbba8612f1832ac78a24c7e9681782d89846510b813aa",
@@ -39283,7 +39369,8 @@
     },
     "objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka.md": {
       "content_hash": "4994f7c2c19f975d9c2f75899700f0b672054c518017c787b6d802b0854d5dc5",
-      "rendered_hash": "35169934babd9c6d8e2897ef512ce010020fbe91c1b9fc8416cb1a3acc2089cc"
+      "rendered_hash": "a758964471652cea3e5fee29c3e2680021c5042c93492a37675ada7beeb9ac34",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Vilniaus miestiečių Magdeburgo teisių neprigijimas ir karinės valdžios kišimasis.md": {
       "content_hash": "d45f150dd5ea9b15f04d24e393f5c5edc8de768722841bc8fbce847568a7bad3",
@@ -39363,7 +39450,8 @@
     },
     "objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai.md": {
       "content_hash": "c5e88d9bbc4f8fa907f3517882a17c5fc7355319c86ad6e3eb7d8154f57665ab",
-      "rendered_hash": "39314abd5c61ecb02065b7a33f1fdd60ea27a722256654c9fd185c0dbd8577c1"
+      "rendered_hash": "223e2c5e29e127e45edd4fb465542273cded396a28d92b6d7d4acef15903b969",
+      "projection_mode": "authored_object_page"
     },
     "objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose.md": {
       "content_hash": "4f2ad96e4048d90fcf1e146700dc0cd057fba18f1b1da5425b659eeab55b1ed2",
@@ -39785,7 +39873,8 @@
     },
     "objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md": {
       "content_hash": "5cf1494dafc6fa243a7d66828d27827ec124f7751c13af0c6ed59d400373e68d",
-      "rendered_hash": "6cd51ded605c329d7a2990582090020f1a2d23a1f77cdbaea0da754e71df63d7"
+      "rendered_hash": "e1ff950aef7f00744f3b5431e14930957ff94b9faff48334d2222c5a7656ff5f",
+      "projection_mode": "authored_object_page"
     },
     "objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“.md": {
       "content_hash": "749abde73c453353d5738a539a5af227f4cf9509a7516d4de5cfa8376933e01d",
@@ -40117,7 +40206,8 @@
     },
     "objektai/posakiai/„senovės negriauname, naujovių neįvedame“.md": {
       "content_hash": "13fae64186a0d413eb24c06bbd71bc725b32bacf3b6da7d6a251f360382fddaa",
-      "rendered_hash": "d2994ee25988ed5349139f2fcf2f60f62dc9a95103acdcf2217c7734a671c48e"
+      "rendered_hash": "945592009984d982c0b5754e424e013ed3c02434d5c7cba68c62d2a796838944",
+      "projection_mode": "authored_object_page"
     },
     "objektai/posakiai/„Sovietų Sąjungos ferma“.md": {
       "content_hash": "638b0ce5626462e7dc1e5f58edbd9b69afa19c127374ebf75702a31f1071f366",
@@ -40723,7 +40813,8 @@
     },
     "objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md": {
       "content_hash": "f94467f36c88ff353f764198265940fae19d2ded23a39d28db9319c48186b45e",
-      "rendered_hash": "fdd4c9ac339ceb22b0cd6c820f3ded50b52dad1ed9d2579878faf90c174a0829"
+      "rendered_hash": "e376e9370dc441aaba92abdcffcf238db3420cd5896ade3ecc0d04427d71e5a7",
+      "projection_mode": "authored_object_page"
     },
     "objektai/posakiai/gimti Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuolimas.md": {
       "content_hash": "687f668db8db3ea9a386074f1dfd9be624a803242776a5f309a698adc1d6f518",
@@ -40847,7 +40938,8 @@
     },
     "objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md": {
       "content_hash": "f2f8c49a406107e50a53872dbe18bd243f5f667c993eab62b8d41a849dd953db",
-      "rendered_hash": "2614cae5cc6a2bb7647946a2a0c698e9f061513902c0761896480aef09255567"
+      "rendered_hash": "0b5ed7c81cf6127cb2c8b12ddf5d7bd2c3b566c8f58dc17e9203e09c27f70a7e",
+      "projection_mode": "authored_object_page"
     },
     "objektai/posakiai/Išmintis, arba protas, kuris sergsti visus gero žmogaus darbus, yra dieviškos būtybės Butės rankoje.md": {
       "content_hash": "d4977dd60317febbaf36177d3b21822cfd85eab991fb0560550966eb39aa4140",
@@ -40951,7 +41043,8 @@
     },
     "objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis.md": {
       "content_hash": "5c0c90e2ef7380739e1a579d8edb1650a9a326746d00906e6e039707c6cfd857",
-      "rendered_hash": "a7e9600ff04641b48aa3d5103544c4bdab8deb8573c8d22156dd17177f53ca90"
+      "rendered_hash": "81f975094f36b29bd8c77bbb8d6137de267c08b531e7adfbcb4bd2da1256aea6",
+      "projection_mode": "authored_object_page"
     },
     "objektai/posakiai/Jūsų Karališkoji Didenybe, greičiau išvysite Dauguvą aukštyn tekančią.md": {
       "content_hash": "1a2dca4846de5ddf9ec66c79aed8510db4f97010160a8e7843d6e26543a7dbc1",
@@ -42409,7 +42502,8 @@
     },
     "objektai/saltiniai/1246 metų sutartis dėl Liubeko gyventojų valdų Prūsijoje.md": {
       "content_hash": "fae9433327757b0cd772c141cb245115dc0d2b6aac392538ba62ee5817203687",
-      "rendered_hash": "a9802c2908dbb0cebc9095bf47f2514b20b7aa700c25bc830cb9bf56f15981a0"
+      "rendered_hash": "e1d988fefac2fb77eab21a548d827f4f4b0914d4f5b6e04ad9891d714fb32359",
+      "projection_mode": "authored_object_page"
     },
     "objektai/saltiniai/1248 m. Kristburgo sutartis.md": {
       "content_hash": "518cf9f5330bfb076d02ed7377da4c477b93319dda9c166236353ac13f7cf765",
@@ -43323,7 +43417,8 @@
     },
     "objektai/saltiniai/Artis magnae artilleriae.md": {
       "content_hash": "16c78c0dee794c13c97d0b87a1189334d6e2535aebef570c7a7603a70450205e",
-      "rendered_hash": "dbb1930034ccdd0c948df17a0e1b8122724555d1b5b0e55f84edea81a1ed6d16"
+      "rendered_hash": "875e1b94f052ed455717027051794590777f6cdfb6d0eecaca23a0b9d8213967",
+      "projection_mode": "authored_object_page"
     },
     "objektai/saltiniai/Atgimimas.md": {
       "content_hash": "0ceecc7d3ee2120dac8b8feca1181e7150c529a7f0f1ab11629e5188136c6444",
@@ -43866,7 +43961,8 @@
     },
     "objektai/saltiniai/Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį.md": {
       "content_hash": "5998af308cf41df0e9499104b081b328b914844d24d6b7ab91e87e5cdec4accf",
-      "rendered_hash": "427664a523320df2a7cb9aabdb2ed04317b1a2097a5c1df50709db79fffa1864"
+      "rendered_hash": "8b2f9d5a6a6f83cffd9dab055d66aed527082363cd7b48da55b2e611b7191f6c",
+      "projection_mode": "authored_object_page"
     },
     "objektai/saltiniai/Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą.md": {
       "content_hash": "6376e1598330bab11c3c6164171ebae0abc310e761b7ef2c78e07aa6bc1d42d0",
@@ -45000,7 +45096,8 @@
     },
     "objektai/saltiniai/Juozo Miliausko prisiminimai.md": {
       "content_hash": "c0ece7ce42a750931389ffff5f9ff934f27ab5a4320272a8b16baa169442579f",
-      "rendered_hash": "8e5a3b17408ca57aa88670c456afdee57701d567de2a4c94b4c233bbe018f733"
+      "rendered_hash": "7f139ab13b6ed319dae490b604b3f95a36a94fb1e6667ab3460287abaf5b5a93",
+      "projection_mode": "authored_object_page"
     },
     "objektai/saltiniai/Jurbarko muitinės knyga (1613 m.).md": {
       "content_hash": "59bbee8fce308bf68dd0106d243b250808667c9c3943599eafc5c26164b109ff",
@@ -45772,7 +45869,8 @@
     },
     "objektai/saltiniai/Latopisiec Litwy i Kronika Ruška.md": {
       "content_hash": "dcc9e67a858ec57663ba0a994d6676c2a4d404ed225d7692d22ad37dd1de1559",
-      "rendered_hash": "6c03c335c77a54e493cba15c3eae098ef5b8c1909f1516c84267448377a9bb35"
+      "rendered_hash": "1f6763d4116a574fdc08e486c3f0c7a7defa20ca2f2e6deb04049b7f8d8f515a",
+      "projection_mode": "authored_object_page"
     },
     "objektai/saltiniai/Latvijos Henriko kronika.md": {
       "content_hash": "2338149fda16fff1693c5d1c6e741620646b10d2aa5d9658763b317af3f3ac96",
@@ -47027,7 +47125,8 @@
     },
     "objektai/saltiniai/Michał Baliński, Vilniaus miesto istorija (2007 m.).md": {
       "content_hash": "bfbf34cac6bb8514d05979b425c9ec70757cb6ce6b858803f0c81cd808b51597",
-      "rendered_hash": "6d1b02b7c9c77e21e696f0e1bd39202bef0c50711bdbce57e7d883896987d582"
+      "rendered_hash": "c4fc063edb577635fced5318fa932b3e122ff7c6481e9fea5622033b6311f14d",
+      "projection_mode": "authored_object_page"
     },
     "objektai/saltiniai/Michalo Lituanus, De moribus Tartarorum, Lituanorum et Moschorum.md": {
       "content_hash": "1c437126a6cc056b975f930e59fa64a3f5d325df8df5e0e25d75243d45a976b4",
@@ -48165,7 +48264,8 @@
     },
     "objektai/saltiniai/Ptolomėjaus iš Lukos Analai.md": {
       "content_hash": "0ac4c2ca0ec7d2da359b9f62f30550f0dc5a64a4fc83e97a372a5faf9a054baa",
-      "rendered_hash": "3ce6c9c5809d0d3630d07a62bbe2e1eced84320a56f163d1d3b4a1a5b47bb6a1"
+      "rendered_hash": "b0b75091f89a0b01ba2ac1905b49c043406a76575b85215c0e7e21c1daccba49",
+      "projection_mode": "authored_object_page"
     },
     "objektai/saltiniai/Pulavų bibliotekos rankraščiai.md": {
       "content_hash": "35bf12551172f6f3cd226344a906b9ec937780c2c37c19c326f2f9ab48ad2ad6",
@@ -49656,7 +49756,8 @@
     },
     "objektai/saltiniai/Vilniaus albumas.md": {
       "content_hash": "30a0437d05f9e32ae11773e0b31006c922cc85e00b5252450e863f46181b3494",
-      "rendered_hash": "b11607d06b94c67a64ac519585c9e702610da9698a20837df0b29a213f4e8c0b"
+      "rendered_hash": "b4fd6ef072684a011f3bf7396e64550a65c7e6eed1dddf5d32942c4db78d5aa6",
+      "projection_mode": "authored_object_page"
     },
     "objektai/saltiniai/Vilniaus arkikonfratrijos fundavimo ir įvesdinimo dokumentai.md": {
       "content_hash": "63bcb6786a3689f37bf8e975ebedb2519d972bd41b9f6bbfb6603bc5355079aa",
@@ -50207,7 +50308,8 @@
     },
     "objektai/saltiniai/Wremiennik Sofijski.md": {
       "content_hash": "1881b12880b18ede374e0fd40ed428de76ecaa7f7c09751556b3251e95f70b5a",
-      "rendered_hash": "472b27a886f35ce763f02cd23a833b43062484f4c2874c9f3a253b3b6df62619"
+      "rendered_hash": "beae33a234bac689e95fa26ad357ac07a56e1beb2f0de4f764a4b2451d318a41",
+      "projection_mode": "authored_object_page"
     },
     "objektai/saltiniai/Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248— 1264,—Nauki humanistyczno społeczne, Łódź, 1970, z. 72, s. 3.md": {
       "content_hash": "c8d6ac6e84695b5527f059b6de1f3c0deacd5bbde568596596cdf2fb7dcb648f",
@@ -52382,7 +52484,8 @@
     },
     "objektai/vietos/Dievo Kūno koplyčia.md": {
       "content_hash": "a213138a10b534d5fa6f11c3a14c8601f38bbedc6b1802558e6a336edce5a1bc",
-      "rendered_hash": "351684ef2d6439e673a4e7805da314fef4d0ee9682f0189dfc869f844b525f53"
+      "rendered_hash": "ae2e61128444a660766c8c421bb9820865dc4fe1d174e6e59e71bf8719fceff1",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Dinaburgas.md": {
       "content_hash": "2632f10b4454e3a1b4274c05e5b27fd1d102fa76011c517e8f0546ec0a236c9b",
@@ -53019,7 +53122,8 @@
     },
     "objektai/vietos/Gercika (vieta).md": {
       "content_hash": "0764c190c3684197e829edadb760843edd3b718256469e1b813c7b5e610de294",
-      "rendered_hash": "68710e4e4bde0603ca08f83bcf52fd43df50e326de57919986f304b1cfbdd61e"
+      "rendered_hash": "ebe0ec48fa703db65049c9b057ab0e08a9f944ab6600fc4f3121ca5d63035313",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Gercikė (vieta).md": {
       "content_hash": "f5dbc73c48d65cc491b5efd796cc5d561887043656074e9b90e6b10a72f5ff07",
@@ -53738,7 +53842,8 @@
     },
     "objektai/vietos/Kaliningrado sritis.md": {
       "content_hash": "1e921cf298c0603ca29146b1d1526298c5ddba364cea67f30e95662412228190",
-      "rendered_hash": "daaf5a198f245b037026011b1e5139115c7ed212a0b52b0bad7e2dc874651f6f"
+      "rendered_hash": "9ccbb7182b0045287470cd0f40dd50cffdd3c5ad814dafa2204c59ede234a477",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Kališo sritis.md": {
       "content_hash": "5822ebae0524249aff0af2e66f4f6ccccf7125f09cd149da9580f3eaf41395c1",
@@ -53833,7 +53938,7 @@
     },
     "objektai/vietos/Karačevas.md": {
       "content_hash": "bee80bfd27155fa8ce371be2187f888675cc9037435dae7d96759f2a84a31986",
-      "rendered_hash": "ac8c61639beaab23299e50bff3189c0196d549e1859673611b9413c9da7f2682",
+      "rendered_hash": "758768ad8f2d3e701bb39883381eca882e69714c68b707cba08f7e129e69db1b",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -54103,7 +54208,7 @@
     },
     "objektai/vietos/Kelnas.md": {
       "content_hash": "79a49cdce3223bbb54e87cb4d191adcfdecdccbf1109f30753c7ec8c398003f0",
-      "rendered_hash": "72a80857087520c17682e910670120e1e83b2dda4dd8dc85712088ea542633c5",
+      "rendered_hash": "ba32b0ce82493d33822193770eb53052bc148a3ff9ff6872f5ce601418d05603",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -54345,7 +54450,8 @@
     },
     "objektai/vietos/Konstancija.md": {
       "content_hash": "1bf7c55be884f01d69d432057c898103521881a45a0b6e940f07c74ee4731172",
-      "rendered_hash": "3ec3409ffbb3efb961f178e0d361cebe62cd7120301e0bdacf3a87c74c852c27"
+      "rendered_hash": "ff495138678030d5c8be2fe634c7ba5faf7edaec3e596b1e9b9a1034c5276e08",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Konstanco ežeras.md": {
       "content_hash": "d994f48f207d2717024e34960186ca5cd8d53a82f1f9768bbf1261c1ee5f516b",
@@ -55519,7 +55625,8 @@
     },
     "objektai/vietos/Mažoji Rosė (Roska).md": {
       "content_hash": "6164d1b31e05985aef51c1940182abf89e4b6409a55b207c582344d84184af70",
-      "rendered_hash": "88dd0a0968e47009b067b2519cb598c115cacba8593d541c3bd782986673e9bf"
+      "rendered_hash": "48d21f41259c83fad808084b65fdf400299f944790407a2d4531212adf536334",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Mcenskas.md": {
       "content_hash": "dd8e3b98a35594a9a412c7e295103d7ddecf856f32bc28eb81733b0d4606c34d",
@@ -56203,7 +56310,7 @@
     },
     "objektai/vietos/Norikas.md": {
       "content_hash": "c7afb753488463c356b2820926a4cece6412fe5fe56f9c54a95a848cd0eeb6c7",
-      "rendered_hash": "fb2158e19d548c9cbd4e50524e15ff877e6d0a8b0072662f57532c26678e5a09",
+      "rendered_hash": "2db340c59f3abe0038313a4118332ff9fc87399cec8f4acbc64d671006b5262f",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -56217,7 +56324,7 @@
     },
     "objektai/vietos/Notanga.md": {
       "content_hash": "d41db05ce00bbd71faa5b379392dfe98a69d64cbcad6ec6c25d173a9abf8a88a",
-      "rendered_hash": "4a5e4ae321776304685c50564f3d16d8237d6810aed796ccbc93a020da0ece3a",
+      "rendered_hash": "4b7a5f22d15eafeed04acc2071f50e2079b3c4797624f60877a278dd3dc6d4f4",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -57950,7 +58057,7 @@
     },
     "objektai/vietos/Salacgryva.md": {
       "content_hash": "f00f12ad006df12052662ee3ae41dbd81f525d98527395e82768c4c7ae03a4e3",
-      "rendered_hash": "b5dc2a7b04fc7c902e99d3735588a9ecdf041651e3f6395f857b087d91bb0852",
+      "rendered_hash": "485e6b2c87209c9c6154abd255bac1a2984b98f239b324c2aaf405723cf9c8b9",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -57964,7 +58071,8 @@
     },
     "objektai/vietos/Salavija.md": {
       "content_hash": "25a91955aae4bc6ab4f429078c9511cd8176369fce6affef466260c4ffb7369d",
-      "rendered_hash": "f73c28ed59b4a404f18f5083c9074a5a0c7dc443229fc360bc456cae48ce30bd"
+      "rendered_hash": "5a7ab445c186b57c62554e3e2a5361730c8f5ef8f87b1b038af3322bd8b56dbc",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Salernas.md": {
       "content_hash": "d5e47c8cc2ee7e297d1d46ca2dac51988b354d5b9276dd2d45d616e34f454f75",
@@ -58221,7 +58329,7 @@
     },
     "objektai/vietos/Sibiras.md": {
       "content_hash": "0acf7354a8fe7c191cf09f68699a115e9e3812ff100bc1f5174aafafa975345b",
-      "rendered_hash": "d89e0686183ce46caacdedb995e3eace12110442b180b2cad1cd65769d8b5419",
+      "rendered_hash": "2bbf0114567f812456af76520ef15551c046813b16f088d5b874085634faef90",
       "projection_mode": "authored_object_page",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
@@ -58429,7 +58537,8 @@
     },
     "objektai/vietos/Smotričius.md": {
       "content_hash": "4ab49d9e2443d0c81c981fbf3576b7b40ec8228a74e5ddd8b409e400a9fa9d2c",
-      "rendered_hash": "6d70d5e39e05f5bf8b088d5357bd425e76df4738bb41e9e6e4bdbff75747c2c1"
+      "rendered_hash": "de55f8694624fe93d4793c10aee313f337f1be337267bd955c1b9e02e04334ae",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Smotričo pilis.md": {
       "content_hash": "e0298fde880b05e85aca8a364fd42f057b5fb637dcc1baaf2091a240754456a9",
@@ -59188,7 +59297,8 @@
     },
     "objektai/vietos/Šventasis Kryžius.md": {
       "content_hash": "0910a18a8d30d8f34e77bad6a9dc2b9a6933655fd7e2be4ca7a62391e3c1daf0",
-      "rendered_hash": "df99a0a183f7d1df1c5d8b8514954830fcadf5a2880d554c56bda1a8e0f22447"
+      "rendered_hash": "d30c0cbcbcbd202617e10aa1cddb33bb5caea67bcf904fcc41ca845d6293836e",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Šventasis miškas prie Tenenio upės.md": {
       "content_hash": "4b06aa8ec04020c2285e7aee3bd9b828d5de4b2878dadeccbe758aa70952594a",
@@ -59739,7 +59849,8 @@
     },
     "objektai/vietos/Upinės upelis Išganytojo upelis.md": {
       "content_hash": "93f707dc2d2cf665b83aef4725643a10a081d003ad77bff8257cf8674453b60d",
-      "rendered_hash": "fc7b9e244cec2ff79441165f122be1159c590de37930aa18450ae52d29260bbf"
+      "rendered_hash": "c99788fccc9665385a7aa060a9effb20cabe5569e5b1182d2e71aafc094e891e",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Upytė.md": {
       "content_hash": "aebc9d92e0b468f113d755cb288ff01e363328d0c797acb6e31e02253c43eeaa",
@@ -60347,7 +60458,8 @@
     },
     "objektai/vietos/Vilniaus Aukštutinė pilis.md": {
       "content_hash": "4478e43b9a9a43747b03d183348f4233a52da6361293d97e4cf4844d0ee5c0c2",
-      "rendered_hash": "ef24237ca6ac242e85925254dd849e15a78e387612f488cc421f4a57bd676375"
+      "rendered_hash": "0284ee42337df6d69815152288f2caeeb4c083bbc2f54279ffc4e9223774474e",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Vilniaus Aušros broma.md": {
       "content_hash": "9b54827943a9130e71ac1893821a21260644f28bb31b42dd691570b9ff3c79c5",
@@ -60475,7 +60587,8 @@
     },
     "objektai/vietos/Vilniaus tiltas per Viliją.md": {
       "content_hash": "5d927f9088eed9aaae323a84764c97fc0f913a822fa3946ba4958907ce08f4ee",
-      "rendered_hash": "b0f16b60f8576fcc149e4a5c564e11b26d5622167bdd52ac6431ad468d3c28e6"
+      "rendered_hash": "7d90f41ca18594a61e7200420ac7559be6d59ae63bbbb4fcd48130cf9fa2176f",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Vilniaus turgus ir aikštė.md": {
       "content_hash": "1a21d77172a8dcd23950116faa1501e302c10aae3ffbd55c46e3f474b528a8a7",
@@ -60675,7 +60788,8 @@
     },
     "objektai/vietos/Vitlandija.md": {
       "content_hash": "3aa8341c31db00c318449774b6846330aca83512470c385734d31102c3a61f3e",
-      "rendered_hash": "e66b0b644a919a6ce17da39d40612887f5021402d48b9ee497c6c3ceaffde8ee"
+      "rendered_hash": "6c4f954bba38b57fa515ff3b12392e151cd791473b817a2975e6e7ad93030b41",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Vitliandija.md": {
       "content_hash": "22862e8dad01857f397b194c75d570570dd56b591f4b9ac61f7339b4ab34cee7",
@@ -61028,7 +61142,8 @@
     },
     "objektai/vietos/Žemaičių jūra.md": {
       "content_hash": "2f0199029e12e13e58421ee1df64fa44cf0e5bea2bc98c60cc8a8c01614efce4",
-      "rendered_hash": "e53796dfcf2430cdeeacfc4ec142194aa6c65d61752530922a9b0904b7f024f8"
+      "rendered_hash": "e65b96e086040352dce8dfdd3912c16ad443510f983a7e4573796d6b2641a019",
+      "projection_mode": "authored_object_page"
     },
     "objektai/vietos/Žemaičių Kalvarija.md": {
       "content_hash": "96e0e25d891b67acfa588e7b55724414f9c621506273490abfe78611658430ba",
@@ -61232,7 +61347,8 @@
     },
     "objektai/zodynas/Aitvaras viršgulis.md": {
       "content_hash": "fd52a1102092bdf6a1d3cf515fce1d2af27cf72ce544e4b9fa96109ce84f49bb",
-      "rendered_hash": "7c26249a7c15d7d63e0710436c2b3cced8c50b86604a1be8a795b9ceba3efd15"
+      "rendered_hash": "b291b4fc0d25147468482e492682bf7f7385262b654fd1cdee571f1d2611365c",
+      "projection_mode": "authored_object_page"
     },
     "objektai/zodynas/akcijos.md": {
       "content_hash": "1547fa7a7d8e0d9f3a6cd87a914ab5d9264ee1661bdf841bdd575b43348d1d5c",
@@ -61534,7 +61650,8 @@
     },
     "objektai/zodynas/autonomija autonominis statusas.md": {
       "content_hash": "8fe9f27c7cc52aa1e03baefbc3a389f8c5d147135086e8aa794c3a7dc6b676c8",
-      "rendered_hash": "c6841bb319e2216656585410814a9b00a783f6b67db73353142a5b7d9a9de05a"
+      "rendered_hash": "763c407240753806a58800615a2232519c7358f586d2b192686e72d9339290a0",
+      "projection_mode": "authored_object_page"
     },
     "objektai/zodynas/autonominis vienetas.md": {
       "content_hash": "c7e04a4819f5f6fcdb7cbd09708f51f267d57a11aebb3de234c377644fae8564",
@@ -62592,7 +62709,8 @@
     },
     "objektai/zodynas/Galintuvojt ir galinduoti.md": {
       "content_hash": "5d414bea12fc513628244ef5838a5108121fedc1fcd40624718591cb2ad1b140",
-      "rendered_hash": "f4eb2057926e4503829975b071a5ba463f36aec11f188403aa62c828f94d7143"
+      "rendered_hash": "1a31b0ab663fdf762e4bab9fb55cad7fbdf16c7726b2bf12954ed24c7539c2e7",
+      "projection_mode": "authored_object_page"
     },
     "objektai/zodynas/Gamaheu Gamaheus Lapis.md": {
       "content_hash": "e0c9a4dccd5d86971257b64744b92456d176519d1fb6e6f2dcc1891c7cd67489",
@@ -62683,7 +62801,8 @@
     },
     "objektai/zodynas/ginekokratuinenai.md": {
       "content_hash": "48246659e033af2775dc7e4cb9d776383bf62a1ecc922b8f56ff78323e9ba28c",
-      "rendered_hash": "6966730b2b0b9c14a7c03b0873395fb2885cb4b8c49f8dd849c1c796d0eaeca5"
+      "rendered_hash": "d8c7e7a2cc3f5cf398cc80baf395a18c9afaaa1ed33609157bacecf838234057",
+      "projection_mode": "authored_object_page"
     },
     "objektai/zodynas/ginklanešiai.md": {
       "content_hash": "13fa078d712abab16c265e18fd5c0cc744e7754aac2ef3dee2197400b8ccdcf4",
@@ -62702,7 +62821,8 @@
     },
     "objektai/zodynas/Giryja.md": {
       "content_hash": "33f8224d090d4566b8be89c70439b6da4fe109b9e1db7e11dc48608d5bc58237",
-      "rendered_hash": "fc09d3ceac2d1ca3740d0329ed731f8f4796d968af325103c7634b375d31cda1"
+      "rendered_hash": "3e34f8a73120bb30f89a2041b96049ccd46a5d026f1e9783df032fa97925528a",
+      "projection_mode": "authored_object_page"
     },
     "objektai/zodynas/Girystis Pušinis.md": {
       "content_hash": "2c70108d156ebbacd125c0ab763d103c45b16f6d1d66673b8b0fcf84af00591f",
@@ -63076,7 +63196,8 @@
     },
     "objektai/zodynas/Kabirai Trejopa.md": {
       "content_hash": "8f971014afc706cac754ea898e3e894610dca413f9f2ca4aec508b309b01a472",
-      "rendered_hash": "bfe7b6a564030628439f806b816ddd6a9597ee43e4de0e2f2bac6b9c244643d7"
+      "rendered_hash": "e4d0a0519578eddfa260f9fcb034db9213fa617f0a85087102cdebc77c92e816",
+      "projection_mode": "authored_object_page"
     },
     "objektai/zodynas/kaduko teisė.md": {
       "content_hash": "b0a9e5f11701cf03c5d0be1844109c4691a7f58a44ccfb8b057555ef88d1f8fd",
@@ -63435,7 +63556,8 @@
     },
     "objektai/zodynas/Konlyna.md": {
       "content_hash": "223410fe9b962dad35b9f509dbf8eb3c83026a547a1d47412bdac772949fe040",
-      "rendered_hash": "7056bb45b3e20cd1dd54354b3ff402a4c2c4f0d1a35ac3fc55825920e3221fc3"
+      "rendered_hash": "74717aa3141bde4be3f40ae4523cef3a26c8bc3859042155ec07ac9a6ad3e361",
+      "projection_mode": "authored_object_page"
     },
     "objektai/zodynas/konsekracija.md": {
       "content_hash": "f0d49f9b14688026e47adf5912f7edb8370ff3a8ff36c0a91fa5ee90ac30c669",
@@ -63946,7 +64068,8 @@
     },
     "objektai/zodynas/Litalain.md": {
       "content_hash": "c20484cf75a22850724a4fe9f570ad6fed822fb6c35c96e19193a64c56d2a560",
-      "rendered_hash": "41f57f031ff0c3ffb4b0a509feff86ba0646c047f7e135d459083b78e73aaaa6"
+      "rendered_hash": "ef4e14e5a6abb69b859f92a34a9bbac31e0f53a3e10cea7560a964f65cbcb93f",
+      "projection_mode": "authored_object_page"
     },
     "objektai/zodynas/litas.md": {
       "content_hash": "3db9a6220584ea5a7f72ec5588ce8a292b57f6ed750107590b0149aa0370e30d",
@@ -64850,7 +64973,8 @@
     },
     "objektai/zodynas/Phyllantus Emblica.md": {
       "content_hash": "23d724faa9f608970f30923ed05f169a8ce0e640d1b069fcd6def0b92ef1de01",
-      "rendered_hash": "94677f7c7b8ab7915661f697c0662e2de5eee90170f04474cbe33b13a47e6915"
+      "rendered_hash": "40be2e0e475b9a33021870d2f2439560664d15dc8477e04632c03107aa5205d0",
+      "projection_mode": "authored_object_page"
     },
     "objektai/zodynas/piastas.md": {
       "content_hash": "0b1fff7f8dd64a30d1e055d948f1828c51552e9fdb115d9079e2baa0a900cd84",
@@ -66537,7 +66661,8 @@
     },
     "objektai/zodynas/Užuotas ąžuolas.md": {
       "content_hash": "1f4e004abbadf4e72fb6b73d31d854c09ff6d538e20d3366d3995e22325c5618",
-      "rendered_hash": "0c736d92dc7a14cf203355bd77aade6fd2d9edf3b4e63b1224aff94114dc0056"
+      "rendered_hash": "c85f68ac37ee09b8da24f07345e96935d7e55da70da9e98e25cbe1262036250b",
+      "projection_mode": "authored_object_page"
     },
     "objektai/zodynas/vachmistras.md": {
       "content_hash": "dde26ba60a48682bfb9168de157881e48de6f7ed25bc48ba629d2051977e0c88",
@@ -70200,13 +70325,13 @@
     },
     "objektai/daiktai/Pasportas (daiktas).md": {
       "content_hash": "c980d626a57f7f1e75a779c35ec4a4c946c6f127ce4abf5128ceaa50cba44cf8",
-      "rendered_hash": "3e875647fdf810466d8b2c22a1af56f24ca32b7612ac3bbb77bf72f6060cff3e",
+      "rendered_hash": "c45fa7fbbb4fe0dd3ad2d94a4a203b1d711818a29fb1a4662130265a1f21f2b9",
       "projection_mode": "authored_object_page",
       "enrichment_source_hash": "79916f2942f7bf9d3ee4e1e48e94ae17be214f538b1c97fa31e8d65540857994"
     },
     "objektai/daiktai/Patranka (daiktas).md": {
       "content_hash": "1441ff10171d98a6088adbe4ea71f7ea75dd3ca2ddb79194eb3f4433f9d65b6e",
-      "rendered_hash": "db868fafbaf2c8f5f83ecb2c665726ea6d2fb757c238c0f8fb650b7661790a6e",
+      "rendered_hash": "12b137b1dcb479098ab0dd6c11d3ce195996a480c0ec42182db6d4ef2c3c731d",
       "projection_mode": "authored_object_page",
       "enrichment_source_hash": "975421d975b9888f9dc3203cf06ce607800112ccf6a1f047e3b091b5a0ade515",
       "wikipedia_snapshot_version": "wikipedia-rendered-v2"
@@ -77218,7 +77343,7 @@
     },
     "objektai/paprociai/Vaikų ruošimas pirmajai išpažinčiai ir šv. Komunijai.md": {
       "content_hash": "e144ff2e5fdccbac6aa5670f9a3fa3955306e4d522a9b7948bc35741b56fc584",
-      "rendered_hash": "e795d0fbbf59496b7b1a8b7df382c690a5c686c688b13e69988d5bd7b623b2e0",
+      "rendered_hash": "471a34bc8bfdaa64da1b5b409c3bcb89c36aa6e50627c02d9c64944d63628f5b",
       "projection_mode": "authored_object_page",
       "enrichment_source_hash": "60c5edcfa8a30c31f1c83378b73d43b9b5a564ea0ea1c1d61be3d84641ed695d",
       "evidence_export_hash": "dcd94b801d9878f2139fc2434c69c10646517cebc3e9f2fcdac151867bb554e9",
@@ -83298,9 +83423,10 @@
     },
     "objektai/zodynas/Rekolekcijos (sąvoka).md": {
       "content_hash": "06cc20f7dac0d33005e592c8ae17349f1937aa0a0684a42107fc598d120dd843",
-      "rendered_hash": "4536c8df70f8411bdc346a6dc0a599bb6568e0c2f87dcdb400fe33a11fe86772",
+      "rendered_hash": "5c32e3097297956b95a1f38fb2a0fcf12f3fbd1c7e03a7f3bc6e6aad7f8b40c6",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "8898d5549fc8d0b96bce82a8e312a77160dc42001c539c5551d95e90e273d64b"
+      "enrichment_source_hash": "8898d5549fc8d0b96bce82a8e312a77160dc42001c539c5551d95e90e273d64b",
+      "wikipedia_snapshot_version": "wikipedia-rendered-v2"
     },
     "objektai/zodynas/Restauracija (sąvoka).md": {
       "content_hash": "1514197f03284bb397c74f37ed277f1662b09f8c2cd972f8a6e152f8aac98aba",

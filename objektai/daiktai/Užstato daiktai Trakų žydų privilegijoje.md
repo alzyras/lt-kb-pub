@@ -1,11 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Užstato daiktai Trakų žydų privilegijoje'
+pavadinimas: Užstato daiktai Trakų žydų privilegijoje
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1388 m.'
-  - '1507 m.'
+  - 1388 m.
+  - 1507 m.
 date_start: '1388'
 date_end: '1507'
 sukurta: ''
@@ -14,20 +14,30 @@ tags:
   - dokumentas
   - daiktas
 amziai:
-  - 'XIV'
-  - 'XVI'
+  - XIV
+  - XVI
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T15:15:10+00:00","source_checked_at":"2026-09-20T15:15:10+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"75dc0cd647b072d7a6bb56a7","canonical_code":"object.purpose","label":"Paskirtis","group":"Naudojimas","value":"Priimami užstatu","context":"Trakų žydų privilegijoje žydams leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.","support_ids":["t-81859","c-78401"],"source_refs":[{"kind":"internal_claim","claim_id":"t-81859","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-78401","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"O jei krikščionis žydui ir jo žodžiams tikėjimo teikti nenorėtų, žydas prisiekęs savo ruožtu įparei­ gojamas; o jeigu prisiekęs krikščionis įrodytų, kad jam ne­ mokės ir išsigintų. Taip pat jei žydas krikščioniui be liudi­ ninkų pasakytų, kad užstato davęs, o anas gintųsi, už tai krikščionis turi sumokėti; arba su priesaika priėmęs žydas gali užstato vardu priimti visokius daiktus, kurie tik jam bū­ tų atnešti ir bet kokių pavadinimų, nieko apie juos neužsi­ mindamas, išskyrus kruvinas skaras, šlapius drabužius ir baž­ nytinius rykus, kurių niekada jokiu būdu imti negali. Taip pat jeigu krikščionis apšmeižtų žydą dėl užstato, kurį žydas turi, o iš jo būtų pavogtas arba jėga būtų paimtas…"}],"status":"published","conflict_status":"source_disagreement"},{"trait_id":"3a14cb0346ab885f53afdc3d","canonical_code":"object.purpose","label":"Paskirtis","group":"Naudojimas","value":"Žirgai priimami užstatu tik vienai dienai","context":"Privilegijoje nustatyta, kad žydai žirgus galėjo priimti užstatu tik dienai.","support_ids":["t-55054","c-55720"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55054","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55720","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"O jeigu jo liudininkai minėti ir jo nekaltumą atskleistų, krikščionis bausmę, kurią turėjo žy­ das patirti, pats turės ištverti. Taip pat skelbiame, kad žy­ dai žirgus kokius nors priimtų užstatu tik dienai. O jeigu koks žirgas pas žydą pasirodytų vogtas ir pas kokį krikš­ čionį atsirastų, žydas savo priesaika turi išsiginti, sakyda­ mas, aš tą užstatytą arklį paėmiau už savo pinigus, ir tas pats žydas už šias bylas bus tuoj pat išlaisvintas."}],"status":"published","conflict_status":"source_disagreement"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T15:15:10+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: 525abb64b23fef67
+object_page_generated_at: '2026-09-20T15:15:10+00:00'
+object_page_source_checked_at: '2026-09-20T15:15:10+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Užstato daiktai Trakų žydų privilegijoje: Trakų žydų privilegijos kontekste užstato daiktai apima įvairius atneštus materialius objektus, bet su aiškiomis…'
+object_page_seo_input_hash: 2b5f20cb1ae3b41a659743697cdc9e58d8a9131bf5745e38f379355e5d50496b
+object_page_seo_generated_at: '2026-09-20T15:15:10+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Užstato daiktai Trakų žydų privilegijoje
 

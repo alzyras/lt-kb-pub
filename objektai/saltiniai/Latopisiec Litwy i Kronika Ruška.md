@@ -1,10 +1,10 @@
 ---
 tipas: saltinis
-pavadinimas: 'Latopisiec Litwy i Kronika Ruška'
+pavadinimas: Latopisiec Litwy i Kronika Ruška
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1827 m.'
+  - 1827 m.
 date_start: '1827'
 date_end: ''
 sukurta: ''
@@ -12,19 +12,29 @@ atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XIX'
+  - XIX
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
 media_primary_directness: ''
 media_primary_relation_type: ''
 media_primary_json: ''
-media_direct_json: |-
-  []
-media_contextual_json: |-
-  []
-media_all_json: |-
-  []
+media_direct_json: '[]'
+media_contextual_json: '[]'
+media_all_json: '[]'
+external_sources_json: '[]'
+object_page_view_json: '{"version":3,"generated_at":"2026-09-20T18:19:55+00:00","source_checked_at":"2026-09-20T18:19:55+00:00","counts":{"relations":0,"gallery":0,"sources":1},"featured_claim_ids":[],"featured_claims":[],"featured_quote":null,"wiki":{"status":"missing"},"source_buttons":[],"primary_source_urls":[],"traits":{"schema_version":"object-traits/v1","status":"published","rows":[{"trait_id":"fb955c1e074e58ee75627738","canonical_code":"source.date","label":"Datavimas","group":"Šaltinio bruožai","value":"Išleistas 1827 m. Vilniuje","context":"Michał Balińskis, remdamasis Danilovičiaus leidiniu, nurodo „Latopisiec Litwy i Kronika Ruška, Vilniuje, 1827 m.“","support_ids":["t-55218","c-55644"],"source_refs":[{"kind":"internal_claim","claim_id":"t-55218","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-55644","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"Wremiennik Sofijski, p. 334. Žr. Danilovičių: Latopisiec Litwy i Kronika Ruška, Vilniuje, 1827 m. 1.170; užsimena apie tos bažnyčios Vilniu­ je egzistavimą jau 1347 metais. Kal­ bame čia apie Šv."}],"status":"published","conflict_status":"clear"},{"trait_id":"ca5603bc474312ac29c4b06b","canonical_code":"source.genre","label":"Žanras","group":"Šaltinio bruožai","value":"Kronika / metraštis","context":"Šaltinio pavadinime vartojami žodžiai „Latopisiec“ ir „Kronika“, o autorius jį cituoja kaip pasakojantį apie istorinius įvykius.","support_ids":["t-82002","c-78515","t-82003","c-78514"],"source_refs":[{"kind":"internal_claim","claim_id":"t-82002","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"internal_claim","claim_id":"t-82003","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"},{"kind":"evidence","evidence_id":"c-78515","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"25 Latopisiec Litewski, leidžiamas p. D a- n i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki."},{"kind":"evidence","evidence_id":"c-78514","source":"darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md","quote":"137- 138. Panaši užuomina apie šį Glebą Kronika Ruška, išleista Danilovi- č i a u s, įdėta Latopisiec Litewski, p. 212."}],"status":"published","conflict_status":"clear"}],"rejected_rows":[],"verification":{"verified":true,"verifier":"evidence_gate","external_assertions_checked":0},"model":"gpt-5.6-luna","prompt_version":"traits/v1-evidence-first"},"internal_summary":{"status":"review_required","generated_at":"2026-09-20T18:19:55+00:00"},"portrait":null,"featured_gallery":[],"media_verification":{"status":"not_required","primary_media_id":"","candidate_count":0,"visual_verified_count":0,"identity_verified_count":0,"primary":null},"related_content":{"articles":[],"exhibitions":[],"input_hash":"cf7b3101925f61da45455da6db04ca5c7d0397e04f6446c999a8918fcd8ed095"},"relations":[],"timeline":[],"support_disclosure":{"claims":5,"sources":1}}'
+object_page_finisher: 'true'
+object_page_finisher_hash: e6d9a180fa8f7554
+object_page_generated_at: '2026-09-20T18:19:55+00:00'
+object_page_source_checked_at: '2026-09-20T18:19:55+00:00'
+object_page_content_state: content
+object_page_claim_count: '5'
+object_page_source_count: '1'
+object_page_seo_description: 'Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičiaus leidžiamas metraštinės tradicijos rinkinys. Jis cituojamas Jaunučio, Šv.…'
+object_page_seo_input_hash: a80db4a899c8de3b12b73f91240bf5d8c0c23a5e6877c8687f48775b3f222ff8
+object_page_seo_generated_at: '2026-09-20T18:19:55+00:00'
+object_page_seo_policy_version: object-page-policy/v7
 ---
 # Latopisiec Litwy i Kronika Ruška
 
