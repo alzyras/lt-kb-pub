@@ -3,6 +3,7 @@ import { fileURLToPath } from "node:url"
 import handler from "serve-handler"
 
 const publicDirectory = fileURLToPath(new URL("../public/", import.meta.url))
+const port = Number(process.env.PORT || 8089)
 const server = http.createServer((request, response) => {
   handler(request, response, {
     public: publicDirectory,
@@ -20,6 +21,6 @@ server.on("error", (error) => {
   console.error(error.message)
   process.exitCode = 1
 })
-server.listen(8089, "127.0.0.1", () => {
-  console.log(`Local preview: http://localhost:8089 (serving ${publicDirectory})`)
+server.listen(port, "127.0.0.1", () => {
+  console.log(`Local preview: http://127.0.0.1:${port} (serving ${publicDirectory})`)
 })
