@@ -5,6 +5,7 @@ import {
   displayCaption,
   mediaDetailSlug,
   mediaImageUrl,
+  mediaThumbnailUrl,
   type MediaEntry,
 } from "../quartz/util/objectMedia"
 
@@ -121,6 +122,9 @@ if (!Array.isArray(catalog) || !catalog.length) {
     const absoluteImageUrl = /^https?:\/\//i.test(imageUrl)
       ? imageUrl
       : new URL(imageUrl, siteOrigin).toString()
+    // Social cards use the catalog thumbnail; the page and ImageObject retain
+    // the archival image. Verify each against its intended catalog field.
+    const absoluteSocialImageUrl = new URL(mediaThumbnailUrl(entry), siteOrigin).toString()
     try {
       if (!/^https?:\/\//i.test(imageUrl)) {
         const localPath = path.resolve(publicRoot, imageUrl.replace(/^\//, ""))
@@ -161,12 +165,12 @@ if (!Array.isArray(catalog) || !catalog.length) {
       fail(failures, `${page.relative}: twitter:image:alt does not equal DB caption`)
     }
     if (
-      metaContent(page.html, "og:image") !== absoluteImageUrl ||
-      metaContent(page.html, "twitter:image") !== absoluteImageUrl
+      metaContent(page.html, "og:image") !== absoluteSocialImageUrl ||
+      metaContent(page.html, "twitter:image") !== absoluteSocialImageUrl
     ) {
       fail(
         failures,
-        `${page.relative}: social image URL must be absolute and match the catalog image`,
+        `${page.relative}: social image URL must be absolute and match the catalog thumbnail`,
       )
     }
 
