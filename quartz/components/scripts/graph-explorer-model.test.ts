@@ -159,7 +159,7 @@ describe("graph explorer model", () => {
     assert.equal(graph.nodes.find((n) => n.id === "B")!.degree, 3)
     layoutGlobalGraph(graph.nodes)
     const ordered = [...graph.nodes].sort(
-      (a, b) => b.degree - a.degree || a.id.localeCompare(b.id, "lt"),
+      (a, b) => b.degree - a.degree || Math.hypot(a.px, a.py) - Math.hypot(b.px, b.py),
     )
     for (let i = 1; i < ordered.length; i++) {
       assert.ok(
@@ -185,7 +185,7 @@ describe("graph explorer model", () => {
     assert.equal(graph.focus!.py, 0)
     const rest = graph.nodes
       .filter((n) => n !== graph.focus)
-      .sort((a, b) => b.degree - a.degree || a.id.localeCompare(b.id, "lt"))
+      .sort((a, b) => b.degree - a.degree || Math.hypot(a.px, a.py) - Math.hypot(b.px, b.py))
     for (let i = 1; i < rest.length; i++)
       assert.ok(Math.hypot(rest[i - 1].px, rest[i - 1].py) <= Math.hypot(rest[i].px, rest[i].py))
   })
@@ -241,6 +241,26 @@ describe("graph explorer model", () => {
     assert.ok(collection.every(({ px, py }) => Number.isFinite(px) && Number.isFinite(py)))
     assert.ok(collection.every(({ px, py }) => Math.hypot(px, py) <= 910))
     assert.deepEqual(reversed.toReversed(), collection)
+  })
+
+  test("equally connected types fill the same radial band instead of separate rings", () => {
+    const collection = ["asmuo", "vieta"].flatMap((type) =>
+      Array.from({ length: 100 }, (_, index) => ({
+        ...node(`${type}/${String(index).padStart(3, "0")}`),
+        id: `${type}/${String(index).padStart(3, "0")}`,
+        type,
+        degree: 1,
+        px: 0,
+        py: 0,
+        hop: -1,
+      })),
+    )
+    layoutGlobalGraph(collection)
+    for (let index = 0; index < 100; index++) {
+      const a = collection[index],
+        b = collection[index + 100]
+      assert.ok(Math.abs(Math.hypot(a.px, a.py) - Math.hypot(b.px, b.py)) < 1e-8)
+    }
   })
 
   test("focus summary distinguishes neighbours, direct edges and subgraph edges", () => {

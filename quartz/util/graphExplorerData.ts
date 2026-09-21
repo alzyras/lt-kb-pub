@@ -205,7 +205,7 @@ export function explorerData(
   for (const [type, group] of groups) {
     const { start, span } = sectors[type]
     group.forEach((node, i) => {
-      const angle = start + span * (0.08 + ((i * 0.61803398875) % 1) * 0.84)
+      const angle = start + span * (0.012 + ((i * 0.61803398875) % 1) * 0.976)
       const radius =
         graphCoreRadius * Math.sqrt(1.2 ** 2 + ((2.4 ** 2 - 1.2 ** 2) * (i + 0.5)) / group.length)
       const runtime = {

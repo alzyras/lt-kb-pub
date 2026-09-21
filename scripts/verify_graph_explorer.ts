@@ -72,7 +72,7 @@ for (const kinds of [
   const graph = buildVisibleGraph(core, core.edges, state)
   layoutFocusedGraph(graph, index.sectors)
   const ranked = [...graph.nodes].sort(
-    (a, b) => b.degree - a.degree || a.id.localeCompare(b.id, "lt"),
+    (a, b) => b.degree - a.degree || Math.hypot(a.px, a.py) - Math.hypot(b.px, b.py),
   )
   for (let i = 1; i < ranked.length; i++) {
     assert.ok(

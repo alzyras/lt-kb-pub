@@ -160,19 +160,33 @@ export function layoutGlobalGraph(
   )
   const total = nodes.length
   const ranked = [...nodes].sort((a, b) => b.degree - a.degree || a.id.localeCompare(b.id, "lt"))
-  const rank = new Map(ranked.map((node, index) => [node.id, index]))
+  // Equal-degree objects share one radial band across all types. A global
+  // slug rank would group directory names into separate concentric islands.
+  const bands = new Map<number, { start: number; count: number }>()
+  for (const [index, node] of ranked.entries()) {
+    const band = bands.get(node.degree)
+    if (band) band.count++
+    else bands.set(node.degree, { start: index, count: 1 })
+  }
   let offset = 0
 
   for (const group of orderedGroups) {
     group.sort((a, b) => b.degree - a.degree || a.id.localeCompare(b.id, "lt"))
     const start = sectors?.[group[0].type]?.start ?? (offset / total) * Math.PI * 2
     const span = sectors?.[group[0].type]?.span ?? (group.length / total) * Math.PI * 2
+    const counts = new Map<number, number>()
+    const ordinals = new Map<number, number>()
+    for (const node of group) counts.set(node.degree, (counts.get(node.degree) ?? 0) + 1)
 
     for (let index = 0; index < group.length; index++) {
       const node = group[index]
       const phase = (index * 0.61803398875) % 1
-      const distance = Math.sqrt((rank.get(node.id)! + 0.5) / total)
-      const angle = start + span * (0.08 + phase * 0.84)
+      const band = bands.get(node.degree)!
+      const ordinal = ordinals.get(node.degree) ?? 0
+      ordinals.set(node.degree, ordinal + 1)
+      const rank = band.start + ((ordinal + 0.5) / counts.get(node.degree)!) * band.count
+      const distance = Math.sqrt(rank / total)
+      const angle = start + span * (0.012 + phase * 0.976)
       const radius = innerRadius + distance * (outerRadius - innerRadius)
       node.px = Math.cos(angle) * radius
       node.py = Math.sin(angle) * radius
