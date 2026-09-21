@@ -1,7 +1,7 @@
 {
   "exhibitions": [
     {
-      "description": "Chodkevičių istoriją pasakoja herbas, Zabludovo spaudinys, karvedžių portretai, mūšių interpretacijos ir jų kurtų miestų bei tvirtovių vaizdai. Dvylika objektų jungia valstybės tarnybą, tikėjimą, valdų ūkį ir giminės atmintį.",
+      "description": "Dvylika objektų pasakoja, kaip XV a. valdovo tarnyboje iškilę Chodkevičiai kūrė savo vietą Lietuvos Didžiosios Kunigaikštystės elite. Herbas ir vėlyvos portretų serijos liudija reprezentaciją, Zabludovo leidinys – spaudos mecenatystę, o Salaspilio, Chotino, Kretingos, Skuodo bei Liachavičių vaizdai atveria karo, miestų teisės, fundacijų ir vėlesnės atminties istoriją.",
       "editorialProfile": "family-overview",
       "exhibitionId": "chodkeviciai-etmonai-miestai-ir-spaustuves",
       "familyMembers": [
@@ -321,7 +321,7 @@
         "attribution": "Nežinomas dailininkas",
         "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Jan_Karol_Chodkiewicz.JPG",
         "caption": "Jono Karolio Chodkevičiaus portretas, sukurtas apie 1620 metus.",
-        "catalogDescriptionLt": "Jono Karolio Chodkevičiaus portretas, sukurtas apie 1620 metus. Commons kortelė asmenį įvardija kaip Joną Karolį Chodkevičių, nurodo apytikslę datą ir Lenkijos kariuomenės muziejų. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+        "catalogDescriptionLt": "Apie 1620 m. nežinomo dailininko sukurtas Jono Karolio Chodkevičiaus portretas iš Lenkijos kariuomenės muziejaus Varšuvoje rinkinio. Šarvai ir vadovo lazda kuria didžiojo etmono viešą reprezentacinį įvaizdį.",
         "collection": "",
         "confidence": 0.96,
         "confidenceLevel": "high",
@@ -402,14 +402,14 @@
           "claimRefs": [],
           "items": [
             {
-              "catalogDescriptionLt": "Chodkevičių herbas: grifas su pakeltu kalaviju. Commons kortelė kūrinį įvardija kaip Chodkevičių herbą ir nurodo autorių bei viešosios srities žymą. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+              "catalogDescriptionLt": "Kacperio Dębskio 2009 m. sukurta vektorinė Chodkevičių herbo rekonstrukcija. Wikimedia Commons kortelėje nurodytas autorius ir viešosios srities žyma; tai šiuolaikinis herbo atvaizdas, ne istorinio antspaudo kopija.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Kacper Dębski",
               "dateDisplay": "2009 m.",
-              "descriptionLt": "XVI a. pabaigoje Chodkevičių heraldikoje įsitvirtino grifas su pakeltu kalaviju. Herbas viešai žymėjo giminę ant antspaudų, leidinių ir fundacijų, tačiau šiuolaikinis vektorinis piešinys nėra istorinio antspaudo pakaitalas. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
-              "evidenceNoteLt": "Tai šiuolaikinė heraldinio ženklo rekonstrukcija, todėl ji liudija herbo sandarą, o ne vieno konkretaus XVI a. dokumento išvaizdą.",
+              "descriptionLt": "Grifas su pakeltu kalaviju Chodkevičių heraldikoje įsitvirtino XVI a. pabaigoje; anksčiau giminė naudojo Kościesza herbą. Heraldinis ženklas leido atpažinti giminę ant antspaudų, leidinių ir fundacijų. Čia rodomas 2009 m. vektorinis piešinys tiksliai perteikia sutartinę herbo sandarą, bet nėra istorinio XVI a. antspaudo kopija.",
+              "evidenceNoteLt": "Šiuolaikinė rekonstrukcija liudija nusistovėjusią herbo formą. Konkretaus istorinio dokumento išvaizdą reikia tikrinti pagal jo antspaudą.",
               "exhibitionItemId": "chod-herbas",
               "externalSources": [
                 {
@@ -422,7 +422,7 @@
                 "attribution": "Kacper Dębski",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Herb_Chodkiewicz.svg",
                 "caption": "Chodkevičių herbas: grifas su pakeltu kalaviju.",
-                "catalogDescriptionLt": "Chodkevičių herbas: grifas su pakeltu kalaviju. Commons kortelė kūrinį įvardija kaip Chodkevičių herbą ir nurodo autorių bei viešosios srities žymą. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+                "catalogDescriptionLt": "Kacperio Dębskio 2009 m. sukurta vektorinė Chodkevičių herbo rekonstrukcija. Wikimedia Commons kortelėje nurodytas autorius ir viešosios srities žyma; tai šiuolaikinis herbo atvaizdas, ne istorinio antspaudo kopija.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -476,19 +476,23 @@
               "titleLt": "Grifas su kalaviju"
             },
             {
-              "catalogDescriptionLt": "Septyni Chodkevičių giminės atstovai 1642 m. Gdansko leidinyje. Lenkijos nacionalinės bibliotekos skaitmeninto leidinio kortelėje nurodyti leidėjas, 1642 m. data ir signatūra SD XVII.4.101. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+              "catalogDescriptionLt": "Conrado Götke 1642 m. Gdanske išleistas septynių Chodkevičių atvaizdų lakštas. Lenkijos nacionalinės bibliotekos skaitmeninto leidinio signatūra – SD XVII.4.101; kūrinys saugomas kaip giminės reprezentacijos, o ne portretinio panašumo šaltinis.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Conrad Götke",
               "dateDisplay": "1642 m.",
-              "descriptionLt": "1642 m. Gdanske išspausdintame lape septyni Chodkevičiai pateikti kaip viena didžių vyrų seka. Leidinys sukurtas jau po Jono Karolio mirties ir rodo, kaip šeimos karinė bei politinė istorija buvo sutelkta į reprezentacinį giminės pasakojimą.",
-              "evidenceNoteLt": "Vardai ir data patvirtinti kataloge; portretų panašumo į ankstyvuosius asmenis negalima laikyti dokumentiniu.",
+              "descriptionLt": "Conrado Götke 1642 m. Gdanske išleistame lape septyni Chodkevičiai sudėti į vieną giminės didybės pasakojimą. Kiekvieną figūrą lydi vardas ir statuso ženklai, todėl žiūrovas mato ne šeimos kasdienybę, o sąmoningai parinktą karvedžių bei pareigūnų seką. Leidinys atsirado jau po Jono Karolio mirties ir padėjo jo šlovę įrašyti į ilgesnę genealoginę atmintį.",
+              "evidenceNoteLt": "1642 m. lakštas yra giminės reprezentacijos šaltinis. Jame pateikti atvaizdai savaime nepatvirtina ankstesnių asmenų fizinės išvaizdos.",
               "exhibitionItemId": "chod-septyni",
               "externalSources": [
                 {
                   "title": "VLE: Chodkevičiai",
                   "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+                },
+                {
+                  "title": "Rimvydas Petrauskas: Chodkevičiai – „naujieji lietuviai“",
+                  "url": "https://www.ldkistorija.lt/chodkeviciai-naujieji-lietuviai/"
                 }
               ],
               "featured": true,
@@ -496,7 +500,7 @@
                 "attribution": "Conrad Götke",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Chadkievi%C4%8Dy._%D0%A5%D0%B0%D0%B4%D0%BA%D0%B5%D0%B2%D1%96%D1%87%D1%8B_(C._G%C3%B6tke,_1642).jpg",
                 "caption": "Septyni Chodkevičių giminės atstovai 1642 m. Gdansko leidinyje.",
-                "catalogDescriptionLt": "Septyni Chodkevičių giminės atstovai 1642 m. Gdansko leidinyje. Lenkijos nacionalinės bibliotekos skaitmeninto leidinio kortelėje nurodyti leidėjas, 1642 m. data ir signatūra SD XVII.4.101. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+                "catalogDescriptionLt": "Conrado Götke 1642 m. Gdanske išleistas septynių Chodkevičių atvaizdų lakštas. Lenkijos nacionalinės bibliotekos skaitmeninto leidinio signatūra – SD XVII.4.101; kūrinys saugomas kaip giminės reprezentacijos, o ne portretinio panašumo šaltinis.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -550,16 +554,20 @@
               "titleLt": "Septyni vardai viename lape"
             },
             {
-              "catalogDescriptionLt": "Grigalius Chodkevičius XIX a. pabaigos istoriniame leidinyje. Commons kortelė raižinį sieja su P. Batiuškovo 1890 m. leidiniu ir Grigaliumi Chodkevičiumi. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+              "catalogDescriptionLt": "1890 m. leidinyje „Белоруссия и Литва“ paskelbtas Grigaliaus Chodkevičiaus portretinis raižinys. Autorius nenustatytas, iliustracija leidinyje pateikta 187 puslapyje; vėlyva sukūrimo data riboja jos vertę istorinei asmens išvaizdai nustatyti.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Autorius nenustatytas",
               "dateDisplay": "1890 m.",
-              "descriptionLt": "Grigalius Chodkevičius vadovavo kariuomenei ir rėmė Zabludovo spaustuvę. 1890 m. raižinys jį rodo su šarvais ir etmono buože. Tai daug vėliau sukurta istorinė reprezentacija, naudinga giminės atminčiai tirti. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
-              "evidenceNoteLt": "Raižinys paskelbtas daugiau nei po trijų šimtmečių, tad nėra iš natūros sukurtas portretas.",
+              "descriptionLt": "Grigalius Chodkevičius buvo Lietuvos lauko, vėliau didysis etmonas ir vienas 1564 m. Ulos pergalės vadų. Jo Zabludovo dvare veikė Ivano Fiodorovo ir Piotro Mstislavco spaustuvė. 1890 m. paskelbtas raižinys su šarvais ir etmono buože sujungia abi biografijos kryptis į įprastą karvedžio portretą, tačiau spaustuvės fundatoriaus veiklą atskleidžia leidiniai, o ne ši vėlyva iliustracija.",
+              "evidenceNoteLt": "Raižinys sukurtas daugiau kaip po trijų šimtmečių, todėl naudojamas giminės atminčiai, o ne Grigaliaus išvaizdai dokumentuoti.",
               "exhibitionItemId": "chod-grigalius",
               "externalSources": [
+                {
+                  "title": "VLE: Grigalius Chodkevičius",
+                  "url": "https://www.vle.lt/straipsnis/grigalius-chodkevicius/"
+                },
                 {
                   "title": "VLE: Chodkevičiai",
                   "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
@@ -570,7 +578,7 @@
                 "attribution": "Autorius nenustatytas",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Ryhor_Chadkievi%C4%8D._%D0%A0%D1%8B%D0%B3%D0%BE%D1%80_%D0%A5%D0%B0%D0%B4%D0%BA%D0%B5%D0%B2%D1%96%D1%87_(1890).jpg",
                 "caption": "Grigalius Chodkevičius XIX a. pabaigos istoriniame leidinyje.",
-                "catalogDescriptionLt": "Grigalius Chodkevičius XIX a. pabaigos istoriniame leidinyje. Commons kortelė raižinį sieja su P. Batiuškovo 1890 m. leidiniu ir Grigaliumi Chodkevičiumi. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+                "catalogDescriptionLt": "1890 m. leidinyje „Белоруссия и Литва“ paskelbtas Grigaliaus Chodkevičiaus portretinis raižinys. Autorius nenustatytas, iliustracija leidinyje pateikta 187 puslapyje; vėlyva sukūrimo data riboja jos vertę istorinei asmens išvaizdai nustatyti.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -624,7 +632,7 @@
               "titleLt": "Grigalius: etmonas ir spaustuvės fundatorius"
             }
           ],
-          "lead": "Ankstyvųjų dokumentų tyrimai Chodkevičių pradžią sieja su Gardino žeme. XVI a. giminė išsišakojo į Bychavo, Berastavicos ir Supraslio linijas, o jos viešą atpažįstamumą kūrė titulas, herbas ir vėlesnės portretų serijos",
+          "lead": "Ankstyvieji dokumentai giminės pradžią sieja su Gardino žeme, o vėlesni autoriai kūrė legendinę Boreikos genealogiją. Herbas, 1555 m. grafų titulas ir XVII a. portretų serija rodo, kaip jau iškilusi giminė viešai aiškino savo kilmę bei statusą.",
           "navMediaId": "m-b4fd364dd1d8687a92e492cf",
           "sectionId": "chod-kilmė-herbas-trys-sakos",
           "slug": "kilmė-herbas-trys-sakos",
@@ -634,23 +642,19 @@
           "claimRefs": [],
           "items": [
             {
-              "catalogDescriptionLt": "1569 m. Zabludove išspausdintos mokomosios Evangelijos puslapis. Failo kortelė kūrinį identifikuoja kaip 1569 m. Zabludovo mokomosios Evangelijos puslapį. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+              "catalogDescriptionLt": "Ivano Fiodorovo ir Piotro Mstislavco 1569 m. Zabludove išspausdintos mokomosios Evangelijos puslapis. Skaitmeninio failo kortelėje originalo saugotojas nenurodytas, tačiau leidinys, spaustuvininkai, vieta ir data identifikuoti.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Ivanas Fiodorovas ir Piotras Mstislavcas",
               "dateDisplay": "1569 m.",
-              "descriptionLt": "1569 m. Ivanas Fiodorovas ir Piotras Mstislavcas Grigaliaus Chodkevičiaus dvare išspausdino mokomąją Evangeliją. Kirilika išleista knyga siejasi su stačiatikių raštija ir rodo, kad didiko dvaras galėjo tapti naujos spaudos technologijos centru.",
-              "evidenceNoteLt": "Atvaizdas tiesiogiai liudija leidinį; platesnis fundacijos kontekstas remiamas VLE Grigaliaus biografija.",
+              "descriptionLt": "1569 m. Zabludove Ivanas Fiodorovas ir Piotras Mstislavcas išspausdino mokomąją Evangeliją. Kirilika išleista knyga buvo skirta stačiatikių raštijos aplinkai, o jos atsiradimą rėmė Grigalius Chodkevičius. Atverstas lapas leidžia matyti šriftą, ornamentą ir teksto sandarą – konkrečius spaudos dirbtuvės darbo pėdsakus. Jis nepasako, kiek fundatorius pats kišosi į redagavimą, bet patikimai sieja leidėjus, vietą ir datą.",
+              "evidenceNoteLt": "Skaitmenintas knygos lapas yra pirminis spaudos veiklos liudijimas; platesnis mecenatystės kontekstas tikrinamas biografiniuose tyrimuose.",
               "exhibitionItemId": "chod-evangelija",
               "externalSources": [
                 {
                   "title": "VLE: Grigalius Chodkevičius",
                   "url": "https://www.vle.lt/straipsnis/grigalius-chodkevicius/"
-                },
-                {
-                  "title": "VLE: Jonas Chodkevičius",
-                  "url": "https://www.vle.lt/straipsnis/jonas-chodkevicius-1/"
                 }
               ],
               "featured": true,
@@ -658,7 +662,7 @@
                 "attribution": "Ivanas Fiodorovas ir Piotras Mstislavcas",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Didactic_Gospel_3.jpg",
                 "caption": "1569 m. Zabludove išspausdintos mokomosios Evangelijos puslapis.",
-                "catalogDescriptionLt": "1569 m. Zabludove išspausdintos mokomosios Evangelijos puslapis. Failo kortelė kūrinį identifikuoja kaip 1569 m. Zabludovo mokomosios Evangelijos puslapį. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+                "catalogDescriptionLt": "Ivano Fiodorovo ir Piotro Mstislavco 1569 m. Zabludove išspausdintos mokomosios Evangelijos puslapis. Skaitmeninio failo kortelėje originalo saugotojas nenurodytas, tačiau leidinys, spaustuvininkai, vieta ir data identifikuoti.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -712,23 +716,23 @@
               "titleLt": "Knyga iš Zabludovo"
             },
             {
-              "catalogDescriptionLt": "Supraslio stačiatikių vienuolyno ansamblis 2021 metais. Commons kortelėje nurodyta fotografavimo data, vieta, autorius ir CC0 teisių žyma. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+              "catalogDescriptionLt": "Rakoon 2021 m. fotografuotas Supraslio stačiatikių vienuolyno ansamblis. Wikimedia Commons paskelbtam atvaizdui taikoma CC0 1.0 žyma; fotografija rodo dabartinę po perstatymų ir atkūrimo susiformavusią vietos būklę.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Rakoon",
               "dateDisplay": "2021 m.",
-              "descriptionLt": "Supraslio vardu vadinta viena iš trijų pagrindinių Chodkevičių šakų. Šiandien fotografuojamas vienuolyno ansamblis per šimtmečius buvo perstatytas ir atkurtas, todėl vaizdas padeda nustatyti vietą, bet neatkuria XVI a. aplinkos be papildomų šaltinių.",
-              "evidenceNoteLt": "2021 m. fotografija yra dabartinės būklės liudijimas.",
+              "descriptionLt": "Aleksandro Chodkevičiaus XVI a. pradžioje kurtas Supraslio vienuolynas tapo giminės laidojimo ir atminimo vieta bei svarbiu LDK stačiatikių kultūros židiniu. Vienuolyno aplinkoje buvo saugomos knygos ir giminės pasakojimai, o pati fundacija siejo religinę globą su Chodkevičių statusu. Dabartinėje fotografijoje matomas po perstatymų, sugriovimų ir atkūrimo susiformavęs ansamblis.",
+              "evidenceNoteLt": "Fotografija patvirtina dabartinę vietos būklę. XVI a. vienuolyno išvaizdai atkurti reikia architektūros ir archeologijos šaltinių.",
               "exhibitionItemId": "chod-supraslis",
               "externalSources": [
                 {
-                  "title": "VLE: Grigalius Chodkevičius",
-                  "url": "https://www.vle.lt/straipsnis/grigalius-chodkevicius/"
+                  "title": "Rimvydas Petrauskas: Chodkevičiai – „naujieji lietuviai“",
+                  "url": "https://www.ldkistorija.lt/chodkeviciai-naujieji-lietuviai/"
                 },
                 {
-                  "title": "VLE: Jonas Chodkevičius",
-                  "url": "https://www.vle.lt/straipsnis/jonas-chodkevicius-1/"
+                  "title": "VLE: Chodkevičiai",
+                  "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
                 }
               ],
               "featured": true,
@@ -736,7 +740,7 @@
                 "attribution": "Rakoon",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:20210801_102747_Supra%C5%9Bl_Orthodox_Monastery.jpg",
                 "caption": "Supraslio stačiatikių vienuolyno ansamblis 2021 metais.",
-                "catalogDescriptionLt": "Supraslio stačiatikių vienuolyno ansamblis 2021 metais. Commons kortelėje nurodyta fotografavimo data, vieta, autorius ir CC0 teisių žyma. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+                "catalogDescriptionLt": "Rakoon 2021 m. fotografuotas Supraslio stačiatikių vienuolyno ansamblis. Wikimedia Commons paskelbtam atvaizdui taikoma CC0 1.0 žyma; fotografija rodo dabartinę po perstatymų ir atkūrimo susiformavusią vietos būklę.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -790,7 +794,7 @@
               "titleLt": "Supraslis ir viena giminės šaka"
             }
           ],
-          "lead": "Zabludovo spaustuvė, Supraslio vienuolyno aplinka ir Jono Chodkevičiaus dalyvavimas Liublino derybose rodo giminę veikusią tarp skirtingų konfesijų, kalbų ir politinių institucijų.",
+          "lead": "Supraslio vienuolynas, Zabludovo spaustuvė ir Jono Chodkevičiaus studijos liudija pasaulį, kuriame viena giminė gyveno tarp stačiatikybės, protestantizmo ir katalikybės. Tie pasirinkimai veikė knygų leidybą, fundacijas ir politinius ryšius.",
           "navMediaId": "m-449491fc38d6fcf3ee728ede",
           "sectionId": "chod-knygos-tikejimas-valstybes-derybos",
           "slug": "knygos-tikejimas-valstybes-derybos",
@@ -800,19 +804,23 @@
           "claimRefs": [],
           "items": [
             {
-              "catalogDescriptionLt": "Jono Karolio Chodkevičiaus portretas, sukurtas apie 1620 metus. Commons kortelė asmenį įvardija kaip Joną Karolį Chodkevičių, nurodo apytikslę datą ir Lenkijos kariuomenės muziejų. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+              "catalogDescriptionLt": "Apie 1620 m. nežinomo dailininko sukurtas Jono Karolio Chodkevičiaus portretas iš Lenkijos kariuomenės muziejaus Varšuvoje rinkinio. Šarvai ir vadovo lazda kuria didžiojo etmono viešą reprezentacinį įvaizdį.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Nežinomas dailininkas",
               "dateDisplay": "apie 1620 m.",
-              "descriptionLt": "Apie 1620 m. sukurtas portretas Joną Karolį Chodkevičių rodo kaip kariuomenės vadą. Šarvai ir vadovo lazda pabrėžia pareigas. Tai artimas jo gyvenimo laikui kūrinys, tačiau vien portretas nepatvirtina atskirų biografijos epizodų.",
-              "evidenceNoteLt": "Asmens tapatybę, datavimą ir saugotoją pateikia muziejinė Commons kortelė.",
+              "descriptionLt": "Apie 1620 m., dar Jonui Karoliui gyvam esant, sukurtame portrete šarvai ir raudona vadovo lazda pirmiausia kalba apie didžiojo etmono rangą. Biografiją papildo kitokie išlikę daiktai: Vilniaus universiteto bibliotekoje nustatyta dvylika jam priklausiusių karybos, istorijos, kronikų ir Antikos autorių leidinių. Portretas kūrė viešą vado įvaizdį, o knygos leidžia kalbėti apie jo profesinį akiratį.",
+              "evidenceNoteLt": "Portretas artimas vaizduojamo asmens gyvenimo laikui, tačiau atskirus karjeros faktus patvirtina rašytiniai šaltiniai ir tyrimai.",
               "exhibitionItemId": "chod-jonas-karolis",
               "externalSources": [
                 {
                   "title": "VLE: Jonas Karolis Chodkevičius",
                   "url": "https://www.vle.lt/straipsnis/jonas-karolis-chodkevicius/"
+                },
+                {
+                  "title": "Raimonda Ragauskienė: Jonas Karolis Chodkevičius ir jo epocha",
+                  "url": "https://www.ldkistorija.lt/xvii-a-europos-legenda-jonas-karolis-chodkevicius-1560-1621/"
                 }
               ],
               "featured": true,
@@ -820,7 +828,7 @@
                 "attribution": "Nežinomas dailininkas",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Jan_Karol_Chodkiewicz.JPG",
                 "caption": "Jono Karolio Chodkevičiaus portretas, sukurtas apie 1620 metus.",
-                "catalogDescriptionLt": "Jono Karolio Chodkevičiaus portretas, sukurtas apie 1620 metus. Commons kortelė asmenį įvardija kaip Joną Karolį Chodkevičių, nurodo apytikslę datą ir Lenkijos kariuomenės muziejų. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+                "catalogDescriptionLt": "Apie 1620 m. nežinomo dailininko sukurtas Jono Karolio Chodkevičiaus portretas iš Lenkijos kariuomenės muziejaus Varšuvoje rinkinio. Šarvai ir vadovo lazda kuria didžiojo etmono viešą reprezentacinį įvaizdį.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -874,19 +882,23 @@
               "titleLt": "Jonas Karolis: etmono atvaizdas"
             },
             {
-              "catalogDescriptionLt": "Michało Stachowicziaus Salaspilio mūšio interpretacija, sukurta iki 1825 metų. Polonos ir Commons įrašai kūrinį sieja su Michału Stachowicziumi ir Kircholmo mūšiu; vaizdas sukurtas daugiau nei po dviejų šimtmečių.",
+              "catalogDescriptionLt": "Michało Stachowicziaus iki 1825 m. sukurta Salaspilio mūšio scena. Skaitmeninis atvaizdas siejamas su Lenkijos nacionalinės bibliotekos „Polona“ kolekcija; kūrinys yra XIX a. istorinė 1605 m. mūšio interpretacija.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Michał Stachowicz",
               "dateDisplay": "iki 1825 m.",
-              "descriptionLt": "1605 m. rugsėjo 27 d. Jono Karolio vadovaujama kariuomenė prie Salaspilio sumušė Karolio IX pajėgas. Michałas Stachowiczius mūšį pavaizdavo iki 1825 m., todėl kompozicija liudija XIX a. istorinę vaizduotę, o ne tiesiogiai užfiksuotą mūšio eigą.",
-              "evidenceNoteLt": "Kūrinio tema ir autorius kataloguoti; detalės nėra pirminis 1605 m. šaltinis.",
+              "descriptionLt": "1605 m. rugsėjo 27 d. prie Salaspilio Jono Karolio vadovaujama LDK kariuomenė sumušė Karolio IX pajėgas ir apgynė Rygą. Jau 1606 m. Vilniuje pergalę aprašė Laurencijaus Bojerio „Karolomachija“. Michałas Stachowiczius mūšio kompoziciją sukūrė tik XIX a. pradžioje: raitelių judėjimas ir herojiška centrinė figūra rodo, kaip įvykis buvo įsivaizduojamas po dviejų šimtmečių.",
+              "evidenceNoteLt": "Paveikslas nėra mūšio reportažas. Kariuomenių sudėtis ir kautynių eiga nustatoma pagal rašytinius šaltinius bei karo istorijos tyrimus.",
               "exhibitionItemId": "chod-salaspilis",
               "externalSources": [
                 {
                   "title": "VLE: Jonas Karolis Chodkevičius",
                   "url": "https://www.vle.lt/straipsnis/jonas-karolis-chodkevicius/"
+                },
+                {
+                  "title": "Raimonda Ragauskienė: Jonas Karolis Chodkevičius ir jo epocha",
+                  "url": "https://www.ldkistorija.lt/xvii-a-europos-legenda-jonas-karolis-chodkevicius-1560-1621/"
                 }
               ],
               "featured": true,
@@ -894,7 +906,7 @@
                 "attribution": "Michał Stachowicz",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Jan_Karol_Chodkiewicz_in_battle_of_Kircholm_(555911).jpg",
                 "caption": "Michało Stachowicziaus Salaspilio mūšio interpretacija, sukurta iki 1825 metų.",
-                "catalogDescriptionLt": "Michało Stachowicziaus Salaspilio mūšio interpretacija, sukurta iki 1825 metų. Polonos ir Commons įrašai kūrinį sieja su Michału Stachowicziumi ir Kircholmo mūšiu; vaizdas sukurtas daugiau nei po dviejų šimtmečių.",
+                "catalogDescriptionLt": "Michało Stachowicziaus iki 1825 m. sukurta Salaspilio mūšio scena. Skaitmeninis atvaizdas siejamas su Lenkijos nacionalinės bibliotekos „Polona“ kolekcija; kūrinys yra XIX a. istorinė 1605 m. mūšio interpretacija.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -948,19 +960,23 @@
               "titleLt": "Salaspilis po dviejų šimtmečių"
             },
             {
-              "catalogDescriptionLt": "Józefo Brandto paveikslas „Chodkevičius prie Chotino“, 1867 m. Muziejaus katalogo duomenys Commons kortelėje nurodo autorių, 1867 m. datą, pavadinimą ir numerį MP 5056. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+              "catalogDescriptionLt": "Józefo Brandto 1867 m. paveikslas „Chodkevičius prie Chotino“ iš Nacionalinio muziejaus Varšuvoje rinkinio, inventoriaus numeris MP 5056. Drobė yra XIX a. istorinė 1621 m. kampanijos interpretacija.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Józef Brandt",
               "dateDisplay": "1867 m.",
-              "descriptionLt": "1621 m. Jonas Karolis vadovavo jungtinei Abiejų Tautų Respublikos kariuomenei prie Chotino ir mirė dar nepasibaigus kampanijai. Józefo Brandto 1867 m. paveiksle vadas paverstas centrinė istorinio pasakojimo figūra. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
-              "evidenceNoteLt": "Paveikslas sukurtas 246 metais vėliau; jis rodo XIX a. atmintį, ne dokumentinį 1621 m. vaizdą.",
+              "descriptionLt": "1621 m. rugsėjį Jonas Karolis vadovavo jungtinei Abiejų Tautų Respublikos kariuomenei, gynusiai įtvirtintą Chotino stovyklą nuo Osmanų kariuomenės. Jis mirė rugsėjo 24 d., kovoms dar nesibaigus; spalį sudaryta taika užbaigė kampaniją. Józefo Brandto 1867 m. drobė vadą iškelia į pasakojimo centrą. Tai XIX a. istorinė tapyba, sukurta atminčiai ir dramai, o ne tiksliai stovyklos dienai dokumentuoti.",
+              "evidenceNoteLt": "Kūrinio data ir autorius nustatyti muziejaus kataloge. Vaizduojamo įvykio faktai remiami atskirais istoriniais šaltiniais.",
               "exhibitionItemId": "chod-chotinas",
               "externalSources": [
                 {
                   "title": "VLE: Jonas Karolis Chodkevičius",
                   "url": "https://www.vle.lt/straipsnis/jonas-karolis-chodkevicius/"
+                },
+                {
+                  "title": "Raimonda Ragauskienė: Jonas Karolis Chodkevičius ir jo epocha",
+                  "url": "https://www.ldkistorija.lt/xvii-a-europos-legenda-jonas-karolis-chodkevicius-1560-1621/"
                 }
               ],
               "featured": true,
@@ -968,7 +984,7 @@
                 "attribution": "Józef Brandt",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:J%C3%B3zef_Brandt_-_Chodkiewicz_at_Chocim_-_MP_5056_-_National_Museum_in_Warsaw.jpg",
                 "caption": "Józefo Brandto paveikslas „Chodkevičius prie Chotino“, 1867 m.",
-                "catalogDescriptionLt": "Józefo Brandto paveikslas „Chodkevičius prie Chotino“, 1867 m. Muziejaus katalogo duomenys Commons kortelėje nurodo autorių, 1867 m. datą, pavadinimą ir numerį MP 5056. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+                "catalogDescriptionLt": "Józefo Brandto 1867 m. paveikslas „Chodkevičius prie Chotino“ iš Nacionalinio muziejaus Varšuvoje rinkinio, inventoriaus numeris MP 5056. Drobė yra XIX a. istorinė 1621 m. kampanijos interpretacija.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -1022,7 +1038,7 @@
               "titleLt": "Chotino atmintis drobėje"
             }
           ],
-          "lead": "Grigaliaus ir Jono Karolio karjeros aprėpė karus su Maskvos valstybe, Švedija ir Osmanų imperija. Pergalių vaizdai dažniausiai sukurti vėliau, todėl parodoje jie skaitomi ir kaip atminties kūriniai.",
+          "lead": "Nuo 1564 m. Ulos iki 1621 m. Chotino Chodkevičių vardas buvo susijęs su keliais skirtingais karais. Parodos paveikslai sukurti vėliau už vaizduojamus įvykius, todėl jie pasakoja ir apie XIX a. istorinę vaizduotę.",
           "navMediaId": "m-c6c9c956b5c47749e64a9a3a",
           "sectionId": "chod-nuo-ulos-iki-chotyno",
           "slug": "nuo-ulos-iki-chotyno",
@@ -1032,14 +1048,14 @@
           "claimRefs": [],
           "items": [
             {
-              "catalogDescriptionLt": "Jono Karolio ir Sofijos Chodkevičių funduotas Kretingos bažnyčios bei vienuolyno ansamblis. Commons kortelė nurodo objekto vietą, 2019 m. datą, autorių ir CC BY-SA 4.0 licenciją.",
+              "catalogDescriptionLt": "2019 m. „Žemaitijos kelio“ fotografuotas Kretingos bernardinų vienuolyno ir bažnyčios ansamblis. Atvaizdui taikoma CC BY-SA 4.0 licencija; fotografija rodo dabartinę kelių statybos bei remonto etapų suformuotą būklę.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Žemaitijos kelias",
               "dateDisplay": "2019 m.",
-              "descriptionLt": "Jonas Karolis ir Sofija Mieleckaitė-Chodkevičienė XVII a. pradžioje fundavo Kretingos bernardinų vienuolyną bei mūrinę bažnyčią. Sutuoktinių 1619 m. dokumentas vienuoliams skyrė žemę ir kasmetinį išlaikymą. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
-              "evidenceNoteLt": "Fotografija rodo vėliau kitusį ansamblį; fundacijos faktai remiami Juliaus Kanarsko tyrimu.",
+              "descriptionLt": "Jonas Karolis ir Sofija Mieleckaitė-Chodkevičienė Kretingoje fundavo bernardinų vienuolyną ir mūrinę bažnyčią. 1619 m. dokumente sutuoktiniai skyrė žemę, pinigų ir kasmet tiekiamų grūdų, gyvulių, žuvų bei medaus. Toks sąrašas parodo fundaciją kaip nuolatinį ūkio įsipareigojimą. Dabartinis ansamblio vaizdas leidžia atpažinti vietą, bet jame matyti ir kelių vėlesnių šimtmečių remontai bei miesto raida.",
+              "evidenceNoteLt": "Fundacijos datos ir išlaikymo sudėtis remiamos Juliaus Kanarsko publikuotu tyrimu; fotografija rodo dabartinį ansamblį.",
               "exhibitionItemId": "chod-kretinga",
               "externalSources": [
                 {
@@ -1047,12 +1063,8 @@
                   "url": "https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf"
                 },
                 {
-                  "title": "VLE: Jonas Chodkevičius",
-                  "url": "https://www.vle.lt/straipsnis/jonas-chodkevicius-1/"
-                },
-                {
-                  "title": "Lituanistika: Liachavičių pilis ir miestas",
-                  "url": "https://www.lituanistika.lt/content/4305"
+                  "title": "VLE: Jonas Karolis Chodkevičius",
+                  "url": "https://www.vle.lt/straipsnis/jonas-karolis-chodkevicius/"
                 }
               ],
               "featured": true,
@@ -1060,7 +1072,7 @@
                 "attribution": "Žemaitijos kelias",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Kretinga_Bernardine_Monastery_and_the_Lord%E2%80%99s_Revelation_to_Virgin_Mary_Church_building_complex_Nuotrauka_6.jpg",
                 "caption": "Jono Karolio ir Sofijos Chodkevičių funduotas Kretingos bažnyčios bei vienuolyno ansamblis.",
-                "catalogDescriptionLt": "Jono Karolio ir Sofijos Chodkevičių funduotas Kretingos bažnyčios bei vienuolyno ansamblis. Commons kortelė nurodo objekto vietą, 2019 m. datą, autorių ir CC BY-SA 4.0 licenciją.",
+                "catalogDescriptionLt": "2019 m. „Žemaitijos kelio“ fotografuotas Kretingos bernardinų vienuolyno ir bažnyčios ansamblis. Atvaizdui taikoma CC BY-SA 4.0 licencija; fotografija rodo dabartinę kelių statybos bei remonto etapų suformuotą būklę.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -1114,27 +1126,23 @@
               "titleLt": "Kretingos fundacija"
             },
             {
-              "catalogDescriptionLt": "Paminklas Skuodo savivaldos kūrėjui Jonui Chodkevičiui. Commons kortelė paminklą identifikuoja kaip skirtą Skuodo savivaldybės įkūrėjui ir pateikia autoriaus bei licencijos duomenis. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+              "catalogDescriptionLt": "2007 m. Tadas12 fotografuotas paminklas Skuodo savivaldos kūrėjui Jonui Chodkevičiui. Atvaizdui taikoma CC BY-SA 3.0 licencija; paminklas yra šiuolaikinis atminimo ženklas, ne 1572 m. privilegijos iliustracija.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Tadas12",
               "dateDisplay": "2007 m.",
-              "descriptionLt": "1572 m. Jono Chodkevičiaus iniciatyva Skuodui suteiktos Magdeburgo teisės. XXI a. paminklas įamžina šį savivaldos istorijos epizodą. Skulptūra yra dabarties atminties ženklas, o privilegijos turinį reikia tirti iš dokumentų ir istorinių darbų.",
-              "evidenceNoteLt": "Fotografija patvirtina paminklo egzistavimą, bet nėra XVI a. privilegijos atvaizdas.",
+              "descriptionLt": "1572 m. Jono Chodkevičiaus iniciatyva Skuodui suteiktos Magdeburgo teisės ir Johanesburgo vardas, kuris neprigijo. Privilegija pertvarkė jau egzistavusio miestelio teisinį gyvenimą: ji nėra miesto „gimimo liudijimas“ tiesiogine prasme. 2007 m. fotografuotas paminklas rodo, kurį šio sudėtingo proceso veikėją pasirinko įamžinti dabartinis miestas.",
+              "evidenceNoteLt": "Paminklas yra XXI a. atminties ženklas. 1572 m. savivaldos faktai tikrinami enciklopediniuose ir dokumentų tyrimuose.",
               "exhibitionItemId": "chod-skuodas",
               "externalSources": [
                 {
-                  "title": "Julius Kanarskas: Kretingos miesto kūrėjas Jonas Karolis Chodkevičius",
-                  "url": "https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf"
+                  "title": "VLE: Skuodas",
+                  "url": "https://www.vle.lt/straipsnis/Skuodas/"
                 },
                 {
                   "title": "VLE: Jonas Chodkevičius",
                   "url": "https://www.vle.lt/straipsnis/jonas-chodkevicius-1/"
-                },
-                {
-                  "title": "Lituanistika: Liachavičių pilis ir miestas",
-                  "url": "https://www.lituanistika.lt/content/4305"
                 }
               ],
               "featured": true,
@@ -1142,7 +1150,7 @@
                 "attribution": "Tadas12",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Pamiklas_Skoudo_savivaldyb%C4%97s_%C4%AFk%C5%ABr%C4%97jui.JPG",
                 "caption": "Paminklas Skuodo savivaldos kūrėjui Jonui Chodkevičiui.",
-                "catalogDescriptionLt": "Paminklas Skuodo savivaldos kūrėjui Jonui Chodkevičiui. Commons kortelė paminklą identifikuoja kaip skirtą Skuodo savivaldybės įkūrėjui ir pateikia autoriaus bei licencijos duomenis. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+                "catalogDescriptionLt": "2007 m. Tadas12 fotografuotas paminklas Skuodo savivaldos kūrėjui Jonui Chodkevičiui. Atvaizdui taikoma CC BY-SA 3.0 licencija; paminklas yra šiuolaikinis atminimo ženklas, ne 1572 m. privilegijos iliustracija.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -1196,27 +1204,23 @@
               "titleLt": "Skuodas prisimena Joną"
             },
             {
-              "catalogDescriptionLt": "Liachavičių tvirtovės planas ir vaizdas, 1660 m. Lenkijos nacionalinės bibliotekos skaitmeninio objekto metaduomenys nurodo 1660 m. ir signatūrą F.120616/III. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+              "catalogDescriptionLt": "1660 m. Liachavičių tvirtovės planas ir apgulties vaizdas iš Lenkijos nacionalinės bibliotekos rinkinio, signatūra F.120616/III. Lakštas rodo bastionų išdėstymą ir karo aplinką jau po Jono Karolio Chodkevičiaus mirties.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Autorius nenustatytas",
               "dateDisplay": "1660 m.",
-              "descriptionLt": "Liachavičiai buvo tarp Jono Karolio iš tėvo paveldėtų valdų. XVII a. pradžioje čia sustiprinta bastioninė tvirtovė. 1660 m. planas ir vaizdas leidžia skaityti jos formą jau po etmono mirties bei karo aplinkoje.",
-              "evidenceNoteLt": "1660 m. lakštas yra vėlesnis už Joną Karolį; jo datą ir signatūrą pateikia bibliotekos katalogas.",
+              "descriptionLt": "Liachavičiai buvo tarp Jono Karolio iš tėvo paveldėtų valdų. XVII a. pradžioje čia įrengta bastioninė tvirtovė saugojo ne reprezentacinį rūmų fasadą, o strategiškai svarbų didiko valdų centrą. 1660 m. lakšte tvirtovė parodyta jau po etmono mirties, karo ir apgulties aplinkoje. Plane geriau nei vėlesnėje fotografijoje matyti bastionų geometrija, tačiau tai vis tiek konkretaus laiko karinis vaizdas, o ne visa statybų istorija.",
+              "evidenceNoteLt": "Lakšto 1660 m. datą ir bibliotekos signatūrą pateikia katalogas; ryšį su Chodkevičių valda pagrindžia atskiri tyrimai.",
               "exhibitionItemId": "chod-liachaviciai",
               "externalSources": [
                 {
-                  "title": "Julius Kanarskas: Kretingos miesto kūrėjas Jonas Karolis Chodkevičius",
-                  "url": "https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf"
-                },
-                {
-                  "title": "VLE: Jonas Chodkevičius",
-                  "url": "https://www.vle.lt/straipsnis/jonas-chodkevicius-1/"
-                },
-                {
                   "title": "Lituanistika: Liachavičių pilis ir miestas",
                   "url": "https://www.lituanistika.lt/content/4305"
+                },
+                {
+                  "title": "Julius Kanarskas: Kretingos miesto kūrėjas Jonas Karolis Chodkevičius",
+                  "url": "https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf"
                 }
               ],
               "featured": true,
@@ -1224,7 +1228,7 @@
                 "attribution": "Autorius nenustatytas",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Lachavi%C4%8Dy._%D0%9B%D1%8F%D1%85%D0%B0%D0%B2%D1%96%D1%87%D1%8B_(1660).jpg",
                 "caption": "Liachavičių tvirtovės planas ir vaizdas, 1660 m.",
-                "catalogDescriptionLt": "Liachavičių tvirtovės planas ir vaizdas, 1660 m. Lenkijos nacionalinės bibliotekos skaitmeninio objekto metaduomenys nurodo 1660 m. ir signatūrą F.120616/III. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+                "catalogDescriptionLt": "1660 m. Liachavičių tvirtovės planas ir apgulties vaizdas iš Lenkijos nacionalinės bibliotekos rinkinio, signatūra F.120616/III. Lakštas rodo bastionų išdėstymą ir karo aplinką jau po Jono Karolio Chodkevičiaus mirties.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -1278,7 +1282,7 @@
               "titleLt": "Bastioninė Liachavičių tvirtovė"
             }
           ],
-          "lead": "Kretingoje ir Skuode Chodkevičių sprendimai paliko pėdsaką miestų teisėje bei sakralinėje architektūroje. Liachavičių planas primena karinę didikų valdų infrastruktūrą.",
+          "lead": "Privati valda buvo ne vien dvaras. Ji apėmė miestų teisę, bažnyčių bei vienuolynų išlaikymą, gynybinius įtvirtinimus, pareigūnų darbą ir kreditą. Kretingos, Skuodo ir Liachavičių objektai leidžia pamatyti tris skirtingas šios valdžios formas.",
           "navMediaId": "m-20058572216c1f476336ff0d",
           "sectionId": "chod-miestai-rezidencijos-fundacijos",
           "slug": "miestai-rezidencijos-fundacijos",
@@ -1288,14 +1292,14 @@
           "claimRefs": [],
           "items": [
             {
-              "catalogDescriptionLt": "Aleksandro Chodkevičiaus (1776–1838) portretas, 1822 m. Polonos kilmės Commons kortelė asmenį įvardija kaip Aleksandrą Chodkevičių ir kūrinį datuoja 1822 metais. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+              "catalogDescriptionLt": "Nežinomo dailininko 1822 m. sukurtas Aleksandro Chodkevičiaus (1776–1838) portretas. Skaitmeninis atvaizdas siejamas su Lenkijos nacionalinės bibliotekos „Polona“ kolekcija; munduras ir apdovanojimas priklauso XIX a. reprezentacijos kalbai.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Nežinomas dailininkas",
               "dateDisplay": "1822 m.",
-              "descriptionLt": "Aleksandras Chodkevičius (1776–1838) priklausė vėlyvajai Supraslio linijai. 1822 m. portretas primena, kad giminės istorija tęsėsi jau po Abiejų Tautų Respublikos padalijimų, kitomis politinėmis sąlygomis. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
-              "evidenceNoteLt": "Portreto asmuo ir 1822 m. data nurodyti Polonos kilmės katalogo kortelėje.",
+              "descriptionLt": "Aleksandras Chodkevičius (1776–1838) priklausė vėlyvajai Supraslio linijai. 1822 m. portretas sukurtas jau po Abiejų Tautų Respublikos padalijimų, kai giminės nariai gyveno kitomis politinėmis ir luominėmis sąlygomis. Munduras ir apdovanojimas rodo naują reprezentacijos kalbą, o Chodkevičių pavardė portreto kataloge susieja šį asmenį su kelis šimtmečius kaupta giminės atmintimi.",
+              "evidenceNoteLt": "Asmens tapatybė ir 1822 m. data remiamos Polonos kilmės katalogo įrašu; giminės linija tikrinama VLE.",
               "exhibitionItemId": "chod-aleksandras",
               "externalSources": [
                 {
@@ -1308,7 +1312,7 @@
                 "attribution": "Nežinomas dailininkas",
                 "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Portret_Aleksandra_Chodkiewicza.jpg",
                 "caption": "Aleksandro Chodkevičiaus (1776–1838) portretas, 1822 m.",
-                "catalogDescriptionLt": "Aleksandro Chodkevičiaus (1776–1838) portretas, 1822 m. Polonos kilmės Commons kortelė asmenį įvardija kaip Aleksandrą Chodkevičių ir kūrinį datuoja 1822 metais. Objekto kilmė, datavimas ir teisių būklė tikrinti pagal nurodytą institucijos arba Wikimedia Commons katalogo kortelę.",
+                "catalogDescriptionLt": "Nežinomo dailininko 1822 m. sukurtas Aleksandro Chodkevičiaus (1776–1838) portretas. Skaitmeninis atvaizdas siejamas su Lenkijos nacionalinės bibliotekos „Polona“ kolekcija; munduras ir apdovanojimas priklauso XIX a. reprezentacijos kalbai.",
                 "collection": "",
                 "confidence": 0.96,
                 "confidenceLevel": "high",
@@ -1362,7 +1366,7 @@
               "titleLt": "Giminė po Respublikos padalijimų"
             }
           ],
-          "lead": "Vyriškosioms šakoms nutrūkus, valdos ir atmintis keliavo per paveldėtojas bei santuokas. Supraslio linija išliko iki XX a. pradžios, o jos XIX a. portretai jau priklauso kitai politinei epochai.",
+          "lead": "Giminės šakoms nutrūkstant, turtas ir teisės judėjo per dukteris, našles bei santuokas. XIX a. Aleksandro portretas jau priklauso pasauliui po Abiejų Tautų Respublikos padalijimų, bet vis dar remiasi Chodkevičių vardo tęstinumu.",
           "navMediaId": "m-7decd0b860050d77b79c1e96",
           "sectionId": "chod-paveldejimas-atmintis",
           "slug": "paveldejimas-atmintis",
@@ -1375,7 +1379,7 @@
       "subtitle": "Zabludovo knygos, Salaspilio atmintis ir Kretingos fundacija",
       "theme": "historical",
       "title": "Chodkevičiai: etmonai, miestai ir spaustuvės",
-      "updatedAt": "2026-09-22T01:56:58.902378+03:00"
+      "updatedAt": "2026-09-22T02:38:28.089292+03:00"
     },
     {
       "description": "Radvilos statė pilis, vadovavo kariuomenei ir leido knygas. Jų šeimoje buvo karalienė, kardinolas, keliautojas ir dramaturgė. Išlikę portretai bei raštai pasakoja apie žmones, kurių santuokos, tikėjimas ir politiniai sprendimai keitė Lietuvos istoriją.",

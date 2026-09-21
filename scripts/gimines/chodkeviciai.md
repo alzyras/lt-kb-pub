@@ -2,7 +2,7 @@
 
 Atnaujinta: 2026-09-22. Eilė: 3. Etapas: 1.
 
-**Būsena:** parengtas šaltiniais pagrįstas straipsnis, penkių dalių paroda ir 26 žmonių registras.
+**Būsena:** parengtas ir išplėstas šaltiniais pagrįstas straipsnis, penkių dalių paroda ir 26 žmonių registras.
 
 **Aprėptis:** vardais nustatyti Chodkevičių giminės nariai, jų sutuoktiniai ir vaikai, paliudyti VLE giminės bei individualiose biografijose, Genutės Kirkienės ankstyvosios giminės tyrime ir Juliaus Kanarsko Kretingos fundacijos studijoje. Neįvardyti ar ginčijami asmenys neįtraukti.
 
@@ -17,6 +17,8 @@ Atnaujinta: 2026-09-22. Eilė: 3. Etapas: 1.
 - [x] Susietos Kretingos, Skuodo, Bychavo, Liachavičių, Kražių, Supraslio ir kitos valdos.
 - [x] Aptartas Sofijos Mieleckaitės, Onos Scholastikos ir kitų moterų vaidmuo.
 - [x] Atrinkta dvylika teisiškai tinkamų vaizdų; nurodyti autoriai, datos, saugotojai, numeriai, teisės ir kilmės nuorodos.
+- [x] Straipsnis papildytas genealoginės legendos kritika, Supraslio atminties centru, konfesijų kaita, 1574 m. kredito sandoriu, Jono Karolio knygomis, Vilniaus rezidencija ir Sofijos kraičio kontekstu.
+- [x] Visų dvylikos parodos objektų anotacijos perrašytos kaip savarankiški kuratoriniai tekstai, aiškiai atskiriant objekto liudijimą nuo vėlesnės interpretacijos.
 
 ## Registro ribos
 

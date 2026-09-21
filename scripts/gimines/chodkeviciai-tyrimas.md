@@ -11,6 +11,11 @@ Atnaujinta: 2026-09-22.
 - Salaspilio ir Chotino XIX a. vaizdai kataloguoti kaip retrospektyvios interpretacijos. Jie nėra pirminiai mūšių atvaizdai.
 - Kretingos 1619 m. išlaikymo kiekiai perrašyti tik pagal Juliaus Kanarsko publikuotą tyrimą. Jono Karolio kapas Kretingoje nelaikomas patvirtintu; 2021 m. ženklas vadinamas kenotafu.
 - Aleksandro Chodkevičiaus 1822 m. portretas susietas su 1776–1838 m. gyvenusiu Supraslio linijos atstovu. Commons metaduomenyse pasitaikantis 1876 m. gimimo metų užrašas laikytas klaida ir tekste nekartotas.
+- Motiejaus Strijkovskio ir Alberto Vijūko-Kojalavičiaus pasakojimas apie Boreiką pateiktas kaip vėlesnė genealoginė tradicija, o ne dokumentuota giminės kilmė.
+- Supraslio vienuolyno, Jono Chodkevičiaus studijų bei konfesinių pasirinkimų kontekstas papildytas Rimvydo Petrausko ir Raimondos Ragauskienės tekstais. Vienos giminės konfesijos nekartojamos kaip pastovi kolektyvinė tapatybė.
+- 1574 m. Jono Chodkevičiaus 1 000 kapų grašių skolos sandoris naudojamas vien kaip konkretus kredito pavyzdys. Iš jo nedaroma išvada apie visos giminės finansinę būklę.
+- Jono Karolio bibliotekos dvylikos išlikusių knygų rinkinys aprašytas kaip dalinis skaitymo interesų liudijimas. Jis nelaikomas visu etmono turėtu knygynu.
+- Parodos objektų anotacijos atskirtos nuo kataloginių metaduomenų: tekste aiškinama objekto istorinė reikšmė ir ribos, o autorius, data, institucija, signatūra bei teisės palikti katalogo laukuose.
 
 ## Genealoginis pagrindas
 
@@ -36,6 +41,12 @@ Dublių sujungimo poros:
 - [Tyrimas apie Liachavičių pilį ir miestą](https://www.lituanistika.lt/content/4305).
 - [Julius Kanarskas, „Kretingos miesto kūrėjas Jonas Karolis Chodkevičius“](https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf).
 - [VLE: Skuodas](https://www.vle.lt/straipsnis/Skuodas/).
+- [Rimvydas Petrauskas, „Chodkevičiai – naujieji lietuviai“](https://www.ldkistorija.lt/chodkeviciai-naujieji-lietuviai/).
+- [Raimonda Ragauskienė, „Jonas Chodkevičius – tikėjimo keitimas ir derybos“](https://www.ldkistorija.lt/jonas-chodkevicius-tik%C4%97jimo-keitimas-ir-derybos/).
+- [Raimonda Ragauskienė, „XVII a. Europos legenda – Jonas Karolis Chodkevičius“](https://www.ldkistorija.lt/xvii-a-europos-legenda-jonas-karolis-chodkevicius-1560-1621/).
+- [Raimonda Ragauskienė, „LDK didikės politikoje“](https://www.ldkistorija.lt/ldk-didikes-politikoje/).
+- [Aivas Ragauskas, „Bankai ir palūkanavimas: skolinimosi papročiai Lietuvos Didžiojoje Kunigaikštystėje“](https://www.ldkistorija.lt/bankai-ir-palukanavimas-skolinimosi-paprociai-lietuvos-didziojoje-kunigaikstysteje/).
+- [Vilniaus universiteto „Orbis Lituaniae“: Chodkevičių rūmai](https://www.ldkistorija.lt/chodkeviciu-rumai/).
 
 ## Vaizdų patikra
 
