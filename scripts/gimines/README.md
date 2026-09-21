@@ -65,6 +65,7 @@ Kiekvienai giminei sukurtas atskiras darbo failas su rastų asmenų puslapiais. 
 - [Parodos manifestas](../../quartz/static/exhibitionNobleFamilies.json): /parodos/radvilos-gimine-valdos-ir-paveldas.
 - [Radvilų narių inventorius](radvilos.md) ir [tyrimo užrašai](radvilos-tyrimas.md).
 - [Sapiegų straipsnis](../../straipsniai/sapiegos-statutai-rumai-ir-laiskai.md) ir [tyrimo užrašai](sapiegos-tyrimas.md).
+- Abi parodos turi po 12 šaltiniais pagrįstų eksponatų. Prie kiekvieno pateikta kilmės nuoroda, teisių informacija, ryšys su vietiniu objektu ir pastaba apie tai, ką vaizdas įrodo arba ko neleidžia teigti.
 - [58 Radvilų registro įrašai](radvilos-nariu-registras.md) ir [68 Sapiegų registro įrašai](sapiegos-nariu-registras.md), įskaitant sutuoktinius. Trijų moterų puslapiai sieja abi gimines.
 - Sukurti 89 nauji asmenų puslapiai ir papildytos devynios pradinės Radvilų biografijos; turinys saugomas kanoninėje DB.
 - Dabartinė užduotis apsiriboja šiomis dviem parodomis. Likusių giminių failai yra tyrimo planas.

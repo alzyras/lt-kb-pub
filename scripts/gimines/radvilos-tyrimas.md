@@ -1,6 +1,6 @@
 # Radvilos: šaltiniai ir tapatybių patikra
 
-Atnaujinta 2026-09-21. Parengti straipsnis, keturių skyrių paroda su aštuoniais eksponatais ir [58 įrašų registras](radvilos-nariu-registras.md), įskaitant sutuoktinius. Sukurti 34 nauji Radvilų ciklo puslapiai, devynios ankstesnės pradinės biografijos papildytos. Dar trys Radvilaitės įtrauktos rengiant Sapiegų puslapius. Kiekviena registro eilutė turi asmens ir šaltinio nuorodas.
+Atnaujinta 2026-09-21. Parengti straipsnis, penkių skyrių paroda su dvylika eksponatų ir [58 įrašų registras](radvilos-nariu-registras.md), įskaitant sutuoktinius. Sukurti 34 nauji Radvilų ciklo puslapiai, devynios ankstesnės pradinės biografijos papildytos. Dar trys Radvilaitės įtrauktos rengiant Sapiegų puslapius. Kiekviena registro eilutė turi asmens ir šaltinio nuorodas.
 
 ## 2026-09-21 patikros išvados
 
@@ -12,6 +12,7 @@ Atnaujinta 2026-09-21. Parengti straipsnis, keturių skyrių paroda su aštuonia
 - [Rimvydo Petrausko tyrimas apie Vilniaus vyskupą Albertą Radvilą](https://www.lkma.lt/site/archive/studijos/IX/BIS-9_visas.pdf) susietas su esamu Vaitiekaus II puslapiu, kuriant atskirą naują asmenį vien dėl vardo varianto būtų dubliuojama tapatybė.
 - Barbora datuojama „1520 arba 1522–1551“; Rudojo gimimo metai registre netvirtinami. Vienodai skambantis vardas nėra tapatybės įrodymas.
 - Onos Marijos, Elžbietos Šidloveckaitės, Onos Kotrynos Sanguškaitės, Pranciškos Uršulės ir kitų patikrintų žmonių puslapiai jau sukurti. Devynių pradinių biografijų pildymas atliekamas DB, išsaugant ankstesnius įrodymus.
+- Išplėsta giminės šakų, konfesijų, laidojimo vietų ir veiklos po Abiejų Tautų Respublikos padalijimų apžvalga. Nauji parodos eksponatai apima 1547 m. titulų atmintį, Brastos Bibliją, 1613 m. žemėlapį ir kardinolo Jurgio portretą; tiesioginiai dokumentai atskirti nuo vėlesnių reprezentacinių atvaizdų.
 
 ## Kas nėra patvirtinta
 

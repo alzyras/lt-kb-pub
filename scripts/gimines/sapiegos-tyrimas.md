@@ -1,6 +1,6 @@
 # Sapiegos: šaltiniai ir tapatybių patikra
 
-Atnaujinta 2026-09-21. Parengti straipsnis, trijų skyrių paroda su aštuoniais eksponatais ir [68 įrašų registras](sapiegos-nariu-registras.md). Įtraukti sutuoktiniai ir šaltiniuose įvardyti anksti mirę vaikai. Sukurti 55 nauji asmenų puslapiai. Tai apibrėžtas istorinių biografijų rinkinys, o ne visų Sapiegų palikuonių genealoginis medis.
+Atnaujinta 2026-09-21. Parengti straipsnis, keturių skyrių paroda su dvylika eksponatų ir [68 įrašų registras](sapiegos-nariu-registras.md). Įtraukti sutuoktiniai ir šaltiniuose įvardyti anksti mirę vaikai. Sukurti 55 nauji asmenų puslapiai. Tai apibrėžtas istorinių biografijų rinkinys, o ne visų Sapiegų palikuonių genealoginis medis.
 
 ## Šaltiniai ir jų paskirtis
 
@@ -10,6 +10,7 @@ Atnaujinta 2026-09-21. Parengti straipsnis, trijų skyrių paroda su aštuoniais
 - [LNB: Jonas Frydrichas Sapiega](https://proveniencijos.lnb.lt/sapiega-jonas-frydrichas/) – Kodeno galerija ir knygų nuosavybės ženklai. Istorinėje galerijoje esantys legendiniai protėviai netampa patvirtintais registro asmenimis.
 - [Jolita Šarcevičienė, „Ieškau Jūsų mylistos…“](https://www.istorija.lt/data/public/uploads/2022/02/2020-xviii-a.-studijos-t.-6-1-jolita-sarceviciene-ieskau-jusu-mylistos-p.-18-43.pdf) – Antano Kazimiero biografija ir korespondencija.
 - Individualūs [VLE Sapiegų straipsniai](https://www.vle.lt/straipsnis/sapiegos/) susieti prie konkrečių žmonių, o ne pateikti kaip vienas bendras visų teiginių įrodymas. Registrų ir biografijų įvestys saugomos `sapiegos-asmenys.json` bei `nariu-nuorodos.json`.
+- Naujas parodos skyrius jungia Kodenio genealoginės galerijos imaginacinį Narimanto portretą, Leono Sapiegos šeimos antkapį, Napoleono Ordos Ružanų vaizdą ir 1755 m. panegiriką. Aprašuose kiekvienas kūrinys aiškiai įvardytas kaip tiesioginis objektas, vėlesnis atminties vaizdas arba proginis šaltinis.
 
 ## Atskirtos tapatybės ir neapibrėžtumai
 

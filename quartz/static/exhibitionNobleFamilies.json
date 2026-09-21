@@ -1,6 +1,1798 @@
 {
   "exhibitions": [
     {
+      "description": "Sapiegų vardas liko teisyno antraštėse, rūmų sienose ir privačiuose laiškuose. Dvylika portretų, dokumentų ir rezidencijų vaizdų pasakoja apie valstybės tarnybą, ginčijamas valdas, šeimos atmintį ir kasdienybę.",
+      "editorialProfile": "family-overview",
+      "exhibitionId": "sapiegos-statutai-rumai-ir-laiskai",
+      "familyMembers": [
+        {
+          "dates": "1828–1903",
+          "href": "/objektai/asmenys/Adomas-Sapiega-(1828-1903)",
+          "name": "Adomas Sapiega (1828–1903)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/adomas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1867–1951",
+          "href": "/objektai/asmenys/Adomas-Steponas-Sapiega-(1867-1951)",
+          "name": "Adomas Steponas Sapiega (1867–1951)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/adomas-steponas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1619 m.",
+          "href": "/objektai/asmenys/Aleksandras-Kazimieras-Sapiega-(mire-1619-m.)",
+          "name": "Aleksandras Kazimieras Sapiega (mirė 1619 m.)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "1730–1793",
+          "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
+          "name": "Aleksandras Mykolas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/aleksandras-mykolas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1672–1734",
+          "href": "/objektai/asmenys/Aleksandras-Povilas-Sapiega-(1672-1734)",
+          "name": "Aleksandras Povilas Sapiega (1672–1734)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1624–1671",
+          "href": "/objektai/asmenys/Aleksandras-Sapiega-(1624-1671)",
+          "name": "Aleksandras Sapiega (1624–1671)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/aleksandras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1773–1812",
+          "href": "/objektai/asmenys/Aleksandras-Sapiega-(1773-1812)",
+          "name": "Aleksandras Sapiega (1773–1812)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/sapiegos/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI–XVII a.",
+          "href": "/objektai/asmenys/Alse-Sapiegaite-(Mikalojaus-dukte)",
+          "name": "Alšė Sapiegaitė (Mikalojaus duktė)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI–XVII a.",
+          "href": "/objektai/asmenys/Andriejus-Sapiega-(Leono-brolis)",
+          "name": "Andriejus Sapiega (Leono brolis)",
+          "sources": [
+            {
+              "title": "Vilniaus arkivyskupija: Sapiegų kriptoje palaidoti žmonės",
+              "url": "https://vilnensis.lt/isskirtines-ekskursijos-sapiegu-kriptoje-ir-triju-parodu-uzdarymas-baznytinio-paveldo-muziejuje/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI–XVII a.",
+          "href": "/objektai/asmenys/Andriejus-Sapiega-(Leono-sunus)",
+          "name": "Andriejus Sapiega (Leono sūnus)",
+          "sources": [
+            {
+              "title": "Vilniaus arkivyskupija: Sapiegų kriptoje palaidoti žmonės",
+              "url": "https://vilnensis.lt/isskirtines-ekskursijos-sapiegu-kriptoje-ir-triju-parodu-uzdarymas-baznytinio-paveldo-muziejuje/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1621 m.",
+          "href": "/objektai/asmenys/Andrius-Sapiega-(mire-1621-m.)",
+          "name": "Andrius Sapiega (mirė 1621 m.)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/andrius-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1689–1739",
+          "href": "/objektai/asmenys/Antanas-Kazimieras-Sapiega",
+          "name": "Antanas Kazimieras Sapiega",
+          "sources": [
+            {
+              "title": "Lietuvos istorijos institutas: Antano Kazimiero Sapiegos korespondencija",
+              "url": "https://www.istorija.lt/data/public/uploads/2022/02/2020-xviii-a.-studijos-t.-6-1-jolita-sarceviciene-ieskau-jusu-mylistos-p.-18-43.pdf"
+            }
+          ]
+        },
+        {
+          "dates": "XV–XVI a.",
+          "href": "/objektai/asmenys/Bagdonas-Sapiega-(Simono-sunus)",
+          "name": "Bagdonas Sapiega (Simono sūnus)",
+          "sources": [
+            {
+              "title": "Biografijos ir giminystės šaltinis",
+              "url": "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2018~1575026033687/J.04~2018~1575026033687.pdf"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1643–1707",
+          "href": "/objektai/asmenys/B.-P.-Sapiega",
+          "name": "Benediktas Povilas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/benediktas-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Bogdana-Druckyte-Sokolinskaite",
+          "name": "Bogdana Druckytė-Sokolinskaitė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1591 m.",
+          "href": "/objektai/asmenys/Doroteja-Firlejute",
+          "name": "Dorotėja Firlėjūtė",
+          "sources": [
+            {
+              "title": "Bažnytinio paveldo muziejus: Leono Sapiegos ir jo žmonų antkapis",
+              "url": "https://gidas.bpmuziejus.lt/products/tours/church-of-st-michael-the-archangel-and-treasury/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Elena-Alseniskaite-(Povilo-Sapiegos-zmona)",
+          "name": "Elena Alšėniškaitė (Povilo Sapiegos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI–XVII a.",
+          "href": "/objektai/asmenys/Elzbieta-Radvilaite-(Leono-Sapiegos-zmona)",
+          "name": "Elžbieta Radvilaitė (Leono Sapiegos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1881–1963",
+          "href": "/objektai/asmenys/Eustachijus-Kajetonas-Sapiega-(1881-1963)",
+          "name": "Eustachijus Kajetonas Sapiega (1881–1963)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/eustachy-kajetan-sapieha/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1626 m.",
+          "href": "/objektai/asmenys/Frydrichas-Sapiega-(mire-1626-m.)",
+          "name": "Frydrichas Sapiega (mirė 1626 m.)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI–XVII a.",
+          "href": "/objektai/asmenys/Gabriele-Sapiegaite-(Mikalojaus-dukte)",
+          "name": "Gabrielė Sapiegaitė (Mikalojaus duktė)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Grizelda-Vodinskyte",
+          "name": "Grizelda Vodinskytė",
+          "sources": [
+            {
+              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+            }
+          ]
+        },
+        {
+          "dates": "1618–1664",
+          "href": "/objektai/asmenys/Jonas-Frydrichas-Sapiega-(1618-1664)",
+          "name": "Jonas Frydrichas Sapiega (1618–1664)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1680–1751",
+          "href": "/objektai/asmenys/Jonas-Frydrichas-Sapiega-(1680-1751)",
+          "name": "Jonas Frydrichas Sapiega (1680–1751)",
+          "sources": [
+            {
+              "title": "LNB proveniencijų duomenų bazė",
+              "url": "https://proveniencijos.lnb.lt/sapiega-jonas-frydrichas/"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1450–1517",
+          "href": "/objektai/asmenys/Jonas-Ivanas-Sapiega-(apie-1450-1517)",
+          "name": "Jonas Ivanas Sapiega (apie 1450–1517)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-ivanas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1730 m.",
+          "href": "/objektai/asmenys/Jonas-Kazimieras-Sapiega-(mire-1730-m.)",
+          "name": "Jonas Kazimieras Sapiega (mirė 1730 m.)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1569–1611",
+          "href": "/objektai/asmenys/Jonas-Petras-Sapiega-(1569-1611)",
+          "name": "Jonas Petras Sapiega (1569–1611)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Jonas-Sapiega-(Leono-tevas,-Orsos-paseniunis)",
+          "name": "Jonas Sapiega (Leono tėvas, Oršos paseniūnis)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1602 m.",
+          "href": "/objektai/asmenys/Jonas-Sapiega-(mire-1602-m.)",
+          "name": "Jonas Sapiega (mirė 1602 m.)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "1589–1635",
+          "href": "/objektai/asmenys/Jonas-Stanislovas-Sapiega-(1589-1635)",
+          "name": "Jonas Stanislovas Sapiega (1589–1635)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-stanislovas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1737–1792",
+          "href": "/objektai/asmenys/Juozapas-Sapiega-(1737-1792)",
+          "name": "Juozapas Sapiega (1737–1792)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/juozapas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1708–1754",
+          "href": "/objektai/asmenys/Juozapas-Sapiega-(Vilniaus-koadjutorius,-XVIII-a.)",
+          "name": "Juozapas Sapiega, Vilniaus koadjutorius",
+          "sources": [
+            {
+              "title": "Dalia Tarandaitė: Sapiegų portretai",
+              "url": "https://www.bernardinai.lt/2012-03-19-dalia-tarandaite-genealogia-sapieharum-arba-ka-pasakoja-portretai/"
+            }
+          ]
+        },
+        {
+          "dates": "1707–1765",
+          "href": "/objektai/asmenys/Karolina-Terese-Radvilaite-(1707-1765)",
+          "name": "Karolina Teresė Radvilaitė (1707–1765)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Karolis-Sapiega-(Jono-Stanislovo-sunus)",
+          "name": "Karolis Sapiega (Jono Stanislovo sūnus)",
+          "sources": [
+            {
+              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1642–1720",
+          "href": "/objektai/asmenys/Kazimieras-Jonas-Sapiega",
+          "name": "Kazimieras Jonas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-povilas-jonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1697–1738",
+          "href": "/objektai/asmenys/Kazimieras-Leonas-Sapiega",
+          "name": "Kazimieras Leonas Karolis Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1609–1656",
+          "href": "/objektai/asmenys/Kazimieras-Leonas-Sapiega-(1609-1656)",
+          "name": "Kazimieras Leonas Sapiega (1609–1656)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1757–1798",
+          "href": "/objektai/asmenys/Kazimieras-Nestoras-Sapiega",
+          "name": "Kazimieras Nestoras Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-nestoras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Kazimieras-Vladislovas-Sapiega",
+          "name": "Kazimieras Vladislovas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega-1/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Konstancija-Radvilaite-(Jono-Frydricho-Sapiegos-zmona)",
+          "name": "Konstancija Radvilaitė (Jono Frydricho Sapiegos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega-1/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Kristina-Hlebaviciute",
+          "name": "Kristina Hlebavičiūtė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1607–1631",
+          "href": "/objektai/asmenys/Kristupas-Mikalojus-Sapiega-(1607-1631)",
+          "name": "Kristupas Mikalojus Sapiega (1607–1631)",
+          "sources": [
+            {
+              "title": "VU bibliotekos projektas „Virtus“",
+              "url": "https://virtus.biblioteka.vu.lt/"
+            }
+          ]
+        },
+        {
+          "dates": "1590–1637",
+          "href": "/objektai/asmenys/Kristupas-Sapiega-(1590-1637)",
+          "name": "Kristupas Sapiega (1590–1637)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Kristupas-Sapiega-(Jono-Stanislovo-sunus)",
+          "name": "Kristupas Sapiega (Jono Stanislovo sūnus)",
+          "sources": [
+            {
+              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+            }
+          ]
+        },
+        {
+          "dates": "1557–1633",
+          "href": "/objektai/asmenys/Leonas-Sapiega",
+          "name": "Leonas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1803–1878",
+          "href": "/objektai/asmenys/Leonas-Sapiega-(1803-1878)",
+          "name": "Leonas Sapiega (1803–1878)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/leonas-sapiega-1/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Liudvika-Opalinskaite",
+          "name": "Liudvika Opalinskaitė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Marija-Kristina-de-Bethune",
+          "name": "Marija Kristina de Béthune",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1545–1599",
+          "href": "/objektai/asmenys/Mikalojus-Sapiega-(apie-1545-1599)",
+          "name": "Mikalojus Sapiega (apie 1545–1599)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1581–1644",
+          "href": "/objektai/asmenys/Mikalojus-Sapiega-(apie-1581-1644)",
+          "name": "Mikalojus Sapiega (apie 1581–1644)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1711–1760",
+          "href": "/objektai/asmenys/Mykolas-Antanas-Sapiega-(LDK-pakancleris,-1711-1760)",
+          "name": "Mykolas Antanas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mykolas-antanas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII–XVIII a.",
+          "href": "/objektai/asmenys/Mykolas-Juozapas-Sapiega",
+          "name": "Mykolas Juozapas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/sapiegos/"
+            }
+          ]
+        },
+        {
+          "dates": "1735–1766",
+          "href": "/objektai/asmenys/Mykolas-Ksaveras-Sapiega-(Anyksciu-ir-Punios-seniunas,-1735-1766)",
+          "name": "Mykolas Ksaveras Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1670–1700",
+          "href": "/objektai/asmenys/M.-P.-Sapiega",
+          "name": "Mykolas Pranciškus Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mykolas-pranciskus-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Ona-Chodkeviciute-(Jono-Petro-Sapiegos-motina)",
+          "name": "Ona Chodkevičiūtė (Jono Petro Sapiegos motina)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1728–1800",
+          "href": "/objektai/asmenys/Ona-Sapiegaite-Jablonowska",
+          "name": "Ona Paulina Sapiegaitė-Jablonowska",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1625 m.",
+          "href": "/objektai/asmenys/Ona-Scholastika-Chodkeviciute",
+          "name": "Ona Scholastika Chodkevičiūtė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-stanislovas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVI a.",
+          "href": "/objektai/asmenys/Ona-Visnioveckaite-(Mikalojaus-Sapiegos-zmona)",
+          "name": "Ona Višnioveckaitė (Mikalojaus Sapiegos žmona)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "1701–1771",
+          "href": "/objektai/asmenys/Petras-Povilas-Sapiega-(1701-1771)",
+          "name": "Petras Povilas Sapiega (1701–1771)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/petras-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1609–1665",
+          "href": "/objektai/asmenys/Povilas-Sapiega",
+          "name": "Povilas Jonas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/povilas-jonas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1657–1715",
+          "href": "/objektai/asmenys/Povilas-Pranciskus-Sapiega-(1657-1715)",
+          "name": "Povilas Pranciškus Sapiega (1657–1715)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/povilas-pranciskus-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "apie 1490–1579",
+          "href": "/objektai/asmenys/Povilas-Sapiega-(apie-1490-1579)",
+          "name": "Povilas Sapiega (apie 1490–1579)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
+            }
+          ]
+        },
+        {
+          "dates": "mirė 1580 m.",
+          "href": "/objektai/asmenys/Povilas-Sapiega-(Jono-Petro-tevas)",
+          "name": "Povilas Sapiega (Jono Petro tėvas)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "1565–1635",
+          "href": "/objektai/asmenys/Povilas-Steponas-Sapiega-(1565-1635)",
+          "name": "Povilas Steponas Sapiega (1565–1635)",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/povilas-steponas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Pranciskus-Steponas-Sapiega",
+          "name": "Pranciškus Steponas Sapiega",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XV a.",
+          "href": "/objektai/asmenys/Simonas-Sapiega-(XV-a.-rastininkas)",
+          "name": "Simonas Sapiega (XV a. raštininkas)",
+          "sources": [
+            {
+              "title": "Biografijos ir giminystės šaltinis",
+              "url": "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2018~1575026033687/J.04~2018~1575026033687.pdf"
+            }
+          ]
+        },
+        {
+          "dates": "XVIII a.",
+          "href": "/objektai/asmenys/Sofija-Skavronskaite",
+          "name": "Sofija Skavronskaitė",
+          "sources": [
+            {
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/petras-povilas-sapiega/"
+            }
+          ]
+        },
+        {
+          "dates": "XVII a.",
+          "href": "/objektai/asmenys/Teodora-Kristina-Tarnovskyte",
+          "name": "Teodora Kristina Tarnovskytė",
+          "sources": [
+            {
+              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+            }
+          ]
+        }
+      ],
+      "familyMembersScope": "Čia surinkti 68 šaltiniais identifikuoti istoriniai asmenys: giminės nariai ir jų sutuoktiniai. Registras apima XV–XX a. biografijas, tačiau nėra visų palikuonių genealoginis medis. Kai tikslios datos nepatvirtintos, nurodytas tik amžius. Kiekvienas vardas veda į atskirą puslapį.",
+      "hero": {
+        "attribution": "Wawel Royal Castle",
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
+        "caption": "Leono Sapiegos pomirtinis portretas",
+        "confidence": 0.95,
+        "confidenceLevel": "high",
+        "creator": "Nežinomas dailininkas",
+        "dateDisplay": "1709 m.",
+        "displayUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
+        "height": 1000,
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "mediaId": "m-82a18d575f90537c3403b695",
+        "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
+        "originalTitle": "Leŭ Sapieha. Леў Сапега (1709).jpg",
+        "provider": "commons",
+        "providerLabel": "Wikimedia Commons",
+        "relatedObjects": [
+          {
+            "directness": "direct",
+            "itemType": "asmuo",
+            "notePath": "objektai/asmenys/Leonas Sapiega.md",
+            "relationType": "portrait_of",
+            "title": "Leonas Sapiega (kunigaikštis, XVI a.)"
+          }
+        ],
+        "reviewStatus": "accepted",
+        "reviewedAt": "2026-09-20T23:43:33.853727+03:00",
+        "rightsNote": "Wawel Royal Castle",
+        "sourceMethod": "family-editorial-review",
+        "sourceTags": [],
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Le%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "tags": [],
+        "thumbUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
+        "title": "Leono Sapiegos pomirtinis portretas",
+        "visualEvidence": "Pusfigūris vyro portretas su plunksna, antspaudu, buože ir lotynišku Leono vardu; pomirtinis atvaizdas pagal 1709 m. Commons datavimą.",
+        "visualReviewVersion": "family-editorial-20260920",
+        "width": 648
+      },
+      "heroMediaId": "m-82a18d575f90537c3403b695",
+      "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Le%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statut-1588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Vilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
+        "https://www.epaveldas.lt/static/lnb-bucket/C10002389685/original/0001-B3BBE7A9D8EB43C682C7320FF5DF7218.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9e/Alaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903024/original/VUB01-000903024_00001.jpg",
+        "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903047/original/VUB01-000903047_00001.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Narymont._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82_%281709%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tombstone_for_Leonas_Sapiega01%28js%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9b/Ru%C5%BEany%2C_Sapieha._%D0%A0%D1%83%D0%B6%D0%B0%D0%BD%D1%8B%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28N._Orda%2C_1875%29.jpg",
+        "https://www.epaveldas.lt/static/lnb-bucket/C1B0004162890/thumbnail-original/C1B0004162890.jpg"
+      ],
+      "noindex": false,
+      "relatedContent": [
+        {
+          "href": "/straipsniai/sapiegos-statutai-rumai-ir-laiskai",
+          "title": "Sapiegų žmonės, valdos ir giminystė · straipsnis"
+        },
+        {
+          "href": "/parodos/radvilos-gimine-valdos-ir-paveldas",
+          "title": "Radvilos: giminė, valdos ir paveldas"
+        }
+      ],
+      "relatedObject": {
+        "href": "/objektai/grupes/Sapiegos",
+        "label": "Sapiegų giminės puslapis"
+      },
+      "schemaVersion": "ltkb-exhibition/v1",
+      "sections": [
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Nežinomo autoriaus XVIII a. Sapiegų herbo raižinys. Lapino ženklas pavaizduotas sudėtinio skydo centre; virš skydo matyti karūna, apačioje – ordinas. Skaitmeninis atvaizdas pateiktas Wikimedia Commons, pažymėtas viešosios srities kūriniu.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Nežinomas dailininkas",
+              "dateDisplay": "XVIII a.",
+              "descriptionLt": "Raižinio centre – strėlės pavidalo Lapino herbo ženklas su dviem skersiniais. Aplink jį sudėtas puošnesnis skydas, viršuje iškelta karūna, apačioje kabo ordinas. XVIII amžiaus atvaizdas priklauso laikui, kai šeimos kilmė buvo viešai rodoma knygose, portretuose ir rūmų puošyboje.\n\nTokio skydo negalima skaityti kaip paprasto šeimos medžio. Jo laukai ir puošmenos turi savą heraldinę reikšmę, o konkrečią giminystę reikia tikrinti dokumentais. Sapiegų vardu vadinama daug kartų ir kelios šakos. Jų žmonių puslapiai bei šaltinių teiginiai surinkti giminės registre.",
+              "evidenceNoteLt": "Raižinys nėra genealogijos schema; pavieniai laukai čia nepriskiriami konkretiems protėviams.",
+              "exhibitionItemId": "sap-herbas",
+              "externalSources": [
+                {
+                  "title": "Herbo atvaizdo kortelė",
+                  "url": "https://commons.wikimedia.org/wiki/File%3ASapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ASapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg",
+                "caption": "Sapiegų herbo raižinys",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Nežinomas dailininkas",
+                "dateDisplay": "XVIII a.",
+                "displayUrl": "/static/gimines/sapiegos/herbas-xviii-a.jpg",
+                "height": 1240,
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-4f79533af5aa20d83601a3c8",
+                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3ASapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg",
+                "originalTitle": "Sapieha, Lis. Сапега, Ліс.jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md",
+                    "relationType": "associated_symbol_of",
+                    "title": "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.857432+03:00",
+                "rightsNote": "Public domain",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/herbas-xviii-a.jpg",
+                "title": "Sapiegų herbo raižinys",
+                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": 967
+              },
+              "mediaId": "m-4f79533af5aa20d83601a3c8",
+              "objectLinks": [
+                {
+                  "href": "/objektai/grupes/Sapiegos",
+                  "title": "Sapiegų giminė"
+                },
+                {
+                  "href": "/objektai/grupes/Sapiegu-gimine",
+                  "title": "Giminės šaltinių teiginiai"
+                }
+              ],
+              "titleLt": "Šeimos ženklas"
+            },
+            {
+              "catalogDescriptionLt": "Nežinomo dailininko 1709 m. Leono Sapiegos portretas. Aliejus ant drobės, 118 × 77 cm. Vavelio karališkosios pilies rinkinys, inventoriaus numeris 9147. Rodoma viešosios srities paveikslo skaitmeninė reprodukcija.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Nežinomas dailininkas",
+              "dateDisplay": "1709 m.",
+              "descriptionLt": "Leonas Sapiega pavaizduotas prie stalo. Prieš jį guli plunksna, šalia – antspaudas, rankoje laikoma buožė. Dailininkas viename portrete sutelkė raštininko, kanclerio ir kariuomenės vado pareigas. Apačioje esantis įrašas įvardija vaizduojamą žmogų ir primena jo tarnybą.\n\nPaveikslas nutapytas 1709 m., o Leonas mirė 1633-iaisiais. Tai šeimos atminties dalis. Jo vardą išsaugojo ir gerokai anksčiau atsiradusi knyga – Trečiasis Lietuvos Statutas, kurio leidybą jis finansavo. Išlikę kanceliarijos dokumentai leidžia jo veiklą sekti ir už portreto rėmų.",
+              "evidenceNoteLt": "Pomirtinis portretas, sukurtas praėjus 76 metams po Leono mirties.",
+              "exhibitionItemId": "sap-leonas",
+              "externalSources": [
+                {
+                  "title": "Vavelio portreto kortelė",
+                  "url": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg"
+                },
+                {
+                  "title": "Leono Sapiegos biografija",
+                  "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "Wawel Royal Castle",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
+                "caption": "Leono Sapiegos pomirtinis portretas",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Nežinomas dailininkas",
+                "dateDisplay": "1709 m.",
+                "displayUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
+                "height": 1000,
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-82a18d575f90537c3403b695",
+                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
+                "originalTitle": "Leŭ Sapieha. Леў Сапега (1709).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Leonas Sapiega.md",
+                    "relationType": "portrait_of",
+                    "title": "Leonas Sapiega (kunigaikštis, XVI a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.853727+03:00",
+                "rightsNote": "Wawel Royal Castle",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Le%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
+                "title": "Leono Sapiegos pomirtinis portretas",
+                "visualEvidence": "Pusfigūris vyro portretas su plunksna, antspaudu, buože ir lotynišku Leono vardu; pomirtinis atvaizdas pagal 1709 m. Commons datavimą.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": 648
+              },
+              "mediaId": "m-82a18d575f90537c3403b695",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Leonas-Sapiega",
+                  "title": "Leonas Sapiega"
+                },
+                {
+                  "href": "/objektai/ivykiai/Didziosios-Leono-Sapiegos-pasiuntinybe-i-Maskva",
+                  "title": "Pasiuntinybė į Maskvą"
+                },
+                {
+                  "href": "/objektai/asmenys/Doroteja-Firlejute",
+                  "title": "Dorotėja Firlėjūtė"
+                },
+                {
+                  "href": "/objektai/asmenys/Elzbieta-Radvilaite-(Leono-Sapiegos-zmona)",
+                  "title": "Elžbieta Radvilaitė (Leono Sapiegos žmona)"
+                }
+              ],
+              "titleLt": "Plunksna, antspaudas ir buožė"
+            },
+            {
+              "catalogDescriptionLt": "Trečiojo Lietuvos Statuto titulinio puslapio reprodukcija. Matyti kirilikos antraštė ir Lietuvos Didžiosios Kunigaikštystės herbas. Commons įraše nurodyta Mamoničių spaustuvė ir Vilniaus universiteto biblioteka; datavimas kortelėje pateiktas kaip po 1588 m.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Mamoničių spaustuvė",
+              "dateDisplay": "1588 m. Statutas; atvaizdo kortelėje – po 1588 m.",
+              "descriptionLt": "Titulinio lapo viršuje išraityta raudona antraštė, viduryje – Vytis. Trečiasis Lietuvos Statutas 1588 m. išėjo Vilniuje, Mamoničių spaustuvėje. Teisynas buvo išspausdintas rusėnų kalba kirilika. Leono Sapiegos finansinė parama padėjo jam pasiekti skaitytojus.\n\nŠios knygos istorija nesibaigia vienu leidimu ar vienu žmogumi. Statutas rėmėsi ankstesne Lietuvos teise, buvo perleidžiamas ir naudojamas vėlesnių kartų. Todėl šalia Sapiegos vardo lieka spaustuvininkai, teisės rengėjai ir daugybė žmonių, kurie šiuo tekstu rėmėsi teismuose. Išlikęs titulinis lapas rodo, kaip teisynas prisistatė savo skaitytojui.",
+              "evidenceNoteLt": "Rinkmenos aprašas sieja lapą su 1588 m. Statutu, bet datą pateikia „po 1588 m.“; konkretaus egzemplioriaus leidimas papildomai netikslinamas.",
+              "exhibitionItemId": "sap-statutas",
+              "externalSources": [
+                {
+                  "title": "Titulinio lapo kortelė",
+                  "url": "https://commons.wikimedia.org/wiki/File%3AStatut-1588.jpg"
+                },
+                {
+                  "title": "Vrublevskių biblioteka: Mamoničių spaustuvė",
+                  "url": "https://sena.mab.lt/lt/archyvas/1375/1147"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "Vilnius University Library Цітоў А. Геральдыка Беларусі. — Менск: МФЦП, 2010. — 144 с.: іл. ISBN 978-985-454-500-4 . — С. 106.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AStatut-1588.jpg",
+                "caption": "Trečiojo Lietuvos Statuto titulinis lapas",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Mamoničių spaustuvė",
+                "dateDisplay": "1588 m. Statutas; atvaizdo kortelėje – po 1588 m.",
+                "displayUrl": "/static/gimines/sapiegos/statutas-1588.jpg",
+                "height": 1265,
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-a4227fe400f93004ec9fa223",
+                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AStatut-1588.jpg",
+                "originalTitle": "Statut-1588.jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "saltinis",
+                    "notePath": "objektai/saltiniai/Trečiasis Lietuvos Statutas (1588 m.).md",
+                    "relationType": "depicts",
+                    "title": "Trečiasis Lietuvos Statutas (1588 m.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.855408+03:00",
+                "rightsNote": "Vilnius University Library Цітоў А. Геральдыка Беларусі. — Менск: МФЦП, 2010. — 144 с.: іл. ISBN 978-985-454-500-4 . — С. 106.",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statut-1588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/statutas-1588.jpg",
+                "title": "Trečiojo Lietuvos Statuto titulinis lapas",
+                "visualEvidence": "Titulinis Statuto puslapis kirilika, raudona antraštė ir Vytis; atitinka Commons kortelę.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": 777
+              },
+              "mediaId": "m-a4227fe400f93004ec9fa223",
+              "objectLinks": [
+                {
+                  "href": "/objektai/saltiniai/Treciasis-Lietuvos-Statutas-(1588-m.)",
+                  "title": "Trečiasis Lietuvos Statutas"
+                },
+                {
+                  "href": "/objektai/asmenys/Leonas-Sapiega",
+                  "title": "Leonas Sapiega"
+                }
+              ],
+              "titleLt": "Knyga, kuri liko po kanclerio"
+            }
+          ],
+          "lead": "Herbas skelbė šeimos vardą. Leono portrete pareigas primena trys daiktai: plunksna, antspaudas ir buožė.",
+          "navMediaId": "m-4f79533af5aa20d83601a3c8",
+          "sectionId": "sap-vardas-ir-tarnyba",
+          "slug": "vardas-ir-tarnyba",
+          "title": "Vardas ir tarnyba"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Marcelijaus Januševičiaus Sapiegų rūmų Antakalnyje piešinys, datuojamas 1830–1840 m. Pavaizduotas pagrindinis fasadas su frontonu ir bokšteliais. Viešosios srities atvaizdas pateiktas Wikimedia Commons; šiame puslapyje rodomas sumažintas jo variantas.",
+              "claimCodes": [
+                "t-01798"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-02036",
+                  "claimId": "t-01798",
+                  "label": "1696 m. taikos sąlygos",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-01798",
+                  "sourceTitle": "A. Šapoka (red.), Lietuvos istorija (1936 m.)",
+                  "text": "1696 m. gale pasirašyta taika įpareigojo vyskupą atšaukti ekskomuniką, o hetmoną išvesti kariuomenę iš bažnytinių dvarų.",
+                  "url": "/objektai/ivykiai/Sapieg%C5%B3-ir-vyskupo-B%C5%BEostausko-taikos-pasira%C5%A1ymas-%281696-m.-gale%29#claim-t-01798"
+                }
+              ],
+              "creatorDisplay": "Marcelijus Januševičius",
+              "dateDisplay": "1830–1840 m.",
+              "descriptionLt": "Marcelijus Januševičius nupiešė Antakalnio rūmus su dviem kampiniais bokšteliais ir puošniu frontonu. Tuo metu pastate jau veikė karo ligoninė. Piešinys datuojamas 1830–1840 m., taigi jame dar matyti dalys, pakeistos per kitą dešimtmetį vykusią rekonstrukciją.\n\nRūmus XVII a. pabaigoje užsakė Kazimieras Jonas Sapiega. Jo konfliktai pasiekė ir rezidenciją: po pralaimėjimo prie Valkininkų 1700 m. rūmai buvo nusiaubti. Iki tol etmonas buvo susipykęs su Vilniaus vyskupu dėl kariuomenės laikymo bažnytinėse valdose. Žemiau pateikta nuoroda veda į šaltinyje aprašytą 1696 m. susitaikymą.",
+              "evidenceNoteLt": "XIX a. pastato vaizdas, ne XVII a. statybos ar Valkininkų įvykių iliustracija.",
+              "exhibitionItemId": "sap-rumai",
+              "externalSources": [
+                {
+                  "title": "Sapiegų rūmų istorija",
+                  "url": "https://sapiegurumai.lt/istorija/"
+                },
+                {
+                  "title": "Valdovų rūmų muziejus apie rezidenciją",
+                  "url": "https://www.valdovurumai.lt/lt/renginiai/i/2963/sapiegu-rumai-antakalnyje/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
+                "caption": "Sapiegų rūmai Antakalnyje",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Marcelijus Januševičius",
+                "dateDisplay": "1830–1840 m.",
+                "displayUrl": "/static/gimines/sapiegos/antakalnio-rumai-1830-1840.jpg",
+                "height": 2913,
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-ec65801b243614ad8c254d8a",
+                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AVilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
+                "originalTitle": "Vilnia, Antokal, Sapieha. Вільня, Антокаль, Сапега (M. Januševič, 1830-40).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "vieta",
+                    "notePath": "objektai/vietos/Antakalnis.md",
+                    "relationType": "depicts",
+                    "title": "Antakalnis"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.855435+03:00",
+                "rightsNote": "Public domain",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/antakalnio-rumai-1830-1840.jpg",
+                "title": "Sapiegų rūmai Antakalnyje",
+                "visualEvidence": "Priekinis rūmų fasadas su dviem kampiniais bokšteliais, frontonu ir autoriaus parašu; pagal kortelę Antakalnio Sapiegų rūmai.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": 4000
+              },
+              "mediaId": "m-ec65801b243614ad8c254d8a",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Kazimieras-Jonas-Sapiega",
+                  "title": "Kazimieras Jonas Sapiega"
+                },
+                {
+                  "href": "/objektai/vietos/Antakalnis",
+                  "title": "Antakalnis"
+                },
+                {
+                  "href": "/objektai/ivykiai/Valkininku-konfederacija-ir-Sapiegu-pralaimejimas-(1700-m.)",
+                  "title": "1700 m. pralaimėjimas prie Valkininkų"
+                }
+              ],
+              "titleLt": "Rūmai prieš didįjį perstatymą"
+            },
+            {
+              "catalogDescriptionLt": "Upytės pavieto teismo vaznio pranešimo pirmasis lapas apie Švobiškio dvaro perėmimą ir perdavimą Kazimiero Sapiegos žinion. Katalogo data – 1695 m. liepos 25 d. Skaitmeninta rankraščio kopija pateikta ePaveldo portale.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Teismo pareigūno dokumentas",
+              "dateDisplay": "1695 m. liepos 25 d.",
+              "descriptionLt": "1695 m. liepos 25 d. dokumente užrašytas Švobiškio dvaro perėmimas. Katalogo apraše sakoma, kad Upytės pavieto teismo vaznys pranešė apie dvaro perdavimą iš Puzinų Kazimiero Sapiegos žinion. Tokie raštai fiksavo konkrečią vietą, žmones ir teisinį veiksmą.\n\nŠeimos valdų istorija susideda ir iš tokių lapų. Rūmai ar miestelis žemėlapyje gali atrodyti kaip pastovus giminės turtas, bet nuosavybė būdavo ginčijama ir perleidžiama. Vien šio pranešimo nepakanka visai Švobiškio bylai atkurti. Jis liudija vieną datuotą jos epizodą, kurį galima toliau tikrinti pagal originalų dokumentą.",
+              "evidenceNoteLt": "Turinys apibendrintas pagal katalogą; dokumento antraštėje pateiktas pareigybės įvardijimas čia netaisomas ir nekartojamas kaip patikrintas biografijos faktas.",
+              "exhibitionItemId": "sap-svobiskis",
+              "externalSources": [
+                {
+                  "title": "ePaveldas: Švobiškio dvaro pranešimas",
+                  "url": "https://www.epaveldas.lt/preview?id=C10002389685"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://www.epaveldas.lt/preview?id=C10002389685",
+                "caption": "Pranešimas apie Švobiškio dvaro perdavimą",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Teismo pareigūno dokumentas",
+                "dateDisplay": "1695 m. liepos 25 d.",
+                "displayUrl": "/static/gimines/sapiegos/svobiskis-1695.jpg",
+                "height": null,
+                "license": "PD",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-19a174c29661a7d41d96bc5d",
+                "metadataEvidence": "https://www.epaveldas.lt/preview?id=C10002389685",
+                "originalTitle": "[Upytės pav. teismų vaznio pranešimas apie Švobiškio dvaro perėmimą iš neteisėto Puzinų valdymo ir perdavimą Vilniaus vaivados, LDK lauko etmono Kazimiero Sapiegos žinion]",
+                "provider": "epaveldas",
+                "providerLabel": "Lietuvos nacionalinė Martyno Mažvydo biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "grupe",
+                    "notePath": "objektai/grupes/LDK didikai.md",
+                    "relationType": "event_documentation_of",
+                    "title": "LDK didikai"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.860835+03:00",
+                "rightsNote": "PD",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10002389685/original/0001-B3BBE7A9D8EB43C682C7320FF5DF7218.jpg",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/svobiskis-1695.jpg",
+                "title": "Pranešimas apie Švobiškio dvaro perdavimą",
+                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": null
+              },
+              "mediaId": "m-19a174c29661a7d41d96bc5d",
+              "objectLinks": [
+                {
+                  "href": "/objektai/grupes/Sapiegu-gimine",
+                  "title": "Giminės dokumentai"
+                }
+              ],
+              "titleLt": "Kaip dvaras perduodamas į kitas rankas"
+            }
+          ],
+          "lead": "Antakalnyje kilo puošni rezidencija, o Švobiškyje teismo pareigūnas fiksavo dvaro perdavimą. Abu pėdsakai priklauso tai pačiai žemvaldžių istorijai.",
+          "navMediaId": "m-ec65801b243614ad8c254d8a",
+          "sectionId": "sap-rumai-ir-valdos",
+          "slug": "rumai-ir-valdos",
+          "title": "Rūmai ir ginčijamos valdos"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Johanno Baptisto Lampio vyresniojo Aleksandro Mykolo Sapiegos portretas, apie 1790 m. Pavaizduotas didikas su kailiu apsiūtu drabužiu ir apdovanojimu. Viešosios srities paveikslo reprodukcija pateikta Wikimedia Commons, išsaugant originalaus įrašo nuorodą.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Johann Baptist von Lampi the Elder",
+              "dateDisplay": "Apie 1790 m.",
+              "descriptionLt": "Apie 1790 m. Johannas Baptistas Lampis nutapė Aleksandrą Mykolą Sapiegą su kailiu apsiūtu drabužiu ir ordinu. Tuomet didikas jau buvo LDK kancleris. Anksčiau jis ėjo Polocko vaivados ir lauko etmono pareigas.\n\nRužanuose Aleksandras Mykolas steigė gelumbės audyklas ir fajanso dirbtuves, išlaikė teatrą; spektakliai buvo rengiami ir Derečine bei jo Varšuvos rūmuose. Jo biografijoje valstybės tarnyba, dvaro ūkis ir scena užėmė vietą greta viena kitos. Toliau eksponuojamas laiškas užfiksuoja ankstesnį momentą – kai Aleksandro vardas dar buvo minimas tarp kandidatų į kanclerio vietą.",
+              "evidenceNoteLt": "Portretas nutapytas jau po 1775 m. laiškuose aptariamo paskyrimo.",
+              "exhibitionItemId": "sap-aleksandras",
+              "externalSources": [
+                {
+                  "title": "Aleksandro Mykolo biografija",
+                  "url": "https://www.vle.lt/straipsnis/aleksandras-mykolas-sapiega/"
+                },
+                {
+                  "title": "Portreto kortelė",
+                  "url": "https://commons.wikimedia.org/wiki/File%3AAlaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AAlaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg",
+                "caption": "Aleksandro Mykolo Sapiegos portretas",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Johann Baptist von Lampi the Elder",
+                "dateDisplay": "Apie 1790 m.",
+                "displayUrl": "/static/gimines/sapiegos/aleksandras-mykolas-apie-1790.jpg",
+                "height": 945,
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-6c312efae92df2bded20d4e4",
+                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AAlaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg",
+                "originalTitle": "Alaksandar Michał Sapieha. Аляксандар Міхал Сапега (J. Lampi, 1790).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md",
+                    "relationType": "portrait_of",
+                    "title": "Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.858600+03:00",
+                "rightsNote": "Public domain",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Alaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/aleksandras-mykolas-apie-1790.jpg",
+                "title": "Aleksandro Mykolo Sapiegos portretas",
+                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": 798
+              },
+              "mediaId": "m-6c312efae92df2bded20d4e4",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
+                  "title": "Aleksandras Mykolas Sapiega"
+                },
+                {
+                  "href": "/objektai/asmenys/Mykolas-Antanas-Sapiega-(LDK-pakancleris,-1711-1760)",
+                  "title": "Jo dėdė Mykolas Antanas"
+                }
+              ],
+              "titleLt": "Kancleris, kuris išlaikė teatrus"
+            },
+            {
+              "catalogDescriptionLt": "Jano Ševaljė 1775 m. rugpjūčio 16 d. laiško iš Varšuvos pirmasis lapas. Kataloge aprašytos žinios apie laisvą LDK kanclerio vietą, laidotuves ir laukiamą siuntą. Dokumentą pateikia Vilniaus universiteto biblioteka per ePaveldą.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Ševaljė, Janas, 1732-1780, aut.",
+              "dateDisplay": "1775 m. rugpjūčio 16 d.",
+              "descriptionLt": "1775 m. rugpjūčio 16 d. Janas Ševaljė iš Varšuvos rašė apie mirusio kanclerio Mykolo Fryderiko Čartoryskio įpėdinį. Svarstytos dvi pavardės – Chreptavičius ir Aleksandras Mykolas Sapiega. Laiško pradžioje jaučiamas naujienų laukimas: paskyrimas dar nežinomas, bet apie jį kalbama.\n\nAntspaudas čia reiškė valstybės pareigas. Ševaljė greta politinių spėlionių aptarė laidotuves ir laukiamą knygų bei astronominių instrumentų siuntą. Laiškas išsaugojo vienos dienos žinias, kai būsimas įvykis dar nebuvo tapęs trumpu sakiniu biografijoje. Kancleriu tais metais tapo Sapiega.",
+              "evidenceNoteLt": "Laiške užrašytos to meto spėlionės; galutinis paskyrimas patikrinamas atskirai pagal biografiją.",
+              "exhibitionItemId": "sap-antspaudas",
+              "externalSources": [
+                {
+                  "title": "VU biblioteka: 1775 m. rugpjūčio 16 d. laiškas",
+                  "url": "https://www.epaveldas.lt/preview?id=VUB01-000903024"
+                },
+                {
+                  "title": "Paskyrimas kancleriu",
+                  "url": "https://www.vle.lt/straipsnis/aleksandras-mykolas-sapiega/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://www.epaveldas.lt/preview?id=VUB01-000903024",
+                "caption": "Laiškas apie laisvą kanclerio vietą",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Ševaljė, Janas, 1732-1780, aut.",
+                "dateDisplay": "1775 m. rugpjūčio 16 d.",
+                "displayUrl": "/static/gimines/sapiegos/laiskas-1775-08-16.jpg",
+                "height": null,
+                "license": "PD",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-2db28d7dd431920b8ca858fe",
+                "metadataEvidence": "https://www.epaveldas.lt/preview?id=VUB01-000903024",
+                "originalTitle": "„O Niczym tu więcey nie mowią, jako o tym komu się dostanie pieczęć wakująca...“",
+                "provider": "epaveldas",
+                "providerLabel": "Vilniaus universiteto biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "grupe",
+                    "notePath": "objektai/grupes/Lietuvos Didžioji Kunigaikštija.md",
+                    "relationType": "event_documentation_of",
+                    "title": "Lietuvos Didžioji Kunigaikštija"
+                  },
+                  {
+                    "directness": "contextual",
+                    "itemType": "grupe",
+                    "notePath": "objektai/grupes/LDK didikai.md",
+                    "relationType": "event_documentation_of",
+                    "title": "LDK didikai"
+                  },
+                  {
+                    "directness": "contextual",
+                    "itemType": "vieta",
+                    "notePath": "objektai/vietos/Lietuvos Didžioji Kunigaikštystė.md",
+                    "relationType": "event_documentation_of",
+                    "title": "Lietuvos Didžioji Kunigaikštystė"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.860399+03:00",
+                "rightsNote": "PD",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903024/original/VUB01-000903024_00001.jpg",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/laiskas-1775-08-16.jpg",
+                "title": "Laiškas apie laisvą kanclerio vietą",
+                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": null
+              },
+              "mediaId": "m-2db28d7dd431920b8ca858fe",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
+                  "title": "Aleksandras Mykolas Sapiega"
+                }
+              ],
+              "titleLt": "Kam atiteks antspaudas?"
+            },
+            {
+              "catalogDescriptionLt": "Jano Ševaljė 1775 m. rugpjūčio 21 d. laiško iš Varšuvos pirmasis lapas. Vilniaus universiteto bibliotekos kataloge minimos gautos knygos ir astronominiai instrumentai, siunčiami leidiniai bei politinės naujienos. Skaitmeninis vaizdas pateiktas ePavelde.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Ševaljė, Janas, 1732-1780, aut.",
+              "dateDisplay": "1775 m. rugpjūčio 21 d.",
+              "descriptionLt": "Po penkių dienų Ševaljė pranešė, kad knygos ir astronominiai prietaisai gauti. Laiške minimi jų gavėjai, į Vilnių siunčiami leidiniai, laukiami žmonės. Tarp šių reikalų vėl pasirodo Aleksandro Mykolo Sapiegos vardas ir politinės naujienos.\n\nKnygų kelionės jungė miestus ir šeimas. Gerokai anksčiau kita Sapiegų kolekcija – Leono ir jo sūnų biblioteka – iš Ružanų pateko į Vilniaus universitetą. Šis XVIII a. laiškas jai nepriklauso ir nėra jos perdavimo dokumentas. Jis rodo vėlesnį susirašinėjimo pasaulį, kuriame knygos, moksliniai instrumentai ir žinios keliaudavo tais pačiais pažinčių ryšiais.",
+              "evidenceNoteLt": "Šis laiškas nėra XVII a. Bibliotheca Sapiehana perdavimo dokumentas.",
+              "exhibitionItemId": "sap-knygos",
+              "externalSources": [
+                {
+                  "title": "VU biblioteka: 1775 m. rugpjūčio 21 d. laiškas",
+                  "url": "https://www.epaveldas.lt/preview?id=VUB01-000903047"
+                },
+                {
+                  "title": "Sapiegų bibliotekos istorija",
+                  "url": "https://www.vle.lt/straipsnis/sapiegu-biblioteka/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://www.epaveldas.lt/preview?id=VUB01-000903047",
+                "caption": "Laiškas apie gautas knygas ir instrumentus",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Ševaljė, Janas, 1732-1780, aut.",
+                "dateDisplay": "1775 m. rugpjūčio 21 d.",
+                "displayUrl": "/static/gimines/sapiegos/laiskas-1775-08-21.jpg",
+                "height": null,
+                "license": "PD",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-55bacbf82369d854b039d484",
+                "metadataEvidence": "https://www.epaveldas.lt/preview?id=VUB01-000903047",
+                "originalTitle": "„Pak z xięgami dla Grella i pudełko z szerszerami doszły mnie d. 17...“",
+                "provider": "epaveldas",
+                "providerLabel": "Vilniaus universiteto biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md",
+                    "relationType": "manuscript_depiction_of",
+                    "title": "Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)"
+                  },
+                  {
+                    "directness": "contextual",
+                    "itemType": "vieta",
+                    "notePath": "objektai/vietos/Lietuvos Didžioji Kunigaikštystė.md",
+                    "relationType": "manuscript_depiction_of",
+                    "title": "Lietuvos Didžioji Kunigaikštystė"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-20T23:43:33.860796+03:00",
+                "rightsNote": "PD",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903047/original/VUB01-000903047_00001.jpg",
+                "tags": [],
+                "thumbUrl": "/static/gimines/sapiegos/laiskas-1775-08-21.jpg",
+                "title": "Laiškas apie gautas knygas ir instrumentus",
+                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
+                "visualReviewVersion": "family-editorial-20260920",
+                "width": null
+              },
+              "mediaId": "m-55bacbf82369d854b039d484",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
+                  "title": "Aleksandras Mykolas Sapiega"
+                },
+                {
+                  "href": "/objektai/asmenys/Ona-Sapiegaite-Jablonowska",
+                  "title": "Ona Sapiegaitė-Jablonowska"
+                },
+                {
+                  "href": "/objektai/asmenys/Kazimieras-Leonas-Sapiega-(1609-1656)",
+                  "title": "Kazimieras Leonas Sapiega (1609–1656)"
+                }
+              ],
+              "titleLt": "Siuntinys jau atėjo"
+            }
+          ],
+          "lead": "Aleksandro Mykolo portretas rodo aukštas pareigas pasiekusį žmogų. Laiškai išsaugojo laiką, kai apie tas pareigas dar buvo spėliojama.",
+          "navMediaId": "m-6c312efae92df2bded20d4e4",
+          "sectionId": "sap-kancleris-ir-laiskai",
+          "slug": "kancleris-ir-laiskai",
+          "title": "Kancleris ir jo amžininkų laiškai"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "1709 m. Narimanto portretas priklauso Sapiegų genealoginiam pasakojimui. Ankstyvieji Kodenio galerijos protėvių atvaizdai buvo įsivaizduoti, todėl kūrinys liudija giminės savivaizdį, o ne patikimą Narimanto portretą.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Autorius nenustatytas",
+              "dateDisplay": "1709 m.",
+              "descriptionLt": "Jonas Frydrichas Sapiega apie 1709 m. Kodenio Šv. Onos bažnyčioje įrengė 75 vyrų „protėvių“ portretų galeriją. Ji turėjo parodyti garbingą ir seną giminės kilmę.\n\nLietuvos nacionalinė biblioteka nurodo, kad ankstyvųjų Sapiegų portretai buvo įsivaizduoti. Todėl Narimanto atvaizdas negali būti laikomas istoriniu jo veido dokumentu ar Sapiegų kilmės įrodymu. Jis yra tiesioginis XVIII a. genealoginės savireprezentacijos šaltinis.",
+              "evidenceNoteLt": "Imaginacinis portretas. Jis dokumentuoja XVIII a. kilmės pasakojimą, bet nepatvirtina biologinės Sapiegų kilmės iš Narimanto.",
+              "exhibitionItemId": "sap-narimantas-genealogija",
+              "externalSources": [
+                {
+                  "title": "LNB: Jonas Frydrichas Sapiega ir Kodenio galerija",
+                  "url": "https://proveniencijos.lnb.lt/sapiega-jonas-frydrichas/"
+                },
+                {
+                  "title": "Wikimedia Commons: Narimanto portretas",
+                  "url": "https://commons.wikimedia.org/wiki/File:Narymont._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82_(1709).jpg"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ANarymont._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82_%281709%29.jpg",
+                "caption": "Imaginacinis Narimanto portretas iš Sapiegų genealoginio ciklo.",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Autorius nenustatytas",
+                "dateDisplay": "1709 m.",
+                "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Narymont._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82_%281709%29.jpg",
+                "height": 1000,
+                "license": "Public domain",
+                "mediaId": "m-24bc00e9a545648729af29ce",
+                "metadataEvidence": "LNB proveniencijų duomenų bazė nurodo, kad ankstyvieji Kodenio galerijos portretai buvo imaginaciniai.",
+                "originalTitle": "Narymont. Нарымонт (1709).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [],
+                "reviewStatus": "accepted",
+                "rightsNote": "Public domain",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Narymont._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82_%281709%29.jpg",
+                "tags": [
+                  {
+                    "code": "portretas",
+                    "confidence": 1,
+                    "facetKind": "vaizdo_tipas",
+                    "label": "portretas"
+                  }
+                ],
+                "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Narymont._%D0%9D%D0%B0%D1%80%D1%8B%D0%BC%D0%BE%D0%BD%D1%82_%281709%29.jpg",
+                "title": "Narimantas, 1709 m.",
+                "visualEvidence": "Matomas istorizuotas Narimanto portretas iš 1709 m. genealoginio ciklo.",
+                "visualReviewVersion": "media-visual-validator-v1",
+                "width": 652
+              },
+              "mediaId": "m-24bc00e9a545648729af29ce",
+              "objectLinks": [
+                {
+                  "href": "/objektai/grupes/Sapiegos",
+                  "title": "Sapiegos"
+                }
+              ],
+              "objectSlug": "objektai/asmenys/Jonas-Frydrichas-Sapiega-(1680-1751)",
+              "titleLt": "Protėvis, kurio portretas buvo įsivaizduotas"
+            },
+            {
+              "catalogDescriptionLt": "Dabartinė Leono Sapiegos, Dorotėjos Firlėjūtės ir Elžbietos Radvilaitės antkapinio paminklo nuotrauka. Memorialas yra Vilniaus Šv. arkangelo Mykolo bažnyčioje ir liudija šeimos laidojimo bei atminties programą.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Jerzy Strzelecki",
+              "dateDisplay": "2014 m. fotografija; XVII a. paminklas",
+              "descriptionLt": "Leonas Sapiega Šv. arkangelo Mykolo bažnyčią fundavo kaip bernardinių vienuolyno bažnyčią ir šeimos mauzoliejų. Čia palaidotas jis pats, jo žmonos, vaikai ir kiti artimieji.\n\nAntkapinis paminklas jungia Leono, Dorotėjos Firlėjūtės ir Elžbietos Radvilaitės reljefus, heraldiką bei krikščioniškas figūras. Nuotrauka tiesiogiai dokumentuoja išlikusį objektą, tačiau pats memorialas sukurtas po vaizduojamų žmonių mirties ir yra apgalvota šeimos atminties programa.",
+              "evidenceNoteLt": "Tiesioginis išlikusio paminklo vaizdas. Antkapio reljefai nėra iš gyvenimo tapyti portretai.",
+              "exhibitionItemId": "sap-leono-antkapis",
+              "externalSources": [
+                {
+                  "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
+                  "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
+                },
+                {
+                  "title": "Wikimedia Commons: antkapio vaizdas ir teisės",
+                  "url": "https://commons.wikimedia.org/wiki/File:Tombstone_for_Leonas_Sapiega01(js).jpg"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "Jerzy Strzelecki · CC BY-SA 3.0",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ATombstone_for_Leonas_Sapiega01%28js%29.jpg",
+                "caption": "Leono Sapiegos, Dorotėjos Firlėjūtės ir Elžbietos Radvilaitės antkapinis paminklas.",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Jerzy Strzelecki",
+                "dateDisplay": "2014 m. fotografija; XVII a. paminklas",
+                "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tombstone_for_Leonas_Sapiega01%28js%29.jpg/1920px-Tombstone_for_Leonas_Sapiega01%28js%29.jpg",
+                "height": 5281,
+                "license": "CC BY-SA 3.0",
+                "mediaId": "m-2a216df00dce4dbc1fd4fc6f",
+                "metadataEvidence": "Rinkmenos aprašas tiesiogiai identifikuoja Leoną Sapiegą, Dorotėją Firlėjūtę ir Elžbietą Radvilaitę.",
+                "originalTitle": "Tombstone for Leonas Sapiega01(js).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Leonas Sapiega.md",
+                    "relationType": "commemoration_of",
+                    "title": "Leonas Sapiega"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "rightsNote": "CC BY-SA 3.0",
+                "sourceMethod": "provider_url_import_v1",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tombstone_for_Leonas_Sapiega01%28js%29.jpg",
+                "tags": [
+                  {
+                    "code": "paminklas",
+                    "confidence": 1,
+                    "facetKind": "tema",
+                    "label": "paminklas"
+                  }
+                ],
+                "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tombstone_for_Leonas_Sapiega01%28js%29.jpg/1920px-Tombstone_for_Leonas_Sapiega01%28js%29.jpg",
+                "title": "Leono Sapiegos ir jo žmonų antkapis",
+                "visualEvidence": "Matomas monumentalus marmurinis antkapis su gulinčia didiko figūra, reljefais ir herbais.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 3600
+              },
+              "mediaId": "m-2a216df00dce4dbc1fd4fc6f",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Doroteja-Firlejute",
+                  "title": "Dorotėja Firlėjūtė"
+                },
+                {
+                  "href": "/objektai/asmenys/Elzbieta-Radvilaite-(Leono-Sapiegos-zmona)",
+                  "title": "Elžbieta Radvilaitė"
+                },
+                {
+                  "href": "/objektai/vietos/Sv.-Mykolo-baznycia-Vilniuje",
+                  "title": "Šv. Mykolo bažnyčia Vilniuje"
+                }
+              ],
+              "objectSlug": "objektai/asmenys/Leonas-Sapiega",
+              "titleLt": "Mauzoliejus, kuriame pasakojama apie šeimą"
+            },
+            {
+              "catalogDescriptionLt": "Napoleono Ordos 1875 m. Ružanų Sapiegų rezidencijos vaizdas. Kūrinys sukurtas gerokai po rūmų klestėjimo, todėl yra vertingas kaip XIX a. būklės ir atminties dokumentas, tačiau neatstoja XVII a. rezidencijos plano ar inventoriaus.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Napoleonas Orda",
+              "dateDisplay": "1875 m.",
+              "descriptionLt": "Ružanai buvo viena svarbiausių Sapiegų rezidencijų. Čia Leonas ir jo sūnūs kaupė biblioteką, o XVIII a. Aleksandras Mykolas išlaikė teatrą bei steigė gamybos dirbtuves.\n\nNapoleonas Orda rezidenciją nupiešė 1875 m., kai ankstesnė rūmų aplinka jau buvo pasikeitusi. Vaizdas todėl neparodo XVII ar XVIII a. rūmų tiksliai tokiais, kokie jie buvo Sapiegų politinės galios metais. Jis liudija vėlesnę komplekso būklę ir susidomėjimą nykstančiu paveldu.",
+              "evidenceNoteLt": "Kontekstinė XIX a. iliustracija. Ji negali būti naudojama kaip tikslus XVII a. rezidencijos planas.",
+              "exhibitionItemId": "sap-ruzanai-orda",
+              "externalSources": [
+                {
+                  "title": "Wikimedia Commons: Napoleono Ordos Ružanų vaizdas",
+                  "url": "https://commons.wikimedia.org/wiki/File:Ružany,_Sapieha._Ружаны,_Сапега_(N._Orda,_1875).jpg"
+                },
+                {
+                  "title": "VLE: Sapiegų biblioteka",
+                  "url": "https://www.vle.lt/straipsnis/sapiegu-biblioteka/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ARu%C5%BEany%2C_Sapieha._%D0%A0%D1%83%D0%B6%D0%B0%D0%BD%D1%8B%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28N._Orda%2C_1875%29.jpg",
+                "caption": "Napoleono Ordos 1875 m. Ružanų rezidencijos vaizdas.",
+                "confidence": 0.82,
+                "confidenceLevel": "medium",
+                "creator": "Napoleonas Orda",
+                "dateDisplay": "1875 m.",
+                "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ru%C5%BEany%2C_Sapieha._%D0%A0%D1%83%D0%B6%D0%B0%D0%BD%D1%8B%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28N._Orda%2C_1875%29.jpg/1920px-Ru%C5%BEany%2C_Sapieha._%D0%A0%D1%83%D0%B6%D0%B0%D0%BD%D1%8B%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28N._Orda%2C_1875%29.jpg",
+                "height": 1390,
+                "license": "Public domain",
+                "mediaId": "m-7cd2e71b47e9cd7d02c72330",
+                "metadataEvidence": "Pavadinimas ir aprašas nurodo Ružanų Sapiegų dvarą, Napoleoną Ordą ir 1875 m. datą.",
+                "originalTitle": "Ružany, Sapieha. Ружаны, Сапега (N. Orda, 1875).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons · Baltarusijos nacionalinė biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "grupe",
+                    "notePath": "objektai/grupes/Sapiegos.md",
+                    "relationType": "depicts",
+                    "title": "Sapiegos"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "rightsNote": "Public domain",
+                "sourceMethod": "provider_url_import_v1",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Ru%C5%BEany%2C_Sapieha._%D0%A0%D1%83%D0%B6%D0%B0%D0%BD%D1%8B%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28N._Orda%2C_1875%29.jpg",
+                "tags": [
+                  {
+                    "code": "iliustracija",
+                    "confidence": 1,
+                    "facetKind": "vaizdo_tipas",
+                    "label": "iliustracija"
+                  }
+                ],
+                "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ru%C5%BEany%2C_Sapieha._%D0%A0%D1%83%D0%B6%D0%B0%D0%BD%D1%8B%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28N._Orda%2C_1875%29.jpg/1920px-Ru%C5%BEany%2C_Sapieha._%D0%A0%D1%83%D0%B6%D0%B0%D0%BD%D1%8B%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28N._Orda%2C_1875%29.jpg",
+                "title": "Ružanų Sapiegų rezidencija",
+                "visualEvidence": "Matomas rūmų kompleksas su vartais, pastatais, parku ir keliu.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 2059
+              },
+              "mediaId": "m-7cd2e71b47e9cd7d02c72330",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Leonas-Sapiega",
+                  "title": "Leonas Sapiega"
+                },
+                {
+                  "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
+                  "title": "Aleksandras Mykolas Sapiega"
+                }
+              ],
+              "titleLt": "Ružanai, pamatyti po klestėjimo laikų"
+            },
+            {
+              "catalogDescriptionLt": "1755 m. Polocke išleistas proginis leidinys, skirtas Aleksandrui Mykolui Sapiegai tapus Polocko vaivada. Antraštė išvardija pareigas, valdas ir giminę, todėl rodo viešą didiko reprezentaciją; panegirinę leidinio paskirtį reikia skirti nuo neutralios biografijos.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Polocko jėzuitų kolegija",
+              "dateDisplay": "1755 m.",
+              "descriptionLt": "1755 m. proginis leidinys pasitiko Aleksandrą Mykolą Sapiegą Polocko vaivados pareigose. Ilga lotyniška antraštė vardija jo titulus, valdas, Baltojo Erelio ordiną ir Sapiegų giminę.\n\nTai nėra neutrali biografija. Panegirika buvo skirta pagerbti pareigūną ir įtvirtinti jo viešą autoritetą. Dėl to leidinys vertingas kaip to meto politinės reprezentacijos šaltinis, bet jo pagyrimus reikia skirti nuo nepriklausomai patikrintų karjeros faktų.",
+              "evidenceNoteLt": "Pirminis 1755 m. proginis spaudinys, sukurtas pagerbti didiką. Jo panegirinė paskirtis riboja teiginių neutralumą.",
+              "exhibitionItemId": "sap-panegirika",
+              "externalSources": [
+                {
+                  "title": "Europeana: 1755 m. leidinio katalogo kortelė",
+                  "url": "https://www.europeana.eu/item/2021803/C1B0004162890"
+                },
+                {
+                  "title": "VLE: Aleksandras Mykolas Sapiega",
+                  "url": "https://www.vle.lt/straipsnis/aleksandras-mykolas-sapiega/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://www.europeana.eu/item/2021803/C1B0004162890",
+                "caption": "1755 m. leidinio, skirto Polocko vaivadai Aleksandrui Mykolui Sapiegai, antraštinis lapas.",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Polocko jėzuitų kolegija",
+                "dateDisplay": "1755 m.",
+                "displayUrl": "https://www.epaveldas.lt/static/lnb-bucket/C1B0004162890/thumbnail-original/C1B0004162890.jpg",
+                "height": null,
+                "license": "Public Domain Mark 1.0",
+                "mediaId": "m-90a14df3f82a9ea7f2eb9221",
+                "metadataEvidence": "LNB katalogas leidinį datuoja 1755 m. ir tiesiogiai sieja su Aleksandru Mykolu Sapiega.",
+                "originalTitle": "Viae ad honores ... illustrissimae Sapieharum familiae ... Anno MDCCLV",
+                "provider": "europeana",
+                "providerLabel": "Lietuvos nacionalinė Martyno Mažvydo biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md",
+                    "relationType": "edition_image_of",
+                    "title": "Aleksandras Mykolas Sapiega"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "rightsNote": "Public Domain Mark 1.0",
+                "sourceMethod": "media_collector",
+                "sourceTags": [],
+                "sourceUrl": "https://www.epaveldas.lt/static/lnb-bucket/C1B0004162890/thumbnail-original/C1B0004162890.jpg",
+                "tags": [
+                  {
+                    "code": "knyga",
+                    "confidence": 1,
+                    "facetKind": "tema",
+                    "label": "knyga"
+                  }
+                ],
+                "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Flnb-bucket%2FC1B0004162890%2Fthumbnail-original%2FC1B0004162890.jpg&type=TEXT",
+                "title": "Proginis leidinys Aleksandrui Mykolui Sapiegai",
+                "visualEvidence": "Matomas XVIII a. proginio leidinio antraštinis lapas.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": null
+              },
+              "mediaId": "m-90a14df3f82a9ea7f2eb9221",
+              "objectSlug": "objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
+              "titleLt": "Pareigos, išvardytos per visą antraštę"
+            }
+          ],
+          "lead": "Šios dalies eksponatai rodo, kaip Sapiegos kūrė ir saugojo giminės atmintį. Vieni vaizdai dokumentuoja išlikusį antkapį ar rezidenciją, kiti atskleidžia sąmoningai kurtą genealogiją ir panegirinę viešojo statuso kalbą.",
+          "navMediaId": "m-2a216df00dce4dbc1fd4fc6f",
+          "sectionId": "sap-atmintis-ir-rezidencijos",
+          "slug": "atmintis-ir-rezidencijos",
+          "title": "Giminės atmintis ir rezidencijos"
+        }
+      ],
+      "slug": "parodos/sapiegos-statutai-rumai-ir-laiskai",
+      "status": "published",
+      "subtitle": "Nuo Leono plunksnos iki Varšuvoje laukiamo antspaudo",
+      "theme": "historical",
+      "title": "Sapiegos: Statutas, rūmai ir šeimos laiškai",
+      "updatedAt": "2026-09-21T23:51:20.593776+03:00"
+    },
+    {
       "description": "Radvilos statė pilis, vadovavo kariuomenei ir leido knygas. Jų šeimoje buvo karalienė, kardinolas, keliautojas ir dramaturgė. Išlikę portretai bei raštai pasakoja apie žmones, kurių santuokos, tikėjimas ir politiniai sprendimai keitė Lietuvos istoriją.",
       "editorialProfile": "family-overview",
       "exhibitionId": "radvilos-gimine-valdos-ir-paveldas",
@@ -834,7 +2626,11 @@
         "https://www.epaveldas.lt/static/lnb-bucket/C10000028237/thumbnail-original/C10000028237.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/5/50/Mika%C5%82aj_Radzivi%C5%82_Sirotka._%D0%9C%D1%96%D0%BA%D0%B0%D0%BB%D0%B0%D0%B9_%D0%A0%D0%B0%D0%B4%D0%B7%D1%96%D0%B2%D1%96%D0%BB_%D0%A1%D1%96%D1%80%D0%BE%D1%82%D0%BA%D0%B0_%28XVIII%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
         "https://www.epaveldas.lt/static/lnb-bucket/C10002552867/thumbnail-original/C10002552867.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/c/c1/Belarus-Niasvizh-Panorama.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/c/c1/Belarus-Niasvizh-Panorama.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1b/Tapestry_dedicated_to_Mikolaj_the_Black_Radziwill.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mapa_1613.jpg",
+        "https://www.limis.lt/api/media/image/891092367/891092980/false"
       ],
       "noindex": false,
       "relatedContent": [
@@ -2170,6 +3966,312 @@
           "sectionId": "rad-paveldas",
           "slug": "paveldas",
           "title": "Nesvyžius po Našlaitėlio"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "XVIII a. gobelenas vaizduoja 1547 m. kunigaikščio titulo suteikimą Mikalojui Radvilai Juodajam. Tai vėlesnis giminės atminties kūrinys, o ne įvykio metu sukurtas dokumentas, todėl titulų faktas tikrinamas pagal išlikusius imperatoriaus diplomus.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Kūrinio autorius nenustatytas; fotografavo Pofka",
+              "dateDisplay": "XVIII a.",
+              "descriptionLt": "1547 m. Šventosios Romos imperijos valdovų privilegijos kunigaikščių titulus patvirtino Mikalojui Radvilai Juodajam ir Mikalojui Radvilai Rudajam. Titulas vėliau kartotas antspauduose, portretų užrašuose, genealogijose ir meno kūriniuose.\n\nGobelenas įvykį paverčia iškilminga scena, nors buvo sukurtas gerokai vėliau. Dėl to jis dokumentuoja ne pačią 1547 m. ceremoniją, o tai, kaip vėlesnės kartos norėjo ją prisiminti ir rodyti giminės istorijoje.",
+              "evidenceNoteLt": "Vėlesnis memorialinis atvaizdas. 1547 m. titulų faktą pagrindžia išlikę diplomai, ne gobeleno scena.",
+              "exhibitionItemId": "rad-1547-gobelenas",
+              "externalSources": [
+                {
+                  "title": "Valdovų rūmų muziejus: Radvilų paroda",
+                  "url": "https://www.valdovurumai.lt/lt/parodos/i/5307/radvilos-kunigaiksciu-istorija-ir-paveldas/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "Pofka · CC BY-SA 4.0",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ATapestry_dedicated_to_Mikolaj_the_Black_Radziwill.jpg",
+                "caption": "Vėlesnis gobelenas apie kunigaikščio titulo suteikimą Mikalojui Radvilai Juodajam.",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Pofka",
+                "dateDisplay": "2019 m. fotografija; XVIII a. gobelenas",
+                "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tapestry_dedicated_to_Mikolaj_the_Black_Radziwill.jpg/1920px-Tapestry_dedicated_to_Mikolaj_the_Black_Radziwill.jpg",
+                "height": 3024,
+                "license": "CC BY-SA 4.0",
+                "mediaId": "m-0d550fd23155ff1c70b8cfaa",
+                "metadataEvidence": "Wikimedia Commons rinkmenos aprašas ir Valdovų rūmų muziejaus Radvilų parodos katalogas.",
+                "originalTitle": "Tapestry dedicated to Mikolaj the Black Radziwill.jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Mikalojus Radvila Juodasis.md",
+                    "relationType": "event_documentation_of",
+                    "title": "Mikalojus Radvila Juodasis"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "rightsNote": "Creative Commons Attribution-ShareAlike 4.0",
+                "sourceMethod": "family-editorial-review",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Tapestry_dedicated_to_Mikolaj_the_Black_Radziwill.jpg",
+                "tags": [],
+                "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tapestry_dedicated_to_Mikolaj_the_Black_Radziwill.jpg/1920px-Tapestry_dedicated_to_Mikolaj_the_Black_Radziwill.jpg",
+                "title": "Gobelenas, skirtas Mikalojui Radvilai Juodajam",
+                "visualEvidence": "Matomas gobelenas, kuriame titulo suteikimas pavaizduotas kaip iškilminga istorinė scena.",
+                "visualReviewVersion": "media-visual-validator-v2",
+                "width": 4032
+              },
+              "mediaId": "m-0d550fd23155ff1c70b8cfaa",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Mikalojus-Radvila-Rudasis",
+                  "title": "Mikalojus Radvila Rudasis"
+                }
+              ],
+              "objectSlug": "objektai/asmenys/Mikalojus-Radvila-Juodasis",
+              "titleLt": "1547-ieji vėlesnių kartų akimis"
+            },
+            {
+              "catalogDescriptionLt": "1563 m. Brastos Biblijos antraštinis lapas iš Čartoriskių fondo egzemplioriaus. Leidinys išspausdintas Brastoje Mikalojaus Radvilos Juodojo lėšomis; skaitmeninis vaizdas pateiktas Polonos ir Wikimedia Commons kataloguose su leidimo vietos, datos bei finansuotojo metaduomenimis.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Autorius nenustatytas",
+              "dateDisplay": "1563 m.",
+              "descriptionLt": "Brastos Biblija išleista 1563 m. Mikalojaus Radvilos Juodojo lėšomis. Tai visas Senojo ir Naujojo Testamento vertimas į lenkų kalbą, parengtas evangelikų reformatų aplinkoje.\n\nČia rodomas pats antraštinis lapas. Leidimo vieta, data ir Radvilos vaidmuo nurodyti katalogo metaduomenyse, todėl vaizdas tiesiogiai dokumentuoja leidinį. Jis neparodo viso vertėjų, redaktorių ir spaustuvininkų darbo, slypinčio už vienos knygos.",
+              "evidenceNoteLt": "Tiesioginis konkretaus leidinio atvaizdas. Platesnė rengėjų ir spaustuvės istorija tikrinama bibliotekų bei muziejų aprašuose.",
+              "exhibitionItemId": "rad-brastos-biblija",
+              "externalSources": [
+                {
+                  "title": "Polonos katalogo įrašas per Wikimedia Commons",
+                  "url": "https://commons.wikimedia.org/wiki/File:Brest_Bible_-_title_page_(67678265).jpg"
+                },
+                {
+                  "title": "Biržų muziejus: Brastos Biblija",
+                  "url": "https://www.birzumuziejus.lt/religijos/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ABrest_Bible_-_title_page_%2867678265%29.jpg",
+                "caption": "1563 m. Brastoje išleistos Biblijos antraštinis lapas.",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Autorius nenustatytas",
+                "dateDisplay": "1563 m.",
+                "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg/1920px-Brest_Bible_-_title_page_%2867678265%29.jpg",
+                "height": 6710,
+                "license": "Public domain",
+                "mediaId": "m-b3fcad2a216f2deeef5f83d7",
+                "metadataEvidence": "Polonos katalogas nurodo Brastą, 1563 m. leidimą ir Mikalojaus Radvilos finansavimą.",
+                "originalTitle": "Brest Bible - title page (67678265).jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons · Polona",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "saltinis",
+                    "notePath": "objektai/saltiniai/Brastos Biblija.md",
+                    "relationType": "edition_image_of",
+                    "title": "Brastos Biblija"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "rightsNote": "Public domain",
+                "sourceMethod": "provider_url_import_v1",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg",
+                "tags": [
+                  {
+                    "code": "knyga",
+                    "confidence": 1,
+                    "facetKind": "tema",
+                    "label": "knyga"
+                  }
+                ],
+                "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Brest_Bible_-_title_page_%2867678265%29.jpg/1920px-Brest_Bible_-_title_page_%2867678265%29.jpg",
+                "title": "Brastos Biblijos antraštinis lapas",
+                "visualEvidence": "Matomas senosios spausdintos knygos antraštinis lapas su įrašu „Biblia swieta“.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 4400
+              },
+              "mediaId": "m-b3fcad2a216f2deeef5f83d7",
+              "objectLinks": [
+                {
+                  "href": "/objektai/saltiniai/Brastos-Biblija",
+                  "title": "Brastos Biblija"
+                },
+                {
+                  "href": "/objektai/asmenys/Mikalojus-Radvila-Juodasis",
+                  "title": "Mikalojus Radvila Juodasis"
+                }
+              ],
+              "titleLt": "Knyga, kurią finansavo Juodasis"
+            },
+            {
+              "catalogDescriptionLt": "1613 m. Lietuvos Didžiosios Kunigaikštystės žemėlapio atvaizdas. Kartografavimo darbą rėmė Mikalojus Kristupas Radvila Našlaitėlis, o žemėlapį raižė ir rengė keli specialistai, todėl mecenato vaidmuo čia aiškiai skiriamas nuo kolektyvinės autorystės.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Tomas Makovskis ir bendradarbiai",
+              "dateDisplay": "1613 m.",
+              "descriptionLt": "1613 m. pasirodęs LDK žemėlapis siejamas su Mikalojaus Kristupo Radvilos Našlaitėlio užsakymu ir finansine parama. Darbui reikėjo surinkti geografinius duomenis, juos suderinti ir perkelti į raižytą spaudos formą.\n\nŽemėlapis rodo, kaip didiko lėšos galėjo paremti ilgą kolektyvinį darbą. Našlaitėlio negalima vadinti vieninteliu autoriumi: su leidiniu siejamas kartografas Tomas Makovskis ir kiti ne visada vardais žinomi bendradarbiai.",
+              "evidenceNoteLt": "Tiesioginis 1613 m. kartografinio leidinio atvaizdas. Mecenato vaidmuo nereiškia vienasmenės kartografinės autorystės.",
+              "exhibitionItemId": "rad-1613-zemelapis",
+              "externalSources": [
+                {
+                  "title": "LNDM apie Našlaitėlį ir žemėlapį",
+                  "url": "https://www.lndm.lt/pilies-gatve/pilies-g-23/"
+                },
+                {
+                  "title": "Wikimedia Commons: 1613 m. žemėlapis",
+                  "url": "https://commons.wikimedia.org/wiki/File:Mapa_1613.jpg"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AMapa_1613.jpg",
+                "caption": "1613 m. Lietuvos Didžiosios Kunigaikštystės žemėlapis.",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Tomas Makovskis ir bendradarbiai",
+                "dateDisplay": "1613 m.",
+                "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mapa_1613.jpg/1920px-Mapa_1613.jpg",
+                "height": 5149,
+                "license": "Public domain",
+                "mediaId": "m-92896101e866c638d22ea944",
+                "metadataEvidence": "Wikimedia Commons aprašas nurodo Tomą Makovskį ir 1613 m. datą.",
+                "originalTitle": "Mapa 1613.jpg",
+                "provider": "commons",
+                "providerLabel": "Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "saltinis",
+                    "notePath": "objektai/saltiniai/T. Makovskio žemėlapis.md",
+                    "relationType": "edition_image_of",
+                    "title": "T. Makovskio žemėlapis"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "rightsNote": "Public domain",
+                "sourceMethod": "media_collector",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mapa_1613.jpg",
+                "tags": [
+                  {
+                    "code": "žemėlapis",
+                    "confidence": 1,
+                    "facetKind": "vaizdo_tipas",
+                    "label": "žemėlapis"
+                  }
+                ],
+                "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mapa_1613.jpg/1920px-Mapa_1613.jpg",
+                "title": "1613 m. LDK žemėlapis",
+                "visualEvidence": "Matomas istorinis žemėlapis su LDK regionais, miestais, upėmis ir kartušu.",
+                "visualReviewVersion": "media-visual-validator-v1",
+                "width": 6669
+              },
+              "mediaId": "m-92896101e866c638d22ea944",
+              "objectLinks": [
+                {
+                  "href": "/objektai/saltiniai/T.-Makovskio-zemelapis",
+                  "title": "T. Makovskio žemėlapis"
+                }
+              ],
+              "objectSlug": "objektai/asmenys/Mikalojus-Kristupas-Radvila-Naslaitelis",
+              "titleLt": "Žemėlapis, kuriam reikėjo ne vieno žmogaus"
+            },
+            {
+              "catalogDescriptionLt": "Kardinolo Jurgio Radvilos portretas primena, kad Mikalojaus Radvilos Juodojo sūnūs pasirinko katalikybę. Portretas yra reprezentacinis konkretaus žmogaus atvaizdas, o ne visos giminės religinės laikysenos įrodymas; kitos šakos išlaikė skirtingas konfesines tradicijas.",
+              "claimCodes": [],
+              "claimRefs": [],
+              "claims": [],
+              "creatorDisplay": "Autorius nenustatytas",
+              "dateDisplay": "XVI–XVII a.",
+              "descriptionLt": "Jurgis Radvila gimė Mikalojaus Radvilos Juodojo šeimoje, kuri rėmė Reformaciją, tačiau pats tapo Katalikų Bažnyčios kardinolu. Jo brolis Našlaitėlis taip pat rėmė katalikiškas fundacijas.\n\nPortretas leidžia kalbėti apie individualią karjerą ir bažnytinį statusą. Jis neleidžia visos giminės sutalpinti į vieną konfesiją: tuo pačiu metu Biržų–Dubingių šaka toliau globojo evangelikus reformatus, o Sofija Olelkaitė liko stačiatikė.",
+              "evidenceNoteLt": "Tiesioginis Jurgio Radvilos portretinis atvaizdas; platesnė konfesinė istorija pagrįsta atskirais biografiniais ir instituciniais šaltiniais.",
+              "exhibitionItemId": "rad-jurgis-kardinolas",
+              "externalSources": [
+                {
+                  "title": "Valdovų rūmų muziejus: kardinolo Jurgio Radvilos portretas",
+                  "url": "https://www.valdovurumai.lt/lt/savaites-eksponatai/i/358/kardinolo-jurgio-radvilos-portretas/"
+                },
+                {
+                  "title": "VLE: Jurgis Radvila",
+                  "url": "https://www.vle.lt/straipsnis/jurgis-radvila/"
+                }
+              ],
+              "featured": true,
+              "media": {
+                "attribution": "",
+                "canonicalUrl": "https://www.limis.lt/valuables/e/805535/891092367",
+                "caption": "Jurgis Radvila (1556–1600), kardinolas.",
+                "confidence": 0.95,
+                "confidenceLevel": "high",
+                "creator": "Juozas Galkus",
+                "dateDisplay": "1999–2017 m.",
+                "displayUrl": "https://www.limis.lt/api/media/image/891092367/891092980/false",
+                "height": null,
+                "license": "Public Domain",
+                "mediaId": "m-c8a9a055aef8dc977606f748",
+                "metadataEvidence": "LIMIS rinkinio įrašas tiesiogiai įvardija Jurgį Radvilą kardinolą.",
+                "originalTitle": "Jurgis Radvila Kardinolas (1556–1600)",
+                "provider": "limis",
+                "providerLabel": "Biržų krašto muziejus „Sėla“",
+                "relatedObjects": [
+                  {
+                    "directness": "direct",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Jurgis Radvila.md",
+                    "relationType": "painting_of",
+                    "title": "Jurgis Radvila"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "rightsNote": "Public Domain Mark 1.0",
+                "sourceMethod": "media_collector",
+                "sourceTags": [],
+                "sourceUrl": "https://www.limis.lt/api/media/image/891092367/891092980/false",
+                "tags": [
+                  {
+                    "code": "portretas",
+                    "confidence": 1,
+                    "facetKind": "vaizdo_tipas",
+                    "label": "portretas"
+                  }
+                ],
+                "thumbUrl": "https://www.limis.lt/api/media/image/891092367/891092980/false",
+                "title": "Kardinolo Jurgio Radvilos portretas",
+                "visualEvidence": "Portretiniame atvaizde kardinolas pavaizduotas su jo bažnytinį statusą rodančia apranga.",
+                "visualReviewVersion": "media-visual-validator-v2",
+                "width": null
+              },
+              "mediaId": "m-c8a9a055aef8dc977606f748",
+              "objectLinks": [
+                {
+                  "href": "/objektai/asmenys/Mikalojus-Radvila-Juodasis",
+                  "title": "Mikalojus Radvila Juodasis"
+                },
+                {
+                  "href": "/objektai/asmenys/Sofija-Olelkaite-(Jonuso-Radvilos-zmona)",
+                  "title": "Sofija Olelkaitė"
+                }
+              ],
+              "objectSlug": "objektai/asmenys/Jurgis-Radvila",
+              "titleLt": "Vienoje giminėje – keli tikėjimai"
+            }
+          ],
+          "lead": "Titulas, Biblija, žemėlapis ir kardinolo portretas rodo keturias skirtingas Radvilų veiklos sritis. Kiekvienas eksponatas turi kitą įrodymo vertę: diplomo atminimo scena yra vėlesnė, o knygos antraštinis lapas ir žemėlapis – pačių leidinių dalys.",
+          "navMediaId": "m-b3fcad2a216f2deeef5f83d7",
+          "sectionId": "rad-knyga-tikejimas-atmintis",
+          "slug": "knyga-tikejimas-atmintis",
+          "title": "Knyga, tikėjimas ir atmintis"
         }
       ],
       "seo_title": "Radvilos: giminė, portretai, valdos ir paveldas",
@@ -2178,1488 +4280,7 @@
       "subtitle": "Barboros karūna, Biržų tvirtovė ir Nesvyžiaus rūmai",
       "theme": "historical",
       "title": "Radvilos: giminė, valdos ir paveldas",
-      "updatedAt": "2026-09-21T00:50:10.947860+03:00"
-    },
-    {
-      "description": "Sapiegų vardas liko teisyno antraštėse, rūmų sienose ir privačiuose laiškuose. Aštuoni portretai bei dokumentai pasakoja apie valstybės tarnybą, ginčijamas valdas ir šeimos kasdienybę.",
-      "editorialProfile": "family-overview",
-      "exhibitionId": "sapiegos-statutai-rumai-ir-laiskai",
-      "familyMembers": [
-        {
-          "dates": "1828–1903",
-          "href": "/objektai/asmenys/Adomas-Sapiega-(1828-1903)",
-          "name": "Adomas Sapiega (1828–1903)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/adomas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1867–1951",
-          "href": "/objektai/asmenys/Adomas-Steponas-Sapiega-(1867-1951)",
-          "name": "Adomas Steponas Sapiega (1867–1951)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/adomas-steponas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "mirė 1619 m.",
-          "href": "/objektai/asmenys/Aleksandras-Kazimieras-Sapiega-(mire-1619-m.)",
-          "name": "Aleksandras Kazimieras Sapiega (mirė 1619 m.)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
-            }
-          ]
-        },
-        {
-          "dates": "1730–1793",
-          "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
-          "name": "Aleksandras Mykolas Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/aleksandras-mykolas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1672–1734",
-          "href": "/objektai/asmenys/Aleksandras-Povilas-Sapiega-(1672-1734)",
-          "name": "Aleksandras Povilas Sapiega (1672–1734)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1624–1671",
-          "href": "/objektai/asmenys/Aleksandras-Sapiega-(1624-1671)",
-          "name": "Aleksandras Sapiega (1624–1671)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/aleksandras-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1773–1812",
-          "href": "/objektai/asmenys/Aleksandras-Sapiega-(1773-1812)",
-          "name": "Aleksandras Sapiega (1773–1812)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/sapiegos/"
-            }
-          ]
-        },
-        {
-          "dates": "XVI–XVII a.",
-          "href": "/objektai/asmenys/Alse-Sapiegaite-(Mikalojaus-dukte)",
-          "name": "Alšė Sapiegaitė (Mikalojaus duktė)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
-            }
-          ]
-        },
-        {
-          "dates": "XVI–XVII a.",
-          "href": "/objektai/asmenys/Andriejus-Sapiega-(Leono-brolis)",
-          "name": "Andriejus Sapiega (Leono brolis)",
-          "sources": [
-            {
-              "title": "Vilniaus arkivyskupija: Sapiegų kriptoje palaidoti žmonės",
-              "url": "https://vilnensis.lt/isskirtines-ekskursijos-sapiegu-kriptoje-ir-triju-parodu-uzdarymas-baznytinio-paveldo-muziejuje/"
-            }
-          ]
-        },
-        {
-          "dates": "XVI–XVII a.",
-          "href": "/objektai/asmenys/Andriejus-Sapiega-(Leono-sunus)",
-          "name": "Andriejus Sapiega (Leono sūnus)",
-          "sources": [
-            {
-              "title": "Vilniaus arkivyskupija: Sapiegų kriptoje palaidoti žmonės",
-              "url": "https://vilnensis.lt/isskirtines-ekskursijos-sapiegu-kriptoje-ir-triju-parodu-uzdarymas-baznytinio-paveldo-muziejuje/"
-            }
-          ]
-        },
-        {
-          "dates": "mirė 1621 m.",
-          "href": "/objektai/asmenys/Andrius-Sapiega-(mire-1621-m.)",
-          "name": "Andrius Sapiega (mirė 1621 m.)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/andrius-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1689–1739",
-          "href": "/objektai/asmenys/Antanas-Kazimieras-Sapiega",
-          "name": "Antanas Kazimieras Sapiega",
-          "sources": [
-            {
-              "title": "Lietuvos istorijos institutas: Antano Kazimiero Sapiegos korespondencija",
-              "url": "https://www.istorija.lt/data/public/uploads/2022/02/2020-xviii-a.-studijos-t.-6-1-jolita-sarceviciene-ieskau-jusu-mylistos-p.-18-43.pdf"
-            }
-          ]
-        },
-        {
-          "dates": "XV–XVI a.",
-          "href": "/objektai/asmenys/Bagdonas-Sapiega-(Simono-sunus)",
-          "name": "Bagdonas Sapiega (Simono sūnus)",
-          "sources": [
-            {
-              "title": "Biografijos ir giminystės šaltinis",
-              "url": "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2018~1575026033687/J.04~2018~1575026033687.pdf"
-            }
-          ]
-        },
-        {
-          "dates": "apie 1643–1707",
-          "href": "/objektai/asmenys/B.-P.-Sapiega",
-          "name": "Benediktas Povilas Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/benediktas-povilas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "XVI a.",
-          "href": "/objektai/asmenys/Bogdana-Druckyte-Sokolinskaite",
-          "name": "Bogdana Druckytė-Sokolinskaitė",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "mirė 1591 m.",
-          "href": "/objektai/asmenys/Doroteja-Firlejute",
-          "name": "Dorotėja Firlėjūtė",
-          "sources": [
-            {
-              "title": "Bažnytinio paveldo muziejus: Leono Sapiegos ir jo žmonų antkapis",
-              "url": "https://gidas.bpmuziejus.lt/products/tours/church-of-st-michael-the-archangel-and-treasury/"
-            }
-          ]
-        },
-        {
-          "dates": "XVI a.",
-          "href": "/objektai/asmenys/Elena-Alseniskaite-(Povilo-Sapiegos-zmona)",
-          "name": "Elena Alšėniškaitė (Povilo Sapiegos žmona)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
-            }
-          ]
-        },
-        {
-          "dates": "XVI–XVII a.",
-          "href": "/objektai/asmenys/Elzbieta-Radvilaite-(Leono-Sapiegos-zmona)",
-          "name": "Elžbieta Radvilaitė (Leono Sapiegos žmona)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1881–1963",
-          "href": "/objektai/asmenys/Eustachijus-Kajetonas-Sapiega-(1881-1963)",
-          "name": "Eustachijus Kajetonas Sapiega (1881–1963)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/eustachy-kajetan-sapieha/"
-            }
-          ]
-        },
-        {
-          "dates": "mirė 1626 m.",
-          "href": "/objektai/asmenys/Frydrichas-Sapiega-(mire-1626-m.)",
-          "name": "Frydrichas Sapiega (mirė 1626 m.)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
-            }
-          ]
-        },
-        {
-          "dates": "XVI–XVII a.",
-          "href": "/objektai/asmenys/Gabriele-Sapiegaite-(Mikalojaus-dukte)",
-          "name": "Gabrielė Sapiegaitė (Mikalojaus duktė)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
-            }
-          ]
-        },
-        {
-          "dates": "XVII a.",
-          "href": "/objektai/asmenys/Grizelda-Vodinskyte",
-          "name": "Grizelda Vodinskytė",
-          "sources": [
-            {
-              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
-              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
-            }
-          ]
-        },
-        {
-          "dates": "1618–1664",
-          "href": "/objektai/asmenys/Jonas-Frydrichas-Sapiega-(1618-1664)",
-          "name": "Jonas Frydrichas Sapiega (1618–1664)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1680–1751",
-          "href": "/objektai/asmenys/Jonas-Frydrichas-Sapiega-(1680-1751)",
-          "name": "Jonas Frydrichas Sapiega (1680–1751)",
-          "sources": [
-            {
-              "title": "LNB proveniencijų duomenų bazė",
-              "url": "https://proveniencijos.lnb.lt/sapiega-jonas-frydrichas/"
-            }
-          ]
-        },
-        {
-          "dates": "apie 1450–1517",
-          "href": "/objektai/asmenys/Jonas-Ivanas-Sapiega-(apie-1450-1517)",
-          "name": "Jonas Ivanas Sapiega (apie 1450–1517)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-ivanas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "mirė 1730 m.",
-          "href": "/objektai/asmenys/Jonas-Kazimieras-Sapiega-(mire-1730-m.)",
-          "name": "Jonas Kazimieras Sapiega (mirė 1730 m.)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1569–1611",
-          "href": "/objektai/asmenys/Jonas-Petras-Sapiega-(1569-1611)",
-          "name": "Jonas Petras Sapiega (1569–1611)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "XVI a.",
-          "href": "/objektai/asmenys/Jonas-Sapiega-(Leono-tevas,-Orsos-paseniunis)",
-          "name": "Jonas Sapiega (Leono tėvas, Oršos paseniūnis)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "mirė 1602 m.",
-          "href": "/objektai/asmenys/Jonas-Sapiega-(mire-1602-m.)",
-          "name": "Jonas Sapiega (mirė 1602 m.)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
-            }
-          ]
-        },
-        {
-          "dates": "1589–1635",
-          "href": "/objektai/asmenys/Jonas-Stanislovas-Sapiega-(1589-1635)",
-          "name": "Jonas Stanislovas Sapiega (1589–1635)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-stanislovas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1737–1792",
-          "href": "/objektai/asmenys/Juozapas-Sapiega-(1737-1792)",
-          "name": "Juozapas Sapiega (1737–1792)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/juozapas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1708–1754",
-          "href": "/objektai/asmenys/Juozapas-Sapiega-(Vilniaus-koadjutorius,-XVIII-a.)",
-          "name": "Juozapas Sapiega, Vilniaus koadjutorius",
-          "sources": [
-            {
-              "title": "Dalia Tarandaitė: Sapiegų portretai",
-              "url": "https://www.bernardinai.lt/2012-03-19-dalia-tarandaite-genealogia-sapieharum-arba-ka-pasakoja-portretai/"
-            }
-          ]
-        },
-        {
-          "dates": "1707–1765",
-          "href": "/objektai/asmenys/Karolina-Terese-Radvilaite-(1707-1765)",
-          "name": "Karolina Teresė Radvilaitė (1707–1765)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "XVII a.",
-          "href": "/objektai/asmenys/Karolis-Sapiega-(Jono-Stanislovo-sunus)",
-          "name": "Karolis Sapiega (Jono Stanislovo sūnus)",
-          "sources": [
-            {
-              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
-              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
-            }
-          ]
-        },
-        {
-          "dates": "apie 1642–1720",
-          "href": "/objektai/asmenys/Kazimieras-Jonas-Sapiega",
-          "name": "Kazimieras Jonas Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/kazimieras-povilas-jonas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1697–1738",
-          "href": "/objektai/asmenys/Kazimieras-Leonas-Sapiega",
-          "name": "Kazimieras Leonas Karolis Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1609–1656",
-          "href": "/objektai/asmenys/Kazimieras-Leonas-Sapiega-(1609-1656)",
-          "name": "Kazimieras Leonas Sapiega (1609–1656)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1757–1798",
-          "href": "/objektai/asmenys/Kazimieras-Nestoras-Sapiega",
-          "name": "Kazimieras Nestoras Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/kazimieras-nestoras-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "XVII–XVIII a.",
-          "href": "/objektai/asmenys/Kazimieras-Vladislovas-Sapiega",
-          "name": "Kazimieras Vladislovas Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega-1/"
-            }
-          ]
-        },
-        {
-          "dates": "XVII–XVIII a.",
-          "href": "/objektai/asmenys/Konstancija-Radvilaite-(Jono-Frydricho-Sapiegos-zmona)",
-          "name": "Konstancija Radvilaitė (Jono Frydricho Sapiegos žmona)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-frydrichas-sapiega-1/"
-            }
-          ]
-        },
-        {
-          "dates": "XVII a.",
-          "href": "/objektai/asmenys/Kristina-Hlebaviciute",
-          "name": "Kristina Hlebavičiūtė",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1607–1631",
-          "href": "/objektai/asmenys/Kristupas-Mikalojus-Sapiega-(1607-1631)",
-          "name": "Kristupas Mikalojus Sapiega (1607–1631)",
-          "sources": [
-            {
-              "title": "VU bibliotekos projektas „Virtus“",
-              "url": "https://virtus.biblioteka.vu.lt/"
-            }
-          ]
-        },
-        {
-          "dates": "1590–1637",
-          "href": "/objektai/asmenys/Kristupas-Sapiega-(1590-1637)",
-          "name": "Kristupas Sapiega (1590–1637)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
-            }
-          ]
-        },
-        {
-          "dates": "XVII a.",
-          "href": "/objektai/asmenys/Kristupas-Sapiega-(Jono-Stanislovo-sunus)",
-          "name": "Kristupas Sapiega (Jono Stanislovo sūnus)",
-          "sources": [
-            {
-              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
-              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
-            }
-          ]
-        },
-        {
-          "dates": "1557–1633",
-          "href": "/objektai/asmenys/Leonas-Sapiega",
-          "name": "Leonas Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1803–1878",
-          "href": "/objektai/asmenys/Leonas-Sapiega-(1803-1878)",
-          "name": "Leonas Sapiega (1803–1878)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/leonas-sapiega-1/"
-            }
-          ]
-        },
-        {
-          "dates": "XVII–XVIII a.",
-          "href": "/objektai/asmenys/Liudvika-Opalinskaite",
-          "name": "Liudvika Opalinskaitė",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "XVII–XVIII a.",
-          "href": "/objektai/asmenys/Marija-Kristina-de-Bethune",
-          "name": "Marija Kristina de Béthune",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/aleksandras-povilas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "apie 1545–1599",
-          "href": "/objektai/asmenys/Mikalojus-Sapiega-(apie-1545-1599)",
-          "name": "Mikalojus Sapiega (apie 1545–1599)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
-            }
-          ]
-        },
-        {
-          "dates": "apie 1581–1644",
-          "href": "/objektai/asmenys/Mikalojus-Sapiega-(apie-1581-1644)",
-          "name": "Mikalojus Sapiega (apie 1581–1644)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1711–1760",
-          "href": "/objektai/asmenys/Mykolas-Antanas-Sapiega-(LDK-pakancleris,-1711-1760)",
-          "name": "Mykolas Antanas Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mykolas-antanas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "XVII–XVIII a.",
-          "href": "/objektai/asmenys/Mykolas-Juozapas-Sapiega",
-          "name": "Mykolas Juozapas Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/sapiegos/"
-            }
-          ]
-        },
-        {
-          "dates": "1735–1766",
-          "href": "/objektai/asmenys/Mykolas-Ksaveras-Sapiega-(Anyksciu-ir-Punios-seniunas,-1735-1766)",
-          "name": "Mykolas Ksaveras Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1670–1700",
-          "href": "/objektai/asmenys/M.-P.-Sapiega",
-          "name": "Mykolas Pranciškus Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mykolas-pranciskus-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "XVI a.",
-          "href": "/objektai/asmenys/Ona-Chodkeviciute-(Jono-Petro-Sapiegos-motina)",
-          "name": "Ona Chodkevičiūtė (Jono Petro Sapiegos motina)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1728–1800",
-          "href": "/objektai/asmenys/Ona-Sapiegaite-Jablonowska",
-          "name": "Ona Paulina Sapiegaitė-Jablonowska",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/kazimieras-leonas-karolis-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "mirė 1625 m.",
-          "href": "/objektai/asmenys/Ona-Scholastika-Chodkeviciute",
-          "name": "Ona Scholastika Chodkevičiūtė",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-stanislovas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "XVI a.",
-          "href": "/objektai/asmenys/Ona-Visnioveckaite-(Mikalojaus-Sapiegos-zmona)",
-          "name": "Ona Višnioveckaitė (Mikalojaus Sapiegos žmona)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
-            }
-          ]
-        },
-        {
-          "dates": "1701–1771",
-          "href": "/objektai/asmenys/Petras-Povilas-Sapiega-(1701-1771)",
-          "name": "Petras Povilas Sapiega (1701–1771)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/petras-povilas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1609–1665",
-          "href": "/objektai/asmenys/Povilas-Sapiega",
-          "name": "Povilas Jonas Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/povilas-jonas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1657–1715",
-          "href": "/objektai/asmenys/Povilas-Pranciskus-Sapiega-(1657-1715)",
-          "name": "Povilas Pranciškus Sapiega (1657–1715)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/povilas-pranciskus-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "apie 1490–1579",
-          "href": "/objektai/asmenys/Povilas-Sapiega-(apie-1490-1579)",
-          "name": "Povilas Sapiega (apie 1490–1579)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/mikalojus-sapiega-2/"
-            }
-          ]
-        },
-        {
-          "dates": "mirė 1580 m.",
-          "href": "/objektai/asmenys/Povilas-Sapiega-(Jono-Petro-tevas)",
-          "name": "Povilas Sapiega (Jono Petro tėvas)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "1565–1635",
-          "href": "/objektai/asmenys/Povilas-Steponas-Sapiega-(1565-1635)",
-          "name": "Povilas Steponas Sapiega (1565–1635)",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/povilas-steponas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "XVII a.",
-          "href": "/objektai/asmenys/Pranciskus-Steponas-Sapiega",
-          "name": "Pranciškus Steponas Sapiega",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/jonas-kazimieras-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "XV a.",
-          "href": "/objektai/asmenys/Simonas-Sapiega-(XV-a.-rastininkas)",
-          "name": "Simonas Sapiega (XV a. raštininkas)",
-          "sources": [
-            {
-              "title": "Biografijos ir giminystės šaltinis",
-              "url": "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2018~1575026033687/J.04~2018~1575026033687.pdf"
-            }
-          ]
-        },
-        {
-          "dates": "XVIII a.",
-          "href": "/objektai/asmenys/Sofija-Skavronskaite",
-          "name": "Sofija Skavronskaitė",
-          "sources": [
-            {
-              "title": "Visuotinė lietuvių enciklopedija",
-              "url": "https://www.vle.lt/straipsnis/petras-povilas-sapiega/"
-            }
-          ]
-        },
-        {
-          "dates": "XVII a.",
-          "href": "/objektai/asmenys/Teodora-Kristina-Tarnovskyte",
-          "name": "Teodora Kristina Tarnovskytė",
-          "sources": [
-            {
-              "title": "Valdovų rūmų muziejus: Sapiegų šeimos mauzoliejus",
-              "url": "https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/"
-            }
-          ]
-        }
-      ],
-      "familyMembersScope": "Čia surinkti 68 šaltiniais identifikuoti istoriniai asmenys: giminės nariai ir jų sutuoktiniai. Registras apima XV–XX a. biografijas, tačiau nėra visų palikuonių genealoginis medis. Kai tikslios datos nepatvirtintos, nurodytas tik amžius. Kiekvienas vardas veda į atskirą puslapį.",
-      "hero": {
-        "attribution": "Wawel Royal Castle",
-        "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
-        "caption": "Leono Sapiegos pomirtinis portretas",
-        "confidence": 0.95,
-        "confidenceLevel": "high",
-        "creator": "Nežinomas dailininkas",
-        "dateDisplay": "1709 m.",
-        "displayUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
-        "height": 1000,
-        "license": "Public domain",
-        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-        "mediaId": "m-82a18d575f90537c3403b695",
-        "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
-        "originalTitle": "Leŭ Sapieha. Леў Сапега (1709).jpg",
-        "provider": "commons",
-        "providerLabel": "Wikimedia Commons",
-        "relatedObjects": [
-          {
-            "directness": "direct",
-            "itemType": "asmuo",
-            "notePath": "objektai/asmenys/Leonas Sapiega.md",
-            "relationType": "portrait_of",
-            "title": "Leonas Sapiega (kunigaikštis, XVI a.)"
-          }
-        ],
-        "reviewStatus": "accepted",
-        "reviewedAt": "2026-09-20T23:43:33.853727+03:00",
-        "rightsNote": "Wawel Royal Castle",
-        "sourceMethod": "family-editorial-review",
-        "sourceTags": [],
-        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Le%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "tags": [],
-        "thumbUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
-        "title": "Leono Sapiegos pomirtinis portretas",
-        "visualEvidence": "Pusfigūris vyro portretas su plunksna, antspaudu, buože ir lotynišku Leono vardu; pomirtinis atvaizdas pagal 1709 m. Commons datavimą.",
-        "visualReviewVersion": "family-editorial-20260920",
-        "width": 648
-      },
-      "heroMediaId": "m-82a18d575f90537c3403b695",
-      "imageUrls": [
-        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "https://upload.wikimedia.org/wikipedia/commons/5/51/Le%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statut-1588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "https://upload.wikimedia.org/wikipedia/commons/2/27/Vilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
-        "https://www.epaveldas.lt/static/lnb-bucket/C10002389685/original/0001-B3BBE7A9D8EB43C682C7320FF5DF7218.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/9/9e/Alaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903024/original/VUB01-000903024_00001.jpg",
-        "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903047/original/VUB01-000903047_00001.jpg"
-      ],
-      "noindex": false,
-      "relatedContent": [
-        {
-          "href": "/straipsniai/sapiegos-statutai-rumai-ir-laiskai",
-          "title": "Sapiegų žmonės, valdos ir giminystė · straipsnis"
-        },
-        {
-          "href": "/parodos/radvilos-gimine-valdos-ir-paveldas",
-          "title": "Radvilos: giminė, valdos ir paveldas"
-        }
-      ],
-      "relatedObject": {
-        "href": "/objektai/grupes/Sapiegos",
-        "label": "Sapiegų giminės puslapis"
-      },
-      "schemaVersion": "ltkb-exhibition/v1",
-      "sections": [
-        {
-          "claimRefs": [],
-          "items": [
-            {
-              "catalogDescriptionLt": "Nežinomo autoriaus XVIII a. Sapiegų herbo raižinys. Lapino ženklas pavaizduotas sudėtinio skydo centre; virš skydo matyti karūna, apačioje – ordinas. Skaitmeninis atvaizdas pateiktas Wikimedia Commons, pažymėtas viešosios srities kūriniu.",
-              "claimCodes": [],
-              "claimRefs": [],
-              "claims": [],
-              "creatorDisplay": "Nežinomas dailininkas",
-              "dateDisplay": "XVIII a.",
-              "descriptionLt": "Raižinio centre – strėlės pavidalo Lapino herbo ženklas su dviem skersiniais. Aplink jį sudėtas puošnesnis skydas, viršuje iškelta karūna, apačioje kabo ordinas. XVIII amžiaus atvaizdas priklauso laikui, kai šeimos kilmė buvo viešai rodoma knygose, portretuose ir rūmų puošyboje.\n\nTokio skydo negalima skaityti kaip paprasto šeimos medžio. Jo laukai ir puošmenos turi savą heraldinę reikšmę, o konkrečią giminystę reikia tikrinti dokumentais. Sapiegų vardu vadinama daug kartų ir kelios šakos. Jų žmonių puslapiai bei šaltinių teiginiai surinkti giminės registre.",
-              "evidenceNoteLt": "Raižinys nėra genealogijos schema; pavieniai laukai čia nepriskiriami konkretiems protėviams.",
-              "exhibitionItemId": "sap-herbas",
-              "externalSources": [
-                {
-                  "title": "Herbo atvaizdo kortelė",
-                  "url": "https://commons.wikimedia.org/wiki/File%3ASapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg"
-                }
-              ],
-              "featured": true,
-              "media": {
-                "attribution": "",
-                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ASapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg",
-                "caption": "Sapiegų herbo raižinys",
-                "confidence": 0.95,
-                "confidenceLevel": "high",
-                "creator": "Nežinomas dailininkas",
-                "dateDisplay": "XVIII a.",
-                "displayUrl": "/static/gimines/sapiegos/herbas-xviii-a.jpg",
-                "height": 1240,
-                "license": "Public domain",
-                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-                "mediaId": "m-4f79533af5aa20d83601a3c8",
-                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3ASapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg",
-                "originalTitle": "Sapieha, Lis. Сапега, Ліс.jpg",
-                "provider": "commons",
-                "providerLabel": "Wikimedia Commons",
-                "relatedObjects": [
-                  {
-                    "directness": "contextual",
-                    "itemType": "asmuo",
-                    "notePath": "objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md",
-                    "relationType": "associated_symbol_of",
-                    "title": "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)"
-                  }
-                ],
-                "reviewStatus": "accepted",
-                "reviewedAt": "2026-09-20T23:43:33.857432+03:00",
-                "rightsNote": "Public domain",
-                "sourceMethod": "family-editorial-review",
-                "sourceTags": [],
-                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sapieha%2C_Lis._%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0%2C_%D0%9B%D1%96%D1%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "tags": [],
-                "thumbUrl": "/static/gimines/sapiegos/herbas-xviii-a.jpg",
-                "title": "Sapiegų herbo raižinys",
-                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
-                "visualReviewVersion": "family-editorial-20260920",
-                "width": 967
-              },
-              "mediaId": "m-4f79533af5aa20d83601a3c8",
-              "objectLinks": [
-                {
-                  "href": "/objektai/grupes/Sapiegos",
-                  "title": "Sapiegų giminė"
-                },
-                {
-                  "href": "/objektai/grupes/Sapiegu-gimine",
-                  "title": "Giminės šaltinių teiginiai"
-                }
-              ],
-              "titleLt": "Šeimos ženklas"
-            },
-            {
-              "catalogDescriptionLt": "Nežinomo dailininko 1709 m. Leono Sapiegos portretas. Aliejus ant drobės, 118 × 77 cm. Vavelio karališkosios pilies rinkinys, inventoriaus numeris 9147. Rodoma viešosios srities paveikslo skaitmeninė reprodukcija.",
-              "claimCodes": [],
-              "claimRefs": [],
-              "claims": [],
-              "creatorDisplay": "Nežinomas dailininkas",
-              "dateDisplay": "1709 m.",
-              "descriptionLt": "Leonas Sapiega pavaizduotas prie stalo. Prieš jį guli plunksna, šalia – antspaudas, rankoje laikoma buožė. Dailininkas viename portrete sutelkė raštininko, kanclerio ir kariuomenės vado pareigas. Apačioje esantis įrašas įvardija vaizduojamą žmogų ir primena jo tarnybą.\n\nPaveikslas nutapytas 1709 m., o Leonas mirė 1633-iaisiais. Tai šeimos atminties dalis. Jo vardą išsaugojo ir gerokai anksčiau atsiradusi knyga – Trečiasis Lietuvos Statutas, kurio leidybą jis finansavo. Išlikę kanceliarijos dokumentai leidžia jo veiklą sekti ir už portreto rėmų.",
-              "evidenceNoteLt": "Pomirtinis portretas, sukurtas praėjus 76 metams po Leono mirties.",
-              "exhibitionItemId": "sap-leonas",
-              "externalSources": [
-                {
-                  "title": "Vavelio portreto kortelė",
-                  "url": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg"
-                },
-                {
-                  "title": "Leono Sapiegos biografija",
-                  "url": "https://www.vle.lt/straipsnis/leonas-sapiega/"
-                }
-              ],
-              "featured": true,
-              "media": {
-                "attribution": "Wawel Royal Castle",
-                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
-                "caption": "Leono Sapiegos pomirtinis portretas",
-                "confidence": 0.95,
-                "confidenceLevel": "high",
-                "creator": "Nežinomas dailininkas",
-                "dateDisplay": "1709 m.",
-                "displayUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
-                "height": 1000,
-                "license": "Public domain",
-                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-                "mediaId": "m-82a18d575f90537c3403b695",
-                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3ALe%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg",
-                "originalTitle": "Leŭ Sapieha. Леў Сапега (1709).jpg",
-                "provider": "commons",
-                "providerLabel": "Wikimedia Commons",
-                "relatedObjects": [
-                  {
-                    "directness": "direct",
-                    "itemType": "asmuo",
-                    "notePath": "objektai/asmenys/Leonas Sapiega.md",
-                    "relationType": "portrait_of",
-                    "title": "Leonas Sapiega (kunigaikštis, XVI a.)"
-                  }
-                ],
-                "reviewStatus": "accepted",
-                "reviewedAt": "2026-09-20T23:43:33.853727+03:00",
-                "rightsNote": "Wawel Royal Castle",
-                "sourceMethod": "family-editorial-review",
-                "sourceTags": [],
-                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Le%C5%AD_Sapieha._%D0%9B%D0%B5%D1%9E_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%281709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "tags": [],
-                "thumbUrl": "/static/gimines/sapiegos/leonas-1709.jpg",
-                "title": "Leono Sapiegos pomirtinis portretas",
-                "visualEvidence": "Pusfigūris vyro portretas su plunksna, antspaudu, buože ir lotynišku Leono vardu; pomirtinis atvaizdas pagal 1709 m. Commons datavimą.",
-                "visualReviewVersion": "family-editorial-20260920",
-                "width": 648
-              },
-              "mediaId": "m-82a18d575f90537c3403b695",
-              "objectLinks": [
-                {
-                  "href": "/objektai/asmenys/Leonas-Sapiega",
-                  "title": "Leonas Sapiega"
-                },
-                {
-                  "href": "/objektai/ivykiai/Didziosios-Leono-Sapiegos-pasiuntinybe-i-Maskva",
-                  "title": "Pasiuntinybė į Maskvą"
-                },
-                {
-                  "href": "/objektai/asmenys/Doroteja-Firlejute",
-                  "title": "Dorotėja Firlėjūtė"
-                },
-                {
-                  "href": "/objektai/asmenys/Elzbieta-Radvilaite-(Leono-Sapiegos-zmona)",
-                  "title": "Elžbieta Radvilaitė (Leono Sapiegos žmona)"
-                }
-              ],
-              "titleLt": "Plunksna, antspaudas ir buožė"
-            },
-            {
-              "catalogDescriptionLt": "Trečiojo Lietuvos Statuto titulinio puslapio reprodukcija. Matyti kirilikos antraštė ir Lietuvos Didžiosios Kunigaikštystės herbas. Commons įraše nurodyta Mamoničių spaustuvė ir Vilniaus universiteto biblioteka; datavimas kortelėje pateiktas kaip po 1588 m.",
-              "claimCodes": [],
-              "claimRefs": [],
-              "claims": [],
-              "creatorDisplay": "Mamoničių spaustuvė",
-              "dateDisplay": "1588 m. Statutas; atvaizdo kortelėje – po 1588 m.",
-              "descriptionLt": "Titulinio lapo viršuje išraityta raudona antraštė, viduryje – Vytis. Trečiasis Lietuvos Statutas 1588 m. išėjo Vilniuje, Mamoničių spaustuvėje. Teisynas buvo išspausdintas rusėnų kalba kirilika. Leono Sapiegos finansinė parama padėjo jam pasiekti skaitytojus.\n\nŠios knygos istorija nesibaigia vienu leidimu ar vienu žmogumi. Statutas rėmėsi ankstesne Lietuvos teise, buvo perleidžiamas ir naudojamas vėlesnių kartų. Todėl šalia Sapiegos vardo lieka spaustuvininkai, teisės rengėjai ir daugybė žmonių, kurie šiuo tekstu rėmėsi teismuose. Išlikęs titulinis lapas rodo, kaip teisynas prisistatė savo skaitytojui.",
-              "evidenceNoteLt": "Rinkmenos aprašas sieja lapą su 1588 m. Statutu, bet datą pateikia „po 1588 m.“; konkretaus egzemplioriaus leidimas papildomai netikslinamas.",
-              "exhibitionItemId": "sap-statutas",
-              "externalSources": [
-                {
-                  "title": "Titulinio lapo kortelė",
-                  "url": "https://commons.wikimedia.org/wiki/File%3AStatut-1588.jpg"
-                },
-                {
-                  "title": "Vrublevskių biblioteka: Mamoničių spaustuvė",
-                  "url": "https://sena.mab.lt/lt/archyvas/1375/1147"
-                }
-              ],
-              "featured": true,
-              "media": {
-                "attribution": "Vilnius University Library Цітоў А. Геральдыка Беларусі. — Менск: МФЦП, 2010. — 144 с.: іл. ISBN 978-985-454-500-4 . — С. 106.",
-                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AStatut-1588.jpg",
-                "caption": "Trečiojo Lietuvos Statuto titulinis lapas",
-                "confidence": 0.95,
-                "confidenceLevel": "high",
-                "creator": "Mamoničių spaustuvė",
-                "dateDisplay": "1588 m. Statutas; atvaizdo kortelėje – po 1588 m.",
-                "displayUrl": "/static/gimines/sapiegos/statutas-1588.jpg",
-                "height": 1265,
-                "license": "Public domain",
-                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-                "mediaId": "m-a4227fe400f93004ec9fa223",
-                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AStatut-1588.jpg",
-                "originalTitle": "Statut-1588.jpg",
-                "provider": "commons",
-                "providerLabel": "Wikimedia Commons",
-                "relatedObjects": [
-                  {
-                    "directness": "direct",
-                    "itemType": "saltinis",
-                    "notePath": "objektai/saltiniai/Trečiasis Lietuvos Statutas (1588 m.).md",
-                    "relationType": "depicts",
-                    "title": "Trečiasis Lietuvos Statutas (1588 m.)"
-                  }
-                ],
-                "reviewStatus": "accepted",
-                "reviewedAt": "2026-09-20T23:43:33.855408+03:00",
-                "rightsNote": "Vilnius University Library Цітоў А. Геральдыка Беларусі. — Менск: МФЦП, 2010. — 144 с.: іл. ISBN 978-985-454-500-4 . — С. 106.",
-                "sourceMethod": "family-editorial-review",
-                "sourceTags": [],
-                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Statut-1588.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "tags": [],
-                "thumbUrl": "/static/gimines/sapiegos/statutas-1588.jpg",
-                "title": "Trečiojo Lietuvos Statuto titulinis lapas",
-                "visualEvidence": "Titulinis Statuto puslapis kirilika, raudona antraštė ir Vytis; atitinka Commons kortelę.",
-                "visualReviewVersion": "family-editorial-20260920",
-                "width": 777
-              },
-              "mediaId": "m-a4227fe400f93004ec9fa223",
-              "objectLinks": [
-                {
-                  "href": "/objektai/saltiniai/Treciasis-Lietuvos-Statutas-(1588-m.)",
-                  "title": "Trečiasis Lietuvos Statutas"
-                },
-                {
-                  "href": "/objektai/asmenys/Leonas-Sapiega",
-                  "title": "Leonas Sapiega"
-                }
-              ],
-              "titleLt": "Knyga, kuri liko po kanclerio"
-            }
-          ],
-          "lead": "Herbas skelbė šeimos vardą. Leono portrete pareigas primena trys daiktai: plunksna, antspaudas ir buožė.",
-          "navMediaId": "m-4f79533af5aa20d83601a3c8",
-          "sectionId": "sap-vardas-ir-tarnyba",
-          "slug": "vardas-ir-tarnyba",
-          "title": "Vardas ir tarnyba"
-        },
-        {
-          "claimRefs": [],
-          "items": [
-            {
-              "catalogDescriptionLt": "Marcelijaus Januševičiaus Sapiegų rūmų Antakalnyje piešinys, datuojamas 1830–1840 m. Pavaizduotas pagrindinis fasadas su frontonu ir bokšteliais. Viešosios srities atvaizdas pateiktas Wikimedia Commons; šiame puslapyje rodomas sumažintas jo variantas.",
-              "claimCodes": [
-                "t-01798"
-              ],
-              "claimRefs": [
-                {
-                  "citationId": "c-02036",
-                  "claimId": "t-01798",
-                  "label": "1696 m. taikos sąlygos",
-                  "role": "contextual"
-                }
-              ],
-              "claims": [
-                {
-                  "code": "t-01798",
-                  "sourceTitle": "A. Šapoka (red.), Lietuvos istorija (1936 m.)",
-                  "text": "1696 m. gale pasirašyta taika įpareigojo vyskupą atšaukti ekskomuniką, o hetmoną išvesti kariuomenę iš bažnytinių dvarų.",
-                  "url": "/objektai/ivykiai/Sapieg%C5%B3-ir-vyskupo-B%C5%BEostausko-taikos-pasira%C5%A1ymas-%281696-m.-gale%29#claim-t-01798"
-                }
-              ],
-              "creatorDisplay": "Marcelijus Januševičius",
-              "dateDisplay": "1830–1840 m.",
-              "descriptionLt": "Marcelijus Januševičius nupiešė Antakalnio rūmus su dviem kampiniais bokšteliais ir puošniu frontonu. Tuo metu pastate jau veikė karo ligoninė. Piešinys datuojamas 1830–1840 m., taigi jame dar matyti dalys, pakeistos per kitą dešimtmetį vykusią rekonstrukciją.\n\nRūmus XVII a. pabaigoje užsakė Kazimieras Jonas Sapiega. Jo konfliktai pasiekė ir rezidenciją: po pralaimėjimo prie Valkininkų 1700 m. rūmai buvo nusiaubti. Iki tol etmonas buvo susipykęs su Vilniaus vyskupu dėl kariuomenės laikymo bažnytinėse valdose. Žemiau pateikta nuoroda veda į šaltinyje aprašytą 1696 m. susitaikymą.",
-              "evidenceNoteLt": "XIX a. pastato vaizdas, ne XVII a. statybos ar Valkininkų įvykių iliustracija.",
-              "exhibitionItemId": "sap-rumai",
-              "externalSources": [
-                {
-                  "title": "Sapiegų rūmų istorija",
-                  "url": "https://sapiegurumai.lt/istorija/"
-                },
-                {
-                  "title": "Valdovų rūmų muziejus apie rezidenciją",
-                  "url": "https://www.valdovurumai.lt/lt/renginiai/i/2963/sapiegu-rumai-antakalnyje/"
-                }
-              ],
-              "featured": true,
-              "media": {
-                "attribution": "",
-                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
-                "caption": "Sapiegų rūmai Antakalnyje",
-                "confidence": 0.95,
-                "confidenceLevel": "high",
-                "creator": "Marcelijus Januševičius",
-                "dateDisplay": "1830–1840 m.",
-                "displayUrl": "/static/gimines/sapiegos/antakalnio-rumai-1830-1840.jpg",
-                "height": 2913,
-                "license": "Public domain",
-                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-                "mediaId": "m-ec65801b243614ad8c254d8a",
-                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AVilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
-                "originalTitle": "Vilnia, Antokal, Sapieha. Вільня, Антокаль, Сапега (M. Januševič, 1830-40).jpg",
-                "provider": "commons",
-                "providerLabel": "Wikimedia Commons",
-                "relatedObjects": [
-                  {
-                    "directness": "contextual",
-                    "itemType": "vieta",
-                    "notePath": "objektai/vietos/Antakalnis.md",
-                    "relationType": "depicts",
-                    "title": "Antakalnis"
-                  }
-                ],
-                "reviewStatus": "accepted",
-                "reviewedAt": "2026-09-20T23:43:33.855435+03:00",
-                "rightsNote": "Public domain",
-                "sourceMethod": "family-editorial-review",
-                "sourceTags": [],
-                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vilnia%2C_Antokal%2C_Sapieha._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%90%D0%BD%D1%82%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%2C_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28M._Janu%C5%A1evi%C4%8D%2C_1830-40%29.jpg",
-                "tags": [],
-                "thumbUrl": "/static/gimines/sapiegos/antakalnio-rumai-1830-1840.jpg",
-                "title": "Sapiegų rūmai Antakalnyje",
-                "visualEvidence": "Priekinis rūmų fasadas su dviem kampiniais bokšteliais, frontonu ir autoriaus parašu; pagal kortelę Antakalnio Sapiegų rūmai.",
-                "visualReviewVersion": "family-editorial-20260920",
-                "width": 4000
-              },
-              "mediaId": "m-ec65801b243614ad8c254d8a",
-              "objectLinks": [
-                {
-                  "href": "/objektai/asmenys/Kazimieras-Jonas-Sapiega",
-                  "title": "Kazimieras Jonas Sapiega"
-                },
-                {
-                  "href": "/objektai/vietos/Antakalnis",
-                  "title": "Antakalnis"
-                },
-                {
-                  "href": "/objektai/ivykiai/Valkininku-konfederacija-ir-Sapiegu-pralaimejimas-(1700-m.)",
-                  "title": "1700 m. pralaimėjimas prie Valkininkų"
-                }
-              ],
-              "titleLt": "Rūmai prieš didįjį perstatymą"
-            },
-            {
-              "catalogDescriptionLt": "Upytės pavieto teismo vaznio pranešimo pirmasis lapas apie Švobiškio dvaro perėmimą ir perdavimą Kazimiero Sapiegos žinion. Katalogo data – 1695 m. liepos 25 d. Skaitmeninta rankraščio kopija pateikta ePaveldo portale.",
-              "claimCodes": [],
-              "claimRefs": [],
-              "claims": [],
-              "creatorDisplay": "Teismo pareigūno dokumentas",
-              "dateDisplay": "1695 m. liepos 25 d.",
-              "descriptionLt": "1695 m. liepos 25 d. dokumente užrašytas Švobiškio dvaro perėmimas. Katalogo apraše sakoma, kad Upytės pavieto teismo vaznys pranešė apie dvaro perdavimą iš Puzinų Kazimiero Sapiegos žinion. Tokie raštai fiksavo konkrečią vietą, žmones ir teisinį veiksmą.\n\nŠeimos valdų istorija susideda ir iš tokių lapų. Rūmai ar miestelis žemėlapyje gali atrodyti kaip pastovus giminės turtas, bet nuosavybė būdavo ginčijama ir perleidžiama. Vien šio pranešimo nepakanka visai Švobiškio bylai atkurti. Jis liudija vieną datuotą jos epizodą, kurį galima toliau tikrinti pagal originalų dokumentą.",
-              "evidenceNoteLt": "Turinys apibendrintas pagal katalogą; dokumento antraštėje pateiktas pareigybės įvardijimas čia netaisomas ir nekartojamas kaip patikrintas biografijos faktas.",
-              "exhibitionItemId": "sap-svobiskis",
-              "externalSources": [
-                {
-                  "title": "ePaveldas: Švobiškio dvaro pranešimas",
-                  "url": "https://www.epaveldas.lt/preview?id=C10002389685"
-                }
-              ],
-              "featured": true,
-              "media": {
-                "attribution": "",
-                "canonicalUrl": "https://www.epaveldas.lt/preview?id=C10002389685",
-                "caption": "Pranešimas apie Švobiškio dvaro perdavimą",
-                "confidence": 0.95,
-                "confidenceLevel": "high",
-                "creator": "Teismo pareigūno dokumentas",
-                "dateDisplay": "1695 m. liepos 25 d.",
-                "displayUrl": "/static/gimines/sapiegos/svobiskis-1695.jpg",
-                "height": null,
-                "license": "PD",
-                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-                "mediaId": "m-19a174c29661a7d41d96bc5d",
-                "metadataEvidence": "https://www.epaveldas.lt/preview?id=C10002389685",
-                "originalTitle": "[Upytės pav. teismų vaznio pranešimas apie Švobiškio dvaro perėmimą iš neteisėto Puzinų valdymo ir perdavimą Vilniaus vaivados, LDK lauko etmono Kazimiero Sapiegos žinion]",
-                "provider": "epaveldas",
-                "providerLabel": "Lietuvos nacionalinė Martyno Mažvydo biblioteka",
-                "relatedObjects": [
-                  {
-                    "directness": "contextual",
-                    "itemType": "grupe",
-                    "notePath": "objektai/grupes/LDK didikai.md",
-                    "relationType": "event_documentation_of",
-                    "title": "LDK didikai"
-                  }
-                ],
-                "reviewStatus": "accepted",
-                "reviewedAt": "2026-09-20T23:43:33.860835+03:00",
-                "rightsNote": "PD",
-                "sourceMethod": "family-editorial-review",
-                "sourceTags": [],
-                "sourceUrl": "https://www.epaveldas.lt/static/lnb-bucket/C10002389685/original/0001-B3BBE7A9D8EB43C682C7320FF5DF7218.jpg",
-                "tags": [],
-                "thumbUrl": "/static/gimines/sapiegos/svobiskis-1695.jpg",
-                "title": "Pranešimas apie Švobiškio dvaro perdavimą",
-                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
-                "visualReviewVersion": "family-editorial-20260920",
-                "width": null
-              },
-              "mediaId": "m-19a174c29661a7d41d96bc5d",
-              "objectLinks": [
-                {
-                  "href": "/objektai/grupes/Sapiegu-gimine",
-                  "title": "Giminės dokumentai"
-                }
-              ],
-              "titleLt": "Kaip dvaras perduodamas į kitas rankas"
-            }
-          ],
-          "lead": "Antakalnyje kilo puošni rezidencija, o Švobiškyje teismo pareigūnas fiksavo dvaro perdavimą. Abu pėdsakai priklauso tai pačiai žemvaldžių istorijai.",
-          "navMediaId": "m-ec65801b243614ad8c254d8a",
-          "sectionId": "sap-rumai-ir-valdos",
-          "slug": "rumai-ir-valdos",
-          "title": "Rūmai ir ginčijamos valdos"
-        },
-        {
-          "claimRefs": [],
-          "items": [
-            {
-              "catalogDescriptionLt": "Johanno Baptisto Lampio vyresniojo Aleksandro Mykolo Sapiegos portretas, apie 1790 m. Pavaizduotas didikas su kailiu apsiūtu drabužiu ir apdovanojimu. Viešosios srities paveikslo reprodukcija pateikta Wikimedia Commons, išsaugant originalaus įrašo nuorodą.",
-              "claimCodes": [],
-              "claimRefs": [],
-              "claims": [],
-              "creatorDisplay": "Johann Baptist von Lampi the Elder",
-              "dateDisplay": "Apie 1790 m.",
-              "descriptionLt": "Apie 1790 m. Johannas Baptistas Lampis nutapė Aleksandrą Mykolą Sapiegą su kailiu apsiūtu drabužiu ir ordinu. Tuomet didikas jau buvo LDK kancleris. Anksčiau jis ėjo Polocko vaivados ir lauko etmono pareigas.\n\nRužanuose Aleksandras Mykolas steigė gelumbės audyklas ir fajanso dirbtuves, išlaikė teatrą; spektakliai buvo rengiami ir Derečine bei jo Varšuvos rūmuose. Jo biografijoje valstybės tarnyba, dvaro ūkis ir scena užėmė vietą greta viena kitos. Toliau eksponuojamas laiškas užfiksuoja ankstesnį momentą – kai Aleksandro vardas dar buvo minimas tarp kandidatų į kanclerio vietą.",
-              "evidenceNoteLt": "Portretas nutapytas jau po 1775 m. laiškuose aptariamo paskyrimo.",
-              "exhibitionItemId": "sap-aleksandras",
-              "externalSources": [
-                {
-                  "title": "Aleksandro Mykolo biografija",
-                  "url": "https://www.vle.lt/straipsnis/aleksandras-mykolas-sapiega/"
-                },
-                {
-                  "title": "Portreto kortelė",
-                  "url": "https://commons.wikimedia.org/wiki/File%3AAlaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg"
-                }
-              ],
-              "featured": true,
-              "media": {
-                "attribution": "",
-                "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AAlaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg",
-                "caption": "Aleksandro Mykolo Sapiegos portretas",
-                "confidence": 0.95,
-                "confidenceLevel": "high",
-                "creator": "Johann Baptist von Lampi the Elder",
-                "dateDisplay": "Apie 1790 m.",
-                "displayUrl": "/static/gimines/sapiegos/aleksandras-mykolas-apie-1790.jpg",
-                "height": 945,
-                "license": "Public domain",
-                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-                "mediaId": "m-6c312efae92df2bded20d4e4",
-                "metadataEvidence": "https://commons.wikimedia.org/wiki/File%3AAlaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg",
-                "originalTitle": "Alaksandar Michał Sapieha. Аляксандар Міхал Сапега (J. Lampi, 1790).jpg",
-                "provider": "commons",
-                "providerLabel": "Wikimedia Commons",
-                "relatedObjects": [
-                  {
-                    "directness": "direct",
-                    "itemType": "asmuo",
-                    "notePath": "objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md",
-                    "relationType": "portrait_of",
-                    "title": "Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)"
-                  }
-                ],
-                "reviewStatus": "accepted",
-                "reviewedAt": "2026-09-20T23:43:33.858600+03:00",
-                "rightsNote": "Public domain",
-                "sourceMethod": "family-editorial-review",
-                "sourceTags": [],
-                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Alaksandar_Micha%C5%82_Sapieha._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D1%96%D1%85%D0%B0%D0%BB_%D0%A1%D0%B0%D0%BF%D0%B5%D0%B3%D0%B0_%28J._Lampi%2C_1790%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-                "tags": [],
-                "thumbUrl": "/static/gimines/sapiegos/aleksandras-mykolas-apie-1790.jpg",
-                "title": "Aleksandro Mykolo Sapiegos portretas",
-                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
-                "visualReviewVersion": "family-editorial-20260920",
-                "width": 798
-              },
-              "mediaId": "m-6c312efae92df2bded20d4e4",
-              "objectLinks": [
-                {
-                  "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
-                  "title": "Aleksandras Mykolas Sapiega"
-                },
-                {
-                  "href": "/objektai/asmenys/Mykolas-Antanas-Sapiega-(LDK-pakancleris,-1711-1760)",
-                  "title": "Jo dėdė Mykolas Antanas"
-                }
-              ],
-              "titleLt": "Kancleris, kuris išlaikė teatrus"
-            },
-            {
-              "catalogDescriptionLt": "Jano Ševaljė 1775 m. rugpjūčio 16 d. laiško iš Varšuvos pirmasis lapas. Kataloge aprašytos žinios apie laisvą LDK kanclerio vietą, laidotuves ir laukiamą siuntą. Dokumentą pateikia Vilniaus universiteto biblioteka per ePaveldą.",
-              "claimCodes": [],
-              "claimRefs": [],
-              "claims": [],
-              "creatorDisplay": "Ševaljė, Janas, 1732-1780, aut.",
-              "dateDisplay": "1775 m. rugpjūčio 16 d.",
-              "descriptionLt": "1775 m. rugpjūčio 16 d. Janas Ševaljė iš Varšuvos rašė apie mirusio kanclerio Mykolo Fryderiko Čartoryskio įpėdinį. Svarstytos dvi pavardės – Chreptavičius ir Aleksandras Mykolas Sapiega. Laiško pradžioje jaučiamas naujienų laukimas: paskyrimas dar nežinomas, bet apie jį kalbama.\n\nAntspaudas čia reiškė valstybės pareigas. Ševaljė greta politinių spėlionių aptarė laidotuves ir laukiamą knygų bei astronominių instrumentų siuntą. Laiškas išsaugojo vienos dienos žinias, kai būsimas įvykis dar nebuvo tapęs trumpu sakiniu biografijoje. Kancleriu tais metais tapo Sapiega.",
-              "evidenceNoteLt": "Laiške užrašytos to meto spėlionės; galutinis paskyrimas patikrinamas atskirai pagal biografiją.",
-              "exhibitionItemId": "sap-antspaudas",
-              "externalSources": [
-                {
-                  "title": "VU biblioteka: 1775 m. rugpjūčio 16 d. laiškas",
-                  "url": "https://www.epaveldas.lt/preview?id=VUB01-000903024"
-                },
-                {
-                  "title": "Paskyrimas kancleriu",
-                  "url": "https://www.vle.lt/straipsnis/aleksandras-mykolas-sapiega/"
-                }
-              ],
-              "featured": true,
-              "media": {
-                "attribution": "",
-                "canonicalUrl": "https://www.epaveldas.lt/preview?id=VUB01-000903024",
-                "caption": "Laiškas apie laisvą kanclerio vietą",
-                "confidence": 0.95,
-                "confidenceLevel": "high",
-                "creator": "Ševaljė, Janas, 1732-1780, aut.",
-                "dateDisplay": "1775 m. rugpjūčio 16 d.",
-                "displayUrl": "/static/gimines/sapiegos/laiskas-1775-08-16.jpg",
-                "height": null,
-                "license": "PD",
-                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-                "mediaId": "m-2db28d7dd431920b8ca858fe",
-                "metadataEvidence": "https://www.epaveldas.lt/preview?id=VUB01-000903024",
-                "originalTitle": "„O Niczym tu więcey nie mowią, jako o tym komu się dostanie pieczęć wakująca...“",
-                "provider": "epaveldas",
-                "providerLabel": "Vilniaus universiteto biblioteka",
-                "relatedObjects": [
-                  {
-                    "directness": "contextual",
-                    "itemType": "grupe",
-                    "notePath": "objektai/grupes/Lietuvos Didžioji Kunigaikštija.md",
-                    "relationType": "event_documentation_of",
-                    "title": "Lietuvos Didžioji Kunigaikštija"
-                  },
-                  {
-                    "directness": "contextual",
-                    "itemType": "grupe",
-                    "notePath": "objektai/grupes/LDK didikai.md",
-                    "relationType": "event_documentation_of",
-                    "title": "LDK didikai"
-                  },
-                  {
-                    "directness": "contextual",
-                    "itemType": "vieta",
-                    "notePath": "objektai/vietos/Lietuvos Didžioji Kunigaikštystė.md",
-                    "relationType": "event_documentation_of",
-                    "title": "Lietuvos Didžioji Kunigaikštystė"
-                  }
-                ],
-                "reviewStatus": "accepted",
-                "reviewedAt": "2026-09-20T23:43:33.860399+03:00",
-                "rightsNote": "PD",
-                "sourceMethod": "family-editorial-review",
-                "sourceTags": [],
-                "sourceUrl": "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903024/original/VUB01-000903024_00001.jpg",
-                "tags": [],
-                "thumbUrl": "/static/gimines/sapiegos/laiskas-1775-08-16.jpg",
-                "title": "Laiškas apie laisvą kanclerio vietą",
-                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
-                "visualReviewVersion": "family-editorial-20260920",
-                "width": null
-              },
-              "mediaId": "m-2db28d7dd431920b8ca858fe",
-              "objectLinks": [
-                {
-                  "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
-                  "title": "Aleksandras Mykolas Sapiega"
-                }
-              ],
-              "titleLt": "Kam atiteks antspaudas?"
-            },
-            {
-              "catalogDescriptionLt": "Jano Ševaljė 1775 m. rugpjūčio 21 d. laiško iš Varšuvos pirmasis lapas. Vilniaus universiteto bibliotekos kataloge minimos gautos knygos ir astronominiai instrumentai, siunčiami leidiniai bei politinės naujienos. Skaitmeninis vaizdas pateiktas ePavelde.",
-              "claimCodes": [],
-              "claimRefs": [],
-              "claims": [],
-              "creatorDisplay": "Ševaljė, Janas, 1732-1780, aut.",
-              "dateDisplay": "1775 m. rugpjūčio 21 d.",
-              "descriptionLt": "Po penkių dienų Ševaljė pranešė, kad knygos ir astronominiai prietaisai gauti. Laiške minimi jų gavėjai, į Vilnių siunčiami leidiniai, laukiami žmonės. Tarp šių reikalų vėl pasirodo Aleksandro Mykolo Sapiegos vardas ir politinės naujienos.\n\nKnygų kelionės jungė miestus ir šeimas. Gerokai anksčiau kita Sapiegų kolekcija – Leono ir jo sūnų biblioteka – iš Ružanų pateko į Vilniaus universitetą. Šis XVIII a. laiškas jai nepriklauso ir nėra jos perdavimo dokumentas. Jis rodo vėlesnį susirašinėjimo pasaulį, kuriame knygos, moksliniai instrumentai ir žinios keliaudavo tais pačiais pažinčių ryšiais.",
-              "evidenceNoteLt": "Šis laiškas nėra XVII a. Bibliotheca Sapiehana perdavimo dokumentas.",
-              "exhibitionItemId": "sap-knygos",
-              "externalSources": [
-                {
-                  "title": "VU biblioteka: 1775 m. rugpjūčio 21 d. laiškas",
-                  "url": "https://www.epaveldas.lt/preview?id=VUB01-000903047"
-                },
-                {
-                  "title": "Sapiegų bibliotekos istorija",
-                  "url": "https://www.vle.lt/straipsnis/sapiegu-biblioteka/"
-                }
-              ],
-              "featured": true,
-              "media": {
-                "attribution": "",
-                "canonicalUrl": "https://www.epaveldas.lt/preview?id=VUB01-000903047",
-                "caption": "Laiškas apie gautas knygas ir instrumentus",
-                "confidence": 0.95,
-                "confidenceLevel": "high",
-                "creator": "Ševaljė, Janas, 1732-1780, aut.",
-                "dateDisplay": "1775 m. rugpjūčio 21 d.",
-                "displayUrl": "/static/gimines/sapiegos/laiskas-1775-08-21.jpg",
-                "height": null,
-                "license": "PD",
-                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-                "mediaId": "m-55bacbf82369d854b039d484",
-                "metadataEvidence": "https://www.epaveldas.lt/preview?id=VUB01-000903047",
-                "originalTitle": "„Pak z xięgami dla Grella i pudełko z szerszerami doszły mnie d. 17...“",
-                "provider": "epaveldas",
-                "providerLabel": "Vilniaus universiteto biblioteka",
-                "relatedObjects": [
-                  {
-                    "directness": "contextual",
-                    "itemType": "asmuo",
-                    "notePath": "objektai/asmenys/Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.).md",
-                    "relationType": "manuscript_depiction_of",
-                    "title": "Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)"
-                  },
-                  {
-                    "directness": "contextual",
-                    "itemType": "vieta",
-                    "notePath": "objektai/vietos/Lietuvos Didžioji Kunigaikštystė.md",
-                    "relationType": "manuscript_depiction_of",
-                    "title": "Lietuvos Didžioji Kunigaikštystė"
-                  }
-                ],
-                "reviewStatus": "accepted",
-                "reviewedAt": "2026-09-20T23:43:33.860796+03:00",
-                "rightsNote": "PD",
-                "sourceMethod": "family-editorial-review",
-                "sourceTags": [],
-                "sourceUrl": "https://www.epaveldas.lt/static/vub-bucket/VUB01-000903047/original/VUB01-000903047_00001.jpg",
-                "tags": [],
-                "thumbUrl": "/static/gimines/sapiegos/laiskas-1775-08-21.jpg",
-                "title": "Laiškas apie gautas knygas ir instrumentus",
-                "visualEvidence": "Atvaizdas apžiūrėtas; tapatybė ir data sutikrintos su turimu priimtu katalogo įrašu.",
-                "visualReviewVersion": "family-editorial-20260920",
-                "width": null
-              },
-              "mediaId": "m-55bacbf82369d854b039d484",
-              "objectLinks": [
-                {
-                  "href": "/objektai/asmenys/Aleksandras-Mykolas-Sapiega-(LDK-stovyklininkas,-Polocko-vaivada,-XVIII-a.)",
-                  "title": "Aleksandras Mykolas Sapiega"
-                },
-                {
-                  "href": "/objektai/asmenys/Ona-Sapiegaite-Jablonowska",
-                  "title": "Ona Sapiegaitė-Jablonowska"
-                },
-                {
-                  "href": "/objektai/asmenys/Kazimieras-Leonas-Sapiega-(1609-1656)",
-                  "title": "Kazimieras Leonas Sapiega (1609–1656)"
-                }
-              ],
-              "titleLt": "Siuntinys jau atėjo"
-            }
-          ],
-          "lead": "Aleksandro Mykolo portretas rodo aukštas pareigas pasiekusį žmogų. Laiškai išsaugojo laiką, kai apie tas pareigas dar buvo spėliojama.",
-          "navMediaId": "m-6c312efae92df2bded20d4e4",
-          "sectionId": "sap-kancleris-ir-laiskai",
-          "slug": "kancleris-ir-laiskai",
-          "title": "Kancleris ir jo amžininkų laiškai"
-        }
-      ],
-      "slug": "parodos/sapiegos-statutai-rumai-ir-laiskai",
-      "status": "published",
-      "subtitle": "Nuo Leono plunksnos iki Varšuvoje laukiamo antspaudo",
-      "theme": "historical",
-      "title": "Sapiegos: Statutas, rūmai ir šeimos laiškai",
-      "updatedAt": "2026-09-21T00:50:10.917930+03:00"
+      "updatedAt": "2026-09-21T23:51:20.592026+03:00"
     }
   ],
   "schemaVersion": "ltkb-exhibition/v1"

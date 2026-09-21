@@ -18,7 +18,7 @@ tags:
 
 <p class="history-article-kicker">Ilgasis skaitymas · Sapiegų giminės istorija</p>
 
-<p class="history-article-lead">Sapiegų vardas liko teisyno antraštėse, rūmų sienose ir privačiuose laiškuose. Šiame pasakojime aštuoni parodos atvaizdai tampa kelrodžiais istorijai apie valstybės tarnybą, knygas, valdų konfliktus ir šeimos kasdienybę.</p>
+<p class="history-article-lead">Sapiegų vardas liko teisyno antraštėse, rūmų sienose ir privačiuose laiškuose. Parodos atvaizdai tampa kelrodžiais istorijai apie valstybės tarnybą, knygas, valdų konfliktus, giminės atmintį ir šeimos kasdienybę.</p>
 
 <figure class="history-article-figure history-article-figure--hero">
   <img src="/static/gimines/sapiegos/leonas-1709.jpg" alt="Leono Sapiegos pomirtinis portretas, 1709 m." loading="eager" />
@@ -27,13 +27,24 @@ tags:
 
 1775 m. rugpjūtį Janas Ševaljė laiške iš Varšuvos pranešė, kad visi kalba apie laisvą kanclerio vietą. Mirus Mykolui Fryderikui Čartoryskiui, svarstyta, kam atiteks valstybės antspaudas. Tarp kandidatų minėtas Aleksandras Mykolas Sapiega. Tame pačiame laiške tilpo ir paprastas rūpestis: iš Vilniaus dar neatėjo knygų bei astronominių instrumentų siunta. Politika ir kasdieniai reikalai sugulė į vieną lapą. [1775 m. rugpjūčio 16 d. laiškas, VU biblioteka](https://www.epaveldas.lt/preview?id=VUB01-000903024).
 
-Sapiegų istorijoje tokių gretimybių daug. Statuto leidyba ir bylos dėl dvarų, didiko portretas ir sąskaitos, rūmų teatras ir kariuomenės išlaikymas. [Parodoje](/parodos/sapiegos-statutai-rumai-ir-laiskai) sudėti aštuoni atvaizdai bei dokumentai, o šiame straipsnyje – juos siejantys žmonės ir įvykiai.
+Sapiegų istorijoje tokių gretimybių daug. Statuto leidyba ir bylos dėl dvarų, didiko portretas ir sąskaitos, rūmų teatras ir kariuomenės išlaikymas. [Parodoje](/parodos/sapiegos-statutai-rumai-ir-laiskai) sudėti portretai, dokumentai ir rezidencijų vaizdai, o šiame straipsnyje – juos siejantys žmonės ir įvykiai.
 
 ## Iš kur kilo Sapiegos
 
 [[objektai/grupes/Sapiegos|Sapiegų]] pradžia siejama su Smolensko žemės stačiatikių bajorais. XV a. valdovo raštininkas [[objektai/asmenys/Simonas Sapiega (XV a. raštininkas)|Semionas, lietuviškuose tekstuose vadinamas ir Simonu]], laikomas giminės pradininku. Jo sūnų Jono ir Bagdono palikuonys sudarė dvi pagrindines – Kodenio ir Čerėjos – šakas. Vėliau šeima skelbėsi kilusi iš Gedimino sūnaus Narimanto. Tai pačių didikų puoselėta kilmės versija, kurią reikia skirti nuo dokumentais pagrįstos genealogijos. [Giminės apžvalga](https://www.vle.lt/straipsnis/sapiegos/).
 
+| Šaka | Ankstyvas ryšys | Keli atstovai šiame registre |
+|---|---|---|
+| Kodenio | Siejama su Simono sūnaus Jono palikuonimis ir Kodeniu | [[objektai/asmenys/Jonas Ivanas Sapiega (apie 1450–1517)|Jonas Ivanas]], [[objektai/asmenys/Povilas Steponas Sapiega (1565–1635)|Povilas Steponas]], [[objektai/asmenys/Jonas Frydrichas Sapiega (1680–1751)|Jonas Frydrichas]], [[objektai/asmenys/Kazimieras Nestoras Sapiega|Kazimieras Nestoras]] |
+| Čerėjos | Siejama su Simono sūnaus Bagdono palikuonimis ir Čerėja | [[objektai/asmenys/Leonas Sapiega|Leonas]], [[objektai/asmenys/Jonas Stanislovas Sapiega (1589–1635)|Jonas Stanislovas]], [[objektai/asmenys/Kazimieras Leonas Sapiega (1609–1656)|Kazimieras Leonas]], [[objektai/asmenys/Kazimieras Jonas Sapiega|Kazimieras Jonas]] |
+
+Lentelė parodo pagrindines linijas, tačiau nėra visų palikuonių schema. Atskirose kartose šakų pavadinimai, valdos ir bendravardžiai persidengia, todėl konkreti giminystė tikrinama asmens puslapyje ir ten nurodytame šaltinyje. [VLE: Sapiegos](https://www.vle.lt/straipsnis/sapiegos/).
+
 Sapiegų herbas vadinamas Lapinu, lenkiškai *Lis*. Parodoje rodomame XVIII a. raižinyje jo ženklas įkomponuotas į puošnų sudėtinį skydą. Tokie atvaizdai būdavo šeimos viešojo prisistatymo dalis: jie pasakodavo apie kilmę, titulą ir ryšius. [Herbo atvaizdo kortelė](https://commons.wikimedia.org/wiki/File:Sapieha,_Lis._Сапега,_Ліс.jpg).
+
+Apie 1709 m. [[objektai/asmenys/Jonas Frydrichas Sapiega (1680–1751)|Jonas Frydrichas Sapiega]] Kodenio Šv. Onos bažnyčioje įrengė 75 vyrų „protėvių“ portretų galeriją. Lietuvos nacionalinės bibliotekos proveniencijų duomenų bazė aiškiai skiria ankstyvuosius, įsivaizduotus atvaizdus nuo vėlesnių portretų, kopijuotų pagal žinomus paveikslus ir graviūras. Todėl galerija patikimai liudija XVIII a. giminės savivaizdį, bet neįrodo legendinės kilmės iš Narimanto. [LNB: Jonas Frydrichas Sapiega](https://proveniencijos.lnb.lt/sapiega-jonas-frydrichas/).
+
+Jonas Frydrichas taip pat kaupė knygas. 1744 m. jo bibliotekos kataloge buvo apie 3 500 įrašų, o knygose naudoti du Jano Frederiko Myliuso sukurti ekslibrisai. Nuosavybės ženklas leidžia nustatyti, kad konkretus egzempliorius priklausė didikui; jis savaime nepatvirtina visų knygoje ar genealoginiame veikale išdėstytų teiginių. [LNB proveniencijų duomenų bazė](https://proveniencijos.lnb.lt/sapiega-jonas-frydrichas/).
 
 ## Leonas: nuo raštinės iki Statuto
 
@@ -42,6 +53,12 @@ Sapiegų herbas vadinamas Lapinu, lenkiškai *Lis*. Parodoje rodomame XVIII a. r
 1588 m. Vilniuje Mamoničių spaustuvė išspausdino [[objektai/saltiniai/Trečiasis Lietuvos Statutas (1588 m.)|Trečiąjį Lietuvos Statutą]]. Leonas rūpinosi jo patvirtinimu ir finansavo leidimą. Vadinti jį vieninteliu Statuto autoriumi būtų netikslu: teisynas buvo daugelio žmonių ir ankstesnės teisės raidos darbas. Jo leidėjo vardas vis dėlto liko neatskiriamas nuo šios knygos. [Leono veikla](https://www.vle.lt/straipsnis/leonas-sapiega/), [Mamoničių spaustuvės istorija](https://sena.mab.lt/lt/archyvas/1375/1147).
 
 Parodoje matomas titulinis lapas spausdintas kirilika, su raudona antrašte ir Vyčiu. Greta – 1709 m. nutapytas Leono portretas. Paveikslas sukurtas praėjus daugiau nei septyniems dešimtmečiams po jo mirties: jame plunksna, antspaudas ir buožė primena jo pareigas. Tai vėlesnės kartos atminimo kūrinys. [Statuto atvaizdas](https://commons.wikimedia.org/wiki/File:Statut-1588.jpg), [portretas, Vavelio rinkinys](https://commons.wikimedia.org/wiki/File:Leŭ_Sapieha._Леў_Сапега_(1709).jpg).
+
+## Šv. Mykolo bažnyčia: šeimos mauzoliejus
+
+[[objektai/asmenys/Leonas Sapiega|Leonas Sapiega]] Vilniaus Šv. arkangelo Mykolo bažnyčią fundavo kaip bernardinių vienuolyno bažnyčią ir šeimos laidojimo vietą. Joje palaidotas pats fundatorius, jo žmonos [[objektai/asmenys/Dorotėja Firlėjūtė|Dorotėja Firlėjūtė]] ir [[objektai/asmenys/Elžbieta Radvilaitė (Leono Sapiegos žmona)|Elžbieta Radvilaitė]], sūnūs bei kiti artimieji. Valdovų rūmų muziejus šią vietą apibūdina kaip pirmą tokio pobūdžio didikų šeimos mauzoliejų Lietuvoje. [Valdovų rūmų muziejus](https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/), [Bažnytinio paveldo muziejaus gidas](https://gidas.bpmuziejus.lt/products/tours/church-of-st-michael-the-archangel-and-treasury/).
+
+Išlikęs Leono ir dviejų jo žmonų antkapinis paminklas jungia portretinius reljefus, heraldiką ir krikščioniškas figūras. Dabartinė antkapio nuotrauka dokumentuoja išlikusį memorialą, tačiau pats paminklas formuotas jau po vaizduojamų žmonių mirties. Jį reikia skaityti kaip šeimos atminimo programą, o ne kaip tiesioginį XVI a. portretą. [Paminklo vaizdo ir teisių kortelė](https://commons.wikimedia.org/wiki/File:Tombstone_for_Leonas_Sapiega01(js).jpg).
 
 ## Knygos iš Ružanų
 
@@ -55,9 +72,13 @@ Išlikusias knygas galima atpažinti iš dovanojimo įrašų ir viršeliuose įs
 
 [[objektai/asmenys/Kazimieras Jonas Sapiega|Kazimieras Jonas Sapiega]] XVII a. pabaigoje [[objektai/vietos/Antakalnis|Antakalnyje]] kūrė rezidenciją su parku ir trinitorių vienuolynu. Rūmų ansamblis intensyviausiai statytas 1689–1692 m. Prie jo dirbo architektas Giovanni Battista Frediani, skulptorius Pietro Perti, tapytojas Michelangelo Palloni. [Sapiegų rūmų istorija](https://sapiegurumai.lt/istorija/).
 
+Rūmai buvo suplanuoti kaip vientisas reprezentacinis ansamblis: pastatą, parką ir tris vartus jungė ta pati ašis. Fasado bei interjero puošyboje kartojosi karo, pergalės, taikos ir derlingumo motyvai. Išlikusi freska su muzikantais yra vienas ženklų, kad rūmų vaizdinė programa apėmė ne tik karinį etmono statusą, bet ir dvaro kultūrą. [Sapiegų rūmų istorija](https://sapiegurumai.lt/istorija/), [rūmų freskų ir muzikos projektas](https://sapiegurumai.lt/parodos/garso-kuriniai-sapiegu-rumams/).
+
 Tuo pat metu etmonas konfliktavo su Vilniaus vyskupu dėl karių laikymo bažnytinėse valdose. 1696 m. pabaigoje sudaryta taika numatė, kad vyskupas panaikins ekskomuniką, o Sapiega išves kariuomenę iš Bažnyčios žemių. Svetainėje šis susitarimas turi [[objektai/ivykiai/Sapiegų ir vyskupo Bžostausko taikos pasirašymas (1696 m. gale)|atskirą įvykio puslapį su šaltinio teiginiais]].
 
 1700 m. konfliktas su didikų ir bajorų priešininkais baigėsi [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)|Sapiegų pralaimėjimu prie Valkininkų]]. [[objektai/ivykiai/Valkininkų konfederacijos nutarimas (1700 m.)|Konfederacijos nutarimu]] buvo siekiama atimti jų pareigas ir valdas. Antakalnio rūmai nusiaubti. Karvedžio rezidencijos prabanga neapsaugojo nuo politinės katastrofos. [Valdovų rūmų muziejus apie Antakalnio rezidenciją](https://www.valdovurumai.lt/lt/renginiai/i/2963/sapiegu-rumai-antakalnyje/).
+
+Priešininkų koalicija nesusidarė per vieną dieną. Sapiegų rankose buvo sutelktos aukštos pareigos ir kariuomenės kontrolė, o karių laikymas bažnytinėse valdose sukėlė konfliktą su Vilniaus vyskupu Konstantinu Kazimieru Bžostovskiu. 1696 m. taika laikinai sprendė vieną ginčą, bet ne platesnį didikų ir bajorų nepasitenkinimą. Valkininkų pralaimėjimą todėl tiksliau aiškinti kaip ilgesnės politinės kovos baigtį, o ne vieną netikėtą mūšio nesėkmę. [Sapiegų rūmų istorija](https://sapiegurumai.lt/istorija/), [Valdovų rūmų muziejus](https://www.valdovurumai.lt/lt/renginiai/i/2963/sapiegu-rumai-antakalnyje/).
 
 XIX a. pastato paskirtis jau buvo kita: 1829 m. čia oficialiai atidaryta karo ligoninė. Marcelijaus Januševičiaus 1830–1840 m. datuojamas piešinys rodo rūmus iki didžiosios 1843–1848 m. rekonstrukcijos. Jis vertingas tuo, kad leidžia pamatyti vėliau pakeistą pastato pavidalą. [Rūmų perstatymai](https://sapiegurumai.lt/istorija/).
 
@@ -85,6 +106,24 @@ Lampi portrete matome jau aukštas pareigas užėmusį didiką. O Ševaljė lai�
 [[objektai/asmenys/Kazimieras Nestoras Sapiega|Kazimieras Nestoras Sapiega]] (1757–1798) priklausė kitai kartai ir kitai politinei aplinkai. 1790 m. jis tapo naujai suformuoto 7-ojo fuzilierių regimento šefu – globėju ir finansuotoju, kuris galėjo pats vadovauti pulkui. Išlikusios regimento sagos šiandien saugomos kaip nedideli šios tarnybos liudytojai. [Valdovų rūmų muziejus: 7-ojo regimento sagos](https://www.valdovurumai.lt/lt/savaites-eksponatai/i/306/lietuvos-didziosios-kunigaikstystes-7-ojo-fuzilieriu-regimento-sagos/).
 
 [[objektai/asmenys/Ona Sapiegaitė-Jablonowska|Onos Sapiegaitės-Jablonowskos]] veikla vedė į dvarų ūkį ir miestelių tvarkymą. Istorikės Ramunės Šmigelskytės-Stukienės pasakojime minimas jos rūpestis viešosiomis erdvėmis, poilsiui skirtu parku ir geriamuoju vandeniu. Tokius darbus lengva praleisti dėstant vien pareigybes ir karus, nors dvaro gyventojams jie buvo kasdien juntami. [Istorikės pasakojimas LRT](https://www.lrt.lt/naujienos/lietuvoje/2/1200618/bajoru-gyvenimas-buvo-ne-toks-dorovingas-losimas-nesantuokiniai-vaikai-ir-kazanovos).
+
+## XIX ir XX amžių Sapiegos
+
+Po Abiejų Tautų Respublikos padalijimų giminės politinė geografija pasikeitė. [[objektai/asmenys/Leonas Sapiega (1803–1878)|Leonas Sapiega]] dalyvavo 1830–1831 m. sukilime, vėliau veikė Galicijoje, rėmė ūkio ir kredito organizacijas bei Krokuvos–Lvovo geležinkelio tiesimą. Jo sūnus [[objektai/asmenys/Adomas Sapiega (1828–1903)|Adomas Sapiega]] per 1863–1864 m. sukilimą vadovavo Rytų Galicijos komitetui, o vėliau veikė Galicijos seime ir kaupė Krasicyno biblioteką bei muziejinį rinkinį. [VLE: Leonas Sapiega](https://www.vle.lt/straipsnis/leonas-sapiega-1/), [VLE: Adomas Sapiega](https://www.vle.lt/straipsnis/adomas-sapiega/).
+
+[[objektai/asmenys/Adomas Steponas Sapiega (1867–1951)|Adomas Steponas Sapiega]] buvo Krokuvos arkivyskupas metropolitas ir nuo 1946 m. kardinolas. Antrojo pasaulinio karo metais jis protestavo prieš lenkų ir žydų persekiojimą, o 1942 m. įsteigė pogrindinę kunigų seminariją. [[objektai/asmenys/Eustachijus Kajetonas Sapiega (1881–1963)|Eustachijus Kajetonas Sapiega]] veikė jau XX a. Lenkijos politikoje ir diplomatijoje. Šių biografijų negalima mechaniškai tęsti kaip LDK pareigybių istorijos: giminės vardas išliko, bet valstybės ir institucijos pasikeitė. [Adomo Stepono biografija](https://www.vle.lt/straipsnis/adomas-steponas-sapiega/), [Eustachijaus Kajetono biografija](https://www.vle.lt/straipsnis/eustachy-kajetan-sapieha/).
+
+## Trumpa laiko juosta
+
+| Data | Įvykis | Šaltinis |
+|---|---|---|
+| 1588 m. | Išspausdintas Trečiasis Lietuvos Statutas, kurio leidyba rūpinosi Leonas Sapiega | [VLE](https://www.vle.lt/straipsnis/leonas-sapiega/) |
+| XVII a. pradžia | Vilniaus Šv. Mykolo bažnyčia tapo Sapiegų šeimos mauzoliejumi | [Valdovų rūmų muziejus](https://www.valdovurumai.lt/lt/renginiai/i/2953/vilniaus-sv-arkangelo-mykolo-baznycia/) |
+| 1666 m. | Vilnių pasiekė Kazimiero Leono universitetui palikta biblioteka | [VLE: Sapiegų biblioteka](https://www.vle.lt/straipsnis/sapiegu-biblioteka/) |
+| 1689–1692 m. | Statyta Kazimiero Jono rezidencija Antakalnyje | [Sapiegų rūmai](https://sapiegurumai.lt/istorija/) |
+| 1700 m. | Sapiegų ir jų priešininkų konfliktas baigėsi pralaimėjimu prie Valkininkų | [Valdovų rūmų muziejus](https://www.valdovurumai.lt/lt/renginiai/i/2963/sapiegu-rumai-antakalnyje/) |
+| apie 1709 m. | Kodenyje įrengta 75 vyrų „protėvių“ portretų galerija | [LNB](https://proveniencijos.lnb.lt/sapiega-jonas-frydrichas/) |
+| 1775 m. | Aleksandras Mykolas tapo LDK kancleriu; apie pareigybę liudija ir amžininkų laiškai | [VLE](https://www.vle.lt/straipsnis/aleksandras-mykolas-sapiega/), [VU bibliotekos laiškas](https://www.epaveldas.lt/preview?id=VUB01-000903024) |
 
 <!-- FAMILY-REGISTER:START -->
 ## Giminės žmonės

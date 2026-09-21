@@ -6,7 +6,7 @@ statusas: parengta
 autorius: "Lietuvos istorijos žinių lobynas"
 date: 2026-09-20
 sukurta: "2026-09-20"
-atnaujinta: "2026-09-20"
+atnaujinta: "2026-09-21"
 image: "/static/gimines/radvilos/perkunas-1781.jpg"
 cssclasses:
   - history-article
@@ -38,6 +38,14 @@ Radvilų palikimo geografija kur kas platesnė: nuo Dubingių ir Kėdainių iki 
 
 Giminė kilo iš Astikų. Ilgainiui išsiskyrė Goniądzo–Medilo, Nesvyžiaus–Olykos ir Biržų–Dubingių šakos. Šie vietovardžiai padeda atpažinti skirtingas šeimos linijas, turėjusias savas rezidencijas ir paveldėtojus. [VLE: Radvilos](https://www.vle.lt/straipsnis/radvilos/).
 
+| Šaka | Ryškesni atstovai šiame pasakojime | Ką verta sekti |
+|---|---|---|
+| Goniądzo–Medilo | [[objektai/asmenys/Mikalojus Radvila II|Mikalojus Radvila II]] ir jo palikuonys | Ankstyvą Radvilų iškilimą bei valdų telkimą XVI a. pradžioje |
+| Nesvyžiaus–Olykos | [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Juodasis]], [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Našlaitėlis]], [[objektai/asmenys/Pranciška Uršulė Radvilienė (1705–1753)|Pranciška Uršulė]] | Katalikiškas fundacijas, Nesvyžiaus ordinaciją, biblioteką, teatrą ir portretų rinkinį |
+| Biržų–Dubingių | [[objektai/asmenys/Mikalojus Radvila Rudasis|Mikalojus Rudasis]], [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Perkūnas]], [[objektai/asmenys/Jonušas Radvila (1612-1655)|Jonušas]], [[objektai/asmenys/Liudvika Karolina Radvilaitė|Liudvika Karolina]] | Evangelikų reformatų globą, Biržų tvirtovę, Kėdainių spaustuvę ir paveldėjimo klausimus |
+
+Ši trijų šakų schema yra orientyras, o ne visas genealoginis medis. Santuokos, bendravardžiai ir valdų perėjimas tarp paveldėtojų ne visada telpa į vieną tiesią liniją; dėl to žemiau pateiktame registre kiekvienas asmuo turi atskirą puslapį ir šaltinį. [VLE giminės apžvalga](https://www.vle.lt/straipsnis/radvilos/).
+
 Valdos augo per santuokas ir žemės pirkimą. [[objektai/asmenys/Jonas Radvila (1474-1522)|Jonas Radvila]], 1513 m. vedęs Oną Kiškaitę, su jos kraičiu gavo Nesvyžių ir Olyką. Šie miestai tapo jo palikuonių atrama. Jonas taip pat įgijo Dusetų, Svėdasų ir kitų valdų, o Vilniuje pasistatydino namus priešais didžiojo kunigaikščio rūmus. Jo sūnus buvo Mikalojus Radvila Juodasis. [Jono Radvilos biografija](https://www.vle.lt/straipsnis/jonas-radvila/).
 
 Biržų žemes ypač plėtė Barboros ir Mikalojaus Rudojo tėvas Jurgis Radvila, supirkdamas aplinkinių bajorų sklypus. 1561 m. Biržų dvaro inventoriuje minimi keturi svirnai, virtuvė, kepykla ir bravoras. Dar iki bastioninės pilies čia veikė nemažas dvaro ūkis. [Biržų kunigaikštystės istorija](https://www.birzumuziejus.lt/birzu-kunigaikstyste-xvi-xix-a/).
@@ -52,7 +60,15 @@ Barbora karūnuota Krokuvoje 1550 m. gruodžio 7 d. Ji jau sirgo, o 1551 m. gegu
 
 [[objektai/asmenys/Mikalojus Radvila Rudasis|Mikalojus Rudasis]] buvo Barboros brolis, [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Juodasis]] – jų pusbrolis. XVI a. viduryje abu užėmė aukštas valstybės pareigas. Juodasis tapo LDK kancleriu ir Vilniaus vaivada, buvo artimas Žygimanto Augusto patarėjas. 1547 m. jis išsirūpino kunigaikščio titulą. [Juodojo biografija](https://www.vle.lt/straipsnis/mikalojus-radvila-juodasis/).
 
+1547 m. imperatoriaus privilegijos kunigaikščių titulą patvirtino Juodajam ir Rudajam. Tai buvo ne vien garbės formulė: titulas pateko į antspaudus, genealogijas, portretų galerijas ir užrašus prie meno kūrinių. Valdovų rūmų muziejaus parodoje rodyti abu 1547 m. diplomai, medaliai ir vėlesni gobelenai, kuriuose įvykis jau paverstas giminės atminties scena. [Valdovų rūmų muziejaus parodos aprašas](https://www.valdovurumai.lt/lt/parodos/i/5307/radvilos-kunigaiksciu-istorija-ir-paveldas/).
+
 Juodasis rėmė Reformaciją ir 1563 m. Brastoje išleistą Bibliją lenkų kalba. Tačiau jo sūnūs pasirinko katalikybę: Našlaitėlis tapo katalikiškų fundacijų rėmėju, o Jurgis – kardinolu. Rudasis ir jo palikuonys ilgiau išlaikė evangelikų reformatų tradiciją. Rudojo vardas siejamas ir su 1564 m. pergale prie Ulos bei atsisakymu pasirašyti 1569 m. Liublino unijos aktą. [Juodasis](https://www.vle.lt/straipsnis/mikalojus-radvila-juodasis/), [Rudasis](https://www.vle.lt/straipsnis/mikalojus-radvila-rudasis/), [Našlaitėlis ir kardinolas Jurgis](https://www.lndm.lt/pilies-gatve/pilies-g-23/).
+
+## Knyga, tikėjimas ir šeimos pasirinkimai
+
+[[objektai/saltiniai/Brastos Biblija|Brastos Biblijos]] antraštiniame lape nurodyta, kad knyga 1563 m. išspausdinta Brastoje Mikalojaus Radvilos Juodojo lėšomis. Tai visas Senojo ir Naujojo Testamento vertimas į lenkų kalbą, parengtas evangelikų reformatų aplinkoje. Parodoje rodomas pats leidinio antraštinis lapas, todėl šiuo atveju vaizdas tiesiogiai dokumentuoja knygą, o ne tik iliustruoja pasakojimą. [Polonos katalogo įrašas per „Wikimedia Commons“](https://commons.wikimedia.org/wiki/File:Brest_Bible_-_title_page_(67678265).jpg), [Biržų muziejus apie Brastos Bibliją](https://www.birzumuziejus.lt/religijos/).
+
+Vienos giminės nariai neprivalėjo išpažinti to paties tikėjimo. Juodojo sūnus [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]] tapo Katalikų Bažnyčios kardinolu, o Biržų–Dubingių šakos atstovai toliau globojo evangelikų reformatų bendruomenes. [[objektai/asmenys/Sofija Olelkaitė (Jonušo Radvilos žmona)|Sofija Olelkaitė]], ištekėjusi už Jonušo Radvilos, liko stačiatikė; jos atminimas vėliau įgijo ir religinio kulto bruožų. Šie pasirinkimai rodo skirtingas konfesines šeimos aplinkas, o ne vieną nuoseklią „Radvilų religiją“. [Valdovų rūmų muziejaus apžvalga](https://www.valdovurumai.lt/lt/parodos/i/5307/radvilos-kunigaiksciu-istorija-ir-paveldas/), [Jurgio Radvilos biografija](https://www.vle.lt/straipsnis/jurgis-radvila/).
 
 | Šeimos ryšys | Asmenų puslapiai |
 |---|---|
@@ -113,6 +129,29 @@ Vėliau trupėje greta mėgėjų vaidino profesionalai, plėtėsi kapela, atsira
 Vilniaus rūmų atstatymo istorijoje pravertė mažas daiktas – Sebastiano Dadlerio medalis su ansamblio vaizdu. Pagal jį 1984 m. atkurtas vakarinis paviljonas. Muziejus pabrėžia, kad medalyje galėjo būti pavaizduotas dar tik planuojamas, ne visas pastatytas ansamblis. Vėlesni restauratoriai turėjo spręsti, kiek šiuo atvaizdu pasikliauti. [LNDM: Radvilų rūmų pastatas](https://www.lndm.lt/rrm/radvilu-rumu-muziejaus-pastatas/).
 
 Portretai taip pat turi savą istoriją. Parodoje rodomas Perkūno paveikslas nutapytas Marcello Bacciarelli 1781 m. – praėjus 178 metams po didiko mirties. Juodojo ir Rudojo raižiniai sukurti XVII a., Našlaitėlio atvaizdas – XVIII a. Šiuose kūriniuose Radvilas matome tokius, kokius juos norėjo prisiminti vėlesnės kartos. [Portretai ir jų katalogų nuorodos](/parodos/radvilos-gimine-valdos-ir-paveldas).
+
+## Laidotuvės ir giminės atmintis
+
+Radvilų laidojimo vietos išsidėsčiusios keliuose giminės centruose. Dubingiuose archeologų rasti palaikai susieti su Biržų–Dubingių šakos atstovais ir 2009 m. perlaidoti buvusios reformatų bažnyčios vietoje. Kėdainių reformatų bažnyčios mauzoliejuje išliko kunigaikščių sarkofagai, o Nesvyžiaus Dievo Kūno bažnyčios kriptoje laidoti kitos šakos nariai. Tai trys skirtingos atminties vietos, susijusios su skirtingomis šakomis ir konfesinėmis tradicijomis. [Kėdainių krašto muziejus](https://kedainiumuziejus.lt/lankytojui/naujienos/kunigaiksciu-radvilu-mauzoliejus-atviras-lankytojams/), [UNESCO apie Nesvyžių](https://whc.unesco.org/en/list/1196/), [Valdovų rūmų parodos aprašas](https://www.valdovurumai.lt/lt/parodos/i/5307/radvilos-kunigaiksciu-istorija-ir-paveldas/).
+
+Sarkofagai, įkapės, karsto portretai ir laidotuvių spaudiniai liudija, kaip didiko mirtis buvo paverčiama viešu giminės statuso pasakojimu. Jie nėra vien biografijos iliustracijos: audinys ar antkapio įrašas gali suteikti duomenų apie aprangą, heraldiką, titulavimą ir laidojimo papročius. Tokių daiktų prasmę galima nustatyti tik kartu su jų radimo vieta ir muziejiniu aprašu. [Valdovų rūmų muziejus: Radvilų relikvijos ir laidotuvių kultūra](https://www.valdovurumai.lt/lt/parodos/i/5307/radvilos-kunigaiksciu-istorija-ir-paveldas/).
+
+## Po Abiejų Tautų Respublikos padalijimų
+
+Radvilų istorija nesibaigė XVIII a. [[objektai/asmenys/Dominykas Jeronimas Radvila (1786–1813)|Dominykas Jeronimas Radvila]] 1812 m. savo lėšomis suorganizavo ulonų pulką ir kariavo Napoleono Didžiojoje armijoje; 1813 m. buvo sunkiai sužeistas prie Hanau ir mirė. Jis buvo paskutinis Nesvyžiaus šakos vyras, o Nesvyžiaus ir Olykos ordinacijos 1814 m. atiteko [[objektai/asmenys/Antanas Henrikas Radvila (1775–1833)|Antanui Henrikui Radvilai]]. [Dominyko Jeronimo biografija](https://www.vle.lt/straipsnis/dominykas-jeronimas-radvila/), [Antano Henriko biografija](https://www.vle.lt/straipsnis/antanas-henrikas-radvila/).
+
+Antanas Henrikas buvo kompozitorius ir 1815–1831 m. Poznanės didžiosios kunigaikštystės vietininkas. Jo palikuonių politinės karjeros jau vyko Prūsijos, Vokietijos ir atkurtos Lenkijos valstybės aplinkoje: [[objektai/asmenys/Ferdinandas Frydrichas Radvila (1834–1926)|Ferdinandas Frydrichas]] veikė Prūsijos ir Lenkijos politikoje, o jo sūnus [[objektai/asmenys/Jonušas Pranciškus Radvila (1880–1967)|Jonušas Pranciškus]] po 1918 m. vadovavo Lenkijos konservatoriams. Šiuos žmones su ankstesne LDK istorija jungė giminystė ir paveldėtos ordinacijos, tačiau jų veiklos politinis kontekstas jau buvo kitas. [VLE: Radvilos](https://www.vle.lt/straipsnis/radvilos/), [Ferdinandas Frydrichas](https://www.vle.lt/straipsnis/ferdinandas-frydrichas-radvila/), [Jonušas Pranciškus](https://www.vle.lt/straipsnis/jonusas-pranciskus-radvila/).
+
+## Trumpa laiko juosta
+
+| Data | Įvykis | Šaltinis |
+|---|---|---|
+| 1547 m. | Juodajam ir Rudajam patvirtinti kunigaikščių titulai | [Valdovų rūmų muziejus](https://www.valdovurumai.lt/en/exhibitions/i/7539/the-radziwills-history-and-legacy-of-the-princes/) |
+| 1563 m. | Brastoje išleista Radvilos Juodojo finansuota Biblija | [Leidinio kortelė](https://commons.wikimedia.org/wiki/File:Brest_Bible_-_title_page_(67678265).jpg) |
+| 1589 m. | Baigta pirmoji Biržų bastioninė tvirtovė, miestui suteiktos Magdeburgo teisės | [Biržų muziejus](https://www.birzumuziejus.lt/radvilu-portretai/) |
+| 1613 m. | Pasirodė Našlaitėlio remtas LDK žemėlapis | [LNDM](https://www.lndm.lt/pilies-gatve/pilies-g-23/) |
+| 1653 m. | Kėdainiuose išspausdinta „Knyga nobažnystės krikščioniškos“ | [Vrublevskių biblioteka](https://rinkiniai.mab.lt/evangeliku/06.html) |
+| 1813–1814 m. | Mirus Dominykui Jeronimui, Nesvyžiaus ir Olykos ordinacijos perėjo kitai giminės linijai | [VLE](https://www.vle.lt/straipsnis/dominykas-jeronimas-radvila/) |
 
 <!-- FAMILY-REGISTER:START -->
 ## Giminės žmonės
