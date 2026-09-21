@@ -139,7 +139,7 @@ export function layoutGlobalGraph(nodes: RuntimeNode[]): void {
     (a, b) => b.length - a.length || a[0].type.localeCompare(b[0].type, "lt"),
   )
   const total = nodes.length
-  const innerRadius = 42
+  const innerRadius = 105
   const outerRadius = Math.max(520, Math.min(900, Math.sqrt(total) * 10.5))
   let offset = 0
 
@@ -155,12 +155,10 @@ export function layoutGlobalGraph(nodes: RuntimeNode[]): void {
         5381,
       )
       const phase = (index * 0.61803398875) % 1
-      const angle = start + span * (0.025 + phase * 0.95) + (seed % 31) * 0.0007
-      const radius =
-        innerRadius +
-        Math.sqrt((index + 0.75) / Math.max(1, group.length)) *
-          (outerRadius - innerRadius) +
-        ((seed % 11) - 5) * 1.2
+      const distance = Math.sqrt((index + 0.75) / Math.max(1, group.length))
+      // A shared gentle spiral separates types without inventing decorative nodes.
+      const angle = start + span * (0.08 + phase * 0.84) + distance * 0.8
+      const radius = innerRadius + distance * (outerRadius - innerRadius) + ((seed % 11) - 5) * 1.2
       node.px = Math.cos(angle) * radius
       node.py = Math.sin(angle) * radius
     }

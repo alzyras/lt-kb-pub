@@ -217,21 +217,28 @@ async function loadLayer(kind: string, topology: GraphTopology): Promise<Topolog
   return edges
 }
 function createLayoutWorker(): Worker {
-  const source = `onmessage=e=>{const{nodes,focus}=e.data;if(!focus){postMessage(nodes);return}const byHop={};for(const n of nodes){const hop=Math.max(0,n.hop);(byHop[hop]??=[]).push(n)}let previousOuter=0;for(const [raw,hopNodes] of Object.entries(byHop)){const hop=+raw;if(hop===0){hopNodes[0].px=0;hopNodes[0].py=0;continue}const typeGroups={};for(const n of hopNodes)(typeGroups[n.type]??=[]).push(n);const groups=Object.values(typeGroups).sort((a,b)=>b.length-a.length||a[0].type.localeCompare(b[0].type));const total=hopNodes.length;const inner=hop===1?75:previousOuter+95;const outer=inner+Math.max(180,Math.min(560,110+Math.sqrt(total)*20));previousOuter=outer;let offset=0;for(const list of groups){list.sort((a,b)=>b.degree-a.degree||a.id.localeCompare(b.id));const share=list.length/total;const start=(offset/total)*Math.PI*2;const span=Math.max(.16,share*Math.PI*2);for(let i=0;i<list.length;i++){const n=list[i];const seed=[...n.id].reduce((v,c)=>(v*33+c.charCodeAt(0))>>>0,5381);const phase=((i*.61803398875)%1);const angle=start+span*(.08+.84*phase)+(seed%37)*.0009;const radius=inner+Math.sqrt((i+.65)/Math.max(1,list.length))*(outer-inner)+(seed%13-6)*1.5;n.px=Math.cos(angle)*radius;n.py=Math.sin(angle)*radius}offset+=list.length}}postMessage(nodes)}`
-  return new Worker(URL.createObjectURL(new Blob([source], { type: "text/javascript" })))
+  const source = `onmessage=e=>{const{nodes,focus,requestId}=e.data;if(!focus){postMessage({requestId,nodes});return}const byHop={};for(const n of nodes){const hop=Math.max(0,n.hop);(byHop[hop]??=[]).push(n)}let previousOuter=0;for(const [raw,hopNodes] of Object.entries(byHop)){const hop=+raw;if(hop===0){hopNodes[0].px=0;hopNodes[0].py=0;continue}const typeGroups={};for(const n of hopNodes)(typeGroups[n.type]??=[]).push(n);const groups=Object.values(typeGroups).sort((a,b)=>b.length-a.length||a[0].type.localeCompare(b[0].type));const total=hopNodes.length;const inner=hop===1?75:previousOuter+95;const outer=inner+Math.max(180,Math.min(560,110+Math.sqrt(total)*20));previousOuter=outer;let offset=0;for(const list of groups){list.sort((a,b)=>b.degree-a.degree||a.id.localeCompare(b.id));const share=list.length/total;const start=(offset/total)*Math.PI*2;const span=Math.max(.16,share*Math.PI*2);for(let i=0;i<list.length;i++){const n=list[i];const seed=[...n.id].reduce((v,c)=>(v*33+c.charCodeAt(0))>>>0,5381);const phase=((i*.61803398875)%1);const angle=start+span*(.08+.84*phase)+(seed%37)*.0009;const radius=inner+Math.sqrt((i+.65)/Math.max(1,list.length))*(outer-inner)+(seed%13-6)*1.5;n.px=Math.cos(angle)*radius;n.py=Math.sin(angle)*radius}offset+=list.length}}postMessage({requestId,nodes})}`
+  const url = URL.createObjectURL(new Blob([source], { type: "text/javascript" }))
+  const worker = new Worker(url)
+  URL.revokeObjectURL(url)
+  return worker
 }
+let layoutRequestId = 0
 async function layoutGraph(graph: VisibleGraph, worker: Worker): Promise<void> {
   if (!graph.focus) {
     layoutGlobalGraph(graph.nodes)
     return
   }
+  const requestId = ++layoutRequestId
   const result = await new Promise<Array<{ id: string; px: number; py: number }>>((resolve) => {
     const listener = (event: MessageEvent) => {
+      if (event.data.requestId !== requestId) return
       worker.removeEventListener("message", listener)
-      resolve(event.data)
+      resolve(event.data.nodes)
     }
     worker.addEventListener("message", listener)
     worker.postMessage({
+      requestId,
       focus: graph.focus!.id,
       nodes: graph.nodes.map(({ id, px, py, hop, degree, type }) => ({
         id,
@@ -432,6 +439,62 @@ async function renderEdgePanel(
   }
 }
 type Renderer = { destroy: () => void; camera: () => Camera; applyCamera: (camera: Camera) => void }
+
+function graphPalette() {
+  const dark = document.documentElement.getAttribute("saved-theme") === "dark"
+  return { dark, ink: dark ? 0xf1e8da : 0x241c18, paper: dark ? 0x191b20 : 0xf8f2e8 }
+}
+
+function nodeColor(type: string, dark: boolean): number {
+  const color = typeColors[type] ?? graphVisual.fallbackNode
+  if (!dark) return color
+  // Preserve the shared type hue while keeping small nodes visible on a dark surface.
+  const channel = (shift: number) => Math.round(((color >> shift) & 255) * 0.76 + 255 * 0.24)
+  return (channel(16) << 16) | (channel(8) << 8) | channel(0)
+}
+
+/** A screen-space label stays readable above every node at every zoom level. */
+function showGraphHover(container: HTMLElement, node: RuntimeNode | null, x = 0, y = 0) {
+  const tip = container.querySelector<HTMLElement>("[data-graph-hover]")!
+  tip.hidden = !node
+  if (!node) return
+  tip.innerHTML = `<span>${escapeHtml(typeLabels[node.type] ?? node.type)}</span><strong>${escapeHtml(node.title)}</strong><small>${node.claimCount.toLocaleString("lt-LT")} teig. · ${node.degree.toLocaleString("lt-LT")} ryšių</small>`
+  tip.style.setProperty(
+    "--node-color",
+    `#${(typeColors[node.type] ?? graphVisual.fallbackNode).toString(16).padStart(6, "0")}`,
+  )
+  tip.style.left = `${Math.max(8, Math.min(container.clientWidth - tip.offsetWidth - 8, x + 16))}px`
+  tip.style.top = `${Math.max(8, Math.min(container.clientHeight - tip.offsetHeight - 8, y - tip.offsetHeight - 12))}px`
+}
+
+function bindGraphKeyboard(canvas: HTMLCanvasElement, renderer: Renderer) {
+  canvas.tabIndex = 0
+  canvas.setAttribute(
+    "aria-label",
+    "Istorijos ryšių žemėlapis. Rodyklėmis judėkite, pliusu ir minusu keiskite mastelį. Objektą pasirinkite paieškoje.",
+  )
+  canvas.addEventListener("keydown", (event) => {
+    const camera = renderer.camera()
+    const factor = event.key === "+" || event.key === "=" ? 1.3 : event.key === "-" ? 1 / 1.3 : 1
+    if (factor !== 1) {
+      const k = Math.max(0.08, Math.min(8, camera.k * factor))
+      const x = canvas.clientWidth / 2,
+        y = canvas.clientHeight / 2
+      renderer.applyCamera({
+        x: x - ((x - camera.x) * k) / camera.k,
+        y: y - ((y - camera.y) * k) / camera.k,
+        k,
+      })
+    } else if (["ArrowLeft", "ArrowRight", "ArrowUp", "ArrowDown"].includes(event.key)) {
+      renderer.applyCamera({
+        ...camera,
+        x: camera.x + (event.key === "ArrowLeft" ? 60 : event.key === "ArrowRight" ? -60 : 0),
+        y: camera.y + (event.key === "ArrowUp" ? 60 : event.key === "ArrowDown" ? -60 : 0),
+      })
+    } else return
+    event.preventDefault()
+  })
+}
 async function renderPixi(
   container: HTMLElement,
   graph: VisibleGraph,
@@ -464,6 +527,7 @@ async function renderPixi(
   app.stage.addChild(world)
   let transform: ZoomTransform = zoomIdentity
   let hovered: RuntimeNode | null = null
+  const palette = graphPalette()
   const labels = new Map<string, Text>()
   const rankedNodes = [...graph.nodes].sort(
     (a, b) => b.degree + b.claimCount * 0.08 - (a.degree + a.claimCount * 0.08),
@@ -477,10 +541,10 @@ async function renderPixi(
         anchor: { x: 0.5, y: 1.3 },
         style: {
           fontSize: 12,
-          fill: 0x241c18,
+          fill: palette.ink,
           fontFamily: "Arial, sans-serif",
           fontWeight: node === graph.focus ? "700" : "500",
-          stroke: { color: 0xf8f2e8, width: 3 },
+          stroke: { color: palette.paper, width: 4 },
         },
       })
       label.position.set(node.px, node.py - nodeRadius(node, node === graph.focus))
@@ -505,7 +569,25 @@ async function renderPixi(
             : transform.k < 2
               ? 500
               : 1400
-    const wanted = new Set(rankedNodes.slice(0, limit).map((node) => node.id))
+    const occupied: Array<{ x: number; y: number; width: number }> = []
+    const wanted = new Set<string>()
+    const visibleLimit = graph.focus ? limit : transform.k < 0.7 ? 0 : Math.min(limit, 100)
+    for (const node of rankedNodes) {
+      if (wanted.size >= visibleLimit) break
+      const x = node.px * transform.k + transform.x,
+        y = node.py * transform.k + transform.y
+      const labelWidth = Math.min(320, node.title.length * 6.5)
+      if (x < labelWidth / 2 || x > width - labelWidth / 2 || y < 20 || y > height) continue
+      if (
+        occupied.some(
+          (box) =>
+            Math.abs(box.y - y) < 22 && Math.abs(box.x - x) < (box.width + labelWidth) / 2 + 10,
+        )
+      )
+        continue
+      occupied.push({ x, y, width: labelWidth })
+      wanted.add(node.id)
+    }
     if (graph.focus) wanted.add(graph.focus.id)
     if (hovered) wanted.add(hovered.id)
     for (const id of wanted) {
@@ -514,7 +596,7 @@ async function renderPixi(
     }
     for (const [id, label] of labels) {
       label.visible = wanted.has(id)
-      label.scale.set(1 / Math.max(0.75, Math.sqrt(transform.k)))
+      label.scale.set(1 / transform.k)
     }
   }
   function draw(redrawGeometry = true) {
@@ -528,13 +610,17 @@ async function renderPixi(
         const density = graph.edges.length > 900 ? 0.34 : graph.edges.length > 350 ? 0.56 : 1
         const alpha = selected
           ? 0.9
-          : Math.max(
-              0.025,
-              Math.min(
-                touchesFocus ? 0.3 : 0.2,
-                edge.confidence * 0.42 * density * (touchesFocus ? 1 : 0.55),
-              ),
-            )
+          : !graph.focus
+            ? hovered
+              ? 0.005
+              : 0.009
+            : Math.max(
+                0.025,
+                Math.min(
+                  touchesFocus ? 0.3 : 0.2,
+                  edge.confidence * 0.42 * density * (touchesFocus ? 1 : 0.55),
+                ),
+              )
         const color = selected
           ? graphVisual.focus
           : edge.layer === "semantic"
@@ -552,13 +638,21 @@ async function renderPixi(
       for (const node of graph.nodes) {
         const focused = node === graph.focus,
           active = node === hovered
+        const color = nodeColor(node.type, palette.dark)
+        const radius = nodeRadius(node, focused)
+        if (active || focused)
+          nodeGfx.circle(node.px, node.py, radius + 7).fill({ color, alpha: 0.16 })
         nodeGfx
-          .circle(node.px, node.py, nodeRadius(node, focused))
-          .fill({ color: typeColors[node.type] ?? graphVisual.fallbackNode, alpha: 0.96 })
+          .circle(node.px, node.py, radius)
+          .fill({ color, alpha: active || focused ? 1 : 0.82 })
           .stroke({
-            color: focused ? graphVisual.focus : active ? 0x301d18 : 0xfffaf1,
-            width: focused ? 4 : active ? 2.5 : 1.1,
+            color: active || focused ? palette.ink : palette.paper,
+            width: focused ? 2.5 : active ? 2 : 0.75,
           })
+        if (radius > 5)
+          nodeGfx
+            .circle(node.px - radius * 0.25, node.py - radius * 0.3, radius * 0.24)
+            .fill({ color: 0xffffff, alpha: 0.22 })
       }
     }
     updateLabels()
@@ -618,6 +712,7 @@ async function renderPixi(
   const zoomBehavior = zoom<HTMLCanvasElement, unknown>()
     .scaleExtent([0.08, 8])
     .on("zoom", (event) => {
+      showGraphHover(container, null)
       transform = event.transform
       world.position.set(transform.x, transform.y)
       world.scale.set(transform.k)
@@ -627,11 +722,18 @@ async function renderPixi(
   select(app.canvas).call(zoomBehavior as any)
   app.canvas.addEventListener("pointermove", (event) => {
     const node = hitNode(event)
+    const rect = app.canvas.getBoundingClientRect()
+    showGraphHover(container, node, event.clientX - rect.left, event.clientY - rect.top)
     if (node !== hovered) {
       hovered = node
       app.canvas.style.cursor = node ? "pointer" : "grab"
       draw()
     }
+  })
+  app.canvas.addEventListener("pointerleave", () => {
+    hovered = null
+    showGraphHover(container, null)
+    draw()
   })
   app.canvas.addEventListener("click", (event) => {
     const node = hitNode(event)
@@ -673,8 +775,11 @@ async function renderPixi(
     )
   }
   draw()
-  return {
-    destroy: () => app.destroy(true),
+  const renderer: Renderer = {
+    destroy: () => {
+      select(app.canvas).on(".zoom", null)
+      app.destroy(true)
+    },
     camera: () => ({ x: transform.x, y: transform.y, k: transform.k }),
     applyCamera: (camera) =>
       select(app.canvas).call(
@@ -682,6 +787,8 @@ async function renderPixi(
         zoomIdentity.translate(camera.x, camera.y).scale(camera.k),
       ),
   }
+  bindGraphKeyboard(app.canvas, renderer)
+  return renderer
 }
 function renderCanvasFallback(
   container: HTMLElement,
@@ -704,6 +811,8 @@ function renderCanvasFallback(
   container.prepend(canvas)
   const context = canvas.getContext("2d")!
   let transform: ZoomTransform = zoomIdentity
+  let hovered: RuntimeNode | null = null
+  const palette = graphPalette()
   const important = new Set(
     [...graph.nodes]
       .sort((a, b) => b.degree + b.claimCount * 0.08 - (a.degree + a.claimCount * 0.08))
@@ -772,13 +881,18 @@ function renderCanvasFallback(
     for (const edge of graph.edges) {
       const touchesFocus =
           graph.focus && (edge.from === graph.focus.id || edge.to === graph.focus.id),
-        alpha = Math.max(
-          0.025,
-          Math.min(
-            touchesFocus ? 0.3 : 0.2,
-            edge.confidence * 0.42 * density * (touchesFocus ? 1 : 0.55),
-          ),
-        )
+        alpha =
+          hovered && (edge.from === hovered.id || edge.to === hovered.id)
+            ? 0.9
+            : !graph.focus
+              ? 0.009
+              : Math.max(
+                  0.025,
+                  Math.min(
+                    touchesFocus ? 0.3 : 0.2,
+                    edge.confidence * 0.42 * density * (touchesFocus ? 1 : 0.55),
+                  ),
+                )
       context.beginPath()
       context.moveTo(edge.source.px, edge.source.py)
       context.lineTo(edge.target.px, edge.target.py)
@@ -792,12 +906,10 @@ function renderCanvasFallback(
       const focus = node === graph.focus
       context.beginPath()
       context.arc(node.px, node.py, nodeRadius(node, focus), 0, Math.PI * 2)
-      context.fillStyle = `#${(typeColors[node.type] ?? graphVisual.fallbackNode).toString(16).padStart(6, "0")}`
+      context.fillStyle = `#${nodeColor(node.type, palette.dark).toString(16).padStart(6, "0")}`
       context.fill()
       context.lineWidth = focus ? 4 : 1.1
-      context.strokeStyle = focus
-        ? `#${graphVisual.focus.toString(16).padStart(6, "0")}`
-        : "#fffaf1"
+      context.strokeStyle = `#${(focus || node === hovered ? palette.ink : palette.paper).toString(16).padStart(6, "0")}`
       context.stroke()
       if ((transform.k >= 0.65 && important.has(node.id)) || focus) {
         context.save()
@@ -807,9 +919,9 @@ function renderCanvasFallback(
         context.lineWidth = 3
         const tx = node.px * transform.k,
           ty = (node.py - nodeRadius(node, focus) - 5) * transform.k
-        context.strokeStyle = graphVisual.labelHalo
+        context.strokeStyle = `#${palette.paper.toString(16).padStart(6, "0")}`
         context.strokeText(node.title, tx, ty)
-        context.fillStyle = graphVisual.label
+        context.fillStyle = `#${palette.ink.toString(16).padStart(6, "0")}`
         context.fillText(node.title, tx, ty)
         context.restore()
       }
@@ -819,15 +931,27 @@ function renderCanvasFallback(
   const zoomBehavior = zoom<HTMLCanvasElement, unknown>()
     .scaleExtent([0.08, 8])
     .on("zoom", (event) => {
+      showGraphHover(container, null)
       transform = event.transform
       draw()
     })
     .on("end", () => handlers.camera({ x: transform.x, y: transform.y, k: transform.k }))
   select(canvas).call(zoomBehavior as any)
-  canvas.addEventListener(
-    "pointermove",
-    (event) => (canvas.style.cursor = hitNode(event) ? "pointer" : "grab"),
-  )
+  canvas.addEventListener("pointermove", (event) => {
+    const node = hitNode(event),
+      rect = canvas.getBoundingClientRect()
+    showGraphHover(container, node, event.clientX - rect.left, event.clientY - rect.top)
+    canvas.style.cursor = node ? "pointer" : "grab"
+    if (hovered !== node) {
+      hovered = node
+      draw()
+    }
+  })
+  canvas.addEventListener("pointerleave", () => {
+    hovered = null
+    showGraphHover(container, null)
+    draw()
+  })
   canvas.addEventListener("click", (event) => {
     const node = hitNode(event)
     if (node) {
@@ -865,7 +989,7 @@ function renderCanvasFallback(
     )
   }
   draw()
-  return {
+  const renderer: Renderer = {
     destroy: () => {
       select(canvas).on(".zoom", null)
       canvas.remove()
@@ -877,6 +1001,8 @@ function renderCanvasFallback(
         zoomIdentity.translate(camera.x, camera.y).scale(camera.k),
       ),
   }
+  bindGraphKeyboard(canvas, renderer)
+  return renderer
 }
 async function renderGraph(
   container: HTMLElement,
@@ -903,22 +1029,24 @@ function typeOptions(
   const list = root.querySelector<HTMLElement>("[data-type-list]")!
   const counts = new Map<string, number>()
   for (const node of topology.nodes) counts.set(node.type, (counts.get(node.type) ?? 0) + 1)
-  list.innerHTML = [...counts]
-    .filter(([type]) => typeLabels[type])
-    .sort((a, b) => typeLabels[a[0]].localeCompare(typeLabels[b[0]], "lt"))
-    .map(
-      ([type, count]) =>
-        `<label><input type="checkbox" value="${escapeHtml(type)}" ${state.types.includes(type) ? "checked" : ""}/><span>${escapeHtml(typeLabels[type])}</span><b>${count}</b></label>`,
-    )
-    .join("")
-  list.querySelectorAll<HTMLInputElement>("input").forEach((input) =>
-    input.addEventListener("change", () => {
+  if (!list.childElementCount)
+    list.innerHTML = [...counts]
+      .filter(([type]) => typeLabels[type])
+      .sort((a, b) => typeLabels[a[0]].localeCompare(typeLabels[b[0]], "lt"))
+      .map(
+        ([type, count]) =>
+          `<label><input type="checkbox" value="${escapeHtml(type)}" ${state.types.includes(type) ? "checked" : ""}/><span>${escapeHtml(typeLabels[type])}</span><b>${count}</b></label>`,
+      )
+      .join("")
+  list.querySelectorAll<HTMLInputElement>("input").forEach((input) => {
+    input.checked = state.types.includes(input.value)
+    input.onchange = () => {
       state.types = input.checked
         ? [...new Set([...state.types, input.value])]
         : state.types.filter((value) => value !== input.value)
       onChange()
-    }),
-  )
+    }
+  })
   const isolated = root.querySelector<HTMLInputElement>("input[name='showIsolated']")!
   isolated.checked = state.showIsolated
   isolated.onchange = () => {
@@ -942,41 +1070,46 @@ function relationOptions(
     group.kinds.push(kind)
     groups.set(spec.group, group)
   }
-  container.innerHTML = [...groups]
-    .map(([group, data]) => {
-      const active = data.kinds.filter((kind) => state.relations.includes(kind)).length
-      const count = data.kinds.reduce(
-        (sum, kind) => sum + (topology.relationKinds[kind].edgeCount ?? 0),
-        0,
-      )
-      return `<details ${group !== "bendri" ? "open" : ""}><summary><label><input type="checkbox" data-relation-group="${group}" ${active === data.kinds.length ? "checked" : ""}/><span>${escapeHtml(data.label)}</span><b>${count}</b></label></summary><div>${data.kinds
-        .sort((a, b) =>
-          topology.relationKinds[a].label.localeCompare(topology.relationKinds[b].label, "lt"),
+  if (!container.childElementCount)
+    container.innerHTML = [...groups]
+      .map(([group, data]) => {
+        const active = data.kinds.filter((kind) => state.relations.includes(kind)).length
+        const count = data.kinds.reduce(
+          (sum, kind) => sum + (topology.relationKinds[kind].edgeCount ?? 0),
+          0,
         )
-        .map(
-          (kind) =>
-            `<label><input type="checkbox" value="${kind}" ${state.relations.includes(kind) ? "checked" : ""}/><span>${escapeHtml(topology.relationKinds[kind].label)}</span><b>${topology.relationKinds[kind].edgeCount ?? 0}</b></label>`,
-        )
-        .join("")}</div></details>`
-    })
-    .join("")
-  container.querySelectorAll<HTMLInputElement>("input[value]").forEach((input) =>
-    input.addEventListener("change", () => {
+        return `<details ${group !== "bendri" ? "open" : ""}><summary><label><input type="checkbox" data-relation-group="${group}" ${active === data.kinds.length ? "checked" : ""}/><span>${escapeHtml(data.label)}</span><b>${count}</b></label></summary><div>${data.kinds
+          .sort((a, b) =>
+            topology.relationKinds[a].label.localeCompare(topology.relationKinds[b].label, "lt"),
+          )
+          .map(
+            (kind) =>
+              `<label><input type="checkbox" value="${kind}" ${state.relations.includes(kind) ? "checked" : ""}/><span>${escapeHtml(topology.relationKinds[kind].label)}</span><b>${topology.relationKinds[kind].edgeCount ?? 0}</b></label>`,
+          )
+          .join("")}</div></details>`
+      })
+      .join("")
+  container.querySelectorAll<HTMLInputElement>("input[value]").forEach((input) => {
+    input.checked = state.relations.includes(input.value)
+    input.onchange = () => {
       state.relations = input.checked
         ? [...new Set([...state.relations, input.value])]
         : state.relations.filter((value) => value !== input.value)
       onChange(input.value)
-    }),
-  )
-  container.querySelectorAll<HTMLInputElement>("[data-relation-group]").forEach((input) =>
-    input.addEventListener("change", () => {
-      const kinds = groups.get(input.dataset.relationGroup!)!.kinds
+    }
+  })
+  container.querySelectorAll<HTMLInputElement>("[data-relation-group]").forEach((input) => {
+    const kinds = groups.get(input.dataset.relationGroup!)!.kinds
+    const active = kinds.filter((kind) => state.relations.includes(kind)).length
+    input.checked = active === kinds.length
+    input.indeterminate = active > 0 && active < kinds.length
+    input.onchange = () => {
       state.relations = input.checked
         ? [...new Set([...state.relations, ...kinds])]
         : state.relations.filter((value) => !kinds.includes(value))
       onChange()
-    }),
-  )
+    }
+  })
 }
 function popovers(root: HTMLElement): () => void {
   const close = () => {
@@ -1063,6 +1196,10 @@ async function setup(root: HTMLElement) {
   root.addEventListener("change", onGraphFilterChange)
   let allEdges = [...topology.edges]
   let renderer: Renderer | null = null
+  let initialCamera: Camera | undefined
+  let renderedSize = { width: 0, height: 0 }
+  let entered = false
+  let disposed = false
   const worker = createLayoutWorker()
   let renderToken = 0
   let panelRenderToken = 0
@@ -1115,12 +1252,15 @@ async function setup(root: HTMLElement) {
       }
   }
   async function rerender(restoreCamera?: Camera) {
+    if (disposed) return
     const token = ++renderToken
     const panelToken = ++panelRenderToken
     root.dataset.panel = state.panel
     if (state.panel === "hidden") panel.replaceChildren()
     status.hidden = false
     status.textContent = "Ruošiamas žemėlapis…"
+    showGraphHover(canvas, null)
+    overview.hidden = Boolean(state.focus)
     await ensureLayers()
     const graph = buildVisibleGraph(topology, allEdges, state, selectedSourceIds())
     root.dataset.renderedNodes = String(graph.nodes.length)
@@ -1133,13 +1273,14 @@ async function setup(root: HTMLElement) {
     await new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
     if (token !== renderToken) return
     renderer?.destroy()
-    renderer = await renderGraph(canvas, graph, {
+    renderer = null
+    const nextRenderer = await renderGraph(canvas, graph, {
       focus: (slug) => {
         state = {
           ...state,
           focus: slug,
           depth: 1,
-          panel: state.panel === "hidden" ? "details" : state.panel,
+          panel: state.panel === "hidden" && !mobileProfile() ? "details" : state.panel,
         }
         commit()
         const node = topology.nodes.find((candidate) => candidate.slug === slug)
@@ -1182,9 +1323,35 @@ async function setup(root: HTMLElement) {
         saveCamera()
       },
     })
-    if (restoreCamera) renderer.applyCamera(restoreCamera)
+    if (token !== renderToken || disposed) {
+      nextRenderer.destroy()
+      return
+    }
+    renderer = nextRenderer
+    const sameSize =
+      renderedSize.width === canvas.clientWidth && renderedSize.height === canvas.clientHeight
+    renderedSize = { width: canvas.clientWidth, height: canvas.clientHeight }
+    initialCamera = renderer.camera()
+    if (restoreCamera && sameSize) renderer.applyCamera(restoreCamera)
+    if (!entered) {
+      entered = true
+      const surface = canvas.querySelector("canvas")
+      if (surface && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+        const arrival = surface.animate(
+          [
+            { opacity: 0, transform: "scale(.9)" },
+            { opacity: 1, transform: "scale(1)" },
+          ],
+          { duration: 1100, easing: "cubic-bezier(.16,1,.3,1)" },
+        )
+        surface.addEventListener("pointerdown", () => arrival.finish(), { once: true })
+      }
+    }
 
-    status.hidden = true
+    status.hidden = graph.nodes.length > 0
+    if (!graph.nodes.length)
+      status.textContent =
+        "Pagal šiuos filtrus objektų nėra. Pakeiskite filtrus arba juos atstatykite."
     root.dataset.panel = state.panel
 
     if (graph.focus) {
@@ -1225,6 +1392,26 @@ async function setup(root: HTMLElement) {
       `<span>${scope}: ${graph.nodes.length.toLocaleString("lt-LT")} objektai</span><span>${graph.edges.length.toLocaleString("lt-LT")} ryšiai</span>`
   }
   function sync() {
+    const orbit = root.querySelector<HTMLElement>("[data-type-orbit]")!
+    if (!orbit.childElementCount)
+      orbit.innerHTML = defaults.types
+        .map(
+          (type) =>
+            `<button type="button" data-orbit-type="${escapeHtml(type)}" aria-pressed="${state.types.includes(type)}" style="--type-color:#${(typeColors[type] ?? graphVisual.fallbackNode).toString(16).padStart(6, "0")}"><i aria-hidden="true"></i>${escapeHtml(typeLabels[type])}</button>`,
+        )
+        .join("")
+    orbit.querySelectorAll<HTMLButtonElement>("button").forEach((button) => {
+      button.setAttribute("aria-pressed", String(state.types.includes(button.dataset.orbitType!)))
+      button.onclick = () => {
+        const type = button.dataset.orbitType!
+        state.types = state.types.includes(type)
+          ? state.types.filter((value) => value !== type)
+          : [...state.types, type]
+        commit()
+        sync()
+        void rerender()
+      }
+    })
     typeOptions(root, topology, state, () => {
       commit()
       sync()
@@ -1274,6 +1461,7 @@ async function setup(root: HTMLElement) {
   const renderSuggestions = () => {
     const needle = normalize(search.value.trim())
     if (needle.length < 2) {
+      suggestions = []
       suggest.hidden = true
       return
     }
@@ -1307,7 +1495,7 @@ async function setup(root: HTMLElement) {
       ...state,
       focus: slug,
       depth: 1,
-      panel: state.panel === "hidden" ? "details" : state.panel,
+      panel: state.panel === "hidden" && !mobileProfile() ? "details" : state.panel,
     }
     commit()
     const node = topology.nodes.find((candidate) => candidate.slug === slug)
@@ -1381,10 +1569,7 @@ async function setup(root: HTMLElement) {
     panel.replaceChildren()
     commit()
     sync()
-    renderer?.destroy()
-    renderer = null
-    overview.hidden = false
-    status.hidden = true
+    void rerender()
   }
   root.querySelector<HTMLButtonElement>("[data-clear-focus]")!.onclick = () => {
     emitAnalyticsMap("home", { map_view: "full", input_method: "button" })
@@ -1396,15 +1581,15 @@ async function setup(root: HTMLElement) {
     root.querySelector<HTMLElement>("[data-focus-title]")!.textContent = ""
     commit()
     sync()
-    renderer?.destroy()
-    renderer = null
-    overview.hidden = false
-    status.hidden = true
+    void rerender()
   }
   root.querySelector<HTMLButtonElement>("[data-graph-reset]")!.onclick = () => {
     emitAnalyticsMap("reset", { map_view: "full", input_method: "button" })
-    state = { ...stateFromUrl(defaults.relations, defaults.types, graphSlugMap), sources: [] }
-    state.focus = resolveTopologyFocus(topology, state.focus)
+    state = {
+      ...parseGraphState(new URLSearchParams(), defaults.relations, defaults.types),
+      focus: state.focus,
+      panel: state.panel,
+    }
     commit()
     sync()
     void rerender()
@@ -1417,10 +1602,6 @@ async function setup(root: HTMLElement) {
       input_method: "button",
     })
     setPanelMode(mode)
-  }
-  root.querySelector<HTMLButtonElement>("[data-panel-show]")!.onclick = () => {
-    emitAnalyticsMap("panel_open", { map_view: "full", map_panel_mode: "details" })
-    setPanelMode("details")
   }
   root.querySelectorAll<HTMLInputElement>("input[name='depth']").forEach(
     (input) =>
@@ -1532,17 +1713,49 @@ async function setup(root: HTMLElement) {
     void rerender(camera)
   }
   window.addEventListener("popstate", onPopState)
-  root.querySelector<HTMLButtonElement>("[data-overview-search]")!.onclick = () => search.focus()
-  root.querySelector<HTMLButtonElement>("[data-overview-all]")!.onclick = () => {
-    overview.hidden = true
-    void rerender()
+  const zoomBy = (factor: number) => {
+    if (!renderer) return
+    const previous = renderer.camera(),
+      k = Math.max(0.08, Math.min(8, previous.k * factor))
+    const x = canvas.clientWidth / 2,
+      y = canvas.clientHeight / 2
+    renderer.applyCamera({
+      x: x - ((x - previous.x) * k) / previous.k,
+      y: y - ((y - previous.y) * k) / previous.k,
+      k,
+    })
   }
-  if (state.focus) await rerender()
-  else {
-    overview.hidden = false
-    status.hidden = true
+  root.querySelector<HTMLButtonElement>("[data-zoom-in]")!.onclick = () => zoomBy(1.4)
+  root.querySelector<HTMLButtonElement>("[data-graph-theme]")!.onclick = () => {
+    const theme = graphPalette().dark ? "light" : "dark"
+    document.documentElement.setAttribute("saved-theme", theme)
+    localStorage.setItem("theme", theme)
+    document.dispatchEvent(new CustomEvent("themechange", { detail: { theme } }))
   }
+  root.querySelector<HTMLButtonElement>("[data-zoom-out]")!.onclick = () => zoomBy(1 / 1.4)
+  root.querySelector<HTMLButtonElement>("[data-zoom-fit]")!.onclick = () => {
+    if (initialCamera) renderer?.applyCamera(initialCamera)
+  }
+  let resizeTimer = 0
+  const resize = () => {
+    window.clearTimeout(resizeTimer)
+    resizeTimer = window.setTimeout(() => void rerender(), 160)
+  }
+  const onTheme = () => {
+    window.clearTimeout(resizeTimer)
+    const sameSize =
+      renderedSize.width === canvas.clientWidth && renderedSize.height === canvas.clientHeight
+    void rerender(sameSize ? camera : undefined)
+  }
+  window.addEventListener("resize", resize)
+  document.addEventListener("themechange", onTheme)
   window.addCleanup?.(() => {
+    disposed = true
+    renderToken++
+    panelRenderToken++
+    window.clearTimeout(resizeTimer)
+    window.removeEventListener("resize", resize)
+    document.removeEventListener("themechange", onTheme)
     root.removeEventListener("change", onGraphFilterChange)
     window.removeEventListener("popstate", onPopState)
     cleanupPopovers()
@@ -1551,6 +1764,7 @@ async function setup(root: HTMLElement) {
     delete root.dataset.graphExplorerInitialized
     document.body.classList.remove("graph-explorer-active")
   })
+  await rerender()
 }
 
 export async function initClient() {

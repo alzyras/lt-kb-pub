@@ -62,7 +62,20 @@ export default (() => {
         </label>
 
         <div class="graph-explorer-toolbar-actions" role="toolbar" aria-label="Žemėlapio filtrai">
-          <button type="button" data-popover-toggle="types" aria-expanded="false">
+          <button
+            type="button"
+            data-graph-theme
+            aria-label="Keisti žemėlapio temą"
+            title="Keisti temą"
+          >
+            ◐
+          </button>
+          <button
+            type="button"
+            data-popover-toggle="types"
+            aria-expanded="false"
+            aria-label="Filtruoti objektų tipus"
+          >
             <Icon>
               <circle cx="6" cy="7" r="2" />
               <circle cx="18" cy="7" r="2" />
@@ -72,7 +85,12 @@ export default (() => {
             <span>Objektai</span>
             <b data-type-count></b>
           </button>
-          <button type="button" data-popover-toggle="relations" aria-expanded="false">
+          <button
+            type="button"
+            data-popover-toggle="relations"
+            aria-expanded="false"
+            aria-label="Filtruoti ryšius"
+          >
             <Icon>
               <circle cx="5" cy="12" r="2" />
               <circle cx="19" cy="6" r="2" />
@@ -82,7 +100,12 @@ export default (() => {
             <span>Ryšiai</span>
             <b data-relation-count></b>
           </button>
-          <button type="button" data-popover-toggle="books" aria-expanded="false">
+          <button
+            type="button"
+            data-popover-toggle="books"
+            aria-expanded="false"
+            aria-label="Filtruoti šaltinius"
+          >
             <Icon>
               <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
               <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
@@ -261,27 +284,29 @@ export default (() => {
           </div>
           <section class="graph-explorer-overview" data-graph-overview hidden>
             <p class="graph-explorer-overview-eyebrow">Ryšių žemėlapis</p>
-            <h1>Pradėk nuo objekto</h1>
-            <p>
-              Ieškok žmogaus, vietos, įvykio ar sąvokos ir tyrinėk tiesioginius istorinius ryšius.
-            </p>
-            <button type="button" class="graph-explorer-overview-search" data-overview-search>
-              Ieškoti objekto <span aria-hidden="true">→</span>
-            </button>
-            <div class="graph-explorer-overview-types" aria-label="Objektų tipai">
-              <a href="/objektai/asmenys">Asmenys</a>
-              <a href="/objektai/ivykiai">Įvykiai</a>
-              <a href="/objektai/vietos">Vietos</a>
-              <a href="/objektai/daiktai">Daiktai</a>
-              <a href="/objektai/zodynas">Žodynas</a>
-            </div>
-            <button type="button" class="graph-explorer-overview-all" data-overview-all>
-              Rodyti visą tinklą
-            </button>
+            <h1>Istorijos visata</h1>
+            <p>Priartink. Pasirink objektą. Atrask jo ryšius.</p>
           </section>
-          <button type="button" class="graph-explorer-show-panel" data-panel-show>
-            Rodyti panelį
-          </button>
+          <nav
+            class="graph-explorer-type-orbit"
+            data-type-orbit
+            aria-label="Greiti objektų tipų filtrai"
+          />
+          <div class="graph-explorer-hover" data-graph-hover role="status" hidden />
+          <div class="graph-explorer-camera" role="toolbar" aria-label="Žemėlapio mastelis">
+            <button type="button" data-zoom-in aria-label="Priartinti">
+              +
+            </button>
+            <button type="button" data-zoom-out aria-label="Atitolinti">
+              −
+            </button>
+            <button type="button" data-zoom-fit aria-label="Sutalpinti visą vaizdą">
+              ↗
+            </button>
+          </div>
+          <p class="graph-explorer-gesture">
+            Slinkite norėdami priartinti · Vilkite norėdami judėti
+          </p>
           <div class="graph-explorer-legend" data-graph-legend></div>
         </div>
       </section>
