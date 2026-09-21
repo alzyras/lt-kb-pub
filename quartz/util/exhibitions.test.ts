@@ -51,10 +51,10 @@ describe("exhibition manifest", () => {
   const exhibitions = loadExhibitions()
   test("family registers link distinct people and sources to real public notes", () => {
     const families = exhibitions.filter(entry => entry.familyMembers?.length)
-    assert.equal(families.length, 2)
+    assert.equal(families.length, 3)
     for (const family of families) {
       const members = family.familyMembers!
-      assert.ok(members.length >= 50)
+      assert.ok(members.length >= 20)
       assert.ok(family.familyMembersScope)
       assert.equal(new Set(members.map(member => member.href)).size, members.length)
       for (const member of members) {

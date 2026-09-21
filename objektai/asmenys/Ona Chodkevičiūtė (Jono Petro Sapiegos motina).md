@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: "Ona Chodkevičiūtė (Jono Petro Sapiegos motina)"
+pavadinimas: 'Ona Chodkevičiūtė (Jono Petro Sapiegos motina)'
 aliases: []
 datos: ["XVI a."]
 sukurta: ''
@@ -24,22 +24,20 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Ona Chodkevičiūtė (Jono Petro Sapiegos motina)"]
 sameAs: []
-canonical_biography: "Ona Chodkevičiūtė buvo Povilo Sapiegos žmona ir Jono Petro Sapiegos motina."
+canonical_biography: "Ona Chodkevičiūtė buvo Povilo Sapiegos žmona ir Jono Petro Sapiegos motina. Šaltinis ją įvardija kaip Chodkevičių giminės narę, tačiau šiame registre jos šaka nepatikslinama."
 ---
-
 # Ona Chodkevičiūtė (Jono Petro Sapiegos motina)
 
 ## Santrauka
 
-Ona Chodkevičiūtė buvo Povilo Sapiegos žmona ir Jono Petro Sapiegos motina.
+Ona Chodkevičiūtė buvo Povilo Sapiegos žmona ir Jono Petro Sapiegos motina. Šaltinis ją įvardija kaip Chodkevičių giminės narę, tačiau šiame registre jos šaka nepatikslinama.
 
 ## Šaltiniai
 
-- [VLE: Ona Chodkevičiūtė (Jono Petro Sapiegos motina)](https://www.vle.lt/straipsnis/jonas-petras-sapiega/)
+- [VLE: Jonas Petras Sapiega](https://www.vle.lt/straipsnis/jonas-petras-sapiega/)
 
 ## Šeima
 
-- [[objektai/asmenys/Povilas Sapiega (Jono Petro tėvas)|Povilas Sapiega (Jono Petro tėvas)]]
 - [[objektai/asmenys/Jonas Petras Sapiega (1569–1611)|Jonas Petras Sapiega (1569–1611)]]
 
-[[objektai/grupes/Sapiegos|Sapiegos]] · [[straipsniai/sapiegos-statutai-rumai-ir-laiskai|Giminės narių registras ir istorija]]
+[[objektai/grupes/Chodkevičiai|Chodkevičiai]] · [[straipsniai/chodkeviciai-etmonai-miestai-ir-spaustuves|Giminės narių registras ir istorija]]

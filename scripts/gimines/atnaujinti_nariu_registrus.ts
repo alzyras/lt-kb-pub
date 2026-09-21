@@ -1,4 +1,4 @@
-/** Build both public registers from reviewed identities, using the real site slug map. */
+/** Build all reviewed family registers, using the real site slug map. */
 import fs from "node:fs"
 import { createUniqueSlugMap, type FilePath } from "../../quartz/util/path"
 const files = fs.readdirSync("objektai", { recursive: true }).map(String)
@@ -7,7 +7,10 @@ const slugs = createUniqueSlugMap(files)
 const manifestPath = "quartz/static/exhibitionNobleFamilies.json"
 const manifest = JSON.parse(fs.readFileSync(manifestPath, "utf8"))
 const existing = JSON.parse(fs.readFileSync("scripts/gimines/nariu-nuorodos.json", "utf8"))
-const seeds = ["radvilos", "sapiegos"].map((id) => JSON.parse(fs.readFileSync(`scripts/gimines/${id}-asmenys.json`, "utf8")))
+const seeds = fs.readdirSync("scripts/gimines")
+  .filter((name) => name.endsWith("-asmenys.json"))
+  .sort()
+  .map((name) => JSON.parse(fs.readFileSync(`scripts/gimines/${name}`, "utf8")))
 function href(notePath: string) {
   const slug = slugs.get(notePath as FilePath)
   if (!slug || !fs.existsSync(notePath)) throw new Error(`Missing object: ${notePath}`)
@@ -21,10 +24,11 @@ function sourceTitle(url: string, fallback: string) {
 }
 for (const seed of seeds) {
   const people = [...seed.people]
-  if (seed.family === "Radvilos") people.push(...seeds[1].people.filter((p: any) => /Radvilaitė/.test(p.name)))
+  const sapiegos = seeds.find((candidate: any) => candidate.family === "Sapiegos")
+  if (seed.family === "Radvilos" && sapiegos) people.push(...sapiegos.people.filter((p: any) => /Radvilaitė/.test(p.name)))
   const members = people.map((p: any) => ({ name: p.name, dates: p.dates, href: href(p.notePath),
     sources: p.sources.map((s: any) => ({ title: sourceTitle(s.url, s.title), url: s.url })) }))
-  for (const [file, name, dates, source] of existing[seed.family]) {
+  for (const [file, name, dates, source] of existing[seed.family] ?? []) {
     const url = source.startsWith("https:") ? source : `https://www.vle.lt/straipsnis/${source}/`
     members.push({ name, dates, href: href(`objektai/asmenys/${file}.md`),
       sources: [{ title: sourceTitle(url, url.includes("lkma.lt") ? "Rimvydas Petrauskas: Albertas Radvila" : url.includes("istorija.lt") ? "Lietuvos istorijos institutas: Antano Kazimiero Sapiegos korespondencija" : "Dalia Tarandaitė: Sapiegų portretai"), url }] })
@@ -42,7 +46,11 @@ for (const seed of seeds) {
   else if (seed.family === "Radvilos") text = text.replace(/## Radvilų narių puslapiai[\s\S]*?(?=## Plačiau apie giminę)/, `<!-- FAMILY-REGISTER:START -->\n${table}<!-- FAMILY-REGISTER:END -->\n\n`)
   else text = text.replace(/## Žmonių ir įvykių puslapiai[\s\S]*/, `<!-- FAMILY-REGISTER:START -->\n${table}<!-- FAMILY-REGISTER:END -->\n\n[Radvilų giminės apžvalga](/straipsniai/radvilos-gimine-valdos-ir-paveldas).\n`)
   fs.writeFileSync(article, text)
-  fs.writeFileSync(`scripts/gimines/${seed.family === "Radvilos" ? "radvilos" : "sapiegos"}-nariu-registras.md`, `# ${seed.family}: patikrintų tapatybių registras\n\nAtnaujinta 2026-09-21.\n\n${table}`)
+  const familyId = seed.articleSlug.split("-")[0]
+  const registerPath = `scripts/gimines/${familyId}-nariu-registras.md`
+  const previousRegister = fs.existsSync(registerPath) ? fs.readFileSync(registerPath, "utf8") : ""
+  const registerDate = previousRegister.match(/Atnaujinta (\d{4}-\d{2}-\d{2})\./)?.[1] ?? "2026-09-22"
+  fs.writeFileSync(registerPath, `# ${seed.family}: patikrintų tapatybių registras\n\nAtnaujinta ${registerDate}.\n\n${table}`)
   console.log(`${seed.family}: ${members.length}`)
 }
 const byId = new Map(manifest.exhibitions.flatMap((e: any) => e.sections.flatMap((s: any) => s.items.map((i: any) => [i.exhibitionItemId, i])))) as Map<string, any>

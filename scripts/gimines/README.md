@@ -12,7 +12,7 @@ Kiekvienai giminei sukurtas atskiras darbo failas su rastų asmenų puslapiais. 
 |---:|---|---:|---:|---|---|
 | 1 | [Radvilos](radvilos.md) | 1 | 64 | Biržai, Dubingiai, Nesvyžius, Olyka; šakos, Reformacija, knygos ir paveldėjimas | Paroda ir narių registras parengti |
 | 2 | [Sapiegos](sapiegos.md) | 1 | 60 | Leonas Sapiega, Statutas, Ružanai, Vilniaus rezidencijos ir bibliotekos | Paroda ir narių registras parengti |
-| 3 | [Chodkevičiai](chodkeviciai.md) | 1 | 10 | Karvedžiai, Kretinga, Skuodas, Bychavas ir vienuolynų fundacijos | Laukia tyrimo |
+| 3 | [Chodkevičiai](chodkeviciai.md) | 1 | 26 | Karvedžiai, Kretinga, Skuodas, Bychavas ir vienuolynų fundacijos | Paroda ir narių registras parengti |
 | 4 | [Pacai](pacai.md) | 1 | 8 | Pažaislis, Vilniaus Šv. Petro ir Povilo bažnyčia, Jieznas | Laukia tyrimo |
 | 5 | [Tiškevičiai](tiskeviciai.md) | 1 | 6 | Kretinga, Palanga, Lentvaris, Trakų Vokė, Užutrakis; kolekcijos ir fotografija | Laukia tyrimo |
 | 6 | [Oginskiai](oginskiai.md) | 1 | 5 | Rietavas, Plungė, Zalesė; muzika, švietimas ir modernėjimas | Laukia tyrimo |
@@ -59,16 +59,17 @@ Kiekvienai giminei sukurtas atskiras darbo failas su rastų asmenų puslapiais. 
 | 47 | [Potockiai](potockiai.md) | 3 | 4 | Atrinkti su LDK susijusias šakas, valdas ir santuokas | Laukia tyrimo |
 | 48 | [Puttkameriai](puttkameriai.md) | 3 | 0 | Vilniaus krašto dvarai, literatūrinė atmintis ir genealogija | Laukia tyrimo |
 
-## Parengtos Radvilų ir Sapiegų parodos
+## Parengtos Radvilų, Sapiegų ir Chodkevičių parodos
 
 - [Straipsnio tekstas](../../straipsniai/radvilos-gimine-valdos-ir-paveldas.md).
 - [Parodos manifestas](../../quartz/static/exhibitionNobleFamilies.json): /parodos/radvilos-gimine-valdos-ir-paveldas.
 - [Radvilų narių inventorius](radvilos.md) ir [tyrimo užrašai](radvilos-tyrimas.md).
 - [Sapiegų straipsnis](../../straipsniai/sapiegos-statutai-rumai-ir-laiskai.md) ir [tyrimo užrašai](sapiegos-tyrimas.md).
-- Abi parodos turi po 12 šaltiniais pagrįstų eksponatų. Prie kiekvieno pateikta kilmės nuoroda, teisių informacija, ryšys su vietiniu objektu ir pastaba apie tai, ką vaizdas įrodo arba ko neleidžia teigti.
-- [58 Radvilų registro įrašai](radvilos-nariu-registras.md) ir [68 Sapiegų registro įrašai](sapiegos-nariu-registras.md), įskaitant sutuoktinius. Trijų moterų puslapiai sieja abi gimines.
-- Sukurti 89 nauji asmenų puslapiai ir papildytos devynios pradinės Radvilų biografijos; turinys saugomas kanoninėje DB.
-- Dabartinė užduotis apsiriboja šiomis dviem parodomis. Likusių giminių failai yra tyrimo planas.
+- [Chodkevičių straipsnis](../../straipsniai/chodkeviciai-etmonai-miestai-ir-spaustuves.md) ir [tyrimo užrašai](chodkeviciai-tyrimas.md).
+- Visos trys parodos turi po 12 šaltiniais pagrįstų eksponatų. Prie kiekvieno pateikta kilmės nuoroda, teisių informacija, ryšys su vietiniu objektu ir pastaba apie tai, ką vaizdas įrodo arba ko neleidžia teigti.
+- [58 Radvilų registro įrašai](radvilos-nariu-registras.md), [68 Sapiegų registro įrašai](sapiegos-nariu-registras.md) ir [26 Chodkevičių registro įrašai](chodkeviciai-nariu-registras.md), įskaitant sutuoktinius ir vardais paliudytus vaikus.
+- Chodkevičių rinkinyje sukurta 20 naujų kanoninių asmenų puslapių, papildytos esamos kortelės ir sujungti septyni dubliai; turinys saugomas kanoninėje DB.
+- Parengtos trys pirmojo etapo parodos. Likusių giminių failai yra tyrimo planas.
 
 ## Užbaigimo kriterijus
 

@@ -1,0 +1,541 @@
+{
+  "family": "Chodkevičiai",
+  "scope": "Vardais nustatyti Chodkevičių nariai ir artimiausi sutuoktiniai, paliudyti VLE giminės bei individualiose biografijose, Genutės Kirkienės ankstyvosios giminės tyrime ir Juliaus Kanarsko Kretingos fundacijos studijoje. Neįvardytos Berastavicos šakos dukterys neįtrauktos, nes pasirinkti šaltiniai nepateikia jų vardų.",
+  "articleSlug": "chodkeviciai-etmonai-miestai-ir-spaustuves",
+  "projectionPaths": [
+    "objektai/grupes/Švedai.md",
+    "objektai/vietos/Livonija.md"
+  ],
+  "people": [
+    {
+      "name": "Chodka Jurgaitis",
+      "notePath": "objektai/asmenys/Chodka Jurgaitis.md",
+      "dates": "XV a. pirmoji pusė",
+      "bio": "Chodka Jurgaitis – XV a. pirmosios pusės Lietuvos Didžiosios Kunigaikštystės didikas, laikomas Chodkevičių giminės pirmtaku. Genutė Kirkienė jį sieja su Gardino žeme ir pabrėžia, kad ankstesnės kilmės versijos nėra galutinai įrodytos.",
+      "sources": [
+        {
+          "title": "Genutė Kirkienė, LDK politikos elito galingieji: Chodkevičiai XV–XVI amžiuje",
+          "url": "https://www.lituanistika.lt/content/16691"
+        }
+      ],
+      "related": [
+        "Jonas Chodkevičius (apie 1420–1485)"
+      ],
+      "aliases": [
+        "Chodka",
+        "Chodor",
+        "Fiodoras"
+      ]
+    },
+    {
+      "name": "Jonas Chodkevičius (apie 1420–1485)",
+      "notePath": "objektai/asmenys/Jonas Chodkevičius (apie 1420–1485).md",
+      "dates": "apie 1420–1485",
+      "bio": "Chodkos Jurgaičio sūnus Jonas iškilo tarnaudamas Kazimierui Jogailaičiui. Jis buvo valdovo maršalka, Lydos vietininkas, Vitebsko vietininkas, Lucko seniūnas ir Kijevo vaivada. 1482 m. pateko į Krymo totorių nelaisvę ir iš jos negrįžo.",
+      "sources": [
+        {
+          "title": "VLE: Jonas Chodkevičius (apie 1420–1485)",
+          "url": "https://www.vle.lt/straipsnis/jonas-chodkevicius/"
+        },
+        {
+          "title": "Genutė Kirkienė, LDK politikos elito galingieji: Chodkevičiai XV–XVI amžiuje",
+          "url": "https://www.lituanistika.lt/content/16691"
+        }
+      ],
+      "related": [
+        "Chodka Jurgaitis",
+        "Jaunutė Agnietė Bielskytė",
+        "Aleksandras Chodkevičius (1475–1549)"
+      ],
+      "aliases": [
+        "Jonas Chodkaitis",
+        "Ivanas Chodkevičius"
+      ]
+    },
+    {
+      "name": "Jaunutė Agnietė Bielskytė",
+      "notePath": "objektai/asmenys/Jaunutė Agnietė Bielskytė.md",
+      "dates": "XV a.",
+      "bio": "Jaunutė Agnietė Bielskytė buvo Jono Chodkevičiaus žmona. Ši santuoka Chodkevičius susiejo su kunigaikščių Alšėniškių ir Bielskių aplinka.",
+      "sources": [
+        {
+          "title": "VLE: Jonas Chodkevičius (apie 1420–1485)",
+          "url": "https://www.vle.lt/straipsnis/jonas-chodkevicius/"
+        }
+      ],
+      "related": [
+        "Jonas Chodkevičius (apie 1420–1485)",
+        "Aleksandras Chodkevičius (1475–1549)"
+      ],
+      "aliases": [
+        "Agnietė Bielskytė",
+        "Agneška Bielskytė"
+      ]
+    },
+    {
+      "name": "Aleksandras Chodkevičius (1475–1549)",
+      "notePath": "objektai/asmenys/Aleksandras Chodkevičius (1475-1549).md",
+      "dates": "1475–1549",
+      "bio": "Jono Chodkevičiaus sūnus Aleksandras buvo XVI a. pirmosios pusės Lietuvos Didžiosios Kunigaikštystės valstybės veikėjas. Jo sūnūs Jeronimas, Grigalius ir Jurgis pradėjo Bychavo, Berastavicos ir Supraslio giminės šakas.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        },
+        {
+          "title": "Genutė Kirkienė, LDK politikos elito galingieji: Chodkevičiai XV–XVI amžiuje",
+          "url": "https://www.lituanistika.lt/content/16691"
+        }
+      ],
+      "related": [
+        "Jonas Chodkevičius (apie 1420–1485)",
+        "Jaunutė Agnietė Bielskytė",
+        "Jeronimas Chodkevičius",
+        "Grigalius Chodkevičius",
+        "Jurgis Chodkevičius"
+      ],
+      "aliases": [],
+      "reactivateStub": true
+    },
+    {
+      "name": "Jeronimas Chodkevičius",
+      "notePath": "objektai/asmenys/Jeronimas Chodkevičius.md",
+      "dates": "XVI a.",
+      "bio": "Aleksandro Chodkevičiaus sūnus Jeronimas pradėjo turtingiausia laikytą Bychavo šaką. Jo sūnus Jonas tapo vienu svarbiausių XVI a. antrosios pusės Lietuvos Didžiosios Kunigaikštystės pareigūnų.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Aleksandras Chodkevičius (1475–1549)",
+        "Jonas Chodkevičius"
+      ],
+      "aliases": [],
+      "reactivateStub": true
+    },
+    {
+      "name": "Grigalius Chodkevičius",
+      "notePath": "objektai/asmenys/Grigalius Chodkevičius.md",
+      "dates": "apie 1505–1572",
+      "bio": "Aleksandro Chodkevičiaus sūnus Grigalius pradėjo Berastavicos šaką. Jis buvo Lietuvos lauko, vėliau didysis etmonas, 1564 m. kartu su Mikalojumi Radvila Ruduoju laimėjo Ulos mūšį, o Zabludove įsteigė slavišką spaustuvę.",
+      "sources": [
+        {
+          "title": "VLE: Grigalius Chodkevičius",
+          "url": "https://www.vle.lt/straipsnis/grigalius-chodkevicius/"
+        },
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Aleksandras Chodkevičius (1475–1549)",
+        "Aleksandras Chodkevičius (mirė 1578 m.)",
+        "Andrius Chodkevičius (1549–1575)"
+      ],
+      "aliases": [],
+      "enrichExisting": true
+    },
+    {
+      "name": "Jurgis Chodkevičius",
+      "notePath": "objektai/asmenys/Jurgis Chodkevičius.md",
+      "dates": "XVI a.",
+      "bio": "Aleksandro Chodkevičiaus sūnus Jurgis pradėjo Supraslio šaką. Kartu su broliu Grigaliumi jis rėmė Lietuvos Didžiosios Kunigaikštystės savarankiškumą pabrėžusią Radvilų politinę kryptį.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Aleksandras Chodkevičius (1475–1549)",
+        "Jurgis Chodkevičius (mirė 1595 m.)",
+        "Jeronimas Jarašius Chodkevičius (mirė 1617 m.)"
+      ],
+      "aliases": [],
+      "enrichExisting": true
+    },
+    {
+      "name": "Jonas Chodkevičius",
+      "notePath": "objektai/asmenys/Jonas Chodkevičius.md",
+      "dates": "apie 1537–1579",
+      "bio": "Jeronimo Chodkevičiaus sūnus Jonas buvo Žemaičių seniūnas, Lietuvos didysis maršalka, Livonijos administratorius ir Vilniaus kaštelionas. 1569 m. vadovavo Lietuvos Didžiosios Kunigaikštystės delegacijai per Liublino unijos derybas; 1572 m. iš evangelikų reformatų perėjo į katalikybę.",
+      "sources": [
+        {
+          "title": "VLE: Jonas Chodkevičius (apie 1537–1579)",
+          "url": "https://www.vle.lt/straipsnis/jonas-chodkevicius-1/"
+        },
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Jeronimas Chodkevičius",
+        "Jonas Karolis Chodkevičius",
+        "Aleksandras Chodkevičius (mirė apie 1626 m.)"
+      ],
+      "aliases": [
+        "Jonas Jeronimaitis Chodkevičius",
+        "Jonas Jeronimas Katkevičius"
+      ],
+      "enrichExisting": true,
+      "mergeFrom": [
+        "objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md",
+        "objektai/asmenys/Jonas Jeronimas Katkevičius.md",
+        "objektai/asmenys/Katkevičius (Liublino unijos derybininkas).md"
+      ]
+    },
+    {
+      "name": "Jonas Karolis Chodkevičius",
+      "notePath": "objektai/asmenys/Jonas Karolis Chodkevičius.md",
+      "dates": "1560–1621",
+      "bio": "Jono Chodkevičiaus sūnus Jonas Karolis buvo Lietuvos lauko, vėliau didysis etmonas ir Vilniaus vaivada. Jis vadovavo kariuomenei Livonijoje, 1605 m. laimėjo Salaspilio mūšį ir 1621 m. vadovavo jungtinei Abiejų Tautų Respublikos kariuomenei prie Chotino. Kretingoje su žmona Sofija Mieleckaite fundavo bernardinų vienuolyną ir bažnyčią.",
+      "sources": [
+        {
+          "title": "VLE: Jonas Karolis Chodkevičius",
+          "url": "https://www.vle.lt/straipsnis/jonas-karolis-chodkevicius/"
+        },
+        {
+          "title": "Julius Kanarskas, Kretingos miesto kūrėjas Jonas Karolis Chodkevičius",
+          "url": "https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf"
+        }
+      ],
+      "related": [
+        "Jonas Chodkevičius",
+        "Sofija Mieleckaitė-Chodkevičienė",
+        "Ona Scholastika Chodkevičiūtė",
+        "Jeronimas Krizostomas Chodkevičius",
+        "Jonas Kazimieras Chodkevičius"
+      ],
+      "aliases": [
+        "Jonas Karolis Katkevičius",
+        "J. K. Chodkevičius",
+        "Jono Karolio Chodkevičiaus"
+      ],
+      "enrichExisting": true,
+      "mergeFrom": [
+        "objektai/asmenys/Chodkevičius.md",
+        "objektai/asmenys/J. K. Chodkevičius.md",
+        "objektai/asmenys/Jonas Karolis Katkevičius.md",
+        "objektai/asmenys/Jono Karolio Chodkevičiaus.md"
+      ]
+    },
+    {
+      "name": "Aleksandras Chodkevičius (mirė apie 1626 m.)",
+      "notePath": "objektai/asmenys/Aleksandras Chodkevičius (m. apie 1626).md",
+      "dates": "mirė apie 1626 m.",
+      "bio": "Jono Chodkevičiaus sūnus Aleksandras 1605–1626 m. buvo Trakų vaivada. Salaspilio mūšyje vadovavo 150 ietininkų daliniui. Jam mirus baigėsi Chodkevičių Bychavo šakos vyriškoji linija.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Jonas Chodkevičius",
+        "Jonas Karolis Chodkevičius"
+      ],
+      "aliases": [],
+      "reactivateStub": true
+    },
+    {
+      "name": "Sofija Mieleckaitė-Chodkevičienė",
+      "notePath": "objektai/asmenys/Sofija Mieleckaitė-Chodkevičienė.md",
+      "dates": "mirė 1619 m.",
+      "bio": "Sofija Mieleckaitė buvo Jono Karolio Chodkevičiaus žmona ir Kretingos fundacijų bendraautorė. 1619 m. sutuoktiniai patvirtino bernardinų vienuolynui skirtą žemę ir metinį išlaikymą; Sofija palaidota Kretingos bažnyčios šeimos kriptoje.",
+      "sources": [
+        {
+          "title": "Julius Kanarskas, Kretingos miesto kūrėjas Jonas Karolis Chodkevičius",
+          "url": "https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf"
+        }
+      ],
+      "related": [
+        "Jonas Karolis Chodkevičius",
+        "Ona Scholastika Chodkevičiūtė",
+        "Jeronimas Krizostomas Chodkevičius",
+        "Jonas Kazimieras Chodkevičius"
+      ],
+      "aliases": [
+        "Zofija Mielecka",
+        "Sofija Mieleckaitė"
+      ]
+    },
+    {
+      "name": "Ona Scholastika Chodkevičiūtė",
+      "notePath": "objektai/asmenys/Ona Scholastika Chodkevičiūtė.md",
+      "dates": "mirė 1625 m.",
+      "bio": "Jono Karolio Chodkevičiaus ir Sofijos Mieleckaitės duktė Ona Scholastika 1620 m. ištekėjo už Jono Stanislovo Sapiegos. Po tėvo mirties jai atiteko dalis Chodkevičių valdų, tarp jų Kretinga, Skuodas ir Liachavičai.",
+      "sources": [
+        {
+          "title": "VLE: Jonas Stanislovas Sapiega",
+          "url": "https://www.vle.lt/straipsnis/jonas-stanislovas-sapiega/"
+        },
+        {
+          "title": "Julius Kanarskas, Kretingos miesto kūrėjas Jonas Karolis Chodkevičius",
+          "url": "https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf"
+        }
+      ],
+      "related": [
+        "Jonas Karolis Chodkevičius",
+        "Sofija Mieleckaitė-Chodkevičienė",
+        "Jonas Stanislovas Sapiega (1589–1635)"
+      ],
+      "aliases": [
+        "Ona Scholastika Chodkevičiūtė-Sapiegienė"
+      ],
+      "enrichExisting": true
+    },
+    {
+      "name": "Jeronimas Krizostomas Chodkevičius",
+      "notePath": "objektai/asmenys/Jeronimas Krizostomas Chodkevičius.md",
+      "dates": "mirė 1614 m.",
+      "bio": "Jeronimas Krizostomas buvo Jono Karolio ir Sofijos Chodkevičių vyresnysis sūnus. Jis mirė 1614 m. ir buvo palaidotas šeimos kriptoje Kretingos bernardinų bažnyčios požemiuose.",
+      "sources": [
+        {
+          "title": "Julius Kanarskas, Kretingos miesto kūrėjas Jonas Karolis Chodkevičius",
+          "url": "https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf"
+        }
+      ],
+      "related": [
+        "Jonas Karolis Chodkevičius",
+        "Sofija Mieleckaitė-Chodkevičienė",
+        "Jonas Kazimieras Chodkevičius"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jonas Kazimieras Chodkevičius",
+      "notePath": "objektai/asmenys/Jonas Kazimieras Chodkevičius.md",
+      "dates": "XVII a. pradžia",
+      "bio": "Jonas Kazimieras buvo jaunėlis Jono Karolio ir Sofijos Chodkevičių sūnus. Jis mirė vaikystėje ir buvo palaidotas Kretingos bernardinų bažnyčios šeimos kriptoje; šaltinis tikslios jo mirties datos nenurodo.",
+      "sources": [
+        {
+          "title": "Julius Kanarskas, Kretingos miesto kūrėjas Jonas Karolis Chodkevičius",
+          "url": "https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf"
+        }
+      ],
+      "related": [
+        "Jonas Karolis Chodkevičius",
+        "Sofija Mieleckaitė-Chodkevičienė",
+        "Jeronimas Krizostomas Chodkevičius"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Aleksandras Chodkevičius (mirė 1578 m.)",
+      "notePath": "objektai/asmenys/Aleksandras Chodkevičius (mirė 1578 m.).md",
+      "dates": "mirė 1578 m.",
+      "bio": "Grigaliaus Chodkevičiaus sūnus Aleksandras nuo 1576 m. buvo Gardino ir Mogiliavo seniūnas. 1578 m. dalyvavo Livonijos karo veiksmuose prie Cėsių.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Grigalius Chodkevičius",
+        "Andrius Chodkevičius (1549–1575)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Andrius Chodkevičius (1549–1575)",
+      "notePath": "objektai/asmenys/Andrius Chodkevičius (1549–1575).md",
+      "dates": "1549–1575",
+      "bio": "Andrius buvo Grigaliaus Chodkevičiaus sūnus ir Aleksandro brolis. VLE nurodo, kad jo ir brolio dukterų valdoms perėjus Pacams, Sapiegoms ir Sanguškoms, Berastavicos šaka išnyko.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Grigalius Chodkevičius",
+        "Aleksandras Chodkevičius (mirė 1578 m.)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jurgis Chodkevičius (mirė 1595 m.)",
+      "notePath": "objektai/asmenys/Jurgis Chodkevičius (mirė 1595 m.).md",
+      "dates": "mirė 1595 m.",
+      "bio": "Supraslio šakos pradininko Jurgio sūnus Jurgis nuo 1590 m. buvo Žemaičių seniūnas, o 1594 m. tapo Lietuvos Vyriausiojo Tribunolo maršalka.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Jurgis Chodkevičius",
+        "Jeronimas Jarašius Chodkevičius (mirė 1617 m.)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Jeronimas Jarašius Chodkevičius (mirė 1617 m.)",
+      "notePath": "objektai/asmenys/Jeronimas Jarašius Chodkevičius (mirė 1617 m.).md",
+      "dates": "mirė 1617 m.",
+      "bio": "Jurgio Chodkevičiaus sūnus Jeronimas, dar vadintas Jarašiumi, buvo Mstislavlio vaivada, Vilniaus kaštelionas ir Brastos seniūnas. Kelis kartus rinktas Lietuvos Vyriausiojo Tribunolo maršalka.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Jurgis Chodkevičius",
+        "Jurgis Chodkevičius (mirė 1595 m.)",
+        "Kristupas Chodkevičius"
+      ],
+      "aliases": [
+        "Jarašius Chodkevičius"
+      ]
+    },
+    {
+      "name": "Kristupas Chodkevičius",
+      "notePath": "objektai/asmenys/Kristupas Chodkevičius.md",
+      "dates": "mirė 1659 m.",
+      "bio": "Jeronimo Jarašiaus Chodkevičiaus sūnus Kristupas buvo Lietuvos didysis vėliavininkas, rūmų arklidininkas, Trakų ir Vilniaus kaštelionas, o nuo 1642 m. – Vilniaus vaivada. Jis keturis kartus rinktas Lietuvos Vyriausiojo Tribunolo maršalka.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Jeronimas Jarašius Chodkevičius (mirė 1617 m.)",
+        "Aleksandras Kristupas Chodkevičius"
+      ],
+      "aliases": [],
+      "reactivateStub": true
+    },
+    {
+      "name": "Aleksandras Kristupas Chodkevičius",
+      "notePath": "objektai/asmenys/Aleksandras Kristupas Chodkevičius.md",
+      "dates": "1615–1676",
+      "bio": "Kristupo Chodkevičiaus sūnus Aleksandras Kristupas nuo 1651 m. buvo Cėsių vyskupas. Jis priklausė Supraslio giminės šakai.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Kristupas Chodkevičius"
+      ],
+      "aliases": [],
+      "reactivateStub": true
+    },
+    {
+      "name": "Jonas Mikalojus Chodkevičius",
+      "notePath": "objektai/asmenys/Jonas Mikalojus Chodkevičius.md",
+      "dates": "1738–1781",
+      "bio": "Jonas Mikalojus Chodkevičius buvo Lietuvos kariuomenės generolas adjutantas, nuo 1765 m. Žemaitijos kaštelionas, vėliau seniūnas ir Veliuonos seniūnas. Mirė 1781 m. Černobylyje.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Aleksandras Chodkevičius (1776–1838)"
+      ],
+      "aliases": [],
+      "reactivateStub": true
+    },
+    {
+      "name": "Aleksandras Chodkevičius (1776–1838)",
+      "notePath": "objektai/asmenys/Aleksandras Chodkevičius (1776–1838).md",
+      "dates": "1776–1838",
+      "bio": "Jono Mikalojaus sūnus Aleksandras valdė Mlynivą, Černobylį ir Petrykavą. 1813 m. vienuolika mėnesių gynė Modlino tvirtovę, o Vilniuje išspausdino tragedijas „Katonas“ ir „Virginija“ bei mokslinių veikalų.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Jonas Mikalojus Chodkevičius",
+        "Miečislovas Chodkevičius (1807–1851)"
+      ],
+      "aliases": [
+        "Aleksander Chodkiewicz"
+      ]
+    },
+    {
+      "name": "Miečislovas Chodkevičius (1807–1851)",
+      "notePath": "objektai/asmenys/Miečislovas Chodkevičius (1807–1851).md",
+      "dates": "1807–1851",
+      "bio": "Aleksandro Chodkevičiaus sūnus Miečislovas gimė Pekalove, Voluinėje, buvo ulonų pulko puskarininkis ir mirė 1851 m. Dresdene.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Aleksandras Chodkevičius (1776–1838)",
+        "Jonas Karolis Gustavas Chodkevičius (1841–1887)",
+        "Vladislovas Jeronimas Adomas Chodkevičius (1845–1906)"
+      ],
+      "aliases": [
+        "Meczysław Chodkiewicz"
+      ]
+    },
+    {
+      "name": "Jonas Karolis Gustavas Chodkevičius (1841–1887)",
+      "notePath": "objektai/asmenys/Jonas Karolis Gustavas Chodkevičius (1841–1887).md",
+      "dates": "1841–1887",
+      "bio": "Miečislovo Chodkevičiaus sūnus Jonas Karolis Gustavas gimė 1841 m. Mlynive ir mirė 1887 m. Neapolyje. VLE jį nurodo kaip vėlyvosios Chodkevičių linijos atstovą.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Miečislovas Chodkevičius (1807–1851)",
+        "Vladislovas Jeronimas Adomas Chodkevičius (1845–1906)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Vladislovas Jeronimas Adomas Chodkevičius (1845–1906)",
+      "notePath": "objektai/asmenys/Vladislovas Jeronimas Adomas Chodkevičius (1845–1906).md",
+      "dates": "1845–1906",
+      "bio": "Miečislovo Chodkevičiaus sūnus Vladislovas Jeronimas Adomas gimė 1845 m. Dresdene ir mirė 1906 m. Mlynive. Jis yra vėliausias vardu įvardytas asmuo šios parodos genealoginėje aprėptyje.",
+      "sources": [
+        {
+          "title": "VLE: Chodkevičiai",
+          "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
+        }
+      ],
+      "related": [
+        "Miečislovas Chodkevičius (1807–1851)",
+        "Jonas Karolis Gustavas Chodkevičius (1841–1887)"
+      ],
+      "aliases": []
+    },
+    {
+      "name": "Ona Chodkevičiūtė (Jono Petro Sapiegos motina)",
+      "notePath": "objektai/asmenys/Ona Chodkevičiūtė (Jono Petro Sapiegos motina).md",
+      "dates": "XVI a.",
+      "bio": "Ona Chodkevičiūtė buvo Povilo Sapiegos žmona ir Jono Petro Sapiegos motina. Šaltinis ją įvardija kaip Chodkevičių giminės narę, tačiau šiame registre jos šaka nepatikslinama.",
+      "sources": [
+        {
+          "title": "VLE: Jonas Petras Sapiega",
+          "url": "https://www.vle.lt/straipsnis/jonas-petras-sapiega/"
+        }
+      ],
+      "related": [
+        "Jonas Petras Sapiega (1569–1611)"
+      ],
+      "aliases": [],
+      "enrichExisting": true
+    }
+  ]
+}

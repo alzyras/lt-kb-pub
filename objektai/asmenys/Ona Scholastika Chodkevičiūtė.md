@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: "Ona Scholastika Chodkevičiūtė"
+pavadinimas: 'Ona Scholastika Chodkevičiūtė'
 aliases: []
 datos: []
 amziai: []
@@ -26,21 +26,23 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Ona Scholastika Chodkevičiūtė"]
 sameAs: []
-canonical_biography: "Ona Scholastika buvo Jono Karolio Chodkevičiaus duktė. 1620 m. ištekėjo už Jono Stanislovo Sapiegos. Prieš mirtį vyrui užrašė valdas, tarp kurių buvo Kretinga, Skuodas ir Liachavičiai."
+canonical_biography: "Jono Karolio Chodkevičiaus ir Sofijos Mieleckaitės duktė Ona Scholastika 1620 m. ištekėjo už Jono Stanislovo Sapiegos. Po tėvo mirties jai atiteko dalis Chodkevičių valdų, tarp jų Kretinga, Skuodas ir Liachavičai."
 ---
-
 # Ona Scholastika Chodkevičiūtė
 
 ## Santrauka
 
-Ona Scholastika buvo Jono Karolio Chodkevičiaus duktė. 1620 m. ištekėjo už Jono Stanislovo Sapiegos. Prieš mirtį vyrui užrašė valdas, tarp kurių buvo Kretinga, Skuodas ir Liachavičiai.
+Jono Karolio Chodkevičiaus ir Sofijos Mieleckaitės duktė Ona Scholastika 1620 m. ištekėjo už Jono Stanislovo Sapiegos. Po tėvo mirties jai atiteko dalis Chodkevičių valdų, tarp jų Kretinga, Skuodas ir Liachavičai.
 
 ## Šaltiniai
 
-- [Biografijos ir giminystės šaltinis](https://www.vle.lt/straipsnis/jonas-stanislovas-sapiega/)
+- [VLE: Jonas Stanislovas Sapiega](https://www.vle.lt/straipsnis/jonas-stanislovas-sapiega/)
+- [Julius Kanarskas, Kretingos miesto kūrėjas Jonas Karolis Chodkevičius](https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf)
 
 ## Šeima
 
+- [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]
+- [[objektai/asmenys/Sofija Mieleckaitė-Chodkevičienė|Sofija Mieleckaitė-Chodkevičienė]]
 - [[objektai/asmenys/Jonas Stanislovas Sapiega (1589–1635)|Jonas Stanislovas Sapiega (1589–1635)]]
 
-[[objektai/grupes/Sapiegos|Sapiegos]] · [[straipsniai/sapiegos-statutai-rumai-ir-laiskai|Giminės narių registras ir istorija]]
+[[objektai/grupes/Chodkevičiai|Chodkevičiai]] · [[straipsniai/chodkeviciai-etmonai-miestai-ir-spaustuves|Giminės narių registras ir istorija]]
