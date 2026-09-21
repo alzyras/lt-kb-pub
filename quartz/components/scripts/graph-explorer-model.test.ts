@@ -98,6 +98,48 @@ function state(overrides: Partial<GraphState> = {}): GraphState {
 }
 
 describe("graph explorer model", () => {
+  test("group filter URLs stay short with thousands of internal predicates and preserve partial legacy choices", () => {
+    const relationGroups = {
+      family: ["father", "mother"],
+      other: Array.from(
+        { length: 1331 },
+        (_, i) => `authored:Istorinis asmuo su labai ilgu pavadinimu ${i} dalyvavo mūšyje`,
+      ),
+    }
+    const defaults = { relations: Object.values(relationGroups).flat(), types: ["asmuo"] }
+    const selected = state({ relations: [...relationGroups.other] })
+    const params = serializeGraphState(selected, defaults, relationGroups)
+    assert.ok(params.toString().length < 100)
+    assert.deepEqual(
+      new Set(
+        parseGraphState(params, defaults.relations, defaults.types, relationGroups).relations,
+      ),
+      new Set(selected.relations),
+    )
+    const mixed = state({ relations: [...relationGroups.other, "father", "legacy_optional"] })
+    const mixedParams = serializeGraphState(mixed, defaults, relationGroups)
+    assert.equal(mixedParams.get("relations"), "father,legacy_optional")
+    assert.deepEqual(
+      new Set(
+        parseGraphState(mixedParams, defaults.relations, defaults.types, relationGroups).relations,
+      ),
+      new Set(mixed.relations),
+    )
+    assert.deepEqual(
+      parseGraphState(
+        new URLSearchParams("relations=father"),
+        defaults.relations,
+        defaults.types,
+        relationGroups,
+      ).relations,
+      ["father"],
+    )
+    const empty = serializeGraphState(state({ relations: [] }), defaults, relationGroups)
+    assert.deepEqual(
+      parseGraphState(empty, defaults.relations, defaults.types, relationGroups).relations,
+      [],
+    )
+  })
   test("unique visible edges determine size and global radial order across types", () => {
     const mixed = {
       ...topology,

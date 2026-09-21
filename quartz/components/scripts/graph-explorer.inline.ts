@@ -112,8 +112,22 @@ async function setup(root: HTMLElement) {
     (kind) => loaded.relationKinds[kind].defaultOn,
   )
   const defaults = { types: allTypes, relations: defaultRelations }
+  const relationGroups = Object.fromEntries(
+    groups.map(([code]) => [
+      code,
+      defaultRelations.filter((kind) => {
+        const group = loaded.relationKinds[kind].group
+        return (groups.some(([key]) => key === group) ? group : "other") === code
+      }),
+    ]),
+  )
   const readState = () => {
-    const state = parseGraphState(new URLSearchParams(location.search), defaultRelations, allTypes)
+    const state = parseGraphState(
+      new URLSearchParams(location.search),
+      defaultRelations,
+      allTypes,
+      relationGroups,
+    )
     const key = state.focus.replace(/\/index$/, "").replace(/\/$/, "")
     state.focus = slugMap.publicToGraph[key] ?? slugMap.aliases?.[key] ?? key
     state.focus = slugMap.aliases?.[state.focus] ?? state.focus
@@ -123,6 +137,29 @@ async function setup(root: HTMLElement) {
     allEdges = [...loaded.edges]
   const canonicalNodes = new Map(loaded.nodes.map((node) => [node.slug, node]))
   let visibleCoreIds = new Set<string>()
+  async function ensureFocusNode() {
+    const requested = state.focus
+    if (!requested || canonicalNodes.has(requested)) return
+    const match = (await getSearch()).find((node) => node.slug === requested)
+    if (dead) return
+    if (!match) {
+      if (state.focus === requested) state.focus = ""
+      return
+    }
+    if (!canonicalNodes.has(requested)) {
+      const node: TopologyNode = {
+        ...match,
+        degree: 0,
+        claimCount: 0,
+        quoteCount: 0,
+        sourceIds: [],
+        sourceTitles: [],
+        relationCounts: {},
+      }
+      canonicalNodes.set(requested, node)
+      loaded.nodes.push(node)
+    }
+  }
   const groupKinds = new Map(
     groups.map(([code]) => [
       code,
@@ -444,7 +481,7 @@ async function setup(root: HTMLElement) {
     q<HTMLSelectElement>("[data-graph-depth]").value = String(state.depth)
   }
   const historyUrl = () => {
-    const params = serializeGraphState(state, defaults)
+    const params = serializeGraphState(state, defaults, relationGroups)
     return location.pathname + (params.size ? `?${params}` : "")
   }
   function saveHistory(push = true) {
@@ -466,6 +503,7 @@ async function setup(root: HTMLElement) {
         if (dead || request !== generation) return
         const previous = camera ?? (!fit ? renderer?.camera() : undefined)
         await legacyLayers()
+        await ensureFocusNode()
         if (dead || request !== generation) return
         resetOuter()
         renderer?.destroy()
@@ -684,10 +722,13 @@ async function setup(root: HTMLElement) {
     removeEventListener("popstate", onPop)
     document.removeEventListener("keydown", onKey)
   }
+  const initialPreviewToken = previewToken
+  await ensureFocusNode()
+  if (dead) return
   historyEntries.push({ state: cloneGraphState(state) })
   saveHistory(false)
   sync()
-  if (state.focus && state.panel !== "hidden") {
+  if (state.focus && state.panel !== "hidden" && previewToken === initialPreviewToken) {
     const node = canonicalNodes.get(state.focus)
     if (node) void preview(node)
   }

@@ -211,6 +211,7 @@ export function parseGraphState(
   params: URLSearchParams,
   defaultRelations: string[],
   allTypes: string[],
+  relationGroups?: Record<string, string[]>,
 ): GraphState {
   const panel = params.get("panel")
   const direction = params.get("direction")
@@ -220,9 +221,19 @@ export function parseGraphState(
     types: params.has("types")
       ? (params.get("types") ?? "").split(",").filter(Boolean)
       : [...allTypes],
-    relations: params.has("relations")
-      ? (params.get("relations") ?? "").split(",").filter(Boolean)
-      : [...defaultRelations],
+    relations:
+      params.has("groups") && relationGroups
+        ? [
+            ...new Set([
+              ...(params.get("groups") ?? "")
+                .split(",")
+                .flatMap((group) => relationGroups[group] ?? []),
+              ...(params.get("relations") ?? "").split(",").filter(Boolean),
+            ]),
+          ]
+        : params.has("relations")
+          ? (params.get("relations") ?? "").split(",").filter(Boolean)
+          : [...defaultRelations],
     sources: (params.get("sources") ?? "").split(",").filter(Boolean),
     minClaims: parseNumber(params.get("minClaims"), 0),
     minQuotes: parseNumber(params.get("minQuotes"), 0),
@@ -238,13 +249,30 @@ export function parseGraphState(
 export function serializeGraphState(
   state: GraphState,
   defaults: { relations: string[]; types: string[] },
+  relationGroups?: Record<string, string[]>,
 ): URLSearchParams {
   const params = new URLSearchParams()
   if (state.focus) params.set("focus", state.focus)
   if (state.depth !== 1) params.set("depth", String(state.depth))
   if (state.types.join() !== defaults.types.join()) params.set("types", state.types.join(","))
-  if (state.relations.join() !== defaults.relations.join())
-    params.set("relations", state.relations.join(","))
+  const selected = new Set(state.relations)
+  const changed = relationGroups
+    ? selected.size !== defaults.relations.length ||
+      defaults.relations.some((kind) => !selected.has(kind))
+    : state.relations.join() !== defaults.relations.join()
+  if (changed) {
+    if (relationGroups) {
+      const fullGroups = Object.keys(relationGroups).filter(
+        (group) =>
+          relationGroups[group].length > 0 &&
+          relationGroups[group].every((kind) => selected.has(kind)),
+      )
+      const grouped = new Set(fullGroups.flatMap((group) => relationGroups[group]))
+      const partial = state.relations.filter((kind) => !grouped.has(kind))
+      params.set("groups", fullGroups.join(","))
+      if (partial.length) params.set("relations", partial.join(","))
+    } else params.set("relations", state.relations.join(","))
+  }
   if (state.sources.length) params.set("sources", state.sources.join(","))
   if (state.minClaims) params.set("minClaims", String(state.minClaims))
   if (state.minQuotes) params.set("minQuotes", String(state.minQuotes))
