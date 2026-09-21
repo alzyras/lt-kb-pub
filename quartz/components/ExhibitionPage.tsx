@@ -22,6 +22,7 @@ import style from "./styles/exhibitionPage.scss"
 import photoswipeStyle from "./styles/photoswipe.scss"
 import viewerStyle from "./styles/objectMediaGallery.scss"
 import { RelatedContent } from "./ContentCycle"
+import { EditorialCatalog, type CatalogEntry } from "./EditorialCatalog"
 
 function parseManifest(value: unknown): ExhibitionManifest | undefined {
   try {
@@ -527,46 +528,24 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
 }
 
 function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] }) {
+  const entries: CatalogEntry[] = exhibitions.map((exhibition) => ({
+    slug: exhibition.slug,
+    title: exhibition.title,
+    description: exhibition.subtitle,
+    image: mediaThumbnailUrl(exhibition.hero),
+    kicker:
+      exhibition.theme === "interwar"
+        ? "Teminė paroda · 1930-ieji"
+        : exhibition.theme === "symbols"
+          ? "Teminė paroda · valstybės ženklai"
+          : "Kuruotas pasakojimas",
+  }))
   return (
-    <main class="exhibitions-index">
-      <header>
-        <p class="exhibition-eyebrow">
-          <Images size={15} /> Kuruoti pasakojimai
-        </p>
-        <h1>Skaitmeninės parodos</h1>
-        <p>
-          Kuruoti Lietuvos istorijos pasakojimai, kuriuose šaltinis, vaizdas ir atmintis susijungia
-          į vieną kelionę.
-        </p>
-      </header>
-      <div>
-        {exhibitions.map((exhibition) => (
-          <article
-            class={`exhibition-index-card exhibition-theme--${exhibition.theme || "historical"}`}
-          >
-            <a href={`/${exhibition.slug}`}>
-              <img src={mediaThumbnailUrl(exhibition.hero)} alt={exhibition.title} loading="lazy" />
-            </a>
-            <div>
-              <span>
-                {exhibition.theme === "interwar"
-                  ? "Teminė paroda · 1930-ieji"
-                  : exhibition.theme === "symbols"
-                    ? "Teminė paroda · valstybės ženklai"
-                    : "Nuolatinė paroda"}
-              </span>
-              <h2>
-                <a href={`/${exhibition.slug}`}>{exhibition.title}</a>
-              </h2>
-              <p>{exhibition.subtitle}</p>
-              <a href={`/${exhibition.slug}`}>
-                Atidaryti parodą <ArrowRight size={15} />
-              </a>
-            </div>
-          </article>
-        ))}
-      </div>
-    </main>
+    <EditorialCatalog
+      title="Parodos"
+      lead="Kuruoti Lietuvos istorijos pasakojimai, kuriuose šaltinis, vaizdas ir atmintis susijungia į vieną kelionę."
+      entries={entries}
+    />
   )
 }
 

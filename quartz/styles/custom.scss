@@ -2760,6 +2760,182 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] {
   --history-paper: color-mix(in srgb, var(--light) 92%, #c9a967 8%);
 }
 
+// The Radvila and Sapiega family features use the same quiet, full-width
+// reading canvas as the finished historical article. Keeping this here, next
+// to the original article treatment, makes the three long-form stories feel
+// like one editorial series while leaving ordinary articles untouched.
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) {
+  --history-ink: var(--dark);
+  --history-muted: color-mix(in srgb, var(--dark) 68%, transparent);
+  --history-rule: color-mix(in srgb, var(--dark) 18%, transparent);
+  --history-accent: #8b3d2e;
+  --history-paper: color-mix(in srgb, var(--light) 92%, #c9a967 8%);
+}
+
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) .page > #quartz-body {
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer" !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  grid-template-rows: auto auto auto !important;
+  width: 100%;
+  max-width: none;
+}
+
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) .left.sidebar,
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) .right.sidebar {
+  display: none !important;
+}
+
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) .center {
+  display: block !important;
+  grid-area: grid-center;
+  grid-column: 1 / -1 !important;
+  width: 100%;
+  min-width: 0;
+  margin-inline: auto;
+}
+
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) .page-header {
+  width: 100%;
+  margin-inline: 0;
+}
+
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) .page-header > .popover-hint,
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) article.popover-hint {
+  box-sizing: border-box;
+  width: min(100%, 760px);
+  margin-inline: auto;
+}
+
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) .page-header h1 {
+  max-width: 18ch;
+  margin-top: 0.5rem;
+  font-family: var(--font-editorial);
+  font-size: clamp(2.65rem, 6.3vw, 5.55rem);
+  font-weight: 500;
+  letter-spacing: -0.055em;
+  line-height: 0.94;
+  text-wrap: balance;
+}
+
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) article.popover-hint {
+  color: var(--history-ink);
+  font-family: var(--font-editorial);
+  font-size: 1.08rem;
+  line-height: 1.78;
+}
+
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) article.popover-hint > h2 {
+  margin-top: clamp(3.3rem, 8vw, 5.5rem);
+  padding-top: 1rem;
+  border-top: 1px solid var(--history-rule);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(1.65rem, 3.7vw, 2.55rem);
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  line-height: 1.05;
+  text-wrap: balance;
+}
+
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) article.popover-hint > p {
+  margin-block: 1.25rem;
+}
+
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) article.popover-hint .table-container {
+  margin-block: 2rem;
+  overflow-x: auto;
+}
+
+:is(
+  body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+  body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+) article.popover-hint table {
+  min-width: 100%;
+}
+
+@media all and (max-width: 780px) {
+  :is(
+    body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+    body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+  ) .page > #quartz-body {
+    padding: 0 !important;
+  }
+
+  :is(
+    body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+    body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+  ) .page-header > .popover-hint,
+  :is(
+    body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+    body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+  ) article.popover-hint {
+    width: min(100% - 1.5rem, 760px);
+  }
+
+  :is(
+    body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+    body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+  ) .page-header h1 {
+    font-size: clamp(2.45rem, 12vw, 3.6rem);
+  }
+
+  :is(
+    body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+    body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+  ) .history-article-figure--hero,
+  :is(
+    body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+    body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+  ) .history-article-figure--wide,
+  :is(
+    body[data-slug="straipsniai/radvilos-gimine-valdos-ir-paveldas"],
+    body[data-slug="straipsniai/sapiegos-statutai-rumai-ir-laiskai"]
+  ) .history-article-figure--map {
+    width: calc(100vw - 1.5rem);
+  }
+}
+
 body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] .page > #quartz-body {
   grid-template-areas:
     "grid-header"

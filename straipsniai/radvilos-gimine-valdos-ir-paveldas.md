@@ -8,6 +8,8 @@ date: 2026-09-20
 sukurta: "2026-09-20"
 atnaujinta: "2026-09-20"
 image: "/static/gimines/radvilos/perkunas-1781.jpg"
+cssclasses:
+  - history-article
 tags:
   - bajorija
   - giminės
@@ -16,6 +18,15 @@ tags:
 relatedContent:
   - {title: "Radvilų portretai ir dokumentai · paroda", href: "/parodos/radvilos-gimine-valdos-ir-paveldas"}
 ---
+
+<p class="history-article-kicker">Ilgasis skaitymas · Radvilų giminės istorija</p>
+
+<p class="history-article-lead">Radvilų istorija telpa ne vien į giminės medį. Ji matoma Biržų bastionuose, Nesvyžiaus scenoje, lietuviškose knygose ir vėlesnių kartų nutapytuose portretuose. Šis pasakojimas seka, kaip valdos, santuokos, tikėjimas ir kultūros mecenatystė kūrė vieną įtakingiausių Lietuvos Didžiosios Kunigaikštystės giminių.</p>
+
+<figure class="history-article-figure history-article-figure--hero">
+  <img src="/static/gimines/radvilos/perkunas-1781.jpg" alt="Kristupo Radvilos Perkūno pomirtinis portretas" loading="eager" />
+  <figcaption><span>Kristupas Radvila Perkūnas, 1781 m.</span> Marcello Bacciarelli nutapytas pomirtinis portretas. Kūrinys saugomas Varšuvos karališkojoje pilyje; parodos atvaizdas ir katalogo duomenys pateikiami <a href="/parodos/radvilos-gimine-valdos-ir-paveldas">Radvilų parodoje</a>.</figcaption>
+</figure>
 
 1589 m. Biržuose baigta statyti Kristupo Radvilos Perkūno tvirtovė. Tais pačiais metais miestas gavo Magdeburgo teises. Aplink pilį augo gyvenvietė, o aplink ją driekėsi Radvilų žemės. Ši vieta šeimai buvo ir namai, ir karinė atrama prie Livonijos sienos. [Biržų krašto muziejus](https://www.birzumuziejus.lt/radvilu-portretai/).
 

@@ -1,13 +1,29 @@
 ---
 title: "Sapiegos: Statutas, rūmai ir šeimos laiškai"
 description: "Leonas Sapiega ir Statuto leidyba, Ružanų biblioteka, Antakalnio rūmai, Valkininkų pralaimėjimas ir XVIII amžiaus šeimos gyvenimas."
+tipas: straipsnis
+statusas: publikuota
+autorius: "Lietuvos istorijos žinių lobynas"
+date: 2026-09-20
+sukurta: "2026-09-20"
+atnaujinta: "2026-09-21"
+image: "/static/gimines/sapiegos/leonas-1709.jpg"
+cssclasses:
+  - history-article
 tags:
   - straipsnis
   - bajorai
   - Sapiegos
 ---
 
-# Sapiegos: Statutas, rūmai ir šeimos laiškai
+<p class="history-article-kicker">Ilgasis skaitymas · Sapiegų giminės istorija</p>
+
+<p class="history-article-lead">Sapiegų vardas liko teisyno antraštėse, rūmų sienose ir privačiuose laiškuose. Šiame pasakojime aštuoni parodos atvaizdai tampa kelrodžiais istorijai apie valstybės tarnybą, knygas, valdų konfliktus ir šeimos kasdienybę.</p>
+
+<figure class="history-article-figure history-article-figure--hero">
+  <img src="/static/gimines/sapiegos/leonas-1709.jpg" alt="Leono Sapiegos pomirtinis portretas, 1709 m." loading="eager" />
+  <figcaption><span>Leonas Sapiega, 1709 m.</span> Nežinomo dailininko pomirtinis portretas iš Vavelio rinkinių. Atvaizdas ir katalogo duomenys pateikiami <a href="/parodos/sapiegos-statutai-rumai-ir-laiskai">Sapiegų parodoje</a>.</figcaption>
+</figure>
 
 1775 m. rugpjūtį Janas Ševaljė laiške iš Varšuvos pranešė, kad visi kalba apie laisvą kanclerio vietą. Mirus Mykolui Fryderikui Čartoryskiui, svarstyta, kam atiteks valstybės antspaudas. Tarp kandidatų minėtas Aleksandras Mykolas Sapiega. Tame pačiame laiške tilpo ir paprastas rūpestis: iš Vilniaus dar neatėjo knygų bei astronominių instrumentų siunta. Politika ir kasdieniai reikalai sugulė į vieną lapą. [1775 m. rugpjūčio 16 d. laiškas, VU biblioteka](https://www.epaveldas.lt/preview?id=VUB01-000903024).
 
