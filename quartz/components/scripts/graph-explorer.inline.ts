@@ -46,6 +46,26 @@ function normalize(value: string) {
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
 }
+function imageCredit(image: NonNullable<ObjectPreview["image"]>): string {
+  const source = image.credit.match(/https?:\/\/[^\s)]+/g)?.find((url) => url !== image.licenseUrl)
+  const author = image.credit
+    .replace(/https?:\/\/[^\s)]+/g, "")
+    .replace(/\(\s*\)/g, "")
+    .split(/[·•|]/)
+    .map((part) => part.trim())
+    .filter((part) => part && part.toLowerCase() !== image.license?.toLowerCase())
+    .join(" · ")
+  const link = (text: string, url?: string) =>
+    url
+      ? `<a href="${escape(url)}" target="_blank" rel="noopener">${escape(text)}</a>`
+      : escape(text)
+  return [
+    author || source ? link(author || "Atvaizdo šaltinis", source) : "",
+    image.license ? link(image.license, image.licenseUrl) : "",
+  ]
+    .filter(Boolean)
+    .join(" · ")
+}
 const dot = (type: string) =>
   `<i class="graph-type-dot" style="--type-color:#${(colors[type] ?? visual.fallbackNode).toString(16).padStart(6, "0")}"></i>`
 
@@ -256,7 +276,7 @@ async function setup(root: HTMLElement) {
       panelBody.innerHTML =
         heading +
         (image
-          ? `<figure class="graph-preview-image"><img src="${escape(image.url)}" alt="${escape(image.caption)}" width="640" height="460" style="object-position:${escape(image.position)}" /><figcaption>${escape(image.credit)}${image.license ? ` · ${image.licenseUrl ? `<a href="${escape(image.licenseUrl)}" target="_blank" rel="noopener">${escape(image.license)}</a>` : escape(image.license)}` : ""}</figcaption></figure>`
+          ? `<figure class="graph-preview-image"><img src="${escape(image.url)}" alt="${escape(image.caption)}" width="640" height="460" style="object-position:${escape(image.position)}" /><figcaption>${imageCredit(image)}</figcaption></figure>`
           : "") +
         (metadata?.summary
           ? `<p class="graph-preview-summary">${escape(metadata.summary)}</p>${credit ? `<small class="graph-preview-credit"><a href="${escape(credit.url)}" target="_blank" rel="noopener">${escape(credit.label)}</a> · <a href="${escape(credit.licenseUrl)}" target="_blank" rel="noopener">${escape(credit.license)}</a></small>` : ""}`
