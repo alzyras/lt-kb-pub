@@ -84,7 +84,13 @@ export type GraphState = {
   showIsolated: boolean
   panel: "details" | "page" | "hidden"
 }
-export type RuntimeNode = TopologyNode & { id: string; px: number; py: number; hop: number }
+export type RuntimeNode = TopologyNode & {
+  id: string
+  px: number
+  py: number
+  hop: number
+  isolated?: boolean
+}
 export type RuntimeEdge = TopologyEdge & { source: RuntimeNode; target: RuntimeNode }
 export type VisibleGraph = { nodes: RuntimeNode[]; edges: RuntimeEdge[]; focus: RuntimeNode | null }
 export type FocusGraphSummary = {
@@ -125,7 +131,21 @@ export function summarizeFocusedGraph(graph: VisibleGraph): FocusGraphSummary {
   }
 }
 
-export function layoutGlobalGraph(nodes: RuntimeNode[]): void {
+export const graphCoreRadius = 900
+
+export function graphNodeRadius(
+  node: Pick<RuntimeNode, "degree" | "isolated">,
+  focused = false,
+): number {
+  return node.isolated ? 3.5 : Math.min(19, 4 + Math.log1p(node.degree) * 2) + (focused ? 4 : 0)
+}
+
+export function layoutGlobalGraph(
+  nodes: RuntimeNode[],
+  innerRadius = 65,
+  outerRadius = graphCoreRadius,
+  sectors?: Record<string, { start: number; span: number }>,
+): void {
   if (!nodes.length) return
 
   const groups = new Map<string, RuntimeNode[]>()
@@ -139,31 +159,41 @@ export function layoutGlobalGraph(nodes: RuntimeNode[]): void {
     (a, b) => b.length - a.length || a[0].type.localeCompare(b[0].type, "lt"),
   )
   const total = nodes.length
-  const innerRadius = 105
-  const outerRadius = Math.max(520, Math.min(900, Math.sqrt(total) * 10.5))
+  const ranked = [...nodes].sort((a, b) => b.degree - a.degree || a.id.localeCompare(b.id, "lt"))
+  const rank = new Map(ranked.map((node, index) => [node.id, index]))
   let offset = 0
 
   for (const group of orderedGroups) {
     group.sort((a, b) => b.degree - a.degree || a.id.localeCompare(b.id, "lt"))
-    const start = (offset / total) * Math.PI * 2
-    const span = (group.length / total) * Math.PI * 2
+    const start = sectors?.[group[0].type]?.start ?? (offset / total) * Math.PI * 2
+    const span = sectors?.[group[0].type]?.span ?? (group.length / total) * Math.PI * 2
 
     for (let index = 0; index < group.length; index++) {
       const node = group[index]
-      const seed = [...node.id].reduce(
-        (value, character) => (value * 33 + character.charCodeAt(0)) >>> 0,
-        5381,
-      )
       const phase = (index * 0.61803398875) % 1
-      const distance = Math.sqrt((index + 0.75) / Math.max(1, group.length))
-      // A shared gentle spiral separates types without inventing decorative nodes.
-      const angle = start + span * (0.08 + phase * 0.84) + distance * 0.8
-      const radius = innerRadius + distance * (outerRadius - innerRadius) + ((seed % 11) - 5) * 1.2
+      const distance = Math.sqrt((rank.get(node.id)! + 0.5) / total)
+      const angle = start + span * (0.08 + phase * 0.84)
+      const radius = innerRadius + distance * (outerRadius - innerRadius)
       node.px = Math.cos(angle) * radius
       node.py = Math.sin(angle) * radius
     }
     offset += group.length
   }
+}
+
+export function layoutFocusedGraph(
+  graph: VisibleGraph,
+  sectors?: Record<string, { start: number; span: number }>,
+): void {
+  if (!graph.focus) return layoutGlobalGraph(graph.nodes, 65, graphCoreRadius, sectors)
+  graph.focus.px = graph.focus.py = 0
+  const neighbours = graph.nodes.filter((n) => n !== graph.focus)
+  layoutGlobalGraph(
+    neighbours,
+    85,
+    Math.max(330, Math.min(graphCoreRadius, Math.sqrt(neighbours.length) * 35)),
+    sectors,
+  )
 }
 
 function parseNumber(value: string | null, fallback: number): number {
@@ -177,14 +207,22 @@ function parseOptional(value: string | null): number | null {
   return Number.isFinite(parsed) ? parsed : null
 }
 
-export function parseGraphState(params: URLSearchParams, defaultRelations: string[], allTypes: string[]): GraphState {
+export function parseGraphState(
+  params: URLSearchParams,
+  defaultRelations: string[],
+  allTypes: string[],
+): GraphState {
   const panel = params.get("panel")
   const direction = params.get("direction")
   return {
     focus: params.get("focus") ?? "",
     depth: parseNumber(params.get("depth"), 1),
-    types: params.has("types") ? (params.get("types") ?? "").split(",").filter(Boolean) : [...allTypes],
-    relations: params.has("relations") ? (params.get("relations") ?? "").split(",").filter(Boolean) : [...defaultRelations],
+    types: params.has("types")
+      ? (params.get("types") ?? "").split(",").filter(Boolean)
+      : [...allTypes],
+    relations: params.has("relations")
+      ? (params.get("relations") ?? "").split(",").filter(Boolean)
+      : [...defaultRelations],
     sources: (params.get("sources") ?? "").split(",").filter(Boolean),
     minClaims: parseNumber(params.get("minClaims"), 0),
     minQuotes: parseNumber(params.get("minQuotes"), 0),
@@ -197,12 +235,16 @@ export function parseGraphState(params: URLSearchParams, defaultRelations: strin
   }
 }
 
-export function serializeGraphState(state: GraphState, defaults: { relations: string[]; types: string[] }): URLSearchParams {
+export function serializeGraphState(
+  state: GraphState,
+  defaults: { relations: string[]; types: string[] },
+): URLSearchParams {
   const params = new URLSearchParams()
   if (state.focus) params.set("focus", state.focus)
   if (state.depth !== 1) params.set("depth", String(state.depth))
   if (state.types.join() !== defaults.types.join()) params.set("types", state.types.join(","))
-  if (state.relations.join() !== defaults.relations.join()) params.set("relations", state.relations.join(","))
+  if (state.relations.join() !== defaults.relations.join())
+    params.set("relations", state.relations.join(","))
   if (state.sources.length) params.set("sources", state.sources.join(","))
   if (state.minClaims) params.set("minClaims", String(state.minClaims))
   if (state.minQuotes) params.set("minQuotes", String(state.minQuotes))
@@ -216,42 +258,80 @@ export function serializeGraphState(state: GraphState, defaults: { relations: st
 }
 
 export function cloneGraphState(state: GraphState): GraphState {
-  return { ...state, types: [...state.types], relations: [...state.relations], sources: [...state.sources] }
+  return {
+    ...state,
+    types: [...state.types],
+    relations: [...state.relations],
+    sources: [...state.sources],
+  }
 }
 
-export function isCurrentPanelRequest(requestToken: number, activeToken: number, panel: GraphState["panel"]): boolean {
+export function isCurrentPanelRequest(
+  requestToken: number,
+  activeToken: number,
+  panel: GraphState["panel"],
+): boolean {
   return requestToken === activeToken && panel !== "hidden"
 }
 
-function nodePasses(node: TopologyNode, state: GraphState, selectedSourceIds: Set<string>): boolean {
+export function nodePasses(
+  node: TopologyNode,
+  state: GraphState,
+  selectedSourceIds: Set<string>,
+): boolean {
   if (!state.types.includes(node.type)) return false
   if (node.claimCount < state.minClaims || node.quoteCount < state.minQuotes) return false
   const start = node.dateStart ?? node.dateEnd
   const end = node.dateEnd ?? node.dateStart
-  if ((state.from !== null || state.to !== null) && start === undefined && end === undefined) return false
+  if ((state.from !== null || state.to !== null) && start === undefined && end === undefined)
+    return false
   if (state.from !== null && (end ?? -Infinity) < state.from) return false
   if (state.to !== null && (start ?? Infinity) > state.to) return false
-  if (selectedSourceIds.size && !node.sourceIds.some((source) => selectedSourceIds.has(source))) return false
+  if (selectedSourceIds.size && !node.sourceIds.some((source) => selectedSourceIds.has(source)))
+    return false
   return true
 }
 
-function edgePasses(edge: TopologyEdge, state: GraphState, selectedSourceIds: Set<string>): boolean {
+function edgePasses(
+  edge: TopologyEdge,
+  state: GraphState,
+  selectedSourceIds: Set<string>,
+): boolean {
   if (!state.relations.includes(edge.kind) || edge.confidence < state.minConfidence) return false
-  if (selectedSourceIds.size && !edge.sourceIds.some((source) => selectedSourceIds.has(source))) return false
+  if (selectedSourceIds.size && !edge.sourceIds.some((source) => selectedSourceIds.has(source)))
+    return false
   return true
 }
 
-export function buildVisibleGraph(topology: GraphTopology, allEdges: TopologyEdge[], state: GraphState, selectedSourceIds = new Set<string>()): VisibleGraph {
-  const allowed = new Map(topology.nodes.filter((node) => nodePasses(node, state, selectedSourceIds)).map((node) => [node.slug, node]))
+export function buildVisibleGraph(
+  topology: GraphTopology,
+  allEdges: TopologyEdge[],
+  state: GraphState,
+  selectedSourceIds = new Set<string>(),
+): VisibleGraph {
+  const allowed = new Map(
+    topology.nodes
+      .filter((node) => nodePasses(node, state, selectedSourceIds))
+      .map((node) => [node.slug, node]),
+  )
   if (state.focus) {
     const focusNode = topology.nodes.find((node) => node.slug === state.focus)
     if (focusNode) allowed.set(focusNode.slug, focusNode)
   }
-  const edges = allEdges.filter((edge) => allowed.has(edge.from) && allowed.has(edge.to) && edgePasses(edge, state, selectedSourceIds))
+  const seen = new Set<string>()
+  const edges = allEdges.filter((edge) => {
+    if (seen.has(edge.id)) return false
+    seen.add(edge.id)
+    return (
+      allowed.has(edge.from) && allowed.has(edge.to) && edgePasses(edge, state, selectedSourceIds)
+    )
+  })
   const adjacency = new Map<string, Set<string>>()
   for (const edge of edges) {
-    if (state.direction !== "in") (adjacency.get(edge.from) ?? adjacency.set(edge.from, new Set()).get(edge.from)!).add(edge.to)
-    if (state.direction !== "out") (adjacency.get(edge.to) ?? adjacency.set(edge.to, new Set()).get(edge.to)!).add(edge.from)
+    if (state.direction !== "in")
+      (adjacency.get(edge.from) ?? adjacency.set(edge.from, new Set()).get(edge.from)!).add(edge.to)
+    if (state.direction !== "out")
+      (adjacency.get(edge.to) ?? adjacency.set(edge.to, new Set()).get(edge.to)!).add(edge.from)
   }
   const selected = new Set<string>()
   const hops = new Map<string, number>()
@@ -282,11 +362,22 @@ export function buildVisibleGraph(topology: GraphTopology, allEdges: TopologyEdg
     return { ...node, id: slug, px: node.x ?? 0, py: node.y ?? 0, hop: hops.get(slug) ?? -1 }
   })
   const byId = new Map(runtimeNodes.map((node) => [node.id, node]))
-  const runtimeEdges = edges.filter((edge) => {
-    if (!selected.has(edge.from) || !selected.has(edge.to)) return false
-    if (!state.focus || state.direction === "both") return true
-    if (edge.from !== state.focus && edge.to !== state.focus) return true
-    return state.direction === "out" ? edge.from === state.focus : edge.to === state.focus
-  }).map((edge) => ({ ...edge, source: byId.get(edge.from)!, target: byId.get(edge.to)! }))
-  return { nodes: runtimeNodes, edges: runtimeEdges, focus: state.focus ? byId.get(state.focus) ?? null : null }
+  const runtimeEdges = edges
+    .filter((edge) => {
+      if (!selected.has(edge.from) || !selected.has(edge.to)) return false
+      if (!state.focus || state.direction === "both") return true
+      if (edge.from !== state.focus && edge.to !== state.focus) return true
+      return state.direction === "out" ? edge.from === state.focus : edge.to === state.focus
+    })
+    .map((edge) => ({ ...edge, source: byId.get(edge.from)!, target: byId.get(edge.to)! }))
+  for (const node of runtimeNodes) node.degree = 0
+  for (const edge of runtimeEdges) {
+    edge.source.degree++
+    if (edge.target !== edge.source) edge.target.degree++
+  }
+  return {
+    nodes: runtimeNodes,
+    edges: runtimeEdges,
+    focus: state.focus ? (byId.get(state.focus) ?? null) : null,
+  }
 }

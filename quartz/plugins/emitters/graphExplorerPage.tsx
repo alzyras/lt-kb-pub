@@ -11,8 +11,18 @@ import { write } from "./helpers"
 import { buildGraphSlugMap, withPublicObjectNodes } from "../../util/graphIdentity"
 import { buildAssetVersion } from "../../util/buildVersion"
 import { loadObjectTopology } from "../../util/objectGraph"
+import {
+  explorerData,
+  objectPreview,
+  objectShardFile,
+  type ObjectPreview,
+} from "../../util/graphExplorerData"
+import { objectDetailEvidenceFromFile } from "../../util/objectDetail"
 
-function objectGraphShards(topology: any): Array<{ slug: string; payload: unknown }> {
+function objectGraphShards(
+  topology: any,
+  previews: Map<string, ObjectPreview>,
+): Array<{ slug: string; payload: unknown }> {
   const nodes = Array.isArray(topology?.nodes) ? topology.nodes : []
   const nodeBySlug = new Map<string, any>(
     nodes.map((node: any) => [String(node.slug ?? ""), node] as [string, any]),
@@ -69,6 +79,7 @@ function objectGraphShards(topology: any): Array<{ slug: string; payload: unknow
       return {
         slug,
         payload: {
+          ...(previews.has(slug) ? { preview: previews.get(slug) } : {}),
           focus: {
             slug,
             title: String(node.title ?? slug),
@@ -82,15 +93,6 @@ function objectGraphShards(topology: any): Array<{ slug: string; payload: unknow
         },
       }
     })
-}
-
-function objectShardFile(slug: string): string {
-  let hash = 2166136261
-  for (const byte of new TextEncoder().encode(`shard:${slug}`)) {
-    hash ^= byte
-    hash = Math.imul(hash, 16777619)
-  }
-  return (hash >>> 0).toString(16).padStart(8, "0")
 }
 
 export const GraphExplorerPage: QuartzEmitterPlugin = () => {
@@ -135,11 +137,37 @@ export const GraphExplorerPage: QuartzEmitterPlugin = () => {
         slug: "static/graph-data/topology" as FullSlug,
         ext: ".json",
       })
-      for (const shard of objectGraphShards(completeTopology)) {
+      const previews = new Map<string, ObjectPreview>()
+      for (const [, file] of content) {
+        const publicSlug = String(file.data.slug ?? "")
+        const graphSlug = slugMap.publicToGraph[publicSlug]
+        if (!graphSlug || !publicSlug.startsWith("objektai/")) continue
+        const frontmatter = file.data.frontmatter ?? {}
+        const preview = objectPreview(
+          frontmatter,
+          objectDetailEvidenceFromFile(file.data.filePath).summary,
+        )
+        previews.set(graphSlug, preview)
+      }
+      for (const shard of objectGraphShards(completeTopology, previews)) {
         yield write({
           ctx,
           content: JSON.stringify(shard.payload),
           slug: `static/graph-data/objects/${objectShardFile(shard.slug)}` as FullSlug,
+          ext: ".json",
+        })
+      }
+      const explorer = explorerData(completeTopology, buildAssetVersion)
+      for (const [name, payload] of [
+        ["core", explorer.core],
+        ["index", explorer.index],
+        ["search", explorer.search],
+        ...[...explorer.tiles].map(([key, nodes]) => [`outer/${key}`, nodes]),
+      ] as Array<[string, unknown]>) {
+        yield write({
+          ctx,
+          content: JSON.stringify(payload),
+          slug: `static/graph-data/explorer/${name}` as FullSlug,
           ext: ".json",
         })
       }

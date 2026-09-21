@@ -24,7 +24,7 @@
     "audit:media-ranking": "npx tsx scripts/audit_media_ranking.ts",
     "prebuild": "npm run verify:db-export && npm test && npx tsc --noEmit && npm run verify:relations",
     "build": "NODE_OPTIONS=--max-old-space-size=16384 node --no-deprecation ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "postbuild": "npx tsx scripts/verify_rendered_relations.ts && npx tsx scripts/verify_corpus_integrity.ts && npx tsx scripts/verify_public_assets.ts && npx tsx scripts/verify_rendered_media_seo.ts && npx tsx scripts/verify_build_integrity.ts && npx tsx scripts/verify_rendered_evidence.ts && npx tsx scripts/audit_evidence_matches.ts && python3 scripts/audit_public_build.py --fail",
+    "postbuild": "npx tsx scripts/verify_graph_explorer.ts && npx tsx scripts/verify_rendered_relations.ts && npx tsx scripts/verify_corpus_integrity.ts && npx tsx scripts/verify_public_assets.ts && npx tsx scripts/verify_rendered_media_seo.ts && npx tsx scripts/verify_build_integrity.ts && npx tsx scripts/verify_rendered_evidence.ts && npx tsx scripts/audit_evidence_matches.ts && python3 scripts/audit_public_build.py --fail",
     "serve": "node --no-deprecation ./quartz/bootstrap-cli.mjs build --serve",
     "preview:local": "tsx scripts/verify_build_integrity.ts && node scripts/serve_local.mjs"
   },

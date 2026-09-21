@@ -1,1781 +1,710 @@
-import { Application, Container, Graphics, Text } from "pixi.js"
-import { select, zoom, zoomIdentity, ZoomTransform } from "d3"
-import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
-import { loadSourceCatalog } from "../../util/sourceSettings"
-import { emitAnalyticsMap } from "../../util/analytics-client"
-import { analyticsZoomBucket } from "../../util/analytics"
 import {
   buildVisibleGraph,
   cloneGraphState,
-  isCurrentPanelRequest,
-  layoutGlobalGraph,
+  layoutFocusedGraph,
+  nodePasses,
   parseGraphState,
   serializeGraphState,
-  summarizeFocusedGraph,
   type GraphState,
   type GraphTopology,
-  type RuntimeEdge,
   type RuntimeNode,
   type TopologyEdge,
   type TopologyNode,
-  type VisibleGraph,
 } from "./graph-explorer-model"
+import { createMapRenderer, type Camera, type MapRenderer } from "./graph-explorer-renderer"
+import { objectShardFile, type ObjectPreview, type OuterIndex } from "../../util/graphExplorerData"
+import { graphVisualRegistry as visual } from "../../util/graphVisualRegistry"
+import { emitAnalyticsMap } from "../../util/analytics-client"
 
-type NodeDetails = {
-  summary: string
-  topClaims: Array<{ id: string; text: string }>
-  sources: string[]
-  authority?: {
-    entityId: string
-    canonicalName: string
-    canonicalBiography: string
-    roles: string[]
-    viewRole: string
-    aliases: string[]
-    sameAs: string[]
-    place?: unknown
-  }
-}
-type EdgeEvidence = {
-  claimId: string
-  claimText: string
-  quoteId: string
-  quoteText: string
-  source: string
-  confidence: number
-}
-type Camera = { x: number; y: number; k: number }
-type HistoryEntry = { state: GraphState; camera?: Camera }
-type SourceEntry = { id: string; title: string; quoteCount?: number; objectCount?: number }
-type GraphSlugMap = {
-  publicToGraph: Record<string, string>
+type SearchNode = Pick<TopologyNode, "slug" | "title" | "type" | "connected">
+type SlugMap = {
   graphToPublic: Record<string, string>
-  collisions?: Record<string, string[]>
+  publicToGraph: Record<string, string>
   aliases?: Record<string, string>
 }
-type GraphVisualRegistry = {
-  typeLabels: Record<string, string>
-  typeColors: Record<string, number>
-  fallbackNode: number
-  focus: number
-  edgeSemantic: number
-  edgeExplicit: number
-  canvasBackground: string
-  label: string
-  labelHalo: string
-}
-
-const graphRuntime = globalThis as typeof globalThis & {
-  loadGraphTopology?: () => Promise<GraphTopology>
-  loadGraphSlugMap?: () => Promise<GraphSlugMap>
-  __ltkbGraphVisualRegistry?: GraphVisualRegistry
-}
-const graphVisual = graphRuntime.__ltkbGraphVisualRegistry ?? {
-  typeLabels: {},
-  typeColors: {},
-  fallbackNode: 0x85755f,
-  focus: 0xb52c1e,
-  edgeSemantic: 0x756149,
-  edgeExplicit: 0xb0a18a,
-  canvasBackground: "#fdfcf9",
-  label: "#241c18",
-  labelHalo: "#f8f2e8",
-}
-const typeLabels = graphVisual.typeLabels
-const typeColors = graphVisual.typeColors
-let graphSlugMap: GraphSlugMap = { publicToGraph: {}, graphToPublic: {} }
-const genericKinds = new Set([
-  "claim_entity_mention",
-  "quote_entity_mention",
-  "shared_public_quote",
-])
-const nodeDetailCache = new Map<string, Record<string, NodeDetails>>()
-const evidenceCache = new Map<string, Record<string, EdgeEvidence[]>>()
-const layerCache = new Map<string, TopologyEdge[]>()
-const sourceTitleCache = new Map<string, string>()
-const graphDataBase = new URL("../static/graph-data/", window.location.href)
-
-function escapeHtml(value: unknown): string {
+type PreviewShard = { preview?: ObjectPreview; neighbourCount: number }
+const labels: Record<string, string> = visual.typeLabels,
+  colors: Record<string, number> = visual.typeColors
+const groups = [
+  ["giminyste", "Giminystė"],
+  ["valdzia", "Valdžia"],
+  ["diplomatija", "Diplomatija"],
+  ["karyba", "Karyba"],
+  ["judejimas", "Judėjimas ir gyvenimas"],
+  ["ukis", "Ūkis ir kultūra"],
+  ["other", "Kiti ryšiai"],
+]
+function escape(value: unknown) {
   return String(value ?? "").replace(
-    /[&<>'"]/g,
-    (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[char]!,
+    /[&<>"']/g,
+    (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!,
   )
 }
-function normalize(value: string): string {
+function normalize(value: string) {
   return value
-    .toLocaleLowerCase("lt-LT")
+    .toLocaleLowerCase("lt")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
 }
-function parseNumber(value: string | null, fallback: number): number {
-  const parsed = Number(value)
-  return value !== null && value !== "" && Number.isFinite(parsed) ? parsed : fallback
-}
-function parseOptional(value: string | null): number | null {
-  if (!value) return null
-  const parsed = Number(value)
-  return Number.isFinite(parsed) ? parsed : null
-}
-function mobileProfile(): boolean {
-  return window.matchMedia("(max-width: 760px), (pointer: coarse)").matches
-}
-function stateFromUrl(
-  defaultRelations: string[],
-  allTypes: string[],
-  slugMap: GraphSlugMap = graphSlugMap,
-): GraphState {
-  const state = parseGraphState(
-    new URLSearchParams(window.location.search),
-    defaultRelations,
-    allTypes,
-  )
-  const requestedFocus = state.focus ? simplifySlug(state.focus as FullSlug) : ""
-  const mappedFocus =
-    slugMap.publicToGraph[requestedFocus] ?? slugMap.aliases?.[requestedFocus] ?? requestedFocus
-  state.focus = slugMap.aliases?.[mappedFocus] ?? mappedFocus
-  return state
-}
-function resolveTopologyFocus(topology: GraphTopology, focus: string): string {
-  if (!focus) return ""
-  const simplified = simplifySlug(focus as FullSlug)
-  if (topology.nodes.some((node) => simplifySlug(node.slug as FullSlug) === simplified)) {
-    return simplified
-  }
+const dot = (type: string) =>
+  `<i class="graph-type-dot" style="--type-color:#${(colors[type] ?? visual.fallbackNode).toString(16).padStart(6, "0")}"></i>`
 
-  const normalized = simplified.normalize("NFC").toLocaleLowerCase("lt-LT")
-  const matches = topology.nodes.filter(
-    (node) =>
-      simplifySlug(node.slug as FullSlug)
-        .normalize("NFC")
-        .toLocaleLowerCase("lt-LT") === normalized,
-  )
-  return matches.length === 1 ? simplifySlug(matches[0].slug as FullSlug) : focus
-}
-function stateUrl(state: GraphState, defaults: { relations: string[]; types: string[] }): string {
-  const p = serializeGraphState(state, defaults)
-  const query = p.toString()
-  return query ? `${window.location.pathname}?${query}` : window.location.pathname
-}
-async function json<T>(url: URL): Promise<T> {
-  const response = await fetch(url, { cache: "force-cache" })
-  if (!response.ok) throw new Error(`${response.status} ${url.pathname}`)
-  return response.json() as Promise<T>
-}
-async function bucketFor(value: string, count: number): Promise<string> {
-  const digest = new Uint8Array(
-    await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)),
-  )
-  const first = ((digest[0] << 24) | (digest[1] << 16) | (digest[2] << 8) | digest[3]) >>> 0
-  return (first % count).toString(16).padStart(2, "0")
-}
-async function nodeDetails(
-  slug: string,
-  topology: GraphTopology,
-): Promise<NodeDetails | undefined> {
-  const bucket = await bucketFor(slug, topology.nodeBuckets)
-  if (!nodeDetailCache.has(bucket)) {
-    const url = new URL(`nodes/${bucket}.json`, graphDataBase)
-    url.searchParams.set("v", topology.generatedAt)
-    nodeDetailCache.set(bucket, await json(url))
+async function setup(root: HTMLElement) {
+  document.body.classList.add("graph-explorer-active")
+  const q = <T extends HTMLElement = HTMLElement>(selector: string) =>
+    root.querySelector<T>(selector)!
+  const canvas = q("[data-graph-canvas]"),
+    panel = q("[data-graph-panel]"),
+    panelBody = q("[data-preview-content]"),
+    filters = q("[data-filters]"),
+    status = q("[data-graph-status]")
+  const input = q<HTMLInputElement>("[data-graph-search-input]"),
+    suggest = q("[data-graph-suggest]"),
+    suggestions = q("[data-graph-suggest-list]")
+  const base = new URL("/static/graph-data/", location.origin)
+  const controller = new AbortController()
+  let dead = false,
+    generation = 0,
+    previewToken = 0,
+    outerToken = 0,
+    searchToken = 0,
+    renderer: MapRenderer | undefined
+  let previewReturn: HTMLElement | null = null,
+    searchPromise: Promise<SearchNode[]> | undefined
+  let historyIndex = 0
+  let cleanupDetails = () => {}
+  window.addCleanup(() => {
+    dead = true
+    ++generation
+    ++previewToken
+    ++outerToken
+    controller.abort()
+    cleanupDetails()
+    renderer?.destroy()
+    document.body.classList.remove("graph-explorer-active")
+  })
+  const historyEntries: Array<{ state: GraphState; camera?: Camera }> = []
+  const data = async <T>(file: string, signal = controller.signal): Promise<T> => {
+    const url = new URL(file, base)
+    if (file.startsWith("explorer/") || file.startsWith("objects/"))
+      url.searchParams.set("v", topology?.generatedAt ?? "")
+    const response = await fetch(url, {
+      signal,
+      cache:
+        file === "explorer/core.json" ||
+        file === "explorer/index.json" ||
+        file === "../graphSlugMap.json"
+          ? "no-cache"
+          : "force-cache",
+    })
+    if (!response.ok) throw new Error(`HTTP ${response.status}`)
+    return response.json()
   }
-  return nodeDetailCache.get(bucket)?.[slug]
-}
-async function edgeEvidence(edgeId: string, topology: GraphTopology): Promise<EdgeEvidence[]> {
-  const bucket = await bucketFor(edgeId, topology.evidenceBuckets)
-  if (!evidenceCache.has(bucket)) {
-    const url = new URL(`evidence/${bucket}.json`, graphDataBase)
-    url.searchParams.set("v", topology.generatedAt)
-    evidenceCache.set(bucket, await json(url))
+  let topology: GraphTopology | undefined
+  const [loaded, index, slugMap] = await Promise.all([
+    data<GraphTopology>("explorer/core.json"),
+    data<OuterIndex>("explorer/index.json"),
+    data<SlugMap>("../graphSlugMap.json"),
+  ])
+  topology = loaded
+  const allTypes = Object.keys(index.sectors)
+  const defaultRelations = Object.keys(loaded.relationKinds).filter(
+    (kind) => loaded.relationKinds[kind].defaultOn,
+  )
+  const defaults = { types: allTypes, relations: defaultRelations }
+  const readState = () => {
+    const state = parseGraphState(new URLSearchParams(location.search), defaultRelations, allTypes)
+    const key = state.focus.replace(/\/index$/, "").replace(/\/$/, "")
+    state.focus = slugMap.publicToGraph[key] ?? slugMap.aliases?.[key] ?? key
+    state.focus = slugMap.aliases?.[state.focus] ?? state.focus
+    return state
   }
-  return evidenceCache.get(bucket)?.[edgeId] ?? []
-}
-async function loadLayer(kind: string, topology: GraphTopology): Promise<TopologyEdge[]> {
-  if (layerCache.has(kind)) return layerCache.get(kind)!
-  const file = topology.layerFiles[kind]
-  if (!file) return []
-  const url = new URL(file, graphDataBase)
-  url.searchParams.set("v", topology.generatedAt)
-  type CompactEdge = [string, number, number, number, number, number, number[]]
-  const payload = await json<CompactEdge[]>(url)
-  const edges: TopologyEdge[] = payload.map(
-    ([id, fromIndex, toIndex, kindIndex, confidence, evidenceCount, sourceRefs]) => {
-      const sourceIds = sourceRefs.map((index) => topology.sourceIds[index]).filter(Boolean)
-      return {
+  let state = readState(),
+    allEdges = [...loaded.edges]
+  const canonicalNodes = new Map(loaded.nodes.map((node) => [node.slug, node]))
+  const groupKinds = new Map(
+    groups.map(([code]) => [
+      code,
+      Object.keys(loaded.relationKinds).filter((kind) => {
+        const group = loaded.relationKinds[kind].group
+        return (groups.some(([key]) => key === group) ? group : "other") === code
+      }),
+    ]),
+  )
+  const layerCache = new Map<string, TopologyEdge[]>()
+  let fullTopology: Promise<GraphTopology> | undefined
+  async function legacyLayers() {
+    const kinds = state.relations.filter(
+      (kind) => loaded.layerFiles[kind] && !defaultRelations.includes(kind),
+    )
+    if (!kinds.length) return
+    fullTopology ??= data<GraphTopology>("topology.json")
+    const full = await fullTopology
+    for (const kind of kinds) {
+      if (layerCache.has(kind)) continue
+      const tuples = await data<Array<[string, number, number, number, number, number, number[]]>>(
+        full.layerFiles[kind],
+      )
+      const edges = tuples.map(([id, from, to, code, confidence, evidenceCount, refs]) => ({
         id,
-        from: topology.nodes[fromIndex].slug,
-        to: topology.nodes[toIndex].slug,
-        kind: topology.relationKindCodes[kindIndex] ?? kind,
+        from: full.nodes[from].slug,
+        to: full.nodes[to].slug,
+        kind: full.relationKindCodes[code] ?? kind,
         layer: kind,
         confidence,
         evidenceCount,
-        sourceIds,
-        sourceTitles: sourceIds.map((id) => sourceTitleCache.get(id) ?? id),
-      }
-    },
-  )
-  layerCache.set(kind, edges)
-  return edges
-}
-function createLayoutWorker(): Worker {
-  const source = `onmessage=e=>{const{nodes,focus,requestId}=e.data;if(!focus){postMessage({requestId,nodes});return}const byHop={};for(const n of nodes){const hop=Math.max(0,n.hop);(byHop[hop]??=[]).push(n)}let previousOuter=0;for(const [raw,hopNodes] of Object.entries(byHop)){const hop=+raw;if(hop===0){hopNodes[0].px=0;hopNodes[0].py=0;continue}const typeGroups={};for(const n of hopNodes)(typeGroups[n.type]??=[]).push(n);const groups=Object.values(typeGroups).sort((a,b)=>b.length-a.length||a[0].type.localeCompare(b[0].type));const total=hopNodes.length;const inner=hop===1?75:previousOuter+95;const outer=inner+Math.max(180,Math.min(560,110+Math.sqrt(total)*20));previousOuter=outer;let offset=0;for(const list of groups){list.sort((a,b)=>b.degree-a.degree||a.id.localeCompare(b.id));const share=list.length/total;const start=(offset/total)*Math.PI*2;const span=Math.max(.16,share*Math.PI*2);for(let i=0;i<list.length;i++){const n=list[i];const seed=[...n.id].reduce((v,c)=>(v*33+c.charCodeAt(0))>>>0,5381);const phase=((i*.61803398875)%1);const angle=start+span*(.08+.84*phase)+(seed%37)*.0009;const radius=inner+Math.sqrt((i+.65)/Math.max(1,list.length))*(outer-inner)+(seed%13-6)*1.5;n.px=Math.cos(angle)*radius;n.py=Math.sin(angle)*radius}offset+=list.length}}postMessage({requestId,nodes})}`
-  const url = URL.createObjectURL(new Blob([source], { type: "text/javascript" }))
-  const worker = new Worker(url)
-  URL.revokeObjectURL(url)
-  return worker
-}
-let layoutRequestId = 0
-async function layoutGraph(graph: VisibleGraph, worker: Worker): Promise<void> {
-  if (!graph.focus) {
-    layoutGlobalGraph(graph.nodes)
-    return
-  }
-  const requestId = ++layoutRequestId
-  const result = await new Promise<Array<{ id: string; px: number; py: number }>>((resolve) => {
-    const listener = (event: MessageEvent) => {
-      if (event.data.requestId !== requestId) return
-      worker.removeEventListener("message", listener)
-      resolve(event.data.nodes)
+        sourceIds: refs.map((i) => full.sourceIds[i]),
+        sourceTitles: [],
+      }))
+      layerCache.set(kind, edges)
+      const ids = new Set(edges.flatMap((e) => [e.from, e.to]))
+      for (const node of full.nodes)
+        if (ids.has(node.slug) && !canonicalNodes.has(node.slug)) {
+          canonicalNodes.set(node.slug, node)
+          loaded.nodes.push(node)
+        }
     }
-    worker.addEventListener("message", listener)
-    worker.postMessage({
-      requestId,
-      focus: graph.focus!.id,
-      nodes: graph.nodes.map(({ id, px, py, hop, degree, type }) => ({
-        id,
-        px,
-        py,
-        hop,
-        degree,
-        type,
-      })),
-    })
-  })
-  const positions = new Map(result.map((node) => [node.id, node]))
-  for (const node of graph.nodes) {
-    const position = positions.get(node.id)
-    if (position) {
-      node.px = position.px
-      node.py = position.py
-    }
+    allEdges = [...loaded.edges, ...[...layerCache.values()].flat()]
   }
-}
-function nodeRadius(node: RuntimeNode, focused: boolean): number {
-  return (
-    Math.min(17, 3.8 + Math.log1p(node.claimCount + node.quoteCount * 1.4 + node.degree) * 1.25) +
-    (focused ? 4 : 0)
-  )
-}
-function relativePageUrl(slug: string): string {
-  const publicSlug = graphSlugMap.graphToPublic[slug] ?? slug
-  return new URL(
-    resolveRelative(getFullSlug(window), publicSlug as SimpleSlug),
-    window.location.href,
-  ).toString()
-}
-function panelControls(state: GraphState): string {
-  return `<div class="graph-explorer-panel-modes"><button data-panel-mode="details" class="${state.panel === "details" ? "is-active" : ""}">Detalės</button><button data-panel-mode="page" class="${state.panel === "page" ? "is-active" : ""}">Puslapis</button><button data-panel-mode="hidden">Slėpti</button></div>`
-}
-function bindPanelControls(panel: HTMLElement, change: (mode: GraphState["panel"]) => void) {
-  panel.querySelectorAll<HTMLButtonElement>("[data-panel-mode]").forEach((button) =>
-    button.addEventListener("click", () => {
-      const mode = button.dataset.panelMode as GraphState["panel"]
-      emitAnalyticsMap("panel_mode_change", { map_view: "full", map_panel_mode: mode })
-      change(mode)
-    }),
-  )
-}
-function relationBreakdown(
-  node: TopologyNode,
-  graph: VisibleGraph,
-  topology: GraphTopology,
-  state: GraphState,
-): string {
-  const rows = Object.entries(node.relationCounts ?? {})
-    .sort(([, a], [, b]) => b.out + b.in - (a.out + a.in))
-    .map(([kind, count]) => {
-      const spec = topology.relationKinds[kind]
-      if (!spec) return ""
-      const active = state.relations.includes(kind)
-      const shownOut = graph.edges.filter(
-        (edge) => edge.kind === kind && edge.from === node.slug,
-      ).length
-      const shownIn = graph.edges.filter(
-        (edge) => edge.kind === kind && edge.to === node.slug,
-      ).length
-      return `<button type="button" class="graph-relation-count ${active ? "is-active" : ""}" data-panel-relation="${escapeHtml(kind)}"><span>${escapeHtml(spec.label)}</span><b>${shownOut} / ${count.out}</b><small>${escapeHtml(spec.inverseLabel)}</small><b>${shownIn} / ${count.in}</b></button>`
-    })
-    .filter(Boolean)
-  if (!rows.length) return ""
-  const primary = rows.slice(0, 8).join("")
-  const remaining = rows.slice(8).join("")
-  return `<h3 class="graph-relation-heading"><span>Ryšiai pagal tipą</span><small>Aktyvūs / visi</small></h3><div class="graph-relation-breakdown">${primary}${remaining ? `<details class="graph-relation-more"><summary>Visi ryšių tipai (${rows.length})</summary><div>${remaining}</div></details>` : ""}</div>`
-}
-function activeFilterSummary(state: GraphState, topology: GraphTopology): string {
-  const labels: string[] = []
-  if (state.direction !== "both")
-    labels.push(state.direction === "out" ? "tik išeinantys ryšiai" : "tik įeinantys ryšiai")
-  if (state.minClaims) labels.push(`nuo ${state.minClaims} teiginių`)
-  if (state.minQuotes) labels.push(`nuo ${state.minQuotes} citatų`)
-  if (state.minConfidence !== 0.5)
-    labels.push(`patikimumas nuo ${Math.round(state.minConfidence * 100)} %`)
-  if (state.from !== null || state.to !== null)
-    labels.push(`laikotarpis ${state.from ?? "…"}–${state.to ?? "…"}`)
-  if (state.sources.length) labels.push(`${state.sources.length} pasirinkt. knygų`)
-  const defaultRelations = Object.values(topology.relationKinds).filter(
-    (spec) => spec.defaultOn,
-  ).length
-  if (state.relations.length !== defaultRelations)
-    labels.push(`${state.relations.length} ryšių tipai`)
-  return labels.length
-    ? `<div class="graph-active-filters"><strong>Aktyvūs filtrai</strong><span>${labels.map(escapeHtml).join(" · ")}</span></div>`
-    : ""
-}
-async function renderNodePanel(
-  panel: HTMLElement,
-  node: RuntimeNode,
-  graph: VisibleGraph,
-  topology: GraphTopology,
-  state: GraphState,
-  setPanel: (mode: GraphState["panel"]) => void,
-  toggleRelation: (kind: string) => void,
-  isCurrent: () => boolean = () => true,
-) {
-  if (!isCurrent()) return
-  panel.scrollTop = 0
-  if (state.panel === "page") {
-    panel.innerHTML = `${panelControls(state)}<p>Kraunamas puslapis…</p>`
-    bindPanelControls(panel, setPanel)
+  function pageUrl(slug: string) {
+    return "/" + (slugMap.graphToPublic[slug] ?? slug).split("/").map(encodeURIComponent).join("/")
+  }
+  const previewCache = new Map<string, Promise<PreviewShard>>()
+  function closePreview(restore = true) {
+    ++previewToken
+    panel.hidden = true
+    if (restore) previewReturn?.focus({ preventScroll: true })
+  }
+  function closeFilters(restore = true) {
+    filters.hidden = true
+    q("[data-filter-toggle]").setAttribute("aria-expanded", "false")
+    if (restore) q("[data-filter-toggle]").focus()
+  }
+  async function preview(node: SearchNode) {
+    const token = ++previewToken
+    if (panel.hidden) {
+      const active = document.activeElement as HTMLElement
+      previewReturn = suggest.contains(active) ? input : active
+    }
+    closeFilters(false)
+    suggest.hidden = true
+    input.setAttribute("aria-expanded", "false")
+    panel.hidden = false
+    panelBody.scrollTop = 0
+    const heading = `<div class="graph-preview-type">${dot(node.type)}${escape(labels[node.type] ?? node.type)}</div><h2>${escape(node.title)}</h2>`
+    const actions = (count?: number) =>
+      `<div class="graph-preview-actions">${count && count > 0 ? '<button type="button" data-explore>Tyrinėti ryšius</button>' : ""}<a href="${escape(pageUrl(node.slug))}" data-open-page>Atidaryti puslapį ↗</a></div>`
+    panelBody.innerHTML =
+      heading + '<p class="graph-preview-empty">Įkeliama peržiūra…</p>' + actions()
+    q("[data-preview-close]").focus({ preventScroll: true })
     try {
-      const response = await fetch(relativePageUrl(node.id))
-      const html = await response.text()
-      if (!isCurrent()) return
-      const doc = new DOMParser().parseFromString(html, "text/html")
-      const article = doc.querySelector(".object-detail-page, article.popover-hint, article")
-      panel.innerHTML = `${panelControls(state)}<div class="graph-explorer-page-content">${article?.innerHTML ?? "Puslapio nepavyko įkelti."}</div>`
-      bindPanelControls(panel, setPanel)
-    } catch {
-      if (!isCurrent()) return
-      panel.innerHTML = `${panelControls(state)}<p>Puslapio nepavyko įkelti.</p>`
-      bindPanelControls(panel, setPanel)
-    }
-    return
-  }
-  const counts = summarizeFocusedGraph(graph)
-  const header = `${panelControls(state)}
-    <header class="graph-explorer-panel-header"><p>${escapeHtml(typeLabels[node.type] ?? node.type)}</p><h2>${escapeHtml(node.title)}</h2></header>
-    <dl class="graph-explorer-stats"><div><dt>Teiginiai</dt><dd>${node.claimCount}</dd></div><div><dt>Citatos</dt><dd>${node.quoteCount}</dd></div><div><dt>Susiję objektai</dt><dd>${counts.linkedObjects}</dd></div><div><dt>Tiesioginiai ryšiai</dt><dd>${counts.directEdges} / ${counts.possibleDirectEdges}</dd></div><div><dt>Subgrafo ryšiai</dt><dd>${counts.subgraphEdges}</dd></div></dl>
-    <p class="graph-count-explanation">Tiesioginiai ryšiai jungia pasirinktą objektą su jo kaimynais. Subgrafo ryšiai apima ir ekrane rodomų kaimynų tarpusavio ryšius. Skaičiai pateikti kaip aktyvūs / visi.</p>
-    ${activeFilterSummary(state, topology)}`
-  panel.innerHTML = `${header}<p class="graph-explorer-panel-status">Kraunamos objekto detalės…</p>`
-  bindPanelControls(panel, setPanel)
-  try {
-    const details = await nodeDetails(node.id, topology)
-    if (!isCurrent()) return
-    panel.innerHTML = `${header}
-    ${details?.summary ? `<p class="graph-explorer-summary">${escapeHtml(details.summary)}</p>` : ""}
-    <div class="graph-explorer-actions"><a href="${relativePageUrl(node.id)}">Atidaryti objektą</a><a href="${relativePageUrl(node.id).replace(/\/$/u, "")}/irodymai">Visi ${node.claimCount} teiginiai</a><a href="${relativePageUrl(node.id).replace(/\/$/u, "")}/rysiai">Visi ryšiai</a></div>
-    ${relationBreakdown(node, graph, topology, state)}
-    ${
-      details?.topClaims?.length
-        ? `<h3>Atrinkti teiginiai</h3><ol>${details.topClaims
-            .map((claim) => `<li>${escapeHtml(claim.text)}</li>`)
-            .join("")}</ol>`
-        : ""
-    }
-    ${
-      details?.sources?.length
-        ? `<h3>Šaltiniai</h3><ul>${details.sources
-            .slice(0, 8)
-            .map((source) => `<li>${escapeHtml(source)}</li>`)
-            .join("")}</ul>`
-        : ""
-    }`
-    bindPanelControls(panel, setPanel)
-    panel
-      .querySelectorAll<HTMLButtonElement>("[data-panel-relation]")
-      .forEach((button) =>
-        button.addEventListener("click", () => toggleRelation(button.dataset.panelRelation!)),
-      )
-  } catch {
-    if (!isCurrent()) return
-    panel.innerHTML = `${header}<p class="graph-explorer-panel-status">Papildomų detalių įkelti nepavyko. Pagrindinė objekto informacija pateikta.</p>`
-    bindPanelControls(panel, setPanel)
-  }
-}
-async function renderEdgePanel(
-  panel: HTMLElement,
-  edge: RuntimeEdge,
-  topology: GraphTopology,
-  state: GraphState,
-  setPanel: (mode: GraphState["panel"]) => void,
-  isCurrent: () => boolean = () => true,
-) {
-  if (!isCurrent()) return
-  panel.scrollTop = 0
-  const spec = topology.relationKinds[edge.kind]
-  const header = `${panelControls(state)}<header class="graph-explorer-panel-header"><p>Ryšys</p><h2>${escapeHtml(edge.source.title)} <span>${escapeHtml(spec?.label ?? edge.kind)}</span> ${escapeHtml(edge.target.title)}</h2></header>
-    <dl class="graph-explorer-stats"><div><dt>Patikimumas</dt><dd>${Math.round(edge.confidence * 100)}%</dd></div><div><dt>Įrodymai</dt><dd>${edge.evidenceCount}</dd></div><div><dt>Sluoksnis</dt><dd>${escapeHtml(edge.layer)}</dd></div></dl>
-    ${edge.sourceTitles.length ? `<p class="graph-edge-sources"><strong>Šaltiniai:</strong> ${edge.sourceTitles.map(escapeHtml).join(", ")}</p>` : ""}`
-  panel.innerHTML = `${header}<p class="graph-explorer-panel-status">Kraunami ryšio įrodymai…</p>`
-  bindPanelControls(panel, setPanel)
-  try {
-    const evidence = await edgeEvidence(edge.id, topology)
-    if (!isCurrent()) return
-    panel.innerHTML = `${header}
-    ${
-      evidence
-        .slice(0, 3)
-        .map(
-          (item) =>
-            `<article class="graph-edge-evidence"><strong>${escapeHtml(item.claimId)}</strong><p>${escapeHtml(item.claimText)}</p>${item.quoteText ? `<blockquote>${escapeHtml(item.quoteText)}</blockquote>` : ""}<small>${escapeHtml(item.source)}</small></article>`,
+      if (!previewCache.has(node.slug))
+        previewCache.set(
+          node.slug,
+          data<PreviewShard>(`objects/${objectShardFile(node.slug)}.json`).catch((error) => {
+            previewCache.delete(node.slug)
+            throw error
+          }),
         )
-        .join("") || "<p>Ryšys pateiktas viešame puslapyje be atskiros citatos peržiūros.</p>"
-    }`
-    bindPanelControls(panel, setPanel)
-  } catch {
-    if (!isCurrent()) return
-    panel.innerHTML = `${header}<p class="graph-explorer-panel-status">Ryšio įrodymų įkelti nepavyko, tačiau pagrindinė ryšio informacija pateikta.</p>`
-    bindPanelControls(panel, setPanel)
+      const shard = await previewCache.get(node.slug)!
+      if (dead || token !== previewToken || panel.hidden) return
+      const metadata = shard.preview,
+        image = metadata?.image,
+        credit = metadata?.summaryCredit
+      panelBody.innerHTML =
+        heading +
+        (image
+          ? `<figure class="graph-preview-image"><img src="${escape(image.url)}" alt="${escape(image.caption)}" width="640" height="460" style="object-position:${escape(image.position)}" /><figcaption>${escape(image.credit)}${image.license ? ` · ${image.licenseUrl ? `<a href="${escape(image.licenseUrl)}" target="_blank" rel="noopener">${escape(image.license)}</a>` : escape(image.license)}` : ""}</figcaption></figure>`
+          : "") +
+        (metadata?.summary
+          ? `<p class="graph-preview-summary">${escape(metadata.summary)}</p>${credit ? `<small class="graph-preview-credit"><a href="${escape(credit.url)}" target="_blank" rel="noopener">${escape(credit.label)}</a> · <a href="${escape(credit.licenseUrl)}" target="_blank" rel="noopener">${escape(credit.license)}</a></small>` : ""}`
+          : "") +
+        `<dl class="graph-preview-facts">${(metadata?.dates ?? []).map((date) => `<div><dt>${escape(date.label)}</dt><dd>${escape(date.value)}</dd></div>`).join("")}<div><dt>Susiję objektai</dt><dd>${shard.neighbourCount.toLocaleString("lt")}</dd></div></dl>` +
+        (!shard.neighbourCount
+          ? '<p class="graph-preview-empty">Šis objektas dar neturi publikuotų ryšių. Jo istoriją rasite objekto puslapyje.</p>'
+          : "") +
+        actions(shard.neighbourCount)
+      panelBody
+        .querySelector<HTMLImageElement>("img")
+        ?.addEventListener(
+          "error",
+          (event) => (event.currentTarget as HTMLElement).closest("figure")?.remove(),
+          { once: true },
+        )
+      panelBody.querySelector("[data-explore]")?.addEventListener("click", () => {
+        closePreview(false)
+        state.focus = node.slug
+        state.panel = "hidden"
+        state.depth = 1
+        void change(true)
+      })
+    } catch {
+      if (dead || token !== previewToken) return
+      panelBody.innerHTML =
+        heading +
+        '<p class="graph-preview-empty">Peržiūros nepavyko įkelti. Galite atidaryti objekto puslapį.</p>' +
+        actions()
+    }
   }
-}
-type Renderer = { destroy: () => void; camera: () => Camera; applyCamera: (camera: Camera) => void }
-
-function graphPalette() {
-  const dark = document.documentElement.getAttribute("saved-theme") === "dark"
-  return { dark, ink: dark ? 0xf1e8da : 0x241c18, paper: dark ? 0x191b20 : 0xf8f2e8 }
-}
-
-function nodeColor(type: string, dark: boolean): number {
-  const color = typeColors[type] ?? graphVisual.fallbackNode
-  if (!dark) return color
-  // Preserve the shared type hue while keeping small nodes visible on a dark surface.
-  const channel = (shift: number) => Math.round(((color >> shift) & 255) * 0.76 + 255 * 0.24)
-  return (channel(16) << 16) | (channel(8) << 8) | channel(0)
-}
-
-/** A screen-space label stays readable above every node at every zoom level. */
-function showGraphHover(container: HTMLElement, node: RuntimeNode | null, x = 0, y = 0) {
-  const tip = container.querySelector<HTMLElement>("[data-graph-hover]")!
-  tip.hidden = !node
-  if (!node) return
-  tip.innerHTML = `<span>${escapeHtml(typeLabels[node.type] ?? node.type)}</span><strong>${escapeHtml(node.title)}</strong><small>${node.claimCount.toLocaleString("lt-LT")} teig. · ${node.degree.toLocaleString("lt-LT")} ryšių</small>`
-  tip.style.setProperty(
-    "--node-color",
-    `#${(typeColors[node.type] ?? graphVisual.fallbackNode).toString(16).padStart(6, "0")}`,
-  )
-  tip.style.left = `${Math.max(8, Math.min(container.clientWidth - tip.offsetWidth - 8, x + 16))}px`
-  tip.style.top = `${Math.max(8, Math.min(container.clientHeight - tip.offsetHeight - 8, y - tip.offsetHeight - 12))}px`
-}
-
-function bindGraphKeyboard(canvas: HTMLCanvasElement, renderer: Renderer) {
-  canvas.tabIndex = 0
-  canvas.setAttribute(
-    "aria-label",
-    "Istorijos ryšių žemėlapis. Rodyklėmis judėkite, pliusu ir minusu keiskite mastelį. Objektą pasirinkite paieškoje.",
-  )
-  canvas.addEventListener("keydown", (event) => {
-    const camera = renderer.camera()
-    const factor = event.key === "+" || event.key === "=" ? 1.3 : event.key === "-" ? 1 / 1.3 : 1
-    if (factor !== 1) {
-      const k = Math.max(0.08, Math.min(8, camera.k * factor))
-      const x = canvas.clientWidth / 2,
+  const tiles = new Map<string, RuntimeNode[]>(),
+    pending = new Map<string, Promise<RuntimeNode[]>>()
+  const added = new Set<string>()
+  let outerAbort = new AbortController(),
+    outerRunning = false,
+    outerAgain = false,
+    outerError = false
+  const frame = () => new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
+  async function loadOuter() {
+    if (dead || !state.showIsolated || !renderer) return
+    if (outerRunning) {
+      outerAgain = true
+      return
+    }
+    outerRunning = true
+    const token = outerToken,
+      target = renderer
+    try {
+      const bounds = target.viewport(),
+        margin = 180 / target.camera().k
+      const wanted = index.tiles.filter(
+        (tile) =>
+          tile.maxX >= bounds.minX - margin &&
+          tile.minX <= bounds.maxX + margin &&
+          tile.maxY >= bounds.minY - margin &&
+          tile.minY <= bounds.maxY + margin,
+      )
+      wanted.sort(
+        (a, b) =>
+          Math.hypot(
+            (a.minX + a.maxX) / 2 - (bounds.minX + bounds.maxX) / 2,
+            (a.minY + a.maxY) / 2 - (bounds.minY + bounds.maxY) / 2,
+          ) -
+          Math.hypot(
+            (b.minX + b.maxX) / 2 - (bounds.minX + bounds.maxX) / 2,
+            (b.minY + b.maxY) / 2 - (bounds.minY + bounds.maxY) / 2,
+          ),
+      )
+      for (const tile of wanted) {
+        if (dead || token !== outerToken || !state.showIsolated || renderer !== target) break
+        let nodes = tiles.get(tile.file)
+        if (!nodes) {
+          if (!pending.has(tile.file))
+            pending.set(
+              tile.file,
+              data<RuntimeNode[]>(`explorer/${tile.file}`, outerAbort.signal)
+                .then((value) => {
+                  tiles.set(tile.file, value)
+                  return value
+                })
+                .finally(() => pending.delete(tile.file)),
+            )
+          nodes = await pending.get(tile.file)!
+        }
+        let cursor = 0
+        while (cursor < nodes.length) {
+          await frame()
+          if (dead || token !== outerToken || !state.showIsolated || renderer !== target) break
+          const started = performance.now(),
+            batch: RuntimeNode[] = []
+          while (cursor < nodes.length && batch.length < 200 && performance.now() - started < 8) {
+            const node = nodes[cursor++]
+            if (
+              !added.has(node.id) &&
+              !canonicalNodes.get(node.id)?.connected &&
+              nodePasses(node, state, new Set(state.sources))
+            ) {
+              added.add(node.id)
+              batch.push(node)
+            }
+          }
+          if (batch.length) target.append(batch)
+        }
+      }
+      if (outerError && token === outerToken && !dead) {
+        status.textContent = ""
+        outerError = false
+      }
+    } catch (error) {
+      if (!(error instanceof DOMException && error.name === "AbortError")) {
+        outerError = true
+        status.textContent =
+          "Dalies išorinio sluoksnio nepavyko įkelti. Pajudinus vaizdą bus bandoma dar kartą."
+      }
+    } finally {
+      outerRunning = false
+      if (outerAgain) {
+        outerAgain = false
+        void loadOuter()
+      }
+    }
+  }
+  function resetOuter() {
+    ++outerToken
+    outerAbort.abort()
+    outerAbort = new AbortController()
+    added.clear()
+    renderer?.clearOuter()
+  }
+  const filterInputs = new Map<string, HTMLInputElement>()
+  function checkbox(
+    code: string,
+    text: string,
+    container: HTMLElement,
+    handler: (checked: boolean) => void,
+    type?: string,
+  ) {
+    const label = document.createElement("label")
+    label.innerHTML = `<input type="checkbox" />${type ? dot(type) : ""}<span>${escape(text)}</span>`
+    const checkbox = label.querySelector("input")!
+    checkbox.addEventListener("change", () => handler(checkbox.checked))
+    container.append(label)
+    filterInputs.set(code, checkbox)
+  }
+  for (const type of allTypes) {
+    checkbox(
+      `type:${type}`,
+      labels[type] ?? type,
+      q("[data-type-options]"),
+      (checked) => {
+        state.types = checked
+          ? allTypes.filter((value) => value === type || state.types.includes(value))
+          : state.types.filter((value) => value !== type)
+        void change()
+      },
+      type,
+    )
+    const button = document.createElement("button")
+    button.type = "button"
+    button.innerHTML = dot(type) + escape(labels[type] ?? type)
+    button.addEventListener("click", () => {
+      state.types = state.types.length === 1 && state.types[0] === type ? [...allTypes] : [type]
+      void change()
+    })
+    q("[data-orbit-types]").append(button)
+  }
+  for (const [code, text] of groups)
+    checkbox(`group:${code}`, text, q("[data-relation-options]"), (checked) => {
+      const kinds = groupKinds.get(code)!
+      state.relations = checked
+        ? [
+            ...new Set([
+              ...state.relations,
+              ...kinds.filter((kind) => loaded.relationKinds[kind].defaultOn),
+            ]),
+          ]
+        : state.relations.filter((kind) => !kinds.includes(kind))
+      void change()
+    })
+  function sync() {
+    for (const type of allTypes)
+      filterInputs.get(`type:${type}`)!.checked = state.types.includes(type)
+    for (const [code] of groups) {
+      const kinds = groupKinds
+        .get(code)!
+        .filter((kind) => loaded.relationKinds[kind].defaultOn || state.relations.includes(kind))
+      const count = kinds.filter((kind) => state.relations.includes(kind)).length,
+        checkbox = filterInputs.get(`group:${code}`)!
+      checkbox.checked = count > 0 && count === kinds.length
+      checkbox.indeterminate = count > 0 && count < kinds.length
+    }
+    q<HTMLInputElement>("[data-date-from]").value = state.from === null ? "" : String(state.from)
+    q<HTMLInputElement>("[data-date-to]").value = state.to === null ? "" : String(state.to)
+    q<HTMLInputElement>("[data-isolated]").checked = state.showIsolated
+    const legacy = Boolean(
+      state.sources.length ||
+      state.minClaims ||
+      state.minQuotes ||
+      state.minConfidence !== 0.5 ||
+      state.direction !== "both",
+    )
+    q("[data-legacy-filters]").hidden = !legacy
+    const count =
+      Number(state.types.length !== allTypes.length) +
+      Number(
+        state.relations.length !== defaultRelations.length ||
+          defaultRelations.some((kind) => !state.relations.includes(kind)),
+      ) +
+      Number(state.from !== null || state.to !== null) +
+      Number(state.showIsolated) +
+      Number(legacy)
+    q("[data-filter-count]").hidden = !count
+    q("[data-filter-count]").textContent = String(count)
+    q<HTMLButtonElement>("[data-history-back]").disabled = historyIndex === 0
+    q<HTMLButtonElement>("[data-history-forward]").disabled =
+      historyIndex >= historyEntries.length - 1
+    q("[data-overview]").hidden = Boolean(state.focus)
+    q("[data-focus-context]").hidden = !state.focus
+    q("[data-focus-title]").textContent =
+      canonicalNodes.get(state.focus)?.title ?? state.focus.split("/").pop() ?? ""
+    q<HTMLSelectElement>("[data-graph-depth]").value = String(state.depth)
+  }
+  const historyUrl = () => {
+    const params = serializeGraphState(state, defaults)
+    return location.pathname + (params.size ? `?${params}` : "")
+  }
+  function saveHistory(push = true) {
+    history.replaceState({ ...history.state, graphIndex: historyIndex }, "", location.href)
+    if (push) {
+      historyEntries.splice(historyIndex + 1)
+      historyEntries.push({ state: cloneGraphState(state) })
+      historyIndex = historyEntries.length - 1
+    }
+    if (push) history.pushState({ graphIndex: historyIndex }, "", historyUrl())
+    else history.replaceState({ graphIndex: historyIndex }, "", historyUrl())
+  }
+  let renderQueue = Promise.resolve()
+  async function render(fit = false, camera?: Camera) {
+    const request = ++generation
+    renderQueue = renderQueue
+      .catch(() => {})
+      .then(async () => {
+        if (dead || request !== generation) return
+        const previous = camera ?? (!fit ? renderer?.camera() : undefined)
+        await legacyLayers()
+        if (dead || request !== generation) return
+        resetOuter()
+        renderer?.destroy()
+        renderer = undefined
+        const graph = buildVisibleGraph(
+          loaded,
+          allEdges,
+          { ...state, showIsolated: false },
+          new Set(state.sources),
+        )
+        layoutFocusedGraph(graph, index.sectors)
+        const next = await createMapRenderer(canvas, graph, {
+          select: preview,
+          camera: (value) => {
+            if (historyEntries[historyIndex]) historyEntries[historyIndex].camera = value
+            void loadOuter()
+          },
+        })
+        if (dead || request !== generation) {
+          next.destroy()
+          return
+        }
+        renderer = next
+        if (previous) next.applyCamera(previous)
+        status.textContent = graph.nodes.length ? "" : "Pagal šiuos filtrus susietų objektų nėra."
+        sync()
+        void loadOuter()
+      })
+      .catch(() => {
+        status.textContent = "Nepavyko atnaujinti žemėlapio. Pabandykite atstatyti filtrus."
+      })
+    return renderQueue
+  }
+  async function change(fit = false) {
+    saveHistory()
+    sync()
+    await render(fit)
+  }
+  const onPop = () => {
+    closePreview(false)
+    closeFilters(false)
+    state = readState()
+    const saved = history.state?.graphIndex
+    if (Number.isInteger(saved) && historyEntries[saved]) historyIndex = saved
+    sync()
+    void render(false, historyEntries[historyIndex]?.camera)
+  }
+  addEventListener("popstate", onPop)
+  q("[data-history-back]").addEventListener("click", () => history.back())
+  q("[data-history-forward]").addEventListener("click", () => history.forward())
+  q("[data-graph-home]").addEventListener("click", () => {
+    closePreview(false)
+    state.focus = ""
+    state.depth = 1
+    state.panel = "hidden"
+    void change(true)
+  })
+  q("[data-filter-toggle]").addEventListener("click", () => {
+    if (!filters.hidden) closeFilters()
+    else {
+      closePreview(false)
+      filters.hidden = false
+      q("[data-filter-toggle]").setAttribute("aria-expanded", "true")
+      q("[data-filter-close]").focus()
+    }
+  })
+  root
+    .querySelectorAll("[data-filter-close]")
+    .forEach((button) => button.addEventListener("click", () => closeFilters()))
+  q("[data-preview-close]").addEventListener("click", () => closePreview())
+  q("[data-reset-filters]").addEventListener("click", () => {
+    state = {
+      ...parseGraphState(new URLSearchParams(), defaultRelations, allTypes),
+      focus: state.focus,
+    }
+    void change()
+  })
+  for (const field of ["from", "to"] as const)
+    q<HTMLInputElement>(`[data-date-${field}]`).addEventListener("change", (event) => {
+      const value = (event.target as HTMLInputElement).value
+      state[field] = value && Number.isFinite(Number(value)) ? Number(value) : null
+      if (state.from !== null && state.to !== null && state.from > state.to)
+        [state.from, state.to] = [state.to, state.from]
+      void change()
+    })
+  q<HTMLInputElement>("[data-isolated]").addEventListener("change", (event) => {
+    state.showIsolated = (event.target as HTMLInputElement).checked
+    saveHistory()
+    sync()
+    if (state.showIsolated) void loadOuter()
+    else resetOuter()
+  })
+  q<HTMLSelectElement>("[data-graph-depth]").addEventListener("change", (event) => {
+    state.depth = Number((event.target as HTMLSelectElement).value)
+    void change(true)
+  })
+  q("[data-graph-theme]").addEventListener("click", () => {
+    const theme = document.documentElement.getAttribute("saved-theme") === "dark" ? "light" : "dark"
+    document.documentElement.setAttribute("saved-theme", theme)
+    localStorage.setItem("theme", theme)
+    document.dispatchEvent(new CustomEvent("themechange", { detail: { theme } }))
+    void render()
+  })
+  q("[data-zoom-fit]").addEventListener("click", () => renderer?.fit(state.showIsolated))
+  for (const [action, factor] of [
+    ["in", 1.4],
+    ["out", 1 / 1.4],
+  ] as const)
+    q(`[data-zoom-${action}]`).addEventListener("click", () => {
+      if (!renderer) return
+      const camera = renderer.camera(),
+        k = Math.max(0.06, Math.min(8, camera.k * factor)),
+        x = canvas.clientWidth / 2,
         y = canvas.clientHeight / 2
       renderer.applyCamera({
         x: x - ((x - camera.x) * k) / camera.k,
         y: y - ((y - camera.y) * k) / camera.k,
         k,
       })
-    } else if (["ArrowLeft", "ArrowRight", "ArrowUp", "ArrowDown"].includes(event.key)) {
-      renderer.applyCamera({
-        ...camera,
-        x: camera.x + (event.key === "ArrowLeft" ? 60 : event.key === "ArrowRight" ? -60 : 0),
-        y: camera.y + (event.key === "ArrowUp" ? 60 : event.key === "ArrowDown" ? -60 : 0),
-      })
-    } else return
-    event.preventDefault()
+    })
+  const getSearch = () =>
+    (searchPromise ??= data<SearchNode[]>("explorer/search.json").catch((error) => {
+      searchPromise = undefined
+      throw error
+    }))
+  input.addEventListener("focus", () => {
+    void getSearch().catch(() => {})
   })
-}
-async function renderPixi(
-  container: HTMLElement,
-  graph: VisibleGraph,
-  handlers: {
-    focus: (slug: string) => void
-    edge: (edge: RuntimeEdge) => void
-    camera: (camera: Camera) => void
-  },
-): Promise<Renderer> {
-  container.querySelector("canvas")?.remove()
-  const width = Math.max(320, container.clientWidth),
-    height = Math.max(320, container.clientHeight)
-  const app = new Application()
-  await app.init({
-    width,
-    height,
-    antialias: true,
-    autoStart: false,
-    autoDensity: true,
-    backgroundAlpha: 0,
-    preference: "webgl",
-    resolution: Math.min(2, window.devicePixelRatio),
-  })
-  container.prepend(app.canvas)
-  const world = new Container()
-  const edgeGfx = new Graphics()
-  const nodeGfx = new Graphics()
-  const labelLayer = new Container<Text>()
-  world.addChild(edgeGfx, nodeGfx, labelLayer)
-  app.stage.addChild(world)
-  let transform: ZoomTransform = zoomIdentity
-  let hovered: RuntimeNode | null = null
-  const palette = graphPalette()
-  const labels = new Map<string, Text>()
-  const rankedNodes = [...graph.nodes].sort(
-    (a, b) => b.degree + b.claimCount * 0.08 - (a.degree + a.claimCount * 0.08),
-  )
-  const byNodeId = new Map(graph.nodes.map((node) => [node.id, node]))
-  function ensureLabel(node: RuntimeNode): Text {
-    let label = labels.get(node.id)
-    if (!label) {
-      label = new Text({
-        text: node.title,
-        anchor: { x: 0.5, y: 1.3 },
-        style: {
-          fontSize: 12,
-          fill: palette.ink,
-          fontFamily: "Arial, sans-serif",
-          fontWeight: node === graph.focus ? "700" : "500",
-          stroke: { color: palette.paper, width: 4 },
-        },
-      })
-      label.position.set(node.px, node.py - nodeRadius(node, node === graph.focus))
-      labelLayer.addChild(label)
-      labels.set(node.id, label)
-    }
-    return label
-  }
-  function updateLabels() {
-    const limit = mobileProfile()
-      ? transform.k < 0.7
-        ? 20
-        : transform.k < 1.4
-          ? 60
-          : 250
-      : transform.k < 0.35
-        ? 30
-        : transform.k < 0.7
-          ? 90
-          : transform.k < 1.2
-            ? 180
-            : transform.k < 2
-              ? 500
-              : 1400
-    const occupied: Array<{ x: number; y: number; width: number }> = []
-    const wanted = new Set<string>()
-    const visibleLimit = graph.focus ? limit : transform.k < 0.7 ? 0 : Math.min(limit, 100)
-    for (const node of rankedNodes) {
-      if (wanted.size >= visibleLimit) break
-      const x = node.px * transform.k + transform.x,
-        y = node.py * transform.k + transform.y
-      const labelWidth = Math.min(320, node.title.length * 6.5)
-      if (x < labelWidth / 2 || x > width - labelWidth / 2 || y < 20 || y > height) continue
-      if (
-        occupied.some(
-          (box) =>
-            Math.abs(box.y - y) < 22 && Math.abs(box.x - x) < (box.width + labelWidth) / 2 + 10,
+  input.addEventListener("input", async () => {
+    const token = ++searchToken,
+      query = normalize(input.value.trim())
+    suggestions.replaceChildren()
+    suggest.hidden = !query
+    input.setAttribute("aria-expanded", String(Boolean(query)))
+    if (!query) return
+    suggestions.innerHTML = "<p>Ieškoma…</p>"
+    try {
+      const nodes = await getSearch()
+      if (dead || token !== searchToken) return
+      const matches = nodes
+        .filter((node) => normalize(node.title).includes(query))
+        .sort(
+          (a, b) =>
+            Number(normalize(b.title).startsWith(query)) -
+              Number(normalize(a.title).startsWith(query)) || a.title.localeCompare(b.title, "lt"),
         )
-      )
-        continue
-      occupied.push({ x, y, width: labelWidth })
-      wanted.add(node.id)
-    }
-    if (graph.focus) wanted.add(graph.focus.id)
-    if (hovered) wanted.add(hovered.id)
-    for (const id of wanted) {
-      const node = byNodeId.get(id)
-      if (node) ensureLabel(node)
-    }
-    for (const [id, label] of labels) {
-      label.visible = wanted.has(id)
-      label.scale.set(1 / transform.k)
-    }
-  }
-  function draw(redrawGeometry = true) {
-    if (redrawGeometry) {
-      edgeGfx.clear()
-      nodeGfx.clear()
-      for (const edge of graph.edges) {
-        const selected = hovered && (edge.from === hovered.id || edge.to === hovered.id)
-        const touchesFocus =
-          graph.focus && (edge.from === graph.focus.id || edge.to === graph.focus.id)
-        const density = graph.edges.length > 900 ? 0.34 : graph.edges.length > 350 ? 0.56 : 1
-        const alpha = selected
-          ? 0.9
-          : !graph.focus
-            ? hovered
-              ? 0.005
-              : 0.009
-            : Math.max(
-                0.025,
-                Math.min(
-                  touchesFocus ? 0.3 : 0.2,
-                  edge.confidence * 0.42 * density * (touchesFocus ? 1 : 0.55),
-                ),
-              )
-        const color = selected
-          ? graphVisual.focus
-          : edge.layer === "semantic"
-            ? graphVisual.edgeSemantic
-            : graphVisual.edgeExplicit
-        edgeGfx
-          .moveTo(edge.source.px, edge.source.py)
-          .lineTo(edge.target.px, edge.target.py)
-          .stroke({
-            color,
-            alpha,
-            width: selected ? 2.2 : Math.min(2.1, 0.35 + Math.log1p(edge.evidenceCount) * 0.28),
-          })
-      }
-      for (const node of graph.nodes) {
-        const focused = node === graph.focus,
-          active = node === hovered
-        const color = nodeColor(node.type, palette.dark)
-        const radius = nodeRadius(node, focused)
-        if (active || focused)
-          nodeGfx.circle(node.px, node.py, radius + 7).fill({ color, alpha: 0.16 })
-        nodeGfx
-          .circle(node.px, node.py, radius)
-          .fill({ color, alpha: active || focused ? 1 : 0.82 })
-          .stroke({
-            color: active || focused ? palette.ink : palette.paper,
-            width: focused ? 2.5 : active ? 2 : 0.75,
-          })
-        if (radius > 5)
-          nodeGfx
-            .circle(node.px - radius * 0.25, node.py - radius * 0.3, radius * 0.24)
-            .fill({ color: 0xffffff, alpha: 0.22 })
-      }
-    }
-    updateLabels()
-    app.render()
-  }
-  const spatialCellSize = 100
-  const spatial = new Map<string, RuntimeNode[]>()
-  for (const node of graph.nodes) {
-    const key = `${Math.floor(node.px / spatialCellSize)}:${Math.floor(node.py / spatialCellSize)}`
-    const bucket = spatial.get(key) ?? []
-    bucket.push(node)
-    spatial.set(key, bucket)
-  }
-  function hitNode(event: PointerEvent): RuntimeNode | null {
-    const rect = app.canvas.getBoundingClientRect()
-    const x = (event.clientX - rect.left - transform.x) / transform.k
-    const y = (event.clientY - rect.top - transform.y) / transform.k
-    let best: RuntimeNode | null = null,
-      distance = Infinity
-    const cellX = Math.floor(x / spatialCellSize),
-      cellY = Math.floor(y / spatialCellSize)
-    const candidates: RuntimeNode[] = []
-    for (let dx = -1; dx <= 1; dx++)
-      for (let dy = -1; dy <= 1; dy++)
-        candidates.push(...(spatial.get(`${cellX + dx}:${cellY + dy}`) ?? []))
-    for (const node of candidates) {
-      const d = Math.hypot(node.px - x, node.py - y)
-      if (d < distance && d <= nodeRadius(node, node === graph.focus) + 7 / transform.k) {
-        best = node
-        distance = d
-      }
-    }
-    return best
-  }
-  function hitEdge(event: PointerEvent): RuntimeEdge | null {
-    const rect = app.canvas.getBoundingClientRect()
-    const x = (event.clientX - rect.left - transform.x) / transform.k
-    const y = (event.clientY - rect.top - transform.y) / transform.k
-    let best: RuntimeEdge | null = null,
-      bestDistance = 7 / transform.k
-    for (const edge of graph.edges) {
-      const ax = edge.source.px,
-        ay = edge.source.py,
-        bx = edge.target.px,
-        by = edge.target.py,
-        dx = bx - ax,
-        dy = by - ay
-      const t = Math.max(0, Math.min(1, ((x - ax) * dx + (y - ay) * dy) / (dx * dx + dy * dy || 1)))
-      const d = Math.hypot(x - (ax + t * dx), y - (ay + t * dy))
-      if (d < bestDistance) {
-        best = edge
-        bestDistance = d
-      }
-    }
-    return best
-  }
-  const zoomBehavior = zoom<HTMLCanvasElement, unknown>()
-    .scaleExtent([0.08, 8])
-    .on("zoom", (event) => {
-      showGraphHover(container, null)
-      transform = event.transform
-      world.position.set(transform.x, transform.y)
-      world.scale.set(transform.k)
-      draw(false)
-    })
-    .on("end", () => handlers.camera({ x: transform.x, y: transform.y, k: transform.k }))
-  select(app.canvas).call(zoomBehavior as any)
-  app.canvas.addEventListener("pointermove", (event) => {
-    const node = hitNode(event)
-    const rect = app.canvas.getBoundingClientRect()
-    showGraphHover(container, node, event.clientX - rect.left, event.clientY - rect.top)
-    if (node !== hovered) {
-      hovered = node
-      app.canvas.style.cursor = node ? "pointer" : "grab"
-      draw()
-    }
-  })
-  app.canvas.addEventListener("pointerleave", () => {
-    hovered = null
-    showGraphHover(container, null)
-    draw()
-  })
-  app.canvas.addEventListener("click", (event) => {
-    const node = hitNode(event)
-    if (node) {
-      handlers.focus(node.id)
-      return
-    }
-    const edge = hitEdge(event)
-    if (edge) {
-      handlers.edge(edge)
-      draw()
-    }
-  })
-  const bounds = graph.nodes.reduce(
-    (acc, node) => ({
-      minX: Math.min(acc.minX, node.px - 25),
-      maxX: Math.max(acc.maxX, node.px + 25),
-      minY: Math.min(acc.minY, node.py - 35),
-      maxY: Math.max(acc.maxY, node.py + 25),
-    }),
-    { minX: Infinity, maxX: -Infinity, minY: Infinity, maxY: -Infinity },
-  )
-  if (graph.nodes.length) {
-    const graphWidth = Math.max(1, bounds.maxX - bounds.minX),
-      graphHeight = Math.max(1, bounds.maxY - bounds.minY),
-      padding = mobileProfile() ? 46 : 72
-    const scale = Math.max(
-      0.08,
-      Math.min(
-        2.4,
-        Math.min((width - padding * 2) / graphWidth, (height - padding * 2) / graphHeight),
-      ),
-    )
-    const cx = (bounds.minX + bounds.maxX) / 2,
-      cy = (bounds.minY + bounds.maxY) / 2
-    select(app.canvas).call(
-      zoomBehavior.transform as any,
-      zoomIdentity.translate(width / 2 - cx * scale, height / 2 - cy * scale).scale(scale),
-    )
-  }
-  draw()
-  const renderer: Renderer = {
-    destroy: () => {
-      select(app.canvas).on(".zoom", null)
-      app.destroy(true)
-    },
-    camera: () => ({ x: transform.x, y: transform.y, k: transform.k }),
-    applyCamera: (camera) =>
-      select(app.canvas).call(
-        zoomBehavior.transform as any,
-        zoomIdentity.translate(camera.x, camera.y).scale(camera.k),
-      ),
-  }
-  bindGraphKeyboard(app.canvas, renderer)
-  return renderer
-}
-function renderCanvasFallback(
-  container: HTMLElement,
-  graph: VisibleGraph,
-  handlers: {
-    focus: (slug: string) => void
-    edge: (edge: RuntimeEdge) => void
-    camera: (camera: Camera) => void
-  },
-): Renderer {
-  container.querySelector("canvas")?.remove()
-  const canvas = document.createElement("canvas")
-  const width = Math.max(320, container.clientWidth),
-    height = Math.max(320, container.clientHeight)
-  const ratio = Math.min(2, window.devicePixelRatio || 1)
-  canvas.width = Math.round(width * ratio)
-  canvas.height = Math.round(height * ratio)
-  canvas.style.width = `${width}px`
-  canvas.style.height = `${height}px`
-  container.prepend(canvas)
-  const context = canvas.getContext("2d")!
-  let transform: ZoomTransform = zoomIdentity
-  let hovered: RuntimeNode | null = null
-  const palette = graphPalette()
-  const important = new Set(
-    [...graph.nodes]
-      .sort((a, b) => b.degree + b.claimCount * 0.08 - (a.degree + a.claimCount * 0.08))
-      .slice(0, mobileProfile() ? 20 : 80)
-      .map((node) => node.id),
-  )
-  const spatialCellSize = 100,
-    spatial = new Map<string, RuntimeNode[]>()
-  for (const node of graph.nodes) {
-    const key = `${Math.floor(node.px / spatialCellSize)}:${Math.floor(node.py / spatialCellSize)}`
-    const bucket = spatial.get(key) ?? []
-    bucket.push(node)
-    spatial.set(key, bucket)
-  }
-  const point = (event: PointerEvent) => {
-    const rect = canvas.getBoundingClientRect()
-    return {
-      x: (event.clientX - rect.left - transform.x) / transform.k,
-      y: (event.clientY - rect.top - transform.y) / transform.k,
-    }
-  }
-  const hitNode = (event: PointerEvent) => {
-    const { x, y } = point(event)
-    const cx = Math.floor(x / spatialCellSize),
-      cy = Math.floor(y / spatialCellSize)
-    let best: RuntimeNode | null = null,
-      distance = Infinity
-    for (let dx = -1; dx <= 1; dx++)
-      for (let dy = -1; dy <= 1; dy++)
-        for (const node of spatial.get(`${cx + dx}:${cy + dy}`) ?? []) {
-          const d = Math.hypot(node.px - x, node.py - y)
-          if (d < distance && d <= nodeRadius(node, node === graph.focus) + 7 / transform.k) {
-            best = node
-            distance = d
-          }
-        }
-    return best
-  }
-  const hitEdge = (event: PointerEvent) => {
-    const { x, y } = point(event)
-    let best: RuntimeEdge | null = null,
-      distance = 7 / transform.k
-    for (const edge of graph.edges) {
-      const ax = edge.source.px,
-        ay = edge.source.py,
-        bx = edge.target.px,
-        by = edge.target.py,
-        dx = bx - ax,
-        dy = by - ay,
-        t = Math.max(0, Math.min(1, ((x - ax) * dx + (y - ay) * dy) / (dx * dx + dy * dy || 1))),
-        d = Math.hypot(x - (ax + t * dx), y - (ay + t * dy))
-      if (d < distance) {
-        best = edge
-        distance = d
-      }
-    }
-    return best
-  }
-  function draw() {
-    context.setTransform(ratio, 0, 0, ratio, 0, 0)
-    context.clearRect(0, 0, width, height)
-    context.save()
-    context.translate(transform.x, transform.y)
-    context.scale(transform.k, transform.k)
-    const density = graph.edges.length > 900 ? 0.34 : graph.edges.length > 350 ? 0.56 : 1
-    for (const edge of graph.edges) {
-      const touchesFocus =
-          graph.focus && (edge.from === graph.focus.id || edge.to === graph.focus.id),
-        alpha =
-          hovered && (edge.from === hovered.id || edge.to === hovered.id)
-            ? 0.9
-            : !graph.focus
-              ? 0.009
-              : Math.max(
-                  0.025,
-                  Math.min(
-                    touchesFocus ? 0.3 : 0.2,
-                    edge.confidence * 0.42 * density * (touchesFocus ? 1 : 0.55),
-                  ),
-                )
-      context.beginPath()
-      context.moveTo(edge.source.px, edge.source.py)
-      context.lineTo(edge.target.px, edge.target.py)
-      const edgeColor =
-        edge.layer === "semantic" ? graphVisual.edgeSemantic : graphVisual.edgeExplicit
-      context.strokeStyle = `rgba(${(edgeColor >> 16) & 255},${(edgeColor >> 8) & 255},${edgeColor & 255},${alpha})`
-      context.lineWidth = Math.min(2.1, 0.35 + Math.log1p(edge.evidenceCount) * 0.28)
-      context.stroke()
-    }
-    for (const node of graph.nodes) {
-      const focus = node === graph.focus
-      context.beginPath()
-      context.arc(node.px, node.py, nodeRadius(node, focus), 0, Math.PI * 2)
-      context.fillStyle = `#${nodeColor(node.type, palette.dark).toString(16).padStart(6, "0")}`
-      context.fill()
-      context.lineWidth = focus ? 4 : 1.1
-      context.strokeStyle = `#${(focus || node === hovered ? palette.ink : palette.paper).toString(16).padStart(6, "0")}`
-      context.stroke()
-      if ((transform.k >= 0.65 && important.has(node.id)) || focus) {
-        context.save()
-        context.scale(1 / transform.k, 1 / transform.k)
-        context.font = `${focus ? 700 : 500} 12px Arial, sans-serif`
-        context.textAlign = "center"
-        context.lineWidth = 3
-        const tx = node.px * transform.k,
-          ty = (node.py - nodeRadius(node, focus) - 5) * transform.k
-        context.strokeStyle = `#${palette.paper.toString(16).padStart(6, "0")}`
-        context.strokeText(node.title, tx, ty)
-        context.fillStyle = `#${palette.ink.toString(16).padStart(6, "0")}`
-        context.fillText(node.title, tx, ty)
-        context.restore()
-      }
-    }
-    context.restore()
-  }
-  const zoomBehavior = zoom<HTMLCanvasElement, unknown>()
-    .scaleExtent([0.08, 8])
-    .on("zoom", (event) => {
-      showGraphHover(container, null)
-      transform = event.transform
-      draw()
-    })
-    .on("end", () => handlers.camera({ x: transform.x, y: transform.y, k: transform.k }))
-  select(canvas).call(zoomBehavior as any)
-  canvas.addEventListener("pointermove", (event) => {
-    const node = hitNode(event),
-      rect = canvas.getBoundingClientRect()
-    showGraphHover(container, node, event.clientX - rect.left, event.clientY - rect.top)
-    canvas.style.cursor = node ? "pointer" : "grab"
-    if (hovered !== node) {
-      hovered = node
-      draw()
-    }
-  })
-  canvas.addEventListener("pointerleave", () => {
-    hovered = null
-    showGraphHover(container, null)
-    draw()
-  })
-  canvas.addEventListener("click", (event) => {
-    const node = hitNode(event)
-    if (node) {
-      handlers.focus(node.id)
-      return
-    }
-    const edge = hitEdge(event)
-    if (edge) handlers.edge(edge)
-  })
-  const bounds = graph.nodes.reduce(
-    (acc, node) => ({
-      minX: Math.min(acc.minX, node.px - 25),
-      maxX: Math.max(acc.maxX, node.px + 25),
-      minY: Math.min(acc.minY, node.py - 35),
-      maxY: Math.max(acc.maxY, node.py + 25),
-    }),
-    { minX: Infinity, maxX: -Infinity, minY: Infinity, maxY: -Infinity },
-  )
-  if (graph.nodes.length) {
-    const graphWidth = Math.max(1, bounds.maxX - bounds.minX),
-      graphHeight = Math.max(1, bounds.maxY - bounds.minY),
-      padding = mobileProfile() ? 46 : 72,
-      scale = Math.max(
-        0.08,
-        Math.min(
-          2.4,
-          Math.min((width - padding * 2) / graphWidth, (height - padding * 2) / graphHeight),
-        ),
-      ),
-      cx = (bounds.minX + bounds.maxX) / 2,
-      cy = (bounds.minY + bounds.maxY) / 2
-    select(canvas).call(
-      zoomBehavior.transform as any,
-      zoomIdentity.translate(width / 2 - cx * scale, height / 2 - cy * scale).scale(scale),
-    )
-  }
-  draw()
-  const renderer: Renderer = {
-    destroy: () => {
-      select(canvas).on(".zoom", null)
-      canvas.remove()
-    },
-    camera: () => ({ x: transform.x, y: transform.y, k: transform.k }),
-    applyCamera: (camera) =>
-      select(canvas).call(
-        zoomBehavior.transform as any,
-        zoomIdentity.translate(camera.x, camera.y).scale(camera.k),
-      ),
-  }
-  bindGraphKeyboard(canvas, renderer)
-  return renderer
-}
-async function renderGraph(
-  container: HTMLElement,
-  graph: VisibleGraph,
-  handlers: {
-    focus: (slug: string) => void
-    edge: (edge: RuntimeEdge) => void
-    camera: (camera: Camera) => void
-  },
-): Promise<Renderer> {
-  try {
-    return await renderPixi(container, graph, handlers)
-  } catch (error) {
-    console.warn("WebGL nepasiekiamas, naudojamas Canvas2D rendereris.", error)
-    return renderCanvasFallback(container, graph, handlers)
-  }
-}
-function typeOptions(
-  root: HTMLElement,
-  topology: GraphTopology,
-  state: GraphState,
-  onChange: () => void,
-) {
-  const list = root.querySelector<HTMLElement>("[data-type-list]")!
-  const counts = new Map<string, number>()
-  for (const node of topology.nodes) counts.set(node.type, (counts.get(node.type) ?? 0) + 1)
-  if (!list.childElementCount)
-    list.innerHTML = [...counts]
-      .filter(([type]) => typeLabels[type])
-      .sort((a, b) => typeLabels[a[0]].localeCompare(typeLabels[b[0]], "lt"))
-      .map(
-        ([type, count]) =>
-          `<label><input type="checkbox" value="${escapeHtml(type)}" ${state.types.includes(type) ? "checked" : ""}/><span>${escapeHtml(typeLabels[type])}</span><b>${count}</b></label>`,
-      )
-      .join("")
-  list.querySelectorAll<HTMLInputElement>("input").forEach((input) => {
-    input.checked = state.types.includes(input.value)
-    input.onchange = () => {
-      state.types = input.checked
-        ? [...new Set([...state.types, input.value])]
-        : state.types.filter((value) => value !== input.value)
-      onChange()
-    }
-  })
-  const isolated = root.querySelector<HTMLInputElement>("input[name='showIsolated']")!
-  isolated.checked = state.showIsolated
-  isolated.onchange = () => {
-    state.showIsolated = isolated.checked
-    onChange()
-  }
-  root.querySelector<HTMLElement>("[data-isolated-count]")!.textContent = String(
-    topology.nodes.filter((node) => !node.connected).length,
-  )
-}
-function relationOptions(
-  root: HTMLElement,
-  topology: GraphTopology,
-  state: GraphState,
-  onChange: (kind?: string) => void,
-) {
-  const container = root.querySelector<HTMLElement>("[data-relation-groups]")!
-  const groups = new Map<string, { label: string; kinds: string[] }>()
-  for (const [kind, spec] of Object.entries(topology.relationKinds)) {
-    const group = groups.get(spec.group) ?? { label: spec.groupLabel, kinds: [] }
-    group.kinds.push(kind)
-    groups.set(spec.group, group)
-  }
-  if (!container.childElementCount)
-    container.innerHTML = [...groups]
-      .map(([group, data]) => {
-        const active = data.kinds.filter((kind) => state.relations.includes(kind)).length
-        const count = data.kinds.reduce(
-          (sum, kind) => sum + (topology.relationKinds[kind].edgeCount ?? 0),
-          0,
-        )
-        return `<details ${group !== "bendri" ? "open" : ""}><summary><label><input type="checkbox" data-relation-group="${group}" ${active === data.kinds.length ? "checked" : ""}/><span>${escapeHtml(data.label)}</span><b>${count}</b></label></summary><div>${data.kinds
-          .sort((a, b) =>
-            topology.relationKinds[a].label.localeCompare(topology.relationKinds[b].label, "lt"),
-          )
-          .map(
-            (kind) =>
-              `<label><input type="checkbox" value="${kind}" ${state.relations.includes(kind) ? "checked" : ""}/><span>${escapeHtml(topology.relationKinds[kind].label)}</span><b>${topology.relationKinds[kind].edgeCount ?? 0}</b></label>`,
-          )
-          .join("")}</div></details>`
-      })
-      .join("")
-  container.querySelectorAll<HTMLInputElement>("input[value]").forEach((input) => {
-    input.checked = state.relations.includes(input.value)
-    input.onchange = () => {
-      state.relations = input.checked
-        ? [...new Set([...state.relations, input.value])]
-        : state.relations.filter((value) => value !== input.value)
-      onChange(input.value)
-    }
-  })
-  container.querySelectorAll<HTMLInputElement>("[data-relation-group]").forEach((input) => {
-    const kinds = groups.get(input.dataset.relationGroup!)!.kinds
-    const active = kinds.filter((kind) => state.relations.includes(kind)).length
-    input.checked = active === kinds.length
-    input.indeterminate = active > 0 && active < kinds.length
-    input.onchange = () => {
-      state.relations = input.checked
-        ? [...new Set([...state.relations, ...kinds])]
-        : state.relations.filter((value) => !kinds.includes(value))
-      onChange()
-    }
-  })
-}
-function popovers(root: HTMLElement): () => void {
-  const close = () => {
-    root
-      .querySelectorAll<HTMLElement>("[data-popover-panel]")
-      .forEach((panel) => (panel.hidden = true))
-    root
-      .querySelectorAll<HTMLButtonElement>("[data-popover-toggle]")
-      .forEach((button) => button.setAttribute("aria-expanded", "false"))
-  }
-  root.querySelectorAll<HTMLButtonElement>("[data-popover-toggle]").forEach((button) =>
-    button.addEventListener("click", () => {
-      const panel = root.querySelector<HTMLElement>(
-        `[data-popover-panel='${button.dataset.popoverToggle}']`,
-      )!
-      const opening = panel.hidden
-      close()
-      panel.hidden = !opening
-      button.setAttribute("aria-expanded", String(opening))
-    }),
-  )
-  root
-    .querySelectorAll<HTMLButtonElement>("[data-popover-close]")
-    .forEach((button) => button.addEventListener("click", close))
-  const onKeyDown = (event: KeyboardEvent) => {
-    if (event.key === "Escape") close()
-  }
-  document.addEventListener("keydown", onKeyDown)
-  return () => document.removeEventListener("keydown", onKeyDown)
-}
-async function setup(root: HTMLElement) {
-  document.body.classList.add("graph-explorer-active")
-  emitAnalyticsMap("open", { map_view: "full" }, { dedupeScope: "page", dedupeKey: "full" })
-  const status = root.querySelector<HTMLElement>("[data-graph-status]")!,
-    canvas = root.querySelector<HTMLElement>("[data-graph-canvas]")!,
-    panel = root.querySelector<HTMLElement>("[data-graph-panel]")!
-  const [topology, loadedSlugMap] = await Promise.all([
-    graphRuntime.loadGraphTopology
-      ? graphRuntime.loadGraphTopology()
-      : json<GraphTopology>(new URL("topology.json", graphDataBase)),
-    graphRuntime.loadGraphSlugMap
-      ? graphRuntime.loadGraphSlugMap()
-      : json<GraphSlugMap>(new URL("../graphSlugMap.json", graphDataBase)),
-  ])
-  graphSlugMap = loadedSlugMap
-  emitAnalyticsMap("load_success", { map_view: "full" }, { dedupeScope: "page", dedupeKey: "load" })
-  const allTypes = [...new Set(topology.nodes.map((node) => node.type))].filter(
-    (type) => typeLabels[type],
-  )
-  const defaults = {
-    relations: Object.entries(topology.relationKinds)
-      .filter(([, spec]) => spec.defaultOn)
-      .map(([kind]) => kind),
-    types: allTypes,
-  }
-  let state = stateFromUrl(defaults.relations, defaults.types, graphSlugMap)
-  state.focus = resolveTopologyFocus(topology, state.focus)
-  const onGraphFilterChange = (event: Event) => {
-    const control =
-      event.target instanceof HTMLInputElement || event.target instanceof HTMLSelectElement
-        ? event.target
-        : null
-    if (!control) return
-    const value = control.name || control.dataset.relation || control.dataset.type || "filter"
-    const sourceControl = Boolean(control.closest("[data-source-list]"))
-    const action = control.dataset.relation
-      ? "relation_change"
-      : control.dataset.type
-        ? "type_change"
-        : sourceControl || control.name === "sources"
-          ? "source_change"
-          : "filter_change"
-    emitAnalyticsMap(action, {
-      map_view: "full",
-      map_filter_name: sourceControl ? "source" : value,
-      map_filter_value:
-        sourceControl && control instanceof HTMLInputElement
-          ? control.checked
-            ? "selected"
-            : "cleared"
-          : control.value,
-    })
-  }
-  root.addEventListener("change", onGraphFilterChange)
-  let allEdges = [...topology.edges]
-  let renderer: Renderer | null = null
-  let initialCamera: Camera | undefined
-  let renderedSize = { width: 0, height: 0 }
-  let entered = false
-  let disposed = false
-  const worker = createLayoutWorker()
-  let renderToken = 0
-  let panelRenderToken = 0
-  let camera: Camera | undefined
-  let historyEntries: HistoryEntry[] = [{ state: cloneGraphState(state) }],
-    historyIndex = 0
-  let lastCamera: Camera | undefined
-  const sourceCatalog = (await loadSourceCatalog().catch(() => [])) as SourceEntry[]
-  for (const source of sourceCatalog) sourceTitleCache.set(source.id, source.title)
-  const selectedSourceIds = () => new Set(state.sources)
-  const updateHistoryButtons = () => {
-    ;(root.querySelector("[data-history-back]") as HTMLButtonElement).disabled = historyIndex <= 0
-    ;(root.querySelector("[data-history-forward]") as HTMLButtonElement).disabled =
-      historyIndex >= historyEntries.length - 1
-  }
-  const saveCamera = () => {
-    historyEntries[historyIndex].camera = camera
-    window.history.replaceState({ graphIndex: historyIndex, camera }, "", stateUrl(state, defaults))
-  }
-  const commit = (mode: "push" | "replace" = "push") => {
-    const entry = { state: cloneGraphState(state), camera }
-    if (mode === "push") {
-      historyEntries = historyEntries.slice(0, historyIndex + 1)
-      historyEntries.push(entry)
-      historyIndex++
-      window.history.pushState({ graphIndex: historyIndex, camera }, "", stateUrl(state, defaults))
-    } else {
-      historyEntries[historyIndex] = entry
-      window.history.replaceState(
-        { graphIndex: historyIndex, camera },
-        "",
-        stateUrl(state, defaults),
-      )
-    }
-    updateHistoryButtons()
-  }
-  const setPanelMode = (mode: GraphState["panel"]) => {
-    panelRenderToken++
-    state = { ...state, panel: mode }
-    root.dataset.panel = mode
-    if (mode === "hidden") panel.replaceChildren()
-    commit("replace")
-    sync()
-    void rerender(camera)
-  }
-  async function ensureLayers() {
-    for (const kind of state.relations)
-      if (genericKinds.has(kind) && !layerCache.has(kind)) {
-        allEdges.push(...(await loadLayer(kind, topology)))
-      }
-  }
-  async function rerender(restoreCamera?: Camera) {
-    if (disposed) return
-    const token = ++renderToken
-    const panelToken = ++panelRenderToken
-    root.dataset.panel = state.panel
-    if (state.panel === "hidden") panel.replaceChildren()
-    status.hidden = false
-    status.textContent = "Ruošiamas žemėlapis…"
-    showGraphHover(canvas, null)
-    overview.hidden = Boolean(state.focus)
-    await ensureLayers()
-    const graph = buildVisibleGraph(topology, allEdges, state, selectedSourceIds())
-    root.dataset.renderedNodes = String(graph.nodes.length)
-    root.dataset.renderedRelations = String(graph.edges.length)
-    root.dataset.directRelations = String(summarizeFocusedGraph(graph).directEdges)
-    await layoutGraph(graph, worker)
-    if (token !== renderToken) return
-
-    root.querySelector<HTMLElement>("[data-focus-context]")!.hidden = !graph.focus
-    await new Promise<void>((resolve) => requestAnimationFrame(() => resolve()))
-    if (token !== renderToken) return
-    renderer?.destroy()
-    renderer = null
-    const nextRenderer = await renderGraph(canvas, graph, {
-      focus: (slug) => {
-        state = {
-          ...state,
-          focus: slug,
-          depth: 1,
-          panel: state.panel === "hidden" && !mobileProfile() ? "details" : state.panel,
-        }
-        commit()
-        const node = topology.nodes.find((candidate) => candidate.slug === slug)
-        emitAnalyticsMap("node_select", {
-          map_view: "full",
-          map_object_type: node?.type ?? "unknown",
-          input_method: "canvas",
+        .slice(0, 12)
+      suggestions.replaceChildren()
+      for (const node of matches) {
+        const button = document.createElement("button")
+        button.type = "button"
+        button.setAttribute("role", "option")
+        button.innerHTML =
+          dot(node.type) +
+          `<span>${escape(node.title)}<small>${escape(labels[node.type] ?? node.type)}</small></span>`
+        button.addEventListener("click", () => {
+          void preview(node)
         })
-        sync()
-        void rerender()
-      },
-      edge: (edge) => {
-        const edgePanelToken = ++panelRenderToken
-        state = { ...state, panel: "details" }
-        root.dataset.panel = "details"
-        emitAnalyticsMap("edge_select", {
-          map_view: "full",
-          map_relation_type: edge.kind,
-          input_method: "canvas",
-        })
-        commit("replace")
-        void renderEdgePanel(panel, edge, topology, state, setPanelMode, () =>
-          isCurrentPanelRequest(edgePanelToken, panelRenderToken, state.panel),
-        )
-      },
-      camera: (value) => {
-        if (lastCamera) {
-          const action = Math.abs(value.k - lastCamera.k) > 0.001 ? "zoom" : "pan"
-          emitAnalyticsMap(
-            action,
-            {
-              map_view: "full",
-              map_zoom_bucket: analyticsZoomBucket(value.k),
-            },
-            { dedupeScope: "none" },
-          )
-        }
-        lastCamera = value
-        camera = value
-        saveCamera()
-      },
-    })
-    if (token !== renderToken || disposed) {
-      nextRenderer.destroy()
-      return
-    }
-    renderer = nextRenderer
-    const sameSize =
-      renderedSize.width === canvas.clientWidth && renderedSize.height === canvas.clientHeight
-    renderedSize = { width: canvas.clientWidth, height: canvas.clientHeight }
-    initialCamera = renderer.camera()
-    if (restoreCamera && sameSize) renderer.applyCamera(restoreCamera)
-    if (!entered) {
-      entered = true
-      const surface = canvas.querySelector("canvas")
-      if (surface && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-        const arrival = surface.animate(
-          [
-            { opacity: 0, transform: "scale(.9)" },
-            { opacity: 1, transform: "scale(1)" },
-          ],
-          { duration: 1100, easing: "cubic-bezier(.16,1,.3,1)" },
-        )
-        surface.addEventListener("pointerdown", () => arrival.finish(), { once: true })
+        suggestions.append(button)
       }
+      if (!matches.length) suggestions.innerHTML = "<p>Objektų nerasta.</p>"
+    } catch {
+      if (token === searchToken)
+        suggestions.innerHTML = "<p>Paieškos nepavyko įkelti. Bandykite dar kartą.</p>"
     }
-
-    status.hidden = graph.nodes.length > 0
-    if (!graph.nodes.length)
-      status.textContent =
-        "Pagal šiuos filtrus objektų nėra. Pakeiskite filtrus arba juos atstatykite."
-    root.dataset.panel = state.panel
-
-    if (graph.focus) {
-      const counts = summarizeFocusedGraph(graph)
-      root.querySelector<HTMLElement>("[data-focus-title]")!.textContent = graph.focus.title
-      root.querySelector<HTMLElement>("[data-focus-neighbours]")!.textContent =
-        `${counts.linkedObjects.toLocaleString("lt-LT")} susiję objektai`
-      root.querySelector<HTMLElement>("[data-focus-direct]")!.textContent =
-        `${counts.directEdges.toLocaleString("lt-LT")} tiesioginiai ryšiai`
-      root.querySelector<HTMLElement>("[data-focus-subgraph]")!.textContent =
-        `${counts.subgraphEdges.toLocaleString("lt-LT")} ryšiai subgrafe`
-      if (state.panel !== "hidden") {
-        void renderNodePanel(
-          panel,
-          graph.focus,
-          graph,
-          topology,
-          state,
-          setPanelMode,
-          (kind) => {
-            state.relations = state.relations.includes(kind)
-              ? state.relations.filter((value) => value !== kind)
-              : [...state.relations, kind]
-            commit()
-            sync()
-            void rerender()
-          },
-          () => isCurrentPanelRequest(panelToken, panelRenderToken, state.panel),
-        )
-      }
-    } else if (state.panel !== "hidden") {
-      panel.innerHTML = `${panelControls(state)}<h2>${graph.nodes.length.toLocaleString("lt-LT")} objektai</h2><p>${graph.edges.length.toLocaleString("lt-LT")} ryšiai visame matomame tinkle. Pasirink objektą arba ryšį.</p>`
-      bindPanelControls(panel, setPanelMode)
-    }
-
-    const scope = graph.focus ? "Subgrafas" : "Tinklas"
-    root.querySelector<HTMLElement>("[data-graph-legend]")!.innerHTML =
-      `<span>${scope}: ${graph.nodes.length.toLocaleString("lt-LT")} objektai</span><span>${graph.edges.length.toLocaleString("lt-LT")} ryšiai</span>`
-  }
-  function sync() {
-    const orbit = root.querySelector<HTMLElement>("[data-type-orbit]")!
-    if (!orbit.childElementCount)
-      orbit.innerHTML = defaults.types
-        .map(
-          (type) =>
-            `<button type="button" data-orbit-type="${escapeHtml(type)}" aria-pressed="${state.types.includes(type)}" style="--type-color:#${(typeColors[type] ?? graphVisual.fallbackNode).toString(16).padStart(6, "0")}"><i aria-hidden="true"></i>${escapeHtml(typeLabels[type])}</button>`,
-        )
-        .join("")
-    orbit.querySelectorAll<HTMLButtonElement>("button").forEach((button) => {
-      button.setAttribute("aria-pressed", String(state.types.includes(button.dataset.orbitType!)))
-      button.onclick = () => {
-        const type = button.dataset.orbitType!
-        state.types = state.types.includes(type)
-          ? state.types.filter((value) => value !== type)
-          : [...state.types, type]
-        commit()
-        sync()
-        void rerender()
-      }
-    })
-    typeOptions(root, topology, state, () => {
-      commit()
-      sync()
-      void rerender()
-    })
-    relationOptions(root, topology, state, () => {
-      commit()
-      sync()
-      void rerender()
-    })
-    root.querySelector<HTMLElement>("[data-type-count]")!.textContent = String(state.types.length)
-    root.querySelector<HTMLElement>("[data-relation-count]")!.textContent = String(
-      state.relations.length,
-    )
-    ;(root.querySelector("input[name='minClaims']") as HTMLInputElement).value = String(
-      state.minClaims,
-    )
-    ;(root.querySelector("input[name='minQuotes']") as HTMLInputElement).value = String(
-      state.minQuotes,
-    )
-    ;(root.querySelector("input[name='minConfidence']") as HTMLInputElement).value = String(
-      state.minConfidence,
-    )
-    ;(root.querySelector("select[name='direction']") as HTMLSelectElement).value = state.direction
-    root.querySelector<HTMLOutputElement>("[data-confidence-output]")!.value =
-      `${Math.round(state.minConfidence * 100)}%`
-    ;(root.querySelector("input[name='from']") as HTMLInputElement).value =
-      state.from === null ? "" : String(state.from)
-    ;(root.querySelector("input[name='to']") as HTMLInputElement).value =
-      state.to === null ? "" : String(state.to)
-    root
-      .querySelectorAll<HTMLInputElement>("input[name='depth']")
-      .forEach((input) => (input.checked = Number(input.value) === state.depth))
-    root.dataset.panel = state.panel
-    updateHistoryButtons()
-  }
-  const cleanupPopovers = popovers(root)
-  sync()
-  updateHistoryButtons()
-  window.history.replaceState({ graphIndex: 0 }, "", stateUrl(state, defaults))
-  const search = root.querySelector<HTMLInputElement>("[data-graph-search-input]")!,
-    suggest = root.querySelector<HTMLElement>("[data-graph-suggest]")!,
-    suggestList = root.querySelector<HTMLElement>("[data-graph-suggest-list]")!
-  let suggestions: TopologyNode[] = []
-  let active = 0
-  const overview = root.querySelector<HTMLElement>("[data-graph-overview]")!
-  const renderSuggestions = () => {
-    const needle = normalize(search.value.trim())
-    if (needle.length < 2) {
-      suggestions = []
-      suggest.hidden = true
-      return
-    }
-    suggestions = topology.nodes
-      .filter((node) => normalize(node.title).includes(needle))
-      .sort((a, b) => {
-        const ae = normalize(a.title) === needle ? 1 : 0,
-          be = normalize(b.title) === needle ? 1 : 0
-        return be - ae || b.degree - a.degree || a.title.localeCompare(b.title, "lt")
-      })
-      .slice(0, 10)
-    suggestList.innerHTML =
-      suggestions
-        .map(
-          (node, index) =>
-            `<button type="button" role="option" class="${index === active ? "is-active" : ""}" data-suggestion="${escapeHtml(node.slug)}"><strong>${escapeHtml(node.title)}</strong><span>${escapeHtml(typeLabels[node.type] ?? node.type)} · ${node.claimCount} teig. · ${node.quoteCount} cit.</span></button>`,
-        )
-        .join("") || "<p>Nerasta objektų.</p>"
-    suggest.hidden = false
-    suggestList
-      .querySelectorAll<HTMLButtonElement>("[data-suggestion]")
-      .forEach((button) =>
-        button.addEventListener("click", () => choose(button.dataset.suggestion!)),
-      )
-  }
-  const choose = (slug: string) => {
-    search.value = ""
-    suggest.hidden = true
-    overview.hidden = true
-    state = {
-      ...state,
-      focus: slug,
-      depth: 1,
-      panel: state.panel === "hidden" && !mobileProfile() ? "details" : state.panel,
-    }
-    commit()
-    const node = topology.nodes.find((candidate) => candidate.slug === slug)
-    emitAnalyticsMap("search_submit", {
-      map_view: "full",
-      input_method: "search",
-      result_count: suggestions.length,
-    })
-    emitAnalyticsMap("search_result_select", {
-      map_view: "full",
-      map_object_type: node?.type ?? "unknown",
-      input_method: "search",
-      result_count: suggestions.length,
-    })
-    emitAnalyticsMap("focus", {
-      map_view: "full",
-      map_object_type: node?.type ?? "unknown",
-      input_method: "search",
-    })
-    sync()
-    void rerender()
-  }
-  search.addEventListener("input", () => {
-    active = 0
-    renderSuggestions()
   })
-  search.addEventListener("keydown", (event) => {
+  input.addEventListener("keydown", (event) => {
+    if (["ArrowDown", "Enter"].includes(event.key) && !suggest.hidden) {
+      event.preventDefault()
+      const first = suggestions.querySelector<HTMLButtonElement>("button")
+      if (event.key === "Enter") first?.click()
+      else first?.focus()
+    }
+  })
+  suggestions.addEventListener("keydown", (event) => {
+    const buttons = [...suggestions.querySelectorAll<HTMLButtonElement>("button")],
+      i = buttons.indexOf(document.activeElement as HTMLButtonElement)
     if (event.key === "ArrowDown") {
-      active = Math.min(suggestions.length - 1, active + 1)
       event.preventDefault()
-      renderSuggestions()
-    } else if (event.key === "ArrowUp") {
-      active = Math.max(0, active - 1)
+      buttons[Math.min(buttons.length - 1, i + 1)]?.focus()
+    }
+    if (event.key === "ArrowUp") {
       event.preventDefault()
-      renderSuggestions()
-    } else if (event.key === "Enter" && suggestions[active]) {
-      event.preventDefault()
-      choose(suggestions[active].slug)
-    } else if (event.key === "Enter") {
-      event.preventDefault()
-      emitAnalyticsMap("search_submit", {
-        map_view: "full",
-        input_method: "search",
-        result_count: suggestions.length,
-      })
-      if (suggestions.length === 0) {
-        emitAnalyticsMap("search_zero_results", {
-          map_view: "full",
-          input_method: "search",
-          result_count: 0,
-        })
-      }
-    } else if (event.key === "Escape") suggest.hidden = true
+      if (!i) input.focus()
+      else buttons[i - 1]?.focus()
+    }
   })
-  root.querySelector<HTMLButtonElement>("[data-history-back]")!.onclick = () => {
-    if (historyIndex > 0) {
-      emitAnalyticsMap("history_back", { map_view: "full", input_method: "button" })
-      window.history.back()
-    }
+  const onKey = (event: KeyboardEvent) => {
+    if (event.key !== "Escape") return
+    if (!suggest.hidden) {
+      suggest.hidden = true
+      input.setAttribute("aria-expanded", "false")
+      input.focus()
+    } else if (!filters.hidden) closeFilters()
+    else if (!panel.hidden) closePreview()
   }
-  root.querySelector<HTMLButtonElement>("[data-history-forward]")!.onclick = () => {
-    if (historyIndex < historyEntries.length - 1) {
-      emitAnalyticsMap("history_forward", { map_view: "full", input_method: "button" })
-      window.history.forward()
-    }
-  }
-  root.querySelector<HTMLButtonElement>("[data-graph-home]")!.onclick = () => {
-    emitAnalyticsMap("home", { map_view: "full", input_method: "button" })
-    panelRenderToken++
-    state = { ...state, focus: "", depth: 1, panel: "hidden" }
-    panel.replaceChildren()
-    commit()
-    sync()
-    void rerender()
-  }
-  root.querySelector<HTMLButtonElement>("[data-clear-focus]")!.onclick = () => {
-    emitAnalyticsMap("home", { map_view: "full", input_method: "button" })
-    panelRenderToken++
-    state = { ...state, focus: "", depth: 1, panel: "hidden" }
-    panel.replaceChildren()
-    const context = root.querySelector<HTMLElement>("[data-focus-context]")!
-    context.hidden = true
-    root.querySelector<HTMLElement>("[data-focus-title]")!.textContent = ""
-    commit()
-    sync()
-    void rerender()
-  }
-  root.querySelector<HTMLButtonElement>("[data-graph-reset]")!.onclick = () => {
-    emitAnalyticsMap("reset", { map_view: "full", input_method: "button" })
-    state = {
-      ...parseGraphState(new URLSearchParams(), defaults.relations, defaults.types),
-      focus: state.focus,
-      panel: state.panel,
-    }
-    commit()
-    sync()
-    void rerender()
-  }
-  root.querySelector<HTMLButtonElement>("[data-panel-toggle]")!.onclick = () => {
-    const mode = state.panel === "hidden" ? "details" : "hidden"
-    emitAnalyticsMap("panel_mode_change", {
-      map_view: "full",
-      map_panel_mode: mode,
-      input_method: "button",
-    })
-    setPanelMode(mode)
-  }
-  root.querySelectorAll<HTMLInputElement>("input[name='depth']").forEach(
-    (input) =>
-      (input.onchange = () => {
-        state.depth = Number(input.value)
-        emitAnalyticsMap("filter_change", {
-          map_view: "full",
-          map_filter_name: "depth",
-          map_filter_value: input.value,
-        })
-        commit()
-        sync()
-        void rerender()
-      }),
-  )
-  for (const name of ["minClaims", "minQuotes", "from", "to"]) {
-    const input = root.querySelector<HTMLInputElement>(`input[name='${name}']`)!
-    input.onchange = () => {
-      if (name === "minClaims") state.minClaims = parseNumber(input.value, 0)
-      if (name === "minQuotes") state.minQuotes = parseNumber(input.value, 0)
-      if (name === "from") state.from = parseOptional(input.value)
-      if (name === "to") state.to = parseOptional(input.value)
-      emitAnalyticsMap("filter_change", {
-        map_view: "full",
-        map_filter_name: name,
-        map_filter_value: input.value || "unset",
-      })
-      commit()
-      void rerender()
-    }
-  }
-  const confidence = root.querySelector<HTMLInputElement>("input[name='minConfidence']")!
-  confidence.oninput = () => {
-    state.minConfidence = Number(confidence.value)
-    root.querySelector<HTMLOutputElement>("[data-confidence-output]")!.value =
-      `${Math.round(state.minConfidence * 100)}%`
-    commit("replace")
-    void rerender()
-  }
-  confidence.onchange = () => {
-    commit()
-    emitAnalyticsMap("filter_change", {
-      map_view: "full",
-      map_filter_name: "minConfidence",
-      map_filter_value:
-        state.minConfidence < 0.6 ? "low" : state.minConfidence < 0.8 ? "medium" : "high",
-    })
-  }
-  const direction = root.querySelector<HTMLSelectElement>("select[name='direction']")!
-  direction.onchange = () => {
-    state.direction = direction.value as GraphState["direction"]
-    emitAnalyticsMap("filter_change", {
-      map_view: "full",
-      map_filter_name: "direction",
-      map_filter_value: state.direction,
-    })
-    commit()
-    void rerender()
-  }
-  const sourceList = root.querySelector<HTMLElement>("[data-source-list]")!,
-    sourceSearch = root.querySelector<HTMLInputElement>("[data-source-search]")!
-  const renderSources = () => {
-    const needle = normalize(sourceSearch.value)
-    sourceList.innerHTML = sourceCatalog
-      .filter((source) => normalize(source.title).includes(needle))
-      .map(
-        (source) =>
-          `<label><input type="checkbox" value="${escapeHtml(source.id)}" ${state.sources.includes(source.id) ? "checked" : ""}/><span>${escapeHtml(source.title)}</span><b>${source.quoteCount ?? 0}</b></label>`,
-      )
-      .join("")
-    sourceList.querySelectorAll<HTMLInputElement>("input").forEach(
-      (input) =>
-        (input.onchange = () => {
-          state.sources = input.checked
-            ? [...new Set([...state.sources, input.value])]
-            : state.sources.filter((value) => value !== input.value)
-          commit()
-          void rerender()
-        }),
-    )
-  }
-  sourceSearch.oninput = renderSources
-  root.querySelector<HTMLButtonElement>("[data-source-select-all]")!.onclick = () => {
-    state.sources = []
-    emitAnalyticsMap("source_change", { map_view: "full", map_filter_value: "all" })
-    commit()
-    renderSources()
-    void rerender()
-  }
-  root.querySelector<HTMLButtonElement>("[data-source-clear]")!.onclick = () => {
-    state.sources = ["__none__"]
-    emitAnalyticsMap("source_change", { map_view: "full", map_filter_value: "none" })
-    commit()
-    renderSources()
-    void rerender()
-  }
-  renderSources()
-  const onPopState = (event: PopStateEvent) => {
-    const index = Number(event.state?.graphIndex)
-    if (Number.isInteger(index) && historyEntries[index]) {
-      historyIndex = index
-      state = cloneGraphState(historyEntries[index].state)
-      camera = historyEntries[index].camera
-    } else {
-      state = stateFromUrl(defaults.relations, defaults.types, graphSlugMap)
-      state.focus = resolveTopologyFocus(topology, state.focus)
-    }
-    sync()
-    void rerender(camera)
-  }
-  window.addEventListener("popstate", onPopState)
-  const zoomBy = (factor: number) => {
-    if (!renderer) return
-    const previous = renderer.camera(),
-      k = Math.max(0.08, Math.min(8, previous.k * factor))
-    const x = canvas.clientWidth / 2,
-      y = canvas.clientHeight / 2
-    renderer.applyCamera({
-      x: x - ((x - previous.x) * k) / previous.k,
-      y: y - ((y - previous.y) * k) / previous.k,
-      k,
-    })
-  }
-  root.querySelector<HTMLButtonElement>("[data-zoom-in]")!.onclick = () => zoomBy(1.4)
-  root.querySelector<HTMLButtonElement>("[data-graph-theme]")!.onclick = () => {
-    const theme = graphPalette().dark ? "light" : "dark"
-    document.documentElement.setAttribute("saved-theme", theme)
-    localStorage.setItem("theme", theme)
-    document.dispatchEvent(new CustomEvent("themechange", { detail: { theme } }))
-  }
-  root.querySelector<HTMLButtonElement>("[data-zoom-out]")!.onclick = () => zoomBy(1 / 1.4)
-  root.querySelector<HTMLButtonElement>("[data-zoom-fit]")!.onclick = () => {
-    if (initialCamera) renderer?.applyCamera(initialCamera)
-  }
+  document.addEventListener("keydown", onKey)
   let resizeTimer = 0
-  const resize = () => {
-    window.clearTimeout(resizeTimer)
-    resizeTimer = window.setTimeout(() => void rerender(), 160)
-  }
-  const onTheme = () => {
-    window.clearTimeout(resizeTimer)
-    const sameSize =
-      renderedSize.width === canvas.clientWidth && renderedSize.height === canvas.clientHeight
-    void rerender(sameSize ? camera : undefined)
-  }
-  window.addEventListener("resize", resize)
-  document.addEventListener("themechange", onTheme)
-  window.addCleanup?.(() => {
-    disposed = true
-    renderToken++
-    panelRenderToken++
-    window.clearTimeout(resizeTimer)
-    window.removeEventListener("resize", resize)
-    document.removeEventListener("themechange", onTheme)
-    root.removeEventListener("change", onGraphFilterChange)
-    window.removeEventListener("popstate", onPopState)
-    cleanupPopovers()
-    renderer?.destroy()
-    worker.terminate()
-    delete root.dataset.graphExplorerInitialized
-    document.body.classList.remove("graph-explorer-active")
+  let lastWidth = canvas.clientWidth,
+    lastHeight = canvas.clientHeight
+  const resize = new ResizeObserver(() => {
+    if (canvas.clientWidth === lastWidth && canvas.clientHeight === lastHeight) return
+    lastWidth = canvas.clientWidth
+    lastHeight = canvas.clientHeight
+    clearTimeout(resizeTimer)
+    resizeTimer = window.setTimeout(() => {
+      void render(true)
+    }, 160)
   })
-  await rerender()
+  resize.observe(canvas)
+  cleanupDetails = () => {
+    outerAbort.abort()
+    resize.disconnect()
+    clearTimeout(resizeTimer)
+    removeEventListener("popstate", onPop)
+    document.removeEventListener("keydown", onKey)
+  }
+  historyEntries.push({ state: cloneGraphState(state) })
+  saveHistory(false)
+  sync()
+  if (state.focus && state.panel !== "hidden") {
+    const node = canonicalNodes.get(state.focus)
+    if (node) void preview(node)
+  }
+  await render(true)
+  if (dead) return
+  if (!matchMedia("(prefers-reduced-motion: reduce)").matches)
+    canvas.animate(
+      [
+        { opacity: 0, transform: "scale(.9)" },
+        { opacity: 1, transform: "scale(1)" },
+      ],
+      { duration: 1100, easing: "cubic-bezier(.2,.7,.2,1)" },
+    )
 }
-
 export async function initClient() {
   const root = document.querySelector<HTMLElement>("[data-graph-explorer]")
   if (!root || root.dataset.graphExplorerInitialized === "true") return
   root.dataset.graphExplorerInitialized = "true"
-  await setup(root).catch((error) => {
+  await setup(root).catch(() => {
     delete root.dataset.graphExplorerInitialized
     emitAnalyticsMap("load_error", { map_view: "full" })
     const status = root.querySelector<HTMLElement>("[data-graph-status]")
     if (status)
-      status.textContent = `Nepavyko įkelti žemėlapio: ${error instanceof Error ? error.message : String(error)}`
+      status.textContent = "Nepavyko įkelti žemėlapio. Atnaujinkite puslapį ir bandykite dar kartą."
   })
 }
