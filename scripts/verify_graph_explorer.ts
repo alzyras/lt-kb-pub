@@ -17,7 +17,8 @@ const core = read<GraphTopology>("static/graph-data/explorer/core.json")
 const index = read<OuterIndex>("static/graph-data/explorer/index.json")
 const search = read<Array<{ slug: string }>>("static/graph-data/explorer/search.json")
 const all = read<GraphTopology>("static/graph-data/topology.json")
-const validIds = new Set(all.nodes.map((n) => n.slug))
+const slugMap = read<{ graphToPublic: Record<string, string> }>("static/graphSlugMap.json")
+const validIds = new Set(all.nodes.filter((n) => slugMap.graphToPublic[n.slug]).map((n) => n.slug))
 const publishedConnected = new Set(
   all.edges
     .filter(
@@ -85,19 +86,23 @@ for (const kinds of [
     )
   }
 }
-const slugMap = read<{ graphToPublic: Record<string, string> }>("static/graphSlugMap.json")
+assert.deepEqual(
+  new Set(search.map((n) => n.slug)),
+  validIds,
+  "Only published objects belong in explorer search",
+)
 for (const node of search) {
   assert.ok(
     fs.existsSync(path.join(base, `static/graph-data/objects/${objectShardFile(node.slug)}.json`)),
     `Missing preview shard: ${node.slug}`,
   )
   const target = slugMap.graphToPublic[node.slug]
-  if (target)
-    assert.ok(
-      fs.existsSync(path.join(base, `${target}.html`)) ||
-        fs.existsSync(path.join(base, target, "index.html")),
-      `Broken object page: ${target}`,
-    )
+  assert.ok(target, `Missing public route: ${node.slug}`)
+  assert.ok(
+    fs.existsSync(path.join(base, `${target}.html`)) ||
+      fs.existsSync(path.join(base, target, "index.html")),
+    `Broken object page: ${target}`,
+  )
 }
 console.log(
   `Graph explorer verified: ${core.nodes.length} connected objects, ${core.edges.length} unique edges, ${count} isolated objects in ${index.tiles.length} spatial parts; ${search.length} preview fragments.`,

@@ -22,8 +22,11 @@ import { objectDetailEvidenceFromFile } from "../../util/objectDetail"
 function objectGraphShards(
   topology: any,
   previews: Map<string, ObjectPreview>,
+  publishedSlugs: Set<string>,
 ): Array<{ slug: string; payload: unknown }> {
-  const nodes = Array.isArray(topology?.nodes) ? topology.nodes : []
+  const nodes = Array.isArray(topology?.nodes)
+    ? topology.nodes.filter((node: any) => publishedSlugs.has(node.slug))
+    : []
   const nodeBySlug = new Map<string, any>(
     nodes.map((node: any) => [String(node.slug ?? ""), node] as [string, any]),
   )
@@ -149,7 +152,8 @@ export const GraphExplorerPage: QuartzEmitterPlugin = () => {
         )
         previews.set(graphSlug, preview)
       }
-      for (const shard of objectGraphShards(completeTopology, previews)) {
+      const publishedSlugs = new Set(Object.keys(slugMap.graphToPublic))
+      for (const shard of objectGraphShards(completeTopology, previews, publishedSlugs)) {
         yield write({
           ctx,
           content: JSON.stringify(shard.payload),
@@ -157,7 +161,7 @@ export const GraphExplorerPage: QuartzEmitterPlugin = () => {
           ext: ".json",
         })
       }
-      const explorer = explorerData(completeTopology, buildAssetVersion)
+      const explorer = explorerData(completeTopology, buildAssetVersion, publishedSlugs)
       for (const [name, payload] of [
         ["core", explorer.core],
         ["index", explorer.index],

@@ -122,6 +122,7 @@ async function setup(root: HTMLElement) {
   let state = readState(),
     allEdges = [...loaded.edges]
   const canonicalNodes = new Map(loaded.nodes.map((node) => [node.slug, node]))
+  let visibleCoreIds = new Set<string>()
   const groupKinds = new Map(
     groups.map(([code]) => [
       code,
@@ -159,7 +160,11 @@ async function setup(root: HTMLElement) {
       layerCache.set(kind, edges)
       const ids = new Set(edges.flatMap((e) => [e.from, e.to]))
       for (const node of full.nodes)
-        if (ids.has(node.slug) && !canonicalNodes.has(node.slug)) {
+        if (
+          ids.has(node.slug) &&
+          slugMap.graphToPublic[node.slug] &&
+          !canonicalNodes.has(node.slug)
+        ) {
           canonicalNodes.set(node.slug, node)
           loaded.nodes.push(node)
         }
@@ -310,7 +315,7 @@ async function setup(root: HTMLElement) {
             const node = nodes[cursor++]
             if (
               !added.has(node.id) &&
-              !canonicalNodes.get(node.id)?.connected &&
+              !visibleCoreIds.has(node.id) &&
               nodePasses(node, state, new Set(state.sources))
             ) {
               added.add(node.id)
@@ -471,6 +476,7 @@ async function setup(root: HTMLElement) {
           { ...state, showIsolated: false },
           new Set(state.sources),
         )
+        visibleCoreIds = new Set(graph.nodes.map((node) => node.id))
         layoutFocusedGraph(graph, index.sectors)
         const next = await createMapRenderer(canvas, graph, {
           select: preview,

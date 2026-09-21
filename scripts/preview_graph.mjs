@@ -43,7 +43,14 @@ const { explorerData, objectPreview, objectShardFile } = await import(
 const topology = JSON.parse(
   await fs.readFile(path.join(snapshot, "static/graph-data/topology.json"), "utf8"),
 )
-const dataset = explorerData(topology, `preview-${Date.now()}`)
+const graphSlugMap = JSON.parse(
+  await fs.readFile(path.join(snapshot, "static/graphSlugMap.json"), "utf8"),
+)
+const dataset = explorerData(
+  topology,
+  `preview-${Date.now()}`,
+  Object.keys(graphSlugMap.graphToPublic),
+)
 const artifacts = new Map([
   ["core.json", dataset.core],
   ["index.json", dataset.index],

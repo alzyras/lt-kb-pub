@@ -128,6 +128,17 @@ test("preview uses the published encyclopedia, labelled dates, image focus and c
   assert.equal(preview.image?.position, "50% 25%")
   assert.equal(preview.summaryCredit?.label, "Vikipedija")
 })
+test("obsolete topology records without a public page never become search results or bubbles", () => {
+  const dataset = explorerData(topology, "published-only", ["A", "isolated-0"])
+  assert.equal(dataset.core.nodes.length, 0)
+  assert.equal(dataset.core.edges.length, 0)
+  assert.deepEqual(
+    dataset.search.map((n) => n.slug),
+    ["A", "isolated-0"],
+  )
+  assert.equal(dataset.index.count, 2)
+  assert.ok([...dataset.tiles.values()].flat().every((n) => n.id !== "B"))
+})
 test("withdrawn enrichment never leaks into preview; missing content stays empty", () => {
   assert.equal(
     objectPreview({

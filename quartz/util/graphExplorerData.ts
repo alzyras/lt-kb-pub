@@ -155,8 +155,14 @@ export function compactNode(node: TopologyNode): TopologyNode {
     relationCounts: {},
   }
 }
-export function explorerData(topology: GraphTopology, version = topology.generatedAt) {
-  const byId = new Map(topology.nodes.map((node) => [node.slug, node]))
+export function explorerData(
+  topology: GraphTopology,
+  version = topology.generatedAt,
+  publishedSlugs?: Iterable<string>,
+) {
+  const published = publishedSlugs ? new Set(publishedSlugs) : undefined
+  const publicNodes = topology.nodes.filter((node) => !published || published.has(node.slug))
+  const byId = new Map(publicNodes.map((node) => [node.slug, node]))
   const seen = new Set<string>()
   const edges = topology.edges.filter((edge) => {
     if (
@@ -170,7 +176,7 @@ export function explorerData(topology: GraphTopology, version = topology.generat
     return true
   })
   const connected = new Set(edges.flatMap((e) => [e.from, e.to]))
-  const nodes = topology.nodes
+  const nodes = publicNodes
     .map((node) => ({ ...compactNode(node), connected: connected.has(node.slug) }))
     .sort((a, b) => a.slug.localeCompare(b.slug, "lt"))
   const counts = new Map<string, number>()
