@@ -3,6 +3,8 @@ import fs from "node:fs"
 import path from "node:path"
 import test from "node:test"
 import {
+  citationQuote,
+  citationQuoteForClaim,
   isObjectDetailSlug,
   objectDetailEvidence,
   objectDetailTier,
@@ -123,6 +125,22 @@ test("collapses duplicate quote displays but preserves distinct sources, pages a
     ["c-001", "c-003", "c-004", "c-005"],
   )
   assert.equal(entries.length, 6)
+})
+
+test("never displays exact text for page-locator-only citations", () => {
+  const citation = {
+    id: "c-001",
+    fields: new Map([
+      ["citatos_rezimas", "indeksas"],
+      ["indeksas", "p. 120–121"],
+      ["citata_originali", "SENSITIVE exact source quotation"],
+      ["citata_rodoma", "SENSITIVE display quotation"],
+    ]),
+    lists: new Map<string, string[]>(),
+  }
+
+  assert.equal(citationQuote(citation), "")
+  assert.equal(citationQuoteForClaim(citation, "exact source quotation"), "")
 })
 
 test("authored relation links retain bracketed historical names and parenthesized dates", () => {
