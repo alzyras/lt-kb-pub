@@ -103,6 +103,13 @@ export function citationDisplayKey(entry: EvidenceEntry): string {
   ])
 }
 
+function isIndexOnlyCitation(entry: EvidenceEntry): boolean {
+  return (
+    entry.fields.get("citatos_rezimas")?.trim() === "indeksas" &&
+    Boolean(entry.fields.get("indeksas")?.trim())
+  )
+}
+
 /** Collapse display duplicates while leaving every evidence record and ID intact. */
 export function uniqueCitations(entries: EvidenceEntry[]): EvidenceEntry[] {
   const seen = new Set<string>()
@@ -405,6 +412,9 @@ export function objectPageIndexable(
 }
 
 export function citationQuote(citation: EvidenceEntry, limit = 320): string {
+  // Page-locator-only records may retain exact text in the private/source
+  // Markdown for verification. Never let object-page rendering expose it.
+  if (isIndexOnlyCitation(citation)) return ""
   const quote = field(citation, "citata_rodoma", "citata_originali", "citata")
   if (!quote) return ""
   if (quote.length <= limit) return quote
@@ -425,6 +435,7 @@ export function citationQuoteForClaim(
   contextText = "",
   limit = 320,
 ): string {
+  if (isIndexOnlyCitation(citation)) return ""
   const quote = evidenceCitationQuoteForClaim(citation, claimText, contextText, true)
   if (!quote || !evidenceSupportsClaim(claimText, quote, contextText)) return ""
   if (quote.length <= limit) return quote
