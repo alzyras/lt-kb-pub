@@ -76,7 +76,7 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167195
@@ -97,5 +97,5 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

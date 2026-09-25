@@ -52,3 +52,41 @@ Henrikas Kotarskis nurodo, kad XVI a. fortifikacijos sistema Lenkijos Karalystė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207895"></a>
+- t-001
+  teiginys: "Henrikas Kotarskis nurodo, kad XVI a. fortifikacijos sistema Lenkijos Karalystėje ir Lietuvos Didžiojoje Kunigaikštystėje nebuvo gera, o gynybinių pilių tinklas buvo per retas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190605
+
+## Citatos
+
+- id: c-190605
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 161"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 161."
+  citata_originali: |
+    Lenkijos istorikas Henrikas Kotarskis, iš Krokuvos stebėdamas padėtį Lenkijos Ka-
+    ralystėje ir Lietuvos Didžiojoje Kunigaikštystėje, nurodo, kad XVI a. fortifikacijos siste-
+    ma čia nebuvo gera, per retas buvo gynybinių pilių tinklas. Tai ypač buvo justi pietinėse
+    Ukrainos teritorijose - Voluinėje, Podolėje, kurias nuolat puldinėjo totoriai. Nors pilys
+    čia buvo labai svarbi gynybos grandis, Žygimanto Augusto laikais jų tinklas buvo retas,
+    ne visos jos buvo mūrinės, daug dar buvo medinių, sutvirtintų žemėmis.
+  citata_rodoma: "Lenkijos istorikas Henrikas Kotarskis, iš Krokuvos stebėdamas padėtį Lenkijos Ka-\nralystėje ir Lietuvos Didžiojoje Kunigaikštystėje, nurodo, kad XVI a. fortifikacijos siste-\nma čia nebuvo gera, per retas buvo gynybinių pilių tinklas."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

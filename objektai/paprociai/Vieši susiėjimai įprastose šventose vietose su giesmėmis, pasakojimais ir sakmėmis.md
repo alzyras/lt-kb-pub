@@ -90,5 +90,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194878
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 29"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
+  citata_originali: |
+    Nelaimė netgi lėmė, kad ir švelniais būdais priimant švie­
+    są kitose lietuvių žemės šalyse tautos prarado visas savo
+    senienas: arba iš anksto kruvinais karais pažymėtomis
+    išmokomis apmokėdavo už savo savitumą, arba krikščio­
+    nių kunigų nusistatymas be išlygų išnaikino krašto pa­
+    minklus. Buvo sudaužytos gimtųjų dievų statulos, su­
+    griautos šventyklos, iškirsti šventieji šilai, įvesta kita
+    kalba, uždrausti vieši susiėjimai įprastose šventose vie­
+    tose, kur giesmės, pasakojimai ir sakmės primindavo da­
+    lykus, susijusius su brangiais gimtaisiais prisiminimais.
+    O šie praradimai palaidojo neįkainojamą tautos istoriją,
+    kuria ji, kaip įprasta, garsėjo šioje šiaurinėje žemėje, tu­
+    rėdama iš tiesų nepatvarius paminklus, bet iš kartos į
+    kartą atstatomus iš paveldėtos tautiškumo meilės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

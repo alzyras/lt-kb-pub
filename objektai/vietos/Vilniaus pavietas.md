@@ -71,6 +71,18 @@ Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindin
   pagrindžia:
     - c-186437
 
+<a id="claim-t-207809"></a>
+- t-207809
+  teiginys: "Vilniaus pavieto bajoras Petras Jurčevskis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190426
+
 ## Citatos
 
 - id: c-186436
@@ -90,7 +102,7 @@ Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186437
@@ -109,5 +121,28 @@ Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190426
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 230"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 230."
+  citata_originali: |
+    Teisėjas taip pat paskyrė 1000 kapų grašių garantinę
+    baudos sumą, kurią atsakovas turėtų sumokėti ieškovui, jeigu grasinimai būtų įvykdyti.
+    Tokiu pačiu būdu, nustačius, kad turės būti sumokėta bauda valdovui ir teisėjams,
+    1551 m. buvo išspręsta įsisenėjusi dviejų bajorų byla. Iš jos aprašymo sužinome, kad
+    prieš penkerius metus ieškovą Lauryną Vaitiekavičių Rodiševskį Lucko vyskupo, velio-
+    nio kunigaikščio Petro Falčcvskio, akivaizdoje, įvairiais nepagarbiais žodžiais iškeikė ir
+    jam pagrasino Vilniaus pavieto bajoras Petras Jurčevskis.
+  citata_rodoma: "Vilniaus pavieto bajoras Petras Jurčevskis"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207809

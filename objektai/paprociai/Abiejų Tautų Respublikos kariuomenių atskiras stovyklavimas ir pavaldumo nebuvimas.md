@@ -121,11 +121,12 @@ Nenurodyta
     jungininkei, o ne pavaldžiai provincijai, kaip kad kitos karalystę sudarančios provincijos.
     Karūnos armija turi 36 000 vyrų, Lietuvos - 12 000; mūsų laikais dar taip nebuvo, kad
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003

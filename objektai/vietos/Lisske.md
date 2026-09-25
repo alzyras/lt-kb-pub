@@ -65,6 +65,18 @@ Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška 
   pagrindžia:
     - c-59332
 
+<a id="claim-t-221384"></a>
+- t-221384
+  teiginys: "Lisske buvo minima Torunės privilegijos dokumente kaip prūsiška vietovė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204099
+
 ## Citatos
 
 - id: c-59332
@@ -83,5 +95,24 @@ Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204099
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 52."
+  citata_originali: |
+    Senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Privilegijos
+    dokumente prie Torunės minima prūsiška Lisske (pr. liscis, *lizkis ‘stovykla, apsistojimo
+    vieta’, iš pr. *liz- ‘pailsėti’ — MPKP, 2, p. 31), kurios ieškota saloje prie Torunės (PUB,
+    1, 1, Nr. 105, p. 78, 606), dabar lokalizuojama saloje prie Senosios Torunės (SZCh, p.
+    133; Jasiński T. Przedmieścia..., 4 žemėl.).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221384

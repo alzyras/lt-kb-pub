@@ -99,7 +99,7 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174808
@@ -125,6 +125,31 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
+
+- id: c-197618
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
+  citata_originali: |
+    Septynių miestų žemėje*, pa­
+    skutiniame amžiuje prieš krikščioniškosios eros pradžią.
+    Tuo remdamasis, Naruševičius savo Lenkijos istorijos
+    pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
+    dešiniojoje šios upės pakrantėje. Tebus ir čia leista at­
+    kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
+    dalelė Rus ir Ross — lietuviško šventos upės pavadini­
+    mo. O savo gyvenimą tolimame Septynių miestų krašte,
+    kur jie buvo laiko audrų nublokšti, agatirai galėjo iš­
+    keisti į gyvenvietes tarp giminingų kartų, kai nesiliau­
+    jančios sarmatų revoliucijos neleido jiems ilgiau ramiai
+    gyventi prie Marokos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -77,6 +77,16 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
   pagrindžia:
     - c-177640
 
+<a id="claim-t-195274"></a>
+- t-195274
+  teiginys: "Barbora pasakojime veikia kaip savarankiška vestuvių ir buities scenų dalyvė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177641
+
 ## Citatos
 
 - id: c-177640
@@ -92,7 +102,7 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -113,3 +123,5 @@ Barbora pasakotojo namuose buvo augintinė ir auklė, iš piemenių paimta pusme
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195274

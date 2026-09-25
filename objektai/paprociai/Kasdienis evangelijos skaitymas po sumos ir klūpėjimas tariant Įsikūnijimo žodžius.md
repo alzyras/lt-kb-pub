@@ -74,5 +74,5 @@ Brolio Vernerio vadovautoje generalinėje kapituloje nutarta, kad kunigai po sum
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

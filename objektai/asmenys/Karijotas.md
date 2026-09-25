@@ -174,7 +174,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167136
@@ -211,7 +211,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178740
@@ -237,7 +237,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188307
@@ -261,7 +261,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188308
@@ -279,7 +279,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-188934
@@ -301,7 +301,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188935
@@ -347,7 +347,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 ## Ryšiai

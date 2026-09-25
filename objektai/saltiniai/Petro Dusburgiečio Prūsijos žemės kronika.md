@@ -91,7 +91,7 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177076
@@ -114,7 +114,7 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179295
@@ -138,5 +138,50 @@ Petro Dusburgiečio Prūsijos žemės kronika cituojama kaip nuoroda teiginiui, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-197208
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 368."
+  citata_originali: |
+    Galbūt
+    žemės aplink Gailgarbį priklausė jo sosto pilyje gyvenu­
+    siam kunigaikščiui, be to, buvo vadinamos Rinavos ap­
+    skritimi. Ir Medraboje buvo panaši pilis, priklausiusi ba­
+    jorų Kandeimų giminei, kurios vardas vėliau pelnė kraš­
+    to istorijoje didelę šlovę. Jie buvo Medenavos valsčiaus
+    ponai (Dusb. P. IIP C. 70). Kitos senovės bajorų gimi­
+    nės: Sipailų, Karijotų, Greibų, Sikėnų, Vaidotų ir kt. val­
+    dė Kvedenavos, Germavos, Rudavos, Valdavos, Kaimo,
+    Pavundos, Tepliavos bei kitų valsčių tvirtoves.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199699
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 280"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 280."
+  citata_originali: |
+    Ten gyvenda­
+    mas, vyriausiasis kunigas daug ką pakeitė ir papildė apeigas,
+    hierarchiją bei kitas išorines apraiškas naujovėmis taip, kad da­
+    bartinis lamaizmas, atrodo, nemažai panašus į senovės budiz­
+    mą, kurio principų dalį savyje išsaugojo senasis lietuvių tikė­
+    jimas.
+    Iš istorikų Dusburgietis pirmasis užsimena prūsus turėjus
+    vyriausiąjį žynį. Vėlesnieji kronikininkai nė kiek neabejoja šiuo
+    autoriaus teiginiu; jo paties žodžius pacitavome.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

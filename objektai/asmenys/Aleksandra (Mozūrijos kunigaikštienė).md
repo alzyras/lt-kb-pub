@@ -81,9 +81,10 @@ To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštie
     Lietuvą, bet ryšyje su Lenkija.
   citata_rodoma: "To siekė\nir Jogaila, tarpininkaujant abiejų seseriai,\nMozūrijos kunigaikštienei Aleksandrai.\nLenkijos valdantieji sluoksniai Švitrigailai\nsiūlė net Lenkijos vainiką arba valdyti\nLietuvą, bet ryšyje su Lenkija."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

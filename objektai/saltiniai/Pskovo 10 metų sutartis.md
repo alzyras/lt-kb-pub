@@ -70,5 +70,5 @@ Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris tuo pat laiku, kai Ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -97,7 +97,7 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-55539
@@ -118,9 +118,10 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
     pat jėzuito Naramovskio3.
   citata_rodoma: "Tad nu­\nrodysime tuos Vilniaus diecezijos ganytojus, kurių vardai jo­\nkių abejonių nekeldami istorijoje išlikę. Be įvairių autentiškų \naktų, kur kaip liudininkus ne kartą aptinkame Vilniaus vys­\nkupus, buvo du šaltiniai, iš kurių galima buvo semtis išsa­\nmesnių žinių apie juos. Pirmasis jų: lotyniškas rankraštis, bu­\nvęs Vilniaus universiteto bibliotekoje, kuriame trumpos \npanegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­\nčiaus, jėzuito2. Kitas žinomas platus istorinis veikalas, taip \npat jėzuito Naramovskio3."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

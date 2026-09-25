@@ -111,6 +111,30 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
   pagrindžia:
     - c-173737
 
+<a id="claim-t-212564"></a>
+- t-212564
+  teiginys: "161 krikščioniško sios eros metais, pasak Naruševičiaus tyrimų1, gotai su savo karaliumi Filimeru, pereidami iš Germanijos į Sarmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo met ribojo senovės geografų taip pavadintus kraštus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195058
+
+<a id="claim-t-219406"></a>
+- t-219406
+  teiginys: "Narbutas teigia, kad lietuvių genties tautos išėjo į rytus su gotais Filimero karaliavimo metu arba šiek tiek vėliau."
+  atnaujinta: "2026-09-20 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200661
+
 ## Citatos
 
 - id: c-173032
@@ -138,7 +162,7 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173736
@@ -162,7 +186,7 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173737
@@ -186,5 +210,99 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194783
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
+  citata_originali: |
+    Apie šią tautą senovės ty­
+    rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
+    buvę kairiojoje Dono pakrantėje, prie Kimerijos Bospo­
+    ro2; šis teiginys, paimtas iš senovės geografų ir esantis
+    Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai
+    sena, be to, Jordanas teigia, kad spaliai gyveno dabarti­
+    nėje Mazovijoje. Norint sužinoti Filimero žygio kryptį,
+    reikia prisiminti, kad pirmiausia spaliai atvyko į tas Va­
+    karų šalis nuo Azovo jūros, o vėliau visi ar galbūt veik­
+    lesnė jų dalis keliavo su gotais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195058
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
+  citata_originali: |
+    161 krikščioniško­
+    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
+    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
+    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
+    met ribojo senovės geografų taip pavadintus kraštus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212564
+
+- id: c-196336
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 86"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 86."
+  citata_originali: |
+    Gerai žinoma gotų ir jų kraštiečių iš Skandinavijos įtaka
+    minėtoms tautoms, — tai ne sykį įrodysime šiame vei­
+    kale; jie nutiesė kelią per Lietuvą iš Skandinavijos ir
+    Užvyslio Gotijos, o kartu davė progą patraukti žmones
+    paskui save. Kvadai, svebai, markomanai ir įvairios ki­
+    taip vadinamos gotų kartos traukė į Rytus paskui Fili-
+    merą, bet ne kartu, o vienos paskui kitas ir daugelį metų;
+    toks jų persikėlimas nuolat vyko arba lietuvių tautų gy­
+    venamų sričių pakraščiais, arba per jų žemes. Todėl ne­
+    mažai permainų turėjo įvykti ir šioje Europos dalyje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200661
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  citata_originali: |
+    Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
+    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
+    liaudies padavimų.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219406

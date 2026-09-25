@@ -83,6 +83,30 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   pagrindžia:
     - c-68114
 
+<a id="claim-t-210472"></a>
+- t-210472
+  teiginys: "Lukomlis yra gyvenvietė Vitebsko srities pietvakariuose."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193638
+
+<a id="claim-t-211024"></a>
+- t-211024
+  teiginys: "Švitrigaila sugrįžo į Lukomlį ir jame paleido savo kariuomenę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193752
+
 ## Citatos
 
 - id: c-43606
@@ -106,7 +130,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-68114
@@ -125,8 +149,46 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-193638
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 270."
+  citata_originali: |
+    Lukomlis — da­
+    bar BTSR gyvenvietė Vitebsko srities pietvakariuose. | pietus nuo
+    Lukomlio tikrai yra du dideli ežerai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210472
+
+- id: c-193752
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 116-117"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 116-117."
+  citata_originali: |
+    Livonijos magistras sugrįžo į savo žemę 32, o didy­
+    sis kunigaikštis Švitrigaila — į Lukomlį ir čia savo
+    121
+
+    kariuomenę — kunigaikščius ir bajorus — paleido
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211024
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]

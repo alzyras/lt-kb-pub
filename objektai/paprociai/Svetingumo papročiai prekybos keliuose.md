@@ -73,5 +73,5 @@ O kad prekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro bikiškų g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

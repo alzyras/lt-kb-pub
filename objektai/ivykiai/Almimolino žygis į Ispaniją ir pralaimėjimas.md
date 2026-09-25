@@ -64,6 +64,16 @@ Nenurodyta
   pagrindžia:
     - c-62662
 
+<a id="claim-t-221292"></a>
+- t-221292
+  teiginys: "Ispanijos karaliai Almimoliną nugalėjo, o jis pasitraukė su keliais kariais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-62662
@@ -84,5 +94,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

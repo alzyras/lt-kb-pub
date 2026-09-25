@@ -69,5 +69,5 @@ Artėjant Vytauto mirties metinėms Jonas Remeika (1891-1972) 1928 m. Kaune prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -53,3 +53,42 @@ Szymon Jachimowicz buvo Antano Jachimovičiaus sūnus ir Mykolo bei Motiejaus Ja
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208204"></a>
+- t-001
+  teiginys: "Szymon Jachimowicz buvo Antano Jachimovičiaus sūnus ir Mykolo bei Motiejaus Jachimovičių brolis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-08-18T21:24:31Z"
+  pagrindžia:
+    - c-191020
+
+## Citatos
+
+- id: c-191020
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 204"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 204."
+  citata_originali: |
+    Dar du mirties nuosprendžiai buvo paskelbti plėšimo ir vagysčių bylose.
+    1786 m. buvo sulaikyta bajorų gauja, užsiėmusi vagystėmis ir plėšimais Kauno ir
+    Trakų pavietuose. Ją sudarė Antanas Jachimovičius {Antoni Jachimowicz), jo sū­
+    nūs - Mykolas, Motiejus ir Simonas {Michał, M aciej i Szymon Jachimowiczowie)>
+    Jokūbas Petrovičius {Jakub Piotrowicz), Petras Visockis {Piotr Wysocki) ir kiti
+    asmenys (daug kitų byloje ir apklausose paminėtų asmenų sugebėjo pasislėpti nuo
+    persekiojimo).
+  citata_rodoma: "Ją sudarė Antanas Jachimovičius {Antoni Jachimowicz), jo sū­\nnūs - Mykolas, Motiejus ir Simonas {Michał, M aciej i Szymon Jachimowiczowie"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

@@ -106,7 +106,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172835
@@ -130,5 +130,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-199489
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 386"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 386."
+  citata_originali: |
+    Mirusiųjų vėles pir­
+    miausia kviesdavo į pirtį, kur kiekvienai iš pakviestųjų buvo pa­
+    ruošti prausimo reikmenys ir drabužiai. Paskui atskirai paruoš­
+    toje troboje valgiais ir gėrimais padengia stalą, o patys parvyks-
+    ia namo ir tris dienas puotauja. Pagaliau mirusiesiems skirtus
+    dalykus ir maistą nuneša ant kapų; mostais atsisveikinę su mi­
+    rusiaisiais, nueina. Kam patinka, gali pasiimti, kas palikta. Sis
+    paprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­
+    rėjo būti žinoma ta Ilgių šventė, kaip tai parodėme anksčiau
+    atitinkamame straipsnyje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

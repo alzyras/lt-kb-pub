@@ -51,9 +51,13 @@ function cleanCitationDisplayText(value: string): string {
 }
 
 function isIndexOnlyCitation(entry: EvidenceEntry): boolean {
-  return (
-    entry.fields.get("citatos_rezimas")?.trim() === "indeksas" &&
-    Boolean(entry.fields.get("indeksas")?.trim())
+  if (entry.fields.get("citatos_rezimas")?.trim() !== "indeksas") return false
+  // Page-only citations intentionally omit verbatim source text, but must keep
+  // a concrete locator so a reader can verify the cited passage.
+  return Boolean(
+    entry.fields.get("puslapis")?.trim() ||
+      entry.fields.get("puslapiai")?.trim() ||
+      entry.fields.get("indeksas")?.trim(),
   )
 }
 

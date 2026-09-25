@@ -71,5 +71,28 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201077
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 46."
+  citata_originali: |
+    Šių pastabų
+    atsiradimas - tai irgi patvirtinimas fakto, kad ta knyga užima
+    ypatingą vietą LTI tomų virtinėje ir turi savo likimą. Dabar,
+    pažvelgę iš laiko perspektyvos, būsime teisūs, pasakę, kad
+    „Lietuvių mitologija“ istorikui atnešė ne tik entuziastingą
+    tautiečių pritarimą, bet ir davė daugiausia mokslinės kritikos
+    (tai išsamiai savo įvadiniuose straipsniuose išdėstė Vytautas
+    Berenis ir Norbertas Vėlius1 2), o kartu - ir mažiausiai vidinio
+    pasitenkinimo bei dvasinės ramybės. Galbūt dėl šios priežasties
+    ši knyga turi ne vieną variantą ir ne vieną istoriją.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

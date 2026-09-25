@@ -83,7 +83,7 @@ Prie šventyklos įėjimo buvo Krivių Krivaičio - žynių žynio rūmas. Jeigu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-199322
@@ -100,7 +100,7 @@ Prie šventyklos įėjimo buvo Krivių Krivaičio - žynių žynio rūmas. Jeigu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-199438
@@ -118,5 +118,5 @@ Prie šventyklos įėjimo buvo Krivių Krivaičio - žynių žynio rūmas. Jeigu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -56,18 +56,6 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   pagrindžia:
     - c-174368
 
-<a id="claim-t-197844"></a>
-- t-002
-  teiginys: "Wespats sudarė su juo sąjungą ir vedė jo dukrą."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179360
-
 ## Citatos
 
 - id: c-174368
@@ -92,7 +80,7 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179360
@@ -115,5 +103,25 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-197482
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
+  citata_originali: |
+    Bet tam, kad visiškai užimtų Rusią, Frotonui dar reikėjo
+    nugalėti turtingą tenykštį karaliuką, vardu Ganduvanas2,
+    su kuriuo susidoroti buvo ne taip lengva; jis sudarė su
+    juo sąjungą ir vedė jo dukrą. Taip ir baigėsi tą sykį dvie­
+    jų tautų tarpusavio karai3. Iš tiesų chronologai nesutaria
+    tarpusavyje, kuriais metais pradėjo valdyti Protonas I;
+    tačiau iš chronologinių apskaičiavimų aišku, kad jis buvęs
+    beveik Romos imperatoriaus Oktaviano Augusto amžinin­
+    kas, tik kiek jaunesnis.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -74,5 +74,30 @@ Narbutas, remdamasis Strijkovskiu ir Grunau, išpažintį priskiria lietuvių at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198626
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
+  citata_originali: |
+    Išpažintis
+    Prie apeigų, atliekamų per atnašavimą, dar priklauso iš­
+    pažintis. Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­
+    žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
+    ninkų pranešimais ir savo paties duomenimis. Kronikininkas
+    Grunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai
+    patekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­
+    kūnui, kad tos apeigos neišduosiąs vyskupui. Tą išpažintį jis
+    taip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­
+    dilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė
+    už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
+    vo lazda.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

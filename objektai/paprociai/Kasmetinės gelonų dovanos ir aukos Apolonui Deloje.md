@@ -96,7 +96,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177269
@@ -122,5 +122,51 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197388
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 80."
+  citata_originali: |
+    Todėl mano­
+    ma, kad tai turėjo įvykti ne vėliau kaip VI amžiaus prieš
+    Kristaus gimimą antrojoje pusėje. Gelonai, prisimindami
+    savo helenišką kilmę ir nepaisydami religinio susijungi­
+    mo su indais-skitais, kasmet siųsdavo į Delą dovanų ir
+    aukų Apolonui2.
+    65
+    Gelonai-budinai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197508
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 80."
+  citata_originali: |
+    Herodotas
+    prisimena buvus tokį miestą prie Juodosios jūros, kur
+    netoliese buvo ir Dioskūrija; būtent šios vietos garsėjo
+    didžiulėmis prekyvietėmis, į kurias susirinkdavo nesu­
+    skaičiuojamos minios žmonių iš maždaug trijų šimtų
+    genčių, įvairių savo kalba ir gyvenamąja vieta1. Kada
+    įvyko ta revoliucija, privertusi gelonus išvykti iš empo­
+    riumų, nėra jokių žinių; tikra tik tai, kad iki Darijaus
+    žygio prieš Skitiją gelonai jau seniai gyveno tarp budi­
+    nu, susiliejo su jais ir sudarė vieną tautą. Todėl mano­
+    ma, kad tai turėjo įvykti ne vėliau kaip VI amžiaus prieš
+    Kristaus gimimą antrojoje pusėje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

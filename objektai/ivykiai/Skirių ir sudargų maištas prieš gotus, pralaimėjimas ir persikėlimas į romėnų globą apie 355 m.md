@@ -231,7 +231,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -252,7 +252,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173900
@@ -274,7 +274,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173901
@@ -295,7 +295,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-179241
@@ -321,7 +321,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-179242
@@ -343,5 +343,110 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-195142
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
+  citata_originali: |
+    Tačiau atsitiko taip, kad svebų kara­
+    liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių
+    bendrininkai, kažin kokio pavydo šiai pagrindinei tautai
+    paskatinti, ėmė maištauti ir sukėlė pilietinį karą. Jie pir­
+    miausia sukurstė skirius nusimesti gotų priespaudą kaip
+    tik tuo metu, kai jau atvirai kovojo su jais susikivirčiję
+    kvadai. Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
+    su sukilėliais ir išvien su jais puolė gotus. Bet Siaurės
+    didvyrių giminė, susilpnėjusi po Romos miestų puldinė­
+    jimų ir kautynių su legionais, pergalingai baigė šį baisų
+    ir netikėtą karą, kuris galėjo tapti jiems visiška pražūti­
+    mi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195317
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
+  citata_originali: |
+    Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
+    su sukilėliais ir išvien su jais puolė gotus. Bet Siaurės
+    didvyrių giminė, susilpnėjusi po Romos miestų puldinė­
+    jimų ir kautynių su legionais, pergalingai baigė šį baisų
+    ir netikėtą karą, kuris galėjo tapti jiems visiška pražūti­
+    mi. Dėl šių įvykių skiriai patyrė didelį pralaimėjimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196618
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
+  citata_originali: |
+    Ir vėl
+    laimės žvaigždė lydėjo gotus, kurie niekais pavertė vi­
+    sus pasikėsinimus j jų valdžią. Ištikus šiai nelaimei, Edu­
+    ka gelbėjo likučius savo žmonių, kurie, palikę savo gy­
+    venamąsias vietas Mezijoje, kėlėsi į dešiniąją Dunojaus
+    pakrantę ir pasidavė romėnų globai. Šis kraustymasis
+    kartu su kitomis dėl šių politinių įvykių persekiojamomis
+    gotų gentimis įvyko apie 355 metus.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:04"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196646
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
+  citata_originali: |
+    Šios vilties ir narsos, ku­
+    rią suteikia keršto troškimas, skatinami, skiri ai skubėjo
+    su savo vadais Eduka ir Volfu pagelbėti svebams. Ir vėl
+    laimės žvaigždė lydėjo gotus, kurie niekais pavertė vi­
+    sus pasikėsinimus j jų valdžią. Ištikus šiai nelaimei, Edu­
+    ka gelbėjo likučius savo žmonių, kurie, palikę savo gy­
+    venamąsias vietas Mezijoje, kėlėsi į dešiniąją Dunojaus
+    pakrantę ir pasidavė romėnų globai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196744
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
+  citata_originali: |
+    Šis kraustymasis
+    kartu su kitomis dėl šių politinių įvykių persekiojamomis
+    gotų gentimis įvyko apie 355 metus. Atvykėliai gana ilgą
+    laiką buvo imperijos Padunojaus sienų sargai, akylai ir
+    sėkmingai gynę nuo gotų, kurie buvo ir jų pačių priešai.
+    288
+    Istorinės išvados.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

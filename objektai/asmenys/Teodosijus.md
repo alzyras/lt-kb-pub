@@ -64,17 +64,18 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   pagrindžia:
     - c-32808
 
-<a id="claim-t-197456"></a>
-- t-002
-  teiginys: "Teodosijus yra pasišventimo simbolis, dievų paslapčių ir glo- 14 Qui etiam hieroglificamm literarum interpretendarum periti, characterem sub crucis forma vitam futurum significare dixerunt (lib."
-  atnaujinta: "2026-07-12 22:32"
+<a id="claim-t-220088"></a>
+- t-220088
+  teiginys: "Rytų Romos imperatoriui Teodosijui įsakius nugriauti Aleksandrijos stabmeldžių šventyklas, ant Serapio šventovės akmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į kryžių."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-177119
+    - c-198634
 
 ## Citatos
 
@@ -96,7 +97,7 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177119
@@ -116,5 +117,23 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-198634
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 380."
+  citata_originali: |
+    Pavyzdžiui, deivės Cereros
+    rankoje jis yra pasišventimo simbolis, dievų paslapčių ir glo-
+    14 Qui etiam hieroglificamm literarum interpretendarum periti, cha­
+    racterem sub crucis forma vitam futurum significare dixerunt (lib. XII. -
+    Cap. 26)*.
+    15 De civitate Dei.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220088

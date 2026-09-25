@@ -71,5 +71,5 @@ Jie sudegino Minsko miestą ir iš Lietuvos valsčių bei kaimų išsivarė bela
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

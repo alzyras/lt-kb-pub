@@ -157,6 +157,30 @@ Jėzuitai Slanime buvo įkūrę mažesnę mokyklą. Iš pradžių jie įvykdavo 
   pagrindžia:
     - c-186693
 
+<a id="claim-t-208056"></a>
+- t-208056
+  teiginys: "Slanime vyko politiškai svarbūs pasiuntinių seimelių rinkimai."
+  atnaujinta: "2026-09-19 20:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190674
+
+<a id="claim-t-208062"></a>
+- t-208062
+  teiginys: "Slanimo Grabnyčių seimeliai buvo dažnai žlugdomi."
+  atnaujinta: "2026-09-19 20:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190691
+
 ## Citatos
 
 - id: c-153910
@@ -176,7 +200,7 @@ Jėzuitai Slanime buvo įkūrę mažesnę mokyklą. Iš pradžių jie įvykdavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -199,7 +223,7 @@ Jėzuitai Slanime buvo įkūrę mažesnę mokyklą. Iš pradžių jie įvykdavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-153915
@@ -225,7 +249,7 @@ Jėzuitai Slanime buvo įkūrę mažesnę mokyklą. Iš pradžių jie įvykdavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-153917
@@ -246,7 +270,7 @@ Jėzuitai Slanime buvo įkūrę mažesnę mokyklą. Iš pradžių jie įvykdavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175968
@@ -265,7 +289,7 @@ Jėzuitai Slanime buvo įkūrę mažesnę mokyklą. Iš pradžių jie įvykdavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-186693
@@ -282,8 +306,47 @@ Jėzuitai Slanime buvo įkūrę mažesnę mokyklą. Iš pradžių jie įvykdavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-190674
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 51"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 51."
+  citata_originali: |
+    Tribunolo maršalas buvo Kauno
+    seimelyje penkis kartus iš eilės rinktas deputatas. Vis dėlto didikų grupuotėms
+    rinkimai Kauno pasiuntinių seimelyje didesnės reikšmės neturėjo.
+    Didikų grupuotėms politiškai svarbūs buvo rinkimai Gardino ir Slanimo
+    pasiuntinių seimeliuose.
+  citata_rodoma: "Didikų grupuotėms politiškai svarbūs buvo rinkimai Gardino ir Slanimo \npasiuntinių seimeliuose."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208056
+
+- id: c-190691
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 51"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 51."
+  citata_originali: |
+    Didikų grupuotėms politiškai svarbūs buvo rinkimai Gardino ir Slanimo
+    pasiuntinių seimeliuose. Būtent juose pasiuntiniais dažnai buvo tcnkornxFamilijos
+    (Čartoriskiai ir kt.) bei Radvilų grupuočių lyderiai. Ypač dažnai žlugdomi buvo
+    Gardino ir Slanimo pavietų Grabnyčių seimeliai.
+  citata_rodoma: "Ypač dažnai žlugdomi buvo \nGardino ir Slanimo pavietų Grabnyčių seimeliai."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208062
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

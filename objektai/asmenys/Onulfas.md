@@ -57,6 +57,16 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
   pagrindžia:
     - c-174185
 
+<a id="claim-t-212743"></a>
+- t-212743
+  teiginys: "Onulfas privertė Frederiką pasitraukti į Meziją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Citatos
 
 - id: c-174185
@@ -81,7 +91,7 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

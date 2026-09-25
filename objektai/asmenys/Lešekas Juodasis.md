@@ -103,7 +103,7 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173801
@@ -125,5 +125,26 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196477
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
+  citata_originali: |
+    Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
+    to, Traidenis vakarinėje Jotvingijoje paliko visos tautos
+    pražūties užuomazgą, nes savo užpuolimais galutinai įer­
+    zino lenkus, kurie, Lešeko Juodojo vadovaujami, 1282 me­
+    tais prie Narevo įvykdė tai, ką jotvingiams skyrė nelai­
+    minga lemtis: jie visi buvo užklupti prie garsėjusios dau­
+    geliu kraujo praliejimų Ostrolenkos. Tačiau jotvingiai
+    paniekino nelaisvę ir leidosi visi iškapojami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

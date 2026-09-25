@@ -92,5 +92,5 @@ canonical_biography: "249 Spycinas, proistorikas 159 Spytekas iš Melsztyno 283,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

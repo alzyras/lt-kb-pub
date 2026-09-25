@@ -69,7 +69,7 @@ Mechovita maišo jotvingių ir lietuvių kilmę. Si Mechovitos padavimuose esant
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-197412
@@ -86,5 +86,5 @@ Mechovita maišo jotvingių ir lietuvių kilmę. Si Mechovitos padavimuose esant
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

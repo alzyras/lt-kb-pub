@@ -100,7 +100,7 @@ Be to, VII amžiui įpusėjus, įvaras nužudė savo duk ters Auduros Diupaudos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187863
@@ -120,5 +120,5 @@ Be to, VII amžiui įpusėjus, įvaras nužudė savo duk ters Auduros Diupaudos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

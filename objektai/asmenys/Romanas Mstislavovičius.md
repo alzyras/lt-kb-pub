@@ -114,7 +114,7 @@ Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188702
@@ -139,7 +139,7 @@ Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188703
@@ -163,7 +163,7 @@ Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188704
@@ -190,5 +190,5 @@ Po bevaikio kunigaikščio Vladimiro mirties Romanas Mstislavovičius, kaip pasa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

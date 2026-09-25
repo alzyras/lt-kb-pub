@@ -97,7 +97,7 @@ Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184557
@@ -121,7 +121,7 @@ Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184558
@@ -145,5 +145,5 @@ Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

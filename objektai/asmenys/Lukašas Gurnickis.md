@@ -54,3 +54,39 @@ Lukašas Gurnickis buvo Lenkijos karaliaus sekretorius.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207856"></a>
+- t-001
+  teiginys: "Lukašas Gurnickis buvo Lenkijos karaliaus sekretorius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190395
+
+## Citatos
+
+- id: c-190395
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 197"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 197."
+  citata_originali: |
+    Kitas to įvykio liudytojas, Lenkijos karaliaus sekretorius, diplomatas, istorikas ir
+    literatas Lukašas Gurnickis „Lenkijos Karūnos istorijoje" papasakojo kitą, šiandien links-
+    mai atrodančią, šių diplomatinių vestuvių pirmosios nakties ceremoniją.
+    „Po vakaro mišių vyko šokiai. Karalius Ferdinandas pats šoko, ir šoko labai daug.
+  citata_rodoma: "Kitas to įvykio liudytojas, Lenkijos karaliaus sekretorius, diplomatas, istorikas ir\nliteratas Lukašas Gurnickis „Lenkijos Karūnos istorijoje\" papasakojo kitą, šiandien links-\nmai atrodančią, šių diplomatinių vestuvių pirmosios nakties ceremoniją."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

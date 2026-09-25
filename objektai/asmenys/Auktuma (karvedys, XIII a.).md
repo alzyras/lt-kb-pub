@@ -96,7 +96,7 @@ Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184748
@@ -119,5 +119,5 @@ Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

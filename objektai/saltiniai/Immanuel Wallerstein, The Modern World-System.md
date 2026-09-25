@@ -44,3 +44,39 @@ Modernioji pasaulio sistema pirmame tome.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208170"></a>
+- t-001
+  teiginys: "Modernioji pasaulio sistema pirmame tome."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190788
+
+## Citatos
+
+- id: c-190788
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 342"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 342."
+  citata_originali: |
+    ir jj laikyti periferinio kapitalizmo Vidurio Rytų Europoje apraiška. I. Wallersteino
+    pagrindinio wdkiXo Modernioji pasaulio sistema pirmame tome^^ kuriame aptariamas
+    KPS atsiradimas XVI a. bei jos ankstyvoji raida, XVI-XVIII a. Lenkijos ir Lietuvos
+    socialinė-ekonominė santvarka traktuojama (kartu su Amerika) kaip tuometinės KPS
+    periferija".
+  citata_rodoma: "Modernioji pasaulio sistema pirmame tome"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

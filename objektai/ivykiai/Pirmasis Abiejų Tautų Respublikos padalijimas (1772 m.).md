@@ -74,6 +74,18 @@ Nenurodyta
   pagrindžia:
     - c-44924
 
+<a id="claim-t-208398"></a>
+- t-208398
+  teiginys: "Vilniaus pranciškonų memoriale pirmasis padalijimas vartojamas kaip chronologinė riba ir kaip istorinis orientyras."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190825
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vilniaus pranciškonų memoriale pirmasis padalijimas vartojamas kaip chronologinė riba ir kaip istorinis orientyras.'
@@ -107,5 +119,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190825
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 231"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 231."
+  citata_originali: |
+    Pirmasis padalijimas prisimenamas
+    kaip tam tikra chronologinė riba44. Kaip chronologinis orientyras naudojamas ir
+    antrasis bei trečiasis (galutinis) Abiejų Tautų Respublikos padalijimai45. Lenkijos
+    •r Lietuvos valstybės panaikinimas Vilniaus pranciškonų memoriale dažniausiai
+    suvokiamas kaip „Lenkijos“, „Lenkijos Karalystės“ (Regni Poloniae) padalijimas
+    (<dismembratio), nors yra atvejis, kai šalia Lenkijos buvo paminėta ir Lietuva46.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208398

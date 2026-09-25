@@ -68,5 +68,5 @@ canonical_biography: "1631 m. Kauno suolininkas Dominykas Narkevičius testament
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

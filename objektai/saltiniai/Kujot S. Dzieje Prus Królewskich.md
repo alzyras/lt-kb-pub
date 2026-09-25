@@ -71,5 +71,20 @@ Dusburgietis teigia, kad kujot S.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202587
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  citata_originali: |
+    Kujot S. Dzieje Prus Królewskich.—Cz. 1: do roku 1309. T. I: do śmierci Świętopełka
+    II —Roczniki Towarzystwa Naukowego w Toruniu, Toruń, 1913—1914, 20—21.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

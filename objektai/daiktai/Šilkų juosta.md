@@ -74,5 +74,5 @@ Vienam duosiu šilkų juostą, Antram duosiu aukso žiedą, Trečiam neturiu ko 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

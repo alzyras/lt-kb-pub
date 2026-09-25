@@ -75,5 +75,5 @@ Dusburgietis pasakoja, kad Dargis tris kartus rado baltą žirgą nudurtą, o sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

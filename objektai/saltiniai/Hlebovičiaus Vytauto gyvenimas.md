@@ -77,5 +77,34 @@ Teodoras Narbutas Hlebovičiaus „Vytauto gyvenimą“ nurodė ginčydamas pož
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197117
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
+  citata_originali: |
+    Todėl vieni tiesiog
+    priimdavo kronikininkų geriau išdėstytas išvadas apie
+    tautos ištakas, kiti, priblokšti tų išvadų netailklumo, siūlė
+    vargais negalais suregztas savąsias, o dar kiti su tikrai
+    pyrgonišku nepatiklumu, visas kronikų sakmes pasako­
+    mis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­
+    tuvos istoriją toliau XIII amžiaus1. Juk senesnės kroni­
+    kininkų žinios apie lietuvių gentis nepagrįstai laikytos
+    išmone: jie sėmėsi žinių iš dabar pražuvusių kronikų, ku­
+    rių padavimai ir senovės šaltinių liekanos buvo ne tokie
+    seni. O tai, kad jose būta ne vien pasakų, kas dieną įti­
+    kina vis nauji atradimai; pats puikus lietuvių kalbos ži­
+    novas ir savo surinktų giesmių leidėjas ponas Rėza***,
+    kurio šviesa tiek daug pasinaudojome ankstesniame to-
+    1 Hlebovičiaus „Vytauto gyvenimas“. P. 116 (Onacevičiaus pas­
+    tabos)***.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

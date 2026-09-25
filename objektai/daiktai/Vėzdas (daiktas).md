@@ -83,6 +83,30 @@ Nenurodyta
   pagrindžia:
     - c-186501
 
+<a id="claim-t-213640"></a>
+- t-213640
+  teiginys: "Norėdamas savo žygiui į Pietus pa kviesti visus krivičius, Olegas pirmiausia turėjo kreiptis j patį Krivį; kol šis nuo savo medžio aukuro nepaskelb davo dievų leidimo, tol gal nė vienas prūsas nepakelda vo savo vėzdo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197171
+
+<a id="claim-t-214282"></a>
+- t-214282
+  teiginys: "Tiesą sakant, numanau, kad šios išvados gali būti pa laikytos perdėtomis, bet man atrodo, kad tai patvirtino kruvina vokiečių riterių patirtis; nes jei vien tik vėzdais ginkluota, dažnai nugalėdama liaudis sugebėjo 53 metus kariauti su gausiomis kryžiuočių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196154
+
 ## Santrauka
 
 1792 m. Ignoto Želazovskio žmonės per Rydzevskio namo užpuolimą vėzdais smurtavo prieš namuose buvusius žmones. 1779 m. Tomo Uzaro žmonės, ginkluoti vėzdais, užpuolė Anupro ir Teresės Daunoravičių namą ir sumušė ten miegančius žmones.
@@ -105,7 +129,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186501
@@ -122,5 +146,54 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196154
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 342"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 342."
+  citata_originali: |
+    Tiesą sakant, numanau, kad šios išvados gali būti pa­
+    laikytos perdėtomis, bet man atrodo, kad tai patvirtino
+    kruvina vokiečių riterių patirtis; nes jei vien tik vėzdais
+    ginkluota, dažnai nugalėdama liaudis sugebėjo 53 metus
+    kariauti su gausiomis kryžiuočių kariuomenėmis, kurios
+    iš visų pusių kasmet užplūsdavo Europą ir buvo geriau
+    ginkluotos, su tikėjimu Dievą kovojo fanatiškai atkak­
+    liai, priešinosi hidrai, kurios nukirstos galvos vėl ataug­
+    davo, nors užpulti negalėjo kitaip atlyginti savo praradi­
+    mų, o tik pasiųsti savo' jaunimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214282
+
+- id: c-197171
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 342"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 342."
+  citata_originali: |
+    Norėdamas savo žygiui į Pietus pa­
+    kviesti visus krivičius, Olegas pirmiausia turėjo kreiptis
+    j patį Krivį; kol šis nuo savo medžio aukuro nepaskelb­
+    davo dievų leidimo, tol gal nė vienas prūsas nepakelda­
+    vo savo vėzdo. Kai griaustinio atgarsiai išpranašaudavo
+    sėkmę, tuo metu Olegas galėjo gauti pagalbą, kuri vargu
+    ar buvo kitos tautos negu prūsų, nes tik jie iš vieno kai­
+    mo pasiųsdavo 500 ginkluotų karių arba vienoje savo
+    provincijoje galėdavo surinkti 40 000 riterių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213640

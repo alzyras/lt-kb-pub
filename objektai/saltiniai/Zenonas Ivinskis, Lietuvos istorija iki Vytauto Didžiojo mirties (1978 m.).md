@@ -148,6 +148,35 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-03483
 
+<a id="claim-t-05398"></a>
+- t-05398
+  teiginys: "Redakcinė pastaba pasirašyta Romoje 1975 m. spalio 15 d."
+  atnaujinta: "2026-09-20 05:20"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1975 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-03591
+
+<a id="claim-t-05399"></a>
+- t-05399
+  teiginys: "Autoriaus pratarmė pasirašyta Bonoje 1970 m. spalio 15 d."
+  atnaujinta: "2026-09-20 05:20"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): owner_note_path, source"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1970 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-03484
+
 ## Citatos
 
 - id: c-03483
@@ -167,7 +196,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -188,6 +217,9 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-05399
+
 - id: c-03587
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -207,11 +239,12 @@ object_page_seo_policy_version: object-page-policy/v7
     Bernheim).
   citata_rodoma: "Ir pas mus toji labiau _praktiško_ tikslo siekusi istorija, buvusi\ngyvenimo mokytoja, kuri praeityje labiau teieškojo gerų moralinių,\npamokinančių ir patriotiškai nuteikiančių pavyzdžių, turi užleisti\npirmaujančią vietą _genetinei_ (priežastinei) istorijai. Pragmatiškai-\n-didaktinis istorijos rašymo būdas turi trauktis ir labiau leisti\nreikštis genetiniam metodui, kuris pirmoje vietoje stato visuome­\nninės reikšmės turinčių įvykių psichofizinį _priežastingumą_ (Ernst\nBernheim)."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-03588
@@ -232,7 +265,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-03589
@@ -256,7 +289,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-03591
@@ -272,3 +305,5 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-05398

@@ -105,7 +105,7 @@ Belichovo pilis, kilmingojo Jono buveinė, buvo netoli Osos, Bindigs-Bergo, šia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179368
@@ -127,5 +127,26 @@ Belichovo pilis, kilmingojo Jono buveinė, buvo netoli Osos, Bindigs-Bergo, šia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197444
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 356"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
+  citata_originali: |
+    Toliau yra Prezla, Passaluk,
+    Posolna, Lynguar, Loypicz, Komor ir kitos apskritys. Taip
+    pat šioje provincijoje būva pilaičių, iš dalies pastatytų
+    lapsisaugoti nuo priešų puolimų, o iš dalies — keliaujan­
+    tiems ponams apsistoti. Belichovo pilis, kilmingojo Jono
+    buveinė, buvo netoli Osos, Bindigs-Bergo, šiandienio Bia-
+    lochovo, apylinkėse, šiaurinėje Osos pakrantėje, prie pat
+    Mokrau kaimo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

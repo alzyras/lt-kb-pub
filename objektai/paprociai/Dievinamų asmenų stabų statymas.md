@@ -72,5 +72,5 @@ Lietuviams buvo žinomas dievinamų asmenų stabų staty mas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

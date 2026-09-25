@@ -74,5 +74,5 @@ Paskui nukeliavo į Idumėją ir tenai daug letgalių apkrikštijo ir Ropoj baž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

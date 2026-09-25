@@ -26,21 +26,6 @@ media_all_json: |-
 
 Tas pava dinimas yra Lasickio mitologijoje.
 
-## Teiginiai
-
-<a id="claim-t-194856"></a>
-- t-001
-  teiginys: "Tas pava dinimas yra Lasickio mitologijoje."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177252
-
 ## Citatos
 
 - id: c-177252
@@ -59,5 +44,3 @@ Tas pava dinimas yra Lasickio mitologijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -77,5 +77,27 @@ Biartmaras Teodoro Narbuto pasakojime buvo Flamoro įpėdinis, paveldėjęs gars
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197565
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
+  citata_originali: |
+    Bet, atsižvelgiant į tai, ką jau ne sykį anks­
+    čiau kalbėjome apie Aldesko upę ir apie tą miestą (§ 155),
+    nėra pagrindo abejoti, jog tai buvusi tvirtovė prie pagrin­
+    dinių Nemuno žiočių ir beveik toje pačioje vietoje, kur
+    vėliau lietuviai turėjo Klaipėdą, o kryžiuočiai įkūrė Me-
+    metburgą. Sis miestas senovėje buvęs labai garsus, nes
+    jį paveldėjęs Flamoro įpėdinis Biartmaras savo galia ne­
+    nusileido karaliams. Visi šie įvykiai susiję su II amžiaus
+    pabaiga ar III amžiaus pradžia5.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

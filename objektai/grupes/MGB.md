@@ -93,6 +93,22 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   pagrindžia:
     - c-176237
 
+<a id="claim-t-225886"></a>
+- t-225886
+  teiginys: "Po MGB 1953 m. rugpjūčio 23–27 d. surengtos operacijos buvo sunaikintas Žemaičių apygardos štabas."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  temporaliniai_duomenys: "įvykio data: 1953 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "MGB, operacijos datos ir jos pasekmė aiškiai įvardyti pagal ištrauką. Papildomų priežasčių ar aplinkybių nepridėta."
+  vertinimo_atnaujinta: "2026-09-23T18:01:52Z"
+  pagrindžia:
+    - c-206402
+
 ## Citatos
 
 - id: c-42861
@@ -110,7 +126,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-42862
@@ -129,7 +145,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176237
@@ -150,5 +166,17 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-206402
+  autorius: "Aldona Vasiliauskienė"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kristaus Žengimo į dangų bažnyčios ir parapijos istorija"
+  puslapiai: "p. 497 (PDF 498)"
+  indeksas: "Aldona Vasiliauskienė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kristaus Žengimo į dangų bažnyčios ir parapijos istorija, p. 497 (PDF 498)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225886

@@ -177,7 +177,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177462
@@ -202,7 +202,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177463
@@ -232,7 +232,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177464
@@ -254,7 +254,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177465
@@ -282,7 +282,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184404
@@ -310,7 +310,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184405
@@ -330,5 +330,5 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007

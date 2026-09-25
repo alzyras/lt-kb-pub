@@ -89,7 +89,7 @@ Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugoda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184555
@@ -113,5 +113,5 @@ Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugoda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

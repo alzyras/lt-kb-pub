@@ -86,7 +86,7 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185198
@@ -103,7 +103,7 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185199
@@ -119,5 +119,5 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

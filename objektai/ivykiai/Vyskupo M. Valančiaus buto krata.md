@@ -55,11 +55,12 @@ Nenurodyta
     draudžiamos literatūros, vyskupo neareštuoti3.
   citata_rodoma: "Todėl \nVilniaus \ngeneralgubernatorius A. Potapovas \n1870.X.24 \nraštu Nr. 5451 sudarė komisiją, kuriai įsakė vysk. M. Va­\nlančiaus bute padaryti kratą ir nurodė, nors ir radus \ndraudžiamos literatūros, vyskupo neareštuoti3."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-191379
@@ -72,12 +73,14 @@ Nenurodyta
     vyskupo bute 1870.XII.12 padarė kratą, bet nieko įtartino
     nerado 4.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
 ## Teiginiai
 
 <a id="claim-t-208758"></a>
@@ -105,4 +108,3 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
     - c-191379
-

@@ -65,5 +65,5 @@ Po tos mūšos kuržemiai atėjo į abažą žemaičių, stovintį ties Sintele,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

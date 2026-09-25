@@ -86,7 +86,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166845
@@ -107,5 +107,5 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

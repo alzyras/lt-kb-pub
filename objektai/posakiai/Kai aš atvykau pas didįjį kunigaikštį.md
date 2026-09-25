@@ -75,5 +75,5 @@ Ta­ me laiške be kitų dalykų jisai rašo: „Kai aš atvykau pas didįjį ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

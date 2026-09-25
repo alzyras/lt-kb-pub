@@ -67,5 +67,5 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

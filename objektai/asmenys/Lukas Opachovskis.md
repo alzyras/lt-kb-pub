@@ -100,5 +100,5 @@ canonical_biography: "40 Dar prieš kelerius metus, nes jau 1563 metais Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

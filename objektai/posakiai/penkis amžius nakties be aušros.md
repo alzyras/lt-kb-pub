@@ -46,3 +46,41 @@ Maironio žodžiais Vilniaus grožis sukurtas per „penkis amžius nakties be a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207660"></a>
+- t-001
+  teiginys: "Maironio žodžiais Vilniaus grožis sukurtas per „penkis amžius nakties be aušros“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190277
+
+## Citatos
+
+- id: c-190277
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 292"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 292."
+  citata_originali: |
+    Jau pabaigus knygą ir net ją sumaketavus, tačiau dėl ekonominės krizės dramatiškai
+    užtrukus spausdinimui, LDK paveldo ir idėjos reikalų padėtis vis labiau artėjo prie „nuli-
+    nės“ pozicijos – o tai reiškia, kad LDK niekam nereikia, ji trukdo Lietuvos pragmatiškai
+    politikai. Todėl atrodo, kad būtina tas pačias idėjas ir koncepciją performuluoti dar dra-
+    matiškiau. Šventaragio ir Gedimino, Jono Basanavičiaus ir Šlapelių epochų nepakanka
+    paaiškinti, iš kur Vilniaus grožis, sukurtas, pasak Maironio, per „penkis amžius nakties
+    be aušros“.
+  citata_rodoma: "Šventaragio ir Gedimino, Jono Basanavičiaus ir Šlapelių epochų nepakanka \npaaiškinti, iš kur Vilniaus grožis, sukurtas, pasak Maironio, per „penkis amžius nakties \nbe aušros“."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

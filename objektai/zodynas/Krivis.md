@@ -84,6 +84,42 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
   pagrindžia:
     - c-175693
 
+<a id="claim-t-216819"></a>
+- t-216819
+  teiginys: "Jie turi nesuskaičiuojamas klases žynių vyrų ir moterų, kurių vyriau sias yra gyvasis dievaitis krivis, o jo valdžia apimdavo visas lie tuvių tautos žemes."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199773
+
+<a id="claim-t-218964"></a>
+- t-218964
+  teiginys: "Reikėdavo jam tuoj pat užbėgti už akių, skubėti pas žymų žynį, kokį nors krivio arti mą, arba pas patį Krivių Krivaitį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197881
+
+<a id="claim-t-225380"></a>
+- t-225380
+  teiginys: "Dusburgietis teigia, kad kriviui buvo atiduodamas trečdalis po pergalės paaukoto grobio ir kad jis tą dalį degino."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201652
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Netgi teigiama, kad Grevožos tvirtovėje gyvenęs vietinis Krivis.'
@@ -127,7 +163,7 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -155,5 +191,85 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197452
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 361"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 361."
+  citata_originali: |
+    Salia šio
+    miško stūkso supilta kita stati kalva, ant kurios ir turėjo
+    stovėti Weistote-Pil. Visa tai leidžia padaryti teisingą
+    išvadą, jog būtent šiose vietose buvo rezidencinės Reiksa,
+    karaliuko ir krašto Krivio pilys, o kitos priklausė kitiems
+    žymiems asmenims. Kaip šventoje girioje prie Romovės,
+    Sambijoje, buvo šventos ugnies aukuras, kur kitados lieps­
+    nojo amžinoji ugnis, taip šičia vietovardžiai Prantlak-
+    Brantlak, arba Brandlankės, primena šio aukuro vietą.
+    Taigi čia gyveno Bartos karaliukas, čia buvo ir savo
+    sprendimus skelbė vietinis Krivis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197881
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 106."
+  citata_originali: |
+    Reikėdavo jam tuoj pat
+    užbėgti už akių, skubėti pas žymų žynį, kokį nors krivio arti­
+    mą, arba pas patį Krivių Krivaitį. Šis apreikšdavo dievų valią,
+    išaiškindavo, ko jie trokšta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218964
+
+- id: c-199773
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 392"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 392."
+  citata_originali: |
+    Jie turi
+    nesuskaičiuojamas klases žynių vyrų ir moterų, kurių vyriau­
+    sias yra gyvasis dievaitis krivis, o jo valdžia apimdavo visas lie­
+    tuvių tautos žemes.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216819
+
+- id: c-201652
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  citata_originali: |
+    Po pergalės jie
+    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
+    atiduodami minėtajam kriviui, kuris tą dalį degino.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225380

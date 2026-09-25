@@ -84,5 +84,5 @@ Vytenis miško tankumyne paliko belaisvius ir grobį sargybiniams, o pats su rin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

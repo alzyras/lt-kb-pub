@@ -136,7 +136,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60362
@@ -154,7 +154,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-60363
@@ -179,7 +179,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-60364
@@ -198,5 +198,86 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203536
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55."
+  citata_originali: |
+    D. žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium
+    Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas
+    tik lotyniškas šio teritorinio vieneto vardas (Jer —geblt), plg. HP, 1, 1, p. 284; Wenskus
+    R. Kleinverbände..., p. 201—254.
+      H. Lovmianskis šioms „žemės” dalims pavadinti įvedė sutartinį terminą — valsčių
+    (Łowmiański H. Studja..., 2, p. 5, 137). D. territorium atitinka kryžiuočių kelių aprašymų
+    lant (plg. D. III, 313 ir Weg. 86; D. III, 246 ir Weg. 33). Lant (kraštas) vėlesniuose
+    dokumentuose Lietuvoje vadinamas valsčiumi. Valsčiaus terminą galime (istoriografijoje
+    tai priimta) taikyti ir XIII—XIV a. pradžiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203855
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 56."
+  citata_originali: |
+    Valsčių sudarė  pilis  ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis
+    — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H.
+    Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos...,
+    p. 206—207).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204526
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 56."
+  citata_originali: |
+    Žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.  lie.
+    pulkas); Dusburgietis šiuo atveju sako — campus (laukas) — III, 300, 310 ir kt.; Jer.—
+    velt (plg. GAO, p. 136; HP, 1, 1, p. 284; SU, 1, Nr. 58, p. 26 (Girte polka)—, Nr. 164,
+    p. 80 (polcam Quedenowe), Nr. 195, p. 108; Nr. 203, p. 112). Žr. Okulicz-Kozaryn L.
+    Życie..., p. 60—63, 100—102.
+      XVI—XVII a. Lietuvos DK dokumentuose minimi valsčiuose esantys laukai, jų vardai
+    (Jablonskis K. Lietuviški..., p. 6, Nr. 15; p. 256, Nr. 77, 78). Jie siejami su XIII—XIV a.
+    laukais (Łowmiański H. Studja..., 1, p. 101 — 125). Lietuviškasis XVI— XVII a. laukas
+    —tai smulkiosios bajorijos turtinė bei teritorinė valda (Wojtkowiak Z. Litwa Zawilejska...,
+    p. 41—47); XIII— XIV a. laukas — tarp miškų įsikūrusių žemdirbių (laukininkų) sodybos
+    su arimais ir pievomis (Jurginis J. Baudžiavos..., p. 166—168).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206213
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 56."
+  citata_originali: |
+    D. territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.
+    Kartais valsčiuje esti keletas pilių (III, 313, 321, 327), taigi ir jų apygardų, apylinkių
+    (istoriografijoje vartojamas ir pilies teritorijos terminas: Пашуто B. T. Образование..., c.
+    333; Pašuta V. Lietuvos..., p. 207; Jurginis J. Baudžiavos..., p. 86). Baltų administracinė
+    sistema buvusi panaši į senovės graikų (Gimbutienė M. Baltai, p. 145—146).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

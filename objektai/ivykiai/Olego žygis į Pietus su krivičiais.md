@@ -74,5 +74,5 @@ Norėdamas savo žygiui į Pietus pa kviesti visus krivičius, Olegas pirmiausia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

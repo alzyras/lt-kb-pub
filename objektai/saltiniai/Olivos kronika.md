@@ -212,7 +212,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-61485
@@ -236,7 +236,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-61486
@@ -252,7 +252,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-61487
@@ -270,7 +270,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-61488
@@ -286,7 +286,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-61490
@@ -304,7 +304,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-61491
@@ -326,7 +326,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-61492
@@ -345,7 +345,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-61493
@@ -361,5 +361,105 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-202160
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 76"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 76."
+  citata_originali: |
+    240  Dusburgietis aprašo ne vien tik Reisių (Riseno) valsčiaus, bet visos Pamedės
+    niokojimą. Apie tai aiškiau Senojoje Olivos kronikoje (SRP, 1, p. 678).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203478
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
+  citata_originali: |
+    249 D.— viri, didi Gobotini, Jer.— dî Gobotinin. Senesnėje Olivos kronikoje: generatio
+    [...] Bogatini (SRP, 1, p. 680).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204155
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 108"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 108."
+  citata_originali: |
+    Pilėnai, gyvenę kitose trijose
+    332 D.— Wohenstorph, Jer.— Wûnsdorf; Olivos kronikoje — Wonsdorff (SRP, 5, p.
+    602), Wansdorf (ten pat, 1, p. 686). Tai suvokietintas D. III, 75 paragrafe minimo
+    Unzatrapio (GAO, p. 190; Instraupio —Lietuvių karas, p. 147) pavadinimas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204302
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 107"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107."
+  citata_originali: |
+    330 D.— Tirsko (III, 175), Jer — Tirske, Dirske; Olivos kronika— Kirske (SRP, 5, p.
+    602), Kirsko (SRP, 1, p. 685). Tirška (Salys A.).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204749
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
+  citata_originali: |
+    Apie Kulmo miesto perkėlimą
+    299 D.— Cristburgk, Jer.— Crislburc. Olivos kronikoje — Kirsburg (SRP, 5, p. 600),
+    Kirsberg (ten pat, 1, p. 683); Prūsijos trumpojoje eiliuotoje kronikoje Kirsburg (ten pat,
+    2, p. 2).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204945
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  citata_originali: |
+    280 Kautynės įvyko 1243 (1242?) m. birželio 15 d. Senojoje Olivos kronikoje (joje
+    įrašyti originalūs Olivos papildymai bei Pamedės tradicija — PKD, p. 100—101) aiškiai
+    pasakyta, jog tuo metu Sventopelkas buvo sudaręs su Ordinu paliaubas (factae fuerunt
+    trewgae). Tik po šių kautynių (postea) Sventopelko kariuomenė įsiveržė į Kulmo žemę ir,
+    ko nebuvo sunaikinę prūsai, tą jis su saviškiais visiškai sunaikino (SRP, 1, p. 682; 3, 59;
+    Ewald A. L., Die Eroberung..., 2, p. 108—113; Kujot S., Dzieje Prus..., I, p. 717—719;
+    HP, 1, 1, p. 448; Matusas J., Senovės prūsų..., p. 30—31; Lietuvių karas..., p. 133—134
+    (Jasas R.); plg. Пашуто В. T., Борьба..., c. 71; Powierski J., Przyczyny..., p. 202).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

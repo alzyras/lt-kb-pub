@@ -72,5 +72,5 @@ Albrechtas 1298 metais nukovė Adolfą ir paveldėjo jo sostą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

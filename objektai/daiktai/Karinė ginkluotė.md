@@ -187,6 +187,23 @@ Nenurodyta
   pagrindžia:
     - c-12235
 
+<a id="claim-t-78665"></a>
+- t-78665
+  teiginys: "Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai."
+  atnaujinta: "2026-09-19 21:18"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karinė ginkluotė: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai kalba apie lietuvių karinę ginkluotę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Karinė ginkluotė priklausė Lietuviai (0.86)"
+  pagrindžia:
+    - c-05216
+
 ## Citatos
 
 - id: c-05216
@@ -207,6 +224,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-78665
+
 - id: c-10250
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -228,7 +248,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-10251
@@ -243,7 +263,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-12233
@@ -266,7 +286,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-12234
@@ -292,7 +312,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-12235
@@ -313,7 +333,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-007
     - t-008
@@ -336,5 +356,42 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-192846
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 271"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 271."
+  citata_originali: |
+    Pėstieji daugiau kariavo rendėtais^1210 brūkliais, kokius gal dar regėti paskuojųjų laikų Lietuvos ūkės žymėj^1211. Artinantis neprieteliui, laidė
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192877
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 270"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 270."
+  citata_originali: |
+    kurio galvočium^1202 apvožęs savo galvą ir veidą, paskui susiveržė su šikšniniu diržu, ant kurio tiek
+        buvo vario grandžių arba sagčių antmautų, kiek buvo karėj neprietelių užmušęs; apsiavęs
+        vyženomis^1203 ar kojenomis^1204 , sieksninį kardą ar mietinį kalaviją pašonėj lunkų strikiu^1205 pajuosęs,
+        viena ranka turėdamos kestine^1206 ragotinę, taip vadinamą kartinį, ant kurio galo buvo landus ragas
+        antmautas, nuo ko ir vadinos ragotine, kaipogi gilioj senovėj geležies nežinojo, todėl kirviai,
+        bardišiai^1207 , kalavijai akmens ar uolos buvo; antroj rankoj turėjo turčią^1208 , arba skydą, kuria nuo
+        neprietelių siūčiu dangstės, buvo ji pailguotinai apvali, jau ištašyta, jau iš žilvičių nupinta. Pirma
+        pentinų nežinojo, bet, pradėję su vokiečių meldžionimis kariauti, įtiekė sau ir pentinus uolektinius,
+        kuriuos šiandien dar gal rasti tos gadynės karės kapuose. Ant galo seidoką ir vylyčių kurvį^1209 į pečius
+        įkabinęs, skraidė ant žirgo it paukštis neprietelių žvalgydamos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

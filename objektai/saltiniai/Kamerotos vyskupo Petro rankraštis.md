@@ -58,5 +58,5 @@ Narbutas teigia, kad Kamerotos vyskupo Petro rankraštis turi didelį ryšį su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

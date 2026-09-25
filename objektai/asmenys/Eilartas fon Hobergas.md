@@ -109,6 +109,6 @@ canonical_biography: "Žuvo Livonijos ordino magistras Ernestas fon Racburgas, d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

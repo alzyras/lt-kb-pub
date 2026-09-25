@@ -85,7 +85,7 @@ Po pergalės kryžiuočiai persikėlė per Nevėžį, sudegino Labūnavos pilį,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189248
@@ -101,5 +101,5 @@ Po pergalės kryžiuočiai persikėlė per Nevėžį, sudegino Labūnavos pilį,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

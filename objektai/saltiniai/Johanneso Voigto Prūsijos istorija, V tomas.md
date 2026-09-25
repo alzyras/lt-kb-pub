@@ -70,5 +70,5 @@ Dabartinis iš tiesų visiškai skiriasi nuo pirmesniojo, kurio klaidas stengėm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -79,7 +79,7 @@ Teodoro Narbuto aprašyme Glėbas, palaikydamas brolio pusę, savo svainiui atsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189580
@@ -101,5 +101,5 @@ Teodoro Narbuto aprašyme Glėbas, palaikydamas brolio pusę, savo svainiui atsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

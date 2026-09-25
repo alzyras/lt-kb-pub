@@ -60,5 +60,5 @@ Vėliau iš jų kilo 1 i d a i, sikelai, makedonai, tesalai ir daug kitų tautų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

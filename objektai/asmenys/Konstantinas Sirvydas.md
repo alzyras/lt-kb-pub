@@ -65,58 +65,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   pagrindžia:
     - c-75368
 
-<a id="claim-t-188567"></a>
-- t-002
-  teiginys: "Konstantinas Sirvydas savo žodyne Aitvarą vadino Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec."
-  atnaujinta: "2026-07-24 15:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Sirvydas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstantinas Sirvydas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Sirvydas: mention_match, author, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinas Sirvydas\" parinktas kaip owner_note_path. Targetas \"Sirvydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171456
-
-<a id="claim-t-188573"></a>
-- t-003
-  teiginys: "Narbutas nurodo, kad kunigas Konstantinas Sirvydas Aušrą vadino Aurora."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Aušra: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstantinas Sirvydas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aušra: mention_match, thing, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinas Sirvydas\" parinktas kaip owner_note_path. Targetas \"Aušra\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171462
-
-<a id="claim-t-197413"></a>
-- t-004
-  teiginys: "Konstantinas Sirvydas būtų kalbėjęs lietuviams, kurie senovės laikais šito iškilmingai laikydavosi ir iš dalies to laikėsi iki Laskovičiaus ir Lasickio laikų, tai yra iki XVI amžiaus."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179173
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Konstantinas Sirvydas savo žodyne Vilijos upę lotyniškai vadino Vilia, o lietuviškai Nerimi.'
@@ -157,7 +105,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171456
@@ -183,8 +131,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-171462
   autorius: "Teodoras Narbutas"
@@ -202,8 +148,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-179173
   autorius: "Teodoras Narbutas"
@@ -223,5 +167,23 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+
+- id: c-197768
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 346."
+  citata_originali: |
+    Namuose yra gyvulių prieauglio, džiaugsmo ir turto; te­
+    gul jaunimas netingi pratintis prie dievobaimingumo, tegul tris
+    kartus apeina pasėtus javus su palaiminta auka...“4 Iš to, ką
+    čia parašė romėnų poetas, atrodytų, tarytum jis būtų kalbėjęs
+    lietuviams, kurie senovės laikais šito iškilmingai laikydavosi ir
+    iš dalies to laikėsi iki Laskovičiaus ir Lasickio laikų, tai yra iki
+    XVI amžiaus.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

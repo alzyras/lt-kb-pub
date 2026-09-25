@@ -235,6 +235,18 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   pagrindžia:
     - c-189187
 
+<a id="claim-t-211645"></a>
+- t-211645
+  teiginys: "Ištraukė Į Lietuvos žemę21, nakvojo Rudaminoje, pusantros mylios nuo Vilniaus, ir, nepri ėję Trakų, pasuko į Senuosius Trakus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193551
+
 ## Citatos
 
 - id: c-105965
@@ -260,11 +272,12 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     privilegiją.
   citata_rodoma: "Rudaminos bažnyčią atidavė ko­\nlegijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios\nir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa\nkita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­\nniaus vyskupas Valerijonas Protasevičius, deramu išlaiky­\nmu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-\nterio nuo seno laikytas valdas: Helanokempis (Elniakampius),\nPutviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­\nstatyta, ir viską patvarkė pagal aukščiau minėtą karaliaus\nprivilegiją."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-007
     - t-008
@@ -291,7 +304,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -328,7 +341,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-105970
@@ -357,7 +370,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-105972
@@ -378,7 +391,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-105973
@@ -427,7 +440,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-189186
@@ -446,7 +459,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-189187
@@ -463,5 +476,23 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
+
+- id: c-193551
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 116."
+  citata_originali: |
+    Ištraukė Į Lietuvos žemę21, nakvojo
+    Rudaminoje, pusantros mylios nuo Vilniaus, ir, nepri­
+    ėję Trakų, pasuko į Senuosius Trakus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211645

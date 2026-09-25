@@ -77,5 +77,33 @@ Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199556
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 448"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 448."
+  citata_originali: |
+    Kuršiškai arba latviškai; iš Branto, imta iš Ksavero Bogu­
+    šo (ten pat):
+    Tews mus, kut tu esz in Debbes; szwentic tau Wards; innej-
+    kas muns tau walstib; tau spraats nottek in Debbes, ka wers an
+    žemes; mus sziodenisz majsid dotu mums szoden; pomettes mu­
+    su parradus, ka mes pamettam sau paradnekiam; ne wed mus
+    ekszan kaėdem, nan essi eri laune.
+    Kuršo Alsungos katalikų parapijos tarme; gauta iš tenykš­
+    čio klebono:
+    Tęs mus, kas Tu essi debbessis; swetits lajtop Taus wards; laj
+    nakas mums tawa walstiba taus prats lajnotek ka debes sys ta
+    aridzen wier žemes. Musu deniszku maj'že dad mums szodien;
+    un piedod mums musus paradus, ka mes piededam musien pa -
+    radnekiem, un niejewod mus eksz kardinaszenas bet atpesti mus
+    nota launa.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

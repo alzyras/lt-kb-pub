@@ -91,7 +91,7 @@ Be duonos ženklelio restorane duonos nebuvo galima gauti. Kada aš gryždamas a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192516
@@ -117,5 +117,5 @@ Be duonos ženklelio restorane duonos nebuvo galima gauti. Kada aš gryždamas a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

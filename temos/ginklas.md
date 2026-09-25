@@ -6,7 +6,7 @@ tema_kategorija: "daiktai"
 tema_kategorijos_pavadinimas: "Daiktai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 123
+tema_objektu_skaicius: 124
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 123.
+Objektų skaičius: 124.
 
 ## Kaip naudoti
 
@@ -146,6 +146,9 @@ Objektų skaičius: 123.
 - [Šobliai](../objektai/daiktai/%C5%A0obliai)
 - [Šv. Barboros relikvijos](../objektai/daiktai/%C5%A0v.%20Barboros%20relikvijos)
 - [Žasto, dilbio, kelio ir blauzdos apsaugos](../objektai/daiktai/%C5%BDasto%2C%20dilbio%2C%20kelio%20ir%20blauzdos%20apsaugos)
+
+### Grupės
+- [Lietuvos laisvės armija](../objektai/grupes/Lietuvos%20laisv%C4%97s%20armija)
 
 ### Posakiai
 - [Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis](../objektai/posakiai/J%C5%ABs%C5%B3%20dievai%20nori%2C%20kad%20be%20ginkl%C5%B3%2C%20be%20kalavij%C5%B3%20ir%20kit%C5%B3%20gynimosi%20priemoni%C5%B3%20kariautum%C4%97te%20su%20krik%C5%A1%C4%8Dionimis)

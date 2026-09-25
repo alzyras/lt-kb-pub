@@ -71,5 +71,5 @@ Narbutas pasakoja, kad kryžiuočiai beveik visus Sūduvos gyventojus iškapojo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

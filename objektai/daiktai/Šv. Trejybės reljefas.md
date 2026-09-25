@@ -78,9 +78,10 @@ Nenurodyta
     greičiau tik tam, kad kauptų į save, kaip į kokį židinį, pačius intensingiau-
     sius šviesų ir šešėlių žaismo atšvaitus.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

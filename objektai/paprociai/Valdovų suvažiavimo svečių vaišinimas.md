@@ -43,20 +43,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-194078"></a>
-- t-001
-  teiginys: "M Gėrimų ir valgių kiekiai, kuriuos Vytautas suvaišino Lucke savo svečiams, Lietuvos metraščiuose vis didinami: pagal TS išgerta 300 statinių midaus, pagal PS — jau 500 statinių, o BK — net 700 statinių."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176691
-
 ## Citatos
 
 - id: c-176691
@@ -78,5 +64,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

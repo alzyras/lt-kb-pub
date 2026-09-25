@@ -80,5 +80,5 @@ Iš visų trijų Baltijos valstybių L I E T U V O S I S T O R I J A 210 pasipri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

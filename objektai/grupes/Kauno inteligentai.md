@@ -55,5 +55,5 @@ Kauno inteligentai įsitikino, kad delegatai atvyko iš Amerikos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

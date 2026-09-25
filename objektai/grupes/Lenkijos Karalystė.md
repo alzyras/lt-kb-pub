@@ -136,6 +136,30 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   pagrindžia:
     - c-178903
 
+<a id="claim-t-207743"></a>
+- t-207743
+  teiginys: "Lietuvos Didžiosios Kunigaikštystės ir Lenkijos Karalystės unija apibūdinama kaip vienas iš lūžinių valstybės politinio gyvenimo momentų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190533
+
+<a id="claim-t-211691"></a>
+- t-211691
+  teiginys: "Sumanė jie tame Parčevo seime lietuvių didikus išpiauti, o Lietuvos kuni gaikštystę grobtinai prijungti prie Lenkijos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194174
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir Krokuvos karalystė 5 jį paėmė, tada aš vėl pareiškiau savo tikėjimą.'
@@ -195,7 +219,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176336
@@ -221,7 +245,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176337
@@ -241,7 +265,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176477
@@ -264,7 +288,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-176478
@@ -291,7 +315,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-176479
@@ -311,7 +335,7 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-178903
@@ -339,5 +363,122 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-190533
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 24"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 24."
+  citata_originali: |
+    T
+    e
+    o
+    r
+    i
+    n
+    i
+    a
+    i
+    p
+    r
+    o
+    b
+    l
+    e
+    m
+    o
+    s
+    m
+    e
+    t
+    m
+    e
+    n
+    y
+    s
+    ieškoti atsakymo. Ir tai nenuostabu. Juk Lietuvos Didžiosios Kunigaikštystės ir Lenki-
+    jos Karalystės unija bei kiti lūžiniai valstybės politinio gyvenimo momentai nebuvo
+    pirmos svarbos dalykai, lėmę XVI a. visuomenėje vykusius kultūros procesus, pvz.,
+    darę įtaką literatūros žanrams.
+  citata_rodoma: "Lietuvos Didžiosios Kunigaikštystės ir Lenki-\njos Karalystės unija bei kiti lūžiniai valstybės politinio gyvenimo momentai nebuvo\npirmos svarbos dalykai, lėmę XVI a. visuomenėje vykusius kultūros procesus, pvz.,\ndarę įtaką literatūros žanrams."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207743
+
+- id: c-192968
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 183"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 183."
+  citata_originali: |
+    Svarbiausiais atvejais, kiek leido vieta, teksto paaiškinimuose
+    nurodoma, kaip Bychovco kronikos žinios santykiauja su kitais
+    Lietuvos metraščių sąvadais bei su J. Dlugošo ir M. Miechovitos
+    Lenkijos istorijomis — yra iš jų nurašytos, perdirbtos ar origina­
+    lios. Plačiau paaiškinami taip pat tie istoriniai įvykiai, apie ku­
+    riuos Bychovco kronikoje pasakojama klaidingai arba iškreiptai.
+    Kadangi paaiškinimuose,
+    taupant vielą,
+    ne
+    visur
+    nurodomi
+    panaudoti šaltiniai, pabaigoje pridedamas atskiras literatūros są­
+    rašas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193436
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 265."
+  citata_originali: |
+    LDK metraščių TS ir PS nuorašuose yra atskiras pasako|imas
+    apie Podolės patekimą Lenkijos valdžion, Vytautui mirus, bet BK
+    autorius jo j savo tekstą nebojtrauke, jo vieton
+    patelkdamas savo
+    originalią literatūrine konflikto dėl Podolės versiją. (Pagal Lenki­
+    jos feodalų pozicijas š) konfliktą plačiau ap-ašė J. Dlugošas). Čia
+    dėstomas Jogailos Ir Švitrigailos dialogas Podolės klausimu turėjo
+    būti Vytauto mirties ir laidojimo metu. ne vėliau kaip 1430X1.7,
+    o ne praėjus dvejiems metams |io Vytauto mirties.
+    s Kad Jogaila tikrai buvo sulaikytas Lietuvoje, netiesiogiai liu­
+    dija paliaubų sutartis tarp Jogailos ir Švitrigailos, sudaryta Tra­
+    kuose 1430.XI.7, kuria Jogaila pasižadėjo įsakyti savo pareigū­
+    nams sugrąžinti užimtąsias Podolės pilis Lietuvos Didžiajai Kuni­
+    gaikštystei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194174
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 134"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 134."
+  citata_originali: |
+    Sumanė jie tame Par-
+    čevo seime lietuvių didikus išpiauti, o Lietuvos kuni­
+    gaikštystę grobtinai prijungti prie Lenkijos
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211691

@@ -55,6 +55,18 @@ Anot Maksimilijono Osolinskio, germanų giminėje jūros pakrančių gyventojai 
   pagrindžia:
     - c-174512
 
+<a id="claim-t-214879"></a>
+- t-214879
+  teiginys: "Anot Maksimiliano Osolinskio7, ger manų giminėje jūros pakrančių gyventojai buvo vadina mi Ingemony."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196348
+
 ## Citatos
 
 - id: c-174512
@@ -79,5 +91,30 @@ Anot Maksimilijono Osolinskio, germanų giminėje jūros pakrančių gyventojai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196348
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
+  citata_originali: |
+    Pasvarsčius nepernelyg didelį Plinijaus geografinių
+    aprašymų tikslumą, šiuose trijuose pavadinimuose gali­
+    ma lengvai įžvelgti lyvių protėvius, priklausiusius keltų-
+    gerrnanų tautoms. Anot Maksimiliano Osolinskio7, ger­
+    manų giminėje jūros pakrančių gyventojai buvo vadina­
+    mi Ingemony. Tai maždaug turėtų reikšti pamarėnus;
+    Itewony buvo vadinami sausumos gilumoje esančių lygu­
+    mų gyventojai, be to, ir minėti pavadinimai, ir livonai pri­
+    klauso
+    germanų-keltų
+    giminėms.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214879

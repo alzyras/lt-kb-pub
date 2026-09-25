@@ -60,6 +60,18 @@ historical_names: []
   pagrindžia:
     - c-43789
 
+<a id="claim-t-208590"></a>
+- t-208590
+  teiginys: "Pušaloto altarista 1854 m. kreipėsi į vysk. M. Valančių dėl paskyrimo į Kenstaičius arba kitą vienuolyną."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191210
+
 ## Citatos
 
 - id: c-43789
@@ -80,5 +92,27 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-191210
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 77"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 77."
+  citata_originali: |
+    Tuos kunigus, kurie neturė­
+    jo sąlygų gyventi parapijose, ganytojas nusiųsdavo į vie­
+    nuolynus arba Kenstaičių kunigų invalidų namus. Tai
+    liudija Pušaloto altaristos 1854.X.21 prašymas, kuriuo jis
+    kreipėsi į vysk. M. Valančių, kad jį skirtų į Kenstaičius
+    arba į kurį nors kitą vienuolyną n.
+  citata_rodoma: "Tai \nliudija Pušaloto altaristos 1854.X.21 prašymas, kuriuo jis \nkreipėsi į vysk. M. Valančių, kad jį skirtų į Kenstaičius \narba į kurį nors kitą vienuolyną n."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208590

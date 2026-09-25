@@ -49,6 +49,18 @@ Gvebrus Narbutas apibūdino kaip Zoroastro mokymo išpažinėjus, ugnyje įžiū
   pagrindžia:
     - c-172405
 
+<a id="claim-t-217168"></a>
+- t-217168
+  teiginys: "Gvebrai ugnyje įžiūri Dievą arba pasaulio visatos sielą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198366
+
 ## Citatos
 
 - id: c-172405
@@ -68,5 +80,25 @@ Gvebrus Narbutas apibūdino kaip Zoroastro mokymo išpažinėjus, ugnyje įžiū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198366
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
+  citata_originali: |
+    Šventoji ugnis
+    Chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti kaip
+    dievybę garbino ugnį. Gvebrai, ligi šiol išpažįstantys Zoroast-
+    ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
+    bet nemoka tos esybės pavadinti vardu.
+    Šito senųjų religijų paklydimo pradžią lengva nustatyti.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217168

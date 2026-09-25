@@ -196,7 +196,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174425
@@ -230,7 +230,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -255,7 +255,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-006
 
@@ -274,5 +274,5 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

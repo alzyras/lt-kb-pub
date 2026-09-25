@@ -82,5 +82,5 @@ XVI a. bajorų tarpe ypač populiarus buvo bigosas – troškintų kopūstų ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

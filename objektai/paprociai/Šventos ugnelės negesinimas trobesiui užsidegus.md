@@ -84,5 +84,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192885
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 174"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 174."
+  citata_originali: |
+    raštininkas, gyvenęs galan septynioliktojo amžiaus, sako, jog, jam gyvojant, lietuviai, trobesiui užsidegus,
+        nenorėję gesyti, tardami, jog ugnelė gesoma pykstanti. Šiandien Žalgirėnuose apie Pinską taip
+        pat niekaip negesantys žmonės trobesio degančio, idant ugnelės pikčiau nesužyžintų^806 , ir
+        apstoję kūrenantys trobesį it laužą. Kam norint sudegus, senu įpročiu sako: „Tą ugnelė šventa
+        aplankė.“ Perkūnijos ugnį daug stigavoja iki šiai dienai, jog ožkos pienu tegalį užgesyti, kas niekų
+        kalba yra, nesgi ir pačiu vandeniu gal užgesyti, jei ano gausiai pasitinka.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -69,5 +69,5 @@ canonical_biography: "Štai 1561 m. Kauno vaitas Motiejus Heinas skundė prekij�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

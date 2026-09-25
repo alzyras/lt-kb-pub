@@ -96,6 +96,54 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   pagrindžia:
     - c-175188
 
+<a id="claim-t-212931"></a>
+- t-212931
+  teiginys: "Narbutas teigia, kad senovės germanai buvo giminiavęsi su kimbrais nuo jų persikėlimo į Vakarų Europą laikų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194938
+
+<a id="claim-t-214614"></a>
+- t-214614
+  teiginys: "Narbutas išsakė savo nuostatą naujausių vokiečių is torikų skelbtos germaniškosios teorijos atžvilgiu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195394
+
+<a id="claim-t-218270"></a>
+- t-218270
+  teiginys: "Narbutas atmeta Čackio nuomonę, kad lietuviai laiką skaičiavo germanų pavyzdžiu naktimis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198111
+
+<a id="claim-t-218653"></a>
+- t-218653
+  teiginys: "Herulus, iškeliavusius iš tėvų žemės su gotais, ištiko permainingas likimas, būdingas karingoms vidurinių amžių tautoms: išsklaidyti, sumušti jie su grįžo į savo šalį arba apsigyveno už Oderio, pagaliau išnyko tenai tarp germanų; išliko tik atminimas apie jų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197964
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas aiškina, kad prekybos kelias per germanų žemes galėjo veikti dėl svetingumo papročių arba tam tikrų susitarimų.'
@@ -136,7 +184,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175187
@@ -162,7 +210,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175188
@@ -187,5 +235,105 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194510
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 191"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
+  citata_originali: |
+    195
+    Čia neaiškinsime priežasčių, kodėl mes nepripažįstame
+    lietuvių kildinimo iš gotų ar keltų, nes apie tai vėliau dar
+    pakalbėsime. Taip pat nedera steigtis neigti naujas, gana
+    neišlaikytas nuomones, pasak kurių lietuvių tauta esanti
+    daugelio tautų, ypač germanų kilmės, lydinys, kuris su­
+    sidarė maždaug IV ar V amžiuje Vyslos žemupyje ir buvo
+    vadinamas vidivariais, vidais ar dar kitais vardais. Jau
+    vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo­
+    1
+    Tradunt veteres, majores Samogitarum Italos fuisse.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194938
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
+  citata_originali: |
+    Taip pat nebūtina įrodinėti, jog senovės germanai3 jei
+    ir netiesiogiai kilę, tai giminiavosi su kimbrais nuo jų
+    persikėlimo į Vakarų Europą laikų4; tai, be laibejo1, įvyko
+    netrukus po 650 metų prieš Kristaus gimimą, kai kimbrų
+    grobuoniški antpuoliai Rytuose ėmė slopti5.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212931
+
+- id: c-195394
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 5."
+  citata_originali: |
+    Daug kategoriškiau
+    T. Narbutas išsakė savo nuostatą naujausių vokiečių is­
+    torikų skelbtos germaniškosios teorijos atžvilgiu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214614
+
+- id: c-197964
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 444"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 444."
+  citata_originali: |
+    Herulus, iškeliavusius
+    iš tėvų žemės su gotais, ištiko permainingas likimas, būdingas
+    karingoms vidurinių amžių tautoms: išsklaidyti, sumušti jie su­
+    grįžo į savo šalį arba apsigyveno už Oderio, pagaliau išnyko
+    tenai tarp germanų; išliko tik atminimas apie jų kalbą, labai
+    sudarkytą svetimybių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218653
+
+- id: c-198111
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
+  citata_originali: |
+    Klaidinga Čackio nuomonė1, esą lietuviai germanų pavyz­
+    džiu skaičiavę laiką ne dienomis, o naktimis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218270

@@ -89,7 +89,7 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167115
@@ -108,5 +108,5 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

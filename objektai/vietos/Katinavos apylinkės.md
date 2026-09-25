@@ -103,7 +103,7 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59203
@@ -127,5 +127,28 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-204319
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
+  citata_originali: |
+    Pisos upės deš. intakas Golba prie Narpiškių kaimo buvęs šventas (Pratorius M.,
+    Deliciae..., kn. 4, sk. 3, § VII, r. 1. (VVU) 157; r. p. (MA) 279; š. p. 575; [Hennenberger
+    C.] Der See..., p. 11; Henenbergerio, Ortelijaus 1595 m. žemėlapis— Jäger E., Prussia-
+    Karten, pav. 217). Į šiaurę nuo Gumbinės, tarp dviejų dešiniųjų Narpos intakų, buvę
+    Perkūnlaukiai (Sch-K. XII). Netoli Gumbinės buvęs šventasis akmuo (Pratorius M.,
+    Deliciae..., kn. 4, p. 21—22 (1871); r. p. 55). Stalupėnų apylinkėse — Šventiškės upė
+    ir Šventiškių kaimas (LUEV, p. 223), Šventakiemis prie Katinavos (1915 m. žemėlapis).
+    Katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn. 4, sk. 3, § 2,
+    r. 1. (VVU) 156; r. p. (MA) 276; š. p. 571). Prie Katinavos — upelis Romone ir vietovardis
+    Romanuppen (Sch-K VII). Taigi Katinavos apylinkės — ryškus pagoniško kulto židinys.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

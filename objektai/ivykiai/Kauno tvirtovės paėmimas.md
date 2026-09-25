@@ -69,5 +69,5 @@ Visų akys pradėjo žibėti iš žingeidumo pamatyti gar singų Kauno tvirtovę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

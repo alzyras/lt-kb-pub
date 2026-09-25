@@ -149,7 +149,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185033
@@ -166,7 +166,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185034
@@ -186,7 +186,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-185035
@@ -203,7 +203,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-185036
@@ -221,7 +221,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-185037
@@ -237,7 +237,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-185038
@@ -255,5 +255,5 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007

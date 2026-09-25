@@ -89,6 +89,6 @@ Vilnius Jono Kazimiero Vilčinskio leidiniuose: paroda 1999 01 01–1999 04 19.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

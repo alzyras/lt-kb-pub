@@ -154,7 +154,7 @@ canonical_biography: 'Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-191471
@@ -173,7 +173,7 @@ canonical_biography: 'Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-191473
@@ -195,7 +195,7 @@ canonical_biography: 'Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-191474
@@ -223,7 +223,7 @@ canonical_biography: 'Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-191475
@@ -244,7 +244,7 @@ canonical_biography: 'Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-191476
@@ -270,5 +270,5 @@ canonical_biography: 'Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

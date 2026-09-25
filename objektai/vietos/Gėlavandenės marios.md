@@ -64,5 +64,5 @@ Gėlavandenių marių pakrantėje stovėjo pilis beveik prieš Brandenburgo pil�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

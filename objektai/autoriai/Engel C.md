@@ -69,5 +69,23 @@ Dusburgietis teigia, kad greičiausiai čia ir buvo centrinė Kresmenos (Skomant
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203317
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
+  citata_originali: |
+    502 D. — habitacionem [...] redegit in favillam. Skomanto ežero pietinėje pakrantėje
+    buvo žinomas piliakalnis, vadintas Skomanto pilimi — Skomantburg,  į šiaurės rytus
+    nuo piliakalnio — kalnas Skomentberg. Greičiausiai čia  ir buvo centrinė Kresmenos
+    (Skomanto) pilis (Engel C., Zwei spätheidnische Silberfunde..., p. 69, 76; Kamiński A.,
+    Jaćwież, p. 102; MGP, p. 55 Nr. 17, 16).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

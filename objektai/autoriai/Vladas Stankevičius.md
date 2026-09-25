@@ -75,5 +75,5 @@ canonical_biography: "1925 m. Vladas Stankevičius išleido Kauno Vytauto Didži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

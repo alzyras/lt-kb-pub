@@ -38,14 +38,14 @@ Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
 
-<a id="claim-t-70051"></a>
-- t-001
-  teiginys: "Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti."
-  atnaujinta: "2026-07-19 16:33"
+<a id="claim-t-210234"></a>
+- t-210234
+  teiginys: "`Stigavoja` čia reiškia „rodo“ arba „patvirtina“."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-09745
+    - c-192578
 
 ## Citatos
 
@@ -62,6 +62,7 @@ Papildomos aiškios formos neišskirtos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-09744
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -75,6 +76,7 @@ Papildomos aiškios formos neišskirtos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-09745
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -100,5 +102,33 @@ Papildomos aiškios formos neišskirtos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-192578
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 32"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 32."
+  citata_originali: |
+    Tokią būseną^21 jūros tame krašte, viena, stigavoja^22 daugybė jūrinių varlakaušių^23 , į akmenį pavirtusių, visur randamų, beje, ant kalvų, per 300 kurpių^24 aukštesnių už jūros paviršių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210234
+
+- id: c-192914
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 33"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 33."
+  citata_originali: |
+    šiandien jau nebrasi, ką pačios pasakos, tarp žmonių tebesančios, stigavoja, kaipogi tebepasakoja: ten ežeras užrukęs, kitur po žeme palindęs, kitur nuo vienos vietos persikėlęs į kitą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

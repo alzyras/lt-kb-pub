@@ -55,18 +55,6 @@ F. Noelis manė, kad Kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje
   pagrindžia:
     - c-172963
 
-<a id="claim-t-197393"></a>
-- t-002
-  teiginys: "F. Noelis yra pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Plutonas - požemį, arba egzistavimą po mirties."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179163
-
 ## Citatos
 
 - id: c-172963
@@ -87,7 +75,7 @@ F. Noelis manė, kad Kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179163
@@ -113,5 +101,28 @@ F. Noelis manė, kad Kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-198689
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
+  citata_originali: |
+    Tačiau lygindami tuos padavimus vieną
+    su kitu ir aiškindamiesi tų dievybių prigimtį, Mnelea, o vėliau
+    Rolandas, labiausiai priartėdami prie tiesos, sutaria, kad Ka­
+    tarai - trys pragaro, arba mirusiųjų, dievai, kadangi Prozerpi­
+    na simbolizuoja žemę, priimančią į savo įsčias visa, kas mirė,
+    ir atiduodančią, arba gimdančią, iš tų pačių įsčių, dėl to ji yra
+    pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito
+    gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
+    nas - požemį, arba egzistavimą po mirties. Tai iš tikrųjų ir yra
+    graikų mitologijos Trejybė.
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

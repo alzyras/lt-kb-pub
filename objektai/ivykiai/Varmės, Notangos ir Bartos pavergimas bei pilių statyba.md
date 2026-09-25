@@ -92,7 +92,7 @@ Varmės, Notangos ir Bartos prūsai buvo priversti paklusti, duoti įkaitų ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-206049
@@ -110,5 +110,5 @@ Varmės, Notangos ir Bartos prūsai buvo priversti paklusti, duoti įkaitų ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

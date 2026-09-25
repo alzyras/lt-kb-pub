@@ -83,5 +83,23 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204379
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
+  citata_originali: |
+    247 D.— pontem paludis juxta stratam, Jer.— brucke; D. III, 24 — per pontem. Čia
+    minimas prie Baigos per vandenis, pelkę ėjęs grįstas kelias, greičiausiai panašus į garsias
+    žemaičių kūlgrindas (Kšivickis L., Žemaičių..., p. 60—72). Įtvirtintas malūnas greičiausiai
+    stovėjęs prie upelio, kur vėliau — Hoppenbruch kaimas (Ewald A., Die Eroberung.., 2, p.
+    35), apie 4 km į pietryčius nuo Baigos, kur upelį kerta vėlesnis geležinkelis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

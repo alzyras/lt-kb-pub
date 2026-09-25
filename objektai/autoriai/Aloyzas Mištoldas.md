@@ -92,5 +92,5 @@ Ypač šiuo atžvilgiu mūsų dėmesį patraukia ir verčia pasikliauti savo nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

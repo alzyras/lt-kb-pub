@@ -81,6 +81,32 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   pagrindžia:
     - c-163225
 
+<a id="claim-t-207799"></a>
+- t-207799
+  teiginys: "M. Jučas feodalizmo pradžios klausimą laiko labiausiai ginčytinu Lietuvos istorijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-07-19T10:07:01Z"
+  pagrindžia:
+    - c-190405
+
+<a id="claim-t-225935"></a>
+- t-225935
+  teiginys: "Mečislovo Jučo tyrinėjimuose pateikiama duomenų apie Kupiškio parapiją."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  vertinimo_atnaujinta: "2026-09-24T01:40:43Z"
+  pagrindžia:
+    - c-206451
+
 ## Citatos
 
 - id: c-22159
@@ -96,7 +122,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-163225
@@ -119,5 +145,38 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190405
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 40"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 40."
+  citata_originali: |
+    Lietuvos Didžiosios Kunigaikštystės istorijos tyrėjas M. Jučas, atrodytų, norėda-
+    mas pratęsti teorinius feodalizmo sampratos svarstymus, rašė, kad feodalizmo pradžios
+    klausimas - labiausiai ginčytinas Lietuvos istorijoje; klausė, ar XIV a. istorijos šaltiniai
+    rodo buvus Lietuvoje vasalų.
+    20 Tačiau, taip intriguojamai suformulavęs problemos esmę,
+  citata_rodoma: "Lietuvos Didžiosios Kunigaikštystės istorijos tyrėjas M. Jučas, atrodytų, norėda-\nmas pratęsti teorinius feodalizmo sampratos svarstymus, rašė, kad feodalizmo pradžios\nklausimas - labiausiai ginčytinas Lietuvos istorijoje; klausė, ar XIV a. istorijos šaltiniai\nrodo buvus Lietuvoje vasalų."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207799
+
+- id: c-206451
+  autorius: "unknown"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto sakralinių pastatų ir parapijos trobesių architektūra"
+  puslapiai: "p. 363 (PDF 364)"
+  indeksas: "unknown, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto sakralinių pastatų ir parapijos trobesių architektūra, p. 363 (PDF 364)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225935

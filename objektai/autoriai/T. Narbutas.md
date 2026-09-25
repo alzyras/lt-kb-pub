@@ -391,6 +391,90 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   pagrindžia:
     - c-188854
 
+<a id="claim-t-213613"></a>
+- t-213613
+  teiginys: "Narbutas visą dėmesį sukoncent ravo į lenkiškojo teksto pataisas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196679
+
+<a id="claim-t-214140"></a>
+- t-214140
+  teiginys: "Teodoras Narbutas nuo maždaug 1825–1827 metų tvarkė sukauptą istorinę medžiagą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197230
+
+<a id="claim-t-214787"></a>
+- t-214787
+  teiginys: "Narbutas papildė paragrafą, rengdamas antrąjį LTI leidimą (PEĮ."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196460
+
+<a id="claim-t-214891"></a>
+- t-214891
+  teiginys: "Teodoras Narbutas buvo vienas iš Horacijaus kūrybos žinovų ir vienas pirmųjų Horacijaus vertėjų į lenkų kalbą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196418
+
+<a id="claim-t-215506"></a>
+- t-215506
+  teiginys: "Teodoras Narbutas kaip Lietuvos senienų tyrinėtojas spaudoje buvo žinomas nuo 1818 metų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194469
+
+<a id="claim-t-215908"></a>
+- t-215908
+  teiginys: "Narbutas laiške Ignui Onacevičiui rašė: „Antrą to mą paskyriau lietuvių tautos versmėms tyrinėti“1."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194965
+
+<a id="claim-t-220159"></a>
+- t-220159
+  teiginys: "T. Narbutas šaltinyje įvardijamas kaip rašytojas ir Lietuvos senienų tyrinėtojas, kurio vardas spaudoje buvo žinomas nuo 1818 metų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198972
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Trečiojo dešimtmečio pabaigoje T. Narbutas jau buvo sukaupęs šaltinių seniausiai Lietuvos istorijai rekonstruoti.'
@@ -533,7 +617,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171368
@@ -552,7 +636,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171369
@@ -572,7 +656,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-171371
@@ -592,7 +676,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171372
@@ -612,7 +696,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-171373
@@ -631,7 +715,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173690
@@ -659,7 +743,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-173692
@@ -678,7 +762,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-173693
@@ -698,7 +782,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-174789
@@ -724,7 +808,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-176264
@@ -744,7 +828,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-176507
@@ -766,7 +850,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-176810
@@ -787,7 +871,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-176811
@@ -810,7 +894,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-179140
@@ -833,7 +917,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-179141
@@ -858,7 +942,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-179280
@@ -879,7 +963,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-179281
@@ -901,7 +985,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-179282
@@ -924,7 +1008,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-187946
@@ -951,7 +1035,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-188853
@@ -973,7 +1057,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-188854
@@ -993,5 +1077,351 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
+
+- id: c-194469
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 443"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 443."
+  citata_originali: |
+    Likimas susiklostė taip, jog tuo rašytoju, tuo „civiliu
+    piliečiu“ tapo T. Narbutas, kurio, kaip Lietuvos senienų
+    tyrinėtojo, vardas spaudoje jau buvo žinomas nuo 1818
+    metų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215506
+
+- id: c-194965
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 4."
+  citata_originali: |
+    T. Narbutas laiške Ignui Onacevičiui rašė: „Antrą to­
+    mą paskyriau lietuvių tautos versmėms tyrinėti“1. Savo
+    tikslą sukonkretino taip: „Šių raštų pirmą tomą skyrėme
+    tam, kad atskleistume brangius lietuvio širdžiai mitolo­
+    ginius paminklus, iš kurių trykšta istorijos šaltiniai, o
+    šiame tome dėstysime pačią istoriją“, t. y. „ieškosime
+    vardo ir šlovės tos tautos, kuri davė mums pradžią“2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215908
+
+- id: c-195225
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 453."
+  citata_originali: |
+    Vadinasi, su­
+    manymas siekia daug ankstesnius laikus nei „Lietuvių mi­
+    tologija“ buvo įvertinta sostinėje Peterburge. Jo Dideny­
+    bės Imperatoriaus dovaną, briliantinį žiedą, istorikas ga­
+    vo 1839 metais. Sis faktas galėjo tik atgaivinti seną viltį-
+    išleisti rusiškąjį variantą. Kaip galima spręsti iš moksli­
+    nės T. Narbuto korespondencijos, istorikas daugelį metų
+    ieškojo galimybės išspausdinti šio tomo vertimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195320
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
+  citata_originali: |
+    Kortos, romanai, garderobai — tokios yra jų dory­
+    bės. Vyrauja tuščias pasididžiavimas senoliais, o protėvių
+    istorijai paprasčiausiai atsuko nugarą. Per 400 metų nė
+    vienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir
+    Teodorą Narbutą, nepasirūpino krašto praeitimi. Iki šio­
+    lei apie Abisiniją, arabus, mongolus ir samojedus daugiau
+    darbų parašyta nei apie Lietuvą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196418
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 501"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 501."
+  citata_originali: |
+    T. Narbutas buvo vienas iš didžiausių Horacijaus kūrybos žinovų
+    ir vienas pirmųjų jo vertėjų j lenkų kalbą. 1835 metais, t. y. tais
+    pačiais, kai pasirodė ir pirmas LTI tomas, Vilniuje atskira knygele
+    buvo išspausdintos istoriko išverstos Horacijaus odės, prieš tai
+    skelbtos Vilniaus periodikoje (Horacego ody wszystkie. Wierszem
+    polskim przeložone , przez Teodora Narbutta. , Tom I—II. Wilno.
+    W
+    Drukarni
+    B.
+    Neumana.
+    1835).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214891
+
+- id: c-196460
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 470"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 470."
+  citata_originali: |
+    Tekstas, kuriuo T. Narbutas papildė paragrafą, rengdamas
+    antrąjį LTI leidimą (PEĮ. — L. 55).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214787
+
+- id: c-196679
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 455."
+  citata_originali: |
+    Nepavykus realizuoti rusiškosios „Lietuvių mitologi­
+    jos“ išleidimo idėjų, T. Narbutas visą dėmesį sukoncent­
+    ravo į lenkiškojo teksto pataisas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213613
+
+- id: c-197012
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
+  citata_originali: |
+    44 /Ten pat,
+    (28)
+    išnaša/
+    Swięcki T. Opis starožytnej Polski. Warszawa, 1828. Būtent šis
+    veikalo ledimas buvo T. Narbuto bibliotekoje (ĮNarbutt T.] Spi­
+    sanie Muzeum w Szawrach. L. 14. Nr. 146—147).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197230
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 441"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 441."
+  citata_originali: |
+    Tame pačiame laiške I. Ona­
+    cevičiui istorikas prisipažino, jog šią medžiagą jis ėmė
+    tvarkyti maždaug prieš dešimtį metų, t. y. apie 1825—
+    1827 metus. Vadinasi, trečiojo dešimtmečio pabaigoje
+    T. Narbutas jau turėjo sukaupęs pakankamą kiekį šalti­
+    nių, kuriais remdamasis galėjo ryžtis rekonstruoti seniau­
+    sią Lietuvos istoriją
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214140
+
+- id: c-197306
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 455."
+  citata_originali: |
+    Beje, to meto laiškuose istorikas
+    vis dažniau akcentavo, jog LTI — tai tik bazė, tik pagrin­
+    das ateities tyrinėtojams; taigi ne tik galimas, bet ir bū­
+    tinas jos koregavimas. Antra vertus, nematydamas istori­
+    ko, kuris galėtų artimiausiu metu imtis tokio gigantiško
+    darbo, pradėjo brandinti mintį išleisti antrąjį, pakartoti­
+    nį LTI leidimą. Taip T. Narbuto darbiniame LTI egzemp­
+    lioriuje, visose devyniose dalyse, atsirado daugybė pa­
+    taisų, įklijų — visa tai ir turėjo papildyti antrąjį leidimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198901
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
+  citata_originali: |
+    T. Narbuto darbštumas ir interesų įvairovė stebina šiuo­
+    laikinį žmogų. 1830 m. jis išleido „Čigonų liaudies istorijos
+    bruožus“. Po kelerių metų knygynuose pasirodė Horacijaus ir
+    Ž. B. Ruso kūrybos vertimai5 ir dar 1826 m. Vilniaus universi­
+    teto konkursui pateiktas darbas apie linų ir kanapių augini­
+    mą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198972
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 51."
+  citata_originali: |
+    Likimas susiklostė taip, kad tuo rašytoju, tuo „civiliu pilie­
+    čiu“ tapo T. Narbutas, kurio, kaip Lietuvos senienų tyrinėto­
+    jo, vardas spaudoje jau buvo žinomas nuo 1818 metų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220159
+
+- id: c-199358
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 74."
+  citata_originali: |
+    Pratarmė (o ji buvo tikra istoriko
+    požiūrio į praeities tyrinėjimus deklaracija, jo aspiracijų išraiš­
+    ka) buvo pakoreguota tik įrašant vieną nedidelę papildomą
+    pataisą, tuo tarpu pats knygos tekstas mirgėjo nuo korektyvų.
+    I .aikui bėgant ir blėstant vilčiai, kad kada nors pasirodys ant­
+    rasis leidimas, parankinis egzempliorius buvo pildomas labiau
+    sau; galbūt todėl jis buvo „nuoširdesnis“, be to, galima įžvelgti
+    mažiau kompromisų. „Naujoji mitologija“ - tai naujas mėgi­
+    nimas prabilti, bet jau laikantis laiko dvasios reikalavimų.
+    S. Daukantui apie šį naują savo darbą jis neparašė, nors jam
+    paprastai entuziastingai išsakydavo visus savo planus.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:04"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199590
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 34"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 34."
+  citata_originali: |
+    Panašiai T. Narbutas elgiasi ir su daugeliu kitų senųjų ra­
+    šytinių šaltinių - praplečia jų informaciją, sukonkretina, per­
+    teikia ne tik tai, kas juose pasakyta, bet ir tai, kas, jo manymu,
+    galėjo būti pasakyta. Tikriausiai jis žinojo, kad nedera šitaip
+    elgtis su pirminiais šaltiniais, ir, per toli nukrypęs nuo jų, teisi­
+    nasi, kad remiasi „ir kitais kronikininkais“, „žmonių padavi­
+    mais“, „rankraščiais“. Tačiau vargu ar tai buvo sąmoninga fal­
+    sifikacija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199681
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
+  citata_originali: |
+    T. Narbutas, kaip ir daugelis to meto žmonių, bodėjosi vie-
+    nakryptės veiklos. Jis daug vertė, rašė eilėraščius, domėjosi
+    socialinėmis idėjomis ir dvaro ūkio reikalais. Dažnai vykdavo
+    į archeologinius kasinėjimus, rinko ir užrašinėjo tautosaką. Vi­
+    suomenės akyse jis tapo LTI autoriumi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200424
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 63"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 63."
+  citata_originali: |
+    Tituliniame lape rusų kalba parašyta: „Lietuvių mitolo­
+    gija. Iš lenkų kalbos išvertė pats autorius“. Deja, pastaruoju
+    faktu tenka suabejoti. Savo korespondencijoje T. Narbutas ne
+    vieną kartą minėjo kažkokį Lydos mokytoją (pavardės nenu­
+    rodė), kuris LTI vertė į rusų kalbą. Istorikas vertėjo darbu bu­
+    vo labai nepatenkintas, tikriausiai ne vieną kartą taisė tekstą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200476
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 74."
+  citata_originali: |
+    Jiems bendra tik tai, jog abiejų pa­
+    grindą sudarė 1835 metų tekstas, bet savaip papildytas ir pa­
+    koreguotas. „Naujojoje mitologijoje“ buvo iš esmės pakeista
+    pirmo LTI tomo struktūra, perrašyta pratarmė, o apie patai­
+    sas pačiame tekste neverta ir kalbėti. Tuo tarpu, rengdamas
+    antrąjį pirmo tomo leidimą, T. Narbutas ne tik išlaikė nepaki­
+    tusią struktūrą, bet ir ilgą vaizdingą pratarmę, neatsisakė ir nė
+    vieno jos teiginio. 1848 metų rankraštyje pratarmė buvo per­
+    rašyta iš esmės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -78,5 +78,5 @@ Betgi savame krašte jis įkurdino kitą Romuvą su kitu Kriviu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

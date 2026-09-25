@@ -75,5 +75,5 @@ Teodoro Narbuto aprašomame akte visa Žemaitija skiriama arba dovanojama visam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

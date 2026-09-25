@@ -76,5 +76,25 @@ Narbutas pasakoja, kad Dagas liko gyvas po kautynių, kuriose žuvo kiti rusų v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195070
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
+  citata_originali: |
+    Pasakoji­
+    mui apie šį neabejotinai seną įvykį būdingi istoriškumo
+    bruožai, ir jis yra visiškai įtikėtinas. Šiose kautynėse žu­
+    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
+    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
+    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
+    Onevu, perėjimą į priešo pusę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

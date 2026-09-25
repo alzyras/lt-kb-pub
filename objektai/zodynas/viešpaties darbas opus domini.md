@@ -66,5 +66,26 @@ Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205437
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 30"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 30."
+  citata_originali: |
+    Kronikininkas parodo, kad užkariavimus Ordinas įtvirtina savo pilių statyba, tai
+    darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).
+    Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
+    315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino
+    siekimas — grobti naujas žemes. Jo nuomone, Marienverderio pilis pavyslyje pastatyta,
+    „kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t. y. į vakarines
+    prūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III,
+    315), t. y. užgrobti lietuvių žemes.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

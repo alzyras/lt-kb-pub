@@ -70,28 +70,6 @@ Nenurodyta
   pagrindžia:
     - c-168884
 
-<a id="claim-t-185524"></a>
-- t-002
-  teiginys: "Kovos prie Savranės pradžia buvo sunki, nes skitai dar prieš tikrąsias kautynes iš tolo apšaudė Jono Olbrachto karius strėlėmis."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> skitai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "skitai: mention_match, thing, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.)\" parinktas kaip owner_note_path. Targetas \"skitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1489 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys faktinis, bet reikia patikslinti įvykio ir veikėjų kontekstą."
-  pagrindžia:
-    - c-168885
-
 <a id="claim-t-196167"></a>
 - t-003
   teiginys: "Sužinojęs apie skitų įsiveržimą į Lenkiją, karalius įsitraukė į karą dėl Podolės ir pavedė sūnui atsargiai pavaduoti jį karo stovykloje."
@@ -104,6 +82,19 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178565
+
+<a id="claim-t-196166"></a>
+- t-196166
+  teiginys: "Kojelavičius skitų įsibrovimą vaizdavo kaip sukrėtimą, po kurio valstybės veikėjai ėmė veikti po ankstesnio neveiklumo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168885
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -169,7 +160,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168885
@@ -215,8 +206,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-196166
 
 - id: c-178565
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -245,5 +236,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

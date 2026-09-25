@@ -80,5 +80,5 @@ Narbutas teigia, kad 1836 metais Žemaitijoje, netoli Kražių, rasta natūralau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

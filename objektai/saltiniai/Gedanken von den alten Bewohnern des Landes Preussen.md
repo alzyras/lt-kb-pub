@@ -79,5 +79,25 @@ Gotfrydo Ostermejerio veikalas „Gedanken von den alten Bewohnern des Landes Pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194881
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
+  citata_originali: |
+    Stettin, 1748.
+    Turimas omenyje Karaliaučiaus universiteto
+    profesoriaus Gotfrydo Ostermejerio (Osterme-
+    yer; 1716—1800) veikalas „Mintys apie se­
+    nuosius Prūsų žemės gyventojus“ (Gedanken
+    von den alten Bewohnern des Landes Preus-
+    sen. 1780).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

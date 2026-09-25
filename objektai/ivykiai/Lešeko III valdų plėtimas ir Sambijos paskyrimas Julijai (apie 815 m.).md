@@ -93,5 +93,5 @@ Pasak Narbuto, Lešekas III savo žmonai Julijai kaip sutuoktuvių dovaną skyr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

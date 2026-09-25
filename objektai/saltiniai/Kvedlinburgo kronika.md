@@ -98,7 +98,7 @@ Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179293
@@ -121,5 +121,27 @@ Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196930
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 217."
+  citata_originali: |
+    Kvedliriburgo kronika mini prieš 1009 metus ru­
+    sus ir Rusią; ji buvusi toje pačioje vietoje arba Prūsijos
+    šiaurėje2. Adomas Bremenietis, minėdamas Prūsijos pro­
+    vincijas, kurias dėl nesuprantamų priežasčių vadina salo­
+    mis, sako, jog Semba ribojasi su rusais, arba Rusios kraš­
+    tu, kurio jis vis dėlto nepriskiria prie Prūsijos provincijų,
+    nes tada tos žemės buvo Žemaitijos sudėtinė dalis3. Ra-
+    devikas Freizengiškis*, aprašinėjęs XIII amžiaus Lenkijos
+    sienas, mini Rusios problemą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

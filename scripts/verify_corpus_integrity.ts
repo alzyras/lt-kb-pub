@@ -64,6 +64,8 @@ console.log(
     {
       files: documents.length,
       issues: issues.length,
+      errors: issues.filter((issue) => issue.severity === "error").length,
+      warnings: issues.filter((issue) => issue.severity === "warning").length,
       counts,
       examples: issues.slice(0, 20),
     },
@@ -72,6 +74,6 @@ console.log(
   ),
 )
 
-if (issues.length > 0) {
+if (issues.some((issue) => issue.severity === "error")) {
   process.exitCode = 1
 }

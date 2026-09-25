@@ -71,5 +71,27 @@ Narbutas mini nežinomos datos Vytauto laikų sienų dokumentą, kuriame ribože
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197730
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 140"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 140."
+  citata_originali: |
+    Lasickio, aišku, su klaida užrašyta Aspelenie (Užpelenė),
+    nes tą vardą į lotynų kalbą jis verčia Angularis, taigi turėjo
+    būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19.
+    Viename senoviškame sienų nustatymo dokumente, ku­
+    rio data nežinoma, bet kuris tikrai iš didžiojo kunigaikščio Vy­
+    tauto laikų, yra paminėta, kad riboženklių neliečiamybė kaip
+    buvo saugoma Užsparos (Uspary) prakeikimo, taip ir dabar
+    tebūnie Kristaus patepta šventenybe. Šį dokumentą, rašytą ru­
+    siškai, turiu rankoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

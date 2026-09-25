@@ -128,7 +128,7 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179302
@@ -153,7 +153,7 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179303
@@ -174,5 +174,49 @@ Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-197323
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 204"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 204."
+  citata_originali: |
+    Iš to, remiantis
+    Bajeriu1, atsirado įsitikinimai, jog gelonų-budinų kraštas
+    turėjęs būti Polesėje, senovės Kulmo žemėje ir Lietuvos
+    Brastos vaivadijoje. Senovės amžių neurai, anot paties
+    Herodoto, gyveno Dnepro vidurupio kairiojoje pakrantėje,
+    o iš ten persikėlė j dešiniąją pakrantę todėl, kad jiems
+    pradėjo įkyrėti neapsakoma daugybė žalčių; bet niekur
+    nesakoma, kad jie visiškai išsikėlė iš kairiosios pakran­
+    tės. Taip pat neįmanoma kaip nors pažymėti kokias nors
+    ribas neurų ¡gyvenamo krašto, kaip nežinomų dykrų, kur
+    nuklysdavo klajokliškos ir laukinės gentys.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197384
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
+  citata_originali: |
+    Smalsuoliams
+    rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-
+    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
+    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
+    ją norėjo įdėti į savo „Monumentą Prussica“.
+    Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
+    gamtos tyrinėtojai Klaprotas ir Hagenas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

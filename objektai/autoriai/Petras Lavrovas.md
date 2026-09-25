@@ -79,5 +79,23 @@ Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas ir Vilniaus gub
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195294
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 12"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 12."
+  citata_originali: |
+    Korespondentas — Lydos bajorų mokyklos
+    vyresnysis mokytojas, Vilniaus gubernijos statistikos ko­
+    miteto narys Petras Lavrovas. Jo laiškai sako, jog lietu­
+    vių kilmės klausimas dar ir penktajame dešimtmetyje jau­
+    dino protus, o T. Narbuto „Istorija“ buvo pagrindinis
+    autoritetas ir diskusijų objektas.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

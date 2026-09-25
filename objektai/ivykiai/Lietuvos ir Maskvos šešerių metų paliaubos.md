@@ -69,5 +69,5 @@ Maskvos didysis kunigaikštis pasiliko užimtus miestus ir valsčius bei Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

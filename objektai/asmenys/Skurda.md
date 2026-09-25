@@ -34,24 +34,6 @@ canonical_biography: "Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvo
 
 Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
 
-## Teiginiai
-
-<a id="claim-t-60436"></a>
-- t-001
-  teiginys: "Skurda, kitos Sūduvos dalies vadas, su savo žmonėmis pasitraukė į Lietuvos žemę."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skurda: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Skurdos pasitraukimą į Lietuvos žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61068
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Skurda, kitos Sūduvos dalies vadas, su savo žmonėmis pasitraukė į Lietuvos žemę.'
@@ -86,5 +68,3 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

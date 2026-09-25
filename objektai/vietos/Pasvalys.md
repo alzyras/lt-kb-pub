@@ -80,6 +80,18 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   pagrindžia:
     - c-185002
 
+<a id="claim-t-207884"></a>
+- t-207884
+  teiginys: "1557 m. rugpjūčio 26 d. valdovas atvyko ir apsistojo Pasvalyje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190416
+
 ## Citatos
 
 - id: c-156401
@@ -100,7 +112,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166461
@@ -120,7 +132,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185002
@@ -138,5 +150,26 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190416
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 170"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 170."
+  citata_originali: |
+    Lietuvos kariuomenei talkino 500 Lenkijos karių ir Prūsijos
+    hercogo Albrechto pajėgos.
+    60 Į kariuomenės susirinkimo vietą liepos 17 d. iš Vilniaus
+    išvyko ir valdovas Žygimantas Augustas. Pro Balninkus, Penionis (prie Kavarsko),
+    Anykščius, Kupiškį rugpjūčio 26 d. atvyko ir apsistojo Pasvalyje.
+  citata_rodoma: "Pro Balninkus, Penionis (prie Kavarsko),\nAnykščius, Kupiškį rugpjūčio 26 d. atvyko ir apsistojo Pasvalyje."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207884

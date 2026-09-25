@@ -51,3 +51,40 @@ Simonas Sirutis buvo Kauno pavieto pilies teismo seniūnas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208012"></a>
+- t-001
+  teiginys: "Simonas Sirutis buvo Kauno pavieto pilies teismo seniūnas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190794
+
+## Citatos
+
+- id: c-190794
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 51"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 51."
+  citata_originali: |
+    Šaltinių ir istoriografijos analizė leidžia padaryti šias išvadas. Augusto III laikų
+    Kauno seimelis buvo „nesužlugdytas" dėl to, kad vietos elitas pasiekė kompromisą.
+    Pavietų grupuočių vietiniai lyderiai - Kauno pavieto pilies teismo seniūnas
+    Simonas Sirutis ir Kauno pavieto maršalas Antanas Zabiela - susitarė „nežlugdyti"
+    Kauno seimelio.
+  citata_rodoma: "Pavietų grupuočių vietiniai lyderiai - Kauno pavieto pilies teismo seniūnas \nSimonas Sirutis ir Kauno pavieto maršalas Antanas Zabiela - susitarė „nežlugdyti\" \nKauno seimelio."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

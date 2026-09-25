@@ -64,5 +64,5 @@ Narbutas teigia, kad latviai tenykščius rusinus vadino Kreews arba Kriws, nes 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

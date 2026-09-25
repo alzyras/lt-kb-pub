@@ -119,7 +119,7 @@ Aleksandro Chodkevičiaus sūnus Grigalius pradėjo Berastavicos šaką. Jis buv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168071
@@ -144,7 +144,7 @@ Aleksandro Chodkevičiaus sūnus Grigalius pradėjo Berastavicos šaką. Jis buv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-206374

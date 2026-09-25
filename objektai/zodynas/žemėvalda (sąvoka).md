@@ -63,5 +63,5 @@ Kokiu gi kitu būdu galėjo suformuoti bajoriją tautos, ne žinojusios jokių k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

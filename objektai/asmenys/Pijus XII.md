@@ -89,5 +89,5 @@ canonical_biography: "1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

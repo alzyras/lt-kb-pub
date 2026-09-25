@@ -60,6 +60,19 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
   pagrindžia:
     - c-75423
 
+<a id="claim-t-207553"></a>
+- t-207553
+  teiginys: "Alfredas Bumblauskas didžiausiu Gaono nuopelnu laiko Babilono Talmudo redagavimą ir komentavimą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190170
+
 ## Citatos
 
 - id: c-75423
@@ -82,7 +95,7 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-75424
@@ -100,5 +113,26 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190170
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 178"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 178."
+  citata_originali: |
+    Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religi-
+    nėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba. Jis sukūrė veikalų
+    beveik visose to meto žydų mokslo srityse: nuo Šventojo Rašto komentarų iki hebrajų kal-
+    bos gramatikos ir biblinės geografijos. Didžiausias Gaono nuopelnas – Babilono Talmudo
+    redagavimas ir komentavimas.
+  citata_rodoma: "Didžiausias Gaono nuopelnas – Babilono Talmudo \nredagavimas ir komentavimas."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207553

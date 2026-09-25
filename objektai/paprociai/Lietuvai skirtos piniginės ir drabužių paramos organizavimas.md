@@ -71,5 +71,5 @@ Už Centralio komiteto atsiųstus 8.000 kronų nupirkta reikalingų drabužių v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

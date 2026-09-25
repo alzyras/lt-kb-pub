@@ -62,5 +62,22 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206154
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 256"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
+  citata_originali: |
+    Magistras tol nekėlė kojos į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
+    spraga. Tarė tada viena moteris: „Matyt, tas magistras labai storas, jeigu jam reikia
+    tokios skylės ir negali įeiti pro kitus vartus kaip kiti krikščionys”.
+    17.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

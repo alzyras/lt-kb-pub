@@ -70,5 +70,22 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192723
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 318"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 318."
+  citata_originali: |
+    Vienok Žemaičių
+        medininkai ir tose kruvinose dienose niekaip nenorėjo būtinai nuo pajūrio atstoti ir paskuoją savo
+        įtaką, arba uostą, upės Šventosios ties Palanga, kuri jiems buvo dar likusi, gyniojo ir, noris kaulais
+        savo taškuodami^1431 , niekaip jos vokiečiams neįdavė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

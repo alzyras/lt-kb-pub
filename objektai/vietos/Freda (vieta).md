@@ -82,7 +82,7 @@ Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių, vadinamų miest
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185040
@@ -101,5 +101,5 @@ Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių, vadinamų miest
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

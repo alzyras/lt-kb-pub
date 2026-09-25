@@ -65,5 +65,5 @@ Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

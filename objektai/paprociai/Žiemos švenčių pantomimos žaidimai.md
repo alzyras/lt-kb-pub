@@ -92,7 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172771
@@ -117,5 +117,29 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197934
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 169."
+  citata_originali: |
+    Antras veikėjas - lengvabūdiškas, simpa­
+    tiškas, su maža kepuraite ant galvos. Žaidimo pradžioje vaiz­
+    duojamas netikėtas susitikimas, kvietimas susiimti rankomis,
+    toliau visokios abiejų pastangos nutverti vienas kitą į glėbį ir
+    grumtis; visa tai vyksta juokaujamu tonu. Kai jau atrodo, kad
+    tuoj prasidės kova, veikėjai staiga sustoja vienas priešais kitą
+    taiytum įbesti, atsitraukia atgal, nusišluosto akis, įsispokso vie­
+    nas į kitą, tarytum norėtų geriau pažinti, žengia artyn, vaiz­
+    duoja norį susitaikyti, pagaliau draugiškai apsikabina, šoka ir
+    šokinėja kartodami tai su didžiausiu įkarščiu ir juokinimu; tuo
+    pasibaigia vaidinimas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

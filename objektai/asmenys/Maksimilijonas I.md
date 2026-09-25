@@ -86,6 +86,42 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
   pagrindžia:
     - c-176418
 
+<a id="claim-t-209458"></a>
+- t-209458
+  teiginys: "Dėl caro Mikalojaus I vainikavimo dvidešimt penktųjų metinių iš Valančiaus buvo pareikalauta išleisti laišką."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192078
+
+<a id="claim-t-209459"></a>
+- t-209459
+  teiginys: "Mikalojus I čia įvardijamas kaip Visų Maskolijų ciesorius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192079
+
+<a id="claim-t-209460"></a>
+- t-209460
+  teiginys: "Šį laišką Valančius parašė gavęs oficialų nurody mą iškilmingai paminėti caro Mikalojaus I vainikavi mo 25-ąsias metines."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192080
+
 ## Citatos
 
 - id: c-44450
@@ -108,7 +144,7 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176418
@@ -139,5 +175,71 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-192078
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 7"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 7."
+  citata_originali: |
+    Valančius,
+    aplenkdamas civilinę ir karinę kontrolę, dar bandė sporadiškai siuntinėti laiškus kai kurioms parapijoms
+    (Tytuvėnų, Balninkų) visiškai apolitiškais reikalais.
+    Reikia pasakyti, kad anuomet civilinės valdžios kišimosi į Bažnyčios gyvenimą niekad netrūko; šitai
+    matyti ir iš ganytojiškų laiškų turinio bei jų paskirties. Jau kitais metais po ingreso iš vyskupo Valančiaus
+    buvo pareikalauta išleisti laišką dėl caro Mikalojaus I vainikavimo dvidešimt penktųjų metinių.
+  citata_rodoma: "Jau kitais metais po ingreso iš vyskupo Valančiaus \nbuvo pareikalauta išleisti laišką dėl caro Mikalojaus I vainikavimo dvidešimt penktųjų metinių."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209458
+
+- id: c-192079
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 26"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 26."
+  citata_originali: |
+    Nuo įvedimo į mūsų šalį krikščioniško tikėjimo lig šios gadynės Žemaičiai turėjo jau trisdešimtis šešis
+    tikrus vyskupus, iš tų užvis minavotini ir sektini tarp daugel kitų yra: Motiejus I, Martynas III, Merkelis
+    Giedraitis, Jurgis su Antanu Tiškevičių ir pastaras Juozapas Giedraitis. Tam pasirinkus, Galingiausias ir
+    Šviesiausias Visų Maskolijų ciesorius MIKALOJUS I per gerybę savą meilingai žvilgterėjo ant reikalų
+    žmonių savo. O Tėvas Šventasis, sėdįs šiandien ant Stalyčios Apaštalų, Pijus IX, būdamas slaptinėj
+    rodoj savo, 28 d. birželio 1849 meto priemiesty Neapolio, vadinamo Portiči, pakėlė mane į vyskupus
+    jūsų.
+  citata_rodoma: "Tam pasirinkus, Galingiausias ir \nŠviesiausias Visų Maskolijų ciesorius MIKALOJUS I per gerybę savą meilingai žvilgterėjo ant reikalų \nžmonių savo. O Tėvas Šventasis, sėdįs šiandien ant Stalyčios Apaštalų, Pijus IX, būdamas slaptinėj \nrodoj savo, 28 d. birželio 1849 meto priemiesty Neapolio, vadinamo Portiči, pakėlė mane į vyskupus \njūsų."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209459
+
+- id: c-192080
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 29"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 29."
+  citata_originali: |
+    177-181, be datos.
+    N e p u b l i k u o t a s .
+    Šį laišką Valančius parašė gavęs oficialų nurody­
+    mą iškilmingai paminėti caro Mikalojaus I vainikavi­
+    mo 25-ąsias metines.
+  citata_rodoma: "Šį laišką Valančius parašė gavęs oficialų nurody­\nmą iškilmingai paminėti caro Mikalojaus I vainikavi­\nmo 25-ąsias metines."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209460

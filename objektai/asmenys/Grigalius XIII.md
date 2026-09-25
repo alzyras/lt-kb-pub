@@ -82,5 +82,5 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

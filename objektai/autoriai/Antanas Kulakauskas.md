@@ -122,7 +122,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-154570
@@ -166,7 +166,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-154571
@@ -206,9 +206,10 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     PAGONIŲ VALSTYBĖ.
   citata_rodoma: "Vytautas Radžvilas\nDr. Inga Vinogradnaitė\nIšleista Lietuvos Respublikos \nužsienio reikalų ministerijos užsakymu\nAntras leidimas\n© Alfonsas Eidintas, 2013\n© Alfredas Bumblauskas, 2013\n© Antanas Kulakauskas, 2013\n© Mindaugas Tamošaitis, 2013\n© Lietuvos Respublikos užsienio reikalų ministerija, 2013\n\nTURINYS\nSantrumpos  8\nRedaktoriaus žodis  9\nĮ v a d a s\nLIETUVA – VIDURIO EUROPOS DALIS  12 \nGeografinis Europos centras?"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -75,5 +75,5 @@ Tapiavoje spalio 21 d. neįvardytas asmuo turėjo pasikrikštyti; jo krikšto t�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

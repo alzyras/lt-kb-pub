@@ -34,29 +34,6 @@ canonical_biography: "Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmerg
 
 Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą.
 
-## Teiginiai
-
-<a id="claim-t-190222"></a>
-- t-001
-  teiginys: "Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "valde -> Ukmergė: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zivinbudas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ukmergė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Zivinbudas vadinamas Ukmergės srities kunigaikščiu, todėl remiamas valdymo ryšys su Ukmerge."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Zivinbudas valdė Ukmergė (0.78)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173105
-
 ## Citatos
 
 - id: c-173105
@@ -82,5 +59,3 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

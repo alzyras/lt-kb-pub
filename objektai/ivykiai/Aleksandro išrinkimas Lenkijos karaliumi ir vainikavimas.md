@@ -70,5 +70,5 @@ Lenkai išrinko Lietuvos didįjį kunigaikštį Aleksandrą Lenkijos karaliumi.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

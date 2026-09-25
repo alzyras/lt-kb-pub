@@ -85,7 +85,7 @@ T. Narbutas rašo, kad akmens luitai guli ant pagrindo, atitinkančio jų svorio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-194609
@@ -107,5 +107,5 @@ T. Narbutas rašo, kad akmens luitai guli ant pagrindo, atitinkančio jų svorio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

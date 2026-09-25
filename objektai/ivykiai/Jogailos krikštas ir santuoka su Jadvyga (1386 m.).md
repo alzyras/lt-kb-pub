@@ -103,5 +103,5 @@ Pasak Teodoro Narbuto, Jogaila vasario 10 d. atvyko į Krokuvą, o vasario 15 d.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

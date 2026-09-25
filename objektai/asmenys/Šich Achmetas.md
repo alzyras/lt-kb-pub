@@ -38,21 +38,6 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
 
 ## Teiginiai
 
-<a id="claim-t-195007"></a>
-- t-001
-  teiginys: "Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pradinis teiginys turi perteklinį kontekstą apie karalių ir gali būti glaustesnis."
-  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Mengli Girėjus|Mengli Girėjus]]; mentioned_place: Krymas; llm_object: Trakai"
-  semantiniai_rysiai: "[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Lietuva; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Trakai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-177390
-
 <a id="claim-t-195008"></a>
 - t-002
   teiginys: "Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą."
@@ -67,19 +52,6 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-177391
-
-<a id="claim-t-195009"></a>
-- t-003
-  teiginys: "Šich Achmetas buvo Achmato sūnus ir paskutinis Aukso ordos chanas."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-177389
 
 <a id="claim-t-196657"></a>
 - t-004
@@ -186,8 +158,6 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-177390
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -215,8 +185,6 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-177391
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -240,7 +208,7 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178822
@@ -270,7 +238,7 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 ## Ryšiai

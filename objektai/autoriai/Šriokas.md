@@ -48,6 +48,18 @@ Narbutas nurodė, kad aptariami dalykai pateikti tik Šrioko veikale „Kirchen 
   pagrindžia:
     - c-173244
 
+<a id="claim-t-218963"></a>
+- t-218963
+  teiginys: "Mokslininkai mato tokį praneši mą, pasikartojantį žodis į žodį, Šrioko veikale (Schrock."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198313
+
 ## Citatos
 
 - id: c-173244
@@ -63,5 +75,44 @@ Narbutas nurodė, kad aptariami dalykai pateikti tik Šrioko veikale „Kirchen 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198313
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 515."
+  citata_originali: |
+    Mokslininkai mato tokį praneši­
+    mą, pasikartojantį žodis į žodį, Šrioko veikale
+    (Schrock. Kirchen Geschichte. - B. XXX. - S. 497),
+    kaip ištrauką iš Enėjaus Silvijaus. Mūsų kompilia­
+    torius įtraukė tą patį. Šiaipjau, nepažindami senų­
+    jų Enėjaus Silvijaus raštų leidimų, negalime teigti,
+    kad tai buvo ne šio autoriaus rašinys, tačiau darau
+    išvadą, kad jis turėtų būti iš XVI amžiaus antrosios
+    pusės“
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218963
+
+- id: c-201404
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 455."
+  citata_originali: |
+    Šie dalykai yra tik Šrioko veikale (Kirchen Geschichte. -
+    B. XXX. - S. 497).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

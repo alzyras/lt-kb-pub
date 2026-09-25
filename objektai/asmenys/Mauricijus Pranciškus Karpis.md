@@ -56,3 +56,46 @@ Mauricijus Pranciškus Karpis teigė, kad Iždo teismo esmė – kuo greičiau i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208021"></a>
+- t-001
+  teiginys: "Mauricijus Pranciškus Karpis teigė, kad Iždo teismo esmė – kuo greičiau ir veiksmingiau spręsti su finansais, mokesčiais, muitais, prekyba ir verslu susijusias bylas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  vertinimo_atnaujinta: "2026-08-18T20:43:07Z"
+  pagrindžia:
+    - c-190697
+
+## Citatos
+
+- id: c-190697
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 141"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 141."
+  citata_originali: |
+    Kaip aiškėja iš atskiru
+    leidiniu paskelbtos Žemaitijos kunigaikštystės pasiuntinio M. R Karpio kalbos,
+    pasakytos Lietuvos provincinėje sesijoje 1791 m. gruodžio 3 d., dalies bajorijos
+    netenkino kertiniai Iždo teismo sudarymo ir jo veiklos principai. M. P. Karpio
+    nuomone. Iždo teismo, kaip institucijos, esmė - kuo greičiau ir efektyviau spręsti
+    su finansiniais sandoriais, mokesčiais, muitais bei kitais prekybai Ir verslui reikš­
+    mingais klausimais susijusias bylas, „priartinant" jų sprendimą prie kiekvieno
+    „nepasiturinčio bajoro, vargšo valstiečio, vargano žydelio, smulkaus prekybininko,
+    piliečio, neturinčių „galimybių, kredito ar protekcijos", kad sulauktų „malonės ir
+    teisingumo" iš įstatymo projekte numatytų 7 teisėjų.
+  citata_rodoma: "M. P. Karpio \nnuomone. Iždo teismo, kaip institucijos, esmė - kuo greičiau ir efektyviau spręsti \nsu finansiniais sandoriais, mokesčiais, muitais bei kitais prekybai Ir verslui reikš­\nmingais klausimais susijusias bylas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

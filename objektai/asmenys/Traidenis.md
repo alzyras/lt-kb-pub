@@ -403,6 +403,70 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   pagrindžia:
     - c-168206
 
+<a id="claim-t-90056"></a>
+- t-90056
+  teiginys: "1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną."
+  atnaujinta: "2026-09-19 06:02"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drohičinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Drohičinas: mention_match, place, gap=65"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Traidenis (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Drohičinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1272 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-04834
+
+<a id="claim-t-207450"></a>
+- t-207450
+  teiginys: "Alfredas Bumblauskas nurodo, kad Traidenio valdymo metu antrojoje XIII a. pusėje Kernavė galėjo tapti sostine, nes valdovas joje rezidavo."
+  atnaujinta: "2026-09-19 06:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-190083
+
+<a id="claim-t-207487"></a>
+- t-207487
+  teiginys: "Po Traidenio į Lietuvos sostą, Alfredo Bumblausko teigimu, atėjo kitos, veikiausiai artimos giminės žmonės."
+  atnaujinta: "2026-09-19 06:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190105
+
+<a id="claim-t-221635"></a>
+- t-221635
+  teiginys: "Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę į žygį prieš Ordino užnugarį."
+  atnaujinta: "2026-09-19 06:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-223983"></a>
+- t-223983
+  teiginys: "Traidenis rėmė žiemgalius ir telkė jėgas kovai Prūsijoje."
+  atnaujinta: "2026-09-19 06:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -569,9 +633,10 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-012
+    - t-90056
 
 - id: c-04835
   autorius: "Zenonas Ivinskis"
@@ -587,7 +652,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-04836
@@ -604,7 +669,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-04837
@@ -621,7 +686,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-42277
@@ -643,7 +708,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-85934
@@ -660,7 +725,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-85935
@@ -678,7 +743,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-85937
@@ -697,7 +762,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-85940
@@ -723,7 +788,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-009
 
@@ -747,7 +812,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-168205
@@ -775,7 +840,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-168206
@@ -806,7 +871,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
     - t-020
 
@@ -831,7 +896,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-173873
@@ -852,7 +917,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-173874
@@ -874,7 +939,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-176838
@@ -906,7 +971,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-178793
@@ -933,8 +998,114 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
+
+- id: c-190083
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 40"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 40."
+  citata_originali: |
+    Antra vertus, baltarusių istorikai pagal kai kuriuos vėlyvuo-
+    sius metraščių duomenis beveik sutartinai Mindaugo sostine laiko Naugarduką, nenorėda-
+    mi matyti aplinkybės, kad Naugardukas buvo Mindaugo aneksas, atiduotas valdyti sūnui
+    Vaišelgai. Apskritai šiandien linkstama manyti, kad XIII a. viduryje sostinės vėlesnių
+    laikų supratimu apskritai galėjo nebūti – tai, aišku, nepanaikina Mindaugo karūnacijos
+    vietos klausimo. Kartais manoma, kad prie Traidenio antrojoje XIII a. pusėje tokia sostine
+    galėjo tapti Kernavė, nes joje Traidenis akivaizdžiai rezidavo.
+  citata_rodoma: "Kartais manoma, kad prie Traidenio antrojoje XIII a. pusėje tokia sostine \ngalėjo tapti Kernavė, nes joje Traidenis akivaizdžiai rezidavo."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207450
+
+- id: c-190105
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 92"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 92."
+  citata_originali: |
+    Kernavėje pradėjo formuotis Lietuvos pirklių sluoksnis.
+    Taigi Kernavė – Lietuvos Troja, ankstyvojo valstybinio laikotarpio pradžia ir simbo-
+    lis, jos vaidmuo Lietuvos istorijoje įvairiu požiūriu yra unikalus.
+    Gediminaičių dinastijos iškilimas
+    Po Traidenio į Lietuvos sostą atėjo kitos, veikiausiai artimos giminės žmonės.
+  citata_rodoma: "Po Traidenio į Lietuvos sostą atėjo kitos, veikiausiai artimos giminės žmonės."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207487
+
+- id: c-194570
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
+  citata_originali: |
+    Siekdamas padaryti
+    tam galą, Lietuvos didysis kunigaikštis Narimantas apie
+    1268 metus įsiveržė su kariuomene į jotvingių Polesę ir
+    privertė gyventojus priimti jo paskirtą valdovą. Juo tapo
+    tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos
+    ir Dainavos kunigaikštis su priklausomybės nuo Lietuvos
+    didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­
+    reiga. Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo­
+    vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto­
+    rijoje Romuntą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194733
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
+  citata_originali: |
+    Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
+    to, Traidenis vakarinėje Jotvingijoje paliko visos tautos
+    pražūties užuomazgą, nes savo užpuolimais galutinai įer­
+    zino lenkus, kurie, Lešeko Juodojo vadovaujami, 1282 me­
+    tais prie Narevo įvykdė tai, ką jotvingiams skyrė nelai­
+    minga lemtis: jie visi buvo užklupti prie garsėjusios dau­
+    geliu kraujo praliejimų Ostrolenkos. Tačiau jotvingiai
+    paniekino nelaisvę ir leidosi visi iškapojami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195243
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
+  citata_originali: |
+    Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo­
+    vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto­
+    rijoje Romuntą. Be to, jis nuolat rengė plėšikiškus žygius
+    į Lenkiją, Rusią ir Mazoviją, buvo griežtas ir žiaurus val­
+    dovas, tironiškai elgėsi su valdiniais ir užkariautais žmo­
+    nėmis1. Jo viešpatavimas jotvingiams baigėsi mirtimi 1281
+    metais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

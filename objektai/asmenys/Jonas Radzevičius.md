@@ -78,5 +78,5 @@ canonical_biography: "1791 m. buvo užpultas Černigovo pavieto iždininko Jono 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

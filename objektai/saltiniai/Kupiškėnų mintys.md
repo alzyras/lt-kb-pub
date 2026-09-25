@@ -1,0 +1,42 @@
+---
+tipas: saltinis
+pavadinimas: 'Kupiškėnų mintys'
+saltiniai:
+  - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Kupiškėnų mintys
+
+## Santrauka
+
+Kupiškėnų mintys buvo rajoninis laikraštis, kurio žurnalistai buvo kviečiami rengti televizijos laidas.
+
+## Santrauka
+
+Kupiškėnų mintys buvo rajoninis laikraštis, kurio žurnalistai buvo kviečiami rengti televizijos laidas.
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Kupiškėnų mintys buvo rajoninis laikraštis, kurio žurnalistai buvo kviečiami rengti televizijos laidas.'
+  šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
+  puslapiai: "p. 846 (PDF 847)"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002

@@ -176,7 +176,7 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
     - t-004
@@ -201,7 +201,7 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -229,6 +229,48 @@ Narbutas 1246 m. sutartį laikė seniausiu jam žinomu liudijimu apie dingusią 
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
 
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195105
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Ligi šiol žinoma seniausia sutartis, primenanti dingu­
+    sios Sambijos dalies egzistavimą senovėje; ji esanti 1246
+    metų Kocebaus darbe (t. 1. P. 418—420). Ten pažymėta
+    krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi­
+    nimą už suteiktą kryžiuočiams pagalbą užkariaujant sam-
+    bius, o būtent Sambiją, Vitlandiją ir dalį Varmijos. Šioje
+    sutartyje yra viena detalė, atskleidžianti visą esmę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195626
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Šioje
+    sutartyje yra viena detalė, atskleidžianti visą esmę. Ten
+    rašoma: De libera civltate ipsis civibus edificanda, et
+    deuibusdatn terris scilicet tercia parte Sambie et Witlan-
+    die et quadam parte Wärmte et quibusdam alūs, que pre-
+    dicti cives (i. e. Lubecenses) ex privilegio sibi coltato a
+    fratre H. de Wida tune Magistro Prussie sibi (ne eis)
+    deberi dicebant. Visų pirma čia Vitlandija minima atski­
+    rai greta Sambijos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -87,5 +87,5 @@ canonical_biography: "Įvadinis tekstas Johaną Severiną Faterį mini tarp kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

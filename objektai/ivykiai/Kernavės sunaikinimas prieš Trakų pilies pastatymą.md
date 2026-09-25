@@ -83,5 +83,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200320
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 274"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 274."
+  citata_originali: |
+    Kai XI amžiuje rusinai
+    pradėjo užkariavimo žygius į Lietuvą net iki tų Neries krantų,
+    Trakai tapo buveine rusinu valdytojų arba duoklių rinkėjų, rin­
+    kusių jas Kijevo kunigaikščiui. Tai davė jiems dingstį pasista­
+    tydinti pilį, nes Kernavė buvo visiškai sunaikinta. O kadangi
+    duoklės susidėjo daugiausia iš miško gėrybių, nes dirbamos
+    žemės dirvonavo trūkstant išblaškytų ir už Neries pabėgusių
+    žmonių, todėl valdovų ir krašto gyventojų verslas buvo lauki­
+    nių žvėrių medžioklė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -88,5 +88,5 @@ Meinhardas su šimtu brolių ir raitelių įsiveržė į Gaižuvos ir Paštuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

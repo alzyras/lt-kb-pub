@@ -47,6 +47,16 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
   pagrindžia:
     - c-67333
 
+<a id="claim-t-67436"></a>
+- t-67436
+  teiginys: "1885 m. pradėtas leisti laikraštis „Lietuviškasis Balsas“, kurį leidėjui teko beveik vienam rašyti, spausdinti ir platinti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67333
+    - c-67334
+
 ## Citatos
 
 - id: c-67333
@@ -66,8 +76,9 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-67436
 
 - id: c-67334
   redaktorius: "A. Šapoka"
@@ -89,5 +100,6 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-67436

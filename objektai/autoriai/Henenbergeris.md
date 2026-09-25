@@ -176,6 +176,66 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   pagrindžia:
     - c-173582
 
+<a id="claim-t-216652"></a>
+- t-216652
+  teiginys: "Henenbergeris išsaugojo mums vyriausiųjų žynių sąrašą, pradedamą Vaidevučiu, kuris VI amžiaus pradžioje, iki kry žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san tvarką."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197996
+
+<a id="claim-t-216727"></a>
+- t-216727
+  teiginys: "Pasak Henenbergerio tyrimų, turtingųjų na muose gedulas trukdavo keturias savaites, per kurias negalėjo būti jokio pasilinksminimo, o samdytos raudotojos privalėjo nuolat verkti apraudodamos mirusiojo atminimą."
+  atnaujinta: "2026-09-19 15:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201249
+
+<a id="claim-t-218102"></a>
+- t-218102
+  teiginys: "Narbutas nurodo, kad pas Henenbergerį buvo užrašas senovės lietuvių kalba."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199803
+
+<a id="claim-t-218411"></a>
+- t-218411
+  teiginys: "Tad Ški cas, Henenbergeris, Hartknochas ir Kojalavičius apšmeižė se novės lietuvius, priskirdami jiems žiaurumą su ligoniais, bejė giais, luošaisiais arba mirštančiais žmonėmis, esą buvę įprasta pagreitinti jų mirtį."
+  atnaujinta: "2026-09-19 15:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199056
+
+<a id="claim-t-219479"></a>
+- t-219479
+  teiginys: "Henenbergeris tikina, neva jis, keletą metų prieš parašydamas savąją Prūsijos kroniką (apie 1584 metus), pats matęs tokių senų vie naakių žmonių, ir tiems, kurie netikėjo upės šventumu, nieko neatsitikdavo, nors kiti, vos tik joje nusiprausę, susilaukdavo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200249
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Narbutas rašė, kad Henenbergeris tyrimuose rėmėsi ne tik vyskupo Kristijono kronika, bet ir kitais ankstesniais už Dusburgietį šaltiniais.'
@@ -242,7 +302,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173194
@@ -262,7 +322,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173195
@@ -287,7 +347,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173196
@@ -311,7 +371,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173197
@@ -339,7 +399,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173582
@@ -370,7 +430,7 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-007
 
@@ -392,5 +452,176 @@ Henenbergerio liudijimu, vaidila, aukojantis Atrimpui, prieš apeigas tris diena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-195009
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
+  citata_originali: |
+    Rytuose ji ribojosi su Sudar­
+    gą, pietuose — su jotvingių Polese, vakaruose — su Ga­
+    linda ir Barta, o šiaurėje — su Barta ir Nadruva.
+    1 Kiti teigia, kad iš žodžio S žudąs, išmatos, pelkės, nes seniau
+    žemė ten buvusi labai pelkėta; bet išmanančiam kalbą ir papročius šis
+    spėjimas yra visiškai nepriimtinas. O tai, kad buvusi sudinų gentis
+    ar taip vadinta giminė, patvirtina Henenbergeris.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197996
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 283."
+  citata_originali: |
+    Henenbergeris išsaugojo mums vyriausiųjų žynių sąrašą,
+    pradedamą Vaidevučiu, kuris VI amžiaus pradžioje, iki kry­
+    žiuočiams užkariaujant Prūsiją, neabejotinai įvedė religinę san­
+    tvarką
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216652
+
+- id: c-199056
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
+  citata_originali: |
+    Draugystės, svetingumo, santai­
+    kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
+    baimingai tautai tikriausiai nebuvo tušti simboliai. Tad Ški­
+    cas, Henenbergeris, Hartknochas ir Kojalavičius apšmeižė se­
+    novės lietuvius, priskirdami jiems žiaurumą su ligoniais, bejė­
+    giais, luošaisiais arba mirštančiais žmonėmis, esą buvę įprasta
+    pagreitinti jų mirtį . Tuo nepatikės niekas, kas bent kiek pa- 13
+    13
+    Iš dalies tą darė herulai -  tai pasakysime mūsų istorijos tęsiny­
+    je, -  bet ne smurtu ir ne pagal religijos nuostatus, o tik prietaringų ir
+    ligos palaužtų senelių prašymu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218411
+
+- id: c-199317
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 311"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 311."
+  citata_originali: |
+    Žyniai, kurie vadinosi Wejktime, latviškai - Wiktums, tu­
+    rintys atlikti aukojimą, rengdavosi jam. Henenbergerio liudi­
+    jimu, vaidila, atnašaujantis aukas Atrimpui, turėdavo rengtis
+    tris dienas pasninkaudamas ir gulėdamas ant plikos žemės.
+    Pasak to paties autoriaus, prieš aukos atnašavimą priešais sta­
+    bus būdavo smilkoma įvairiomis medžiagomis, nelygu koks
+    dievas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199803
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 401."
+  citata_originali: |
+    Be
+    to, pas Henenbergerį yra užrašas senovės lietuvių kalba (apie
+    naują šio užrašo aiškinimą, padarytą pono Tado Volianskio, bus
+    kalbama šio veikalo trečiame tome). Tinkamai perskaičius, pa­
+    aiškėja, kad tai buvo Lietuvos kunigaikščio Utenio, kuris padėjo
+    prūsams kovoti su kryžiuočiais ir kuris buvo pramintas Zupanit,
+    vėliava.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218102
+
+- id: c-200249
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
+  citata_originali: |
+    Henen-
+    bergeris tikina, neva jis, keletą metų prieš parašydamas savąją
+    Prūsijos kroniką (apie 1584 metus), pats matęs tokių senų vie­
+    naakių žmonių, ir tiems, kurie netikėjo upės šventumu, nieko
+    neatsitikdavo, nors kiti, vos tik joje nusiprausę, susilaukdavo
+    norėto luošumo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219479
+
+- id: c-201249
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
+  citata_originali: |
+    Erazmas Ste­
+    la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,
+    kad laidojimo apeigų tvarka buvo labai senas, šventas daly­
+    kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu­
+    vių genties tautos. Pasak Henenbergerio tyrimų, turtingųjų na­
+    muose gedulas trukdavo keturias savaites, per kurias negalėjo
+    būti jokio pasilinksminimo, o samdytos raudotojos privalėjo
+    nuolat verkti apraudodamos mirusiojo atminimą. Dainiai ge­
+    dulingomis raudomis apdainuodavo jo dorybes ir žymiausius
+    jo karo žygius.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216727
+
+- id: c-201425
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 311"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 311."
+  citata_originali: |
+    Henenbergerio liudi­
+    jimu, vaidila, atnašaujantis aukas Atrimpui, turėdavo rengtis
+    tris dienas pasninkaudamas ir gulėdamas ant plikos žemės.
+    Pasak to paties autoriaus, prieš aukos atnašavimą priešais sta­
+    bus būdavo smilkoma įvairiomis medžiagomis, nelygu koks
+    dievas. Pavyzdžiui, Atrimpui degindavo vašką ir smilkalus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

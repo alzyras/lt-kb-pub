@@ -78,5 +78,5 @@ Prūsai ir Nojenburgo pilėnai užpuolė penkiolika brolių laivų ir privertė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -83,5 +83,5 @@ Dusburgietis teigia, kad apie Inocentą V, popiežių, ir Rudolfą, Romos karali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

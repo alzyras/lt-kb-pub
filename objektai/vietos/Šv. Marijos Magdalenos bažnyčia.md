@@ -86,5 +86,5 @@ Marijos Magdalenos baž­ nyčios, po dešine ranka Skapo gatvėje ant paties ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

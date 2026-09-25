@@ -66,5 +66,5 @@ Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

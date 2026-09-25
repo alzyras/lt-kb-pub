@@ -121,10 +121,11 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
     kunigaikščių laikus bei jų žygius.
   citata_rodoma: "Pradedant ankstybu lituanistiniu sąjūdžiu dar Vilniaus uni-\nversitete lietuvių tautos atgimimo veikėjai XIX amžiuje iš širdies\npamilo Lietuvos istoriją. Norėdami savo tautai parodyti XIII-\nXIV amžių lietuvių didybę anie istorijos mėgėjai patriotai patys\ntyrinėjo, rašė ir garbino Lietuvos žymiųjų valdovų, jos didžiųjų\nkunigaikščių laikus bei jų žygius."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

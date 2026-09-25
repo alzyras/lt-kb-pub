@@ -78,5 +78,5 @@ Iki šiol dar nuvargusio žemai čio visų didžiausias įrankis buvo arklį paa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

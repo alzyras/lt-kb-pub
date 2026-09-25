@@ -59,6 +59,18 @@ Lukšienė (BBK, t.
   pagrindžia:
     - c-30731
 
+<a id="claim-t-207544"></a>
+- t-207544
+  teiginys: "M. Lukšienė priklauso lietuvių istoriografijai, kuri pamažu pradėjo matyti LDK tradicijas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190161
+
 ## Citatos
 
 - id: c-30731
@@ -75,5 +87,24 @@ Lukšienė (BBK, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190161
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 326"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 326."
+  citata_originali: |
+    Poznań, 1988). Vis dėlto LDK tradicijas pamažu pradėjo matyti ir lietuvių istoriografija
+    (M. Lukšienė, vėliau „Tautinio atgimimo studijų“ kompanija: E. Aleksandravičius, A. Ku-
+    lakauskas ir kiti). Šiandien tokią tendenciją tęsia gausėjantys tyrėjų būriai Lietuvoje, Bal-
+    tarusijoje ir Lenkijoje.
+  citata_rodoma: "LDK tradicijas pamažu pradėjo matyti ir lietuvių istoriografija \n(M. Lukšienė, vėliau „Tautinio atgimimo studijų“ kompanija: E. Aleksandravičius, A. Ku-\nlakauskas ir kiti). Šiandien"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207544

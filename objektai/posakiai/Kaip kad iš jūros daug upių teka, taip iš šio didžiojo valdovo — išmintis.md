@@ -55,5 +55,5 @@ Kaip kad iš jūros daug upių teka, taip iš šio didžio jo valdovo, didžiojo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

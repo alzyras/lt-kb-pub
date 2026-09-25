@@ -71,5 +71,5 @@ Vil­ niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą iki 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

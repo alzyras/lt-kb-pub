@@ -66,6 +66,16 @@ Nenurodyta
   pagrindžia:
     - c-186403
 
+<a id="claim-t-195347"></a>
+- t-195347
+  teiginys: "Elgetos nešiojamas gynybos ir pasiramstymo daiktas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177752
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -86,6 +96,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195347
+
 - id: c-186403
   autorius: "Domininkas Burba"
   šaltinis: "Istorija_103_maketas.indb — Namų užpuolimai XVIII amžiaus Vilniuje – bajorų nusikaltimas miesto erdvėje"
@@ -102,5 +115,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

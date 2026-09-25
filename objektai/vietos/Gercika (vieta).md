@@ -207,7 +207,7 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-187843
@@ -226,7 +226,7 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187893
@@ -250,7 +250,7 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-187979
@@ -280,7 +280,7 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188025
@@ -300,5 +300,5 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

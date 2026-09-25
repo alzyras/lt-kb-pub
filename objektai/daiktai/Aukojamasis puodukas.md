@@ -77,5 +77,5 @@ Aukotojas padėdavo ant lėkštės gabaliuką duonos, puoduką su alumi ir ja ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -111,6 +111,44 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   pagrindžia:
     - c-184928
 
+<a id="claim-t-207770"></a>
+- t-207770
+  teiginys: "1569 m. politiniame Europos žemėlapyje atsirado Abiejų Tautų Respublika."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190590
+
+<a id="claim-t-208070"></a>
+- t-208070
+  teiginys: "Buvusios Abiejų Tautų Respublikos teritorijose paplito rotušių statybos reiškinys."
+  atnaujinta: "2026-09-20 05:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190647
+
+<a id="claim-t-208149"></a>
+- t-208149
+  teiginys: "Kita vertus, atlikta Rytų Lietuvos atminimo kultūros turinio analizė\", apė musi paminklus, gatvėvardžius, memorialines lentas ir kitas kultūrinės atminties raiškos formas, leidžia teigti, kad regione vyrauja su po Liublino unijos gyvavusia Abiejų Tautų."
+  atnaujinta: "2026-09-20 05:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190646
+
 ## Citatos
 
 - id: c-176446
@@ -131,7 +169,7 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184056
@@ -141,8 +179,9 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 16."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:29"
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184928
@@ -160,5 +199,74 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190590
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 93"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 93."
+  citata_originali: |
+    Lietuvos politinės istorijos reiškinį - 1569 m. Liublino uniją.
+    1569 m. politiniame Europos žemėlapyje atsirado nauja valstybė - Abiejų Tautų
+    Respublika.
+  citata_rodoma: "1569 m. politiniame Europos žemėlapyje atsirado nauja valstybė - Abiejų Tautų\nRespublika."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207770
+
+- id: c-190646
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 89"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 89."
+  citata_originali: |
+    Taip pat pastebima, kad konfliktiškos
+    Lietuvos Didžiosios Kunigaikštystės istorijos simbolinių elementų interpretaci­
+    jos funkcionuoja labiau kaip vyresniųjų kartų atmintyje išlikę praeities reliktai,
+    jaunesniiyų kartų iš dalies „užmirštami", iš dalies interpretuojami iš naujo. Tad
+    įvairių Lietuvos tautinių grupių apsisprendimas gyventi vienoje valstybėje leidžia
+    Lietuvos Didžiosios Kunigaikštystės istorijoje rasti išteklių ne tik paremti pilietinei
+    teritorinei visų grupių tautinės tapatybės dimensijai (tiek puoselėjant tolerancijos
+    vertybes bei pilietinio lietuviškumo tradiciją, tiek bendromis ar hibridiškomis
+    simbolinėmis šio laikotarpio interpretacijomis), bet ir kurti požiūrius, išreiškiamus
+    kokybiniame tyrime užfiksuotomis giminystės ir „broliškumo" metaforomis".
+    Kita vertus, atlikta Rytų Lietuvos atminimo kultūros turinio analizė", apė­
+    musi paminklus, gatvėvardžius, memorialines lentas ir kitas kultūrinės atminties
+    raiškos formas, leidžia teigti, kad regione vyrauja su po Liublino unijos gyvavusia
+    Abiejų Tautų Respublika susiję istoriniai siužetai ir asmenybės, kas ryškiai kon­
+    trastuoja su kitur Lietuvoje (su nedidelėmis išimtimis) dominuojančiu didžiuoju
+    nacionaliniu pasakojimu.
+  citata_rodoma: "Kita vertus, atlikta Rytų Lietuvos atminimo kultūros turinio analizė\", apė­\nmusi paminklus, gatvėvardžius, memorialines lentas ir kitas kultūrinės atminties \nraiškos formas, leidžia teigti, kad regione vyrauja su po Liublino unijos gyvavusia \nAbiejų Tautų Respublika susiję istoriniai siužetai ir asmenybės, kas ryškiai kon­\ntrastuoja su kitur Lietuvoje (su nedidelėmis išimtimis) dominuojančiu didžiuoju \nnacionaliniu pasakojimu"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208149
+
+- id: c-190647
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 275"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 275."
+  citata_originali: |
+    Manoma, projektas neįgyvendintas. Pirmajame aukšte
+    suprojektuota 10 krautuvių
+    pavyzdys**. Reiškinys paplito tose buvusios Abiejų Tautų Respublikos teritorijose,
+    kurios po Vienos kongreso 1815 m. priklausė Lenkijos Karalystei.
+  citata_rodoma: "Reiškinys paplito tose buvusios Abiejų Tautų Respublikos teritorijose, \nkurios po Vienos kongreso 1815 m. priklausė Lenkijos Karalystei."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208070

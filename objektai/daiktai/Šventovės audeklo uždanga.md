@@ -50,18 +50,6 @@ Nenurodyta
   pagrindžia:
     - c-200122
 
-<a id="claim-t-218164"></a>
-- t-218164
-  teiginys: "Už uždangos, be žynių, buvo draudžiama įeiti, už tai grėsė mirties bausmė."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200050
-
 ## Santrauka
 
 Uždanga buvo aštuonių uolekčių aukščio ir sudaryta iš šešių atskirų audeklo gabalų. Už uždangos, be žynių, buvo draudžiama įeiti, už tai grėsė mirties bausmė.
@@ -83,8 +71,6 @@ Uždanga buvo aštuonių uolekčių aukščio ir sudaryta iš šešių atskirų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218164
 
 - id: c-200122
   autorius: "Teodoras Narbutas"
@@ -111,4 +97,3 @@ Uždanga buvo aštuonių uolekčių aukščio ir sudaryta iš šešių atskirų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-

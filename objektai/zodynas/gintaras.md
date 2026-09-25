@@ -114,7 +114,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175691
@@ -142,7 +142,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177298
@@ -171,5 +171,65 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-196549
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
+  citata_originali: |
+    153
+    Gero gintaro kietumas šipina geležį, jis gražiausiai
+    blizga, jo skaidrumas, vidinis gyslotumas ir dažnai bliz­
+    gančių žvynelių lūžiai daro jį vertingą; senovėje jis buvo
+    prilyginamas brangakmeniams. Lengvumas ir žinomos
+    cheminės savybės liepia priskirti jį sakų klasei; patrintas
+    pritraukia lengvus kūnus, iš jo atsirado elektros pavadi­
+    nimas ir davė pradžią supratimui apie elektrą. Pridėtas
+    prie skaudamos žmogaus kūno dalies, jis skatina trans­
+    piraciją, smilkdamas išskiria maloniai kvepiančių, orą
+    gryninančių dūmų, padeda gydyti reumato ligas. Seniau į
+    daugelį vaistų būdavo dedama skysto gintaro medžiagų,
+    eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in­
+    dai ir kinai; pas mus jis dedamas į lakus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196719
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  citata_originali: |
+    Syvai, kurie kažkada sunkėsi iš ypa­
+    tingos rūšies palmės, pradingusios senovės pasaulio re­
+    voliucijose arba augusios žuvusioje Fajetono planetoje ir
+    su jos skeveldromis nukritusios žemėn, ypač dažnai ran­
+    dami prūsų Sembos pakrantėje. Ten, jūros pakrantėje,
+    smėlėtose kalvose, kurias dengia lengvas smėlio su gele­
+    žies dalelėmis sluoksnis, o po juo aptinkama juodžemio,
+    susidariusio augalams irstant, randama milžiniškų me­
+    džių, kokių, pasak vieno gamtos tyrinėtojo, dabartinis pa­
+    saulis niekada nėra regėjęs; jų būta dažnai 80 pėdų ilgio,
+    be šerdies, šakų, metinių augalo rievių, prisisunkusių sie­
+    ros rūgšties, bet nesuakmenėjusių; prie jų nei buvo ap­
+    tinkama panašių į migdolus riešutinių vaisių. Tie medžiai,
+    neteisingai laikomi medį mėgdžiojančiomis iškasenomis,
+    yra gintaro sandėliai. Jūroje išilgai prūsų pakrančių slypi
+    ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
+    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
+    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
+    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
+    skirtos nuo medžių žievės1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -61,6 +61,19 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
   pagrindžia:
     - c-172478
 
+<a id="claim-t-219855"></a>
+- t-219855
+  teiginys: "Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per badmetį, priešų apgultį ar staigų reikalą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-197763
+
 ## Citatos
 
 - id: c-172478
@@ -83,7 +96,7 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172479
@@ -110,5 +123,55 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197763
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 231"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 231."
+  citata_originali: |
+    Dalmatijoje, Bra-
+    zos (Brazza) saloje, Neris, arba Nerisi - upokšnis, prie kurio
+    yra to paties pavadinimo miestas. Neris - mineralinio ir karšto
+    vandens šaltinis Prancūzijoje, Aljė departamente.Nareta -upe­
+    lis, tekantis netoli Vitebsko ir įtekantis į Dauguvą. Nerlė (Neri),
+    Rusijos Vladimiro gubernijos upė, išteka iš Pleščejevo ežero
+    Veskos vardu, teka per Somino ežerą ir savuoju vardu įteka į
+    Volgą. Antroji Nerlė išteka iš Vladimiro gubernijos pelkių ir
+    įteka į Kliazmą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219855
+
+- id: c-197784
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 230"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 230."
+  citata_originali: |
+    Todėl seno­
+    vės tyrėjui didelė parama yra vandenų vardų pažinimas ir jų
+    prasmės, atsižvelgiant į jų etimologiją pirmykštėse kalbose, aiš­
+    kinimas.
+    Ankstesniame straipsnyje šiuo požiūriu kalbėjome apie
+    upėvardį Ross; čia dar turime pridurti kaip mokslinio tyrimo
+    pavyzdį pastebėjimą apie vardų Nar, Nėr, Nor, Nur etimologi­
+    ją; pirmykštėje lietuvių kalboje, bendroje su slavų ir daugeliu
+    kitų, jie reiškia vandenį arba vandenų telkinį, požemio van­
+    dens užlietą gelmę, vandens srovę arba tekėjimą. Iš to indų
+    šventojoje kalboje, arba sanskrite, Nara - vanduo; arabiškai
+    Nahr-upė, lietuviškai Nar senąja kalba reiškė vandens kraštą
+    (krantą).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

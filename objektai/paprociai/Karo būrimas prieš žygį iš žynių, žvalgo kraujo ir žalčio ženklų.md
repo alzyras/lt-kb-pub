@@ -71,6 +71,15 @@ Nenurodyta
   pagrindžia:
     - c-10004
 
+<a id="claim-t-209967"></a>
+- t-209967
+  teiginys: "Traukiant į karę žalčio pasirodymas kelyje buvo laikomas laimės ženklu."
+  atnaujinta: "2026-09-13 20:51"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-192604
+
 ## Citatos
 
 - id: c-10004
@@ -91,7 +100,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-10005
@@ -105,6 +114,43 @@ Nenurodyta
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192604
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 297"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 297."
+  citata_originali: |
+    Lygia dalia traukdami į karę kad išvydo žaltį, slenkantį per kelią, taip pat
+        tarės laimėsiantys.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209967
+
+- id: c-192737
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 297"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 297."
+  citata_originali: |
+    Kad jau visi buvo susirinkę į vieną vietą ir rangūs prieš neprietelių traukti, tad pirma teiravos ir
+        jautojos per savo žynius, arba kunigus, kokią laimę turėsiantys toje karėj, nesgi garbingą įprotį turėjo
+        nieko didžio neužsiimti, nepasiteiravus pirmiau savo dievų valios apie atenčią laimę, todėl, lig
+        nepradėję kariauti, nutvėrė pirmąjį žvalgytoją, arba špiegą, tad, pririšę jį prie medžio, tiktai ne prie
+        ąžuolo, pervėrė jam vylyčia arba aksčia širdį ir veizėjo: jei kraujas čiurkšliu tekėjo, tad toj karėj vylės
+        laimės, nesgi tas buvo ženklu, jog dievai suteiks jiems pergalę, bet jei kraujas sulojo^1333 , tad reiškė
+        sau atenčioj karėj nelaimę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

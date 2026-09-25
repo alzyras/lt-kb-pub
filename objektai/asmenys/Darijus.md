@@ -172,6 +172,40 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   pagrindžia:
     - c-174827
 
+<a id="claim-t-212254"></a>
+- t-212254
+  teiginys: "Siaurine šio ežero pakrante žygiavo didelė Da rijaus kariuomenė, artėjusį prie Istro, kai jis puolė ski tus, tačiau šie iš savo lygumų traukėsi į rytus ir galop persikėlė kitapus Tanajo, kur Darijus persekiojo juos per 1 Herodot."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196232
+
+<a id="claim-t-214864"></a>
+- t-214864
+  teiginys: "Darijui nepavyko įveikti skitų, tačiau jo žygis paveikė Skitijos vidaus padėtį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195448
+
+<a id="claim-t-215837"></a>
+- t-215837
+  teiginys: "Tai turėjo įvykti anks čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at sitiko V amžiaus prieš Kristaus gimimą pradžioje."
+  atnaujinta: "2026-09-20 00:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narbutas manė, kad skitų žemdirbiai koloniją prie Dnepro įkūrė dar prieš Darijaus puolimą prieš Skitiją V a. pr. Kr. pradžioje.'
@@ -214,7 +248,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174008
@@ -240,7 +274,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174009
@@ -260,7 +294,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-174011
@@ -286,7 +320,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-174826
@@ -313,7 +347,7 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-174827
@@ -343,8 +377,142 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-194624
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 81."
+  citata_originali: |
+    Pats Herodotas, tą patį manydamas apie gelonus ir bu­
+    dinus, teigia, jog jie turėję tvirtoves ir tokį nekilnojamąjį
+    turtą, kurį sunaikino persų antpuolis. Šio karo metu jie
+    buvo ištikimiausi ir uoliausi skitų sąjungininkai. Kariuo­
+    menė, kuriai vadovavo pats skitų karalius Indatiras, ko­
+    vojo su Darijum.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194740
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 80."
+  citata_originali: |
+    Herodotas
+    prisimena buvus tokį miestą prie Juodosios jūros, kur
+    netoliese buvo ir Dioskūrija; būtent šios vietos garsėjo
+    didžiulėmis prekyvietėmis, į kurias susirinkdavo nesu­
+    skaičiuojamos minios žmonių iš maždaug trijų šimtų
+    genčių, įvairių savo kalba ir gyvenamąja vieta1. Kada
+    įvyko ta revoliucija, privertusi gelonus išvykti iš empo­
+    riumų, nėra jokių žinių; tikra tik tai, kad iki Darijaus
+    žygio prieš Skitiją gelonai jau seniai gyveno tarp budi­
+    nu, susiliejo su jais ir sudarė vieną tautą. Todėl mano­
+    ma, kad tai turėjo įvykti ne vėliau kaip VI amžiaus prieš
+    Kristaus gimimą antrojoje pusėje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195323
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 205."
+  citata_originali: |
+    Dar nebuvo tokių
+    tyrinėjimų, ieškojimų, ir juos tenka palikti ateičiai. Juk
+    neabejotina, jog šiame krašte, kai jis priklausė gelo-
+    nams-budinams, dar persų karaliaus Darijaus amžiuje
+    žemdirbystė buvo aukšto lygio ir skatino graikus prekiau­
+    ti grūdais Juodojoje jūroje. Apie 510 metus prieš Kristaus
+    gimimą lakedamoniečiai palaikė prekybinius ryšius su Ski-
+    tijos žemdirbių gyvenamosiomis vietovėmis, o šiek tiek
+    anksčiau, 497 metais prieš Kristaus gimimą, kai pagrin­
+    dinė Juodosios jūros prekybos sostinė ir daugelio prie
+    Euksino buvusių kolonijų „motina“ Miletas ėmė nykti,
+    grūdų pardavimas ne tik nesumažėjo, bet dėl Skitijos
+    žemdirbių padidėjo, nes kitų Graikijos miestų pirkliai pa­
+    tys keliaudavo tiesiai į Olbiją ir toliau į šiaurę, į ten esan­
+    čius uostus, net į išėdom} kraštą, kur gelonai ir budinai
+    Donu atplukdydavo savo grūdų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195448
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
+  citata_originali: |
+    Darijui nepavyko įveikti skitų, bet šis žygis turėjo
+    didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­
+    tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214864
+
+- id: c-196232
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 390-391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 390-391."
+  citata_originali: |
+    Siaurine šio ežero pakrante žygiavo didelė Da­
+    rijaus kariuomenė, artėjusį prie Istro, kai jis puolė ski­
+    tus, tačiau šie iš savo lygumų traukėsi į rytus ir galop
+    persikėlė kitapus Tanajo, kur Darijus persekiojo juos per
+    1 Herodot. T. IV. P, 86, 45. r\
+    xs -/riliz-a’..
+    2 Ibid. P. 86.
+    то'З llovtov.
+    3 Ibid. P. 57, 100, 101. etį,
+    ёті aUj-utįo ya7eo[i.£oY)u MaiijTO
+    4 Ibid. P. 45 (P. 300. Not. 52).
+    5 Vibius Saąuester (ed. Obeli). P. 278. Мсайтіи Maeotin.
+    6 Herodot. T. IV. P. 57, 100, 86. ly
+    op[A£Č5ixeuoę, e vasto
+    palude
+    profluens...
+    ią
+    [euyou -nįt;
+    Mįautį?, in
+    recessu
+    paludis...
+    Т£ тоир Paci7r)i0p.
+    7 Ibid. P. 12. s o t i Ss BocnroĮvJg Kipųiipioę /а),£б[А£’.>оц.
+    8 Ibid. P. 57.vTouię, Suoyii.
+    9 Ibid. P. 123."О аро;}Л1уо?.
+    380
+
+    sauromatų kraštą net iki budinu žemių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212254
 
 ## Ryšiai
 - Darijus surengė žygį į [[objektai/ivykiai/Darijaus žygis prieš skitus]], [[objektai/vietos/Skitija]]

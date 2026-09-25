@@ -83,6 +83,34 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   pagrindžia:
     - c-46280
 
+<a id="claim-t-72075"></a>
+- t-72075
+  teiginys: "1793 m. Gardino seime Rusija siekė sugrąžinti tvarką, buvusią po pirmojo Respublikos padalijimo."
+  atnaujinta: "2026-09-20 18:22"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-70499
+
+<a id="claim-t-72076"></a>
+- t-72076
+  teiginys: "1793 m. Gardino seime Rusija siekė sugrąžinti po pirmojo padalijimo buvusią valstybės tvarką."
+  atnaujinta: "2026-09-20 18:22"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gardino seimas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gardino seimas\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1793 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo kontekstinis fragmentas; citata leidžia aiškiai įvardyti Gardino seimo paskirtį."
+  pagrindžia:
+    - c-70499
+
 ## Citatos
 
 - id: c-46280
@@ -102,7 +130,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -123,7 +151,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-70499
@@ -146,3 +174,6 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-72075
+    - t-72076

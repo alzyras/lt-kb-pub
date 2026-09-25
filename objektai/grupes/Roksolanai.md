@@ -51,27 +51,6 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   pagrindžia:
     - c-175710
 
-<a id="claim-t-192941"></a>
-- t-002
-  teiginys: "Teodoras Narbutas seniausią užuominą apie roksolanus kaip sarmatų padermės tautą tarp Dnepro ir Dauguvos sieja su 94 m. pr. Kr."
-  atnaujinta: "2026-07-19 18:48"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Dauguva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Roksolanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Roksolanų gyvenamoji sritis nurodyta tarp Dnepro ir Dauguvos, todėl Dauguva yra ribinis gyvenamosios teritorijos objektas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Roksolanai gyveno Dnepras (0.78); Roksolanai gyveno Dauguva (0.78)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175711
-
 <a id="claim-t-192942"></a>
 - t-003
   teiginys: "Teodoras Narbutas priima nuomonę, kad prie Rhox ir Arhox upės šakų gyvenę alanai buvo vadinami Rhox-alanais, arba roksolanais."
@@ -112,6 +91,18 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   pagrindžia:
     - c-175713
 
+<a id="claim-t-213149"></a>
+- t-213149
+  teiginys: "72 m. po Kr. roksolanai įsiveržė į Meziją ir nugalėjo dvi romėnų kohortas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197134
+
 ## Citatos
 
 - id: c-175710
@@ -136,7 +127,7 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175711
@@ -161,8 +152,6 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-175712
   autorius: "Teodoras Narbutas"
@@ -191,7 +180,7 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175713
@@ -215,5 +204,82 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-195446
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
+  citata_originali: |
+    Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
+    gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
+    yra nepaprastai šaltas aštuntasis ratas, — išsiuntė keliau­
+    tojus tai patikrinti. Šie perėjo plačius Tartarijos kraštus,
+    vėliau didelę slavų Roksolanijos valstybę ir per venedų
+    bei alanų žemes pateko į Livoniją. Iš to krašto, dar gana
+    toli nukeliavę vandens keliu, atsidūrė plačioje ir tuščioje
+    žemėje, kuri neturėjo jokio nuolatinio pavadinimo, nes ją
+    vadino tai Sargatia arba Sargaga, tai Getida arba Vatinla
+    ir dar kitaip.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196638
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 62"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 62."
+  citata_originali: |
+    Dėl tokio alanų galybės
+    padidėjimo; ir jų išplitimo pradėta plytinčią į šiaurę nuo
+    sarmatą klajoklių vietovių Europos dalį vadinti Alanija.
+    Dionyzas iš Charakso mini alanus I krikščioniškosios
+    eros amžiuje, vadindamas juos galinga tauta, turtinga
+    arklių ir gyvenančia į šiaurę nuo šiandienio Kimburno,
+    Dono ir Dnepro tarpupyje;
+    jų kaimynai
+    buvo jiems
+    giminingi roksolanai, arba ai anai iš Vol gos žemupio.
+    Tuomet jie ribojosi su gelonų ir budinu kraštu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197134
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 67"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 67."
+  citata_originali: |
+    Tyrinėtojas pamatė, jog Rhox ir Arhox, ki­
+    taip Ross ir Arass, yra du skirtingi pavadinimai, reiškian­
+    tys dvi atskiras šios upės šakas, išlikusias Azijos senie­
+    nose ir senuose padavimuose, kuriuos žino Pakubanės
+    gyventojai. Taip pat teisinga nuomonė, jog alanai, gy­
+    venę prie šių šakų, buvo vadinami Rhox-alanais arba, anot
+    mūsų rašybos, roksolanais. Tacitas rašo: „Roksolanai,
+    sarmatą gentis, nugalėję dvi kohortas (romėnų), dideliu
+    būriu įsiveržė į Meziją“1. Tai įvyko 72 mūsų eros metais,
+    taigi dar iki tos epochos jie pasitraukė nuo Volgos ir
+    veržėsi už Dunojaus. Vėliau jie minimi kalbant apie įvai­
+    rius istorinius įvykius, paskutinį sykį, anot Julijaus K.a
+    pitolino, minimi romėnų istorijose, pasakojančiose apie
+    Marko Antonijaus valdymą ir filosofą Antoniną, kai, su­
+    sijungę su alanais, peucinais ir kostobokais, nuolat pul­
+    dinėjo imperijos pasienį.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213149

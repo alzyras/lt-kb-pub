@@ -87,6 +87,19 @@ Nenurodyta
   pagrindžia:
     - c-177017
 
+<a id="claim-t-216181"></a>
+- t-216181
+  teiginys: "Po šių pastabų aprašysiu tas monetas, nusipelnančias čia vietos, bent jau dėl to, kad buvo rastos Lietuvos žemėje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-199566
+
 ## Citatos
 
 - id: c-172576
@@ -111,7 +124,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177017
@@ -133,5 +146,52 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198474
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 249"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 249."
+  citata_originali: |
+    1826 metais Lydos apskrityje, netoli Ogrodnikų kaimo, Šal­
+    čios upės pakrantės skardyje, kaimietis rado senų sidabrinių
+    pinigų. 1832 metais iš jų gavau penkis vienetus iš trijų rūšių
+    monetų, kurios sudarė tą lobį. Visokios pastangos rasti dau­
+    giau buvo bergždžios, kadangi pirkėjas -  žydas auksakalys, gy­
+    venantis gretimame miestelyje, tuojau po radimo pasistengė
+    jas sulydyti. Apklausinėjus žydą ir kaimietį, paaiškėjo, kad dau­
+    giausia buvo plonų monetų, visos vienodo antspaudo; dviejų
+    rūšių storosios sudarė pusę viso radinio svorio; sidabras aukš- 31
+    31
+    Dėl Santvaro atvaizdo buvo įvairiausių nuomonių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199566
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 251."
+  citata_originali: |
+    Monetos storis piešinyje nurodytas skersmens pjūviu, pa­
+    žymėtu tarp monetos šonų, kaip ir visuose kituose tos lentelės
+    piešiniuose.
+    Iki šiol negalėjau gauti užrašų paaiškinimo, nors stengiau­
+    si ir siunčiau piešinius įvairiems mokovams, lyginau su įvai­
+    riais raidynais, esančiais išleistuose veikaluose.
+    Kaldinimo būdas, sidabras ir pavidalas - visai tokie, kaip
+    ir kitoje monetoje - tikriausiai rodo jų tą patį amžių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216181

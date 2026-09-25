@@ -133,11 +133,12 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
     subūrusio jėgas.
   citata_rodoma: "Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su ne-\npriklausomąja Lietuva Klaipėdos kraštas, tai buvo nuopelnas\nkultūrinio vietos lietuvių veikimo, gaivinusio tautišką sąmonę ir\nsubūrusio jėgas."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
     - t-005
@@ -160,7 +161,7 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-97139
@@ -182,5 +183,5 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

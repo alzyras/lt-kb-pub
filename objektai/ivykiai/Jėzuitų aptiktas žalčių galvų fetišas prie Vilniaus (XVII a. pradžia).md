@@ -72,5 +72,5 @@ Kai iš vaiko atėmė fetišą, jis labai nu siminė, ėmė karščiuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

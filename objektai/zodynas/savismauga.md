@@ -66,5 +66,5 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

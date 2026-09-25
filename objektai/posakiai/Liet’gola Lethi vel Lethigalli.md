@@ -86,7 +86,7 @@ Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167729
@@ -108,5 +108,5 @@ Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -128,7 +128,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-00229
@@ -153,7 +153,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171273
@@ -176,5 +176,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-201230
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
+  citata_originali: |
+    Šis tėvynės paminklų brangintojas liepė iš trūnijusiame
+    šio ąžuolo kamiene įrengti kabinetą, turintį 7 uolekčių, 18 co­
+    lių skersmenį, kuriame dabar jis laiko retų senienų kolekciją
+    ir istorijos veikalus apie krašto praeitį. Mitologinis šio ąžuolo
+    vardas yra Baublys (Baublis); žemaičių tarmėje tai turėtų reikšti
+    buliaus balso apibūdinimą, balso, kokiu nebliauna nei karvė,
+    nei jautis14. Matyt, tai buvo vienas ąžuolų pranašautojų, iš ku­
+    rio sutrūnijusio vidaus pasigirsdavo balsas, panašus į buliaus
+    baubimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

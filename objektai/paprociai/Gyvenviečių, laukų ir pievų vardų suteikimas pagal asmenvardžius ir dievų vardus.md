@@ -74,5 +74,5 @@ Be to, reikia at minti, kad visi gyvenviečių, laukų ir pievų pavadinimai kil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

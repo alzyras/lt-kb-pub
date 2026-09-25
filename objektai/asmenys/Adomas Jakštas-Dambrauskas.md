@@ -86,5 +86,5 @@ canonical_biography: "1902 m. kun. Adomas Jakštas-Dambrauskas išleido lenkišk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

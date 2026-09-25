@@ -254,7 +254,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-170940
@@ -273,7 +273,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173506
@@ -294,7 +294,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173507
@@ -319,7 +319,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173568
@@ -343,7 +343,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173569
@@ -365,7 +365,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173570
@@ -389,5 +389,50 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-197007
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
+  citata_originali: |
+    95
+    Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­
+    nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
+    toms iš kitur pažįstamus poloviečius', remdamasis tokio­
+    mis pat Kojalavičiaus prielaidomis1 2. Naruševičius patei­
+    kia žinių, kurios, rodos, taip pat remia šią nuomonę, kad
+    poloviečiai buvę rusų kaimynai nuo saulės patekėjimo ir
+    nusileidimo pusių3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200434
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
+  citata_originali: |
+    Draugystės, svetingumo, santai­
+    kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
+    baimingai tautai tikriausiai nebuvo tušti simboliai. Tad Ški­
+    cas, Henenbergeris, Hartknochas ir Kojalavičius apšmeižė se­
+    novės lietuvius, priskirdami jiems žiaurumą su ligoniais, bejė­
+    giais, luošaisiais arba mirštančiais žmonėmis, esą buvę įprasta
+    pagreitinti jų mirtį . Tuo nepatikės niekas, kas bent kiek pa- 13
+    13
+    Iš dalies tą darė herulai -  tai pasakysime mūsų istorijos tęsiny­
+    je, -  bet ne smurtu ir ne pagal religijos nuostatus, o tik prietaringų ir
+    ligos palaužtų senelių prašymu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

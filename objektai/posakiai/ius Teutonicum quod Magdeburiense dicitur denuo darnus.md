@@ -97,5 +97,5 @@ Il priede išsamią žinią apie Lieje, kur aiškiai pasakyta: ius Teutonituvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

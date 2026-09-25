@@ -97,7 +97,7 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174847
@@ -121,5 +121,26 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196089
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
+  citata_originali: |
+    Taip ir baigėsi tą sykį dvie­
+    jų tautų tarpusavio karai3. Iš tiesų chronologai nesutaria
+    tarpusavyje, kuriais metais pradėjo valdyti Protonas I;
+    tačiau iš chronologinių apskaičiavimų aišku, kad jis buvęs
+    beveik Romos imperatoriaus Oktaviano Augusto amžinin­
+    kas, tik kiek jaunesnis. Vadinasi, šis istorinis įvykis tu­
+    rėjęs būti I krikščioniškosios eros amžiaus pirmojoje pu­
+    sėje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

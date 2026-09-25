@@ -79,5 +79,28 @@ Narbutas rašė, kad Skilakas spėjo apie prie Kaspijos gyvenusius gelonus, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195523
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
+  citata_originali: |
+    Senovės
+    geografai nurodo tris gelonų kolonijas: viena prie Meo-
+    tidės, kolchų kaimynystėje, antra tarp budinu, o trečia
+    prie Kaspijos3. Bet ne visos jos buvo vienu metu, nes
+    gerai matyti, jog pirmiausia, išvyti iš emporiumų, jie gy­
+    veno dešiniojoje Dnepro ir Bugo pakrantėje, kur stovėjo
+    ir Gelono miestas (apie tai kalbėsime vėliau), persikėlė
+    prie Meotidės arba į Dono žemupio apylinkes, o vėliau —
+    pas budinus. O tie, apie kuriuos spėja Skilakas, yra gy­
+    venę prie Kaspijos4. Apie juos mes nekalbėsime.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -61,3 +61,41 @@ Nenurodyta
 ## Santrauka
 
 1784 m. spalio 18 d. kapitula sprendė dėl Dniepro valymo darbų ir nutarė jiems neprieštarauti bei teikti pagalbą.
+
+## Teiginiai
+
+<a id="claim-t-208260"></a>
+- t-001
+  teiginys: "1784 m. spalio 18 d. kapitula sprendė dėl Dniepro valymo darbų ir nutarė jiems neprieštarauti bei teikti pagalbą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1784 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai nurodo kapitulos veiksmą ir sprendimo datą. Jis pakankamai konkrečiai apibūdina Dniepro valymo klausimą."
+  pagrindžia:
+    - c-190963
+
+## Citatos
+
+- id: c-190963
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 125"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 125."
+  citata_originali: |
+    Bohušui. Jau 1784 m. spalio
+    18 d. jis pateikė kapitulai iš Rečycos bajorų vadovo gautą raštą su priedu - Mogi-
+    liavo gubernatoriaus laiško kopiją dėl Dniepro valymo darbų ir kvietimą prie to
+    prisidėti. Kapitula nekvestionavo reikalo svarbos ir nutarė ne tik neprieštarauti,
+    kad upė būtų valoma, bet ir teikti reikalingą pagalbą86.
+  citata_rodoma: "Jau 1784 m. spalio \n18 d. jis pateikė kapitulai iš Rečycos bajorų vadovo gautą raštą su priedu - Mogi- \nliavo gubernatoriaus laiško kopiją dėl Dniepro valymo darbų ir kvietimą prie to \nprisidėti. Kapitula nekvestionavo reikalo svarbos ir nutarė ne tik neprieštarauti, \nkad upė būtų valoma, bet ir teikti reikalingą pagalbą86."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

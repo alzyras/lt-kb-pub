@@ -63,5 +63,5 @@ Lydos klebono užrašuose teigiama, kad Vilniaus Smėlynės pranciškonų vienuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

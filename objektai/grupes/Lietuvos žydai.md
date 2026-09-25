@@ -65,5 +65,28 @@ Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199553
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
+  citata_originali: |
+    Kuo la­
+    biau tauta buvo linkusi į perdėtą pamaldumą, tuo labiau ji
+    garbindavo ugnį. Turime pirštu prikišamą pavyzdį - mūsų Lie­
+    tuvos žydus, perdėtai pamaldžius ir pernelyg prietaringus; jų
+    mokyklose, tai yra salėse, esančiose šalia sinagogų, kur jų da­
+    vatkos, skaitydamos asketiškas knygas, praleidžia dienas nak­
+    tis, nuolat laikomos degančios lempos arba tam tikros rūšies
+    žvakės. Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi
+    nuo to laiko, kai ją išgelbėję iš Saliamono šventyklos, o paskui
+    atsinešę į Lietuvą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

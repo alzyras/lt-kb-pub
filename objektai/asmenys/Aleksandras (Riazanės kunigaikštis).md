@@ -100,5 +100,5 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

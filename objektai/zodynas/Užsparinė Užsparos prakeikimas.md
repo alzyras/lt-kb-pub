@@ -93,7 +93,7 @@ Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172142
@@ -117,5 +117,51 @@ Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198372
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 140"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 140."
+  citata_originali: |
+    Viename senoviškame sienų nustatymo dokumente, ku­
+    rio data nežinoma, bet kuris tikrai iš didžiojo kunigaikščio Vy­
+    tauto laikų, yra paminėta, kad riboženklių neliečiamybė kaip
+    buvo saugoma Užsparos (Uspary) prakeikimo, taip ir dabar
+    tebūnie Kristaus patepta šventenybe. Šį dokumentą, rašytą ru­
+    siškai, turiu rankoje.
+    Ši deivė savo reikšme visiškai tapati romėnų žinomam die­
+    vaičiui Quadratus Deus arba Terminus, kurių atvaizdas buvo
+    paprastas, šešiakampiškai tašytas akmuo, dedamas ribų susi­
+    kirtimo vietoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200968
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 140"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 140."
+  citata_originali: |
+    Atikoje Krono šventė buvo švenčiama Krono garbei he-
+    katombajono (Hekatombeon) mėnesį, kurį anksčiau vadino
+    Krono mėnesiu (Kronius).
+    Užsparinė (Usparinia)
+    Tai buvo žemės ribų deivė, globojanti kampinius kaupus
+    arba sergėjanti sienų neliečiamumą; jų nepažeidžiamumas lie­
+    tuviams buvo šventenybė.
+    Lasickio, aišku, su klaida užrašyta Aspelenie (Užpelenė),
+    nes tą vardą į lotynų kalbą jis verčia Angularis, taigi turėjo
+    būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -61,12 +61,14 @@ Nenurodyta
     tytuvėniškiai nesiduotų burtininkų apgaudinėjami4.
   citata_rodoma: "Sužinojęs, kad Tytuvėnų parapijoje burtininkai Anta­\nnas Bortkevičius ir Juozapas Leščiauskas, prisidengę pa­\nmaldumu, ėmė apgaudinėti žmones: šventinti žoles, na­\nmus, rašyti žmones į tretininkus, suteikinėti atlaidus, lai­\nminti bei dalyti kryželius, į juos įdėję akmenukų ar mi­\nrusiųjų kaulų, vysk. M. Valančius 1864.1.28 parašė Ty­\ntuvėnų parapijai pastoracinį laišką, kuriame priminė, kad \ntytuvėniškiai nesiduotų burtininkų apgaudinėjami4."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
 ## Teiginiai
 
 <a id="claim-t-208793"></a>
@@ -81,4 +83,3 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
     - c-191413
-

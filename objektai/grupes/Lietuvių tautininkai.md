@@ -67,7 +67,7 @@ Pirm negu važiuoti Washingtonan man teko nu eiti su tautininkų vadais, atvaži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192371
@@ -91,5 +91,5 @@ Pirm negu važiuoti Washingtonan man teko nu eiti su tautininkų vadais, atvaži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

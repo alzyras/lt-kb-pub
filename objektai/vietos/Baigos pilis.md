@@ -63,5 +63,5 @@ canonical_biography: 'Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

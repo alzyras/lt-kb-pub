@@ -65,5 +65,5 @@ Bychovco kronikos autorius, rašydamas apie Kazimiero ir Aleksandro laikus, naud
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

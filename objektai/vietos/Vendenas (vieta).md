@@ -89,6 +89,19 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
   pagrindžia:
     - c-188083
 
+<a id="claim-t-213688"></a>
+- t-213688
+  teiginys: "Senovės tyrinėtojai teigia, kad Vendenas Livoni joje yra jų kolonija, kurią senovės lyviai vadino Kisia."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-197220
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vendeno apylinkėse.'
@@ -148,7 +161,7 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188083
@@ -172,7 +185,7 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188086
@@ -192,5 +205,22 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197220
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290."
+  citata_originali: |
+    Senovės tyrinėtojai teigia, kad Vendenas Livoni­
+    joje yra jų kolonija, kurią senovės lyviai vadino Kisia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213688

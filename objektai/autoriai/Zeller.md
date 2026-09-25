@@ -88,6 +88,26 @@ Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my lių ilgio, dyd�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-196486
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
+  citata_originali: |
+    Vadi­
+    nasi, čia gyventa jau iki IV amžiaus.
+    1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus
+    mano buvus slavus, kuriuos kadaise nukariavo skitai*.
+    2 Apie senovės Kijevo, kurio gynybinės sienos buvo astuonių my­
+    lių ilgio, dydį, apie pastatus ir urvus plačiai rašė senovės literatai
+    (Zeller.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

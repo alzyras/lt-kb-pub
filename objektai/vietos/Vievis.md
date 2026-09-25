@@ -68,5 +68,5 @@ Prie Vievio jie net karo veiksmais sulaikė mūsų žygiavimą ir sudegino Vakos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

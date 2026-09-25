@@ -49,6 +49,18 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
   pagrindžia:
     - c-175742
 
+<a id="claim-t-213584"></a>
+- t-213584
+  teiginys: "Senovės graikai, anot senųjų amžių padavimų, turėjo žinių apie Tolimojoje Šiaurėje gyvenusius žmones, ku riuos jie vadino hiperborėjais nuo jų gyvenamosios vie tos reikšmės pavadinimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196725
+
 ## Citatos
 
 - id: c-175742
@@ -71,5 +83,28 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196725
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 37."
+  citata_originali: |
+    Apie šį sausumos iškilimą
+    dar kalbėsime ir pateiksime kai kurių įrodymų; čia tik
+    paminėsime seniausius šios ašigalių zonos gyventojus.
+    Senovės graikai, anot senųjų amžių padavimų, turėjo
+    žinių apie Tolimojoje Šiaurėje gyvenusius žmones, ku­
+    riuos jie vadino hiperborėjais nuo jų gyvenamosios vie­
+    tos reikšmės pavadinimo. Žiloje senovėje Borėjas buvęs
+    šiaurės krašto valdovas2, o už jo valstybės būta dar šiau­
+    resnių gyventojų.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213584

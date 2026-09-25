@@ -119,7 +119,7 @@ canonical_biography: "161 ## Puslapis 178 VILNIAUS MIESTO ISTORIJA II KNYGOS PRI
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83982
@@ -154,7 +154,7 @@ canonical_biography: "161 ## Puslapis 178 VILNIAUS MIESTO ISTORIJA II KNYGOS PRI
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83983
@@ -175,5 +175,5 @@ canonical_biography: "161 ## Puslapis 178 VILNIAUS MIESTO ISTORIJA II KNYGOS PRI
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

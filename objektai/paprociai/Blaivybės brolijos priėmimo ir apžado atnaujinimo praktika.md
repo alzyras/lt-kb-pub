@@ -67,8 +67,9 @@ Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
 ## Teiginiai
 
 <a id="claim-t-208821"></a>
@@ -82,4 +83,3 @@ Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arak
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
   pagrindžia:
     - c-191441
-

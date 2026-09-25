@@ -85,5 +85,5 @@ Anot Teodoro Narbuto, Treniota ir lietuvių didikai ragino Mindaugą nutraukti r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

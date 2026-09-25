@@ -61,5 +61,5 @@ Ten buvo Homero „Odisėjoje“ apdainuotas Elisiejus (4 giesmė), ten, kur amb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

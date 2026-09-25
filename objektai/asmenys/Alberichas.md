@@ -86,5 +86,27 @@ Alberichas 1228 metų kronikoje tarp pagonių provincijų minėjo Prūsiją, Kur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197190
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Taip pat apie skirtingas šalis ra­
+    šo Alberichas savo 1228 metų kronikoje (Leibnitz: Access.
+    Histor. P. 527; Gruber. I c. P. 171): E r ant autem hoc
+    anno in iis partibus quinque tantummodo provinciae pa-
+    ganorum acquirendae, ista videlicet, de qua agitur Prū­
+    dą, Curlandia, Lethonia, Witlandia et Sambria, Tai jau
+    įtikina mus, kad, be Sambijos, buvo ir kraštas, žinomas
+    Vitlandijos vardu, Be to, ši senovės Vitlandija driekėsi
+    rytine Vyslos pakrante.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

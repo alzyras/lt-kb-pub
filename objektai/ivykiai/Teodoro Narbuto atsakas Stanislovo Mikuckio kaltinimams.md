@@ -76,5 +76,5 @@ Narbutas į oficialiąją kritiką beveik nie kuomet neatsakinėjo, galbūt išs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

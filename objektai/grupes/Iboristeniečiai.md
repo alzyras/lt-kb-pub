@@ -70,5 +70,26 @@ Iboristeniečiai pirkliavo prie Dnepro, kuriuo ėjo seniausias kelias per Aldesk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197097
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 165."
+  citata_originali: |
+    167
+    Gintaras, alavas ir brangūs kailiai Pietų ir Rytų gy­
+    ventojams buvo labai reikalingos prekės, todėl keliai, ku­
+    riais gabeno šias prekes, buvo rasti labai seniai ir dažnai
+    naudojami. Pats ¡seniausias kelias ėjo per Aldeską ir Pan-
+    tikapą į Dneprą, kur pirkliavo iboristeniečiai. Apie tai žinių
+    pateikia Herodotas, galbūt iš senų pavadinimų žinojęs
+    apie argonautų žygį tuo keliu į šiaurinį Okeaną.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

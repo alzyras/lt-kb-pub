@@ -74,5 +74,5 @@ Pasak T. Narbuto, Ostapui Kropotkovui už nuopelnus kare su totoriais buvo sutei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

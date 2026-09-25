@@ -100,5 +100,5 @@ canonical_biography: "300 ## Puslapis 317 IV KNYGA Paliko vaito pareigas to pati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

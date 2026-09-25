@@ -72,6 +72,18 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
   pagrindžia:
     - c-167510
 
+<a id="claim-t-220638"></a>
+- t-220638
+  teiginys: "Sirenas buvo pamedėnas, laikytas grandinėmis surakintas Kristburgo pilyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203242
+
 ## Citatos
 
 - id: c-61065
@@ -92,7 +104,7 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167510
@@ -113,8 +125,49 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-202572
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
+  citata_originali: |
+    Tuo
+    metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu
+    Sirenas, kurį laikė grandinėmis surakintą, nes buvo kažkuo prasikaltęs. Šis, nutraukęs
+    grandines, su kalaviju ir ietimis nelyginant bebaimis liūtas stojo ant brolių pilies tilto ir
+    trukdė priešams į ją įsibrauti, kol neuždarė pilies vartų. Po to vienas brolis strėle nukovė
+    vieną prūsą, kuriam buvo pavesta saugoti 40 paimtų į nelaisvę ir surištų krikščionių
+    vaikų, šie vaikai subėgo į pilį ir išvengė amžinos vergovės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203242
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
+  citata_originali: |
+    Pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai jį užpuolė,
+    visiškai sugriovė pamedėnų gyvenvietę bei pilį424 ir brolių papilį, vienus paimdami
+    į nelaisvę, kitus išžudydami, išskyrus tuos, kurie suskubo pasprukti į brolių pilį. Tuo
+    metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu
+    Sirenas, kurį laikė grandinėmis surakintą, nes buvo kažkuo prasikaltęs. Šis, nutraukęs
+    grandines, su kalaviju ir ietimis nelyginant bebaimis liūtas stojo ant brolių pilies tilto ir
+    trukdė priešams į ją įsibrauti, kol neuždarė pilies vartų.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220638
 
 ## Ryšiai
 - Sirenas gynė [[objektai/vietos/Kristburgas]]

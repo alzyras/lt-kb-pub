@@ -58,6 +58,18 @@ Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairio
   pagrindžia:
     - c-171876
 
+<a id="claim-t-218874"></a>
+- t-218874
+  teiginys: "Kaip tik tokie bjaurūs vabz džiai yra tarakonai, kurie Lydoje ir jos apylinkėse iki pat kai riojo Ditvos kranto yra visuotinai paplitę ir labai įkyrėję; o tos upės dešiniajame krante, kaip ir visoje tikrojoje Lietuvoje, ku rios pietinės sienos siekė tą upę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198922
+
 ## Citatos
 
 - id: c-171876
@@ -80,5 +92,28 @@ Narbutas rašo, kad tarakonai buvo paplitę Lydoje ir jos apylinkėse iki kairio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198922
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 182"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
+  citata_originali: |
+    Tai galima pastebėti iš to, kas išdėstyta,
+    ir iš kai kurių žmonių pasakojimų. Kaip tik tokie bjaurūs vabz­
+    džiai yra tarakonai, kurie Lydoje ir jos apylinkėse iki pat kai­
+    riojo Ditvos kranto yra visuotinai paplitę ir labai įkyrėję; o tos
+    upės dešiniajame krante, kaip ir visoje tikrojoje Lietuvoje, ku­
+    rios pietinės sienos siekė tą upę, niekur jų nėra.
+    Kaukai (Kaukie)
+    Tai buvusios mitinės pabaisos arba siaubą keliantys neūžau­
+    gos, naktimis gąsdinantys žmones.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218874

@@ -53,3 +53,40 @@ Straipsnyje remiamasi D. Rolniko mintimi, kad šalia sienos gyvenę didikai ir b
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208326"></a>
+- t-001
+  teiginys: "Straipsnyje remiamasi D. Rolniko mintimi, kad šalia sienos gyvenę didikai ir bajorai savo mintis reiškė atsargiau."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190994
+
+## Citatos
+
+- id: c-190994
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 340"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 340."
+  citata_originali: |
+    Tai gana atvirai savo nuomonę apie
+    svetimos kariuomenės veiksnį parodantis aristokratės laiškas. Tiriant Lietuvos
+    Didžiosios Kunigaikštystės gyventojų laiškus pastebėtina, kad apie grasinimus
+    laiškuose nerašyta, nors sunku patikėti, kad jų nebuvo. Beje, itin nepalankius
+    Lenkijos didikų atsiliepimus apie Rusijos kariuomenę mini ir D. Rolnikas, rašęs,
+    kad šalia sienos gyvenę didikai ir bajorai, dažnai ten turėję valdas asmenys, savo
+    mintis reiškė atsargiau52.
+  citata_rodoma: "Beje, itin nepalankius \nLenkijos didikų atsiliepimus apie Rusijos kariuomenę mini ir D. Rolnikas, rašęs, \nkad šalia sienos gyvenę didikai ir bajorai, dažnai ten turėję valdas asmenys, savo \nmintis reiškė atsargiau52."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

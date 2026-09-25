@@ -111,6 +111,16 @@ Nenurodyta
   pagrindžia:
     - c-177813
 
+<a id="claim-t-195397"></a>
+- t-195397
+  teiginys: "Per Kūčių vakarienę šeimininkas laužo plotkus, juos deda į barščius, o visi valgo iš vieno dubens."
+  atnaujinta: "2026-09-20 20:29"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177815
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -129,7 +139,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177813
@@ -145,7 +155,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177814
@@ -166,7 +176,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177815
@@ -183,6 +193,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195397
+
 - id: c-177816
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -192,9 +205,10 @@ Nenurodyta
     Toliau seka šaltas valgis: aguonų pienas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“.
   citata_rodoma: "Toliau seka šaltas valgis: aguonų pienas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -52,6 +52,19 @@ To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmer
   pagrindžia:
     - c-185066
 
+<a id="claim-t-208538"></a>
+- t-208538
+  teiginys: "Vyskupas Motiejus Valančius vizitavo Vilkijos ir Karmėlavos parapijas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
+  pagrindžia:
+    - c-191158
+
 ## Citatos
 
 - id: c-185066
@@ -72,5 +85,24 @@ To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-191158
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 56"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 56."
+  citata_originali: |
+    Todėl vysk. M. Valančius tais metais ap­
+    lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če­
+    kiškę 6 7. Kitais metais vizitavo tik Vilkijos ir Karmėlavos
+    parapijas 1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208538

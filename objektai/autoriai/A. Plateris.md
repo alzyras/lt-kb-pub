@@ -91,5 +91,5 @@ Plateris : Janulaitis mokslininkas , LE 9 t., 293 p. 62 ĮVADAS Bažnyčios isto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -61,5 +61,21 @@ Dusburgietis teigia, kad [Hollack E.] Vorgeschichtliche Übersichtskarte von Ost
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203944
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 264"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
+  citata_originali: |
+    [Hollack E.] Vorgeschichtliche Übersichtskarte von Ostpreussen / Im Auftrage des
+    ostpreussischen Provinzial-Verbandes entworfen und gezeichnet von Emil Hollack.
+    Massstab 1 :300 000 Kilometer.— Glogau—Berlin.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -95,5 +95,5 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

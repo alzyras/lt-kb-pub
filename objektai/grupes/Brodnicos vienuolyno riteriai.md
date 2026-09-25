@@ -60,5 +60,5 @@ Brodnicos vienuolyno riteriai miesto sienoje priešais savo pozicijas pralaužė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

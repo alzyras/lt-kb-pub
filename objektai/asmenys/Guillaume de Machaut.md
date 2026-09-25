@@ -85,5 +85,5 @@ canonical_biography: "Šis žygis, kuriame buvo daug svečių iš visur, net iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

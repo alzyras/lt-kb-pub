@@ -125,7 +125,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167694
@@ -145,7 +145,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-170621
@@ -171,5 +171,30 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-193728
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 84"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 84."
+  citata_originali: |
+    APIE JOGAILOS ŽYGĮ I LENKIJĄ IR ŠVENTOJO KRYŽIAUS
+    MEDŽIO PAGROBIMĄ
+    Jogaila valdydamas visą Lietuvos Didžiąją Kuni­
+    gaikštystę, pradėjo kariauti su Mazovija2  ir su Len­
+    kais, nes Mazovijos kunigaikštis, Lenkų padedamas,
+    buvo užgrobęs Drohičiną ir Melniką. Jogaila daug kar­
+    tų žygiavo į Lenkų žemę ir padarė daug žalos Lenkų
+    bei Mozūrų žemėms, ir praliejo daug Romos tikėjimo
+    krikščionių kraujo nuo Lietuvos sienų ligi pat Vislos
+    upės 3.
+    Ir atžygiavę su didele kariuomene prie Vislos, prie­
+    šais Zavichostą \  ėmė tartis, kaip persikelti per upę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

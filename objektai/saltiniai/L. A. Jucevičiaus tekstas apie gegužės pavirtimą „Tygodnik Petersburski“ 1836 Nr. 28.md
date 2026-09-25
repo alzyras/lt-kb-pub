@@ -67,5 +67,22 @@ Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195144
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 480"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 480."
+  citata_originali: |
+    O taip atsitiktų, jeigu aš pateikčiau ilgą legendą
+    apie gegužės pavirtimą, kurio aprašymu ekskunigas Adomas Ju­
+    cevičius užėmė nemenką „Tygodnik Petersburski“ (1836. Nr. 28)
+    dalį. Vis dėlto patį pavirtimo turinį privalau aprašyti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

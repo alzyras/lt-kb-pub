@@ -81,5 +81,5 @@ Bertoldo kariuomenė po to užpuolė Medrabos pilį, ją sudegino iki pamatų ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

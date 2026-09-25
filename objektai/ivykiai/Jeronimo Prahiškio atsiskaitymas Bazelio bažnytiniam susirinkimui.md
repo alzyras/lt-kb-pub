@@ -101,5 +101,33 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200067
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
+  citata_originali: |
+    Žyniai, paklausti, ką reiškiąs tas garbini­
+    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
+    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
+    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
+    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
+    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
+    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
+    no paviete, kur lietuviai gyvena, ir Trakų. Palyginus su Šrioku (cituo­
+    ta vieta) ir su žinia, paskelbta leidinyje „Znicz“ (1835.- P. 34), pa­
+    aiškėja, kad čia pakartojamas to Jeronimo pasakojimas popiežiui
+    Enėjui Silvijui, arba Pijui II, ir 1432-1439 metais vykusio Bazelio
+    bažnytinio susirinkimo šventiesiems tėvams, kuriuo jis atsiskaitė apie
+    savo apaštalavimą Lietuvoje 1392 arba 1393 metais. Po Bazelio
+    susirinkimo jis dar gyveno kažkokioje Kartuzijoje prie Reino. Apie
+    kitą Jeronimą Prahiškį kalbėjome anksčiau.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

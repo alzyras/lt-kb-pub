@@ -89,7 +89,7 @@ canonical_biography: "Šitas vienintelis Pabaltijo « Wasserburg », kurio mūru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 

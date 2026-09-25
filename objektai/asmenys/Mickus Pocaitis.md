@@ -63,6 +63,18 @@ Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojam
   pagrindžia:
     - c-173117
 
+<a id="claim-t-216370"></a>
+- t-216370
+  teiginys: "Mickus Pocaitis (Micko Pacowicz) apie XV amžiaus vidurį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200184
+
 ## Citatos
 
 - id: c-173117
@@ -84,5 +96,27 @@ Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200184
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
+  citata_originali: |
+    IV
+    lentelė, 18-asis piešinys. Astuoni antspaudai su žalčiais;
+    iš jų a prispaudė Čeplė (Czapla) 1541 metais; b - Valatkevi-
+    čius (Wotodkiewicz) 1513 metais; c - Skiparas (Skipor) 1483
+    metais; d - Pašičius (Paszyc) 1510 metais; e - Stecevičius (Ste-
+    cewicz) 1609 m etais;/- Zubas (Zub) 1480 metais; g - Rekstys
+    (Rexč) 1481 metais;/? - Mickus Pocaitis (Micko Pacowicz) apie
+    XV amžiaus vidurį.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216370

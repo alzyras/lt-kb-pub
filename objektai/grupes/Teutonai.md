@@ -39,6 +39,18 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   pagrindžia:
     - c-10084
 
+<a id="claim-t-213173"></a>
+- t-213173
+  teiginys: "Gyventojai naudoja jį vietoj malkų kurui arba parduoda kaimynams teutonams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195030
+
 ## Citatos
 
 - id: c-10083
@@ -57,6 +69,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-10084
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -72,8 +85,25 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195030
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 156"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 156."
+  citata_originali: |
+    Gyventojai naudoja jį vietoj malkų
+    kurui arba parduoda kaimynams teutonams
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213173
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Sventopelkas]]

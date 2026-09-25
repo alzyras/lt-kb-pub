@@ -66,9 +66,10 @@ historical_names: []
     Tai nedidelė šv. Mykolo bažnyčia, netoliese nuo
     šv. Onos ir Bernardinų.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

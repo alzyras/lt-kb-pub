@@ -93,7 +93,7 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166920
@@ -114,5 +114,5 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -47,25 +47,6 @@ Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų
   pagrindžia:
     - c-168828
 
-<a id="claim-t-185468"></a>
-- t-002
-  teiginys: "Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "siunte_i -> Čekija: 0.76"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas tiesiogiai pareiškia įsakęs Kaributaičiui įsiveržti į Čekiją; kandidatuose nėra Kaributaičio, todėl fiksuojamas Vytauto siuntimas į Čekiją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168829
-
 <a id="claim-t-196394"></a>
 - t-003
   teiginys: "Imperatoriaus pasiuntinys siūlė, kad ginčą spręstų žymiausi Čekijos ir Lenkijos didikai, jeigu Jogaila abejotų imperatoriaus teisingumu."
@@ -100,7 +81,7 @@ Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168829
@@ -135,6 +116,5 @@ Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
     - t-003

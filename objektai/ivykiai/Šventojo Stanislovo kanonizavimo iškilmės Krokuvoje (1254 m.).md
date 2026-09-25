@@ -84,5 +84,5 @@ Teodoro Narbuto pasakojimu, 1254 m. gegužės 8 d. Krokuvoje Lietuvos vyskupas V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

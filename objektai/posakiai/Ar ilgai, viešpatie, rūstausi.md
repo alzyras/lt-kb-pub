@@ -77,6 +77,26 @@ Dusburgietis teigia, kad ar ilgai, viešpatie, rūstausi? Dusburgietis teigia, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-201820
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  citata_originali: |
+    Štai kaip viešpats kalaviju išskyrė savo tautą, kurios kraują netikėliai liejo nelyginant
+    vandenį po visą žemę, ir nebuvo matyti, kas juos laidos, o jų kūnai bus palikti žemės
+    žvėrims! Ar ilgai, viešpatie, rūstausi? Pasigailėk pagaliau mūsų, viešpatie, pasigailėk
+    mūsų, išvyski pralietą tavo tarnų kraują ir atkeršyki! Parodyk savo rūstį netikėliams,
+    tavęs neišpažįstantiems, karalystėms, nesišaukiančioms tavo vardo, dėl savo vardo
+    šlovės būk mums atlaidus, idant negalėtų netikėliai sakyti: „Kurgi jų dievas?“
+    67 (66).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -81,6 +81,19 @@ canonical_biography: "Čia dar reikia paminėti ir lietuviškų kalendorių leid
   pagrindžia:
     - c-104711
 
+<a id="claim-t-209412"></a>
+- t-209412
+  teiginys: "Lauryno Ivinskio lietuviški kalendoriai, tuo metu pažįstami liaudžiai, reikšmingai prisidėjo prie blaivybės idėjų propagavimo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-192052
+
 ## Citatos
 
 - id: c-104710
@@ -102,7 +115,7 @@ canonical_biography: "Čia dar reikia paminėti ir lietuviškų kalendorių leid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-104711
@@ -125,5 +138,27 @@ canonical_biography: "Čia dar reikia paminėti ir lietuviškų kalendorių leid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-192052
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 81"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 81."
+  citata_originali: |
+    Gyvai, palyginti gryna lietuvių kalba parašytos J.S. Dovydaičio
+    knygelės buvo plačiai skaitomos ir nemažai prisidėjo prie blaivybės
+    propagandos ir liaudies švietimo.
+    Ne mažiau svarbus ir L. Ivinskio įnašas į blaivybės idėjų
+    propagavimą. Jo lietuviški kalendoriai tuo metu jau buvo pažįstami
+    liaudžiai, todėl ir juose skelbiamų idėjų, poveikis nemažas.
+  citata_rodoma: "Ne mažiau svarbus ir L. Ivinskio įnašas į blaivybės idėjų \npropagavimą. Jo lietuviški kalendoriai tuo metu jau buvo pažįstami \nliaudžiai, todėl ir juose skelbiamų idėjų, poveikis nemažas."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209412

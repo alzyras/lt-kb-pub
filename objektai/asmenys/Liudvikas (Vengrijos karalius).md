@@ -86,5 +86,5 @@ canonical_biography: "1345 m. sausį į Prūsiją atvyko Čekijos karalius Jonas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

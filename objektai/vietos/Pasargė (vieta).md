@@ -70,5 +70,5 @@ Vakaruose ji ribojosi su Pagude, nuo kurios ją skyrė Pasargės, arba Sargos, u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

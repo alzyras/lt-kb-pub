@@ -96,10 +96,11 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
     išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko
     Kazio Griniaus vadovaujama vyriausybė.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

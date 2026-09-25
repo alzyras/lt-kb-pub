@@ -58,6 +58,18 @@ Narbutas Rikajotą aprašo kaip nežinomos vietos garsią šventyklą ir mini nu
   pagrindžia:
     - c-171856
 
+<a id="claim-t-218022"></a>
+- t-218022
+  teiginys: "Garsi šven tykla buvo vietovėje, vadintoje Rikajotu (Rikajoth), kurios bu vimo vieta nežinoma. Kiti mano, kad tai ta pati vieta, kaip ir Romovė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198702
+
 ## Citatos
 
 - id: c-171856
@@ -76,5 +88,24 @@ Narbutas Rikajotą aprašo kaip nežinomos vietos garsią šventyklą ir mini nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198702
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
+  citata_originali: |
+    Upės (Oppen) kaime augo storiausias ąžuolas, kuris, anot
+    to paties istoriko, priklausė šventyklos liekanoms. Garsi šven­
+    tykla buvo vietovėje, vadintoje Rikajotu (Rikajoth), kurios bu­
+    vimo vieta nežinoma. Kiti mano, kad tai ta pati vieta, kaip ir
+    Romovė.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218022

@@ -80,5 +80,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202153
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 258"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 258."
+  citata_originali: |
+    Kodėl nepasikliovei jo gerumu? Kodėl nelyginant patrakėlis Judas tą pačią dieną valgei
+    jo valgymą bei gėrei jo gėrimą, o po to praliejai jo kūno kraują, pervėręs jį durklu? Tave
+    kaltindamas, jis stengėsi apsaugoti tavo sielą nuo pražūties ir suteikti jai gyvenimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

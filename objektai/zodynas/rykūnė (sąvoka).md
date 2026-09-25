@@ -63,9 +63,10 @@ Rykūnė prižiūrėjo sodybos tvartuose laikytas karves, avis, kiaules ir namin
     paukščius, gamindavo pieno produktus.
   citata_rodoma: "Pagrindinį vaidmenį čia atliko rykūnė \n(pbwyHH')95. Ji prižiūrėjo sodybos tvartuo-\nse laikytas karves, avis, kiaules ir naminius \npaukščius, gamindavo pieno produktus."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -150,11 +150,12 @@ Nenurodyta
     1564 m. sausio 23 d. ULOS (CASNIKY) MŪŠIS 89
   citata_rodoma: "Susibūrusi į vieną vietą, visa kariuomenė ap-\nsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli\npraėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai\ndaug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys. Tokiu būdu\nkariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“\n\n1564 m."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -178,6 +179,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003

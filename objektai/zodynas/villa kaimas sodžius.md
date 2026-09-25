@@ -87,7 +87,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59513
@@ -106,7 +106,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167406
@@ -126,5 +126,66 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-203326
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  citata_originali: |
+    244 D.— invaserunt vilias (be to, III, 66, 68, 98, 143, 260, 276, 291, 330, 332
+    ir kt.); Jer.— dorfir. Žodis interpretuojamas dvejopai: jis galėjo reikšti tiek valstiečių
+    gyvenvietę, t. y. sodžių, tiek ir vieno kiemo nobilio gyvenvietę.
+       Vitingai (bajorai) gyveno aptvertose sodybose, kuriose būdavo keletas trobesių. XIII—
+    XIV a. jas vadinta kaimais (pr. caymis — GAO, p. 53; Būga K., 2, 91—92; MPKP, 2, p.
+    45). Kaime (arba kieme) be feodalo (vitingo) gyveno ir jo šeimynos žmonės (Jurginis J.,
+    Baudžiavos..., p. 123, 126, 128; Pašuta V., Lietuvos..., p. 114—115; HP, 1, I, p. 418).
+      Sodžius tai valstiečio, lauko bendruomenės nario, nebaudžiauninko gyvenvietė (plg.
+    D. III, 276 —įsiveržė  į Aukaimio pilies apygardą ir sudegino šešis sodžius. D. ir šiuo
+    atveju rašo villa: combustis sex villis; Jurginis J., Baudžiavos..., p. 86, 113; to paties,
+    Lietuvos valstiečių istorija, p. 12—13).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204771
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  citata_originali: |
+    Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
+    pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
+    nenorėdami grįžti tuščiomis rankomis,   užpuolė aplinkinius kaimus244, degindami juos
+    ir piešdami. Sitai pamatę, prūsai juos užpuolė ir išžudė visus brolius bei ginklanešius,
+    išskyrus tuos, kurie buvo palikti saugoti laivų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206159
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  citata_originali: |
+    Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
+    Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
+    Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
+    pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
+    nenorėdami grįžti tuščiomis rankomis,   užpuolė aplinkinius kaimus244, degindami juos
+    ir piešdami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

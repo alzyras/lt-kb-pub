@@ -120,6 +120,54 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   pagrindžia:
     - c-179224
 
+<a id="claim-t-213182"></a>
+- t-213182
+  teiginys: "Getai, pelazgų giminės gentis, ne praleido progos pasistūmėti prie Dnestro, įsiterpdami tarp klajoklių skitų ordų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197184
+
+<a id="claim-t-214280"></a>
+- t-214280
+  teiginys: "Pelazgų kalba, pasak Narbuto, buvo viena iš seniausių šakų, iš kurių išsivystė graikų, lotynų ir lietuvių kalbos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195295
+
+<a id="claim-t-214316"></a>
+- t-214316
+  teiginys: "(Kaip iš tikrųjų pats praktiškai patyriau, kiek kartų su jais pačiais graikuodamas kalbėjau, be to, jie yra mano tėvynės kaimynai.) graikiškumo pėdsakus patvirtina iš amžių glūdumos atė ję garsūs lietuvių tautos padavimai apie (protėvius pelazgus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194658
+
+<a id="claim-t-214443"></a>
+- t-214443
+  teiginys: "Pelazgai, pasak Narbuto, buvo didelė tauta, pasklidusi nuo Po ir Arno upių žiočių iki Dnepro ir Dono."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195765
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į Peloponesą, atsinešė dalį Kabirų ir įvedė jų paslaptingą garbinimo ritualą.'
@@ -158,7 +206,7 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175230
@@ -181,7 +229,7 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175231
@@ -205,7 +253,7 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-179224
@@ -235,5 +283,149 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-194414
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 39"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 39."
+  citata_originali: |
+    Nibūras2 teigia, jog pelazgai labai skyrėsi nuo helėnų,
+    nors jų kalbos, nepaisant tarpusavio skirtumų, archetipų
+    požiūriu buvo gana panašios. Šios dvi tautos, gal ir
+    skirtingos kilmės, turėjo artimų tarpusavio santykių ir
+    1 Vidurinėje Azijoje nusidriekę Himalajų kalnai, sudarantys Ki­
+    nijos pietų sieną, anot naujesnių duomenų, savo vidutiniu aukščiu
+    viršija Cimborasą, Amerikos Kordiljerų grandinės kalną, lig šiol lai­
+    kytą aukščiausiu Žemės kalnu. Anglų keliautojas mokslininkas ponas
+    Bleikas
+    (Blake)*
+    pateikia
+    vieno Himalajų
+    kalno — Baltojo
+    —
+    aukštį (28 000 angliškų pėdų); jis beveik du kartus aukštesnis negu
+    Monblanas Prancūzijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194658
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 195-196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195-196."
+  citata_originali: |
+    Kilęs iš Prūsijos Vilichijus, ko­
+    mentavęs Tacitą, labiausiai tikina, jog lietuviai yra kilę
+    iš graikų, nes galėjo su jais susikalbėti jų kalba4. Tuos
+    1 Rozprawa o począt, Nar. i jęz. Lit. Warszawa
+    1808: Rocz.
+    Tow. Warsz. P. N. T. VIII, Rok 1811.
+    2 Ait. und neues Preuss. S. 58.
+    3 Rerum
+    Saxonicar. Lib.
+    I,
+    in.
+    pr.
+    4 Kalba apie kitapus Nemuno Prūsijos atžvilgiu gyvenančius
+    žmones: Sicut ipse usu comperi quoties ipsis graecissando locutus
+    sum; ut qui patriae meae vicini sunt. Jodocus Willichius. Comment,
+    in Lib. Taciti. De Morib. Germ. Parte II. C. 14. P. 476 (Anno 1560).
+    (Kaip iš tikrųjų pats praktiškai patyriau, kiek kartų su jais pačiais
+    graikuodamas kalbėjau, be to, jie yra mano tėvynės kaimynai.)
+    198
+
+    graikiškumo pėdsakus patvirtina iš amžių glūdumos atė­
+    ję garsūs lietuvių tautos padavimai apie (protėvius pelaz-
+    gus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214316
+
+- id: c-195295
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
+  citata_originali: |
+    Pelazgų kalba yra viena iš seniausių
+    šakų, iš kurios išsivystė graikų, lotynų ir lietuvių kalbos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214280
+
+- id: c-195499
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
+  citata_originali: |
+    18
+    Neginčijamas dalykas yra ir tai, kad pelazgai buvo tos
+    kartos žmonės, kuriuos laikėme atklydusiais nuo Tibeto
+    prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
+    jonėnai ir trojėnai kilę iš pelazgų. Šios tautos plėtėsi nuo
+    1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
+    kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
+    arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
+    davė pradžią dorėnams ir achajams. Vėliau iš jų kilo
+    1 i d a i, sikelai, makedonai, tesalai ir daug kitų tautų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195765
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
+  citata_originali: |
+    Pelazgai laikui bėgant* tapo didžiule tauta.1, laibai pla­
+    čiai pasklidusia Juodosios ir Viduržemio jūrų pakrantėse,
+    pradedant nuo Po ir Arno upių žiočių net iki Dnepro ir
+    Dono.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214443
+
+- id: c-197184
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
+  citata_originali: |
+    Getai, pelazgų giminės gentis, ne­
+    praleido progos pasistūmėti prie Dnestro, įsiterpdami tarp
+    klajoklių skitų ordų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213182

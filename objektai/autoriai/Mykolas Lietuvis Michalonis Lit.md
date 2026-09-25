@@ -124,7 +124,7 @@ canonical_biography: "62 Kaip seniau totoriai garsėjo santū­ rumu, svetingumu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-84015
@@ -156,7 +156,7 @@ canonical_biography: "62 Kaip seniau totoriai garsėjo santū­ rumu, svetingumu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-84017
@@ -183,5 +183,5 @@ canonical_biography: "62 Kaip seniau totoriai garsėjo santū­ rumu, svetingumu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

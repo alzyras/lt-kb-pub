@@ -62,9 +62,10 @@ Mikalojus Vorobjovas Vilnių vadino atvira knyga, gyvais vaizdais rodančia Euro
     juoti meno istoriją ne iš vadovėlių, o iš pačių meno šedevrų; jis gali tapti
     neišsemiamu estetinio jaunosios kartos auklėjimo šaltiniu.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

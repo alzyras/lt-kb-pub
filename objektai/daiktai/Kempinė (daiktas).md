@@ -88,7 +88,7 @@ Ir didysis kunigaikštis Algirdas ištrau kė iš maišiuko kempinę bei titnag�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-200784
@@ -107,5 +107,5 @@ Ir didysis kunigaikštis Algirdas ištrau kė iš maišiuko kempinę bei titnag�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

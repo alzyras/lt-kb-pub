@@ -74,5 +74,5 @@ Sventopelkas, subūręs 2000 karių, perplukdė juos per Vyslą ir per dvi diena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

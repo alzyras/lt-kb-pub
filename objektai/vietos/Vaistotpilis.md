@@ -38,40 +38,6 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
 
 ## Teiginiai
 
-<a id="claim-t-58484"></a>
-- t-001
-  teiginys: "Vaistotpilis buvo sena prūsų pilis, kurioje įsitvirtino Ordinas."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "deterministic_validation_passed; llm_structured_decision; prusai_group_context"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vaistotpilis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vaistotpilis tiesiogiai apibūdinta kaip sena prūsų pilis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vaistotpilis priklausė Prūsai (0.82)"
-  pagrindžia:
-    - c-59116
-
-<a id="claim-t-58485"></a>
-- t-002
-  teiginys: "Vaistotpilis buvo Bartos žemėje, Gubros pakrantėje stovėjusi brolių pilis."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Barta: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vaistotpilis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Barta: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vaistotpilio pilis aprašoma kaip buvusi Bartos žemėje, todėl tai laikoma priklausymo teritorijai santykiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vaistotpilis priklausė Barta (0.78)"
-  pagrindžia:
-    - c-59118
-
 <a id="claim-t-58486"></a>
 - t-003
   teiginys: "Prūsams apsupus Vaistotpilio pilį, broliai ją gynė nuo aušros iki sutemų, o vėliau sudegino ir slapta pasitraukė."
@@ -100,6 +66,18 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   pagrindžia:
     - c-59117
 
+<a id="claim-t-222782"></a>
+- t-222782
+  teiginys: "Prūsai apsupo Vaistotpilio pilį, o broliai ją sudegino ir slapta pasitraukė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205964
+
 ## Citatos
 
 - id: c-59116
@@ -116,8 +94,6 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-59117
   autorius: "Petras Dusburgietis"
@@ -137,7 +113,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -159,5 +135,24 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-205964
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 125"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 125."
+  citata_originali: |
+    Apie tai, kaip buvo palikta Vaistotpilio pilis
+    Nesitenkindami broliams padarytais nuostoliais, prūsai subūrė didžiulę kariuomenę
+    ir apsupo Vaistotpilio pilį; jie smarkiai puolė ją nuo aušros iki sutemų, o broliai narsiai
+    gynėsi. Kai prūsai, nepasiekę tikslo, pasitraukė, broliai, turėdami galvoje, kad pilis nesanti
+    deramai sutvirtinta ir ateityje nestengsianti atremti tokių stiprių antpuolių, sudegino pilį
+    ir slapta pasitraukė.
+    116 (111).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222782

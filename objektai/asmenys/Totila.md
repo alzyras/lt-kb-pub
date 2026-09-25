@@ -68,6 +68,18 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
   pagrindžia:
     - c-174360
 
+<a id="claim-t-214896"></a>
+- t-214896
+  teiginys: "Totila žuvo Taginos mūšyje 552 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195656
+
 ## Citatos
 
 - id: c-174360
@@ -89,6 +101,28 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-195656
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 325"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 325."
+  citata_originali: |
+    Taip pat ir Romai antrąkart
+    pakliuvus į Totilos rankas, kai Justinianas surinko ka­
+    riuomenę, greta longobardų ir persų buvo herulų. Si ka­
+    riuomenė buvo sutelkta Pado žemupyje 552 metais Nar­
+    šui vadovaujant ir dalyvavo Taginos mūšyje; čia ir žuvo
+    Totila. Nedaug herulų, gal išlikusių kažkur Rytų valsty­
+    bės provincijose po to, kai prieš keturiasdešimt metų bu­
+    vo išblaškyti, liko šiose vietose gyventi1.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214896

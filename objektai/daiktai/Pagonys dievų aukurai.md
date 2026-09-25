@@ -72,5 +72,5 @@ Teodoro Narbuto pasakojime Žemaitijos gilumoje tebedegė pagonių aukurai savie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

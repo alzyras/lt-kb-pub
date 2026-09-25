@@ -76,5 +76,5 @@ canonical_biography: "335 ir Epito­ mator, Gadebusch Livl."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

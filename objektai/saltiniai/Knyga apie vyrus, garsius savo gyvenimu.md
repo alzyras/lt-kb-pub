@@ -44,6 +44,19 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
   pagrindžia:
     - c-26710
 
+<a id="claim-t-207556"></a>
+- t-207556
+  teiginys: "Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė pagiriamą žodį apie jo didybę ir tėvynę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190173
+
 ## Citatos
 
 - id: c-26710
@@ -67,5 +80,25 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190173
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 56"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 56."
+  citata_originali: |
+    Vytauto kulto pradžia siekia jo laikus. Enėjas Silvijus Pikolominis
+    „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks dide-
+    lis Tu ir kokia didelė Tavo tėvynė.“ Tačiau ypač Vytauto kultas pradėtas puoselėti XVI a.,
+    kai Lietuvos visuomenė suskato ieškoti ideologinės atspirties prieš Lenkijos (Jogailaičių)
+    planą sukurti valstybių sąjungą, kurios hegemonė būtų Lenkija.
+  citata_rodoma: "Vytauto kulto pradžia siekia jo laikus. Enėjas Silvijus Pikolominis \n„Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks dide-\nlis Tu ir kokia didelė Tavo tėvynė.“"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207556

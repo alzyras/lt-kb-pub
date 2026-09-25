@@ -59,5 +59,5 @@ Tas pats autorius straipsnyje apie Ežiagulį (Eiagulis) ap rašo gedulingą že
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

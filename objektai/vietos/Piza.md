@@ -79,5 +79,5 @@ Dusburgietis teigia, kad apie Henriko, imperatoriaus, mirtį Tais pačiais metai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

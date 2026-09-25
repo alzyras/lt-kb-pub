@@ -36,26 +36,17 @@ Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria got
 
 ## Teiginiai
 
-<a id="claim-t-191364"></a>
-- t-001
-  teiginys: "Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria gotų genčių lygos pradžią."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-212889"></a>
+- t-212889
+  teiginys: "Apie 215 metus gotus valdė karingas karalius Amalas."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_valdovas -> Gotai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Amalas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys Amalą apibūdina kaip gotų karalių."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Amalas buvo valdovas Gotai (0.90); Gotai keliavo į Dnepras (0.76)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
-    - c-174246
+    - c-194859
 
 ## Citatos
 
@@ -83,8 +74,27 @@ Narbutas Amalą vadina karingu ir iškiliu gotų karaliumi, kuriam priskiria got
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-194859
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 87"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 87."
+  citata_originali: |
+    Apie 215 metus labai daug gotų persikėlė į kairiąją
+    Dnepro pakrantę, kur tuomet gyveno nuo romėnų nepri­
+    klausomi dakai. Gotus valdė karingas ir iškilus karalius
+    Amalas. Tai, be abejonės, jis davė pradžią savo tautos
+    genčių lygai, kuri, laikui bėgant, sudarė Rytuose milži­
+    nišką ostrogotų galybę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212889
 
 ## Ryšiai
 - Amalas buvo valdovas [[objektai/grupes/Gotai]]

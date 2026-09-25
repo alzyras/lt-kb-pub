@@ -130,7 +130,7 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188940
@@ -147,7 +147,7 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188941
@@ -166,7 +166,7 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188942
@@ -184,7 +184,7 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 ## Ryšiai

@@ -103,7 +103,7 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-75987
@@ -129,5 +129,5 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

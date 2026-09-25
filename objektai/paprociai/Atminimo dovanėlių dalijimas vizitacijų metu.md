@@ -58,12 +58,13 @@ Per vizitacijas prie vyskupo Motiejaus Valančiaus grūste grūsdavosi vyskupo g
     prie vysk. M. Valančiaus per vizitacijas jo ganomieji
     grūste grūsdavosi.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-191428
@@ -81,12 +82,14 @@ Per vizitacijas prie vyskupo Motiejaus Valančiaus grūste grūsdavosi vyskupo g
     visiems neužtekę 6.
   citata_rodoma: "Jis savo atsiminimuose rašo, kad \n1852 m. vizitacijos metu Vainute labai daug žmonių norė­\njo gauti iš jo rankų atminimo dovanų, tačiau šį kartą jų \nvisiems neužtekę 6."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
 ## Teiginiai
 
 <a id="claim-t-208807"></a>
@@ -117,4 +120,3 @@ Per vizitacijas prie vyskupo Motiejaus Valančiaus grūste grūsdavosi vyskupo g
   vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
     - c-191428
-

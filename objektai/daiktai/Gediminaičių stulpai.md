@@ -77,6 +77,18 @@ Nenurodyta
   pagrindžia:
     - c-154541
 
+<a id="claim-t-207528"></a>
+- t-207528
+  teiginys: "Gediminaičių stulpai žinomi Vytauto antspauduose nuo 1397 metų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190145
+
 ## Citatos
 
 - id: c-154541
@@ -103,5 +115,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190145
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 42"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 42."
+  citata_originali: |
+    Jį perėmė ir Vytautas, naudojęs jį ir kaip valstybės herbą, ir kaip pagrindinę asmeninio
+    antspaudo emblemą (raitelis pakeitė ankstyvųjų Vytauto antspaudų stovintį riterį, vadi-
+    namąjį Trakų pėstininką). Tik Jogailos asmeniniai antspaudai buvo su Dvigubu kryžiu-
+    mi raitelio skyde, o Vytauto – su Gediminaičių stulpais, kurie virto jo asmeniniu ženklu.
+    Gediminaičių stulpai Vytauto antspauduose žinomi nuo 1397 metų.
+  citata_rodoma: "Gediminaičių stulpai Vytauto antspauduose žinomi nuo 1397 metų."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207528

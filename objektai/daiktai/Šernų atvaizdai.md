@@ -72,5 +72,5 @@ Jie garbina Dievo Motiną, kaip savo burto ženklus nešioja šernų at vaizdus,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

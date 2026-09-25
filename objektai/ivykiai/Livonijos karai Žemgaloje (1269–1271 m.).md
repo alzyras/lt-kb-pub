@@ -82,5 +82,5 @@ Teodoras Narbutas aprašo, kad 1269–1271 m. Livonijos kariuomenė surengė did
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

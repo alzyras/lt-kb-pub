@@ -69,6 +69,18 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   pagrindžia:
     - c-174500
 
+<a id="claim-t-215425"></a>
+- t-215425
+  teiginys: "Šio mito turinys sutampa su pono Radlofo požiūriu, kurį anksčiau (. 145) pateikėme; šios žinios pateko iš padavimų į graikų poetų kūrinius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196318
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas mini Radlofo nuomonę, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.'
@@ -125,7 +137,7 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174500
@@ -149,5 +161,48 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196318
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 152"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 152."
+  citata_originali: |
+    Šio mito turinys sutampa su pono Radlofo požiūriu,
+    kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
+    padavimų į graikų poetų kūrinius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215425
+
+- id: c-196331
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
+  citata_originali: |
+    Taip įsivaizduojame mūsų žemyno susifor­
+    mavimą.
+    148
+    Planetų ar Žemės palydovų žuvimo fenomeną, kuris
+    padeda suvokti daugelį senojo pasaulio paminklų, išliku­
+    sių tolimųjų amžių atmintyje ir pasiekusių mus per pada­
+    vimus ir sakmes, aiškina naujųjų laikų astronomas ponas
+    Radlofas veikale, kurį rekomenduojame mūsų skaitytojams,
+    norintiems geriau įsitikinti. Čia dar kartą pakartosime
+    aukščiau minėtą pastabą (§ 25, 26) apie kai kuriuos vie­
+    tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­
+    laikiai smarkūs-šiaurės vėjai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

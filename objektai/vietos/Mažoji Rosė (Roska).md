@@ -115,6 +115,18 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
   pagrindžia:
     - c-175615
 
+<a id="claim-t-213527"></a>
+- t-213527
+  teiginys: "Mažoji Rosė prasidėjo prie Kučincų ir čiabuvių buvo vadinama Roska."
+  atnaujinta: "2026-09-20 21:44"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195668
+
 ## Citatos
 
 - id: c-175614
@@ -137,7 +149,7 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -162,6 +174,52 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
+
+- id: c-195668
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 296."
+  citata_originali: |
+    Čia, kairiojoje Supo pakrantėje, greta Kučincų, Kuczyn-
+    cami, kaimo, prasideda upelis Mažoji Rosé, Ros, šian­
+    dien čiabuvių vadinama Roska. Netoli Supo versmių, prie
+    dasovo, Jassowa, kaimo, Zbaražo apylinkėse, visai greta
+    Kolopusnės, Kolopusne, kaimo, prasideda upė Ros, arba
+    Ross. Prie Rošovsko kaimo į ją iš dešiniojo kranto įteką
+    Roska, sruvena per gana didelę Ukrainos dalį ir drauge
+    su Supo upe sudaro į 'Dneprą plaukiančių upių vandens
+    baseiną, priešingą atitekančioms į Būgą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213527
+
+- id: c-196471
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 296."
+  citata_originali: |
+    Prie Rošovsko kaimo į ją iš dešiniojo kranto įteką
+    Roska, sruvena per gana didelę Ukrainos dalį ir drauge
+    su Supo upe sudaro į 'Dneprą plaukiančių upių vandens
+    baseiną, priešingą atitekančioms į Būgą. Rosé teka šiau­
+    rės link net iki Belaja Cerkovės, iš kur pasuka į pietry­
+    čius. Neminime tolesnių vietovardžių, esančių prie šios
+    upės aukštupio, tačiau negalime nutylėti topografinio
+    pastebėjimo apie vieną šio krašto prie Rosės plotą, kur
+    netoli vienas kito plyti vietovardžiai, stebinamai įdomūs
+    Lietuvos reikalus nagrinėjančiam tyrinėtojui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

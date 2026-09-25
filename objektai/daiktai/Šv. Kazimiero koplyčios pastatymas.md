@@ -83,9 +83,10 @@ Nenurodyta
     Tikras vilniškio XVII amžiaus baroko perlas yra šv. Kazimiero koplyčia
     Katedroje ( 35 ), pastatyta 1620 —1630 metais šventojo palaikams saugoti.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

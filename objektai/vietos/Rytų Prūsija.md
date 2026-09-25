@@ -177,7 +177,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-155456
@@ -197,6 +197,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-167023
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -215,7 +216,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -235,7 +236,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -256,8 +257,27 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-194404
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 428"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 428."
+  citata_originali: |
+    Erazmas Stela (Erasmus Stella, tikr. Johan
+    Stüler; ?—1521), vokiečių istorikas. Veikale
+    „Apie Prūsijos senienas“ (1510, 1518) nepa­
+    grįstai įrodinėjo, jog vokiečiai buvo seniausi
+    Rytų Prūsijos gyventojai. Lietuvius kildino iš
+    alanų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Vokiečiai]]

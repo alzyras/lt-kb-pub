@@ -106,7 +106,7 @@ canonical_biography: "Šitai pa­ kartojo Naruszewicz Histor. Naruszewicz, Jadvy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176807
@@ -124,7 +124,7 @@ canonical_biography: "Šitai pa­ kartojo Naruszewicz Histor. Naruszewicz, Jadvy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176808
@@ -143,5 +143,5 @@ canonical_biography: "Šitai pa­ kartojo Naruszewicz Histor. Naruszewicz, Jadvy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

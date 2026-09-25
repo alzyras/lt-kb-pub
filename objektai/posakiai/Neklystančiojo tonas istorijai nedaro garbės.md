@@ -107,7 +107,7 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177302
@@ -131,5 +131,28 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195501
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 203."
+  citata_originali: |
+    Tuo tarpu jie, pasirinkę kuklesnę poziciją, ry­
+    žosi verčiau pelnyti žodis į žodį atkartojančių Mariną*
+    ir Ptolemėją priekaištų negu vadinti pasakų išmone var­
+    dus tautų, kurių gyvenamųjų vietovių nepasisekė nustatyti.
+    Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta
+    nagrinėti faktus ir girdėti įrodytas tiesas. Taip ir gelonus
+    su budinais ¡buvo teilktasi vienu plunksnos brūkštelėjimu
+    priskirti prie pasakų skyriaus, nes senovės tyrinėtojai nu­
+    stato vienu metu dvejopą jų padėtį, — tai galėjo lemti
+    net ir Herodoto geografija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

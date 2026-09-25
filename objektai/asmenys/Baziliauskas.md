@@ -73,5 +73,5 @@ Būrininkas Baziliauskas nusmeigė dar kelis komisarus, ir tuo būdu per minutę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

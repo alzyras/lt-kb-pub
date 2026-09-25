@@ -81,6 +81,22 @@ Benediktas Tyzenhauzas buvo Ukmergės seniūnas. Benediktas Tyzenhauzas Dažnai 
   pagrindžia:
     - c-183874
 
+<a id="claim-t-225963"></a>
+- t-225963
+  teiginys: "Benediktas Tyzenhauzas 1616 m. finansavo pirmosios medinės Kupiškio katalikų bažnyčios statybą."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  temporaliniai_duomenys: "įvykio data: 1616 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bažnyčios statybos faktas susietas su Benedikto Tyzenhauzo finansavimu. Kitų jo veiklos aplinkybių nepridedama."
+  vertinimo_atnaujinta: "2026-09-24T07:17:44Z"
+  pagrindžia:
+    - c-206479
+
 ## Citatos
 
 - id: c-183874
@@ -90,7 +106,20 @@ Benediktas Tyzenhauzas buvo Ukmergės seniūnas. Benediktas Tyzenhauzas Dažnai 
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-206479
+  autorius: "unknown"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto sakralinių pastatų ir parapijos trobesių architektūra"
+  puslapiai: "p. 335 (PDF 336)"
+  indeksas: "unknown, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto sakralinių pastatų ir parapijos trobesių architektūra, p. 335 (PDF 336)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225963

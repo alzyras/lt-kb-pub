@@ -99,6 +99,28 @@ Nenurodyta
   pagrindžia:
     - c-170453
 
+<a id="claim-t-211134"></a>
+- t-211134
+  teiginys: "Kai kuriuose Platesniojo sąvado nuorašuose po 1345 m. Kęstučio ir Algirdo perversmo įdėtas Algirdo sūnų ir jų valdų išskaičiavimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: po 1345 m.; įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija, kuriuose nuorašuose po perversmo buvo įdėtas papildymas. Nepridėta Algirdo žygio į Maskvą legenda, nes ji yra atskiras citatos kontekstas."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
+<a id="claim-t-211834"></a>
+- t-211834
+  teiginys: "Platesniojo sąvado teksto dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le gendine."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kuriuose Platesniojo sąvado nuorašuose po 1345 m. Kęstučio ir Algirdo perversmo įdėtas Algirdo sūnų ir jų valdų išskaičiavimas.'
@@ -164,6 +186,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

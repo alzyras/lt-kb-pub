@@ -134,7 +134,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-03991
@@ -154,7 +154,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-03992
@@ -178,7 +178,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184841
@@ -195,5 +195,5 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

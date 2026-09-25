@@ -84,5 +84,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195414
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
+  citata_originali: |
+    Tuomet jis nusiaubė apylinkes ir, iš­
+    keliavęs į Raveną1, užsidarė ten, savo rezidenciniame
+    mieste. Po pergalės gotų karaliaus jėgos buvo gal taip
+    nusilpusios, jog jis nedrįso persekioti savo priešą; jis tik
+    užėmė Milaną ir Paviją, peržiemojo šiuose miestuose,
+    ruošdamasis kitai kampanijai. Visa tai įvyko 489 metais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

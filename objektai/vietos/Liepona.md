@@ -74,5 +74,5 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

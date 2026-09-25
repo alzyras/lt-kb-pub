@@ -91,5 +91,5 @@ canonical_biography: "1619 m. 56 Miesto aktuose yra: karaliaus Stepo­ no patvir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

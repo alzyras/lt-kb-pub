@@ -89,7 +89,7 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-41410
@@ -116,5 +116,5 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

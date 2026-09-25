@@ -199,6 +199,30 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   pagrindžia:
     - c-188146
 
+<a id="claim-t-217674"></a>
+- t-217674
+  teiginys: "Narbutas, remdamasis Hartknocho pasakojimu, teigia, kad Amžinoji ugnis ant Kukovaičio kalno buvo Kerniaus užkurta."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198335
+
+<a id="claim-t-219828"></a>
+- t-219828
+  teiginys: "Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200550
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos.'
@@ -326,7 +350,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169367
@@ -354,7 +378,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171453
@@ -382,7 +406,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-171454
@@ -403,7 +427,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173787
@@ -433,7 +457,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-006
 
@@ -469,7 +493,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-188146
@@ -490,8 +514,71 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-195871
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 274"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 274."
+  citata_originali: |
+    Ka­
+    dangi Panerių gentys pūtė dūdas ant Neries krantų, ku­
+    nigaikščio Kerniaus valdymo metais atsirado dingstis su­
+    teikti visam kraštui ir giminei Litvania pavadinimą, ku­
+    ris dėl paprastų žmonių iškreipto lotynų tarimo pavirto
+    Listubania. Mes siekiame nurodyti tikrą, o ne liaudišką
+    pavadinimo šaltinį: lietuvių kalboje yra žodis tėvas: Ta­
+    rnas, Tabes, Tems, Temas, ir jis priklauso nuo tarimo įvai­
+    riais dialektais: senovės prūsų, herulų, latvių ir lietuvių* 1.
+    Tomis pačiomis kalbomis posakis Isz-Tawas arba Isz-
+    Tabas reiškia kilusį iš tėvo, tad Isztamany, ištavanai, ar­
+    ba sutrumpintai stavanai, stabanai, reiškė gentį, kilusią
+    tiesiogiai iš gimtinės lizdo; tikrieji lietuviai, arba seno­
+    vės Stavanijos gyventojai ligi šiol laikomi tokiais, kurie
+    geriausiai išlaikė savo papročius, įpročius, gimininius
+    bruožus ir jų dialekto originalumą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198335
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 221"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 221."
+  citata_originali: |
+    Hartknochas,
+    remdamasis savo tyrimais, pasakoja, kad ant to paties kalno
+    nuo seno degusi Kerniaus užkurta Amžinoji ugnis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217674
+
+- id: c-200550
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  citata_originali: |
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219828
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Pajauta]]

@@ -71,5 +71,5 @@ Galijos Rodano pavadinimo panašumas paskatino jį tapatinti su Eridanu ir susie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

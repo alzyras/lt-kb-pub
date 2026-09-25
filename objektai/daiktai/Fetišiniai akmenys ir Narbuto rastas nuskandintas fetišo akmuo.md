@@ -88,5 +88,31 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198630
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 207"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 207."
+  citata_originali: |
+    Akmenys
+    Senovės žmonės ypač gerbdavo tam tikrus akmenis, ku­
+    riuose pati gamta kažką pavaizdavo arba kurie savo pavidalu į
+    ką nors panėšėdavo. Tokius akmenis gerbdavo, juos vadinda­
+    vo Gamaheu, Gamaheus Lapis. Amerikos indėnai išsaugojo at­
+    mintį apie akmenų garbinimą, nes jie, kaip sako vienas keliau­
+    ninkas, savo lopšiu yra artimesni žmonių padermei, tuo labiau -
+    daugiau prisirišę prie žemės ir prie būtybių, esančių jos įsčiose.
+    Net pasikeitus apšvietai ir religijai, indėnai akmenis laikė talis­
+    manais'T 1583 metais jėzuitai, apaštalaudami Žemaitijoje, ap­
+    tiko tam tikrų didelių akmenų garbinimo pėdsakus13 14. Yra pada­
+    vimų ir pasakojimų apie panašius akmenis, garbinamus ir pas
+    mus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

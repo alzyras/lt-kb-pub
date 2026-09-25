@@ -80,7 +80,7 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167732
@@ -98,5 +98,5 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

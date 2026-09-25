@@ -87,5 +87,28 @@ Narbutas ypač reikšmingomis laikė ištraukas iš popiežiaus legato, Leodijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199730
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
+  citata_originali: |
+    Todėl plačios galimybės maitintis visuomenės lengvatikiš­
+    kumu leido laikyti daug žynių.
+    Turime pakankamai kronikose išlikusių raštiškų paminė­
+    jimų, kuriuos kruopščiai surinko Hartknochas savo Prūsijos
+    istorijoje; ypač reikšmingos yra ištraukos iš popiežiaus legato,
+    Leodijos arkidiakono Jokūbo privilegijos, duotos prūsams 1249
+    metais. Kitką pasisėmėme iš rankraščių ir padavimų, kuriuos
+    pasitaikė surinkti, visuomet laikydamiesi griežto kritiškumo,
+    su kuriuo išlukštenama tiesa iš per amžius susikaupusios pai­
+    niavos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

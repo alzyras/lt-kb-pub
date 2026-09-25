@@ -74,5 +74,5 @@ Tuo metu Užvolgio chanu buvo chanas, vardu Balaklajus °, ir jis atsiuntė savo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

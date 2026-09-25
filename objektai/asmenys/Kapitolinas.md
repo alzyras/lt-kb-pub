@@ -78,5 +78,27 @@ Teodoras Narbutas rašė, kad Naruševičius, remdamasis Kapitolinu, šią taut�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197195
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 111."
+  citata_originali: |
+    Gal todėl,
+    kad jotvingiai laikėsi lietuvių, kurie garbino nesuskai­
+    čiuojamą daugybę dievų, religinių tradicijų; slavai šia
+    prasme taip nedarė, nes, nors slavų mitologijoje buvo
+    nemažai dievų, jiems lenkėsi ne visos gentys. Naruševi­
+    čius, rašydamas apie šią tautą, rėmėsi Kapitolinu ir aiš­
+    kiai vadino jas Cestobochy1. Pasak jo, jiems priklausė
+    lenkiški kraštai prie Bugo, jie kovojo su romėnais mar-
+    komanų lygoje greta roksolanų, alanų ir peucinų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -77,7 +77,7 @@ Kazimiero teisyne buvo nustatyta bausmė už priklausomų žmonių išvedimą, o
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186337
@@ -96,5 +96,5 @@ Kazimiero teisyne buvo nustatyta bausmė už priklausomų žmonių išvedimą, o
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

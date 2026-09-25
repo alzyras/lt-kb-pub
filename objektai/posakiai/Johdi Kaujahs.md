@@ -70,5 +70,27 @@ Narbuto mitologiniame aiškinime daugiskaita „Juodi“ („Johdi“) reiškia 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198943
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 183"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 183."
+  citata_originali: |
+    Juodas (Johds)
+    Laukų arba miškų velnias, tam tikra dvasių gąsdintojų rū­
+    šis. Daugiskaita Juodi (,Johdi) reiškia oro dvasias, mirusiųjų
+    vėles. Latvijos kaimiečiai, išlaikę tą mitą, dar ir dabar, išvydę
+    šiaurės pašvaiste, sako: Johdi Kaujahs, dvasios kaunasi. Ka­
+    dangi jos baisios pažiūrėti, todėl vadinasi Bajgi, kas kaujahs -
+    besikaunančios pabaisos. Kai kurie aiškina net taip: Kurni laus-
+    zku dweeh seles kaujahs - kaunasi vėlės kariauninkų, žuvusių
+    laukuose23.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

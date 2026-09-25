@@ -73,5 +73,5 @@ Tais metais karaliui Žy gimantui buvo daug darbų ir rūpesčių; mat, be ši t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

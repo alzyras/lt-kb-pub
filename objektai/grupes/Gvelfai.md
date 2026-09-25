@@ -35,32 +35,6 @@ media_all_json: |-
 
 Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir gvelfų partijos; šitai yra vardai dviejų brolių, kurių keliai išsiskyrė. Apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų 1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.
 
-## Teiginiai
-
-<a id="claim-t-194557"></a>
-- t-001
-  teiginys: "Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir gvelfų partijos; šitai yra vardai dviejų brolių, kurių keliai išsiskyrė."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-176957
-
-<a id="claim-t-194558"></a>
-- t-002
-  teiginys: "Apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų 1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-176958
-
 ## Citatos
 
 - id: c-176957
@@ -80,8 +54,6 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-176958
   autorius: "Petras Dusburgietis"
@@ -102,5 +74,3 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

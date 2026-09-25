@@ -136,6 +136,18 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   pagrindžia:
     - c-175597
 
+<a id="claim-t-212906"></a>
+- t-212906
+  teiginys: "Norike likusius jo sąjungininkus per nelyg engė rugių karalius Febanas."
+  atnaujinta: "2026-09-20 21:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195791
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudegino Juvavą prie Saurus upės.'
@@ -181,7 +193,7 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -201,7 +213,7 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175599
@@ -227,5 +239,49 @@ Narbutas rašė, kad apie 477 m. Noriko neramumai atviliojo herulus, kurie sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-195791
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
+  citata_originali: |
+    Norike likusius jo sąjungininkus per­
+    nelyg engė rugių karalius Febanas. Jis, engiamųjų pa­
+    prašytas pagelbėti, išvyko pats ir nugalėjo rugius, kurių
+    karalius žuvo kautynėse, o jo sūnus Frederikas išsigel­
+    bėjo pabėgdamas iš krašto. Tai buvo 486 metais*.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212906
+
+- id: c-196375
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
+  citata_originali: |
+    Nuolatiniai skundai ir ap­
+    maudas lėmė žygį Odoakro brolio Onulfo, kuris, vado­
+    vavęs herulams, antrąkart privertė Frederiką pasitraukti
+    iš krašto, šįsyk į Meziją, kur valdė Teodorikas; jie abu
+    šiek tiek giminiavosi1. Po šios pergalės, norėdamas vi­
+    siškai apsaugoti herulus ir senus Noriko gyventojus nuo
+    visokios piktų ir nedraugiškų rugių įtakos, visų pasiten­
+    kinimui, perkėlė juos į Italiją. Bet rugiai, užuot buvę dė­
+    kingi už tai, kad vien jiems liko derlingas kraštas, supy­
+    ko ant Odoakro, nes jis atėmė jų belaisvius ir turtą; jis
+    stengėsi senus Noriko romėnų kolonistus ir kitus su jais
+    nesigiminiavusius gyventojus paversti vergais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

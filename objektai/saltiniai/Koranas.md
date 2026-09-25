@@ -48,6 +48,18 @@ Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie R
   pagrindžia:
     - c-174670
 
+<a id="claim-t-213199"></a>
+- t-213199
+  teiginys: "Narbutas nurodo, kad Korano aiškintojai prie Ross upės gyvenusią tautą vadina Ashabir-Ross."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195145
+
 ## Citatos
 
 - id: c-174670
@@ -75,5 +87,33 @@ Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195145
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
+  citata_originali: |
+    Iš pono Hamerio tyrimų ir ištraukų apie
+    Rytus2 matome, jog arabai Rass, arba Ross3, vadino Arak-
+    so upę, ištekančią iš Kiliklo kalnų, esančių prie 67 laips­
+    nių ilgumos ir 41 laipsnio šiaurės platumos, sruvenančią
+    per Varnamo žemę ir susiliejančią su Kūra4. Anot Korano
+    aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
+    Ross upės; Korane ji vadinama Ashabir-Ross; ji išsisklai­
+    dė žiloje senovėje. Tas pats orientalistas mano, kad
+    Ross Biblijoje ir Korane reiškia tą patį, arba tiesiog tai
+    Arakso upė, be to, ir prie jos plytinčio krašto pavadinimą
+    bei tam tikrą ten gyvenusią tautą, kurią dievas išskaidė,
+    pavertė laukiniais nomadais, panašiais į girių žvėris už
+    tai, kad nepriėmė mokslo, siunčiamo jiems per pranašą
+    Khaintają, Šafrano sūnų, kurį jie nukankino5.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213199

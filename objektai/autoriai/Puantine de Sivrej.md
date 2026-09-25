@@ -79,5 +79,29 @@ Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės roj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197061
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 334"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
+  citata_originali: |
+    Pagal tas pačias taisykles
+    Kur de Zebelen (Court de Gebelins) savo „Monde pri­
+    mitif“ žodį Peruką kildino iš jtVQQaÇ; Puantine de Sivrej
+    (Poinsinet de Sivry. Origines de premières sociétés des
+    peuples etc.) pirmuosius žmones po Tvano aptiko Pirė­
+    nuose, įžvelgęs šio pavadinimo pradžią žodyje
+    jt v q , ug­
+    nis, o žemės rojų, arba Paradis, — Ispanijoje, prie Tago,
+    visai šalia Sevilijos, nes ten yra vietovė Paradas. Nuo
+    Ebro upės atkeliavo hebrajai, o rusai yra roussis par
+    le feu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -78,5 +78,5 @@ Lenkijos atstovų derybos su Marienburgo kryžiuočių algininkais prasidėjo 14
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

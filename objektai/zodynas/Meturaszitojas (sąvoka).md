@@ -62,5 +62,5 @@ Narbutas sąmoningai vengė žodžio „istorija“; tarytum ne pretendavo į mo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

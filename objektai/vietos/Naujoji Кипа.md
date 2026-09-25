@@ -64,5 +64,5 @@ Einant palei šią upę aukštyn, yra kaimas Naujoji Кипа.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

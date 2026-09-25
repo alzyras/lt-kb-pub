@@ -70,7 +70,7 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-85535
@@ -89,5 +89,40 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-203542
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 255"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
+  citata_originali: |
+    Kai jį broliai sugavo ir kai paklausė, kodėl tiek daug ir
+    šitokių baisių piktadarysčių esąs pridaręs, jis atsakė: „Kadangi man niekas nekliudė ir
+    nedraudė603. Sitai kaip skatinami nusikalsti tie, kurie nebaudžiami už piktus darbus!
+    14.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206004
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 255"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
+  citata_originali: |
+    Pastarojoje pilyje buvo karvedys, vardu Henrikas, karys, lengva širdimi grobęs
+    bei žiauriai kankinęs ir dvasininkus, ir pasauliečius, ir vienuolius, ir ne vienuolius bei
+    visus kitus, kurie ėjo pro šalį. Kai jį broliai sugavo ir kai paklausė, kodėl tiek daug ir
+    šitokių baisių piktadarysčių esąs pridaręs, jis atsakė: „Kadangi man niekas nekliudė ir
+    nedraudė603. Sitai kaip skatinami nusikalsti tie, kurie nebaudžiami už piktus darbus!
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

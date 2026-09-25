@@ -87,10 +87,11 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
     Lietuvoje augusios kartos, jų vedliu tapusi išsaugojusi laisvės ir nepriklau-
     somybės idealus lietuvių inteligentija.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

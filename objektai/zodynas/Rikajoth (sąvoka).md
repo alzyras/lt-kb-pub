@@ -64,5 +64,5 @@ Garsi šven tykla buvo vietovėje, vadintoje Rikajotu (Rikajoth), kurios bu vimo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

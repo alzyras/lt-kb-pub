@@ -72,5 +72,5 @@ Po kujavų išsikėlimo slavai toliau gyveno Chue mieste ir jo apylinkėse.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

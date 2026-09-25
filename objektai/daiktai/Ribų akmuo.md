@@ -72,5 +72,5 @@ Ribų dievybių atvaizdas buvo paprastas šešiakampiškai tašytas akmuo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

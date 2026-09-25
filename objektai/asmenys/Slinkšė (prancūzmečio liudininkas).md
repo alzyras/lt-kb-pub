@@ -89,7 +89,7 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177980
@@ -109,5 +109,5 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

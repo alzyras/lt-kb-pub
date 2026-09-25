@@ -54,6 +54,18 @@ canonical_biography: "1776 m. Antanas Zabiela, Šv. Jono bažnyčios zakristijon
   pagrindžia:
     - c-186529
 
+<a id="claim-t-208023"></a>
+- t-208023
+  teiginys: "Antanas Zabiela buvo Kauno pavieto maršalas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190621
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Antanas Zabiela buvo Kauno pavieto maršalas.'
@@ -106,5 +118,26 @@ canonical_biography: "1776 m. Antanas Zabiela, Šv. Jono bažnyčios zakristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190621
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 51"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 51."
+  citata_originali: |
+    Šaltinių ir istoriografijos analizė leidžia padaryti šias išvadas. Augusto III laikų
+    Kauno seimelis buvo „nesužlugdytas" dėl to, kad vietos elitas pasiekė kompromisą.
+    Pavietų grupuočių vietiniai lyderiai - Kauno pavieto pilies teismo seniūnas
+    Simonas Sirutis ir Kauno pavieto maršalas Antanas Zabiela - susitarė „nežlugdyti"
+    Kauno seimelio.
+  citata_rodoma: "Pavietų grupuočių vietiniai lyderiai - Kauno pavieto pilies teismo seniūnas \nSimonas Sirutis ir Kauno pavieto maršalas Antanas Zabiela - susitarė „nežlugdyti\" \nKauno seimelio."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208023

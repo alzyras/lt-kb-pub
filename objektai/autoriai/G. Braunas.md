@@ -68,6 +68,18 @@ Narbutas turėjo omenyje geografo ir kartografo G. Brauno 1541–1622 m. sudaryt
   pagrindžia:
     - c-173274
 
+<a id="claim-t-214139"></a>
+- t-214139
+  teiginys: "G. Braunas parengė didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196253
+
 ## Citatos
 
 - id: c-173274
@@ -86,5 +98,41 @@ Narbutas turėjo omenyje geografo ir kartografo G. Brauno 1541–1622 m. sudaryt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196253
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 517"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 517."
+  citata_originali: |
+    T. Narbutas turi omenyje geografo ir
+    kartografo G. Brauno (1541 —1622) didžiųjų pasaulio miestų at­
+    lasą (Civitates orbis terrarum).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214139
+
+- id: c-198608
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 515."
+  citata_originali: |
+    P. 456* - Tekstas, kuriuo autorius papildė paragrafą, reng­
+    damas antrąjį leidimą (PEĮ. - L. 310). T. Narbutas
+    turi omenyje geografo ir kartografo G. Brauno
+    (1541-1622) didžiųjų pasaulio miestų atlasą (Civi­
+    tates orbis terrarum).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 148
+tema_objektu_skaicius: 149
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 148.
+Objektų skaičius: 149.
 
 ## Kaip naudoti
 
@@ -178,6 +178,9 @@ Objektų skaičius: 148.
 
 ### Posakiai
 - [Išmintis pasistatė sau namus, ji išsikirto septynis šulus](../objektai/posakiai/I%C5%A1mintis%20pasistat%C4%97%20sau%20namus%2C%20ji%20i%C5%A1sikirto%20septynis%20%C5%A1ulus)
+
+### Vietos
+- [Seinai](../objektai/vietos/Seinai)
 
 ### Įvykiai
 - [Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas](../objektai/ivykiai/Lubavos%20ir%20Lanzanijos%20nobil%C5%B3%20Kristijono%20vald%C5%BEios%20pripa%C5%BEinimo%20patvirtinimas)

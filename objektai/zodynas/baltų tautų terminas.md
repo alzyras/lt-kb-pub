@@ -63,5 +63,5 @@ Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tautas, vartodavo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

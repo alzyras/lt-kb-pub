@@ -83,5 +83,5 @@ Konradas Jungingenas sutiko su susitarimu, pagal kurį kryžiuočių kariauna ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

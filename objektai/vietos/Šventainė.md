@@ -59,6 +59,18 @@ historical_names: []
   pagrindžia:
     - c-171860
 
+<a id="claim-t-219202"></a>
+- t-219202
+  teiginys: "Šventainė įteka į Peise ties Baičių kaimu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201025
+
 ## Citatos
 
 - id: c-171860
@@ -77,5 +89,24 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201025
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
+  citata_originali: |
+    Atrodo, Žemaitijoje šitaip vadinami dar keli ma­
+    žesni upeliai.
+    4. Prūsuose, neminint kitų, yra Šventainės (Szwentejne),
+    upė, įtekanti į Peise (Pissa) ties Baičių (Bajcze) kaimu; seniau
+    ji vadinosi Galbė (Golbe), o kaimas -  Narpissa.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219202

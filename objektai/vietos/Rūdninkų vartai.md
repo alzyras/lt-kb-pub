@@ -108,7 +108,7 @@ Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186419
@@ -128,7 +128,7 @@ Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-186420
@@ -146,5 +146,5 @@ Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

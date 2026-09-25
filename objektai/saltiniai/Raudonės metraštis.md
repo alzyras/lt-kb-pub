@@ -82,7 +82,7 @@ Teodoras Narbutas, remdamasis Raudonės metraščiu, nurodo, kad Gediminas Žema
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188730
@@ -108,5 +108,5 @@ Teodoras Narbutas, remdamasis Raudonės metraščiu, nurodo, kad Gediminas Žema
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

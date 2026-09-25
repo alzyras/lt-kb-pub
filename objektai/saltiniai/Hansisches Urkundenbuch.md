@@ -55,5 +55,5 @@ Kauno, Dancigo/Gdansko ir Hanzos kontoros Kaune susirašinėjimo medžiaga, pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

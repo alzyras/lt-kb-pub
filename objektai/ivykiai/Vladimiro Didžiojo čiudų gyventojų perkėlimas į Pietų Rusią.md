@@ -71,5 +71,5 @@ Apie 988 m. Vladimiras Didysis, sudaręs taiką su danais, dalį čiudų gyvento
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

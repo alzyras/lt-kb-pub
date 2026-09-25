@@ -46,26 +46,6 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
 
 ## Teiginiai
 
-<a id="claim-t-190340"></a>
-- t-001
-  teiginys: "Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspausdintu kardinolo Petro d’Ailli veikalu."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras d’Ailli: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras d’Ailli\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173223
-
 <a id="claim-t-190341"></a>
 - t-002
   teiginys: "Narbutas vyskupo Petro rankraštyje aptiko teiginį, kad vanduo buvo garbinamas Atropos vardu ir laikytas kilniu elementu."
@@ -78,18 +58,6 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173224
-
-<a id="claim-t-197333"></a>
-- t-003
-  teiginys: "Petras d’Ailli klausia savo motiną, tai yra Saulę, kokiame vandenyje ji galėtų išskalbti ąžuolo kraujo dėmes iš savo drabužių."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179136
 
 ## Citatos
 
@@ -111,8 +79,6 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-173224
   autorius: "Teodoras Narbutas"
@@ -130,7 +96,7 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179136
@@ -152,5 +118,42 @@ Narbutas rankraštį apie agapijonus Rusioje ir Lietuvoje laikė galimu neišspa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-199835
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
+  citata_originali: |
+    Kiti dar randa dievą Patrimpą (Potrimp) - val­
+    dantį tik upes, tačiau mokančiam kalbą Potrimpos ir At timpos
+    yra tas pats. Vyskupo Petro rankraštyje aptinkame: „jie garbi­
+    no vandenį, vadindami Atropos, kurį laikė kilniu elementu“.
+    Matyti, kad šio dievo vardas šitaip parašytas per klaidą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200292
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 189"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 189."
+  citata_originali: |
+    Trejus metus Aušrinė gedėjo rinkdama išsi­
+    barsčiusius savo vainikėlio lapelius, kurie spėjo nuvysti. Pa­
+    galiau, norėdama pasirengti pakartotinėms vestuvėms, ji
+    klausia savo motiną, tai yra Saulę, kokiame vandenyje ji ga­
+    lėtų išskalbti ąžuolo kraujo dėmes iš savo drabužių. Motina
+    siunčia į mitinį ežerą, į kurį įteka devynios upės. Kai ji klau­
+    sia, kur pakabinti drabužius, kad išdžiūtų, motina siunčia į
+    sodą, kuriame žydi devynios rožės.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

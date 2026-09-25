@@ -67,5 +67,5 @@ Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockienė Asta.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

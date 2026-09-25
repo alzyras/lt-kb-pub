@@ -80,5 +80,5 @@ Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

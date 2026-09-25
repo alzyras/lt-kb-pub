@@ -73,5 +73,5 @@ Jūra prasideda Raseinių apskrityje prie Štreitlauk ių kaimo ir iš dešinės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

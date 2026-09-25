@@ -74,5 +74,23 @@ Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196979
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
+  citata_originali: |
+    Netrukus pasitaikė tokia galimybė, kai jie, Belizari-
+    jaus vadovaujami, pradėjo kariauti. Vėliau, kariaudami
+    Narso gretose, ne sykį įnirtingai triuškino savo priešus,
+    labai prisidėjo išvejant juos iš Italijos. Tai jau buvo ka­
+    ringų Vakarų imperijos užkariautojų vaikai ir anūkai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

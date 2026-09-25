@@ -34,25 +34,6 @@ canonical_biography: "Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo,
 
 Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių apygardų nusiaubimą ir Klemento pilies sugriovimą Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras, kuris, šiaip jau apdairiai tvarkęs, ūkio reikalus.
 
-## Teiginiai
-
-<a id="claim-t-60251"></a>
-- t-001
-  teiginys: "Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Kulmas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bertoldas iš Nordhauzeno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Bertoldas iš Nordhauzeno gyveno Kulmo žemėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Bertoldas iš Nordhauzeno gyveno Kulmas (0.93)"
-  pagrindžia:
-    - c-60883
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.'
@@ -95,8 +76,6 @@ Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Ryšiai
 - Bertoldas iš Nordhauzeno gyveno [[objektai/vietos/Kulmas]]

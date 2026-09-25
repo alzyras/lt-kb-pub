@@ -105,6 +105,19 @@ Nenurodyta
   pagrindžia:
     - c-177037
 
+<a id="claim-t-217797"></a>
+- t-217797
+  teiginys: "Visi lietuviai visuomet gėrė tą gėrimą, ypač atlikdami re ligines apeigas."
+  atnaujinta: "2026-09-20 20:59"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-199032
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas alų vadina senovės lietuvių pirmutiniu ir mėgstamiausiu svaiginamuoju gėrimu, įėjusiu į slapiąsias aukas arba vaišes.'
@@ -151,7 +164,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177037
@@ -174,7 +187,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -195,5 +208,48 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-199032
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 309."
+  citata_originali: |
+    Degintą degtinę su
+    medumi žmonės lenkiškai vadina krupniku (Knipniczek); tas
+    slaviškas pavadinimas tikriausiai kilęs iš to lietuviško gėrimo.
+    Aukos
+    Visų tautų aukos buvo kažkokios vienodos - rėmėsi pir­
+    mykščio pasaulio papročiu, kurio Nojus laikėsi po Tvano. Šiuo
+    požiūriu lietuviai niekuo nesiskyrė nuo graikų ir romėnų, ne­
+    bent tik buvo kai kurių skirtumų, kilusių dėl vietos aplinkybių
+    ir nevienodo apšvietos laipsnio,.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217797
+
+- id: c-200972
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 309."
+  citata_originali: |
+    Tai buvo skystas javų kruopų
+    nuoviras, paskanintas midumi, tam tikrų žolių šaknimis ir kva­
+    pais, o kai kada ir kokiomis nors svaiginančiomis substancijo­
+    mis. Jį gerdavo šiltą, kaip kavą. Šį gėrimą mini padavimai, o
+    senos žyniuonės kai kuriose vietose dar moka jį paruošti; ligo­
+    niams tai esąs labai stiprinantis dalykas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

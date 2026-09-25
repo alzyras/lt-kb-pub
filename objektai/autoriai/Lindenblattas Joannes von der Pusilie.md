@@ -102,7 +102,7 @@ canonical_biography: "33 Lindenblatt Jahrbücher etc., p. 76, kryžiuočių pers
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-84007
@@ -122,7 +122,7 @@ canonical_biography: "33 Lindenblatt Jahrbücher etc., p. 76, kryžiuočių pers
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-84008
@@ -161,5 +161,5 @@ canonical_biography: "33 Lindenblatt Jahrbücher etc., p. 76, kryžiuočių pers
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

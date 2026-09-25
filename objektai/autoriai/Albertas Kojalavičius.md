@@ -81,7 +81,7 @@ Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185557
@@ -98,5 +98,5 @@ Lietuvos istorikas Albertas KojaIavičius užrašė savo laikais gyvavusį įsit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

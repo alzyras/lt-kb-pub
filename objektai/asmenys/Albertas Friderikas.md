@@ -66,5 +66,5 @@ Tas ąžuolas buvo tuščiaviduris ir tokio storumo, kad į jį su arkliu buvo g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

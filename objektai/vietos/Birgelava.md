@@ -39,38 +39,6 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
 
 ## Teiginiai
 
-<a id="claim-t-90326"></a>
-- t-001
-  teiginys: "Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulmo žemę, kur buvo paimta Birgelavos pilis."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Birgelava: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Treniota: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Birgelava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pilį paėmė Treniotos suburta kariuomenė; subjektas tekste yra Treniota su talkininkais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-86187
-
-<a id="claim-t-90327"></a>
-- t-002
-  teiginys: "Į Kulmo žemę įsibrovę kariai paėmė Birgelavos pilį ir pagrobė joje buvusius gyvulius bei mantą."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Birgelava: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Birgelava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo pilies paėmimą, o puolėjai yra Treniotos vadovaujami lietuviai ir pagonys; iš kandidatų tinkamiausia grupė yra lietuviai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-86187
-
 <a id="claim-t-90328"></a>
 - t-003
   teiginys: "Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443."
@@ -111,9 +79,6 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
 
 - id: c-86189
   autorius: "Petras Dusburgietis"
@@ -132,5 +97,24 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-206125
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  citata_originali: |
+    į dvi dalis, kurių viena patraukė prieš Torunę, o kita prieš Kulmo miestą, žudydamos,
+    imdamos į nelaisvę ir degindamos visa, ką sutikdavo pakelėje. Vakarop ji priėjo Birgelavos
+    pilį ir ten įsirengė stovyklą443. Tą pačią naktį šios pilies broliai su savo ginklanešiais išėjo
+    iš pilies; kai jie užpuolė miegančius karius, kai vienus žudė, o kitus mirtinai žeidė, kilo
+    baisus triukšmas, kurį išgirdo sargybiniai, tą naktį saugoję kariuomenę, jie atskubėjo,
+    pasirengę mūšiui, ir nukovė du brolius, vieną broliuką ir daug ginklanešių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

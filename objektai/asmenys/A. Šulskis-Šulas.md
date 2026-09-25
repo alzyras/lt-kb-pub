@@ -94,5 +94,5 @@ canonical_biography: "Šulskio-Šulo - pietrytinėje girios dalyje Subačiaus vl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

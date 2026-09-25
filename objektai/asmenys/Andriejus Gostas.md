@@ -82,7 +82,7 @@ Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188269
@@ -105,5 +105,5 @@ Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

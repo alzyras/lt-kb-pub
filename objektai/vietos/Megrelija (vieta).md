@@ -84,5 +84,5 @@ Ten pat užsimenama, jog Megrelijoje tau ro ragus naudoja kaip taures puotose; j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

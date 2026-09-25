@@ -70,5 +70,26 @@ Narbutas Austėją (Austheja) apibūdino kaip bičių ir bitininkystės globėj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201398
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 147"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 147."
+  citata_originali: |
+    Austėja (Austheja)
+    Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi
+    geidaujant iš kur nors atklydusį jaunų bičių spiečių įsivilioti į
+    savo avilius ir dreves. Ji taip pat turėjo galios saugoti bites nuo
+    kenksmingų vabzdžių ir kitų nutikimų.
+    Lasickis jos išsamiau neaiškino.
+    Latviai taip pat turėjo bičių dievybę, vadinamą gana pana­
+    šiai - Uhsinsz arba Szwets uhsinsz21.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

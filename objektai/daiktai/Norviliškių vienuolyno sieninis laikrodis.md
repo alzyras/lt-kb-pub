@@ -62,3 +62,38 @@ Nenurodyta
 ## Santrauka
 
 1811 m. t. Antanas Radziševskis Norviliškių vienuolynui padovanojo sieninį laikrodį.
+
+## Teiginiai
+
+<a id="claim-t-208314"></a>
+- t-001
+  teiginys: "1811 m. t. Antanas Radziševskis Norviliškių vienuolynui padovanojo sieninį laikrodį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1811 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190931
+
+## Citatos
+
+- id: c-190931
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 235"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 235."
+  citata_originali: |
+    Tuo tarpu pranciškonams nepavyko išsaugoti t. Antano Radziševskio
+    1811 m. Norviliškių vienuolynui padovanoto sieninio laikrodžio (lot. in grati-
+    tudinem et memoriae posteritatis). Jis pateko į likvidavimo komisijos rankas68.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

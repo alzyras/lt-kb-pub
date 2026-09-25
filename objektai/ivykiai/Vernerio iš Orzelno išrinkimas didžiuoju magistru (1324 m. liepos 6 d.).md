@@ -75,6 +75,30 @@ Nenurodyta
   pagrindžia:
     - c-63832
 
+<a id="claim-t-223285"></a>
+- t-223285
+  teiginys: "Verneris iš Orzelno didžiuoju magistru buvo išrinktas 1324 m. liepos 6 d."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205343
+
+<a id="claim-t-224346"></a>
+- t-224346
+  teiginys: "1324 m. liepos 6 d. Verneris iš Orzelno Marienburge buvo išrinktas keturioliktuoju didžiuoju ir dvidešimtuoju Prūsijos žemės magistru."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203209
+
 ## Citatos
 
 - id: c-63832
@@ -93,7 +117,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-63833
@@ -114,3 +138,39 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-203209
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 220"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 220."
+  citata_originali: |
+    Brolis Verneris iš Orzelno, keturioliktas didysis ir dvidešimtas Prūsijos žemės magistras,
+    tais metais, būtent 1324 viešpaties metų liepos mėnesio 6 dieną, buvo išrinktas
+    vyriausiojoje būstinėje Marienburge, o vadovavo.......metų582.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224346
+
+- id: c-205343
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 24"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
+  citata_originali: |
+    Dusburgietis, pvz., tiksliai nurodo, kada buvo
+    išrinktas magistru jo amžininkas ir globėjas Verneris iš Orzelno — 1324 m. liepos 6 d.
+    (III, 354).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223285

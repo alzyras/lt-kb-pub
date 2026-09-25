@@ -97,5 +97,5 @@ Trečdalis grobio būdavo atiduodama žyniams, kita dali jamasi esamu papročiu,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

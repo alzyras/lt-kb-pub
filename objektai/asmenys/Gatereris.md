@@ -65,18 +65,6 @@ Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo g
   pagrindžia:
     - c-174151
 
-<a id="claim-t-197732"></a>
-- t-002
-  teiginys: "Gatereris net mano, kad, kol ši tauta atkeliavo prie Baltijos jūros, ji viešėjo kažkur vidury slavų kraštų, iš kur pasisėmė slavų arba veikiau slavų-sarmatų žodžių; nepaisant to, lietuvių kalba pagal savo šaltinį yra kilusi iš kažkokios labai ¡senos, iš Trakijos kilusios kalbos."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179313
-
 ## Citatos
 
 - id: c-174151
@@ -101,7 +89,7 @@ Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179313
@@ -125,5 +113,50 @@ Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-195311
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 60"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 60."
+  citata_originali: |
+    Tai, kokia buvo jų val­
+    džia, kalba ir kokie papročiai, nežinoma. Gatereris1 bergž­
+    džiai stengiasi įrodinėti, kad sarmatai tik 80 metais
+    prieš Kristaus gimimą buvo galingi dešiniojo Dnepro
+    kranto gyventojai ir pastatė savo valstybę ant senovės
+    S k i t i j o s griuvėsių, nes nei iki tų metų, nei vėliau negali­
+    ma rasti sarmatų valstybės šia prasme. Neabejotina tik
+    tai, kad, kaip jau sakėme, kažkokia iš daugelio ir dau­
+    giausia už Dono gyvenusių genčių sudaryta lyga, kuriai
+    vadovaudami sarmatai gavo savo pavadinimą, žlungant
+    skitams įsiliejo į Europą ir sukėlė jos tautų judėjimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195850
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 197"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 197."
+  citata_originali: |
+    Tačiau senovės
+    tyrinėtojai, kurie teikėsi įsigilinti į mitologiją ir lietuvių
+    kalbą, visiškai sutinka su mūsų nuomone. Danų moksli­
+    ninkas ponas Raskas**, rašęs 1817 metais, lietuvius kildi­
+    na iš to paties kaip ir mes lizdo. Jis net mano, kad, kol
+    ši tauta atkeliavo prie Baltijos jūros, ji viešėjo kažkur
+    vidury slavų kraštų, iš kur pasisėmė slavų arba veikiau
+    slavų-sarmatų žodžių; nepaisant to, lietuvių kalba pagal
+    savo šaltinį yra kilusi iš kažkokios labai ¡senos, iš Trakijos
+    kilusios kalbos.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

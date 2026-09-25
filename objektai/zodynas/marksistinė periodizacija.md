@@ -113,7 +113,7 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-06418
@@ -137,6 +137,7 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-06419
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -154,5 +155,5 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

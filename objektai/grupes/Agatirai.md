@@ -112,7 +112,7 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -138,5 +138,59 @@ T. Narbutas agazirus tapatino su agatirais, kuriuos Amianas Marcelinas mini XXXI
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195114
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
+  citata_originali: |
+    Apie juos jis pateikia tokių iš senovės rašytojų su­
+    rinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais
+    kairiojoje Dnepro pakrantėje, gelonų ir budinu kaimynys­
+    tėje, vakaruose jie ribojosi su neurais arba ir su skitų-
+    gerų kraštu, taip pat netoli gyveno masagetai, melanchle-
+    nai ir antropofagai. Vėliau juos pavergė alanai išvien su
+    gelonais ir budinais. Laikui bėgant, kai pastarieji paju­
+    dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
+    tirus išsikelti iš Uždneprės. Taip pat yra senovės geogra­
+    fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­
+    macija, jog agatirai, arba kitaip agazirai ar angershirai,
+    yra ta pati Amiano minima gentis, savaime suprantama,
+    gerokai prieš autoriaus amžių įsikūrusi krašte, per kurį
+    tekėjo dvi upės: Lela-Upe ir Anger-Upe. Žodis Upe lietu­
+    vių kalba ir jos dialektais reiškia upę3; vadinasi, šių upių
+    būtina ieškoti lietuvių žemėje, kur gyveno lietuvių gen­
+    tys.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196701
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
+  citata_originali: |
+    Visa tai rodo, kad minėtų agazirų žemė buvusi prie En-
+    gūrės ežero, pavadinto jų vardu, o jie patys buvo lietu­
+    vių gentis ir, kaip rodo pavadinimas, šaka hirių kartos,
+    kuri buvo tokia sena kaip ir jų kaimynystė Uždneprėje
+    su gelonais ir budinais (§ 268). Tiesą sakant, senovės ty­
+    rinėtojai teigia, jog minėti agatirai gyveno Marus, arba
+    Maroszy, upės aukštupyje2. Septynių miestų žemėje*, pa­
+    skutiniame amžiuje prieš krikščioniškosios eros pradžią.
+    Tuo remdamasis, Naruševičius savo Lenkijos istorijos
+    pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
+    dešiniojoje šios upės pakrantėje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -65,5 +65,5 @@ Kristburgo pilis pastatyta Jėzaus Kristaus garbei ir palikta su karių įgula.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -67,5 +67,23 @@ Narbutas nurodė nuomonę, kad pirštukai (Pirsztuki) taip vadinti nuo žodžio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199779
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
+  citata_originali: |
+    17
+    Kiti mano, jog turėtų vadintis pirštukais (Pirsztuki) -  nuo žodžio
+    pirštas (Pirsztas), nes tos mitinės būtybės buvo mažos kaip rankos pirš­
+    tai. Vokiečiai dėl tos pačios priežasties juos vadino “Däumling”. Pas
+    čekus taip pat būta panašaus dievuko, vadinto „Pidimužik“*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

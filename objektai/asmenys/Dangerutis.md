@@ -49,6 +49,18 @@ Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną liet
   pagrindžia:
     - c-177222
 
+<a id="claim-t-217223"></a>
+- t-217223
+  teiginys: "Dangerutis buvo lietuvių vadas arba kunigaikštis ir garsus karžygys."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201176
+
 ## Citatos
 
 - id: c-177222
@@ -70,5 +82,27 @@ Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201176
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
+  citata_originali: |
+    Anot
+    autoriaus, tai buvęs šios tautos karo šūkis, arba kreipinys į jų
+    karo dievą. Tose pačiose pastabose dar yra užuomina apie vie­
+    ną lietuvių vadą ar kunigaikštį, vardu Dangerutis; ten sako­
+    ma, kad tas garsus karžygys buvo karo dievo, vadinto Kanas,
+    žynys. Šis karžygys, kurį Livonijos riteriai klasta arba pasaloje
+    sugavo ir laikė surakintą Vendeno pilyje, nusidūrė savo paties
+    kalaviju, kurio iš jo neatėmė pagerbdami jo luomą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217223

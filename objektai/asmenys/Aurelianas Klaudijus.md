@@ -68,19 +68,6 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
   pagrindžia:
     - c-174220
 
-<a id="claim-t-194911"></a>
-- t-002
-  teiginys: "Paskui pamažu, valdant imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo, užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo tenykščius gyventojus slavus, užimdami daug jų miestų."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  pagrindžia:
-    - c-177307
-
 ## Citatos
 
 - id: c-174220
@@ -103,7 +90,7 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177307
@@ -126,8 +113,28 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-194758
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
+  citata_originali: |
+    298
+    Netrukus po to, apie 269 metus, gotai, surinkę milži­
+    nišką apie 320 000 ginkluotų žmonių armiją, puolė impe­
+    riją, norėdami užkariauti visą valstybę. Imperatorius Au-
+    relianas Klaudijus stojo į kovą, galop prie Naisos Dar-
+    danijoje lemtingame mūšyje įveikė ir išvijo šiuos gro­
+    bikų būrius, visiškai juos sumušęs. Gotai patyrė didelių
+    nuostolių, o imperatorius prie savo titulų pridėjo Götti­
+    ens. Tarp kitų tautų su gotais** buvo ir herulai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Aurelianas Klaudijus kariavo prieš [[objektai/grupes/Gotai]]

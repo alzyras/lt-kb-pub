@@ -327,18 +327,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   pagrindžia:
     - c-65035
 
-<a id="claim-t-197163"></a>
-- t-016
-  teiginys: "Verneris iš Orzelno teikėsi nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei būsimosioms kartoms pamokyti."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-65037
-
 <a id="claim-t-197164"></a>
 - t-017
   teiginys: "Verneris iš Orzelno savo karaliaus vardu legatų, daugybės prelatų ir kitų tikinčiųjų, sustojusių aplinkui, akivaizdoje didžiu balsu pasakė, kad su karaliaus žinia niekad nebuvo siunčiama jokių laiškų jo paties bei jo žmonių krikšto reikalu, nebuvo tokių įteikta nė jo šventenybei popiežiui, niekam jis nebuvo įsakęs tokių viešai skelbti nei pajūrio miestuose, nei kitose provincijose585; be to, pridūrė, kad karalius savo dievų galybe prisiekė, jog niekad neketinąs priimti kito tikėjimo, o laikysis to, kuriam iki mirties buvo ištikimi jo senoliai."
@@ -379,6 +367,42 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
   pagrindžia:
     - c-188345
+
+<a id="claim-t-220966"></a>
+- t-220966
+  teiginys: "Verneris iš Orzelno buvo Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203938
+
+<a id="claim-t-222164"></a>
+- t-222164
+  teiginys: "Verneris iš Orzelno buvo keturioliktas didysis ir dvidešimtas Prūsijos žemės magistras."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201995
+
+<a id="claim-t-223249"></a>
+- t-223249
+  teiginys: "Verneris iš Orzelno buvo Kryžiuočių ordino magistras."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203203
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -451,7 +475,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-56087
@@ -472,7 +496,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-56089
@@ -494,7 +518,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-65034
@@ -512,7 +536,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-65035
@@ -542,7 +566,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-015
 
@@ -567,7 +591,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-65037
@@ -595,10 +619,9 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-014
-    - t-016
 
 - id: c-65038
   autorius: "Petras Dusburgietis"
@@ -615,7 +638,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-65039
@@ -633,7 +656,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-65040
@@ -657,7 +680,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-011
 
@@ -686,7 +709,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-006
 
@@ -707,7 +730,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-179041
@@ -733,7 +756,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-188344
@@ -754,7 +777,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-188345
@@ -775,12 +798,119 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     dūrė.
   citata_rodoma: "1330 metų lapkričio \n19 dieną, kai didysis magistras Verneris iš Orzelno bu­\nvo begrįžtąs po mišparų pamaldų, laikytų jo asmeninėje \nkoplyčioje, vienas kryžiuotis Jonas iš Endorfo, įširdęs dėl \nžiauraus elgesio su juo, pastojo prieblandoje jam, einan­\nčiam į savo buveinę, kelią koridoriuje ir mirtinai peiliu \ndūrė."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-12 08:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
+
+- id: c-201995
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 220"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 220."
+  citata_originali: |
+    Brolis Verneris iš Orzelno, keturioliktas didysis ir dvidešimtas Prūsijos žemės magistras,
+    tais metais, būtent 1324 viešpaties metų liepos mėnesio 6 dieną, buvo išrinktas
+    vyriausiojoje būstinėje Marienburge, o vadovavo.......metų582.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222164
+
+- id: c-202562
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 253-254"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 253-254."
+  citata_originali: |
+    Apie Medvėgalio pilėnus
+
+    1329 viešpaties metais  į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos
+    karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su
+    Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo, Saumburgo, Falkenšteino
+    grafais  ir Kerpeno, Geros, Bergo, Rotenšteino, Damiso, Kotbuso, Meiseno valdovais
+    bei Donos burggrafu  ir su daugybe Vokietijos bei Anglijos karalysčių kilmingųjų. Su
+    šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių  ir 18 tūkstančių karių,
+    neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų
+    pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
+    pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
+
+
+
+
+                            10.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203203
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 13"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13."
+  citata_originali: |
+    1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
+    užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223249
+
+- id: c-203938
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  citata_originali: |
+    Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno,
+    Šventosios 	Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
+    sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų kunigas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220966
+
+- id: c-206158
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 222"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 222."
+  citata_originali: |
+    Šias abi kariuomenes karalius pasiuntė krikščionių naikinti tuo metu, kai
+    apaštališkojo sosto legatų pasiuntiniai, tęsdami minėtąjį reikalą, gyveno šalia jo. štai ko
+    buvo vertas to apgaviko pažadas priimti krikšto sakramentą!
+    359 (352). Apie legatų pasiuntinių sugrįžimą 1324 metais
+    Tų pačių metų lapkričio 25 dieną legatų pasiuntiniai sugrįžo į Rygą, o su jais čia atvyko
+    ir vienas kilmingas lietuvis, buvęs nelyginant antras po karaliaus, ir jis savo karaliaus
+    vardu legatų, daugybės prelatų ir kitų tikinčiųjų, sustojusių aplinkui, akivaizdoje didžiu
+    balsu pasakė, kad su karaliaus žinia niekad nebuvo siunčiama jokių laiškų jo paties bei
+    jo žmonių krikšto reikalu, nebuvo tokių įteikta nė jo šventenybei popiežiui, niekam jis
+    nebuvo įsakęs tokių viešai skelbti nei pajūrio miestuose, nei kitose provincijose585; be
+    to, pridūrė, kad karalius savo dievų galybe prisiekė, jog niekad neketinąs priimti kito
+    tikėjimo, o laikysis to, kuriam iki mirties buvo ištikimi jo senoliai.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Puolė Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): [[objektai/asmenys/Jonas iš Endorfo]]

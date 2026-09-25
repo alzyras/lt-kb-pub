@@ -89,5 +89,5 @@ Algirdas, Kęstutis ir Patirgus su nemaža kariuomene 1356 m. sausį prasibrovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

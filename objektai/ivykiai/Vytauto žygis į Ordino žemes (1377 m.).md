@@ -127,7 +127,7 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-14187
@@ -154,7 +154,7 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-14188
@@ -175,5 +175,5 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

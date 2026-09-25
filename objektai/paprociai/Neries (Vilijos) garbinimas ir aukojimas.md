@@ -75,5 +75,5 @@ Fama commu nis refert - žmonės pasakoja, kad Neris - tai upės Vilijos nim fa,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

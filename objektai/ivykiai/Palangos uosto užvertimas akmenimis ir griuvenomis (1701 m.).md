@@ -92,5 +92,5 @@ Narbutas, remdamasis Zaluskio liudijimu, teigia, kad 1701 metais švedai, rygie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

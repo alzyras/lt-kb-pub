@@ -65,6 +65,18 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
   pagrindžia:
     - c-156316
 
+<a id="claim-t-211568"></a>
+- t-211568
+  teiginys: "Didysis kunigaikštis Algirdas, sutelkęs savo lietuvių pajėgas, išžygiavo į žygį ir ties Mėly naisiais Vandenimis sumušė totorius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194120
+
 ## Citatos
 
 - id: c-156316
@@ -92,5 +104,23 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194120
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 69."
+  citata_originali: |
+    1351 metai. Didysis kunigaikštis Algirdas, sutelkęs
+    savo lietuvių pajėgas, išžygiavo į žygį ir ties Mėly­
+    naisiais Vandenimis sumušė totorius
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211568

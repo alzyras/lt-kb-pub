@@ -65,5 +65,5 @@ Jūra nuo Dauguvos žiočių iki Domės Ness kyšulio buvo pasiglemžusi daug sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

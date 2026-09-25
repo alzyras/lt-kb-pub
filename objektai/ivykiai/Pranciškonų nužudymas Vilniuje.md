@@ -82,5 +82,5 @@ Susibūrusi minia nuspren dė išžudyti pranciškonus; užpuolė jų buveinę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

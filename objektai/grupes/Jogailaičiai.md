@@ -152,6 +152,31 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   pagrindžia:
     - c-184100
 
+<a id="claim-t-207507"></a>
+- t-207507
+  teiginys: "Jogailaičiai buvo Gediminaičių lenkiškoji šaka."
+  atnaujinta: "2026-09-19 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190124
+
+<a id="claim-t-207508"></a>
+- t-207508
+  teiginys: "Alfredas Bumblauskas nurodo, kad Upsaloje visa koplyčia vadinama Jogailaičių vardu."
+  atnaujinta: "2026-09-19 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190125
+
 ## Citatos
 
 - id: c-22426
@@ -176,7 +201,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-102461
@@ -205,7 +230,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -231,7 +256,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176217
@@ -253,7 +278,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184100
@@ -269,12 +294,56 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     vietininke, Margarita Austrijiete Savojiete, ir gyvi abiejų dvarų tarpusavio
     santykiai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-190124
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 50"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 50."
+  citata_originali: |
+    Taigi Gediminaičių
+    dinastijos valdymas, susijęs su ankstyvuoju LDK istorijos laikotarpiu, istorinėje lietuvių
+    sąmonėje laikomu šlovingiausiu, o dinastijos ženklas – Gediminaičių stulpai – yra vienas
+    iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.
+    Krėvos sutartis sukūrė politinę sistemą, kurioje viršenybė priklausė Lenkijai, o šiai
+    sistemai – Lenkijos ir Lietuvos personalinei unijai – vadovauti Jogailai tapus Lenkijos ka-
+    raliumi iškelti Gediminaičiai, tapę lenkiškąja šios giminės šaka – Jogailaičiais. Ši Gedimi-
+    naičių šaka vėliau (XV a. pabaigoje – XVI a. pradžioje) buvo pasiekusi įtakos viršūnę.
+  citata_rodoma: "os sutartis sukūrė politinę sistemą, kurioje viršenybė priklausė Lenkijai, o šiai \nsistemai – Lenkijos ir Lietuvos personalinei unijai – vadovauti Jogailai tapus Lenkijos ka-\nraliumi iškelti Gediminaičiai, tapę lenkiškąja šios giminės šaka – Jogailaičiais. Ši"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207507
+
+- id: c-190125
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 256"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 256."
+  citata_originali: |
+    Stabtelėkime vien prie Upsalos katedros, kur Švedijos valdovų Vazų
+    panteone greta dinastijos pradininko Gustavo Vazos ir jo sūnaus Jono III ilsisi Zigmanto
+    Vazos motina Žygimanto Senojo dukra Kotryna (mirė 1583 m.), 1561 m. Vilniuje ištekėjusi
+    už būsimo Švedijos karaliaus Jono III (mirė 1592 m.). Jos garbei Upsaloje visa koplyčia
+    vadinama Jogailaičių vardu, o sarkofagas papuoštas Lenkijos, Lietuvos ir Švedijos herbais.
+  citata_rodoma: "Jos garbei Upsaloje visa koplyčia \nvadinama Jogailaičių vardu, o sarkofagas papuoštas Lenkijos, Lietuvos ir Švedijos herbais."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207508
 
 ## Ryšiai
 - Priešai: [[objektai/asmenys/Motiejus Huniadis]]

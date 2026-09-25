@@ -73,7 +73,7 @@ Tre훾ioje laivo klesoje buvo daugiau kaip pusantro t큰kstan훾io ital킬 ir graik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrind탑ia:
     - t-001
 
 - id: c-192322
@@ -91,5 +91,5 @@ Tre훾ioje laivo klesoje buvo daugiau kaip pusantro t큰kstan훾io ital킬 ir graik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrind탑ia:
     - t-002

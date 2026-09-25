@@ -90,7 +90,7 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-34172
@@ -113,5 +113,5 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

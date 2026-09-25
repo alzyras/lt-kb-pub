@@ -72,5 +72,5 @@ Vladislovas Jogaila specialiai pasiuntė dominikoną Teodorą Lenką į Konstanc
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

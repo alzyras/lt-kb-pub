@@ -110,7 +110,7 @@ canonical_biography: "186 ## Puslapis 203 Il KNYGA 1631 metais garbioji Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83542
@@ -137,5 +137,5 @@ canonical_biography: "186 ## Puslapis 203 Il KNYGA 1631 metais garbioji Vilniaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

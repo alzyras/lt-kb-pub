@@ -88,5 +88,5 @@ Pasak Narbuto, netrukus Vladimiras Andrejevičius išvijo lietuvius iš Rževo, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

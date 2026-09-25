@@ -74,5 +74,5 @@ Papjovus gyvu lį, sukapojus ir nuplovus aukojamąją mėsą, geriausius gaba lu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -32,21 +32,6 @@ media_all_json: |-
 
 Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Raynaldo „Annales ecclesiasticae“ prie 1232 metų.
 
-## Teiginiai
-
-<a id="claim-t-190552"></a>
-- t-001
-  teiginys: "Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Raynaldo „Annales ecclesiasticae“ prie 1232 metų."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-173435
-
 ## Citatos
 
 - id: c-173435
@@ -66,5 +51,3 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

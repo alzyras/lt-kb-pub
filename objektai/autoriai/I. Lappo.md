@@ -61,6 +61,42 @@ Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
   pagrindžia:
     - c-30535
 
+<a id="claim-t-207758"></a>
+- t-207758
+  teiginys: "Ivanas Lappo pirmaisiais XX a. dešimtmečiais pradėjo profesionaliąją bajorijos istorijos tyrimų tradiciją Lietuvoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190595
+
+<a id="claim-t-207875"></a>
+- t-207875
+  teiginys: "Lappo įnašo svarstant šią problemą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190534
+
+<a id="claim-t-207959"></a>
+- t-207959
+  teiginys: "I. Lappo istoriografijoje plačiai aptarė šią problemą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190357
+
 ## Citatos
 
 - id: c-30535
@@ -79,5 +115,67 @@ Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190357
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 125"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 125."
+  citata_originali: |
+    Istoriografijoje šią problemą plačiai yra aptaręs I. Lappo. Pasirėmęs 1588 m. Lietu-
+    vos Statuto teksto analize, I. Lappo rašo, kad žodis „valstybės" (панства) galėjo reikšti
+    abi valstybes, sujungtas Liublino unijos saitais, todėl galima daryti išvadą, kad 1588 m.
+  citata_rodoma: "Istoriografijoje šią problemą plačiai yra aptaręs I. Lappo. Pasirėmęs 1588 m. Lietu-\nvos Statuto teksto analize, I. Lappo rašo, kad žodis „valstybės\" (панства) galėjo reikšti\nabi valstybes, sujungtas Liublino unijos saitais"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207959
+
+- id: c-190534
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 10"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 10."
+  citata_originali: |
+    Šiuolaiki-
+    nių Lietuvos istorikų nebeturėtų tenkinti juose prieš šimtą metų suformuotos ir išdėstytos
+    koncepcijos.
+    Kita vertus, rašant apie XVI a. Lietuvos Didžiosios Kunigaikštystės bajoriją, nega-
+    lima neprisiminti ką tik minėto I. Lappo įnašo svarstant šią problemą.
+  citata_rodoma: "Kita vertus, rašant apie XVI a. Lietuvos Didžiosios Kunigaikštystės bajoriją, nega-\nlima neprisiminti ką tik minėto I. Lappo įnašo svarstant šią problemą."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207875
+
+- id: c-190595
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 51"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 51."
+  citata_originali: |
+    Praėjo šimtmečiai, kas pasikeitė, klausia moderniųjų laikų istorikai.
+    Lietuvos Didžiosios Kunigaikštystės bajorijos istorija pradėta rašyti dar XIX a. Ta-
+    čiau profesionaliąją bajorijos istorijos tyrimų pradžią pirmaisiais XX a. dešimtmečiais
+    padarė dalį gyvenimo Lietuvoje dirbęs Ivanas Lappo
+    15, rusų kilmės istorikas, tyręs įvai-
+    rias Lietuvos Didžiosios Kunigaikštystės istorijos problemas.
+  citata_rodoma: "Ta-\nčiau profesionaliąją bajorijos istorijos tyrimų pradžią pirmaisiais XX a. dešimtmečiais\npadarė dalį gyvenimo Lietuvoje dirbęs Ivanas Lappo"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207758

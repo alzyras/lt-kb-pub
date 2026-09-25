@@ -84,5 +84,5 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

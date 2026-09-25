@@ -123,6 +123,24 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   pagrindžia:
     - c-166739
 
+<a id="claim-t-23260"></a>
+- t-23260
+  teiginys: "Tadas Korsakas žuvo ginant Varšuvą."
+  atnaujinta: "2026-09-20 18:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Varšuva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "T. Korsakas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Varšuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja T. Korsako žūtį su Varšuvos gynimu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "T. Korsakas gynė Varšuva (0.88); T. Korsakas mirė Varšuva (0.84)"
+  pagrindžia:
+    - c-70108
+    - c-166739
+
 ## Citatos
 
 - id: c-70108
@@ -143,8 +161,9 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-23260
 
 - id: c-166739
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -167,6 +186,7 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
+    - t-23260

@@ -57,6 +57,30 @@ Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo
   pagrindžia:
     - c-176001
 
+<a id="claim-t-208288"></a>
+- t-208288
+  teiginys: "A. Midletonas 1796 m. vasarą praleido Kopenhagoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190968
+
+<a id="claim-t-209627"></a>
+- t-209627
+  teiginys: "Iš vokiečių konsulio Kopenhagene gau ta pasas Kaunan per Warnemundą, Berlyną ir atgalios."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192247
+
 ## Citatos
 
 - id: c-176001
@@ -78,5 +102,42 @@ Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190968
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 282"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 282."
+  citata_originali: |
+    Čia buvęs pasiuntinybės
+    tarnautojas sulaukėjo nuopelnų įvertinimo -17 9 4 m. data suteikto Šv. Stanislovo
+    ordino ir Stanislovo Augusto, nuversto monarcho, kurio valstybės pertvarkymo
+    vizija šventai tikėjo, finansinės paramos - 200 dukatų. 1796-ųjų metų vasarą pra­
+    leidęs Kopenhagoje, A. Midletonas vėl persikėlė į Altoną, kur mirė 1797 m. sausio
+    i d. Buvo nevedęs, nei įpėdinių, nei turto nepaliko.
+  citata_rodoma: "1796-ųjų metų vasarą pra­\nleidęs Kopenhagoje, A. Midletonas vėl persikėlė į Altoną, kur mirė 1797 m. sausio \ni d."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208288
+
+- id: c-192247
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 28"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 28."
+  citata_originali: |
+    Iš vokiečių konsulio Kopenhagene gau­
+    ta pasas Kaunan per Warnemundą, Berlyną ir
+    atgalios.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209627

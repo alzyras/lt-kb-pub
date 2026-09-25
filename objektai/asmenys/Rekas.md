@@ -68,6 +68,18 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
   pagrindžia:
     - c-172995
 
+<a id="claim-t-218400"></a>
+- t-218400
+  teiginys: "Kažkoks Rekas (Rhoecus), kartą apim lus gailesčio dėl griūvančio ąžuolo, liepė apkasti jį šviežia že me ir paramstyti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198959
+
 ## Citatos
 
 - id: c-172994
@@ -90,7 +102,7 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172995
@@ -114,5 +126,68 @@ Narbutas per Charoną iš Lampsako pasakoja, kad Rekas, pagailėjęs griūvanči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198229
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
+  citata_originali: |
+    Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
+    nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek
+    malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę mi-
+    lologinę pasaką: esą hamadriadės gyvendavusios medžiuose,
+    kartu su jais augdavusios, kentėdavusios ir užbaigdavusios sa­
+    vo gyvenimą. Charonas iš Lampsako išsaugojo mums įdomią
+    istoriją apie šį dalyką. Kažkoks Rekas (Rhoecus), kartą apim­
+    lus gailesčio dėl griūvančio ąžuolo, liepė apkasti jį šviežia že­
+    me ir paramstyti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198959
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
+  citata_originali: |
+    Kažkoks Rekas (Rhoecus), kartą apim­
+    lus gailesčio dėl griūvančio ąžuolo, liepė apkasti jį šviežia že­
+    me ir paramstyti. Rytojaus dieną jam pasirodė hamadriadė,
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218400
+
+- id: c-201187
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 233"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
+  citata_originali: |
+    Nimfa, pagauta davusi žodį, nebegalė­
+    jo atsisakyti, tad pažadėjo pasimatyti su juo vienu, tik su sąly­
+    ga, kad jis keletą dienų susilaikys nuo noro santykiauti su mo­
+    terimi; tam laikui praėjus, pridūrė, atsiųsiu pas tave bitę, kuri
+    praneš tau tavo laimės valandą. Tačiau tas Rekas buvo aistrin­
+    gas lošėjas; nutiko taip, kad jis lošė tuo metu, kai atlėkė bitė
+    su pranešimu; užuot paklausęs paslaugios pasiuntinės, jis vos
+    neužmušė jos už įkyrų zvimbimą paausy. Tas paniekinimas taip
+    įžeidė hamadriadę, kad ji atėmė iš jo sugebėjimą valdyti tam
+    tikras kūno dalis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -71,6 +71,18 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
   pagrindžia:
     - c-157525
 
+<a id="claim-t-207784"></a>
+- t-207784
+  teiginys: "Leonas Sapiega buvo Lietuvos Didžiosios Kunigaikštystės kancleris ir aukštas valstybės pareigūnas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190587
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Leonas Sapiega buvo Lietuvos Didžiosios Kunigaikštystės kancleris ir aukštas valstybės pareigūnas.'
@@ -134,5 +146,52 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190587
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 190"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 190."
+  citata_originali: |
+    B
+    s
+    j
+    o
+    r
+    l
+    i
+    k
+    o
+    j
+    o
+    p
+    a
+    s
+    a
+    u
+    l
+    i
+    o
+    p
+    r
+    o
+    f
+    i
+    l
+    i
+    a
+    i
+    Tai Lietuvos Didžiosios Kunigaikštystės kanclerio Leono Sa-
+    piegos, aukšto valstybės pareigūno, diplomato praktiko ne iš nuogirdų, o iš kas-
+    dienio darbo patirties 1594 m. pasakyti žodžiai.
+  citata_rodoma: "Lietuvos Didžiosios Kunigaikštystės kanclerio Leono Sa-\npiegos, aukšto valstybės pareigūno, diplomato praktiko ne iš nuogirdų, o iš kas-\ndienio darbo patirties 1594 m. pasakyti žodžiai."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207784

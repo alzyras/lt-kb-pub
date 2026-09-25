@@ -72,6 +72,7 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-09582
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -85,6 +86,6 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

@@ -62,5 +62,5 @@ Jis valdovo iždui buvo įsiskolinęs 94 kapas grašių už iš Vilniaus pilinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

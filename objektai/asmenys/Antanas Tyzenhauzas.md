@@ -291,6 +291,32 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   pagrindžia:
     - c-186409
 
+<a id="claim-t-208273"></a>
+- t-208273
+  teiginys: "Augustino Midletono karjerą nuo Kauno pavieto pilies teismo raštininko iki pasiuntinybės Hagoje rezidento lėmė priklausymas dvaro grupuotei ir Antano Tyzenhauzo parama."
+  atnaujinta: "2026-09-19 13:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-08-18T21:24:30Z"
+  pagrindžia:
+    - c-190954
+
+<a id="claim-t-208379"></a>
+- t-208379
+  teiginys: "V. I. Marevičius išleido dekoracijos aprašymą ir šį leidinį dedikavo Antanui Tyzenhauzui, prieš kelias savaites tapusiam miesto prezidentu."
+  atnaujinta: "2026-09-19 13:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-08-18T21:24:30Z"
+  pagrindžia:
+    - c-191010
+
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: 'Augustino Midletono karjerą nuo Kauno pavieto pilies teismo raštininko iki pasiuntinybės Hagoje rezidento lėmė priklausymas dvaro grupuotei ir Antano Tyzenhauzo parama.'
@@ -346,7 +372,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-006
     - t-008
@@ -367,7 +393,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-007
 
@@ -390,7 +416,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-26901
@@ -414,7 +440,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-26902
@@ -436,7 +462,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
     - t-010
@@ -463,7 +489,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-185661
@@ -473,8 +499,9 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 61 (PDF 4)."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-186409
@@ -493,8 +520,51 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
+
+- id: c-190954
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 282"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 282."
+  citata_originali: |
+    Laidotuvių išlaidas apmokėjo
+    Stanislovas Augustas99.
+    Išvados
+    Skotų kilmės Lietuvos Didžiosios Kunigaikštystės bajoras A. Midletonas buvo
+    karaliaus Stanislovo Augusto dvaro grupuotės žmogus. Jo karjerą nuo Kauno
+    pavieto pilies teismo raštininko, Lietuvos Vyriausiojo Tribunolo deputato, Kauno
+    paseniūnio iki pasiuntinybės Hagoje sekretoriaus, vėliau - rezidento lėmė priklau­
+    symas dvaro grupuotei ir aktyvi Antano Tyzenhauzo, vėliau - Karolio Prozoro ir
+    Pranciškaus Bukotos parama.
+  citata_rodoma: "Jo karjerą nuo Kauno \npavieto pilies teismo raštininko, Lietuvos Vyriausiojo Tribunolo deputato, Kauno \npaseniūnio iki pasiuntinybės Hagoje sekretoriaus, vėliau - rezidento lėmė priklau­\nsymas dvaro grupuotei ir aktyvi Antano Tyzenhauzo, vėliau - Karolio Prozoro ir \nPranciškaus Bukotos parama."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208273
+
+- id: c-191010
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 291"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 291."
+  citata_originali: |
+    V. I. Marevičius priėmė Vilniuje miestiečių teises
+    ir buvo išrinktas II rajono rinkimų asesoriumi. Tais pačiais metais jis publikavo
+    savo kalbą, sakytą išrinkus II rajono pareigūnus31, o gegužės 3 d. sukūrė savo val­
+    dose Konstitucijai pagerbti skirtą dekoraciją, kurią finansavo Mykolas Kleopas
+    Oginskis. Dekoracijos aprašymą V. I. Marevičius išleido ir jį dedikavo Antanui
+    Tyzenhauzui, prieš kelias savaites tapusiam miesto prezidentu32.
+  citata_rodoma: "Dekoracijos aprašymą V. I. Marevičius išleido ir jį dedikavo Antanui \nTyzenhauzui, prieš kelias savaites tapusiam miesto prezidentu32."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208379
 
 ## Ryšiai
 - Antanas Tyzenhauzas (ūkio reformų veikėjas) siuntė į [[objektai/vietos/Anglija]]

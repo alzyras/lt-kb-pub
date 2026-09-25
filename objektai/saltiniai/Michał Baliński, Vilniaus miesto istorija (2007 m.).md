@@ -182,7 +182,7 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-55235
@@ -218,7 +218,7 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -258,10 +258,11 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
     © MINTIS, 2007
   citata_rodoma: "UDK 947.45 \nBa237\nVersta iš\nMichała Balińskiego \nHistory a Miasta Wilna \nWilno. Drukiem \nAntoniego Marcinowskiego, \n1836-1837\nKnygos leidimą parėmė \nLietuvos Respublikos \nkultūros ministerija\nKnyga išleista \nLietuvos tūkstantmečio \nminėjimo direkcijai \nparėmus\nRedaktorė\nSkirmantė Ramanauskaitė\nKnygos dailininkas \nRomas Dubonis\nISBN 978-5-417-00907-5 © Vertimas į lietuvių kalbą,\nOna Slavėnaitė, 2007 \n© Vertimas į lietuvių kalbą,\nIrena Katilienė, 2007 \n© Vertimas į lietuvių kalbą,\nJūratė Dalia Baronienė, 2007 \n© Romas Dubonis, apipavidalinimas, \n2007\n© MINTIS, 2007"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005

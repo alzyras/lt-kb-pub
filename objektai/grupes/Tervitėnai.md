@@ -72,5 +72,26 @@ Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196970
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
+  citata_originali: |
+    Žiloje seno­
+    vėje šis uostas galėjo būti šalies sostinė, iš kurios ir buvo
+    kilęs tautos pavadinimas.
+    Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
+    lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno
+    doblėnai, Dobleny, rytinėje — mechotėnai, Mechoteny, vi­
+    durinėje — kuršiai, Kurszovoy, o pietinėje — tervitėnai,
+    Tenvitenny. Iš tikrųjų lai buvo žemgalių gentys.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

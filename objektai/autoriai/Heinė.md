@@ -56,6 +56,30 @@ Heinė, remdamasis Homero eilėmis, aiškino, kad poetas tiesiogiai vaizdavo gra
   pagrindžia:
     - c-173308
 
+<a id="claim-t-217264"></a>
+- t-217264
+  teiginys: "Heinė pateikia eiles iš Homero, kur Jupiteris priekaištauja Juno nai sakydamas, jog verčiau norėtų toliau kariauti, kad tik ji neprarytų Priamo ir jo sūnų kaip žalios mėsos arba iškeptų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201021
+
+<a id="claim-t-217950"></a>
+- t-217950
+  teiginys: "Heinė pažymi, kad poetas, savo papratimu vaizduodamas die vus ano meto žmonių pavyzdžiu, nevartoja čia jokios metafo ros, bet tiesiogiai vaizduoja žmogėdrystę, kuri graikams Tro jos karo metu buvo žinoma."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201021
+
 ## Citatos
 
 - id: c-173308
@@ -78,5 +102,29 @@ Heinė, remdamasis Homero eilėmis, aiškino, kad poetas tiesiogiai vaizdavo gra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201021
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 314."
+  citata_originali: |
+    Ši auka turi labai žilos senovės bruožų - dar iš tų
+    barbarybės laikų, kai nugalėtojai surydavo karo belaisvius. Hei-
+    nė pateikia eiles iš Homero, kur Jupiteris priekaištauja Juno­
+    nai sakydamas, jog verčiau norėtų toliau kariauti, kad tik ji
+    neprarytų Priamo ir jo sūnų kaip žalios mėsos arba iškeptų.
+    Heinė pažymi, kad poetas, savo papratimu vaizduodamas die­
+    vus ano meto žmonių pavyzdžiu, nevartoja čia jokios metafo­
+    ros, bet tiesiogiai vaizduoja žmogėdrystę, kuri graikams Tro­
+    jos karo metu buvo žinoma.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217264
+    - t-217950

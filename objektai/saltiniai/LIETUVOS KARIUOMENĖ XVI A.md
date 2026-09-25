@@ -60,5 +60,5 @@ p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

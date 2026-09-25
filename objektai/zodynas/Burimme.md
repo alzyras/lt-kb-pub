@@ -49,6 +49,18 @@ Narbutas Burimme vadino pavienes sibiles, būrimu pagarsėjusias moteris arba at
   pagrindžia:
     - c-172173
 
+<a id="claim-t-218934"></a>
+- t-218934
+  teiginys: "Būdavo pavienių sibilių, vadintų Burimme, tai yra tam tik rų moterų, pagarsėjusių būrimu, arba senų vaidilučių, kurios gyvendavo atsiskyrusios ir apgaudinėdavo pasakomis lengva tikius žmones, kaip minėjome pirmiau."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198701
+
 ## Citatos
 
 - id: c-172173
@@ -70,5 +82,27 @@ Narbutas Burimme vadino pavienes sibiles, būrimu pagarsėjusias moteris arba at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198701
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 305"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 305."
+  citata_originali: |
+    Tad atėjęs pasiskųsti arba prašantis patarimo gauda­
+    vo atsakymą“.
+    Būdavo pavienių sibilių, vadintų Burimme, tai yra tam tik­
+    rų moterų, pagarsėjusių būrimu, arba senų vaidilučių, kurios
+    gyvendavo atsiskyrusios ir apgaudinėdavo pasakomis lengva­
+    tikius žmones, kaip minėjome pirmiau.
+    Latvių pranašautojai turėjo būrimo būdą, vadinamą Pim-
+    polis.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218934

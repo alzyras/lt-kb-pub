@@ -59,5 +59,5 @@ Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

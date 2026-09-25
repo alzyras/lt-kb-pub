@@ -86,7 +86,7 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176330
@@ -106,7 +106,7 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176331
@@ -128,5 +128,5 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -87,6 +87,18 @@ historical_names: []
   pagrindžia:
     - c-184049
 
+<a id="claim-t-210845"></a>
+- t-210845
+  teiginys: "Slonimas yra miestas į pietus nuo aukštutinio Nemuno, prie Nemuno intako Ščaros, apie 60 km į rytus nuo Volkovysko."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194014
+
 ## Citatos
 
 - id: c-82084
@@ -113,7 +125,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184049
@@ -123,9 +135,27 @@ historical_names: []
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194014
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 200"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 200."
+  citata_originali: |
+    Slonimas — BTSR miestas (| pietus nuo aukštutinio Nemuno,
+    prie Nemuno intako Sčaros. apie 60 km j rytus nuo Volkovysko).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210845
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]

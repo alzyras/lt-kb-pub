@@ -111,7 +111,7 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167722
@@ -132,7 +132,7 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167723
@@ -153,5 +153,5 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

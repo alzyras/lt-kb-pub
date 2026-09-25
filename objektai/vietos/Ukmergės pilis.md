@@ -76,5 +76,5 @@ Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

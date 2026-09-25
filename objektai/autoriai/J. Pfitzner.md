@@ -80,5 +80,5 @@ Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale «Grossfürst Witold a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

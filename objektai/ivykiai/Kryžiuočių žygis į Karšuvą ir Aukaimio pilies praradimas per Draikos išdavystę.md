@@ -122,10 +122,11 @@ Nenurodyta
     moteris išsivarė į vergovę.
   citata_rodoma: "Tais pačiais me­\ntais per išdavystę buvo prarasta Aukaimio pilis. Pilies\nviršininkas Draika pradėjo linkti į krikščionių tikėji­\nmą. Negalėdamas tarp saviškių garbinti dievo pagal\nšias apeigas, jis ryžosi pereiti priešo pusėn, o prieš\ntai pelnyti jo palankumą nepaprasta išdavyste. Todėl,\npasiuntęs tarpininku savo sūnų Piną, suderino savo\nketinimus su Folradu, Ragainės komtūru, ir sutarė die­\nną; Draika pats vadovavo nakties sargybai, kai Folra-\ndas tamsoje pritraukė prie pilies kariuomenę: atida­\nrius vartus, buvo įleistas į pilį, karius ir visą kariauti\npajėgiantį jaunimą jis skerste išskerdė, o vaikus ir\nmoteris išsivarė į vergovę."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

@@ -70,5 +70,26 @@ Narbutas rašė, kad Lietuvoje mirusieji dažniausiai laidoti karstuose žemėje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199610
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
+  citata_originali: |
+    „Palaidojimo vietoje trimituoja, dainuoja: „Eik, vargše, iš
+    šio vargano pasaulio, pilno visokio vargo, į amžinas vestuves;
+    ten nebeskriaus tavęs nei pasipūtęs vokietis, nei plėšrus len­
+    kas, nei rusinąs“, - sako Strijkovskis.
+    Labiausiai paplitę buvo mirusiuosius laidoti karstuose že­
+    mėje sarmatų ir variagų papročiu. Šitai įrodo daugybė kapų,
+    arba laidojimo laukų, išsibarsčiusių po visą Lietuvą, kurie pa­
+    davimuose laikomi pagoniškais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

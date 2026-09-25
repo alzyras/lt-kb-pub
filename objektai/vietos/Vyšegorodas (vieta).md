@@ -71,5 +71,5 @@ Kijevo priemiesčiai—Vyšegorodas IS, Čer kasai l6, Kanevas l7, Putivlis l8, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

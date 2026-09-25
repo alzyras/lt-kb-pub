@@ -229,17 +229,16 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   pagrindžia:
     - c-179328
 
-<a id="claim-t-197759"></a>
-- t-011
-  teiginys: "Johanas Foigtas buvo prie Šyšos upės, kuri kita dos turėjo būti vadinama Cyse arba Sussa."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-214783"></a>
+- t-214783
+  teiginys: "IV priede Narbutas pateikė Johano Foigto surinktas žinias apie senovės Prūsijos provincijų geografiją, statistiką ir istoriją."
+  atnaujinta: "2026-09-19 21:55"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-173775
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -365,7 +364,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173769
@@ -389,7 +388,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173770
@@ -411,7 +410,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173771
@@ -439,7 +438,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-008
 
@@ -475,7 +474,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173774
@@ -499,7 +498,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173775
@@ -524,8 +523,6 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
 
 - id: c-179327
   autorius: "Teodoras Narbutas"
@@ -546,7 +543,7 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-179328
@@ -565,6 +562,91 @@ Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tušč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-010
+
+- id: c-195648
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Iš dalies
+    tai buvo pono Foigto studijos apie senovės Sambijos vi-
+    tingus (Geschichte der Eidechsen Gesellschaft in Preus-
+    sen. S. 206—208) teiginiai; tačiau ten nepakako vietos
+    viską plačiai išdėstyti, ir tik vienas dokumentas su pra­
+    dingusios žemės dydžio aprašymu sudarė svarbiausio
+    įrodymo pagrindą. Čia plačiau panagrinėsime tuos tei­
+    ginius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196197
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 369-370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
+  citata_originali: |
+    Gar­
+    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
+    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
+    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
+
+    dos turėjo būti vadinama Cyse arba Sussa. Bet panašiau
+    į tiesą tai, kad ji buvo tarp Eimenio ir Ząsupės upelių, į
+    pietryčius nuo Kraupiškių kaimo, netoli Įsros upės, kur
+    esama tvirtovės pėdsakų ant kalno prie Ząsupėnų kaimo;
+    tai labiau primena šį pavadinimą, nors ši vieta, mūsų
+    nuomone, priklauso Nadruvai.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197362
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
+  citata_originali: |
+    Ragainė Hartknocho išleistame Dus-
+    burgo veikale klaidingai pavadinta Ramige (p. III. C.
+    178). Ponas Foigtas rado Berlyno rankraštyje vietovardį
+    Raganita, ir tai žinomas pats tikriausias pavadinimas, nes
+    jis kilęs iš mitinio vardo Ragana.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197520
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 175"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 175."
+  citata_originali: |
+    Sis didelis gintaro kiekis nėra perdėtas, nes
+    -senovėje jo daugybė galėjo pranokti bet kokią šiandienę
+    fantaziją. Ponas Foigtas, patvirtindamas tą patį, nurodo
+    pavyzdį iš prūsų apskaitos knygų, kad 1770 metais Sem­
+    boje surinkta daugiau kaip 411 laivo statinių, arba 65 760
+    svarų karališko svorio, gintaro2. Bet neaišku, ar tas ro­
+    mėnų riteris buvęs pačiose kasyklose, ar rašytojai tik tei­
+    gia, kad tai įvykę Germanijoje arba kairiojoje Vyslos pa­
+    krantėje; ten galėjęs valdyti koks nors gotų, prekiavusių
+    tiesiai -iš kasyklų gaunamu gintaru, karalius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -58,5 +58,5 @@ Vien tik tyrinėjimo, vietinių stebėjimų ir jų palygi nimų su rašytiniais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

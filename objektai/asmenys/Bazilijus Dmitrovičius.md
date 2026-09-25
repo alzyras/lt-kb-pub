@@ -140,7 +140,7 @@ Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189572
@@ -158,7 +158,7 @@ Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-189573
@@ -181,7 +181,7 @@ Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-189574
@@ -203,7 +203,7 @@ Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-189575
@@ -221,5 +221,5 @@ Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

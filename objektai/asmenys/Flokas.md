@@ -57,6 +57,18 @@ Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš 
   pagrindžia:
     - c-174279
 
+<a id="claim-t-214222"></a>
+- t-214222
+  teiginys: "Starkateras privertė Floką sprukti iš rūmų ir pasisavino jo lobius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196152
+
 ## Citatos
 
 - id: c-174279
@@ -79,5 +91,23 @@ Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196152
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  citata_originali: |
+    Tas pats Starkateras, privertęs rusnėnų karaliuką
+    Floką sprukti iš savo rūmų, pasisavino jo nesuskaičiuoja­
+    mus lobius, daugybę aukso ir sidabro4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214222

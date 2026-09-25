@@ -91,7 +91,7 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-38421
@@ -115,7 +115,7 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-38422
@@ -140,5 +140,5 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

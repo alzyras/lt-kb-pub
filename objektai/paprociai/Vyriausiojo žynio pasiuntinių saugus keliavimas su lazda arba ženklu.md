@@ -44,26 +44,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-189880"></a>
-- t-001
-  teiginys: "Narbutas, remdamasis Dusburgiečiu, vaizduoja vyriausiojo žynio pasiuntinius su krivūle ar ženklu saugiai keliaujančius per lietuvių genties tautų kraštus."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Dusburgietis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyriausiojo žynio pasiuntinių saugus keliavimas su lazda arba ženklu: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Dusburgietis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyriausiojo žynio pasiuntinių saugus keliavimas su lazda arba ženklu\" parinktas kaip owner_note_path. Targetas \"Dusburgietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172763
-
 <a id="claim-t-189881"></a>
 - t-002
   teiginys: "Narbutas rašo, kad vyriausiojo žynio pasiuntiniai pas krašto valdovus vykdavę kaip taikos pasiuntiniai ir išsiskirdavę jiems duota lazda."
@@ -112,8 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-002
 
 - id: c-172764
@@ -141,5 +120,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-199748
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
+  citata_originali: |
+    Tą patvirtina
+    paprotys, gyvavęs Lietuvoje iki XVI amžiaus, kuriuo didelės
+    sumos auksu būdavo dedamos saugoti į Vilniaus bažnyčios -
+    Katedros - iždą .
+    Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at­
+    siųsdavo lazdą su dviem užlenkimais. Žyniai vilkėdavo įpras­
+    tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
+    juosta, kuria apsivyniodavo septynis kartus.
+    Veltui Stenderis savo latvių mitologijoje stengiasi išve­
+    džioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­
+    vonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­
+    ba Kriws, nes tai buvo žemė, gyvenama slavų - krevičių, arba
+    krivičių, o to pavadinimo etimologija slavų kalboje gali būti
+    kitokia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

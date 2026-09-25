@@ -96,6 +96,18 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   pagrindžia:
     - c-76411
 
+<a id="claim-t-208218"></a>
+- t-208218
+  teiginys: "P. K. Bohušas klebonavo Jiezno parapijoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190930
+
 ## Citatos
 
 - id: c-76411
@@ -122,7 +134,7 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-76412
@@ -150,7 +162,7 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-76413
@@ -176,5 +188,24 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190930
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 128"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 128."
+  citata_originali: |
+    Eksjėzuitu tapęs P. K . Bohušas
+    pedagoginį darbų dirbo fragmentiškai (istoriografijoje funkcionuoja teiginys jį
+    buvus Pranciškaus Sapiegos vaikų auklėtoju).
+    P. K. Bohušo, kaip diecezinio kunigo, tarnystė reiškėsi klebonavimu Jiezno
+    ir Ukmergės parapijose.
+  citata_rodoma: "P. K. Bohušo, kaip diecezinio kunigo, tarnystė reiškėsi klebonavimu Jiezno \nir Ukmergės parapijose."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208218

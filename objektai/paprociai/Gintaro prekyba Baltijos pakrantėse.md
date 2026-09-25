@@ -74,5 +74,5 @@ Tai jie, vadinami gotais, gyveno pajūryje nuo Oderio iki Vys los, vadinosi gito
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

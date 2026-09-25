@@ -97,7 +97,7 @@ Pasak Teodoro Narbuto, po Algirdo mirties 1377 m. Vilniuje Kęstučio ir Liubart
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189350
@@ -114,5 +114,5 @@ Pasak Teodoro Narbuto, po Algirdo mirties 1377 m. Vilniuje Kęstučio ir Liubart
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

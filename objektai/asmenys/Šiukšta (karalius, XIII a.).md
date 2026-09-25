@@ -87,5 +87,5 @@ canonical_biography: "1268 m. Šiukšta, Nalšios kilmingasis, atvyko į Livonij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

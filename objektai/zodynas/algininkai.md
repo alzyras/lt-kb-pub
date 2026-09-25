@@ -30,26 +30,6 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
 
 ## Teiginiai
 
-<a id="claim-t-185364"></a>
-- t-001
-  teiginys: "Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Minskas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Maskvėnų pulkai kartu su Glinskiu tiesiogiai įvardyti kaip puolę Minską."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  pagrindžia:
-    - c-168725
-
 <a id="claim-t-196363"></a>
 - t-002
   teiginys: "Po Mengli Girėjaus įsiveržimo į Rusią iš žiemos stovyklų buvo skubiai iškviesti algininkai, o Lanckoronskiui pavesta atremti grėsmę valstybei."
@@ -61,6 +41,26 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
+    - c-168726
+
+<a id="claim-t-185365"></a>
+- t-185365
+  teiginys: "Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Konstantinas (Karijotaitis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "algininkai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Konstantinas (Karijotaitis): mention_match, person, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"algininkai\" parinktas kaip owner_note_path. Targetas \"Konstantinas (Karijotaitis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168725
     - c-168726
 
 ## Reikšmingi paminėjimai
@@ -124,8 +124,8 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-185365
 
 - id: c-168726
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -158,5 +158,6 @@ Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-185365

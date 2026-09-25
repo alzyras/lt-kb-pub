@@ -107,7 +107,7 @@ Svarbiausia buvo vyskupo Alberto mirtis, ištikusi jį 1229 metais. Po Alberto m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188047
@@ -126,5 +126,5 @@ Svarbiausia buvo vyskupo Alberto mirtis, ištikusi jį 1229 metais. Po Alberto m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -50,3 +50,39 @@ M. S. Andersonas teigia, kad XVI a. diplomatai jau privalėdavo mokėti šalies,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207907"></a>
+- t-001
+  teiginys: "M. S. Andersonas teigia, kad XVI a. diplomatai jau privalėdavo mokėti šalies, kurioje dirbo, kalbą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190524
+
+## Citatos
+
+- id: c-190524
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 193"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 193."
+  citata_originali: |
+    Turi būti iškalbus, o jo žodynas turi būti gerai parinktas ir turtingas,
+    balsas malonus. Turi sugebėti greitai perduoti pranešimus. Papildydamas šį idealaus
+    ambasadoriaus paveikslą, šiuolaikinis diplomatijos istorikas M. S. Andersonas nurodo,
+    kad XVI a. diplomatai jau privalėdavo mokėti kalbą tos šalies, kurioje dirbo.
+  citata_rodoma: "šiuolaikinis diplomatijos istorikas M. S. Andersonas nurodo,\nkad XVI a. diplomatai jau privalėdavo mokėti kalbą tos šalies, kurioje dirbo."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

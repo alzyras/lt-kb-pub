@@ -80,5 +80,5 @@ Narbutas teigia, kad šios sutarties tikslas nebuvo visiškai sunaikinti senovin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

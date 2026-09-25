@@ -82,8 +82,35 @@ Narbutas, perteikdamas Korano aiškintojų pasakojimą, Šafraną mini kaip pran
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197037
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
+  citata_originali: |
+    Anot Korano
+    aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie
+    Ross upės; Korane ji vadinama Ashabir-Ross; ji išsisklai­
+    dė žiloje senovėje. Tas pats orientalistas mano, kad
+    Ross Biblijoje ir Korane reiškia tą patį, arba tiesiog tai
+    Arakso upė, be to, ir prie jos plytinčio krašto pavadinimą
+    bei tam tikrą ten gyvenusią tautą, kurią dievas išskaidė,
+    pavertė laukiniais nomadais, panašiais į girių žvėris už
+    tai, kad nepriėmė mokslo, siunčiamo jiems per pranašą
+    Khaintają, Šafrano sūnų, kurį jie nukankino5. Nors iš tų
+    šaltinių orientalistas nedaro išvadų, kad budinai buvę
+    dievo bausmės persekiojama tauta, įš visko sprendžiant,
+    jis darė kitas išvadas; jei mes galėtume, tai neabejotinai
+    atskleistume jas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Khaintajas]]

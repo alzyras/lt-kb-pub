@@ -68,27 +68,17 @@ historical_names: []
   pagrindžia:
     - c-170393
 
-<a id="claim-t-187393"></a>
-- t-002
-  teiginys: "1406 m. Voronačas minimas kaip Pskovui priklausęs miestas, kurį Vytautas buvo apgulęs dvi dienas."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+<a id="claim-t-210468"></a>
+- t-210468
+  teiginys: "Vytautas Voronačą puolė 1426 m."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "puole -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pskoviečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai aprašo pskoviečių puolimą prieš Lietuvos miestus."
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Pskoviečiai puolė Velikije Lūki (0.86); Pskoviečiai puolė Polockas (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Neutrali nuoroda paversta pilnu faktiniu sakiniu."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
-    - c-170393
+    - c-193961
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -127,6 +117,24 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
+
+- id: c-193961
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 253"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 253."
+  citata_originali: |
+    1426 m. rugpiūčio mėn. Vytautas
+    puolė Pskovo miestus Opočkų (V1II.1) Ir Voronačų (VIII.5Į, bet jų
+    negalėjo
+    paimti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210468

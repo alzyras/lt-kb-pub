@@ -53,5 +53,5 @@ Kaipogi kol pamarionys buvo pagonimis, tol Lietuvos giminės juos 1 J, B a n d t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

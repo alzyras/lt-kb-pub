@@ -71,7 +71,7 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-69190
@@ -91,5 +91,5 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

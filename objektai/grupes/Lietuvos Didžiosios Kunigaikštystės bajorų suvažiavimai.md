@@ -111,7 +111,7 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186976
@@ -127,7 +127,7 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-186977
@@ -149,7 +149,7 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186978
@@ -173,5 +173,5 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

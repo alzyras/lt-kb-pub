@@ -75,5 +75,5 @@ Susijungusios lietuvių, rusų, totorių jėgos su lenkų kariuomene prie Zakra�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

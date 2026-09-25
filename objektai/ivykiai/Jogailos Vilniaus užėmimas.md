@@ -81,5 +81,5 @@ Pasak Teodoro Narbuto, Jogaila, susimokęs su kai kuriais Vilniaus gyventojais i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

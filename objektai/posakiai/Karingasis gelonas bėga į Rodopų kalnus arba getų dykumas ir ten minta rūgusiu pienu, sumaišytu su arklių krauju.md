@@ -96,7 +96,7 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177301
@@ -119,5 +119,27 @@ Narbutas, remdamasis Vergilijumi, pateikia spalvingą gelonų gyvenimo ir mitybo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195992
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
+  citata_originali: |
+    Tokiame piene, sumaišius jį su dar šiltu ir
+    šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl
+    destiliuojant galima pagaminti svaiginantį gėrimą. Ver­
+    gilijus apie tokį kumelės pieno vartojimą rašė: „Karin­
+    gasis gelonas bėga į Rodopų kalnus arba getų dykumas
+    ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
+    Senovėje buvo sakoma, kad gelonai iš odos, nuplėštos nuo
+    nukauto kautynėse priešo, dirbo diržus ginklams ir apy­
+    nasrius arkliams5.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

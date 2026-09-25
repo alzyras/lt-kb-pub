@@ -56,9 +56,10 @@ media_all_json: |-
     tobuliausiai halės tipas yra įsikūnijęs XVI amžiuje, būtent Bernardinų
     bažnyčioje, kurią tuojau pat išnagrinėsime.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

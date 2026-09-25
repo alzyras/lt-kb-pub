@@ -69,5 +69,5 @@ Ir mano motiną taip pat nužudė, o ir mane patį jie paėmė į ne laisvę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

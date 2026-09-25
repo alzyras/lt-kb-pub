@@ -72,5 +72,5 @@ canonical_biography: "Šio konflikto turinys nėra žinomas, bet jau kitais 1520
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

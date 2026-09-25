@@ -59,5 +59,23 @@ Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto vei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199370
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 455."
+  citata_originali: |
+    Veikalą, iš kario paėmiau šį vertimą, turiu po ranka. Ant puikiai
+    litografuoto viršelio užrašytas toks pavadinimas: „ Civitates Or­
+    bis terrarum “. Pirmosios knygos pratarmės pradžioje „ Georgius
+    Braun Agrippinensis“, pabaigoje „Coloniae Agrippinae M. D. L.
+    XXIP‘. Knygos formatas toks, koks ir įprasta atlasams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

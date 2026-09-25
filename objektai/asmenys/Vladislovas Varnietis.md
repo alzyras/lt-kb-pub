@@ -161,7 +161,7 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173879
@@ -189,7 +189,7 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173880
@@ -218,7 +218,7 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-179358
@@ -244,8 +244,60 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-197256
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
+  citata_originali: |
+    Laikui bėgant, Rusios kraštas
+    patyrė įvairių pokyčių, galop kryžiuočių laikais tapo be­
+    veik visiška dykra, kuri daugelyje vietų tarp Prūsijos ir
+    Žemaitijos buvo beveik neperžengiama taip, kad beveik
+    ištisus du amžius nebuvo Lietuvos ir Prūsų valstybių tar­
+    pusavio sienos. Tik 1436 metais Lenkijos karalius Vladis­
+    lovas Varnietis iš vienos ir kryžiuočių magistras Povilas
+    Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
+    ria visiems laikams buvo nustatyta minėtų valstybių sie­
+    na, o Rusia buvo padalyta į dvi nelygias dalis2. Tačiau
+    iki tos epochos didesnė Rusios dalis laikėsi Lietuvos ir
+    išsaugojo savo giminės gyventojų kartą*, kuri ramesniais
+    laikais, patekusi į kryžiuočių priklausomybę, išvengė pra­
+    žūties, ištikusios kitą tautos dalį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197569
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
+  citata_originali: |
+    Tik 1436 metais Lenkijos karalius Vladis­
+    lovas Varnietis iš vienos ir kryžiuočių magistras Povilas
+    Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
+    ria visiems laikams buvo nustatyta minėtų valstybių sie­
+    na, o Rusia buvo padalyta į dvi nelygias dalis2. Tačiau
+    iki tos epochos didesnė Rusios dalis laikėsi Lietuvos ir
+    išsaugojo savo giminės gyventojų kartą*, kuri ramesniais
+    laikais, patekusi į kryžiuočių priklausomybę, išvengė pra­
+    žūties, ištikusios kitą tautos dalį. Ypač užkampyje tarp
+    Nemuno ir Jūros upės žemupio, miškingose Smalininkų
+    apylinkėse, smėlėtoje ir nedėkingoje žemėje ligi šiol gy­
+    vena senovės rusų-lietuvių giminė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Vladislovas Varnietis sudarė sutartį su [[objektai/asmenys/Rusdorfas]]

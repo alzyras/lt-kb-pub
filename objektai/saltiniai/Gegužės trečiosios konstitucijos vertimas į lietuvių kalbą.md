@@ -82,7 +82,7 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-73228
@@ -103,5 +103,5 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

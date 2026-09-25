@@ -38,21 +38,29 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
 
 ## Teiginiai
 
-<a id="claim-t-58604"></a>
-- t-001
-  teiginys: "Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-225506"></a>
+- t-225506
+  teiginys: "1308 metais Žemaitijos kilmingieji per Noihauzą Kuršių nerijoje įsiveržė į Sembos žemę."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Noihauzas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Noihauzas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Konradas pastatydino pilį, vadintą Noihauzu."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59236
+    - c-201791
+
+<a id="claim-t-225514"></a>
+- t-225514
+  teiginys: "Noihauzo pilis pastatyta Kuršių nerijoje prie sūriosios jūros pakrantės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204041
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,5 +110,38 @@ Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrant
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-201791
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 203."
+  citata_originali: |
+    1308 viešpaties metais, švento Jurgio dieną (balandžio 23), Manstas, Sudargas ir kiti
+    Žemaitijos kilmingieji su 5 tūkstančiais raitelių pro Noihauzą Kuršių nerijoje įsibrovė į
+    Sembos žemę ir nusiaubė gaisrais Pavundos562 bei Rudavos valsčius
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225506
+
+- id: c-204041
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  citata_originali: |
+    pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
+    kuri buvo vadinama Noihauzu511, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225514

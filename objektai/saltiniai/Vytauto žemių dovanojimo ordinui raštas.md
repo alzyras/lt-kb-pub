@@ -62,5 +62,5 @@ Rašte nurodoma, kad Vytautas turėjo Ordinui užrašyti visas savo žemes, dal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

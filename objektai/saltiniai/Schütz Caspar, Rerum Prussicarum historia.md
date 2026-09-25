@@ -32,24 +32,6 @@ media_all_json: |-
 
 Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gdanske.
 
-## Teiginiai
-
-<a id="claim-t-190521"></a>
-- t-001
-  teiginys: "Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gdanske."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1769 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas paverstas pilnu sakiniu apie šaltinį. Nepridėta nieko daugiau nei autorius, pavadinimas, vieta ir metai."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-173404
-
 ## Citatos
 
 - id: c-173404
@@ -66,5 +48,3 @@ Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

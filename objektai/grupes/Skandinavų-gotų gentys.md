@@ -41,20 +41,3 @@ Skandinavų-gotų gentys iš Vyslos žemupio ir šiauriau esančių kraštų jud
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-212690"></a>
-- t-001
-  teiginys: "Skandinavų-gotų gentys iš Vyslos žemupio ir šiauriau esančių kraštų judėjo į pietus."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-196781
-

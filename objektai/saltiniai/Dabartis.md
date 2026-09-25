@@ -68,5 +68,5 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

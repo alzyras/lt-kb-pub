@@ -83,7 +83,7 @@ Hamilkaras atrado Albioną, arba Britaniją. Apie Pitėją manoma, jog jis kelia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-195450
@@ -101,5 +101,5 @@ Hamilkaras atrado Albioną, arba Britaniją. Apie Pitėją manoma, jog jis kelia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

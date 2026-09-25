@@ -135,7 +135,7 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173780
@@ -157,7 +157,7 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188304
@@ -180,7 +180,7 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188305
@@ -200,5 +200,47 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-195072
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 160"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 160."
+  citata_originali: |
+    Čia pasitvirtina
+    ir mokslininko, senovės tyrinėtojo pono Riterio nuomonė,
+    jog Homeras sakęs daugiau tiesos negu vėlesni rašytojai4;
+    Aldeskas ir Pantikapas aprašo tą dviejų jūrų susisiekimo
+    vandens sistemą, kurią vėliau gyvenę autoriai aiškino kaip
+    1 Šiuos daiktus man padovanojo Juozapas Pomarnackis, Subačių
+    seniūnas; jis atsiuntė ir šio atradimo aprašymą (Bratnava. 1839.XI.
+    10 )*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199066
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 503"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 503."
+  citata_originali: |
+    Apie Obelių
+    kapinyno kasinėjimus T. Narbutas sužinojo 1840
+    metų pradžioje iš Juozapo Pomarnackio. Pastara­
+    jam tarpininkaujant, istoriko senienų rinkiniai pa­
+    sipildė Obelių radiniais. T. Narbuto rankas pasie­
+    kė ir šių kasinėjimų, kuriuos vykdė tenykštis dvari­
+    ninkas Karolis Kozakovskis (Kozakowski), aprašy­
+    mas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

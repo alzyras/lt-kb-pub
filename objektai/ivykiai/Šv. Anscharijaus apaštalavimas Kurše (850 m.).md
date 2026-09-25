@@ -97,5 +97,5 @@ Tačiau vis dėlto vėlesniais lai kais ar dėl to, kad trūko vertų šio šven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

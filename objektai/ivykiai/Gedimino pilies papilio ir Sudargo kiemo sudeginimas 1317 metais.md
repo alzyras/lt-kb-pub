@@ -76,5 +76,5 @@ Fridrichas iš Libencelės su 150 vyrų nesėkmingai puolė Gedimino pilį, tač
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -87,7 +87,7 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167092
@@ -111,5 +111,5 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

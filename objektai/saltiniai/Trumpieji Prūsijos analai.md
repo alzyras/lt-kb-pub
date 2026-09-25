@@ -84,5 +84,36 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203199
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 21-22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21-22."
+  citata_originali: |
+    Panašaus turinio „Trumpieji Prūsijos analai“ (pratęsti iki 1337 m.)98 bei į Vieną patekusi
+      87 Пашуто В. T. Борьба прусского народа..., с. 63—65; to paties, Образование...,
+    с. 142—146.
+      88 Lietuvių karas..., p. 12—13 (M. Jučas); MLTE, t. I, p. 447—448.
+      89 Pollakówna M. Kronika...
+      90 Tos pačios, Sprawa ocenzurowania..., s. 127—134.
+      91 Labuda G. Studia nad annalistyką,.., s. 101 —138.
+      92 To paties, О źródłach..., s. 217—243.
+      93 Powierski J. Przekaz..., s. 422—425.
+      94 Wenta J. Kronika..., s. 121—132.
+      95 Lietuvių tautos istorijos šaltiniai, t. 1—2.
+      96 LIS, t. 1, p. 28, 31—32, 37—38, 48, 50—54. To meto kronikos vertimo į lietuvių
+    kalbą mašinraštis yra Lietuvos TSR MA Istorijos institute.
+      97 SRP, B. 1, S. 270—271 (Pelplinas — vietovė Vyslos žemupio kair. kranter nuo XIII
+    a. 2-os pusės ten buvęs cistersų vienuolynas).
+      98 Ten pat, B. 3, S. 2—4.
+
+    Volfenbiutelio bibliotekos kopija99.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

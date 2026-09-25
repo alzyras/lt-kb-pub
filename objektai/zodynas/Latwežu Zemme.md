@@ -58,5 +58,5 @@ Trečia lietuvių genties sritis, labiausiai nuto lusi į šiaurę, vadinasi Lat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -120,7 +120,7 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174226
@@ -141,5 +141,59 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194666
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 410"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 410."
+  citata_originali: |
+    — Išnaša, kuria autorius papildė paragrafą, reng­
+    damas antrąjį leidimą (PEĮ. P. 32—33). T.
+    Narbutas papildymą parengė, remdamasis žy­
+    maus zoologo, profesoriaus Eduardo Eichval-
+    do (1795—1876) tyrinėjimais (Darius Hystas-
+    pis zieht nach der Gegend von Pinsk / / Dor-
+    pater Jahrbuch. 1834. Nr. 1).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195823
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
+  citata_originali: |
+    Ko
+    gero, remdami Skitijos kolonistus graikus, persai palaikė
+    jų siekimą sunaikinti seną krašto tvarką ir suteikė progą
+    svetimoms gentims imtis veiksmų šiam tikslui įgyven­
+    dinti.
+    1
+    Ponas Eichvaldas, buvusio Vilniaus universiteto, o vėliau —
+    Vilniaus
+    medicinos-chirurgijos
+    akademijos
+    profesorius, „Dorpater
+    Jahrbuch“ paskelbė savo straipsnį apie Darijaus žygį prieš skitus
+    pavadinimu „Darijus, Histapo sūnus, Pinsko apylinkėse“, Jis, remda­
+    masis Herodoto ir Ktesijaus, o ypač pirmojo, kuris paliko budinu ša­
+    lies aprašymą, duomenimis, daro išvadą, jog lai turėjusi būti dabar­
+    tinė Polesė. Tą išvadą jis grindžia šiandienine topografine šios že­
+    mės padėtimi, Herodoto minimais upių pavadinimais bei kitomis
+    smulkmenomis, leidžiančiomis taip manyti
+    ir
+    įžvelgti
+    panašumą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

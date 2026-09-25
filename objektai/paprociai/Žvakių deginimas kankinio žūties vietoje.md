@@ -77,5 +77,5 @@ Toje vietoje, kur jį nužudė, vėliau dažnai galėjai išvysti degant žvakes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

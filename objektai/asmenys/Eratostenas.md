@@ -113,5 +113,5 @@ Teodoras Narbutas mini Eratosteną tarp autorių, kurie, pasak jo, kalbėjo apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

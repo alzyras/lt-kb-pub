@@ -282,6 +282,42 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   pagrindžia:
     - c-188432
 
+<a id="claim-t-212756"></a>
+- t-212756
+  teiginys: "Ten pažymėta krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi nimą už suteiktą kryžiuočiams pagalbą užkariaujant sambius, o būtent Sambiją, Vitlandiją ir dalį Varmijos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195860
+
+<a id="claim-t-213113"></a>
+- t-213113
+  teiginys: "Tai tokie yra įrodymai apie dalies Sambijos, kurios jau nebėra, egzistavimą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197247
+
+<a id="claim-t-217232"></a>
+- t-217232
+  teiginys: "Kurše, Livonijo je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (?"
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198722
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas nurodo Voigto veikalo puslapius, kuriuose pateikiami įrodymai, kad Romovė buvo Sambijoje.'
@@ -328,7 +364,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171719
@@ -348,7 +384,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175522
@@ -369,7 +405,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175523
@@ -396,7 +432,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177148
@@ -422,7 +458,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177333
@@ -446,7 +482,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-179399
@@ -470,7 +506,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-179400
@@ -494,7 +530,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-179401
@@ -519,7 +555,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-184455
@@ -542,7 +578,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-187723
@@ -560,7 +596,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-187749
@@ -587,7 +623,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-187973
@@ -616,7 +652,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-188194
@@ -644,7 +680,7 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-188432
@@ -662,8 +698,201 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
+
+- id: c-194623
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
+  citata_originali: |
+    Hugas Grocijus, tyręs budinu ko­
+    lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs
+    tyrimai paaiškina istorinę tiesą; tas autorius buvo Gero-
+    pijus Bekanas3. Sambijoje buvo gynybinių miestų, puikių
+    dievams garbinti skirtų šventųjų vietų, pastatytų turtin­
+    gų dvarų ir dėl nepaliaujamų susidūrimų su pakrančių
+    plėšikais gana daug laukinių, nepasitikinčių, tarpusavyje
+    besivaidijančių gyventojų. Rytuose ši provincija ribojosi
+    su Nadruva, pietuose — su Natangija, vakaruose ir šiau­
+    rėje jos žemes skalavo Baltijos jūra.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194679
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
+  citata_originali: |
+    Lietuvių protėviams atėjus į šiuos
+    kraštus, Sambijoje įsikūrė daugiausia senovės budinus
+    sudarantys gyventojai. Hugas Grocijus, tyręs budinu ko­
+    lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs
+    tyrimai paaiškina istorinę tiesą; tas autorius buvo Gero-
+    pijus Bekanas3. Sambijoje buvo gynybinių miestų, puikių
+    dievams garbinti skirtų šventųjų vietų, pastatytų turtin­
+    gų dvarų ir dėl nepaliaujamų susidūrimų su pakrančių
+    plėšikais gana daug laukinių, nepasitikinčių, tarpusavyje
+    besivaidijančių gyventojų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194691
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 366"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 366."
+  citata_originali: |
+    Ten ji
+    buvo vadinama Lippe, arba Lipza,■ prie jos žiočių buvo
+    labai gražus uostas, turėjęs tokį patį pavadinimą. Šioje
+    geografinėje žemių padėtyje pietinė Sambija tiesiog ribo­
+    josi su Natangija ir galbūt driekėsi net iki paskutinės
+    šiaurinės Varmijos ribos. Sis audringų marių bangų pa­
+    plautas, sudraskytas į gabalus ir pagaliau visiškai už­
+    tvindytas kraštas nepriklausė nė vienai minėtai provinci­
+    jai, bet buvo dalis senovės VitLandijos, kurios žemės ki­
+    tados plytėjo toli į pietvakarius, o vėliau sumažėjo iki ne­
+    didelės šio krašto dalelės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195860
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Ten pažymėta
+    krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi­
+    nimą už suteiktą kryžiuočiams pagalbą užkariaujant sam-
+    bius, o būtent Sambiją, Vitlandiją ir dalį Varmijos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212756
+
+- id: c-196039
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Visų pirma čia Vitlandija minima atski­
+    rai greta Sambijos. Sis skirtumas yra esminis dalykas;
+    mes jį aptinkame jau 1224 metais popiežiaus Honorijaus
+    III bulėje, kur greta Samlandia ypač pabrėžta Witlandia
+    (Gruber. Orig. Livon. P. 265), ten vietoj (Wirlandia rei­
+    kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­
+    suchungen ettr.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196894
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
+  citata_originali: |
+    Sambija — ne itin didelis
+    kraštas, anksčiau, kol jūra per visą pakrantės ilgį nepa­
+    siglemžė dalies sausumos, buvęs platesnis, nes, anot kai
+    kurių stebėtojų, buvo atplėštas keliolikos kvadratinių my­
+    lių plotas2. Ji turėjo daugiausiai pasaulyje gintaro, gy­
+    ventojai visados buvo patys turtingiausi. Provincija ko­
+    vai su kryžiuočiais galėjo surinkti apie 40 000 pėstininkų
+    ir tiek pat raitelių. Lietuvių protėviams atėjus į šiuos
+    kraštus, Sambijoje įsikūrė daugiausia senovės budinus
+    sudarantys gyventojai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197247
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 345."
+  citata_originali: |
+    Tai tokie yra įrodymai apie dalies Sambijos, kurios jau
+    nebėra, egzistavimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213113
+
+- id: c-198334
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 414"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 414."
+  citata_originali: |
+    Be to, įrodymas, skatinantis sutikti, kad Dusburgietis tu­
+    rėjo neklystamų žinių apie dalykus, dėstomus tame skyriuje, o
+    ypač apie kadaise Prūsijoje gyvenusį krivį, yra jo paties pasa­
+    kojimų sąryšis. Jis kalba apie kadaise buvusį šventą Romovės
+    miestą, kaip apie krivio buveine. Pasak Faterio (cituota vieta),
+    atrodo, čia nėra ko prikišti, ir tai tiesa, nes apie tokių pačių iš
+    esmės romovių buvimą turime žinių iš kitų vietų: seniausia,
+    apie kokią žinome, buvo Sambijos pajūryje; o kad vėliau kiek­
+    vienoje provincijoje turėjo būti panaši dievų buveinė, mes jau
+    daugelyje mūsų istorijos vietų pateikėme įrodymus iš rašto pa­
+    minklų, ir kad šito iš tikrųjų būta, patvirtiname visiškai neabe­
+    jodami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198722
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
+  citata_originali: |
+    Kurše, Livonijo­
+    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
+    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
+    garbinamas Pušaitis ir barstukai18“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217232
 
 ## Ryšiai
 - Puolė Sambiją: [[objektai/grupes/Lietuviai]]

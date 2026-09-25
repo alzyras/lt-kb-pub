@@ -80,5 +80,5 @@ Kęstutis su 500 raitelių šturmu užėmė Insterburgo tvirtovę, paėmė Joną
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

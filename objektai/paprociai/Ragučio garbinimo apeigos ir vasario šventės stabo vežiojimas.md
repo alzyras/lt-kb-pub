@@ -104,5 +104,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199698
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
+  citata_originali: |
+    Lasickis pasakoja, kad ru­
+    sai lenkėsi tam dievui, vadindami Zosim.
+    Lietuviai garbino jį tam tikru būdu: jis turėjo savo auku­
+    rus, stabus, šventyklas, žynius, vaidilutes. Plačiau apie tas smul­
+    kmenas papasakosime toliau, atskiruose straipsniuose, kuriuo­
+    se išvardysime jo garbei atlikinėtas apeigas, rengtas šventes ir
+    iškilmes, labai panašias į Romos bakchanalijas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

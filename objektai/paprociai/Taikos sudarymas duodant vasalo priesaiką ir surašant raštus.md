@@ -117,5 +117,34 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-193566
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 151."
+  citata_originali: |
+    O kai
+    tik maskvėnai išgirdo Briansko pilį sudegus, paskubėjo
+    miesto linkui ir viename kaime sučiupo poną Stanislovą
+    Bartoševičių ir su juo daugelį kitų brianskiečių. O po
+    to atėję užėmė Briansko miestą ir visą kraštą l0. Ir visi
+    brianskiečiai prisiekė tarnausią Maskvos didžiajam ku­
+    nigaikščiui.
+    Sužinoję, kad maskvėnai paėmė Brianską, Možaisko
+    kunigaikštis Semionas Ivanovičius bei kunigaikštis Va­
+    silijus Ivanovičius Semiačičius atvyko prie Kontovto"
+    upės pas Maskvos didžiojo kunigaikščio vaivadą Jako­
+    vą Zacharičių ir prisiekė tarnausią Maskvos didžiajam
+    kunigaikščiui su visais miestais — su Černigovu, su
+    Starodubu, su Gomeliu, su Naugardu-Seversku, su Ryls-
+    ku ir su visais valsčiais, kuriuos valdė, būdami Lietuvos
+    Didžiosios Kunigaikštystės valdiniais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -77,5 +77,5 @@ Peter van der Lyxten dabar grįžęs man pranešė, kad Švitrigaila yra laisvė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

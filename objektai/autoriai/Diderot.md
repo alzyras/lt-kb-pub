@@ -77,5 +77,5 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

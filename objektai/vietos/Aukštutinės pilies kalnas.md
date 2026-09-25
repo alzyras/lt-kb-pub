@@ -54,3 +54,41 @@ Piešinio fone kairėje vaizduojamas Aukštutinės pilies kalnas su pilies griuv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208256"></a>
+- t-001
+  teiginys: "Piešinio fone kairėje vaizduojamas Aukštutinės pilies kalnas su pilies griuvėsiais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190949
+
+## Citatos
+
+- id: c-190949
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 318"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 318."
+  citata_originali: |
+    Kadangi tiek architektūriniai,
+    tiek figūriniai kompozicijos elementai autoriaus yra sunumeruoti ir kitoje piešinio
+    pusėje įvardyti, juos aptarsime ta pačia eilės tvarka, kaip juos aprašė autorius.
+    Lapo kairėje yra pavaizduoti Totorių vartai (Nr. i) ir „Dvarelis skersgatvyje,
+    einant link Vilniaus vartų“15 (Nr. z). Fone piešinio kairėje - Aukštutinės pilies
+    kalnas su pilies griuvėsiais, vienas jos bokštas pažymėtas kaip Aukštutinė pilis16
+    (Nr. 3), o kitas (Nr. 4) - kaip „pagonių dievuko Lelum Polelum Svistum po
+    Svistum bažnyčia“17.
+  citata_rodoma: "Fone piešinio kairėje - Aukštutinės pilies \nkalnas su pilies griuvėsiais, vienas jos bokštas pažymėtas kaip Aukštutinė pilis16 \n(Nr. 3), o kitas (Nr. 4) - kaip „pagonių dievuko Lelum Polelum Svistum po \nSvistum bažnyčia“17."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

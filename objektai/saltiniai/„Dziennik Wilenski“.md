@@ -65,5 +65,22 @@ Teodoras Narbutas Saurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195849
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
+  citata_originali: |
+    T. Narbutas Saurų dvaro bibliotekoje saugojo
+    visą „Dziennik Wilenski“ komplektą ([Narbutt T.] Spisanie Mu­
+    zeum w Szawrach. L. 19. Nr. 322—389); kurį jam pavyko surinkti Vil­
+    niaus kolekcionieriams padedant.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

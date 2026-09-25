@@ -385,7 +385,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173972
@@ -407,7 +407,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173973
@@ -428,7 +428,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173974
@@ -453,7 +453,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173975
@@ -479,7 +479,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173977
@@ -503,7 +503,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173978
@@ -537,7 +537,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-173979
@@ -570,7 +570,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-174851
@@ -598,7 +598,7 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-010
 
@@ -630,5 +630,127 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
+
+- id: c-194944
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
+  citata_originali: |
+    71
+    Siame žygyje jie ėjo per spalių kraštą, kurio gyvento­
+    jus pasiėmė kartu su savimi. Apie šią tautą senovės ty­
+    rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
+    buvę kairiojoje Dono pakrantėje, prie Kimerijos Bospo­
+    ro2; šis teiginys, paimtas iš senovės geografų ir esantis
+    Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai
+    sena, be to, Jordanas teigia, kad spaliai gyveno dabarti­
+    nėje Mazovijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195090
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  citata_originali: |
+    Jūroje išilgai prūsų pakrančių slypi
+    ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
+    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
+    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
+    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
+    skirtos nuo medžių žievės1.
+    152
+    Pavienių gintaro gabalų randama beveik visur: Lie­
+    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
+    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
+    balų išmesdavo Švedijos ežeras Maeleras.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195185
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 161."
+  citata_originali: |
+    Šio labai tikslaus istoriko
+    ir garbingo senovės krašto tyrinėtojo nuomonė verstų mus
+    suabejoti šiomis išvadomis, jei tas pats rašytojas2 neteig-
+    tų, jog Ptolemėjo Guitalus iš tikrųjų yra Priegliaus upė.
+    Sį dirbtinį pavadinimą paneigia Plinijaus Germanijos ap­
+    rašymas, kur išvardytos šio krašto upės, įtekančios į jūrą,
+    yra septynios, įskaitant ir Vyslą: Moša, Rhenus, Amisius
+    (Ernsas), Visurgt's (Vėzeris), Albis (Elbė); tik Oderiui
+    tenka pavadinimas Guitalus, nes šios labai didelės upės
+    Plinijus nebūtų praleidęs3. Sotinas, vardydamas tas pačias
+    upes, pateikia jas taip: Albis, Guitalus, Vistula4, tad tarp
+    Elbės ir Vyslos, tikroje Oderio vietoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195188
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 366-367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 366-367."
+  citata_originali: |
+    Joje
+    yra labai įdomios detalės: 1) Frische Haff, alias recens
+    mare, neseniai atsiradusi jūra; 2) į užtvindytą Vitlandijos
+    3 5 6
+
+    kraštą, vadinamą vulgo Balta, id est terra albescens, at­
+    plaukia neaprėpiama daugybė žuvų ir silkių, vandens
+    šviežumo suviliotos; 3) minima Witlands Ort ir paaiški­
+    nama: vulgo Balta gals, finis albus. Kopija iš Karaliau­
+    čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­
+    do, yra be pradžios ir pabaigos. Argi tuo būdu negalima
+    buvo patekti j Baltiją, Plinijaus vadinamą gintaringa
+    sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos
+    ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­
+    daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už
+    šiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­
+    žiau kaip šiandien Sambijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196142
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
+  citata_originali: |
+    Ta­
+    citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
+    tojai, gyvenę Pomeranijoje prie Helio5. Plinijus rašo, jog
+    Hilleviones6, labai gausūs žmonės, gyveno Skandinavijo­
+    je. Pasvarsčius nepernelyg didelį Plinijaus geografinių
+    aprašymų tikslumą, šiuose trijuose pavadinimuose gali­
+    ma lengvai įžvelgti lyvių protėvius, priklausiusius keltų-
+    gerrnanų tautoms.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

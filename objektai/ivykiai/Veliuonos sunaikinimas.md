@@ -76,5 +76,5 @@ Veliuona, gausiai apgyvendinta ir turėjusi plačius įtvirtinimus, vadovaujama 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

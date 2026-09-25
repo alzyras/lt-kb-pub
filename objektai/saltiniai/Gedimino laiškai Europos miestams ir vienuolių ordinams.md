@@ -57,5 +57,5 @@ Gedimino laiškai buvo adresuoti Liubekui, Bremenui, Kelnui, kitiems miestams ik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

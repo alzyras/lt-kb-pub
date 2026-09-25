@@ -74,24 +74,6 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   pagrindžia:
     - c-55681
 
-<a id="claim-t-54711"></a>
-- t-002
-  teiginys: "1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos."
-  atnaujinta: "2026-05-27 06:09"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "kelionės data: 1390 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55679
-
 <a id="claim-t-54712"></a>
 - t-003
   teiginys: "Per 1390 m. Vilniaus apgultį žuvo daug gyventojų, miestas buvo beveik sunaikintas, Kreivoji pilis sudeginta, o Aukštutinė tvirtovė susilpninta."
@@ -135,8 +117,6 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-55681
   autorius: "Michał Baliński"
@@ -158,11 +138,12 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
     liams.
   citata_rodoma: "Il KNYGA\nIšdidūs, pasiekę kruviną pergalę, pasitikintys savo siekių \nsėkme ir riteriškojo karo meno išmanymu, kryžiuočiai jau \nneabejojo, kad užimti Aukštutinę pilį jiems nebus sunku, tad \nvisas pajėgas nukreipė prieš ten apgultus lenkus. Nuolati­\nnės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet \nniekas neįstengė palaužti lenkų narsos ir ištvermės Mos- \nkoževskio gynybos linijose. Tas šaunus karys, išvaręs iš tvir­\ntovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­\nčia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias \nsavaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­\nliams."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55682
@@ -189,5 +170,5 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

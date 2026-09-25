@@ -408,30 +408,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   pagrindžia:
     - c-177061
 
-<a id="claim-t-197002"></a>
-- t-021
-  teiginys: "K. Hartknochas ištyrė kroniką, rengdamas naują jos leidimą „Scriptores rerum Prussicarum“ serijoje, kur tekstas pateiktas pagal geriausius nuorašus (pagrindu paimtas XVII a."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-65334
-
-<a id="claim-t-197312"></a>
-- t-022
-  teiginys: "Kristoforas Hartknochas turėjo aukurą, arba akmeni, esantį tarp Frauenburgo ir Tolkmito, ant kurio žvejai atnašaudavo jam pirmas sužvejotas žuvis."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171315
-
 <a id="claim-t-197313"></a>
 - t-023
   teiginys: "Hartknochas (p. 159) nurodo kronikininką Grunau, kuris linkęs manyti, kad prūsai garbinę dievą Kurką kartu su mazoviečiais."
@@ -456,17 +432,29 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   pagrindžia:
     - c-171319
 
-<a id="claim-t-197315"></a>
-- t-025
-  teiginys: "Kristoforas Hartknochas gimdydavo ne tik įgimtu būdu, bet galėdavo pagimdyti vaikų iš rankų, kojų, galvos ir iš kitų kūno dalių."
-  atnaujinta: "2026-07-12 22:32"
+<a id="claim-t-213266"></a>
+- t-213266
+  teiginys: "Kristupas Hartknochas (1644–1687) buvo Prūsijos istorikas ir vienu metu Vilniaus evangelikų mokyklos rektorius."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-179125
+    - c-195233
+
+<a id="claim-t-222542"></a>
+- t-222542
+  teiginys: "K. Hartknochas parengė pirmąjį Dusburgiečio kronikos leidimą Karaliaučiuje 1679 m."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205245
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -516,7 +504,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -535,9 +523,8 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-021
 
 - id: c-65335
   autorius: "Petras Dusburgietis"
@@ -554,6 +541,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -571,8 +559,6 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-022
 
 - id: c-171316
   autorius: "Teodoras Narbutas"
@@ -591,7 +577,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-171317
@@ -612,7 +598,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-171318
@@ -631,7 +617,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-171319
@@ -653,7 +639,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-171321
@@ -677,7 +663,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-171322
@@ -700,7 +686,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-171323
@@ -722,7 +708,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-171324
@@ -750,7 +736,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-012
 
@@ -775,7 +761,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-171326
@@ -797,7 +783,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-173511
@@ -821,7 +807,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-173512
@@ -841,7 +827,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-173513
@@ -861,7 +847,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-173514
@@ -884,7 +870,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-018
 
@@ -905,7 +891,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-177061
@@ -924,7 +910,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-179124
@@ -949,7 +935,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-023
 
@@ -974,5 +960,256 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
+
+- id: c-195233
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 467"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 467."
+  citata_originali: |
+    Turimas omenyje Kristupo Hartknocho (1644—1687), Prūsijos is­
+    toriko, vienu metu Vilniaus evangelikų mokyklos rektoriaus, vei­
+    kalas „Senoji ir Naujoji Prūsija“ (Hartknoch Christophorus. Alt-
+    und Neues Preussen oder Preusischer Historien zwey Theile. Frank-
+    furt—Leipzig, 1684).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213266
+
+- id: c-197848
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 240."
+  citata_originali: |
+    Toliau klausinėjant, pavyko išgirsti pasakojimą
+    apie šventąją blindę. Viena moteris, besivadinanti Blinde (Blin­
+    da), turėjo ypatingą dovaną: galėjo paleisti į pasaulį aibe pali­
+    kuonių neapsakomai lengvai, be to, ji gimdydavo ne tik įgimtu
+    būdu, bet galėdavo pagimdyti vaikų iš rankų, kojų, galvos ir iš
+    kitų kūno dalių. Žemė, vaisingiausioj i iš motinų, ėmė pavydė­
+    ti jai tokio vaisingumo, todėl vieną kartą, kai Blindé ėjo per
+    gramzdžią pievą, jos kojos įklimpo, ir žemė taip suspaudė pė­
+    das, kad nebegalėjo ji pajudėti iš vietos ir pavirto medžiu -
+    blinde.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198046
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
+  citata_originali: |
+    Todėl plačios galimybės maitintis visuomenės lengvatikiš­
+    kumu leido laikyti daug žynių.
+    Turime pakankamai kronikose išlikusių raštiškų paminė­
+    jimų, kuriuos kruopščiai surinko Hartknochas savo Prūsijos
+    istorijoje; ypač reikšmingos yra ištraukos iš popiežiaus legato,
+    Leodijos arkidiakono Jokūbo privilegijos, duotos prūsams 1249
+    metais. Kitką pasisėmėme iš rankraščių ir padavimų, kuriuos
+    pasitaikė surinkti, visuomet laikydamiesi griežto kritiškumo,
+    su kuriuo išlukštenama tiesa iš per amžius susikaupusios pai­
+    niavos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199103
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
+  citata_originali: |
+    Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis
+    prie žemės buvo dvidešimt septynių uolekčių apimties (vadi­
+    nasi, skersmuo buvo beveik devynios uolektys!); paliudyti tai
+    ir išduoti matų pažymėjimą gali gerbiamoji Vėluvos miesto
+    taryba; aš pats turiu šito įrodym iĮ su tos tarybos antspaudu.
+    Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
+    jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
+    išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199701
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 269."
+  citata_originali: |
+    Tikrojoje Lietuvoje yra taip pat kitų vietovių, turinčių to­
+    kius arba panašius pavadinimus; jeigu jie nėra kilę iš kokio
+    nors rusino Romano, gyvenvietės įkūrėjo, kaip tai ir Rusioje
+    pastebima (krikščionys rusai dažnai vartodavo tą vardą), tai
+    reikia daryti išvadą, kad XIII amžiuje tenai kada nors galėjo
+    būti vyriausiojo žynio buveinė. Pačiuose Prūsuose yra panašių
+    vietų, kurių suskaičiuojama iki šešeto, o Hartknochas veltui
+    kamuojasi su jomis nežinodamas, kurią laikyti tikrąja Romo-
+    ve; mat tie pavadinimai galėjo atsirasti dėl įvairių krašto nuti­
+    kimų, kurie galėjo paskatinti vyriausiuosius žynius apleisti vieną
+    vietą ir perkelti savo buveinę į kitą ir kartu įkurti naują šven­
+    tyklą. Kadangi lietuvių genties tautos turėjo krivių įvairiose
+    vietose, todėl buvo gausu ir aukų atnašavimo vietų, kurios ne­
+    buvo šventyklos to žodžio prasme.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199909
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
+  citata_originali: |
+    Nežinia, dėl kurios priežasties, nes jei dėl žodžių
+    panašumo, tai jis apsiriko: lietuviai jo nevadino kitaip, kaip
+    tik Žemininku, o prūsai - Kurku, o jei iš lotynų kalbos Cur-
+    chus, tai visai ne nuo žodžio gora, nes gora yra Kalnas. Hart-
+    knochas (p. 159) nurodo kronikininką Grunau, kuris linkęs
+    manyti, kad prūsai garbinę dievą Kurką kartu su mazoviečiais.
+    Mes nustatėme jį atitinkant slavų Čarnobogą (Czarnobog) ar­
+    ba Ziemiobogą, kuris buvo Bialobogo priešingybė, kaip lietu­
+    vių mitologijoje Žemininkas - Santvara priešingybė.
+    Šio dievo mitas taip pat sutampa su senovės persų Oro-
+    mazu ir Arimanu, iš kurių, matyt, ir kilęs.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200310
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
+  citata_originali: |
+    Kasmet Didžiosios šventės iš­
+    vakarėse šio dievo stabą sudaužydavo ir dirbindavo naują. Dar
+    jis turėjo aukurą, arba akmeni, esantį tarp Frauenburgo ir Tol-
+    kmito, ant kurio žvejai atnašaudavo jam pirmas sužvejotas žu­
+    vis. Apaštalai, apkrikštydami prūsus, daugiausia vargo, kol įvei­
+    kė prietaringą tikėjimą šia dievybe*.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:01"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200519
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 224"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 224."
+  citata_originali: |
+    2. Dievo Kurko garbei taip pat degė nuolat kurstoma ug­
+    nis, ypač Prūsuose, didelėje to dievo šventovėje Šventamiesty-
+    je (Szwentameste), kur dabar Heiligenbeilis, lenkiškai Swięta-
+    Siekierka, Šventasis Kirvelis. Lietuvoje, Hartknocho nuomo­
+    ne, tokia ugnis turėjo degti prie Nevėžio upės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200965
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
+  citata_originali: |
+    V skyrius
+    ŠVENTĖS, IŠKILMĖS
+    Klaidinga Čackio nuomonė1, esą lietuviai germanų pavyz­
+    džiu skaičiavę laiką ne dienomis, o naktimis. Tą pastebėjęs
+    Neliubavičius (Nielubowicz) vienoje senoje lietuviškoje dai­
+    noje. Hartknochas, mėgstantis viską pritempti prie germaniš­
+    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
+    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
+    tus1 2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 18:01"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201265
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
+  citata_originali: |
+    Krikščionims iš smalsumo buvo
+    draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
+    tikriausiai ne4.
+    Hartknochas pagal senus duomenis nurodo garsų šventąjį
+    mišką, kurio vietą senovės Prūsijos žemėlapiuose pažymi prie
+    Žemaitijos sienos, santakoje dviejų upių, iš kurių viena įteka į
+    Rusnės įlanką. Jis turėjo būti prie Tenenio upės, rodos, toje
+    vietoje, kur yra Prūsijos Romučių (Romuten) kaimas, o Že­
+    maitijoje, tik už sienos - Romuniškiai (Romuniszki).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202454
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
+  citata_originali: |
+    Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami
+    Riugeno salos gyventojai (Hartknoch Ch., Selectae.., p. 64). Manyta, jog Dusburgiečio
+    rutėnai — galbūt Galičo (SRP, 1, p. 133 — Töppen M.) ar Smolensko kunigaikščių rusai
+    (Pašuta V., Lietuvos.., p. 306—307), nors rusų metraščiai tokios prielaidos neparemia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205245
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
+  citata_originali: |
+    Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
+    m.)82. Publikacijos pagrindu paimtas Karaliaučiaus kodeksas ir vienas Torunės rankraščio
+    variantas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222542

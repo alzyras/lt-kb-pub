@@ -80,5 +80,23 @@ Dusburgietis teigia, kad 33—73; Springborn M, Herkus Monte.— Berlin, 1897; t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204832
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 115"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
+  citata_originali: |
+    33—73; Springborn M,
+    Herkus Monte.— Berlin, 1897; to paties, Paskutinis prūsų sukilėlis Herkus Mantas.— K,
+    1938; Keyserlingk B., Monte der Rebell.— Görlitz; to paties, Sukilėlis Montė.— K, 1937;
+    Grušas J., Herkus Mantas.— V, 1957) bei dabartinėje istoriografijoje, nors joje iki šiol
+    vartojamas ir Henriko vardas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

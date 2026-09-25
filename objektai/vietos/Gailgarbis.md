@@ -50,6 +50,19 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
   pagrindžia:
     - c-179377
 
+<a id="claim-t-213443"></a>
+- t-213443
+  teiginys: "Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno, kur Vaidevučio sūnus Šamas įkūrė rezidenciją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-195674
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno, kur Vaidevučio sūnus Šamas įkūrė rezidenciją.'
@@ -92,5 +105,27 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195674
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 367."
+  citata_originali: |
+    Kiti miškų plotai
+    driekėsi iš vakarų į rytus ir buvo turtingi žvėrių; Sam­
+    bijos miškuose dar ligi šiol gyvena anų laikų palikuonis
+    elnias. Ant šio krašto kalvų stovėjo pilys, bajorų giminės
+    ponų buveinės. Ant Rinavos kalno buvo tokia Gailgar-
+    bio, arba Galgarbeno1, pilis, kur, anot padavimų, savo
+    rezidenciją įkūrė dar Vaidevučio sūnus Šamas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213443

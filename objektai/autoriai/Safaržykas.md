@@ -128,6 +128,18 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   pagrindžia:
     - c-179276
 
+<a id="claim-t-214119"></a>
+- t-214119
+  teiginys: "Safaržykas žengė dar toliau1, nes senovės lietuvius visiškai sugiminiavo su slavais, šiandienius šių abiejų tautų skirtumus priskirdamas liki mui, kurio dėka jos patekdavo tai į germanų, tai į finų valdžią, ir lietuvių kalba vis labiau tolo nuo slavų."
+  atnaujinta: "2026-09-20 17:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195163
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas pažymėjo, kad Safaržykas slavų senienų tyrinėjimuose žemdirbius skitus laikė skitų nukariautais slavais.'
@@ -172,7 +184,7 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174438
@@ -195,7 +207,7 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174439
@@ -219,7 +231,7 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-179276
@@ -239,5 +251,74 @@ Narbutas rašė, kad Safaržykas senovės lietuvius visiškai sugiminiavo su sla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-194633
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
+  citata_originali: |
+    Pirmiesiems priklausė jazigai, susimai­
+    šę su nukariautais slavais, o antriesiems — aukštesnioji
+    jazigų klasė, nesimaišiusi su užkariauta Jauta. Pats se­
+    niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
+    gai egzistavo dar prieš Kristų, yra istorinis paminklas, da­
+    bar saugomas Imperatoriškajame Senienų kabinete Vie­
+    noje; jį mini Safaržykas2. Tai auksinė taurė, kuri kartu
+    su kitomis brangenybėmis 1799 metais buvo rasta Toron-
+    talo komitate, netoli Šv.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195163
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 76"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
+  citata_originali: |
+    Galbūt todėl, kad ir bu-
+    dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
+    arba šį užsiėmimą perėmė iš gelonų, pačioje susiliejimo
+    su pastaraisiais pradžioje. Safaržykas žengė dar toliau1,
+    nes senovės lietuvius visiškai sugiminiavo su slavais,
+    šiandienius šių abiejų tautų skirtumus priskirdamas liki­
+    mui, kurio dėka jos patekdavo tai į germanų, tai į finų
+    valdžią, ir lietuvių kalba vis labiau tolo nuo slavų. Vis
+    dėlto žmogus, mokantis šias kalbas, neras nieko, kas ga-
+    lėtų jį įtikinti šios hipotezės teisingumu, nes lietuvių,
+    germanų, finų ir slavų kalbos skiriasi viena nuo kitos
+    kaip dangus ir žemė, p daugelio žodžių panašumas atsi­
+    rado arba juos pasiskolinus iš kaimynų, arba dėl dauge­
+    lio kitų tarpusavio santykių.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214119
+
+- id: c-197409
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
+  citata_originali: |
+    Tai turėjo įvykti anks­
+    čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­
+    sitiko V amžiaus prieš Kristaus gimimą pradžioje. Vadi­
+    nasi, čia gyventa jau iki IV amžiaus.
+    1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus
+    mano buvus slavus, kuriuos kadaise nukariavo skitai*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

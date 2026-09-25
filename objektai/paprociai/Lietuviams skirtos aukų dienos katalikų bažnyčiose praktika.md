@@ -86,7 +86,7 @@ Jūsų klausymas, tęsė toliau Jo Šventenybė, surištas su lenkų klausimu; p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192526
@@ -106,5 +106,5 @@ Jūsų klausymas, tęsė toliau Jo Šventenybė, surištas su lenkų klausimu; p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -98,7 +98,7 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-65406
@@ -126,5 +126,49 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204994
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  citata_originali: |
+    445 Greičiausiai su Skomanto sūduviais žygiavo kariai iš Gardino ar Naugarduko
+    žemių, pavaldžių Lietuvai. Sis antpuolis, matyt, susijęs su Traidenio politika vakaruose
+    (Paszkiewicz H., Jagiellonowie.., p. 130—131). Vėlesnėje didžiojo magistro kronikoje
+    Skomantas vadinamas lietuvių vadu (der Letouwen hoiftman — SRP, 5, p. 110).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205629
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
+  citata_originali: |
+    Apie daugy­
+                                  bės krikščionių žūtį
+
+      Kai  brolis Heidenreichas, Kulmo vyskupas, šventino Torunės ligoninės koplyčią,
+    buvusią už sienų, prūsai, gerai suprasdami šių apeigų reikšmę, subūrė kariuomenę,
+    žiauriai užpuolė žmones, grįžtančius iš šventinimo apeigų, išžudė vyrus, o moteris ir
+
+      436  D.— Trinota filius regis Lethowinorum, Jer.— Des kunigis von Littouwin sun
+    Trînôte. Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ryšį su
+    Mindaugu, nes 1262 m. žygį (jis datuojamas ir 1263 m.) organizavo Mindaugas, o tuo
+    metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae,
+    Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra
+    R., Lietuva..., p. 153). Treniota buvo ne Mindaugo, bet jo sesers sūnus (ПСРЛ, 2, стб
+    860; Пашуто В. T. Образование.., с. 492—493).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

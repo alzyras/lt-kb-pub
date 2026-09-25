@@ -69,5 +69,5 @@ canonical_biography: "1566 m. Kauno pavieto maršalu tapo tuometis Kauno seniūn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -106,5 +106,5 @@ Mindaugo karvedžių siaubiamoje Livonijoje vyko kovos prie Lielvardės pilies D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

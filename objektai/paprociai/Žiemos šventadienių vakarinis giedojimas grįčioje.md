@@ -109,7 +109,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177810
@@ -125,7 +125,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177811
@@ -145,9 +145,10 @@ Nenurodyta
     šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti.
   citata_rodoma: "Vakarinį giedojimą lankyti nesunku: anksti kelti nereikia, ir šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

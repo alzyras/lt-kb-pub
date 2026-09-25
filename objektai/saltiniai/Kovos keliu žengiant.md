@@ -71,5 +71,5 @@ p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Le
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -60,6 +60,18 @@ Bardach, J.
   pagrindžia:
     - c-32956
 
+<a id="claim-t-207540"></a>
+- t-207540
+  teiginys: "Juliusz Bardach Liublino unijos rezultatą aiškino kaip kompromisą, kurį LDK pusė priėmė per ašaras."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190157
+
 ## Citatos
 
 - id: c-32956
@@ -79,5 +91,27 @@ Bardach, J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190157
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 160"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 160."
+  citata_originali: |
+    Taigi Chodkevičius surado išeities kelius ten, kur, atrodė, jų nėra.
+    „Brolių lenkų“ ir Žygimanto Augusto spaudimą Liublino unijos metu – tiek siekį
+    panaikinti valstybingumą, tiek teritorijų atplėšimą – šiandien mato ir lenkų istorikas Ju-
+    liuszas Bardachas, tačiau išvadą padaro kitokią: net ir toks Liublino unijos rezultatas buvo
+    kompromisas, kurį, nors ir per ašaras, LDK pusė priėmė, tačiau šio kompromiso pagrįstu-
+    mą įrodė, kad juo rimčiau nesuabejota dar du šimtmečius. Tiesa, Liublino unijos pasekmės
+    pasireiškė jau netrukus.
+  citata_rodoma: "lenkų“ ir Žygimanto Augusto spaudimą Liublino unijos metu – tiek siekį \npanaikinti valstybingumą, tiek teritorijų atplėšimą – šiandien mato ir lenkų istorikas Ju-\nliuszas Bardachas, tačiau išvadą padaro kitokią: net ir toks Liublino unijos rezultatas buvo \nkompromisas, kurį, nors ir per ašaras, LDK pusė priėmė, tačiau šio kompromiso pagrįstu-\nmą įrodė, kad juo rimčiau nesuabejota dar du šimtmečius. Ties"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207540

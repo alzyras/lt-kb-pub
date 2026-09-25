@@ -127,7 +127,7 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -151,7 +151,7 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174605
@@ -171,5 +171,54 @@ Teodoro Narbuto aiškinime Ptolemėjaus „Geographia“ liudijo žinias apie pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-195083
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
+  citata_originali: |
+    Ten, miškuose, yra akmeninių pas­
+    tatų griuvėsių ir ant kalvų piliaviečių, primenančių žilą
+    šios žemės senovę. Ptolemėjas žinojo Salavijos gyvento­
+    jus slavinu vardu; iš to galima spręsti, kad Rusios egzis­
+    tavimo laikais didelė dalis šios žemės II krikščioniškosios
+    eros amžiuje buvo žinoma Skalvos arba Rusios vardu,
+    kuriuo ją ir vadino svetimšaliai. Rytuose ji ribojosi su
+    Sudargija, pietuose — su Nadruva, vakaruose — su Kur­
+    šių mariomis, o šiaurėje — su Žemaitija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196032
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
+  citata_originali: |
+    Tačiau Ptolemėjas turi tam tikrų žinių apie
+    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
+    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
+    geografas taip pat žinojo vieną sudinų koloniją, buvusią
+    germanų markomanų genties kaimynystėje, dabar Pra­
+    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
+    iš prūsų Sūduvos kažkokia užklydusi genties dalis4. Ne
+    kartą provincijoje prisiglausdavo nuo lenkų ir lietuvių
+    ginklų bėgantys jotvingiai. Rytuose ji ribojosi su Sudar­
+    gą, pietuose — su jotvingių Polese, vakaruose — su Ga­
+    linda ir Barta, o šiaurėje — su Barta ir Nadruva.
+    1 Kiti teigia, kad iš žodžio S žudąs, išmatos, pelkės, nes seniau
+    žemė ten buvusi labai pelkėta; bet išmanančiam kalbą ir papročius šis
+    spėjimas yra visiškai nepriimtinas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

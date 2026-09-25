@@ -87,5 +87,5 @@ canonical_biography: "Įvadinis tekstas Samuelį Lindę mini tarp kalbininkų, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

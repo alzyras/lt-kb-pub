@@ -95,5 +95,5 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

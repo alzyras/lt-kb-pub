@@ -97,7 +97,7 @@ canonical_biography: "Šiuo raštu skel­ biame visiems ir kiekvienam, kam dera 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83440
@@ -125,5 +125,5 @@ canonical_biography: "Šiuo raštu skel­ biame visiems ir kiekvienam, kam dera 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

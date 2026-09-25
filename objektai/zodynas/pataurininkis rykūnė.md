@@ -65,5 +65,5 @@ Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

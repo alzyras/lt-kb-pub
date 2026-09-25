@@ -78,5 +78,5 @@ Vy­ tautas viename laiške, tais metais da­ tuotame, kuriame žada Prūsijos o
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

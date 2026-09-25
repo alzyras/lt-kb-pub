@@ -26,17 +26,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad siek tiek toliau jis priduria (1 Mak 2. 67—68): „...atkeršykite priešams už savo tautą. Atsilyginkite savo priešams, ką jie užsipelnė”. O kitoje vietoje, kai žuvo tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras pasakė.
 
-## Teiginiai
-
-<a id="claim-t-61227"></a>
-- t-001
-  teiginys: "Pirmojoje Makabiejų knygoje raginama atkeršyti priešams už tautą ir kovoti dėl gyvybės bei įstatymo."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61859
-
 ## Citatos
 
 - id: c-61859
@@ -57,5 +46,3 @@ Dusburgietis teigia, kad siek tiek toliau jis priduria (1 Mak 2. 67—68): „..
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

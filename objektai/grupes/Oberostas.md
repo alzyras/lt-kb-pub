@@ -210,7 +210,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -237,7 +237,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-26833
@@ -262,7 +262,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -287,5 +287,5 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

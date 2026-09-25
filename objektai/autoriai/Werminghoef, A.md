@@ -95,10 +95,11 @@ Werminghoef, A.
     St. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930.
   citata_rodoma: "— Werminghoef, A. : _Die Schlacht bei Tannenberg und ihre Be­\ndeutung für das Deutschtum im Osten_ , Berlin 1910. — Zakrzewski, W. :\n_Bitwa pod Grunwaldem_ , RTPNP, t. 17, 1890, 11-28 p. — Zaskevičius,\nSt. : _Trijų elementų reikšmė Tannenbergo kautynėse_ , atsp. iš MŽ, 1930."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

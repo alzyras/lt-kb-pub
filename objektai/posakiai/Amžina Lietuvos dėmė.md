@@ -59,5 +59,5 @@ Per 400 metų nė Vienas lietuvis, išskyrus Kojalavičių, My kolą Lietuvį ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

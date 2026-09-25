@@ -86,8 +86,35 @@ Pasak Baturlino, budinai buvo užėmę šiandienių Voluikos ir Bogončavo miest
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197231
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
+  citata_originali: |
+    Naujausių ir tiksliau­
+    sių šios graikų istoriko geografijos paaiškinimų pateikė
+    generolas Baturlinas, aprašydamas Darijaus žygį prieš
+    Skitiją2. Pasak jo, gelonų gyventa dabartinėje Staro-
+    belsko apskrityje, o budinai gyveno visai greta, rytų link
+    buvo užėmę šiandienių Voluikos ir Bogončavo miestų
+    apylinkes, vadinasi, šių abiejų genčių gyvenamas kraš­
+    tas plytėjo Dono ir Doneco tarpupyje, jo plotas iš pietų
+    į šiaurę galėjo būti nuo 48 iki 51 laipsnio platumos, o
+    tisagetai buvo įsikūrę šiandienėse Oriolo, Tūlos, Riaza-
+    nės, Tambovo ir Penzos gubernijose. Šios gentys buvo
+    laikomos getų karta, kuri anksčiau turėjusi gyventi prie
+    Tisos, arba Tibiskos, upės, įtekančios į Dunojų ir dėl to
+    taip vadinamos3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Budinai]]

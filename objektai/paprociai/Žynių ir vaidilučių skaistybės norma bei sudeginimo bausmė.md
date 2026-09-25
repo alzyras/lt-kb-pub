@@ -86,5 +86,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198271
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
+  citata_originali: |
+    Visokios pastabos ir istorijos liudijimai teikia žinių, kad
+    lietuvių stabmeldystės klestėjimo laikais kiekvieno laipsnio žy­
+    nius tvirtindavo krivis. Šioms kilmingoms pareigoms rinkdavo
+    dorovingus žmones, jau pagyvenusius, kurie visu savo gyveni­
+    mu deramai pateisindavo nuomonę apie juos. Kiekvienas žy­
+    nys ar vaidilutė privalėjo likti viengungiai, laikytis nepriekaiš­
+    tingos skaistybės, būti nepapeikiamų papročių. Kuris nusiženg­
+    davo tiems įstatymams, kaip visuomenės papiktintojas būda­
+    vo be gailesčio sudeginamas .
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

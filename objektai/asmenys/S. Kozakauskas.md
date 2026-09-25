@@ -91,7 +91,7 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44501
@@ -116,5 +116,5 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

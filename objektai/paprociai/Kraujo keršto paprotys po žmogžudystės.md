@@ -102,7 +102,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67156
@@ -120,5 +120,22 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-205780
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
+  citata_originali: |
+    213 Apie kraujo kerštą D. užrašė, matyt, iš nuogirdų, be to, perdėdamas. Taliono
+    principo (kaklas už kaklą, ranka už ranką) buvimas prūsų prigimtinėje teisėje davė
+    pagrindo D. kalbėti apie kraujo kerštą ne tik nusikaltėliui, bet ir jo giminėms. XIII a.
+    2-oje pusėje talionas buvęs pakeičiamas išpirka (Jurginis J., Baudžiavos..., p. 98—100).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

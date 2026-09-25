@@ -55,6 +55,22 @@ media_all_json: |-
   pagrindžia:
     - c-38446
 
+<a id="claim-t-208461"></a>
+- t-208461
+  teiginys: "Vyskupas Motiejus Valančius 1848 m. veikale „Žemajtiu Wiskupiste“ aprašė Žemaičių vyskupijos vyskupų gyvenimą ir veiklą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  temporaliniai_duomenys: "įvykio data: 1848 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Neaiškus įvardis pakeistas aiškiu subjektu, o veikalo pavadinimas, data ir aprašytas objektas išlaikyti pagal citatą."
+  vertinimo_atnaujinta: "2026-09-02T11:31:46Z"
+  pagrindžia:
+    - c-191081
+
 ## Citatos
 
 - id: c-38446
@@ -73,5 +89,24 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-191081
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 67"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 67."
+  citata_originali: |
+    Vysk. M. Valančius buvo gerai išstudijavęs visų Že­
+    maičių vyskupijos vyskupų gyvenimą ir veiklą. Juos ap­
+    rašė 1848 m. savo istoriniame veikale ,,Žemajtiu Wisku-
+    piste".
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208461

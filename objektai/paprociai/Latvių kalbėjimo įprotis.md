@@ -73,5 +73,5 @@ Narbutas teigia, kad latvis greitai taria, trumpina žodžius, beria ištisus sk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

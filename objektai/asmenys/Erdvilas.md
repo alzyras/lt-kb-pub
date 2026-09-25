@@ -180,6 +180,31 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   pagrindžia:
     - c-188284
 
+<a id="claim-t-207968"></a>
+- t-207968
+  teiginys: "Radvilų giminės kilmė šaltinyje siejama su kunigaikščio Erdvilo palikuonimis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190431
+
+<a id="claim-t-212054"></a>
+- t-212054
+  teiginys: "Didysis kunigaikštis Erdvilą įsi rengė čionai sostinę ir ėmė vadintis Naugarduko di džiuoju kunigaikščiu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194379
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Erdvilas atsisakė mokėti skitams duoklę, paskelbė karą ir jų kunigaikščiui įteikė dvi strėles.'
@@ -287,7 +312,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -310,7 +335,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184333
@@ -337,7 +362,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-187694
@@ -355,7 +380,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-187772
@@ -381,7 +406,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-187889
@@ -401,7 +426,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-187932
@@ -425,7 +450,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-188167
@@ -443,7 +468,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188284
@@ -464,5 +489,70 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+
+- id: c-188003
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 186"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 186."
+  citata_originali: |
+    Jų buvimo vietą dar ir dabar primena Aš­
+    menos pavieto, į pietus nuo Ašmenos, tarp Ašmenos ir
+    Eišiškių, ten, kur buvo senoji Neroma, esantis Graužiškių
+    miestelis. Mūsų nurodytoji kronika iš šių vadų kildina
+    Lietuvos garsiųjų didikų gimines: iš Grumbio — Goštau­
+    tus', iš Eikšos — Davainas, iš Griaužio •— Montvydus4.
+    Erdvilas, trims žymiausiems karo vadams išdalijęs pasie­
+    nio žemes, matyt, norėjo įtvirtinti priklausomybę to iš
+    Rusios kunigaikščių atgauto krašto, juoba kad tie vadai
+    gerai tiko saugoti sieną.
+  citata_rodoma: "Erdvilas, trims žymiausiems karo vadams išdalijęs pasie­\nnio žemes, matyt, norėjo įtvirtinti priklausomybę to iš \nRusios kunigaikščių atgauto krašto, juoba kad tie vadai \ngerai tiko saugoti sieną."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-190431
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 77"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 77."
+  citata_originali: |
+    - Ejksi-
+    sowi zaś, który na ruskiej wyprawie I Czynił jak hetmaniijak rycerz w każdej sprawie, I
+    Dałmu ten wszystek okrąg, który tak dziś zową Ejkszyszkami z Ejksisa, został jego głową
+    15).
+    Riteriškumas, kaip labai svarbus bruožas, pabrėžiamas pasakojimuose apie žymiau-
+    sių Lietuvos Didžiosios Kunigaikštystės didikų giminių atsiradimą. Kildindamas Radvilų
+    giminę iš kunigaikščio Erdvilo palikuonių, mūsų poetas ir istorikas pabrėžia, kad jo sūnus
+    Radvila, į tėvą narsumu panašėjęs, kaip ir tėvas riterišką amatą puoselėjęs (šalt.
+  citata_rodoma: "Kildindamas Radvilų\ngiminę iš kunigaikščio Erdvilo palikuonių"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207968
+
+- id: c-194379
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 44."
+  citata_originali: |
+    Didysis kunigaikštis Erdvilą įsi­
+    rengė čionai sostinę ir ėmė vadintis Naugarduko di­
+    džiuoju kunigaikščiu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212054

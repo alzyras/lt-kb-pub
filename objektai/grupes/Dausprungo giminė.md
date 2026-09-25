@@ -77,7 +77,7 @@ Anot Teodoro Narbuto minimų krašto padavimų, Dausprungo giminės kunigaikšč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188498
@@ -102,5 +102,5 @@ Anot Teodoro Narbuto minimų krašto padavimų, Dausprungo giminės kunigaikšč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

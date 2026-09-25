@@ -73,9 +73,10 @@ Nicolaus, arba Mikalojus Kremderis, 1480 m. ėjo Vokiečių ordino kanclerio par
     t. I (1479-1488), (toliau -ASP, I), wyd. K. Görski, M. Biskup, Torun, 1955, nr 15, s. 25, 1480 m.: her
     Nicelis, der hem hoemeyster canczeler.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

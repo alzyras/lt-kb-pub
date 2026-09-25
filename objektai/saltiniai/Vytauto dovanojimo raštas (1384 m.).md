@@ -87,7 +87,7 @@ Vytauto dovanojimo raštas (1384 m.) pateikiamas kaip IV priedas. 1384 m. dovano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189644
@@ -117,7 +117,7 @@ Vytauto dovanojimo raštas (1384 m.) pateikiamas kaip IV priedas. 1384 m. dovano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-189645
@@ -135,5 +135,5 @@ Vytauto dovanojimo raštas (1384 m.) pateikiamas kaip IV priedas. 1384 m. dovano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

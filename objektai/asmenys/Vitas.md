@@ -89,6 +89,22 @@ canonical_biography: "į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad �
   pagrindžia:
     - c-188347
 
+<a id="claim-t-207470"></a>
+- t-207470
+  teiginys: "Vitas tradiciškai laikomas Mindaugo krikštytoju ir apibūdinamas kaip lenkų dominikonų vienuolis, nors 1253 m. Lietuvoje dar negalėjo būti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1253 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Religinis vaidmuo ir abejonė dėl Vito buvimo Lietuvoje aiškiai palikti Bumblausko atribucijoje; naujų faktų nepridėta."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190066
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Vitas tradiciškai laikomas Mindaugo krikštytoju ir apibūdinamas kaip lenkų dominikonų vienuolis, nors 1253 m. Lietuvoje dar negalėjo būti.'
@@ -130,7 +146,7 @@ canonical_biography: "į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188346
@@ -150,7 +166,7 @@ canonical_biography: "į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188347
@@ -173,5 +189,29 @@ canonical_biography: "į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190066
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 84"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 84."
+  citata_originali: |
+    Nėra žinių, kas
+    buvo kiti du vyskupai, kurie turėjo būti – vainikuotą karalių jie paima už rankų ir nuveda
+    į sostą. Šiais laikais laikoma, kad tradiciškai Mindaugo krikštytoju laikytas lenkų domini-
+    konų vienuolis Vitas 1253 m. dar negalėjo būti Lietuvoje.
+    Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Min-
+    daugas buvo pirmas ir paskutinis Lietuvos karalius (Vytautui 1430 m. vainikuotis sutruk-
+    dė mirtis; vėliau, Lietuvos valdovams tapus Lenkijos karaliais, vainikavimo klausimas
+    beveik nebuvo keliamas, nebuvo įvykdytas projektas ir 1918 m. – Viurtembergo grafą
+    Wilhelmą von Urachą paskelbti Mindaugu II).
+  citata_rodoma: "laikais laikoma, kad tradiciškai Mindaugo krikštytoju laikytas lenkų domini-\nkonų vienuolis Vitas 1253 m. dar negalėjo būti Lietuvoje.\nMinda"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207470

@@ -107,5 +107,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201097
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 316."
+  citata_originali: |
+    Ant žemės būda­
+    vo nuliejama dalis gėrimų ir viralų, po stalu numesdavo mė­
+    sos naminiams plėšrūnams, nunešdavo į kapus. Atnašaujant
+    dideles aukas, būdavo ir laidotuvių lauže sudeginama daug
+    dalykų, net ir gyvi žmonės. Minėdami žuvusiuosius kare, de­
+    gindavo belaisvius arba paimtus gyvulius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

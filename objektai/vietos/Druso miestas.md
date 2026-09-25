@@ -86,5 +86,5 @@ Senovės Druso miestas buvo patogus ir svetimšaliams saugus uostas netoli dabar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

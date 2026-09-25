@@ -74,5 +74,5 @@ Tą vakarą nė viena neverpia bijodama, kad lauke neužderės linai arba kad av
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -70,5 +70,5 @@ Pilypas Kjiuveris rašė, kad Owim buvo Prūsija, pilna pelkių ir ežerų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

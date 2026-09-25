@@ -88,7 +88,7 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166896
@@ -112,5 +112,5 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

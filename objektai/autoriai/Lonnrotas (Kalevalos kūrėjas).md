@@ -98,7 +98,7 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177620
@@ -114,9 +114,10 @@ Lonnrotas šiame straipsnyje minimas kaip „Kalevalos“ kūrėjas. Jo autoryst
     mokslo šaką.
   citata_rodoma: "Matyt, „Kalevala“ ir jos \nkūrėjas Lonnrotas nulėmė Niemiui pasirinkti liaudies dainų tyrimo \nmokslo šaką."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

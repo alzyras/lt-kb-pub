@@ -114,6 +114,16 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   pagrindžia:
     - c-175706
 
+<a id="claim-t-215054"></a>
+- t-215054
+  teiginys: "476 metų pradžioje skiriai paskelbė Odoakrą savo vadu ir karaliumi."
+  atnaujinta: "2026-09-20 18:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Citatos
 
 - id: c-175705
@@ -142,7 +152,7 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175706
@@ -172,7 +182,7 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -201,8 +211,37 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-195308
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
+  citata_originali: |
+    Tas pats istorikas Jorda­
+    nas, pasakodamas apie gotų kivirčus, pirmiausia mini
+    skirius, iš pradžių taikiai gyvenusius su kitomis gotų
+    gentimis; jie labiau linko į žemdirbystę ir namų verslus
+    negu į kariavimą. Tačiau atsitiko taip, kad svebų kara­
+    liukai Hunimundas ir Alarikas, gotų plėšikiškų žygių
+    bendrininkai, kažin kokio pavydo šiai pagrindinei tautai
+    paskatinti, ėmė maištauti ir sukėlė pilietinį karą. Jie pir­
+    miausia sukurstė skirius nusimesti gotų priespaudą kaip
+    tik tuo metu, kai jau atvirai kovojo su jais susikivirčiję
+    kvadai. Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
+    su sukilėliais ir išvien su jais puolė gotus. Bet Siaurės
+    didvyrių giminė, susilpnėjusi po Romos miestų puldinė­
+    jimų ir kautynių su legionais, pergalingai baigė šį baisų
+    ir netikėtą karą, kuris galėjo tapti jiems visiška pražūti­
+    mi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Skiriai puolė [[objektai/grupes/Gotai]]

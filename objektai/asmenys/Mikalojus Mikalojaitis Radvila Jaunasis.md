@@ -87,7 +87,7 @@ Mikalojus Mikalojaitis Radvila Jaunasis buvo Mikalojus Radvilos Senojo sūnus. V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-193580
@@ -106,5 +106,5 @@ Mikalojus Mikalojaitis Radvila Jaunasis buvo Mikalojus Radvilos Senojo sūnus. V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

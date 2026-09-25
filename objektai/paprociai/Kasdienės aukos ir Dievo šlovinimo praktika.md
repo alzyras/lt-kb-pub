@@ -74,5 +74,5 @@ Dusburgietis teigia, kad ir ji kaip Dovydas įsivedė kunigystę ir kas dieną �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

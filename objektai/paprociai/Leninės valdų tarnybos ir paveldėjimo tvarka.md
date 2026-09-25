@@ -77,5 +77,5 @@ Leninių valdų gavėjas ordinui dovanojimo aktu turėjo užrašyti visas žemes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

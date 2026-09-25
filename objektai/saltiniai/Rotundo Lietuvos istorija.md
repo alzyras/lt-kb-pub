@@ -86,5 +86,5 @@ XVI ## Puslapis 17 MYKOLAS B A L I N S K I S niaus MIESTO ISTORIJA Haec omnia, q
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

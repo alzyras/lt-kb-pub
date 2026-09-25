@@ -69,5 +69,5 @@ Kalavijuočių ordinas pralaimėjo Saulės–Šiaulių mūšį; po šio pralaim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

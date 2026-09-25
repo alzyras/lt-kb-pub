@@ -91,5 +91,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202381
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
+  citata_originali: |
+    Vladislovo Lokietkos suvienyta Lenkija bandė diplomatijos priemonėmis atgauti
+    kryžiuočių užgrobtą Pomeraniją. 1320 m. balandžio—1321 m. vasario mėn. Inovroclave
+    šiuo reikalu vyko teismas, kuriame dalyvavo popiežiaus skirti teisėjai. Nors teismo
+    sprendimu Ordinas privalėjo grąžinti Pomeraniją, tačiau kryžiuočiai sprendimo nepripažino
+    ir pateikė apeliaciją kurijai. Nuosprendis liko neįgyvendintas, bet pats procesas buvo
+    nemažas politinis lenkų laimėjimas59.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

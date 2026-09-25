@@ -57,6 +57,18 @@ Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio švento
   pagrindžia:
     - c-173263
 
+<a id="claim-t-219801"></a>
+- t-219801
+  teiginys: "Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas 11, nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu ria, jog jo rūšies niekas negalėjęs nustatyti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198921
+
 ## Citatos
 
 - id: c-173263
@@ -80,5 +92,29 @@ Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio švento
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198921
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
+  citata_originali: |
+    Tą ypatybę kronikininkai priskiria velnio galy­
+    bei, manydami, kad velniai buvo garbinami toje šventykloje
+    šalies dievų pavidalu.
+    Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo­
+    lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas* 11,
+    nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu­
+    ria, jog jo rūšies niekas negalėjęs nustatyti. Taigi tai turėjo bū­
+    ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai,
+    dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji
+    medžiai.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219801

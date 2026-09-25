@@ -176,11 +176,12 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     diena, 2 indiktas.
   citata_rodoma: "A liteho\n236\n\n## Puslapis 253\n\nIII KNYGA\ngaliau Aleksandro laikais Vilnius pirmą kartą pažino gydy­\ntoją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­\nme vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­\njos istorija mums išsaugojo įdomią žinią apie tai, kad \nVytautas 1426 metais, susirūpinęs savo žmonos Julijonos \nliga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­\nti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro \nPauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.\nserebra do mina/ pryszlo 20 tysiacz hry- \nwien i 6 sot hrywien i 50 i osm hryzvien \ni dwa skotcy [Vilniuje, birželio 9-ta \ndiena, 2 indiktas."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83432
@@ -231,7 +232,7 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83433
@@ -265,7 +266,7 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173842
@@ -293,7 +294,7 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-179348
@@ -319,5 +320,57 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-194528
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
+  citata_originali: |
+    Laikui bėgant, Rusios kraštas
+    patyrė įvairių pokyčių, galop kryžiuočių laikais tapo be­
+    veik visiška dykra, kuri daugelyje vietų tarp Prūsijos ir
+    Žemaitijos buvo beveik neperžengiama taip, kad beveik
+    ištisus du amžius nebuvo Lietuvos ir Prūsų valstybių tar­
+    pusavio sienos. Tik 1436 metais Lenkijos karalius Vladis­
+    lovas Varnietis iš vienos ir kryžiuočių magistras Povilas
+    Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
+    ria visiems laikams buvo nustatyta minėtų valstybių sie­
+    na, o Rusia buvo padalyta į dvi nelygias dalis2. Tačiau
+    iki tos epochos didesnė Rusios dalis laikėsi Lietuvos ir
+    išsaugojo savo giminės gyventojų kartą*, kuri ramesniais
+    laikais, patekusi į kryžiuočių priklausomybę, išvengė pra­
+    žūties, ištikusios kitą tautos dalį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196844
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
+  citata_originali: |
+    Tik 1436 metais Lenkijos karalius Vladis­
+    lovas Varnietis iš vienos ir kryžiuočių magistras Povilas
+    Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
+    ria visiems laikams buvo nustatyta minėtų valstybių sie­
+    na, o Rusia buvo padalyta į dvi nelygias dalis2. Tačiau
+    iki tos epochos didesnė Rusios dalis laikėsi Lietuvos ir
+    išsaugojo savo giminės gyventojų kartą*, kuri ramesniais
+    laikais, patekusi į kryžiuočių priklausomybę, išvengė pra­
+    žūties, ištikusios kitą tautos dalį. Ypač užkampyje tarp
+    Nemuno ir Jūros upės žemupio, miškingose Smalininkų
+    apylinkėse, smėlėtoje ir nedėkingoje žemėje ligi šiol gy­
+    vena senovės rusų-lietuvių giminė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

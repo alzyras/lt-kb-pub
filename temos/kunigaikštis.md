@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 608
+tema_objektu_skaicius: 607
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 608.
+Objektų skaičius: 607.
 
 ## Kaip naudoti
 
@@ -97,7 +97,6 @@ Objektų skaičius: 608.
 - [Butautas](../objektai/asmenys/Butautas)
 - [Chadžibėjus](../objektai/asmenys/Chad%C5%BEib%C4%97jus)
 - [Chadžibėjus Girėjus](../objektai/asmenys/Chad%C5%BEib%C4%97jus%20Gir%C4%97jus)
-- [Chodkevičius](../objektai/asmenys/Chodkevi%C4%8Dius)
 - [Chudandachas](../objektai/asmenys/Chudandachas)
 - [Dangerutis](../objektai/asmenys/Dangerutis)
 - [Danielius](../objektai/asmenys/Danielius)

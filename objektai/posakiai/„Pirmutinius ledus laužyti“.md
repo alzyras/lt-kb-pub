@@ -56,5 +56,5 @@ Nieko nepadarysi, at rėžiau jam, matyt reikia patiems pirmutinius ledus laužy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

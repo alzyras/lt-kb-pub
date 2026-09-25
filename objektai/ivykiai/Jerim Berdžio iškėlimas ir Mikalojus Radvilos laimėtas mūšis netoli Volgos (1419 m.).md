@@ -116,6 +116,18 @@ Nenurodyta
   pagrindžia:
     - c-168935
 
+<a id="claim-t-185573"></a>
+- t-185573
+  teiginys: "Daugybė skitų iš visos šalies suplaukė į Jerim Berdžio stovyklą, nes nepakentė žiauraus Kerim Berdžio viešpatavimo."
+  atnaujinta: "2026-09-20 19:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168933
+
 ## Citatos
 
 - id: c-168933
@@ -143,10 +155,11 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
+    - t-185573
 
 - id: c-168935
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -167,5 +180,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

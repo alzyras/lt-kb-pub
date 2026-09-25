@@ -82,5 +82,5 @@ Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

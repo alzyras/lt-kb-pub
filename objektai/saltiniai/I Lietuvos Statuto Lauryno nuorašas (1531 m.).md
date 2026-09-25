@@ -83,5 +83,5 @@ Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra ver
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

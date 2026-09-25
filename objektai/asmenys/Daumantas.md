@@ -340,19 +340,6 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   pagrindžia:
     - c-178687
 
-<a id="claim-t-196817"></a>
-- t-018
-  teiginys: "Lietuvos metraščio pasakojime Daumantas, tapęs vienuoliu Lauru, prašė Narimanto skirti jam vietą vienuolynui Naugarduko pavieto girioje prie Nemuno."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176527
-
 <a id="claim-t-196818"></a>
 - t-019
   teiginys: "Lietuvos metraštis Daumantą vaizduoja sutelkusį pskoviškę ir polockiškę kariuomenę ir žygiavusį į Lietuvą, ketinant tapti Lietuvos ir Žemaičių kunigaikščiu."
@@ -429,6 +416,46 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   pagrindžia:
     - c-188279
 
+<a id="claim-t-207491"></a>
+- t-207491
+  teiginys: "Alfredas Bumblauskas nurodo, kad Nalšios kunigaikščio Daumanto žmoną buvo paveržęs Mindaugas, o Daumantas, veikęs išvien su Treniota, 1263 m. nužudė Mindaugą."
+  atnaujinta: "2026-09-19 07:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleisti Daumanto sąjungininkas, veiksmas ir jo motyvinis kontekstas. Moralinis bei motyvinis vertinimas paliktas su Alfredo Bumblausko atribucija."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190075
+
+<a id="claim-t-210543"></a>
+- t-210543
+  teiginys: "O Daumantas, tai išgirdęs, labai susikrimto ir pra dėjo galvoti, kaip Mindaugą nužudyti, bet negalėjo, nes menka buvo jo jėga, o Mindaugo — galybė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193432
+
+<a id="claim-t-211411"></a>
+- t-211411
+  teiginys: "O jos sesuo buvo ištekėjusi už Daumanto, už Nalšios kunigaikščio."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193084
+
 ## Reikšmingi paminėjimai
 - c-011
   santrauka: 'Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos vardas nežinomas.'
@@ -499,7 +526,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-04830
@@ -519,7 +546,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-21642
@@ -538,7 +565,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-21643
@@ -559,7 +586,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-21645
@@ -585,7 +612,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-21646
@@ -614,7 +641,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-168044
@@ -642,7 +669,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-168046
@@ -668,7 +695,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-168047
@@ -696,7 +723,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-168048
@@ -738,7 +765,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-016
 
@@ -758,7 +785,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-176527
@@ -784,9 +811,8 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
-    - t-018
 
 - id: c-176528
   autorius: "Anoniminis metraštininkas"
@@ -808,7 +834,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-176824
@@ -854,7 +880,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-178685
@@ -877,7 +903,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-178687
@@ -904,7 +930,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-178929
@@ -930,7 +956,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-184328
@@ -954,7 +980,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-184329
@@ -977,7 +1003,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-188277
@@ -997,7 +1023,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-188278
@@ -1019,7 +1045,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-188279
@@ -1041,8 +1067,92 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
+
+- id: c-190075
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 86"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 86."
+  citata_originali: |
+    Vėlesnėje Lietuvos istorijoje į panašų europinį vaidmenį gali
+    pretenduoti nebent Vytautas, Žalgirio mūšyje sustabdęs vokiečių agresiją ir priartinęs
+    valstybę prie to, ką šiandien lyginamoji istorinė sociologija vadina pirmine imperija, ir
+    1990 m. Lietuvos nepriklausomybės kūrėjai, pradėdami „suverenitetų paradą“ ir tuo pri-
+    sidėdami prie sovietų imperijos griūties.
+    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien
+    su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą (nežinoma kur, ta-
+    čiau atkreiptinas dėmesys, kad Latvijos katalikiškoje dalyje, Agluonoje iki šiol tradiciškai
+    manoma, kad Mindaugas buvo nužudytas būtent čia).
+  citata_rodoma: "Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien \nsu stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207491
+
+- id: c-193084
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
+  citata_originali: |
+    O jos sesuo buvo ištekėjusi už
+    Daumanto, už Nalšios kunigaikščio
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211411
+
+- id: c-193432
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
+  citata_originali: |
+    O Daumantas, tai išgirdęs, labai susikrimto ir pra­
+    dėjo galvoti, kaip Mindaugą nužudyti, bet negalėjo,
+    nes menka buvo jo jėga, o Mindaugo — galybė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210543
+
+- id: c-193574
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 60"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 60."
+  citata_originali: |
+    Ir kai Traidenis
+    nesisaugodamas ėjo iš pirties, tie jo vyrai klastingai
+    nužudė 9.
+    O pats Daumantas, sutelkęs savo pskoviškę ir po-
+    lockiškę kariuomenę, ištraukė į Lietuvą, ketindamas
+    tapti Lietuvos ir Žemaičių kunigaikščiu.
+    Ir minėtasis vienuolis Lauras, lietuviškai vadinęsis
+    Rimantu, o rusiškai Vosyliumi, gedėdamas dėl savo tė­
+    vo, didžiojo kunigaikščio Traidenio, mirties ir atsisa­
+    kęs vienuolystės, atvyko pas didikus ir, sušaukęs visas
+    lietuvių jėgas, patraukė prieš Daumantą, degdamas troš­
+    kimu atkeršyti už savo tėvo kraują.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Daumantas (kunigaikštis, XV a.) puolė [[objektai/vietos/Nalšėnai]]

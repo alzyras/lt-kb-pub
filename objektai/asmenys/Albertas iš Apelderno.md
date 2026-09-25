@@ -94,7 +94,7 @@ Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188142
@@ -114,5 +114,5 @@ Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -67,5 +67,5 @@ Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

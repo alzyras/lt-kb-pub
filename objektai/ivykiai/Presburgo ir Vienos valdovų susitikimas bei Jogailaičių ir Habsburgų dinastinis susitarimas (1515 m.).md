@@ -49,18 +49,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-193473"></a>
-- t-001
-  teiginys: "Nesinori smulkiai pasakoti, ką valdovai nu tarė šiame suvažiavime."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-176174
-
 <a id="claim-t-196245"></a>
 - t-002
   teiginys: "Konstantinas Ostrogiškis, grįžęs į Vilnių, pastatė Nedalomosios Trejybės vienuolyną vienuoliams, kurie laikėsi rusų apeigų ir pakluso Romos popiežiui."
@@ -120,8 +108,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-178594
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -149,5 +135,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

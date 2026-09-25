@@ -82,5 +82,5 @@ Vilniaus universiteto bibliotekoje, prie Diplomatinio koJekso) In Nomine Domini 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

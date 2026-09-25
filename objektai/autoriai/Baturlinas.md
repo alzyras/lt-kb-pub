@@ -57,17 +57,17 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
   pagrindžia:
     - c-174461
 
-<a id="claim-t-197584"></a>
-- t-002
-  teiginys: "Baturlinas net teigia, kad Jurjevas buvo atstatytas XII amžiaus pradžioje po to, kai jį sunaikino poloviečiai."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-214208"></a>
+- t-214208
+  teiginys: "Generolas Baturlinas pateikė Herodoto geografijos paaiškinimą, siejamą su Darijaus žygiu prieš Skitiją."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-179253
+    - c-194685
 
 ## Citatos
 
@@ -96,7 +96,7 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179253
@@ -117,5 +117,51 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-194685
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
+  citata_originali: |
+    Vis dėlto Herodotas turėjo daugiau žinių apie
+    romėnus*, nes teigia, kad dienovidžio kryptimi į šiaurę
+    nuo gelonų ir budinu krašto plyti septynių dienų kelio
+    dykra, o už jos gyvena tisagetai. Naujausių ir tiksliau­
+    sių šios graikų istoriko geografijos paaiškinimų pateikė
+    generolas Baturlinas, aprašydamas Darijaus žygį prieš
+    Skitiją2. Pasak jo, gelonų gyventa dabartinėje Staro-
+    belsko apskrityje, o budinai gyveno visai greta, rytų link
+    buvo užėmę šiandienių Voluikos ir Bogončavo miestų
+    apylinkes, vadinasi, šių abiejų genčių gyvenamas kraš­
+    tas plytėjo Dono ir Doneco tarpupyje, jo plotas iš pietų
+    į šiaurę galėjo būti nuo 48 iki 51 laipsnio platumos, o
+    tisagetai buvo įsikūrę šiandienėse Oriolo, Tūlos, Riaza-
+    nės, Tambovo ir Penzos gubernijose.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214208
+
+- id: c-196871
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
+  citata_originali: |
+    Rusų istorikai nesutaria, kur buvusi ši tvirtovė. Ka­
+    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
+    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
+    toro žodžius priskiria poloviečių veiksmams dešiniojoje
+    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
+    statytas XII amžiaus pradžioje po to, kai jį sunaikino
+    poloviečiai.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

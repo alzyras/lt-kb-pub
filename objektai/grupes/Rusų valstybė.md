@@ -56,5 +56,5 @@ Išaugus rusų valstybės galiai, Biarmija savaime turėjo tap ti jos provincija
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

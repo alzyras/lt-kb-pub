@@ -68,5 +68,24 @@ Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-193304
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 178"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
+  citata_originali: |
+    Net ir
+    Turkų sultonas didžiai gerbė ir brangias dovanas do­
+    vanojo šlovingajam valdovui. O dorasis ir dievobai­
+    mingasis Konstantinopolio imperatorius, ir tas su juo
+    gyveno didelėje meilėje. Taip pat ir Čekų karalystė
+    didžią garbę teikė šlovingajam valdovui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

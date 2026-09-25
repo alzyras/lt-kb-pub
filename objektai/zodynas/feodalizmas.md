@@ -155,6 +155,54 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   pagrindžia:
     - c-78552
 
+<a id="claim-t-207765"></a>
+- t-207765
+  teiginys: "Marksistinėje vartosenoje feodalizmas reiškia ikikapitalistinį gamybos būdą ir žemės nuosavybės santykius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190382
+
+<a id="claim-t-207865"></a>
+- t-207865
+  teiginys: "Feodalizmas susiformavo IX-X a."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190379
+
+<a id="claim-t-207972"></a>
+- t-207972
+  teiginys: "Feodalizmas gali būti vartojamas ir platesne prasme kaip santvarka, kurioje vyrauja žemvaldžiai aristokratai, gyvenantys iš valstietijos darbo vaisių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190447
+
+<a id="claim-t-207982"></a>
+- t-207982
+  teiginys: "Feodalizmas gali reikšti sistemą, kur valstybės sankloda remiasi senjorų ir vasalų susitarimais, o už tarnybą gaunama žemė vadinama lenu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190380
+
 ## Citatos
 
 - id: c-78549
@@ -176,7 +224,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-78550
@@ -196,7 +244,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-78551
@@ -224,7 +272,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -247,7 +295,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-008
 
@@ -269,7 +317,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-78554
@@ -291,7 +339,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166346
@@ -310,5 +358,92 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-190379
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 35"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 35."
+  citata_originali: |
+    Tačiau čia pat pabrėžia, kad sąvoka „feodali-
+    nis laikotarpis" nėra tapati sąvokai „viduramžiai". Feodalizmas susiformavo IX-X a.
+    Frankų imperijoje, suklestėjo tarp X a. ir XIII a., vėlyvaisiais viduramžiais išsaugojo
+    savo reikšmę, ankstyvaisiais Naujaisiais laikais ją prarado, o XVIII a. ir XIX a. pradžioje
+    išnyko ir jos likučiai.
+    Plačiąja prasme sąvoka „feodalizmas" aprėpia įvairių visuomenės gyvenimo sričių
+    visumą, ji suprantama kaip „feodalinė visuomenė".
+  citata_rodoma: "sąvoka „feodali-\nnis laikotarpis\" nėra tapati sąvokai „viduramžiai\". Feodalizmas susiformavo IX-X a.\nFrankų imperijoje, suklestėjo tarp X a. ir XIII a., vėlyvaisiais viduramžiais išsaugojo\nsavo reikšmę, ankstyvaisiais Naujaisiais laikais ją prarado, o XVIII a. ir XIX a. pradžioje\nišnyko ir jos likučiai.\nPlačiąja prasme sąvoka „feodalizmas\" aprėpia įvairių visuomenės gyvenimo sričių\nvisumą, ji suprantama kaip „feodalinė visuomenė"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207865
+
+- id: c-190380
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 36"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 36."
+  citata_originali: |
+    Feodalizmas reiškia sistemą, kurioje visa valstybės sankloda
+    remiasi asmeniniais viršesniųjų ir žemesniųjų - senjorų ir vasalų - susitarimais, o žemė
+    yra įprasta atlygio už tarnybą forma. Atsiduodamas senjoro globai, vasalas prisiekdavo
+    jam ir gaudavo žemės, kartu prisiimdamas pareigą tarnauti senjorui per karą, neretai ir
+    administracijos bei teismo srityje. Už tarnybą gauta žemė buvo vadinama lenu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207982
+
+- id: c-190382
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 37"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 37."
+  citata_originali: |
+    Žinoma, pabrėžia
+    P. Wandyczius, šis grynasis modelis egzistavo ne visur ir ilgainiui keitėsi. Kita, ben-
+    dresne, prasme sąvoka „feodalizmas" vartojamas apibūdinant santvarką, kurioje vyrau-
+    ja žemvaldžiai aristokratai, gyvenantys iš žemiausios klasės, valstietijos, darbo vaisių. Ir
+    galiausiai, kaip rašo P. Wandyczius, marksistai terminu „feodalizmas" vadina ikikapi-
+    talistinį gamybos būdą ir žemės nuosavybės santykius.
+  citata_rodoma: "Ir\ngaliausiai, kaip rašo P. Wandyczius, marksistai terminu „feodalizmas\" vadina ikikapi-\ntalistinį gamybos būdą ir žemės nuosavybės santykius."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207765
+
+- id: c-190447
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 37"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 37."
+  citata_originali: |
+    „Mes, Lietuva"
+    Uetuvos Didžiosios Kunigaikštystės bajorija XVI a.
+    stambiaisiais vasalais kiek žemiau ir smulkiaisiais vasalais apačioje. Žinoma, pabrėžia
+    P. Wandyczius, šis grynasis modelis egzistavo ne visur ir ilgainiui keitėsi. Kita, ben-
+    dresne, prasme sąvoka „feodalizmas" vartojamas apibūdinant santvarką, kurioje vyrau-
+    ja žemvaldžiai aristokratai, gyvenantys iš žemiausios klasės, valstietijos, darbo vaisių.
+  citata_rodoma: "Kita, ben-\ndresne, prasme sąvoka „feodalizmas\" vartojamas apibūdinant santvarką, kurioje vyrau-\nja žemvaldžiai aristokratai, gyvenantys iš žemiausios klasės, valstietijos, darbo vaisių."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207972

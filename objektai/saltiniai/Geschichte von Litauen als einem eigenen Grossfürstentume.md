@@ -62,5 +62,5 @@ Ten teveikė viena istorijos katedra su (^32) Geschichte von Litauen als einem e
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

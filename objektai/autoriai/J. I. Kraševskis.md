@@ -86,17 +86,29 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
   pagrindžia:
     - c-171297
 
-<a id="claim-t-197301"></a>
-- t-003
-  teiginys: "J. I. Kraševskis susitiko su caro pasiuntiniais, pareiškusiais pageidavimą taikytis."
-  atnaujinta: "2026-07-12 22:32"
+<a id="claim-t-214990"></a>
+- t-214990
+  teiginys: "Anot pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešvarūs“."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195920
+
+<a id="claim-t-217238"></a>
+- t-217238
+  teiginys: "J. I. Kraševskis plačiai aptarė ir klasifikavo lietuvių dievus bei pusdievius pagal indų ir persų mitologijos prigimtį."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179113
+    - c-199131
 
 ## Citatos
 
@@ -117,7 +129,7 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171297
@@ -137,7 +149,7 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179113
@@ -162,5 +174,91 @@ Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-195920
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 501"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 501."
+  citata_originali: |
+    Anot pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo
+    „nešvarūs“. Mes gi apie tai nieko negalime pasakyti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214990
+
+- id: c-198763
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
+  citata_originali: |
+    Iš tikrųjų tais me­
+    tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
+    ir sėkmingai posėdžiavęs. Tais metais karaliui Žy­
+    gimantui buvo daug darbų ir rūpesčių; mat, be ši­
+    to darbštaus seimo, dar kariavo šiaurėje karą su
+    Rusija. Romanas Sanguška kovojo kruvinus mū­
+    šius su Rusija; įvyko taip, kad karalius, Piotrkovo
+    seime parengęs abiejų tautų žygį, rudenį su ka­
+    riuomene išžygiavo iš Vilniaus, bet pasiekė tik Ra-
+    daškovičius; ten jis susitiko su caro pasiuntiniais,
+    pareiškusiais pageidavimą taikytis.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199010
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
+  citata_originali: |
+    O supratingiems tėvy­
+    nės istorijos mylėtojams - tai labai vertingas šios įžymios val­
+    18 Žygimanto Senojo privilegija, duota Petrui Laurinavičiui, Vil­
+    niaus piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrkovas.
+    1538.1.25. - Iš Lietuvos Metrikos. Išspausdino Kraševskis (Wilno. -
+    T. K')*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199131
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 36-37"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 36-37."
+  citata_originali: |
+    Daugiausia T. Narbutu rėmėsi
+    J. I. Kraševskis19, nors to tiesiog ir nenurodo, o kartais net
+    18 Hanusch I. J. Wissenschaft des slawischen Mythus im weites­
+    ten den altpreussisch-lithauischen Mythus mitumfassenden Sinne. -
+    Lemberg, Stanislawöw und Tarnow, 1842.
+    19 Kraszewski J. I. Litwa. Starožytne dzieje, ustawy, język, wiara,
+    obyczaje, piešni, pzyslowia, podania ir t. d. - Warszawa, 1847. - T. 1:
+    Historia do XII wieku. - S. 99-141.
+    37
+
+    priešingai - truputį jį pakritikuoja, plačiai aptardamas ir klasi­
+    fikuodamas lietuvių dievus ir pusdievius pagal indų ir persų
+    mitologijos prigimtį
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217238

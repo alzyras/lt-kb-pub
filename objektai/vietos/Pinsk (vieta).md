@@ -70,5 +70,5 @@ Vaišvilkas išsigando to paties likimo, pabėgo j Pinską ir ten gyveno.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

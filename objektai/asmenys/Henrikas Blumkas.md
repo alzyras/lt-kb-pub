@@ -69,5 +69,5 @@ Pablogėjus bajoro ir kauniečio santykiams verslovę bandė perimti kitas Kauno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

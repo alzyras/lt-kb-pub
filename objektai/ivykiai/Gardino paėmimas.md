@@ -76,5 +76,5 @@ Pasak Teodoro Narbuto, karalius, skubėdamas Gardino link, persikėlė per Nemun
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -81,7 +81,7 @@ canonical_biography: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Bo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187801
@@ -104,5 +104,5 @@ canonical_biography: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Bo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

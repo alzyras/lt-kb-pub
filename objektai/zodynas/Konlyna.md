@@ -179,7 +179,7 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -196,7 +196,7 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -219,5 +219,26 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194858
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 492"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 492."
+  citata_originali: |
+    Aš pats piliečių sutartyse, parašytose
+    Lietuvoje rusų kalba XVI amžiuje, skaičiau, jog Konlyna, Кон-
+    тьма — tai ypatingos konstrukcijos skrynia, skirta laikyti stalo
+    sidabrui, paprastai gerai apkaustyta ir apkabinėta spynomis. Si
+    skrynia būdavo naudojama ir kelionės daiktams, ginklams susidė­
+    ti; tai buvo pačių vertingiausių daiktų saugykla (хранилище).
+    Taigi galėjo būti, jog slavų protėviai taip vadino dievų šventyk­
+    las.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

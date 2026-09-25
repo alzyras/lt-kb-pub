@@ -157,6 +157,18 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   pagrindžia:
     - c-175371
 
+<a id="claim-t-213557"></a>
+- t-213557
+  teiginys: "Voliansikio vardus, tačiau išskirtinę vie tą užėmė slovakų archeologo ir istoriko Povilo Juozapo Safairžyko (Safarik, 1795—1861) tyrinėjimai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196695
+
 ## Citatos
 
 - id: c-173986
@@ -179,7 +191,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173987
@@ -202,7 +214,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173989
@@ -230,7 +242,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173990
@@ -253,7 +265,7 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175371
@@ -273,5 +285,114 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-195410
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 14"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 14."
+  citata_originali: |
+    P. J. Safaržyko veikalas buvo pirmasis išsamus, vis­
+    ką apimantis slavų istorijos tyrinėjimas. Pats „Slavų se­
+    nienų“ autorius taip nusakė priežastis, kurios paakino jį
+    imtis tokio tyrinėjimo: „Iš tikrųjų kiekvieno žmogaus,
+    kuris atsisakė pirmykščio kietumo ir rūstumo, širdis ver­
+    da nenugalimu ilgesiu rasti patikimų žinių apie mielus
+    jo protėvius, bet šis ilgesys yra dar stipresnis moksli­
+    ninko, kuris savo gyvenimą paskyrė tyrinėjimams, tu­
+    rintiems glaudų ryšį su jo tautybe < ...> “2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195838
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 61"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 61."
+  citata_originali: |
+    Tai, jog alanai taip pat
+    buvo vadinami asais, o rusų — ¡asais, osáis, osetinais, kurių palikuo­
+    nys ir šiandien gyvena Kaukaze, skaitome Safaržyko veikale (Staro-
+    žytnošci slawianskie. S. 16. Nr. 9). Vės dėlto jis mano ¡uos buvus
+    asus, minimus skandinaviškoje „Edoje", nors kitur kalbama apie di­
+    delį vardų panašumą. Seniausias alanų, asų, lizdas buvo prie Dono
+    (iš čia kilę ir „Edoje" minimi asai), todėl negalime pritarti Safaržyko
+    nuomonei, kad O dinas buvo kilęs iš alanų, t. y. asų, gyvenusių kraš­
+    te, kur išteka Vakarų Dauguva, Dnepras, Donas ir Volga.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196695
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 13."
+  citata_originali: |
+    PE galima rasti ir M. Osolinskio, ir E. Eichvaldo, ir
+    F. Kruzės, ir T. Voliansikio vardus, tačiau išskirtinę vie­
+    tą užėmė slovakų archeologo ir istoriko Povilo Juozapo
+    Safairžyko (Safarik, 1795—1861) tyrinėjimai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213557
+
+- id: c-196841
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 76"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
+  citata_originali: |
+    Galbūt todėl, kad ir bu-
+    dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
+    arba šį užsiėmimą perėmė iš gelonų, pačioje susiliejimo
+    su pastaraisiais pradžioje. Safaržykas žengė dar toliau1,
+    nes senovės lietuvius visiškai sugiminiavo su slavais,
+    šiandienius šių abiejų tautų skirtumus priskirdamas liki­
+    mui, kurio dėka jos patekdavo tai į germanų, tai į finų
+    valdžią, ir lietuvių kalba vis labiau tolo nuo slavų. Vis
+    dėlto žmogus, mokantis šias kalbas, neras nieko, kas ga-
+    lėtų jį įtikinti šios hipotezės teisingumu, nes lietuvių,
+    germanų, finų ir slavų kalbos skiriasi viena nuo kitos
+    kaip dangus ir žemė, p daugelio žodžių panašumas atsi­
+    rado arba juos pasiskolinus iš kaimynų, arba dėl dauge­
+    lio kitų tarpusavio santykių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197161
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 71"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 71."
+  citata_originali: |
+    Safaržykas iškelia hipotezę, iš kuries verta tik pasijuok­
+    ti, — tas kalnas turėtų būti Minsko gubernijojell! Sis kruopštus sla­
+    vų senienų tyrinėtojas kimba prie kiekvienos tautos, prie kiekvienos
+    giminės, kur tik galima įžvelgti kokį nors panašumą (ar vardo, ar
+    kitos kokios savybės) su slavais. Klijuoja, lopo savo audeklą ir dėl
+    to dažnai pats tampa juokingas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

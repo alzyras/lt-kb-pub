@@ -76,5 +76,5 @@ Masinėms žudynėms vykdyti sukonstruotas mechanizmas – rugpjūčio 16-ąją 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -70,5 +70,26 @@ Narbutas Ragutienę patį (Ragutenapati) apibūdina kaip aludarystę globojanči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199776
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 147"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 147."
+  citata_originali: |
+    Ragutienė pati (Ragutenapati)
+    Deivė, globojanti tik aludarystę, o pagal savo vardą - Ra­
+    gučio žmona. Lasickis apsiriko laikydamas ją dievu.
+    Jos garbei buvo geriamas, kalbant tam tikras maldas, pir­
+    masis indas, pripiltas iš pilnos statinės: tai buvo vadinama nu­
+    leidimu (Nukijdimas). Šio naminio atnašavimo apeigas atlik­
+    davo pats šeimininkas arba, jo nesant, šeimininkė, paskui visi
+    dalyvaujantys.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -84,5 +84,5 @@ Apie 1264 m., po Mindaugo mirties, Vitas išvyko į Lietuvos kraštus, tikriausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

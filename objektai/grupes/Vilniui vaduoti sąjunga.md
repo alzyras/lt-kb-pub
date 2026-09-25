@@ -87,7 +87,7 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166583
@@ -110,5 +110,5 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -67,5 +67,5 @@ Totorius Tahiras Bohdanovičius iš Trakų rakto gavo lapės kailio šūbą.
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 19:20"
-  pagrindzia:
+  pagrindžia:
     - t-001

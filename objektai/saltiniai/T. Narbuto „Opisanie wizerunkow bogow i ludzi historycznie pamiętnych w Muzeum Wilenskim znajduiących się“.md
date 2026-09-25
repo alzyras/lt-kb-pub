@@ -74,5 +74,23 @@ Narbuto autografe „Opisanie wizerunkow bogow i ludzi historycznie pamiętnych 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194773
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 472"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 472."
+  citata_originali: |
+    Minėtą deivės Mildos stabą T. Narbutas aprašo ir autografe, sau­
+    gomame Vilniaus universitete (Narbutt T. Opisanie wizerunkow
+    bogow i ludzi historycznie pamiętnych w Muzeum Wilenskim znaj-
+    duiących się // Vilniaus universiteto Rankraščių skyrius (toliau —
+    VU RS). F. 9. B. 2012. L. 8).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

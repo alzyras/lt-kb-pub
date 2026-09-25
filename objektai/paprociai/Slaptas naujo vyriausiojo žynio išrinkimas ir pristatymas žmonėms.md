@@ -90,5 +90,30 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199735
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 283."
+  citata_originali: |
+    Pagaliau liepdavo
+    uždegti laužą ir savanoriškai sudegdavo už žmones“.
+    Mirus senajam vyriausiajam žyniui, vaidilos labai slaptai
+    išrinkdavo naują; kitą dieną po išrinkimo pristatydavo jį žmo­
+    nėms, aiškindami, kad patys dievai pasirinkę šį šventą žmogų
+    iš labiausiai nusipelniusių: privalu gerbti jį ir klausyti jo. Nors
+    Hartknochas abejoja tokią konklavą buvus, kadangi ankstes­
+    nieji istorikai apie ją neužsimena, tačiau užginčyti tai - neįma­
+    nomas dalykas, nes vietos padavimai ir dainos galėjo išsaugoti
+    ir perteikti vėlesniems amžiams tą detalę, kurią pamaldieji ra­
+    šytojai savo raštuose praleido nenorėdami lyginti su švento­
+    mis dabartinės Romos apeigomis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

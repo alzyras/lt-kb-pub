@@ -76,5 +76,5 @@ Tadas Cackis (1765—1813), Juoza pas Mickevičius (1743—1817), Pilypas Nerėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

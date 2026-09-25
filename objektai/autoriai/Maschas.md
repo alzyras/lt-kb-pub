@@ -55,19 +55,6 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
   pagrindžia:
     - c-173255
 
-<a id="claim-t-194667"></a>
-- t-002
-  teiginys: "Sunku susekti, kada ir kas dovanojo arba kas Masch."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177064
-
 ## Citatos
 
 - id: c-173255
@@ -87,7 +74,7 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177064
@@ -106,5 +93,22 @@ Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-199944
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
+  citata_originali: |
+    - Noty 336 i 355.
+    29 Prilvico statulėlių rinkinyje, remiantis Maso (Masch) ir Vogeno
+    (Wogen) informacija, dievukas, turintis užrašą „Szwaixtix“, neatitinka
+    tų savybių, kurias mes priskiriame Lietuvos Apolonui. Jo vardas kilęs iš
+    žodžio, žvaigždė (Zwajgzda), bet savo išvaizda jis visiškai nepanašus į
+    Apoloną.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

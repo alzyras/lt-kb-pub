@@ -271,6 +271,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-169435
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -298,7 +299,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173812
@@ -321,7 +322,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176122
@@ -345,7 +346,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176591
@@ -371,7 +372,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-007
 
@@ -395,7 +396,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-008
 
@@ -422,7 +423,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188322
@@ -453,7 +454,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-188980
@@ -471,8 +472,52 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+
+- id: c-193216
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 59"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 59."
+  citata_originali: |
+    Ir kai jo sūnus Ri­
+    mantas išaugo į savo metus, jo tėvas Traidenis atidavė
+    jį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­
+    dą pavadintą Lvovu 3, kad išmokytų rusų kalbos.
+    Gyvendamas pas kunigaikštį Levą, Rimantas išmo­
+    ko rusiškai kalbėti, ir jam patiko krikščionių tikėji­
+    mas. Priėmęs krikštą, jis suprato, kad šis gyvenimas
+    nieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu;
+    ir jam buvo duotas Lauro vardas4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196917
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
+  citata_originali: |
+    Tokia kaimy­
+    nystė, ko gero, buvo ne iš maloniųjų. Siekdamas padaryti
+    tam galą, Lietuvos didysis kunigaikštis Narimantas apie
+    1268 metus įsiveržė su kariuomene į jotvingių Polesę ir
+    privertė gyventojus priimti jo paskirtą valdovą. Juo tapo
+    tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos
+    ir Dainavos kunigaikštis su priklausomybės nuo Lietuvos
+    didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­
+    reiga.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Patrikas, arba Patricijus]]

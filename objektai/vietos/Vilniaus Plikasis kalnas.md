@@ -105,7 +105,7 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171830
@@ -126,5 +126,25 @@ Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-199691
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
+  citata_originali: |
+    Taigi nėra pėdsakų, kad ten turėjo būti kas nors
+    susijusio su senąja lietuvių religija. Pirmieji misionieriai - pran­
+    ciškonai ant jo pastatė tris kryžius, kaip savo misijos ženklą;
+    1365 metais* septyni iš jų buvo ant to kalno nukryžiuoti ir nu­
+    mesti į Vilnią. Tad, jeigu kalnas būtų šventas stabmeldystės
+    prasme, šito nebūtų darę, nes nedrįsdavo suteršti šventos vie­
+    tos kokia nors žmogžudyste.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

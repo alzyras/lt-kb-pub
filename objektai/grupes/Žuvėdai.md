@@ -51,24 +51,6 @@ media_all_json: |-
   pagrindžia:
     - c-10140
 
-<a id="claim-t-66404"></a>
-- t-002
-  teiginys: "Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių."
-  atnaujinta: "2026-05-31 10:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žuvėdai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žuvėdai\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  temporaliniai_duomenys: "įvykio data: 1700 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-10138
-
 ## Citatos
 
 - id: c-10138
@@ -98,8 +80,6 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-10140
   autorius: "Simonas Daukantas"
@@ -115,7 +95,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-10141
@@ -128,6 +108,37 @@ media_all_json: |-
         sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192690
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 334"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 334."
+  citata_originali: |
+    Žemaičiai dar vėl norėjo savo Šventosios įtaką arba Palangą, kurią žuvėdai buvo sugriovę, atnaujinti, ir minavonei savo nuo jų išsiliuosavimo^1511 tenai
+        naują pilį, vadinamą Marijoninę pilį (Janmarienburg), įkurti, ant ko metuose 1688 sueime gavo ir
+        priviliją.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192908
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 330"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 330."
+  citata_originali: |
+    laiku kėlės karės su žuvėdais, maskoliais, turkais ir valakais, namuose taip pat tarp pačių netaikos
+        sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -83,5 +83,5 @@ Teodoras Narbutas 1285 m. lietuvių žygį į Tverės kunigaikštystę apibūdin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -108,6 +108,60 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   pagrindžia:
     - c-175811
 
+<a id="claim-t-209276"></a>
+- t-209276
+  teiginys: "Dionizo Poškos ir S. Valiūno santykiai, tyrinėtojų vertinimu, buvo labai artimi."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-192038
+
+<a id="claim-t-209282"></a>
+- t-209282
+  teiginys: "Dionizas Poška mirė 1831 m., dar neprasidėjus sukiliminei emigracijos bangai, ir sulaukė senyvo amžiaus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Užbaigta nutrūkusi mintis ir išskleistas įvardis į konkretų asmenį. Įtrauktos tik citatoje nurodytos aplinkybės."
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191948
+
+<a id="claim-t-209384"></a>
+- t-209384
+  teiginys: "Dionizas Poška, J. Šimkevičius ir S. Valiūnas buvo kilę iš to paties Raseinių pavieto."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-192030
+
+<a id="claim-t-214405"></a>
+- t-214405
+  teiginys: "Poška neabe jojo, jog ją turi rašyti lietuvis arba žemaitis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195578
+
 ## Citatos
 
 - id: c-175808
@@ -131,7 +185,7 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175809
@@ -152,7 +206,7 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175810
@@ -172,7 +226,7 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175811
@@ -193,5 +247,122 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-191948
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 18"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 18."
+  citata_originali: |
+    Juk D. Poška mirė 1831 m., t.y. dar neprasidėjus
+    posukiliminei emigracijos bangai. Be to, jis sulaukė senyvo amžiaus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209282
+
+- id: c-192030
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 43"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 43."
+  citata_originali: |
+    Šubravcų
+    draugijos prezidento "lekiosimas ant ližės" sukosi apie gimtąją
+    Žemaitiją. Ir dar vienas faktelis, jau kelintą kartą sugrąžinantis prie
+    J. Šimkevičiaus ir D. Poškos tarpusavio ryšių problematikos, išplaukia
+    iš to, kas siejasi su S. Valiūnu. Visi trys: J.Šimkevičius, D. Poška ir S.
+    Valiūnas buvo kilę iš vieno Raseinių pavieto.
+  citata_rodoma: "Visi trys: J.Šimkevičius, D. Poška ir S. \nValiūnas buvo kilę iš vieno Raseinių pavieto."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209384
+
+- id: c-192038
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 43"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 43."
+  citata_originali: |
+    Ir dar vienas faktelis, jau kelintą kartą sugrąžinantis prie
+    J. Šimkevičiaus ir D. Poškos tarpusavio ryšių problematikos, išplaukia
+    iš to, kas siejasi su S. Valiūnu. Visi trys: J.Šimkevičius, D. Poška ir S.
+    Valiūnas buvo kilę iš vieno Raseinių pavieto. D. Poškos santykiai su
+    S. Valiūnu tyrinėtojams nekelia jokių abejonių - jie buvę labai artimi.
+  citata_rodoma: "D. Poškos santykiai su \nS. Valiūnu tyrinėtojams nekelia jokių abejonių - jie buvę labai artimi."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209276
+
+- id: c-195578
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 442"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 442."
+  citata_originali: |
+    Ir nors kalbos
+    klausimas straipsnyje neakcentuojamas, D. Poška neabe­
+    jojo, jog ją turi rašyti lietuvis arba žemaitis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214405
+
+- id: c-198894
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 49."
+  citata_originali: |
+    Be to,
+    ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
+    imti. Bene geriausiai ją apibūdina 1829 metais „Dziennik Wars-
+    zawski“ išspausdintas Dionizo Poškos straipsnis „Keletas įžan­
+    ginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių
+    istoriją“8. Jis parašytas metai prieš mirtį, todėl jį drįstume lai­
+    kyti tam tikru literatūriniu testamentu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199005
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 50."
+  citata_originali: |
+    Sunku pasakyti, ar D. Poška, rašydamas šį straipsnį, turėjo
+    omenyje kokį nors konkretų asmenį. Galbūt ir taip. Jam pui­
+    kiai buvo žinomas tuometinis intelektualus Lietuvos elitas,
+    ypač tie, kurie domėjosi krašto praeitimi. D. Poška turėjo ga­
+    limybę su daugeliu iš jų asmeniškai bendrauti, vadinasi, ir ži­
+    noti jų planus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

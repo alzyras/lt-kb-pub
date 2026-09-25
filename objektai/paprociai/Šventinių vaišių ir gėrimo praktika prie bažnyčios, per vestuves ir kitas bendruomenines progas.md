@@ -115,7 +115,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177789
@@ -138,7 +138,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177790
@@ -151,9 +151,10 @@ Nenurodyta
     siam girtuokliavimui, įvesdamas „Blaivybės Broliją“.
   citata_rodoma: "Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžu­\nsiam girtuokliavimui, įvesdamas „Blaivybės Broliją“."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

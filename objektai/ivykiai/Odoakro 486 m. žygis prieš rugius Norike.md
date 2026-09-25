@@ -82,5 +82,23 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196665
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
+  citata_originali: |
+    Norike likusius jo sąjungininkus per­
+    nelyg engė rugių karalius Febanas. Jis, engiamųjų pa­
+    prašytas pagelbėti, išvyko pats ir nugalėjo rugius, kurių
+    karalius žuvo kautynėse, o jo sūnus Frederikas išsigel­
+    bėjo pabėgdamas iš krašto. Tai buvo 486 metais*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

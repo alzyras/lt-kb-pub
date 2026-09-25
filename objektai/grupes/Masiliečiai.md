@@ -90,6 +90,18 @@ Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo ik
   pagrindžia:
     - c-175728
 
+<a id="claim-t-214620"></a>
+- t-214620
+  teiginys: "Narbutas teigia, kad masiliečių prekyba alavu ir gintaru išsiplėtė ir suklestėjo IV amžiuje prieš Kristaus gimimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194516
+
 ## Citatos
 
 - id: c-175726
@@ -112,7 +124,7 @@ Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo ik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175727
@@ -141,7 +153,7 @@ Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo ik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175728
@@ -165,5 +177,79 @@ Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo ik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194516
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 158."
+  citata_originali: |
+    Pagaliau kurui kaip
+    malkas vartojamą gintarą, kurio senovės Sembos gyven­
+    tojams netrūko, galima suprasti kaip iškasamas palmes,
+    iš kurių kažkada sunkėsi gintaras, apie tai kalbėjome
+    anksčiau; jų gal nemažai buvo išgaunama iš pakrančių
+    smėlio sluoksnio arba jų išmesdavo jūra.
+    162
+    Pasak autorių, gintaringos pakrantės buvo pažįstamos
+    dėl masiliečių prekybos, ypač alavu ir gintaru, išsiplėtu­
+    sios ir suklestėjusios IV amžiuje prieš Kristaus gimimą1.
+    Senovės tyrinėtojai netgi padarė gana taiklių prielaidų,
+    jog finikiečių, o gal ir masiliečių pirkliai turėję savo pre­
+    kyvietes, arba emporiurnus, Prūsijoje; iš jų viena buvusi
+    Ilelados pusiasalyje, Scurgon2 ramovėje, o antra ■— Kul­
+    nie prie Vyslos3.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214620
+
+- id: c-195651
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
+  citata_originali: |
+    Tuo keliu prekes
+    gabeno ir masiliečiai, Nėra nė mažiausių abejonių, jog ger­
+    manų tautų valtys išplaukdavo toliau Zundo ir nugaben­
+    davo savo prekių į Okeano pakrančių miestus (§ 157).
+    'tacitas, užsiminęs apie sveonus, pateikia žinių, kad jie
+    turėjo daug didelių laivų1. Siaurės sagose daug žinių apie
+    jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
+    žygiais. Taip mūsų kraštų prekės lengvai patekdavo arba
+    į Tartesą, arba prie Galijos krantų, o per Galiją arkliais
+    50 dienų būdavo gabenamos į Masiliją2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195794
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
+  citata_originali: |
+    Tuo metu Masilija pradėjo rungtyniauti su
+    Kartagina; masiliečių laivai plaukdavo iki Tarteso tų pa­
+    čių prekių kaip ir kartaginiečiai. Galop turtingi Masilijos
+    ¡pirkliai laibai išplėtė savo įtaką šiaurinėse jūrose. Jie tik­
+    riausiai žinojo,, kad jų varžovai ten jau seniai nuplauk­
+    davo ir atgabendavo pelningų krovinių, kuriuos įsigydavo
+    beveik veltui, t. y. už pigiausius blizgučius ir niekučius2.
+    Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
+    mus Masilijos astronomas ir jūrų keliautojas Pitėjas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

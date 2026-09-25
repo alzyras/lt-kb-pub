@@ -82,5 +82,5 @@ Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

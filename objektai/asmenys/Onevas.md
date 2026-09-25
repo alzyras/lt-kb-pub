@@ -49,6 +49,18 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
   pagrindžia:
     - c-177315
 
+<a id="claim-t-214583"></a>
+- t-214583
+  teiginys: "Onevui atidavė Konogardijos žemę, gal pri klausiusią Kaunui, kuris buvo vadinamas Konnogord, Kutiigard, t."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195386
+
 ## Citatos
 
 - id: c-177315
@@ -70,5 +82,44 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195000
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
+  citata_originali: |
+    Šiose kautynėse žu­
+    vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija
+    netgi nedviprasmiškai nurodo šios didelės pergalės prie­
+    žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo
+    Onevu, perėjimą į priešo pusę. Karalius Frotonas užėmė
+    1
+    Sis vardas yra neabejotinai slaviškas ir reiškia dirbantį muzikos
+    instrumentų stygas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195386
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
+  citata_originali: |
+    Onevui atidavė Konogardijos žemę, gal pri­
+    klausiusią Kaunui, kuris buvo vadinamas Konnogord, Ku-
+    tiigard, t. y. Kurio miestas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214583

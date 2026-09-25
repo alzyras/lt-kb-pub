@@ -136,6 +136,18 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   pagrindžia:
     - c-173782
 
+<a id="claim-t-213689"></a>
+- t-213689
+  teiginys: "Sis istorikas gyveno imperatoriaus Justiniano laikais, arba VI amžiuje."
+  atnaujinta: "2026-09-20 07:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196475
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.'
@@ -190,7 +202,7 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173781
@@ -215,7 +227,7 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173782
@@ -237,7 +249,7 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -271,5 +283,51 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-195936
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 325"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 325."
+  citata_originali: |
+    Taip pat ir Romai antrąkart
+    pakliuvus į Totilos rankas, kai Justinianas surinko ka­
+    riuomenę, greta longobardų ir persų buvo herulų. Si ka­
+    riuomenė buvo sutelkta Pado žemupyje 552 metais Nar­
+    šui vadovaujant ir dalyvavo Taginos mūšyje; čia ir žuvo
+    Totila. Nedaug herulų, gal išlikusių kažkur Rytų valsty­
+    bės provincijose po to, kai prieš keturiasdešimt metų bu­
+    vo išblaškyti, liko šiose vietose gyventi1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196475
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
+  citata_originali: |
+    Žinios apie šį bendrinį pa­
+    vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
+    ni estus, kalbėdamas apie karingus Odoakro vadovauja­
+    mus herulus, kilusius iš estų tautos. Sis istorikas gyveno
+    imperatoriaus Justiniano laikais, arba VI amžiuje. Po
+    trijų amžių Eginhartas**, Karolio Didžiojo biografas, apie
+    estus rašo taip: „Prie šios įlankos (Baltijos jūros) gy­
+    vena daug genčių, būtent danai ir švedai, taip pat tie,
+    kuriuos mes vadiname normanais, jos turi šiaurinę dalį
+    ir visas ten esančias salas; į pietus yra slavai ir estai
+    (Aisti vietoj Aesti), o už jų gyvena kitos tautos“6.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213689

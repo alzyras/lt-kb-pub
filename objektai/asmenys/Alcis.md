@@ -139,7 +139,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172931
@@ -162,7 +162,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172932
@@ -185,7 +185,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177094
@@ -203,5 +203,61 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-199587
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 407"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
+  citata_originali: |
+    Rašy­
+    tas ant storo, lygaus ir gražaus skudurinio popieriaus; antspau­
+    das prispaustas prie paties popieriaus ir visiškai ryškus. Ratu
+    einantis užrašas perskaitomas; kai dėl herbo įvedimo datos,
+    atrodo, įtikėtina, kad tai buvo 1325 metais, taigi dar stabmel­
+    dystės laikais; todėl pasitvirtina mūsų spėjimas, kad tai milži­
+    nas Alcis laikui bėgant virto šventuoju Kristupu. Antrame ant­
+    spaude, prispaustame šalia šito, skyde yra Vytis po karūna;
+    apačioje - Radvilų herbas Trimitai*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199807
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  citata_originali: |
+    Tas, mūsų
+    akimis, neturintis priežasties šv. Kristupo panaudojimas her­
+    be leidžia manyti, kad gal kartais iš pradžių jame buvo seno­
+    vės milžinas Alcis, kurį, priimant krikščionybę, pamaldumas
+    pavertė šv. Kristupu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200541
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 406."
+  citata_originali: |
+    VI lentelė, 40-asis piešinys. Senasis Vilniaus miesto her­
+    bas. Čia yra tiesiog pavaizduotas milžinas Alcis, apie kurį jau
+    anksčiau kalbėjome. Jis žengia per kažkokį vandenį, ramsty-
+    damasis medžiu; ant pečių jam sėdi moteris.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

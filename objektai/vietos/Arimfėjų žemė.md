@@ -65,5 +65,5 @@ IV amžiaus pradžios geografai Vyslos ir Nemuno tarpupį vadino Arimfėjų žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

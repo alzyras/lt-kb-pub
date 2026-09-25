@@ -78,5 +78,5 @@ Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo pozicij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

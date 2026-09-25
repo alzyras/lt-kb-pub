@@ -93,5 +93,33 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192584
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 127"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 127."
+  citata_originali: |
+    Vokiečiams užgulus jūrines jų
+        pilis, beje: Klaipėdos, Liepojos, Lielupio ir Daugavos, kad nebgalėjo patys su svečia šalia per jūrą
+        beprekioti, tad, nebgaudami nė nuo kur geležies žambių noragams, iš medžio juos dirbo; todėl
+        nuo senų laikų tariama yra: „Lietuvis išjoja į girią raitas, o parvažiuoja važiuotas“.
+
+    ## groups-vokieciai-006
+    - status: unused
+    - claim_role: supports_existing_claim
+    - kategorija: grupe
+    - kandidatas: Vokiečiai
+    - potencialus_teiginys: Vokiečiai šiame šaltinyje nuosekliai rodomi kaip prekybą spaudžianti, pilis valdanti ir politines privilegijas gaunanti jėga.
+    - public_note:
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - vieta_saltinyje: offset: 387641-388063; match: exact
+    - santrauka: Vokiečiai šiame šaltinyje nuosekliai rodomi kaip prekybą spaudžianti, pilis valdanti ir politines privilegijas gaunanti jėga.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -136,6 +136,18 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   pagrindžia:
     - c-46936
 
+<a id="claim-t-211769"></a>
+- t-211769
+  teiginys: "Goštautas paskirtas pirmuoju Vilniaus vaivada."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192987
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
@@ -196,7 +208,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -217,7 +229,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-160263
@@ -238,6 +250,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-168004
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -261,7 +274,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-170482
@@ -282,5 +295,24 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-192987
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 67"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 67."
+  citata_originali: |
+    Ir, įkurdinęs miestą, perkėlė savo sostinę iš Trakų
+    į Vilnių ir pirmuoju Vilniaus vaivada paskyrė savo
+    etmoną Goštautą5, Stulpų herbo, gimusį iš Grumbio,
+    kurį vokiečiai Kaune buvo paėmę nelaisvėn.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211769

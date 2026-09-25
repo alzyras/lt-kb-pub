@@ -54,3 +54,38 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208092"></a>
+- t-001
+  teiginys: "1753 mvėl sudarė naują sutartį bazilijonų Švč."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190710
+
+## Citatos
+
+- id: c-190710
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 252"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 252."
+  citata_originali: |
+    Petro ir Pauliaus bažnyčią,
+    1753 m- vėl sudarė naują sutartį bazilijonų Švč. Mergelės Marijos Dangun Ėmi­
+    mo ir šv. Juozapato katedrai bei vienuolyno kompleksui, nukentėjusiam gaisro
+    metu, projektuoti ir statyti.
+  citata_rodoma: "1753 m- vėl sudarė naują sutartį bazilijonų Švč. Mergelės Marijos Dangun Ėmi­\nmo ir šv. Juozapato katedrai bei vienuolyno kompleksui"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

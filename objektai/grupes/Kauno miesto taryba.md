@@ -146,7 +146,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185168
@@ -162,7 +162,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185169
@@ -180,7 +180,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-185170
@@ -196,7 +196,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-185171
@@ -213,7 +213,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-185172
@@ -231,7 +231,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-185173
@@ -249,5 +249,5 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007

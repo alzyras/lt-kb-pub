@@ -415,29 +415,48 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   pagrindžia:
     - c-177112
 
-<a id="claim-t-197428"></a>
-- t-020
-  teiginys: "Narbutas teigia, kad motiejus Strijkovskis buvo jūrų ir ugnies dievo, žemiškos laimės, turtų, sostų dalintojo Niordo duktė, o pati buvo laisvės, nepriklausomybės, malonumų, meilės poezijos motina ."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171475
-
-<a id="claim-t-197429"></a>
-- t-021
-  teiginys: "Motiejus Strijkovskis tuoj pat nežinia kur dingo."
-  atnaujinta: "2026-07-12 22:32"
+<a id="claim-t-216142"></a>
+- t-216142
+  teiginys: "Teodoras Narbutas daug lietuvių mitologijos duomenų sėmėsi iš Motiejaus Strijkovskio."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171479
+    - c-199507
+
+<a id="claim-t-217683"></a>
+- t-217683
+  teiginys: "Narbutas nurodo, kad Strijkovskis turto deivę vadino Pilwitos."
+  atnaujinta: "2026-09-19 13:44"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Strijkovskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Strijkovskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Strijkovskis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Strijkovskis\" parinktas kaip owner_note_path. Targetas \"Strijkovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198893
+
+<a id="claim-t-218627"></a>
+- t-218627
+  teiginys: "Vilniuje buvo rengiamas spaudai XVI a. kroniki ninko Motiejaus Strijkovskio veikalas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199354
 
 ## Citatos
 
@@ -460,7 +479,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-170430
@@ -485,7 +504,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171475
@@ -508,8 +527,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
 
 - id: c-171476
   autorius: "Teodoras Narbutas"
@@ -531,7 +548,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-171477
@@ -551,7 +568,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171479
@@ -572,8 +589,6 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-021
 
 - id: c-171480
   autorius: "Teodoras Narbutas"
@@ -591,6 +606,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171481
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -611,7 +627,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-007
 
@@ -631,7 +647,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-008
 
@@ -652,7 +668,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-171484
@@ -673,7 +689,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-171485
@@ -696,7 +712,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-171486
@@ -723,7 +739,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-173536
@@ -752,7 +768,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-173805
@@ -780,7 +796,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-173806
@@ -804,7 +820,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-173807
@@ -827,7 +843,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-173808
@@ -857,7 +873,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-173809
@@ -884,7 +900,7 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-177112
@@ -905,5 +921,218 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
+
+- id: c-196234
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 30"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
+  citata_originali: |
+    Iš visų spausdintų
+    verčiausias yra vienas Strijkovskis**, po to — prūsų ir
+    Livonijos kronikininkai. Nepaneigiama tiesa tai, kad šis
+    istorikas būtų buvęs laimingesnis, jei būtų panorėjęs ap­
+    siriboti tik senienų ir rankraščių, kurių daugelį turėjo po
+    ranka, rinkėjo šlove; bet, nelaimei, jis įsigeidė istorijos,
+    suskirstytos į knygas ir skyrius, kurių priekyje įdėtų sa­
+    vo rėmėjų vardus. Užsikrovęs šią ne pagal savo jėgas
+    naštą, mūsų garbingasis pirmtakas skubėjo be menkiau­
+    sios kritikos, be atsargumo su datomis, palyginimo, da­
+    lyko nagrinėjimo, ir skubėjo pagrįstai: jau nedaug metų
+    jam buvo skirta gyventi. Tačiau jis nesuskubo įgyvendin­
+    ti visų savo ketinimų. Iš tikrųjų jis negailėjo darbo, bet
+    nemokėjo juo laimingai naudotis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196493
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
+  citata_originali: |
+    Mūsų kronikinin­
+    kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
+    tiniais, kuriuos jis naudojo1. Paskui Hartknochas**, rem­
+    damasis vertais pasitikėjimo prūsų kronikų rašytojais,
+    ypač Kasparu Dankvertu, puikiai išmanantis prūsų isto­
+    riją, darbštus istorinės tiesos tyrinėtojas ir atradėjas, vi­
+    siškai įsitikinęs tvirtina, kad kimbrų gyventa žemėje, kur
+    vėliau įsikūrė prūsai. Ten jie vadinami Sembi\ iš čia ki­
+    lęs Sembos — vienos prūsų provincijos — pavadinimas2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196639
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
+  citata_originali: |
+    Tačiau esama sunku­
+    mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
+    apie dalykus, susijusius su įvykiais, galėjusiais įvykti
+    daugiau negu šimtmetis prieš naują erą, jis mini 1190
+    metus ir kalba apie tą potvynį, kuris, anot jo pasakoji­
+    mų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3.
+    Strijkovskis neabejotinai taiso šios vietos prieštaravimus
+    ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
+    epochą, vesdamas juos nuo Baltijos jūros pakrančių tie­
+    siai į Ilyriją, kur jie prie Nortbėjos pirmąsyk kariauja su
+    tenykščio prokonsulo Cyras-Karbo** vadovaujamais ro­
+    mėnais; tai įvyko 190 metais prieš Kristaus gimimą4. Iš
+    to išplaukia, kad buvo pastebėta Rozencveigo ar klaidin­
+    gai į egzempliorius, buvusius po ranka Hartknochui ir
+    Pretorijui, o gal ir Strijkovskiui, įrašyta data, tikriausiai
+    prieš skaičių 190 pridėtas vienas vienetas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198477
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
+  citata_originali: |
+    Saulės tekėjimas buvo aukų atnašavimo
+    laikas*.
+    Išpažintis
+    Prie apeigų, atliekamų per atnašavimą, dar priklauso iš­
+    pažintis. Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­
+    žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
+    ninkų pranešimais ir savo paties duomenimis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198893
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
+  citata_originali: |
+    Ją tebežino lietu­
+    viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
+    Anot visų tyrimų, šios deivės ypatybės buvo perimtos iš
+    skandinavų, kurie ją vadino Frėja; ji buvo jūrų ir ugnies dievo,
+    žemiškos laimės, turtų, sostų dalintojo Niordo duktė, o pati
+    buvo laisvės, nepriklausomybės, malonumų, meilės poezijos mo­
+    tina *. Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­
+    dalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas
+    murgais (murgi).
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217683
+
+- id: c-199354
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  citata_originali: |
+    Vilniuje buvo rengiamas spaudai XVI a. kroniki­
+    ninko Motiejaus Strijkovskio veikalas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218627
+
+- id: c-199481
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
+  citata_originali: |
+    Atnašaudavo alaus, duonos
+    ir įvairių valgių, kuriuos padėdavo nakčiai po alyvų krūmais.
+    Markopoliai (Markopole)
+    Požemio dievaičiai, kuriuos ypač garbino didikai ir bajo­
+    rai. Aiškiu Lasickio liudijimu, Strijkovskis ir kiti trumpai mini
+    juos kaip požemio dievaičius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199507
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 23"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 23."
+  citata_originali: |
+    Daugiausia lietuvių mitologijos duomenų
+    T. Narbutas sėmėsi iš M. Strijkovskio ir J. Lasickio
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216142
+
+- id: c-201335
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
+  citata_originali: |
+    Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
+    kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
+    dar labiau persekiojamas, jeigu negrįši prie jam priklausančių
+    aukų aukojimo“. Šeimininkas šito nepaisė ir, būdamas krikš­
+    čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
+    dingo. Bet kai jis ateidavo į tą vietą, ilgą laiką sode girdėdavo
+    kažkokį triukšmą ir lyg žalčių šnypštimą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201420
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
+  citata_originali: |
+    Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
+    pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
+    teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
+    kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
+    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
+    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
+    garbinamas Pušaitis ir barstukai18“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

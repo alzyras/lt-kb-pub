@@ -127,6 +127,7 @@ media_primary_height: 640
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-164246
+    - c-182838
 
 <a id="claim-t-180587"></a>
 - t-004
@@ -144,6 +145,7 @@ media_primary_height: 640
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-164196
+    - c-182845
 
 <a id="claim-t-180589"></a>
 - t-005
@@ -410,6 +412,7 @@ media_primary_height: 640
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo per ilgas ir turėjo neaiškų įvardį."
   pagrindžia:
     - c-164207
+    - c-182827
     - c-186146
 
 <a id="claim-t-180615"></a>
@@ -646,6 +649,7 @@ media_primary_height: 640
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-164256
+    - c-182857
 
 <a id="claim-t-180637"></a>
 - t-032
@@ -757,6 +761,7 @@ media_primary_height: 640
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-164215
+    - c-182833
 
 <a id="claim-t-180652"></a>
 - t-038
@@ -777,6 +782,7 @@ media_primary_height: 640
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-164214
+    - c-182849
     - c-186147
 
 <a id="claim-t-180653"></a>
@@ -818,6 +824,7 @@ media_primary_height: 640
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-164199
+    - c-182869
 
 <a id="claim-t-180657"></a>
 - t-041
@@ -898,6 +905,7 @@ media_primary_height: 640
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-164215
+    - c-182833
 
 <a id="claim-t-180665"></a>
 - t-045
@@ -971,6 +979,7 @@ media_primary_height: 640
   temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinė formuluotė nutrūkusi."
   pagrindžia:
     - c-164214
+    - c-182849
 
 <a id="claim-t-185159"></a>
 - t-049
@@ -1110,27 +1119,6 @@ media_primary_height: 640
   pagrindžia:
     - c-182834
 
-<a id="claim-t-199862"></a>
-- t-057
-  teiginys: "1412 m. per Kalėdas Makra jau buvo pas Vytautą jo puošnioje salos pilyje Trakuose."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "llm_object: Trakai; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salos; mentioned_place: Vilnius"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Trakai; [[objektai/asmenys/Jogaila|Jogaila]] keliavo į Trakai"
-  temporaliniai_duomenys: "įvykio data: 1412 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-32475
-
 <a id="claim-t-199878"></a>
 - t-058
   teiginys: "Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai."
@@ -1142,19 +1130,6 @@ media_primary_height: 640
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182834
-
-<a id="claim-t-199879"></a>
-- t-059
-  teiginys: "1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Melnike ją patvirtino Žygimantas Senasis."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Melnikas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1507 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-182856
 
 <a id="claim-t-199880"></a>
 - t-060
@@ -1170,18 +1145,6 @@ media_primary_height: 640
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-32475
-
-<a id="claim-t-199887"></a>
-- t-061
-  teiginys: "Ežerų apsupta Trakų pilis buvo minima kaip vienintelė didžiojo kunigaikščio buveinė ir sostinė."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys gramatiškas ir tiksliai remiasi citata."
-  susije_objektai: "mentioned_place: Trakų pilis; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-182863
 
 <a id="claim-t-199890"></a>
 - t-062
@@ -1327,25 +1290,6 @@ media_primary_height: 640
   pagrindžia:
     - c-32468
 
-<a id="claim-t-199918"></a>
-- t-070
-  teiginys: "Trakų pilis, apsupta ežerų, buvo didžiojo kunigaikščio buveinė ir sostinė."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys gramatiškas ir tiesiogiai remiasi citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata sieja normanus su seniausių gyvenviečių kūrimu Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-182863
-
 <a id="claim-t-199920"></a>
 - t-071
   teiginys: "XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle girioje."
@@ -1357,24 +1301,6 @@ media_primary_height: 640
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182862
-
-<a id="claim-t-199922"></a>
-- t-072
-  teiginys: "Atgautus Trakus, Gardiną ir kitas tėviškės žemes Vytautas turėjo valdyti kaip Ordino vasalas."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; mentioned_place: Gardino žemė; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva"
-  ryšio_patikimumas: "susije_su -> Melnikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Melnikas: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Melnikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-182836
 
 <a id="claim-t-199930"></a>
 - t-073
@@ -1611,6 +1537,7 @@ media_primary_height: 640
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-164246
     - c-182838
 
 <a id="claim-t-203428"></a>
@@ -1661,6 +1588,7 @@ media_primary_height: 640
   susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Viena; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
+    - c-164196
     - c-182845
 
 <a id="claim-t-203537"></a>
@@ -1684,6 +1612,7 @@ media_primary_height: 640
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-164207
     - c-182827
 
 <a id="claim-t-203548"></a>
@@ -1696,6 +1625,7 @@ media_primary_height: 640
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-164215
     - c-182833
 
 <a id="claim-t-203960"></a>
@@ -1794,6 +1724,126 @@ media_primary_height: 640
   vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
   pagrindžia:
     - c-189201
+
+<a id="claim-t-180629"></a>
+- t-180629
+  teiginys: "1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę."
+  atnaujinta: "2026-09-18 22:51"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trakai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, pilnas ir paremtas citata."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-164197
+    - c-164200
+    - c-182818
+    - c-182841
+
+<a id="claim-t-207610"></a>
+- t-207610
+  teiginys: "Mykolą Juozapą Riomerį Bumblauskas įvardija Trakų pavieto maršalu; Vilniaus Šv. Kazimiero bažnyčioje jis pasakė kalbą."
+  atnaujinta: "2026-09-18 22:51"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190227
+
+<a id="claim-t-210568"></a>
+- t-210568
+  teiginys: "Gediminas įkūrė Trakus ir perkėlė į juos sostinę iš Kernavės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192971
+
+<a id="claim-t-210650"></a>
+- t-210650
+  teiginys: "Švitrigailos sąjungininkų kariuomenė prastovėjo ties Trakais keturias dienas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194268
+
+<a id="claim-t-210914"></a>
+- t-210914
+  teiginys: "Didysis kunigaikštis Žygimantas, valdydamas Vilnių ir Trakus bei visas rusų, ir lietuvių, ir že maičių žemes, buvo nuožmus savo valdiniams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193016
+
+<a id="claim-t-211220"></a>
+- t-211220
+  teiginys: "Žygimantas buvo nužudytas Trakų pilyje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193002
+
+<a id="claim-t-211766"></a>
+- t-211766
+  teiginys: "Žemaičių vyskupyste buvo (Steigta Vytauto I417.X.24 d. ak tu, duotu Trakuose."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193877
+
+<a id="claim-t-216568"></a>
+- t-216568
+  teiginys: "1493 metų balandžio 6 dieną įrašė į Trakų žemės teismo aktus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198340
+
+<a id="claim-t-217964"></a>
+- t-217964
+  teiginys: "Trakų apskrityje šventumas buvo pripažįstamas ne vie nam ežerui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201080
 
 ## Reikšmingi paminėjimai
 - c-032
@@ -2008,7 +2058,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
 
 - id: c-32467
@@ -2026,7 +2076,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-075
 
 - id: c-32468
@@ -2044,7 +2094,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-069
 
 - id: c-32471
@@ -2061,7 +2111,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-076
 
 - id: c-32475
@@ -2078,8 +2128,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-057
+  pagrindžia:
     - t-060
 
 - id: c-37760
@@ -2099,7 +2148,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-164185
@@ -2138,7 +2187,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
     - t-088
 
@@ -2165,7 +2214,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-164188
@@ -2190,7 +2239,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
     - t-035
 
@@ -2222,7 +2271,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-024
 
@@ -2264,7 +2313,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-015
 
@@ -2312,7 +2361,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-164196
@@ -2333,8 +2382,9 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+    - t-094
 
 - id: c-164197
   autorius: "Michał Baliński"
@@ -2373,9 +2423,10 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
     - t-046
+    - t-180629
 
 - id: c-164198
   sudarytojas: "Karolis Zikaras"
@@ -2393,7 +2444,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-164199
@@ -2422,7 +2473,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
 
 - id: c-164200
@@ -2452,8 +2503,9 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
+    - t-180629
 
 - id: c-164201
   autorius: "Michał Baliński"
@@ -2484,7 +2536,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
 
 - id: c-164203
@@ -2504,7 +2556,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-164204
@@ -2529,7 +2581,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-023
 
@@ -2554,9 +2606,10 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
     - t-021
+    - t-096
 
 - id: c-164208
   autorius: "Michał Baliński"
@@ -2594,7 +2647,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-017
 
@@ -2625,6 +2678,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-164210
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2647,7 +2701,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-164212
@@ -2682,6 +2736,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-164214
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2707,7 +2762,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
     - t-048
 
@@ -2728,13 +2783,15 @@ media_primary_height: 640
     senasis Algirdas.
   citata_rodoma: "12 000 žmonių vedini, pakeliui sudeginę Trakų mies­\ntą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,\n1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­\nmis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo\nsenasis Algirdas."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
     - t-044
+    - t-097
 
 - id: c-164219
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2754,7 +2811,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-164222
@@ -2773,7 +2830,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-164223
@@ -2797,6 +2854,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-164227
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2823,7 +2881,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-164228
@@ -2841,7 +2899,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-045
 
@@ -2867,7 +2925,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-164232
@@ -2894,7 +2952,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-164233
@@ -2918,7 +2976,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-045
 
@@ -2947,7 +3005,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-164239
@@ -2970,6 +3028,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-164243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2992,7 +3051,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-047
 
 - id: c-164245
@@ -3025,6 +3084,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-164246
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3046,8 +3106,9 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+    - t-090
 
 - id: c-164247
   autorius: "Michał Baliński"
@@ -3067,7 +3128,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-164249
@@ -3087,7 +3148,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-164251
@@ -3142,7 +3203,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-164252
@@ -3167,7 +3228,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
     - t-085
 
@@ -3193,7 +3254,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-164256
@@ -3215,7 +3276,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
     - t-031
 
@@ -3244,7 +3305,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-164259
@@ -3270,7 +3331,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
     - t-081
     - t-092
@@ -3294,7 +3355,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
 
 - id: c-164265
@@ -3339,11 +3400,13 @@ media_primary_height: 640
     ka, kuriam šis reikalas buvo pavestas.
   citata_rodoma: "Ir taip\nmes minėtų mūsų valdinių žydų Trakuose reikalui visas jų\nnuosavybes, paliaubas ir sprendimus maloningai palaikyda­\nmi, jiems minėtą privilegiją, teises, laisves ir kitas priklau­\nsomybes, minėtoje privilegijoje aprašytas, nutarėme saugoti,\nginti, stiprinti, ką dabartiniu [raštu] ir patvirtiname, sustip­\nriname ir giname, žiūrėdami, kad ši galia ir šis raštas am­\nžiams patvirtintas ir amžinas būtų. Šio reikalo paliudijimui\nir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­\nvo ir vyko Melnike pirmadienį prieš Tris Karalius metais\nnuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­\nsiam Kristuje tėvui ir ponui Vaitiekui, Dievo malone Lucko\n[Ladzko] vyskupui, ir galingiesiems, ir garbingiesiems Tra­\nkų vaivadai Mikalojui, Jonui iš Zabžezės - Lietuvos Di­\ndžiosios Kunigaikštystės didžiajam maršalkai ir Gardino\nseniūnui, Stanislovui Hlebavičiui - Polocko vaivadai, ku­\nnigaikščiui ir etmonui, Ivanui Glinskiui - Naugarduko vai­\nvadai ir jo broliui Mykolui Glinskiui - Utenos valdytojui,\nVaitiekui Janavičiui - karališkajam rūmininkui ir Kauno\nseniūnui, ir Bielskiams - Jonui Mikolajevičiui - rūmų mar­\nšalkai ir Slonimo seniūnui, Vaitiekui Narutavičiui - rūmų •\n• --\n199\n\n## Puslapis 216\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmaršalkai ir Josvainių seniūnui, Petrui Olechnavičiui - mū­\nsų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­\nmiems, surašyta Petro Opalinskio, Poznanės kustodo, ran­\nka, kuriam šis reikalas buvo pavestas."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-168520
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -3361,11 +3424,12 @@ media_primary_height: 640
     priešinimą, griebėsi kito sumanymo.
   citata_rodoma: "Kadangi neseniai per pasiuntinius buvo pra­\nšęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei\nsavo žento, ir toji pagalba diena iš dienos turėjo at­\nvykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­\ngailą traukti su nedidele kariuomene ir be pagalbinin­\nkų stoti į lemiamą mūšį. Kad kariai turėtų kokį užsi­\nėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti\nTrakus. Po kelių dienų apgulos, sutikęs smarkų pasi­\npriešinimą, griebėsi kito sumanymo."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-049
     - t-082
 
@@ -3393,7 +3457,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-050
 
 - id: c-168522
@@ -3417,7 +3481,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-051
 
 - id: c-168524
@@ -3446,7 +3510,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-052
 
 - id: c-170605
@@ -3471,7 +3535,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
 
 - id: c-176320
@@ -3493,7 +3557,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-054
 
 - id: c-176321
@@ -3513,7 +3577,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
 
 - id: c-182804
@@ -3533,7 +3597,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
     - t-029
 
@@ -3553,6 +3617,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182806
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3568,7 +3633,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-065
     - t-074
 
@@ -3592,7 +3657,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-077
 
 - id: c-182809
@@ -3618,6 +3683,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182810
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3634,7 +3700,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-078
     - t-080
 
@@ -3659,6 +3725,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182812
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3681,7 +3748,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-182813
@@ -3702,6 +3769,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182814
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3733,7 +3801,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-086
 
 - id: c-182815
@@ -3755,7 +3823,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
 
 - id: c-182816
@@ -3776,7 +3844,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-182817
@@ -3809,6 +3877,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182818
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3836,8 +3905,9 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-091
+    - t-180629
 
 - id: c-182819
   autorius: "Anoniminis metraštininkas"
@@ -3858,7 +3928,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-064
 
 - id: c-182820
@@ -3887,7 +3957,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
     - t-093
 
@@ -3910,7 +3980,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-068
 
 - id: c-182822
@@ -3937,6 +4007,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182823
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3954,7 +4025,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-182824
@@ -3982,6 +4053,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182825
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4024,11 +4096,12 @@ media_primary_height: 640
     ka, kuriam šis reikalas buvo pavestas.
   citata_rodoma: "Ir taip\nmes minėtų mūsų valdinių žydų Trakuose reikalui visas jų\nnuosavybes, paliaubas ir sprendimus maloningai palaikyda­\nmi, jiems minėtą privilegiją, teises, laisves ir kitas priklau­\nsomybes, minėtoje privilegijoje aprašytas, nutarėme saugoti,\nginti, stiprinti, ką dabartiniu [raštu] ir patvirtiname, sustip­\nriname ir giname, žiūrėdami, kad ši galia ir šis raštas am­\nžiams patvirtintas ir amžinas būtų. Šio reikalo paliudijimui\nir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­\nvo ir vyko Melnike pirmadienį prieš Tris Karalius metais\nnuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­\nsiam Kristuje tėvui ir ponui Vaitiekui, Dievo malone Lucko\n[Ladzko] vyskupui, ir galingiesiems, ir garbingiesiems Tra­\nkų vaivadai Mikalojui, Jonui iš Zabžezės - Lietuvos Di­\ndžiosios Kunigaikštystės didžiajam maršalkai ir Gardino\nseniūnui, Stanislovui Hlebavičiui - Polocko vaivadai, ku­\nnigaikščiui ir etmonui, Ivanui Glinskiui - Naugarduko vai­\nvadai ir jo broliui Mykolui Glinskiui - Utenos valdytojui,\nVaitiekui Janavičiui - karališkajam rūmininkui ir Kauno\nseniūnui, ir Bielskiams - Jonui Mikolajevičiui - rūmų mar­\nšalkai ir Slonimo seniūnui, Vaitiekui Narutavičiui - rūmų •\n• --\n199\n\n## Puslapis 216\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmaršalkai ir Josvainių seniūnui, Petrui Olechnavičiui - mū­\nsų prievaizdui ir Skirsnemunės seniūnui, ir kitiems patiki­\nmiems, surašyta Petro Opalinskio, Poznanės kustodo, ran­\nka, kuriam šis reikalas buvo pavestas."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-073
 
 - id: c-182826
@@ -4053,7 +4126,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
     - t-035
 
@@ -4078,7 +4151,8 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-018
     - t-021
     - t-096
 
@@ -4099,6 +4173,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182829
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4121,6 +4196,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182831
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4159,7 +4235,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-015
     - t-095
@@ -4185,7 +4261,9 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-037
+    - t-044
     - t-097
 
 - id: c-182834
@@ -4206,7 +4284,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-056
     - t-058
 
@@ -4227,7 +4305,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
 
 - id: c-182836
@@ -4249,9 +4327,8 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-062
-    - t-072
 
 - id: c-182837
   sudarytojas: "Karolis Zikaras"
@@ -4269,7 +4346,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-182838
@@ -4289,11 +4366,13 @@ media_primary_height: 640
     S *Ė - Pabaisko mūšyje Livonijos Suomijos įlanka ) | Jogailaičiui.
   citata_rodoma: "Lietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d.“ Greitai\n\n## Puslapis 69\n\nŽygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \\ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-003
     - t-090
 
 - id: c-182839
@@ -4316,6 +4395,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182840
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4337,6 +4417,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182841
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4374,8 +4455,9 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-046
+    - t-180629
 
 - id: c-182842
   autorius: "Michał Baliński"
@@ -4404,6 +4486,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182843
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4428,11 +4511,12 @@ media_primary_height: 640
     tovia [Jogaila, arba Jagėla, Dievo ma­
     lone lietuvių karalius].
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-083
     - t-087
 
@@ -4457,6 +4541,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182845
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -4475,7 +4560,8 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-004
     - t-094
 
 - id: c-182846
@@ -4510,6 +4596,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182847
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4532,7 +4619,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-023
 
@@ -4572,7 +4659,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-089
 
 - id: c-182849
@@ -4601,6 +4688,10 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-038
+    - t-048
+
 - id: c-182850
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -4623,7 +4714,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
 
 - id: c-182851
@@ -4642,6 +4733,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182852
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4658,6 +4750,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182854
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4695,6 +4788,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182855
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4714,7 +4808,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-054
 
 - id: c-182856
@@ -4746,8 +4840,6 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-059
 
 - id: c-182857
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -4768,8 +4860,9 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
+    - t-031
 
 - id: c-182858
   autorius: "Michał Baliński"
@@ -4801,6 +4894,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4845,7 +4939,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-182860
@@ -4869,6 +4963,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182861
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4888,7 +4983,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-084
 
 - id: c-182862
@@ -4912,7 +5007,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-063
     - t-071
 
@@ -4942,9 +5037,6 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-061
-    - t-070
 
 - id: c-182864
   autorius: "Michał Baliński"
@@ -4969,6 +5061,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182865
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4995,6 +5088,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182866
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -5012,7 +5106,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-182867
@@ -5034,6 +5128,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182869
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -5061,6 +5156,9 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-040
+
 - id: c-182870
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -5108,6 +5206,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-185012
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
   puslapiai: "PDF 74"
@@ -5122,7 +5221,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-079
 
 - id: c-185984
@@ -5139,7 +5238,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186145
@@ -5168,7 +5267,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
 
 - id: c-186146
@@ -5190,7 +5289,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-186147
@@ -5222,7 +5321,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-186148
@@ -5239,7 +5338,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-066
 
 - id: c-186149
@@ -5260,7 +5359,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-067
 
 - id: c-186564
@@ -5278,7 +5377,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-098
 
 - id: c-186633
@@ -5295,7 +5394,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-099
 
 - id: c-186967
@@ -5321,7 +5420,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-100
 
 - id: c-189198
@@ -5340,7 +5439,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-101
 
 - id: c-189199
@@ -5357,7 +5456,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-102
 
 - id: c-189200
@@ -5375,7 +5474,7 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-103
 
 - id: c-189201
@@ -5397,8 +5496,169 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-104
+
+- id: c-190227
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 202"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 202."
+  citata_originali: |
+    Nepaisant to, 1817 m. lapkritį ir gruodį Vilniuje, Trakuose, Kaune, Naugarduke,
+    Vilkmergėje, Valkaviske, Kėdainiuose visų luomų ir konfesijų gyventojai atidavė pagarbą
+    mirusiam „savo gentainiui“ Tadui Kosciuškai. Vilniaus Šv. Kazimiero bažnyčioje pasakė
+    kalbą Trakų pavieto maršalas Mykolas Juozapas Riomeris: „Broliai!
+  citata_rodoma: "Vilniaus Šv. Kazimiero bažnyčioje pasakė \nkalbą Trakų pavieto maršalas Mykolas Juozapas Riomeris:"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207610
+
+- id: c-192971
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 66."
+  citata_originali: |
+    jis apsigyveno tenai,
+    įkūrė miestą ir davė jam Trakų vardą — tenai, kur bu­
+    vo Senieji Trakai; ir iš Kernavės perkėlė savo sostinę
+    į Trakus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210568
+
+- id: c-193002
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 125"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 125."
+  citata_originali: |
+    Leliušas nevertas garbės sėdėti drau­
+    ge su mumis Taryboje, nes jo vaivadijoje, Trakų
+    pilyje, nužudė kunigaikštį Žygimantą,— greičiausiai, jo
+    nurodymu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211220
+
+- id: c-193016
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 118-119"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 118-119."
+  citata_originali: |
+    Didysis kunigaikštis Žygimantas, valdyda-
+
+    mas Vilnių ir Trakus bei visas rusų, ir lietuvių, ir že­
+    maičių žemes, buvo nuožmus savo valdiniams
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210914
+
+- id: c-193189
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 76"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 76."
+  citata_originali: |
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193877
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
+  citata_originali: |
+    Žemaičių vyskupyste buvo (Steigta Vytauto I417.X.24 d. ak­
+    tu, duotu Trakuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211766
+
+- id: c-194268
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 116."
+  citata_originali: |
+    Prastovėję ties
+    Trakais keturias dienas22, nužygiavo ieškoti didžiojo
+    kunigaikščio Žygimanto ir lietuvių kariuomenės
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210650
+
+- id: c-198340
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 245."
+  citata_originali: |
+    1493 metų balandžio 6
+    dieną įrašė į Trakų žemės teismo aktus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216568
+
+- id: c-201080
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 229"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
+  citata_originali: |
+    Trakų apskrityje šventumas buvo pripažįstamas ne vie­
+    nam ežerui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217964
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]]

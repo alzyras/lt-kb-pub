@@ -87,5 +87,29 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200998
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 105."
+  citata_originali: |
+    Tą patį dievą skandinavai vadina Pro, taip pat Dievų satra­
+    pu; šventyklą jis turėjo netoli Upsalos. Aštuntasis Danijos ka­
+    ralius Hadingas, kartą patekęs į baisią jūros audrą ir praradęs
+    daug laivų, maldavo jo malonės juodosiomis aukomis, ką se­
+    novės švedai vadinoFroblosk, auka dievui Fra. Valdant Hote-
+    riui, Balderis pakeitė ją žmonių auka (Eddy). Esama dainos,
+    iki šiol pajūrio žemaičių tebedainuojamos, kurioje dainuojan­
+    tis apverkia žuvusius jūreivius, pagrobtus paaukoti audrai, Ju-
+    dime. Juos laukinių žmonių rankos nužudžiusios kaip juodus
+    gyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­
+    ta atnašauti audrų dievui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

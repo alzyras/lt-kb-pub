@@ -68,6 +68,18 @@ canonical_biography: "1055 m. poloviečių vadas Balušas kovojo su Rusia, bet p
   pagrindžia:
     - c-174255
 
+<a id="claim-t-212640"></a>
+- t-212640
+  teiginys: "1055 metais Balušas kovojo su Rusia ir po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197210
+
 ## Citatos
 
 - id: c-174255
@@ -93,5 +105,31 @@ canonical_biography: "1055 m. poloviečių vadas Balušas kovojo su Rusia, bet p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197210
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
+  citata_originali: |
+    Neabejotinai slaviš­
+    ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
+    kart priėmė net ir svetimšaliai, nes gerai jas pažinoję
+    vengrai vadino šias gentis kumanais.
+    98
+    Poloviečių santykiai su rusais klostėsi nedraugiškai
+    nuo 1055 metų, kai tuometinis poloviečių vadas Balušas
+    atvirai kovojo su Rusia, bet netrukus po nesėkmingų kau­
+    tynių sudarė paliaubas su kunigaikščiu Vsevolodu. Po
+    šešerių metų antras vadas, vardu Sekalas, užpuolė rusų
+    kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį gro­
+    bį.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212640

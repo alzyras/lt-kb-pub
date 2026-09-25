@@ -61,6 +61,22 @@ canonical_biography: "1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišk�
   pagrindžia:
     - c-75341
 
+<a id="claim-t-207496"></a>
+- t-207496
+  teiginys: "1595 m. Mikalojus Daukša parengė pirmąją lietuvišką knygą LDK – „Katekizmą“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1595 m.; įvykio data: 1599 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sujungti du šaltinyje nurodyti Daukšos veiklos faktai. Išlaikyti leidinių pavadinimai ir datos, nepridėta papildomos interpretacijos."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190062
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1595 m. Mikalojus Daukša parengė pirmąją lietuvišką knygą LDK – „Katekizmą“.'
@@ -94,5 +110,23 @@ canonical_biography: "1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190062
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 24"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 24."
+  citata_originali: |
+    1595 m. Mikalojus Daukša parengia
+    pirmąją lietuvišką knygą Lietuvos Didžiojoje Kunigaikštijoje – „Katekizmą“, o 1599 m.
+    kito lietuviško leidinio – „Postilės“ pratarmėje (pati pratarmė parašyta lenkų kalba!)
+    kreipiasi į Lietuvos visuomenę siūlydamas kurti raštiją lietuvių kalba.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207496

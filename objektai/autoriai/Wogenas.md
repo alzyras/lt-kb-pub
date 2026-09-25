@@ -74,5 +74,24 @@ Narbutas, remdamasis Maschu ir Wogenu, teigė, kad Prilvico rinkinio „Szwaixti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200142
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
+  citata_originali: |
+    - Noty 336 i 355.
+    29 Prilvico statulėlių rinkinyje, remiantis Maso (Masch) ir Vogeno
+    (Wogen) informacija, dievukas, turintis užrašą „Szwaixtix“, neatitinka
+    tų savybių, kurias mes priskiriame Lietuvos Apolonui. Jo vardas kilęs iš
+    žodžio, žvaigždė (Zwajgzda), bet savo išvaizda jis visiškai nepanašus į
+    Apoloną.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

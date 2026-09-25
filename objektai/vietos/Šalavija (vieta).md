@@ -89,7 +89,7 @@ Algirdo, Kęstučio, Patirgo ir Karijoto sūnaus Aleksandro vadovaujamos keturio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189246
@@ -105,5 +105,5 @@ Algirdo, Kęstučio, Patirgo ir Karijoto sūnaus Aleksandro vadovaujamos keturio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

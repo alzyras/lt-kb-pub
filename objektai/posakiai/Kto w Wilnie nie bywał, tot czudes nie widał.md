@@ -129,7 +129,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003

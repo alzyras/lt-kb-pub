@@ -168,7 +168,7 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175583
@@ -201,7 +201,7 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179369
@@ -227,5 +227,30 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194584
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
+  citata_originali: |
+    Kairioji Dnepro
+    pakrantė sudaro lygumą, arba platų pavasario potvynių
+    užliejamą slėnį; šiame slėnyje tęsiasi juosta šiandien
+    sąnašų perskirtos įdubo-s, kur pavasario potvynių vande­
+    nys sudaro vasarą išdžiūstančius ežerus. Tų įdubų juos­
+    tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
+    grindinės upės vandens lygis buvo gerokai aukštesnis,
+    tekėdavo visais metų laikais. Plytėjo ilga įlanka, arba
+    kairioji Dnepro šaka, nusidriekusi nuo Beržūnos iki Dės­
+    lios žiočių, o priešais Kijevą, kairiojoje Dnepro pakrantė­
+    je, tyvuliavo įlankos ir įvairiai išmėtyti giliavandeniai
+    ežerėliai1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

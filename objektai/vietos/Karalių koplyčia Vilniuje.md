@@ -88,5 +88,5 @@ Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišum
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -82,9 +82,10 @@ Nenurodyta
     važiavo į Mantują pas popiežių, didelį įspūdį padarė žaliai apsirengę ilgaplaukiai blon­
     dinai su plunksnuotomis kepuraitėmis, apsiginklavę arbaletais, kardais ir strėlinėmis.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

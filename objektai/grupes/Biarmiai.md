@@ -50,27 +50,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   pagrindžia:
     - c-172317
 
-<a id="claim-t-189431"></a>
-- t-002
-  teiginys: "Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Naugardas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vikingai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo vikingų atsikraustymą į Naugardą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Vikingai keliavo į Naugardas (0.86)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172318
-
 <a id="claim-t-189434"></a>
 - t-003
   teiginys: "Narbutas šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo su Biarmijos krikščionėjimu."
@@ -90,19 +69,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172321
-
-<a id="claim-t-189435"></a>
-- t-004
-  teiginys: "Narbutas teigė, kad biarmiai nuo senų laikų turėjo savo raidyną, gerokai ankstesnį už XI amžių."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172322
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -179,7 +145,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172318
@@ -208,8 +174,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-172321
   autorius: "Teodoras Narbutas"
@@ -232,7 +196,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-172322
@@ -253,5 +217,26 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+
+- id: c-201201
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
+  citata_originali: |
+    Pagaliau atsirado tikrasis Biarmijos apaštalas -
+    šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
+    kupinas žmoniškumo ir žmogaus širdies supratimo. Davęs
+    žmonėms pažinti savo dorybes ir užsitarnavęs jų meile, nie­
+    kuo neįžeisdamas čiabuvių tautos, nors pats buvo rusas, jis
+    taip sėkmingai pakreipė dalykų eigą, kad visa senovinė Biar­
+    mija priėmė Kristaus tikėjimo šviesą be pasipriešinimo ir no­
+    riai. Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
+    biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų
+    sušvelninti rūsčią tautą, aistringai mylinčią savo tėvynę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

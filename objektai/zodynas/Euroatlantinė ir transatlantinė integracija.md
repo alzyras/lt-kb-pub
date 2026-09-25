@@ -95,7 +95,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-69164
@@ -119,7 +119,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166817
@@ -140,5 +140,5 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -81,5 +81,23 @@ Dusburgietis teigia, kad baryczowa M.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205371
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
+  citata_originali: |
+    75 Pasakodamas apie Vytenį, jis tvirtina rašąs kaip Petras Dusburgietis, senas Prūsų
+    istorijos rašytojas, bet iš tolesnio teksto matyti, kad apie Dusburgietį jis bus girdėjęs per
+    tarpininką, greičiausiai M. Mechovskį. Tai nuo Dlugošo einanti tradicija — Jakubowski J.
+    Studya..., s. 100—101; to paties, Tautiniai..., p. 80—81; plg. Baryczowa M. Augustyn
+    Rotundus..., s. 131, 133 (1936).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -66,5 +66,5 @@ Ji taip pat turėjo jai skirtus savus aukurus įvairiose vietose, upės pakran t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

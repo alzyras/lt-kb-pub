@@ -69,5 +69,5 @@ Vis dėlto šis, jau vieną kartą nustumtas Abraomo Jezofavičiaus, turėjo vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

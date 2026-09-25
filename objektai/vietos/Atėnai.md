@@ -65,26 +65,6 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   pagrindžia:
     - c-26551
 
-<a id="claim-t-188668"></a>
-- t-002
-  teiginys: "Narbutas lietuvių gėrimą ratu lygina su Antikos Circumpotatio, kurią, jo teigimu, Solonas bandė išnaikinti Atėnuose."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Atėnai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atėnai\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171557
-
 <a id="claim-t-197851"></a>
 - t-003
   teiginys: "Ta čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai kiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo toks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu sipirkti taiką, paaukojus kažkokį pajūrio kraštą."
@@ -149,7 +129,7 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171557
@@ -176,8 +156,6 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-179362
   autorius: "Teodoras Narbutas"
@@ -200,5 +178,28 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-195254
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
+  citata_originali: |
+    Iš pra­
+    džių jų ginklai įvarė gerokai baimės, bet imperatoriaus
+    sūnus Galėnas sulaikė puolimą ir sutriuškino herulus. Ta­
+    čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­
+    kiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo
+    toks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­
+    sipirkti taiką, paaukojus kažkokį pajūrio kraštą. Taip ta­
+    pęs imperijos piliečiu, Malabatas gavo teisę užimti joje
+    aukščiausias pareigas, nes netrukus imperatorius suteikė
+    jam Romos konsulo titulą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

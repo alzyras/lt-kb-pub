@@ -179,7 +179,7 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-55329
@@ -204,7 +204,7 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
@@ -232,5 +232,5 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

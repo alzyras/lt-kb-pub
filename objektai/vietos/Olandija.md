@@ -107,7 +107,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-24346
@@ -128,5 +128,5 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -137,7 +137,7 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174187
@@ -169,7 +169,7 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179339
@@ -191,5 +191,48 @@ Narbutas Ovidijaus tremties laiką siejo su jotvingių klajojimu tarp Dnestro ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-195272
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
+  citata_originali: |
+    Iš tų senovės istorikų pateiktų žinių pa­
+    aiškėja, ta tiesa, jog jotvingiai buvo sarmatą* kilmės
+    gentis, pirmiausia žemdirbiai, o tik vėliau pasirinko kla-
+    joklinj ir karingą gyvenimo būdą. Maždaug tuo metu, kai
+    Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir
+    Dunojaus prie Juodosios jūros. Paskui pamažu, valdant
+    imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo,
+    užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo
+    tenykščius gyventojus slavus, užimdami daug jų miestų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196379
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
+  citata_originali: |
+    Maždaug tuo metu, kai
+    Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir
+    Dunojaus prie Juodosios jūros. Paskui pamažu, valdant
+    imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo,
+    užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo
+    tenykščius gyventojus slavus, užimdami daug jų miestų.
+    Vėliau jie prašė padėti kaimynines germanų tautas —■ vik-
+    lofalus ir kvadus, kad šie padėtų nugalėti užkariautojus1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

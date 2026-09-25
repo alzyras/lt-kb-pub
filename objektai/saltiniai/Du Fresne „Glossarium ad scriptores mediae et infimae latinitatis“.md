@@ -57,5 +57,5 @@ Sala senovės vokiečių kalba reiškia teis mą, o Ober-Sala - tą pat, ką ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

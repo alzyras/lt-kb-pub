@@ -75,6 +75,18 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   pagrindžia:
     - c-179301
 
+<a id="claim-t-211976"></a>
+- t-211976
+  teiginys: "Lietuvos metraštis teigia, kad <40t-siais' viešpaties metais pasirodė Atila2, pra mintas Dievo Rykšte."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194171
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuolika tūkstančių su ja vykusių mergelių.'
@@ -113,7 +125,7 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178926
@@ -134,7 +146,7 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179301
@@ -160,5 +172,67 @@ Lietuvos metraštis pasakoja, kad Atila nužudė karalaitę Uršulę ir vienuoli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194171
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 38."
+  citata_originali: |
+    <40t-siais' viešpaties metais pasirodė Atila2, pra­
+    mintas Dievo Rykšte. Jis buvo kilęs nuo Jugros upės
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211976
+
+- id: c-194366
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 39"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 39."
+  citata_originali: |
+    O šis miestas buvo labai įtvirtintas
+    ir turėjo gerą romėnų kariuomenės Įgulą. Todėl Atila,
+    negalėdamas jo vienu matu įveikti17 ir nebenorėdamas
+    daugiau gaišti, traukė gilyn į Italiją, Romos linkui.
+    O kunigaikščiai ir senatoriai, kurie> buvo 18 tame mies­
+    te, regėdami tokią jo kariautojų galybę, išbėgiojo iš
+    miesto, apimti didžiausios baimės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196411
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
+  citata_originali: |
+    Tai galima pa­
+    aiškinti taip: iš istorijos žinome, tai mes vėliau paaiškin­
+    sime, kad šalia hunų būta anaiptol ne vienos lietuvių
+    genties, t. y. skiriu, hirių ir kitokių, kurie visi tų laikų
+    istorijose turėjo bendrinį litvanų vardą. Be to, istorikai,
+    tai išgirdę, prisiminė, kad jų būta Atilos vadovaujamų
+    genčių ir tautų mišinyje. Bet, kai smulkiame tautų sąva­
+    de šiam bendriniam pavadinimui neliko vietos, jis buvo
+    tarsi pamirštas, tuo tarpu herulais vadinamų hirių sąvo­
+    ka įgavo persvarą tarp kitų jiems giminingų genčių; jų
+    pavadinimas, tapęs bendrinis visiems, užgožė tą, kuris
+    liko tik gimtojoje žemėje ir ten gyvenusioms gentims.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

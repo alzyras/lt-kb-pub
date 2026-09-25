@@ -67,7 +67,7 @@ Lado, lado Saule Duok jam samcziu per gabva. A b u c h o r a i d r a u g e Lado,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-201053
@@ -87,5 +87,5 @@ Lado, lado Saule Duok jam samcziu per gabva. A b u c h o r a i d r a u g e Lado,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -91,7 +91,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175302
@@ -112,5 +112,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196743
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 264."
+  citata_originali: |
+    Rytuose ji ribojosi su Natangija ir Barta, pietuose — su
+    Galinda ir Hokerlandija, vakaruose — su Hokerlandija
+    ir Pagude, šiaurėje buvo Baltijos jūra. Šioje provincijoje
+    gyvenę žmonės laikėsi švelnių papročių, buvo vieni iš
+    labiausiai civilizuotų ir mažiausiai karingi. Derlingų
+    kraštų ir turtų viliojami kryžiuočiai anksti juos išnaikino
+    ir sugriovė daugelį praeities paminklų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

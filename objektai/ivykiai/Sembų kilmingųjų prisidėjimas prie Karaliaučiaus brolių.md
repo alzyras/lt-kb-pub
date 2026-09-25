@@ -71,5 +71,5 @@ Kai kurie sembų kilmingieji su šeimomis paliko gimtuosius namus ir prisidėjo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

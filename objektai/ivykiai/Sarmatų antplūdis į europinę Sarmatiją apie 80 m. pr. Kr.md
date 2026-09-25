@@ -73,5 +73,5 @@ Apie 80 m. pr. Kr. sarmatai kartu su kitomis Pavolgio tautomis pradėjo plūsti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

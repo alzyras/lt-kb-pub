@@ -57,6 +57,18 @@ Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiai
   pagrindžia:
     - c-174085
 
+<a id="claim-t-213841"></a>
+- t-213841
+  teiginys: "Frederikas paliko gotus ir pasitraukė pas herulus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195537
+
 ## Citatos
 
 - id: c-174085
@@ -77,5 +89,26 @@ Teodoro Narbuto pasakojime rugių vadas Frederikas paliko gotus ir su saviškiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195537
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
+  citata_originali: |
+    Teodoriko valdžia nepatenkintas
+    Tufą su visa jam patikėta kariuomene paliko jį ir vėl
+    perėjo pas Odoakrą. Taip pat ir rugių vadas Frederikas
+    paliko gotus ir su saviškiais pasitraukė pas herulus. Teo­
+    dorikas buvo apsuptas Pavijoje, Odoakrui nepalankiame
+    mieste nuo tų laikų, kai ten buvo nugalėtas Orestas; po
+    šio pralaimėjimo miestas sustiprėjo ir buvo atstatytas.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213841

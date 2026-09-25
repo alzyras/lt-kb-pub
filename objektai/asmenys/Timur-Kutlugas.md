@@ -72,5 +72,5 @@ Timuras tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo vado 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

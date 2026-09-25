@@ -63,6 +63,18 @@ Huizinga) yra labai platus objektas.
   pagrindžia:
     - c-94025
 
+<a id="claim-t-207746"></a>
+- t-207746
+  teiginys: "Johanas Huizinga rašo, kad visuomenės susiskaidymo į luomus sąvoka persmelkia viduramžių teologines ir politines pažiūras."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190553
+
 ## Citatos
 
 - id: c-94025
@@ -78,9 +90,34 @@ Huizinga) yra labai platus objektas.
     amžių rudens » Europoje (J. Huizinga) yra labai platus objektas.
   citata_rodoma: "Algirdą Stankų.\nLietuvos istorija vidurinių amžių galo, tiksliau, «vidurinių\namžių rudens » Europoje (J. Huizinga) yra labai platus objektas."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190553
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 47"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 47."
+  citata_originali: |
+    Pasižvalgę po vėlyvųjų
+    viduramžių ir ankstyvųjų Naujųjų laikų Europą, netruksime įsitikinti, kad šia prasme
+    Lietuvos Didžiosios Kunigaikštystės šaltiniai, nors ir atsiradę toli nuo pripažintų Euro-
+    pos centrų, nestokoja europietiškumo.
+    Štai paskaitykime Europos istoriografijos klasiku vadinamo Johano Huizingos tei-
+    kiamą viduramžių visuomenės vaizdinį. Hierarchinėje viduramžių sistemoje ypatingą
+    vietą jis skiria luomams ir juos aptaria, pabrėždamas, kad „visuomenės susiskaidymo į
+    luomus sąvoka kiaurai persmelkusi visas viduramžių teologines ir politines pažiūras.
+  citata_rodoma: "Štai paskaitykime Europos istoriografijos klasiku vadinamo Johano Huizingos tei-\nkiamą viduramžių visuomenės vaizdinį. Hierarchinėje viduramžių sistemoje ypatingą\nvietą jis skiria luomams ir juos aptaria, pabrėždamas, kad „visuomenės susiskaidymo į\nluomus sąvoka kiaurai persmelkusi visas viduramžių teologines ir politines pažiūras."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207746

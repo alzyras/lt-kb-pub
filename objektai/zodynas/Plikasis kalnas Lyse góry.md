@@ -94,7 +94,7 @@ Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172060
@@ -116,5 +116,51 @@ Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197921
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
+  citata_originali: |
+    Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
+    tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors
+    Plikasis kalnas. Visa, ką šiuo klausimu žinome iš istorijos, ap­
+    siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,
+    turėjo būti pramintas rusinu - miesto kolonistų, atgabentų iš
+    Lietuvos Rusios kuriant miestą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198583
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 260"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 260."
+  citata_originali: |
+    Antikos žmonės turėjo tam tikras vietas, vadintas Hypetres
+    arba Subdiales, neapsaugotas jokiomis priedangomis bei ap­
+    ivarais; tos vietos būdavo ant neapaugusių mišku kalnų, atvi­
+    rų į visas puses; ten kartais vykdavo žmonių apeigos ir pasita­
+    rimai.
+    Slavų šalyse aukų kalnai buvo gana paplitę, ypač šiaurėje;
+    juos vadino plikaisiais kalnais (Lyse gôry), kadangi buvo nu­
+    ogi, be medžių ir žalumynų . Kijevo Plikasis kalnas garsėjo 1
+    1 Tokie kalnai pačioje Europoje buvo žinomi daugeliui tautų, vi­
+    siškai neturinčių ryšio su lietuviais, pavyzdžiui: Chaumont iš chau­
+    ve - plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar­
+    džio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

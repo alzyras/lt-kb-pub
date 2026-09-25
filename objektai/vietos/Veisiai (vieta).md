@@ -72,5 +72,5 @@ Nalšios kunigaikštystėje Pelius savo pilyje, vadintoje Veisiais, kėlė dukte
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

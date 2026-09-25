@@ -89,6 +89,18 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   pagrindžia:
     - c-76013
 
+<a id="claim-t-207767"></a>
+- t-207767
+  teiginys: "Lietuvos Didžiojoje Kunigaikštystėje XVI a. pašauktinė kariuomenė buvo susieta su visuotiniu bajorų šaukimu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190531
+
 ## Citatos
 
 - id: c-76010
@@ -117,7 +129,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-76011
@@ -142,7 +154,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-76013
@@ -169,5 +181,26 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190531
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 162"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 162."
+  citata_originali: |
+    Organizacine
+    prasme Lietuvos Didžiojoje Kunigaikštystėje XVI a. nuolatinės kariuomenės nebuvo,
+    kilus karui būdavo skelbiamas visuotinis bajorų šaukimas ir samdomi algininkai; jie
+    sudarydavo tik dalį kariuomenės. Žemės arba karo prievolė tebebuvo pagrindinė bajo-
+    rijos prievolė valstybei. Ji buvo reglamentuota teisės aktais, seimo ir valdovo normaty-
+    viniais dokumentais. Tačiau pašauktinė kariuomenė buvo problemiškas organizmas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207767

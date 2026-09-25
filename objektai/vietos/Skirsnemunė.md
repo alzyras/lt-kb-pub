@@ -150,6 +150,19 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   pagrindžia:
     - c-184456
 
+<a id="claim-t-209365"></a>
+- t-209365
+  teiginys: "Skirsnemunės klebonas K. Baracevičius pasižadėjo savoje parapijoje paskelbti blaivybę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191976
+
 ## Citatos
 
 - id: c-32422
@@ -170,7 +183,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-43853
@@ -195,7 +208,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-77001
@@ -221,7 +234,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-77004
@@ -243,7 +256,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-167766
@@ -264,7 +277,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184456
@@ -288,8 +301,33 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-191976
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 62"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 62."
+  citata_originali: |
+    NUo 1856 m. domėjosi, kaip blaivybės brolijos veikia Lenkijos
+    Karalystėje11. Tad atsitiktinis vienos parapijos klebono užklydimas į
+    Seinus negalėjo būti nei naujienų Šaltinis, nei pačios blaivybės brolijos
+    idėjų plitimo Lietuvoje pradžia. Anot vyskupo, gerti Užnemunės
+    lietuvių pavyzdžiu žemaičiai nustoję patys, o tai pastebėjęs uolus
+    Jurbarko klebonas M. Kirvelis "prikalbėjo savo parapiją visiškai
+    išsižadėti degtinės (1858 m. rugpjūčio 15 d.)"12 Be to, kun. M. Kirvelis
+    gavo Gaurės klebono F. Jakutavičiaus ir Skirsnemunės klebono K.
+    Baracevičiaus pasižadėjimą, kad savose parapijose paskelbsią blaivybę.
+  citata_rodoma: "Be to, kun. M. Kirvelis \ngavo Gaurės klebono F. Jakutavičiaus ir Skirsnemunės klebono K. \nBaracevičiaus pasižadėjimą, kad savose parapijose paskelbsią blaivybę."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209365
 
 ## Ryšiai
 - Puolė Skirsnemunę: [[objektai/grupes/Žemaičiai]]

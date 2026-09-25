@@ -64,6 +64,18 @@ Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalė
   pagrindžia:
     - c-174345
 
+<a id="claim-t-213118"></a>
+- t-213118
+  teiginys: "Po šešerių metų nuo 1055 metų Sekalas užpuolė rusų kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį grobį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195237
+
 ## Citatos
 
 - id: c-174345
@@ -87,5 +99,29 @@ Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195237
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
+  citata_originali: |
+    98
+    Poloviečių santykiai su rusais klostėsi nedraugiškai
+    nuo 1055 metų, kai tuometinis poloviečių vadas Balušas
+    atvirai kovojo su Rusia, bet netrukus po nesėkmingų kau­
+    tynių sudarė paliaubas su kunigaikščiu Vsevolodu. Po
+    šešerių metų antras vadas, vardu Sekalas, užpuolė rusų
+    kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį gro­
+    bį. Nuo tų laikų sėkmės paskatintos poloviečių ordos,
+    visuomet būdamos stipresnės ir pridarydamos daug žalos,
+    nesiliovė puldinėjusios pietinius Rusios kraštus.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213118

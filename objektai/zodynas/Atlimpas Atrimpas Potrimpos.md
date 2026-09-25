@@ -48,24 +48,6 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
   pagrindžia:
     - c-175116
 
-<a id="claim-t-192305"></a>
-- t-002
-  teiginys: "Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą, kuriame buvo laikomas vandens žaltys."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Atrimpo vandens indas arba urna su žalčiu: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Atlimpas Atrimpas Potrimpos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Atrimpo vandens indas arba urna su žalčiu: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atlimpas Atrimpas Potrimpos\" parinktas kaip owner_note_path. Targetas \"Atrimpo vandens indas arba urna su žalčiu\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-175115
-
 <a id="claim-t-192306"></a>
 - t-003
   teiginys: "Narbutas nurodė: Jucevičiaus nuomone, prie Palangos gyvenantys lietuvių žvejai Atrimpą vadino Dzivsvifs."
@@ -106,8 +88,6 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-175116
   autorius: "Teodoras Narbutas"
@@ -132,6 +112,6 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003

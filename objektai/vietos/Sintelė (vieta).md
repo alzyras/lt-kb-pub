@@ -79,5 +79,5 @@ Teodoro Narbuto aprašyme su Goldingą apgulusia įgula susijungę kariai netik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

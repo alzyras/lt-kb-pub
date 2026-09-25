@@ -76,5 +76,5 @@ Nar butas taip pat dalyvavo 1808-1809 m. Rusijos-Švedijos kare.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -84,5 +84,5 @@ Sukilusieji su savo lyderiu Jeronimu Plečkaičiu priešakyje pasitraukė į už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

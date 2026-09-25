@@ -77,5 +77,5 @@ canonical_biography: '1780 metais tokio varpo gabalą radau sename ap kase, arba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

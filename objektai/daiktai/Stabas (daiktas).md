@@ -90,7 +90,7 @@ Seniausios mados stabai buvo nedailūs medžio gabalai, keisto pavidalo akmenys 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-200318
@@ -111,5 +111,5 @@ Seniausios mados stabai buvo nedailūs medžio gabalai, keisto pavidalo akmenys 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

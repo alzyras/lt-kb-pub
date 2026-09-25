@@ -150,6 +150,18 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   pagrindžia:
     - c-175430
 
+<a id="claim-t-207901"></a>
+- t-207901
+  teiginys: "Florencijos kunigaikščiui buvo pažadėta atsiųsti liliputą ir liliputę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190393
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams.'
@@ -210,7 +222,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -232,7 +244,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175430
@@ -262,6 +274,29 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
+
+- id: c-190393
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 221"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 221."
+  citata_originali: |
+    Užsimena kunigaikštienei, kad kažką pa-
+    našaus jau yra tekę išgirsti Milane, aiškina, kad jaunuoliai patys dar nemoka gyventi, ir
+    draugus, ir tarnus tinkamus pasirinkti, lengvai pažadus dalija. Praneša ir apie vieną
+    nerimą jam sukėlusi pažadą Florencijos kunigaikščiui, prašo pagalvoti, kaip jį būtų
+    galima tesėti, nes, tokiems dideliems ponams pažadėjus, negalima pažado pamiršti. O
+    globotinis jaunasis Slucko kunigaikštis pažadėjo Florencijos kunigaikščiui atsiųsti iš
+    Lenkijos liliputą ir liliputę.
+  citata_rodoma: "O\nglobotinis jaunasis Slucko kunigaikštis pažadėjo Florencijos kunigaikščiui atsiųsti iš\nLenkijos liliputą ir liliputę."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207901

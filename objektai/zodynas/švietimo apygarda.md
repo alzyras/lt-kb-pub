@@ -75,5 +75,5 @@ Naujasis caras Aleksandras I (1801—1825 m) 1802 m. Rusijoje įsteigė švietim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

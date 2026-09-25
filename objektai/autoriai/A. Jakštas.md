@@ -82,5 +82,5 @@ Jakštas „Ryto” Nr. 25, 1930 m. rašo:...
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

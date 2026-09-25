@@ -156,7 +156,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -182,6 +182,66 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
+
+- id: c-202622
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 75-76"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75-76."
+  citata_originali: |
+    Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
+
+      Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų
+    ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė,
+    kamuodamas grobstymais bei gaisrais ir nuleisdamas netikėliams daug kraujo. Smarkiai
+    užpuolė jų pilį, pastatytą prie Mukeros upės235, bei visas pilaites [omnia propugnacula],
+
+      233  D.— castrum de Redino, Jer. — burc Reddin. Redinas, kitaip Rudinas (dab.
+    Radzyń Chełmiński) — per 18 km į pietryčius nuo Grudziondzo (GAO, p. 145; SZCh, p.
+    104—106). Vėliau (1290—1300 m.) čia pastatyta galinga mūrinė Ordino pilis su dviem
+    papiliais.
+      234 Atvyko į Prūsiją ir niokojo Pamedę 1236 m. (Ewald A. L., Die Eroberung..., 1, p.
+    190—192).
+      235 D.— circa fluvium Mockeram, Jer.— vlîz [...J Muckir. Plg. 1437 m. Mucker See
+    (GAO, p. 100; į pietus nuo dab. Mrongovo, dab. jezioro Mokre); be to, plg. lie. Mukriškė
+
+    kurias jie turėjo toje vietoje, kuri vadinama Stuma, prie Postelino236, prie Rizenburgo bei
+    Rizenkircheno237, prie ežero, vardu Drūsinė238, bei Vildenbergo239, žudydami netikėlius ir
+    imdami juos nelaisvėn, ir ją, pavertę pelenais, sulygino su žeme240. Taip smarkiai ir taip
+    drąsiai šis markgrafas užgriuvo šias netikėlių gentis nelyginant liūtas, kuris nesibijo bet
+    kokio susirėmimo, kad niekas to nestengtų apsakyti nei žodžiu, nei raštu. Taip žiauriai jis
+    kariavo, kad jie pasidavė tikėjimui bei broliams. Ir kiti naujakrikščiai vėliau buvo valdomi,
+    remiantis ta pačia sutartimi bei laisvėmis, kurios tuo metu šiems buvo suteiktos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204880
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
+  citata_originali: |
+    Apie Meiseno markgrafo atvykimą
+
+      Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas,
+    Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su
+    dideliais turtais. Šis vyras iš visos širdies ir iš visų jėgų ryžosi naikinti netikėlius ir plėsti
+    krikščionių žemes.
+
+
+
+
+                 14.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

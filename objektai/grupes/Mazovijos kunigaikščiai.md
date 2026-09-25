@@ -239,7 +239,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82714
@@ -263,7 +263,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-82715
@@ -297,7 +297,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-170670
@@ -318,7 +318,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175227
@@ -346,7 +346,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-175228
@@ -373,7 +373,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188809
@@ -391,7 +391,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-188810
@@ -415,8 +415,81 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-194168
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 281"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 281."
+  citata_originali: |
+    * Mykolo Žygimantaičlo Ir Palenkės (Drohičino) žemės klausi­
+    mas Kazimiero valdymo pradžioje BK supainiotas,
+    Mazovijos kunigaikštis Boleslovas IV (1421—1454). Mykolo 2y-
+    gimantalčio antrosios žmonos Eulemijos (Ofkos) brolis, užėmė Dro­
+    hičino žemę Palenkėję su Drohičino, Bielsko ir Melniko miestais
+    tuoj po Žygimanto Kęstutaičlo nužudymo, t. y. 1440 m. balandžio
+    ar gegužės mėn., ir laikė jas užėmęs bent 4 metus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196001
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
+  citata_originali: |
+    Dėl to jis pradėjo derėtis su Kujavijos Kazimie­
+    ru, pagaliau po ilgo delsimo sudarė taikos sutartį su
+    Mazovijos Ziemovitu. Sutartyje buvo rašoma, kad kry­
+    žiuočiai atiduoda šeštadalį jotvingių krašto, o kunigaikš­
+    tis savo ruožtu įsipareigoja paremti Ordiną prieš krikš­
+    čionybės priešus. Jei šie priešai pultų Mazovijos kraštus,
+    riteriai taip pat privalo pagelbėti. Tuo atveju, jei iš sve­
+    timos šalies būtų surengtas koks ¡priešiškas žygis į Jot-
+    vingijos kraštą, jos gynyba turi ¡būti bendras Ordino ir
+    kunigaikščio- reikalas, o jei kuri nors pakrikštyta gentis
+    sukiltų prieš kryžiuočius, kunigaikštis turi skubėti jiems į
+    ¡pagalbą. Si sutartis buvo pasirašyta Trošine 1260 metų
+    birželio 15 dieną1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196340
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  citata_originali: |
+    Tad Danielius, palikęs Neb-
+    rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
+    jotvingiam sK itais metais jotvingių grėsmė iškilo Ru­
+    siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
+    kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
+    turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
+    121
+    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
+    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
+    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
+    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
+    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
+    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
+    žemių riba.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/grupes/Kryžiuočių ordinas]]

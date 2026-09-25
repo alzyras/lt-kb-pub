@@ -88,7 +88,7 @@ canonical_biography: 1858 metais Teodoras Narbutas „Teka Wilenska“ puslapiuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-198048
@@ -108,5 +108,5 @@ canonical_biography: 1858 metais Teodoras Narbutas „Teka Wilenska“ puslapiuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -104,7 +104,7 @@ Prie stoties nebuvo jokio vežimo, jokio automobiliaūs.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-196838
@@ -122,7 +122,7 @@ Prie stoties nebuvo jokio vežimo, jokio automobiliaūs.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-204083
@@ -140,5 +140,5 @@ Prie stoties nebuvo jokio vežimo, jokio automobiliaūs.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

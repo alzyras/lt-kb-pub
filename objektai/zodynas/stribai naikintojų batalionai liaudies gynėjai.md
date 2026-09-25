@@ -100,7 +100,7 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166862
@@ -129,5 +129,5 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

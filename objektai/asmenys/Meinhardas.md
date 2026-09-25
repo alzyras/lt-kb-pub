@@ -219,7 +219,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169429
@@ -254,7 +254,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -302,7 +302,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -330,7 +330,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188028
@@ -348,7 +348,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-188059
@@ -371,7 +371,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-188132
@@ -390,5 +390,5 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009

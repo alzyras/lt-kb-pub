@@ -72,5 +72,5 @@ Jordano aprašyme agazirai nesėja javų ir gyvena iš gyvulių auginimo bei med
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

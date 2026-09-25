@@ -52,6 +52,19 @@ To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmer
   pagrindžia:
     - c-185062
 
+<a id="claim-t-208530"></a>
+- t-208530
+  teiginys: "Anykščių miestelio gyventojai pastatė kryžius su atitinkamais užrašais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:46Z"
+  pagrindžia:
+    - c-191150
+
 ## Citatos
 
 - id: c-185062
@@ -72,5 +85,26 @@ To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-191150
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 135"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 135."
+  citata_originali: |
+    Toks boikotas priversdavo, ypač kaimo smukles, likvi­
+    duotis ‘.
+    Blaivybės sąjūdžiui įamžinti tikintieji statė kryžius ir
+    paminklus. Štai anykštėnai Anykščių miestelyje pastatė
+    kryžius su atitinkamais užrašais1 2.
+  citata_rodoma: "Štai anykštėnai Anykščių miestelyje pastatė \nkryžius su atitinkamais užrašais1 2."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208530

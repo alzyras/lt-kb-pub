@@ -72,5 +72,5 @@ Musteikis. Musteikio vadovaujama 3-ioji divizija (3-iasis, 6-asis ir 9-asis pulk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

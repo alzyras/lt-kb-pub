@@ -59,5 +59,5 @@ Narbutas pradėjo laišką bičiuliui ir mokytojui Ignui Onacevičiui.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

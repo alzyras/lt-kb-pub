@@ -87,5 +87,5 @@ Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

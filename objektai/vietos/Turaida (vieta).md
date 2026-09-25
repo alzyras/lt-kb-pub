@@ -163,7 +163,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187859
@@ -182,7 +182,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-187876
@@ -205,7 +205,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-187923
@@ -225,7 +225,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-187998
@@ -247,7 +247,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188120
@@ -266,7 +266,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188163
@@ -286,5 +286,5 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

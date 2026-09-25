@@ -101,7 +101,7 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173376
@@ -122,7 +122,7 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179145
@@ -147,5 +147,70 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-199703
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
+  citata_originali: |
+    Duona nusu dieniszka duok mums szen-
+    diena, atlejsk mus musu kalties, kajp mes atlejdiam sawiemus
+    kaltemus; Ne duok mus west i pikta pagundyma, bet gelbek mus
+    nu pikto.
+    Lietuvių kalba, šiandien vartojama Žemaitijoje; imta iš
+    Ksavero Bogušo (p. 109):
+    Tawié musu, kuris esi Dangosié; szweskis wardas tawa; atèik
+    karaliste tawa; buk walia tawa, keip dangoj, teip ir ant žeme.
+    Donu musu wisudienu dok mums szinderi, ir atlajsk mus musu
+    kalties, keip ir mes atlaudziem sawiemis kahiemìs; ir ne wesk
+    mus in pagundima, bet ižgialbek mus no pikta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201019
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
+  citata_originali: |
+    30
+    30
+    Šių eilių proga negaliu neprisiminti tokio atsitikimo. Kai pir­
+    mą sykį paėmiau į rankas švento atminimo Ksavero Bogušo studiją,
+    šios eilės smarkiai patraukė mano dėmesį. Skaičiau jas savo tarnams
+    lietuviams, jie klausėsi su dideliu malonumu, sakydami, kad, jų iš­
+    manymu, harmoningas žodžių skambesys perteiktas nuostabiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201508
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
+  citata_originali: |
+    Bandymas kurti gryna lietuvių kalba:
+    Ovidijaus „Metamorfozių“ fragmentas (II knygos 1-30 ei­
+    lutės), kurį išvertė Ksaveras Bogušas, tiksliai perteikdamas ori­
+    ginalo eilių metrą. Čia ir skambumas, ilgumas, ir tas kerintis
+    kalbos grožis, kurio nesugebėtų pamėgdžioti jokia iš dabar gy­
+    vuojančių Europos kalbų . 30
+    30
+    Šių eilių proga negaliu neprisiminti tokio atsitikimo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

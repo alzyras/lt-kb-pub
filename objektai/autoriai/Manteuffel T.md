@@ -72,5 +72,24 @@ Dusburgietis teigia, kad istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202613
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
+  citata_originali: |
+    Istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės
+    pakrantės ir Riugeno (Rugijos) salos gyventojai (Manteuffel T., Papiestwo.., p. 122—
+    123; Łowmiański H., Początki Polski, t. 5, p. 148; Ловмянский Г., Руссы и руги, с. 51;
+    Вилинбахов В. Б., Балтийские... с, 184; Кузьмин А. Г, „Варяги”..., с. 39; to paties,
+    Об этнической природе.., с. 54—83,— pastarajame darbe iškelta hipotezė, kad pietinio
+    Baltijos pajūrio ir Riugeno rutėnai — tai venedai, slavizuoti keltai).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

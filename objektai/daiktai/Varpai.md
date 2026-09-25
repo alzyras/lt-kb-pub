@@ -77,22 +77,6 @@ Nenurodyta
   pagrindžia:
     - c-14341
 
-<a id="claim-t-89438"></a>
-- t-002
-  teiginys: "Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Varpai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Elbingas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varpai\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-85396
-
 <a id="claim-t-89440"></a>
 - t-003
   teiginys: "Nuo Vytauto laikų Lietuvoje buvo liejami varpai."
@@ -110,6 +94,37 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-22310
+
+<a id="claim-t-89439"></a>
+- t-89439
+  teiginys: "1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kalvarija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Varpai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kalvarija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varpai\" parinktas kaip owner_note_path. Targetas \"Kalvarija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1958 m.; įvykio data: 1962 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė nutrūkusi ir perkrauta pašalinėmis detalėmis."
+  pagrindžia:
+    - c-85397
+
+<a id="claim-t-209435"></a>
+- t-209435
+  teiginys: "Nurodoma skambinti varpais giedant giesmę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192055
 
 ## Citatos
 
@@ -136,7 +151,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-22310
@@ -162,7 +177,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-85396
@@ -184,8 +199,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-85397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -211,3 +224,30 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-89439
+
+- id: c-192055
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 28"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 28."
+  citata_originali: |
+    kaip bučiau laimingu, kad tas pirmas piemeniškas balsas mano, pakliūdamas į ausis avelių ma­
+    no, pakliūtų vienkart į širdis ir protą jūsų, ant galo atneštų tuos blagus vaisius, kurių, išduodamas tą
+    gromatą, meldžiau, meldžiu ir melsiu Viešpaties per kiauras dienas gyvenimo mano.
+    Įsakom mūsų Telšių konsistoriui, kad šią gromatą mūsų drukavotuose išrašuose per kunigus džeko-
+    nus pasiųstų visoms parakvijos bažnyčioms ir lieptų, kad kiekvienas klebonas pirmoj po atėjimo to rašto
+    nedėlioj perskaitytų žmonėms kozelnyčioj stojęs tokiu liežuviu, kokį moka klausytojai. Ant galo norim,
+    kad tą pat dieną po visam atgiedotų giesmę Tave Dievą garbinam, o tai dėl to, kad visi padėkavotumėt
+    Dievui už neapleidimą vyskupystės mūsų ir išmelstumėt visokio gero Tėvui Šventajam Pijui devintam
+    vienkart su Šviesiausiu Ponu mūsų MIKALOJŲ I. Giedant giesmę visais varpais pridera skambinti.
+  citata_rodoma: "vienkart su Šviesiausiu Ponu mūsų MIKALOJŲ I. Giedant giesmę visais varpais pridera skambinti."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209435

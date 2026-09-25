@@ -84,5 +84,5 @@ Kai su탑inojo, kad kry탑iuo훾i킬 pasiuntinys, Tomo komt큰ras, atvyko pas Jogail�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrind탑ia:
     - t-001

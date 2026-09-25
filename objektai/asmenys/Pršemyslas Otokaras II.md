@@ -85,7 +85,7 @@ canonical_biography: "1255 m. Ordinui į pagalbą atvyko Pršemyslas Otokaras II
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

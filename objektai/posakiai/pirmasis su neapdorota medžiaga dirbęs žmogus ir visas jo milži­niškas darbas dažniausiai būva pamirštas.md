@@ -57,5 +57,5 @@ Vadinasi, pirmasis su neapdorota medžiaga dirbęs žmogus ir visas jo milži ni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -79,5 +79,5 @@ canonical_biography: "Šimėnui pasitraukti į pogrindį, pralaukti porą = dien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

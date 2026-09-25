@@ -71,5 +71,5 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

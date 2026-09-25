@@ -75,5 +75,5 @@ Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

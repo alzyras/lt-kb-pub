@@ -71,5 +71,5 @@ Man pavyko rasti ir monetą su įrašytu pava dinimu Jūrijos, arba šio krašto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

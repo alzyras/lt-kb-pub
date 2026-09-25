@@ -99,7 +99,6 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
   pagrindžia:
     - c-192099
 
-
 ## Citatos
 
 - id: c-191217
@@ -122,7 +121,7 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-191219
@@ -141,7 +140,7 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-192099
@@ -162,5 +161,5 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

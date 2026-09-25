@@ -83,5 +83,5 @@ Neturime Mozūrijos pa rašytos istorijos, neseniai dar buvo kalbėta apie to kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

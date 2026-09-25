@@ -87,7 +87,7 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-61618
@@ -103,5 +103,35 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-202856
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 262."
+  citata_originali: |
+    Dlugossii I. Annales seu cronicae incliti regni Poloniae.— Varsaviae, lib. I—II, 1964;
+    lib. V et VI, 1973; lib. VII et VIII, 1975; lib. IX, 1978; Opera omnia, t. 13, 1877.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203349
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 262."
+  citata_originali: |
+    Długosz J. Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks. 1—2,
+    1961; ks. 5 6, 1973; ks. 7 8, 1974.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

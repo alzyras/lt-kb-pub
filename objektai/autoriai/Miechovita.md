@@ -128,7 +128,7 @@ canonical_biography: "22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s kl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171340
@@ -155,5 +155,31 @@ canonical_biography: "22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s kl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197841
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
+  citata_originali: |
+    Tas pats pastebima lietuvių mitologijoje; šventi buvo ištisi
+    miško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo­
+    met prie upių, dažniausiai dviejų didesnių upių santakoje.
+    Miškelių garbinimas buvo taip sureikšmintas, kad juose
+    jokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­
+    čius, bet jie dar buvo persekiojamų žmonių prieglobstis; pasi­
+    slėpę toje šventoje vietoje, jie išsivaduodavo nuo persekioji­
+    mo, kadangi visos ten esančios būtybės, taip pat medžiai ir
+    augalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­
+    čiamais. Miechovita3 sako: „Prūsų tauta buvo taip sugedusi,
+    kad ne tik miškai, bet ir juose gyvenantys paukščiai ir žvėrys
+    buvo laikomi šventais, o tų žvėrių užmušėjams velnių galybė
+    susukdavo kojas ir rankas“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

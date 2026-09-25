@@ -105,5 +105,5 @@ Vėliau atsirado žmogus, vertas būti apaštalu, vardu — Meinhardas, Au gusti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

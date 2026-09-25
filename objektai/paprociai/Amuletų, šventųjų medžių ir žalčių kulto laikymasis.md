@@ -82,5 +82,5 @@ Amuletai būdavo kabinami ant namų sienų ir dvivėrių durų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

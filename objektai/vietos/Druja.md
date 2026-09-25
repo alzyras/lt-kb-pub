@@ -150,6 +150,31 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   pagrindžia:
     - c-184237
 
+<a id="claim-t-218062"></a>
+- t-218062
+  teiginys: "T. Narbuto pasakojime Drujos apylinkėje rastos trys tarpusavyje sujungtos žalvarinės statulėlės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
+  pagrindžia:
+    - c-197809
+
+<a id="claim-t-218290"></a>
+- t-218290
+  teiginys: "1811 metais Drujos apylinkėse nusausinto ežero dugne buvo rastos trys žalvarinės statulėlės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198181
+
 ## Citatos
 
 - id: c-79673
@@ -188,7 +213,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -218,7 +243,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -251,9 +276,53 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
     nigų dekanų rupesčiu apdovanoti medaliais ir or­
     deriais.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-197809
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 29-30"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 29-30."
+  citata_originali: |
+    Pavyzdžiui, dievų Kabirų (su pomirtiniu pasauliu susiju­
+    sios paslaptingosios dievų trijulės) lietuvių panteone T. Nar­
+    butas ieško pastebėjęs, kad mitai apie juos yra žinomi dauge­
+    liui pasaulio tautų. O kad ir lietuviai tuos dievus turėję, ro­
+    dančios Drujos apylinkėje rastos trys tarpusavy sujungtos žal-
+    30
+
+    varinės statulėlės; buvęs net lietuviškas užrašas Triopa, patvir­
+    tinantis, kad tai panaši lietuviška minėtų dievų trijulė
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218062
+
+- id: c-198181
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
+  citata_originali: |
+    1811 me­
+    tais Drujos apylinkėse nusausinto ežero dugne rastos trys žal­
+    varinės statulėlės: jos buvo apie 18 colių aukščio, įskaitant pa­
+    grindą - 2 colių storumo trikampę žalvarinę lentą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218290

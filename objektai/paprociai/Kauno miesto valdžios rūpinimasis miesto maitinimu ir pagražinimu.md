@@ -72,5 +72,5 @@ Miesto dūmoje randasi 4 lietuviai iš 8 narių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

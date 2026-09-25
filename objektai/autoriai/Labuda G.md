@@ -126,17 +126,22 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   pagrindžia:
     - c-65348
 
-<a id="claim-t-197004"></a>
-- t-005
-  teiginys: "Labuda G taip nusiaubė šią [žemę], kad kitais metais ji vėl pasidavė tikėjimui bei broliams."
-  atnaujinta: "2026-07-12 22:31"
+<a id="claim-t-220902"></a>
+- t-220902
+  teiginys: "G. Labuda Dirsovės vardą laikė prūsišku."
+  atnaujinta: "2026-09-20 17:48"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Nogatas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Labuda G: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Nogatas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Labuda G\" parinktas kaip owner_note_path. Targetas \"Nogatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-65349
+    - c-203820
+    - c-204038
 
 ## Citatos
 
@@ -159,7 +164,7 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-65347
@@ -177,7 +182,7 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-65348
@@ -200,7 +205,7 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-65349
@@ -224,8 +229,6 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-65351
   autorius: "Petras Dusburgietis"
@@ -244,5 +247,88 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-203468
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
+  citata_originali: |
+    Apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo
+
+      Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo
+      229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo
+    1202 m., Krokuvos kunigaikštis 1228— 1229 ir nuo 1232 m., Opolės kunigaikštis nuo
+    1229 m., Didžiosios Lenkijos kunigaikštis nuo 1234 m. Pasak Dusburgiečio, Henrikas
+    Barzdotasis 1233 m. dalyvavo žygyje  į Prūsiją, tačiau kunigaikščio dokumentai kalba
+    apie jo buvimą Prūsijoje 1235 m. (Labuda G., Stanowisko..., p. 311—312).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203820
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
+  citata_originali: |
+    XIII a. šaltiniuose Vitlando (Withlandia)
+    vardas figūruoja šalia Prūsijos ir Sembos (SRP, 1, p. 241). Manoma, kad Vitlandu vadinta
+    ne tik Aismarių nerija, bet ir kontinentinė Pagudė bei Notanga, pavadinimas kildinamas
+    iš baltų vidus, plg. latvių Vidzeme (Źródła skandynawskie.., p. 107—109 — Labuda G.).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220902
+
+- id: c-204038
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
+  citata_originali: |
+    Vis dėlto
+    broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių,
+    sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę. Kai šitai buvo padaryta,
+    minėtasis kunigaikštis, eidamas garbingomis savo tėvo pėdomis, nelyginant bebaimis
+    liūtas, kurio nebaugina jokios kovos, patraukė su savo kariuomene į priekį, nužygiuodamas
+    Notangos žeme ligi Gerkynės prekyvietės408, kur išbuvo tris dienas ir naktis, kiekvieną
+    dieną valydamas Notangą gaisrais bei plėšimais Jis  taip nusiaubė šią [žemę], kad kitais
+    metais ji vėl pasidavė tikėjimui bei broliams. Šitai padaręs, minėtasis markos valdovas
+    sugrįžo į savo tėvynę, tiesa, patyręs ir nuostolių, nes per pirmąjį pilaitės antpuolį žuvo
+    150 žmonių, o niokojant Notangos žemę, dar 50 vyrų krito nuo prūsų rankos.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220902
+
+- id: c-204982
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 46"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 46."
+  citata_originali: |
+    Imperatorius, naudodamasis „teise” lemti pagoniškųjų žemių
+    likimą, ne tik patvirtino Konrado dovanojimus, bet iš anksto atidavė Ordinui prūsus, dėl
+    kurių žemių kryžiuočiai vėliau vedė diplomatinę bei ginklo kovą (plačiau žr. Labuda G.
+    Stosunek prawnopubliczny..., p. 87—124; to paties. Stanowisko ziemi chełmińskiej..., p.
+    280—337; HP, 1, 1, p. 435—440, PKD, p. 31—36; Zientara B. Sprawy pruskie..., p. 37,
+    39).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

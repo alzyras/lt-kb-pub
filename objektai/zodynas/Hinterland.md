@@ -65,6 +65,21 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
   pagrindžia:
     - c-175072
 
+<a id="claim-t-214337"></a>
+- t-214337
+  teiginys: "Narbutas Natangijos pavadinimą aiškina vartodamas terminą `Hinterland`."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Natangija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hinterland: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Natangija: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hinterland\" parinktas kaip owner_note_path. Targetas \"Natangija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Citatos
 
 - id: c-175072
@@ -84,5 +99,5 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

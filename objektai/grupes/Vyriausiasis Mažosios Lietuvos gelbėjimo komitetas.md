@@ -62,5 +62,5 @@ Mažosios Lietuvos gelbėjimo komitetas ir jo bendradarbiai, 1923 sausio 9 d., V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

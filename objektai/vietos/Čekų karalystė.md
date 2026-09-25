@@ -64,5 +64,5 @@ Taip pat ir Čekų karalystė didžią garbę teikė šlovingajam valdovui.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

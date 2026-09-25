@@ -54,5 +54,5 @@ Ruzgo GAMTOS METODIKOS PAGRINDAI. Gamtos moky­ tojas d-ras C.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

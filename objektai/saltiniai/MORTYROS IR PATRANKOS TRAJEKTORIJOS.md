@@ -58,5 +58,5 @@ p. 119, „MORTYROS IR PATRANKOS TRAJEKTORIJOS“, Andžej Geglis, dail.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -78,5 +78,5 @@ Dusburgietis teigia, kad „Senųjų Prūsijos analų“ pagrindu, papildant juo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

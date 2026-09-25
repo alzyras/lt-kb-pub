@@ -76,5 +76,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194182
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 233"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 233."
+  citata_originali: |
+    Ant šio kalno XII a, buvo įkurtas benediktinų
+    vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius
+    su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu
+    sidabriniuose apsoduose. Viduramžiais Šventojo Kryžiaus bažnyčia
+    buvo viena iš labiausiai maldininkų lankomų Lenkijos vietų. Žal­
+    girio mūšio išvakarėse čia lankėsi ir Jogaila.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

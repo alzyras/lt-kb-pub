@@ -68,5 +68,5 @@ Narbutas teigia, kad Livonijos riteriai klasta arba pasaloje sugavo Dangerutį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

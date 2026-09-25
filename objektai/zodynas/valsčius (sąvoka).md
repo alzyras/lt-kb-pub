@@ -68,18 +68,6 @@ Kiekviena provincija dalijosi j mažesnes dalis, atskirus valsčius, teritorijas
   pagrindžia:
     - c-206348
 
-<a id="claim-t-225100"></a>
-- t-225100
-  teiginys: "Sklunijos valsčiaus vyrai grąžino Karaliaučiaus broliams pagrobtus arklius."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-206291
-
 ## Citatos
 
 - id: c-195384
@@ -135,8 +123,6 @@ Kiekviena provincija dalijosi j mažesnes dalis, atskirus valsčius, teritorijas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225100
 
 - id: c-206348
   autorius: "Petras Dusburgietis"
@@ -157,4 +143,3 @@ Kiekviena provincija dalijosi j mažesnes dalis, atskirus valsčius, teritorijas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-

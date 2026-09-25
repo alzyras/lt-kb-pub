@@ -76,5 +76,5 @@ Kadangi anie tolimi nuo rytų Europos autoriai beveik visai nieko nepasako apie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

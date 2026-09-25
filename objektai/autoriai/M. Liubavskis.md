@@ -85,5 +85,5 @@ M. Liubavskio nuomone, 1445–1446 m. suvažiavimas žymėjo naują Lietuvos Sei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

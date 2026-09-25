@@ -55,6 +55,18 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
   pagrindžia:
     - c-46399
 
+<a id="claim-t-225899"></a>
+- t-225899
+  teiginys: "Sėliai buvo sena baltų gentis, viduramžiais išnykusi ir palikusi archeologinių objektų, rašytinių šaltinių paminėjimų bei pėdsakų vietovardžiuose."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  pagrindžia:
+    - c-206415
+
 ## Citatos
 
 - id: c-46399
@@ -81,8 +93,20 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206415
+  autorius: "Gintautas Zabiela"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio valsčiaus archeologija"
+  puslapiai: "p. 126 (PDF 127)"
+  indeksas: "Gintautas Zabiela, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio valsčiaus archeologija, p. 126 (PDF 127)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225899
 
 ## Ryšiai
 - Sėliai gyveno [[objektai/vietos/Dauguva]]

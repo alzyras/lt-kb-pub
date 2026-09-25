@@ -71,5 +71,5 @@ Panašių vietovių yra Lietuvoje, Žemaitijoje ir Livoni joje - Rykantai (Rykon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

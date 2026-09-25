@@ -93,5 +93,5 @@ Karaliaučiaus komtūras su sembų kariuomene netikėtai įsiveržė į Vonsdorf
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

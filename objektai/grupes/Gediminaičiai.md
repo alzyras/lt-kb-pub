@@ -81,7 +81,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176216
@@ -103,5 +103,5 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

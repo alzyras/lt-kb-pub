@@ -80,5 +80,5 @@ Vertimas buvo parengtas dar nepasirodžius lenkiškajam antrojo tomo leidimui.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

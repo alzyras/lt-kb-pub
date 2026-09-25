@@ -141,7 +141,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173926
@@ -168,6 +168,30 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
+
+- id: c-194611
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 325"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 325."
+  citata_originali: |
+    Nedaug herulų, gal išlikusių kažkur Rytų valsty­
+    bės provincijose po to, kai prieš keturiasdešimt metų bu­
+    vo išblaškyti, liko šiose vietose gyventi1.
+    332
+    Tačiau reikšmingesnis už kitus herulų būrius buvo
+    tas, kuris po patirto pralaimėjimo prieš longobardus at­
+    siskyrė prie Dunojaus 493 metų pabaigoje ir skyrėsi nuo
+    kito, kuris, tai jau rašėme anksčiau (§30), patraukė prie
+    šios upės žemupio. Būrys, eidamas priešinga kryptimi,
+    dar syki susidūrė su kitu longobardų būriu, ketinusiu
+    juos apiplėšti, ir jam pralaimėjo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

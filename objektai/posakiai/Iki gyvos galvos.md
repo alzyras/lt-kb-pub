@@ -114,5 +114,5 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

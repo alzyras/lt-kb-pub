@@ -38,25 +38,17 @@ Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, pap�
 
 ## Teiginiai
 
-<a id="claim-t-189034"></a>
-- t-001
-  teiginys: "Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, papėdėje."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-218168"></a>
+- t-218168
+  teiginys: "Senoji Palanga buvo įsikūrusi Olandiškos Skrybėlės kalvos papėdėje."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Palanga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Olandiška Skrybėlė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Palanga: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olandiška Skrybėlė\" parinktas kaip owner_note_path. Targetas \"Palanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171923
+    - c-201325
 
 ## Citatos
 
@@ -79,5 +71,20 @@ Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, pap�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-201325
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 156"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 156."
+  citata_originali: |
+    Senoji Palanga buvo išsidėsčiusi kalvos, va­
+    dinamos Olandiška Skrybėle, papėdėje*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218168

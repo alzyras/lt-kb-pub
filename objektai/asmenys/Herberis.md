@@ -76,5 +76,25 @@ Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyvent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196955
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
+  citata_originali: |
+    Iš išlikusių žinių galima teigti, jog jie
+    nepriklausę mongolams. Rusų ¡pulkininkas Herberis ap­
+    rašo Kaukazo kalnuose esantį kaimą, jo laikais vadinamą
+    Kubeša, kurio kiekvienas gyventojas yra auksakalys ar­
+    ba ginklakalys. Pasak jo pasakojimo, šie žmonės yra tik­
+    ri alanų palikuonys, net ir jų kalba skiriasi nuo Kaukazo
+    kalniečių kalbos4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

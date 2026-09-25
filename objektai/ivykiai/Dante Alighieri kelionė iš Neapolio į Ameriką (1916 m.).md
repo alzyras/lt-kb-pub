@@ -70,5 +70,5 @@ Liepos 25 d. laivas Dante Alighieri turėjo išplaukti iš Neapolio.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

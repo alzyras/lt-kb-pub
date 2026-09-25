@@ -128,7 +128,7 @@ Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188895
@@ -146,7 +146,7 @@ Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188896
@@ -164,5 +164,5 @@ Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

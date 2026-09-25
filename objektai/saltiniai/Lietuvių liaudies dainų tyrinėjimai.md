@@ -89,7 +89,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177592
@@ -107,7 +107,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177593
@@ -131,9 +131,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     nėjimai“ .
   citata_rodoma: "Be to, velionis, 1910— 12 metais viešėdamas Lietuvoje ir, nau­\ndodamasis Lietuvių mokslo dr-jos archyve esama tautosaka, vadovau­\njamas a. a. d-ro Basanavičiaus, sukatalogavo ten esamas dainas, kaip \nmatyti iš jo, dabar leidžiamo, veikalo „Lietuvių liaudies dainų tyri­\nnėjimai“ ."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -152,6 +152,18 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   pagrindžia:
     - c-187976
 
+<a id="claim-t-207481"></a>
+- t-207481
+  teiginys: "XVI a. viduryje Mykolas Lietuvis siūlė kurti Lietuvos raštiją lotynų kalba."
+  atnaujinta: "2026-09-20 01:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190109
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėnus, žalčių laikymu išlikusį Eskulapo garbinimą.'
@@ -201,7 +213,7 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173811
@@ -220,7 +232,7 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174844
@@ -246,7 +258,7 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186897
@@ -282,7 +294,7 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-186915
@@ -304,7 +316,7 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-186933
@@ -328,7 +340,7 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-187976
@@ -347,5 +359,68 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-190109
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 24"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 24."
+  citata_originali: |
+    Taip Lietuvoje formavosi lenkakalbis kultūros modelis,
+    kurį skatino integraciniai procesai viešajame gyvenime.
+    Lenkakalbio kultūros modelio alternatyva tapo lotyniškasis modelis. Jo ištakos – ro-
+    mėniškoji lietuvių kilmės teorija, atsiradusi, atrodo, dar Vytauto laikais, o išpopuliarinta
+    XVI a. viduryje Mykolo Lietuvio, siūliusio kurti Lietuvos raštiją lotynų kalba.
+  citata_rodoma: "Jo ištakos – ro-\nmėniškoji lietuvių kilmės teorija, atsiradusi, atrodo, dar Vytauto laikais, o išpopuliarinta \nXVI a. viduryje Mykolo Lietuvio, siūliusio kurti Lietuvos raštiją lotynų kalba."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207481
+
+- id: c-196856
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 194"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 194."
+  citata_originali: |
+    199
+    Nenutraukdami mūsų pastabų sekos, laikysime, jog lai­
+    mingesnės aplinkybės leido graikams ir italams puikiau
+    išlavinti tą patį religingumą, labiau išplėtoti švietimą,
+    išpuošti tą pačią kalbą, tatai nėmaž netrukdo po daugelio
+    amžių pripažinti jai giminingą kalbą tautos, nublokštos
+    j rūsčias pasaulio šalis. Lenkijos mokslo amžiuje gyvenęs
+    Mykolas Lietuvis stengėsi įrodyti lietuvių ir lotynų kalbų
+    ■vienodumą2. Ilgai čia reikėtų dėstyti jo įrodymus, parem­
+    tus vien žodžių ir religinių apeigų panašumu, bet pasaky­
+    sime tik tiek, jog šis autorius, puikiai mokėjęs abi kalbas,
+    labiau įrodė jų kilmę iš vieno šaltinio negu jų tapatybę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196914
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
+  citata_originali: |
+    Kortos, romanai, garderobai — tokios yra jų dory­
+    bės. Vyrauja tuščias pasididžiavimas senoliais, o protėvių
+    istorijai paprasčiausiai atsuko nugarą. Per 400 metų nė
+    vienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir
+    Teodorą Narbutą, nepasirūpino krašto praeitimi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

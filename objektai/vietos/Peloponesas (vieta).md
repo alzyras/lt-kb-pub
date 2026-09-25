@@ -72,5 +72,5 @@ Artimą pelazgams ir tokią pat seną helenų tautą sudarė pirmykščiai Vidur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

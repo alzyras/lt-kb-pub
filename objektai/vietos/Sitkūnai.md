@@ -70,5 +70,5 @@ Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų (neto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

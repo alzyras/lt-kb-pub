@@ -57,6 +57,22 @@ Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo
   pagrindžia:
     - c-176381
 
+<a id="claim-t-207546"></a>
+- t-207546
+  teiginys: "Alfredas Bumblauskas Martyno Mažvydo 1547 m. išleistą „Katekizmą“ priskiria Abraomo Kulviečio ir Stanislovo Rapolionio programai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Interpretacinis teiginys susietas su šaltinio autoriumi. Išskleisti programos dalyviai ir leidimo metai, neįtraukiant papildomų faktų."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190163
+
 ## Citatos
 
 - id: c-176381
@@ -86,5 +102,28 @@ Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190163
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 154"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 154."
+  citata_originali: |
+    Tai kodėl jis kartais pavadinamas genialiu? Kulvie-
+    tis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu,
+    suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo
+    sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip išugdyti lietuvių in-
+    teligentiją. Šią programą Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu
+    Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais,
+    o jų programos dalimi ir reikia laikyti 1547 m. išleista Martyno Mažvydo „Katekizmą“.
+  citata_rodoma: "Šią programą Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu \nRapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, \no jų programos dalimi ir reikia laikyti 1547 m. išleista Martyno Mažvydo „Katekizmą“."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207546

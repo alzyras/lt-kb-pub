@@ -90,6 +90,18 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
   pagrindžia:
     - c-187682
 
+<a id="claim-t-214912"></a>
+- t-214912
+  teiginys: "Vaitiekaus gyvenimo ap rašyme; jo autorius buvo šventojo mokinys ir apaštala vimo Prūsijoje bičiulis, arkivyskupas Gaudencijus, rašęs 997—1006 metais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197541
+
 ## Citatos
 
 - id: c-83910
@@ -138,7 +150,7 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184894
@@ -156,7 +168,7 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-187682
@@ -176,5 +188,25 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-197541
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 259."
+  citata_originali: |
+    Pirmą sykį raštuose žodį Pruzzi,
+    taip pat ir Pruzta aptinkame šv. Vaitiekaus gyvenimo ap­
+    rašyme; jo autorius buvo šventojo mokinys ir apaštala­
+    vimo Prūsijoje bičiulis, arkivyskupas Gaudencijus*, rašęs
+    997—1006 metais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214912

@@ -105,11 +105,12 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
     srityse išmokta atiduoti duoklę komunizmui, o toliau kuriamas kad ir ri-
     botas, bet tautinės kultūros reiškinys.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003

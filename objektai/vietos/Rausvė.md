@@ -80,6 +80,18 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   pagrindžia:
     - c-59249
 
+<a id="claim-t-219132"></a>
+- t-219132
+  teiginys: "Rausvės upė įteka į Šešupę kairiajame krante netoli Naumiesčio."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199936
+
 ## Citatos
 
 - id: c-59248
@@ -100,7 +112,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59249
@@ -122,5 +134,65 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-199936
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  citata_originali: |
+    Rausvės (Ross)
+    upė, kuri ir dabar vadinama tuo pačiu vardu, tekėjo sudinų
+    (sūduvių) šalyje. Ji įteka į Šešupę jos kairiajame krante netoli
+    Naumiesčio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219132
+
+- id: c-204485
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    Ieškodamas centrinės baltų Romovės resp. Romuvos Nadruvoje, M. Pretorijus (1664—
+    1684 m. gyvenęs Nibudžiuose, į šiaurės rytus nuo Gumbinės) rašęs, kad, jo nuomone,
+    Romovė resp. Romuva galėjusi būti prie Biserkiemio (netoli Gumbinės) ant kalvos, tada
+    vadintos Sidabro kalnu, kur aptinkama įvairių radinių, be kita ko — pentinų, lenkto ir
+    sukto sidabro (Prätorius M., Deliciae..., kn. 4, sk. 1, § XXII, r. 1. (WU) 152; r. p. (MA)
+    271—272; š. p. 564—565). M, Tepenas atkreipė dėmesį į Rausvės intaką Romene rytų
+    Nadruvoje, į pietus nuo Pilkalnio (Тоерреn M., HCGP, p. 26—27 ir žemėlapis).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204595
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64-65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64-65."
+  citata_originali: |
+    Mėginta
+    sieti Priegliaus kair. intako Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen
+    su Kriviu ir Romove resp. Romuva (Friederici W., Über die Lage Romow’s..., p. 227—
+    253). A. Mežinskis manęs, kad nėra pagrindo ieškoti ryšio tarp pirmųjų vietovardžių,
+
+    tačiau spėjo, kad Romanuppe galėjusi būti Romovės resp. Romuvos vietoje. Kita vertus,
+    jis galvojo, jog ji galėjusi būti ir prie mūsų jau minėtos Rausvės (Мержинский А. Ф.,
+    Ромове, с. 1—9).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

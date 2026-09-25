@@ -950,6 +950,22 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   pagrindžia:
     - c-206373
 
+<a id="claim-t-225977"></a>
+- t-225977
+  teiginys: "1855 m. lapkričio 17 d. vyskupas Motiejus Valančius suteikė kunigystės šventimus."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  temporaliniai_duomenys: "įvykio data: 1855 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija vyskupą Motiejų Valančių, datą ir kunigystės šventimų suteikimą; gavėjo tapatybės, kurios citata neįvardija, nepridėjau."
+  vertinimo_atnaujinta: "2026-09-23T18:01:34Z"
+  pagrindžia:
+    - c-206493
+
 ## Citatos
 
 - id: c-176357
@@ -970,7 +986,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176358
@@ -995,7 +1011,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176359
@@ -1017,7 +1033,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176360
@@ -1035,7 +1051,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184234
@@ -1064,7 +1080,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-191095
@@ -1087,7 +1103,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-191096
@@ -1110,7 +1126,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-191097
@@ -1136,7 +1152,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-191098
@@ -1154,7 +1170,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-191099
@@ -1178,7 +1194,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-191100
@@ -1202,7 +1218,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-191101
@@ -1222,7 +1238,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-191102
@@ -1245,7 +1261,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-191103
@@ -1266,7 +1282,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-191104
@@ -1284,7 +1300,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-191105
@@ -1306,7 +1322,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-191106
@@ -1331,7 +1347,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-191107
@@ -1357,7 +1373,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-191109
@@ -1381,7 +1397,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-191110
@@ -1398,7 +1414,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-191111
@@ -1422,7 +1438,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-191112
@@ -1445,7 +1461,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-191114
@@ -1470,7 +1486,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-191115
@@ -1489,7 +1505,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-191116
@@ -1510,7 +1526,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-191117
@@ -1530,7 +1546,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-191119
@@ -1549,7 +1565,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-191120
@@ -1567,7 +1583,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-191122
@@ -1585,7 +1601,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
 
 - id: c-191123
@@ -1603,7 +1619,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
 
 - id: c-191124
@@ -1628,7 +1644,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
 
 - id: c-191125
@@ -1650,7 +1666,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-191126
@@ -1675,7 +1691,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
 
 - id: c-191127
@@ -1693,7 +1709,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
 
 - id: c-191128
@@ -1719,7 +1735,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
 
 - id: c-191129
@@ -1737,7 +1753,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
 
 - id: c-191131
@@ -1761,7 +1777,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
 
 - id: c-191132
@@ -1787,7 +1803,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-191134
@@ -1812,7 +1828,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-044
 
 - id: c-191135
@@ -1833,7 +1849,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
 
 - id: c-191136
@@ -1858,7 +1874,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-046
 
 - id: c-191138
@@ -1881,7 +1897,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-047
 
 - id: c-191139
@@ -1903,7 +1919,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-048
 
 - id: c-191877
@@ -1927,7 +1943,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-191884
@@ -1954,7 +1970,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-052
 
 - id: c-191897
@@ -1973,7 +1989,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-051
 
 - id: c-191926
@@ -1999,7 +2015,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-049
 
 - id: c-191958
@@ -2020,7 +2036,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-050
 
 - id: c-191972
@@ -2043,7 +2059,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-192039
@@ -2065,7 +2081,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-192050
@@ -2091,7 +2107,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-192081
@@ -2113,7 +2129,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
 
 - id: c-192082
@@ -2132,7 +2148,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-054
 
 - id: c-192083
@@ -2154,7 +2170,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
 
 - id: c-192084
@@ -2174,7 +2190,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-056
 
 - id: c-192085
@@ -2194,7 +2210,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-192086
@@ -2215,7 +2231,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-057
 
 - id: c-206363
@@ -2267,7 +2283,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-058
 
 - id: c-206364
@@ -2295,7 +2311,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-059
 
 - id: c-206365
@@ -2321,7 +2337,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-060
 
 - id: c-206366
@@ -2343,7 +2359,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-061
 
 - id: c-206367
@@ -2371,7 +2387,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-062
 
 - id: c-206368
@@ -2413,7 +2429,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-063
 
 - id: c-206369
@@ -2440,7 +2456,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-064
 
 - id: c-206370
@@ -2461,7 +2477,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-065
 
 - id: c-206371
@@ -2506,7 +2522,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-066
 
 - id: c-206372
@@ -2530,7 +2546,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-067
 
 - id: c-206373
@@ -2550,5 +2566,17 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-068
+
+- id: c-206493
+  autorius: "Aldona Vasiliauskienė"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kristaus Žengimo į dangų bažnyčios ir parapijos istorija"
+  puslapiai: "p. 468 (PDF 469)"
+  indeksas: "Aldona Vasiliauskienė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kristaus Žengimo į dangų bažnyčios ir parapijos istorija, p. 468 (PDF 469)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225977

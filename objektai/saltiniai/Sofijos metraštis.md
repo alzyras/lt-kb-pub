@@ -79,5 +79,5 @@ Sofijos metraštis vienintelis tvirtina Jaroslavo žygį į Lietuvą bu vus 1044
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

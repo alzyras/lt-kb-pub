@@ -79,5 +79,28 @@ Narbutas šventąjį Steponą, Permės vyskupą, vaizdavo kaip Biarmijos apašta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200051
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
+  citata_originali: |
+    Pagaliau atsirado tikrasis Biarmijos apaštalas -
+    šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
+    kupinas žmoniškumo ir žmogaus širdies supratimo. Davęs
+    žmonėms pažinti savo dorybes ir užsitarnavęs jų meile, nie­
+    kuo neįžeisdamas čiabuvių tautos, nors pats buvo rusas, jis
+    taip sėkmingai pakreipė dalykų eigą, kad visa senovinė Biar­
+    mija priėmė Kristaus tikėjimo šviesą be pasipriešinimo ir no­
+    riai. Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
+    biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų
+    sušvelninti rūsčią tautą, aistringai mylinčią savo tėvynę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

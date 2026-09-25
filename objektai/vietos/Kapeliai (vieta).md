@@ -57,6 +57,18 @@ Tarp Užpalių ir Daugailių buvo senovinės didžiulės kapinės, vadintos Kape
   pagrindžia:
     - c-189253
 
+<a id="claim-t-225989"></a>
+- t-225989
+  teiginys: "Karaliūniškio senkapiai vadinami Kapeliais."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  pagrindžia:
+    - c-206505
+
 ## Citatos
 
 - id: c-189253
@@ -77,5 +89,17 @@ Tarp Užpalių ir Daugailių buvo senovinės didžiulės kapinės, vadintos Kape
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206505
+  autorius: "unknown"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Numizmatinis rinkinys Kupiškio etnografijos muziejuje"
+  puslapiai: "p. 633 (PDF 634)"
+  indeksas: "unknown, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Numizmatinis rinkinys Kupiškio etnografijos muziejuje, p. 633 (PDF 634)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225989

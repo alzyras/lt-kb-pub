@@ -65,5 +65,5 @@ Su jiedviem Volkvinas, mistras kalavi jonų, atleido tris savo zokano brostvius:
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

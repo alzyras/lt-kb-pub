@@ -79,27 +79,6 @@ Nenurodyta
   pagrindžia:
     - c-63809
 
-<a id="claim-t-62934"></a>
-- t-002
-  teiginys: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "gyveno -> Prancūzija: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tamplierių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prancūzija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Cituojama, kad tamplieriai po Jeruzalės karalystės žlugimo buvo įsikūrę Prancūzijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Tamplierių ordinas gyveno Prancūzija (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1291 m.; įvykio data: 1307 m.; įvykio data: 1310 m.; įvykio data: 1312 m.; įvykio data: 1314 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie nurodytą įvykį ir remiasi citata."
-  pagrindžia:
-    - c-63810
-
 <a id="claim-t-196974"></a>
 - t-003
   teiginys: "Jo statute padaryta atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos, apribojama pasaulietiniai brolių poreikiai, aprangos ir ginklų puošnumas, finansiniai ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų."
@@ -148,7 +127,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -171,5 +150,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

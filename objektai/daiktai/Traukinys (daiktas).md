@@ -113,7 +113,7 @@ Kuomet pasigirdo pirmo traukinio ošimas, vi si sujudo ant stoties. Antrasis tra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192459
@@ -135,7 +135,7 @@ Kuomet pasigirdo pirmo traukinio ošimas, vi si sujudo ant stoties. Antrasis tra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-192460
@@ -157,7 +157,7 @@ Kuomet pasigirdo pirmo traukinio ošimas, vi si sujudo ant stoties. Antrasis tra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-192461
@@ -178,5 +178,5 @@ Kuomet pasigirdo pirmo traukinio ošimas, vi si sujudo ant stoties. Antrasis tra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

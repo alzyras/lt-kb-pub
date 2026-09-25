@@ -78,5 +78,5 @@ Pasak Teodoro Narbuto, po trijų dienų, vasario 18-ąją, įvyko Jogailos ir Ja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -75,9 +75,10 @@ Nenurodyta
     ašaras.
   citata_rodoma: "Valgo garstyč- \nninką duoną dažydami arba, dar geriau, bulbes pasmeigę ant balanos \nŠipuliuko."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

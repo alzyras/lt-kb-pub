@@ -98,7 +98,9 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
 
         const relativePath = path.posix.relative(argv.directory, fp)
         if (isObjectPage(relativePath)) {
-          const integrityIssues = collectEvidenceIntegrityIssues(file.value.toString())
+          const integrityIssues = collectEvidenceIntegrityIssues(file.value.toString()).filter(
+            (issue) => issue.severity === "error",
+          )
           if (integrityIssues.length > 0) {
             const summary = integrityIssues
               .slice(0, 8)

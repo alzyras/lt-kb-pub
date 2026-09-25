@@ -240,7 +240,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-37629
@@ -259,7 +259,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-37630
@@ -286,7 +286,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-37631
@@ -311,7 +311,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-109511
@@ -334,7 +334,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-109512
@@ -354,7 +354,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-109513
@@ -379,7 +379,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-109514
@@ -401,7 +401,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-167762
@@ -421,7 +421,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 ## Ryšiai

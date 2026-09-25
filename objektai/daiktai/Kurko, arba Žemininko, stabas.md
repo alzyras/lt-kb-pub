@@ -71,5 +71,5 @@ Narbutas pasakoja, kad prūsai Šventosios šventykloje sutrupindavo dievo Kurko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

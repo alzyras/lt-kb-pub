@@ -108,7 +108,7 @@ canonical_biography: "Įvadinis tekstas Peterį Boleną mini tarp kalbininkų, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174784
@@ -129,5 +129,25 @@ canonical_biography: "Įvadinis tekstas Peterį Boleną mini tarp kalbininkų, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196810
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
+  citata_originali: |
+    2 Profesoriaus Boleno traktatas apie senovės prūsų kalbą (Voigt,
+    Gesch.
+    Preuss.
+    B.
+    I.
+    S.
+    721).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

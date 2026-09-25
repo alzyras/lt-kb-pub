@@ -80,5 +80,5 @@ Teodoro Narbuto aiškinimu, ant Vilniaus herbo esantis milžinas su figūrėle t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -71,5 +71,5 @@ Julijonai skirtas Kryžiuočių ordino vyresniųjų laiškas, kaip nurodo Teodor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

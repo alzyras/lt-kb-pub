@@ -59,6 +59,18 @@ media_all_json: |-
   pagrindžia:
     - c-174732
 
+<a id="claim-t-212309"></a>
+- t-212309
+  teiginys: "Mileris savo darbe (Origines Russicae."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196921
+
 ## Citatos
 
 - id: c-174732
@@ -83,5 +95,46 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196060
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
+  citata_originali: |
+    Gerardas Fridrikas Mileris
+    (Müller;
+    1705—■
+    1783), istoriografas ir akademikas. 1749 me­
+    tais Rusijos Mokslų Akademijos iškilmingame
+    susirinkime pasakė kalbą, pavadintą „Rusų
+    tautos ir vardo kilmė“, kurią dauguma istori­
+    kų sutiko labai nepalankiai. Kalba (jau at­
+    spausdinta) buvo sunaikinta, bet 1768 metais
+    vėl buvo išspausdinta (Origines Russicae / /
+    Allgemeine historische Bibliothek. T. IV).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196921
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 340"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 340."
+  citata_originali: |
+    Mileris* savo darbe (Origines Russicae. P. 19) tai jau
+    spėliojo ir galbūt buvo teisus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212309

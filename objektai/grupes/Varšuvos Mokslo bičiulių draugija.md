@@ -111,6 +111,30 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   pagrindžia:
     - c-179073
 
+<a id="claim-t-208227"></a>
+- t-208227
+  teiginys: "Bohušas aktyviai įsitraukė į Varšuvos mokslo bičiulių draugijos veiklą."
+  atnaujinta: "2026-09-20 13:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-191003
+
+<a id="claim-t-214432"></a>
+- t-214432
+  teiginys: "1820 metais grafas tą statulėlę nusiuntė į Varšuvos Mokslo bičiulių draugiją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196851
+
 ## Citatos
 
 - id: c-170861
@@ -133,7 +157,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172371
@@ -154,7 +178,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179073
@@ -179,5 +203,88 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-191003
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 127"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 127."
+  citata_originali: |
+    Katedros kapitulos posėdžiuose nėra duomenų, kad P. K. Bohušas būtų vykęs į
+    Varšuvą Vilniaus katedros kapitulos pavedimu. Tačiau būdamas Varšuvoje ryšius su
+    kapitula palaikė. Atrodo, kad neturėjo planų ten pasilikti visam laikui, nors jau pir­
+    maisiais metais aktyviai įsitraukė į Varšuvos mokslo bičiulių draugijos (Towarzystwo
+    Warszawskie Przyjaciół Nauk) veiklą.
+  citata_rodoma: "nors jau pir­\nmaisiais metais aktyviai įsitraukė į Varšuvos mokslo bičiulių draugijos (Towarzystwo \nWarszawskie Przyjaciół Nauk) veiklą."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208227
+
+- id: c-196851
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 484"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 484."
+  citata_originali: |
+    1820 metais grafas tą statulėlę nusiuntė į Varšuvos Mokslo
+    bičiulių draugiją. Draugijoje buvo nutarta, jog figūrėlė yra in­
+    diškos kilmės: tokią išvadą padarė remdamiesi tik panašumu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214432
+
+- id: c-197878
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 17."
+  citata_originali: |
+    Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
+    rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­
+    nimas. Ryškus to pavyzdys „Nenaudėlių draugijos“ („Towar-
+    zystwo szubrawcow“) žavėjimasis senaisiais lietuvių mitiniais
+    personažais. Šios masoniškos draugijos, susispietusios apie sa­
+    tyrinį laikraštį „Wiadomošci Brukowe“ (1816-1822), nariai bu­
+    vo pasirinkę pseudonimus iš senovės lietuvių mitologijos (pvz.,
+    Perkūnas, Poklus, Wajžgantos) ir privalėjo rinkti medžiagą apie
+    mitinius personažus, kurių vardais buvo pasivadinę, kad tuo
+    prisidėtų prie sudarymo lietuvių mitologijos, kuri su laiku ga­
+    lėtų būti draugijos išleista4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198636
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
+  citata_originali: |
+    Magistrato
+    valdininkas Pulokolovskis, valydamas tuos griuvėsius, rado ten
+    kadaise įmūrytą bronzinę apie šešių colių aukščio statulėlę, vaiz­
+    duojančią sukryžiuotomis kojomis būtybę, kuri ant galvos laikė
+    miesto vaizdą, tai yra bokštus, namus ir bažnyčias, o vienoje ran­
+    koje - tris žuvis. 1820 metais grafas tą statulėlę nusiuntė į Varšu­
+    vos Mokslo bičiulių draugiją. Draugijoje buvo nu tarta, kad figū­
+    rėlė yra indiškos kilmės: tokią išvadą padarė remdamiesi tik pa­
+    našumu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

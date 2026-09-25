@@ -74,5 +74,5 @@ Koneczny : Jagiełło i Witołd, Lwów 1893, 147-149 p. rimtai svarstomas, rodė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -351,6 +351,114 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   pagrindžia:
     - c-187745
 
+<a id="claim-t-213802"></a>
+- t-213802
+  teiginys: "Ar galima įterpti prielai dą, jog, grįžę iš Italijos VI amžiaus pradžioje, herulai atnešė lietuviams ir būties pradžią, ir lotynų kalbos žo džius, ir romėnų mitologiją?"
+  atnaujinta: "2026-09-19 07:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195601
+
+<a id="claim-t-214268"></a>
+- t-214268
+  teiginys: "Galindai atėjo pagelbėti herulams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197054
+
+<a id="claim-t-214720"></a>
+- t-214720
+  teiginys: "Ar galima išsa kyti prielaidą, jog, grįžę iš Italijos VI amžiaus pradžioje, herulai atnešė lietuviams ir būties pradžią, ir lotynų kal bos žodžius, ir romėnų mitologiją?"
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194787
+
+<a id="claim-t-214901"></a>
+- t-214901
+  teiginys: "Mums net atrodo, kad jei lietuvių žemėse buvo gausu įtvirtintų pilaičių, tai Rusia šia pras me pirmavo, nes joje randama daugelis herulų ir skandi navų karaliukų valdų; todėl švedų, danų, norvegų, islan dų senovės istorijose minimi užjūrių ulmigerai, prūsai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195722
+
+<a id="claim-t-215405"></a>
+- t-215405
+  teiginys: "Volfgangas Lazius pirmasis paskelbė heruliškąją „Tėve mūsų“ maldą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196985
+
+<a id="claim-t-216031"></a>
+- t-216031
+  teiginys: "Narbutas teigia, kad herulai Vokietijoje įsikūrė po jų vadui Odoakrui žuvus."
+  atnaujinta: "2026-09-19 07:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198331
+
+<a id="claim-t-218402"></a>
+- t-218402
+  teiginys: "Narbutas teigia, kad gotai buvo herulų priešai ir niokojo Baltijos kraštuose gyvenusias lietuvių gentis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198299
+
+<a id="claim-t-219698"></a>
+- t-219698
+  teiginys: "Herulus, iškeliavusius iš tėvų žemės su gotais, ištiko permainingas likimas, būdingas karingoms vidurinių amžių tautoms: išsklaidyti, sumušti jie su grįžo į savo šalį arba apsigyveno už Oderio, pagaliau išnyko tenai tarp germanų; išliko tik atminimas apie jų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198207
+
+<a id="claim-t-219980"></a>
+- t-219980
+  teiginys: "Herulai, civilizuočiausi tarp lietuvių genties tautų, prara dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir puošė dievų statulomis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200531
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.'
@@ -477,7 +585,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167836
@@ -510,7 +618,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-012
 
@@ -538,7 +646,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167838
@@ -565,7 +673,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171086
@@ -595,7 +703,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-171087
@@ -620,7 +728,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-171088
@@ -647,7 +755,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-171090
@@ -670,7 +778,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-171091
@@ -692,7 +800,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-175202
@@ -712,7 +820,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-175203
@@ -738,7 +846,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-179222
@@ -758,7 +866,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-187745
@@ -785,7 +893,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-188026
@@ -809,7 +917,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-188042
@@ -831,7 +939,7 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-188052
@@ -857,8 +965,276 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
+
+- id: c-194787
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 199"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 199."
+  citata_originali: |
+    Ar galima išsa­
+    kyti prielaidą, jog, grįžę iš Italijos VI amžiaus pradžioje,
+    herulai atnešė lietuviams ir būties pradžią, ir lotynų kal­
+    bos žodžius, ir romėnų mitologiją?
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214720
+
+- id: c-195111
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
+  citata_originali: |
+    Taigi sąjungininkai pradėjo atvirai murmėti prieš savo
+    vadą. Mažiausiai jam palankūs herulai kreipėsi į savo
+    brolius, įsikūrusius Norike. Majorijano valdomos herulų
+    lygos karvedžio Eduko sūnus Odoakras pasakė, jog, tu­
+    rėdamas tiek valdžios kiek Orestas, jis neleistų sąjungi­
+    ninkų kariuomenei gailėtis savo žygio j Italiją1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195601
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 5."
+  citata_originali: |
+    Ar galima įterpti prielai­
+    dą, jog, grįžę iš Italijos VI amžiaus pradžioje, herulai
+    atnešė lietuviams ir būties pradžią, ir lotynų kalbos žo­
+    džius, ir romėnų mitologiją?
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213802
+
+- id: c-195722
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 236."
+  citata_originali: |
+    Mums net atrodo, kad jei lietuvių
+    žemėse buvo gausu įtvirtintų pilaičių, tai Rusia šia pras­
+    me pirmavo*, nes joje randama daugelis herulų ir skandi­
+    navų karaliukų valdų; todėl švedų, danų, norvegų, islan­
+    dų senovės istorijose minimi užjūrių ulmigerai, prūsai,
+    rusai, kuršiai, lyviai, lietuviai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214901
+
+- id: c-196985
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 515."
+  citata_originali: |
+    Volfgangas Lazius (1514—1565), istoriografas ir geografas,, pir­
+    masis paskelbė šią heruliškąją maldą „Tėve mūsų“. Dauguma to
+    meto istorikų, tarp jų ir S. Daukantas, herulus priskyrė prie bal­
+    tų genčių, ir net tiesiog lietuvių. Vėliau paaiškėjo, jog ši malda
+    buvusi
+    latvių
+    kalba.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215405
+
+- id: c-197054
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 311"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 311."
+  citata_originali: |
+    Tie gyveno prie Azovo jūros gotų karaliaus Germanari-
+    ko laikais, atėję iš Galindijos pagelbėti herulams, ku­
+    riuos, įsiveržę į Europą, hunai turėjo užgrobti pirmiau­
+    sia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214268
+
+- id: c-197219
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
+  citata_originali: |
+    Didžiausia herulų dalis pasitraukė
+    prie Dunojaus, kur ketino apsigyventi šalia rugių arba
+    toje Noriko dalyje, kurią pavadino Rugilandija. Savo kai­
+    mynystėje jie rado longobardus ir ėmė savintis tam tikrą
+    jų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­
+    nėjusi, be to, visiškai negausi, bet pernelyg karinga.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197995
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
+  citata_originali: |
+    Buvo ir lietuvių valdo­
+    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
+    taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
+    Dievo Santvara stabas rastas Prilvice su užrašu runomis
+    Swaistix29, kur tarp 72 stabų, atkastų žemėje, tikriausiai ne vie­
+    nas priklausė lietuvių dievų kategorijai, kuriuos slavai obotri-
+    tai galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklo­
+    mis30. Viename dokumente, rusiškai rašytame XVI amžiuje
+    Lydos apskrityje ant labai patvaraus popieriaus, pastebėjau
+    vandenženklį arba fabriko ženklą, kurio atvaizdas yra IV lente­
+    27 Išsamesnių žinių apie senovės prūsų monetas yra Lybknechto
+    (Liebknecht) veikale “De antiquis nummis aliquando effosis in Prussia
+    Regali et adjacentibus Regionibus”.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198207
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 444"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 444."
+  citata_originali: |
+    Herulus, iškeliavusius
+    iš tėvų žemės su gotais, ištiko permainingas likimas, būdingas
+    karingoms vidurinių amžių tautoms: išsklaidyti, sumušti jie su­
+    grįžo į savo šalį arba apsigyveno už Oderio, pagaliau išnyko
+    tenai tarp germanų; išliko tik atminimas apie jų kalbą, labai
+    sudarkytą svetimybių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219698
+
+- id: c-198299
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
+  citata_originali: |
+    O
+    kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo
+    krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy­
+    venusias Baltijos kraštuose
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218402
+
+- id: c-198331
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  citata_originali: |
+    Kituose Lietu­
+    vos pakraščiuose ir pas kitas tautas, kilusias iš jos kamieno,
+    tikriausiai irgi buvo upių tokiais vardais arba dar ir dabar jos
+    tebėra žinomos; aptikti jų mums nepasitaikė. Net Vokietijoje,
+    kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
+    Russ, vėliau imtą vadinti Wessel. Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216031
+
+- id: c-198771
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 513"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 513."
+  citata_originali: |
+    - Išnaša, kuria T. Narbutas papildė paragrafą, reng­
+    damas antrąjį LTI leidimą (PEĮ. - L. 304). Volf­
+    gangas Lazius (1514-1565), istoriografas ir geog­
+    rafas, pirmasis paskelbė šią heruliškąją maldą „Tė­
+    ve mūsų“. Dauguma to meto istorikų, tarp jų ir
+    S. Daukantas, herulus priskyrė prie baltų genčių,
+    ir net tiesiog lietuvių. Vėliau paaiškėjo, kad ši mal­
+    da buvusi latvių kalba.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200531
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 264."
+  citata_originali: |
+    Herulai, civilizuočiausi tarp lietuvių genties tautų, prara­
+    dę valdžią Romoje, apsigyveno Vokiečių žemėje, todėl ir reli­
+    giją sutvarkė apsišvietusių tautų pavyzdžiu: statė šventyklas ir
+    puošė dievų statulomis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219980
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Gotai]]

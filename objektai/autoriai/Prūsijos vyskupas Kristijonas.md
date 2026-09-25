@@ -75,5 +75,23 @@ Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201024
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 464"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 464."
+  citata_originali: |
+    Vilniaus miesto senovinis herbas
+    41 pav. Prūsų tautinė vėliava, vaizduojanti tris dievus - Poklių,
+    Perkūną ir Atrimpą, užrašas runomis. Iš J. F. R. rankraštinės kroni­
+    kos piešinio. Tikriausiai tai senovinis vertimas originalaus užrašo,
+    buvusio dingusioje Prūsijos vyskupo Kristijono kronikoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

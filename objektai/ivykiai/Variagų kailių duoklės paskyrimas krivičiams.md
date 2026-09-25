@@ -68,5 +68,5 @@ Nestoro pasakojime nurodoma, kad 859 metais variagai paskyrė kailių duoklę, b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

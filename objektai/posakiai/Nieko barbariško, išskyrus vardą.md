@@ -57,5 +57,5 @@ Jis valdė Italiją beveik 14 metų; istorikai neįžvelgia ja me nieko barbari�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -70,5 +70,5 @@ Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -78,5 +78,28 @@ Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnazijos matematikos mokyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198607
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 272."
+  citata_originali: |
+    Šis pastatas kilo tiesiog iš senovi­
+    nio pastato griuvėsių16 17. Toji šventykla turėjo būti su kariniais
+    įtvirtinimais, nes senoviniuose XVI amžiaus dokumentuose mi­
+    nima senovinė piliavietė ir būtent šioje vietoje kadaise stovėję
+    16 Ponas Rumbovičius, Vilniaus gimnazijos matematikos mokyto­
+    jas, pasakojo, kad ponas Podčašinskis, buvusio Universiteto architek­
+    tūros profesorius, apžiūrinėdamas Vilniaus katedros varpinę, pastebėjo
+    ant plytų ten, kur baigiasi jos netaisyklingoji dalis, kažkokius antspau­
+    dus ir ženklus, kuriuos parodė Leleveliui. Tik neaišku, koks buvo rezul­
+    tatas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -49,20 +49,3 @@ Antikos žmonių šventyklos susidėdavo iš dviejų dalių: Naos, kurioje stov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-216464"></a>
-- t-001
-  teiginys: "Antikos žmonių šventyklos susidėdavo iš dviejų dalių: Naos, kurioje stovėdavo indas su šventuoju vandeniu ir rinkdavosi žmonės bei dalyvaudavo apeigose; antroji dalis -Adytum, ku rioje stovėdavo stabai; ten teisę būti turėjo tik pašvęstieji asme nys, žyniai."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199934
-

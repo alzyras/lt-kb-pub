@@ -100,7 +100,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177156
@@ -124,5 +124,25 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198275
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 218"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
+  citata_originali: |
+    Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
+    duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
+    Žemaitijos, turėjo būti nelabai seniai rasta (1814 ar 1815 me­
+    tais) Švėkšnoje, tenykštės klebonijos sode; tarnas pasisavino
+    lobį, iškastą persodinant rožių krūmą, - mat auksinių monetų
+    turėjo būti keliolika svarų. Tas žmogus pabėgo į užsienį, ir bran­
+    gios senovės liekanos nežinia kur dingo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

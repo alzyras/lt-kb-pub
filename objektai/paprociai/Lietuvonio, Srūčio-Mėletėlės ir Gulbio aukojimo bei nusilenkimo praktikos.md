@@ -105,7 +105,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172690
@@ -124,5 +124,43 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-200813
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 167."
+  citata_originali: |
+    Senovės latvių panašios asmeninės dvasios vadinosi Lul-
+    kis .
+    Kronikos taip pat pasakoja, kad šioms dievybėms vyrai at­
+    našaudavę gaidžius, moterys - vištas. Gulbis žemaičių tarme
+    reiškia garbintiną, kaip Gulbintas - pagirtą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200938
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 165."
+  citata_originali: |
+    Tuo
+    labiau kad nežinome kitų senovės tautų panašios religinės mo­
+    ralės pavyzdžių.
+    Lietuvonis (Lieth u wanis)
+    Lietaus dievaitis; tas, kuris švelniu lietumi reikiamu metu
+    nudžiugina gamtą. Kaip auka jam buvo atnašaujamos įvairi ap-
+    lunksnės, baltai raibos vištos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

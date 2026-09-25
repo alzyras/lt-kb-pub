@@ -491,15 +491,25 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
             <p>{exhibition.familyMembersScope}</p>
           </header>
           <ul class="exhibition-family-register">
-            {exhibition.familyMembers.map((person) => (
-              <li>
-                <a class="internal" href={person.href}>{person.name}</a>
-                <span>{person.dates}</span>
-                <small>{person.sources.map((source, index) => <>
-                  {index > 0 && " · "}<a href={source.url} target="_blank" rel="noopener noreferrer">{source.title}</a>
-                </>)}</small>
-              </li>
-            ))}
+            {exhibition.familyMembers.map((person) => {
+              const external = /^https?:\/\//i.test(person.href)
+              return (
+                <li>
+                  <a
+                    class={external ? "external" : "internal"}
+                    href={person.href}
+                    target={external ? "_blank" : undefined}
+                    rel={external ? "noopener noreferrer" : undefined}
+                  >
+                    {person.name}
+                  </a>
+                  <span>{person.dates}</span>
+                  <small>{person.sources.map((source, index) => <>
+                    {index > 0 && " · "}<a href={source.url} target="_blank" rel="noopener noreferrer">{source.title}</a>
+                  </>)}</small>
+                </li>
+              )
+            })}
           </ul>
         </section>
       )}

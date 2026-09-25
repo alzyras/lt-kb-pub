@@ -135,7 +135,7 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82702
@@ -170,7 +170,7 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171182
@@ -192,8 +192,29 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-200199
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
+  citata_originali: |
+    Panemunių Žemaitijoje paplitęs garsus padavimas skel­
+    bia štai ką . Jūrininkai, atplaukę iš už jūros, plaukė Nemunu
+    10
+    Permė, arba Biarmija, buvo turtingas kraštas, ypač tauriųjų
+    metalų, todėl traukė plėšikus normanus; šito įrodymų yra šiaurės
+    sagose, tarp kitų Kormaks -  saga pasakoja, kad Norvegijos karalius
+    Hanaldas Graurokas darė jūros žygius į Biarmenlandiją. Tai buvo X
+    amžiaus pirmojoje pusėje (Sagaen Bibliothek v.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Prekiavo su: [[objektai/grupes/Lietuviai]]

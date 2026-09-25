@@ -229,11 +229,12 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     buvo suklota ir vis tebekovojama laisvame pasaulyje.
   citata_rodoma: "Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei-\nties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid-\nmenį. Lietuvių tauta tiek tautiškai susiprato, kad ji daug pastangų\npadėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty-\nbingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą\nidealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų\nbuvo suklota ir vis tebekovojama laisvame pasaulyje."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-05599
@@ -251,11 +252,12 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     religinio, kultūrinio bei ūkinio gyvenimo faktais.
   citata_rodoma: "Bandydami _kritiškai_ ir, kiek žmogiškai prigimčiai nustatytos\nribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme-\nčius, visą savo dėstymą norime sutelkti apie _valstybingumo idėją_\nlietuvių tautoje. Kaip ji _atsirado,_ vystėsi, išbujojo ir paskui silpo\nir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo\nvedamoji mintis per visus šimtmečius. Ji paryškinta politinio,\nreliginio, kultūrinio bei ūkinio gyvenimo faktais."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -279,7 +281,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -300,5 +302,5 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

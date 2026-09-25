@@ -104,7 +104,7 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187945
@@ -122,7 +122,7 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188061
@@ -145,5 +145,5 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

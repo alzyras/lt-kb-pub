@@ -67,6 +67,26 @@ Nenurodyta
   pagrindžia:
     - c-172552
 
+<a id="claim-t-217133"></a>
+- t-217133
+  teiginys: "Narbutas rašė, kad ąžuolo amalas jo aplinkoje buvo didelė retenybė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Žyniai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ąžuolo amalas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žyniai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ąžuolo amalas\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-197691
+
 ## Citatos
 
 - id: c-172552
@@ -89,7 +109,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179085
@@ -117,5 +137,56 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197691
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
+  citata_originali: |
+    Mitologinis šio ąžuolo
+    vardas yra Baublys (Baublis); žemaičių tarmėje tai turėtų reikšti
+    buliaus balso apibūdinimą, balso, kokiu nebliauna nei karvė,
+    nei jautis14. Matyt, tai buvo vienas ąžuolų pranašautojų, iš ku­
+    rio sutrūnijusio vidaus pasigirsdavo balsas, panašus į buliaus
+    baubimą. Apie tai skaitytojas dar ras užsiminta straipsnyje
+    „Pranašavimai“.
+    Turime dar nenuginčijamą faktą apie ąžuolą, didesnį už
+    Baublį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217133
+
+- id: c-201139
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
+  citata_originali: |
+    Apie tai papa­
+    sakosime straipsnyje „Šventyklos“.
+    Neseniai buvo aptiktas kadaise milžiniškas ir labai senas
+    jau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai
+    manoma, kad jis garbintas kaip šventasis. Jį atrado pats ponas
+    Dionizas Paškevičius Bardžių dvare, Žemaitijoje, arti Kražių,
+    prie vieškelio į Raseinius, tarp Nemakščių ir Kaltinėnų mies­
+    telių. Šis tėvynės paminklų brangintojas liepė iš trūnijusiame
+    šio ąžuolo kamiene įrengti kabinetą, turintį 7 uolekčių, 18 co­
+    lių skersmenį, kuriame dabar jis laiko retų senienų kolekciją
+    ir istorijos veikalus apie krašto praeitį. Mitologinis šio ąžuolo
+    vardas yra Baublys (Baublis); žemaičių tarmėje tai turėtų reikšti
+    buliaus balso apibūdinimą, balso, kokiu nebliauna nei karvė,
+    nei jautis14.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

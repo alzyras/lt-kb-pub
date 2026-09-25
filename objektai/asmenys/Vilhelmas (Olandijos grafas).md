@@ -86,5 +86,28 @@ Dusburgietis teigia, kad apie Vilhelmo, Olandijos grafo, išrinkimą Romos karal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205715
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 231-232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231-232."
+  citata_originali: |
+    Apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi
+
+      1249 viešpaties metais, mirus landgrafui, Vilhelmas, Olandijos grafas, buvo išrinktas
+    Romos karaliumi, tačiau neilgai trukus frizai  jį nužudė, ir šitaip nei vienas, nei kitas
+
+    negavo imperatoriaus vainiko (Ptol. 22,9).
+
+
+
+                          35.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

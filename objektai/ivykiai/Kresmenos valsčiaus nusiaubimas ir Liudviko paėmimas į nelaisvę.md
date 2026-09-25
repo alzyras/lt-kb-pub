@@ -107,6 +107,16 @@ Nenurodyta
   pagrindžia:
     - c-66836
 
+<a id="claim-t-223250"></a>
+- t-223250
+  teiginys: "Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -172,7 +182,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-66836
@@ -197,6 +207,50 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
+
+- id: c-202919
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 166-167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166-167."
+  citata_originali: |
+    Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per
+    šią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė
+      499  Plg. pasakojimą apie Skomanto mirtį (D. III, 224).
+      500 Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
+    1272 m. ar 1274 m. 1275 m. pradėta statyti Aukštutinė pilis (iki 1279 m. pastatytas jos
+    šiaurinis sparnas, Aukštutinė pilis baigta apie 1300 m.). 1276 m. miestas gavo lokacinę
+    privilegiją. Ordino konventas perkeltas iš Santyro  į Marienburgo pilį 1280 m. (Schmid
+    B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje
+    Malborka, р. 22).
+      Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
+    m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
+    (Powierski J., Chronologia..., p. 5—31).
+      Marienburgo pilis galėjo būti pastatyta sunaikintos prūsu pilies vietoje (žr. paaiškinimus
+    III, 14 ir 143).
+      501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis —
+    Krismence (ПСРЛ, 2, стб. 833); 1259 m. Mindaugo dokumente Cresmen (PUB, 1, 2,
+    Nr. 79; LIS 1 p. 47). Skomanto (žr. paaiškinimus D. III, 164, 1) valdomas Kresinenos
+    valsčius buvo apie Skomanto ežerą (Skomentnersee, dab. j. Skomętno  į vakarus nuo
+    Augustavo) ir toliau į rytus (Kamiński A., Jaćwież, p. 102). Bandoma Kresmenos ieškoti
+    ir toliau į šiaurės rytus, tarp Suvalkų ir Seinų. Kresmena buvo puolama 1281 m. vasario
+    mėn. (Ewald A. L., Die Eroberung... 4, p. 252—253; Gerullis G., Zur Sprache..., p. 48—
+    49).
+      502 D. — habitacionem [...] redegit in favillam. Skomanto ežero pietinėje pakrantėje
+    buvo žinomas piliakalnis, vadintas Skomanto pilimi — Skomantburg,  į šiaurės rytus
+    nuo piliakalnio — kalnas Skomentberg. Greičiausiai čia  ir buvo centrinė Kresmenos
+    (Skomanto) pilis (Engel C., Zwei spätheidnische Silberfunde..., p. 69, 76; Kamiński A.,
+    Jaćwież, p. 102; MGP, p. 55 Nr. 17, 16).
+
+    ir, šitaip toliau braudamasi, užėmė visą valsčių ir jį nusiaubė. Šiame kare krito nukauti
+    brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės
+    pakliuvo į nelaisvę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

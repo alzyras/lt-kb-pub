@@ -89,7 +89,7 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-71093
@@ -107,5 +107,5 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

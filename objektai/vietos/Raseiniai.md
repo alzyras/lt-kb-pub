@@ -253,6 +253,69 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   pagrindžia:
     - c-189182
 
+<a id="claim-t-208591"></a>
+- t-208591
+  teiginys: "Caro valdžia uždarė visus vienuolynus, išskyrus Kalvarijos, Kretingos ir Raseinių vienuolynus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:49Z"
+  pagrindžia:
+    - c-191211
+
+<a id="claim-t-208593"></a>
+- t-208593
+  teiginys: "Vyskupas Motiejus Valančius aplankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Čekiškę."
+  atnaujinta: "2026-09-19 13:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191213
+
+<a id="claim-t-208594"></a>
+- t-208594
+  teiginys: "Vyskupas Motiejus Valančius teigė, kad, keliaudamas per vyskupiją, Šiauliuose, Telšiuose, Raseiniuose, Vilkmergėje, Panevėžyje, Ežerėnuose ir Kaune rado daugybę per nelaimes uždarytų savo vaikų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191214
+
+<a id="claim-t-211942"></a>
+- t-211942
+  teiginys: "Raseiniuose buvo įsteigta viena iš pirmųjų katalikų bažnyčių Žemaitijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194090
+
+<a id="claim-t-213560"></a>
+- t-213560
+  teiginys: "Taip tvirtina ponas Simonas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio au torius, man rašytame laiške (Raseiniai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194786
+
 ## Citatos
 
 - id: c-32377
@@ -269,7 +332,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-32378
@@ -291,7 +354,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-166232
@@ -313,7 +376,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166475
@@ -336,7 +399,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167189
@@ -364,7 +427,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167692
@@ -386,7 +449,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-168482
@@ -415,7 +478,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-171707
@@ -433,7 +496,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-189181
@@ -451,7 +514,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-189182
@@ -467,8 +530,111 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+
+- id: c-191211
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 17"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 17."
+  citata_originali: |
+    Caras Aleksandras II savo viešpatavimo pradžioje pa­
+    lengvino Katalikų Bažnyčios veiklos sąlygas: nedraudė
+    remontuoti ir statyti naujų bažnyčių be civilinės valdžios
+    leidimo, uždraudė stačiatikių dvasininkams kištis Į ka­
+    talikų bažnyčių statybos reikalus, privertė valdininkus la­
+    biau gerbti katalikų dvasininkiją 4.
+    Katalikų padėtis labai pasunkėjo po 1863 m. sukilimo.
+    Caro valdžia panaikino parapines katalikiškas mokyk­
+    las, uždarė visus vienuolynus, išskyrus Kalvarijos, Kre­
+    tingos ir Raseinių.
+  citata_rodoma: "Caro valdžia panaikino parapines katalikiškas mokyk­\nlas, uždarė visus vienuolynus, išskyrus Kalvarijos, Kre­\ntingos ir Raseinių."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208591
+
+- id: c-191213
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 56"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 56."
+  citata_originali: |
+    Todėl vysk. M. Valančius tais metais ap­
+    lankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če­
+    kiškę 6 7. Kitais metais vizitavo tik Vilkijos ir Karmėlavos
+    parapijas 1.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:00"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208593
+
+- id: c-191214
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 214"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 214."
+  citata_originali: |
+    Argi nežinot, jogiai kožnas, išplė­
+    šius ar pavagiąs svetimą naudą, tol negali būti išgany­
+    tas, kol nesugrąžins, ką išplėšė ar pavogė.
+    Važiuodamas kiaurai per vyskupystę, aplankiau visus
+    kalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­
+    šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir
+    Kaune daugybę uždarytų per nelaimes, vaikų savo.
+  citata_rodoma: "Važiuodamas kiaurai per vyskupystę, aplankiau visus \nkalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­\nšiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir \nKaune daugybę uždarytų per nelaimes, vaikų savo."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208594
+
+- id: c-194090
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
+  citata_originali: |
+    Pirmo­
+    sios katalikų bažnyčios Žemaitijoje buvo įsteigtos pietrytinėje jos
+    dalyje — Ariogaloje, Raseiniuose, Viduklėje, Kražiuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211942
+
+- id: c-194786
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 481"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 481."
+  citata_originali: |
+    Taip tvirtina ponas Simonas
+    Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio au­
+    torius, man rašytame laiške (Raseiniai. 1836.IV.19).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213560
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Bermontininkai]]

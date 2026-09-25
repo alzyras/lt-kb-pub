@@ -67,5 +67,5 @@ Teodoras Narbutas teigia, kad naujų atėjūnų pasirodymas ir Lietuvos valdžio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

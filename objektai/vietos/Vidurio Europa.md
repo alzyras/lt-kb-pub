@@ -217,7 +217,7 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-24557
@@ -243,7 +243,7 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-24558
@@ -263,7 +263,7 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-49809
@@ -284,7 +284,7 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167032
@@ -312,7 +312,7 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -342,5 +342,5 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

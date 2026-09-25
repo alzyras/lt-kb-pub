@@ -64,5 +64,5 @@ Sprendžiant iš kreipinių į jį ir maldelių, išlikusių kroniko se ir senov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

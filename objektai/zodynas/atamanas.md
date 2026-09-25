@@ -80,7 +80,7 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-45504
@@ -110,5 +110,5 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -63,5 +63,23 @@ Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203207
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 56."
+  citata_originali: |
+    D. territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.
+    Kartais valsčiuje esti keletas pilių (III, 313, 321, 327), taigi ir jų apygardų, apylinkių
+    (istoriografijoje vartojamas ir pilies teritorijos terminas: Пашуто B. T. Образование..., c.
+    333; Pašuta V. Lietuvos..., p. 207; Jurginis J. Baudžiavos..., p. 86). Baltų administracinė
+    sistema buvusi panaši į senovės graikų (Gimbutienė M. Baltai, p. 145—146).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -85,7 +85,7 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185204
@@ -100,7 +100,7 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185205
@@ -118,5 +118,5 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

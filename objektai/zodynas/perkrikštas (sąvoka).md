@@ -123,7 +123,7 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184537
@@ -156,7 +156,7 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184538
@@ -179,7 +179,7 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184539
@@ -202,7 +202,7 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184540
@@ -223,5 +223,5 @@ Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

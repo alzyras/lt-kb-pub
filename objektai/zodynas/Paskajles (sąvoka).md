@@ -79,5 +79,5 @@ Buvo pagaliau midaus rūšis, vadinama paskajles, kuris labai greitai svaigindav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

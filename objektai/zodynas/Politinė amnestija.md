@@ -78,5 +78,5 @@ Rusijos caras Aleksandras 11 1856 m. paskelbė politinę amnestiją 1831 m. suki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -67,5 +67,5 @@ Išgirdę taip pat ezelionys žemaičius taip laimin gai kariaujant išsižadėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

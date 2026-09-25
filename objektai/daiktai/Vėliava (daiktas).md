@@ -183,7 +183,7 @@ Karūžuosiai į karę nešė vėliavas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-194947
@@ -200,7 +200,7 @@ Karūžuosiai į karę nešė vėliavas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-194975
@@ -226,7 +226,7 @@ Karūžuosiai į karę nešė vėliavas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-195327
@@ -243,7 +243,7 @@ Karūžuosiai į karę nešė vėliavas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-195608
@@ -263,7 +263,7 @@ Karūžuosiai į karę nešė vėliavas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-201808
@@ -282,7 +282,7 @@ Karūžuosiai į karę nešė vėliavas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-203805
@@ -299,7 +299,7 @@ Karūžuosiai į karę nešė vėliavas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-204830

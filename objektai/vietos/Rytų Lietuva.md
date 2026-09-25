@@ -68,6 +68,18 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   pagrindžia:
     - c-165054
 
+<a id="claim-t-208055"></a>
+- t-208055
+  teiginys: "Kita vertus, atlikta Rytų Lietuvos atminimo kultūros turinio analizė\", apė musi paminklus, gatvėvardžius, memorialines lentas ir kitas kultūrinės atminties raiškos formas, leidžia teigti, kad regione vyrauja su po Liublino unijos gyvavusia Abiejų Tautų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190673
+
 ## Citatos
 
 - id: c-165054
@@ -86,5 +98,36 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190673
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 89"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 89."
+  citata_originali: |
+    Taip pat pastebima, kad konfliktiškos
+    Lietuvos Didžiosios Kunigaikštystės istorijos simbolinių elementų interpretaci­
+    jos funkcionuoja labiau kaip vyresniųjų kartų atmintyje išlikę praeities reliktai,
+    jaunesniiyų kartų iš dalies „užmirštami", iš dalies interpretuojami iš naujo. Tad
+    įvairių Lietuvos tautinių grupių apsisprendimas gyventi vienoje valstybėje leidžia
+    Lietuvos Didžiosios Kunigaikštystės istorijoje rasti išteklių ne tik paremti pilietinei
+    teritorinei visų grupių tautinės tapatybės dimensijai (tiek puoselėjant tolerancijos
+    vertybes bei pilietinio lietuviškumo tradiciją, tiek bendromis ar hibridiškomis
+    simbolinėmis šio laikotarpio interpretacijomis), bet ir kurti požiūrius, išreiškiamus
+    kokybiniame tyrime užfiksuotomis giminystės ir „broliškumo" metaforomis".
+    Kita vertus, atlikta Rytų Lietuvos atminimo kultūros turinio analizė", apė­
+    musi paminklus, gatvėvardžius, memorialines lentas ir kitas kultūrinės atminties
+    raiškos formas, leidžia teigti, kad regione vyrauja su po Liublino unijos gyvavusia
+    Abiejų Tautų Respublika susiję istoriniai siužetai ir asmenybės, kas ryškiai kon­
+    trastuoja su kitur Lietuvoje (su nedidelėmis išimtimis) dominuojančiu didžiuoju
+    nacionaliniu pasakojimu.
+  citata_rodoma: "Kita vertus, atlikta Rytų Lietuvos atminimo kultūros turinio analizė\", apė­\nmusi paminklus, gatvėvardžius, memorialines lentas ir kitas kultūrinės atminties \nraiškos formas, leidžia teigti, kad regione vyrauja su po Liublino unijos gyvavusia \nAbiejų Tautų Respublika susiję istoriniai siužetai ir asmenybės, kas ryškiai kon­\ntrastuoja su kitur Lietuvoje (su nedidelėmis išimtimis) dominuojančiu didžiuoju \nnacionaliniu pasakojimu"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208055

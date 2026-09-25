@@ -72,5 +72,37 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196438
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 255-256"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 255-256."
+  citata_originali: |
+    Negalime neatsakyti į dar vieną gerbiamo švedų seno­
+    vės tyrinėtojo prielaidą, neva finai taip pat buvę pirmykš­
+    tės lietuvių tautos sudėtinė dalis, nes kažkur autorius
+    1 Untersuchungen iiber die alte Gesch. einiger nordisch. Volker,
+    elc.
+    2 Remiantis stebėjimais, kurie buvo padaryti kunigo Jordano me­
+    muaruose (Rubon. T. V. S. 241), buvo išspausdintas straipsnis, kur
+    kalbamu, jog Padauguvys, t. y. Infliantai, gimtąja kalba, latviškai,
+    buvo vadinami Widdu-zemme, Vidurinysis kraštas. Pasak Sfenderio
+    žodyno (1761 metų leidimas. P. 178), Widdas reiškia pietus, pietų
+    melą. Lietuviškai beveik lygiai taip pat. Kunigo Sirvydo žodyne (P.
+    86!) yra žodis widuris. Taigi, archetipas — Viclivaviorum. Galbūt tai
+    priklausė kokiai nors tarpinei lietuvių ir variagų tautai, nes būtent
+    tai byloja tas posakis*.
+    245
+
+    aptiko kaimo pavadinimą Kiligundus1, tokį patį kaip estų;
+    tai jam davė dingstį daryti išvadą, kad latviai kilę iš suo­
+    mių
+  statusas: verified
+  atnaujinta: "2026-09-13 18:04"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

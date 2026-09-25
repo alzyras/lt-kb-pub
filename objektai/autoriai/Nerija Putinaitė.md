@@ -57,3 +57,38 @@ Nerija Putinaitė knygoje „Šiaurės Atėnų tremtiniai“ parodė, kaip skiri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207684"></a>
+- t-001
+  teiginys: "Nerija Putinaitė knygoje „Šiaurės Atėnų tremtiniai“ parodė, kaip skiriasi ir kinta Lietuvos sampratos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190301
+
+## Citatos
+
+- id: c-190301
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 318"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 318."
+  citata_originali: |
+    LDK atminčių ir šešėlių viešpatijoje
+    Visai neseniai Nerija Putinaitė parodė, kaip gali skirtis ir kisti Lietuvos sampratos
+    (N. Putinaitė. Šiaurės Atėnų tremtiniai. Vilnius, 2004).
+  citata_rodoma: "Visai neseniai Nerija Putinaitė parodė, kaip gali skirtis ir kisti Lietuvos sampratos \n(N. Putinaitė. Šiaurės Atėnų tremtiniai. Vilnius, 2004)."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

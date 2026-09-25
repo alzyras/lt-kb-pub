@@ -67,9 +67,10 @@ Vorobjovo teigimu, Gedimino sostinės stabmeldiškosios šventyklos stovėjo šv
     Katedra, taipgi netoli Aušros Vartų ir Antakalnyje). Po 1387 metų, įvedus
     krikščionybę, prasidėjo gyva statyba.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

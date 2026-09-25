@@ -56,5 +56,5 @@ Vyriausiųjų žynių sąrašo pasmerkimas, Narbuto teigimu, paimtas iš Hartkno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

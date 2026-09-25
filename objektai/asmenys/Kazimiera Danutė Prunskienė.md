@@ -76,5 +76,5 @@ Pretekstu tapo Lietuvos Vyriausybės, vadovaujamos Kazimieros Danutės Prunskien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

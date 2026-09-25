@@ -64,5 +64,5 @@ Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintinga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

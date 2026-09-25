@@ -73,5 +73,5 @@ Ar tikės man lietuvių visuomenė, kad tas kulvarta nepasirašė po prašymu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

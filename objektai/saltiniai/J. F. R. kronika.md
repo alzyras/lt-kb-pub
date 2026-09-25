@@ -69,7 +69,7 @@ J. F. R. kronikoje teigiama, kad senovės lietuviai ir kuršiai garbino Kruonį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-201322
@@ -89,5 +89,5 @@ J. F. R. kronikoje teigiama, kad senovės lietuviai ir kuršiai garbino Kruonį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

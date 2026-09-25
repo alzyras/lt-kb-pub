@@ -56,6 +56,18 @@ Lasickis nurodė, kad Žemaičių kunigaikštystės valdininkas Jokūbas Laskovi
   pagrindžia:
     - c-172985
 
+<a id="claim-t-217013"></a>
+- t-217013
+  teiginys: "Lasickis sako, kad Jokūbas Laskovičius, Žemaičių kuni gaikštystės valdininkas, pasakojęs jam apie garbę, teiktą tame krašte dar daugeliui kitų dievų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198839
+
 ## Citatos
 
 - id: c-172985
@@ -80,5 +92,30 @@ Lasickis nurodė, kad Žemaičių kunigaikštystės valdininkas Jokūbas Laskovi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198839
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 344"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 344."
+  citata_originali: |
+    Matėme aukojimų aprašyme, kad
+    aukų paplotėliai buvo kepami mėtant juos per ugnį - tai buvo
+    apvalytoji duona, vadinamieji sikies nuplaudimies.
+    Lasickis sako, kad Jokūbas Laskovičius, Žemaičių kuni­
+    gaikštystės valdininkas, pasakojęs jam apie garbę, teiktą tame
+    krašte dar daugeliui kitų dievų. O iš kitų apeigų, išlikusių iš
+    stabmeldystės laikų, ten buvo žinoma maldelė, kurią autorius
+    perteikia šiais žodžiais: Perkūne Dewajte, ne muski und mana
+    diewu: melsu tavi paltu miessu ir išverčia ją šitaip: „Susilaikyk,
+    Perkūne, nedaryk žalos mano lauke: aš tau atiduodu šią paltį
+    lašinių“1 2.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217013

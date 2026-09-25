@@ -68,5 +68,5 @@ Netoli šios sruveno kita upė, seniau vadinama Mažąja Jūra, arba Jūrele, o 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

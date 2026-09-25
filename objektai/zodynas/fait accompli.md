@@ -75,5 +75,5 @@ Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -45,25 +45,39 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
 
 ## Teiginiai
 
-<a id="claim-t-188013"></a>
-- t-001
-  teiginys: "Narbutai įvadiniame straipsnyje vadinami sena lietuvių bajorų gimine, dokumentuose minima nuo Horodlės unijos laikų."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "gap::groups"
+<a id="claim-t-217833"></a>
+- t-217833
+  teiginys: "1863 m. sukilime aktyviai dalyvavo visa Narbutų šeima."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Horodlė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Narbutai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Horodlė: mention_match, place, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narbutai\" parinktas kaip owner_note_path. Targetas \"Horodlė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1784 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys apie Narbutų giminę ir atitinka citatos informaciją. Papildomos atribucijos nereikia, nes tai nėra legendinis ar vertinamasis teiginys."
   pagrindžia:
-    - c-170860
+    - c-199323
+
+<a id="claim-t-218987"></a>
+- t-218987
+  teiginys: "Narbutai yra sena lietuvių bajorų giminė, dokumentuose minima nuo Horodlės unijos laikų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201153
+
+<a id="claim-t-219943"></a>
+- t-219943
+  teiginys: "Narbutas greičiausiai pasiliko ištikimas imperijos pavaldi nys, nors, pasak kitos jo biografijos versijos, jis lyg ir tarnavo prancūzų administracijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -104,5 +118,38 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-199323
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
+  citata_originali: |
+    1863 m. sukilime aktyviai dalyvavo visa Narbutų šei­
+    ma: į miškus išėjo sūnūs Boleslovas, Pranciškus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217833
+
+- id: c-201153
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
+  citata_originali: |
+    Nar­
+    butai - sena lietuvių bajorų giminė, istoriniuose dokumentuose
+    minima nuo Horodlės unijos laikų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218987

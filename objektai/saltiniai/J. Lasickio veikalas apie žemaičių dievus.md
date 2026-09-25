@@ -251,6 +251,27 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   pagrindžia:
     - c-173358
 
+<a id="claim-t-218184"></a>
+- t-218184
+  teiginys: "Narbutas rašo, kad Lasickis paliko pirmos alaus statinės pradėjimo apeigų, vadintų nuleidimu, aprašymą Ragutienės garbei."
+  atnaujinta: "2026-09-19 18:09"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lasickio veikalas apie žemaičių dievus: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickio veikalas apie žemaičių dievus\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-197775
+    - c-199786
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas nurodo, kad Lasickis ir liaudies padavimai Raganomis vadino deives, globojusias tam tikrus medžius.'
@@ -318,7 +339,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173351
@@ -336,7 +357,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173352
@@ -363,7 +384,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-173353
@@ -382,7 +403,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -404,7 +425,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173355
@@ -429,7 +450,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173356
@@ -455,7 +476,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-173357
@@ -480,7 +501,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-173358
@@ -510,7 +531,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-177075
@@ -532,7 +553,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-179143
@@ -552,7 +573,7 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-179144
@@ -574,5 +595,184 @@ Narbutas rašo, kad Lasickis Dugnei priskyrė įmaišytos tešlos globą, bet pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
+
+- id: c-197775
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 348"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 348."
+  citata_originali: |
+    Už pir­
+    mą vagystę bausdavo nuplakdami rykštėmis; įrodytąjį pavo­
+    gus antrą kartą žiauriai primušdavo lazdomis, o nepasitaisiu-
+    sįjį ir pavogusį trečią kartą išvesdavo už miesto, toli nuo dievų
+    prieglobsčio, ir užpjudydavo didžiuliais šunimis, kurie jį vieto­
+    je surydavo.
+    Vestuvių apeigos
+    Sį platų straipsnį dar galėtume išplėsti, jeigu norėtume iš­
+    dėstyti visas smulkesnes žinias, tačiau aptinkama visada tas
+    pats dalykas, tiktai vis kitu būdu pakartotas, todėl tas ištęsi­
+    mas būtų tuščias skaitytojo kantrybės varginimas. Lietuviai ne­
+    sipriešino vedyboms su kitos tautos merginomis, nes lietuvių
+    apeigose istorija mums pateikia daug skolinių, kadangi gyvuoja
+    amžinas paprotys, jog vestuvių apeigose vadovaujamasi ne vy­
+    ro, o nuotakos tautiniu papročiu; kurios tautos buvo jaunoji,
+    pagal tos tautos apeigas vyko ir vestuvės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218184
+
+- id: c-198718
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
+  citata_originali: |
+    Lazdona (Lazdona)
+    Tai buvo ypatinga hamadriadė, pasak Lasickio, globojusi
+    vien tik lazdynus.
+    Medziojna (Medziojna)
+    Taip nuo žodžio Medžios - tankus miškas vadinosi miško
+    nimfos, kurios globojo miško tankmes ir, ten gyvendamos,
+    kenkdavo arba padėdavo žmonėms, todėl turėjo teisę būti jų
+    garbinamos. Apie jas žinome iš Lasickio ir liaudies padavimų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199786
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 344"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 344."
+  citata_originali: |
+    Matėme aukojimų aprašyme, kad
+    aukų paplotėliai buvo kepami mėtant juos per ugnį - tai buvo
+    apvalytoji duona, vadinamieji sikies nuplaudimies.
+    Lasickis sako, kad Jokūbas Laskovičius, Žemaičių kuni­
+    gaikštystės valdininkas, pasakojęs jam apie garbę, teiktą tame
+    krašte dar daugeliui kitų dievų. O iš kitų apeigų, išlikusių iš
+    stabmeldystės laikų, ten buvo žinoma maldelė, kurią autorius
+    perteikia šiais žodžiais: Perkūne Dewajte, ne muski und mana
+    diewu: melsu tavi paltu miessu ir išverčia ją šitaip: „Susilaikyk,
+    Perkūne, nedaryk žalos mano lauke: aš tau atiduodu šią paltį
+    lašinių“1 2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218184
+
+- id: c-200019
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
+  citata_originali: |
+    Prietarai, susiję su naminiais žalčiais Lietuvoje, buvo ne­
+    paprastai seni, ir apie juos pasakojo ypač keistų dalykų. Gva-
+    ninis8 ta dingstimi pateikia pasakojimą: „Vienas žmogus, tik­
+    ras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­
+    bintojų keletą avilių bičių. Vėliau, po ilgos jų bičiulystės, at­
+    vertė ir patį šeimininką į Kristaus tikėjimą. Sunkiai, labai steng­
+    damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
+    dievą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200166
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
+  citata_originali: |
+    Datonas (Datonus)
+    Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie
+    jį papasakojo Lasickis. Tenka spėlioti, kad tai buvo savotiškas
+    Plutono sekimas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200489
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 163"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 163."
+  citata_originali: |
+    Niekas
+    neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
+    tam tikros mitinės formulės, tai yra maldelės, matyt, iš bai­
+    mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
+    muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
+    sigauti.
+    Kaimiečiai iki šiol tebėra pamaldūs šiam dievaičiui, nors
+    dėl daugelio priežasčių beveik jau jį užmiršo ir savo tos rūšies
+    maldose turi galvoje tikrąjį Dievą; tas maldas kalba krikščio­
+    nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš
+    išeidami iš trobos, susėda ant suolo kartu su visais esančiais,
+    trumpai pasimeldžia ir patyli akis nukreipę į krosnį. Taip pa­
+    sėdi kurį laiką, tarytum dar kažką apmąstydami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201051
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
+  citata_originali: |
+    Markopoliai (Markopole)
+    Požemio dievaičiai, kuriuos ypač garbino didikai ir bajo­
+    rai. Aiškiu Lasickio liudijimu, Strijkovskis ir kiti trumpai mini
+    juos kaip požemio dievaičius. Tai buvo barstukai, tik kilmin-
+    gesnės giminės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201451
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  citata_originali: |
+    Mirė maždaug prieš 1220
+    metus. Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa­
+    statė stabą, kadangi po mirties jai pradėta teikti dievišką gar­
+    bę, kitaip sakant, ji buvo pripažinta deive. Toje vietoje jai bu­
+    vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
+    kutinių lietuvių stabmeldystės laikų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

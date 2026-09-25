@@ -121,6 +121,16 @@ Nenurodyta
   pagrindžia:
     - c-85363
 
+<a id="claim-t-223614"></a>
+- t-223614
+  teiginys: "Sventopelkas grąžino brolius ir kitus surastus belaisvius, tarp jų 70 kilmingų ir garbingų matronų."
+  atnaujinta: "2026-09-20 19:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-85362
@@ -148,7 +158,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-85363
@@ -183,7 +193,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -201,5 +211,39 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204819
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 88"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 88."
+  citata_originali: |
+    Apie Sventopelko ir brolių susitaikymą
+
+      Kai viską šitaip sutvarkė, iš gailestingojo dievo malonės kunigaikštis Sventopelkas,
+    iki šiol toks kietasprandis, toks atkaklus ir klastingas, kad nei prašymais, nei už pinigus,
+    nei grasinimais nesidavė palenkiamas ir sugrąžinamas  į šventosios motinos bažnyčios
+    prieglobstį, dabar, po šio smarkaus smūgio, įgavo proto, be to, matydamas, kad šiuo
+    metu nebestengsiąs broliams priešintis, atvyko pas legatą bei pas brolius  ir, jiems
+    nuolankiai prisipažinęs, kad klydo, šitaip elgdamasis su tikėjimu ir tikinčiaisiais, paprašė
+    jį pasigailėti ir kilniaširdiškai su juo pasielgti, pasižadėdamas atsilyginti broliams savo
+    darbais ir savo turtu. Šitai išgirdęs, legatas ne kartą tuo reikalu tarėsi su broliais ir sakė
+    jiems, kad sunku tikėti tuo, kuris daug kartų sulaužęs taikos sutartis. Kita vertus, jis
+    suprato, kad nereikia atstumti prašančio atleidimo, tad pasirinko šitai, kas jam rodėsi
+    būsią geriau, taigi taiką, nes tik taikos metu gerbiamas tas, kuris teikia taiką. Dėl to,
+    brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių
+    sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį,
+    o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą] bei
+    savo kariuomenės vadą Vojaką [Vojachą], be to, paliesdamas ranka švenčiausias dievo
+    evangelijas, prisieksiąs, kad padėsiąs broliams prieš netikėlius, kai šitai būsią reikalinga,
+    ir kad nuo šiol nekamuosiąs nei tikėjimo, nei tikinčiųjų tokiomis baisybėmis, kokių prieš
+    tai yra ėmęsis; šiems pažadams sutvirtinti jis davė broliams raštą, savo antspaudu
+    patvirtintą277.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

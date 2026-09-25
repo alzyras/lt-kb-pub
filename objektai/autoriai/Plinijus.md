@@ -264,6 +264,64 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   pagrindžia:
     - c-174785
 
+<a id="claim-t-213511"></a>
+- t-213511
+  teiginys: "Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia ga (Lib."
+  atnaujinta: "2026-09-19 14:51"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-214595"></a>
+- t-214595
+  teiginys: "Plinijus rašo, kad spaliai buvę kairiojoje Dono pakrantėje, prie Kimerijos Bospo ro2; šis teiginys, paimtas iš senovės geografų ir esantis Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai sena, be to, Jordanas teigia, kad spaliai gyveno dabarti nėje."
+  atnaujinta: "2026-09-19 14:51"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194631
+
+<a id="claim-t-215385"></a>
+- t-215385
+  teiginys: "Plinijus pateikia pasakojimą, kad sarmatai buvo medų palikuonys, gyvenę prie Dono žemupio ir Juodosios jūros."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196121
+
+<a id="claim-t-215483"></a>
+- t-215483
+  teiginys: "Plinijus rašo, jog Hilleviones6, labai gausūs žmonės, gyveno Skandinavijo je."
+  atnaujinta: "2026-09-19 14:51"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196532
+
+<a id="claim-t-217071"></a>
+- t-217071
+  teiginys: "Kad romėnų laivai prieš Kristaus gimimą plaukiojo po Bal tijos jūrą, nėra abejonės, nes tai aiškiai liudija Plinijus."
+  atnaujinta: "2026-09-19 14:51"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199896
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie Baltijos jūros.'
@@ -365,7 +423,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173260
@@ -386,7 +444,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173660
@@ -410,7 +468,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173661
@@ -434,7 +492,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173662
@@ -456,7 +514,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173663
@@ -477,7 +535,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173664
@@ -499,7 +557,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-173666
@@ -523,7 +581,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-173667
@@ -556,7 +614,7 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-174785
@@ -584,6 +642,139 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-011
+
+- id: c-194631
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
+  citata_originali: |
+    Apie šią tautą senovės ty­
+    rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
+    buvę kairiojoje Dono pakrantėje, prie Kimerijos Bospo­
+    ro2; šis teiginys, paimtas iš senovės geografų ir esantis
+    Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai
+    sena, be to, Jordanas teigia, kad spaliai gyveno dabarti­
+    nėje Mazovijoje. Norint sužinoti Filimero žygio kryptį,
+    reikia prisiminti, kad pirmiausia spaliai atvyko į tas Va­
+    karų šalis nuo Azovo jūros, o vėliau visi ar galbūt veik­
+    lesnė jų dalis keliavo su gotais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214595
+
+- id: c-194720
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
+  citata_originali: |
+    Vėliau kalbėsime apie šio astronomo
+    keliones, o dabar pasakysime tik tiek, jog visas jo apra­
+    šymas yra toks aiškus ir raiškus, kad nedera abejoti: tuo­
+    metiniai Prūsijos gyventojai nesivadino estais. Jie rinko
+    gintarą Abalo saloje; jį pardavinėjo gotonai. Ši kelionė
+    įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų
+    net iki Tacito senovės autoriai niekur nemini Estijos, nors
+    kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Pli-
+    nijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis
+    aprašymais, estų nemini.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:02"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196121
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 61"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 61."
+  citata_originali: |
+    Tik iš
+    Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,
+    yra medų palikuonys, gyvenę prie Dono žemupio ir Juo­
+    dosios jūros; pirmiausia buvo sarmatai, amazonių kara­
+    lienių valdomi ginekokratuinenai, po jų evazai, kotai, ki-
+    kimenai, mesėnai, kostobokai, choatrai, žigai, dandarai,
+    tisagetai, turkai1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215385
+
+- id: c-196260
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  citata_originali: |
+    Tie medžiai,
+    neteisingai laikomi medį mėgdžiojančiomis iškasenomis,
+    yra gintaro sandėliai. Jūroje išilgai prūsų pakrančių slypi
+    ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
+    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
+    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
+    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
+    skirtos nuo medžių žievės1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196532
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
+  citata_originali: |
+    Ta­
+    citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
+    tojai, gyvenę Pomeranijoje prie Helio5. Plinijus rašo, jog
+    Hilleviones6, labai gausūs žmonės, gyveno Skandinavijo­
+    je. Pasvarsčius nepernelyg didelį Plinijaus geografinių
+    aprašymų tikslumą, šiuose trijuose pavadinimuose gali­
+    ma lengvai įžvelgti lyvių protėvius, priklausiusius keltų-
+    gerrnanų tautoms.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215483
+
+- id: c-199896
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  citata_originali: |
+    Reikėtų surasti vidurį tarp tų dviejų
+    kraštutinumų.
+    Kad romėnų laivai prieš Kristaus gimimą plaukiojo po Bal­
+    tijos jūrą, nėra abejonės, nes tai aiškiai liudija Plinijus. Kad
+    Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry­
+    šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie­
+    sa7.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217071

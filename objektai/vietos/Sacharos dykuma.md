@@ -58,6 +58,16 @@ Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą prip
   pagrindžia:
     - c-171949
 
+<a id="claim-t-219520"></a>
+- t-219520
+  teiginys: "Pagaliau jei gu kronikos ir padavimai tvirtina apie lietuvius, kad jie slepią kai kurias savo apeigas , jeigu autoriai, įvairiapusiškai išma nantys visuotinę mitologiją, tą patį pripažįsta ir laukiniams Af rikos Sacharos dykumos gyventojams’, tai kodėl tą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
 ## Citatos
 
 - id: c-171949
@@ -84,5 +94,5 @@ Narbutas remiasi autoriais, kurie, jo teigimu, kai kurių apeigų slėpimą prip
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

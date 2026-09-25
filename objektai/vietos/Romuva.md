@@ -156,6 +156,19 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-188106
 
+<a id="claim-t-207607"></a>
+- t-207607
+  teiginys: "Romuvoje ugnį Bumblauskas įvardija kaip pagrindinį kulto objektą, o jos garbinimą sieja su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis."
+  atnaujinta: "2026-09-19 20:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190224
+
 ## Citatos
 
 - id: c-24436
@@ -171,11 +184,12 @@ object_page_seo_policy_version: object-page-policy/v7
     šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
   citata_rodoma: "Šio proceso ankstyvąja apraiška reikėtų laikyti\nšaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-24437
@@ -195,7 +209,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-80850
@@ -217,7 +231,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-80851
@@ -238,7 +252,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-167018
@@ -257,7 +271,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-167019
@@ -276,7 +290,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-187833
@@ -302,7 +316,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188106
@@ -324,8 +338,28 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-190224
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 104"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 104."
+  citata_originali: |
+    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų. Todėl, kad būtų
+    išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje;
+    tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritori-
+    joje esančios šventovės gynybai. Romuvoje pagrindinis kulto objektas buvo ugnis, kurios
+    garbinimas susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
+  citata_rodoma: "Romuvoje pagrindinis kulto objektas buvo ugnis, kurios \ngarbinimas susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207607
 
 ## Ryšiai
 - Romuva priklausė [[objektai/vietos/Nadruva]]

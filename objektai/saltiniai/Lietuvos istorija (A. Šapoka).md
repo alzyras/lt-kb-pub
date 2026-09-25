@@ -71,5 +71,5 @@ Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­ menėje yra surišta 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

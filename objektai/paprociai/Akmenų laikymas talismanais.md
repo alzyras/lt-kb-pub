@@ -73,5 +73,5 @@ T. Narbutas teigia, kad Amerikos indėnai išsaugojo atmintį apie akmenų garbi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

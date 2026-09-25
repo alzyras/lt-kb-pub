@@ -75,7 +75,7 @@ Transumptas perteikia Vytauto rašytinį įsipareigojimą įvykdyti Ordinui anks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189275
@@ -90,5 +90,5 @@ Transumptas perteikia Vytauto rašytinį įsipareigojimą įvykdyti Ordinui anks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

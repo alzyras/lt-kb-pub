@@ -107,7 +107,7 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184403
@@ -131,7 +131,7 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-187832
@@ -154,5 +154,27 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-195044
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
+  citata_originali: |
+    33
+    Jau labai senais laikais graikai užmezgė santykius su
+    Juodosios jūros pakrančių skitais. Sakoma, kad Neopto-
+    lemas pirmasis pradėjo steigti pirmas pastovias graikų
+    gyvenvietes, pirmiausia prie Dnestro, paskui ir prie Dnep-
+    ro žiočių. Tai davė pradžią graikų emporiumams, arba
+    prekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą
+    pradėjo klestėti ir vėliau virto tokiais turtingais kaip
+    Olbija, Heraklėja, Chersonas ir kiti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

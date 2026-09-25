@@ -65,5 +65,5 @@ Salyno taikos sutarties originalai neišliko, o Ordinas išleido reversinę suta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

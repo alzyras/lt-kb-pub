@@ -163,6 +163,73 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-115222
 
+<a id="claim-t-207617"></a>
+- t-207617
+  teiginys: "1840 m. Lietuvos vardas buvo išbrauktas iš Vilniaus gubernijos pavadinimo."
+  atnaujinta: "2026-09-19 18:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1840 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bendro pobūdžio formuluotė pakeista tiesioginiu sakiniu, aiškiai nurodančiu datą ir konkretų administracinį objektą."
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190234
+
+<a id="claim-t-209422"></a>
+- t-209422
+  teiginys: "1817 m. Vilniaus gubernijos bajorų seimelyje kelta smuklių ir bravorų arendavimo bei žydų išvarymo į miestus problema."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1817 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie 1817 m. Vilniaus gubernijos bajorų seimelyje keltą problemą."
+  pagrindžia:
+    - c-191879
+
+<a id="claim-t-209498"></a>
+- t-209498
+  teiginys: "Vilniaus, Kauno ir Gardino gubernijose."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192118
+
+<a id="claim-t-209651"></a>
+- t-209651
+  teiginys: "Smetoną Vilniaus ir Suvalkų gubernijoj, o p. Banaitį Kaimo gub."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192271
+
+<a id="claim-t-209652"></a>
+- t-209652
+  teiginys: "Siųskime pinigus jeigu nenorim nustoti Lietuvai Vilniaus ir Gardino gubernijų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192272
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Narbutui istorinė Lietuva apėmė Vilniaus, Kauno, Gardino ir Minsko gubernijas, o „litvinais“ vadinti tenykščiai katalikų bajorai.'
@@ -206,7 +273,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-115219
@@ -232,7 +299,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -253,6 +320,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-115221
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -276,7 +344,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-115222
@@ -297,6 +365,110 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-006
+
+- id: c-190234
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 208"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 208."
+  citata_originali: |
+    Tiesa, Medicinos fakultetas pertvarkomas
+    į Medicinos-chirurgijos akademiją, o Teologijos fakultetas – į Dvasinę akademiją. Tačiau ir
+    šios 1842–1844 m. perkeliamos į Kijevą ir Peterburgą. 1839 m. likviduojama Graikų katalikų
+    bažnyčia, 1840 m. naikinamas Lietuvos Statuto veikimas, Lietuvos vardas išbraukiamas iš
+    Vilniaus ir Gardino gubernijų pavadinimų, o 1843 m. sudaroma nauja Kauno gubernija.
+  citata_rodoma: "1839 m. likviduojama Graikų katalikų \nbažnyčia, 1840 m. naikinamas Lietuvos Statuto veikimas, Lietuvos vardas išbraukiamas iš \nVilniaus ir Gardino gubernijų pavadinimų, o 1843 m. sudaroma nauja Kauno gubernija."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207617
+
+- id: c-191879
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 51"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 51."
+  citata_originali: |
+    Nors jai buvo tas pats, kas moka akcizą ir šelpia kiaurą iždą,
+    ' tačiau arendatoriai žydai tiek 1812 m. karo metu, tiek per 1831 m.
+    sukilimą buvo viena iš įtakingų jėgų, kurias administracija galėjo
+    panaudoti, siekdama politinių tikslų. Galbūt tuo galima paaiškinti
+    vilkinimą kardinaliai spręsti šį klausimą, kadangi pačios Rusijos
+    gilumon žydai tuo metu nebuvo įsileidžiami ir jokio palankumo
+    vyriausybė jiems nerodė.
+    Simptomiškas yra ir faktas, kad garsiajame Vilniaus gubernijos
+    bajorų seimelyje, įvykusiame 1817 m, ir iškėlusiame baudžiavos
+    panaikinimo projektą, smuklių ir bravorų arendavimo bei žydų
+    išvarymo į miestus problema taip pat keliama61.
+  citata_rodoma: "Simptomiškas yra ir faktas, kad garsiajame Vilniaus gubernijos \nbajorų seimelyje, įvykusiame 1817 m, ir iškėlusiame baudžiavos \npanaikinimo projektą, smuklių ir bravorų arendavimo bei žydų \nišvarymo į miestus problema taip pat keliama61."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209422
+
+- id: c-192118
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 54"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 54."
+  citata_originali: |
+    Caras Aleksandras II 1857. XI. 20 reskriptu krei­
+    pėsi į Vilniaus generalgubernatorių V. Nazimovą, leis­
+    damas Vilniaus, Kauno ir Gardino gubernijose sudalyti
+    vietos bajorų dvarininkų komitetus valstiečių reformos
+    projektams nagrinėti.
+  citata_rodoma: "Vilniaus, Kauno ir Gardino gubernijose"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209498
+
+- id: c-192271
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 52"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 52."
+  citata_originali: |
+    In-
+    galiojome p. A. Smetoną Vilniaus ir Suvalkų
+    gubernijoj,
+    o p. Banaitį
+    Kaimo gub.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209651
+
+- id: c-192272
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 52"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 52."
+  citata_originali: |
+    Siųs-
+    kime pinigus jeigu nenorim nustoti Lietuvai
+    Vilniaus ir Gardino gubernijų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209652

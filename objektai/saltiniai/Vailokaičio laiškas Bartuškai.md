@@ -61,5 +61,5 @@ Su rasta dvi proklemaciji, pono Vailokaičio laiš kas į mane, kuriame aprašo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

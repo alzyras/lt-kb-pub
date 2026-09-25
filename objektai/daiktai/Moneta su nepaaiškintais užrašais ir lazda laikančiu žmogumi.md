@@ -83,5 +83,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198811
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 251."
+  citata_originali: |
+    Iki šiol negalėjau gauti užrašų paaiškinimo, nors stengiau­
+    si ir siunčiau piešinius įvairiems mokovams, lyginau su įvai­
+    riais raidynais, esančiais išleistuose veikaluose.
+    Kaldinimo būdas, sidabras ir pavidalas - visai tokie, kaip
+    ir kitoje monetoje - tikriausiai rodo jų tą patį amžių. Net gali
+    būti susiję su kuriuo nors senovės Šiaurės Europos valdovu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

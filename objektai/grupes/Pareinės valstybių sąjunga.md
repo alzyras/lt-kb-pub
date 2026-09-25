@@ -61,5 +61,5 @@ Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -1,0 +1,58 @@
+---
+tipas: ivykis
+pavadinimas: 'Kupiškio rajono vietinio radijo laidų transliavimo oficiali pabaiga'
+saltiniai:
+  - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
+datos:
+  - '1990 m.'
+date_start: '1990'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Kupiškio rajono vietinio radijo laidų transliavimo oficiali pabaiga
+
+## Santrauka
+
+Oficialus rajono vietinio radijo laidų transliavimas baigtas 1990 m. balandį.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Oficialus rajono vietinio radijo laidų transliavimas baigtas 1990 m. balandį.'
+  šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
+  puslapiai: "p. 843 (PDF 844)"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+## Santrauka
+
+Oficialus rajono vietinio radijo laidų transliavimas baigtas 1990 m. balandį.

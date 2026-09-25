@@ -69,18 +69,6 @@ Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio,
   pagrindžia:
     - c-172983
 
-<a id="claim-t-197400"></a>
-- t-003
-  teiginys: "Henrikas Latvis būdavo čiabuvių priimama."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-172984
-
 ## Citatos
 
 - id: c-172983
@@ -110,7 +98,7 @@ Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -132,5 +120,51 @@ Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-200407
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 420"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 420."
+  citata_originali: |
+    Taigi, jei tiek Prūsijoje, tiek ir
+    Lietuvoje buvo Romovė arba daug tokių šventovių, jei iš tik­
+    rųjų krivūlė Prūsų Lietuvoje dar iki šiol neužmiršta, tai ar gali
+    būti didžiai sunku patikėti, kad krivis galėjo atsirasti ir tuose
+    kraštuose ikidusburginiais laikais? O kodėl apie krivį nieko
+    nemini Henrikas Latvis, rašęs apie Livoniją, apie šalį, kurią
+    krivis valdė? Būtų galima manyti, kad Livonijoje nebūta jokio
+    krivio pėdsako; net galima tvirtinti, kad Dusburgietis, klysda­
+    mas, jog Prūsijos krivio valdžia buvo taip labai paplitusi, tuo
+    labiau norėjo matyti Livoniją klausančią jo įsakymų, kuo la­
+    biau stiprėjo ir įgavo didesnę reikšmę jo lyginimas su popie­
+    žiumi; žinoma, galima būtų tiesiog prisipažinti, kad joks Prū­
+    7 Atvirkščiai, Strijkovskis apie tai rašo daugiau už prūsų ir latvių
+    kroninininkus, nes jis po ranka turėjo istorijos šaltinius, kurie bylojo,
+    kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo pa­
+    pasakoti ir daugiau smulkmenų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201223
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 422"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 422."
+  citata_originali: |
+    Kai tik ordinas už­
+    kariaudavo kurią sritį, kartu joje nelikdavo nei krivių, nei ri­
+    kių. Jų viešpatystė baigdavosi akimirksniu, kai tik prasidėda­
+    vo ordino valdžia ir kai ji būdavo čiabuvių priimama. Kas gi
+    tuo dokumentu turėjo būti panaikinta ar uždrausta, kitaip sa­
+    kant, šiais požiūriais išvardyta iš to, ko jau nebebuvo nė pėd­
+    sako ir kas jau savaime buvo išspręsta?
+  statusas: verified
+  atnaujinta: "2026-09-13 18:04"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

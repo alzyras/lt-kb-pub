@@ -88,6 +88,19 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
   pagrindžia:
     - c-185696
 
+<a id="claim-t-208465"></a>
+- t-208465
+  teiginys: "Tėvams buvo patariama suaugusiems sūnums perduoti palivarkus prižiūrėti, kad šie, ūkininkaudami tėvų priežiūroje, sąžiningai atsiskaitytų už pajamas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:53Z"
+  pagrindžia:
+    - c-191085
+
 ## Citatos
 
 - id: c-176024
@@ -106,7 +119,7 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184851
@@ -125,7 +138,7 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185696
@@ -135,6 +148,32 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 4."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 21:24"
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-191085
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 219"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 219."
+  citata_originali: |
+    Kvor­
+    tos, medžioklė, szokimai ir „zabovos" yra tai vienutinis
+    jos užsiėmimas. Jaunikaiežiai pripratę prie tokio gyve­
+    nimo budo, paskui par visą savo amžių niekumi nenori
+    užsiimti; mislija, kad jie tikt dėl „zabovos" yra sutver­
+    ti.— O tai visiems tėvams velyczio, idant sunums paau­
+    gus atdatu jiems ant užžiurėjimo savo palivarkus, kad
+    jie gaspadoraudami po tėvų priežiūra visados tėvams aku-
+    ratnei iszdutu rokundas isz įeigos (dochodu).
+  citata_rodoma: "O tai visiems tėvams velyczio, idant sunums paau­\ngus atdatu jiems ant užžiurėjimo savo palivarkus, kad \njie gaspadoraudami po tėvų priežiūra visados tėvams aku- \nratnei iszdutu rokundas isz įeigos (dochodu)."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208465

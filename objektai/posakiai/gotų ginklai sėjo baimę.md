@@ -56,5 +56,5 @@ Nei Skitija, nei Germanija nebuvo šiam kariūnui neįveikia mos, visur gotų gi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

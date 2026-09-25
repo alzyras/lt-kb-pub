@@ -68,5 +68,5 @@ Svarbi Lietuvos ir Vokiečių ordino santykiams Salyno sutartis sudaryta 1398 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

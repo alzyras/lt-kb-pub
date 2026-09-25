@@ -58,5 +58,5 @@ O vilniečiai, pagal savo privilegijas neturintys mokėti muito, atvykę į Kaun
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

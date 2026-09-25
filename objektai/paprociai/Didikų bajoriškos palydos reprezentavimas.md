@@ -76,5 +76,5 @@ Bajoriška palyda didikams buvo reikšminga reprezentaciniu požiūriu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

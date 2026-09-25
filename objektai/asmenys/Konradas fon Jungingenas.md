@@ -91,5 +91,5 @@ Munkaviškės Didysis Ordino magistras, vyriausiasis Ordino kariuomenės vadas U
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

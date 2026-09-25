@@ -62,5 +62,5 @@ Nepaisydami to, kad du pirmi šios genties pavadinimo skiemenys panašūs į gra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -194,7 +194,7 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -217,6 +217,6 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003

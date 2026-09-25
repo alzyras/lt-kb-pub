@@ -92,7 +92,7 @@ Rusios metraščiai liudija, kad lietuviai tuo metu kariavo su totoriais, kuriem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189594
@@ -108,7 +108,7 @@ Rusios metraščiai liudija, kad lietuviai tuo metu kariavo su totoriais, kuriem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-189595
@@ -126,5 +126,5 @@ Rusios metraščiai liudija, kad lietuviai tuo metu kariavo su totoriais, kuriem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

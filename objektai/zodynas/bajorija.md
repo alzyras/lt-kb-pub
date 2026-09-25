@@ -43,6 +43,18 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
   pagrindžia:
     - c-176018
 
+<a id="claim-t-215517"></a>
+- t-215517
+  teiginys: "Kokiu gi kitu būdu galėjo suformuoti bajoriją tautos, ne žinojusios jokių kitų pajamų, o tik gautas iš žemdirbys tės, jei ne per dideles žemėvaldas?"
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196575
+
 ## Citatos
 
 - id: c-176018
@@ -60,5 +72,28 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196575
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
+  citata_originali: |
+    Nuo seniausių laikų šios gentys pri­
+    klausė tam tikrai kastai arba luomui, turėjusiam virše­
+    nybę kitiems; iš čia buvo renkami vadai ir įsakinėtojai.
+    Kokiu gi kitu būdu galėjo suformuoti bajoriją tautos, ne­
+    žinojusios jokių kitų pajamų, o tik gautas iš žemdirbys­
+    tės, jei ne per dideles žemėvaldas? Vadinasi, krašto ba­
+    jorai buvo turtingi žemvaldžiai, plačių valsčių ponai, at­
+    skirų apskričių savininkai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215517

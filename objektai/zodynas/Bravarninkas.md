@@ -83,6 +83,7 @@ Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-185987
   autoriai: "A. Sabaliauskas; M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931)"
@@ -99,5 +100,5 @@ Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

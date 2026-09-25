@@ -110,7 +110,7 @@ Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189640
@@ -132,7 +132,7 @@ Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-189641
@@ -154,7 +154,7 @@ Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-189642
@@ -171,5 +171,5 @@ Adomas Mickevičius poemą „Konradas Valenrodas“, jo pavadintą istorine sak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

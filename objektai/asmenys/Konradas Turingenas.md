@@ -79,5 +79,5 @@ Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Tu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

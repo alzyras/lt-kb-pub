@@ -156,7 +156,7 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179307
@@ -176,7 +176,7 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179308
@@ -201,7 +201,7 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184330
@@ -228,7 +228,7 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184331
@@ -250,5 +250,48 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-194853
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 169."
+  citata_originali: |
+    Hartknochas
+    jį vadina Divanes, in genetivo: Divanis. Foigtas (t. 1, p. 32) vadina jį
+    Divones, o 623 puslapyje — kitaip, t. y. Dimones, Dimonis, Dywones.
+    Gruna'u (mano rankraštyje II traktato I skyrius) vieną kartą jį įvar­
+    dija Dymoynis, o kitą kartą — Dymoniys, kitur Dybonis, o dar kitur
+    Dyvaonys, paskutinį kartą Dymonis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196570
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 169."
+  citata_originali: |
+    Gruna'u (mano rankraštyje II traktato I skyrius) vieną kartą jį įvar­
+    dija Dymoynis, o kitą kartą — Dymoniys, kitur Dybonis, o dar kitur
+    Dyvaonys, paskutinį kartą Dymonis. Iš to galima padaryti išvadą, jog
+    šis vardas, t. y. Divonis, jeigu nėra graikiškas žodis Dionysios, Dio-
+    nys, — tai yra tikrai lietuviškas žodis, išverstas iš lotyniško Theodo-
+    rus, arba Theodotus; Teodoras Augusto laikais buvo išsiųstas į Siau­
+    rės kraštus, iki pat Baltijos jūros, kad atliktų geografinius tyrimus ir
+    išmatuotų žemes. Juk visi slavai graikų ir romėnų vardus — Theo-
+    dorus, Theophilus. Theodatus, Deogratus etc. — vertė į savo kalbą
+    taip: Bogumilas, Boguchvalas, Bogislavas ir t. t. Panašiai ir lietuviai
+    Teodotą išvertė savaip — Diemonis (Diewas — Deus).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

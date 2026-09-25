@@ -71,5 +71,5 @@ Ir ten jį vainikavo karaliaus vainiku8, ir Kazimieras tapo Len kijos karaliumi 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

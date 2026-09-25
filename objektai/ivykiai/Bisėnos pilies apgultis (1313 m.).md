@@ -77,5 +77,5 @@ Henrikas iš Plockės, anot Narbuto, su gausia kariuomene apsupo Bisėnos pilį,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

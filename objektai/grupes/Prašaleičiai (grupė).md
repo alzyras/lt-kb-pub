@@ -67,5 +67,5 @@ Oi Titi, Titi!" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai st
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -69,5 +69,24 @@ Jono Krikštytojo šventės išvakarėse, šokinėjimą aplink laužą, šokimą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199265
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 343-344"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 343-344."
+  citata_originali: |
+    Būrimus, darytus su ugnimi, uždegta šv. Jono Krikštytojo
+    šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-
+    344
+
+    rijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­
+    romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­
+    je pusėje, praktikuodavo dar kitą piromantijos rūšį
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -69,5 +69,5 @@ Pagudėnai smarkiai puolė prie Kristburgo esančią pamedėnų pilaitę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

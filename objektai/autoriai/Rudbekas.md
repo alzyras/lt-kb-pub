@@ -68,6 +68,18 @@ Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie 
   pagrindžia:
     - c-187927
 
+<a id="claim-t-213317"></a>
+- t-213317
+  teiginys: "Be viso to, dar prisiminkime, ką dėstė daug seno vės autorių nuo Jordano ir net iki Rudbeko ir Ba sės apie Šiaurės tautų lopšį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196931
+
 ## Citatos
 
 - id: c-174538
@@ -93,7 +105,7 @@ Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187927
@@ -115,5 +127,31 @@ Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196931
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
+  citata_originali: |
+    O iš čia didelė tauta ėmė lietis į
+    visus kraštus; iš eilės Europos vakarai, šiaurė, rytai bei
+    pietūs regėjo ir gausias kariuomenes, ir daugybę atvy­
+    kėlių, vadinamų variagais, gotais ir įvairiais kitais var­
+    dais. Be viso to, dar prisiminkime, ką dėstė daug seno­
+    vės autorių nuo Jordano* ir net iki Rudbeko** ir Ba­
+    sės*** apie Šiaurės tautų lopšį. Susimąstykime skaity­
+    dami išmintingus Aleksandro Humbolto veikalus apie
+    Žemės rutulio temperatūros kitimą ir aiškiai suprasime
+    mūsų pateiktas mintis, jų tikėtinumą, žodžiu, įsitikinsi­
+    me, kad mūsų Šiaurėje labai seniai būta gyventojų, ku­
+    rie gyveno po laimingesnių dangumi.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213317

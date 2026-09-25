@@ -101,6 +101,19 @@ canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (vicem
   pagrindžia:
     - c-184839
 
+<a id="claim-t-207530"></a>
+- t-207530
+  teiginys: "Adolfas Šapoka, Bumblausko vertinimu, ragino LDK istorijoje ieškoti tik lietuvių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190147
+
 ## Citatos
 
 - id: c-64340
@@ -123,7 +136,7 @@ canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (vicem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166729
@@ -142,7 +155,7 @@ canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (vicem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184839
@@ -158,5 +171,25 @@ canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (vicem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190147
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 240"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 240."
+  citata_originali: |
+    Vilnius mintimis pasiekiamas garsiuoju šūkiu „Mes be Vilniaus nenurimsim“, ta-
+    čiau tik mintimis. Povytautinis Vilnius įsivaizduojamas arba kaip lenkybės židinys, arba,
+    atvirkščiai, – kaip grynas Lietuvos miestas, be konfesijų ir tautų margumyno, be rusėnų
+    miesto ir raštijos tradicijų, be stačiatikių ir graikų katalikų, pagaliau be lenkų ir poloni-
+    zacijos. Adolfo Šapokos raginimu LDK istorijoje ieškoma tik lietuvių.
+  citata_rodoma: "Adolfo Šapokos raginimu LDK istorijoje ieškoma tik lietuvių."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207530

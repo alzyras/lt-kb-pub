@@ -71,5 +71,5 @@ Narbutas teigia, kad prūsai po Didžiosios šventės kasmet sudaužydavo Kurko 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

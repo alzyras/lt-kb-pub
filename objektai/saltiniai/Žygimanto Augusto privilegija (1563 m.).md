@@ -54,6 +54,22 @@ Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų k
   pagrindžia:
     - c-166785
 
+<a id="claim-t-207571"></a>
+- t-207571
+  teiginys: "1563 m. Žygimanto Augusto privilegija, kaip nurodo Alfredas Bumblauskas, sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų teisine norma."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1563 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Religinis vertinimas paliktas su autoriaus atribucija, o iš citatos įtrauktas ir privilegijos poveikis Statutams. Kitų konfesinių aplinkybių nepridėta."
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190188
+
 ## Citatos
 
 - id: c-166785
@@ -74,5 +90,24 @@ Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190188
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 70"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 70."
+  citata_originali: |
+    Transilvanijoje
+    tai įvyko 1569 m. Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi
+    visų krikščioniškų konfesijų teises, o tai savo ruožtu tapo ir Antrojo bei Trečiojo Lietuvos
+    Statutų teisine norma.
+  citata_rodoma: "Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi \nvisų krikščioniškų konfesijų teises, o tai savo ruožtu tapo ir Antrojo bei Trečiojo Lietuvos \nStatutų teisine norma."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207571

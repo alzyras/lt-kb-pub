@@ -109,6 +109,6 @@ Teodoras Narbutas Ravenos geografo IX a. informaciją siejo su teiginiu, kad aga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

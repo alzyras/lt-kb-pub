@@ -320,6 +320,30 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   pagrindžia:
     - c-189184
 
+<a id="claim-t-210740"></a>
+- t-210740
+  teiginys: "Jurgis Svetoslavovičius viešėjo Riazanėje pas savo uošvį Olegą Ivanovičių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193879
+
+<a id="claim-t-210936"></a>
+- t-210936
+  teiginys: "Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, valachų kalba vadinami vaivadomis5, ir Bu'garų šalies val dovas, bulgarų kalba vadinamas despotu6, ir kiti di dieji kunigaikščiai — Tverės didysis kunigaikštis, ir Riazanės didysis kunigaikštis, ir Odojevo didysis ku."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194278
+
 ## Citatos
 
 - id: c-32383
@@ -342,7 +366,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-32384
@@ -361,7 +385,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-37694
@@ -385,7 +409,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-37695
@@ -409,7 +433,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -444,7 +468,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-007
 
@@ -464,7 +488,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-93193
@@ -492,7 +516,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-008
 
@@ -512,7 +536,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-168484
@@ -537,7 +561,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-170592
@@ -558,7 +582,7 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
     - t-014
 
@@ -577,8 +601,68 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
+
+- id: c-193879
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 96-97"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 96-97."
+  citata_originali: |
+    O kunigaikštis Jurgis Svetoslavovičius tuo metu
+    viešėjo Riazanėje pas savo uošvį, kunigaikštį Olegą
+
+    Ivanovičių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210740
+
+- id: c-194075
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 98."
+  citata_originali: |
+    Šeši tūkstančiai devyni šimtai devintaisiais metais
+    kunigaikštis Jurijus Svetoslavovičius bei Riazanės ku­
+    nigaikštis Olegas su kariuomenėmis atėjo prie Smo­
+    lensko37. Tuo metu buvo kilęs maištas ir nesantaika.
+    Vieni norėjo Vytauto, o kiti — tėvonies kunigaikščio
+    Jurijaus38. Bet kunigaikštis Jurijus susisiekė su smo-
+    lenskiečiais, tie priėmė jį ir atidarė jam miesto vartus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194278
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 178"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
+  citata_originali: |
+    Ir Moldavų bei Besarabų * šalies valdovai, valachų
+    kalba vadinami vaivadomis5, ir Bu'garų šalies val­
+    dovas, bulgarų kalba vadinamas despotu6, ir kiti di­
+    dieji kunigaikščiai — Tverės didysis kunigaikštis, ir
+    Riazanės didysis kunigaikštis, ir Odojevo didysis ku­
+    nigaikštis, ir Didysis Naugardas, ir Didysis Pskovas;
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210936
 
 ## Ryšiai
 - Puolė Riazanę: [[objektai/asmenys/Chudandachas]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

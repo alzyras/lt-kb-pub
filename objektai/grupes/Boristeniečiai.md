@@ -113,6 +113,18 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   pagrindžia:
     - c-175717
 
+<a id="claim-t-213561"></a>
+- t-213561
+  teiginys: "Graikų boristeniečių prekyba su skitų žemdirbiais, pasak Narbuto, lėmė jų apsigyvenimą Kankinėje."
+  atnaujinta: "2026-09-20 18:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196468
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narbuto svarstymu, Ptolemėjo geninai galėjo būti graikai boristeniečiai, kilę iš Kijanėjos, arba Chianėjos, krašto.'
@@ -158,7 +170,7 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175716
@@ -180,7 +192,7 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175717
@@ -208,6 +220,78 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
+
+- id: c-196048
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 165."
+  citata_originali: |
+    167
+    Gintaras, alavas ir brangūs kailiai Pietų ir Rytų gy­
+    ventojams buvo labai reikalingos prekės, todėl keliai, ku­
+    riais gabeno šias prekes, buvo rasti labai seniai ir dažnai
+    naudojami. Pats ¡seniausias kelias ėjo per Aldeską ir Pan-
+    tikapą į Dneprą, kur pirkliavo iboristeniečiai. Apie tai žinių
+    pateikia Herodotas, galbūt iš senų pavadinimų žinojęs
+    apie argonautų žygį tuo keliu į šiaurinį Okeaną.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196206
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
+  citata_originali: |
+    Herodotas ¡savo kelionės po Skitiją metu teiravosi
+    apie gintaringas vietas; boristeniečiai, ariba Padneprės
+    graikų kolonistai, jam pasakoję, jog šis produktas pasie­
+    kiąs juos iš šiaurės vakaruose esančios jūros. Bet turbūt
+    dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
+    vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
+    Keliautojas tik sužinojo, kad jis renkamas prie Eridano
+    upės, įtekančios į minėtą jūrą; Dionyzas iš Charakso vėl­
+    gi kalba apie gintarą, randamą ten, kur Aldeskos upė
+    įteka į Šiaurės jūrą3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196468
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 378."
+  citata_originali: |
+    Vadinasi, įrodę Karkinito įlankos ir Karkinęs miesto
+    egzistavimo prie skitų žemdirbių gyvenamos Dnepro da­
+    lies tikėtinumą ir remdamiesi tuo, ką anksčiau išdėstėme,
+    aptinkame ir jo ištakų įrodymų.
+    Savo ruožtu graikų boristeniečių prekybiniai santy­
+    kiai su skitų žemdirbiais lėmė, jog pirmieji apsigyveno
+    Kankinėje. Herodotas, keliaudamas po Skitiją, be abejo,
+    turėjo lankytis šioje vietoje, nes, kaip matome iš jo ap­
+    rašymų, jis bandė nustatyti kelią į šiaurę ir ketino tęsti
+    savo kelionę į tą pusę. Jam labiausiai rūpėjo gauti žinių
+    apie šiaurines jūras bei jų produktus, ypač alavą ir gin­
+    tarą. Tik tenykščiai graikų boristeniečiai, prekiavę šiais
+    gaminiais, atkeliaujančiais į Karkinę per Pantikapą iš
+    Aldesko, galėjo paaiškinti jam minėtus dalykus.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213561

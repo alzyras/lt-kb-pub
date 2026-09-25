@@ -241,7 +241,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175101
@@ -272,7 +272,7 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
     - t-006
@@ -291,6 +291,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005

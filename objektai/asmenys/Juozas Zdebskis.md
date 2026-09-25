@@ -95,5 +95,5 @@ canonical_biography: "1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarins
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -129,7 +129,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -152,7 +152,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -174,5 +174,67 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-203415
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    Būdami paprasti žmonės,  nestengė jo protu suvokti, o kadangi
+    neturėjo rašto,  tai nė iš rašto jo negalėjo pažinti. Jie be galo stebėdavosi, sužinoję,
+    kad žmogus gali raštu perduoti savo norą kitam, čia nesančiam. Kadangi jie nepažino
+    dievo, tai, suprantama, klaidingai dievino visokiausius tvarinius, būtent: saulę, mėnulį ir
+    žvaigždes, griaustinį, sparnuočius ir keturkojus, netgi rupūžes.
+    Jie turėjo šventųjų giraičių, laukų ir vandenų, kur niekas nedrįso nei medžio kirsti, nei
+    žemės dirbti, nei žuvauti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203729
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    Be kitų nuostolių, kurių ten pridarė, išsivarė su savimi grobį
+    — nesuskaitomą daugybę žmonių ir gyvulių. Kai traukėsi atgal, kai kuriems belaisviams
+    pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė
+    neturinti nei ginklų, nei nieko kita, su kuo galėtų gintis, ir pradėjo nuoširdžiai juos
+    įkalbinėti drąsiai leistis iš paskos ir pulti. Šių žodžių padrąsinti krikščionys, dideliais
+    būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis;
+    sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę
+    ir išsivarė į amžiną vergovę moteris, vaikus bei kitus likusius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205609
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    Kai traukėsi atgal, kai kuriems belaisviams
+    pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė
+    neturinti nei ginklų, nei nieko kita, su kuo galėtų gintis, ir pradėjo nuoširdžiai juos
+    įkalbinėti drąsiai leistis iš paskos ir pulti. Šių žodžių padrąsinti krikščionys, dideliais
+    būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis;
+    sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę
+    ir išsivarė į amžiną vergovę moteris, vaikus bei kitus likusius. Šitaip toji žemė po šiai
+    dienai paliko nusiaubta203.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

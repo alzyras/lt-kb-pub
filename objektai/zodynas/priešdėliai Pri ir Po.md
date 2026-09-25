@@ -72,7 +72,7 @@ Ka dangi šios respublikos teritorija ribojosi su tolimesnėmis vienos giminės 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-196567
@@ -92,5 +92,5 @@ Ka dangi šios respublikos teritorija ribojosi su tolimesnėmis vienos giminės 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

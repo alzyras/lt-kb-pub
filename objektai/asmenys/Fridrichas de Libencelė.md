@@ -83,7 +83,7 @@ canonical_biography: "387); anot jos, Ragainės komtūras Fridri­ chas de Liben
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

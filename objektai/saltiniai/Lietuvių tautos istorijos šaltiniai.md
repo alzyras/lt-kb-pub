@@ -87,5 +87,5 @@ Dusburgietis teigia, kad kai kurie Dusburgiečio kronikos fragmentai buvo verči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

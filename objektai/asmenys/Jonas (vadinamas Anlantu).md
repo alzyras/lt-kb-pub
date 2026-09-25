@@ -84,5 +84,5 @@ Dusburgietis teigia, kad apie Albrechto, Romos karaliaus, nužudymą 1308 viešp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

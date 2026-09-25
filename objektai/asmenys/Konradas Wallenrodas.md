@@ -87,5 +87,5 @@ Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugs�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

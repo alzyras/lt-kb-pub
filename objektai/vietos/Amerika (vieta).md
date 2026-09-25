@@ -146,7 +146,7 @@ Ir mums pri sėjo vienų-vieniems apleisti Amerikos angas. Jeigu kas nors iš li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192289
@@ -166,7 +166,7 @@ Ir mums pri sėjo vienų-vieniems apleisti Amerikos angas. Jeigu kas nors iš li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-192290
@@ -182,7 +182,7 @@ Ir mums pri sėjo vienų-vieniems apleisti Amerikos angas. Jeigu kas nors iš li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-192291
@@ -202,7 +202,7 @@ Ir mums pri sėjo vienų-vieniems apleisti Amerikos angas. Jeigu kas nors iš li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-192292
@@ -221,7 +221,7 @@ Ir mums pri sėjo vienų-vieniems apleisti Amerikos angas. Jeigu kas nors iš li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-194868
@@ -241,5 +241,5 @@ Ir mums pri sėjo vienų-vieniems apleisti Amerikos angas. Jeigu kas nors iš li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

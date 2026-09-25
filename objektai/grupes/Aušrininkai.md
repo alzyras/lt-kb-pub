@@ -120,6 +120,19 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   pagrindžia:
     - c-77430
 
+<a id="claim-t-207502"></a>
+- t-207502
+  teiginys: "Tautinio atgimimo veikėjai, ypač aušrininkai, atsigręžė į Vytautą."
+  atnaujinta: "2026-09-20 06:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190119
+
 ## Citatos
 
 - id: c-77430
@@ -140,11 +153,12 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     kai ir jų tautinio palikimo tęsėjai.
   citata_rodoma: "Tokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis\nir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau­\nkantas. Per eilę dešimtmečių iki pat nepriklausomybės metų tuo\nšūkiu pasekė Lietuvoje ir mūsų romantiškai nusiteikusieji aušrinin­\nkai ir jų tautinio palikimo tęsėjai."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
     - t-005
@@ -171,6 +185,27 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
+
+- id: c-190119
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 56"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 56."
+  citata_originali: |
+    Enėjas Silvijus Pikolominis
+    „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks dide-
+    lis Tu ir kokia didelė Tavo tėvynė.“ Tačiau ypač Vytauto kultas pradėtas puoselėti XVI a.,
+    kai Lietuvos visuomenė suskato ieškoti ideologinės atspirties prieš Lenkijos (Jogailaičių)
+    planą sukurti valstybių sąjungą, kurios hegemonė būtų Lenkija. Į Vytautą atsigręžė ir
+    tautinio atgimimo veikėjai, ypač „aušrininkai“.
+  citata_rodoma: "Į Vytautą atsigręžė ir \ntautinio atgimimo veikėjai, ypač „aušrininkai“."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207502

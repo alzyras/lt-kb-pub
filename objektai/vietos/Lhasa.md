@@ -73,9 +73,10 @@ historical_names: []
     6.
   citata_rodoma: "—\nČia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven He-\ndino kelionė i Azijos širdį — Tibetą, įvairūs nuotykiai, kovos su vie­\ntos tautelėmis, kurios žūt būt neįsileidžia nė vieno europiečio, nė vie­\nno ne savo krašto žmogaus į savo krašto gilumą, į jų šventąjį mies­\ntą — Lhasą.\n6."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

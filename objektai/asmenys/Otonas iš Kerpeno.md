@@ -86,7 +86,7 @@ Otonas vadovavo daug metų, mirė birželio 2 dieną ir buvo palaidotas Akone. A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-206290
@@ -102,5 +102,5 @@ Otonas vadovavo daug metų, mirė birželio 2 dieną ir buvo palaidotas Akone. A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

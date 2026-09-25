@@ -57,6 +57,16 @@ Nenurodyta
   pagrindžia:
     - c-177336
 
+<a id="claim-t-214664"></a>
+- t-214664
+  teiginys: "Honorija slapta nusiuntė hunų karaliui Atilai savo sužieduotuvių žiedą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo sužieduotuvių žiedą.'
@@ -99,5 +109,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

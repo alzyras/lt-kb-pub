@@ -53,5 +53,5 @@ Iš visų jo pilių viena pati apsvilusi Plocko jo valdžioj 1 K o i a l o w i c
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -70,5 +70,5 @@ Tai ir lėmė pirmą Baltijos jūros rytinių pakrančių gotų kolo nizavimą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

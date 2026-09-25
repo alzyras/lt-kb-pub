@@ -60,6 +60,18 @@ Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį
   pagrindžia:
     - c-173018
 
+<a id="claim-t-216183"></a>
+- t-216183
+  teiginys: "Narbutas teigia, kad Bodhidana persikėlė į Tibetą, apsigyveno prie Sungo kalno netoli Honaros ir mirė 495 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200885
+
 ## Citatos
 
 - id: c-173018
@@ -92,5 +104,38 @@ Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200885
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 280"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 280."
+  citata_originali: |
+    Šiaip žinoma,
+    kad pirmasis budizmo patriarchas gimė Ceilone6; sukūręs reli­
+    giją palyginti su visomis kitomis tų kraštų religijomis supranta­
+    mesnę liaudžiai ir tinkamesnę jos gerovei, jis persikėlė į apsi­
+    švietusią šalį, tai yra į Indiją, kur braminai skleidė vietinį, arba
+    vien tik savo kraštui būdingą, tikėjimą, kadangi, pasak jų, žmo­
+    gus, miręs nepašlakstytas šventųjų upių vandeniu, negalįs būti
+    išganytas; Budhos sektos šalininkai su šituo nesutinka, kitaip
+    sakant, leidžia laikyti vandenį šventu kiekvienoje šalyje. Dėl ši­
+    to turėjo kilti religiniai vaidai, ir pagaliau po keleto amžių, tai
+    yra praėjus pusšešto amžiaus po Kristaus, Šakjamunis dvide­
+    šimt aštuntasis įpėdinis, pavadintas Bodhidana, persikėlė į Ti­
+    betą ir apsigyveno prie šventojo Sungo kalno, netoli Honaros
+    miesto; ten ir mirė krikščionių eros 495 metais. Ten gyvenda­
+    mas, vyriausiasis kunigas daug ką pakeitė ir papildė apeigas,
+    hierarchiją bei kitas išorines apraiškas naujovėmis taip, kad da­
+    bartinis lamaizmas, atrodo, nemažai panašus į senovės budiz­
+    mą, kurio principų dalį savyje išsaugojo senasis lietuvių tikė­
+    jimas.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216183

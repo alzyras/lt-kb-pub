@@ -85,5 +85,5 @@ Dusburgietis teigia, kad brolis Konradas iš Blindenburgo, išėjęs kautis su j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

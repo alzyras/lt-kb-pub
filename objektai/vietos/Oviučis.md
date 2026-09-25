@@ -77,5 +77,24 @@ Oviučį, Lietuvos metraščio pasakojimu, tą patį pavasarį kartu su Žitomir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194309
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 95"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 95."
+  citata_originali: |
+    O kunigaikštis
+    Vladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­
+    ti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui.
+    Didysis kunigaikštis Vytautas, išžygiavęs tą patį pava­
+    sarį, paėmė Zitomiro ir Oviučio miestus. Pas jį iš
+    Kijevo atvyko kunigaikštis Vladimiras.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

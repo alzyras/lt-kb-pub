@@ -53,5 +53,5 @@ Tais pačiais metais jis buvo Vilniuje išspausdintas atskira knyga Plebiscit ab
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

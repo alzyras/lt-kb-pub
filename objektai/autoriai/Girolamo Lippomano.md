@@ -89,5 +89,5 @@ canonical_biography: "Žinoma, šie, bent jau žuvusių skaičiai, yra gerokai p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

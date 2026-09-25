@@ -136,6 +136,18 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   pagrindžia:
     - c-16789
 
+<a id="claim-t-208019"></a>
+- t-208019
+  teiginys: "Kazimieras Semenavičius veikale „Didysis artilerijos menas“ rašė apie tai, ką derėtų vaizduoti fejerverkuose ir kaip organizuoti jų kūrimą."
+  atnaujinta: "2026-09-20 15:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190641
+
 ## Citatos
 
 - id: c-16789
@@ -158,7 +170,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-70088
@@ -176,7 +188,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-70089
@@ -199,7 +211,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -224,3 +236,25 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-190641
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 323"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 323."
+  citata_originali: |
+    Fejerverkų projektavimo pagrindai buvo dėstomi artilerijos vadovėliuose.
+    Apie tai, ką derėtų vaizduoti fejerverkuose ir kaip organizuoti jų kūrimo darbą, rašė
+    Kazimieras Semenavičius veikale Didysis artilerijos menas'' - viename iš svarbiausių
+    XVII-XVIII a. artilerijos vadovėlių Europoje. Anot K. Semenavičiaus, pirotechnikas
+    turėjo įvaldyti piešimo meną, sugebėti iš medžio, vaško ar kitų medžiagų padaryti
+    modelį, pagal modelį apskaičiuoti realius parametrus ir pasamdyti reikiamus meis­
+    trus tai adikti, sekti, kad pasamdyti amatininkai viską vykdytų pagal nurodymus.
+  citata_rodoma: "Apie tai, ką derėtų vaizduoti fejerverkuose ir kaip organizuoti jų kūrimo darbą, rašė \nKazimieras Semenavičius veikale Didysis artilerijos menas'' - viename iš svarbiausių \nXVII-XVIII a. artilerijos vadovėlių Europoje. Anot K. Semenavičiaus, pirotechnikas \nturėjo įvaldyti piešimo meną, sugebėti iš medžio, vaško ar kitų medžiagų padaryti \nmodelį, pagal modelį apskaičiuoti realius parametrus ir pasamdyti reikiamus meis­\ntrus tai adikti, sekti, kad pasamdyti amatininkai viską vykdytų pagal nurodymus."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208019

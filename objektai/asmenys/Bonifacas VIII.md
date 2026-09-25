@@ -147,17 +147,27 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   pagrindžia:
     - c-60534
 
-<a id="claim-t-197062"></a>
-- t-007
-  teiginys: "Bonifacas VIII nepakenčia tik niekingos nuodėmės, jis tik ją persekioja bei atperka."
-  atnaujinta: "2026-07-12 22:31"
+<a id="claim-t-221888"></a>
+- t-221888
+  teiginys: "Bonifacas VIII suteikė visišką nuodėmių atleidimą jubiliejaus metais."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60535
+    - c-204118
+
+<a id="claim-t-223902"></a>
+- t-223902
+  teiginys: "Bonifacas VIII kanonizavo Liudviką, Prancūzijos karalių."
+  atnaujinta: "2026-09-20 00:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -194,7 +204,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-60533
@@ -218,7 +228,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-60534
@@ -238,7 +248,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
     - t-006
@@ -263,8 +273,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
 
 - id: c-60536
   autorius: "Petras Dusburgietis"
@@ -287,5 +295,67 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202916
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
+  citata_originali: |
+    „Ir dievas matė visa, ką buvo padaręs, ir buvo labai gera”, ir nebuvo
+    nieko tokio, ko padaręs neapkęstų. Jis nepakenčia tik niekingos nuodėmės, jis tik ją
+    persekioja bei atperka. Todėl ir tas, kuris per šešias dienas vienu žodžiu viską sukūrė,
+    daugiau nei 33 metus pasaulyje triūsė, nes troško atpirkti nuodėmę. Šitai ir yra vienui
+    vienas dalykas, kuris jam nepatinka, kuris žeidžia jo didybę, kuris žadina jo — tokio
+    švelnaus ir malonaus — rūstį, šitai yra tas dalykas, kuris iš angelo padaro velnią, iš
+    laisvojo — vergą, iš sveikojo — paliegėlį ir galadienį, iš laimingojo— pavargėlį, iš piliečio
+    — užguitą tremtinį, iš dievo sūnų — velnio sūnus, šitai yra tas dalykas, kuris niekada
+    nepalieka be bausmės.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204118
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 243."
+  citata_originali: |
+    Tais pačiais metais buvo jubiliejus, ir jo šventenybė Bonifacas, popiežius, suteikė
+    visišką nuodėmių at leidimą kiekvienam, kas lanko šventųjų Petro be Pauliaus, apaštalų,
+    slenksčius
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221888
+
+- id: c-205843
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
+  citata_originali: |
+    Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
+
+       Tais  pačiais metais  prasidėjo  nesantarvė  tarp  Bonifaco,  popiežiaus,  ir  Pilypo,
+    Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos
+    karalystės reikalai esą betarpiškai pavaldūs apaštališkajam sostui, ir pasiuntė popiežius
+    priklausomybės reskriptą su bule Prancūzijos karaliui, tvirtindamas, jog tas, kas teigiąs
+    priešingai, esąs eretikas. Šis reskriptas buvo perskaitytas  ir sudegintas Paryžiuje,
+    karaliaus rūmuose, daugybės dvasininkų bei pasauliečių akivaizdoje. Karalius paskelbė
+    15 kaltinimų popiežiui ir kreipėsi į busimąjį susirinkimą arba popiežių. Vis dėlto popiežius
+    Romos susirinkime išsiteisino nuo šių kaltinimų (Ptol. p. 1221 ir kt.; Mart. p. 438).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

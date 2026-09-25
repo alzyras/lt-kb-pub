@@ -69,5 +69,5 @@ Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

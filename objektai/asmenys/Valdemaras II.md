@@ -84,5 +84,25 @@ Dusburgietis teigia, kad 160—161), kai Danijos karaliaus Valdemaro II valdžia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202859
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
+  citata_originali: |
+    Tuo
+    metu Lietuvos vedamos kovos mastą rodo ir kiti 1219 m. įvykiai: jos kariuomenė puolė
+    šiaurėje iki Saremos, Sakalos ir kt. teritorijų, kovojo su vokiečių riteriais, kai popiežiaus
+    remiami jų sąjungininkai Danijos feodalai tvirtinosi šiaurės Estijoje (LRCh, eil. 1423—
+    1552; Regesta..., p. 25; Varakauskas R. Vokiečių feodalų agresija..., p. 27; История
+    Эстонской ССР, l, с. 160—161), kai Danijos karaliaus Valdemaro II valdžia plito vokiečių
+    užkariautoje Livonijoje ir Rygoje (Caune M. Rīgas pilsētas cina..., lpp. 79).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

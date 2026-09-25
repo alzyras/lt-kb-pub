@@ -85,5 +85,24 @@ Teodoras Narbutas Jasono vadovaujamą kelionę datuoja 1350 m. pr. Kr. ir apraš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194822
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 42"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
+  citata_originali: |
+    Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
+    rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė
+    vyko Argo laivu, taip vadinamu gal dėl jo statytojo, o
+    plaukę kartu jūreiviai buvo vadinami argonautais. Tai
+    buvo 1350 metais iki Kristaus gimimo, 70 metų prieš
+    1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

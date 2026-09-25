@@ -93,7 +93,7 @@ PUB = Preussisches Urkundenbuch, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67398
@@ -118,5 +118,45 @@ PUB = Preussisches Urkundenbuch, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-205111
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  citata_originali: |
+    162 Kulmo (dab. Chelmnas, Chelmno, LLR) pilies ir kt. Šios žemės pilių sunaikinimą
+    patvirtina 1222 (ar 1223) m. Konrado privilegija vyskupui Kristijonui (PUB, 1, 1, Nr.
+    41, p. 28).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206127
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
+  citata_originali: |
+    Realizuojant popiežiaus
+    planus, 1215 m. 2-oje pusėje ar 1216 m. pradžioje Kristijonas paskelbtas pirmuoju
+    Prūsijos vyskupu (PUB, 1, 1, Nr. 9, 10; Pakarklis P. Kryžiuočių..., p. 203—204). Kristijono
+    misija apėmė gana didelę teritoriją, greičiausiai  ir visą Pamedę,  ji galėjo siekti net
+    Sembą. Kristijonui radus bendrą kalbą su prūsų nobiliais, nemaža prūsų priėmė krikštą.
+    Stiprindamas savo pozicijas Prūsijoje, Kristijonas stengėsi išvengti pavaldumo lenkų
+    bažnyčiai  ir feodalams, norėjusiems pajungti prūsų naujakrikščius. Popiežiaus bulės
+    liudija, kad lenkų feodalai, nepaisydami Kristijono nepritarimo, braudavosi į apkrikštytų
+    prūsų žemes. Kristijonas netgi buvo gavęs popiežiaus įgaliojimą uždėti prakeikimą tokiems
+    kryžininkams (PUB, 1, 1, Nr. 16, 31). Popiežius 1217.III.3 leido Kristijonui organizuoti
+    kryžiaus žygį į kitas Prūsijos žemes (PUB, 1, 1, Nr. 15; Pakarklis P. Kryžiuočių..., p. 205).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

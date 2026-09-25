@@ -82,5 +82,5 @@ Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

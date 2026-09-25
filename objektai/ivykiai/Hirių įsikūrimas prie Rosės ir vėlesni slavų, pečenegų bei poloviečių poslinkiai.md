@@ -150,6 +150,22 @@ Nenurodyta
   pagrindžia:
     - c-179238
 
+<a id="claim-t-212417"></a>
+- t-212417
+  teiginys: "Teodoro Narbuto pasakojime Jaroslavas po 1031 m. žygio į Lenkiją belaisvius kėlė arčiau Kijevo, bet Rosės krašte kolonijų nesteigė dėl pečenegų."
+  atnaujinta: "2026-09-20 19:11"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: po 1031 m.; gyvenimo laikotarpis: 1031 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Pečenegai gyveno Ukraina“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai sieja Jaroslavo veiksmus su Rosės krašto kolonijų nebuvimu. Palikta Narbuto pasakojimo atribucija ir nepridėta duomenų apie 1041 m."
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-194895
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Teodoro Narbuto pasakojime Jaroslavas po 1031 m. žygio į Lenkiją belaisvius kėlė arčiau Kijevo, bet Rosės krašte kolonijų nesteigė dėl pečenegų.'
@@ -201,7 +217,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173896
@@ -225,7 +241,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174751
@@ -254,7 +270,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-179237
@@ -281,7 +297,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-179238
@@ -306,5 +322,80 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-194394
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
+  citata_originali: |
+    Tas pats Jaroslavas 1041
+    metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų
+    lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur
+    negalima matyti ukrainiečių tautybės žmonių susimai­
+    šymo su lietuviais. Smukus pečenegams dešiniojoje Dnep-
+    ro pakrantėje, nutautėję hiriai su tomis gentimis persi­
+    kėlė į kairiąją šios upės pakrantę; jie įsiterpė tarp polo-
+    viečių ir kartu su jais buvo išstumti kitapus Dono, kur
+    davė pradžią Belgorodo totoriams. Tai įvyko 1128 me­
+    tais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194503
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 297."
+  citata_originali: |
+    Gotams persikėlus į deši­
+    nįjį Dnestro krantą, tai žinoma iš gotų istorijos ir Bizan­
+    tijos rašytojų kūrinių, nei gotų, nei dakų ten jau nega­
+    lėjo būti; todėl žemė buvo neužimta, ir lietuvių tauta hi-
+    riai, ėję įkandin gotų, tikriausiai ten ir apsigyveno maž­
+    daug II krikščioniškosios eros amžiaus pabaigoje. Šią
+    liesą patvirtina ir vėlesnė šio krašto istorija. III amžiaus
+    pabaigoje ar IV amžiaus pradžioje slavų tiveriečių gen­
+    tys dėl kažkokių aplinkybių pokyčių persikėlė nuo Dnest­
+    ro žemupio prie Dnepro ir pasistūmėjo palei šią upę aukš-
+    lyn net iki Rosės žiočių kaip tik tada, kai jau dauguma
+    birių perėjo prie Dunojaus, galbūt norėdami sustiprinti
+    pastipusią skiriu ir sudargų karinę galią.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194895
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
+  citata_originali: |
+    Tačiau jis negalėjo įkurti jokių kolonijų
+    krašte, esančiame prie Rosės, nes ten gyveno pečenegai
+    su orda, vadinama Charoboe. Tas pats Jaroslavas 1041
+    metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų
+    lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur
+    negalima matyti ukrainiečių tautybės žmonių susimai­
+    šymo su lietuviais. Smukus pečenegams dešiniojoje Dnep-
+    ro pakrantėje, nutautėję hiriai su tomis gentimis persi­
+    kėlė į kairiąją šios upės pakrantę; jie įsiterpė tarp polo-
+    viečių ir kartu su jais buvo išstumti kitapus Dono, kur
+    davė pradžią Belgorodo totoriams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212417

@@ -80,5 +80,5 @@ canonical_biography: "1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teis�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

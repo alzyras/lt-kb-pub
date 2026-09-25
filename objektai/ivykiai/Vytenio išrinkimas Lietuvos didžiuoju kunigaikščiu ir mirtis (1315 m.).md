@@ -83,5 +83,5 @@ Narbutas teigia, kad visuotiniame Lietuvos suvažiavime Kernavėje, vadovaujant 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

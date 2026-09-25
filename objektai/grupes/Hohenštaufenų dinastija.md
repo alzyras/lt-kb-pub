@@ -76,5 +76,5 @@ Narbutas nurodo, kad imperatoriai Fridrikas I ir Henrikas VI iš Hohenštaufenų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -100,5 +100,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200300
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 108."
+  citata_originali: |
+    Lietuviai teikė jam garbę, laikydami žalčius ir maitindami
+    juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai. Jis
+    priklausė pagrindiniams dievams ir iš jų buvo žemiausias, ka­
+    dangi valdė žemės elementą. Jo valdžioje buvo visa, kas val­
+    goma, ko reikėjo gyvoms būtybėms išsimaitinti. Todėl jam bu­
+    vo aukojami pirmieji žemės derliaus grūdai, medžių vaisiai,
+    pirmos sužvejotos žuvys ir sumedžioti žvėrys. Ypatingos au­
+    kos jam buvo atnašaujamos rudenį, per šventę, vadintą Di­
+    džiąja.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

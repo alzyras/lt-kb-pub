@@ -77,5 +77,5 @@ Apie Volynijos ginčą liudija tiktai Jadvygos dokumentas, duotas 1393 m. lapkr.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

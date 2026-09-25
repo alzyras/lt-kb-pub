@@ -80,5 +80,5 @@ Dusburgietis teigia, kad vojakas [Vojachas] davė broliams raštą, savo antspau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

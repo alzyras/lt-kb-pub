@@ -66,5 +66,5 @@ Tų sričių ponai savo dvaruose laikė ištisus kariuomenės pulkus, tačiau ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

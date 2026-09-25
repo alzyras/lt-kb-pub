@@ -57,9 +57,10 @@ Baro konfederacija susidarė Podolės Baro miestelyje kovai su Rusijos priespaud
     todėl kalbėti apie valstiečių ir bajorų sąveiką ir bendrą
     kovą 1769 metais yra gerokai per anksti.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

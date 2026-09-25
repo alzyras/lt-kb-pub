@@ -77,5 +77,5 @@ XIV a. IV-ajame dešimtmetyje Mikalojus iš Jerošino Dusburgiečio kroniką iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

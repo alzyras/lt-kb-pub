@@ -38,26 +38,6 @@ canonical_biography: "Žemaičiai mielai priėmė Kantautą seniūnu, nes jis bu
 
 ## Teiginiai
 
-<a id="claim-t-186123"></a>
-- t-001
-  teiginys: "Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Daumantas (kunigaikštis, XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kantautas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Daumantas (kunigaikštis, XV a.): mention_match, person, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kantautas\" parinktas kaip owner_note_path. Targetas \"Daumantas (kunigaikštis, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  pagrindžia:
-    - c-169484
-
 <a id="claim-t-193933"></a>
 - t-002
   teiginys: "Kantautas buvo kilęs iš Žemaičių."
@@ -141,8 +121,6 @@ canonical_biography: "Žemaičiai mielai priėmė Kantautą seniūnu, nes jis bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-176558
   autorius: "Anoniminis metraštininkas"
@@ -164,5 +142,5 @@ canonical_biography: "Žemaičiai mielai priėmė Kantautą seniūnu, nes jis bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

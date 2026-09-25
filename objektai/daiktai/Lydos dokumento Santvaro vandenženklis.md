@@ -81,5 +81,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198267
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 249"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 249."
+  citata_originali: |
+    Apklausinėjus žydą ir kaimietį, paaiškėjo, kad dau­
+    giausia buvo plonų monetų, visos vienodo antspaudo; dviejų
+    rūšių storosios sudarė pusę viso radinio svorio; sidabras aukš- 31
+    31
+    Dėl Santvaro atvaizdo buvo įvairiausių nuomonių. Visų pirma bu­
+    vo abejojama dėl popieriaus autentiškumo: ar jis priklausė ikikrikščio-
+    niškajai epochai ir 200 metais buvo panaudotas dokumentui rašyti. Bet
+    buvo rastas popierius su tokiu pat ženklu, tik be ratinio užrašo; jis įtikino,
+    jog kažkur Lietuvoje arba Lietuvos Rusioje buvo fabrikas, gaminęs to­
+    kios rūšies popierių. Taigi galėjo panašus egzistuoti nuo seno.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -71,5 +71,5 @@ iš XVI-XVII amžių doku­ mentų rinkinio « Lietuvos valstiečių ir miestel�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

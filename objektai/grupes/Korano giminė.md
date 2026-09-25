@@ -74,5 +74,28 @@ Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194373
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 170."
+  citata_originali: |
+    Labai maža jų grįžo į Ordą.
+    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
+    dievo gailestingumą, o Korano giminė — neapsakomą
+    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
+    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
+    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
+    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
+    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
+    vimi daug belaisvių ir turėdami rankas pilnas aukso,
+    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

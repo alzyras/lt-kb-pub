@@ -34,21 +34,6 @@ canonical_biography: "Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiš
 
 Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „legis custos“, „sacerdos“, „ewa“ ir „eu-werd“.
 
-## Teiginiai
-
-<a id="claim-t-190463"></a>
-- t-001
-  teiginys: "Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „legis custos“, „sacerdos“, „ewa“ ir „eu-werd“."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173346
-
 ## Citatos
 
 - id: c-173346
@@ -72,5 +57,3 @@ Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

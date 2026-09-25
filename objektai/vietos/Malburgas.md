@@ -192,7 +192,7 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177479
@@ -213,7 +213,7 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177480
@@ -239,7 +239,7 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-177481
@@ -280,7 +280,7 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177482
@@ -301,11 +301,12 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
   citata_rodoma: "Teutonų \nordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­\ngonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­\ntais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­\nkami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 \nmetais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti \nbemaž visi Varmės miestai.\nTuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik \namžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­\nkų karalių - Boleslovas Didysis, pramintas Narsiuoju."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
     - t-007

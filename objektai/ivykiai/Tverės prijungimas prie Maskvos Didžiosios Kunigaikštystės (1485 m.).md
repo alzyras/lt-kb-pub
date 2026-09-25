@@ -80,5 +80,5 @@ Michailas Borisovičius iš Tverės pabėgo 1485 m. rugsėjo 11–12 d. naktį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

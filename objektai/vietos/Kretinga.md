@@ -100,6 +100,19 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   pagrindžia:
     - c-166424
 
+<a id="claim-t-208556"></a>
+- t-208556
+  teiginys: "Kretingoje vaikai, Puzaro apibūdinami kaip neklusnūs, čiuožė ant plono ledo, įlūžo ir būtų prigėrę, jei jų nebūtų išgelbėjęs suaugęs žmogus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
+  pagrindžia:
+    - c-191176
+
 ## Citatos
 
 - id: c-43518
@@ -132,7 +145,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-156139
@@ -152,7 +165,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166424
@@ -173,5 +186,26 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-191176
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 114"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 114."
+  citata_originali: |
+    „Vaikai neklausantys". Vysk. M. Valančius keturiais
+    vaizdeliais iliustruoja skaudžias IV Dievo įsakymo lau­
+    žymo pasekmes. Štai Kretingoje neklusnūs vaikai čiuožė
+    ant plono ledo, įlūžo ir būtų prigėrę, jeigu jų nebūtų iš­
+    gelbėjęs suaugęs žmogus.
+  citata_rodoma: "Štai Kretingoje neklusnūs vaikai čiuožė \nant plono ledo, įlūžo ir būtų prigėrę, jeigu jų nebūtų iš­\ngelbėjęs suaugęs žmogus."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208556

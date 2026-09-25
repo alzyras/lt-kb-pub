@@ -217,6 +217,55 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   pagrindžia:
     - c-179132
 
+<a id="claim-t-207549"></a>
+- t-207549
+  teiginys: "Alfredas Bumblauskas teigia, kad Mykolas Lietuvis apie 1550 m. veikale „Apie totorių, lietuvių ir maskvėnų papročius“ Vytauto laikų papročių rigorizmą priešpriešino savo meto visuomenės išglebimui ir netvarkai."
+  atnaujinta: "2026-09-19 15:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190166
+
+<a id="claim-t-207550"></a>
+- t-207550
+  teiginys: "Mykolas Lietuvis siūlė rusėnų kalbą keisti lotynų kalba."
+  atnaujinta: "2026-09-19 15:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190167
+
+<a id="claim-t-212654"></a>
+- t-212654
+  teiginys: "Narbutas mano, kad Mykolas Lietuvis labiau įrodė šių kalbų kilmę iš vieno šaltinio negu jų tapatybę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197332
+
+<a id="claim-t-216914"></a>
+- t-216914
+  teiginys: "Mykolas Lietuvis pasakoja, kad Lietuvoje Eskulapo garbinimas išliko žalčių laikymo pavidalu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201104
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Narbutas Mykolą Lietuvį įvardija tarp nedaugelio lietuvių, kurie per 400 metų rūpinosi krašto praeitimi.'
@@ -261,7 +310,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-006
 
@@ -294,7 +343,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-157305
@@ -317,7 +366,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-157306
@@ -341,7 +390,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
     - t-007
@@ -364,7 +413,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-179132
@@ -386,5 +435,108 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-190166
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 152"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 152."
+  citata_originali: |
+    Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavosi iške-
+    liant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys 1523 m.
+    išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžio-
+    klę“ būtent ir siekė Vytauto laikus parodyti kaip idealą savo laikų visuomenei. Šias idėjas
+    randame ir Mykolo Lietuvio svarstymuose apie valstybės tvarką („Apie totorių, lietuvių ir
+    maskvėnų papročius“, apie 1550), kurioje Vytauto laikų papročių rigorizmas ir asketizmas
+    yra priešpriešinamas savo meto visuomenės išglebimui, girtuoklystei ir netvarkai.
+  citata_rodoma: "Šias idėjas \nrandame ir Mykolo Lietuvio svarstymuose apie valstybės tvarką („Apie totorių, lietuvių ir \nmaskvėnų papročius“, apie 1550), kurioje Vytauto laikų papročių rigorizmas ir asketizmas \nyra priešpriešinamas savo meto visuomenės išglebimui, girtuoklystei ir netvarkai."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207549
+
+- id: c-190167
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 154"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 154."
+  citata_originali: |
+    Šią programą Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu
+    Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais,
+    o jų programos dalimi ir reikia laikyti 1547 m. išleista Martyno Mažvydo „Katekizmą“.
+    Kulvietis gerai suvokė kultūros situaciją: Lietuvos diduomenė, atsisakydama rusėnų rašto
+    kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti. Mykolas Lietuvis siūlė rusėnų
+    kalbą keisti lotynų kalba, o Kulvietis – lietuvių.
+  citata_rodoma: "Mykolas Lietuvis siūlė rusėnų \nkalbą keisti lotynų kalba, o Kulvietis – lietuvių."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207550
+
+- id: c-197332
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 194"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 194."
+  citata_originali: |
+    Lenkijos mokslo amžiuje gyvenęs
+    Mykolas Lietuvis stengėsi įrodyti lietuvių ir lotynų kalbų
+    ■vienodumą2. Ilgai čia reikėtų dėstyti jo įrodymus, parem­
+    tus vien žodžių ir religinių apeigų panašumu, bet pasaky­
+    sime tik tiek, jog šis autorius, puikiai mokėjęs abi kalbas,
+    labiau įrodė jų kilmę iš vieno šaltinio negu jų tapatybę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212654
+
+- id: c-200059
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
+  citata_originali: |
+    Taip pat Kaunio vardas labiau už Kūno panašesnis į pa­
+    vadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos).
+    Senovės romėnų vienas iš Kupidono pavadinimų taip pat
+    buvo Caunius.
+    Datonas (Datonus)
+    Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie
+    jį papasakojo Lasickis. Tenka spėlioti, kad tai buvo savotiškas
+    Plutono sekimas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201104
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
+  citata_originali: |
+    Mykolas Lietuvis pasa­
+    koja, kad Lietuvoje, kaip ir pas romėnus, Eskulapo garbini­
+    mas išliko kaip žalčių laikymas1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216914

@@ -79,5 +79,5 @@ Jokiuose istorijos šaltiniuose neiš liko vardų šių garsių žmonių, kurių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

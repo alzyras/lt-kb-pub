@@ -124,6 +124,49 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   pagrindžia:
     - c-177255
 
+<a id="claim-t-214719"></a>
+- t-214719
+  teiginys: "Narbutas teigia, kad graikai, ypač masiliečiai, tęsė finikiečių tyrimus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194521
+
+<a id="claim-t-215366"></a>
+- t-215366
+  teiginys: "Jų laivai plaukdavo už Heraklio stulpų, kur buvo finikiečių koloni ja Gadira, šiandien Kadis, tinkama laivams įplaukti; ten iš Viduržemio jūros užsukdavo laivai, plaukę į Šiaurę pre kių, be to, būdavo keičiamasi prekėmis ¡su atplaukusiais pakrančių, tolesnių."
+  atnaujinta: "2026-09-20 02:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197154
+
+<a id="claim-t-217082"></a>
+- t-217082
+  teiginys: "Narbutas rašė, kad finikiečiai, egiptiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su pagrobtos deivės dukterimi."
+  atnaujinta: "2026-09-20 02:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "prekiavo_su -> Finikiečiai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Finikiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Lietuvos tauta prekiavo su finikiečiais; kandidatuose Lietuvos tauta atstovaujama Lietuvos objektu."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199628
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašė, kad finikiečiai, egiptiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su pagrobtos deivės dukterimi.'
@@ -161,7 +204,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171077
@@ -189,7 +232,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175174
@@ -213,7 +256,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176964
@@ -232,7 +275,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177255
@@ -258,5 +301,94 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-194521
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  citata_originali: |
+    Graikai, ypač
+    masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
+    vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­
+    lėtojai, pažengė toliau, tačiau apie kraštus, esančius už
+    Elbės ir Arkados žiočių, nepaliko jokių rašytinių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214719
+
+- id: c-196420
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 158."
+  citata_originali: |
+    162
+    Pasak autorių, gintaringos pakrantės buvo pažįstamos
+    dėl masiliečių prekybos, ypač alavu ir gintaru, išsiplėtu­
+    sios ir suklestėjusios IV amžiuje prieš Kristaus gimimą1.
+    Senovės tyrinėtojai netgi padarė gana taiklių prielaidų,
+    jog finikiečių, o gal ir masiliečių pirkliai turėję savo pre­
+    kyvietes, arba emporiurnus, Prūsijoje; iš jų viena buvusi
+    Ilelados pusiasalyje, Scurgon2 ramovėje, o antra ■— Kul­
+    nie prie Vyslos3. Tačiau šie mokslininkų spėjimai, nesant
+    aiškių įrodymų, turi likti prielaidomis, kad tose vietose
+    buvusios pilaitės prekėms saugoti, kurias pastatė kažkokie
+    senovės Baltijos jūros pirkliai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197154
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 153."
+  citata_originali: |
+    Kartaginiečiai
+    visada įvairiai ir gyvai prekiavo ¡su Vakarais. Jų laivai
+    plaukdavo už Heraklio stulpų, kur buvo finikiečių koloni­
+    ja Gadira, šiandien Kadis, tinkama laivams įplaukti; ten iš
+    Viduržemio jūros užsukdavo laivai, plaukę į Šiaurę pre­
+    kių, be to, būdavo keičiamasi prekėmis ¡su atplaukusiais
+    pakrančių, tolesnių Okeano vietovių gyventojais. Kiti
+    plaukdavo iki Tarteso uosto, kuris buvo prie Bečio upės
+    žiočių; čia ¡būdavo įsigyjama brangiųjų metalų, galbūt
+    alavo ir gintaro.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215366
+
+- id: c-199628
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  citata_originali: |
+    Šiuos prietarus žinojo ir Lietuvos rusinai.
+    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
+    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
+    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
+    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217082

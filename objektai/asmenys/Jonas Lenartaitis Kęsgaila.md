@@ -88,5 +88,25 @@ Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197915
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
+  citata_originali: |
+    Nuogas bėgantis žmogus abiem
+    rankom laiko ietį su dviguba ietigalio geležte, nukreipta durti;
+    galva pridengta kažkokiu trikampiu apdangalu. Šį antspaudą
+    prispaudė Jonas Lenartaitis Kęsgailą (Iwan Lenartowicz Kiez-
+    hajtio) prie 1490 metų sutarties, kurią vieni su kitais sudarė
+    Trakų pavieto, arba vaivadijos, bajorai. Gal tai fetišas Regie-
+    ziowan, kurį Lasickis priskiria Kęsgailų giminei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

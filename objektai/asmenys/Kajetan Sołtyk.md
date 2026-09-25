@@ -60,3 +60,40 @@ Problem arbitrów w 1761 roku próbował rozwią zać biskup Kajetan Sołtyk bud
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208067"></a>
+- t-001
+  teiginys: "Problem arbitrów w 1761 roku próbował rozwią zać biskup Kajetan Sołtyk budową dla nich specjalnej galerii, co dopiero w 1784 roku wymógł Kazimierz Rzewuski\"."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190713
+
+## Citatos
+
+- id: c-190713
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 20"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 20."
+  citata_originali: |
+    Ponadto
+    po sali krążyli przekupnie. Czasem próbowano usuwać arbitrów z sali sejmowej,
+    ale bez większego powodzenia. Problem arbitrów w 1761 roku próbował rozwią­
+    zać biskup Kajetan Sołtyk budową dla nich specjalnej galerii, co dopiero w 1784
+    roku wymógł Kazimierz Rzewuski".
+  citata_rodoma: "Problem arbitrów w 1761 roku próbował rozwią­\nzać biskup Kajetan Sołtyk budową dla nich specjalnej galerii, co dopiero w 1784 \nroku wymógł Kazimierz Rzewuski\"."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

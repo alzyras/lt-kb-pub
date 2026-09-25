@@ -32,20 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad ochmański J.
 
-## Teiginiai
-
-<a id="claim-t-61201"></a>
-- t-001
-  teiginys: "J. Ochmańskio straipsnis „Uwagi o litewskim państwie wczesnofeudalnym“ paskelbtas 1961 m. leidinio „Roczniki historyczne“ 27 tome, p. 143–160."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1961 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį faktą."
-  pagrindžia:
-    - c-61833
-
 ## Citatos
 
 - id: c-61833
@@ -62,5 +48,3 @@ Dusburgietis teigia, kad ochmański J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -162,7 +162,7 @@ Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -179,5 +179,5 @@ Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

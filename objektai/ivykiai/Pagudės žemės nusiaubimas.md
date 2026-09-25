@@ -68,5 +68,5 @@ Konradas iš Tirbergo ir broliai įsiveržė į Pagudės žemę, išžudė daug 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

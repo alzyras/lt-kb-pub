@@ -54,6 +54,26 @@ Nenurodyta
   pagrindžia:
     - c-169073
 
+<a id="claim-t-185712"></a>
+- t-185712
+  teiginys: "Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sunus -> Germantas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Giliginas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Germantas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Frazė tiesiogiai įvardija Giliginą kaip Germanto sūnų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Giliginas buvo sūnus Germantas (0.96); Trobius buvo brolis Giliginas (0.86); Trobius valdė Žemaitija (0.82)"
+  pagrindžia:
+    - c-169073
+
 ## Citatos
 
 - id: c-169073
@@ -74,9 +94,11 @@ Nenurodyta
     jamus žygius į Lenkiją, tiesa, ir juos ne visus sumini
     rašytojai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-185712

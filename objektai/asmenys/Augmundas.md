@@ -58,6 +58,18 @@ Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir s
   pagrindžia:
     - c-174252
 
+<a id="claim-t-213875"></a>
+- t-213875
+  teiginys: "Pasak šaltinio, kartu su Heiride Augmundas gavo nemažą Rusios valdą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195064
+
 ## Citatos
 
 - id: c-174252
@@ -81,8 +93,32 @@ Narbutas pagal islandų sakmes rašo, kad norvegas Augmundas vedė Heiridę ir s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195064
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
+  citata_originali: |
+    234
+    Islandų sakmėse, vadinamose šiaurinėmis sagomis,
+    esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
+    mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
+    pat gyveno III amžiuje3. Iš to paties šaltinio žinoma, jog
+    rusų genties valdovo ir didvyrio Heiraudo dukra Heiridė
+    ištekėjo už norvego Augmundo; kartu ji gavo kraičio ne­
+    mažą Rusios valdą. Odo, irgi norvegų riterio, žmona bu­
+    vo rusnėnų karalienė Silkizifė; jis taip pat valdė savo
+    žmonos gimtąją žemę.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213875
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Heiridė]]

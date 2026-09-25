@@ -61,8 +61,23 @@ Nenurodyta
     Aptaisant mešką, reikia dviejų išverstų kailinių, kuo seniausių, kuo rudžiausių, skyrium reikia pritaisyti biaurų snukį ir uodegą.
   citata_rodoma: "Aptaisant mešką, reikia dviejų išverstų kailinių, kuo seniausių, kuo rudžiausių, skyrium reikia pritaisyti biaurų snukį ir uodegą."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 01:47"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-195343"></a>
+- t-001
+  teiginys: "Vestuvinės meškos kostiumo pagrindas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177745

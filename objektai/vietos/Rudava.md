@@ -127,6 +127,30 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   pagrindžia:
     - c-68581
 
+<a id="claim-t-220745"></a>
+- t-220745
+  teiginys: "1308 metais Rudavos valsčius buvo nusiaubtas gaisrais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206310
+
+<a id="claim-t-221555"></a>
+- t-221555
+  teiginys: "Čekijos karalius kitą dieną po žygio prie Medenavos patraukė į Rudavos valsčių ir užėmė ten esančią pilį."
+  atnaujinta: "2026-09-20 07:09"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204589
+
 ## Citatos
 
 - id: c-37703
@@ -148,7 +172,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-68581
@@ -166,7 +190,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-68582
@@ -209,6 +233,67 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-204589
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 105-106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105-106."
+  citata_originali: |
+    Kitą dieną patraukė  į Rudavos valsčių ir ten
+    pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,
+
+      321 D.— Medenow, Jer. — Medenouwe; Medenava (vėliau — Medenau, dab. Logvinovas),
+    to pat vardo valsčiaus centras pietvakarių Semboje. I tūkstantmečio pabaigos — XIII a.
+    sembų pilis buvo kiek toliau į šiaurės rytus nuo dabartinės gyvenvietės, kranto kyšulyje
+    įrengtame piliakalnyje, įtvirtintame dviem galingais pylimais; vėliau, atrodo, čia buvusi
+    vyskupo  pilis. Ankstesnio laikotarpio (I tūkstantmečio 1-os pusės) piliakalnis yra  į
+    pietryčius nuo gyvenvietės (CF, p. 13—16, Nr. 4, 5; Гуревич Ф. Д. Из истории..., с.
+    340—341, 369, 436—443).
+      322 D.— Super [...] habitaciones suas (III, 108, 204, 209, 228, 332), Jer — hŭs, hûf,
+    gebûve; kituose šaltiniuose — curia, kartais pabrėžiant, kad pulchram et bene munitam
+    (MPH, 4, p. 430). Tai didelės, turtingos, daugiau ar mažiau įtvirtintos sodybos (kartais
+    — labai gerai), bet ne pilys, nes Dusburgietis jas skiria nuo pilies  ir kitų gynybinės
+    paskirties įtvirtinimų (habitaciones, et alia, que extra castra et municiones sita — III,
+    204), kilmingųjų, žymiųjų prūsų (potentis Prutheni), jotvingių (дом Стекинтове —
+    ПСРЛ, 2, стб. 828) ir lietuvių, kiemai (Łowmiański H., Studja..., 1, p. 293—295; Pašuta
+    V., Lietuvos..., p. 155, 329; Jurginis J., Baudžiavos..., p. 93, 101).
+      323 D.— ad territorium Rudowie, Jer.— zu Rudowe; Rudava, valsčius Semboje. Jo
+    centras — Rudavos pilis buvo per 18 km į šiaurę nuo dab. Kaliningrado, į vakarus nuo
+    dab. automobilių kelio Kaliningradas—Zelionogradskas, kalvoje, greta kurios vėliau buvo
+    pastatyta Ordino pilis (Boetticher A., Die Bau..., 1, p. 118; CF, p. 52, schema 23a).
+    Rudava — dab. Melnikovas.
+      Kai kas mano, jog Dusburgiečio minima Rudavos valsčiaus pilis, kur išžudyta daug
+    sembų, buvo kiek  į pietus nuo Rudavos, piliakalnyje prie Ekričių (dab. Vetrovas)  ir
+    Maldaičių, jog tai Nogimptės (Nogympten) pilis (CF, p. 52—54; GAO, p. 108; plg. Ewald
+    A. L., Die Eroberung..., 3, p. 17).
+
+    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221555
+
+- id: c-206310
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 203."
+  citata_originali: |
+    1308 viešpaties metais, švento Jurgio dieną (balandžio 23), Manstas, Sudargas ir kiti
+    Žemaitijos kilmingieji su 5 tūkstančiais raitelių pro Noihauzą Kuršių nerijoje įsibrovė į
+    Sembos žemę ir nusiaubė gaisrais Pavundos562 bei Rudavos valsčius
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220745

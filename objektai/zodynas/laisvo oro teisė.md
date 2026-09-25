@@ -59,5 +59,5 @@ Lietuvoje, taip pat ir Kaune, laisvo oro teisė irgi galiojo, tik tiksliai neži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

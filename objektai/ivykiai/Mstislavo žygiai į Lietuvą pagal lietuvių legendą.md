@@ -74,5 +74,5 @@ Antrąsyk lietuviai, pasipylę iš miškų, kai tik rusai pra dėjo grįžti iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

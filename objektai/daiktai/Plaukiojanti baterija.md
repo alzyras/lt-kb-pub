@@ -76,5 +76,5 @@ Plaukiojanti baterija buvo plokščias laivas su sutvirtintais kraštais ir šau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

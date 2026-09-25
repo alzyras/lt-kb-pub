@@ -71,6 +71,30 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 - Emmanuel Levinas gimė [[objektai/vietos/Kaunas]]
+
+## Teiginiai
+
+<a id="claim-t-18885"></a>
+- t-001
+  teiginys: "Filosofas Emmanuelis Levinas gimė Kaune ir ten baigė gimnaziją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gime -> Kaunas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Emmanuel Levinas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Emmanuelis Levinas gimė Kaune."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Emmanuel Levinas gimė Kaunas (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1868 m.; įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys neminėjo objekto, o citata pagrindžia glaustą biografinį faktą."
+  pagrindžia:
+    - c-21660

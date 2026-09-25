@@ -88,7 +88,7 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59243
@@ -111,5 +111,22 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-203202
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
+  citata_originali: |
+    Apie Kristburgo brolių kovas antrosios atskalūnybės metais, apie vieną ste­
+    buklą ir apie daugybės prūsų žūtį
+    414  D.— fluvii Sergie, Jer.— Serge; Pasarė, vėliau — Pasargė (GAO, p. 116; MPKP,
+    1, p. 16), dab. Paslenka, įtekanti į Aismares žemiau dab. Branevo (buv. Braunsbergas).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -60,5 +60,5 @@ T. Narbutas teigia, kad indėnai akmenis laikė talismanais net pasikeitus jų a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

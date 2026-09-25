@@ -75,7 +75,7 @@ Nors Kaunas bendravalstybinėse paliaubų ir taikos sutartyse atskirai neminimas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185608
@@ -90,5 +90,5 @@ Nors Kaunas bendravalstybinėse paliaubų ir taikos sutartyse atskirai neminimas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

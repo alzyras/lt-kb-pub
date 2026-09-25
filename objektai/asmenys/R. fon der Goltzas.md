@@ -100,7 +100,7 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44494
@@ -120,5 +120,5 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

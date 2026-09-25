@@ -121,7 +121,7 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179403
@@ -147,5 +147,30 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195644
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 383"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 383."
+  citata_originali: |
+    Kai
+    pažadėdavau didžiausią apdovanojimą tam, kuris atneš­
+    tų man pilkapyje rastą monetą ar kokį kitą daiktą, visada
+    buvau tikinamas, jog iš tikrųjų pasitaikydavo atvejų, kai
+    būdavo randamos monetos. Tačiau tuos, kurie ką nors
+    rasdavo, ištikdavo nelaimės, be to, tokių radinių saugo­
+    jimas laikomas pavojingu dalyku, todėl nežinomas nė
+    vienas, kuris būtų laikęs ką nors panašaus savo rankose.
+    Kai aš ten buvau, dar buvo gyvas Senojo Bychovo
+    apskrities gydytojas ponas Heneris, labai apsišvietęs žmo­
+    gus ir smalsus istorinių dalykų tyrinėtojas, išgyvenęs
+    Baltarusijoje per keturiasdešimt metų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

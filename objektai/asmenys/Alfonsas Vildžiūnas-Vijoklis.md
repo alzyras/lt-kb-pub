@@ -92,5 +92,5 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

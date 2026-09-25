@@ -84,7 +84,7 @@ Po Heilsbergo pilies užkariavimo Prūsijos žemėje įsiviešpatavo taika. Skal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-202612
@@ -104,6 +104,7 @@ Po Heilsbergo pilies užkariavimo Prūsijos žemėje įsiviešpatavo taika. Skal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-203749
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -119,5 +120,5 @@ Po Heilsbergo pilies užkariavimo Prūsijos žemėje įsiviešpatavo taika. Skal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

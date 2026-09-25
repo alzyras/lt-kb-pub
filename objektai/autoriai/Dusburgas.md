@@ -370,6 +370,54 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindžia:
     - c-176800
 
+<a id="claim-t-213123"></a>
+- t-213123
+  teiginys: "Dusburgas įteka, be to, esama kaimų, senovinių gyvenviečių, yra senoji ir naujoji Pelesa, taip pat Palaškos, esančios toje pačioje apskrityje ir netoli šių vandens telkinių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196423
+
+<a id="claim-t-214339"></a>
+- t-214339
+  teiginys: "Dusburgas paminėjo Sūduvos valsčių Kirsowia, Kirsnava, esantį tarp Olecko ir Raigardo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196474
+
+<a id="claim-t-214962"></a>
+- t-214962
+  teiginys: "Kiekviena provincija dalijosi j mažesnes dalis, atskirus valsčius, teritorijas, kaip jas buvo pratęs vadinti Dusburgas, kartais mažes nes, o kartais didesnes; jos paprastai vadinamos pagal pagrindines vietoves arba savo valdovų pilių vietovar džius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196403
+
+<a id="claim-t-215868"></a>
+- t-215868
+  teiginys: "Tačiau nei Henrikas Latvis, nei Dusburgas, nei Grunau, nei vėlesni istorikai, nuodugniai nagrinėję kurios nors lietuvių gen ties dalykus, nepastebėjo jokių tamsumo pėdsakų: atvirkš čiai, kiekvienas pripažįsta ir norom nenorom dažnai rašo, jog tai buvo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196075
+
 ## Reikšmingi paminėjimai
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -406,7 +454,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-30477
@@ -427,7 +475,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-015
 
@@ -451,7 +499,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-013
 
@@ -475,7 +523,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-55990
@@ -497,7 +545,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-55992
@@ -521,7 +569,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-55993
@@ -543,7 +591,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-55994
@@ -569,7 +617,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-96077
@@ -600,7 +648,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-016
 
@@ -636,7 +684,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-96084
@@ -669,7 +717,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-96085
@@ -695,7 +743,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -722,7 +770,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-176800
@@ -746,5 +794,101 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
+
+- id: c-196075
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 189"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 189."
+  citata_originali: |
+    Tačiau nei
+    Henrikas Latvis, nei Dusburgas, nei Grunau, nei vėlesni
+    istorikai, nuodugniai nagrinėję kurios nors lietuvių gen­
+    ties dalykus, nepastebėjo jokių tamsumo pėdsakų: atvirkš­
+    čiai, kiekvienas pripažįsta ir norom nenorom dažnai rašo,
+    jog tai buvo draugiškumo ir religinių ryšių į vieną didelę
+    tautą sujungtos gentys, gyvenusios dideliuose plotuose,
+    laisvi žemę dirbę, svetingi ir taikūs žmonės, puoselėję
+    žmonių tarpusavio draugiškumo jausmus ir atlygio ana­
+    pus kapo viltį; toji tokia gramatiška ir euforiška kalba,
+    tie dievai, mielų įkvėpimų ir širdį jaudinantys ženklai, di­
+    dieji nemirtingumo paveikslai, — visa tai liudija pirmykš­
+    tę kilmę iš tautos, pasiekusios gana aukštą civilizacijos
+    lygį ir kažkada gyvenusios apsišvietusio pasaulio kraštuo­
+    se.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215868
+
+- id: c-196403
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
+  citata_originali: |
+    Kiekviena provincija
+    dalijosi j mažesnes dalis, atskirus valsčius, teritorijas,
+    kaip jas buvo pratęs vadinti Dusburgas, kartais mažes­
+    nes, o kartais didesnes; jos paprastai vadinamos pagal
+    pagrindines vietoves arba savo valdovų pilių vietovar­
+    džius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214962
+
+- id: c-196423
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 196."
+  citata_originali: |
+    Dabar
+    panagrinėkime naujesnius pėdsakus, liudijančius, kad šių
+    protėvių vardas ne tik nebuvo svetimas Lietuvoje, bet ir
+    įsiamžino įžymių žmonių, giminių asmenvardžiuose, upių,
+    ežerų, gyvenviečių pavadinimuose. Dusiburgas2 primena
+    vardą įžymaus žmogaus, kilusio iš kunigaikščio Pelužio
+    giminės; anot vietinių tyrinėjimų, Lydos apskrityje būta
+    ir kilmingos Pelužių, arba Pelusų, Pelasų, giminės; ten
+    taip pat Pelesos upė ir to paties pavadinimo ežeras, į kurį
+    ji įteka, be to, esama kaimų, senovinių gyvenviečių, yra
+    senoji ir naujoji Pelesa, taip pat Palaškos, esančios toje
+    pačioje apskrityje ir netoli šių vandens telkinių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213123
+
+- id: c-196474
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
+  citata_originali: |
+    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
+    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
+    Raigardo2 3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214339

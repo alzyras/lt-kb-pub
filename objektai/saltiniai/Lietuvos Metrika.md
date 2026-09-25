@@ -161,6 +161,69 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-186925
 
+<a id="claim-t-207558"></a>
+- t-207558
+  teiginys: "Lietuvos Metrika priklauso LDK raštinėje susiformavusiai alternatyviai raštijos tradicijai."
+  atnaujinta: "2026-09-19 16:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190175
+
+<a id="claim-t-207560"></a>
+- t-207560
+  teiginys: "Lietuvos Metrikos knygos įėjo į istoriją Lietuvos Metrikos vardu."
+  atnaujinta: "2026-09-19 16:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190177
+
+<a id="claim-t-207756"></a>
+- t-207756
+  teiginys: "Lietuvos Metrika yra Lietuvos didžiojo kunigaikščio raštinės archyvas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190552
+
+<a id="claim-t-207915"></a>
+- t-207915
+  teiginys: "Vienoje Lietuvos Metrikos knygoje yra keliolika įrašų apie 1518–1520 m. įkeitimo būdu pasiskolintas sumas karo reikmėms."
+  atnaujinta: "2026-09-19 16:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1520 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190375
+
+<a id="claim-t-207984"></a>
+- t-207984
+  teiginys: "Lietuvos Metrikoje užfiksuoti valdovo įgaliojimai ieškoti pinigų karo reikmėms."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190402
+
 ## Citatos
 
 - id: c-166206
@@ -183,7 +246,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166207
@@ -207,7 +270,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-166208
@@ -235,7 +298,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166766
@@ -261,7 +324,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184846
@@ -277,7 +340,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184847
@@ -293,7 +356,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-186925
@@ -315,5 +378,146 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-190175
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 36"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 36."
+  citata_originali: |
+    Moksle taip pat seniai žinoma, kad joje
+    iš pradžių XV a. pradžioje būta daugiau „ukrainizmų“, vėliau – „baltarusizmų“. Amžinin-
+    kai Maskvos rusai ją aiškiai skyrė ir vadino „lietuvių“ kalba, nes Maskvos valstybėje ilgai
+    būtent tik slavų bažnytinė kalba, iki pat XVII–XVIII a., ir buvo vienintelė.
+    LDK raštinėje susiformavusi alternatyvi raštijos tradicija apėmė ne tik kanceliarijos
+    raštus – Lietuvos Metriką, bet ir ja rašyti Lietuvos metraščiai bei Lietuvos Statutai, taip
+    pat net įvairių vėlesnių XVI–XVII a. bažnytinių tekstų pratarmės ir intarpai.
+  citata_rodoma: "LDK raštinėje susiformavusi alternatyvi raštijos tradicija apėmė ne tik kanceliarijos \nraštus – Lietuvos Metriką, bet ir ja rašyti Lietuvos metraščiai bei Lietuvos Statutai, taip \npat net įvairių vėlesnių XVI–XVII a. bažnytinių tekstų pratarmės ir intarpai."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207558
+
+- id: c-190176
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 112"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 112."
+  citata_originali: |
+    Tiesa, ji rašto „industrijos“ institucija taps
+    tik nuo Vytauto, tačiau vienuolynuose buvo rašoma bulgarų kilmės slavų bažnytine kal-
+    ba, o LDK raštinėje pradėjo formuotis rašto tradicija, kurią kalbininkai aiškiai skiria nuo
+    minėtos bažnytinės kalbos ir šiandien vadina rusėnų kalba. Šia kalba, LDK raštinėje susi-
+    formavusia alternatyva „bulgariškai“ raštijos tradicijai, ir buvo surašyti reikšmingiausi
+    to meto raštijos fenomenai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
+    Taigi svarbiausias politinio lietuvių elito vaidmuo stačiatikiškoje kultūroje yra tas, kad
+    jie buvo šios kultūros užsakovai.
+  citata_rodoma: "lba, LDK raštinėje susi-\nformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir buvo surašyti reikšmingiausi \nto meto raštijos fenomenai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. \nTaigi"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-190177
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 148"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 148."
+  citata_originali: |
+    Raštininkai ly-
+    dėjo didįjį kunigaikštį ir kelionėse. Kelionės metu didžiojo kunigaikščio išduodamus doku-
+    mentus grįžę jie įtraukdavo į raštinės knygas. Šios knygos įėjo į istoriją Lietuvos Metrikos
+    vardu.
+  citata_rodoma: "Šios knygos įėjo į istoriją Lietuvos Metrikos \nvardu."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207560
+
+- id: c-190375
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 169"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 169."
+  citata_originali: |
+    Tokių didžiojo kunigaikščio dvarų, kaimų, pilių, miestelių įkeitimą privatiems
+    asmenims už suteiktą iždui paskolą liudijančių raštų „Lietuvos Metrikoje" rasime tikrai
+    daug. Tik vienoje „Lietuvos Metrikos" knygoje yra keliolika įrašų, kurie liudija, kad
+    1518-1520 m. valdovas ir Ponų taryba valstybės reikmėms įkeitimo būdu pasiskolino
+    per 12 000 kapų grašių. Kreditoriai buvo tos pačios Ponų tarybos nariai, valstybės
+    pareigūnai, stambūs žemvaldžiai, įtakingų Lietuvos Didžiosios Kunigaikštystės didikų
+    giminių atstovai: Jurijus Nemirovičius
+    31, Stanislovas ir Grigas Astikai
+    32, Grinka Gro-
+    myka
+    33, Jurgis Radvila
+    34, Jurijus Iljiničius
+    35, Vaitiekus Nosilovskis/Novosilovskis
+    36,
+    Jokūbas Kuncevičius
+    37, Vosylius Solomereckis
+    38 ir kiti.
+  citata_rodoma: "Tik vienoje „Lietuvos Metrikos\" knygoje yra keliolika įrašų, kurie liudija, kad\n1518-1520 m. valdovas ir Ponų taryba valstybės reikmėms įkeitimo būdu pasiskolino\nper 12 000 kapų grašių."
+  statusas: verified
+  atnaujinta: "2026-09-13 18:04"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207915
+
+- id: c-190402
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 167"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 167."
+  citata_originali: |
+    Praėjus dešimčiai metų, 1567-aisiais, „Lietuvos Metrikoje" vėl rasime įrašytą Žygi-
+    manto Augusto vardu duotą įgaliojimą Lietuvos Didžiosios Kunigaikštystės žemės iždi-
+    ninkui Mikalojui Naruševičiui ieškoti savoje ar svetimoje valstybėje, pas bet kurio luo-
+    mo žmones pinigų, reikalingų karo su Švedija ir Maskva reikmėms, iždui paskolinti.
+  citata_rodoma: "„Lietuvos Metrikoje\" vėl rasime įrašytą Žygi-\nmanto Augusto vardu duotą įgaliojimą Lietuvos Didžiosios Kunigaikštystės žemės iždi-\nninkui Mikalojui Naruševičiui ieškoti savoje ar svetimoje valstybėje, pas bet kurio luo-\nmo žmones pinigų, reikalingų karo su Švedija ir Maskva reikmėms, iždui paskolinti."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207984
+
+- id: c-190552
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 98"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 98."
+  citata_originali: |
+    Vasario 16 d. užrašyta, kad oficialieji Lietuvos Didžiosios Kuni-
+    gaikštystės pasiuntiniai Varšuvos seime, vadovaujami Radvilos, reikalavę, kad jiems
+    būtų duotas susipažinti raštiškas iš Vitebsko atvežtos instrukcijos tekstas.
+    8 Ar šis reika-
+    lavimas buvo patenkintas ar ne, Varšuvos seimo dienoraščio autorius žinios mums ne-
+    paliko ir daugiau prie šio siužeto nebegrįžo.
+    Kitaip reikalas atrodo skaitant Lietuvos didžiojo kunigaikščio raštinės archyve,
+    vadinamoje „Lietuvos Metrikoje", įrašytą 1562 m. rugsėjo 24 d. valdovo Žygimanto
+    Augusto atsakymą Lietuvos Didžiosios Kunigaikštystės Ponų tarybos nariams ir visai
+    didžiojo etmono vadovaujamai bajorų kariuomenei.
+  citata_rodoma: "Kitaip reikalas atrodo skaitant Lietuvos didžiojo kunigaikščio raštinės archyve,\nvadinamoje „Lietuvos Metrikoje\", įrašytą 1562 m. rugsėjo 24 d. valdovo Žygimanto\nAugusto atsakymą Lietuvos Didžiosios Kunigaikštystės Ponų tarybos nariams ir visai\ndidžiojo etmono vadovaujamai bajorų kariuomenei."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207756

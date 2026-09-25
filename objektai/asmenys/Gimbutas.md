@@ -82,6 +82,19 @@ canonical_biography: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Staro
   pagrindžia:
     - c-188139
 
+<a id="claim-t-210698"></a>
+- t-210698
+  teiginys: "Gimbutas valdė Jurbarką, Kauną ir Žemaičių žemę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-193098
+
 ## Citatos
 
 - id: c-184045
@@ -92,7 +105,7 @@ canonical_biography: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Staro
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188139
@@ -112,5 +125,23 @@ canonical_biography: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Staro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-193098
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 41."
+  citata_originali: |
+    O jo
+    brolis Gimbutas Jurbarką, ir Kauną, ir visą Žemaičių
+    žemę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210698

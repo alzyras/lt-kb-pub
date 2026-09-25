@@ -112,7 +112,7 @@ canonical_biography: "1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainieč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169461
@@ -132,5 +132,5 @@ canonical_biography: "1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainieč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

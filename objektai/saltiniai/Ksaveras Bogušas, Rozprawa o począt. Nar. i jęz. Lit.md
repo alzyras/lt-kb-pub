@@ -72,5 +72,29 @@ Ksaveras Bogušas, Narbuto perteikimu, slavų kalbos priemaišas lietuvių kalbo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196533
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 198"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 198."
+  citata_originali: |
+    Tuo­
+    met šis mokytas vyras gal būtų apsiribojęs savo pirmu
+    teiginiu, kuris kilo jam pirmiausia gilinantis į senovę;
+    jis būtų sutikęs su mūsų nuomone, jog tai tauta, iš tik­
+    rųjų kilusi iš gelonų, kurie buvo trakų-pelazgų heleriai
+    (§62). Slavų kalbos priemaišos lietuvių kalboje yra labai
+    nesenos, jose vyrauja baltarusių ir lenkų dialektai, pasi­
+    skolinti dėl vėlesnių amžių įtakos. Visi šie žodžiai, kaip
+    mano Ksaveras Bogušas1, yra nereikalingi, nes gerai mo­
+    kantis savo kalbą lietuvis vos ne kiekvienam jų ras savo
+    kalbos atitikmenį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

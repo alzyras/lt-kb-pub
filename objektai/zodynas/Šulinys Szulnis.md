@@ -27,21 +27,6 @@ media_all_json: |-
 
 Narbutas šuliniu (Szulnis) vadina prie šventyklų buvusius šventus šaltinius ar šulinius, iš kurių apeigoms semtas vanduo.
 
-## Teiginiai
-
-<a id="claim-t-189348"></a>
-- t-001
-  teiginys: "Narbutas šuliniu (Szulnis) vadina prie šventyklų buvusius šventus šaltinius ar šulinius, iš kurių apeigoms semtas vanduo."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172235
-
 ## Citatos
 
 - id: c-172235
@@ -63,5 +48,3 @@ Narbutas šuliniu (Szulnis) vadina prie šventyklų buvusius šventus šaltinius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -250,6 +250,72 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-184122
 
+<a id="claim-t-213665"></a>
+- t-213665
+  teiginys: "Narbutas teigia, kad Europa, palyginti su Azija ir Afrika, buvo vėliau apgyvendinta ir civilizuota."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196063
+
+<a id="claim-t-214764"></a>
+- t-214764
+  teiginys: "Narbutas Europą, palyginti su Azija ir Afrika, vadino naujesniu ir vėliau apgyvendintu bei civilizuotu žemynu."
+  atnaujinta: "2026-09-19 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Afrika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Europa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Afrika: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europa\" parinktas kaip owner_note_path. Targetas \"Afrika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-196063
+
+<a id="claim-t-216981"></a>
+- t-216981
+  teiginys: "Narbutas vertino, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado žmones, kuriems buvo lemta iškilti."
+  atnaujinta: "2026-09-19 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Petras I Didysis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Europa: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Petras I Didysis: mention_match, person, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europa\" parinktas kaip owner_note_path. Targetas \"Petras I Didysis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1725 m.; įvykio data: 2000 m.; įvykio data: apie 2000 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Vertinamasis Europos tautų apibūdinimas paliktas su Narbuto atribucija. Neplėsta jo civilizacinė priešprieša Azijai ir Afrikai."
+  pagrindžia:
+    - c-199551
+
+<a id="claim-t-218067"></a>
+- t-218067
+  teiginys: "Atviras, gyvas, aistringas, trokštantis lais vės protas; paprastumas, vaišingumas, noras išgarsėti savo iš radimais, pomėgis perimti svetimus dalykus ir iš to nenumal šinamas siekimas tobulėti - tokie buvo amžini Europos tautų bruožai, ypač pelazgų-helenų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200730
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Narbutas Perkūną apibūdino kaip senovės Europoje plačiai paplitusį dievą, dangaus ir žemės karalių bei gamtos valdovą.'
@@ -292,7 +358,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-37365
@@ -314,7 +380,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-006
 
@@ -366,7 +432,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -389,7 +455,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-101248
@@ -410,7 +476,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-171577
@@ -437,7 +503,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-175429
@@ -464,7 +530,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-176306
@@ -484,7 +550,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-184122
@@ -501,12 +567,81 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     juoti meno istoriją ne iš vadovėlių, o iš pačių meno šedevrų; jis gali tapti
     neišsemiamu estetinio jaunosios kartos auklėjimo šaltiniu.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
+
+- id: c-196063
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
+  citata_originali: |
+    Europa palyginti su Azija ir Afrika yra naujasis pa­
+    saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau
+    civilizuotas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213665
+    - t-214764
+
+- id: c-199551
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
+  citata_originali: |
+    Visa tai,
+    sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver­
+    tą valdyti pasaulį, - tautą, kuriai buvo lemta tapti pavyzdžiu
+    tolimiausiems ainiams ir kuri tarytum šešėlis dingo nuo pa­
+    saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
+    jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
+    žyniai.
+    Pamąstykime dabar apie pražūtingas senovės tautų tiky­
+    bos klaidas, pradėdami nuo daugiadievystės išpažinimo.
+    Šiandien nereikia įrodinėti, kad pirmykštis Dievo pažini­
+    mas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,
+    kad tai suprastum. Betgi žmonės, turintys geresnes galvas, leng­
+    vai išrado tai, ką mes vadiname proto religija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216981
+
+- id: c-200730
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
+  citata_originali: |
+    Atviras, gyvas, aistringas, trokštantis lais­
+    vės protas; paprastumas, vaišingumas, noras išgarsėti savo iš­
+    radimais, pomėgis perimti svetimus dalykus ir iš to nenumal­
+    šinamas siekimas tobulėti - tokie buvo amžini Europos tautų
+    bruožai, ypač pelazgų-helenų genčių, kurių priekin išėjo grai­
+    kai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218067
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Persai]], [[objektai/asmenys/Snorro Sturleson]]

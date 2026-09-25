@@ -85,5 +85,29 @@ Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197081
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
+  citata_originali: |
+    Jų kraštas derlingas, turtingas tankių miškų, o
+    didžiausiame miške yra pelkėtas, nendrėmis apaugęs
+    ežeras; šiame ežere jie gaudo ūdras ir bebrus. Senovės
+    geografai nurodo tris gelonų kolonijas: viena prie Meo-
+    tidės, kolchų kaimynystėje, antra tarp budinu, o trečia
+    prie Kaspijos3. Bet ne visos jos buvo vienu metu, nes
+    gerai matyti, jog pirmiausia, išvyti iš emporiumų, jie gy­
+    veno dešiniojoje Dnepro ir Bugo pakrantėje, kur stovėjo
+    ir Gelono miestas (apie tai kalbėsime vėliau), persikėlė
+    prie Meotidės arba į Dono žemupio apylinkes, o vėliau —
+    pas budinus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

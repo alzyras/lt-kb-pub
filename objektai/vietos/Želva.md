@@ -145,6 +145,18 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   pagrindžia:
     - c-156489
 
+<a id="claim-t-213628"></a>
+- t-213628
+  teiginys: "Il gai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes, plytinčias žemiau Sčiaros žiočių, ir, tik persikėlę kitapus Želvos upės1 į jos kairįjį krantą, šiandien Jaiblonovo apy linkės, pateko į žemes, kurias pagal tuometinį derlingumą galima buvo šiek tiek."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195886
+
 ## Citatos
 
 - id: c-44110
@@ -162,7 +174,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-156489
@@ -193,7 +205,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-156490
@@ -217,7 +229,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-156492
@@ -243,8 +255,29 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195886
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
+  citata_originali: |
+    Il­
+    gai nedelsdami, jie perėjo smėlėtas Nemuno pakrantes,
+    plytinčias žemiau Sčiaros žiočių, ir, tik persikėlę kitapus
+    Želvos upės1 į jos kairįjį krantą, šiandien Jaiblonovo apy­
+    linkės, pateko į žemes, kurias pagal tuometinį derlingumą
+    galima buvo šiek tiek lyginti su Ukrainos žemėmis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213628
 
 ## Ryšiai
 - Gimimo vieta: [[objektai/asmenys/Aaron Klug]]

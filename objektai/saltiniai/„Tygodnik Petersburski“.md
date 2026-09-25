@@ -58,5 +58,5 @@ Po rašiniu buvo išspausdintas „Tygodnik Petersburski“ redak cijos prieraš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

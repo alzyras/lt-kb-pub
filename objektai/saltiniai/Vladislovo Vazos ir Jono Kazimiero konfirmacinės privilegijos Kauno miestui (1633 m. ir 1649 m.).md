@@ -64,5 +64,5 @@ Prievolė laikytis šio vilkiero minima 1633 m. Vladislovo Vazos ir 1649 m. Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

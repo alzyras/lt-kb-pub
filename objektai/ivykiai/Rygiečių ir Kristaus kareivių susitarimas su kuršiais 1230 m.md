@@ -99,5 +99,5 @@ Rygiečiai ir Kristaus kareiviai su Rende, Galevole, Pidevale, Matekule, Vane, P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

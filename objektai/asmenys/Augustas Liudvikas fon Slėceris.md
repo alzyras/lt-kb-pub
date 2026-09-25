@@ -249,7 +249,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173999
@@ -273,7 +273,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174000
@@ -294,7 +294,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-174001
@@ -315,7 +315,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-174002
@@ -341,7 +341,7 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-174824
@@ -368,6 +368,51 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-007
+
+- id: c-195756
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
+  citata_originali: |
+    Taip jūros plotas vis didėjo, ir
+    galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
+    didėjo. Tad tie, kurie pastebėjo fizinių įvykių, lėmusių
+    žemių prie Baltijos jūros dingimą, sakė tikrą tiesą, ir
+    tie, kurie, kaip Melą, teigė, jog Baltijos jūra užgriozta
+    pakrantės salų, kurios vieną sykį panašios į sausumą, o
+    kitą — į archipelagą, sakė taip pat ne mažiau tiesos. Tad
+    kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal­
+    būt nesilankė prie Baltijos, neturėjo tikro supratimo apie
+    Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės
+    šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su­
+    vokė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196436
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  citata_originali: |
+    Visa tai išliko Prūsijoje. Jie
+    nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų
+    genčių; jų kalba buvo labiau gimininga slavų kalbai:
+    Slėceris šias dvi kalbas skelbia esant antro giminystės
+    laipsnio. Dėl sąjungos su graikų imperatoriumi rusai pri­
+    siekė savo dievu Perūnu; vadinasi, jis buvo tas pats kaip
+    ir prūsų Perkūnas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

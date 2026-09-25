@@ -96,7 +96,7 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-73344
@@ -131,5 +131,5 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

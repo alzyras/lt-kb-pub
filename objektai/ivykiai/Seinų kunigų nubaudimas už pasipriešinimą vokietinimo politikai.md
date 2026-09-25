@@ -73,5 +73,5 @@ Tie Seinų kunigai, kurie priešinosi vo kietinimo politikai, tapo pabausti išv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

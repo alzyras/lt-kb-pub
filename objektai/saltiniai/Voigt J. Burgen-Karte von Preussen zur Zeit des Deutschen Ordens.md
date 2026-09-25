@@ -27,17 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad voigt J.
 
-## Teiginiai
-
-<a id="claim-t-61351"></a>
-- t-001
-  teiginys: "J. Voigto „Burgen-Karte von Preussen zur Zeit des Deutschen Ordens“ pateikta „Geschichte Preussens“ antrajame tome."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61983
-
 ## Citatos
 
 - id: c-61983
@@ -54,5 +43,3 @@ Dusburgietis teigia, kad voigt J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

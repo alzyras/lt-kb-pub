@@ -87,7 +87,7 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176469
@@ -121,5 +121,5 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

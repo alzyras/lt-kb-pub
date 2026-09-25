@@ -119,11 +119,12 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
   citata_rodoma: "Netimero valdžios paveldimumo principo buvimas rody-\ntų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -145,5 +146,5 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -99,7 +99,7 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184488
@@ -129,5 +129,5 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

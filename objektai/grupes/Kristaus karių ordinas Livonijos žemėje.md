@@ -74,7 +74,7 @@ Kristaus karių ordino Livonijoje magistras Folkvinas šešerius metus ragino Te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-205001
@@ -94,5 +94,5 @@ Kristaus karių ordino Livonijoje magistras Folkvinas šešerius metus ragino Te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -139,7 +139,7 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
@@ -162,7 +162,7 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 ## Ryšiai

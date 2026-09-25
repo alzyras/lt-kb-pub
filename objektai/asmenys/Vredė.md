@@ -87,5 +87,31 @@ Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195866
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 351"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 351."
+  citata_originali: |
+    Pagaliau iš šios sutarties reikia daryti prielaidą,
+    jog čia paminėtas toje didelėje saloje buvęs miestas (Ci-
+    vitas) buvo ne koks nors kitas, o 1246 metais suprojektuo­
+    tas liubekiečių miestas, kuris 1258 metais iš tikrųjų kles­
+    tėjo, tačiau vėliau išnyko kartu su savo apylinkėmis.
+    Tiek daug žinių apie Vitlandijos žemės egzistavimą
+    galima pasisemti iš šios sutarties. Prie to dar pridurki­
+    me kai kurias Karaliaučiuje mirusio profesoriaus Vredės
+    padarytas pastabas:
+    1) Vandens užtvindytas atstumas tarp Kolhauzo, Kohl-
+    holz, ir Kamstigao sudaro apie 1900 ryškių, o per 9 pėdų
+    gylio dauba šioje vietoje yra vidutiniškai 1100 rykščių plo­
+    čio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

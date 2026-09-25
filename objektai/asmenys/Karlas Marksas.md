@@ -71,5 +71,5 @@ Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

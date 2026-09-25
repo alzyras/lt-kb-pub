@@ -81,5 +81,5 @@ Hruševskoho, I, 1928, Kijiv, 165-168 p. — Peitzner, J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -56,5 +56,5 @@ Ir vėl laimės žvaigždė lydėjo gotus, kurie niekais pavertė vi sus pasikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -80,5 +80,30 @@ Narbutas gynė Melą nuo Slėcerio kaltinimų ir svarstė, kad Mela žinias apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195303
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 373."
+  citata_originali: |
+    Taip jūros plotas vis didėjo, ir
+    galima sakyti, jog jūra augo žemės sąskaita, žodžiu, jūra
+    didėjo. Tad tie, kurie pastebėjo fizinių įvykių, lėmusių
+    žemių prie Baltijos jūros dingimą, sakė tikrą tiesą, ir
+    tie, kurie, kaip Melą, teigė, jog Baltijos jūra užgriozta
+    pakrantės salų, kurios vieną sykį panašios į sausumą, o
+    kitą — į archipelagą, sakė taip pat ne mažiau tiesos. Tad
+    kam gi vargšui Melai kaltinti Slėcerį meluojant; jis gal­
+    būt nesilankė prie Baltijos, neturėjo tikro supratimo apie
+    Siaurės kraštus, bet galėjo visa nurašyti iš gerų senovės
+    šaltinių, kurie tai žinojo ir, kaip matyti, labai gerai su­
+    vokė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

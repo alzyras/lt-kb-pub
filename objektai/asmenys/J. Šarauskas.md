@@ -92,7 +92,7 @@ canonical_biography: "Šarauskas mieste jau buvo suorganizavęs savąjį savanor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44370
@@ -122,7 +122,7 @@ canonical_biography: "Šarauskas mieste jau buvo suorganizavęs savąjį savanor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

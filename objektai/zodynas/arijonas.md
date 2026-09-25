@@ -99,6 +99,18 @@ Religinė Odoakro charakteristika šaltinyje.
   pagrindžia:
     - c-175341
 
+<a id="claim-t-214538"></a>
+- t-214538
+  teiginys: "Odoakras saugojo juos nuo nelaimių, atgaivino me ną ir mokslus, nors pats buvo arijonas, rėmė katalikus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197201
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -131,7 +143,7 @@ Religinė Odoakro charakteristika šaltinyje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -153,5 +165,26 @@ Religinė Odoakro charakteristika šaltinyje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-197201
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 316."
+  citata_originali: |
+    Išsaugo­
+    ję tai, ką jiems paliko jų ponai, jie galėjo tikėtis saugu­
+    mo, juo labiau kad ir šiaip nepajėgė vieni įdirbti visą že­
+    mę. Odoakras saugojo juos nuo nelaimių, atgaivino me­
+    ną ir mokslus, nors pats buvo arijonas, rėmė katalikus.
+    Jis valdė Italiją beveik 14 metų; istorikai neįžvelgia ja­
+    me nieko barbariško, išskyrus vardą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214538

@@ -66,5 +66,5 @@ Narbutas spėja, kad dėl tragiškos Traidenio II mirties ir giminės revoliucij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

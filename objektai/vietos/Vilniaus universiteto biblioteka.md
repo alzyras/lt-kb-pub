@@ -90,5 +90,5 @@ Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

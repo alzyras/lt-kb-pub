@@ -83,5 +83,25 @@ Dusburgietis teigia, kad senuoju prūsišku vardu vadino pilį ir kryžiuočiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202641
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
+  citata_originali: |
+    Prūsų kalboje šis vardas tikriausiai skambėjo *Kirsapilis, t. y. ’Viršpilis’ (plg. Kirsmemela
+    ir pan., III, 315 paaiškinimą. Elementą kirsa, tik su protetinius — turi Skirsnemunė (:
+    Nemunas), žr. Endzelins J., Senprūšu valoda, p. 194). Senuoju prūsišku vardu vadino pilį
+    ir kryžiuočiai (1239 m. dokumente Kirsberg — CDP, 1, Nr. 50; Wunder H., Siedlungs...,
+    p. 170). Matyt., vėliau, iškreipę baltiškąjį vardą, kryžiuočiai sukūrė pasakojimą, kad pilis
+    paimta Kristaus gimimo naktį ir todėl pavadinta Kristburgu (žr. SRP, 1, p. 83, išnaša
+    5; Kujot S., Dzieje Prus..., 1, p. 730—731).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

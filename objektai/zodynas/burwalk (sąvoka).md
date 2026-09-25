@@ -58,5 +58,5 @@ Rašytiniuose šaltiniuose krantinė (burwalk) dažnai minima, bet nerašoma, ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

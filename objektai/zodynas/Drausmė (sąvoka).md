@@ -72,5 +72,5 @@ Vokiečių armijoje drausmė viešpatavo ramybės ir karo metu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

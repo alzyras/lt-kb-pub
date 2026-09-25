@@ -82,7 +82,7 @@ Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų j�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167734
@@ -102,5 +102,5 @@ Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų j�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

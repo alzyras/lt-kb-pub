@@ -122,6 +122,26 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   pagrindžia:
     - c-175469
 
+<a id="claim-t-215070"></a>
+- t-215070
+  teiginys: "Narbutas aiškina, kad gentis iš Mažosios Azijos per Juodosios ir Viduržemio jūrų pakrantes pateko į Europą ir davė pradžią pelazgams."
+  atnaujinta: "2026-09-20 16:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Europa: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pelazgai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nors sakinyje veikėjas yra gentis, ji tiesiogiai siejama su pelazgų pradžia ir apsigyvenimu Europoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-194696
+
 ## Citatos
 
 - id: c-153796
@@ -140,7 +160,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-153797
@@ -159,7 +179,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166443
@@ -183,7 +203,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175469
@@ -213,5 +233,36 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-194696
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 39"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 39."
+  citata_originali: |
+    Nibūras2 teigia, jog pelazgai labai skyrėsi nuo helėnų,
+    nors jų kalbos, nepaisant tarpusavio skirtumų, archetipų
+    požiūriu buvo gana panašios. Šios dvi tautos, gal ir
+    skirtingos kilmės, turėjo artimų tarpusavio santykių ir
+    1 Vidurinėje Azijoje nusidriekę Himalajų kalnai, sudarantys Ki­
+    nijos pietų sieną, anot naujesnių duomenų, savo vidutiniu aukščiu
+    viršija Cimborasą, Amerikos Kordiljerų grandinės kalną, lig šiol lai­
+    kytą aukščiausiu Žemės kalnu. Anglų keliautojas mokslininkas ponas
+    Bleikas
+    (Blake)*
+    pateikia
+    vieno Himalajų
+    kalno — Baltojo
+    —
+    aukštį (28 000 angliškų pėdų); jis beveik du kartus aukštesnis negu
+    Monblanas Prancūzijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215070

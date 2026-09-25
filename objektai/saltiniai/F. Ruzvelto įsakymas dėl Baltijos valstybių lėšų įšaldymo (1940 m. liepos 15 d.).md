@@ -85,5 +85,5 @@ LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

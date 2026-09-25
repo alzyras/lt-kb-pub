@@ -59,5 +59,5 @@ Kaip Tamsta drysai gyventi Berlyne be komen danto pavelinimo'?
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

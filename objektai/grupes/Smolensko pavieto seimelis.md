@@ -109,6 +109,30 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-184019
 
+<a id="claim-t-208053"></a>
+- t-208053
+  teiginys: "Iš 28 Smolensko deputatų seimelių sėkmingai baigėsi 19."
+  atnaujinta: "2026-09-20 15:44"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190665
+
+<a id="claim-t-208142"></a>
+- t-208142
+  teiginys: "Augusto III valdymo laikų geriausias pavyzdys - Smolensko seimelis."
+  atnaujinta: "2026-09-20 15:44"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190632
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
@@ -150,8 +174,9 @@ object_page_seo_policy_version: object-page-policy/v7
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -162,6 +187,47 @@ object_page_seo_policy_version: object-page-policy/v7
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190632
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 52"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 52."
+  citata_originali: |
+    Po M. Višneveckio mirties
+    padėtis Pinsko seimeliuose tapo panaši į kitų Lietuvos Didžiosios Kunigaikštystės
+    seimelių padėtį.
+    Didikų įtaka seimeliuose neretai turėjo teigiamų pasekmių. Augusto III
+    valdymo laikų geriausias pavyzdys - Smolensko seimelis.
+  citata_rodoma: "Augusto III \nvaldymo laikų geriausias pavyzdys - Smolensko seimelis."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208142
+
+- id: c-190665
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 52"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 52."
+  citata_originali: |
+    Iš 28 deputatų seimelių
+    sėkmingai baigėsi 19, o Smolensko deputatas naujos kadencijos Lietuvos
+    Didžiosios Kunigaikštystės Vyriausiajame Tribunole penkis kartus buvo išrinktas
+    rusų kadencijos raštininku. Tai buvo geriausias rezultatas visoje Lietuvos
+    Didžiojoje Kunigaikštystėje. Iš 14 Smolensko pasiuntinių seimelių sėkmingai
+    baigėsi 12. lš viso sėkmingai baigėsi 31 Smolensko pasiuntinių ir deputatų seimelis.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208053

@@ -86,5 +86,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200282
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
+  citata_originali: |
+    Hartknochas, mėgstantis viską pritempti prie germaniš­
+    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
+    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
+    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
+    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
+    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
+    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
+    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
+    vuose išlikę duomenys iš XIII amžiaus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -96,7 +96,7 @@ Vytauto laikais (1392–1430) Lietuvoje pradėta žemės valdų suteikimo ir pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186660
@@ -116,5 +116,5 @@ Vytauto laikais (1392–1430) Lietuvoje pradėta žemės valdų suteikimo ir pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

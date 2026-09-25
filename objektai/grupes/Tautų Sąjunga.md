@@ -108,6 +108,34 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   pagrindžia:
     - c-176243
 
+<a id="claim-t-207522"></a>
+- t-207522
+  teiginys: "1921 m. rugsėjo 20 d. Tautų Sąjungos taryba priėmė rezoliuciją, kurioje Hymanso pasiūlyta Lietuvos ir Lenkijos sutartis paskelbta galutiniu projektu, o ne diskusijų pagrindu."
+  atnaujinta: "2026-09-20 08:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "sutarties data: 1921 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas tikslus sprendimą priėmęs subjektas ir atskleistas rezoliucijos turinys. Data paimta tiesiogiai iš citatos."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190139
+
+<a id="claim-t-207523"></a>
+- t-207523
+  teiginys: "Tautų Sąjunga panaikino tarp Lietuvos ir Lenkijos neutralią zoną."
+  atnaujinta: "2026-09-20 08:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190140
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.'
@@ -147,7 +175,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-164890
@@ -165,6 +193,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-164892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -189,7 +218,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176243
@@ -207,9 +236,50 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
+
+- id: c-190139
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 232"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 232."
+  citata_originali: |
+    Žinant, kad Lenkijos
+    ir net Lietuvos lenkų radikalai kategoriškai prieštaravo šiam projektui, banaliu lietuviš-
+    ku protu galėtume sakyti – jei lenkai pyksta, vadinasi, Hymanso projekte Lietuvai yra
+    kažkokios naudos. Juo labiau kad 1921 m. rugsėjo 20 d. Tautų Sąjungos taryba buvo priė-
+    musi rezoliuciją – Hymanso pasiūlyta Lietuvos ir Lenkijos sutartis yra galutinis sutarties
+    projektas, o ne pagrindas diskusijoms. Tai reiškia, kad ne tik lietuviai, bet ir lenkai turi
+    šį reikalą „praryti“.
+  citata_rodoma: "rugsėjo 20 d. Tautų Sąjungos taryba buvo priė-\nmusi rezoliuciją – Hymanso pasiūlyta Lietuvos ir Lenkijos sutartis yra galutinis sutarties \nprojektas, o ne pagrindas diskusijoms. Tai rei"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207522
+
+- id: c-190140
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 236"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 236."
+  citata_originali: |
+    Lenkija kvietimo atsisakė.
+    Lietuvai neliko nieko kita kaip nutraukti diplomatinius santykius su Lenkija. Tautų Sąjunga
+    savo ruožtu panaikino tarp Lietuvos ir Lenkijos neutralią zoną, o Ambasadorių konferencija
+    1923 m. kovo 15 d. pripažino Lenkijos rytines sienas, vadinasi, ir Vilnių – Lenkijai.
+  citata_rodoma: "Tautų Sąjunga \nsavo ruožtu panaikino tarp Lietuvos ir Lenkijos neutralią zoną, o Ambasadorių konferencija \n1923 m. kovo 15 d. pripažino Lenkijos rytines sienas, vadinasi, ir Vilnių – Lenkijai."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207523
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]

@@ -33,17 +33,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad [Prätorius M.] Praetorio M.
 
-## Teiginiai
-
-<a id="claim-t-61259"></a>
-- t-001
-  teiginys: "M. Prätoriaus „Praetorio M. Deliciae Prussicae oder Preussische Schawbühne“ 1-7 knygų rankraštis nurodytas WU Mokslo muziejaus fonduose Nr. 1365."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61891
-
 ## Citatos
 
 - id: c-61891
@@ -60,5 +49,3 @@ Dusburgietis teigia, kad [Prätorius M.] Praetorio M.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

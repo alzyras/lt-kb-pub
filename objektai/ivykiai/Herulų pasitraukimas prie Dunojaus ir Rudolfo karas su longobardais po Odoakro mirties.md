@@ -134,7 +134,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -159,6 +159,53 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
+
+- id: c-196166
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
+  citata_originali: |
+    Po Odo­
+    akro mirties dar ketverius metus truko susirėmimas prie­
+    šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir
+    nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo
+    burgundų. Lietuvių genčių likimai po kovo skerdynių Ra-
+    venoje buvo įvairūs. Didžiausia herulų dalis pasitraukė
+    prie Dunojaus, kur ketino apsigyventi šalia rugių arba
+    toje Noriko dalyje, kurią pavadino Rugilandija. Savo kai­
+    mynystėje jie rado longobardus ir ėmė savintis tam tikrą
+    jų valdžią. Tai buvo germanų gentis, klajojusi ir dyki­
+    nėjusi, be to, visiškai negausi, bet pernelyg karinga.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197677
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
+  citata_originali: |
+    Herulų karalius ar veikiau po Odoakro valdęs
+    vadas Rudolfas neapdairiai pradėjo kariauti su jo tau­
+    tiečio vadovaujamais longobardais, kurie dar 493 metais
+    juos visiškai sumušė. Tad herulams neliko nieko kito,
+    kaip tik išsikraustyti iš šių žemių. Jie pasistūmėjo žemyn
+    Dunojumi, ramiai perėjo gepidų kraštą ir pasidavė Rytų
+    imperatoriaus globai. Jam tarnaudami, jie vis laukė pa­
+    togios progos atkeršyti gotams už įvykdytą piktadarys­
+    tę. Netrukus pasitaikė tokia galimybė, kai jie, Belizari-
+    jaus vadovaujami, pradėjo kariauti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

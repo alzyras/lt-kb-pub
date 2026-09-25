@@ -78,5 +78,5 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -46,22 +46,6 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
 
 ## Teiginiai
 
-<a id="claim-t-60149"></a>
-- t-001
-  teiginys: "Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šventojo vainiko."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Grigalius (vicekancleris): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jeronimas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Grigalius (vicekancleris): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeronimas\" parinktas kaip owner_note_path. Targetas \"Grigalius (vicekancleris)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60782
-
 <a id="claim-t-60150"></a>
 - t-002
   teiginys: "Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos."
@@ -125,8 +109,6 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-167478
   autorius: "Petras Dusburgietis"
@@ -153,7 +135,7 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178720
@@ -187,5 +169,32 @@ Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-202907
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
+  citata_originali: |
+    Apie maldininkus ir Kulmo pilies bei miesto įkūrimą
+
+      Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės
+    žemes, kai buvo paskelbtas naujas karas, kuriam viešpats pasirinko Prūsijos žemę, kai
+    buvo pažadėta naujo karo dalyviams atlaidų bei laisvių, subruzdo visi tie, kuriems širdis
+    sujaudino dievas, būtent šaunūs ir garsūs Vokietijos kariai; prisisegę prie peties kryžių,
+    jie rengėsi  į karą keršyti už nukryžiuotojo viešpaties kančias, kratydamiesi visko, kas
+    galėtų trukdyti jų šventiems ketinimams. Mat jie pakluso šiems išganingos Jeronimo
+    paskatos žodžiams, bylojantiems: „Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis
+    pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,
+    pamynęs po kojomis tėvą, skubėk, pamynęs po kojomis motiną, ir pulk prie kryžiaus karo
+    vėliavos“. Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
+    pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
+    senoji pilis223.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

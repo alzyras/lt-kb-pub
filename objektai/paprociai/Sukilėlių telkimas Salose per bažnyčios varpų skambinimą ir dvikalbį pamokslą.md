@@ -96,7 +96,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-12332
@@ -109,9 +109,10 @@ Nenurodyta
     ir mūsų tėveliai ir visa šeimyna; tiktai mes vaikai su bobute namie belikome.
   citata_rodoma: "„Štai vieną dieną bažnyčioje visais varpais skambina. Pulkai žmonių eina į Salas. Nuėjo\nir mūsų tėveliai ir visa šeimyna; tiktai mes vaikai su bobute namie belikome."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

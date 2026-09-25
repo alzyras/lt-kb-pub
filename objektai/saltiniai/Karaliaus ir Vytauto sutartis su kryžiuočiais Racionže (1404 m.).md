@@ -74,6 +74,20 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
   pagrindžia:
     - c-169678
 
+<a id="claim-t-196349"></a>
+- t-196349
+  teiginys: "Kojelavičiaus pasakojime kryžiuočiai per Švitrigailos antrą pabėgimą į Prūsiją baisiai nusiaubė Lietuvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-169677
+    - c-169678
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių.'
@@ -157,8 +171,9 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-196349
 
 - id: c-169678
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -182,9 +197,11 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
     kurias pakvietė karalių ir Vytautą.
   citata_rodoma: "Mat Vytautas, gal\nnorėdamas pastūmėti Švitrigailą, praradusį kryžiuočių\npalankumą, į ką kita, gal dėl to, kad jau tada slaptai\ngalvojo apie karą su Maskva, sutiko su gana sunkiomis\nsąlygomis. Karaliaus Vladislovo vyskupo pasiūlytoje su­\ntartyje buvo surašytos štai šitokios sąlygos: Vytautas\nkryžiuočiams užleisiąs amžinai valdyti Žemaitiją, kara­\nlius Jogaila sumokėsiąs keturiasdešimt tūkstančių flori­\nnų, kryžiuočiai atiduosią lenkams Dobrynę, abi šalys\ntvarkingai grąžinsią viena kitai belaisvius, ištremsią iš\nsavo žemių perbėgėlius ir nutrauksią visokius išpuolius\nį kaimynų pasienio apygardas. Taikos sudarymui pažy­\nmėti Konradas Toninėje surengė iškilmingas vaišes, į\nkurias pakvietė karalių ir Vytautą."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-196349

@@ -53,18 +53,6 @@ Augustas Friderikas Kocebus buvo vokiečių literatas ir Rusijos imperatoriaus d
   pagrindžia:
     - c-196176
 
-<a id="claim-t-214187"></a>
-- t-002
-  teiginys: "Kocebus jį ir supažindino su žymaus viduram žių filologo, teologo ir bažnyčios veikėjo Petro d’Ailly (Petrus ab Alliaco); 1350—1429) rankraščiu."
-  atnaujinta: "2026-09-13 19:23"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-195413
-
 ## Citatos
 
 - id: c-195413
@@ -82,8 +70,6 @@ Augustas Friderikas Kocebus buvo vokiečių literatas ir Rusijos imperatoriaus d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 - id: c-196176
   autorius: "Teodoras Narbutas"
@@ -103,4 +89,3 @@ Augustas Friderikas Kocebus buvo vokiečių literatas ir Rusijos imperatoriaus d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-

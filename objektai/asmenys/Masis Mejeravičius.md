@@ -70,5 +70,5 @@ canonical_biography: "1606 m. Kauno pirklys Jonas Jodis apsidrausdamas parašė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

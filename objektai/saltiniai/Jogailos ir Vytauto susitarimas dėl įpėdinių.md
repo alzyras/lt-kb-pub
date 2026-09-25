@@ -60,5 +60,5 @@ Didysis kunigaikštis Vytautas su tuo sutiko, ir lenkų ponai su lietuvių didik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

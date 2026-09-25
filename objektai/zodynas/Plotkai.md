@@ -92,7 +92,7 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178042
@@ -104,9 +104,10 @@ Terminas vartojamas Kūčių vakarienės ir bažnytinio atnešimo kontekste.
     Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius.
   citata_rodoma: "Šeimininkas laužia ir dalija „plotkus“ , kiekvienam po pusę, likusius „plotkus“ suplėšo į cvikliukus ir supila į barščius."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

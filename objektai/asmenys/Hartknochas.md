@@ -198,18 +198,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   pagrindžia:
     - c-173745
 
-<a id="claim-t-197737"></a>
-- t-008
-  teiginys: "Hartknochas mini 1190 metus ir kalba apie tą potvynį, kuris, anot jo pasakojimų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179318
-
 <a id="claim-t-197738"></a>
 - t-009
   teiginys: "Hartknochas pateikia XV amžiuje gyvenusio prūsų kilmės Frydriko Zamilio lotynų kalba parašytos poemos ištrauką, kur, sakydamas savo sūnums apie savo lietuviš ką kilmę, be kita ko, jis mini protėvius pelazgus1."
@@ -287,7 +275,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172981
@@ -310,7 +298,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172982
@@ -332,7 +320,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173742
@@ -355,7 +343,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173743
@@ -383,7 +371,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173744
@@ -407,7 +395,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173745
@@ -429,7 +417,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-011
 
@@ -461,8 +449,6 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
 
 - id: c-179319
   autorius: "Teodoras Narbutas"
@@ -490,7 +476,7 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-179320
@@ -515,5 +501,174 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+
+- id: c-194621
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 196."
+  citata_originali: |
+    Hartknochas pateikia XV amžiuje gyvenusio prūsų
+    kilmės Frydriko Zamilio lotynų kalba parašytos poemos
+    ištrauką, kur, sakydamas savo sūnums apie savo lietuviš­
+    ką kilmę, be kita ko, jis mini protėvius pelazgus1. Dabar
+    panagrinėkime naujesnius pėdsakus, liudijančius, kad šių
+    protėvių vardas ne tik nebuvo svetimas Lietuvoje, bet ir
+    įsiamžino įžymių žmonių, giminių asmenvardžiuose, upių,
+    ežerų, gyvenviečių pavadinimuose. Dusiburgas2 primena
+    vardą įžymaus žmogaus, kilusio iš kunigaikščio Pelužio
+    giminės; anot vietinių tyrinėjimų, Lydos apskrityje būta
+    ir kilmingos Pelužių, arba Pelusų, Pelasų, giminės; ten
+    taip pat Pelesos upė ir to paties pavadinimo ežeras, į kurį
+    ji įteka, be to, esama kaimų, senovinių gyvenviečių, yra
+    senoji ir naujoji Pelesa, taip pat Palaškos, esančios toje
+    pačioje apskrityje ir netoli šių vandens telkinių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196444
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
+  citata_originali: |
+    Mūsų kronikinin­
+    kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
+    tiniais, kuriuos jis naudojo1. Paskui Hartknochas**, rem­
+    damasis vertais pasitikėjimo prūsų kronikų rašytojais,
+    ypač Kasparu Dankvertu, puikiai išmanantis prūsų isto­
+    riją, darbštus istorinės tiesos tyrinėtojas ir atradėjas, vi­
+    siškai įsitikinęs tvirtina, kad kimbrų gyventa žemėje, kur
+    vėliau įsikūrė prūsai. Ten jie vadinami Sembi\ iš čia ki­
+    lęs Sembos — vienos prūsų provincijos — pavadinimas2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196633
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 270."
+  citata_originali: |
+    Anot Hartknocho, sudargų iš­
+    ties būta, jų atminimas gyvas šios žemės padavimuose ir
+    kai kuriuose vietovardžiuose2. Dar ir šiandien čia yra du
+    piliavietėmis garsėjantys miesteliai, vadinami Sudargais:
+    vienas Prūsijoje, prie Rausvės upės, antras — kairiojoje
+    Nemuno pakrantėje, šiek tiek žemiau Jurbarko. Siame
+    senoviniame krašte taip pat yra Rosės upė, iki mūsų die­
+    nų išsaugojusi šį pavadinimą: ji prasideda į šiaurę nuo
+    Liubavo miestelio, teka iš pietų šiaurės link ir įteka į
+    Šešupę jos kairiojoje pakrantėje, kiek aukščiau Naumies­
+    čio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196969
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
+  citata_originali: |
+    O ypač stengė­
+    si, kad išliktų atminimas apie tą didžiulį kimbrų epochos
+    potvynį, arba vietinį tvaną, cituotą prūsų kronikininko
+    Jokimo Rozencveigo2, kurio veikalus Strijkovskis, būda­
+    mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo
+    kronikos knygas), turėjo po ranka. Tačiau esama sunku­
+    mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
+    apie dalykus, susijusius su įvykiais, galėjusiais įvykti
+    daugiau negu šimtmetis prieš naują erą, jis mini 1190
+    metus ir kalba apie tą potvynį, kuris, anot jo pasakoji­
+    mų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3.
+    Strijkovskis neabejotinai taiso šios vietos prieštaravimus
+    ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
+    epochą, vesdamas juos nuo Baltijos jūros pakrančių tie­
+    siai į Ilyriją, kur jie prie Nortbėjos pirmąsyk kariauja su
+    tenykščio prokonsulo Cyras-Karbo** vadovaujamais ro­
+    mėnais; tai įvyko 190 metais prieš Kristaus gimimą4.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197446
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
+  citata_originali: |
+    Ten ji šiau­
+    rėje ir rytuose ribojosi su Žemaitija ir iš dalies su Lie­
+    tuva. Šioje provincijoje šen bei ten aptikta gynybinių
+    įtvirtinimų vietų. Tokia tvirtovė buvusi ant kalvos netoli
+    Ragainės, kur buvo pastatyta šitaip vadinama kryžiuo­
+    čių pilis. Ten, netoli Supenų kaimo, esama senovės skal­
+    vių pilies pėdsakų. Ragainė Hartknocho išleistame Dus-
+    burgo veikale klaidingai pavadinta Ramige (p.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197745
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 265."
+  citata_originali: |
+    Treteris Jono I, Varmijos
+    vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
+    reiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­
+    sijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-
+    leidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­
+    tas ne visai tiksliai. O antrajame Naujosios Prūsijos, jau val-
+    6
+    Žinoma, kad slavai šventyklas vadino gontinomis (Gontyny) ar­
+    ba kontinomis (Kontyny).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200738
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
+  citata_originali: |
+    Krikščionims iš smalsumo buvo
+    draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
+    tikriausiai ne4.
+    Hartknochas pagal senus duomenis nurodo garsų šventąjį
+    mišką, kurio vietą senovės Prūsijos žemėlapiuose pažymi prie
+    Žemaitijos sienos, santakoje dviejų upių, iš kurių viena įteka į
+    Rusnės įlanką. Jis turėjo būti prie Tenenio upės, rodos, toje
+    vietoje, kur yra Prūsijos Romučių (Romuten) kaimas, o Že­
+    maitijoje, tik už sienos - Romuniškiai (Romuniszki).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

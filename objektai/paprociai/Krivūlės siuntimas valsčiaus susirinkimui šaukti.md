@@ -73,5 +73,5 @@ Tą lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy nui, tas tuč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

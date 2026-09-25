@@ -92,7 +92,7 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174582
@@ -115,5 +115,50 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195349
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
+  citata_originali: |
+    Mūsų mokslininkas, lietuvių istorijos tyri­
+    nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
+    toms iš kitur pažįstamus poloviečius', remdamasis tokio­
+    mis pat Kojalavičiaus prielaidomis1 2. Naruševičius patei­
+    kia žinių, kurios, rodos, taip pat remia šią nuomonę, kad
+    poloviečiai buvę rusų kaimynai nuo saulės patekėjimo ir
+    nusileidimo pusių3. Šie teiginiai įpareigoja mus patyri­
+    nėti istorinius faktus, kurie geriau paaiškintų tai ir at­
+    skleistų tikrą ar spėjamą giminystę, kurią mini mūsų pirm­
+    takai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196884
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 119"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119."
+  citata_originali: |
+    Mechovita taip kalba apie
+    čigonus, žmones, kuriuos kai kada priskirdavo prie jot­
+    vingių.
+    116
+    Naruševičius iki XII amžiaus priskiria jotvingiams
+    pernelyg plačias valdas, kurios plyti nuo Bugo iki Ber-
+    žūnos, nuo Pripetės iki Narvos1. Iš pradžių ši tauta, nors
+    gausi ir didelė, gyveno nelabai plačiai, nes ją supo pa­
+    žįstamos kitų tautų gyvenamosios vietovės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

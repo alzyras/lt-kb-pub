@@ -139,6 +139,18 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   pagrindžia:
     - c-172301
 
+<a id="claim-t-216267"></a>
+- t-216267
+  teiginys: "Seniausios žemės tautos - indai ir kinai savo tautiškumo svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve nimo smulkmenų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198910
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senuosius įstatymus, papročius ir visuomenės gyvenimo smulkmenas.'
@@ -209,7 +221,7 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172298
@@ -230,7 +242,7 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172299
@@ -256,7 +268,7 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-172300
@@ -275,7 +287,7 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-172301
@@ -296,5 +308,82 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-197924
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 81."
+  citata_originali: |
+    Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
+    rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,
+    egiptiečiai, izraelitai, persai, graikai dūsauja prisimindami ge­
+    resnę praeitį - visų padavimai primena palaimingus dar nesu­
+    gadintos prigimties laikus. Senovės filosofų devizas buvo šie
+    žodžiai: aurea prima sata ėst aetas - pirmasis gimė aukso am­
+    žius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198910
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 79."
+  citata_originali: |
+    Seniausios žemės tautos - indai ir kinai savo tautiškumo
+    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
+    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
+    nimo smulkmenų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216267
+
+- id: c-200188
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 225"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 225."
+  citata_originali: |
+    Kaip mano Naruševičius', slavai taip pat žinojo panašią
+    ugnį, vadintą Zwicz.
+    Šventosios upės
+    Senovės religijos pripažino šventumą kai kurių vandenų,
+    tekančių per šalis, įžymias tuo, kad jos buvo pirmoji tautos
+    protėvių tėvynė. Indai svarbiu savo religingumo dalyku laiko
+    tų upių garbinimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201480
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  citata_originali: |
+    Šiuos prietarus žinojo ir Lietuvos rusinai.
+    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
+    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
+    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
+    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

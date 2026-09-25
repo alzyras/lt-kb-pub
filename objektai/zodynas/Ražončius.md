@@ -77,9 +77,10 @@ Terminas vartojamas kaip religinio bendruomeninio elgesio matas, už kurio nelan
     atėjimą rytą ražončiaus giedoti.
   citata_rodoma: "Tai pabauda už nekėlimą, už ne­\natėjimą rytą ražončiaus giedoti"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

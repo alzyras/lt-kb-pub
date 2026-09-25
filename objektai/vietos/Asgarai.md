@@ -124,7 +124,7 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175579
@@ -145,7 +145,7 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -169,5 +169,68 @@ Teodoras Narbutas Asgarų kaimą prie Assės žiočių tapatino su senovės Asga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194436
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 221"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 221."
+  citata_originali: |
+    Antroji šiandien vadinama Ašva; ji prasideda taip
+    pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir­
+    žą ties Loišės pasienio smukle. Šios upės pavadinimas
+    reiškia viršutinę, bet jos žemupį žemiau Aisės ir Ašvos
+    intakų tenykščiai gyventojai vadina Asse. Ji savo ruožtu
+    įteka į Minijos upę, o prie jos žiočių yra kaimas, šiandien
+    vadinamas Asgarais; čia neabejotinai buvo senovės As-
+    gardas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194791
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 221"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 221."
+  citata_originali: |
+    Beje, skandinavams priklau­
+    sančių ir jų pastatytų Asgardų ¡galėjo būti ir-daugiau, —
+    mes neketiname tam prieštarauti1. Net žinome, kad Livo­
+    nijoje būta panašiai vadinto miesto2. Antras taip pat labai
+    senas skandinavų miestas Rusioje vadinosi Rotala; čia
+    gyvenęs karaliukas Tranonas, apie kurį netrukus papa­
+    sakosime.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197642
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 221"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 221."
+  citata_originali: |
+    Antroji šiandien vadinama Ašva; ji prasideda taip
+    pat Raseinių apskrityje, plaukia pietų link, įteka į Veivir­
+    žą ties Loišės pasienio smukle. Šios upės pavadinimas
+    reiškia viršutinę, bet jos žemupį žemiau Aisės ir Ašvos
+    intakų tenykščiai gyventojai vadina Asse. Ji savo ruožtu
+    įteka į Minijos upę, o prie jos žiočių yra kaimas, šiandien
+    vadinamas Asgarais; čia neabejotinai buvo senovės As-
+    gardas. Galbūt Minijos upė senovėje, kai ji įplaukdavo į
+    Memelį (§182), labiau tiko laivybai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

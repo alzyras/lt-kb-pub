@@ -69,5 +69,5 @@ canonical_biography: "Štai 1463-1467 m. Kauno seniūnu buvęs bajoras Stankus M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

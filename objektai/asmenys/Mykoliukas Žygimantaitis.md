@@ -34,20 +34,6 @@ canonical_biography: "Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuome
 
 Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5.
 
-## Teiginiai
-
-<a id="claim-t-194117"></a>
-- t-001
-  teiginys: "Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176730
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5.'
@@ -88,5 +74,3 @@ Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš t�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -64,6 +64,30 @@ Nenurodyta
   pagrindžia:
     - c-172630
 
+<a id="claim-t-216850"></a>
+- t-216850
+  teiginys: "Narbuto dėmesį į skandinaviškus numiz matinius paminklus, kurie, jo nuomone, turi nenuginčijamą ryšį su Lietuva. Poznanės kolekcionierius ypač žavėjosi Kara liškojo Danijos lobyno rinkiniais, kurių dauguma jau buvo pub likuota."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197718
+
+<a id="claim-t-219170"></a>
+- t-219170
+  teiginys: "Skandinaviškose monetose ir auksiniuose brakteatuose buvo pavaizduotos figūros bei užrašai, kuriuos T. Volianskis bandė perskaityti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197718
+
 ## Citatos
 
 - id: c-172630
@@ -87,5 +111,30 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197718
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 66."
+  citata_originali: |
+    T. Vo-
+    lianskis atkreipė T. Narbuto dėmesį į skandinaviškus numiz­
+    matinius paminklus, kurie, jo nuomone, turi nenuginčijamą
+    ryšį su Lietuva. Poznanės kolekcionierius ypač žavėjosi Kara­
+    liškojo Danijos lobyno rinkiniais, kurių dauguma jau buvo pub­
+    likuota. Skandinaviškose monetose bei ten pat saugomuose
+    auksiniuose brakteatuose pavaizduotas figūras bei užrašus
+    T Volianskis ir bandė perskaityti, anot paties T. Narbuto, pa­
+    darydamas tai, ko negalėjo niekas padaryti jau daugiau kaip
+    pusšimtį metų.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216850
+    - t-219170

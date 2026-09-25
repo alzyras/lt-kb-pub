@@ -77,5 +77,5 @@ Grafas Henrikas iš Svarcburgo kitais metais po 1251 m. įsiveržė į Prūsijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

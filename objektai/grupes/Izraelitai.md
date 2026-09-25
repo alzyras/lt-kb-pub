@@ -49,19 +49,6 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
   pagrindžia:
     - c-172378
 
-<a id="claim-t-194566"></a>
-- t-002
-  teiginys: "Iš mitolo gų žinome, kad seniesiems daugdievystės išpažinėjams Jeu ir Jeou reiškė tą, ką izraelitams Jehova (Jehowah); pasak jų, Ju piter yra kilęs iš Pater Jehowah, kaip Diespiter reiškia Pater dei."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-176966
-
 ## Citatos
 
 - id: c-172378
@@ -82,7 +69,7 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176966
@@ -103,5 +90,23 @@ Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-199705
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 81."
+  citata_originali: |
+    Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
+    rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,
+    egiptiečiai, izraelitai, persai, graikai dūsauja prisimindami ge­
+    resnę praeitį - visų padavimai primena palaimingus dar nesu­
+    gadintos prigimties laikus. Senovės filosofų devizas buvo šie
+    žodžiai: aurea prima sata ėst aetas - pirmasis gimė aukso am­
+    žius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

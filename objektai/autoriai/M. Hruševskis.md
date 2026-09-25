@@ -65,6 +65,19 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
   pagrindžia:
     - c-33053
 
+<a id="claim-t-207548"></a>
+- t-207548
+  teiginys: "Mychaila Hruševskis daugiatomėje Ukrainos–Rusios istorijoje į istoriografiją įvedė sąvoką „Lietuvos–Lenkijos epocha“; šaltinis jį vadina Ukrainos nacionalinės istoriografijos patriarchu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190165
+
 ## Citatos
 
 - id: c-33053
@@ -86,5 +99,29 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190165
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 216"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 216."
+  citata_originali: |
+    Tai buvo akivaizdūs pritem-
+    pimai, o tai paaiškintina ne tiek objektyvia laikysena, kiek siekiu dar labiau suteikti naujų
+    argumentų LDK kaip rusų valstybės idėjai, kuri nematė ukrainiečių ir baltarusių istorijos
+    genezės ir LDK vaidmens šiame procese.
+    Ukrainos nacionalinės istoriografijos patriarchas ir klasikas Mychaila Hruševskis
+    daugiatomėje Ukrainos–Rusios istorijoje, plačiai kalbėjo apie Lietuvos ir Lenkijos „oku-
+    paciją“ ir įvedė į istoriografiją sąvoką „Lietuvos–Lenkijos epocha“. Iš pirmo žvilgsnio gar-
+    susis istorikas šia sąvoka tarsi pritaria tiems, kurie LDK istoriją priskiria Lenkijai jau nuo
+    Krėvos.
+  citata_rodoma: "os nacionalinės istoriografijos patriarchas ir klasikas Mychaila Hruševskis \ndaugiatomėje Ukrainos–Rusios istorijoje, plačiai kalbėjo apie Lietuvos ir Lenkijos „oku-\npaciją“ ir įvedė į istoriografiją sąvoką „Lietuvos–Lenkijos epocha“. Iš pi"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207548

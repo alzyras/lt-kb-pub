@@ -158,7 +158,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-37466
@@ -181,7 +181,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-38525
@@ -207,7 +207,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167677
@@ -231,7 +231,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-167678
@@ -255,5 +255,5 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

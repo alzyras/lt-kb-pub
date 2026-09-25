@@ -82,8 +82,31 @@ Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199903
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
+  citata_originali: |
+    Tuomet žyniai keliaklupsčiais prišliauždavo prie šven­
+    tojo medžio ir uždegdavo kempines ant aukuro, pirma sude­
+    ginę nerūpestingus ugnies sergėtojus, dėl kurių apsileidimo
+    tai nutiko35.
+    Ragelienė (Ragutienie)
+    Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­
+    nių pasakojime; taip pat šiokia tokia žinia bus apeigų aprašy­
+    me. Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ra-
+    gutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau
+    nurodytu moterų žynių pavadinimu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Ragutėniškiai priklausė [[objektai/vietos/Lydos apskritis]]

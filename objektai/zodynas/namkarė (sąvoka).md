@@ -80,7 +80,7 @@ Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184562
@@ -118,5 +118,5 @@ Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

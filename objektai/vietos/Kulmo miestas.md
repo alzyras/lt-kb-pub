@@ -76,7 +76,7 @@ Ketinu nueiti į Kulmo miestą ir ten išklausyti mišių. Ginkluoti Kulmo miest
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-203373
@@ -94,5 +94,5 @@ Ketinu nueiti į Kulmo miestą ir ten išklausyti mišių. Ginkluoti Kulmo miest
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

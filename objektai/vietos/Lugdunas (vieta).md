@@ -76,5 +76,5 @@ Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

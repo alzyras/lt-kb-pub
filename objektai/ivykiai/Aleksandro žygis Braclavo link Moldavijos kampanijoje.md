@@ -143,7 +143,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178905
@@ -181,5 +181,42 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-193881
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 149."
+  citata_originali: |
+    Ir kai ka­
+    ralius Olbrachtas su visa kariuomene jau buvo Buko­
+    vinoje ir žygiavo be baimės dėl sudarytos amžinosios
+    taikos ir priesaikos, nesitikėdamas iš niekur smūgio,
+    tuo metu Moldavijos vaivadai Steponui labai skaudėjo
+    kojos, bet, norėdamas įvykdyti savo sumanymą, jis
+    užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­
+    ko su visais savo žmonėmis, ir su turkais, ir su veng­
+    rais, ir su valachais, ir tuose miškuose bei bukynuose
+    užpuolė karalių Olbrachtą bei jo kariuomenę**, dau­
+    gelį iš jo kariuomenės nukovė, o kitus paėmė gyvus;
+    atėmė daug gurguolių su dideliu turtu ir kelias garsias
+    patrankas, o pačiam karaliui Olbrachtui ir daugeliui
+    jo ponų bei karių nieko nepakenkė.
+    Kai karalius perėjo miškus ir Bukoviną, Moldavijos
+    vaivada su visais savo žmonėmis pasuko atgalios. Tada
+    Moldavijos vaivada paėmė nelaisvėn Lenkijos karalys­
+    tės didįjį maršalą poną Točinskį 3S.
+    Lietuvos didžiojo kunigaikščio Aleksandro maršalas
+    ponas Stanislovas Petravičius su visais žmonėmis, ku­
+    rie su juo buvo siųsti Į pagalbą karaliui Olbrachtui,
+    nesuspėjo laiku atvykti, nes bežygiuojančius keliu ir
+    persikėlusius per Dnestro upę pasitiko moldavai ir sto­
+    jo į mūšį su jais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

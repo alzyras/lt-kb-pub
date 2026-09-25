@@ -122,7 +122,7 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-82436
@@ -156,7 +156,7 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82437
@@ -183,5 +183,5 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -66,5 +66,5 @@ Jokūbas iš Selicos, tuo metu nebuvęs pilyje, atskubėjo iš Holdovo ir nuvijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

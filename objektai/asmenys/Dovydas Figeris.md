@@ -66,5 +66,5 @@ Dar įvairesnės buvo gdanskiečio Dovydo Figerio prekės: 1 lašt as itališkų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

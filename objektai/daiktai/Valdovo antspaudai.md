@@ -79,5 +79,5 @@ Nuo XVI a. pradžios už valdovo išdavystę mirties bausme vis dažniau buvo ba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

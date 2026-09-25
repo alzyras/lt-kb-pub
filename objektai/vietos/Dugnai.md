@@ -36,21 +36,6 @@ historical_names: []
 
 Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise užlietose vandeniu.
 
-## Teiginiai
-
-<a id="claim-t-188992"></a>
-- t-001
-  teiginys: "Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise užlietose vandeniu."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171881
-
 ## Citatos
 
 - id: c-171881
@@ -73,5 +58,3 @@ Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

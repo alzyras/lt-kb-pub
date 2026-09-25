@@ -75,5 +75,5 @@ Oehler, M., Der Krieg zwischen dem deutschen Orden mit Polen - Lithauen 1409—1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

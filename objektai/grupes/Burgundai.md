@@ -82,6 +82,27 @@ Burgundai Narbuto pasakojime minimi tarp gausių naujų atvykėlių, įsimaišiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-194574
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
+  citata_originali: |
+    Po Odo­
+    akro mirties dar ketverius metus truko susirėmimas prie­
+    šiškų barbarų grupuočių Italijoje; čia įsimaišė dar ir
+    nauji atvykėliai iš Pjemonto ir dalijos, ypač daug buvo
+    burgundų. Lietuvių genčių likimai po kovo skerdynių Ra-
+    venoje buvo įvairūs. Didžiausia herulų dalis pasitraukė
+    prie Dunojaus, kur ketino apsigyventi šalia rugių arba
+    toje Noriko dalyje, kurią pavadino Rugilandija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

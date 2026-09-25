@@ -33,17 +33,6 @@ canonical_biography: "Dusburgietis teigia, kad 136 Milthaler F."
 
 Dusburgietis teigia, kad 136 Milthaler F.
 
-## Teiginiai
-
-<a id="claim-t-60758"></a>
-- t-001
-  teiginys: "Milthaler F. parašė darbą „Die Grossgebietiger“, cituojamą 59–69 puslapiuose."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61390
-
 ## Citatos
 
 - id: c-61390
@@ -59,5 +48,3 @@ Dusburgietis teigia, kad 136 Milthaler F.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

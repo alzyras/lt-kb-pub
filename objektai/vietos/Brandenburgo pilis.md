@@ -64,6 +64,30 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   pagrindžia:
     - c-67520
 
+<a id="claim-t-223943"></a>
+- t-223943
+  teiginys: "Brandenburgo markgrafas 1266 m. Prūsijos žemėje pastatydino Brandenburgo pilį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203644
+
+<a id="claim-t-225725"></a>
+- t-225725
+  teiginys: "1261 m. prieš Pokarvių mūšį kryžiuočių ir jų talkininkų kariuomenė stovyklavo vietoje, kur vėliau stovėjo Brandenburgo pilis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204535
+
 ## Citatos
 
 - id: c-67520
@@ -90,8 +114,44 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203644
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 130."
+  citata_originali: |
+    Brandenburgo markgrafas atvyko su daugybe karių į Prūsijos
+    žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro
+    bei brolių patariamas, pastatydino Brandenburgo pilį
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223943
+
+- id: c-204535
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 25"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
+  citata_originali: |
+    kad 1261 m., prieš
+    Pokarvių mūšį, kryžiuočių bei jų talkininkų kariuomenė sustojusi stovyklauti toje vietoje,
+    „kur dabar stovi Brandenburgo pilis“ (III, 91)
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225725
 
 ## Ryšiai
 - Užėmė Brandenburgo pilį: [[objektai/asmenys/Glapas]]

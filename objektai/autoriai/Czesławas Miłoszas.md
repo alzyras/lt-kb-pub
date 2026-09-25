@@ -59,3 +59,43 @@ Pasak Bumblausko cituojamo Czesławo Miłoszo, nesustabdžius bolševikų prie V
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207688"></a>
+- t-001
+  teiginys: "Pasak Bumblausko cituojamo Czesławo Miłoszo, nesustabdžius bolševikų prie Vyslos, Vilnius 1920 m. būtų buvęs LTSR sostine."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutrumpinta neencyklopedinė formuluotė apie citavimą ir aiškiai parodyta, kad tai Czesławo Miłoszo pozicija, perteikta Bumblausko tekste. Nauji faktai nepridėti."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190305
+
+## Citatos
+
+- id: c-190305
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 230"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 230."
+  citata_originali: |
+    Tačiau tada reikia pamatyti regioninę jo
+    viziją ir siekį sujungti visą Vidurio Rytų Europą nuo Suomijos iki Rumunijos. O svarbiau-
+    sia, kaip sakė Czesławas Miłoszas, – jei ne bolševikų sustabdymas prie Vyslos, Vilnius jau
+    1920 m. būtų buvęs LTSR sostine.
+    Lietuva atsisako Vilniaus: LDK idėjos pabaiga?
+  citata_rodoma: "tada reikia pamatyti regioninę jo \nviziją ir siekį sujungti visą Vidurio Rytų Europą nuo Suomijos iki Rumunijos. O svarbiau-\nsia, kaip sakė Czesławas Miłoszas, – jei ne bolševikų sustabdymas prie Vyslos, Vilnius jau \n1920 m. būtų buvęs LTSR sostine. \nLietu"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

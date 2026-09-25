@@ -70,6 +70,18 @@ Nenurodyta
   pagrindžia:
     - c-184712
 
+<a id="claim-t-216907"></a>
+- t-216907
+  teiginys: "Senovės prūsų tarme toks vainikas vadinosi apglobtė (Abglojte) ir reiškė nuometą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199878
+
 ## Citatos
 
 - id: c-184711
@@ -92,7 +104,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184712
@@ -113,5 +125,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-199878
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 357."
+  citata_originali: |
+    Prieš einant į lovą, moterys nukerpa jaunajai kasas ir ant gal­
+    vos uždeda platų vainiką, apvyniotą balta skarele, panašų į tur­
+    kišką muturą. Toks vainikas senovės prūsų tarme vadinosi ap-
+    globtė (Abglojte), kas reiškia nuometą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216907

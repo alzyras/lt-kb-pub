@@ -67,5 +67,5 @@ Dusburgietis teigia, kad pirmosios dalies įvade tvirtinama, kaip Kristus pastat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

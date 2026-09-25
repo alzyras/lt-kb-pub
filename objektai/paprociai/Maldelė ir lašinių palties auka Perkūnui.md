@@ -98,7 +98,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179090
@@ -118,5 +118,45 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197754
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 347."
+  citata_originali: |
+    Audros, griaustiniai, krušos, žaibai buvo galingi
+    veiksniai, palaikę didelę Perkūno pykčio baimę. Kartais, tik­
+    riausiai kaip apgavikiškus monus, žmonėms rodydavo baisias
+    gyvates, slibinus, pabaisas, baidykles ir panašias baisybes. Iš­
+    girdę griaudžiant, seni prūsai sakydavo: „Dievų karalius kal­
+    basi su vyriausiuoju žyniu“5.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200814
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
+  citata_originali: |
+    Paltu messu (paltį mėsos. - R. J.)
+    reiškia pusę kiaulės skerdienos kartu su riebalais, įprastinę ro­
+    mėnų ir lietuvių auką, kurią kaimiečiai atnašauja dievams. Si
+    maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
+    šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
+    rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
+    gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
+    ne. muskis. und man'.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

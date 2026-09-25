@@ -95,5 +95,5 @@ Narbutas pasakoja, kad Kuklėjus, vienas iš Algirdo dvariškių, slapta išpaž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

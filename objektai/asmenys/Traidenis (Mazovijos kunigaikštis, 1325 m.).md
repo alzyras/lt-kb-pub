@@ -90,5 +90,5 @@ canonical_biography: "98 ## Puslapis 115 I KNYGA dux Masovie Vanczko prie 1328 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

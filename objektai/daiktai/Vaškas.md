@@ -72,6 +72,18 @@ Nenurodyta
   pagrindžia:
     - c-33236
 
+<a id="claim-t-221964"></a>
+- t-221964
+  teiginys: "Ariogalos lietuvis už išvadavimą pažadėjo dievui gerą svarą vaško."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203510
+
 ## Citatos
 
 - id: c-33236
@@ -91,5 +103,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203510
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 200"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 200."
+  citata_originali: |
+    Tuo metu vienas Ariogalos lietuvis, suimtas savo karaliaus ir įkalbėtas vieno ruso,
+    kalėjusio drauge su juo, pažadėjo dievui už išvadavimą gerą svarą vaško; bematant
+    sutrupėjo grandinės, kuriomis buvo surakintas, prasidarė kalėjimo durys, ir jis atgavo
+    laisvę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221964

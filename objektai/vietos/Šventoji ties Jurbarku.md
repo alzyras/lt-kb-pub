@@ -65,5 +65,5 @@ Upė, įtekanti į Nemuną žemiau Jurbarko, ties Smali ninkais, kur eina Prūsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

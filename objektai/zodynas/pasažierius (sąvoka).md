@@ -72,7 +72,7 @@ Gibraltare anglų valdžia krato laivo pasažierius ir tikrina jų pašportus. M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192324
@@ -89,5 +89,5 @@ Gibraltare anglų valdžia krato laivo pasažierius ir tikrina jų pašportus. M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

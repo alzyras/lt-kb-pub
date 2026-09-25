@@ -73,26 +73,6 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
 
 ## Teiginiai
 
-<a id="claim-t-188909"></a>
-- t-001
-  teiginys: "Pasak Narbuto perteikiamo Strijkovskio, prie Vilniaus Perkūno šventyklos gyvatės buvo laikomos atskiroje koplyčioje po Katedros didžiuoju altoriumi."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Vilnius: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus Perkūno šventykla: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Šventykla įvardyta kaip Vilniaus Perkūno šventykla, todėl ji siejama su Vilniumi."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171798
-
 <a id="claim-t-197482"></a>
 - t-002
   teiginys: "Prie šventyklos įėjimo buvo Krivių Krivaičio - žynių žynio rūmas."
@@ -129,6 +109,18 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   pagrindžia:
     - c-179214
 
+<a id="claim-t-220156"></a>
+- t-220156
+  teiginys: "Religinio garbinimo objektai (ugnis, upės, ežerai, medžiai), šventos vietos (kalnai, miškeliai, kai kurios šventyklos, pavyz džiui, Vilniaus Perkūno šventykla), šventės (Pergrubės, Didžio ji) apibūdinama labiau laikantis senųjų rašytinių šaltinių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201244
+
 ## Citatos
 
 - id: c-171798
@@ -150,8 +142,6 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-179212
   autorius: "Teodoras Narbutas"
@@ -176,7 +166,7 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179213
@@ -206,7 +196,7 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-179214
@@ -230,5 +220,101 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-198411
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
+  citata_originali: |
+    Orakulas žadėjo, kad ji gyvuosianti tol, kol gyva bus
+    pati stabmeldystė, ir įsakė pagaminti 122 apvalainas plytas
+    su orakulo nurodytais ženklais - hieroglifais; iš jų turėjo būti
+    išpranašaujami geri ar prasti metai; paskutinė plyta buvo su
+    dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
+    gaikščiui. Tą ženklą panaudojo valstybės herbui . Kiti pasa­
+    kojo, kad, priėjus šį ženklą, žlugs stabmeldystė, ir krikščio­
+    nys sugriaus šventyklą. Daugumas šių plytų dar matoma pie­
+    tinėje pusėje Katedros varpinės , kuri nuo pusės primūryta
+    ir perstatyta po 1399 metų gaisro.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199797
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
+  citata_originali: |
+    Prie šventyklos įėjimo buvo Krivių
+    Krivaičio - žynių žynio rūmas. Tas rūmas turėjo apvalų bokš­
+    tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­
+    mą aukos deginimas ant aukuro pakopos reiškė pirmąją mė­
+    nesio dieną, o plytelė su tam tikru ženklu, įmūrijama bokšto
+    sienoje metų pradžioje, rodydavo metus. Senas pasakojimas,
+    kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
+    žinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią
+    šventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263
+    metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
+    kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
+    eitis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201065
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
+  citata_originali: |
+    Tas rūmas turėjo apvalų bokš­
+    tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­
+    mą aukos deginimas ant aukuro pakopos reiškė pirmąją mė­
+    nesio dieną, o plytelė su tam tikru ženklu, įmūrijama bokšto
+    sienoje metų pradžioje, rodydavo metus. Senas pasakojimas,
+    kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
+    žinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią
+    šventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263
+    metais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­
+    kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
+    eitis. Orakulas žadėjo, kad ji gyvuosianti tol, kol gyva bus
+    pati stabmeldystė, ir įsakė pagaminti 122 apvalainas plytas
+    su orakulo nurodytais ženklais - hieroglifais; iš jų turėjo būti
+    išpranašaujami geri ar prasti metai; paskutinė plyta buvo su
+    dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
+    gaikščiui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201244
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 32"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 32."
+  citata_originali: |
+    Religinio garbinimo objektai (ugnis, upės, ežerai, medžiai),
+    šventos vietos (kalnai, miškeliai, kai kurios šventyklos, pavyz­
+    džiui, Vilniaus Perkūno šventykla), šventės (Pergrubės, Didžio­
+    ji) apibūdinama labiau laikantis senųjų rašytinių šaltinių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220156

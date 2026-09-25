@@ -60,5 +60,5 @@ Narbutas nurodo, kad senovės Prūsijos jūros pakrantės buvo vadinamos Withen 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

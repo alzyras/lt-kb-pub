@@ -71,5 +71,5 @@ Brolis Verneris generalinėje kapitulos nutarė, kad kunigai po sumos kasdien sk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -62,5 +62,25 @@ Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199223
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  citata_originali: |
+    Reikėtų surasti vidurį tarp tų dviejų
+    kraštutinumų.
+    Kad romėnų laivai prieš Kristaus gimimą plaukiojo po Bal­
+    tijos jūrą, nėra abejonės, nes tai aiškiai liudija Plinijus. Kad
+    Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry­
+    šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie­
+    sa7.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

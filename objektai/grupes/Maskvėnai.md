@@ -135,7 +135,7 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -171,7 +171,7 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-178536
@@ -200,7 +200,7 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186931
@@ -236,7 +236,7 @@ Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 ## Ryšiai

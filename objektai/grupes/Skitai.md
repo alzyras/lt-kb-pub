@@ -300,6 +300,54 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   pagrindžia:
     - c-175258
 
+<a id="claim-t-212336"></a>
+- t-212336
+  teiginys: "Savo ruožtu graikų boristeniečių prekybiniai santy kiai su skitų žemdirbiais lėmė, jog pirmieji apsigyveno Kankinėje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195964
+
+<a id="claim-t-212845"></a>
+- t-212845
+  teiginys: "Anksčiau jau minėjome, kad skitai yra kone seniausia Europos tauta, kurios atėjimas iš Azi jos per Dono žemupį parodo Europos tautų kūdikystę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197221
+
+<a id="claim-t-213535"></a>
+- t-213535
+  teiginys: "Darijui nepavyko įveikti skitų, bet šis žygis turėjo didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196130
+
+<a id="claim-t-215692"></a>
+- t-215692
+  teiginys: "Prie Dnepro gyvenantys senovės skitai iki vėlyvųjų, bemaž mūsų lai kų ten, kur gyvena, yra pagonys."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195062
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Dnepro pakrančių milžinkapių pylėjus tapatina su skitais, kurie virš mirusiųjų supildavo kalnelius.'
@@ -400,7 +448,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172369
@@ -421,7 +469,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172370
@@ -447,7 +495,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175255
@@ -474,7 +522,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175258
@@ -502,7 +550,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-175259
@@ -530,7 +578,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-176068
@@ -556,7 +604,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-176069
@@ -589,7 +637,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-176070
@@ -613,7 +661,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-176072
@@ -645,7 +693,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-176073
@@ -669,7 +717,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-176076
@@ -695,7 +743,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-177262
@@ -720,7 +768,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-177263
@@ -748,7 +796,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-014
 
@@ -771,7 +819,7 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-178545
@@ -801,5 +849,234 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
+
+- id: c-194468
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 145"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 145."
+  citata_originali: |
+    Skitai gintarą turėdavo gauti keliu,
+    ėjusiu palei Baltijos jūrą upe, kuri į ją įteka. Mokslininkai klydo ma­
+    nydami, jog tai galėjo būti Prieglius arba Vakarų Dauguva. Čia tin­
+    kamiausias
+    būtų
+    Nemunas,
+    nes
+    labiausiai
+    susijęs
+    su
+    Pripete.
+    Skitai gintarą
+    vadino
+    sacrium.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194749
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
+  citata_originali: |
+    33
+    Jau labai senais laikais graikai užmezgė santykius su
+    Juodosios jūros pakrančių skitais. Sakoma, kad Neopto-
+    lemas pirmasis pradėjo steigti pirmas pastovias graikų
+    gyvenvietes, pirmiausia prie Dnestro, paskui ir prie Dnep-
+    ro žiočių. Tai davė pradžią graikų emporiumams, arba
+    prekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą
+    pradėjo klestėti ir vėliau virto tokiais turtingais kaip
+    Olbija, Heraklėja, Chersonas ir kiti. Apskritai skitai, bū­
+    dami iš prigimties svetingi, pakisdavo kitų tautų pirk­
+    lius; jų santykiai su kaimyninėmis tautomis visuomet bu­
+    vo bičiuliški, nes, būdami valdiniai vieno karaliaus, kuris
+    niekada neketino pavergti svetimų tautų, lengvai galėjo
+    taikiai sugyventi su įvairiomis kaimyninėmis tautomis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195062
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 384"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 384."
+  citata_originali: |
+    Prie Dnepro
+    gyvenantys senovės skitai iki vėlyvųjų, bemaž mūsų lai­
+    kų ten, kur gyvena, yra pagonys. Jie niekada nelaidodavo
+    savo mirusiųjų žemėje, bet, kai tik kažkas mirdavo, iš­
+    veždavo jį į laidojimo vietą; ten jie vienų palaikus sude­
+    gindavo, o kitų pamesdavo palikdami kieik išgalėdami ša­
+    lia maisto ir gėrimų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215692
+
+- id: c-195964
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 378."
+  citata_originali: |
+    Savo ruožtu graikų boristeniečių prekybiniai santy­
+    kiai su skitų žemdirbiais lėmė, jog pirmieji apsigyveno
+    Kankinėje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212336
+
+- id: c-195993
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
+  citata_originali: |
+    32
+    Skitų gentys dalijosi į įvairias kartas arba klases, bet
+    dvi svarbiausios buvo šios: žemdirbių ir klajoklių. Pir­
+    mieji priklausė aukštesniam civilizacijos lygiui, statėsi
+    pastovius namus, buvo sąžiningumo ir gerų papročių pa­
+    vyzdys, labai darbštūs, dirbdami žemę išaugindavo daug
+    grūdų, kurių duodavo ir kitoms gentims. Jų žemės buvo
+    abipus Dnepro, netoli šios upės. Toliau, už kairiojo Dnep-
+    ro kranto, tarp Doneco ir Dono, buvo Aukso, t. y. Kara­
+    liškoji, orda, kurioje gyveno karalius, įsakinėjęs visoms
+    gentims**.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196130
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
+  citata_originali: |
+    Darijui nepavyko įveikti skitų, bet šis žygis turėjo
+    didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­
+    tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213535
+
+- id: c-196543
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
+  citata_originali: |
+    Į tai atsi­
+    žvelgus, nesunku padaryti prielaidą, jog tam tikri žmo­
+    nės iš Šiaurės Azijos, patraukę iš pietesnių šios pasaulio
+    dalies kraštų beveik poliarinio rato link, eidami iš rytų
+    j vakarus, galėjo per Lapiją patekti į Skandinaviją arba
+    i Švediją ir Norvegiją. Padavimai, išlikę Šiaurės tautų
+    sagose, visada pasakoja apie skandinavų protėvių atvy­
+    kimą iš Skitijos pusės Odinui vadovaujant; tai patvirtina
+    skandinavų giminės bruožai, panašūs į skitų. Iš tiesų
+    tik taip galima įspėti mįslę didžios senovinės Šiaurės
+    Europos tautos, kuri tolimiausioje senovėje vadinama hi­
+    perborėjų, o vėliau skandinavų, giminingų keltams, var­
+    du, nes ir šie kilę iš skitų lizdo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196911
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  citata_originali: |
+    Kadangi priešo būriai buvo narsūs ir puikiai gink­
+    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
+    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
+    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
+    jo nesuskaičiuojamų atsargų našta. Taip Darijus buvo
+    priverstas greitai pereiti visą Skitiją, persikelti per to­
+    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
+    cas. Antra vertus, persų karalius, pasak Herodoto, savo
+    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
+    čio tarytum padėjo skitams įgyvendinti jų ketinimus. Jo
+    brolis Artabanas veltui stengėsi įrodyti, kad nenaudinga
+    aukoti septynissyk šimtatūkstantinę armiją nepažįstamam,
+    visiškai nusiaubtam ir sausringam kraštui, kur visko la­
+    bai stigo, o tai buvo pavojingiau negu priešo ginklai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197221
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 50."
+  citata_originali: |
+    Anksčiau jau minėjome, kad skitai
+    yra kone seniausia Europos tauta, kurios atėjimas iš Azi­
+    jos per Dono žemupį parodo Europos tautų kūdikystę.
+    Jau 1540 metais prieš Kristaus gimimą jie buvo labai
+    gausūs ir galingi, tuomet jiems priklausė Dnepro žiotys
+    ir
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212845
+
+- id: c-201563
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
+  citata_originali: |
+    Šiuo po­
+    žiūriu sekta senovės galais ir skandinavais bei daugeliu kitų
+    įvairių tautų. Pasak Herodoto, skitai, laidodami savo karalius,
+    taip pat užmušdavo jų mylimiausius tarnus. Neturime jokio pa­
+    tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka­
+    bindavo karalių kūnus, parištus ant aukso grandinių .
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

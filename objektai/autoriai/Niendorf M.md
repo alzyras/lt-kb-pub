@@ -66,9 +66,10 @@ Niendorf M.
     der Frühen Neuzeit (1569–1795).
   citata_rodoma: "Niendorf M. Das Großfürstentum Litauen: Studien zur Nationsbildung in"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

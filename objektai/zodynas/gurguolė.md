@@ -302,7 +302,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-104823
@@ -328,7 +328,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-104824
@@ -365,7 +365,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167974
@@ -403,7 +403,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-008
 
@@ -446,7 +446,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-009
 
@@ -481,7 +481,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-010
 
@@ -521,7 +521,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-178651
@@ -557,5 +557,5 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011

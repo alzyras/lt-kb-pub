@@ -132,7 +132,7 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -160,6 +160,6 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004

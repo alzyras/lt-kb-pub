@@ -73,5 +73,5 @@ Penk toj dienoj po mano išvažiavimo iš Kauno, Kau no policija padarė kratą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

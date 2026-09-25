@@ -71,9 +71,10 @@ media_all_json: |-
     1876 ; t. 12, 1891 ; t. 14, 1894).
   citata_rodoma: "CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So-\nkołowski, J. Szujski ir A. Lewicki (rink. : MoMP, t. 2,\n1876 ; t. 12, 1891 ; t. 14, 1894)."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

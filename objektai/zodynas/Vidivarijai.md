@@ -103,7 +103,7 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55795
@@ -142,5 +142,5 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

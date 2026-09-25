@@ -90,5 +90,5 @@ Pasak Teodoro Narbuto, Vytautas, siekdamas atlyginti už Tochtamyšo skriaudas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

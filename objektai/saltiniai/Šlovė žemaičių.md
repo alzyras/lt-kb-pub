@@ -101,6 +101,6 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

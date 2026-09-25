@@ -74,5 +74,5 @@ Sambijos vyskupas Henrikas Vitlandsorto žemes perleido Ordinui, kad ten būtų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -69,5 +69,5 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

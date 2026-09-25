@@ -77,5 +77,5 @@ Prūsai pastatė tiltą per Priegliaus upę ir abiejuose jo galuose įrengė tvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

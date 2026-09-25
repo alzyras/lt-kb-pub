@@ -70,5 +70,24 @@ Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198425
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
+  citata_originali: |
+    Kasmet Didžiosios šventės iš­
+    vakarėse šio dievo stabą sudaužydavo ir dirbindavo naują. Dar
+    jis turėjo aukurą, arba akmeni, esantį tarp Frauenburgo ir Tol-
+    kmito, ant kurio žvejai atnašaudavo jam pirmas sužvejotas žu­
+    vis. Apaštalai, apkrikštydami prūsus, daugiausia vargo, kol įvei­
+    kė prietaringą tikėjimą šia dievybe*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

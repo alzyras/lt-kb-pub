@@ -77,5 +77,25 @@ Savęs prakeikimo formulė, skirta priesaikai sutvirtinti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197766
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
+  citata_originali: |
+    Lietuviai savo priesaikas duodavo visai panašiai: visi saky­
+    davo (tai ir dabar yra kaimiečių paprotys) „dėl Dievo“ (Dali
+    lkw u), taip pat: Kad man Periamas sumusztu; tai reiškė šaukti
+    dievus būti liudytojais. Priesaikos su užkeikimu taip pat dar
+    tebegirdimos, formulė buvo: „Kad aš skradžiai prapultau“
+    (Kad až skradziuprapoltu). Senovės prūsų papročiu prisiekian­
+    tysis laikydavo dešinę ranką prie savo gerklės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

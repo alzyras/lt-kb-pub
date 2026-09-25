@@ -77,5 +77,5 @@ canonical_biography: "Adomas Dzentoletas teigė, kad 1738 m. Anupras Kulieša u�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

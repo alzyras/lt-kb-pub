@@ -69,5 +69,5 @@ Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

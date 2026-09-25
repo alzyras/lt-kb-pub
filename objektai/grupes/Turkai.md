@@ -71,19 +71,6 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-168782
 
-<a id="claim-t-187769"></a>
-- t-003
-  teiginys: "Turkų sultono didysis paša Malkočas su Moldavijos vaivada Steponu kariavo Lenkijos žemėje iki Lvovo ir Tarnovo apylinkių."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-170708
-
 <a id="claim-t-193466"></a>
 - t-004
   teiginys: "1429 m. valdovų posėdyje imperatorius Zigmantas ragino po husitų numalšinimo nukreipti kariuomenę prieš turkus ir saracėnus."
@@ -96,6 +83,44 @@ object_page_seo_policy_version: object-page-policy/v7
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168782
+
+<a id="claim-t-210715"></a>
+- t-210715
+  teiginys: "Turkai 1453 metais paėmė Konstantinopolį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-193996
+
+<a id="claim-t-210800"></a>
+- t-210800
+  teiginys: "Turkai užėmė Kalą, Kiliją ir Belgorodą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-194293
+
+<a id="claim-t-210905"></a>
+- t-210905
+  teiginys: "Iš tikrųjų, sudarius paliaubas, Steponas įspėjo Lenkijos ka ralių Joną Olbrachtą nežygiuoti atgal stačiai i šiaurę, nes paliau bų sutartis neliete Moldavijos sąjungininkų turkų, totorių ir vala kų (rumunų), o Sučiavos—Cernovcų kelias kalnų tarpekliuose buvo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194155
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -193,7 +218,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168782
@@ -223,7 +248,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -245,5 +270,59 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-193996
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 140"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 140."
+  citata_originali: |
+    Šeši tūkstančiai devyni šimtai šešiasdešimt pirmai­
+    siais Į1453] metais gegužės dvidešimt devintą turkai
+    paėmė Konstantinopolį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210715
+
+- id: c-194155
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 312"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 312."
+  citata_originali: |
+    Iš tikrųjų, sudarius paliaubas, Steponas įspėjo Lenkijos ka­
+    ralių Joną Olbrachtą nežygiuoti atgal stačiai i šiaurę,
+    nes paliau­
+    bų sutartis neliete Moldavijos sąjungininkų turkų, totorių ir vala­
+    kų (rumunų), o Sučiavos—Cernovcų kelias kalnų tarpekliuose buvo
+    patogus antpuoliams iš pasalų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210905
+
+- id: c-194293
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 141"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 141."
+  citata_originali: |
+    O paskui13 turkai atėjo j Moldaviją ir užėmė
+    Kiliją 14 ir Belgorodą 15.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210800

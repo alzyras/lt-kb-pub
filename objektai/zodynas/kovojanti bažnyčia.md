@@ -70,5 +70,29 @@ Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204794
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 33-34"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33-34."
+  citata_originali: |
+    Nieku būdu nereikia pamiršti ir to itin
+    svarbaus įrodymo, jog šių brolių kovas lydėjusi tokia karo sėkmė, kad per vienuolika
+    metų nuo tos dienos, kai įžengė  į Prūsijos žemę, jie pajungė savo galiai  ir palenkė
+    krikščionių tikėjimui ir tas gentis, kurios valdė Kulmo bei Lubavos žemes, ir tas tautas,
+
+    kurios gyveno Pamedės, Pagudės, Varmės, Notangos  ir Bartos žemėse, pastatydami
+    jose daugybę įtvirtinimų, miestų ir pilių, kurias išskaičiuosime ir išvardysime vėliau. Šit
+    koks reikšmingas ženklas pasirodęs kovojančios bažnyčios padangėje! Tad atkreipk savo
+    akis, gerasis Jėzau,  į tavo nuolankius tarnus, kurių rankomis štai teikeisi daryti tokių
+    reikšmingų ženklų, kad nerimautų ir nuogąstautų gentys, kurios gyvena, nepaisydamos
+    tavo ženklų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

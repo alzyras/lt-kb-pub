@@ -69,9 +69,10 @@ Italų architektorius Constantino Tencalli laikomas Šv. Kazimiero koplyčios au
     buvo panaudotas tašytas akmuo — medžiaga visai neįprasta Vilniui, medžio
     ir smėlio miestui, kur net plyta buvo prabangos dalykas.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

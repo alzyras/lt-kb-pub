@@ -69,6 +69,30 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   pagrindžia:
     - c-177073
 
+<a id="claim-t-214512"></a>
+- t-214512
+  teiginys: "Vergilijus rašo, kad jis sruvena prie pra garo vartų, po lauro giraites, per kurias plaukia Eridanas, vaikštinėja palaimintųjų šešėliai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195422
+
+<a id="claim-t-216249"></a>
+- t-216249
+  teiginys: "Šioje srityje buvo išradingas Vergilijus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198428
+
 ## Citatos
 
 - id: c-173225
@@ -88,7 +112,7 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177073
@@ -110,5 +134,77 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195422
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 331"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 331."
+  citata_originali: |
+    Vergilijus rašo, kad jis sruvena prie pra­
+    garo vartų, po lauro giraites, per kurias plaukia Erida-
+    nas, vaikštinėja palaimintųjų šešėliai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214512
+
+- id: c-198428
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
+  citata_originali: |
+    Šioje srityje buvo išradingas Vergilijus. Kai, žlugus Trojai,
+    liūdna būtinybė privertė Enėją palikti tėvynę, jam teko statyti
+    laivus iš Idos kalno medžių, paskirtų Kibelei. Dėl tokio neti­
+    kėto reikalo deivė ne tik leidžia, bet ir prašo Jupiterio, kad tie
+    laivai nebūtų pavaldūs vėjų ir įsisiautėjusių jūros bangų šėl­
+    smui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216249
+
+- id: c-198574
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 371"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
+  citata_originali: |
+    Vergilijus praneša, kad
+    Enėjo laikais virš karstų supildavo kalnus.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200539
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
+  citata_originali: |
+    Eri-
+    sichtono istorija, Dodonės ir Delfų šventieji miškai buvo gar­
+    sus Antikos laikais.
+    Šioje srityje buvo išradingas Vergilijus. Kai, žlugus Trojai,
+    liūdna būtinybė privertė Enėją palikti tėvynę, jam teko statyti
+    laivus iš Idos kalno medžių, paskirtų Kibelei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

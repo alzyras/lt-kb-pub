@@ -76,5 +76,24 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197843
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
+  citata_originali: |
+    O supratingiems tėvy­
+    nės istorijos mylėtojams - tai labai vertingas šios įžymios val­
+    18 Žygimanto Senojo privilegija, duota Petrui Laurinavičiui, Vil­
+    niaus piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrkovas.
+    1538.1.25. - Iš Lietuvos Metrikos. Išspausdino Kraševskis (Wilno. -
+    T. K')*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

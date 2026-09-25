@@ -69,5 +69,5 @@ Apie jo kelionės rezultatus nežinoma, bet jis prisimintas, kai 1611 m. seimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

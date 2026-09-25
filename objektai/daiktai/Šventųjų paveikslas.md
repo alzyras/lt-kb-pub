@@ -71,5 +71,5 @@ Per Marienverderio miesto antpuolius prūsai nepagarbiai elgėsi su šventųjų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -75,5 +75,5 @@ Valstiečius turėjo teisti patys bajorai, o jiems nesiėmus spręsti bylos gal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -202,6 +202,20 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   pagrindžia:
     - c-175976
 
+<a id="claim-t-208061"></a>
+- t-208061
+  teiginys: "Ukraina įvardyta tarp dabartinių valstybių, kurių atstovai dalyvavo 1791 m. konstitucijos priėmimo procese."
+  atnaujinta: "2026-09-19 18:44"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190679
+
 ## Citatos
 
 - id: c-43938
@@ -231,7 +245,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-112014
@@ -260,7 +274,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -287,7 +301,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-112017
@@ -312,7 +326,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-112022
@@ -331,7 +345,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-168529
@@ -359,7 +373,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-175976
@@ -377,8 +391,30 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-190679
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 90"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 90."
+  citata_originali: |
+    Išvad os
+    1791 m. Gegužės 3-iosios konstitucijos ir spalio io-osios Abiejų Tautų tarpusavio
+    įžado priėmimo procese dalyvavo net keleto dabartinių valstybių - Lenkijos, Lie­
+    tuvos, Baltarusijos ir Ukrainos - atstovai, tačiau jų įamžinimo šių šalių atminties
+    kultūrose skirtumai išlieka akivaizdūs. Daugiausiai šioje srityje yra nuveikusi Len­
+    kija, kurioje šio įvykio vertinimuose nebūta ryškesnio specialistų ir visuomenės
+    nuomonių išsiskyrimo.
+  citata_rodoma: "1791 m. Gegužės 3-iosios konstitucijos ir spalio io-osios Abiejų Tautų tarpusavio \nįžado priėmimo procese dalyvavo net keleto dabartinių valstybių - Lenkijos, Lie­\ntuvos, Baltarusijos ir Ukrainos - atstovai, tačiau jų įamžinimo šių šalių atminties \nkultūrose skirtumai išlieka akivaizdūs"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208061
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]

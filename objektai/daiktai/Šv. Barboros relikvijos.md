@@ -84,5 +84,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204067
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 87"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 87."
+  citata_originali: |
+    Po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius
+    ir ginklanešius, patraukė su kitais atgal ir nugabeno šias šventas relikvijas į Kulmą. Ten
+    dvasininkai ir tikintieji, su didelėmis iškilmėmis jas pasitikę, nunešė į bažnyčią ir padėjo
+    prie senosios pilies, kur po šiai dienai jos ilsisi apsuptos nuolatinės pagarbos dėl dažnų
+    stebuklų, kuriuos per ją daro viešpats.
+    37.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

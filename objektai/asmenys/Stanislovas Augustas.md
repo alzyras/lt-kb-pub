@@ -126,6 +126,34 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   pagrindžia:
     - c-184235
 
+<a id="claim-t-208257"></a>
+- t-208257
+  teiginys: "1797 m. A. Midletono laidotuvių išlaidas apmokėjo Stanislovas Augustas."
+  atnaujinta: "2026-09-20 05:37"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1797 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir tarinį bei tiksliai perteikia šaltinyje nurodytą laidotuvių išlaidų apmokėjimą."
+  pagrindžia:
+    - c-190888
+
+<a id="claim-t-208369"></a>
+- t-208369
+  teiginys: "A. Midletonas buvo, šaltinio apibūdinimu, karaliaus Stanislovo Augusto dvaro grupuotės žmogus."
+  atnaujinta: "2026-09-20 05:37"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-08-18T21:24:31Z"
+  pagrindžia:
+    - c-190944
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: '1797 m. A. Midletono laidotuvių išlaidas apmokėjo Stanislovas Augustas.'
@@ -191,7 +219,7 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177117
@@ -216,7 +244,7 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184112
@@ -231,11 +259,12 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
     niuose skamba gęstanti baroko melodija. Gi trijų medinių, skarda apkalstytų
     statulų frontono kampuose (vidury — šv.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184235
@@ -248,9 +277,76 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
     gusto, XVI šim tm etyje, jie pradėjo Lietuvon įves-
      dinēti vergiją....
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-190888
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 282"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 282."
+  citata_originali: |
+    Nei j Lenkiją, nei į Lietuvą A. Midletonas negrįžo. 1796 m. pavasarį persikėlė
+    į Hamburgą, o iš ten - į Danijai priklausiusią Altoną. Čia buvęs pasiuntinybės
+    tarnautojas sulaukėjo nuopelnų įvertinimo -17 9 4 m. data suteikto Šv. Stanislovo
+    ordino ir Stanislovo Augusto, nuversto monarcho, kurio valstybės pertvarkymo
+    vizija šventai tikėjo, finansinės paramos - 200 dukatų. 1796-ųjų metų vasarą pra­
+    leidęs Kopenhagoje, A. Midletonas vėl persikėlė į Altoną, kur mirė 1797 m. sausio
+    i d. Buvo nevedęs, nei įpėdinių, nei turto nepaliko. Laidotuvių išlaidas apmokėjo
+    Stanislovas Augustas99.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208257
+
+- id: c-190944
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 282"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 282."
+  citata_originali: |
+    1796-ųjų metų vasarą pra­
+    leidęs Kopenhagoje, A. Midletonas vėl persikėlė į Altoną, kur mirė 1797 m. sausio
+    i d. Buvo nevedęs, nei įpėdinių, nei turto nepaliko. Laidotuvių išlaidas apmokėjo
+    Stanislovas Augustas99.
+    Išvados
+    Skotų kilmės Lietuvos Didžiosios Kunigaikštystės bajoras A. Midletonas buvo
+    karaliaus Stanislovo Augusto dvaro grupuotės žmogus.
+  citata_rodoma: "Skotų kilmės Lietuvos Didžiosios Kunigaikštystės bajoras A. Midletonas buvo \nkaraliaus Stanislovo Augusto dvaro grupuotės žmogus."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208369
+
+- id: c-200626
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
+  citata_originali: |
+    Dar pastebėjau su­
+    daužytų ašarinių liekanų; keleto šukių vidus buvo dengtas tam­
+    siai rudos spalvos glazūra. Vienas kaimietis man pasakojo, kad
+    valdant karaliui Stanislovui Augustui, maždaug prieš 38 me­
+    tus, tai yra apie 1789 metus, kažkokie ponai, atvažiavę iš Gar­
+    dino apžiūrėti mineralinių šaltinių, pasiėmė su savim visus mo­
+    linius dubenėlius, kurių seniau niekas nedrįsdavo judinti; vė­
+    liau smalsūs svečiai surinko ir šukes. Iš menkų jų likučių ir
+    vietinių pasakojimų įsitikinau, kad tos ašarinės buvo mažučiai
+    puodeliai, galėję turėti vos pusantro colio skersmenį ir gal iki
+    dviejų colių gylio, su šiek tiek siaurėjančiu kakleliu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

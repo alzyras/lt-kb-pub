@@ -122,7 +122,7 @@ Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuoda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187708
@@ -145,5 +145,5 @@ Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuoda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

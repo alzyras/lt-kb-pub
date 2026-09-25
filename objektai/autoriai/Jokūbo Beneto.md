@@ -88,5 +88,5 @@ canonical_biography: "| pad <= a 1 latio \"Tureau - noni ae aaa Chotino mūšis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

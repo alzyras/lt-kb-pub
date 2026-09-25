@@ -40,26 +40,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-191040"></a>
-- t-001
-  teiginys: "Gintaro randama prie Vyslos ir Dauguvos žiočių, prie Ostrolenkos ir Narevo upės pakrantėse."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Didelių gintaro gabalų radiniai prie Gdansko ir Įsruties: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didelių gintaro gabalų radiniai prie Gdansko ir Įsruties\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-173922
-
 <a id="claim-t-197533"></a>
 - t-002
   teiginys: "Seniau į daugelį vaistų būdavo dedama skysto gintaro medžiagų, eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in dai ir kinai; pas mus jis dedamas į lakus."
@@ -95,8 +75,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-179234
   autorius: "Teodoras Narbutas"
@@ -119,5 +97,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196309
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
+  citata_originali: |
+    Lengvumas ir žinomos
+    cheminės savybės liepia priskirti jį sakų klasei; patrintas
+    pritraukia lengvus kūnus, iš jo atsirado elektros pavadi­
+    nimas ir davė pradžią supratimui apie elektrą. Pridėtas
+    prie skaudamos žmogaus kūno dalies, jis skatina trans­
+    piraciją, smilkdamas išskiria maloniai kvepiančių, orą
+    gryninančių dūmų, padeda gydyti reumato ligas. Seniau į
+    daugelį vaistų būdavo dedama skysto gintaro medžiagų,
+    eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in­
+    dai ir kinai; pas mus jis dedamas į lakus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

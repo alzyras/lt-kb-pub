@@ -64,5 +64,5 @@ Sutartyje skelbta abiejų pusių kalinių ir įkaitų, tarp jų kunigaikščio �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

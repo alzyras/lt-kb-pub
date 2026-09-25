@@ -56,6 +56,18 @@ Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyvent
   pagrindžia:
     - c-174527
 
+<a id="claim-t-214092"></a>
+- t-214092
+  teiginys: "Rusų ¡pulkininkas Herberis ap rašo Kaukazo kalnuose esantį kaimą, jo laikais vadinamą Kubeša, kurio kiekvienas gyventojas yra auksakalys ar ba ginklakalys."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195053
+
 ## Citatos
 
 - id: c-174527
@@ -76,5 +88,26 @@ Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyvent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195053
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
+  citata_originali: |
+    Iš išlikusių žinių galima teigti, jog jie
+    nepriklausę mongolams. Rusų ¡pulkininkas Herberis ap­
+    rašo Kaukazo kalnuose esantį kaimą, jo laikais vadinamą
+    Kubeša, kurio kiekvienas gyventojas yra auksakalys ar­
+    ba ginklakalys. Pasak jo pasakojimo, šie žmonės yra tik­
+    ri alanų palikuonys, net ir jų kalba skiriasi nuo Kaukazo
+    kalniečių kalbos4.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214092

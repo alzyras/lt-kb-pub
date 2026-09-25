@@ -105,6 +105,16 @@ Nenurodyta
   pagrindžia:
     - c-63579
 
+<a id="claim-t-221813"></a>
+- t-221813
+  teiginys: "Broliai persikėlė per užšalusį Nemuną, nusiaubė Gardino apylinkes ir papilį bei paėmė į nelaisvę 200 žmonių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-63579
@@ -129,7 +139,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003

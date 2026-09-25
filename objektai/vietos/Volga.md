@@ -124,6 +124,42 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   pagrindžia:
     - c-175551
 
+<a id="claim-t-213851"></a>
+- t-213851
+  teiginys: "Tai buvo didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė si beveik nuo Kaukazo per Volgą ir į vakarus net iki Dono."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195343
+
+<a id="claim-t-215152"></a>
+- t-215152
+  teiginys: "Gal senų seniausiais laikais skandinavai kitu keliu iš Baltijos jūros patekdavo į Nevo-s upę ir Ladogos ežerą, o iš ten — pas Pailmenės slavus, kurie iš Britanijos ir Es tijos atgabentas prekes sugebėdavo pergabenti į pietus Volgos, Dono ir Dnepro upėmis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197523
+
+<a id="claim-t-220120"></a>
+- t-220120
+  teiginys: "Nera arba Vera ežeras Jaroslavlio gubernijoje nulieja vandenis į Volgą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200416
+
 ## Citatos
 
 - id: c-168617
@@ -143,7 +179,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175550
@@ -168,7 +204,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175551
@@ -189,5 +225,107 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-195343
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 40-41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40-41."
+  citata_originali: |
+    jų kilo
+    1 i d a i, sikelai, makedonai, tesalai ir daug kitų tautų.
+    19
+    O
+    į pietryčius nuo mūsų, Juodosios jūros pakrantėse
+    ir prie vandenų, sruvenančių į ją iš Europos, išplito tos
+    pačios atšakos labai įvairiai vadinamų smulkesnių gen­
+    41
+
+    čių: ilyrų, mezų, penų, getų, dakų; jos pasitraukė to­
+    liau į šiaurę ir atsirado iš tų arba iš pagrindinio kamie­
+    no, pavyzdžiui, iš tisagetų, masagetų, gelonų. Iš pradžių
+    jos visos palaikė glaudžius ryšius ir bendrai gynė savo
+    saugumą. Pirmykštėje žmonių visuomenėje tautos sun­
+    kiai pakęsdavo šalia savęs svetimos giminės ir kalbos
+    žmones, o gentainių pagalbą ir abipusę draugystę labai
+    brangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­
+    meninio gyvenimo kūdikystės lygio ir atrastų mūsų am­
+    žiais. Minėtų pelazgų palikuonių turėjo būti ant kai­
+    riojo Dono vidurupio kranto. Tai mini ir Herodotas*,
+    teigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų
+    gyvenamo krašto.
+    20
+    Apie kolchus ir Kolchidę. Šioms tolimos senovės epo­
+    choms priskirtina ir kolchų tauta, nors ji gerokai vėliau
+    už pelazgus atsikėlė iš Azijos gilumos į kraštus, esan­
+    čius į šiaurę nuo Kaspijos ir Juodosios jūrų. Tai buvo
+    didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė­
+    si beveik nuo Kaukazo per Volgą ir į vakarus net iki
+    Dono
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213851
+
+- id: c-196241
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
+  citata_originali: |
+    Tik 1101 metais Vladimiras
+    Monomachas laimėjo didelę pergalę prieš poloviečius prie
+    Sutenio. Dar kelis kartus smarkiai sumušti, galop po
+    1121 metais patirto iš graikų sutriuškinimo buvo priversti
+    apie 1127 metus pasitraukti už Volgos. Ten jie, be abe­
+    jonės, davė pradžią daugeliui ordų, vėliau pavadintų to­
+    toriais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197523
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 165."
+  citata_originali: |
+    Gal senų seniausiais laikais skandinavai kitu keliu iš
+    Baltijos jūros patekdavo į Nevo-s upę ir Ladogos ežerą, o
+    iš ten — pas Pailmenės slavus, kurie iš Britanijos ir Es­
+    tijos atgabentas prekes sugebėdavo pergabenti į pietus
+    Volgos, Dono ir Dnepro upėmis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215152
+
+- id: c-200416
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 231"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 231."
+  citata_originali: |
+    Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve­
+    ra ežeras, kurio perimetras 10 mylių, nulieja vandenis į Volgą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220120

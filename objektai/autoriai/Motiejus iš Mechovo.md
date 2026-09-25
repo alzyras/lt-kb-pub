@@ -82,5 +82,23 @@ Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201081
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 502"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 502."
+  citata_originali: |
+    - Francofurti, 1709; Mie-
+    chowita (Motiejus iš Mechovo, Mechovita, 1456-
+    1523). Chronica Polonorum a prima propagatione
+    ab ortu Polonorum usque ad an. 1506. - Craco-
+    viae, 1519; Cromer Martinus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

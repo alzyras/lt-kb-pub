@@ -142,7 +142,7 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179373
@@ -162,5 +162,24 @@ Narbutas Drūsinės, arba Druso, ežero pavadinimą kildina iš žodžio „drus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195341
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
+  citata_originali: |
+    Bet ši išvada nepaplito,
+    nes buvo pernelyg dirbtinė. Iš šiaurės ją skalauja Aist­
+    marės, iš vakarų •— 'Vysla. Rytuose siena driekėsi net: iki
+    Elbingo upės, Drūsinės ežero, paskui tiesiai palei Sirgu-
+    nės upę (arba Sorge) net iki Osos, taigi Christburgo ir
+    Rizenburgo valsčiai dar priklausė šiai provincijai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -58,6 +58,18 @@ Narbutas senovės Lacijuje užsimezgusią romėnų karalystę aiškina kaip Apva
   pagrindžia:
     - c-171902
 
+<a id="claim-t-219505"></a>
+- t-219505
+  teiginys: "Senovės Lacijaus gilumoje, tarp plikų kal nų, nesveikiausiame užkampyje, užsimezgė romėnų karalys tė - romėnų, kurie parodė pasauliui didų būdą, didžias dory bes, nepalyginamą tėvynės meilę, vyriškumą, ištvermę, gilia mintę politiką, neišmatuojamą troškimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198166
+
 ## Citatos
 
 - id: c-171902
@@ -80,5 +92,28 @@ Narbutas senovės Lacijuje užsimezgusią romėnų karalystę aiškina kaip Apva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198166
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
+  citata_originali: |
+    Tačiau pernelyg didelis graikų nepastovumas - didelė yda
+    šalia tų gražių privalumų - lėmė daug pasaulietinių ir religi­
+    nių piktnaudžiavimų.
+    Tuo tarpu Apvaizda ruošė kitą tautą, turėjusią tapti Euro­
+    pos apšvietos sargu. Senovės Lacijaus gilumoje, tarp plikų kal­
+    nų, nesveikiausiame užkampyje, užsimezgė romėnų karalys­
+    tė - romėnų, kurie parodė pasauliui didų būdą, didžias dory­
+    bes, nepalyginamą tėvynės meilę, vyriškumą, ištvermę, gilia­
+    mintę politiką, neišmatuojamą troškimą būti galingi.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219505

@@ -52,3 +52,41 @@ Tomašas Kempa vadina M. K. Radvilą Našlaitėlį plano rinkti Ernestą į Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207948"></a>
+- t-001
+  teiginys: "Tomašas Kempa vadina M. K. Radvilą Našlaitėlį plano rinkti Ernestą į Lietuvos sostą autoriumi."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190570
+
+## Citatos
+
+- id: c-190570
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 201"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 201."
+  citata_originali: |
+    1572 m. kovo mėnesį
+    Varšuvoje jiedu susitarė su Popiežiaus pasiuntiniu Jonu Pranciškumi Komendaniu su-
+    tartinai remti imperatoriaus Maksimiljano II sūnaus Ernesto Habsburgo kandidatūrą.
+    Jau tada buvo planuojama surengti paskirus nuo Lenkijos Lietuvos didžiojo kunigaikščio
+    rinkimus. M. K. Radvilos Našlaitėlio biografas Tomašas Kempa jį vadina plano rinkti
+    Ernestą j Lietuvos sostą autoriumi.
+  citata_rodoma: "M. K. Radvilos Našlaitėlio biografas Tomašas Kempa jį vadina plano rinkti\nErnestą j Lietuvos sostą autoriumi."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

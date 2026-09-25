@@ -73,6 +73,16 @@ Nenurodyta
   pagrindžia:
     - c-63077
 
+<a id="claim-t-220932"></a>
+- t-220932
+  teiginys: "Magistras Poponas tarp dabartinio Kulmo miesto ir senosios pilies pastatė Poterbergo pilį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-63077
@@ -95,6 +105,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

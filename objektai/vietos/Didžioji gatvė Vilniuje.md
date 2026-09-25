@@ -87,5 +87,5 @@ Pisan w miestie Wileńskom, roku 1507 dnia Igo Maja [Kuris stovėjo Vilniaus mie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

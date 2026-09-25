@@ -113,7 +113,7 @@ XVI a. pirmos pusės Seimuose įsitvirtino nuoseklus Seimo sąvokos vartojimas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186982
@@ -136,7 +136,7 @@ XVI a. pirmos pusės Seimuose įsitvirtino nuoseklus Seimo sąvokos vartojimas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-186983
@@ -158,5 +158,5 @@ XVI a. pirmos pusės Seimuose įsitvirtino nuoseklus Seimo sąvokos vartojimas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

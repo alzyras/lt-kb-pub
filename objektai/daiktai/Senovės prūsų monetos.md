@@ -86,6 +86,30 @@ Nenurodyta
   pagrindžia:
     - c-172545
 
+<a id="claim-t-216340"></a>
+- t-216340
+  teiginys: "Prūsijoje ir gretimuose kraštuose buvo randama auksinių ir sidabrinių monetų su nežinomais atvaizdais, herbais bei užrašais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201071
+
+<a id="claim-t-218866"></a>
+- t-218866
+  teiginys: "Trečiojoje monetoje buvo karūnuota karalienė su įrašu „CESTIANUS“, o kitoje pusėje – veidu tinkleliu uždengtas žmogus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198073
+
 ## Citatos
 
 - id: c-172544
@@ -111,7 +135,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172545
@@ -138,5 +162,59 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198073
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 247"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 247."
+  citata_originali: |
+    Trečioji moneta - dar kitoniška tokio plačio­
+    jo grašio atmaina, turinti vienoje pusėje karūnuotą karaliene su
+    šiomis dar perskaitomomis raidėmis: CESTIANUS; kitoje pu­
+    sėje ant laidotuvinių neštuvų pavaizduotas žmogus tinkleliu už­
+    dengtu veidu, o užrašo visai negalima perskaityti. Be to, rasta
+    daug įvairių rūšių monetų, kuriose maža ką buvo galima įskai­
+    tyti“. Gaila, kad Siuco kronikos leidėjas nepridėjo tų monetų
+    piešinių, kurių, matyt, būta rankraštyje. Vis dėlto reikėtų sutik­
+    ti, kad jos nebuvo susijusios su kuriais nors svetimais kraštais,
+    kadangi čia išvardytos smulkmenos kiekvienam numizmatui yra
+    šito įrodymas. Moterų figūros vaizduoja deives, nes lietuvių gen­
+    ties tautos savo šalyse neturėjo karalių ir karalienių tikrąja šio
+    rango prasme.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218866
+
+- id: c-201071
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 247"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 247."
+  citata_originali: |
+    Prūsijoje ir gretimuose kraš­
+    tuose kapuose ir žemėje buvo randamos auksinės bei sidabri­
+    nės monetos su nežinomais atvaizdais, herbais ir užrašais. Vie­
+    noje plačiojo grašio dydžio monetoje buvo kažkokios karalie­
+    nės, panašios į seną moterį, atvaizdas; kitoje pusėje buvo ranka
+    su ištiestu delnu; prie tų atvaizdų buvo užrašas nežinomais raš­
+    menimis. Antroji - ortas, beveik talerio dydžio: vienoje pusėje
+    karūna vainikuota karalienė; už galvos horizontali strėlė, prie­
+    šais veidą ženklas, panašus į Merkurijaus, kaducėjaus pavidalo;
+    viename pakraštyje prie strėlės aiškiai perskaitomas užrašas: T/i-
+    CIPORUS; kitame pakraštyje priešais karalienės veidą - užra­
+    šas: KRASSIURA.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216340

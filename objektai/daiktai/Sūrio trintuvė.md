@@ -83,5 +83,5 @@ Tarp valdovo Žygimanto Augusto virtuvės daiktų minima geležinė sūrio trint
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

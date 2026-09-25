@@ -85,7 +85,7 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166848
@@ -103,5 +103,5 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

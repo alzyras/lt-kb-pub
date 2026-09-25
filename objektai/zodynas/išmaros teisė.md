@@ -70,7 +70,7 @@ Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185109
@@ -88,5 +88,5 @@ Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

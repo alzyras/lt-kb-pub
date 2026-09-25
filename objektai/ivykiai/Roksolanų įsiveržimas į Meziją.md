@@ -83,6 +83,18 @@ Nenurodyta
   pagrindžia:
     - c-173934
 
+<a id="claim-t-213673"></a>
+- t-213673
+  teiginys: "72 m. roksolanai sumušė dvi romėnų kohortas ir įsiveržė į Meziją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197536
+
 ## Citatos
 
 - id: c-173933
@@ -103,7 +115,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173934
@@ -128,5 +140,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197536
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 67"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 67."
+  citata_originali: |
+    Taip pat teisinga nuomonė, jog alanai, gy­
+    venę prie šių šakų, buvo vadinami Rhox-alanais arba, anot
+    mūsų rašybos, roksolanais. Tacitas rašo: „Roksolanai,
+    sarmatą gentis, nugalėję dvi kohortas (romėnų), dideliu
+    būriu įsiveržė į Meziją“1. Tai įvyko 72 mūsų eros metais,
+    taigi dar iki tos epochos jie pasitraukė nuo Volgos ir
+    veržėsi už Dunojaus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213673

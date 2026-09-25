@@ -94,5 +94,5 @@ Jis pradėtas kurti siekiant apginkluoti Raudonąją armiją dar paprastesniu, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

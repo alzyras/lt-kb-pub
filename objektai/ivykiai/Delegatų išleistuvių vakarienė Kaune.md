@@ -79,5 +79,5 @@ Kaip tyčia, tą pat vakarą buvo de legatų išleistuvėms surengta vakarienė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -71,5 +71,5 @@ Dusburgietis pasakoja, kad septyni Teutonų ordino broliai su ginklanešiais, į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

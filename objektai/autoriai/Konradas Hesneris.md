@@ -79,5 +79,27 @@ Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194607
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
+  citata_originali: |
+    Ypač žymus jo veikalas-dialogas
+    „Geografika“.
+    Tikriausiai turimi omenyje šveicarų gydytojo,
+    gamtininko ir bibliografo Konrado Hesnerio
+    (Gesner; 1516—1565) tyrinėjimai.
+    Gerardas Fridrikas Mileris
+    (Müller;
+    1705—■
+    1783), istoriografas ir akademikas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

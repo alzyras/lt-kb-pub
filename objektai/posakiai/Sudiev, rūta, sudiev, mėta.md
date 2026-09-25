@@ -74,9 +74,10 @@ Vestuvinė atsisveikinimo formulė su mergystės simboliais ir jaunomis dienomis
     Gana manęs vienos į vargą įpuolus“ .
   citata_rodoma: "„Sudiev, rūta, sudiev, mėta, sudiev, lelijėle, sudiev mano jaunos dienos!\nŠokit, šokėjėliai, griežkit griežėjėliai!\nGana manęs vienos į vargą įpuolus“ ."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

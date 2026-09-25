@@ -94,7 +94,7 @@ Faktiškai šiandien galima kalbėti apie keturias „Lie tuvių mitologijos“ 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-197804
@@ -129,5 +129,5 @@ Faktiškai šiandien galima kalbėti apie keturias „Lie tuvių mitologijos“ 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

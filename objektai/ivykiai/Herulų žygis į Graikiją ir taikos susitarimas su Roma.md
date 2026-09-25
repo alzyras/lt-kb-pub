@@ -73,5 +73,5 @@ Ta čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai kiją, išgri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

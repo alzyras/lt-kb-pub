@@ -80,5 +80,5 @@ Paskui viršaitis, jų žynys, stabmeldžių papratimu už sidėjęs ant galvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

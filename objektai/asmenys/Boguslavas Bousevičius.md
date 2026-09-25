@@ -88,5 +88,26 @@ Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bouseviči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201154
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
+  citata_originali: |
+    Pasak vietos padavimo, tame kape
+    palaidotas kažkoks lietuvių didikas, vadas (Wada), vardu Bou-
+    sas (Bous); jis čia gulįs su žirgu, su kurtais ir sakalu bei visa
+    karine ginkluote. Sį kapą kaimiečiai lietuviškai vadina vado
+    Bouso kapinėmis (Kapinies Wade Boussa). Iš senų vietinių do­
+    kumentų aišku tik tiek, kad apie 1520 metus ta žemė priklau­
+    sė Bousevičių giminei; tuo laiku Boguslavas Bousevičius, Ro­
+    dūnios vėliavininkas, buvo tos žemės tėvonis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -82,5 +82,5 @@ canonical_biography: "Šis vyskupo žingsnis 1581 metais padrąsino viešosios r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

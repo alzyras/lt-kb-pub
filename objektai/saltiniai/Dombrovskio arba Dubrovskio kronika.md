@@ -70,7 +70,7 @@ Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-194686
@@ -88,5 +88,5 @@ Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

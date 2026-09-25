@@ -71,5 +71,27 @@ Antro LTI tomo parankiniame egzemplioriuje suskaičiuota apie tris šimtus patie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194433
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 13."
+  citata_originali: |
+    Ta1-
+    čiau likimas lėmė, jog išliko darbinis, vadinamasis pa­
+    rankinis, antro LTI tomo egzempliorius (toliau — PE)3,
+    kuris yra neįkainojamos reikšmės šaltinis, atspindintis
+    istoriko pažiūrų evoliuciją beveik per dvidešimt metų...
+    Detaliai susipažinus su PE, pavyko suskaičiuoti apie tris
+    šimtus pataisų ir papildymų, padarytų paties T. Narbu­
+    to ranka — šiuo atžvilgiu antras tomas nenusileidžia
+    „Lietuvių mitologijai“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

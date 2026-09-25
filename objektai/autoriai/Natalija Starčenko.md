@@ -76,5 +76,5 @@ Natalija Starčenko analizavo 1576 m. kunigaikščių Četvertinskių nužudymo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

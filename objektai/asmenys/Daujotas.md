@@ -67,6 +67,18 @@ Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakoj
   pagrindžia:
     - c-173024
 
+<a id="claim-t-217543"></a>
+- t-217543
+  teiginys: "1813 m. Daujotas, tuo metu Lokaičių palivarko nuomotojas, pasakojo Narbutui apie rastą varinį žiedą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200393
+
 ## Citatos
 
 - id: c-173024
@@ -91,5 +103,30 @@ Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200393
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
+  citata_originali: |
+    1809 metais Marijampolės apskrityje, netoli nuo kairiojo
+    Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
+    liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
+    žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
+    lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
+    veidžiai, kai kurie variniai ir sidabriniai daiktai. 1813 metais jo
+    mylista Daujotas, anuometinis Lokaičių palivarko nuomoto­
+    jas, man pasakojo: „Gavau varinį žiedą su puse colio pločio,
+    11 colių diametro“.
+    To žiedo puošyba, kurią aš kuo tiksliausiai perpiešiau, pa­
+    rodyta I lentelės 1-ajame piešinyje.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217543

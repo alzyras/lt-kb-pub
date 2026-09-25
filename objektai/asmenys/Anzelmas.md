@@ -123,6 +123,40 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   pagrindžia:
     - c-184319
 
+<a id="claim-t-218331"></a>
+- t-218331
+  teiginys: "Ąžuolą taip pat nukirto valdant kryžiuočiams, Varmijos vys kupo Anzelmo laikais, kaip mes aukščiau sakėme."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200283
+
+<a id="claim-t-219625"></a>
+- t-219625
+  teiginys: "Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa mokslų ir pamokymų, nesiliovė po juo garbinti dievų."
+  atnaujinta: "2026-09-20 01:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199649
+
+<a id="claim-t-221707"></a>
+- t-221707
+  teiginys: "Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje."
+  atnaujinta: "2026-09-20 01:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-60717
@@ -145,7 +179,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171403
@@ -171,7 +205,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177306
@@ -189,7 +223,7 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184319
@@ -221,8 +255,69 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-195931
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
+  citata_originali: |
+    Viena­
+    me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1. P. 289),
+    neminint liudytojų, taip pat minimas Lemptenburgas, kai
+    rašoma apie Rudolfus in Lemptenburg plebanus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199649
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
+  citata_originali: |
+    Varmijos vyskupų biografas Trete-
+    ris sako: „Toje vietoje, kur yra Heiligenbeilis, augo milžiniš­
+    kas ąžuolas, kuris tiek vasarą, tiek žiemą žaliavo (be abejo,
+    velnio pastangomis).
+    Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa­
+    prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa­
+    mokslų ir pamokymų, nesiliovė po juo garbinti dievų. Tad, kai
+    vyskupas įsakė ąžuolą nukirsti, atsitiko taip, jog kirvis, atšokęs
+    nuo kamieno, mirtinai sužeidė žmogų, todėl krikščionys ne­
+    bedrįso jo liesti, kol pats vyskupas, paėmęs į rankas kirvį, ne­
+    pradėjo vadovauti kirtimui, tačiau ir šiaip be ugnies nepajėgta
+    susidoroti su ąžuolu.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219625
+
+- id: c-200283
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
+  citata_originali: |
+    Ąžuolą taip pat nukirto valdant kryžiuočiams, Varmijos vys­
+    kupo Anzelmo laikais, kaip mes aukščiau sakėme. Miesto her­
+    be išliko kirvukas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218331
 
 ## Ryšiai
 - Anzelmas (vyskupas, XIII a.) pastatė [[objektai/vietos/Brunsbergas]]

@@ -88,11 +88,12 @@ Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė
     kosios kalbos, sugriebē savo rankosna lietuvių ap­
     švietim ą ir jį visados vedē lenkiškoje dvasioje.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184232
@@ -117,9 +118,10 @@ Basanavičiaus aiškinimu, lenkiškoji dvasiškija Lietuvoje palaikė ir plėtė
     lenkai, o ypatingai lenkiškoji bażnyčia su tyrai lie­
     tuviškais interesais.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -69,5 +69,5 @@ canonical_biography: "1601 m. Vilniaus pilies teisme Kauno miestietis ir pirklys
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

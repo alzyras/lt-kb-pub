@@ -82,5 +82,5 @@ Graužų-Lenčių (Zembiškio) miške NKVD Betygalos stribai, grįždami iš už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

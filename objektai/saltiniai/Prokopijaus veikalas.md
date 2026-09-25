@@ -90,5 +90,5 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

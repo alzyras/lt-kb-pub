@@ -74,5 +74,5 @@ Tėvo abejoji mus indaviau jam mano ingai:ojimus, Lietuvos kunigų prašymą pag
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

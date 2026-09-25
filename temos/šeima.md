@@ -6,7 +6,7 @@ tema_kategorija: "paprociai"
 tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 39
+tema_objektu_skaicius: 40
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 39.
+Objektų skaičius: 40.
 
 ## Kaip naudoti
 
@@ -67,6 +67,9 @@ Objektų skaičius: 39.
 - [Viešoji krikščionių atgaila ir saviplaka](../objektai/paprociai/Vie%C5%A1oji%20krik%C5%A1%C4%8Dioni%C5%B3%20atgaila%20ir%20saviplaka)
 - [Vėlyvos santuokos, kraitis ir vestuvių sutartys](../objektai/paprociai/V%C4%97lyvos%20santuokos%2C%20kraitis%20ir%20vestuvi%C5%B3%20sutartys)
 - [Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde](../objektai/paprociai/%C5%BDmon%C5%B3%20i%C5%A1pirka%20ir%20%C5%BEmonos%20tarnyst%C4%97s%20pareigos%20Dusburgie%C4%8Dio%20vaizde)
+
+### Vietos
+- [Sibiras](../objektai/vietos/Sibiras)
 
 ### Įvykiai
 - [Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą](../objektai/ivykiai/Gedeto%20ir%201500%20s%C5%ABduvi%C5%B3%20atsivertimas%20bei%20Skurdos%20pasitraukimas%20%C4%AF%20Lietuv%C4%85)

@@ -101,7 +101,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60014
@@ -129,5 +129,58 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201913
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  citata_originali: |
+    Po to patraukė iki
+    pelkės, vardu Renzenas279, kur naktį ilsėjosi. Apie tai sužinoję, Kulmo pilies broliai pasekė
+    juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis
+    Ditrichas, buvęs maršalas, pasiūlė užpulti likusiąją jų dalį, tikindamas, kad ji būsianti
+    išžudyta anksčiau, nei kiti suskubs grįžti jai į pagalbą. Šiam sumanymui pasipriešino
+    brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes
+    jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo
+    ir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti. Juos persekiodami,
+    krikščionys daugybę išžudė, o maršalas, išskleidęs krikščionių kariuomenę, priėjo su 24
+    ginklanešiais prie vienos kalvos, kur išvydo 4 tūkstančius netikėlių, pasiruošusių stoti į
+    kovą. Kai prūsai pastebėjo tiek maža žmonių, [susibūrusių] prie brolių vėliavos, atgavo
+    jėgas bei drąsą, staiga juos užpuolė, nužudė maršalą, visus brolius ir 400 vyrų, išskyrus
+    10, kuriems pavyko pasprukti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203585
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  citata_originali: |
+    Apie tai sužinoję, Kulmo pilies broliai pasekė
+    juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis
+    Ditrichas, buvęs maršalas, pasiūlė užpulti likusiąją jų dalį, tikindamas, kad ji būsianti
+    išžudyta anksčiau, nei kiti suskubs grįžti jai  į pagalbą. Šiam sumanymui pasipriešino
+    brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes
+    jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo
+    ir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti. Juos persekiodami,
+    krikščionys daugybę išžudė, o maršalas, išskleidęs krikščionių kariuomenę, priėjo su 24
+    ginklanešiais prie vienos kalvos, kur išvydo 4 tūkstančius netikėlių, pasiruošusių stoti į
+    kovą. Kai prūsai pastebėjo tiek maža žmonių, [susibūrusių] prie brolių vėliavos, atgavo
+    jėgas bei drąsą, staiga juos užpuolė, nužudė maršalą, visus brolius ir 400 vyrų, išskyrus
+    10, kuriems pavyko pasprukti. Galop atskubėjo Torunės broliai su dviem šimtais vyrų į
+    maršalo skirtą vietą, jie atvyko tą valandą, kurią buvo numatęs maršalas, tačiau pabėgo,
+    pamatę išžudytus brolius. Prūsai besivydami daugybę išžudė, o kiti pabėgo280.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

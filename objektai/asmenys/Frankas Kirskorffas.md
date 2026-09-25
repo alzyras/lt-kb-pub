@@ -72,5 +72,5 @@ canonical_biography: "Čia žuvo daugybė livoniečių, tarp jų - Frankas Kirsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

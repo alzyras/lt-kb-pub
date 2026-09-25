@@ -88,7 +88,7 @@ Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir En
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177123
@@ -110,5 +110,24 @@ Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir En
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-199073
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
+  citata_originali: |
+    Eri-
+    sichtono istorija, Dodonės ir Delfų šventieji miškai buvo gar­
+    sus Antikos laikais.
+    Šioje srityje buvo išradingas Vergilijus. Kai, žlugus Trojai,
+    liūdna būtinybė privertė Enėją palikti tėvynę, jam teko statyti
+    laivus iš Idos kalno medžių, paskirtų Kibelei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -84,5 +84,5 @@ Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -62,6 +62,18 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
   pagrindžia:
     - c-33884
 
+<a id="claim-t-209626"></a>
+- t-209626
+  teiginys: "Vyskupas Karevičius išva žiuodamas gydytis iš Kauno decezijos, pasky rė administratorium kun. Stacliaucką."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192246
+
 ## Citatos
 
 - id: c-33884
@@ -83,5 +95,22 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192246
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 67"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 67."
+  citata_originali: |
+    Vyskupas Karevičius išva­
+    žiuodamas gydytis iš Kauno decezijos, pasky­
+    rė administratorium kun. Stacliaucką.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209626

@@ -92,7 +92,7 @@ Teodoras Narbutas rašo, kad Meinhardas iš Kverfurto, Prūsijos magistras, gyve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188712
@@ -116,5 +116,5 @@ Teodoras Narbutas rašo, kad Meinhardas iš Kverfurto, Prūsijos magistras, gyve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

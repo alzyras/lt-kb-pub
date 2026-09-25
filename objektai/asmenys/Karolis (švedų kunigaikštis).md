@@ -91,5 +91,5 @@ canonical_biography: "), iš Vokietijos žemių 30 naujai įstojusių Ordino bro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

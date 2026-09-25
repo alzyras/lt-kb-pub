@@ -92,7 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179095
@@ -120,5 +120,54 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198759
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 164"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 164."
+  citata_originali: |
+    Lietuvių genties tautos labai gerbė religijos pašventintą ma­
+    lonų svetingumą; tą mūsų protėviams pripažino net jų nedrau­
+    gai. Būta ir viešo svetingumo, tai yra šventyklose ir šventose
+    giraitėse; ten ne tik žmogus, bet ir kiekvienas gyvas padaras
+    rasdavo prieglobstį nuo persekiojimo. Tikrąja to žodžio pras­
+    me tai buvo šventosios slėptuvės,/lz>7«. Miestuose būdavo sve­
+    čių namai, vadinti namijomis (Numejone). Juose apgyvendin­
+    ti svetimšaliai jausdavosi visiškai saugūs - tiek asmenys, tiek
+    turtas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198831
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 166."
+  citata_originali: |
+    Prie­
+    šingai, badas ir nepriteklius viešpataudavo krašte po metų, ne­
+    derlingų dėl nereikalingų liūčių, kurias atsiųsdavo įtūžusi Per-
+    kūnaitėlė, arba kai vyraudavo begalinės sausros dėl dievų pyk­
+    čio. Taigi būdavo traukiama žygin į užsienį, rizikuojant net sa­
+    vo pačių gyvybe, gauti maisto. Dėl šių priežasčių dievaitisLie-
+    lhuwani (Lietuvonis) visuomet buvo lietuvių mitas ir pamėg­
+    tas šūkis, kaip skandinavųFrej (Frėjus). Taigi labai galėjo būti,
+    kad tas pamėgtas šūkis ir buvo priežastis, dėl kurios buvo pri­
+    imtas bendras tautos pavadinimas Lietuva (IJethima).
+    Srutis ir Mėletėlė
+    (Strutis i M iechutele)
+    Dievaitis su savo drauge; jie globojo augalus, tinkamus
+    amatams, ypač dažymui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

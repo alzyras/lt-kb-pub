@@ -74,5 +74,23 @@ Narbuto pasakojime norvegas Heidrigas vedė reto grožio moterį ir kraičiu gav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195761
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
+  citata_originali: |
+    Norvegas Heidrigas
+    vedė šią reto grožio moterį ir gavo 'kraičio Vindliandiją,
+    arba Vitlandą. Ko gero, čia kalbama apie buvusią prūsų
+    provinciją Vitliandiją prie Priegliaus žiočių; ją mes jau
+    ne sykį minėjome. Visi Šie įvykiai siejami su III amžiumi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

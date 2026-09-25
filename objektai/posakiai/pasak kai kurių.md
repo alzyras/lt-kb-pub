@@ -71,5 +71,5 @@ Dusburgietis teigia, kad kai kuriose vietose Dusburgietis kartais prasitaria raÅ
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindÅ¾ia:
     - t-001

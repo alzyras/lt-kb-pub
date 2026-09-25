@@ -66,5 +66,27 @@ Dusburgietis teigia, kad kaip tas faraonas, kuris, norėdamas sunaikinti Izraeli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203442
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
+  citata_originali: |
+    Apie Galindos žemės nuniokojimą
+
+      Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai
+    sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti. Kaip tas faraonas,
+    kuris, norėdamas sunaikinti Izraelio tautą, tarė priėmėjoms:  „Jei gims berniukas,
+    nužudykite jį, jeigu mergaitė — palikite gyvą“, taip ir jie nutarė, kad gimusios mergaitės
+    būtų nužudomos, o berniukai paliekami karui. Susivokę šia nutartimi vargu ką laimėsią,
+    nes motinos, išvydusios gimusių mergaičių grožį, slapčiomis jas augino, vieningai
+    nutarė nupjaustyti visoms savo žmonoms krūtis, kad neturėtų kuo maitinti kūdikių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -76,5 +76,5 @@ Teodoras Narbutas aprašo, kad aukso ir sidabro garbės dovanų vertais pripaži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

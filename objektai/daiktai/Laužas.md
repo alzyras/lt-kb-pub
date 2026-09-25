@@ -46,27 +46,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-186856"></a>
-- t-001
-  teiginys: "Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "saltinio_vaizdinys"
-  ryšio_patikimumas: "buvo_palaidotas -> Maišiagala: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maišiagala: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo Algirdo palaikų sudeginimo vietą prie Maišiagalos; tai artimiausias leistinas laidojimo vietos ryšys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) buvo palaidotas Maišiagala (0.72); Algirdas (Lietuvos valdovas) buvo palaidotas Laužas (0.69)"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170039
-
 ## Citatos
 
 - id: c-170039
@@ -88,5 +67,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

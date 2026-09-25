@@ -79,5 +79,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200686
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 185"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 185."
+  citata_originali: |
+    Saulės rūmai buvo rytuose, kur buvo šventa ir palaiminta
+    šalis, lietuvių protėvių tėvynė - rytų šalis (Aušinimą zemme).
+    Iš šių rūmų tekanti Saulė išvažiuodavo nuostabiu vežimu, ku­
+    ris švietė skaisčiau už devynias galybes liepsnojančių deglų.
+    Vežimą traukė trejetas arklių - sidabrinis, auksinis ir deiman­
+    tinis. Didingai riedėdama savo keliu, apžvelgusi visą pasaulį,
+    kuris, lietuvių supratimu, buvęs ne apvalus, o plokščias ir ova­
+    lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
+    maudyti ir vykdavo į savo rūmus nakties poilsio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -68,7 +68,7 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166503
@@ -89,5 +89,5 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -87,5 +87,5 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

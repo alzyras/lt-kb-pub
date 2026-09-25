@@ -107,7 +107,7 @@ Narbutas rašo, kad visi buvo įpratę praustis pirtyse, o vasarą maudytis srau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188031
@@ -128,5 +128,5 @@ Narbutas rašo, kad visi buvo įpratę praustis pirtyse, o vasarą maudytis srau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

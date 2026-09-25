@@ -64,5 +64,5 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

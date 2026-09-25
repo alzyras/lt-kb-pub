@@ -84,5 +84,5 @@ Iš ten pasuko į Rusią, valdomą Jaroslavo Vladimirovičiaus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

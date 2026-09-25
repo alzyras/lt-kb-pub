@@ -88,5 +88,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201231
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 124."
+  citata_originali: |
+    Ką paliko Lasickis ir ką čia ką tik pasakėme, to teisingumą
+    patvirtina tyrimai. Žemdirbiai garbino šią deivę kaip oro per­
+    mainų valdovę; ypač valstietės maldaudavo jos, kad apgintų
+    pas Perkūną laukus nuo krušos, liūčių, griausmų. Žemaitijoje,
+    kai kuriose vietose, iki šiol tebesimeldžia Perkūnaitėlei, tik savo
+    maldas kreipia į švenčiausiąją mergelę Mariją, kurią jie vadi­
+    na Panna Marya Perkunatele arba Perkūnija. Net būta papro­
+    čio vadinti švente Maloningosios Dievo motinos švente. Šis
+    kaimiečių meldimasis sutampa su žinomomis senovės Romos
+    žemdirbių maldomis Junonai, vadinamai Populonia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -90,7 +90,7 @@ Kairėnėliai šiame šaltinyje yra kaimas ar gyvenvietė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178058
@@ -111,5 +111,5 @@ Kairėnėliai šiame šaltinyje yra kaimas ar gyvenvietė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

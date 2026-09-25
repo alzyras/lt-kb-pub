@@ -110,7 +110,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83050
@@ -140,9 +140,10 @@ Nenurodyta
     toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­
     me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -81,5 +81,31 @@ Fedoras Ivanovičius Jaroslavičius susigiminiavo su Slucko kunigaikščiais Ole
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-193624
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 323"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 323."
+  citata_originali: |
+    5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
+    puchovo
+    kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­
+    miniavęs su LDK didikais Goštautais ir vasaliniais buv. Kijevo ir
+    Slucko
+    kunigaikščiais
+    Olelkaičiais
+    ir
+    Alšėniškiais. Lietuvos Di­
+    džiojoje Kunigaikštystėje Fedoras Jaroslavičius valdė Klecką, Da-
+    vidgorodoką ir Rogačiovą, o taip pat Pinską, kurj gavo, vesdamas
+    Kijevo kunigaikščio Simono Olelkaičio ir jo žmonos Jonaitės Goš-
+    tautaitės dukterį Oleną Aleksandrą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -71,5 +71,5 @@ Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

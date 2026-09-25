@@ -76,30 +76,6 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
   pagrindžia:
     - c-172901
 
-<a id="claim-t-197445"></a>
-- t-003
-  teiginys: "Narbutas teigia, kad tadas Čackis priklauso^ prie dievo Višnaus paslapčių, išreiškia teikiamą jam garbę '."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179192
-
-<a id="claim-t-197446"></a>
-- t-004
-  teiginys: "Tadas Čackis buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179193
-
 ## Citatos
 
 - id: c-172900
@@ -121,7 +97,7 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172901
@@ -144,7 +120,7 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179192
@@ -165,8 +141,6 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-179193
   autorius: "Teodoras Narbutas"
@@ -189,5 +163,68 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+
+- id: c-197706
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
+  citata_originali: |
+    Sulaužęs priesaiką, kuri rė­
+    mėsi tautiniais papročiais, faktiškai būdavo prakeiktas ir ne­
+    galėjo gyventi ilgiau kaip metus.
+    V skyrius
+    ŠVENTĖS, IŠKILMĖS
+    Klaidinga Čackio nuomonė1, esą lietuviai germanų pavyz­
+    džiu skaičiavę laiką ne dienomis, o naktimis. Tą pastebėjęs
+    Neliubavičius (Nielubowicz) vienoje senoje lietuviškoje dai­
+    noje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199669
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
+  citata_originali: |
+    Is­
+    torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
+    ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
+    Joje buvusios trys figūros, pavaizduotos iki juosmens - Patrim­
+    pas, ar Atrimpas, gražiaveidis jaunikaitis be barzdos ir ūsų, su
+    varpų vainiku. Viduryje buvo Perkūnas - vidutinio amžiaus,
+    barzda ir plaukai garbiniuoti, juodi, aplink galvą buvo ugnies
+    spindulių vainikas, veidas ugninės - raudonos - spalvos, išpū­
+    tęs ir piktas, žiūrėjo į Atrimpą su pykčiu, o tas tarytum šypso-
+    jęsis.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199685
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 381."
+  citata_originali: |
+    Apskritimo ženklą, virš kurio styro kryžius, indai vadina
+    Kuri; jis priklauso^ prie dievo Višnaus paslapčių, išreiškia tei­
+    kiamą jam garbę '.
+    Straipsnyje apie kapus pateiksime dar šią žinią. Viename
+    iš I. F. R. kronikos užrašų pranešama apie Lietuvos didžiojo
+    kunigaikščio ir visos Lietuvos karaliaus Mindaugo tariamo ka­
+    po atradimą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

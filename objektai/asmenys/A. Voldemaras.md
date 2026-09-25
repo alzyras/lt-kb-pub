@@ -231,7 +231,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-75312
@@ -254,7 +254,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-75313
@@ -274,7 +274,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-75314
@@ -294,7 +294,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-75315
@@ -324,7 +324,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-75316
@@ -349,7 +349,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-75317
@@ -374,7 +374,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-75318
@@ -410,7 +410,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 ## Ryšiai

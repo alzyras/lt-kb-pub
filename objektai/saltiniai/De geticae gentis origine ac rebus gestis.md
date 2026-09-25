@@ -135,7 +135,7 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173704
@@ -155,7 +155,7 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173705
@@ -181,7 +181,7 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-179288
@@ -204,5 +204,46 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-195035
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
+  citata_originali: |
+    281
+    Latvijos dalys. Agazirai, Agazziry. Senovės tyrinėto­
+    jai šią gentį priskiria prie lietuvių. Jordanas rašo: „Prie
+    Vyslos žiočių yra vidivarai, o už jų estai, su kuriais ri­
+    bojasi agazirai; tai labai karinga gentis, nesėjanti javų,
+    gyvenanti iš gyvulių auginimo ir medžioklės“3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196518
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 295"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 295."
+  citata_originali: |
+    Jorda­
+    nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
+    jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
+    pateiktas žinias apie skirius ir sudargus, apie hirius jau
+    nematome jokių užuominų. Tačiau III amžiaus pabaigoje
+    minimi herulai; tai gentis, laikoma ta pačia, kuri anks­
+    čiau buvo vadinama hiriais. Taigi privalome patyrinėti
+    šios trečios lietuvių genties, grįžusios su gotais į Rytus,
+    kelius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

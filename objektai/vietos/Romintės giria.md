@@ -58,6 +58,18 @@ Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.
   pagrindžia:
     - c-59351
 
+<a id="claim-t-221387"></a>
+- t-221387
+  teiginys: "Romintės giria yra Nadruvos pietryčiuose, Romintės aukštupyje, į pietvakarius nuo Vištyčio ežero."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203923
+
 ## Citatos
 
 - id: c-59351
@@ -81,5 +93,29 @@ Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203923
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
+  citata_originali: |
+    Turime pagrindo manyti, kad Nadruvoje buvusi ne viena vieta, susijusi su pagonišku
+    kultu. Nadruvos  pietryčiuose,  Pisos  intako Romintės (dab. Krasnaja) aukštupyje,
+    į pietvakarius nuo Vištyčio ežero yra didelė kalvota Romintės (Romintos) giria, o jos
+    šiauriniame pakraštyje buvo kaimas Sventiškiai, kur išliko piliakalnis (HE, p. 50). Nuo
+    girios pakraščio pro Tolminkiemį link Pisos teka Šventainė. Pietiniame girios pakraštyje —
+    šiuo atveju mums reikšmingas kaimas Ragainiai (Rogainen — Sch-K XII; dab. Rogajny), o
+    rytiniame — prie Vištyčio miestelio — stebuklingas, pasak žmonių, akmuo (Tarasenka P.,
+    Pėdos..., p. 71). Į vakarus nuo Romintės girios Darkiemyje (dab. Oziorskas) — Patrimpo
+    kalnas (Potrimpusberg — Boetticher A., Die Bau..., 5, p. 15; HE, p. 24; CV, t. 32, p.
+    300).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221387

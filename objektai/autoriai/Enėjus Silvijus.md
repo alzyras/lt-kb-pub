@@ -72,5 +72,5 @@ Narbutas nurodo, kad, nesant senųjų Enėjaus Silvijaus raštų leidimų, negal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

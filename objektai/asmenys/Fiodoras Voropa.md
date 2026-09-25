@@ -58,3 +58,38 @@ Fiodoras Voropa buvo Vitebsko pavieto bajoras.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207817"></a>
+- t-001
+  teiginys: "Fiodoras Voropa buvo Vitebsko pavieto bajoras."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190437
+
+## Citatos
+
+- id: c-190437
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 231"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 231."
+  citata_originali: |
+    Nesugyvendami šeimoje bajorai vyras ir žmona Voropos grasino vienas kitam ir
+    abu kreipėsi dėl šių grasinimų į teismą. 1560 m. Vilniaus vietininko teismo knygoje tą
+    pačią dieną įrašytas Vitebsko pavieto bajoro Fiodoro Voropos pareiškimas, kad žmona
+    jo Hanna Sepetušanka su savo bičiuliais grasina pakenkti jo sveikatai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

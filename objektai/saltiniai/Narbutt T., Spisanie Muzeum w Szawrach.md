@@ -84,5 +84,24 @@ Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos eg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194432
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
+  citata_originali: |
+    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
+    leidimą (PEĮ. L. 133). Dievo Kovo stabą T. Narbutas ypač vertino
+    laikydamas jį vienu svarbiausių savo
+    kolekcijos
+    egzempliorių
+    ( [Narbutt T.] Spisanie Muzeum w Szawrach. L. 2. Nr. 9).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

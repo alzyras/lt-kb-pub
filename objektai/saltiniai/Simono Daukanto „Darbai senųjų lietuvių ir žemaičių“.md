@@ -57,5 +57,5 @@ Daukanto „Darbai senųjų lie tuvių ir žemaičių“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

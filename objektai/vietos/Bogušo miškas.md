@@ -71,9 +71,10 @@ Bogušo miškas šiame šaltinyje yra miškas.
     vilkti.
   citata_rodoma: "Juk tamsta šiemet samdei iš Bogušo miško. Kažin, ar ilgai stovės kelias. Nėr ko laukti, reikia tuojau namo vilkti."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

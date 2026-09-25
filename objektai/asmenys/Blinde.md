@@ -78,5 +78,28 @@ Narbutas pasakoja legendą, kad moteris Blindė galėjo gimdyti iš įvairių k�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199256
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 240."
+  citata_originali: |
+    Toliau klausinėjant, pavyko išgirsti pasakojimą
+    apie šventąją blindę. Viena moteris, besivadinanti Blinde (Blin­
+    da), turėjo ypatingą dovaną: galėjo paleisti į pasaulį aibe pali­
+    kuonių neapsakomai lengvai, be to, ji gimdydavo ne tik įgimtu
+    būdu, bet galėdavo pagimdyti vaikų iš rankų, kojų, galvos ir iš
+    kitų kūno dalių. Žemė, vaisingiausioj i iš motinų, ėmė pavydė­
+    ti jai tokio vaisingumo, todėl vieną kartą, kai Blindé ėjo per
+    gramzdžią pievą, jos kojos įklimpo, ir žemė taip suspaudė pė­
+    das, kad nebegalėjo ji pajudėti iš vietos ir pavirto medžiu -
+    blinde.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

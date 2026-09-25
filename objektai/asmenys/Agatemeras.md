@@ -88,5 +88,37 @@ Narbutas Agatemerą pateikia kaip senovės graikų rašytojų pavyzdį, maniusi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197303
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 334"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
+  citata_originali: |
+    Senovės graikų rašytojai, pavyzdžiui, Agatemeras2,
+    manė esant žemę apvalią, o jos viduryje buvus Graikiją.
+    Kuo jie daugiau gilinosi laikui bėgant, tuo labiau teikė
+    ! Alphana
+    vient
+    d’equus,
+    sans
+    doute.
+    Mais vous avouerez aussi,
+    Que pour venir de là jusque ici,
+    Elle
+    a
+    baucoup
+    perdu
+    sur
+    la
+    route.
+    2 Labiausiai tikėtina, jog šis rašytojas, Ptoiemėjo epidomatorius,
+    gyveno III krikščioniškosios eros amžiaus pradžioje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

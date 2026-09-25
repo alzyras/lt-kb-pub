@@ -67,6 +67,18 @@ Narbutas nurodė, kad ponas Kruze vykdė kapaviečių kasinėjimus Kurše, Infli
   pagrindžia:
     - c-174774
 
+<a id="claim-t-214973"></a>
+- t-214973
+  teiginys: "Tuo remdamasis, ponas Kruze daro išvadą apie kapaviečių amžių: 1) jeigu akmeniniai kirvukai, strėlių antgaliai, kaltukai yra randami prie gryno vario likučių, tai kapavietė priklauso pačiai seniausiai epochai, kai dar nebuvo naudojama geležis; 2) jeigu greta."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196181
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodė, kad ponas Kruze vykdė kapaviečių kasinėjimus Kurše, Infliantuose ir Estijoje.'
@@ -117,6 +129,35 @@ Narbutas nurodė, kad ponas Kruze vykdė kapaviečių kasinėjimus Kurše, Infli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-196181
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 386-387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 386-387."
+  citata_originali: |
+    Tuo
+    remdamasis, ponas Kruze daro išvadą apie kapaviečių
+    amžių: 1) jeigu akmeniniai kirvukai, strėlių antgaliai,
+    kaltukai yra randami prie gryno vario likučių, tai kapa-
+    376
+
+    vietė priklauso pačiai seniausiai epochai, kai dar nebuvo
+    naudojama geležis; 2) jeigu greta varinių ir sidabrinių
+    papuošalų randama ir geležinių dirbinių ar nedidelių
+    daiktų, kurie gali būti priskiriami ginklams arba kokiems
+    nors kitiems daiktams, — vadinasi, pilkapis priklauso
+    vėlesnei epochai; 3) jeigu randamos rūbų, ginklų, žirgo
+    puošybos liekanos, tai byloja apie pačią vėlyviausią epo­
+    chą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214973

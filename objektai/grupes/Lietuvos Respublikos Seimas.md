@@ -65,6 +65,18 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
   pagrindžia:
     - c-22569
 
+<a id="claim-t-207516"></a>
+- t-207516
+  teiginys: "Lietuvos Respublikos Seimas inicijavo diskusijas dėl Gegužės 3-iosios."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190133
+
 ## Citatos
 
 - id: c-22569
@@ -91,7 +103,7 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-72787
@@ -117,5 +129,26 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190133
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 326"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 326."
+  citata_originali: |
+    Atminties vietų koncepcija nerei-
+    kalauja, kad praeities reiškinys taptų valstybės atminties vieta. Vis dėlto Lietuvos Res-
+    publikos Seimas inicijavo tokias diskusijas ir įvairių šalių mokslininkai bei politikai iš
+    esmės sutarė – Gegužės 3-ioji buvo kliūtis imperinei Rusijai. Dėl to po šių diskusijų kilusios
+    aistros dar sykį privertė kelti klausimą – ar istorinės atminties modeliai yra vien stereo-
+    tipų nulemtas reiškinys.
+  citata_rodoma: "Lietuvos Res-\npublikos Seimas inicijavo tokias diskusijas ir įvairių šalių mokslininkai bei politikai iš \nesmės sutarė – Gegužės 3-ioji buvo kliūtis imperinei Rusijai. Dėl to po"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207516

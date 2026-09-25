@@ -87,7 +87,7 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-38057
@@ -104,9 +104,10 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
     spręstas ne keno kito, kaip Vytauto^2 ).
   citata_rodoma: "Kartą buvo kilęs ginčas tarp Vloc­\nlavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­\nliaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­\nspręstas ne keno kito, kaip Vytauto^2 )."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

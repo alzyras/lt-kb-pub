@@ -149,7 +149,7 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174640
@@ -173,7 +173,7 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-187880
@@ -195,7 +195,7 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188016
@@ -218,7 +218,7 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188858
@@ -239,5 +239,50 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-196091
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
+  citata_originali: |
+    Tokia kaimy­
+    nystė, ko gero, buvo ne iš maloniųjų. Siekdamas padaryti
+    tam galą, Lietuvos didysis kunigaikštis Narimantas apie
+    1268 metus įsiveržė su kariuomene į jotvingių Polesę ir
+    privertė gyventojus priimti jo paskirtą valdovą. Juo tapo
+    tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos
+    ir Dainavos kunigaikštis su priklausomybės nuo Lietuvos
+    didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­
+    reiga.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196131
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
+  citata_originali: |
+    Juo tapo
+    tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos
+    ir Dainavos kunigaikštis su priklausomybės nuo Lietuvos
+    didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­
+    reiga. Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo­
+    vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto­
+    rijoje Romuntą. Be to, jis nuolat rengė plėšikiškus žygius
+    į Lenkiją, Rusią ir Mazoviją, buvo griežtas ir žiaurus val­
+    dovas, tironiškai elgėsi su valdiniais ir užkariautais žmo­
+    nėmis1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

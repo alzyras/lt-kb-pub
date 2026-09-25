@@ -87,5 +87,5 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

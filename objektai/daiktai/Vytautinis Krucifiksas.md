@@ -78,9 +78,10 @@ Nenurodyta
     fiksu— kaipo tariamoji Vytauto Didžiojo dovana; bet iš tikrųjų jis negali
     turėti jokio ryšio su Vytautu, nes yra kilęs iš XVII amžiaus pabaigos.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

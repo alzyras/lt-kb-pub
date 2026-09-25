@@ -96,6 +96,28 @@ Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-195215
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 310"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 310."
+  citata_originali: |
+    450 me­
+    tais jis su savo kariuomene pajudėjo į vakarus. Sis ka­
+    riūnas, nekliudomas ir greitai eidamas hunų, rugių, ge-
+    pidų, turingių, frankų, herulų ir skiriu priekyje, persikė­
+    lė per Reiną ir niokojo viską pakeliui net ikį Orleano.
+    Bet Aetius, narsus romėnų karvedys, surinkęs legionus
+    ir sąjungininkus burgundus, alanus, sarmatus, saksonus
+    ir visigotus, laimėjo viename mūšyje, kuris įvyko Kata-
+    lonijos laukuose, pergalę prieš hunų karalių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

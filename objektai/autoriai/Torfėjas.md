@@ -56,6 +56,30 @@ Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III vald
   pagrindžia:
     - c-174460
 
+<a id="claim-t-212639"></a>
+- t-212639
+  teiginys: "Pasak Torfėjo skaičiavimų, Frotonas valdė maždaug IV amžiaus viduryje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195508
+
+<a id="claim-t-215905"></a>
+- t-215905
+  teiginys: "Torfėjas, remdamasis chronologiniais skaičiavimais, Frotono III valdymą sieja su III krikščioniškosios eros amžiumi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195424
+
 ## Citatos
 
 - id: c-174460
@@ -76,5 +100,47 @@ Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III vald
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195424
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
+  citata_originali: |
+    Taip pat skandinavų užkariavi­
+    mai lietuvių žemėse buvo labai seni ir dideli. Tai patvir­
+    tina Nestoro pateiktos žinios, kad skandinavams priklau­
+    sė daug kraštų ir tautų2. Torfėjas, chronologiškai vardijęs
+    danų istorijos įvykius, palygintus su tiksliausiais skaičia­
+    vimais, Frotono III valdymą sieja su III krikščioniškosios
+    eros amžiumi.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215905
+
+- id: c-195508
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
+  citata_originali: |
+    Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
+    daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
+    tautos, gyvenančios rytinėse Baltijos jūros pakrantėse;
+    rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
+    jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
+    nijos karalystei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212639

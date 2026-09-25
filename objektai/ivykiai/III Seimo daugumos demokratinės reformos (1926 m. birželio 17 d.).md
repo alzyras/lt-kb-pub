@@ -120,11 +120,12 @@ Nenurodyta
     dvasininkams), ėmė mažinti karininkų skaičių.
   citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n155\nIII Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę \ndemokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-\nti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-\nnaikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai \nrengti susirinkimus."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003

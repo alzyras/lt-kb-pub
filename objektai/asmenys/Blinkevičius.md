@@ -82,5 +82,5 @@ Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad rei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

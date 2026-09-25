@@ -75,5 +75,5 @@ Dusburgietis teigia, kad paskui ši kariuomenė nužygiavo prie kitų dviejų pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -82,5 +82,5 @@ Būtent 1223 metais riteriai kala vijuočiai vienu metu po Kalėdų mėgino uži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

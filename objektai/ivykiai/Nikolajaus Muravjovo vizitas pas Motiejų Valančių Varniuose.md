@@ -61,12 +61,14 @@ Nenurodyta
     kad padėtų ginklus ir pasiduotų rusų valdžiai“ (M. Va­
     lančius, Pastabos pačiam sau, Vilnius, 1996, p. 75).
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
 ## Teiginiai
 
 <a id="claim-t-209546"></a>
@@ -80,4 +82,3 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
   pagrindžia:
     - c-192166
-

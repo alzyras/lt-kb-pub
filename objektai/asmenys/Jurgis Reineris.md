@@ -81,7 +81,7 @@ canonical_biography: "1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185433
@@ -98,5 +98,5 @@ canonical_biography: "1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

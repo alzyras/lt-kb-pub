@@ -84,5 +84,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204029
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
+  citata_originali: |
+    žinių, kad kartą, jam koplyčioje prieš altorių beklūpint ir beprašant dievą parodyti kokiu
+    ženklu, ar esąs pelnęs jo malonę, medinis nukryžiuotasis, prieš kurį jis meldėsi, ištiesė
+    savo rankas ir jį palaimino kryžiaus ženklu, kurį išvydęs šis patenkintas pasitraukė.
+    Šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu
+    pasislėpęs meldėsi viename koplyčios kampelyje.
+    70 (69).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

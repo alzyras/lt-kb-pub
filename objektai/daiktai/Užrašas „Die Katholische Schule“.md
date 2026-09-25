@@ -71,5 +71,5 @@ Ant Saulės namų durų buvo uždėtas vokiškas užrašas „Die Katholische Sc
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

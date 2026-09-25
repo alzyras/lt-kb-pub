@@ -76,9 +76,10 @@ Ignas Šeinius straipsnyje apie Vilniaus stilių ir dvasią teigė, kad gražioj
     aplinka nuo šiol veiksmingai įsiterpia į tautos gyvenimą kaipo naujas dva­
     sinės energijos šaltinis.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

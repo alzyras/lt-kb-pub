@@ -74,5 +74,5 @@ Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą, kuriuo (1610 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

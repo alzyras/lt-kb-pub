@@ -116,7 +116,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-67239
@@ -139,7 +139,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-67240
@@ -163,7 +163,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-67241
@@ -185,7 +185,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -208,5 +208,5 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

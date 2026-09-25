@@ -86,7 +86,7 @@ Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtin�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178650
@@ -114,5 +114,5 @@ Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtin�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

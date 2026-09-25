@@ -68,5 +68,5 @@ Pasak Teodoro Narbuto, Kryžiuočių ordinas pareikalavo leisti Kęstutaičiams 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

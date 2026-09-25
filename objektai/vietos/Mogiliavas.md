@@ -97,6 +97,18 @@ historical_names: []
   pagrindžia:
     - c-184981
 
+<a id="claim-t-208046"></a>
+- t-208046
+  teiginys: "Mogiliave J. K. Glaubicas projektavo ir statė Išganytojo Atsimainymo katedrą, vienuolyno ansamblį, seminariją bei vyskupijos rūmus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190680
+
 ## Citatos
 
 - id: c-105804
@@ -115,7 +127,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-105805
@@ -137,7 +149,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184981
@@ -153,5 +165,29 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190680
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 248"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 248."
+  citata_originali: |
+    J. K, Glaubicą pasikvietė Kijevo metropolitas, Polocko arkivyskupas
+    Florijonas Hrebnickis {Florian Hrebnicki, 1684-1761), jam pavedęs suprojektuoti
+    ir pastatyti metropolito rezidenciją Strunioje, taip pat unitų Šv. Sofijos katedrą
+    bei bazilijonų vienuolyną (statybos baigtos apie 176z m.) Polocke.
+    Architekto gebėjimai 1756 m. sudomino ir Mogiliavo vyskupą Georgijų Ko-
+    niskį {Grigorij Konisski, Jerzy Koniski, 1717-1795), kurio pageidavimu J. K. Glau­
+    bicui patikėta suprojektuoti ir pastatyti Mogiliavo Išganytojo Atsimainymo
+    katedrą, vienuolyno ansamblį, seminariją bei vyskupijos rūmus (statyba baigta
+    176} m.)".
+  citata_rodoma: "1756 m. sudomino ir Mogiliavo vyskupą Georgijų Ko-\nniskį {Grigorij Konisski, Jerzy Koniski, 1717-1795), kurio pageidavimu J. K. Glau­\nbicui patikėta suprojektuoti ir pastatyti Mogiliavo Išganytojo Atsimainymo \nkatedrą, vienuolyno ansamblį, seminariją bei vyskupijos rūmus"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208046

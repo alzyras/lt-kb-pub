@@ -77,5 +77,5 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

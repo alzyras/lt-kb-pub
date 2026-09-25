@@ -60,6 +60,19 @@ Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuo
   pagrindžia:
     - c-169600
 
+<a id="claim-t-208195"></a>
+- t-208195
+  teiginys: "A. K. Sapiegos laiškuose pastebima jo valdų administratorių hierarchija: kreipdamasis į Ilgų vaitą Motiejų Kurovskį, Sapiega apsiribodavo kreipiniais „pone Motiejau“ arba Monsieur."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-08-18T21:24:31Z"
+  pagrindžia:
+    - c-190912
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'A. K. Sapiegos laiškuose pastebima jo valdų administratorių hierarchija: kreipdamasis į Ilgų vaitą Motiejų Kurovskį, Sapiega apsiribodavo kreipiniais „pone Motiejau“ arba Monsieur.'
@@ -102,5 +115,29 @@ Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190912
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 18"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 18."
+  citata_originali: |
+    гг
+    XVIII amžiaus studijos 6
+    buvo galimybė įžvelgti sąmoningą provokaciją arba - mažų mažiausiai - svarbiausių
+    elgesio taisyklių nežinojimą21.
+    A. K. Sapiegos laiškuose pastebima tam tikra jo valdų administratorių hierar­
+    chija, nes, pavyzdžiui, kreipdamasis į Ilgų vaitą Motiejų Kurovskį (Mathys Kurowski)
+    apsiriboja tik kreipiniais „pone Motiejau“22 arba prancūzišku Monsieur**. V. Kuževskis
+    tarp A. K. Sapiegos valdų administratorių veikiausiai užėmė ne pačią aukščiausią
+    vietą - tai rodo jo adiekamų funkcijų palyginimas su kitiems administratoriams ar
+    patikėtiniams skiriamomis užduotimis.
+  citata_rodoma: "A. K. Sapiegos laiškuose pastebima tam tikra jo valdų administratorių hierar­\nchija, nes, pavyzdžiui, kreipdamasis į Ilgų vaitą Motiejų Kurovskį (Mathys Kurowski) \napsiriboja tik kreipiniais „pone Motiejau“22 arba prancūzišku Monsieur**."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208195

@@ -86,28 +86,17 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     - c-37684
     - c-167691
 
-<a id="claim-t-187644"></a>
-- t-003
-  teiginys: "Radomo seimas vyko 1505 m. balandžio-birželio mėn."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-211445"></a>
+- t-211445
+  teiginys: "1505 m. gegužės mėn. Radomo seime Aleksandras žadėjo vėl būti maloningas Lietuvos Ponų Tarybos nariams, kai grįš į Lietuvą."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> seimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Radomas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "seimas: mention_match, thing, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radomas\" parinktas kaip owner_note_path. Targetas \"seimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  temporaliniai_duomenys: "įvykio data: 1401 m.; įvykio data: 1505 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Radomą ir tiksliai perteikia seimo laiką. OCR triukšmas ir redakcinė pastaba apie klaidingą datą į teiginį neperkelta."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
-    - c-170591
+    - c-193548
 
 ## Citatos
 
@@ -127,7 +116,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-68541
@@ -150,7 +139,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167691
@@ -170,7 +159,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-170591
@@ -189,8 +178,31 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-193548
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 17-18"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 17-18."
+  citata_originali: |
+    Būtent Bychovco kro­
+    nikoje, kalbant apie susipykusių su Lietuvos didžiuoju
+    kunigaikščiu Aleksandru Lietuvos didikų — Ponų Ta­
+    rybos narių — suvažiavimą Naugarduke (1505 m. va-
+    19
+
+    sąrą), užsimenama, kad Aleksandras Radomo seime
+    (1505 m. gegužės mėn.) „buvo žadėjęs, kad būsiąs jiems
+    |Lietuvos Ponų Tarybos nariams], vėl maloningas, kai
+    parvažiuosiąs į Lietuvą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211445
 
 ## Ryšiai
 - Apgulė Radomą: [[objektai/grupes/Rusai]]

@@ -75,5 +75,22 @@ Kamianecas Podolėje nebuvo įkurtas Karijotaičių, nes istoriniuose šaltiniuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-193599
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 217"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 217."
+  citata_originali: |
+    8 Kalbama apie istorinį Podolės (dabar UTSR Chmelnickio sr.)
+    miestų Kanienec-Podol.sk,) prie Dnestro intako Smotričės. Įkurtas ne
+    Karijotaičių, nes istoriniuose šaltiniuose minimas jau 1062 m. XIV a.
+    antrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

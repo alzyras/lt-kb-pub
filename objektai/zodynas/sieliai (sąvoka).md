@@ -71,7 +71,7 @@ Pagaliau prekės Nemunu buvo plukdomos sieliais. Sieliai (plyta, krobka) buvo ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185143
@@ -88,5 +88,5 @@ Pagaliau prekės Nemunu buvo plukdomos sieliais. Sieliai (plyta, krobka) buvo ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

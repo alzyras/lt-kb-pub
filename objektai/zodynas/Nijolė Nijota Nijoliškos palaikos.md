@@ -88,5 +88,25 @@ Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198038
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 137"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 137."
+  citata_originali: |
+    Lietuvoje tebėra gyvas paprotys, kai prietaringi ūkininkai
+    likusius nuo Velykų pusryčio kaulus stropiai surenka ir užkasa
+    į žemę; mano kampe valstiečiai juos vadina Nijoliszkas Palaj-
+    kas (Nijolės palaikai). Tai lyg Nijolės relikvijos arba likučiai,
+    skirti Nijolei. Žemiau straipsnyje apie aukas pamatysime, kad
+    atnašautos mėsos kaulai būdavo užkasami į žemę kaip auka
+    požemio dievams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -68,5 +68,25 @@ Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197431
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
+  citata_originali: |
+    Odoakras,
+    tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo
+    1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia­
+    lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti,
+    kelti triukšmą (Stender. Lettische Gramm. S. 37). „E“ yra prieš-
+    vardinis garsas, paverčiantis siekinį daiktavardžiu; taip Eduhka reiš­
+    kia ūmų, aistringai bet kokio žygio besiimantį žmogų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

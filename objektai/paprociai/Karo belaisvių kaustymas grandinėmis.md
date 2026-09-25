@@ -89,5 +89,5 @@ Teodoras Narbutas rašo, kad karo belaisviai, nepaisant amžiaus ir ilgos nelais
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

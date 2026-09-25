@@ -95,6 +95,18 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
   pagrindžia:
     - c-83412
 
+<a id="claim-t-212450"></a>
+- t-212450
+  teiginys: "Kraševskio recenzija buvo paskelbta oficioze „Tygodnik Petersburski“."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197589
+
 ## Citatos
 
 - id: c-83411
@@ -116,7 +128,7 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83412
@@ -139,7 +151,7 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83413
@@ -163,5 +175,27 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197589
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 446"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 446."
+  citata_originali: |
+    Oficialūs atgarsiai į T. Narbuto „Lie­
+    tuvių mitologiją“ pasirodė netrukus, t. y. tais pačiais
+    1835 ir kitais 1836 metais. Tai buvo dvi didelės recenzi­
+    jos: pirmoji išspausdinta leidinyje „Wizerunki i Roztrzą-
+    sania Naukowe“, antroji — oficioze „Tygodnik Petersbur-
+    ski“. Pirmoji buvo anonimiška, o antroji priklausė Juo­
+    zapo Ignoto Kraševskio plunksnai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212450

@@ -75,5 +75,5 @@ Gebhardas iš Mansfeldo su 1500 vyrų nusiaubė Pagraudės valsčių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

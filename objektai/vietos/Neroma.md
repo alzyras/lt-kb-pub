@@ -115,7 +115,7 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175596
@@ -138,7 +138,7 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188138
@@ -164,5 +164,27 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-196767
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 278."
+  citata_originali: |
+    Tačiau Nestoras IX amžiuje žinojo šį taip
+    vadintą kraštą, jo gyventojus, kuriuos jis priskirdavo prie
+    rusų variagų4. Buvo rasta geografijos ištrauka, laikoma
+    labai sena ir saugoma Milano bibliotekoje; ji turėjo būti
+    X amžiuje parašyta kopija5. Joje išvardijamos Siaurės
+    Europos tautos ir jų gyvenamosios vietos. Ten tarp gen­
+    čių, laikomų slaviškomis, vokiškomis ir suomiškomis, yra
+    Nerivani vėl Neromani; jie įsikūrė ir kitoje vietoje, vadi­
+    namoje Bruzes.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

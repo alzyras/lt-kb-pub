@@ -67,5 +67,5 @@ Pasak Teodoro Narbuto, Algirdas, lydimas kelių brolių ir gausios kariaunos, į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

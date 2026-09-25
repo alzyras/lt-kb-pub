@@ -124,5 +124,5 @@ Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

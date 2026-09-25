@@ -63,5 +63,5 @@ Pasakojimas apie Teutonų ordino pradžią atsirado Akone greičiausiai 1204–1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

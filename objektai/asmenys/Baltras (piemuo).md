@@ -110,7 +110,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177653
@@ -126,7 +126,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177654
@@ -147,7 +147,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177655
@@ -171,5 +171,5 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

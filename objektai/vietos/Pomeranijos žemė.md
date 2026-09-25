@@ -89,7 +89,7 @@ Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas. Apaštališkojo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-204874
@@ -105,7 +105,7 @@ Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas. Apaštališkojo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-206248
@@ -122,5 +122,5 @@ Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas. Apaštališkojo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -64,5 +64,22 @@ Pasak Lietuvos statuto, įrodymai daugiausia remdavosi priesaika, nes šis aktas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198172
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
+  citata_originali: |
+    Pasak Lietuvos statuto, įrodymai daugiausia remdavosi
+    priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir
+    18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios
+    klebonu (Wizerunki Naukowe. -1836. - T. X. - S. 128-138).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

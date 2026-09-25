@@ -62,8 +62,23 @@ Juokaujanti formulė apie tariamai akmenimis prikrautą daiktą.
     akmenų pridėta ir gana!“ dejuoja broliai.
   citata_rodoma: "„Niekaip kitaip, akmenų pridėta ir gana!“ dejuoja broliai."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:46"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-195433"></a>
+- t-001
+  teiginys: "Skrynios sunkumas aiškinamas formule apie pridėtus akmenis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177854

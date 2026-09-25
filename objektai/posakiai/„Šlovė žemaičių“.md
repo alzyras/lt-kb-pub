@@ -84,5 +84,5 @@ Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

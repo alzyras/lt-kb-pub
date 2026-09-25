@@ -32,27 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad wiliński K.
 
-## Teiginiai
-
-<a id="claim-t-61368"></a>
-- t-001
-  teiginys: "K. Wilińskio straipsnis apie lenkų ir prūsų kovas X-XIII a. paskelbtas 1984 m. Lodzės universiteto istorijos leidinyje."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wiliński K. Walki polsko-pruskie w X—XIII w: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wiliński K. Walki polsko-pruskie w X—XIII w\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1984 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, temą, leidinį, vietą ir metus."
-  pagrindžia:
-    - c-62000
-
 ## Citatos
 
 - id: c-62000
@@ -69,5 +48,3 @@ Dusburgietis teigia, kad wiliński K.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

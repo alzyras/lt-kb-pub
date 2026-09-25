@@ -85,7 +85,7 @@ Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi me
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179230
@@ -107,5 +107,48 @@ Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi me
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195048
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 312"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
+  citata_originali: |
+    Kaip tik tuo metu vyko didelis germanų genčių
+    kraustymasis: vandalai, tiuringiai, gepidai, longobarda!
+    ir kai kurios sikandinavų-gotų gentys iš Vyslos žemupio
+    ir iš toliau Į šiaurę esančių kraštų siūbtelėjo į pietus; tai
+    jie išsivedė su savimi ir lietuvių kartas1, kurios galbūt
+    nenuėjo toliau kaip iki Dunojaus ir Noriko, o ten įsiliejo
+    į herulų kolonijas. Tačiau lietuvių Europos pietuose laukė
+    kitas likimas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195755
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 312"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
+  citata_originali: |
+    Jų net pa­
+    daugėjo atvykus tautiečiams tiesiai iš gimtų lietuvių že­
+    mių. Kaip tik tuo metu vyko didelis germanų genčių
+    kraustymasis: vandalai, tiuringiai, gepidai, longobarda!
+    ir kai kurios sikandinavų-gotų gentys iš Vyslos žemupio
+    ir iš toliau Į šiaurę esančių kraštų siūbtelėjo į pietus; tai
+    jie išsivedė su savimi ir lietuvių kartas1, kurios galbūt
+    nenuėjo toliau kaip iki Dunojaus ir Noriko, o ten įsiliejo
+    į herulų kolonijas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

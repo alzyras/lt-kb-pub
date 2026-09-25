@@ -92,5 +92,5 @@ canonical_biography: "Čia 1448 metais su Prūsijos ordinu su­ daryta37 garsi s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

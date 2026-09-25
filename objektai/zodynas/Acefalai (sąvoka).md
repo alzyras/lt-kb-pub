@@ -91,5 +91,5 @@ Narbutas rašo, kad Kristijono misionierius vienuoliai savo celėse išjuokdavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

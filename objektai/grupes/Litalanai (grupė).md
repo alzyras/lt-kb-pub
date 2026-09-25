@@ -62,5 +62,5 @@ Taip pat negalima paneigti ir didelio lietuvių genties išsibars tymo dar prie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

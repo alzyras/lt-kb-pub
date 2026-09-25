@@ -68,5 +68,5 @@ canonical_biography: "Štai 1554 m. Karaliaučiuje studijavo kaunietis Jurgis Bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

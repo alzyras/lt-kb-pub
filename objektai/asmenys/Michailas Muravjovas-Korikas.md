@@ -83,5 +83,5 @@ Po sukilimo vykusios represijos sustabdė istoriko planų įgyvendinimą, nors j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

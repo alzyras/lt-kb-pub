@@ -136,7 +136,7 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -167,7 +167,7 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179310
@@ -194,5 +194,54 @@ Dusburgas, pasak Narbuto, vyskupijų padalijimo tekste mini Prieglių kaip Prego
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-195623
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
+  citata_originali: |
+    Tačiau nemaža Pamedės
+    dalis, ypač šiaurėje, slėniuose netoli Vyslos ir Nogato,
+    dėl ežerų, pelikių ir užliejamų plotų buvo visiškai negy­
+    venama arba iš dalies buvo mažiau apgyvendinta negu
+    kitos provincijos.
+    Čia randame detalę, kuri pasikartoja kitose provinci­
+    jose ir kuri galėtų labiau paaiškinti visos tautos istoriją,
+    jei šaltiniai nebūtų taip sujaukti. Kiekviena provincija
+    dalijosi j mažesnes dalis, atskirus valsčius, teritorijas,
+    kaip jas buvo pratęs vadinti Dusburgas, kartais mažes­
+    nes, o kartais didesnes; jos paprastai vadinamos pagal
+    pagrindines vietoves arba savo valdovų pilių vietovar­
+    džius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197284
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
+  citata_originali: |
+    Tik iš įvairių žinomų darbų galime sužinoti, kad Prieg­
+    lius, tekėdamas į Aistmares, taip pat turėjo Lipze pavadi­
+    nimą; taip jis paminėtas apie vyskupijų padalijimą pas
+    Dusburgą (p. 478): Tertiam quoque limitavimus, sicut
+    claudit recens mare ab occidente ad flumen quod dicitur
+    Pregora sive Lipsa (Acta Borus. T. II. P. 613). Taigi
+    Prieglius ir Lipza buvo viena ir ta pati upė, kurios žio­
+    tyse tais laikais buvo uostas, taip pat vadinęsis Lipza.
+    Tad naujas steigiamas miestas turėjęs būti ten, kur
+    Prieglius įteka į Aistmares.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

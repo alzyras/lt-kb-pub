@@ -114,7 +114,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188098
@@ -140,7 +140,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188151
@@ -160,5 +160,29 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194401
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
+  citata_originali: |
+    Ne
+    viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
+    nes turime žinių apie didelį ir galingą jotvingių žygį į
+    Pietų Rusią, Jie tikriausiai ketino pasinaudoti ianuometi­
+    niais to krašto sunkumais: mongolai nuolat puldinėjo, o
+    kunigaikščiai vaidijosi tarpusavyje. 1247 metais jotvin­
+    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
+    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
+    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
+    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
+    čino (dabar Kobrino apskritis).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -61,23 +61,6 @@ Nenurodyta
   pagrindžia:
     - c-85311
 
-<a id="claim-t-89360"></a>
-- t-002
-  teiginys: "Broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių, bet grįžtančius juos užpuolė sembai."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Claim_text ir citata tiesiogiai nurodo sembų kontrpuolimą prieš grįžtančius brolius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sembai puolė Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas (0.72)"
-  pagrindžia:
-    - c-85312
-
 <a id="claim-t-89361"></a>
 - t-003
   teiginys: "Henrikas Ulenbušas per sembų kontrpuolimą nepasitraukė ir pradėjo gintis, todėl kiti broliai grįžo į mūšio lauką."
@@ -150,7 +133,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-85312
@@ -175,7 +158,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
     - t-003
     - t-004

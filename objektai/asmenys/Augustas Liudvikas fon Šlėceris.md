@@ -68,5 +68,5 @@ canonical_biography: 'Šlėceris teigė, kad lietuviai iki valstybės sukūrimo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

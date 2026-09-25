@@ -77,5 +77,5 @@ Tai buvo lietuviai, susivieniję su rusinais, kurie dar ne buvo atsimetę nuo pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

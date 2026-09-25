@@ -80,7 +80,7 @@ canonical_biography: "Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instigato
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185470
@@ -98,5 +98,5 @@ canonical_biography: "Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instigato
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

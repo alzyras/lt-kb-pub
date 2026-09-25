@@ -72,5 +72,28 @@ Narbutas rašo, kad sektantai nuo seno vadinti raskolnikais, tai yra atskalūnai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197919
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 396"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 396."
+  citata_originali: |
+    Tuo tarpu yra tik­
+    ras dalykas, jog Rusijoje, taip pat besiribojančiuose su ja kraš­
+    tuose nuo seno atsirasdavo sektų, dažnai tokių neaiškių, su­
+    painiotų ir slaptų, kad vietiniai rašytojai patys nesugeba nu­
+    statyti, kaip jos atsirado, nors nemaža jų gyvuoja iki šiol. Nuo
+    amžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas
+    mus, valdant Jonui Kazimierui, atsirado rusų sentikių sekta iš
+    tų popų, kurie nenorėjo priimti Biblijos ir liturgijos, Maskvos
+    patriarcho Nikono pataisytos; persekiojami tėvynėje, jie visu
+    būriu persikėlė į Lietuvą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

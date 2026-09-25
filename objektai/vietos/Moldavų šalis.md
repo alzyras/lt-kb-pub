@@ -68,5 +68,5 @@ Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, vala
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

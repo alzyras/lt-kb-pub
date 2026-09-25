@@ -95,5 +95,5 @@ canonical_biography: "68 Petras Timofiejevas Mstislavliškis, iš Maskvos atvyk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

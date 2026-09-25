@@ -84,7 +84,7 @@ canonical_biography: "1260 m. birželio 5 d. jis ir Mozūrijos kunigaikštis Zem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

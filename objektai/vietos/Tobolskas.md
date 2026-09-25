@@ -80,5 +80,27 @@ Narbuto pasakojime Tovelas, arba Tobalas, minimas kaip Šventojo Rašto protėvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194547
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 72."
+  citata_originali: |
+    Tačiau šio Ross pavadini­
+    mo neįmanoma susieti su jokia kita tauta, išskyrus bu­
+    dinus, kai jau dauguma mokslininkų neigia slavų rusų
+    egzistavimą iki Riuriko. Taip pat kalbama ir apie tautų
+    protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven­
+    tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir
+    Tobolsko pirmtakus2.
+    57
+    Europos budinai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

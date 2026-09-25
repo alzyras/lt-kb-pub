@@ -67,5 +67,5 @@ Kuriuo tikslu buvo rodomas toks pa­ lankumas šiam naujam kandidatui į lenkų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

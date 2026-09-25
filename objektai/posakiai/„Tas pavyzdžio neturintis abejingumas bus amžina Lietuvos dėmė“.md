@@ -71,5 +71,5 @@ Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

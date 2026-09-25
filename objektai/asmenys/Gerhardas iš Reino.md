@@ -53,6 +53,18 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
   pagrindžia:
     - c-167455
 
+<a id="claim-t-225783"></a>
+- t-225783
+  teiginys: "Gerhardas iš Reino nužudė Pobravą ir šešis jo vyrus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202025
+
 ## Citatos
 
 - id: c-167455
@@ -74,5 +86,27 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202025
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
+  citata_originali: |
+    Apie kelių prūsų žūtį
+    Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo tokia narsa ir drąsa,
+    kad retai kada priešo kariuomenė atsitraukdavo nuo pilies nepatyrusi nuostolių. Todėl,
+    kai Pobravas, susivienijęs su notangais ir variniais, naktį pasiuntė daug pėstininkų į
+    Balgos lauką, o pats anksti rytą su raiteliais užgrobė brolių gyvulius ir užmušė tris
+    juos saugojusius vyrus, brolis Gerhardas iš Reino ir nemaža kitų brolių bei ginklanešių
+    nusivijo juos, nužudė Pobravą bei šešis vyrus ir išplėšė iš jų rankų grobį.
+    140 (135).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225783

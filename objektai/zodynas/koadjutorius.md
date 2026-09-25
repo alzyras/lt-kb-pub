@@ -90,7 +90,7 @@ Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę atverstas vy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185858
@@ -100,6 +100,7 @@ Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę atverstas vy
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 7."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:49"
-  pagrindzia:
+  pagrindžia:
     - t-002

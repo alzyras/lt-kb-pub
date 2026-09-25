@@ -71,6 +71,18 @@ Nenurodyta
   pagrindžia:
     - c-44647
 
+<a id="claim-t-210422"></a>
+- t-210422
+  teiginys: "Smolensko prastieji žmonės sukilimo metu buvo apsiginklavę dalgiais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193932
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -98,5 +110,26 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-193932
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 127"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 127."
+  citata_originali: |
+    Po Velykų, Šventosios savaitės trečiadie­
+    nį 3, Smolensko prastieji žmonės — kalviai, odminiai,
+    batsiuviai, mėsininkai, katiliai — sumanė Andrių varu
+    iš miesto išvaryti, o priesaiką paminti, ir apsiginklavo
+    ietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė
+    skambinti varpu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210422

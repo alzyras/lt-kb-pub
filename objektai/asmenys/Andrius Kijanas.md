@@ -71,9 +71,10 @@ Teodoras Narbutas Andrių Kijaną apibūdina kaip garsų Kijevo emigrantą bajor
     ir skatinamas dirbti pagal savo pašaukimą.
   citata_rodoma: "Tačiau Liubčiojeklestinčiame Panemunio prekybos mies­\nte, priklausančiame garsiam Kijevo emigrantui bajorui \nAndriui Kijanui, kurį labai mėgo Lietuvos didysis kuni­\ngaikštis Mindaugas, buvo deramai sutiktas, globojamas \nir skatinamas dirbti pagal savo pašaukimą."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-12 08:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

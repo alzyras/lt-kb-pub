@@ -43,45 +43,6 @@ Masonų organizacijos įvadiniame straipsnyje siejamos su visuomenės švietimo 
 
 Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrinių bei švietimo programų kontekstuose.
 
-## Teiginiai
-
-<a id="claim-t-188044"></a>
-- t-001
-  teiginys: "Masonų organizacijose buvo suformuluoti visuomenės švietimo ir ugdymo uždaviniai."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos masonų organizacijos: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos masonų organizacijos\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-170858
-
-<a id="claim-t-188045"></a>
-- t-002
-  teiginys: "Įvadiniame straipsnyje perteikiama R. Klimavičiaus nuomonė, kad T. Narbutas 1817 m. įstojo į masonų organizaciją."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Masonų apeigų taurė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos masonų organizacijos: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Masonų apeigų taurė: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos masonų organizacijos\" parinktas kaip owner_note_path. Targetas \"Masonų apeigų taurė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1817 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai atribuuoja R. Klimavičiaus nuomonę ir yra gramatiškas. Papildomų faktų iš citatos nepridėta."
-  pagrindžia:
-    - c-171055
-
 ## Citatos
 
 - id: c-170858
@@ -103,8 +64,6 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-171055
   autorius: "Teodoras Narbutas"
@@ -125,5 +84,3 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

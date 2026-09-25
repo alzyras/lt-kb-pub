@@ -68,5 +68,5 @@ canonical_biography: "1621 m. Kauno miestiečiai, norėdami atsipirkti nuo Teofi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

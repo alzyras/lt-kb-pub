@@ -73,5 +73,23 @@ Narbutas mini Reichardą kaip Didžiojo Vokietijos žemėlapio vadovą, pasitelk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197590
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
+  citata_originali: |
+    5 Nužymėti šį prekybos kelią padėjo:
+    Kraus.
+    Archiv fiir alte
+    Geographie. Heft III; Didysis Vokietijos žemėlapis, kur vadovas buvo
+    Reichardas, Prie šių aprašymų išdėstyta neabejotinų įrodymų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

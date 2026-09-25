@@ -84,5 +84,31 @@ Narbutas tapatino senovinį Higrį su Donecu, o Tanajį - su dabartiniu Donu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196067
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
+  citata_originali: |
+    Taigi pagal pa­
+    našumų ir žemės gamtą galima geriau išdėstyti tas skitų
+    klases, negu perkeliant jas kitapus Mėlynųjų Vandenų ir
+    Kalančiako upių, taip pat negalima būtų parinkti visiems
+    metų laikams tinkamesnių, ypač gyvulių augintojams,
+    vietų už Kalančiako. Be to, Tanajis yra šiandienis Do­
+    nas, o Higris — Donecas.
+    36
+    Dideliame skitų krašte taip pat gyveno svetimos, ski­
+    tų pakenčiamos, ypač graikų persikėlėlių ir su jais turė­
+    jusios ryšių arba susigiminiavusios tautos, pavyzdžiui,
+    gelonų, kurių kolonija plytėjo į šiaurę nuo skitų krašto,
+    kairiojoje Dnepro pakrantėje tarp budinu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

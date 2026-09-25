@@ -96,6 +96,6 @@ leidinio „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
