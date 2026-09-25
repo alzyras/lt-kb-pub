@@ -85,5 +85,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201825
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
+  citata_originali: |
+    Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė
+    Varmių vadui Glapui, kad broliai esą iš čia išvykę. Šis su daugybe karių atvyko ir užėmė
+    pilį. Šitai išgirdęs, komtūras susirūpino ir patraukė su saviškiais link Karaliaučiaus,
+    o parplaukęs laivais į Brandenburgą, čia išvadavo nuo prūsų brolius ir kitus iš savo
+    šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
+    išsivedė su savimi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

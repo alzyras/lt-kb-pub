@@ -67,5 +67,24 @@ Ir jis pa skyrė jiems chaną, vardu Mechmetą l0.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-193727
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 180"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 180."
+  citata_originali: |
+    Ir jie patys atvyko ir nusilenkė jam, šlo­
+    vingajam valdovui, didžiajam kunigaikščiui Vytautui, ir
+    atnešė brangių dovanų, ir prašo iš jo chano. Ir jis pa­
+    skyrė jiems chaną, vardu Mechmetą l0.
+    Kaip kad iš jūros daug upių teka, taip iš šio didžio­
+    jo valdovo, didžiojo kunigaikščio Vytauto — išmintis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

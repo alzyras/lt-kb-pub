@@ -86,5 +86,5 @@ Prie Gaujos upės (tai dabar turėtų būti vadinamoji Aa), susivieniję su žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

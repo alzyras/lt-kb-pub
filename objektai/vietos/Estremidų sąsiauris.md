@@ -68,5 +68,5 @@ Estremidų sąsiauris siekė nuo šv. Vincento kyšulio iki Vakarų Prancūzijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

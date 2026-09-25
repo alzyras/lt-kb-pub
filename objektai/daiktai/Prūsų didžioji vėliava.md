@@ -44,26 +44,17 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-189741"></a>
-- t-001
-  teiginys: "Narbutas Prūsų didžiojoje vėliavoje aprašo Atrimpo atvaizdą kaip jaunikaitį su javų varpų vainiku ant galvos, stovintį Perkūno kairėje."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-217413"></a>
+- t-217413
+  teiginys: "Atrimpas vėliavoje vaizduotas kaip jaunikaitis su javų varpų vainiku, stovintis Perkūno kairėje."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Prūsai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prūsų didžioji vėliava: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Genityvinė formuluotė tiesiogiai sieja didžiąją vėliavą su prūsais."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Prūsų didžioji vėliava priklausė Prūsai (0.86)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172624
+    - c-201352
 
 ## Citatos
 
@@ -86,5 +77,22 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-201352
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 104."
+  citata_originali: |
+    Prūsų didžiojoje vėliavoje buvo pavaizduotas kitoks Atrim-
+    pas - jaunikaitis su galva, papuošta javų varpų vainiku, stovin­
+    tis Perkūno kairėje. Žiūrėk IV lentelės 41-ąjį piešinį ir vėlia­
+    vos aprašymą straipsnyje „Herbai“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217413

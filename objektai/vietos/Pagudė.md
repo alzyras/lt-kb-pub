@@ -219,6 +219,18 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindžia:
     - c-179051
 
+<a id="claim-t-223360"></a>
+- t-223360
+  teiginys: "Trečia — Pagudė193, kurioje [gyveno] pagudėnai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206325
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Magistras ir broliai, keršydami už nužudytuosius, įsiveržė į Pagudės žemę ir ją nusiaubė plėšdami, degindami bei imdami belaisvius.'
@@ -329,7 +341,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-006
 
@@ -354,7 +366,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-007
 
@@ -374,7 +386,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-86951
@@ -399,6 +411,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-86952
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -414,7 +427,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-86953
@@ -441,7 +454,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-86954
@@ -465,7 +478,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175482
@@ -486,7 +499,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-179051
@@ -506,8 +519,84 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+
+- id: c-202831
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
+  citata_originali: |
+    Apie karą su pagudėnais ir Elbingo pilies pastatymą
+
+       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
+    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
+    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
+    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
+    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
+    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
+    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
+    išaugo miestas242.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203779
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
+  citata_originali: |
+    Prūsų žemė į šiaurės rytus nuo
+    Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę. Kartais kaip
+    rytų riba nurodoma labiau  į vakarus esanti Pasarės (Pasargės, dab. Paslenkos) upė
+    (GAO, p.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205947
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 147"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 147."
+  citata_originali: |
+    Tačiau kai miestiečiai vydamiesi per daug nutolo nuo miesto, pagudėnai, išgriuvę iš
+    pasalos, atkirto jiems kelią į miestą. Persekiojami miestiečiai, nestengdami priešintis
+    tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum
+    pilis. Atskubėję pagudėnai smarkiai užpuolė malūną. Kadangi miestiečiai, dar nepailsę,
+    naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
+    laiką nieko nedarė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206325
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
+  citata_originali: |
+    Trečia — Pagudė193,
+    kurioje [gyveno] pagudėnai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223360
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Glotava]]

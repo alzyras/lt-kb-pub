@@ -104,7 +104,7 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60662
@@ -133,8 +133,26 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203366
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
+  citata_originali: |
+    Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
+    pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
+    senoji pilis223.
+
+      220 D.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Hermanas (Ordino magistras) pastatė [[objektai/vietos/Kulmas]], [[objektai/vietos/Marienverderis]]

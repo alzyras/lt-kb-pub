@@ -86,5 +86,5 @@ m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

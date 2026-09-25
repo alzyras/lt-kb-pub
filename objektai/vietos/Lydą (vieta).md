@@ -73,5 +73,5 @@ Totorių samdinių kariuomenę ir mirzų bei ulonų dvariškių būrį sutelkusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

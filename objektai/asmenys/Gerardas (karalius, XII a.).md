@@ -123,7 +123,7 @@ Vėliau karaliai ir privatūs didikai aprūpino nau jąjį vienuolių ordiną l�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188294
@@ -143,7 +143,7 @@ Vėliau karaliai ir privatūs didikai aprūpino nau jąjį vienuolių ordiną l�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188295
@@ -163,5 +163,5 @@ Vėliau karaliai ir privatūs didikai aprūpino nau jąjį vienuolių ordiną l�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -294,18 +294,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - c-176312
     - c-181887
 
-<a id="claim-t-194028"></a>
-- t-013
-  teiginys: "Krėva — BTSR miestelis (apie 28 km į pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro pilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176650
-
 <a id="claim-t-196698"></a>
 - t-014
   teiginys: "Kojelavičiaus pasakojime Vytautas, vežamas iš Vilniaus į Krėvą, buvo laikomas su karališka pagarba, bet nuolat saugomas sargybos."
@@ -384,6 +372,54 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   pagrindžia:
     - c-189127
 
+<a id="claim-t-210587"></a>
+- t-210587
+  teiginys: "Žygūnas susitiko su Algirdu Krėvoje,."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194126
+
+<a id="claim-t-211339"></a>
+- t-211339
+  teiginys: "Sąlygos, kuriomis Jogaila vedė Jadvygą, išdėstytos vadina majame Krėvos unijos akte, surašytame 1385 m. rugpiūčio 14 d. Krėvos pilyje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192944
+
+<a id="claim-t-211529"></a>
+- t-211529
+  teiginys: "Voložino kunigaikščiai buvo sučiupti tarp Krėvos ir Ašmenos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192964
+
+<a id="claim-t-211971"></a>
+- t-211971
+  teiginys: "Jogaila išsiuntė Kęstutį į Krėvą ir įkalino bokšte."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193675
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Kojelavičiaus pasakojime sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau buvo atvykę į Krėvą.'
@@ -458,7 +494,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-006
 
@@ -479,7 +515,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-008
 
@@ -499,7 +535,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-103199
@@ -523,7 +559,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-103200
@@ -549,7 +585,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -570,7 +606,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-168356
@@ -611,7 +647,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-168357
@@ -639,7 +675,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-176312
@@ -656,7 +692,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-176650
@@ -677,8 +713,6 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
 
 - id: c-178850
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -715,7 +749,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-181887
@@ -732,7 +766,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-181888
@@ -760,7 +794,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-006
 
@@ -780,7 +814,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-181891
@@ -827,7 +861,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-181893
@@ -847,7 +881,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-181894
@@ -873,7 +907,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -894,6 +928,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181897
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -915,7 +950,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-015
 
@@ -936,7 +971,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-008
 
@@ -960,7 +995,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-189127
@@ -984,8 +1019,79 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
+
+- id: c-192944
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 234"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 234."
+  citata_originali: |
+    Sąlygos, kuriomis Jogaila vedė Jadvygą, išdėstytos vadina­
+    majame Krėvos unijos akte, surašytame 1385 m. rugpiūčio 14 d.
+    Krėvos pilyje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211339
+
+- id: c-192964
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 131."
+  citata_originali: |
+    Ir pasivijo juos tarp Krėvos ir Ašme­
+    nos ir ten pat sučiupo visus penkis brolius — Voložino
+    kunigaikščius
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211529
+
+- id: c-193675
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 82"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 82."
+  citata_originali: |
+    O kai atvyko į Vilnių, didysis kunigaikštis Jogaila sa­
+    vo dėdę, didįjį kunigaikštį Kęstutį, sukaltą grandinė­
+    mis, pasiuntė į Krėvą ir įkalino bokšte
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211971
+
+- id: c-194126
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 69."
+  citata_originali: |
+    Žygūnas susitiko
+    su Algirdu Krėvoje,
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210587
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

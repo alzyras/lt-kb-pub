@@ -93,7 +93,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-09756
@@ -108,7 +108,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -134,5 +134,32 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-192664
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 154"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 154."
+  citata_originali: |
+    nesgi anie tankiai regėjo per prityrimą, jog valdymierai tautų dėl to vien kartais įveda svetimus parėdymus^710 į savo ūkę, idant per tą galėtų padidinti savo valdžią ir svietą nuvergti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192899
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 48"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 48."
+  citata_originali: |
+    Jei netyčiomis jis tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi. Visi tie prietarai ant to eina, sako toliau, jog nuo ten prasidėjusi jų tauta, kame esąs visų valdymieras dievas, kurio kiti visi klausą ir tarnaują. Laimė žemaičių tą tvirtinanti.
+  statusas: verified
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

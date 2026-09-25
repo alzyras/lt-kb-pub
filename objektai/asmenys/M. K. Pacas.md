@@ -85,5 +85,5 @@ M. K. Pacas žuvo 1665 metais prie Mogiliavo, kai miestą buvo apgulę lauko etm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

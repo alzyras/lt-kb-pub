@@ -65,5 +65,5 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

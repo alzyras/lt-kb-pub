@@ -55,5 +55,23 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205039
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  citata_originali: |
+    Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
+    žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums? Kam mes gimėme,
+    kad matytume savo tautos sunaikinimą ir savo žemės sunaikinimą ir sėdėtume čia, kai
+    ji atiduodama į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo
+    nedraugų kalavijo“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

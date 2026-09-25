@@ -79,7 +79,7 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-70835
@@ -101,7 +101,7 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175866
@@ -120,5 +120,5 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

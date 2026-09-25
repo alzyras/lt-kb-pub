@@ -66,7 +66,7 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166894
@@ -86,5 +86,5 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

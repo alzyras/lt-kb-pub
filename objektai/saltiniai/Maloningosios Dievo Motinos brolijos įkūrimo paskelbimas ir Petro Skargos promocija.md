@@ -88,5 +88,5 @@ Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. buvo paskelbta Maloning
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

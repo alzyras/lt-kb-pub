@@ -65,6 +65,42 @@ canonical_biography: "1542 m. turėjo emigruoti į protestantiškąją (nuo 1525
   pagrindžia:
     - c-21551
 
+<a id="claim-t-222401"></a>
+- t-222401
+  teiginys: "Albrechtas 1298 metais nukovė Adolfą ir paveldėjo sostą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203136
+
+<a id="claim-t-222442"></a>
+- t-222442
+  teiginys: "1308 metais Albrechtą nužudė kunigaikštis Jonas, vadinamas Anlantu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202370
+
+<a id="claim-t-225320"></a>
+- t-225320
+  teiginys: "Albrechtas vėliau tapo Romos karaliumi."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205397
+
 ## Citatos
 
 - id: c-21551
@@ -86,5 +122,56 @@ canonical_biography: "1542 m. turėjo emigruoti į protestantiškąją (nuo 1525
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202370
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
+  citata_originali: |
+    1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos
+    karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222442
+
+- id: c-203136
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 243."
+  citata_originali: |
+    1298 viešpaties metais Albrechtas, Austrijos kunigaikštis, nukovė Adolfą, Romos
+    karalių, ir paveldėjo sostą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222401
+
+- id: c-205397
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 237."
+  citata_originali: |
+    atidavė
+    Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225320

@@ -75,9 +75,10 @@ Būdamas pilnas nemalonės naujiems karūnos politikos vai­ rininkams, kancleri
     su Livonijos Ordinu.
   citata_rodoma: "Būdamas pilnas nemalonės naujiems karūnos politikos vai­\nrininkams, kancleriui Jonui Šafrancui, vėliau pakeltam pakanc­\nleriui Vladislovui Oporovskiui, kurie darė kliūčių jo siekimams,\n— Vytautas grasino, neatsižiūrėdamas net gyviausių Lietuvos\ninteresų, kad vietoj Liubičo atiduos kryžiuočiams Palangą. Šis\nužsimojimas, kaip mano Haleckis, pavojingas buvo dviem at­\nžvilgiais: Lietuva, kuriai Vytautas neseniai troško atgauti Klai­\npėdą, būtų buvus visiškai atkirsta nuo jūros ir būtų buvęs suteik­\ntas kryžiuočiams taip seniai trokštamas galimumas susijungti\nsu Livonijos Ordinu."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

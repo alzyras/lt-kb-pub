@@ -157,7 +157,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-72888
@@ -178,7 +178,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-72892
@@ -199,7 +199,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-72893
@@ -223,7 +223,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-72894
@@ -243,5 +243,5 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

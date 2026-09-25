@@ -69,5 +69,22 @@ Dusburgietis teigia, kad (Gerullis G., Zur Sprache.., p. 48; Būga К., 2, p. 10
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203306
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
+  citata_originali: |
+    442 D.— Scumandus, Jer.— Skomant; jotvingių Skomant(a)s arba Skomand(a)
+    s. Asmenvardis giminingas vietovardžiams Skomantai, Klaipėdos rj. (Gerullis G., Zur
+    Sprache.., p. 48; Būga К., 2, p. 100—101; 3, p. 140—141), Skuomantai (kaimas prie
+    Rokiškio, su tarminiu senesnio o virtimu uo).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

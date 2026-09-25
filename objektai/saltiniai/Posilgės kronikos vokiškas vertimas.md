@@ -61,5 +61,5 @@ Dusburgietis teigia, kad pradžios lotyniškuose Torunės analuose — Ragniten,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

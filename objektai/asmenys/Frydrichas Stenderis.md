@@ -55,66 +55,6 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   pagrindžia:
     - c-172876
 
-<a id="claim-t-189994"></a>
-- t-002
-  teiginys: "Narbutas nurodo Stenderio pastabą, kad latviai turėjo deivę Dyžą arba Dyszą, kuri savybėmis atitikusi Pergrubę."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-172877
-
-<a id="claim-t-189995"></a>
-- t-003
-  teiginys: "Narbutas prie Pušaičio, požemio dievaičio ir barstukų vyriausiojo, aprašymo nurodo Stenderio „Lettische Grammatik“."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Barstukai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Barstukai: mention_match, group, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Barstukai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-172878
-
-<a id="claim-t-189996"></a>
-- t-004
-  teiginys: "Narbutas rašo, kad Stenderis barstukų vardą kildino iš latviškų žodžių „Berhns“ ir „Stuhke“."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Barstukai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Barstukai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Barstukai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-172879
-
 <a id="claim-t-189998"></a>
 - t-005
   teiginys: "Narbutas, remdamasis Stenderiu, rašo, kad Latvijoje dar girdėti apie žynius, kurie buria, gydo ir patarinėja kerėjimo formulėmis."
@@ -135,29 +75,17 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   pagrindžia:
     - c-172881
 
-<a id="claim-t-197396"></a>
-- t-006
-  teiginys: "Frydrichas Stenderis išliejo, virto gryno aukso lašais."
-  atnaujinta: "2026-07-12 22:32"
+<a id="claim-t-219192"></a>
+- t-219192
+  teiginys: "Stenderį - kad krivius laikė esant kilusius iš rusų (krievų) žemės."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179165
-
-<a id="claim-t-197397"></a>
-- t-007
-  teiginys: "Frydrichas Stenderis verčia Angularis, taigi turėjo būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179166
+    - c-198912
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -226,7 +154,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172877
@@ -246,8 +174,6 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-172878
   autorius: "Teodoras Narbutas"
@@ -270,8 +196,6 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-172879
   autorius: "Teodoras Narbutas"
@@ -292,8 +216,6 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-172881
   autorius: "Teodoras Narbutas"
@@ -312,7 +234,7 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-179165
@@ -333,8 +255,6 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
 
 - id: c-179166
   autorius: "Teodoras Narbutas"
@@ -357,5 +277,103 @@ Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o pap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+
+- id: c-197762
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 140"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 140."
+  citata_originali: |
+    Atikoje Krono šventė buvo švenčiama Krono garbei he-
+    katombajono (Hekatombeon) mėnesį, kurį anksčiau vadino
+    Krono mėnesiu (Kronius).
+    Užsparinė (Usparinia)
+    Tai buvo žemės ribų deivė, globojanti kampinius kaupus
+    arba sergėjanti sienų neliečiamumą; jų nepažeidžiamumas lie­
+    tuviams buvo šventenybė.
+    Lasickio, aišku, su klaida užrašyta Aspelenie (Užpelenė),
+    nes tą vardą į lotynų kalbą jis verčia Angularis, taigi turėjo
+    būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197892
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
+  citata_originali: |
+    Minėtasis vyras, išvykdamas į kelio­
+    nes po įvairias šalis, pametė ją visiems laikams. Labai sukrės­
+    ta šio nutikimo, deivė klaidžiojo visur, ieškodama neištikimo
+    vyro; gailios ašaros, kurias ji išliejo, virto gryno aukso lašais.
+    Skandinavai taip pat manė, kad dėl tos kelionės deivė Frėja
+    tapo žinoma įvairiuose kraštuose ir buvo garbinama įvairių
+    tautų.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198655
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  citata_originali: |
+    Beje, labai gali būti,
+    kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
+    būdindama dievybių lytį, bet ne čia esmė; tai lengvai ištaiso­
+    ma, jeigu tik atsirastų kokių nors žinių apie šį dalyką.
+    Latviai žinojo šią dievybę kaip Pilviką (Pelwihkse), kitaip
+    Szkahde. Stenderis, tuose savo latvių mitologijos straipsniuo­
+    se saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­
+    mės ir tiesos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198912
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 24"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 24."
+  citata_originali: |
+    F. Stenderį - kad krivius laikė esant kilusius
+    iš rusų (krievų) žemės
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219192
+
+- id: c-200533
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 299."
+  citata_originali: |
+    Tai tam tikri žyniai; jie kerėjimo formulė­
+    mis ir kitomis apgavikiškomis išmonėmis patarinėja įvairiais
+    klausimais, buria, gydo žmones ir gyvulius. Tokie žyniai, mo­
+    kantys pagarsėti, pritraukia lengvatikius iš tolimesnių ir arti­
+    mesnių apylinkių ir patys, be abejo, savęs nenuskriaudžia. Lat­
+    vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

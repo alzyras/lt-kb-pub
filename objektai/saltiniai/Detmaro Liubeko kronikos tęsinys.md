@@ -142,7 +142,7 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
@@ -176,5 +176,5 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

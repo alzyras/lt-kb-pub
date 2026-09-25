@@ -81,7 +81,7 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

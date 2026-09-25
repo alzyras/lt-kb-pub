@@ -209,6 +209,19 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   pagrindžia:
     - c-178703
 
+<a id="claim-t-207761"></a>
+- t-207761
+  teiginys: "Kiaupienės aptariamame pasakojime Germantas po Šventaragio mirties karuose su Rusia ir Kryžiuočiais narsa įrodė esąs riteris."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190454
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.'
@@ -274,7 +287,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83405
@@ -310,7 +323,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83406
@@ -338,7 +351,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168064
@@ -361,7 +374,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-168065
@@ -392,7 +405,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-168066
@@ -421,7 +434,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-168067
@@ -446,7 +459,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-178702
@@ -469,7 +482,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-178703
@@ -496,8 +509,29 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-190454
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 76"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 76."
+  citata_originali: |
+    Lietuvos Didžiosios Kunigaikštystės karių didvyrių, vadinamų riteriais, portretų
+    galeriją M. Stryjkovskis pradeda nuo legendinių Palemono ir jo bendražygių palikuo-
+    nių, „Dorybės pasiuntinyje" vadindamas riteriais tuos legendinius lietuvių kunigaikščius,
+    kurie įrodė savo narsumą. Vienas tokių buvo Germantas. Po Šventaragio mirties ka-
+    ruose su Rusia ir Kryžiuočiais jis narsa įrodė esąs riteris (šalt.
+  citata_rodoma: "Vienas tokių buvo Germantas. Po Šventaragio mirties ka-\nruose su Rusia ir Kryžiuočiais jis narsa įrodė esąs riteris"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207761
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Giliginas]]

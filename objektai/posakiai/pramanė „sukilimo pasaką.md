@@ -67,7 +67,7 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67264
@@ -91,5 +91,5 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -86,7 +86,7 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44447
@@ -110,5 +110,5 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -122,7 +122,7 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44612
@@ -149,7 +149,7 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167087
@@ -176,5 +176,5 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

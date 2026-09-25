@@ -73,5 +73,5 @@ Tad tas aukuras, apie kurį kalba autorius, buvo Amžino sios ugnies aukuras, ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

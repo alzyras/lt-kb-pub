@@ -131,7 +131,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171058
@@ -152,7 +152,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171059
@@ -176,7 +176,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171060
@@ -196,7 +196,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171061
@@ -218,5 +218,5 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

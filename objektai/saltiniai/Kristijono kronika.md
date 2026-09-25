@@ -43,6 +43,30 @@ media_all_json: |-
   pagrindžia:
     - c-187742
 
+<a id="claim-t-212141"></a>
+- t-212141
+  teiginys: "Narbutas teigia, kad Erazmo Stelos paragrafai rėmėsi prūsų vyskupo Kristijono kronika."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197363
+
+<a id="claim-t-215684"></a>
+- t-215684
+  teiginys: "Šio Divonio kelionės aprašymas išliko rankraštyje, kuris atiteko Plocko kated ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo no rastas šio Jaroslavo parašytoje kronikoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195021
+
 ## Citatos
 
 - id: c-187742
@@ -64,5 +88,45 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195021
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
+  citata_originali: |
+    Šio Divonio kelionės
+    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
+    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
+    no rastas šio Jaroslavo parašytoje kronikoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215684
+
+- id: c-197363
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 271."
+  citata_originali: |
+    jei įsigilinsime į pirmus
+    Erazmo Stelos paragrafus, aiškiai liudijančius, jog jis
+    rėmėsi prūsų vyskupo Kristijono kronika ir kitais seno­
+    vės šaltiniais, kuriuose buvo prūsų tautinių senienų, pa­
+    tekusių į krikščioniškąsias žinias XIII amžiaus pradžioje
+    ar dar anksčiau,
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212141

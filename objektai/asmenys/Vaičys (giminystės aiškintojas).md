@@ -103,7 +103,7 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177977
@@ -119,7 +119,7 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177978
@@ -138,5 +138,5 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

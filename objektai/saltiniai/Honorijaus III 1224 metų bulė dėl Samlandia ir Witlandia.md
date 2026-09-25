@@ -76,5 +76,24 @@ Teodoras Narbutas 1224 m. popiežiaus Honorijaus III bulėje skyrė Samlandia ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197579
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Sis skirtumas yra esminis dalykas;
+    mes jį aptinkame jau 1224 metais popiežiaus Honorijaus
+    III bulėje, kur greta Samlandia ypač pabrėžta Witlandia
+    (Gruber. Orig. Livon. P. 265), ten vietoj (Wirlandia rei­
+    kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­
+    suchungen ettr. 5, 53).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

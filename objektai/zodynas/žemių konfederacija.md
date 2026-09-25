@@ -74,5 +74,5 @@ Taigi matyti, kad 1219 m. Lietuva buvo dar ne valstybė, o tik žemių konfedera
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

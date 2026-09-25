@@ -62,25 +62,18 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
   pagrindžia:
     - c-33175
 
-<a id="claim-t-188484"></a>
-- t-002
-  teiginys: "V. Merkys sudarė S. Daukanto „Raštų“ 1-ąjį tomą ir parašė šio tomo įvadą bei paaiškinimus."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-209259"></a>
+- t-209259
+  teiginys: "Vytautas Merkys su S. Daukantu siejo vieną iš lietuvių istoriko ūkiškų patarimų serijos knygelių, kurioje aiškinama, kaip auginti apynius."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Merkys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Merkys: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Merkys: mention_match, place, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Merkys\" parinktas kaip owner_note_path. Targetas \"Merkys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
   pagrindžia:
-    - c-171374
+    - c-191874
 
 ## Citatos
 
@@ -104,7 +97,7 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171374
@@ -122,5 +115,29 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-191874
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 52"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 52."
+  citata_originali: |
+    Šis
+    gaminamų svaigalų sąmoningas "silpninimas", galintis prisidėti prie
+    atpratimo nuo jų, turėjo tam tikrą realų poveikį. Nors nėra
+    pakankamai ištirti visi ekonominiai svaigalų gamybos kitimo veiksniai,
+    tačiau pramoninio alaus gamyba išties Lietuvoje išsiplėtė. Su tuo S.
+    Daukanto biografas Vytautas Merkys sieja ir vieną iš lietuvių istoriko
+    ūkiškų patarimų serijos knygelių, kurioje aiškinama, kaip auginti
+    apynius63, šis verslas, anūt S. Daukanto, yra ypač svarbus "tiems,
+    kurie neturį daug grunto, o nori ne vien save pramaitinti, bet ir
+    praturtėti.
+  citata_rodoma: "Su tuo S. \nDaukanto biografas Vytautas Merkys sieja ir vieną iš lietuvių istoriko \nūkiškų patarimų serijos knygelių, kurioje aiškinama, kaip auginti \napynius63,"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209259

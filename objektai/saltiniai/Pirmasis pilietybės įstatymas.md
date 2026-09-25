@@ -74,5 +74,5 @@ Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

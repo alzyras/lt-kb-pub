@@ -56,3 +56,39 @@ Kazimiero Narbuto „Logikoje“ 1769 m. pirmą kartą Lietuvoje buvo išdėstyt
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207691"></a>
+- t-001
+  teiginys: "Kazimiero Narbuto „Logikoje“ 1769 m. pirmą kartą Lietuvoje buvo išdėstytos švietėjiškos idėjos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1769 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškai pilnas, turi aiškų subjektą ir tiesiogiai atitinka citatoje nurodytą faktą. Papildomų faktų nepridėta."
+  pagrindžia:
+    - c-190308
+
+## Citatos
+
+- id: c-190308
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 180"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 180."
+  citata_originali: |
+    Londone buvo leidžiami 53 laikraščiai. Pirmą kartą Lietuvoje švietėjiškos
+    idėjos išdėstytos 1769 m. Kazimiero Narbuto „Logikoje“.
+  citata_rodoma: "Pirmą kartą Lietuvoje švietėjiškos \nidėjos išdėstytos 1769 m. Kazimiero Narbuto „Logikoje“."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

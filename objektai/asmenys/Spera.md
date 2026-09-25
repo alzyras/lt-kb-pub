@@ -107,6 +107,18 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   pagrindžia:
     - c-187692
 
+<a id="claim-t-210402"></a>
+- t-210402
+  teiginys: "Spera valdė daugelį metų ir mirė nepalikęs įpėdinių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194142
+
 ## Citatos
 
 - id: c-169524
@@ -127,7 +139,7 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176612
@@ -147,7 +159,7 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178784
@@ -168,7 +180,7 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-187692
@@ -188,5 +200,26 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-194142
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 41."
+  citata_originali: |
+    Ir viešpatavo Spera daugelį metų, buvo geras savo
+    valdiniams, paskui mirė, nepalikęs įpėdinių. Valdiniai,
+    jį mylėjusieji, jo atminimui romėnų papročiu pastatė
+    stabą ir praminė jį Spera. O paskui tie žmonės, gyve­
+    nantys aplinkui, ėmė jam atnašauti aukas ir laikyti jį
+    dievu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210402

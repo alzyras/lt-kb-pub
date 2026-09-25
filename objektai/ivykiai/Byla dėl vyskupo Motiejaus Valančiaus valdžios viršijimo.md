@@ -59,12 +59,14 @@ Nenurodyta
     1867.1.19 5.
   citata_rodoma: "Po ilgesnių tyrinėjimų, po revizijos kurijos raštinėje, \nVilniaus generalgubernatoriaus A. Baranovo įsakymu \nKauno gubernatorius Obolenskis vysk. M. Valančiui iš­\nkėlė bylą už savo valdžios viršijimą, kuri buvo pradėta \n1867.1.19 5."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
 ## Teiginiai
 
 <a id="claim-t-208752"></a>
@@ -78,4 +80,3 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
   pagrindžia:
     - c-191372
-

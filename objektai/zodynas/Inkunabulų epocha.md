@@ -51,3 +51,39 @@ Inkunabulų epocha įvardijama kaip po Johano Gutenbergo išradimo (1445) vykęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207638"></a>
+- t-001
+  teiginys: "Inkunabulų epocha įvardijama kaip po Johano Gutenbergo išradimo (1445) vykęs ankstyviausias knygos leidybos etapas iki 1500 metų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190255
+
+## Citatos
+
+- id: c-190255
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 150"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 150."
+  citata_originali: |
+    Taigi XV a. Lietuva mokėsi rašyti, XV–XVI a. sandūroje priėjo prie knygų parengi-
+    mo spaudai ir dar net suspėjo į inkunabulų epochą – ja vadinama po Johano Gutenbergo
+    išradimo (1445) ankstyviausias knygos leidybos etapas (iki 1500 metų). 1499-aisiais Dan-
+    cige išspausdinta Vilniaus kapitulos kanauninko Martyno Radomiečio „Agenda“ lotynų
+    kalba.
+  citata_rodoma: "XV a. Lietuva mokėsi rašyti, XV–XVI a. sandūroje priėjo prie knygų parengi-\nmo spaudai ir dar net suspėjo į inkunabulų epochą – ja vadinama po Johano Gutenbergo \nišradimo (1445) ankstyviausias knygos leidybos etapas (iki 1500 metų). 1499-"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

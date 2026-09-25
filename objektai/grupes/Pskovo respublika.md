@@ -202,7 +202,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -224,7 +224,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-104472
@@ -253,7 +253,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-104473
@@ -277,7 +277,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-104475
@@ -296,7 +296,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188240
@@ -316,7 +316,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-188241
@@ -338,5 +338,5 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008

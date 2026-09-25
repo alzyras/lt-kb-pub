@@ -84,5 +84,5 @@ V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

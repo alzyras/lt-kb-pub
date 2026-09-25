@@ -84,7 +84,7 @@ Olafo bažnyčioje, pats mačiau medinį kotą su kažkokio audeklo gabalu, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-199645
@@ -102,5 +102,5 @@ Olafo bažnyčioje, pats mačiau medinį kotą su kažkokio audeklo gabalu, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

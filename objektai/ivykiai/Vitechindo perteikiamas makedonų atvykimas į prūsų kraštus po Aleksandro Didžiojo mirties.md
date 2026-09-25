@@ -97,6 +97,30 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-195771
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
+  citata_originali: |
+    Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
+    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
+    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
+    atvykusius į prūsų kraštus. Po jo keli kronikininkai teigė
+    tą patį, visada remdamiesi vietiniais stebėjimais, kurie
+    visada jiems patvirtindavo giminingumą su heleniškomis
+    kartomis. Kiti, paremdami savo prielaidas kalbos pana­
+    šumu, su didžiausiu pasitikėjimu įsikibo padavimų, kal­
+    bančių apie tokią kilmę. Kilęs iš Prūsijos Vilichijus, ko­
+    mentavęs Tacitą, labiausiai tikina, jog lietuviai yra kilę
+    iš graikų, nes galėjo su jais susikalbėti jų kalba4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

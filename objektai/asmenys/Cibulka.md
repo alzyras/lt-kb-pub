@@ -70,5 +70,5 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

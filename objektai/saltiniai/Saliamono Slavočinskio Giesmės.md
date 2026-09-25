@@ -55,6 +55,22 @@ Sirvydo lietuviški pamokslai, vėlesni giesmynai (Saliamono Slavočinskio „Gi
   pagrindžia:
     - c-23959
 
+<a id="claim-t-207565"></a>
+- t-207565
+  teiginys: "Saliamono Slavočinskio „Giesmės“, išleistos 1646 m., rūpinosi lietuvių kalbos kasdieniu funkcionavimu Bažnyčios ir mokyklos lygmeniu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1646 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Neaiški klasifikacija pakeista konkrečiu kūrinio vaidmeniu, nurodant išleidimo metus ir citatoje minimus vartojimo kontekstus."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190182
+
 ## Citatos
 
 - id: c-23959
@@ -74,5 +90,25 @@ Sirvydo lietuviški pamokslai, vėlesni giesmynai (Saliamono Slavočinskio „Gi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190182
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 38"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 38."
+  citata_originali: |
+    Jame, skirtame studijuojančiam jaunimui, lenkų kalbos žodžiai aiškina-
+    mi lotyniškai, o paskui lietuviškai. Tiek paties Sirvydo lietuviški pamokslai, tiek vėlesni
+    giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.) ar gramatikos (1737 m. Lietuvių
+    kalbos gramatika) rūpinosi jau tik lietuvių kalbos funkcionavimu kasdieniu – Bažnyčios ir
+    mokyklos – lygmeniu.
+  citata_rodoma: "Tiek paties Sirvydo lietuviški pamokslai, tiek vėlesni \ngiesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.) ar gramatikos (1737 m. Lietuvių \nkalbos gramatika) rūpinosi jau tik lietuvių kalbos funkcionavimu kasdieniu – Bažnyčios ir \nmokyklos – lygmeniu."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207565

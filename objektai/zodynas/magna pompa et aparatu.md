@@ -67,9 +67,10 @@ LDK atstovai į Kazimiero vestuves Krokuvoje atvyko su 1200 žirgų in magna pom
     atveju delegacija neįžengė į Trakus tyliai. Matyt, muzika, ypač trimitininkų palyda,
     buvo ypatinga Gediminaičių ir Jogailaičių valdovų ceremonialo, pompos dalis.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

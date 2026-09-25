@@ -52,6 +52,18 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   pagrindžia:
     - c-61025
 
+<a id="claim-t-225183"></a>
+- t-225183
+  teiginys: "Nameda buvo Pasdraupučio motina ir kilo iš Mantiminų giminės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205662
+
 ## Citatos
 
 - id: c-61025
@@ -71,5 +83,25 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205662
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  citata_originali: |
+    Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
+    Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai
+    užpuolė. Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
+    tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
+    gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
+    ir nukovė daugiau nei du tūkstančius priešo karių.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225183

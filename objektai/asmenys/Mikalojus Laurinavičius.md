@@ -92,5 +92,5 @@ Jo brolis Mikalojus Laurinavi­ čius ilgai buvo burmistras, o Jachnos sūnus vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

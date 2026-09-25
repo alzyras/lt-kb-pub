@@ -65,5 +65,5 @@ Perekopo chanaičiai — sultonas Biti-Girėjus ir sul tonas Burnašas — su dv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

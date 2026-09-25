@@ -80,5 +80,29 @@ Narbuto kritikuojamo autoriaus prielaidoje Saksas Gramatikas sąvoka Estiorum te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195380
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 235."
+  citata_originali: |
+    Įkarščio ir nuoširdaus noro,
+    kaip jam atrodė, pasitarnauti rusų tautai pagautas auto­
+    rius, kildindamas ją iš labai tolimos senovės, be to, ma­
+    nydamas, jog tik jis vienas išmano tolimą Siaurės istoriją,
+    iuo pat metu labai negražiai supainiojo dalykus. Anot jo,
+    senovės rusai yra šiandienos rusų protėviai; šią savo prie­
+    laidą pagrindžia tuo, kad Saksas Gramatikas** bendrine
+    sąvoka Estiorum terrae apėmęs kraštą, kur buvusi Rota-
+    la. Mūsų skaitytojams iš šio veikalo (§ 77—83) jau ži­
+    noma, ką reiškia šis pavadinimas ir kiek jis buvęs bend­
+    rinis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

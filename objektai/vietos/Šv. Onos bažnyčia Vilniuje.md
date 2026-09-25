@@ -163,7 +163,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177570
@@ -187,7 +187,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177571
@@ -210,7 +210,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177572
@@ -239,7 +239,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177573
@@ -265,7 +265,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-177574
@@ -292,5 +292,5 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

@@ -144,6 +144,18 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
   pagrindžia:
     - c-55332
 
+<a id="claim-t-218741"></a>
+- t-218741
+  teiginys: "Narbutas aprašo 1748 ir 1749 metais Vilniuje įvykusių gaisrų istoriją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198752
+
 ## Data ir vieta
 
 Įvykiai vyko Vilniuje 1513 m. vasario 21 d. ir 1530 m.
@@ -171,8 +183,30 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
     - t-004
+
+- id: c-198752
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
+  citata_originali: |
+    Rankoje turiu knygelę25, kurios autorius nurodytas antraš­
+    tėje „Į skaitytoją“, dėsto eilėmis 1748 ir 1749 metais Vilniuje
+    įvykusių gaisrų nelaimingą istoriją. Toliau jis pateikia ilgą su­
+    degusių namų sąrašą. Paskui vėl graudžios eilės. Po šito, tary­
+    tum antrojoje veikalo dalyje, vėl kreipimasis į skaitytoją, ei­
+    liuota istorija antro gaisro, prasidėjusio Gregoravičiaus (Hre-
+    horovvicz) dvarelyje. Naujas sudegusių namų sąrašas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218741

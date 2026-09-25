@@ -83,7 +83,7 @@ Henrikas iš Veidos, gavęs žmonos sutikimą, apsivilko Teutonų ordino vienuol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-205020
@@ -101,5 +101,5 @@ Henrikas iš Veidos, gavęs žmonos sutikimą, apsivilko Teutonų ordino vienuol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

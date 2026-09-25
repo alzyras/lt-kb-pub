@@ -26,25 +26,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus. Dusburgietis teigia, kad pranešimu naudojosi Dusburgietis117.
 
-## Teiginiai
-
-<a id="claim-t-60977"></a>
-- t-001
-  teiginys: "Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekste aiškiai nurodyta, kad Livonija atiteko Vokiečių ordinui, kuris kandidatų sąraše atitinka Kryžiuočių ordiną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Livonija priklausė Kryžiuočių ordinas (0.87); Kalavijuočių ordinas priklausė Kryžiuočių ordinas (0.85)"
-  pagrindžia:
-    - c-61609
-
 ## Citatos
 
 - id: c-61609
@@ -63,5 +44,3 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -81,5 +81,5 @@ Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

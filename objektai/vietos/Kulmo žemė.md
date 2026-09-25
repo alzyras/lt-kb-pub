@@ -379,6 +379,78 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   pagrindžia:
     - c-76479
 
+<a id="claim-t-220982"></a>
+- t-220982
+  teiginys: "1330 m. rudenį Lokietka, Lenkijos karalius, su savo karalystės raiteliais, samdininkais ir 8 tūkstančiais Vengrijos karaliaus atsiųstų karių užgriuvo Kulmo žemę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205421
+
+<a id="claim-t-221264"></a>
+- t-221264
+  teiginys: "Kronika pasakoja, kad tuo metu, kai vengrai siaubė Kulmo žemę, Vengrijos karalius su didele kariuomene patraukė prieš jam pavaldų karalių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206254
+
+<a id="claim-t-221874"></a>
+- t-221874
+  teiginys: "1231 m. Hermanas Balkas persikėlė į Kulmo žemę ir prie upės pastatė Torunės pilį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201833
+
+<a id="claim-t-221890"></a>
+- t-221890
+  teiginys: "Skomantas su sūduviais, rusų kariuomene ir kitais kariais devynias dienas siaubė Kulmo žemę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203292
+
+<a id="claim-t-221942"></a>
+- t-221942
+  teiginys: "Prūsų kariuomenė įsibrovė į Kulmo žemę ir ją nusiaubė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203237
+
+<a id="claim-t-224668"></a>
+- t-224668
+  teiginys: "Skomantas su sūduvių ir lietuvių kariuomene įsiveržė į Kulmo žemę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204296
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Prūsai su didele kariuomene nusiaubė Kulmo žemę ir patraukė prie Osos pakrantėje stovėjusios Belichovo pilies.'
@@ -496,7 +568,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-43534
@@ -519,7 +591,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-76478
@@ -544,7 +616,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-76479
@@ -562,7 +634,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-76480
@@ -580,7 +652,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-76482
@@ -601,7 +673,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-76484
@@ -622,7 +694,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-76485
@@ -643,7 +715,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-76486
@@ -664,7 +736,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-76487
@@ -682,7 +754,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-76488
@@ -699,7 +771,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-76489
@@ -721,7 +793,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-76490
@@ -745,7 +817,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-76491
@@ -763,7 +835,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-76492
@@ -788,7 +860,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-76493
@@ -810,7 +882,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-76494
@@ -835,7 +907,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167558
@@ -863,8 +935,156 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-201833
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 52."
+  citata_originali: |
+    Brolis Hermanas Baikas, Prūsijos magistras, trokšdamas pasitarnauti tikėjimui ir
+    pasikliaudamas minėtuoju kunigaikščiu bei savo kariuomenės narsumu, persikėlė per
+    Vyslą į Kulmo žemę ir žemiau prie upės pastatė 1231 viešpaties metais Torunės pilį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221874
+
+- id: c-202098
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  citata_originali: |
+    „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio
+    Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
+    o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą,
+    apie Sventopelko, Lietuvos ir prūsų bendrą kovą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203237
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
+  citata_originali: |
+    Neilgai trukus po to prūsų kariuomenė įsibrovė į Kulmo žemę ir ją nusiaubė, viską
+    degindama ir plėšdama, o daugybę krikščionių išžudė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221942
+
+- id: c-203292
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  citata_originali: |
+    Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
+    siaubė Kulmo žemę, plėšdamas ir degindamas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221890
+
+- id: c-204296
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 160"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 160."
+  citata_originali: |
+    Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir
+    stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224668
+
+- id: c-205077
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  citata_originali: |
+    Istoriografijoje vyrauja nuomonė, kad Dusburgietis perdeda, teigdamas, jog Kulmo žemė
+    buvusi visiškai nusiaubta, paversta dykromis, nes jam rūpėjo padidinti prūsų antpuolių
+    rezultatus, iškelti Ordino nuopelnus (HP. 1, 1, p. 427, 436; Ślaski K. Przyczyny..., p. 26—
+    27; Powierski J. Stosunki..., p. 153; to paties, Przekaz..., p. 408).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205421
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 256-257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256-257."
+  citata_originali: |
+    Tų pat metų rudenį Lokietka, Lenkijos karalius, užgriuvo Kulmo žemę604 su visais savo
+    604 D. nutyli, kad Ordino valdų puolimas buvo numatytas bendromis Lokietkos ir
+    Gedimino jėgomis susitinkant Ordino teritorijoje rugsėjo 8 d. Lietuvos kariuomenė
+    rugsėjo pradžioje pasirodė prie Bartenšteino ir kovodama žygiavo tolyn pro Lubavą,
+    palei Drevantą, pasiekė Straisbergo apylinkes, kur kryžiuočiai sutelkė jėgas, siekdami
+    atremti lietuvius. Iš čia Gediminas patraukė į pietus ir atvyko prie Dobrynės pilies, kurią
+    nesėkmingai šturmavo Lokietkos pajėgos. Čia įvyko derybos tarp Gedimino ir Lokietkos.
+
+    karalystės raiteliais, su daugybe samdininkų ir 8 tūkstančiais karių, kuriuos jam iš savo
+    žemės atsiuntė į pagalbą Vengrijos karalius, ir apgulė Šenenzės miestą bei pilį, o paskui
+    patraukė prie Lypos pilies, tačiau nė vienos jų nepaėmė, tik 10 dienų užgulė šią žemę,
+    viską grobdamas bei degindamas. Galop, pritrūkęs maisto ir sudaręs kurias ne kurias
+    sutartis, jis pasitraukė
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220982
+
+- id: c-206254
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
+  citata_originali: |
+    Tuo metu, kai vengrai siaubė Kulmo žemę, Vengrijos karalius su didžiausia kariuomene
+    patraukė prieš vieną karalių, jam pavaldų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221264
 
 ## Ryšiai
 - Puolė Kulmo žemę: [[objektai/asmenys/Linkas]], [[objektai/asmenys/Sventopelkas]]

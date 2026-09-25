@@ -236,7 +236,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -267,7 +267,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-168053
@@ -298,7 +298,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -328,7 +328,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 ## Ryšiai

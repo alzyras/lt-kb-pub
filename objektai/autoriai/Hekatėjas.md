@@ -55,6 +55,18 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
   pagrindžia:
     - c-174491
 
+<a id="claim-t-212218"></a>
+- t-212218
+  teiginys: "Gaila, kad jis neturėjo po ranka dingusių Hekatėjo 8 knygų apie hiperborėjus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196681
+
 ## Citatos
 
 - id: c-174491
@@ -76,5 +88,22 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196681
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 333"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 333."
+  citata_originali: |
+    Gaila, kad jis neturėjo
+    po ranka dingusių Hekatėjo 8 knygų apie hiperborėjus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212218

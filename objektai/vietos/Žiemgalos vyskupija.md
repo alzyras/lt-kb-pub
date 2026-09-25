@@ -80,5 +80,5 @@ Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­ pijos dalybų (1254 m.)^1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

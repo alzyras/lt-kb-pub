@@ -62,5 +62,5 @@ Zigmantas Vaza priminė vaitui, kad šis neskriaus tų miestiečių, nes šie tu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

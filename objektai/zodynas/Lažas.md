@@ -55,6 +55,18 @@ Vartojamos formos: `lažu`.
   pagrindžia:
     - c-09700
 
+<a id="claim-t-208026"></a>
+- t-208026
+  teiginys: "Nuo XVII a. vidurio iki XVIII a. antrosios pusės Lietuvoje lažas buvo keičiamas činšu dėl politinių ir demografinių krizių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190717
+
 ## Citatos
 
 - id: c-09700
@@ -74,5 +86,47 @@ Vartojamos formos: `lažu`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190717
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 348"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 348."
+  citata_originali: |
+    Tam tikrų aukštos kokybės lietuviškų linų rūšių
+    reikėjo kai kurių Vakarų Europos šalių audinio pluošto gamybai, lietuviškos miško
+    medžiagos paklausą lėmė augantys Vakarų laivininkystės pramonės poreikiai".
+    Antrasis ūkio raidos etapas (nuo XVIII a. antrosios pusės iki 1861 m.) -
+    lažinio palivarkinio ūkio maksimalus plėtimasis didinant valstiečių atodirbinę
+    rentą. Kaip ir kitose Vidurio Europos šalyse, Lietuvoje nuo XVII a. vidurio iki
+    XVIII a. antrosios pusės dėl politinių ir demografinių krizių lažas buvo keičiamas
+    činšu*".
+  citata_rodoma: "Kaip ir kitose Vidurio Europos šalyse, Lietuvoje nuo XVII a. vidurio iki \nXVIII a. antrosios pusės dėl politinių ir demografinių krizių lažas buvo keičiamas \nčinšu*\"."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208026
+
+- id: c-192730
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 330-331"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 330-331."
+  citata_originali: |
+    Kas Lietuvoj lenkiškai nekalbėjo, tas neb žmogum bebuvo, nes vergu to, kurs lenkiškai
+        kalbėjo; kaipogi lenkai, įsiveržę į Lietuvą, piktino lietuvių diduomenę savo darbais ir rėdės savo daba,
+        kaip jei Lenkuose; ir taip, kaip jei Lenkų žemėj, nebleido Lietuvoj artojui pagal lietuvių būdą namų
+        savo beparduoti ir kokį norint tinkamą sau amatą įsiimti ir verstis, bet laikė it jautį ant sieto pririštą
+        vienoj vietoj it mėšlui minti, taip ir šį vieną dirvai arti ne dėl savęs, bet dėl svetimo, ką šiandien
+        žodžiai patys rodo: pavynastis^1496 , lažas, donis yra lenkiški žodžiai, ne lietuviški.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

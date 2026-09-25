@@ -27,41 +27,6 @@ media_all_json: |-
 
 Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriukus, o pajūrio gyventojų Bangpūtį siejo su jūros putos plakimu. Jo giminės vadinosi Puciatais (Puciataj).
 
-## Teiginiai
-
-<a id="claim-t-189243"></a>
-- t-001
-  teiginys: "Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriukus, o pajūrio gyventojų Bangpūtį siejo su jūros putos plakimu."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Pajūris: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pucis Puciatai Bangpūtis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Pajūris: mention_match, place, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pucis Puciatai Bangpūtis\" parinktas kaip owner_note_path. Targetas \"Pajūris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172131
-
-<a id="claim-t-194690"></a>
-- t-002
-  teiginys: "Jo giminės vadinosi Puciatais (Puciataj)."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177087
-
 ## Citatos
 
 - id: c-172131
@@ -93,8 +58,6 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-177087
   autorius: "Teodoras Narbutas"
@@ -117,5 +80,3 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

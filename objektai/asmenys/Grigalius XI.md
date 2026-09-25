@@ -84,5 +84,5 @@ Teodoro Narbuto pasakojime Grigalius XI vaizduojamas kaip išmintingas, geras ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -64,7 +64,7 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-67384
@@ -85,5 +85,5 @@ Naujoji valstybės konstitucija (1793 m.): buvo sudaryta naujoji valstybės kons
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

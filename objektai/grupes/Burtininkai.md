@@ -29,19 +29,6 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
 
 ## Teiginiai
 
-<a id="claim-t-189450"></a>
-- t-001
-  teiginys: "Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo sukurtų giesmių giedotojus, panašius į senovės bardus ir skaldus."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172337
-
 <a id="claim-t-189451"></a>
 - t-002
   teiginys: "Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį."
@@ -92,8 +79,6 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-172338
   autorius: "Teodoras Narbutas"
@@ -115,5 +100,27 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-199930
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 297."
+  citata_originali: |
+    Namų šeimininkas, priimantis tokius sveikinimus, būti­
+    nai turi duoti ką nors dainuotojams, nes jie, sekdami senovės
+    bardų pavyzdžiu, gali visą naktį neduoti jam užmigti, gali pri­
+    mėtyti į šulinį akmenų ir ką tik bus nutvėrę.
+    Prūsijos kronikininkai, kurie prisimena, kad jų gyvenimo
+    metais dar būta burtininkų pėdsakų, priskiria jiems ateities
+    išpranašavimą liejant ištirpintą vašką į šaltą vandenį. Šitaip
+    atsirandančios vaškinės figūros ir įvairūs pavidalai teikia pro­
+    gos juokdariams pripūsti lengvatikių galvas visokių niekų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

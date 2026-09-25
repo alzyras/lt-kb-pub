@@ -66,16 +66,6 @@ Nenurodyta
   pagrindžia:
     - c-10293
 
-<a id="claim-t-08340"></a>
-- t-002
-  teiginys: "Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė."
-  atnaujinta: "2026-05-30 12:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10294
-
 <a id="claim-t-08341"></a>
 - t-003
   teiginys: "Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis."
@@ -115,7 +105,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-10294
@@ -138,8 +128,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-10295
   autorius: "Simonas Daukantas"
@@ -160,5 +148,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

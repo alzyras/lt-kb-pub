@@ -50,6 +50,18 @@ Nenurodyta
   pagrindžia:
     - c-192485
 
+<a id="claim-t-225908"></a>
+- t-225908
+  teiginys: "Didysis altorius buvo pastatytas presbiterijoje ir atskyrė centrinę erdvę nuo vienuolių choro."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  pagrindžia:
+    - c-206424
+
 ## Santrauka
 
 Seminarijos bažnyčios didysis altorius buvo pavirtęs ant šono.
@@ -72,5 +84,17 @@ Seminarijos bažnyčios didysis altorius buvo pavirtęs ant šono.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206424
+  autorius: "Dalia Klajumienė"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Palėvenės sakralinio ansamblio architektūra ir dailės paminklai"
+  puslapiai: "p. 223 (PDF 224)"
+  indeksas: "Dalia Klajumienė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Palėvenės sakralinio ansamblio architektūra ir dailės paminklai, p. 223 (PDF 224)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225908

@@ -63,18 +63,6 @@ Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius buvo Vytauto žentas ir
   pagrindžia:
     - c-193498
 
-<a id="claim-t-211980"></a>
-- t-211980
-  teiginys: "Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius buvo Vytauto žentas ir jo vasalas."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193036
-
 ## Citatos
 
 - id: c-193036
@@ -93,8 +81,6 @@ Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius buvo Vytauto žentas ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211980
 
 - id: c-193498
   autorius: "Anoniminis metraštininkas"
@@ -168,4 +154,3 @@ Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius buvo Vytauto žentas ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-

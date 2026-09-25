@@ -77,5 +77,5 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

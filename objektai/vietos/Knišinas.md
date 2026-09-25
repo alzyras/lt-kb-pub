@@ -121,7 +121,7 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82000
@@ -142,7 +142,7 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82001
@@ -173,7 +173,7 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 ## Ryšiai

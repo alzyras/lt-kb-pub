@@ -90,5 +90,5 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

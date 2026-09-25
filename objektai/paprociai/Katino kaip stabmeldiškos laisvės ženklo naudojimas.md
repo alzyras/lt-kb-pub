@@ -117,5 +117,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199812
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 128"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 128."
+  citata_originali: |
+    Iš to matyti, kad lietuvių tauta, nepakęsdama savo laisvių
+    suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
+    dodavo laisvės deivės simboliu. Šitoks simbolio panaudojimas
+    buvo visuotinai paplitęs Antikos tautose. Tokią pat reikšmę
+    katinas turėjo romėnams, jis simbolizavo pilietinę laisve, kito­
+    kią, negu suteikiama vergams ir karo belaisviams, kurios žen­
+    klas buvo kepurė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

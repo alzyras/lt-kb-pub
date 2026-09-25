@@ -254,6 +254,44 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   pagrindžia:
     - c-179046
 
+<a id="claim-t-221496"></a>
+- t-221496
+  teiginys: "Gundramo išvaduotos moterys sakė mačiusios du baltus balandžius virš jo palaikų, gabenamų į Kristburgo pilį."
+  atnaujinta: "2026-09-19 14:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristburgas\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-223787"></a>
+- t-223787
+  teiginys: "Pamedėnų pilis buvo slapta užimta per Viešpaties gimimo išvakares ir pavadinta Kristburgu."
+  atnaujinta: "2026-09-19 14:59"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201696
+
+<a id="claim-t-225163"></a>
+- t-225163
+  teiginys: "Mūšis įvyko, atrodo, prie Kristburgo, dab."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202288
+
 ## Reikšmingi paminėjimai
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -300,7 +338,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-008
 
@@ -322,7 +360,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-86500
@@ -343,7 +381,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-86504
@@ -367,7 +405,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-011
 
@@ -391,7 +429,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-007
 
@@ -417,7 +455,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-86508
@@ -440,7 +478,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-167553
@@ -461,7 +499,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-179046
@@ -481,8 +519,132 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
+
+- id: c-201696
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
+  citata_originali: |
+    Apie vienos pilies užkariavimą ir apie Kristburgo pilį
+    Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
+    yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
+    rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
+    ir maldininkus, patraukė į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
+    ilsintis, priartėjo prie pamedėnų pilies, stovėjusios tada toje vietoje, kuri dabar
+    vadinama Senuoju Kristburgu, slapta įsibrovė į pilį, pristatęs prie sienų kopėčias, ir
+    ją užėmė nukovęs ar išsivaręs į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
+    daug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji
+    pavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties
+    pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223787
+
+- id: c-201906
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 100"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 100."
+  citata_originali: |
+    Todėl, sukvietę daugybę maldininkų, kurie, pastoviai raginami į kryžiaus karą,
+    nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko į Pamedės žemę pasiėmę
+    visa, kas reikalinga pilims statyti. Pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir
+    šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo,
+    kas reikalinga pilims ginti, ir palikę joje daug karių. Šiek tiek vėliau, bėgant dienoms ir
+    mėnesiams, apie pilį pradėjo kurti miestą305, į kurį suplaukė gyventi daugybė tikinčiųjų,
+    pasiryžusių už krikščionių tikėjimą kasdien aukoti be baimės savo gyvybę ir savo turtą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202288
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
+  citata_originali: |
+    Mūšis įvyko, atrodo, prie Kristburgo,
+    dab. Dzežgonis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225163
+
+- id: c-203602
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
+  citata_originali: |
+    Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
+    Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be
+    didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų. Visa tai plukdydami
+    Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris
+    kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių,
+    jei nebūtų spėjęs ateiti su pagalba vienas Pamedės kilmingasis, vardu Samilis426, Tusino
+    tėvas, gyvenęs tarp priešų, bet slaptai gerbęs tikėjimą ir brolius. Šitai sužinoję, prūsai
+    įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies,
+    tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
+    ten jis, ilgesnį laiką pasirgęs, galop pagijo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204724
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
+  citata_originali: |
+    Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
+    Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į
+    priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas
+    ten dedasi; kai jis sugrįžęs pasakė, kad niekas ten nieko nežino apie jų žygį, jie apiplėšė
+    daug kaimų, paimdami į nelaisvę ir nukaudami daugybę krikščionių. Traukdami atgal, jie
+    pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė
+    iš jų 50 krikščionių. Kitas netikėlių būrys paspruko.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205775
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
+  citata_originali: |
+    Todėl susibūrę prūsai pasiuntė didelę kariuomenę ir daugybę
+    ginklanešių, turėjusių saugoti vežimus bei ketverinius kinkinius, gabenančius maistą ir
+    ginklus. Šiuos visus užpuolė broliai ir kovoje išžudė, o vežimus bei ketverinius kinkinius
+    nusivarė į pilį. Sugėdinti prūsai sugrįžo namo. Sventopelkas su savo kariuomene priėjo
+    Santyro pilį ir ten įsirengė stovyklą, pasiųsdamas į priekį daug karių bei ginklanešių,
+    kurie turėjo ištirti, ar Kristburgo pilis yra apsupta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

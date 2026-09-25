@@ -33,49 +33,6 @@ media_all_json: |-
 
 Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos. Karaliui Augustui slepiant Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, pasklido gandai apie jo perėjimą į liuteronų atskalą.
 
-## Teiginiai
-
-<a id="claim-t-185347"></a>
-- t-001
-  teiginys: "Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Husitai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "atskala: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Husitai: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskala\" parinktas kaip owner_note_path. Targetas \"Husitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1424 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia faktą apie popiežiaus laišką ir husitų atskalą."
-  pagrindžia:
-    - c-168708
-
-<a id="claim-t-185348"></a>
-- t-002
-  teiginys: "Karaliui Augustui slepiant Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, pasklido gandai apie jo perėjimą į liuteronų atskalą."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "atskala: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=122"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskala\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168709
-
 ## Citatos
 
 - id: c-168708
@@ -114,8 +71,6 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-168709
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -148,5 +103,3 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

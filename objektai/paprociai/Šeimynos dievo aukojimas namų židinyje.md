@@ -86,7 +86,7 @@ Kaip auką jiems krosnyje degindavo gyvas vištas, nes norėdavo jų išpra šyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-199990
@@ -107,5 +107,5 @@ Kaip auką jiems krosnyje degindavo gyvas vištas, nes norėdavo jų išpra šyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

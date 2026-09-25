@@ -89,7 +89,7 @@ Bajorų juridiniai veiksmai ir finansinės operacijos būdavo užfiksuojami pili
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186702
@@ -109,5 +109,5 @@ Bajorų juridiniai veiksmai ir finansinės operacijos būdavo užfiksuojami pili
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

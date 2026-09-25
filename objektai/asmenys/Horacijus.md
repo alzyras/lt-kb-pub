@@ -89,5 +89,5 @@ Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

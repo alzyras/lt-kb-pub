@@ -421,6 +421,54 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindžia:
     - c-75680
 
+<a id="claim-t-221805"></a>
+- t-221805
+  teiginys: "1273 metais notangai pasidavė tikėjimui ir broliams."
+  atnaujinta: "2026-09-19 08:15"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203064
+
+<a id="claim-t-222267"></a>
+- t-222267
+  teiginys: "1261 m. sausio 22 d. notangai Pokarviuose užpuolė likusią krikščionių kariuomenės dalį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204008
+
+<a id="claim-t-225026"></a>
+- t-225026
+  teiginys: "Notangų vadas Herkus Mantas subūrė kariuomenę ir puolė Karaliaučiaus pilį."
+  atnaujinta: "2026-09-19 08:15"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203570
+
+<a id="claim-t-225671"></a>
+- t-225671
+  teiginys: "Notangos prūsai buvo nusilpninti, priversti duoti įkaitų ir pasidavė tikėjimui bei broliams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202678
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Prūsams vėl atkritus nuo tikėjimo, notangai savo kariuomenės vadu ir vyresniuoju išsirinko Herkų Mantą.'
@@ -481,7 +529,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-75675
@@ -505,7 +553,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-75676
@@ -529,7 +577,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-75677
@@ -559,7 +607,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-009
 
@@ -581,7 +629,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-75680
@@ -606,7 +654,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-75681
@@ -627,7 +675,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-75683
@@ -645,7 +693,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-75684
@@ -663,7 +711,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-75685
@@ -684,7 +732,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
     - t-020
 
@@ -702,7 +750,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-75687
@@ -724,7 +772,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-017
 
@@ -747,7 +795,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-018
 
@@ -775,7 +823,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-021
 
@@ -801,7 +849,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-75695
@@ -823,7 +871,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-75696
@@ -842,8 +890,274 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-201766
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  citata_originali: |
+    Įvyko šitaip todėl, kad pats Kristus,
+    kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams
+    širdis, tad į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais
+    ir Merzeburgo vyskupas310 bei grafas Henrikas iš Svarcburgo kitais metais su daugybe
+    karių, o šių paskiri būriai niokodami žygiavo per minėtųjų atsimetėlių žemes, degindami ir
+    grobstydami, žudydami ir imdami į nelaisvę, kol šie taip buvo nukamuoti, kad nebegalėjo
+    nė atsikvėpti. Nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską
+    patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir
+    teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė. Tuo pat metu ir dėl
+    tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
+    307  Henrikas Botelis Prūsijoje (Elbinge) žinomas nuo 1246 m., žuvo 1260 m.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201804
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
+  citata_originali: |
+    175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
+    1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
+    varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus,
+    kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
+    paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
+    ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
+    Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
+    bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
+    visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
+    tarnauti gyvajam dievui Jėzui Kristui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202678
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
+  citata_originali: |
+    Varmės, Notangos ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
+    nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
+    tikėjimui ir broliams254. Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
+    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
+    Kaustra, pastatė Kroicburgo pilį255
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225671
+
+- id: c-202680
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
+  citata_originali: |
+    Po šių skerdynių
+    notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų
+    akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir
+    turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė Herkų Mantą
+    prisiminti patirtas Magdeburgo mieste geradarystes ir išgelbėti jį nuo šitokios nelaimės.
+    Šitai išgirdęs, Herkus, jį užjausdamas, du kartus jį išgelbėjo. Tačiau kai ir trečią kartą
+    burtai jam krito, pats atsižadėjo noro išsigelbėti ir iš pagarbos tikėjimui laisva valia
+    pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367. Gerai įsidėmėk, kad ir
+    tas pats Herkus, ir daugybė kitų vėliau, priesaika patvirtindami savo žodžius, tikino, jog
+    tuo metu, kai tas ant arklio sudegintas miestietis išleido paskutinį atodūsį, jie išvydo jam
+    iš burnos išskrendant baltų balčiausią balandį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203033
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 192-193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192-193."
+  citata_originali: |
+    Kitą
+    552   D — castri Molendini novi, Jer.— Nûwenmul, Nûwemul; vėliau vok. Neuermūhlen,
+    dab. Adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).
+
+    dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir
+    plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203064
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
+  citata_originali: |
+    Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
+    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
+    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
+    137 (132).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221805
+
+- id: c-203417
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
+  citata_originali: |
+    Šiuo vardu iš pradžių, manoma,
+    vadinta tik Pagudė ir, matyt, Pamedė, o pats vardas atsirado ne anksčiau kaip IX—X a.
+    Galvojama, kad etninis vardas Prūsai galėjo egzistuoti jau Romos imperijos laikais (K.
+    Ptolemėjo Boruskus). Iš pradžių jis buvo siejamas tik su notangais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203570
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 121"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
+  citata_originali: |
+    Apie Karaliaučiaus pilies užpuolimą
+    Neilgai trukus po to notangų vadas Herkus Mantas subūrė didelę kariuomenę ir
+    atžygiavo į Karaliaučiaus lauką, ketindamas pulti pilį. Susidūrę su juo, broliai su savo
+    ginklanešiais narsiai pasipriešino. Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį
+    Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat
+    pasiųsiu tave į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda
+    vėliau ir užgijo.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225026
+
+- id: c-203730
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 59"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 59."
+  citata_originali: |
+    195 D.— Nattangia, Jer.— Natangin. Teritorija  į rytus nuo Varmės, šiaurėje siekė
+    Priegliaus pakrantes, o rytuose — Alnos upę  (į pietryčius nuo dab. Kaliningrado —
+    imtinai su Bagrationovsku. Pietuose maždaug iki dab. Bartošicės).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204008
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
+  citata_originali: |
+    notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės
+    siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222267
+
+- id: c-204611
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 133"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
+  citata_originali: |
+    Apie Herkaus Manto, notangų vado, žūtį
+    Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė
+    jokios baimės. Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
+    dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
+    kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas
+    sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo
+    komtūras, ir brolis Helvigas iš Goldbacho su keliais ginklanešiais; išvydę Herkų, jie labai
+    nudžiugo ir, nutempę jį prie medžio, pakorė, o pakartą pervėrė kalaviju411.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204712
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 212-213"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212-213."
+  citata_originali: |
+    Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
+                                    kariuomenę
+
+      1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir
+    Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus,
+    atūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,
+    jog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau
+    nei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką. Todėl, vargais
+    negalais sugaudę arklius, tiesa, ne visus, brolių kariuomenė patraukė atgal. Neilgai
+    trukus jie gavo patikimą žinią, kad daugybė kovai pasirengusių netikėlių tris dienas
+    tykojo brolių bei jų kariuomenės; jeigu krikščionys būtų įsibrovę  į jų žemę grobio, nė
+
+    vienas nebūtų išnešęs sveikos galvos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205618
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
+  citata_originali: |
+    Po šių skerdynių
+    notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų
+    akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir
+    turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė Herkų Mantą
+    prisiminti patirtas Magdeburgo mieste geradarystes ir išgelbėti jį nuo šitokios nelaimės.
+    Šitai išgirdęs, Herkus, jį užjausdamas, du kartus jį išgelbėjo. Tačiau kai ir trečią kartą
+    burtai jam krito, pats atsižadėjo noro išsigelbėti ir iš pagarbos tikėjimui laisva valia
+    pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Pobravas]]

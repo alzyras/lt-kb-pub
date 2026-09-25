@@ -55,5 +55,5 @@ Gaila, kad jis neturėjo po ranka dingusių Hekatėjo 8 knygų apie hiperborėju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

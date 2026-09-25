@@ -77,7 +77,7 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179014
@@ -95,5 +95,22 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-203176
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 258"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 258."
+  citata_originali: |
+    Štai tavo brolio kraujas nuo žemės šaukiasi dievo. Ar kas kada girdėjo apie
+    tokią baisybę, tu padarei tokią piktadarystę, kurios nėra buvę nuo pat Ordino įsikūrimo
+    pradžios. Tu nė trupučio nepagalvojai, ką reiškia tavo vardas, nes Jonas reiškia tą,
+    kuriam suteikta malonė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

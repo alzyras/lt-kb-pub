@@ -68,6 +68,18 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
   pagrindžia:
     - c-179311
 
+<a id="claim-t-214650"></a>
+- t-214650
+  teiginys: "Narbutui, kad „mus taip skubotai neperdarytų į graikus, kaip gerbiama sis Foigtas (be viso kito, dar ir istorikas) mus sugiminiavo su vokiečiais“2."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197410
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas IV priede rėmėsi Foigto surinktomis žiniomis apie senovės Prūsijos geografiją, statistiką ir provincijų istoriją.'
@@ -130,7 +142,7 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179311
@@ -152,5 +164,46 @@ Narbutas III priede pateikė ištrauką iš Foigto apie dingusį Vitiemdijos kra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195853
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Iš dalies
+    tai buvo pono Foigto studijos apie senovės Sambijos vi-
+    tingus (Geschichte der Eidechsen Gesellschaft in Preus-
+    sen. S. 206—208) teiginiai; tačiau ten nepakako vietos
+    viską plačiai išdėstyti, ir tik vienas dokumentas su pra­
+    dingusios žemės dydžio aprašymu sudarė svarbiausio
+    įrodymo pagrindą. Čia plačiau panagrinėsime tuos tei­
+    ginius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197410
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 448"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 448."
+  citata_originali: |
+    Ir vis dėlto su
+    neslepiama ironija recenzentas linkėjo T. Narbutui, kad
+    „mus taip skubotai neperdarytų į graikus, kaip gerbiama­
+    sis Foigtas (be viso kito, dar ir istorikas) mus sugiminia-
+    vo su vokiečiais“2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214650

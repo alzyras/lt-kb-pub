@@ -79,5 +79,25 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199572
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 506"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 506."
+  citata_originali: |
+    T. Nar­
+    butas turėjo omenyje straipsnį: Krotki spis
+    niektorych starožytnych zabytkow, znajdujących się
+    w zbiorze obywatela prowincyi Zmudzkiej Dioni-
+    zego Paszkiewicza pisarza ziem. ptu Rosienskiego,
+    przez Kajetana Niezabitowskiego H Dziennik Wi-
+    lenski. - 1823. - T. II. - S. 157-161.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

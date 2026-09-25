@@ -84,7 +84,7 @@ Tikrojoje Lietuvoje vietos, į kurias dėdavo sudegintų žmonių pelenus, buvo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-199679
@@ -106,5 +106,5 @@ Tikrojoje Lietuvoje vietos, į kurias dėdavo sudegintų žmonių pelenus, buvo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

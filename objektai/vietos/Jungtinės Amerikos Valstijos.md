@@ -102,6 +102,18 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   pagrindžia:
     - c-73943
 
+<a id="claim-t-209617"></a>
+- t-209617
+  teiginys: "Valstijos turi savo pasiuntinius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192237
+
 ## Citatos
 
 - id: c-73943
@@ -124,7 +136,7 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-73944
@@ -142,7 +154,7 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-73947
@@ -163,5 +175,25 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-192237
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 22"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 22."
+  citata_originali: |
+    Danija, Šveica­
+    rija,
+    Holandija,
+    Švedija,
+    Norvegija ir Suv.
+    A. Valstijos turi savo pasiuntinius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209617

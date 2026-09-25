@@ -34,29 +34,6 @@ canonical_biography: "Narbutas pasakoja, kad Danijos karalius Hadingas per jūro
 
 Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs daug laivų, maldavo dievo Fra malonės juodosiomis aukomis.
 
-## Teiginiai
-
-<a id="claim-t-190155"></a>
-- t-001
-  teiginys: "Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs daug laivų, maldavo dievo Fra malonės juodosiomis aukomis."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_valdovas -> Danija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hadingas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Danija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Hadingas citatoje tiesiogiai įvardytas Danijos karaliumi."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Hadingas buvo valdovas Danija (0.90)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-173038
-
 ## Citatos
 
 - id: c-173038
@@ -77,8 +54,6 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Ryšiai
 - Hadingas buvo valdovas [[objektai/vietos/Danija]]

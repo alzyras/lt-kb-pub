@@ -224,7 +224,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-163238
@@ -244,7 +244,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-163239
@@ -267,7 +267,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-163240
@@ -288,7 +288,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-163241
@@ -315,7 +315,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-163242
@@ -334,7 +334,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-163243
@@ -355,7 +355,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-163244
@@ -378,7 +378,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-163245
@@ -401,6 +401,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-009

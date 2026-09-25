@@ -86,5 +86,5 @@ Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje ist
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

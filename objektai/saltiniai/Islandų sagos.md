@@ -26,21 +26,6 @@ media_all_json: |-
 
 Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves.
 
-## Teiginiai
-
-<a id="claim-t-194854"></a>
-- t-001
-  teiginys: "Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177250
-
 ## Citatos
 
 - id: c-177250
@@ -61,5 +46,3 @@ Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

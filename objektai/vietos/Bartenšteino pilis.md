@@ -76,7 +76,7 @@ Sūduviai apsiautė ir sugriovė Bartenšteino pilį, kurioje buvo įsikūrę ba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-205459
@@ -95,5 +95,5 @@ Sūduviai apsiautė ir sugriovė Bartenšteino pilį, kurioje buvo įsikūrę ba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

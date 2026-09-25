@@ -195,6 +195,22 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   pagrindžia:
     - c-21709
 
+<a id="claim-t-101647"></a>
+- t-101647
+  teiginys: "J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant išrauti bet kokį tautiškumą."
+  atnaujinta: "2026-09-19 21:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Stalinas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Stalinas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-21707
+
 ## Citatos
 
 - id: c-21705
@@ -217,7 +233,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-21706
@@ -239,7 +255,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-21707
@@ -265,6 +281,9 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-101647
+
 - id: c-21708
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -283,7 +302,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-21709
@@ -304,7 +323,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
     - t-008
@@ -327,6 +346,6 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003

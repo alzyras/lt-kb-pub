@@ -89,5 +89,5 @@ Taip pat užpultas Antano Jančio-Žaibo bunkeris Šimonių girioje prie Iženos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

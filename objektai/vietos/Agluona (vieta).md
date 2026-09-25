@@ -89,7 +89,7 @@ Pagal XVI a. tradiciją Mindaugas buvo nužudytas Agluonoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-199227
@@ -109,5 +109,5 @@ Pagal XVI a. tradiciją Mindaugas buvo nužudytas Agluonoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

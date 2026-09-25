@@ -115,7 +115,7 @@ Nors Gotfrido brolis Edesos grafas Balduinas buvo pripažintas karaliumi, tačia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188036
@@ -136,5 +136,5 @@ Nors Gotfrido brolis Edesos grafas Balduinas buvo pripažintas karaliumi, tačia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

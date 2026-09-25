@@ -78,5 +78,23 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204184
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
+  citata_originali: |
+    Sitai ir buvo ženklas bei požymis,
+    rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas
+    užtruko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl busimojo popiežiaus
+    išrinkimo. Pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus
+    Cezaris, o po jo mirties suskilo senatas (Ptol. n 1241).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

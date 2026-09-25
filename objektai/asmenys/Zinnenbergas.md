@@ -84,5 +84,5 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

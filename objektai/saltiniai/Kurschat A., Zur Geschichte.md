@@ -60,5 +60,21 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202184
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
+  citata_originali: |
+    Anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kitų vėlesnių
+    apskričių lietuviai buvo nusiaubto krašto senųjų gyventojų palikuonys (Kurschat A., Zur
+    Geschichte..., p. 497—498).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

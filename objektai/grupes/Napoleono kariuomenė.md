@@ -95,7 +95,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-47009
@@ -113,7 +113,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166314
@@ -133,7 +133,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

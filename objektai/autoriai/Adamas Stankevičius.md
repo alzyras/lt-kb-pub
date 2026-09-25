@@ -64,3 +64,42 @@ Iš Adamo Stankevičiaus tyrimų žinomas Lietuvos Vyriausiojo Tribunolo regenta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208338"></a>
+- t-001
+  teiginys: "Iš Adamo Stankevičiaus tyrimų žinomas Lietuvos Vyriausiojo Tribunolo regentas Ignotas Midletonas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190955
+
+## Citatos
+
+- id: c-190955
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 265"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 265."
+  citata_originali: |
+    2-73
+    mone, karjeros laiptais kilo dėl puikių karinių sugebėjimų20. Kiti Lietuvoje šaknis
+    įleidę Midletonai istoriografijoje plačiau nebuvo aptarti. Iš Adamo Stankevičiaus
+    tyrimų žinome apie Lietuvos Vyriausiojo Tribunolo regentą Ignotą Midletoną,
+    šioms pareigoms įdarbintą net iz kartų ir dirbusį aukščiausios Lietuvos teismo
+    institucijos raštinėje nuo 1777 m. iki 1783 m.21
+    Radvilų archyve išlikusi korespondencija rodo, kad X V III a. 4-ajame
+    dešimtmetyje ir amžiaus viduryje Midletonai buvo Radvilų giminės klientai, pa­
+    laipsniui įsitraukę į Vilniaus ir Trakų vaivadijų viešąjį gyvenimą.
+  citata_rodoma: "Iš Adamo Stankevičiaus \ntyrimų žinome apie Lietuvos Vyriausiojo Tribunolo regentą Ignotą Midletoną, \nšioms pareigoms įdarbintą net iz kartų ir dirbusį aukščiausios Lietuvos teismo \ninstitucijos raštinėje nuo 1777 m. iki 1783 m.21"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

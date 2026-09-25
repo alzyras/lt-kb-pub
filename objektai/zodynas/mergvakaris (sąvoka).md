@@ -62,5 +62,5 @@ Mergvakario metu nuotaka tariamai rauda ir verkia, o susirenka merginos bei namÅ
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindÅ¾ia:
     - t-001

@@ -188,7 +188,7 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-177563
@@ -212,7 +212,7 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-177564
@@ -237,7 +237,7 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177565
@@ -266,7 +266,7 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177566
@@ -287,7 +287,7 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177567
@@ -317,7 +317,7 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177568
@@ -344,7 +344,7 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184134
@@ -362,9 +362,10 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
     tobuliausiai halės tipas yra įsikūnijęs XVI amžiuje, būtent Bernardinų
     bažnyčioje, kurią tuojau pat išnagrinėsime.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008

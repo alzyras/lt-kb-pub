@@ -126,7 +126,7 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-82430
@@ -155,7 +155,7 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82431
@@ -182,7 +182,7 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176820
@@ -221,5 +221,5 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

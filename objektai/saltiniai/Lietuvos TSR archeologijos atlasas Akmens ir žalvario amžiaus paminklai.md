@@ -81,5 +81,5 @@ Lietuvos TSR archeologijos atlasas, I : Akmens ir žalva­ rio amžiaus paminkla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -67,5 +67,5 @@ O jeigu koks žirgas pas žydą pasirodytų vogtas ir pas kokį krikš­ čionį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -95,7 +95,7 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-65433
@@ -114,5 +114,41 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203745
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
+  citata_originali: |
+    M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
+    Pirmoji.., p. 251, 257). Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
+    Ambraziejaus”). Manoma, kad vardas atėjęs iš Lietuvos (Salys A., Skalva, p. 537), bet
+    Semboje buvusi Ragayne (GAO, p. 137, plg. taip pat Ragow — ten pat), Rogayne (1312
+    m.—SU, 1, Nr. 215, p. 128), Rogayn, Rogow (ten pat, p. 143), Reginge (GAO, p. 140).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204694
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 155."
+  citata_originali: |
+    asmenvardžio Ramego
+    (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie. Ramingė, pr. Ramgesalus,
+    lie. Ramis, Ramė (Vanagas A., Lietuvių hidronimų..., p. 272; GAO, p. 138). D. paminėta
+    pilis — greičiausiai Rambynas, kalnas deš. Nemuno krante (Vilkyškių k. Šilutės rj.)
+    žemiau Ragainės, pagoniška šventovėpilis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

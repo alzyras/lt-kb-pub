@@ -90,7 +90,7 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167154
@@ -108,5 +108,5 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -80,5 +80,28 @@ Narbutas rašo, kad Albertas Krantcas neneigė prie Upsalos augusio medžio nuol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197790
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
+  citata_originali: |
+    Tą ypatybę kronikininkai priskiria velnio galy­
+    bei, manydami, kad velniai buvo garbinami toje šventykloje
+    šalies dievų pavidalu.
+    Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo­
+    lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas* 11,
+    nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu­
+    ria, jog jo rūšies niekas negalėjęs nustatyti. Taigi tai turėjo bū­
+    ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai,
+    dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji
+    medžiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

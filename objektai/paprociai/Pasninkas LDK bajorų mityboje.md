@@ -88,5 +88,5 @@ XVI a. LDK bajorams žvejai tiekdavo dvaro ežeruose, upėse ir tvenkiniuose su�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

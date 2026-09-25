@@ -69,5 +69,5 @@ Ih pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -83,5 +83,5 @@ Priešo pajėgos 1949 m. lapkričio 1-2 dienomis MGB vidaus kariuomenės 137-0jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

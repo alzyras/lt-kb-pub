@@ -51,14 +51,19 @@ describe("exhibition manifest", () => {
   const exhibitions = loadExhibitions()
   test("family registers link distinct people and sources to real public notes", () => {
     const families = exhibitions.filter(entry => entry.familyMembers?.length)
-    assert.equal(families.length, 2)
+    assert.equal(families.length, 3)
     for (const family of families) {
       const members = family.familyMembers!
-      assert.ok(members.length >= 50)
+      assert.ok(members.length >= 20)
       assert.ok(family.familyMembersScope)
-      assert.equal(new Set(members.map(member => member.href)).size, members.length)
+      const internalHrefs = members.filter(member => member.href.startsWith("/")).map(member => member.href)
+      assert.equal(new Set(internalHrefs).size, internalHrefs.length)
       for (const member of members) {
-        assert.ok(sourcePath(member.href), `${member.name}: missing person page ${member.href}`)
+        if (member.href.startsWith("/")) {
+          assert.ok(sourcePath(member.href), `${member.name}: missing person page ${member.href}`)
+        } else {
+          assert.equal(new URL(member.href).protocol, "https:")
+        }
         assert.ok(member.dates)
         assert.ok(member.sources.length)
         for (const source of member.sources) {

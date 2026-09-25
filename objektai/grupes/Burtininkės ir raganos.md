@@ -71,5 +71,27 @@ Narbutas, remdamasis Čackiu, teigė, kad XVI amžiuje daugiausia raganų būdav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198563
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 302"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 302."
+  citata_originali: |
+    O XVI amžiuje, kaip moksliškai
+    įrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­
+    giausia raganų būdavo randama Lietuvoje. Tačiau senieji liau­
+    dies padavimai tas senes paprastai kildina iš Lietuvos Rusios,
+    o vietinių nepripažįsta, jog šitiek daug moka. Raganos ir šian­
+    dien daro pasalas savo nekenčiamoms javų pjovėjoms, suriš-
+    damos prie šaknų saują rugių arba kviečių; ta pjovėja, kuri
+    neapdairiai nupjaus tą surišimą, vadinamą lėle (Kukta), būti­
+    nai susižeis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -109,5 +109,30 @@ Teodoras Narbutas Biufono sistemai priskyrė požiūrį, kad organinis pasaulis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197254
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 405"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 405."
+  citata_originali: |
+    - T. Narbutas turėjo omenyje Jurgį de Biufoną
+    (de Buffon; 1707—1788), prancūzų gamtinin­
+    ką, Paryžiaus botanikos sodo direktorių. Pa­
+    grindinis jo veikalas „Gamtos istorija“ (1749—
+    1788, 36 tomai), kuriame jis teigė, jog egzis­
+    tuoja augalijos ir gyvūnijos vienovė, kad rū­
+    šys, aplinkos sąlygų veikiamos, kinta. Be to,
+    mokslininkas susistemino savo sukauptą geo­
+    logijos medžiagą, nagrinėjo Žemės rutulio ir
+    jo paviršiaus raidą, iškėlė hipotezę, pagal ku­
+    rią Žemės rutulys susiformavo kaip saulės at­
+    plaiša.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

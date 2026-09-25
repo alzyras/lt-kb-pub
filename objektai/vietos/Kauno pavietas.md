@@ -128,6 +128,30 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
   pagrindžia:
     - c-185960
 
+<a id="claim-t-208245"></a>
+- t-208245
+  teiginys: "A. Midletono karjera siejama su Kauno pavietu, kur jis ėjo pilies teismo raštininko ir paseniūnio pareigas."
+  atnaujinta: "2026-09-20 03:06"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190952
+
+<a id="claim-t-208290"></a>
+- t-208290
+  teiginys: "Nuteistajam buvo uždrausta grįžti į Kauno pavietą."
+  atnaujinta: "2026-09-20 03:06"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-191007
+
 ## Citatos
 
 - id: c-185041
@@ -142,7 +166,7 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185042
@@ -160,7 +184,7 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185043
@@ -177,7 +201,7 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-185044
@@ -195,7 +219,7 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-185960
@@ -205,6 +229,52 @@ Kauno pavieto ribos nėra nustatytos, jas galima nusakyti tik apytikriai. 1631 m
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 21:24"
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-190952
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 282"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 282."
+  citata_originali: |
+    Laidotuvių išlaidas apmokėjo
+    Stanislovas Augustas99.
+    Išvados
+    Skotų kilmės Lietuvos Didžiosios Kunigaikštystės bajoras A. Midletonas buvo
+    karaliaus Stanislovo Augusto dvaro grupuotės žmogus. Jo karjerą nuo Kauno
+    pavieto pilies teismo raštininko, Lietuvos Vyriausiojo Tribunolo deputato, Kauno
+    paseniūnio iki pasiuntinybės Hagoje sekretoriaus, vėliau - rezidento lėmė priklau­
+    symas dvaro grupuotei ir aktyvi Antano Tyzenhauzo, vėliau - Karolio Prozoro ir
+    Pranciškaus Bukotos parama.
+  citata_rodoma: "Skotų kilmės Lietuvos Didžiosios Kunigaikštystės bajoras A. Midletonas buvo \nkaraliaus Stanislovo Augusto dvaro grupuotės žmogus. Jo karjerą nuo Kauno \npavieto pilies teismo raštininko, Lietuvos Vyriausiojo Tribunolo deputato, Kauno \npaseniūnio iki pasiuntinybės Hagoje sekretoriaus, vėliau - rezidento lėmė priklau­\nsymas dvaro grupuotei ir aktyvi Antano Tyzenhauzo, vėliau - Karolio Prozoro ir \nPranciškaus Bukotos parama."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208245
+
+- id: c-191007
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 217"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 217."
+  citata_originali: |
+    Vis dėlto išvarymo bausmė buvo geriau
+    žinoma miesto teisėje: kai kuriuose Lenkijos miestuose ji taikyta gana dažnai kaip
+    papildoma bausmė, dažniausiai už svetimoteriavimą, klastojimą, o ypač už vagystes102.
+    Kauno pilies teisme analizuojamu metu ji buvo skirta vos kelis kartus, visais atvejais
+    vagims. 1788 m. kovo 6 d. sprendimu minėtos bajorų vagių gaujos nariui P. Visockiui
+    buvo skirta trejų metų kalėjimo Podolės Kamenece bausmė, kurią adikus jam buvo
+    uždrausta grįžti ne tik į Kauno pavietą, bet ir apskritai į Lietuvos Didžiąją Kunigaikš­
+    tystę103 *.
+  citata_rodoma: "buvo \nuždrausta grįžti ne tik į Kauno pavietą, bet ir apskritai į Lietuvos Didžiąją Kunigaikš­\ntystę103 *."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208290

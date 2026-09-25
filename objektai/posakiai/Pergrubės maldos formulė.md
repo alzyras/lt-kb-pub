@@ -62,5 +62,5 @@ Ten viršaitis ar ba atnašautojas, stovėdamas prieš ryką su alumi, padėtą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

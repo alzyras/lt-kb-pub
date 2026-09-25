@@ -122,11 +122,12 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     „Visus ginkluotus vyrus surinko AT rūmų fojė, suskirstė penketu-
     kais. Man priskyrė penkis KAD būrio vyrus. Mūsų vieta ir užduotis
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-51591
@@ -152,7 +153,7 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-51592
@@ -169,7 +170,7 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-51594
@@ -187,7 +188,7 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167162
@@ -213,5 +214,5 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

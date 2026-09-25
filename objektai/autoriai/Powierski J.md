@@ -181,17 +181,17 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   pagrindžia:
     - c-61142
 
-<a id="claim-t-197009"></a>
-- t-009
-  teiginys: "Powierski J galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams."
-  atnaujinta: "2026-07-12 22:31"
+<a id="claim-t-225757"></a>
+- t-225757
+  teiginys: "J. Powierski siūlė vėlesnę pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos chronologiją."
+  atnaujinta: "2026-09-20 17:55"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1279 m.; įvykio data: 1281 m.; įvykio data: 1286 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie Powierskio siūlytą chronologiją."
   pagrindžia:
-    - c-61146
+    - c-206246
 
 ## Citatos
 
@@ -212,7 +212,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-61139
@@ -232,7 +232,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-61141
@@ -251,7 +251,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-61142
@@ -271,7 +271,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-61143
@@ -290,7 +290,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-61144
@@ -308,7 +308,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-61145
@@ -329,7 +329,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-007
 
@@ -352,5 +352,99 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+
+- id: c-201635
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  citata_originali: |
+    Perkūnas — baltiškasis audros, griaustinio dievas. Jis susijęs su kalnu, ąžuolu. Naujausi
+    mitologijos tyrinėjimai leidžia konstatuoti ryšį tarp S. Grunau šventojo trijų dalių ąžuolo
+    Romovėje resp. Romuvoje ir kitų indoeuropiečių tautų mitologinių vaizdinių. Šventasis
+    ąžuolas buvęs kosmogoninis tridalio pasaulio medžio simbolis (Иванов В. В., Топоров
+    B. H., Исследования в области славянских..., с. 12—16; Powierski J., Z badań nad
+    mitologią..., p. 306—307).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202519
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  citata_originali: |
+    Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
+    Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,
+    d. 2, p. 321; t. 33, p. 264; t. 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J.,
+    Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89;
+    Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės
+    baltų..., p. 221—223, 234.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203315
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
+  citata_originali: |
+    271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
+    Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis..,
+    p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342). Kai kas mano, kad sukilimas
+    galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204,
+    211).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203741
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  citata_originali: |
+    kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
+    jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
+    prisėjo raugių. Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
+    po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
+    arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
+    išsigelbėjo pabėgdamas.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206246
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 167"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167."
+  citata_originali: |
+    Šitai sužinoję, broliai vėl ėmė su juo kariauti ir taip
+    dažnai jį kamavo antpuoliais, kad jis galop su visais savo namais bei šeimyna pasidavė
+    tikėjimui ir broliams.
+    212 (207). Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
+    dvikas antrą kartą pakliuvo į nelaisvę
+    Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš
+    Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule kariuomene į Sūduvos valsčių,
+    vardu Zilija504.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225757

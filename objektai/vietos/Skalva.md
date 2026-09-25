@@ -173,6 +173,28 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   pagrindžia:
     - c-168505
 
+<a id="claim-t-220934"></a>
+- t-220934
+  teiginys: "Broliai po Nadruvos užkariavimo nukreipė ginklus prieš skalvius."
+  atnaujinta: "2026-09-19 21:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-222841"></a>
+- t-222841
+  teiginys: "XIII a. Skalvos centras buvo Ragainė kairiajame Nemuno krante."
+  atnaujinta: "2026-09-19 21:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204313
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Kai kurie tyrinėtojai teritoriją nuo Pamedės iki Skalvos prie Nemuno apibūdino kaip prūsų gyvenamą.'
@@ -226,7 +248,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-59006
@@ -244,7 +266,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-59007
@@ -264,7 +286,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-59008
@@ -286,7 +308,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-006
 
@@ -312,6 +334,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-59010
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -330,7 +353,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168505
@@ -354,8 +377,26 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-204313
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 60"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 60."
+  citata_originali: |
+    Teritorija abipus Nemuno
+    žemupio — rytuose maždaug iki Viešvilės, vakaruose iki Atmatos, šiaurėje siekė
+    Sešuvies ir Jūros santaką, o pietuose ėjo iki Nemuno—Priegliaus takoskyros. XIII a.
+    Skalvos centras buvo Ragainė (dab. Nemanas) kair. Nemuno krante.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222841
 
 ## Ryšiai
 - Puolė Skalvą: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]

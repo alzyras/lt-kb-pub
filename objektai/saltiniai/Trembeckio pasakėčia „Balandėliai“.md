@@ -56,5 +56,5 @@ Tai tarsi natū ralus taip puikiai lenkiškai skambančios Trembeckio pa sakėč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

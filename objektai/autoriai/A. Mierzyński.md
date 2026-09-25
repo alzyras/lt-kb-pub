@@ -89,7 +89,7 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-70062

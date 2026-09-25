@@ -91,5 +91,5 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

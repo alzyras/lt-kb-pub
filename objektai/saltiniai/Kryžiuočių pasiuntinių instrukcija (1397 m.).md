@@ -65,5 +65,5 @@ Kryžiuočių pasiuntinių 1397 m. instrukcija įpareigojo pasiuntinius teigti, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

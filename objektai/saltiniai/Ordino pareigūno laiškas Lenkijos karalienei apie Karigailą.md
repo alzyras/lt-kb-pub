@@ -95,5 +95,5 @@ Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

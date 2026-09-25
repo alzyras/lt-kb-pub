@@ -72,6 +72,25 @@ Nenurodyta
   pagrindžia:
     - c-38310
 
+<a id="claim-t-35833"></a>
+- t-35833
+  teiginys: "1382 m. liepos 6 d. Jogaila su Vokiečių ordino magistru sudarė puolimo sutartį prieš Kęstutį ir jo sūnus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Claim_text tiesiogiai nurodo puolimo sutartį prieš Kęstutį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) kariavo prieš Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.92); Jogaila (kunigaikštis, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-38310
+
 ## Citatos
 
 - id: c-38310
@@ -99,5 +118,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-35833

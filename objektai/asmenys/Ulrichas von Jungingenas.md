@@ -118,7 +118,7 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167661
@@ -138,7 +138,7 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167662
@@ -159,5 +159,5 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

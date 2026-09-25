@@ -71,5 +71,5 @@ pietiniame Pabaltijyje, tarp Danijos ir Lietuvos plotų, išryškėjo gana savit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

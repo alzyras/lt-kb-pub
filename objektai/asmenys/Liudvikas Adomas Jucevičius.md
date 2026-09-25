@@ -96,7 +96,7 @@ Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179333
@@ -118,5 +118,52 @@ Tuo metu Burokų dvare, priklausančiame J/o/ K/ilnybei/ maršalkai Jucevičiui,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194900
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
+  citata_originali: |
+    1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
+    Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu
+    aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dva­
+    re, priklausančiame grafienei Choueseul, tą dievuką gavau iš
+    kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas
+    kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko
+    aplankyti savo brolį. Tuo metu Burokų dvare, priklausančiame
+    J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo
+    Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė
+    tą
+    figūrą.
+    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
+    leidimą (PEĮ.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196869
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 458"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 458."
+  citata_originali: |
+    Dau­
+    gumai ten išdėstytų faktų istorikas pritarė; jis mėgdavo
+    kartoti, jog M. Višnevskis apie lietuvių kalbą išmano ge­
+    riau negu kitas kuris lietuvis. T. Narbutas abejojo tik vie­
+    nu tyrinėtojo faktu, t. y. ar lietuvių kalbos gramatika bu­
+    vo parašyta jau XIII amžiuje3. Su L. A. Jucevičiumi, re­
+    gis, taip pat nebūta glaudesnių kontaktų; laiškų neliko, o
+    1 Šautai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

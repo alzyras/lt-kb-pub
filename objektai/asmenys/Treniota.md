@@ -236,18 +236,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   pagrindžia:
     - c-178794
 
-<a id="claim-t-196872"></a>
-- t-011
-  teiginys: "Treniota (Mindaugo seserėnas) ten pat pas juos atvyktų ir susitiktų su jais."
-  atnaujinta: "2026-07-12 22:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-178952
-
 <a id="claim-t-201039"></a>
 - t-012
   teiginys: "Treniota, urėdas Naujapilio (Nowogrodek), tą nujautęs, sukėlė savo brolius Pryšmantą ir Liubartą, urėdus juodųjų gudų, vie nok galybe vienų lietuvių nedrįsdamas su totoriais grumtis, kaipogi Utenis, kaip sakiau, su žemaičiais kariavo kalavijonis Padaugavy ir."
@@ -361,6 +349,86 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
   pagrindžia:
     - c-188338
+
+<a id="claim-t-207452"></a>
+- t-207452
+  teiginys: "1263 m. pabaigoje Tautvilo ir Treniotos varžybos dėl Lietuvos valdžios baigėsi Tautvilo nužudymu, o 1264 m. viduryje Mindaugo šalininkai nužudė Treniotą."
+  atnaujinta: "2026-09-19 06:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1263 m.; įvykio data: 1264 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir aiškiai nurodo Tautvilo bei Treniotos žūčių seką ir datas."
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-190072
+
+<a id="claim-t-207489"></a>
+- t-207489
+  teiginys: "Treniota šaltinyje įvardijamas kaip stipriausias Mindaugo varžovas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190106
+
+<a id="claim-t-210891"></a>
+- t-210891
+  teiginys: "Susirado Treniotą\", Mindaugo sese rėną, ir su juo sumanė nužudyti Mindaugą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-193614
+
+<a id="claim-t-218138"></a>
+- t-218138
+  teiginys: "Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre niota."
+  atnaujinta: "2026-09-19 06:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-198256
+
+<a id="claim-t-221923"></a>
+- t-221923
+  teiginys: "Treniota buvo lietuvių karaliaus sūnus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202352
+
+<a id="claim-t-222249"></a>
+- t-222249
+  teiginys: "Treniota vadovavo Mindaugo kariuomenei 1262 m. žygyje prieš Ordino užnugarį pavyslyje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-201966
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -476,7 +544,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-85945
@@ -498,7 +566,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-85946
@@ -518,7 +586,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-85947
@@ -540,7 +608,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-85948
@@ -559,7 +627,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-168207
@@ -584,6 +652,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-168209
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -607,7 +676,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-171533
@@ -631,7 +700,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-176621
@@ -649,7 +718,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-178794
@@ -672,7 +741,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-010
 
@@ -697,8 +766,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
 
 - id: c-184389
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -728,7 +795,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-184390
@@ -758,7 +825,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-187759
@@ -778,7 +845,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-188091
@@ -800,7 +867,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-188334
@@ -820,7 +887,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-188335
@@ -843,7 +910,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-188336
@@ -865,7 +932,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-188337
@@ -880,7 +947,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-188338
@@ -897,5 +964,156 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
+
+- id: c-190072
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 88"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 88."
+  citata_originali: |
+    Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nu-
+    žudyti dar trys dėl valdžios kovoję kunigaikščiai ir vienas išvytas. Pavardinkime šiuos
+    faktus: 1263 m. ruduo – Daumantui nužudžius Mindaugą ir du jo sūnus, Lietuvos sostą
+    užėmė Treniota, 1263 m. pabaiga – varžybos dėl valdžios tarp artimiausių Mindaugo gi-
+    minaičių Tautvilo ir Treniotos baigėsi pirmojo nužudymu, 1264 m. vidurys – Mindaugo
+    šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga. Min-
+    daugo sūnus Vaišelga, nuvertęs nuo Lietuvos sosto sąmokslo prieš tėvą organizatorių Tre-
+    niotą, keliais požiūriais išsiskiria iš Lietuvos valdovų ir kitų XIII a. istorinių asmenybių.
+  citata_rodoma: ". ruduo – Daumantui nužudžius Mindaugą ir du jo sūnus, Lietuvos sostą \nužėmė Treniota, 1263 m. pabaiga – varžybos dėl valdžios tarp artimiausių Mindaugo gi-\nminaičių Tautvilo ir Treniotos baigėsi pirmojo nužudymu, 1264 m. vidurys – Mindaugo \nšalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga. Min-\nda"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207452
+
+- id: c-190106
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 86"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 86."
+  citata_originali: |
+    Vėlesnėje Lietuvos istorijoje į panašų europinį vaidmenį gali
+    pretenduoti nebent Vytautas, Žalgirio mūšyje sustabdęs vokiečių agresiją ir priartinęs
+    valstybę prie to, ką šiandien lyginamoji istorinė sociologija vadina pirmine imperija, ir
+    1990 m. Lietuvos nepriklausomybės kūrėjai, pradėdami „suverenitetų paradą“ ir tuo pri-
+    sidėdami prie sovietų imperijos griūties.
+    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien
+    su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą (nežinoma kur, ta-
+    čiau atkreiptinas dėmesys, kad Latvijos katalikiškoje dalyje, Agluonoje iki šiol tradiciškai
+    manoma, kad Mindaugas buvo nužudytas būtent čia).
+  citata_rodoma: "Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien \nsu stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207489
+
+- id: c-193614
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
+  citata_originali: |
+    Ir Daumantas ieškojo, su kuo jam susidėti ir Min­
+    daugą nužudyti. Susirado Treniotą", Mindaugo sese­
+    rėną, ir su juo sumanė nužudyti Mindaugą. O Treniota
+    tuomet buvo Žemaičiuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210891
+
+- id: c-193749
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 54"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 54."
+  citata_originali: |
+    Neilgai trukus, Vladimiro kunigaikštis Levas atsiun­
+    tė savo broliui Vasilkai [žinią], kad norįs su juo pasi­
+    matyti, prašė jį, kad atsiųstų Vaišvilką, idant ten pat
+    pas juos atvažiuotų pasitarti.
+    Ir Haličo kunigaikštis Vasilka kvietė Vaišvilką,
+    kad jis ten pat pas juos atvyktų ir susitiktų su jais.
+    Vaišvilkas nenorėjo ten dalyvauti, nes gyveno nesan­
+    taikoje su kunigaikščiu Levu, ir dėl kunigaikščio Levo
+    jam nevertėjo ten važiuoti, bet atvažiavo į Vladimiro
+    miestą, pasitikėdamas Vasilkos ir Švarno žodžiu.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198256
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  citata_originali: |
+    Šiojo sūnus Liu­
+    tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai - Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218138
+
+- id: c-201966
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
+  citata_originali: |
+    Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222249
+
+- id: c-202352
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
+  citata_originali: |
+    Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas,
+    subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo
+    juos į tris dalis437, kurių vieną nusiuntė prieš Mazoviją, kitą — prieš Pamedę ir abi šias
+    žemes nusiaubė, grobdamas ir degindamas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221923

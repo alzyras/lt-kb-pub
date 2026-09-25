@@ -197,7 +197,7 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
@@ -227,5 +227,31 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-195844
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
+  citata_originali: |
+    1 Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs
+    Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu
+    aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dva­
+    re, priklausančiame grafienei Choueseul, tą dievuką gavau iš
+    kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas
+    kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko
+    aplankyti savo brolį. Tuo metu Burokų dvare, priklausančiame
+    J/o/ K/ilnybei/ maršalkai Jucevičiui, esančiame už 10 varstų nuo
+    Kražių, pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė
+    tą
+    figūrą.
+    Tekstas, kuriuo autorius papildė paragrafą, rengdamas antrąjį LTI
+    leidimą (PEĮ.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

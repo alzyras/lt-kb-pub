@@ -81,7 +81,7 @@ Prūsijos vokiečiai ir Prūsijos maršalas su kariuomene skubiai atvyko į paga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-193425
@@ -100,7 +100,7 @@ Prūsijos vokiečiai ir Prūsijos maršalas su kariuomene skubiai atvyko į paga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-193923
@@ -118,5 +118,5 @@ Prūsijos vokiečiai ir Prūsijos maršalas su kariuomene skubiai atvyko į paga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

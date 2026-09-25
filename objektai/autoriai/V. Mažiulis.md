@@ -52,15 +52,6 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   pagrindžia:
     - c-65448
 
-<a id="claim-t-64860"></a>
-- t-002
-  teiginys: "V. Mažiulis pateikė didelę dalį prūsiškųjų ir kitų baltiškųjų vietovardžių bei asmenvardžių rekonstrukcijų."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-65450
-
 <a id="claim-t-64861"></a>
 - t-003
   teiginys: "V. Mažiulio darbe „Dėl Neringos“ remiamasi aiškinant Kuršių nerijos pavadinimus."
@@ -129,7 +120,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-65448
@@ -152,7 +143,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-65449
@@ -171,7 +162,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-65450
@@ -189,5 +180,43 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-201671
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
+  citata_originali: |
+    6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...;
+    Endzelīns  J. Senprūšu valoda; Būga K. Rinktiniai raštai,  t. 1, 3; Mikalauskaitė E.
+    Priešreformacinių...,.p. 102—106; Matusevičiūtė I. Kiek naujos medžiagos..., p. 10—18;
+    Мажюлис В. Заметки..., c. 191—197; Prūsų kalbos paminklai / Parengė Mažiulis V.; to
+    paties, Baltų...; to paties, Seniausias baltų..., p. 125—131; Kuzavinis K. Prūsų kalba;
+    MLTE, t. 2, p. 935—936; Schmalstieg W. R. An Old Prussian Grammar...; Steponavičienė
+    I. Dėl lietuviškų vietovardžių..., p. 163— 168; Топоров B. H. Прусский язык...; Kubicka
+    W. Bibliografia...; Lietuvos TSR bibliografija, Ser. А. Т. 1, р. 483—488 (prūsų kalbos ir
+    raštijos paminklai).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203989
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
+  citata_originali: |
+    Kuršių  nerijos vardą pasidarė Ordino  raštininkai pagal Kuršo vyskupystės
+    pavadinimą (taip atsirado  ir Kuršių marių pavadinimas). Nuo XV a. vidurio Ordino
+    dokumentuose atsiranda lytis Neringe. Lietuvių kalba težinojusi tokius Kuršių nerijos
+    pavadinimus: Kopos (Kopai), Kalnai, Pajūriai (Pajūrės), Randavos (Mažiulis V., Dėl
+    Neringos..., p. 301—315).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

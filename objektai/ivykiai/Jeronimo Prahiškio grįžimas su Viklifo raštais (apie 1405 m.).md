@@ -78,5 +78,5 @@ Apie 1405 metus Jeronimas Prahiškis, grįždamas į tėvynę, parsivežė Vikli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

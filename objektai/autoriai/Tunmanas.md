@@ -166,6 +166,28 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   pagrindžia:
     - c-188115
 
+<a id="claim-t-212101"></a>
+- t-212101
+  teiginys: "Narbutas nurodo, kad švedų istorikas Tunmanas lietuvius kildino iš bėglių gaujos, gyvenusios Vyslos šakų skalaujamoje saloje apie 550 metus."
+  atnaujinta: "2026-09-20 00:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-213660"></a>
+- t-213660
+  teiginys: "Tunmanas3, Jo nas Potockis4, Lelevelis5 tai žinojo, bet į šį klausimą ne atsakė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195137
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potockio ir Suroveckio raštuose.'
@@ -201,7 +223,7 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173694
@@ -224,7 +246,7 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173695
@@ -248,7 +270,7 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173696
@@ -268,7 +290,7 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-179283
@@ -292,7 +314,7 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-179284
@@ -310,7 +332,7 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188115
@@ -332,5 +354,104 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-195137
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 327"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 327."
+  citata_originali: |
+    Tunmanas3, Jo­
+    nas Potockis4, Lelevelis5 tai žinojo, bet į šį klausimą ne­
+    atsakė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213660
+
+- id: c-196927
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Sis skirtumas yra esminis dalykas;
+    mes jį aptinkame jau 1224 metais popiežiaus Honorijaus
+    III bulėje, kur greta Samlandia ypač pabrėžta Witlandia
+    (Gruber. Orig. Livon. P. 265), ten vietoj (Wirlandia rei­
+    kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­
+    suchungen ettr. 5, 53).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197016
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  citata_originali: |
+    Tad Nemuno žemupio pakrantes visų pirma de­
+    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
+    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2. Tačiau visų seniausia
+    jų gyvenvietė turėtų būti prie Nemuno vagos dešinės da­
+    lies, ligi šiol vadinamos Ruse arba slaviškai Rusne,
+    Rusnia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197530
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 254."
+  citata_originali: |
+    Juk žymus švedų senovės istorikas Tunmanas, susižavė­
+    jęs kažkokiu panašiu į šį vaizdu, kildina mus iš lizdo
+    gaujos bėglių, įsikūrusių Vyslos šakų skalaujamoje saloje
+    ir ¡gyvenusių apie 550 metus. Tiesa, tokią pat pradžią tu­
+    rėjusi ir Roma, bet sunku sutikti su spėjimais svetimša­
+    lio, kuris tikriausiai neišmanė nei mūsų krašto, nei kalbos.
+    Jo pateikti lingvistiniai įrodymai, lietuvio nuomone, ne­
+    1 Ad littus Oceani, ubi tribus faucibus fluenta Vistula ebibitur,
+    Vidivarii (alii legunt Vidioarii), resident ex diversis nationibus aggre­
+    gati (Capite 5).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197612
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Orig. Livon. P. 265), ten vietoj (Wirlandia rei­
+    kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­
+    suchungen ettr. 5, 53). Taip pat apie skirtingas šalis ra­
+    šo Alberichas savo 1228 metų kronikoje (Leibnitz: Access.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

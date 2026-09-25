@@ -60,5 +60,5 @@ p. 98, „HUSARŲ ORGANIZACIJA XVII A.“, Andžej Geglis, Karolis Zikaras.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

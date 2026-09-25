@@ -79,5 +79,5 @@ Dusburgietis nurodo, kad 1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė did
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

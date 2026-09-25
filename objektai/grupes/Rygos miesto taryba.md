@@ -67,5 +67,5 @@ Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

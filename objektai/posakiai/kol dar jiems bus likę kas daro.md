@@ -65,5 +65,5 @@ Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

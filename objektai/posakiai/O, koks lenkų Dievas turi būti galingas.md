@@ -70,5 +70,5 @@ Sostinėje sunaikinus senąsias šventvietes ir pradėjus dievų buveinę versti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

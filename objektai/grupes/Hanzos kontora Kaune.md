@@ -85,7 +85,7 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185192
@@ -103,7 +103,7 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185193
@@ -121,5 +121,5 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

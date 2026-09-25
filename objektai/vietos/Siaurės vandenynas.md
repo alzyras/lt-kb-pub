@@ -76,5 +76,31 @@ Be jo kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel džiai S
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198152
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 184"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
+  citata_originali: |
+    O
+    čia surinksime visokias išlikusias žinias apie dangaus kūnų su­
+    dievinimą, kadangi aukščiau nurodėme ne vieną dievaitį, tie­
+    siogiai kilusį iš šio šaltinio, ir kitus, galėjusius būti tos kilmės;
+    kadangi užrašai žuvo, šito tiksliai aprašyti negalėjome. Be jo­
+    kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
+    džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar
+    XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny­
+    no, gyveno ši tauta, garbinusi dangaus kūnus .
+    Tegu mitologai sako ką nori apie senovės egiptiečių religi­
+    ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame,
+    yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
+    lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -52,17 +52,29 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   pagrindžia:
     - c-83715
 
-<a id="claim-t-197766"></a>
-- t-002
-  teiginys: "Juozapas Zavadskis sukėlė labai neigiamas emocijas tiek LTI autoriui, tiek jos leidėjui."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-212200"></a>
+- t-212200
+  teiginys: "Juozapas Zavadskis buvo nepatenkintas ir įžeistas, kad Narbutas savo „Istoriją“ atidavė Marcinovskiui."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-179330
+    - c-197526
+
+<a id="claim-t-214095"></a>
+- t-214095
+  teiginys: "„Wizerunki i Roztrząsania Naukowe“ leido ir finansavo Zavadskiai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196257
 
 ## Citatos
 
@@ -90,7 +102,7 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179330
@@ -111,5 +123,59 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-195039
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 449."
+  citata_originali: |
+    „Wizerunki i Roztrząsania Naukowe“, iš pradžių re­
+    daguotas Leono Rogalskio, o vėliau — Ignoto Sidlovskio,
+    buvo vienas iš stambiausių ir solidžiausių to meto inte­
+    lektualinės pakraipos leidinių. Recenzija, ir tokia nepa­
+    lanki, buvo rimtas pavojaus ženklas. Reikia manyti, jog
+    ji sukėlė labai neigiamas emocijas tiek LTI autoriui, tiek
+    jos leidėjui.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:07"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196257
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 449."
+  citata_originali: |
+    O juk „Wizerunki i Roztrząsania Nau-
+    kowe“ leido ir finansavo būtent Zavadskiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214095
+
+- id: c-197526
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 449."
+  citata_originali: |
+    T. Narbuto korespondencijoje ne kartą teko rasti užuomi­
+    nų, jog Juozapas Zavadskis buvo nepatenkintas ir įžeistas
+    dėl to, kad autorius savo „Istoriją“ atidavė ne jam, bet
+    A. Marcinovskiui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212200

@@ -84,7 +84,7 @@ W. Kula, nors buvo marksistinės prieigos šalininkas, savo tyrimuose naudojo pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186248
@@ -114,5 +114,5 @@ W. Kula, nors buvo marksistinės prieigos šalininkas, savo tyrimuose naudojo pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

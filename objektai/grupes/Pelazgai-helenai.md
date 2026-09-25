@@ -67,7 +67,7 @@ Pirmieji buvo pelazgų-helenų, antrieji — indų-skitų kilmės.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-200791
@@ -87,5 +87,5 @@ Pirmieji buvo pelazgų-helenų, antrieji — indų-skitų kilmės.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

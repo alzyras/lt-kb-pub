@@ -118,7 +118,7 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67343
@@ -143,7 +143,7 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-67344
@@ -158,7 +158,7 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176411
@@ -173,5 +173,5 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

@@ -64,6 +64,16 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
   pagrindžia:
     - c-178023
 
+<a id="claim-t-195621"></a>
+- t-195621
+  teiginys: "Šioje apybraižoje cibavos būdavo prageriamos visų susiėjusių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178022
+
 ## Citatos
 
 - id: c-178022
@@ -90,6 +100,9 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195621
+
 - id: c-178023
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -103,5 +116,5 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

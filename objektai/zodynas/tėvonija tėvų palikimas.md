@@ -76,6 +76,24 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   pagrindžia:
     - c-166878
 
+<a id="claim-t-70366"></a>
+- t-70366
+  teiginys: "Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Prūsų žemė: 0.61"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "deterministic_validation_passed; llm_structured_decision; prusai_place_context"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytautas prūsų žemes vadina savo tėvonija, todėl išreiškiama pretenzija į teritoriją, artima valdymo santykiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Prūsų žemė (0.61)"
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  pagrindžia:
+    - c-69406
+
 ## Citatos
 
 - id: c-69403
@@ -100,6 +118,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-69404
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -119,7 +138,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-69406
@@ -141,6 +160,9 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-70366
+
 - id: c-166877
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -159,7 +181,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166878
@@ -186,6 +208,6 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003

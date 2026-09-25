@@ -67,6 +67,18 @@ Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rus
   pagrindžia:
     - c-174446
 
+<a id="claim-t-215090"></a>
+- t-215090
+  teiginys: "Eustachijus Tiškevičius rašė, kad priešistoriniai vietovardžiai tęsiasi skersai per visą Lietuvą nuo Beržūnos iki Neries žemupio."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196832
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.'
@@ -117,6 +129,24 @@ Eustachijus Tiškevičius, Narbuto duomenimis, kasinėjo kapavietes Lietuvos Rus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-196832
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 250"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 250."
+  citata_originali: |
+    Eustachijus Tiškevičius rašė, jog priešistori­
+    nius laikus siekiantys vietovardžiai tęsiasi skersai per vi­
+    są Lietuvą, t. y. nuo Beržūnos iki pat Neries žemupio
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215090

@@ -88,5 +88,29 @@ Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas nar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204149
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 118-119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118-119."
+  citata_originali: |
+    Todėl maldininkai pasiruošė
+    kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,
+    jie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius,
+    subėgusius  į kaimą, kitados vadinamą Kalija, o dabar — Sklunija371, irgi įveikė, tiesa,
+      369 1262—1263 m. (Voigt. J., Namen.., p. 3; AB, 2, sąs. 4, p. 539).
+      370 Vokietijos feodalai: Julicho (Pareinyje) grafas Vilhelmas IV  ir Brandenburgo
+    markos grafas Engelbertas I.
+      371 D.— quondam Calige modo Sclunien dicitur. Kalijos kaimas buvo žinomas  į
+    pietvakarius nuo Karaliaučiaus (Sch-K; Ewald A. L., Die Eroberung..., 4, p. 31—32; GAO,
+
+    gana sunkiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

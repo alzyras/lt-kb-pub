@@ -86,7 +86,7 @@ Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-72954
@@ -110,5 +110,5 @@ Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

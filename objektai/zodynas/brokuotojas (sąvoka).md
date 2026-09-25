@@ -60,5 +60,5 @@ Be kita ko, brokuotojai paprastai būdavo Kauno miestiečiai, patyrę miško pre
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

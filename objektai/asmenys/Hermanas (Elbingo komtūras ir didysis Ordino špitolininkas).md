@@ -88,7 +88,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

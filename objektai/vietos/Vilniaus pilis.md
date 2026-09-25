@@ -299,7 +299,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-158408
@@ -335,7 +335,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-158409
@@ -357,7 +357,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-158411
@@ -387,7 +387,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-158412
@@ -413,7 +413,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-158413
@@ -437,7 +437,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-158414
@@ -468,7 +468,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-158415
@@ -494,7 +494,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-158417
@@ -523,7 +523,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-158418
@@ -560,7 +560,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-158419
@@ -589,7 +589,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-176860
@@ -627,7 +627,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-186422
@@ -646,7 +646,7 @@ Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 ## Ryšiai

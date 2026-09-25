@@ -74,5 +74,5 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

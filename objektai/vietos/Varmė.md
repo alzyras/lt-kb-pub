@@ -186,6 +186,18 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   pagrindžia:
     - c-178889
 
+<a id="claim-t-224974"></a>
+- t-224974
+  teiginys: "Ketvirta — Varmė194, kurioje [gyveno] varmiai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204800
+
 ## Citatos
 
 - id: c-87133
@@ -220,7 +232,7 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-006
 
@@ -245,7 +257,7 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-007
 
@@ -269,7 +281,7 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-87139
@@ -304,7 +316,7 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -333,8 +345,24 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-204800
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
+  citata_originali: |
+    Ketvirta — Varmė194, kurioje [gyveno] varmiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224974
 
 ## Ryšiai
 - Puolė Varmę: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

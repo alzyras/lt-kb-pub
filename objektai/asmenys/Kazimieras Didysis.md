@@ -337,7 +337,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-167774
@@ -365,7 +365,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-012
 
@@ -387,7 +387,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-167776
@@ -409,7 +409,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-167777
@@ -428,7 +428,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167778
@@ -451,7 +451,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-013
 
@@ -477,7 +477,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-008
 
@@ -498,7 +498,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-167781
@@ -525,7 +525,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-010
 
@@ -557,7 +557,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-188936
@@ -577,7 +577,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 ## Ryšiai

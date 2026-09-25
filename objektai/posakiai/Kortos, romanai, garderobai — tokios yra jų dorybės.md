@@ -69,5 +69,5 @@ I. Onacevičius laiške T. Narbutui moralizuoja apie lietuvių abejingumą kraš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

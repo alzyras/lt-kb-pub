@@ -70,21 +70,3 @@ Naujoji dūmos taryba pasiūlė blaivybės draugijoms steigti nereikalauti leidi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-209355"></a>
-- t-001
-  teiginys: "Naujoji dūmos taryba pasiūlė blaivybės draugijoms steigti nereikalauti leidimo arba apsiriboti pranešimu apie jų įsikūrimą."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
-  pagrindžia:
-    - c-192009
-

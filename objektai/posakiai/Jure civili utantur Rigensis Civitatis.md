@@ -142,7 +142,7 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003

@@ -337,7 +337,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174013
@@ -357,7 +357,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174014
@@ -380,7 +380,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-174015
@@ -402,7 +402,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-174016
@@ -433,7 +433,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-174017
@@ -456,7 +456,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-009
 
@@ -479,7 +479,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-010
 
@@ -514,7 +514,7 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-179344
@@ -545,5 +545,196 @@ Narbutas Pitėjo Masiliečio kelionę datavo 340 m. pr. Kr. ir rašė, kad iki T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
+
+- id: c-195182
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
+  citata_originali: |
+    78
+    Padavimai. Iš išlikusių istorinių padavimų apie Estiją
+    seniausias yra Masilijos keliautojo Kitėjo*, kuris šalia
+    gotonų mini estus2. Vėliau kalbėsime apie šio astronomo
+    keliones, o dabar pasakysime tik tiek, jog visas jo apra­
+    šymas yra toks aiškus ir raiškus, kad nedera abejoti: tuo­
+    metiniai Prūsijos gyventojai nesivadino estais. Jie rinko
+    gintarą Abalo saloje; jį pardavinėjo gotonai. Ši kelionė
+    įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų
+    net iki Tacito senovės autoriai niekur nemini Estijos, nors
+    kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Pli-
+    nijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis
+    aprašymais, estų nemini.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195234
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 366-367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 366-367."
+  citata_originali: |
+    Joje
+    yra labai įdomios detalės: 1) Frische Haff, alias recens
+    mare, neseniai atsiradusi jūra; 2) į užtvindytą Vitlandijos
+    3 5 6
+
+    kraštą, vadinamą vulgo Balta, id est terra albescens, at­
+    plaukia neaprėpiama daugybė žuvų ir silkių, vandens
+    šviežumo suviliotos; 3) minima Witlands Ort ir paaiški­
+    nama: vulgo Balta gals, finis albus. Kopija iš Karaliau­
+    čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­
+    do, yra be pradžios ir pabaigos. Argi tuo būdu negalima
+    buvo patekti j Baltiją, Plinijaus vadinamą gintaringa
+    sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos
+    ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­
+    daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už
+    šiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­
+    žiau kaip šiandien Sambijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195246
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
+  citata_originali: |
+    Tai įvyko
+    praėjus 90 metų po H imi Ikaro kelionės, arba 340 metais
+    ¡prieš Kristaus gimimą. Sis keliautojas atvyko prie Brita­
+    nijos salų ir išsilaipino ¡pietryčių pusėje, prie Kanono ky­
+    šulio, 100 stadijų nuo žemyno atstumu3. Vėliau jis aplan­
+    kė kažkurios salos dalį, išplaukė į šiaurę, prie Britanijos
+    krantų darydamas astronominius stebėjimus, ir nuplaukė
+    iki Tule, Tūlos4 salos, kurią pažymėjo 66 šiaurės platumos
+    laipsnyje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195289
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  citata_originali: |
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
+    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
+    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
+    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
+    vintais jėzuitų aprašymais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195521
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 157."
+  citata_originali: |
+    O kalbėdami apie
+    Abalo salą, geriausi ¡senovės tyrinėtojai, ir tai labiausiai
+    įtikėtina, turi omeny šiandienę Sembą, kuri, būdama pu­
+    siasalis, dėl savo krantų, kurie aiškiai ¡skyrėsi nuo šian­
+    dienių, išties galėjo būti palaikyta sala: iš vienos pusės
+    žiotys Priegliaus, įtekančio į gerokai sausumon įsirėžusią
+    įlanką; iš kitos pusės Kuršių nerija, pertraukta ties Ra­
+    syte; pagaliau miškingos pakrantės galėjo lengvai suklai­
+    dinti jūros keliautoją, aprašinėjusį šią krašto dalį. Pitėjas
+    turbūt priplaukė prie kranto ties Nogato žiotimis, nes
+    vėliau ten dideliu laivu buvo atplaukęs Vulfstanas, — apie
+    jį kalbėsime vėliau, — pasiekė Druso miestą, be to, iš ten
+    išilgai krantų vieną ar porą dienų galėjo plaukti iki Sem­
+    bos. Čia ¡suprantame, kad tarp Nogato žiočių ir Sembos
+    vidurio senovėje buvo gana toli į jūrą išsikišusi sausumos
+    juosta, vadinta Vitlandija; ji iš dalies egzistavo XIII am­
+    žiaus pradžioje3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195716
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 156"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 156."
+  citata_originali: |
+    Plinijus paliko mums tokius šio keliautojo
+    aprašymų papildymus: „Pakrantėje, kuri vadinasi Mente-
+    nomonu ir plyti per 6000 stadijų, gyvena germanų gutonų
+    gentis. Per vieną plaukimo iš ten dieną yra Abalo sala,
+    į kurią pavasario audrų bangos išmeta gintaro, sumetė­
+    jusio jūros produkto. Gyventojai naudoja jį vietoj malkų
+    kurui arba parduoda kaimynams teutonams“2. Tos pačios
+    kelionės metu Pitėjas atrado šiaurinės Tanajo upės žiotis3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195855
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  citata_originali: |
+    Priekaištaujama, kad, norint su­
+    skaičiuoti 6000 stadijų, reikia imti visą jūros ilgį. Aes­
+    tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
+    seklias vietas, kurios kartais būva apsemtos, o kartais —
+    sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196177
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
+  citata_originali: |
+    Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
+    mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis,
+    gerai nustatęs išvykimo vietos, t. y. Masilijos uosto, geo­
+    grafinę padėtį, išplaukė į Atlanto vandenyną. Tai įvyko
+    praėjus 90 metų po H imi Ikaro kelionės, arba 340 metais
+    ¡prieš Kristaus gimimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

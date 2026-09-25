@@ -76,5 +76,32 @@ Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199721
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 35."
+  citata_originali: |
+    Nekritiškai naudodamasis senaisiais rašytiniais šaltiniais,
+    juos papildydamas savo rekonstruotais (sukurtais) faktais ir
+    sujungdamas į vieną visumą visų baltų (lietuvių, prūsų, latvių)
+    medžiagą, T. Narbutas sukūrė gan įspūdingą senosios lietuvių
+    religijos ir mitologijos vaizdą. Iš viso buvo 15 lietuvių garbintų
+    „didžiųjų“ ir 46 „mažesnieji“ dievai, 39 deivės, 7 pusdieviai,
+    arba didvyriai, daugelis sudievintų dangaus kūnų (Saulė, Mė­
+    nuo, Aušra, Vakarinė ir visos žvaigždės), 22 „paslaptingosios
+    dievybės“ ir fetišai. Pateikiama net keliolika „padavimų“, pa­
+    sakojimų apie šių dievų ir pusdievių tarpusavio ryšius ir santy­
+    kius su žmonėmis (apie dievo Pramžimo sukeltą žemės pa-
+    skandą, apie požemio dievo Pokliaus pagautą deivės Krūmi­
+    nės dukterį Nijolę, apie senovės lietuvių didvyrius Geloną, Vy-
+    tolfą, Alcį, Nemuną ir kt.).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

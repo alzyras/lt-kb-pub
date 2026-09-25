@@ -99,7 +99,7 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184871
@@ -116,5 +116,5 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

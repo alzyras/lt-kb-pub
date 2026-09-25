@@ -78,5 +78,5 @@ Motiejus Pretorius (1635–1707) parašė veikalą „Orbis Gothicus“ (1688).
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

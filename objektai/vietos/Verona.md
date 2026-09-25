@@ -83,5 +83,29 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197509
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
+  citata_originali: |
+    Mes turime neabejotiną tos
+    genties paminklą, rodantį, kad kirnbrų, arba kimerų, gen­
+    tys nebuvo ir nėra vien pasaka, nepaisant jų karų su ro­
+    mėnais, kurių aprašinėtojams galėjo būti priekaištauja­
+    ma, kad šį pavadinimą suteikė laukinių germanų iš Pa­
+    baltijo ordoms. Italijoje, netoli Veronos, slėnyje tarp
+    Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių
+    senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa­
+    garsėjo pergale prieš konsulą Scipioną 169 metais prieš
+    Kristaus gimimą. Švedų autorius Biorntelis (Bornthel)
+    mano dabar esant iki 60 000 jų gyventojų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

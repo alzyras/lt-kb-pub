@@ -118,7 +118,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166295
@@ -138,7 +138,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175855
@@ -157,5 +157,5 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

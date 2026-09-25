@@ -52,22 +52,6 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   pagrindžia:
     - c-87574
 
-<a id="claim-t-91934"></a>
-- t-002
-  teiginys: "J. Remeikos darbe minima, kad Nemuno senvagė dešiniajame krante priešais Ragainę vadinama Merguva."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Remeika J: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Remeika J\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-87575
-
 ## Citatos
 
 - id: c-87574
@@ -86,7 +70,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-87575
@@ -105,5 +89,21 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-201743
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 155."
+  citata_originali: |
+    pirmoje pusėje kalne išlikusį pylimą žmonės vadino
+    pilimi, pilate. Padavimuose minimas Rambyno kunigaikštis Skraudopus (Hennenberger
+    C., Erclerung.., p. 389; VBK; HE, p. 134—135; CV, t. 34, p. 107, 112; Remeika J.,
+    Ką kalneliai.., p. 88; Matusas J., Senovės prūsų..., p. 54; LAA, 2, p. 143—144, 42;
+    Lietuvininkai, p. 229—230; Basanavičius J., Iš gyvenimo vėlių..., p. 181—2).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

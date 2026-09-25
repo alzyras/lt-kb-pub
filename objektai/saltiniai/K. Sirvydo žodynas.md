@@ -87,7 +87,7 @@ Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173362
@@ -113,5 +113,24 @@ Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198594
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 150."
+  citata_originali: |
+    Tai buvo piktųjų dvasių apgaulė; ty-
+    kodamos prie vandens, suvedžiodamos žmones, jos stengėsi
+    išvilioti sau dovanų“.
+    Dėl šių poeto Jakimavičiaus žodžių įgyjame naują objektą
+    mūsų deivių rinkiniui. Taip pat kunigas Sirvydas savo žodyne
+    Vilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

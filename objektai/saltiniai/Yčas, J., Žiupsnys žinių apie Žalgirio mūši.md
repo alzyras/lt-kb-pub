@@ -74,5 +74,5 @@ Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

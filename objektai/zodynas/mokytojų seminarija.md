@@ -113,7 +113,7 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-71084
@@ -135,6 +135,6 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003

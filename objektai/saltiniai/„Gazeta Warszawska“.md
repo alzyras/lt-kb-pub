@@ -33,24 +33,6 @@ media_all_json: |-
 
 „Gazeta Warszawska“ 1856–1859 m. paskelbė I–X „Laiškų nuo Kražantės krantų“ ciklo laiškus.
 
-## Teiginiai
-
-<a id="claim-t-191866"></a>
-- t-001
-  teiginys: "„Gazeta Warszawska“ 1856–1859 m. paskelbė I–X „Laiškų nuo Kražantės krantų“ ciklo laiškus."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1856-1859; įvykio data: 1859 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys patikslintas pagal bibliografinę išnašą ir pašalintas OCR triukšmas. Nepridėta nieko apie ciklo autorystę ar recenzento tapatybę."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-174748
-
 ## Citatos
 
 - id: c-174748
@@ -75,5 +57,3 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

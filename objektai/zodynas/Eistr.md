@@ -68,5 +68,5 @@ Vikingai naudojo visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

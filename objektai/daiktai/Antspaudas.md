@@ -116,6 +116,19 @@ Nenurodyta
   pagrindžia:
     - c-185689
 
+<a id="claim-t-221884"></a>
+- t-221884
+  teiginys: "Trys Pomeranijos kunigaikščiai išdavė broliams raštus, kuriuos patvirtino savo antspaudais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-19T09:21:20Z"
+  pagrindžia:
+    - c-202225
+
 ## Citatos
 
 - id: c-14294
@@ -138,7 +151,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-14295
@@ -161,7 +174,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185689
@@ -171,6 +184,26 @@ Nenurodyta
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 21:24"
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-202225
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
+  citata_originali: |
+    Tą patį padarė ir ketvirtas brolis, o kad šis dovanojimas butų teisėtas
+    ir amžinas, visi trys broliai pasižadėjo nekelti jokių teisinių ieškinių ir nesiimti faktinių
+    veiksmų, kuriems galėtų pagal įstatymus ryžtis šioje kunigaikštystėje jie patys ar jų
+    palikuonys, ir išdavė tuo reikalu broliams raštus, kuriuos patvirtino savo antspaudais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221884

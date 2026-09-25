@@ -106,7 +106,7 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83555
@@ -136,7 +136,7 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

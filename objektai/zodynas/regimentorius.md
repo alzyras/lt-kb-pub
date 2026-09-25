@@ -83,7 +83,7 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166372
@@ -106,5 +106,5 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

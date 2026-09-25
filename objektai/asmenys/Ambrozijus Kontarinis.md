@@ -73,5 +73,5 @@ canonical_biography: "1477 m., antrosios kelionės metu, po pusvalandi nio pokal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -202,6 +202,18 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   pagrindžia:
     - c-176963
 
+<a id="claim-t-219450"></a>
+- t-219450
+  teiginys: "Šventasis Au gustinas aiškiai teigia, kad egiptiečiai kryžiaus ženklu vaiz davo amžinąjį gyvenimą; tad Serapio, busimojo gyvenimo die vo, drabužiai buvo pažymėti daugybe kryžių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198414
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Narbutas egiptiečių ryšius su kolchais siejo su prielaida, kad kolchai išėjo į Egiptą.'
@@ -241,7 +253,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171067
@@ -269,7 +281,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171068
@@ -297,7 +309,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-171069
@@ -316,7 +328,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171070
@@ -337,7 +349,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-171072
@@ -359,7 +371,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-171073
@@ -387,7 +399,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-176963
@@ -406,5 +418,81 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-198414
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 380."
+  citata_originali: |
+    Šventasis Au­
+    gustinas aiškiai teigia, kad egiptiečiai kryžiaus ženklu vaiz­
+    davo amžinąjį gyvenimą; tad Serapio, busimojo gyvenimo die­
+    vo, drabužiai buvo pažymėti daugybe kryžių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219450
+
+- id: c-199879
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
+  citata_originali: |
+    Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
+    pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
+    dingos mūsų tėvynės istorijai.
+    Šventoji ugnis
+    Chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti kaip
+    dievybę garbino ugnį. Gvebrai, ligi šiol išpažįstantys Zoroast-
+    ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
+    bet nemoka tos esybės pavadinti vardu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201052
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 107."
+  citata_originali: |
+    Čia tik pažymėsime, kad visose tautose, kuriose žinomas Plu­
+    tonas, jis apvesdinamas su pagrobtos į pragarą deivės dukteri­
+    mi. Egiptiečiai, finikiečiai, graikai, romėnai pasakojo tą patį.
+    Indai, kurių Plutonas vadinamas Mahadevu, priskiria jam žmo­
+    ną, vardu Kali.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201227
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  citata_originali: |
+    Šiuos prietarus žinojo ir Lietuvos rusinai.
+    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
+    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
+    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
+    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

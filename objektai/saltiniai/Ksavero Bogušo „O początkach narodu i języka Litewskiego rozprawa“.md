@@ -92,5 +92,36 @@ Ksavero Bogušo studija „O początkach narodu i języka Litewskiego rozprawa�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196949
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 465"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 465."
+  citata_originali: |
+    11 /Ten
+    pat,
+    9
+    išnaša/
+    O
+    początkach narodu i języka Litewskiego rozprawa przez Xa-
+    wiera Bohusza Imperyalnego Wilenskiego Uniwersytetu Czlonka
+    Honorowego napisana, a na publicznym posiedzeniu tegož To-
+    warzystwa Warszawskiego Roku 1806 d. 12 Grudnia czytana,
+    teraz zaš, to iest 1808 Roku wydrukowana w Warszawie w Dru-
+    karni „Gazety Warszawskiey“. Ksavero Bogušo (1746—1820) stu­
+    dija buvo labai “dažnai cituojama T. Narbuto darbuose. Ji buvo ir
+    T. Narbuto bibliotekoje ( [Narbutt T.] Spisanie Muzeum w Szaw­
+    rach.
+    L.
+    15.
+    Nr.
+    175).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

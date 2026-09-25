@@ -74,5 +74,5 @@ Poponas iš Osternos buvo antrasis Prūsijos žemės magistras ir vadovavo septy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

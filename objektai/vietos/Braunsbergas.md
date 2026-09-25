@@ -173,7 +173,7 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -196,7 +196,7 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -224,5 +224,5 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

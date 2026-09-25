@@ -145,7 +145,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-76998
@@ -165,7 +165,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-76999
@@ -190,7 +190,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-77000
@@ -211,7 +211,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 ## Ryšiai

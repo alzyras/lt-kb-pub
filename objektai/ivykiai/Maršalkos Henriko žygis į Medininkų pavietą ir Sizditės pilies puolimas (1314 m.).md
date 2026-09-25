@@ -82,5 +82,5 @@ Teodoras Narbutas nurodo, kad 1314 m. pradžioje maršalka Henrikas su Sambijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

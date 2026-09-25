@@ -127,7 +127,7 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184118
@@ -143,11 +143,12 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
     Katedra, taipgi netoli Aušros Vartų ir Antakalnyje). Po 1387 metų, įvedus
     krikščionybę, prasidėjo gyva statyba.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184119
@@ -167,9 +168,10 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
     santį bastiono paviršių architektūrinių bei figūrinių motyvų ornamentu,
     su Vyčiu vidury.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

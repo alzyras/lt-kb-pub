@@ -62,5 +62,5 @@ Archierejaus balta su dviem bokštais cerkvė, prieš 45 metų katalikų domi ni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

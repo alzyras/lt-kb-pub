@@ -92,6 +92,32 @@ Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės ka
   pagrindžia:
     - c-188923
 
+<a id="claim-t-211574"></a>
+- t-211574
+  teiginys: "O kunigaikštis Jurgis Lengvenaitis, būdamas Didžia jame Naugarde \", pradėjo suprasti negudriai pasielgęs, stodamas prieš didįjį kunigaikštį Kazimierą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-193964
+
+<a id="claim-t-211982"></a>
+- t-211982
+  teiginys: "Smolensko prastieji žmonės išsirinko Jurgį Lengvenaitį savo valdovu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-194342
+
 ## Citatos
 
 - id: c-83722
@@ -112,7 +138,7 @@ Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188922
@@ -123,11 +149,12 @@ Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės ka
     Jurgis Lengvenaitis, sūnus kunigaikščio,
     Naugarde paskelbto didžiuoju. -T. N
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188923
@@ -150,5 +177,43 @@ Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-193964
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 128"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 128."
+  citata_originali: |
+    O kunigaikštis Jurgis Lengvenaitis, būdamas Didžia­
+    jame Naugarde ", pradėjo suprasti negudriai pasielgęs,
+    stodamas prieš didįjį kunigaikštį Kazimierą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211574
+
+- id: c-194342
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 128"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 128."
+  citata_originali: |
+    Prastieji žmonės, išgirdę, kad Smolensko bajorai iš­
+    vyko pas didįjį kunigaikštį Kazimierą, pabūgo ir labai
+    išsigando, Įėmė] dairytis stiprios paramos ir vienbalsiai
+    nutarė imti sau valdovu kunigaikštį Jurgį Lengvenai-
+    tį
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211982

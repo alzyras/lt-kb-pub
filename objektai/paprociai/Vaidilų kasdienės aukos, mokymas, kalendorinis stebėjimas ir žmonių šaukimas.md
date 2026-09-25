@@ -88,5 +88,34 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198998
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 292"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 292."
+  citata_originali: |
+    Prūsijos kronikininkai išvardija tokias vaidilų pareigas :
+    atnašauti dievams aukas, mokyti liaudį tikėjimo ir priklausan­
+    čių jam dalykų; šviesti žmones, mokant, kaip jie pagal dievų
+    įsakymus privalo elgtis laikinajame gyvenime; melstis, idant
+    permaldautų dievus, o tuo tikslu per naktinius pasirodymus
+    maloniai aiškinti žyniams savo valią; laiminti žmones ir linkėti
+    jiems visokeriopos gerovės; pagaliau abejotinais atvejais arba
+    jeigu nutikdavo kokia nelaimė, padėti nelaimingajam ir nura­
+    minti jį apreiškus dievų valią. Svarbiausios jų funkcijos buvo
+    tokios: privalėjo uoliai stebėti saulės ir mėnulio judėjimą, idant
+    galėtų prideramai suskirstyti laiką ir pažymėti švenčių dienas,
+    suskirstyti metų laikus pagal žemės darbus ir iš anksto praneš-
+    ti juos ateinant ; šaukti ir suburti į krūvą žmones, jeigu jam
+    reikėdavo paskelbti kokius nors dalykus dievų vardu. Vaidilos
+    dažnai sukeldavo visus žmones į karą su dievų priešu; tuo klau-
+    simu, jų žodžiais tariant, jie žinodavę apreikštą dievų valią.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

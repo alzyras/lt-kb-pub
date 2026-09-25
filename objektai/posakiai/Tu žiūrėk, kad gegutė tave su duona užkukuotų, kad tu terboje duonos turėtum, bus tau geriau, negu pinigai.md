@@ -77,5 +77,5 @@ Pamokomoji formulė, iškelianti duoną aukščiau už pinigus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

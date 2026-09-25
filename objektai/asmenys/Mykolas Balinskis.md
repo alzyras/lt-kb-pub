@@ -176,6 +176,18 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   pagrindžia:
     - c-179336
 
+<a id="claim-t-214519"></a>
+- t-214519
+  teiginys: "1837—1838 metais „Tygodnik Petersburski“ bu vo spausdinamas didelis jo rašinys, skirtas Mykolo Balinskio monografijos „Vilnius“ analizei."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197005
+
 ## Citatos
 
 - id: c-172958
@@ -194,7 +206,7 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176831
@@ -220,7 +232,7 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176832
@@ -241,7 +253,7 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176833
@@ -263,7 +275,7 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-176834
@@ -285,7 +297,7 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-176835
@@ -309,7 +321,7 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-176836
@@ -328,7 +340,7 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-176837
@@ -348,7 +360,7 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-179336
@@ -368,5 +380,59 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-197005
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 7."
+  citata_originali: |
+    1837—1838 metais „Tygodnik Petersburski“ bu­
+    vo spausdinamas didelis jo rašinys, skirtas Mykolo Ba-
+    linskio monografijos „Vilnius“ analizei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214519
+
+- id: c-197147
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 450"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 450."
+  citata_originali: |
+    Straipsnių, beje, ir anonimiškų, autorystė buvo
+    išaiškinta — jie priskiriami istoriko, publicisto Mykolo
+    Balinskio plunksnai. Vadinasi, jis galėjo būti ir anoni­
+    minės „Lietuvių mitologijos“ recenzijos autorius. Bet tai
+    tik hipotezė, rašinys galėjo būti ir kolektyvinio darbo
+    vaisius.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:01"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198789
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 58."
+  citata_originali: |
+    Straipsnių, beje, ir anonimiškų, autorystė buvo išaiškinta-jie
+    priskiriami istoriko, publicisto Mykolo Balinskio plunksnai.
+    Vadinasi, jis galėjo būti ir anoniminės „Lietuvių mitologijos“
+    recenzijos autorius. Bet tai tik hipotezė, rašinys galėjo būti ir
+    kolektyvinio darbo vaisius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

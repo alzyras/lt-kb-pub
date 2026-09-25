@@ -78,5 +78,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198326
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 309."
+  citata_originali: |
+    Buvo ir tokių, kur
+    ne bet kurį vyrą įleisdavo, ir jos vykdavo slapta*.
+    Kiekviena auka rėmėsi bendromis visų dalyvaujančiųjų vai­
+    šėmis, todėl tas, kuris nevalgydavo aukos, savo buvimu ją ter­
+    šė. Aukojimo paprotys buvo labai įsišaknijęs tarp senovės lietu­
+    vių, tik nežinoma, ar todėl, kad jame dalyvavo visa tauta, ar
+    todėl, jog jis buvo savotiškas visuotinis pasilinksminimas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

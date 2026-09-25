@@ -90,7 +90,7 @@ Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184551
@@ -113,7 +113,7 @@ Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184552
@@ -138,5 +138,5 @@ Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -77,7 +77,7 @@ Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-200620
@@ -96,5 +96,5 @@ Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

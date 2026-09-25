@@ -77,5 +77,5 @@ Narbutas pasakoja, kad minėtoje cerkvėje kasmet liepos 28-ąją pagal rusų ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

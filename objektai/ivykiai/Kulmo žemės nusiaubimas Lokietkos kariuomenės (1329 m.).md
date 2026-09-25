@@ -65,20 +65,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-220253"></a>
-- t-001
-  teiginys: "1329 m. vasario 1 d. Lokietka su 6 tūkstančiais karių įsiveržė į Kulmo žemę."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-205997
-

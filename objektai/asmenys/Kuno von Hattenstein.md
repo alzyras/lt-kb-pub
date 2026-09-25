@@ -74,5 +74,5 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

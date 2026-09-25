@@ -71,5 +71,5 @@ Tai buvo du akmenys, gulintys vienas ant kito ir taip apdo roti, kad tarp jų su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

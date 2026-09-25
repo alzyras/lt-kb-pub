@@ -79,5 +79,26 @@ Narbutas pasakoja, kad į vakarus keliavusi tauta, laikydamasi kairiojo Pripetė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197112
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 209"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
+  citata_originali: |
+    Iš čia, tęsdami kelionę į
+    vakarus, atėjo į kairįjį krantą Pripetės, senovėje laikytos
+    vakarine Dnepro šaka1, Pentikapo upe, kurios vandens
+    baseinas jungėsi su Nemuno sistema (§21). Toliau, savo
+    kelionėje nenutoldami nuo kairiojo' Pripetės kranto, pateko
+    prie Maročės ir Punios žiočių. Šiose vietose keliaujanti
+    tauta sustojo ir, kaip įtikėtina, kažkiek laiko gyveno ar
+    paliko savo koloniją, kuri ten įsikūrė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

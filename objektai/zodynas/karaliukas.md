@@ -151,7 +151,7 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175087
@@ -173,7 +173,7 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175343
@@ -195,5 +195,5 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

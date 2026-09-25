@@ -90,5 +90,5 @@ canonical_biography: "Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

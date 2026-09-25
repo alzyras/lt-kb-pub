@@ -70,5 +70,5 @@ canonical_biography: "1637 m. Kauno miesto taryba sprendė miestelėno Kristupo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -120,6 +120,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-59501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -139,5 +140,5 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

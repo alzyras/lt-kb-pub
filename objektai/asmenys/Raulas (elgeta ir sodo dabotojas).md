@@ -102,7 +102,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177638
@@ -118,7 +118,7 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177639
@@ -134,5 +134,5 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

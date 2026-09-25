@@ -77,5 +77,5 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

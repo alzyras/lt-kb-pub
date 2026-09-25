@@ -71,5 +71,5 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

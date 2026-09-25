@@ -55,3 +55,44 @@ Archeologas Vykintas Vaitkevičius lokalizavo Kukaveičio lauką ir iškėlė hi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207697"></a>
+- t-001
+  teiginys: "Archeologas Vykintas Vaitkevičius lokalizavo Kukaveičio lauką ir iškėlė hipotezę, kad jame reikėtų ieškoti Algirdo sudeginimo vietos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190314
+
+## Citatos
+
+- id: c-190314
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 116"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 116."
+  citata_originali: |
+    Kukuvei-
+    čio miške šalia Maišiagalos.
+    2002 m. archeologas Vykintas Vaitkevičius, žinomas pagoniškų šventviečių ieškoto-
+    jas ir tyrėjas, lokalizavo Kukaveičio lauką (tokį žino XVIII a. dokumentai) ir suformulavo
+    hipotezę, kad būtent čia reikia ieškoti Algirdo sudeginimo vietos. Štai toks įspūdingas
+    laukas tampa pagoniškosios Lietuvos paveldo simboliu – imperijos „nuo jūros iki jūros“
+    sukūrėjas, Vokiečių ordinui siūlęs keltis iš Prūsų į stepes pas totorius, Konstantinopolio
+    patriarchui prisistatęs kaip „basileus“, skaitlingų vaikų, tarp jų ir Jogailos tėvas – o regis
+    užmirštas, nesurastas, neįpaveldintas.
+  citata_rodoma: ". archeologas Vykintas Vaitkevičius, žinomas pagoniškų šventviečių ieškoto-\njas ir tyrėjas, lokalizavo Kukaveičio lauką (tokį žino XVIII a. dokumentai) ir suformulavo \nhipotezę, kad būtent čia reikia ieškoti Algirdo sudeginimo vietos. Štai"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

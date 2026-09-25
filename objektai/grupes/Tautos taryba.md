@@ -76,6 +76,18 @@ media_all_json: |-
   pagrindžia:
     - c-95033
 
+<a id="claim-t-209599"></a>
+- t-209599
+  teiginys: "Delegatai telegrafavo visiems Tautos Tarybos nariams, prašydami įgaliojimų tartis su tautininkais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192219
+
 ## Citatos
 
 - id: c-95033
@@ -99,6 +111,24 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-192219
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 5"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 5."
+  citata_originali: |
+    Penkiomis išmušus ir gaidžiams jau senai savo
+    rytmetines dainas atgiedojus, mušėme telegra­
+    mas visiems Tautos Tarybos nariams prašyda­
+    mi įgaliojimų tartis su tautininkais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209599

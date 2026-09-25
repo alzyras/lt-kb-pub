@@ -69,5 +69,5 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

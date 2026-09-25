@@ -38,26 +38,6 @@ Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Li
 
 ## Teiginiai
 
-<a id="claim-t-189017"></a>
-- t-001
-  teiginys: "Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Lietuvos Rusios."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Rusia: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Rusia\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171906
-
 <a id="claim-t-205385"></a>
 - t-002
   teiginys: "Narbutas rašo, kad Brunonas per Galindą, Bartą ir Nadruvą pateko į Lietuvos Rusią, arba Saloviją."
@@ -70,6 +50,18 @@ Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Li
   vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
   pagrindžia:
     - c-187829
+
+<a id="claim-t-220178"></a>
+- t-220178
+  teiginys: "Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin gomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie tuvoje, bet ir Lietuvos Rusioje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198541
 
 ## Citatos
 
@@ -92,8 +84,6 @@ Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-187829
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -113,5 +103,23 @@ Narbutas rašė, kad senieji liaudies padavimai raganas paprastai kildino iš Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198541
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 333"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 333."
+  citata_originali: |
+    Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin­
+    gomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie­
+    tuvoje, bet ir Lietuvos Rusioje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220178

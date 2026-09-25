@@ -80,5 +80,5 @@ Kotzebue : Preussens ältere Geschichte , III, 292 p. (^14) CEV, 78, 1034 p.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

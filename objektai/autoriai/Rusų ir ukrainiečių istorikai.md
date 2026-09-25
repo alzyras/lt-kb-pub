@@ -182,7 +182,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -201,7 +201,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-50252
@@ -223,7 +223,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-50253
@@ -244,7 +244,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-50255
@@ -264,5 +264,5 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

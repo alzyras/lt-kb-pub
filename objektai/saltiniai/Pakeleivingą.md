@@ -57,5 +57,5 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

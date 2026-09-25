@@ -76,7 +76,7 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175854
@@ -104,5 +104,5 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

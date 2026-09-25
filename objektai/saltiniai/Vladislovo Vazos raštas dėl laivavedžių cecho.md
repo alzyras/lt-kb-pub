@@ -60,5 +60,5 @@ Ne visai aišku, kada buvo įkurtas ar bent pradėtas kurti laivavedžių cechas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

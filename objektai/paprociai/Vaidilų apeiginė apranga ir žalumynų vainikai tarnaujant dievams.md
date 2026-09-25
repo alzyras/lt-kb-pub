@@ -85,5 +85,26 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198241
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 293."
+  citata_originali: |
+    Vaidilų viršutinis drabužis buvo ilgas, įprastinio sukirpi­
+    mo, apsiūtas baltu drobiniu apvadu; krūtinė būdavo užsega­
+    ma trimis sagomis su trimis poromis baltų virvelinių kilpų, be­
+    sibaigiančių kutais. Baltas drobinis diržas, susegtas sagtimi arba
+    juosta. Drabužio apačioje vienur kitur būdavo prisiuvinėta pė­
+    dos ilgumo gyvulio plaukų kuokštų. Tarnaudami dievams, vai­
+    dilos užsidėdavo ant galvos žalumynų vainikus, nupintus iš
+    šventųjų medžių lapų ir kvapniųjų žolių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

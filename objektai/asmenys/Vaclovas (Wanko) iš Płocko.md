@@ -83,5 +83,5 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

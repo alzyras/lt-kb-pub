@@ -60,6 +60,30 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
   pagrindžia:
     - c-38607
 
+<a id="claim-t-210691"></a>
+- t-210691
+  teiginys: "Porchovas yra XV a. Didžiojo Naugardo miestas prie Selonės upės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193510
+
+<a id="claim-t-211550"></a>
+- t-211550
+  teiginys: "Porchovas buvo miestas Naugardo žemėje, prie kurio Vytautas prastovėjo šešis mėnesius nepaėmęs miesto."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194213
+
 ## Citatos
 
 - id: c-38607
@@ -81,5 +105,42 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-193510
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 253"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 253."
+  citata_originali: |
+    Porchovas — XV a. D. Naugardo, dabar RFTSR Pskovo si.
+    miestas (prie Selonės upės, j pietų vakarus nuo D. Naugardo)
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210691
+
+- id: c-194213
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 102"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102."
+  citata_originali: |
+    Didysis kunigaikštis Vytautas, sutelkęs visas savo
+    pajėgas, ištraukė į Naugardo žemę2, prastovėjo šešis
+    mėnesius prie Porchovo miesto3 ir, nepaėmęs miesto,
+    nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
+    gindamas ir imdamas nelaisvėn *.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211550

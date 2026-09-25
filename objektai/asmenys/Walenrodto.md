@@ -98,7 +98,7 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44578
@@ -122,5 +122,5 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

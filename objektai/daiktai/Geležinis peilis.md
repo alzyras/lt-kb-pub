@@ -74,5 +74,5 @@ Galima tik spėti, jog tai buvo peiliai, skustuvai (greta vieno iš jų radau ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

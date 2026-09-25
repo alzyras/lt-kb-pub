@@ -56,5 +56,5 @@ Dėl to reikia manyti, kad Evarto Krivis buvo pavaduoto jas arba pareigūnas, at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -64,5 +64,5 @@ Pasekmės tų tarybų, kurios tęsė si ir vėla iki 5 ryto Hotely Continental, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -71,5 +71,5 @@ Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

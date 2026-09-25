@@ -216,7 +216,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-15946
@@ -237,7 +237,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-160506
@@ -260,11 +260,12 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     gas. Jau Algirdo viešpatavimo pradžioje Šv.
   citata_rodoma: "V\\lre- tis buvęs Kęstudo karių suduptas.\n26\n\n## Puslapis 43\n\nI  KNYGA\nkrikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­\nko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte \nMarija, sekdamas Gedimino politika, leido, be skirtumo, iš \nRomos atsiųstiems vienuoliams Vilniuje skelbti evangeliją, \no graikų apeigų dvasininkams atlikti savo tikėjimo apei­\ngas. Jau Algirdo viešpatavimo pradžioje Šv."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-160507
@@ -281,11 +282,12 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     kunigaikščio Aleksandro dukterį Julijoną^15.
   citata_rodoma: "Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir\nmetropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės\nkunigaikščio Aleksandro dukterį Julijoną^15."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-160509
@@ -303,7 +305,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-160510
@@ -329,7 +331,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-160511
@@ -359,7 +361,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-160513
@@ -380,9 +382,10 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     pastangomis.
   citata_rodoma: "Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta\nne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —\npastangomis."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

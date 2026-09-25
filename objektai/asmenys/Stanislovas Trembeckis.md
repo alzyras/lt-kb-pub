@@ -94,5 +94,5 @@ Narbutas Raseinių apskrityje 1805 m. užrašytą dainelę lygino su Stanislovo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

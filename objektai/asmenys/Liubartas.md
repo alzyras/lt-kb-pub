@@ -407,6 +407,18 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   pagrindžia:
     - c-188973
 
+<a id="claim-t-210702"></a>
+- t-210702
+  teiginys: "Gedimino sūnus, Vytauto dėdė Liubartas, mirė prieš 1386 m. vasario mėn."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193635
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -451,7 +463,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-06239
@@ -467,7 +479,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-15266
@@ -488,7 +500,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-15267
@@ -514,7 +526,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
     - t-008
@@ -537,7 +549,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-88825
@@ -559,7 +571,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-168134
@@ -583,7 +595,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-168135
@@ -604,7 +616,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-168136
@@ -629,7 +641,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-014
 
@@ -663,7 +675,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-168139
@@ -704,7 +716,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
     - t-015
 
@@ -736,7 +748,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-184361
@@ -765,7 +777,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-188969
@@ -783,7 +795,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-188970
@@ -803,7 +815,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-188971
@@ -820,7 +832,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-188972
@@ -838,7 +850,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-188973
@@ -857,5 +869,22 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
+
+- id: c-193635
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 333"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 333."
+  citata_originali: |
+    Gedimino sūnus, Vytauto dėdė Liubartas, mirė prieš 1386 m.
+    vasario mėn. ar apie 1384 m.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210702

@@ -89,5 +89,5 @@ Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

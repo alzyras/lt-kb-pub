@@ -107,7 +107,7 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179286
@@ -128,5 +128,25 @@ Narbutas nurodė, kad Bajeris norėjo į „Monumentą Prussica“ įdėti 1590 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194778
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
+  citata_originali: |
+    Smalsuoliams
+    rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-
+    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
+    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
+    ją norėjo įdėti į savo „Monumentą Prussica“.
+    Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
+    gamtos tyrinėtojai Klaprotas ir Hagenas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -94,7 +94,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-13917
@@ -113,6 +113,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-13918
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -132,7 +133,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-65344
@@ -151,6 +152,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-65345
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

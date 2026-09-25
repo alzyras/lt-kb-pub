@@ -83,7 +83,7 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179292
@@ -106,5 +106,27 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196451
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 396"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 396."
+  citata_originali: |
+    Tad sauromatų vardą reikėtų versti į klaidžio­
+    jantys, klajokliai matai.
+    Šios tautos giminystę arba veikiau iš indų kolonistų
+    atsiradusį mokslingumą ponas Riteris įrodė mūsų ne
+    kartą cituotame ir kuo didžiausios pagarbos vertame vei­
+    kale, nagrinėdamas žiliausią Europos senovę.
+    Prie pačių keisčiausių išvadų, nepaisant slaviško
+    skambėjimo panašumo, labai artimo esmei, derėtų pri­
+    1 Tai įrodo Riteris (Vorhalle ettr.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

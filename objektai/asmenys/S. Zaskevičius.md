@@ -96,7 +96,7 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44505
@@ -120,7 +120,7 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-44506
@@ -145,5 +145,5 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

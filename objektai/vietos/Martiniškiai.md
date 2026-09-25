@@ -78,5 +78,5 @@ Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -84,5 +84,5 @@ V i 1 i m a s, Seniausios Lietuvos Didžiosios Kunigaikštystės žemės teismų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

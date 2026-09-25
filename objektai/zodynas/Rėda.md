@@ -83,7 +83,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-09736
@@ -98,5 +98,34 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192607
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 229"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 229."
+  citata_originali: |
+    Žinoma yra, jog rėda kožnos tautos visados kėlės nuo kunigų, kaipo dievo ir svieto tarpininkų, nesgi išminčiai svieto, regėdami, jog žmogus nuo pirmosios dienos lig savo paskuojės karšaties turi visados draugėj gyventi, kaipogi be draugės niekšai negalėtų ant svieto patekti, o ir gimęs be jos ilgainiui pragaištų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192893
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 229"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 229."
+  citata_originali: |
+    Sunku šiandien yra aiškiai ką apie senovės lietuvių ūkės rėdą parašyti, nesgi kruvinos karės,
+        smarkūs neprieteliai, dar užvis bjauresnė žmonių skaugė^956 visa paspėjo išnaikinti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

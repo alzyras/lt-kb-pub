@@ -70,5 +70,5 @@ Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, mid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

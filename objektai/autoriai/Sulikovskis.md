@@ -84,5 +84,5 @@ Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

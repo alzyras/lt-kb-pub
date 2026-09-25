@@ -85,5 +85,5 @@ Tik 1991 metais Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu partizanų p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

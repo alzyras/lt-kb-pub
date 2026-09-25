@@ -63,5 +63,23 @@ Dusburgietis teigia, kad kai jie pabeldė į vartus, juos apakino jų pačių ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205346
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
+  citata_originali: |
+    Todėl jie, subūrę kariuomenę,  užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
+    tebuvo du vyrai: vienas brolis bei jo tarnas. Ir štai kokie stebuklai! Kai jie pabeldė į
+    vartus, juos apakino jų pačių nedorybė, ir jie nestengė pamatyti prieš akis kabančio
+    šikšnogalio, arba diržo, kurį patraukus kad ir mažuoju pirštu, pilies vartai būtų atsivėrę
+    ir, savaime aišku, jie būtų iš pamatų šią pilį išgriovę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -70,5 +70,5 @@ O barzdaskučių ceche, matyt, vyravo liuteronai, nes šie nesiveržė iš cecho
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

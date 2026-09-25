@@ -356,7 +356,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-008
     - t-009
@@ -378,7 +378,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-79904
@@ -408,7 +408,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-79905
@@ -440,7 +440,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-007
 
@@ -466,7 +466,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-011
 
@@ -489,7 +489,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-79912
@@ -515,7 +515,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-168485
@@ -544,7 +544,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-168486
@@ -577,7 +577,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-168487
@@ -599,11 +599,12 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     rusiai pražūtingą skitų jėgą.
   citata_rodoma: "Gerai žinau, kad, pasak kurių ne kurių metrašti­\nninkų, Vytautas ėmęsis tokio drąsaus sumanymo dėl to,\nkad troško išgarsėti ir išplėsti savo valdžią. Vis dėlto\ngarbės jausmą jis puikiausiai galėjo patenkinti karuo­\nse su kryžiuočiais, todėl atrodo, jog daug arčiau tiesos\ntie, kurie sako, kad jis pradėjo karą su skitais, rūpin­\ndamasis apginti Rusią. Mat Tamerlanas, nuniokojęs\ndidelę pasaulio dalį ir sutriuškinęs turko Bajazito ga­\nlybę, sukėlė visose karalystėse didžiulį siaubą, pirmiau­\nsia jis įvarė baimės kaimyninei Rusiai, ne kartą paty­\nrusiai pražūtingą skitų jėgą."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 ## Ryšiai

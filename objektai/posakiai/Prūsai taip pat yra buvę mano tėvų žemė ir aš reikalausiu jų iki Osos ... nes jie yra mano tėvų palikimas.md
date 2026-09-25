@@ -74,5 +74,23 @@ Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai parei�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205491
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  citata_originali: |
+    pradžioje. 1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir
+    Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto
+    tėvonija40. 1413 m., Salyno derybų metu, Vytautas griežtai pareiškė kryžiuočiams, jog
+    „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t. y. visų
+    prūsų žemių iki Vyslos su Pamede imtinai — R. B.), nes jie yra mano tėvų palikimas“41.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

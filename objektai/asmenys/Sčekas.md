@@ -67,6 +67,18 @@ Pasak padavimo, Sčekas su Kijumi ir Choryvu buvo laikomi Kijevo įkūrėjais ar
   pagrindžia:
     - c-174866
 
+<a id="claim-t-215569"></a>
+- t-215569
+  teiginys: "Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko ir Choryvo miestų atnaujinimo epocha. Padavimas teigia, jog jie buvę įkūrėjai ar atnaujintojai Kijevo, be to, ga lėjo būti, jog pirmojo vardas buvo šiek tiek panašus į senovinį miesto pavadinimą; iš čia ir."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195943
+
 ## Citatos
 
 - id: c-174866
@@ -91,6 +103,31 @@ Pasak padavimo, Sčekas su Kijumi ir Choryvu buvo laikomi Kijevo įkūrėjais ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-195943
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 379."
+  citata_originali: |
+    Iš tiesų truputį vėliau jie iške­
+    liavo Vyslos žemupio link ir įsikūrė jos kairiojoje pakran­
+    tėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami
+    prie Dnepro net savo pavadinimo pėdsakų. Tačiau slavai
+    ir toliau gyveno šiame mieste ir jo apylinkėse.
+    Netrukus prasidėjo trijų brolių slavų: Kijaus, Sčeko
+    ir Choryvo miestų atnaujinimo epocha. Padavimas teigia,
+    jog jie buvę įkūrėjai ar atnaujintojai Kijevo, be to, ga­
+    lėjo būti, jog pirmojo vardas buvo šiek tiek panašus į
+    senovinį miesto pavadinimą; iš čia ir atsirado naujas
+    Kijev horod, Kijev perevoz na Dnepre pavadinimas.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215569

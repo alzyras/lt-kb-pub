@@ -88,5 +88,5 @@ Pasak Teodoro Narbuto, 1385 m. susitaikęs su Jogaila Vytautas, Julijonos Algird
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -71,5 +71,5 @@ Lietuva ir toliau buvo laikoma inkorporuota į Len­ kiją, bet faktiška padėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

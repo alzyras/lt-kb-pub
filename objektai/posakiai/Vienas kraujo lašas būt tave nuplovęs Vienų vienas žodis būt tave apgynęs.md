@@ -94,7 +94,7 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44965
@@ -117,5 +117,5 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

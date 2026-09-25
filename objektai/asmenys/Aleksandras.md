@@ -270,6 +270,70 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   pagrindžia:
     - c-188267
 
+<a id="claim-t-207414"></a>
+- t-207414
+  teiginys: "Alfredas Bumblauskas nurodo, kad 1492 m. Aleksandras išrinktas savarankišku Lietuvos valdovu, o iki tol valdęs Kazimieras buvo ir Lenkijos karalius."
+  atnaujinta: "2026-09-19 09:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas istorinis įvykis ir aiškiai įvardytas Kazimiero statusas. Išlaikyta tik citatoje pagrįsta informacija."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190093
+
+<a id="claim-t-210648"></a>
+- t-210648
+  teiginys: "Lietuvos metraštis teigia, kad nuo pasaulio sutvėrimo septyni tūkstančiai aštun taisiais, o nuo dievo gimimo 1499 metais Maskvos di dysis kunigaikštis Ivanas Vasiljevičius sumanė pradėti kovą prieš savo žentą, Lietuvos didįjį kunigaikštį Aleksandrą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194299
+
+<a id="claim-t-212050"></a>
+- t-212050
+  teiginys: "Karaliui Kazimierui mirus, lenkai į Lenkijos kara lystės sostą paėmė jo sūnų karalaitį Olbrachtą ', o lie tuviai Lietuvos Didžiajai Kunigaikštystei kunigaikščiu paėmė antrą karalaitį — jo tikrą brolį Aleksandrą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193383
+
+<a id="claim-t-213115"></a>
+- t-213115
+  teiginys: "Skitų susidūrime su Aleksandro galybe Sapiriono vadovaujama kariuomenė prarado 30 000 karių ir buvo priversta prašyti taikos."
+  atnaujinta: "2026-09-19 09:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196692
+
+<a id="claim-t-216018"></a>
+- t-216018
+  teiginys: "Valdant karaliui Aleksandrui, jo įsakymu pagoniškos šventyklos vietoje buvo pastatyta filija."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198997
+
 ## Reikšmingi paminėjimai
 - c-014
   santrauka: 'Alfredas Bumblauskas nurodo, kad 1492 m. Aleksandras išrinktas savarankišku Lietuvos valdovu, o iki tol valdęs Kazimieras buvo ir Lenkijos karalius.'
@@ -302,7 +366,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-85563
@@ -333,7 +397,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -360,7 +424,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173724
@@ -394,7 +458,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-178665
@@ -420,7 +484,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184314
@@ -440,7 +504,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-184315
@@ -464,7 +528,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-184316
@@ -496,7 +560,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-186609
@@ -514,7 +578,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-186949
@@ -537,7 +601,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-188265
@@ -560,7 +624,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-188266
@@ -581,7 +645,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-188267
@@ -605,5 +669,118 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
+
+- id: c-190093
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 46"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 46."
+  citata_originali: |
+    Tačiau Edmundas Rimša Mokslų akademijos bibliotekoje surado Aleksandro laikų ant-
+    spaudą, kurio centre vaizduojamas Lietuvos herbas Vytis, virš jo dešinėje – erelis (Alek-
+    sandro tėvo Lenkijos karaliaus Kazimiero Jogailaičio herbas), o kairėje – juosta (motinos
+    Elzbietos iš Habsburgų herbas). Aplink Vytį išdėstyti dar trys herbai: Arkangelas My-
+    kolas – Kijevo žemės herbas, Voluinės žemės kryžius bei lokys su grandine – Smolensko
+    žemės herbas. Šio antspaudo atsiradimas buvo susijęs su Aleksandro išrinkimu 1492 m.
+    savarankišku Lietuvos valdovu (iki tol valdęs Kazimieras buvo kartu ir Lenkijos karalius).
+  citata_rodoma: "Šio antspaudo atsiradimas buvo susijęs su Aleksandro išrinkimu 1492 m. \nsavarankišku Lietuvos valdovu (iki tol valdęs Kazimieras buvo kartu ir Lenkijos karalius)."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207414
+
+- id: c-193383
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 143"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 143."
+  citata_originali: |
+    Karaliui Kazimierui mirus, lenkai į Lenkijos kara­
+    lystės sostą paėmė jo sūnų karalaitį Olbrachtą ', o lie­
+    tuviai Lietuvos Didžiajai Kunigaikštystei kunigaikščiu
+    paėmė antrą karalaitį — jo tikrą brolį Aleksandrą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212050
+
+- id: c-194299
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
+  citata_originali: |
+    Nuo pasaulio sutvėrimo septyni tūkstančiai aštun­
+    taisiais, o nuo dievo gimimo 1499 metais Maskvos di­
+    dysis kunigaikštis Ivanas Vasiljevičius sumanė pradėti
+    kovą prieš savo žentą, Lietuvos didįjį kunigaikštį
+    Aleksandrą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210648
+
+- id: c-196692
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
+  citata_originali: |
+    Vėliau, 358 metais prieš Kristaus gi­
+    mimą, ėmė didėti politinė įtaka karaliaus Pilypo valdo­
+    mos Makedonijos, kurios galia Graikijos atžvilgiu iškilo
+    iki tokio lygio, jog Skitijos tautos, turėjusios glaudžius
+    ryšius su tenykščiais graikų kolonistais, pajuto nemažą
+    įtaką. Tačiau jie pakentė tai neilgai, nes istorijoje ran­
+    dame prisiminimų apie skitų genčių susidūrimą su Pi­
+    lypo sūnumi ir įpėdiniu Aleksandru; kaunantis Sapiriono
+    vadovaujama kariuomenė prarado 30 000 karių1, bet bu­
+    vo priversta prašyti Aleksandro taikos ir santarvės, o
+    vėliau, kai pagarsėjo šaunus šio monarcho žygis į Aziją,
+    skitai taip ir liko priklausomi nuo Makedonijos galybės
+    ir buvo tolydžio puldinėjami Uždonės tautų2.
+    42
+    Taip senovės skitų genčių santvarka ir politinė įtaka
+    IV amžiuje prieš Kristaus gimimą labai sumažėjo, o šią
+    milžinišką genčių sąjungą sudariusios vienos gentys pa­
+    sitraukė į Aziją, kitos paspruko į Europos gilumą, gau­
+    damos kitus pavadinimus, kitokius papročius ir naują kal­
+    bą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213115
+
+- id: c-198997
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  citata_originali: |
+    Val­
+    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
+    toje buvo pastatyta filija .
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216018

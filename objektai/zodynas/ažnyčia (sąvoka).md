@@ -68,9 +68,10 @@ Ažnyčia buvo vieta, kur salyklas daiginamas ir džiovinamas.
     mynykščius buvus duonos ponui kepėjus.
   citata_rodoma: "Ažnyčia - vieta, kur buvo ir daiginamas, ir džio-\nvinamas salyklas - žr. Pirmasis lietuvių kalbos žodynas. \nKonstantinas Sirvydas. Dictionarium trium linguarum / \nRed. A. Lyberis. Vilnius, 1979, p. 686."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -78,5 +78,5 @@ Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m. liepos 15–17 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -724,11 +724,12 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     Jogailą su motina ir seserimi Marija
     bei jos vyru.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-55250
@@ -761,7 +762,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-010
     - t-030
@@ -799,7 +800,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-55252
@@ -833,11 +834,12 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
     bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-55253
@@ -865,7 +867,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-157329
@@ -887,7 +889,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-157330
@@ -914,7 +916,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-157335
@@ -943,7 +945,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-157336
@@ -966,7 +968,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-157337
@@ -989,7 +991,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-009
 
@@ -1033,11 +1035,12 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     leid.
   citata_rodoma: "Šitaip Kryžiuočių ordino kruvina politika\n34\nStrijkovskis prie nukautų tos \napsupties metu priskiria Nariman­\ntą, įdėdamas šį D 1  u g o š o prasi­\nmanytą pasakojimą: „Narimantas, \nPinsko kunigaikštis, Jogailos tikras \nbrolis, tuo metu, kai narsiai abi pilis \nsu Lietuva ir Rusia gindamas ėjo į \npagalbą nuo vienų prie kitų, buvo \nkažkokio vokiečio riterio, ne pras­\nčioko, iš Vytauto pusės, iškviestas \nstoti vienas prieš vieną, o kai abu iš \nmūšio lauko atjoję į pievą narsiai su­\nkryžiavo ietis, ir pats Narimantas, \nnuo žirgo nublokštas, buvo sučiup­\ntas ir atvestas pas Vytautą, pastara­\nsis aną be gailesčio įsakė už kojų ant \nvinkšnos šakos pakarti lankoje, tarp \nvokiečių patrankų ir šaudyklių, o \npatį mirtinai iš lanko paleista strėle \npervėrė, pamindamas deramas pus­\nbroliui, riteriui kunigaikščiui, prie­\ndermes/7  Knyga XIII, p. 455, Varš. \nleid."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-014
 
@@ -1058,11 +1061,12 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     niaus įkūrimą XIV amžiuje, likę pėdsakų, liudijančių tą mies­
     tą buvus jau XII amžiuje.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-157344
@@ -1084,7 +1088,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-157345
@@ -1112,7 +1116,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-171381
@@ -1129,7 +1133,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-171382
@@ -1151,7 +1155,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-171383
@@ -1171,7 +1175,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-171384
@@ -1192,7 +1196,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-171385
@@ -1214,7 +1218,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-171386
@@ -1233,7 +1237,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-171387
@@ -1262,7 +1266,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-173709
@@ -1292,7 +1296,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-173710
@@ -1316,7 +1320,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-173711
@@ -1340,7 +1344,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-173712
@@ -1368,7 +1372,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
     - t-032
 
@@ -1399,7 +1403,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-179146
@@ -1423,5 +1427,170 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
+
+- id: c-194973
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
+  citata_originali: |
+    Tačiau esama sunku­
+    mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
+    apie dalykus, susijusius su įvykiais, galėjusiais įvykti
+    daugiau negu šimtmetis prieš naują erą, jis mini 1190
+    metus ir kalba apie tą potvynį, kuris, anot jo pasakoji­
+    mų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3.
+    Strijkovskis neabejotinai taiso šios vietos prieštaravimus
+    ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
+    epochą, vesdamas juos nuo Baltijos jūros pakrančių tie­
+    siai į Ilyriją, kur jie prie Nortbėjos pirmąsyk kariauja su
+    tenykščio prokonsulo Cyras-Karbo** vadovaujamais ro­
+    mėnais; tai įvyko 190 metais prieš Kristaus gimimą4. Iš
+    to išplaukia, kad buvo pastebėta Rozencveigo ar klaidin­
+    gai į egzempliorius, buvusius po ranka Hartknochui ir
+    Pretorijui, o gal ir Strijkovskiui, įrašyta data, tikriausiai
+    prieš skaičių 190 pridėtas vienas vienetas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195673
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 30"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
+  citata_originali: |
+    Baigtos istorijos negalime rasti1;
+    kronikos ir istorijos žinių rinkiniai, pasirodę vos nuo­
+    trupomis, tik tikslina padavimų ir raštų minimas žinias,
+    kad būta ir plačiau išdėstytų dalykų. Iš visų spausdintų
+    verčiausias yra vienas Strijkovskis**, po to — prūsų ir
+    Livonijos kronikininkai. Nepaneigiama tiesa tai, kad šis
+    istorikas būtų buvęs laimingesnis, jei būtų panorėjęs ap­
+    siriboti tik senienų ir rankraščių, kurių daugelį turėjo po
+    ranka, rinkėjo šlove; bet, nelaimei, jis įsigeidė istorijos,
+    suskirstytos į knygas ir skyrius, kurių priekyje įdėtų sa­
+    vo rėmėjų vardus. Užsikrovęs šią ne pagal savo jėgas
+    naštą, mūsų garbingasis pirmtakas skubėjo be menkiau­
+    sios kritikos, be atsargumo su datomis, palyginimo, da­
+    lyko nagrinėjimo, ir skubėjo pagrįstai: jau nedaug metų
+    jam buvo skirta gyventi. Tačiau jis nesuskubo įgyvendin­
+    ti visų savo ketinimų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197213
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
+  citata_originali: |
+    Strijkovskis neabejotinai taiso šios vietos prieštaravimus
+    ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
+    epochą, vesdamas juos nuo Baltijos jūros pakrančių tie­
+    siai į Ilyriją, kur jie prie Nortbėjos pirmąsyk kariauja su
+    tenykščio prokonsulo Cyras-Karbo** vadovaujamais ro­
+    mėnais; tai įvyko 190 metais prieš Kristaus gimimą4. Iš
+    to išplaukia, kad buvo pastebėta Rozencveigo ar klaidin­
+    gai į egzempliorius, buvusius po ranka Hartknochui ir
+    Pretorijui, o gal ir Strijkovskiui, įrašyta data, tikriausiai
+    prieš skaičių 190 pridėtas vienas vienetas. Tos audros,
+    anot kronikose užrašytų padavimų, beveik be paliovos
+    truko 12 metų, nusiaubė Baltijos jūros vakarines pakran­
+    tes ir neatpažįstamai pakeitė jų vaizdą: pradingo netoli
+    1 Plutarchus; Sirabo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198475
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  citata_originali: |
+    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
+    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
+    mėti ten visuomet stovi medinis kryžius. Jis yra ant gana aukš­
+    to kalno, matomas toli iš jūros.
+    Lietuvos ir Prūsijos archeologų surinkti duomenys patiks­
+    lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri-
+    mės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­
+    lučių. Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199208
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 180."
+  citata_originali: |
+    Anuo metu Strijkovskis, įtikėjęs savo tiesa, teigė, jog jie
+    pasirodydavę prieštaringiems žmonėms. Kaip įrodymą jis pa­
+    teikia Upsalos arkivyskupo Olafo, Agripos ir kitų lengvatikių,
+    kaip ir jis pats, rašytojų liudijimus, nes sako: „Kurše, Livonijo­
+    je, Sambijoje, Prūsijoje, Žemaitijoje, už Miromskiemio (? -
+    R.J.) ir Insterburgo pats girdėjau ir mačiau savo akimis, kaip
+    garbinamas Pušaitis ir barstukai18“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199631
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  citata_originali: |
+    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
+    rųjų reiškia storulį, perkeltine prasme - turčių. Iš čia Pilwitos,
+    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201169
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  citata_originali: |
+    Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
+    po Amžinosios ugnies aukuro griuvėsiais30.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

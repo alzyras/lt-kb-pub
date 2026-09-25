@@ -453,7 +453,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-014
 
@@ -481,7 +481,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-019
 
@@ -508,7 +508,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-017
 
@@ -533,7 +533,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-016
 
@@ -568,7 +568,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-013
 
@@ -592,7 +592,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-46480
@@ -613,7 +613,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-46481
@@ -632,7 +632,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-92246
@@ -655,7 +655,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-92252
@@ -685,7 +685,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-92254
@@ -705,7 +705,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-92255
@@ -734,7 +734,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-018
 
@@ -759,7 +759,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-009
 
@@ -775,11 +775,12 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
     rą.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-167170
@@ -802,5 +803,5 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021

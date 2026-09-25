@@ -82,5 +82,5 @@ Raimondos Ragauskienės darbe apie Mikalojaus Radvilos Rudojo ir Žygimanto Augu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

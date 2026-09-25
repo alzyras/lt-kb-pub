@@ -1816,6 +1816,100 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-189138
 
+<a id="claim-t-177745"></a>
+- t-177745
+  teiginys: "Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją."
+  atnaujinta: "2026-09-19 00:21"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Švedai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskva: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Švedai: mention_match, group, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskva\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-161585
+
+<a id="claim-t-207595"></a>
+- t-207595
+  teiginys: "1611 m. Lenkijos ir Lietuvos kariuomenė buvo užėmusi Maskvą."
+  atnaujinta: "2026-09-19 00:21"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1611 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti skliaustų ir OCR fragmentai, o nutrūkusi datos forma atkurta į vientisą faktinį sakinį."
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190212
+
+<a id="claim-t-207596"></a>
+- t-207596
+  teiginys: "„Žalgiris“ įvardijamas kaip sovietinė sporto draugija, sukurta Maskvoje."
+  atnaujinta: "2026-09-19 00:21"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190213
+
+<a id="claim-t-207842"></a>
+- t-207842
+  teiginys: "Maskvoje lankėsi 1570 m. Varšuvos seimo dienoraščio autorius Rafałas Leszczyńskis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1570 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190409
+
+<a id="claim-t-210689"></a>
+- t-210689
+  teiginys: "Bychovco kronikoje aprašomas karas su Maskvos didžiąja kunigaikštyste 1445 m."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193916
+
+<a id="claim-t-211261"></a>
+- t-211261
+  teiginys: "Šventasis metropolitas Kiprijonas27 su arkivyskupais ir vyskupais, su archi mandritais, igumenais ir su visų rangų dvasininkais pa sitiko ją priešais Maskvos miestą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193347
+
+<a id="claim-t-211482"></a>
+- t-211482
+  teiginys: "Mykoliukas Žygimantaitis pabėgo į Maskvą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193607
+
 ## Reikšmingi paminėjimai
 - c-073
   santrauka: 'Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.'
@@ -1897,7 +1991,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-067
 
 - id: c-24290
@@ -1921,7 +2015,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-031
 
@@ -1941,7 +2035,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-066
 
 - id: c-32225
@@ -1958,7 +2052,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-37537
@@ -1990,7 +2084,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-080
 
 - id: c-37540
@@ -2010,11 +2104,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     ar bent turėti jiems didelę įtaką.
   citata_rodoma: "Per metų metus rytų reikalai jam vyrauja;\njis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas\nrytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­\ngardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­\nčiai, totoriai. Vytautas nori visus juos paimti savo valdžion\nar bent turėti jiems didelę įtaką."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-019
 
@@ -2047,7 +2142,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-012
 
@@ -2081,7 +2176,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
     - t-041
 
@@ -2101,7 +2196,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
     - t-086
 
@@ -2128,7 +2223,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-050
     - t-079
 
@@ -2151,7 +2246,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-081
 
 - id: c-46608
@@ -2174,7 +2269,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-054
 
 - id: c-46614
@@ -2194,7 +2289,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-161548
@@ -2214,7 +2309,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-064
 
 - id: c-161549
@@ -2237,7 +2332,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-059
     - t-069
 
@@ -2268,7 +2363,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-062
 
 - id: c-161551
@@ -2299,7 +2394,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-161552
@@ -2323,7 +2418,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-161553
@@ -2354,7 +2449,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-071
 
@@ -2378,7 +2473,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-048
 
 - id: c-161555
@@ -2407,7 +2502,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-060
     - t-068
 
@@ -2428,7 +2523,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
     - t-027
 
@@ -2457,7 +2552,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
     - t-074
 
@@ -2481,7 +2576,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
 
 - id: c-161563
@@ -2500,7 +2595,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-161565
@@ -2523,7 +2618,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-070
 
 - id: c-161567
@@ -2544,7 +2639,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-021
 
@@ -2575,7 +2670,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-083
 
 - id: c-161569
@@ -2607,7 +2702,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-161570
@@ -2627,7 +2722,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
 
 - id: c-161571
@@ -2649,7 +2744,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-161572
@@ -2673,7 +2768,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-077
 
 - id: c-161574
@@ -2693,7 +2788,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-161575
@@ -2713,7 +2808,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-161576
@@ -2737,7 +2832,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-078
     - t-087
 
@@ -2771,7 +2866,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-084
 
 - id: c-161580
@@ -2803,7 +2898,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-063
 
 - id: c-161581
@@ -2824,7 +2919,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-161582
@@ -2847,7 +2942,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
     - t-052
 
@@ -2871,7 +2966,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-161585
@@ -2894,6 +2989,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-177745
+
 - id: c-161586
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2912,7 +3010,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-044
 
 - id: c-161588
@@ -2939,7 +3037,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-076
 
 - id: c-161591
@@ -2960,7 +3058,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-161592
@@ -2985,7 +3083,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
     - t-061
 
@@ -3008,7 +3106,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-088
 
 - id: c-161594
@@ -3041,7 +3139,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-161596
@@ -3063,7 +3161,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-075
 
 - id: c-161597
@@ -3084,7 +3182,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-161600
@@ -3106,7 +3204,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-047
 
 - id: c-161602
@@ -3130,7 +3228,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-058
 
 - id: c-161604
@@ -3155,7 +3253,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
     - t-055
 
@@ -3179,7 +3277,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-161610
@@ -3201,7 +3299,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
 
 - id: c-161612
@@ -3227,7 +3325,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
     - t-082
 
@@ -3253,7 +3351,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-085
 
@@ -3277,7 +3375,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-049
 
 - id: c-161620
@@ -3302,7 +3400,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-161622
@@ -3325,7 +3423,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-161623
@@ -3343,7 +3441,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-046
 
 - id: c-161629
@@ -3364,7 +3462,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
     - t-072
 
@@ -3396,7 +3494,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-051
     - t-065
 
@@ -3416,7 +3514,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
 
 - id: c-161633
@@ -3439,7 +3537,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-161634
@@ -3462,7 +3560,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
 
 - id: c-161636
@@ -3487,7 +3585,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-161640
@@ -3509,7 +3607,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-161642
@@ -3536,7 +3634,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-057
 
 - id: c-161644
@@ -3557,7 +3655,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-056
 
 - id: c-161646
@@ -3579,7 +3677,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-073
 
 - id: c-166441
@@ -3594,11 +3692,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
     nebe puolančioji, bet puolamoji.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-089
 
 - id: c-168400
@@ -3633,7 +3732,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-090
 
 - id: c-168403
@@ -3657,7 +3756,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-091
 
 - id: c-170554
@@ -3679,7 +3778,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-092
 
 - id: c-171659
@@ -3699,7 +3798,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-093
 
 - id: c-175957
@@ -3719,7 +3818,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-094
 
 - id: c-175958
@@ -3738,7 +3837,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-095
 
 - id: c-175959
@@ -3761,7 +3860,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-096
 
 - id: c-177330
@@ -3784,7 +3883,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-097
 
 - id: c-178862
@@ -3807,7 +3906,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-098
 
 - id: c-187739
@@ -3826,7 +3925,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-099
 
 - id: c-189136
@@ -3845,7 +3944,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-100
 
 - id: c-189137
@@ -3874,7 +3973,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-101
 
 - id: c-189138
@@ -3893,8 +3992,149 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-102
+
+- id: c-190212
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 160"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 160."
+  citata_originali: |
+    Lenkijos–Lietuvos valdovu tapus Transilvanijos kunigaikščiui
+    Steponui Batorui (valdė 1576–1586 m.) buvo pasiektos lemiamos pergalės Livonijos kare
+    prieš Maskvą ir šios pavojus atitolintas daugiau nei pusamžiui (1609–1611 m. Lenkija–Lie-
+    tuva net buvo užėmusi Maskvą). Tačiau svarbiausias Liublino unijos kompromiso rezulta-
+    tas – Abiejų Tautų Respublika, kuri egzistavo dar du amžius.
+  citata_rodoma: "611 m. Lenkija–Lie-\ntuva net buvo užėmusi Maskvą). Tač"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207595
+
+- id: c-190213
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 300"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 300."
+  citata_originali: |
+    Žemė – tikriausias lietuvio daiktas, dėl kurio verta dešimtmečiams
+    grandinėmis prirakinti brolius ir be kurios negali pastatyti namo, pasodinti ąžuolo ir už-
+    auginti sūnaus. Žalgiris – tai ne vienas iš nedaugelio faktų, žinomų iš Lietuvos istorijos,
+    o „Žalgiris“ – sovietinė sporto draugija, sukurta Maskvoje ir globa apglobusi antrąją, o iš
+    tikrųjų pirmąją lietuvių religiją, pakeitusią ne tik krikščionybę, bet net ir pagonybę. Žy-
+    dai – visi lietuviai juos myli, tarp jų kiekvienas turi po vieną draugą, tačiau tik po vieną,
+    nes jie yra svetimi, kaip ir kiti lietuvių skriaudikai – lenkai, vokiečiai ar rusai.
+  citata_rodoma: "sovietinė sporto draugija, sukurta Maskvoje ir globa apglobusi antrąją, o iš \ntikrųjų pirmąją lietuvių religiją, pakeitusią ne tik krikščionybę, bet net ir pagonybę. Žy-\ndai – vi"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207596
+
+- id: c-190409
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 95"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 95."
+  citata_originali: |
+    Varšuvos seimo dienoraščio, kaip istorinio šaltinio vertę,
+    rasojo teksto publikuotojas Janas Pirożyńskis. Tyrėjo teigimu, šio dienoraščio, nors tai
+    yra vienintelis iki šiol žinomas 1570 m. Varšuvos seimo darbą nušviečiantis šaltinis,
+    vertė santykiškai nėra labai didelė, nes jį rašęs Rafałas Leszczyńskis tuo metu, kai seimas
+    posėdžiavo Varšuvoje, pats būdamas Lenkijos pasiuntinybės narys, lankėsi Maskvoje.
+  citata_rodoma: "Tyrėjo teigimu, šio dienoraščio, nors tai\nyra vienintelis iki šiol žinomas 1570 m. Varšuvos seimo darbą nušviečiantis šaltinis,\nvertė santykiškai nėra labai didelė, nes jį rašęs Rafałas Leszczyńskis tuo metu, kai seimas\nposėdžiavo Varšuvoje, pats būdamas Lenkijos pasiuntinybės narys, lankėsi Maskvoje."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207842
+
+- id: c-193347
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 92"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 92."
+  citata_originali: |
+    Šventasis metropolitas
+    Kiprijonas27 su arkivyskupais ir vyskupais, su archi­
+    mandritais, igumenais ir su visų rangų dvasininkais pa­
+    sitiko ją priešais Maskvos miestą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211261
+
+- id: c-193607
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 131."
+  citata_originali: |
+    Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka­
+    riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211482
+
+- id: c-193916
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 16."
+  citata_originali: |
+    Bychovco kronikos tekstas, kuris dar remiasi anks­
+    tesnių sąvadų medžiaga, baigiasi perrašytu iš Trumpojo
+    sąvado, bet taip pat perredaguotu pasakojimu apie
+    1440 m. sukilimą Smolenske ir 1445 m. pradžios karą
+    su Maskvos didžiąja kunigaikštyste.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210689
+
+- id: c-197494
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 72."
+  citata_originali: |
+    Tačiau šio Ross pavadini­
+    mo neįmanoma susieti su jokia kita tauta, išskyrus bu­
+    dinus, kai jau dauguma mokslininkų neigia slavų rusų
+    egzistavimą iki Riuriko. Taip pat kalbama ir apie tautų
+    protėvius Masochą ir Tovelą, arba Tobalą, minimus Šven­
+    tajame Rašte kaip slavų gyvenamųjų vietų Maskvos ir
+    Tobolsko pirmtakus2.
+    57
+    Europos budinai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jonas Kalita]], [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]

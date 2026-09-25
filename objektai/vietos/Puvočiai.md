@@ -72,5 +72,5 @@ Jis pranešė liūdną naujieną: Puvočių kaime, poilsio metu netikėtai prie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

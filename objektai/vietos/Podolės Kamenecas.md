@@ -144,6 +144,20 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   pagrindžia:
     - c-170334
 
+<a id="claim-t-208051"></a>
+- t-208051
+  teiginys: "1766 m. Podolės Kameneco fejerverko piešinys buvo sukurtas Stanislovo Augusto Poniatovskio garbei."
+  atnaujinta: "2026-09-20 16:21"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  temporaliniai_duomenys: "įvykio data: 1766 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190669
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą.'
@@ -182,7 +196,7 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
@@ -203,5 +217,24 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-190669
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 329"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 329."
+  citata_originali: |
+    Vienas iš nedaugelio Abiejų Tautų Respublikoje surengtų fejerverkų vaizdinių šaltinių - pulkinin­
+    ko Jano dc W i t t c o sukurto fejerverko Podolės Kamcnccc 1766 m. Stanislovo Augusto Poniatov­
+    skio garbei piešinys. Centre vaizduotas jaučiu pasivertęs Dzeusas (asociacija su Stanislovo Augusto
+    Poniatovskio herbu Ciolek), ant nugaros nešantis Fortūną su įrašu: „Virtus hanc vehit Fortunam".
+  citata_rodoma: "Vienas iš nedaugelio Abiejų Tautų Respublikoje surengtų fejerverkų vaizdinių šaltinių - pulkinin­\nko Jano dc W i t t c o sukurto fejerverko Podolės Kamcnccc 1766 m. Stanislovo Augusto Poniatov­\nskio garbei piešinys"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208051

@@ -371,7 +371,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55635
@@ -401,7 +401,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-55636
@@ -426,7 +426,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-55637
@@ -457,7 +457,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-55638
@@ -483,7 +483,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-55639
@@ -514,7 +514,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-55640
@@ -543,6 +543,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-55641
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -565,6 +566,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-55642
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -592,6 +594,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-55643
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -610,7 +613,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-156040
@@ -627,11 +630,12 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonisla-
     vas, Mazovijos kunigaikštis]0.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-156041
@@ -653,7 +657,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-156042
@@ -668,7 +672,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-156043
@@ -696,7 +700,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-156044
@@ -726,7 +730,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-156045
@@ -751,7 +755,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-156046
@@ -778,7 +782,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-156047
@@ -809,7 +813,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-156048
@@ -833,5 +837,19 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
+
+- id: c-202954
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 263"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 263."
+  citata_originali: |
+    Gedimino laiškai / Parengė V. Pašuta ir J. Stal.—V., 1966.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

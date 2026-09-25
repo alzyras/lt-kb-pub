@@ -213,6 +213,18 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   pagrindžia:
     - c-184299
 
+<a id="claim-t-219937"></a>
+- t-219937
+  teiginys: "Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai, panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma kitame šio veikalo tome."
+  atnaujinta: "2026-09-19 16:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198662
+
 ## Citatos
 
 - id: c-64412
@@ -233,7 +245,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171375
@@ -257,7 +269,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171376
@@ -280,7 +292,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173701
@@ -303,7 +315,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173702
@@ -328,7 +340,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-007
 
@@ -351,7 +363,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-008
 
@@ -378,7 +390,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-184299
@@ -400,5 +412,117 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+
+- id: c-194952
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
+  citata_originali: |
+    Ki­
+    ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
+    mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
+    gezanijos tėvo, vardą. Daugiausiai dėmesio vertas šios
+    provincijos prekybinis miestas Trusas prie Drūsinės eže­
+    ro, buvęs, ko gero, ten, kur vėliau buvo įkurtas Elblion-
+    gas. Tačiau su tuo miestu susiję dalykai išnyksta prieš­
+    istorinėje praeityje, jog net nežinome, ar buvo šio seno­
+    vinio miesto pėdsakų prieš įkuriant Elbliongą. Jei netu­
+    rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
+    nieko nežinotume apie šį miestą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195199
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 92."
+  citata_originali: |
+    Aprašinėdamas
+    prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
+    diškų kaprizų vadina salomis, jis rašo: „Taip pat mums
+    pasakojo, kad toje jūroje esama daug kitų salų, kurių
+    viena
+    didžiulė vadinasi Estlandija1. Čia neminėsime
+    skandinavų keliautojo Vulfstano pasakojimo apie Estiją;
+    čia jis apsilankė IX amžiaus antrojoje pusėje. Apie tai
+    kalbėsime toliau aprašydami Lietuvos dalykus**.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197313
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 358"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 358."
+  citata_originali: |
+    Antra ap­
+    skritis buvo Kodinėnų valdos; tad įvairios aukštumos, nuo
+    senovės stovėjusios pilaitės galėjo priklausyti įvairiems
+    savininkams. Čia irgi nestigo ponų, turėjusių savaran­
+    kiškas valdas. Apie juos jau rašė keliautojas Vulfstanas;
+    jų karta išliko ligi šiol. Senovinė Kiedinių tvirtovė, kur
+    vėliau įsikūrė vienuolynas, kita stovėjo tarp Tolkmito ir
+    Frauenburgo, ant Tolko kalno.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198662
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
+  citata_originali: |
+    Paga­
+    liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami
+    kaip visos šeimos kapai; pradedant juos pilti, būdavo galvoja­
+    ma apie vietas šeimos nariams, mirsiantiems vėliau6.
+    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
+    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
+    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
+    kitame šio veikalo tome.
+    Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
+    prie didelių akmenų, esančių laukuose.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219937
+
+- id: c-198866
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 421"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 421."
+  citata_originali: |
+    Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti
+    iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­
+    siškas visų kitų istorijos šaltinių tylėjimas Dusburgiečio pra­
+    nešimą apie tą krivį daro labai abejotiną. Tai tiesa, kad joks
+    užsienio kronikininkas, joks istorijos šaltinis - nei Vulfstanas,
+    nei Ditmaras Merzeburgiškis, nei Adomas Bremenietis, nei
+    Helmoldas, nei lenkų kronikininkai, nei jokie dokumentai nė
+    vienu žodžiu neužsimena apie krivį. Tačiau norint suvokti prie­
+    kaišto esmę, reikia visą dalyką panagrinėti šiek tiek iš arčiau.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

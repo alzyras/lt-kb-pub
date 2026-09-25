@@ -67,26 +67,6 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
   pagrindžia:
     - c-83891
 
-<a id="claim-t-188551"></a>
-- t-002
-  teiginys: "Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė rusų sentikiai, nepritarę patriarcho Nikono Biblijos ir liturgijos pataisoms."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste rusų sentikiai apibūdinti kaip persikėlę į Lietuvą; kandidatas „Rusai“ yra artimiausias leidžiamas grupės objektas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171440
-
 <a id="claim-t-201527"></a>
 - t-003
   teiginys: "Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir 1649 m. Jono Kazimiero, taip pat vėlesnių Abiejų Tautų Respublikos valdovų Kauno miesto konfirmacinės privilegijos."
@@ -159,7 +139,7 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171440
@@ -182,8 +162,6 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-184874
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -198,7 +176,7 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184875
@@ -218,5 +196,5 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

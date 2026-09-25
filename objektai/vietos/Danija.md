@@ -161,6 +161,42 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   pagrindžia:
     - c-175402
 
+<a id="claim-t-210479"></a>
+- t-210479
+  teiginys: "Dabar saugomas Danijos lobyne."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194731
+
+<a id="claim-t-212800"></a>
+- t-212800
+  teiginys: "Poznanės kolekcionierius ypač ža vėjosi Karališkojo Danijos lobyno rinkiniais, kurių dau guma jau buvo publikuota."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195435
+
+<a id="claim-t-218059"></a>
+- t-218059
+  teiginys: "T. Volianskis ypač žavėjosi Karališkojo Danijos lobyno rinkiniais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199667
+
 ## Citatos
 
 - id: c-171834
@@ -187,7 +223,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175399
@@ -213,7 +249,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175400
@@ -239,7 +275,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175401
@@ -268,7 +304,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175402
@@ -299,8 +335,144 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-194731
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 486"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 486."
+  citata_originali: |
+    Buvo iškastas Fiūno saloje (pagal Tomą
+    Bartoliną. K. 2. D. 9. P. 461). Dabar saugomas Danijos lobyne.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210479
+
+- id: c-194984
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
+  citata_originali: |
+    236
+    Sklinda garsūs senoviniai skandinavų padavimai apie
+    didvyrį Starkaterą, kuris buvo Sterverko sūnus ir vyres­
+    niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
+    ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
+    Haroldo rūmuose kartu su karalaičiu Vikaru. Sis Siaurės
+    didvyris pirmaisiais V amžiaus metais, kai Letrą, t. y. Da­
+    niją, valdė karaliai Halfadonas ir Fridleifas, o po jų —
+    Frotonas IV, daug kartų rengė žygius į tolimus kraštus.
+    Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
+    daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
+    tautos, gyvenančios rytinėse Baltijos jūros pakrantėse;
+    rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
+    jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
+    nijos karalystei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195435
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 457."
+  citata_originali: |
+    Poznanės kolekcionierius ypač ža­
+    vėjosi Karališkojo Danijos lobyno rinkiniais, kurių dau­
+    guma jau buvo publikuota.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212800
+
+- id: c-195742
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  citata_originali: |
+    Pavergęs slavų kraštą ir pamanęs, jog
+    įtvirtino jame savo valdžią, jis patraukė toliau, įsiveržė
+    į Prūsiją, užgrobė Sembą, paskui Kuršą ir toliau į rytus
+    plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
+    galo juos engdamas. Tuomet slavai, pasinaudodami Jar­
+    meriko nebuvimu, iškapojo jo paliktų įgulų sargybas ir
+    plėsdami bei naikindami įsiveržė į pačią Daniją. Valdovas
+    skubiai grįžo iš savo avantiūristinių žygių, antrąsyk nu­
+    galėjo slavus ir taip negirdėtai žiauriai elgėsi su belais­
+    viais, jog visiškai įbauginta liaudis vėl nusižemino. Kiek
+    vėliau, kai Jarmerikas sunkiais karais vargino Pabaltijo
+    rusus, juos sėkmingai rėmė pašauktas pagalbon Danijos
+    karalius Halfanask
+    239
+    Visi šie išdėstyti dalykai ir iš įvairių šaltinių surinkti
+    įvykiai, rodos, gali įtikinti, kad lietuvių tauta politiškai
+    egzistavo apvaizdos jiems skirtame Vakarų krašte.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197535
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  citata_originali: |
+    Jūra dažnai išmeta gintarą, prikibusį prie
+    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
+    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
+    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
+    skirtos nuo medžių žievės1.
+    152
+    Pavienių gintaro gabalų randama beveik visur: Lie­
+    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
+    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
+    balų išmesdavo Švedijos ežeras Maeleras. Kai kuriose Ja­
+    ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
+    tojai žino, iš ko jis atsiranda2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199667
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 66."
+  citata_originali: |
+    Poznanės kolekcionierius ypač žavėjosi Kara­
+    liškojo Danijos lobyno rinkiniais, kurių dauguma jau buvo pub­
+    likuota.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218059
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Frotonas III]], [[objektai/asmenys/Hadingas]]

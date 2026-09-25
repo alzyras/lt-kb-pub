@@ -59,5 +59,23 @@ Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196986
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 354"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 354."
+  citata_originali: |
+    Beje, šiandien nelengva atrasti
+    visas tvirtoves, kurias mini Dregerio skelbta sutartis (Nr.
+    58. Actą Borus. T. I. B. 52), visų pirma dėl to, kad blogai
+    išrašytos, antra vertus, dėl to, kad jų vietoje nieko, kas
+    primintų jų pavadinimus, neatstatyta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

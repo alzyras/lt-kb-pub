@@ -76,7 +76,7 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167636
@@ -97,5 +97,5 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

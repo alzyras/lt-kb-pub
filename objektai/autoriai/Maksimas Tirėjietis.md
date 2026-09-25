@@ -57,6 +57,18 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
   pagrindžia:
     - c-173322
 
+<a id="claim-t-219570"></a>
+- t-219570
+  teiginys: "Perkūno stabai iš karto turėjo būti tokie, apie kokius kal ba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta bus, tai yra didžiulis ąžuolas arba neapdorotas ąžuolo gaba las."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200789
+
 ## Citatos
 
 - id: c-173322
@@ -82,5 +94,31 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200789
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
+  citata_originali: |
+    Man
+    atrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies
+    dievo, visiškai toks pat stabas, kaip imperatoriaus Aurelijaus
+    Antonino Heliogabalas, apie kurį kalbėjome straipsnyje „San­
+    tvaras“.
+    Perkūno stabai iš karto turėjo būti tokie, apie kokius kal­
+    ba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­
+    bus, tai yra didžiulis ąžuolas arba neapdorotas ąžuolo gaba­
+    las. Vis dėlto žinome, kad senovinėje Romovės šventykloje po
+    anuo didžiuliu ir visada žaliuojančiu ąžuolu stovėjo trejetas
+    stabų - Perkūno, Atrimpo ir Pokliaus; šventyklos aptvaro at­
+    skirose nišose - kitų dievų stabai.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219570

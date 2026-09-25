@@ -250,6 +250,30 @@ Nenurodyta
   pagrindžia:
     - c-186402
 
+<a id="claim-t-214207"></a>
+- t-214207
+  teiginys: "Kardą jie įsmeigdavo į žemę arba ant paaukštinimo rankena aukštyn."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197124
+
+<a id="claim-t-219018"></a>
+- t-219018
+  teiginys: "Mirusįjį, vežamą į laidotuvių vietą, lydi raiti ginkluoti gi minaičiai ir bičiuliai, kurie šalia vežimo, ant kurio guli miru siojo palaikai, tolydžio mosikuoja kardais, čerškina kardą į kar dą ir vis šaukia: „Ei, ei, bėkite, pykuoliai!“ (Gej, gej, begejte."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201460
+
 ## Citatos
 
 - id: c-88396
@@ -270,7 +294,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-88397
@@ -293,7 +317,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-88398
@@ -315,7 +339,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-88399
@@ -335,7 +359,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-88400
@@ -357,7 +381,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-88401
@@ -376,7 +400,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-88402
@@ -399,7 +423,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-88404
@@ -422,7 +446,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-184290
@@ -448,7 +472,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-185785
@@ -463,11 +487,12 @@ Nenurodyta
     važiavo į Mantują pas popiežių, didelį įspūdį padarė žaliai apsirengę ilgaplaukiai blon­
     dinai su plunksnuotomis kepuraitėmis, apsiginklavę arbaletais, kardais ir strėlinėmis.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-186401
@@ -486,7 +511,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-186402
@@ -505,5 +530,44 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
+
+- id: c-197124
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 64."
+  citata_originali: |
+    Jie įsmeigdavo šį kardą į
+    žemę ar į tam tikrą paaukštinimą rankena aukštyn, ir
+    tai buvo savotiškas kryžius; šiam dievybės ar vilties įvaiz­
+    džiui jie lenkėsi iki pat žemės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214207
+
+- id: c-201460
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 362"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 362."
+  citata_originali: |
+    Mirusįjį, vežamą į laidotuvių vietą, lydi raiti ginkluoti gi­
+    minaičiai ir bičiuliai, kurie šalia vežimo, ant kurio guli miru­
+    siojo palaikai, tolydžio mosikuoja kardais, čerškina kardą į kar­
+    dą ir vis šaukia: „Ei, ei, bėkite, pykuoliai!“ (Gej, gej, begejte
+    Pokole!)
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219018

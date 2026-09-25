@@ -81,5 +81,28 @@ Narbutas rašo, kad 1811 m. rankose laikė vokišką Telkerzamo rankraštį apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197627
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
+  citata_originali: |
+    Kitaip buvo vadinama Rhoas7, tariama
+    Rhos, Ross, Russ, taip pat ir kalbant apie Volgos pava­
+    dinimą. 1811 metais teko laikyti rankose vokiečių kalba
+    parašytą rankraštį su antrašte „Topografiniai ir statis­
+    tiniai Volgos žemupio ir Astrachanės apylinkių stebėji­
+    mai, inžinieriaus generolo majoro Telkerzamo surinkti jo
+    ilgo buvimo Rusijos imperijos pietryčiuose**** metu.
+    Ten užtikau įvairius šios upės ir jos šakų pavadinimus,
+    sužinotus iš vietos gyventojų, Pakubanės kolonistų ir įvai­
+    1 Majewski.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

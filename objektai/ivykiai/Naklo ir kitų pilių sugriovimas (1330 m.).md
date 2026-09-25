@@ -75,5 +75,5 @@ Kariuomenė užėmė vieną pilį, dar dvi pilis ir Naklo pilį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

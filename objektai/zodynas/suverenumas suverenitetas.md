@@ -114,7 +114,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-69389
@@ -138,7 +138,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166867
@@ -160,7 +160,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-166868
@@ -185,5 +185,5 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

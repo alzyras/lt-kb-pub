@@ -109,5 +109,5 @@ Narbutas kritiškai vertina Kelsijaus ir Dalino skaičiavimą, kad nuo Kristaus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

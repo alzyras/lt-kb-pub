@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 50
+tema_objektu_skaicius: 49
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 50.
+Objektų skaičius: 49.
 
 ## Kaip naudoti
 
@@ -48,10 +48,9 @@ Objektų skaičius: 50.
 - [[objektai/asmenys/Hinka iš Valdšteino]]
 - [[objektai/asmenys/J. Simpsonas]]
 - [[objektai/asmenys/Joachimas fon Ribentropas]]
-- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
 - [[objektai/asmenys/Jurgis Šaulys]]
 - [[objektai/asmenys/Laurynas Zaremba]]
-- [Makartnis](../objektai/asmenys/Makartnis)
+- [[objektai/asmenys/Makartnis]]
 - [Maldžykas](../objektai/asmenys/Mald%C5%BEykas)
 - [Motiejus Kločka](../objektai/asmenys/Motiejus%20Klo%C4%8Dka)
 - [Mykolas Borisovičius Šeina](../objektai/asmenys/Mykolas%20Borisovi%C4%8Dius%20%C5%A0eina)

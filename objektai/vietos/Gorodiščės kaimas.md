@@ -85,5 +85,26 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200557
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
+  citata_originali: |
+    Padavimai išsaugojo paprastų žmonių atminimą, kad lie­
+    tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka­
+    riams prikelti, ženklui sargybiniams paduoti, taip pat pavojui
+    paskelbti. 1780 metais* tokio varpo gabalą radau sename ap­
+    kase, arba pilies pylime, prie Gorodiščės kaimo, ties Rodū­
+    nios miesteliu, tikroje lietuviškoje žemėje. Tas gabalas buvo
+    l ‘A colio storio, svėrė kelias dešimtis svarų; matyti, kad pri­
+    klausė didžiuliam varpui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

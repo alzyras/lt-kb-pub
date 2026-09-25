@@ -97,7 +97,7 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179359
@@ -119,5 +119,55 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194502
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
+  citata_originali: |
+    Šios vilties ir narsos, ku­
+    rią suteikia keršto troškimas, skatinami, skiri ai skubėjo
+    su savo vadais Eduka ir Volfu pagelbėti svebams. Ir vėl
+    laimės žvaigždė lydėjo gotus, kurie niekais pavertė vi­
+    sus pasikėsinimus j jų valdžią. Ištikus šiai nelaimei, Edu­
+    ka gelbėjo likučius savo žmonių, kurie, palikę savo gy­
+    venamąsias vietas Mezijoje, kėlėsi į dešiniąją Dunojaus
+    pakrantę ir pasidavė romėnų globai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195431
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
+  citata_originali: |
+    Sudargai, kuriuos istorikai vadina
+    Satargarii ir Sadargii, buvo ištikimiausi skiriu bičiuliai:
+    visi drauge įsikūrė prie Dunojaus žemupio, kartu patyrė
+    likimo smūgius, kuriuos labiau užtraukė klastingi svebų
+    karaliukų patarimai negu jų pačių neapdairumas ar gotų
+    priespaudos priežastys. Kadangi paskutinio žygio metu
+    skiriu stovykloje buvo du vadai — Eduka ir Volfas, tai
+    pagrįstai galima daryti išvadą, kad pirmasis vadovavo
+    skiriams, o antrasis — sudargams arba kad tarp abiejų
+    vienos giminės genčių buvo sąjunga ir kiekviena iš jų
+    turėjo savo vadą.
+    289
+    Vėliau dešiniojoje Dunojaus pakrantėje gyvenę skiri ai
+    ir sudargai kiek pagerino savo reikalus, padidinę karinę
+    galią, galbūt: atvykus tiesiai iš gimtosios žemės naujiems
+    žmonėms.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

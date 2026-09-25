@@ -41,24 +41,6 @@ canonical_biography: "Dusburgietis teigia, kad kai dėl to supykę broliai ketin
 
 Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis p. 54), kelio iš Kaliningrado į Laduškiną pradžioje.
 
-## Teiginiai
-
-<a id="claim-t-60459"></a>
-- t-001
-  teiginys: "Vargulis, Noliubės giminaitis, broliams pritarus išėjo į priekį ir įspėjo Noliubę dėl nepaklusnumo."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vargulis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vargulis\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61091
-
 ## Citatos
 
 - id: c-61091
@@ -85,5 +67,3 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

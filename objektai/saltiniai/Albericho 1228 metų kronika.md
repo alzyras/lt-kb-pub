@@ -54,6 +54,18 @@ Narbutas Albericho 1228 metų kronika rėmė teiginį, kad be Sambijos buvo Vitl
   pagrindžia:
     - c-174707
 
+<a id="claim-t-212849"></a>
+- t-212849
+  teiginys: "Alberichas savo 1228 metų kronikoje (Leibnitz: Access."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197353
+
 ## Citatos
 
 - id: c-174707
@@ -76,5 +88,28 @@ Narbutas Albericho 1228 metų kronika rėmė teiginį, kad be Sambijos buvo Vitl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197353
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Taip pat apie skirtingas šalis ra­
+    šo Alberichas savo 1228 metų kronikoje (Leibnitz: Access.
+    Histor. P. 527; Gruber. I c. P. 171): E r ant autem hoc
+    anno in iis partibus quinque tantummodo provinciae pa-
+    ganorum acquirendae, ista videlicet, de qua agitur Prū­
+    dą, Curlandia, Lethonia, Witlandia et Sambria, Tai jau
+    įtikina mus, kad, be Sambijos, buvo ir kraštas, žinomas
+    Vitlandijos vardu, Be to, ši senovės Vitlandija driekėsi
+    rytine Vyslos pakrante.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212849

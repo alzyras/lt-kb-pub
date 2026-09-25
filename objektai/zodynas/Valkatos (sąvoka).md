@@ -85,7 +85,7 @@ LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186361
@@ -109,5 +109,5 @@ LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

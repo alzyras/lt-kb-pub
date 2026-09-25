@@ -89,6 +89,26 @@ M. Grabovskio „Ukraina Dawna i terainiejsza“ pirmasis tomas Teodoro Narbuto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-197454
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 385."
+  citata_originali: |
+    Kurše, Infliantuose ir
+    Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
+    sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
+    čius3. Visiškai gali būti, jog tokie paminklai Lietuvoje yra
+    retenybė. Ponas Adomas Kirkoras kasinėjo Lydos apskri­
+    tyje, prie Ogrodnikų kaimo, greta iždui priklausančio Ka­
+    1 Ukraina Dawna i terainiejsza.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -78,5 +78,5 @@ Stammler : Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

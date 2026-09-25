@@ -90,5 +90,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201226
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 47"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 47."
+  citata_originali: |
+    Laiško origina­
+    las nepasiekė mūsų dienų, o iš juodraštinio varianto negalime
+    jo tiksliai datuoti. Ir vis dėlto laiško turinys leidžia nors apy­
+    tiksliai tą laiką nustatyti. Tai turėtų būti metai po „Lietuvių
+    mitologijos“ pasirodymo, t. y. laukiant LTI antro tomo -1836
+    metai arba 1837 metų pradžia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

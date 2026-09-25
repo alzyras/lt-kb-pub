@@ -81,5 +81,5 @@ Polska i Litwa, Warsza­ wa 1914, 1-36 p. — Długopolski, Edm. : Władysław �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

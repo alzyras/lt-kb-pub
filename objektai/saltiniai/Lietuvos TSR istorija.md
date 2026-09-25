@@ -96,7 +96,7 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-61621
@@ -113,5 +113,21 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-204564
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
+  citata_originali: |
+    prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,
+    kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR
+    istorija. T. 1, p. 55; Jurginis J.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

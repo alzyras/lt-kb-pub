@@ -77,5 +77,5 @@ Starkateras, sužinojęs apie Viziną, nuvyko į Rusią, iškvietė jį į dviko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

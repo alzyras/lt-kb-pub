@@ -79,7 +79,7 @@ Ignotas Sidlovskis vėliau redagavo leidinį „Wizerunki i Roztrząsania Naukow
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-199864
@@ -98,5 +98,5 @@ Ignotas Sidlovskis vėliau redagavo leidinį „Wizerunki i Roztrząsania Naukow
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

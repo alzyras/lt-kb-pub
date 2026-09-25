@@ -160,18 +160,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   pagrindžia:
     - c-176945
 
-<a id="claim-t-197113"></a>
-- t-008
-  teiginys: "Kazimieras (Kujavijos kunigaikštis) žemino tikėjimą ir tikinčiuosius!"
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-64738
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas.'
@@ -228,9 +216,8 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
-    - t-008
 
 - id: c-64740
   autorius: "Petras Dusburgietis"
@@ -248,7 +235,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-64741
@@ -271,7 +258,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-64742
@@ -296,7 +283,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-64744
@@ -320,6 +307,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-167484
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -348,7 +336,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -369,8 +357,56 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-202955
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
+  citata_originali: |
+    Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
+    staiga užgriuvo priešus ir sugrąžino į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,
+    Sventopelkas paskubėjo saviesiems į pagalbą su trimis raitelių būriais. Juos išvydę,
+    lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei
+    kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205564
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
+  citata_originali: |
+    Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
+    nių nužudymą bei paėmimą į nelaisvę
+    Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
+    vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,
+    kunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,
+    o bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė
+    į nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,
+    neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
+    be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
+    belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių. Po to, kai jie ėmė
+    trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
+    žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų. Šitai sužinojęs,
+    Mazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui
+    tarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai
+    sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį paliaubų susitarimą, užpuolė
+    juos ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris
+    paspruko, kad galėtų kitiems apie tai papasakoti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Kujavija]]

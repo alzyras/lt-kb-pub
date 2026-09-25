@@ -181,7 +181,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83447
@@ -202,7 +202,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-83448
@@ -225,7 +225,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83449
@@ -245,7 +245,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184865
@@ -261,7 +261,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184866
@@ -279,5 +279,5 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

@@ -86,7 +86,7 @@ Gardino parengiamojoje sutartyje numatyta, kad joje dalyvaujančiose šalyse vis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189647
@@ -107,5 +107,5 @@ Gardino parengiamojoje sutartyje numatyta, kad joje dalyvaujančiose šalyse vis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

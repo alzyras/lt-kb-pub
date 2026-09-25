@@ -75,6 +75,18 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
   pagrindžia:
     - c-71599
 
+<a id="claim-t-211508"></a>
+- t-211508
+  teiginys: "Orša yra miestas prie Dnepro, Vitebsko srityje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193748
+
 ## Citatos
 
 - id: c-71598
@@ -94,7 +106,7 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-71599
@@ -121,5 +133,23 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-193748
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 237."
+  citata_originali: |
+    Orša — dabar BTSR Vitebsko sr. miestas prie Dnepro. Smo­
+    lensko kunigaikštis Svetoslavas išvyko į žygį link Vitebsko ir Oršos
+    1386.111.22.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211508

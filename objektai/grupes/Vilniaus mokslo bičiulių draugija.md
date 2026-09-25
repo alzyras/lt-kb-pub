@@ -64,6 +64,21 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
   pagrindžia:
     - c-66589
 
+<a id="claim-t-209406"></a>
+- t-209406
+  teiginys: "Vilniaus Mokslo bičiulių draugijos leidinyje 1915-1918 m. buvo paskelbta straipsnių serija apie blaivybės brolijas Žemaičių vyskupijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1915-1918; įvykio data: 1918 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškai užbaigtas ir tiesiogiai atitinka citatoje nurodytą leidinį, 1915–1918 m. laikotarpį bei straipsnių temą. Asmuo sąmoningai neįvardytas, nes citatoje jis neidentifikuojamas."
+  pagrindžia:
+    - c-191947
+
 ## Citatos
 
 - id: c-66588
@@ -88,6 +103,7 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-66589
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -109,6 +125,30 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-191947
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 8"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 8."
+  citata_originali: |
+    Valančiaus biografui A. Aleknai, kuris dar 1918 m. savaitraštyje
+    "Vienybė" (keliuose numeriuose) paskelbė trumpą blaivybės brolijų
+    veiklos istoriją, kuri, gerokai išplėšta, įėjo į knygą "Žemaičių vyskupas
+    Motiejus Valančius"2, ir Vilniaus S. Batoro universiteto darbuotojui,
+    kilusiam nuo Teisių, M. Brenšteinui. Pastarasis Žemaitijos kultūros
+    žinovas Vilniaus Mokslo bičiulių draugijos leidinyje 1915-1918 m.
+    paskelbė seriją straipsnių apie blaivybės brolijas Žemaičių vyskupijoje.
+    1918 m. pasirodė ir atskiras tos medžiagos atspaudas3.
+  citata_rodoma: "Pastarasis Žemaitijos kultūros \nžinovas Vilniaus Mokslo bičiulių draugijos leidinyje 1915-1918 m. \npaskelbė seriją straipsnių apie blaivybės brolijas Žemaičių vyskupijoje."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209406

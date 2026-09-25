@@ -76,25 +76,29 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   pagrindžia:
     - c-171551
 
-<a id="claim-t-192606"></a>
-- t-003
-  teiginys: "Teodoras Narbutas Afriką ir Aziją laikė seniau už Europą apgyvendintais ir anksčiau civilizuotais žemynais."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-215215"></a>
+- t-215215
+  teiginys: "Europa palyginti su Azija ir Afrika yra naujasis pa saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau civilizuotas."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Azija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Afrika: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Azija: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Afrika\" parinktas kaip owner_note_path. Targetas \"Azija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175377
+    - c-196353
+
+<a id="claim-t-216992"></a>
+- t-216992
+  teiginys: "Mat vos Europos tautos pasiekė tam tikrą civili zacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili zuotų Azijos ir Afrikos gyventojų - jis milžiniškais žingsniais pakilo siekti šviesos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199845
 
 ## Citatos
 
@@ -118,7 +122,7 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171551
@@ -140,7 +144,7 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175377
@@ -164,5 +168,63 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-196353
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
+  citata_originali: |
+    Europa palyginti su Azija ir Afrika yra naujasis pa­
+    saulis, nepalyginti vėliau apgyvendintas ir gerokai vėliau
+    civilizuotas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215215
+
+- id: c-199845
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 79-80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 79-80."
+  citata_originali: |
+    Mat vos Europos tautos pasiekė tam tikrą civili­
+    zacijos lygį, jose atsiskleidė genijus, visiškai kitoks, negu civili­
+    zuotų Azijos ir Afrikos gyventojų - jis milžiniškais žingsniais
+    80
+
+    pakilo siekti šviesos
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216992
+
+- id: c-200543
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 200"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 200."
+  citata_originali: |
+    Šitą dievybių rūšį vadina­
+    me fetišais, o tikėjimą jais -  fetišizmu.
+    Pats fetišo terminas, nežinomas Antikos laikų europie­
+    čiams, yra perimtas naujaisiais amžiais iš Afrikos stabmeldžių,
+    didžiausių fetišų garbintojų . Todėl ne kiekvienas istorikas ir 5
+    5
+    Fetiche, iš portugalų Fetisso -  stabmeldiška statulėlė; feticzei-
+    ra -  ragana (fée, feérie, f  ata).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

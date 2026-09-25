@@ -60,5 +60,24 @@ Dusburgietis teigia, kad šis, gerai susipažinęs su brolių gyvenimu, sugrįž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202841
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
+  citata_originali: |
+    Todėl jie mus
+    kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai
+    nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai
+    ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose be vargo gali susirasti
+    maisto?“
+    71 (70).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

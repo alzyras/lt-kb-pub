@@ -75,5 +75,5 @@ AT-AS Aukščiausioji Taryba-Atkuriamasis Seimas. 1990 III 11 Lietuvos Respublik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

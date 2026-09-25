@@ -93,5 +93,32 @@ Kunigaikščiai Olegovičiai1, norė dami atsiimti iš grįžtančių užpuolik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-188011
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 225"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 225."
+  citata_originali: |
+    O
+    kai besitraukiančių lietuvių buvo laukiama nuo Nemuno
+    aukštupio pusės ir sumota, kad jie, savo sparnais siekdami
+    šią upę, turėtų patraukti jos žemupio link — taip atrodė
+    sprendžiant iš topografinių apžvalgų, —■ jie, tuo tarpu
+    priartėję prie Pinsko, persikėlė per Jieseldą, dėl to atsi­
+    rado pelkių palei Sčiaros upę užkarda, saugojusi jų de­
+    šinįjį sparną. Olegovičiai, kurie, belaukdami Naugarduko
+    pusėje, sužinojo, kad prie Pinsko pasirodė priešas su vi­
+    somis pajėgomis, užuot ėmę žygiuoti tos pusės link, ty­
+    kojo lietuvių kariaunos jau už Jieseldos ■— dėl to turėjo
+    apeiti Sčiaros versmes — ir taip pateko į kelią, kuriuo
+    anie buvo jau tolyn nuėję. Ėjo pavymui per pakankamai
+    didelį nuotolį.
+  citata_rodoma: "Olegovičiai, kurie, belaukdami Naugarduko \npusėje, sužinojo, kad prie Pinsko pasirodė priešas su vi­\nsomis pajėgomis, užuot ėmę žygiuoti tos pusės link, ty­\nkojo lietuvių kariaunos jau už Jieseldos ■— dėl to turėjo \napeiti Sčiaros versmes — ir taip pateko į kelią, kuriuo \nanie buvo jau tolyn nuėję. Ėjo pavymui per pakankamai \ndidelį nuotolį."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

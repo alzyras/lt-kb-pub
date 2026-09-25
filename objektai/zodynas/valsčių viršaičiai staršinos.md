@@ -83,6 +83,6 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

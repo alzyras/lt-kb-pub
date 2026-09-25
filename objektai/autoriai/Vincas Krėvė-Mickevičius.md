@@ -88,7 +88,7 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176371
@@ -111,5 +111,5 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

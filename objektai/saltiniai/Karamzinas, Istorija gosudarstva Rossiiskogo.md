@@ -90,7 +90,7 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174609
@@ -112,5 +112,48 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194523
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 108."
+  citata_originali: |
+    102
+    Poloviečiai-lietuviai. Esama įvairių tyrimų, prielaidų
+    ir išvadų apie šį miestą; čia juos pateikti nėra prasmės,
+    nes Karamzinas, ištyręs viską, galutinai ir su jam bū­
+    dingu tikslumu įminė šią mįslę. Anot jo, minėtas miestas
+    vadintas Serkel, Biala wieza, Biata wies, Bieloserkal, o
+    visa tai reiškia vieną ir tą patį: baltas namas, balta pa­
+    lapinė, turgus, užeiga, smuklė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195686
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
+  citata_originali: |
+    Toliausiai į pietryčius gyveno
+    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
+    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
+    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
+    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
+    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
+    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
+    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
+    meta sarmatų genčių sūkuryje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

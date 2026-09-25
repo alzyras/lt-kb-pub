@@ -79,5 +79,5 @@ Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

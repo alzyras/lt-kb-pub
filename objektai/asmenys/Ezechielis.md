@@ -73,5 +73,30 @@ Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196134
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 215."
+  citata_originali: |
+    Manydami, kad mūsų skaity­
+    tojai prisimena anksčiau šia tema sakytus dalykus (§55),
+    ir norėdami geriau suprasti visą dalyką, turime papildomai
+    aiškinti.
+    221
+    Šventajame Rašte, pas pranašą Ezechielį, mokslininkai
+    aptinka žodį Ross ar Russ, kurį vieni laiko tam tikros
+    tautos pavadinimu, kiti — asmenvardžiu, o dar kiti, kurių
+    pusėje yra ir Karamzinas, supranta jį perkeltine Gtowa,
+    Olomnošč, galvos, svarbiausio dalyko, prasme. Rytų ra­
+    šytojai, remdamiesi Korano aiškinimais, linkę pritarti pir­
+    mam požiūriui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

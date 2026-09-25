@@ -70,9 +70,10 @@ Gedimi­ nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno Zunpach
     kaklo ir mentikaulio ir netrukus mirė, o jo kariauna buvo
     išvaikyta*.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

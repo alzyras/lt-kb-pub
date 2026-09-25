@@ -68,5 +68,5 @@ Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

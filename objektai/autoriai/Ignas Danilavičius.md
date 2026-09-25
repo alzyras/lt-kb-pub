@@ -169,6 +169,18 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-186269
 
+<a id="claim-t-212388"></a>
+- t-212388
+  teiginys: "I. Danilavičiaus darbe buvo paskelbtas Lietuvos metraščių pluoštas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194423
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Ignas Danilavičius turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kunigaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip žmoną.'
@@ -210,7 +222,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-78440
@@ -232,7 +244,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-78441
@@ -252,11 +264,12 @@ object_page_seo_policy_version: object-page-policy/v7
     kas.
   citata_rodoma: "Veikalo pra­\ntarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­\nnui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui\nMalevskiui už gausius išrašus iš Lietuvos Metrikos. P."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171294
@@ -279,7 +292,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177057
@@ -306,7 +319,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184295
@@ -325,7 +338,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-186269
@@ -345,5 +358,47 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-194423
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 474"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 474."
+  citata_originali: |
+    Tai I. Danilavičiaus (1787—1843) darbas, kuriame buvo paskelb­
+    tas pluoštas Lietuvos metraščių (DanUomicz J. Latopisiec Litvvy
+    i kronika ruska. Wilno, 1827). Minėtas I. Danilavičiaus rinkinys,
+    davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto
+    Saurų dvaro bibliotekoje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212388
+
+- id: c-198133
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  citata_originali: |
+    Išsamesnėms krašto praeities studijoms istoriką galė­
+    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
+    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -67,6 +67,18 @@ Generolui Skažinskiui (Skaržynski) priklausė statulėlė, kurią Narbutas lai
   pagrindžia:
     - c-174348
 
+<a id="claim-t-216416"></a>
+- t-216416
+  teiginys: "Šiandien tai lenkų armijos generolo Skažinskio (Skaržynski) nuosavybė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199042
+
 ## Citatos
 
 - id: c-174348
@@ -87,5 +99,42 @@ Generolui Skažinskiui (Skaržynski) priklausė statulėlė, kurią Narbutas lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196571
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 471"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 471."
+  citata_originali: |
+    Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
+    mūšį su lenkais prie Goplo ežero1. Kaip tik tuomet jie galėjo pa­
+    mesti savo deivės stabą, kuris išgulėjo žemėje daugiau nei sep­
+    tynis amžius. Šiandien tai lenkų
+    armijos
+    generolo Skažinskio
+    (Skaržynski) nuosavybė. Statulėlės išmatavimai nežinomi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199042
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 121"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 121."
+  citata_originali: |
+    Šiandien
+    tai lenkų armijos generolo Skažinskio (Skaržynski) nuosavybė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216416

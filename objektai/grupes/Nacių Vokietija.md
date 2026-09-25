@@ -111,7 +111,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-22685
@@ -133,7 +133,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-72860
@@ -157,5 +157,5 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

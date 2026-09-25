@@ -72,5 +72,28 @@ Narbutas, atmesdamas mitinius gintaro kilmės aiškinimus, mini formulę apie Mu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197584
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
+  citata_originali: |
+    150
+    Kocebus teisingai vadina gintarą saulės akmeniu, se­
+    novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią
+    gaubia sunkiai atskleidžiamos uždangos4. Tačiau senovė­
+    je, jei atmesime tokias pasakas ir spėliones, pavyzdžiui,
+    kad jis susidaro iš lūšies šlapimo, ¡gintaru verkė Mulea-
+    įgrido paukščiai arba hiperborėjų Apolonas, būta apie jį
+    gana tikslių žinių. Bet ¡poetinis pasakojimas apie tuopomis
+    paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­
+    tėja prie tiesos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

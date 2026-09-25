@@ -144,7 +144,7 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174233
@@ -172,7 +172,7 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179332
@@ -192,5 +192,50 @@ Narbuto vertinimu, Kocebus teisingai vadino gintarą „saulės akmeniu“ ir ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-196802
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Ligi šiol žinoma seniausia sutartis, primenanti dingu­
+    sios Sambijos dalies egzistavimą senovėje; ji esanti 1246
+    metų Kocebaus darbe (t. 1. P. 418—420). Ten pažymėta
+    krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi­
+    nimą už suteiktą kryžiuočiams pagalbą užkariaujant sam-
+    bius, o būtent Sambiją, Vitlandiją ir dalį Varmijos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197297
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
+  citata_originali: |
+    Lietuvių kalboje jis išliko žodyje
+    Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
+    reciprocum, se, sanskrito sieti2, lenkų się; be to, lietuviš­
+    kas žodis Stiklas reiškia spindintį daiktą, žodyje glūdi
+    G los s pradas.
+    150
+    Kocebus teisingai vadina gintarą saulės akmeniu, se­
+    novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią
+    gaubia sunkiai atskleidžiamos uždangos4. Tačiau senovė­
+    je, jei atmesime tokias pasakas ir spėliones, pavyzdžiui,
+    kad jis susidaro iš lūšies šlapimo, ¡gintaru verkė Mulea-
+    įgrido paukščiai arba hiperborėjų Apolonas, būta apie jį
+    gana tikslių žinių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

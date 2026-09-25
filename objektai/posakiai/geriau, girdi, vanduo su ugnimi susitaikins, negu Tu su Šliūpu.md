@@ -57,5 +57,5 @@ Gerai man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

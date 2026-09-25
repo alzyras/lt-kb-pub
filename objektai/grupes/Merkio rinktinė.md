@@ -61,5 +61,5 @@ Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

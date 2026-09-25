@@ -68,26 +68,6 @@ Nenurodyta
   pagrindžia:
     - c-60079
 
-<a id="claim-t-59448"></a>
-- t-002
-  teiginys: "1313 m. lietuvių karalius pasiuntė Surminą su šimtu laivų, šešiais šimtais ar daugiau vyrų ir šimtu raitelių sunaikinti Ordino karo laivo."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Surminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Surminas buvo pasiųstas vykdyti karo laivo sunaikinimo veiksmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Surminas dalyvavo mūšyje Vernerio karo laivo užėmimas ir sudeginimas (1313 m.) (0.83); Lietuviai dalyvavo mūšyje Vernerio karo laivo užėmimas ir sudeginimas (1313 m.) (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1313 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia lietuvių sprendimą ir Surmino pajėgas."
-  pagrindžia:
-    - c-60079
-
 ## Citatos
 
 - id: c-60079
@@ -111,6 +91,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002

@@ -83,5 +83,5 @@ Narbutas teigia, kad 1811 m. Drujos apylinkėse nusausinto ežero dugne rastos t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

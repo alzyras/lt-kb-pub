@@ -58,6 +58,18 @@ Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame
   pagrindžia:
     - c-171942
 
+<a id="claim-t-219494"></a>
+- t-219494
+  teiginys: "Prie Dubičių ežero yra Romanovo kaimas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200349
+
 ## Citatos
 
 - id: c-171942
@@ -77,5 +89,26 @@ Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200349
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 229"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
+  citata_originali: |
+    Pasak vietos padavimų, jis buvo
+    laikomas šventu. Priėjo, vaizdingoje vietoje, yra kaimas, vadi­
+    namas Romanovu (Romanowo), kuris primena šventąjį Ro-
+    movės mišką; visiškai panašu į tiesą, kadangi jame augęs šven­
+    tasis ąžuolas ar buvusi kažkokia šventykla.
+    2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219494

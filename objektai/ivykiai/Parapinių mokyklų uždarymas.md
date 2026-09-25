@@ -54,12 +54,14 @@ Parapinių mokyklų uždarymas 1863 m., P. Puzaro vertinimu, buvo rimtas smūgis
     Parapinių mokyklų uždarymas 1863 m. buvo rimtas
     smūgis vysk. M. Valančiaus švietimo akcijai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
 ## Teiginiai
 
 <a id="claim-t-208786"></a>
@@ -77,4 +79,3 @@ Parapinių mokyklų uždarymas 1863 m., P. Puzaro vertinimu, buvo rimtas smūgis
   vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
     - c-191406
-

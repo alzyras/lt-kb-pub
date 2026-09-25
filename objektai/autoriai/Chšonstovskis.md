@@ -86,5 +86,5 @@ Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

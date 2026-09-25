@@ -149,7 +149,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-160817
@@ -171,7 +171,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-160818
@@ -196,7 +196,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-160819
@@ -218,7 +218,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-167669
@@ -240,7 +240,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

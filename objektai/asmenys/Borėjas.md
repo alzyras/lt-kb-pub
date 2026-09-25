@@ -78,6 +78,30 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
   pagrindžia:
     - c-174140
 
+<a id="claim-t-212561"></a>
+- t-212561
+  teiginys: "Senovės graikai, anot senųjų amžių padavimų, turėjo žinių apie Tolimojoje Šiaurėje gyvenusius žmones, ku riuos jie vadino hiperborėjais nuo jų gyvenamosios vie tos reikšmės pavadinimo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194527
+
+<a id="claim-t-215058"></a>
+- t-215058
+  teiginys: "Tai būtent juos turėjęs valdyti karalius Borėjas, įžy mus esančio į šiaurę nuo Graikijos krašto valdovas, kurio dukra Boristenė2 pagimdė Targitą, Jupiterio sūnų, pasak graikų padavimų, pirmą tikrųjų skitų karalių arba vei kiau pirmą valdovą karališkos skitų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194560
+
 ## Citatos
 
 - id: c-174139
@@ -100,7 +124,7 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174140
@@ -126,8 +150,80 @@ Senųjų amžių padavimuose, kaip juos perteikia Narbutas, Borėjas buvęs žil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194527
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 37."
+  citata_originali: |
+    Senovės graikai, anot senųjų amžių padavimų, turėjo
+    žinių apie Tolimojoje Šiaurėje gyvenusius žmones, ku­
+    riuos jie vadino hiperborėjais nuo jų gyvenamosios vie­
+    tos reikšmės pavadinimo. Žiloje senovėje Borėjas buvęs
+    šiaurės krašto valdovas2, o už jo valstybės būta dar šiau­
+    resnių gyventojų. Nors pasakojimą apie Borėjo valstybę
+    ir hiperborėjus smarkūs kritikai pavadino pasaka, šian­
+    dien negalime visiškai sutikti su jų sprendimu, o būsi­
+    mos kartos geriau perpras šią klaidą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212561
+
+- id: c-194560
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 44."
+  citata_originali: |
+    Si tauta buvo didelė ir galinga, ją
+    valdė karaliai, ji turėjo savo įstatymų, mūrinių pilių ir
+    įžymių karalių kapinių, kurios buvo kažkur prie Dnest­
+    ro1. Tai būtent juos turėjęs valdyti karalius Borėjas, įžy­
+    mus esančio į šiaurę nuo Graikijos krašto valdovas, kurio
+    dukra Boristenė2 pagimdė Targitą, Jupiterio sūnų, pasak
+    graikų padavimų, pirmą tikrųjų skitų karalių arba vei­
+    kiau pirmą valdovą karališkos skitų kolonijos, valdžiu­
+    sios kitas savo genčių kartas. Jiems priklausiusi skitų
+    gentis, vadinama borestenitais, neabejotinai buvo ta, ku­
+    ri davė pradžią karališkiesiems skitams, turėjusiems se­
+    novės kimbrų miestą Boristenį.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215058
+
+- id: c-196794
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 37."
+  citata_originali: |
+    Apie šį sausumos iškilimą
+    dar kalbėsime ir pateiksime kai kurių įrodymų; čia tik
+    paminėsime seniausius šios ašigalių zonos gyventojus.
+    Senovės graikai, anot senųjų amžių padavimų, turėjo
+    žinių apie Tolimojoje Šiaurėje gyvenusius žmones, ku­
+    riuos jie vadino hiperborėjais nuo jų gyvenamosios vie­
+    tos reikšmės pavadinimo. Žiloje senovėje Borėjas buvęs
+    šiaurės krašto valdovas2, o už jo valstybės būta dar šiau­
+    resnių gyventojų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Boristenė]]

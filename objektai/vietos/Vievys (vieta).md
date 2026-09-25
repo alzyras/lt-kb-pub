@@ -79,5 +79,5 @@ Pasak Teodoro Narbuto, Vieviu vadinama vietovė yra šiauriniame ežero krante, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

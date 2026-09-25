@@ -104,7 +104,7 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-91703
@@ -121,5 +121,5 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

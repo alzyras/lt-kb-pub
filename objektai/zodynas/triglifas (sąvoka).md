@@ -59,9 +59,10 @@ Triglifas dorėniškame frize yra stačiakampė plokštė, dviem grioveliais pad
     taip yra vadinama ir statmeninė plokštuma, jungianti frontoną su viršutiniu aukštu
     ir paprastai spirališkai suapvalinta apačioje ir viršuje.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

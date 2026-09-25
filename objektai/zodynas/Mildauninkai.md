@@ -103,7 +103,7 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172156
@@ -126,5 +126,27 @@ Komentare aiškinama, kad Narbutas žodį „maldauninkas“ galėjo nugirsti ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198860
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
+  citata_originali: |
+    Kitaip vadinosi Pizio.
+    Iš pasakojimų, surinktų Kauno apylinkėse, aiškėja, kaip
+    jau anksčiau matėme straipsnyje „Milda“, kad buvo tam tikra
+    rūšis kerėtojų, arba meilės deivės žynių, vadintų mildaunin-
+    kais, kurie padėdavo žmonėms meilės reikaluose. Be kitų ke­
+    rų, jie žinojo tam tikrą sparnuotą nykštuką, vadinamą Kauniu
+    (Kaunis); kerėtojo pasiųstas, jis užpuldavęs jaunuolius, neno­
+    rinčius pasiduoti meilės vilionėms, ir jų širdis užkrėsdaves mir­
+    tinais meilės nuodais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

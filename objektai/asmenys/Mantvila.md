@@ -164,7 +164,7 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184362
@@ -195,7 +195,7 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-187841
@@ -215,7 +215,7 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-187865
@@ -235,5 +235,5 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

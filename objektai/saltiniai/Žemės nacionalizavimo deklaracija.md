@@ -65,7 +65,7 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166783
@@ -85,5 +85,5 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

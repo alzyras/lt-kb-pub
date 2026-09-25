@@ -231,7 +231,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-81840
@@ -259,7 +259,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-81841
@@ -283,7 +283,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-81842
@@ -317,7 +317,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168519
@@ -355,7 +355,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 ## Ryšiai

@@ -63,3 +63,42 @@ Maciej Pieczkis kartu su broliu Kazimieru buvo nuteistas mirti už bajoro nužud
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208259"></a>
+- t-001
+  teiginys: "Maciej Pieczkis kartu su broliu Kazimieru buvo nuteistas mirti už bajoro nužudymą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190843
+
+## Citatos
+
+- id: c-190843
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 203"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 203."
+  citata_originali: |
+    Analizuojamu metu Kauno pilies teismas paskelbė ne mažiau kaip penkis
+    mirties nuosprendžius devyniems asmenims (trims žydams, dviem bajorams,
+    dviem valstiečiams ir dviem neįvardyto luomo asmenims). Trimis atvejais tai buvo
+    nužudymo bylos. 1768 m. gruodžio 18 d. teismas už neišaiškintos tapatybės bajoro
+    nužudymą nuteisė mirti du valstiečius brolius Kazimierą ir Motiejų Pečkius (Kazi­
+    mierz i M aciej Pieczkisowie)14, о 1782 m. rugsėjo 20 d. tokią pat bausmę skyrė dviem
+    asmenims (jų luomas nenurodytas) - Petrui Kalinovskiui (Piotr Kalinowski) ir
+    Adomui Roderiui (Adam Rhoder), kurie dirbdami karčemos statybose nužudė
+    savo viršininką - Kauno leitenantą Joną Dimšą (Jan Dymsza)1*.
+  citata_rodoma: "1768 m. gruodžio 18 d. teismas už neišaiškintos tapatybės bajoro \nnužudymą nuteisė mirti du valstiečius brolius Kazimierą ir Motiejų Pečkius (Kazi­\nmierz i M aciej Pieczkisowie"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

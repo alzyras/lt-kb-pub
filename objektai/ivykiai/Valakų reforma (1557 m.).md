@@ -70,6 +70,19 @@ Nenurodyta
   pagrindžia:
     - c-33431
 
+<a id="claim-t-207757"></a>
+- t-207757
+  teiginys: "K. Jablonskis Valakų reformą apibūdino kaip griežtai atskyrusią bajorų-šlėktų žemes nuo valstiečių ir įvairių tarnų, įskaitant karo tarnus, žemių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190351
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'K. Jablonskis Valakų reformą apibūdino kaip griežtai atskyrusią bajorų-šlėktų žemes nuo valstiečių ir įvairių tarnų, įskaitant karo tarnus, žemių.'
@@ -113,5 +126,30 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190351
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 55"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 55."
+  citata_originali: |
+    K. Jablonskis apibūdino ir tuo pat metu įgyvendintus pakeitimus ūkiniame krašto
+    gyvenime, įgyvendintą Valakų reformą, kuri griežtai atskyrė bajorų-šlėktų žemes nuo
+    valstiečių ir visokių tarnų, tarp jų ir karo tarnų, žemių ir visų nesiektų žemes priskyrė
+    prie valdovo žemių ir įtraukė į valakines žemes. Tuo būdu ir valstiečiai, ir visokiausi
+    tarnai virto valakiniais prievoliniais žmonėmis, įvairių valakinių žmonių grupių teisinė
+    padėtis suartėjo, jie nebeteko nuosavybės teisės į žemę ir sudarė vieną valstiečių luomą.
+    Taigi Valakų reforma ir bajorų teisių sulyginimas su ponais išryškino pagrindinių feo-
+    dalinės visuomenės klasių sudėtį, jas pavertė aiškiai vienas nuo kito atskirtais paveldi-
+    mais luomais — bajorų-šlėktų ir valstiečių.
+  citata_rodoma: "K. Jablonskis apibūdino ir tuo pat metu įgyvendintus pakeitimus ūkiniame krašto\ngyvenime, įgyvendintą Valakų reformą, kuri griežtai atskyrė bajorų-šlėktų žemes nuo\nvalstiečių ir visokių tarnų, tarp jų ir karo tarnų, žemių ir visų nesiektų žemes priskyrė\nprie valdovo žemių ir įtraukė į valakines žemes."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207757

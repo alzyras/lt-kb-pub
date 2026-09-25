@@ -71,7 +71,7 @@ Moldavijos vaivada Steponas su karaliumi Olbrachtu sudarė taiką, davė vasalo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-193376
@@ -94,5 +94,5 @@ Moldavijos vaivada Steponas su karaliumi Olbrachtu sudarė taiką, davė vasalo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

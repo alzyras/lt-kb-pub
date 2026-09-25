@@ -144,7 +144,7 @@ canonical_biography: "354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TAR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83492
@@ -169,5 +169,5 @@ canonical_biography: "354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TAR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

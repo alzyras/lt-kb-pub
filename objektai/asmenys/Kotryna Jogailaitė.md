@@ -106,7 +106,7 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83379
@@ -150,7 +150,7 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83380
@@ -194,5 +194,5 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

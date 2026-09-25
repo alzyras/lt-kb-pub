@@ -94,7 +94,7 @@ Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188258
@@ -114,5 +114,5 @@ Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

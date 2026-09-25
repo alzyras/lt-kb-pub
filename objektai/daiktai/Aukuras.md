@@ -149,6 +149,66 @@ Nenurodyta
   pagrindžia:
     - c-177012
 
+<a id="claim-t-216491"></a>
+- t-216491
+  teiginys: "Lietuvos ir Prūsijos archeologų surinkti duomenys patiks lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Praurimės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi lučių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201598
+
+<a id="claim-t-217528"></a>
+- t-217528
+  teiginys: "Narbutas pasakoja, kad Aleksoto priemiestyje stovėjo aukuras, skirtas meilės dievybėms."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201037
+
+<a id="claim-t-219010"></a>
+- t-219010
+  teiginys: "Lietuviai turėjo primityvius ir nepuošnius aukurus, o kai kurie aukurai buvo Perkūno šventyklose."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198178
+
+<a id="claim-t-219114"></a>
+- t-219114
+  teiginys: "Užsodinę riterį ant žirgo, apvesdavo tris kartus aplink aukojamąjį aukurą; tada, įvedę tarp keturių stulpų, įkastų į žemę, raitelį ir žirgą surišdavo grandinėmis, apdėdavo dervin gomis ir sausomis malkomis aukščiau riterio galvos, kad jo nė nebūtų matyti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201355
+
+<a id="claim-t-219804"></a>
+- t-219804
+  teiginys: "Ji taip pat turėjo jai skirtus savus aukurus įvairiose vietose, upės pakran tėse, pirmiausia vietovėje, vadintoje Kernave, kur buvo ir Neriškių miškas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200172
+
 ## Citatos
 
 - id: c-36712
@@ -171,7 +231,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-55376
@@ -198,7 +258,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55377
@@ -218,7 +278,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171269
@@ -243,7 +303,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177012
@@ -263,5 +323,108 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-198178
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 241."
+  citata_originali: |
+    Senovės žmonių aukurai - tai tam tikro aukščio pakiles­
+    nės vietos atviroje aikštėje, miškuose arba šventykloje, netu­
+    rinčioje stogo; šiame paaukštėjime, atstojančiame pakopas, bu­
+    vo pusės žmogaus ūgio ugniavietė. Kunigai, stovėdami ant pa­
+    kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
+    kai, romėnai statė prabangius ir didingus aukurus, paskirtus
+    skyrium įvairiems dievams. O lietuviai dėl savo vargingo pa­
+    prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
+    kai kuriuos, buvusius Perkūno šventyklose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219010
+
+- id: c-200172
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 150."
+  citata_originali: |
+    Ji taip pat
+    turėjo jai skirtus savus aukurus įvairiose vietose, upės pakran­
+    tėse, pirmiausia vietovėje, vadintoje Kernave, kur buvo ir Ne-
+    riškių miškas. Žvejai ir sielininkai, sukūrę laužą iš sakingų me­
+    džių, ten degindavo tam tikras aukas“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219804
+
+- id: c-201037
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
+  citata_originali: |
+    Taip pat pasako­
+    ja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­
+    tykla arba aukuras, skirtas meilės dievybėms.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217528
+
+- id: c-201355
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 315."
+  citata_originali: |
+    Užsodinę riterį ant žirgo, apvesdavo tris kartus aplink
+    aukojamąjį aukurą; tada, įvedę tarp keturių stulpų, įkastų į
+    žemę, raitelį ir žirgą surišdavo grandinėmis, apdėdavo dervin­
+    gomis ir sausomis malkomis aukščiau riterio galvos, kad jo nė
+    nebūtų matyti, pagaliau padegdavo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219114
+
+- id: c-201598
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  citata_originali: |
+    Lietuvos ir Prūsijos archeologų surinkti duomenys patiks­
+    lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri-
+    mės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­
+    lučių. Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216491

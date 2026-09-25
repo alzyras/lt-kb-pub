@@ -73,7 +73,7 @@ Vienas prašymas buvo lietuvių belaisvių Vokietijoje reikale. Lietuviams belai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192320
@@ -91,5 +91,5 @@ Vienas prašymas buvo lietuvių belaisvių Vokietijoje reikale. Lietuviams belai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

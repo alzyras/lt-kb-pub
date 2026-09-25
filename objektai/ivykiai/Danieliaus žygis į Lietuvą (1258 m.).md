@@ -82,5 +82,5 @@ Danieliaus kariuomenė, Lietuvos žemėse apsistojusi Zite, sudavė smūgį rus�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

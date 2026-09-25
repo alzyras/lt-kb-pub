@@ -70,5 +70,5 @@ Dusburgietis teigia, kad kiti naujakrikščiai vėliau buvo valdomi remiantis ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

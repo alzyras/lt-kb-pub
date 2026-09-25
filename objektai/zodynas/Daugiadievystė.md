@@ -69,6 +69,18 @@ Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo j
   pagrindžia:
     - c-172109
 
+<a id="claim-t-218266"></a>
+- t-218266
+  teiginys: "Pamąstykime dabar apie pražūtingas senovės tautų tiky bos klaidas, pradėdami nuo daugiadievystės išpažinimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198012
+
 ## Citatos
 
 - id: c-172108
@@ -94,7 +106,7 @@ Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172109
@@ -118,5 +130,54 @@ Narbutas daugiadievystę pristatė kaip senovės tautų tikybos klaidą ir nuo j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197795
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
+  citata_originali: |
+    Graikai, kitokio dangaus ir sąmonės tauta, perėmę iš egip­
+    tiečių dalį dangaus kūnų ir Titanų giminės garbinimą, išvystė
+    malonesnio pavidalo savo daugiadievystę.
+    Reto sumanumo tos tautos protas sugebėjo gražiau suri­
+    kiuoti dievų hierarchiją, į kurią vis labiau kišosi žyniai - ne be
+    naudos savo profesijai. Gražmenų tam nemirtingajam dievų
+    būriui pridėjo poetai, be kurių jis greitai būtų netekęs reikš­
+    mės.
+    Savo ruožtu romėnai - kuo jie darėsi galingesni ir labiau
+    apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198012
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
+  citata_originali: |
+    Visa tai,
+    sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver­
+    tą valdyti pasaulį, - tautą, kuriai buvo lemta tapti pavyzdžiu
+    tolimiausiems ainiams ir kuri tarytum šešėlis dingo nuo pa­
+    saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
+    jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
+    žyniai.
+    Pamąstykime dabar apie pražūtingas senovės tautų tiky­
+    bos klaidas, pradėdami nuo daugiadievystės išpažinimo.
+    Šiandien nereikia įrodinėti, kad pirmykštis Dievo pažini­
+    mas yra įrėžtas žmogaus širdyje, nereikia net daug mąstyti,
+    kad tai suprastum.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218266

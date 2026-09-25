@@ -112,7 +112,7 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-82433
@@ -135,7 +135,7 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82434
@@ -158,5 +158,5 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

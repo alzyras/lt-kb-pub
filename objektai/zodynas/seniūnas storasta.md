@@ -89,7 +89,7 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-37953
@@ -110,5 +110,5 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

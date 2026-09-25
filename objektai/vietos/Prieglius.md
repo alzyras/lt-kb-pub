@@ -142,6 +142,28 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   pagrindžia:
     - c-59003
 
+<a id="claim-t-215971"></a>
+- t-215971
+  teiginys: "Pleviškių kaimas buvo prie Priegliaus upės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199768
+
+<a id="claim-t-222537"></a>
+- t-222537
+  teiginys: "Prūsai pastatė tiltą per Priegliaus upę ir abiejuose jo galuose įrengė kuorus."
+  atnaujinta: "2026-09-20 04:06"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.'
@@ -178,7 +200,7 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-59002
@@ -203,7 +225,7 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59003
@@ -230,7 +252,7 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-59004
@@ -248,7 +270,7 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167578
@@ -271,5 +293,68 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-199768
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 377."
+  citata_originali: |
+    ties Pleviškių kaimu, as­
+    tuonios mylios nuo Karaliaučiaus, prie Priegliaus upės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215971
+
+- id: c-204258
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 121-122"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121-122."
+  citata_originali: |
+    Šioje vietoje, apie
+
+    ir visiškai sugriovė, daug žmonių paimdami į nelaisvę ir išžudydami. Todėl vėliau miestas
+    buvo perkeltas į slėnį tarp Priegliaus ir pilies, į tą vietą, kur tebestovi ir šiandien377.
+
+
+
+
+          107 (102).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204959
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
+  citata_originali: |
+    Becenbergeris nustatė, kad
+    vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
+    ir Alnos (kair. Priegliaus intako), o vietovardžiai, kilę  iš atitinkamų prūsiškų žodžių
+    caymis, ape, garbis,—  į vakarus. Taigi abiejų tyrinėtojų duomenimis, kalbinė riba tarp
+    lietuvių ir prūsų Ordino atsikraustymo metu ėjo apytiksliai natūraliomis ribomis — upėmis
+    Deimena, Priegliumi, Alnos žemupiu, Ašvenos ir Vangrapės aukštupiais iki Dubenykų
+
+
+
+
+      3 Būga K.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

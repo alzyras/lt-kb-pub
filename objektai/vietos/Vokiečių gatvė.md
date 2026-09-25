@@ -113,7 +113,7 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82103
@@ -149,7 +149,7 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186429
@@ -168,5 +168,5 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -80,5 +80,5 @@ Seibakpolės (Seibaklaukio) vietovėje, dabartinės Lydos apskrities lygumoje, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

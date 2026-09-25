@@ -75,6 +75,16 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
   pagrindžia:
     - c-170323
 
+<a id="claim-t-210682"></a>
+- t-210682
+  teiginys: "Novosilė buvo Černigovo kunigaikštystės miestas ir dalinė kunigaikštystė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Citatos
 
 - id: c-170323
@@ -96,6 +106,6 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

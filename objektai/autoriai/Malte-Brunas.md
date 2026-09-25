@@ -37,26 +37,6 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
 
 ## Teiginiai
 
-<a id="claim-t-190441"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško aiškinimo „plikasis kalnas“."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kaukazas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Malte-Brunas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kaukazas: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Malte-Brunas\" parinktas kaip owner_note_path. Targetas \"Kaukazas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173324
-
 <a id="claim-t-190759"></a>
 - t-002
   teiginys: "Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet, reiškusio vandens telkinį."
@@ -77,17 +57,25 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   pagrindžia:
     - c-173641
 
-<a id="claim-t-197623"></a>
-- t-003
-  teiginys: "Malte-Brunas susiliejo su kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsikūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtingų bruožų."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-212811"></a>
+- t-212811
+  teiginys: "Malte-Brunas, Narbuto vertinimu, teisingai pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Styrė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Malte-Brunas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Styrė: mention_match, place, gap=103"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Malte-Brunas\" parinktas kaip owner_note_path. Targetas \"Styrė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173640
+    - c-196240
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -132,8 +120,6 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-173640
   autorius: "Teodoras Narbutas"
@@ -152,8 +138,6 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-173641
   autorius: "Teodoras Narbutas"
@@ -174,5 +158,25 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196240
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
+  citata_originali: |
+    Tai buvo miškinė gyvulių augintojų gentis.
+    Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
+    tinių kašubų protėviai. Neabejotina, kad ji susiliejo su
+    kažkokia slavų karta ir pateko į Vyslos žemupį, kur įsi­
+    kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
+    gų bruožų.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:01"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212811

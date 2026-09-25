@@ -83,5 +83,5 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

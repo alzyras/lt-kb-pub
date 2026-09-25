@@ -43,29 +43,17 @@ Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir
 
 ## Teiginiai
 
-<a id="claim-t-191406"></a>
-- t-001
-  teiginys: "Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir palei Afrikos krantus nuplaukė iki Bajadoro kyšulio."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-214358"></a>
+- t-214358
+  teiginys: "Hanonas su daugybe laivų plaukė į pietus palei Afrikos krantus iki Bajadoro kyšulio."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Afrika: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hanonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Afrika: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Hanonas tiesiogiai aprašomas plaukęs palei Afrikos krantus."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Hanonas keliavo į Afrika (0.86)"
-  temporaliniai_duomenys: "kelionės data: 450 m; kelionės data: apie 450 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Hanonas keliavo į Afrika“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Hanono žygį iš Kartaginos. Jame nurodyti laikas, kryptis ir pasiektas kyšulys, neperimant nereikšmingumo vertinimo."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174288
+    - c-196233
 
 ## Citatos
 
@@ -89,5 +77,24 @@ Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-196233
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 154."
+  citata_originali: |
+    Dėl to
+    apie 450 metus prieš Kristaus gimimą iš Kartaginos buvo
+    išsiųsti už Heraklio stulpų du puikūs keliautojai: vienas
+    jų, Hanonas, su daugybe laivų, prikrautų įvairiausių reik­
+    menų, pasuko į pietus ir palei Afrikos krantus nuplaukė
+    net iki Bajadoro kyšulio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214358

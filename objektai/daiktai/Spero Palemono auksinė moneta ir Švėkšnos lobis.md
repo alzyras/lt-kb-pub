@@ -128,7 +128,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172535
@@ -149,7 +149,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177018
@@ -169,5 +169,44 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-198978
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 218"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
+  citata_originali: |
+    Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
+    duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
+    Žemaitijos, turėjo būti nelabai seniai rasta (1814 ar 1815 me­
+    tais) Švėkšnoje, tenykštės klebonijos sode; tarnas pasisavino
+    lobį, iškastą persodinant rožių krūmą, - mat auksinių monetų
+    turėjo būti keliolika svarų. Tas žmogus pabėgo į užsienį, ir bran­
+    gios senovės liekanos nežinia kur dingo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201436
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 218"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
+  citata_originali: |
+    Tas žmogus pabėgo į užsienį, ir bran­
+    gios senovės liekanos nežinia kur dingo. Moneta sveria beveik
+    tiek, kiek trys su puse raudonojo auksino. Ji įdubi, kaip graži
+    lėkštelė, į ją telpa didoko kavos šaukštelio vandens ketvirta­
+    dalis; iškalta labai raiškiai ir, nors iškilioji jos pusė nudilusi,
+    atspaudas dar gana ryškus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

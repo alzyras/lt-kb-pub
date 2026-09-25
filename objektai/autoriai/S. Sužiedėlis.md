@@ -124,7 +124,7 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -145,5 +145,5 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

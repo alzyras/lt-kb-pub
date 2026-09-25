@@ -84,6 +84,23 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
   pagrindžia:
     - c-175353
 
+<a id="claim-t-215166"></a>
+- t-215166
+  teiginys: "Narbutas aiškina, kad Žiemos kinkinys čia pateikiamas kaip alternatyva mažai valčiai vasarą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "žiemos kinkinys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žiemos kinkinys\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195687
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -129,7 +146,7 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175353
@@ -155,5 +172,32 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195687
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 209"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
+  citata_originali: |
+    Tokioje žemėje didesnės
+    upės buvo tarsi lengviau įveikiami keliai, jų vandenys
+    išplukdydavo nuvirtusius medžius, nusausindavo krantus
+    ir vedė prie dar didesnių plaukiančių arba stovinčių van­
+    denų. Šie keliai buvo prieinami ir vasarą, ir žiemą: pir­
+    muoju atveju pakako turėti šiokią tokią valtį, o antruo­
+    ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių
+    kryptimi galima būtų keliauti, nes taip lengviausia pa­
+    tenkinti gyvenimo poreikius. Tokie ¡natūraliai įsivaizduo­
+    jami daugybės žmonių persikėlimai iš tikrųjų vykdavo la­
+    bai seniai; tuo ¡galima įsitikinti skaitant senovės amžių
+    istorijas ir žiūrint į geografijos žemėlapius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215166

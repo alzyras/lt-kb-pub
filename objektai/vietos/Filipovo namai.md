@@ -128,7 +128,7 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-81996
@@ -155,7 +155,7 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-81997
@@ -186,5 +186,5 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

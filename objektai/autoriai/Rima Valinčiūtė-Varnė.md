@@ -68,5 +68,5 @@ Kaunas, 2008; Šinkūnaitė L., Valinčiūtė-Varnė Rima, Kamuntavičienė v., 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

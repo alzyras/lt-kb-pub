@@ -69,6 +69,18 @@ historical_names: []
   pagrindžia:
     - c-171912
 
+<a id="claim-t-217310"></a>
+- t-217310
+  teiginys: "1809 metais Marijampolės apskrityje, netoli nuo kairiojo Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų: lai buvo rūdžių suėsti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199749
+
 ## Citatos
 
 - id: c-171912
@@ -94,8 +106,34 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199749
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
+  citata_originali: |
+    Man sakė, kad Karaliaučiuje
+    buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
+    das žirgas, o ant jo - juodas gaidys.
+    1809 metais Marijampolės apskrityje, netoli nuo kairiojo
+    Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
+    liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
+    žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
+    lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
+    veidžiai, kai kurie variniai ir sidabriniai daiktai. 1813 metais jo
+    mylista Daujotas, anuometinis Lokaičių palivarko nuomoto­
+    jas, man pasakojo: „Gavau varinį žiedą su puse colio pločio,
+    11 colių diametro“.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217310
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lokaičiai]]

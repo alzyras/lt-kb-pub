@@ -114,29 +114,17 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   pagrindžia:
     - c-173670
 
-<a id="claim-t-197638"></a>
-- t-004
-  teiginys: "Prokopijus net teigia, kad Jurjevas buvo atstatytas XII amžiaus pradžioje po to, kai jį sunaikino poloviečiai."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-212170"></a>
+- t-212170
+  teiginys: "Žinios apie šį bendrinį pa vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi ni estus, kalbėdamas apie karingus Odoakro vadovauja mus herulus, kilusius iš estų tautos."
+  atnaujinta: "2026-09-20 15:15"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-179273
-
-<a id="claim-t-197639"></a>
-- t-005
-  teiginys: "Jorda nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako jimą kaip ir Prokopijus; kai girdime tų pačių istorikų pateiktas žinias apie skirius ir sudargus, apie hirius jau nematome jokių užuominų."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179274
+    - c-195107
 
 ## Citatos
 
@@ -170,7 +158,7 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173669
@@ -193,7 +181,7 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173670
@@ -218,7 +206,7 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-179273
@@ -243,8 +231,6 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-179274
   autorius: "Teodoras Narbutas"
@@ -266,5 +252,72 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose. Narbutas rašo, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+
+- id: c-195107
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
+  citata_originali: |
+    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
+    riko įtaką Europos vakaruose gyvenančioms tautoms ir
+    gentims, sako: „Turbūt tas pats karalius Germanarikas
+    savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
+    kraštą ir pavergė estų tautą“4. Žinios apie šį bendrinį pa­
+    vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
+    ni estus, kalbėdamas apie karingus Odoakro vadovauja­
+    mus herulus, kilusius iš estų tautos. Sis istorikas gyveno
+    imperatoriaus Justiniano laikais, arba VI amžiuje.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212170
+
+- id: c-195197
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
+  citata_originali: |
+    Ka­
+    ramzinas, radęs kažkokį Jurjevą prie Rosės upės, tekan­
+    čios pro Belaja Cerkovę, Kijevo gubernijoje, šiuos Nes­
+    toro žodžius priskiria poloviečių veiksmams dešiniojoje
+    Dnepro pakrantėje. Jis net teigia, kad Jurjevas buvo at­
+    statytas XII amžiaus pradžioje po to, kai jį sunaikino
+    poloviečiai. Tačiau jis prieštarauja sau ir savo tiksliai
+    išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
+    mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­
+    imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
+    riojoje Dnepro pakrantėje, į rytus nuo jo.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197229
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 295"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 295."
+  citata_originali: |
+    Jorda­
+    nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
+    jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
+    pateiktas žinias apie skirius ir sudargus, apie hirius jau
+    nematome jokių užuominų. Tačiau III amžiaus pabaigoje
+    minimi herulai; tai gentis, laikoma ta pačia, kuri anks­
+    čiau buvo vadinama hiriais. Taigi privalome patyrinėti
+    šios trečios lietuvių genties, grįžusios su gotais į Rytus,
+    kelius.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

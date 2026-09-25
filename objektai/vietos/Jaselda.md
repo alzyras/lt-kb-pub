@@ -112,7 +112,7 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184412
@@ -139,5 +139,5 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

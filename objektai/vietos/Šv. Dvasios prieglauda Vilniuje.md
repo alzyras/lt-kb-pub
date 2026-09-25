@@ -169,7 +169,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-81834
@@ -202,7 +202,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-81835
@@ -235,7 +235,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-81836
@@ -265,7 +265,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-81837
@@ -289,7 +289,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-81838
@@ -324,5 +324,5 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

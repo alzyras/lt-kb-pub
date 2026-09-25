@@ -136,7 +136,7 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175107
@@ -164,6 +164,6 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003

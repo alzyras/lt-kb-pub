@@ -136,7 +136,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174924
@@ -160,7 +160,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175295
@@ -181,5 +181,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-195762
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
+  citata_originali: |
+    Kitą dieną priešams buvo atsiųsta pagalba —
+    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
+    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
+    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
+    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
+    liai su lankais, paruoštais smūgiui. Pats Danielius, ant
+    žirgo jodamas, tvarkė kariuomenės gretas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

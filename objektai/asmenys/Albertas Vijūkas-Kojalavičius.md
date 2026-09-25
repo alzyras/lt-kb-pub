@@ -199,6 +199,19 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   pagrindžia:
     - c-174817
 
+<a id="claim-t-207467"></a>
+- t-207467
+  teiginys: "Alfredas Bumblauskas Albertą Vijūką-Kojalavičių priskiria prie žymiausių LDK kultūros asmenybių ir nurodo, kad savo garsiuosiuose veikaluose jis pavardę rašė lenkiška forma."
+  atnaujinta: "2026-09-20 12:23"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190032
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas nurodo, kad Kojalavičius mini XV a. lenkiškus grašius piorunkas ir skiria juos nuo Lietuvoje žinotų perunų arba perkūnų.'
@@ -298,7 +311,7 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171396
@@ -319,7 +332,7 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171397
@@ -344,7 +357,7 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173720
@@ -368,7 +381,7 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173721
@@ -390,7 +403,7 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173722
@@ -414,7 +427,7 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-174817
@@ -433,5 +446,90 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-190032
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 22"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 22."
+  citata_originali: |
+    Štai kodėl
+    ir LDK piliečiai pradeda visą jungtinę valstybę vadinti „mūsų Lenkija“. Tačiau svarbiau-
+    sia – LDK kultūroje įsitvirtina net formaliai nuo 1697 m. lenkų kalba ir raštija, pakeitusi iki
+    to dominavusią rusėnų raštiją. Žymiausios LDK kultūros asmenybės – užtektų paminėti is-
+    toriką Albertą Vijūką-Kojalavičių ar karo inžinierių Kazimierą Semenavičių – jie abu savo
+    garsiuosiuose veikaluose savo pavardes parašė jau lenkiška forma (Siemienowicz, Kojało-
+    wicz).
+  citata_rodoma: "Žymiausios LDK kultūros asmenybės – užtektų paminėti is-\ntoriką Albertą Vijūką-Kojalavičių ar karo inžinierių Kazimierą Semenavičių – jie abu savo \ngarsiuosiuose veikaluose savo pavardes parašė jau lenkiška forma (Siemienowicz, Kojało-\nwicz)."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207467
+
+- id: c-195333
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
+  citata_originali: |
+    95
+    Pastabos. Mūsų mokslininkas, lietuvių istorijos tyri­
+    nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
+    toms iš kitur pažįstamus poloviečius', remdamasis tokio­
+    mis pat Kojalavičiaus prielaidomis1 2. Naruševičius patei­
+    kia žinių, kurios, rodos, taip pat remia šią nuomonę, kad
+    poloviečiai buvę rusų kaimynai nuo saulės patekėjimo ir
+    nusileidimo pusių3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195593
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
+  citata_originali: |
+    Kortos, romanai, garderobai — tokios yra jų dory­
+    bės. Vyrauja tuščias pasididžiavimas senoliais, o protėvių
+    istorijai paprasčiausiai atsuko nugarą. Per 400 metų nė
+    vienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir
+    Teodorą Narbutą, nepasirūpino krašto praeitimi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200385
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
+  citata_originali: |
+    Draugystės, svetingumo, santai­
+    kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
+    baimingai tautai tikriausiai nebuvo tušti simboliai. Tad Ški­
+    cas, Henenbergeris, Hartknochas ir Kojalavičius apšmeižė se­
+    novės lietuvius, priskirdami jiems žiaurumą su ligoniais, bejė­
+    giais, luošaisiais arba mirštančiais žmonėmis, esą buvę įprasta
+    pagreitinti jų mirtį . Tuo nepatikės niekas, kas bent kiek pa- 13
+    13
+    Iš dalies tą darė herulai -  tai pasakysime mūsų istorijos tęsiny­
+    je, -  bet ne smurtu ir ne pagal religijos nuostatus, o tik prietaringų ir
+    ligos palaužtų senelių prašymu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

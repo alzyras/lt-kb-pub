@@ -45,6 +45,30 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
   pagrindžia:
     - c-03362
 
+<a id="claim-t-209609"></a>
+- t-209609
+  teiginys: "Pralotas Prapuolenis, sužinojęs apie tai, be galo džiaugėsi."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192229
+
+<a id="claim-t-209610"></a>
+- t-209610
+  teiginys: "TJ-gi, sako pralotas, aš Tamstą pa lydėsiu pas šv."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192230
+
 ## Citatos
 
 - id: c-03362
@@ -71,5 +95,37 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192229
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 77"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 77."
+  citata_originali: |
+    Pralotas Prapuolenis, sužinojęs apie tai, be­
+    galo džiaugėsi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209609
+
+- id: c-192230
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 77"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 77."
+  citata_originali: |
+    TJ-gi, sako pralotas, aš Tamstą pa­
+    lydėsiu pas šv. Tėvą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209610

@@ -143,7 +143,7 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173735
@@ -170,6 +170,6 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003

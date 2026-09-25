@@ -89,5 +89,5 @@ Didysis medžioklis ceremonialo metu būdavo šalia valdovo, vadovavo kitiems me
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

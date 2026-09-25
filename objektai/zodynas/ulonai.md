@@ -71,5 +71,5 @@ Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

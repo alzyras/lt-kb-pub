@@ -64,20 +64,3 @@ Gotchardas Friderikas Stenderis (1714–1796) parašė veikalą „Neue vollstä
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-212525"></a>
-- t-001
-  teiginys: "Gotchardas Friderikas Stenderis (1714–1796) parašė veikalą „Neue vollständige lettische Grammatik“ (1756)."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194812
-

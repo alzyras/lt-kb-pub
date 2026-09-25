@@ -89,7 +89,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-02322
@@ -109,7 +109,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-02323
@@ -131,5 +131,5 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

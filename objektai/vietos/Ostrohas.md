@@ -78,5 +78,5 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

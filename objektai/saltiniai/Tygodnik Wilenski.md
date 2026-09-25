@@ -120,6 +120,42 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   pagrindžia:
     - c-173715
 
+<a id="claim-t-215343"></a>
+- t-215343
+  teiginys: "Straipsnis apie pilkapius buvo parašytas leidiniui „Tygodnik Wilenski“."
+  atnaujinta: "2026-09-20 08:11"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195286
+
+<a id="claim-t-217734"></a>
+- t-217734
+  teiginys: "Jis pradėjo rašyti straipsnius ugdymo ir auklėji mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik Wilenski“ pasisakė prieš baudžiavinį išnaudojimą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200757
+
+<a id="claim-t-218046"></a>
+- t-218046
+  teiginys: "„Tygodnik Wilenski“ 1816 metų 60 numeryje buvo išspausdinta J. F. R. kronikos ištrauka."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198125
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename buvusio „Tygodnik Wilenski“ numeryje.'
@@ -161,7 +197,7 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173714
@@ -180,7 +216,7 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173715
@@ -207,6 +243,88 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
+
+- id: c-195286
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 380."
+  citata_originali: |
+    Tai netgi leidžia daryti prielaidą, jog minėti broliai
+    galėjo priklausyti krivičių tautai ar kuriai kitai su lietu­
+    viais susigiminiavusiai slavų kartai.
+    Tokia surinkta pradinės Kijevo istorijos medžiaga, ku­
+    ria remdamasis, išmanantis istoriją ir turintis noro galės
+    po mūsų parašyti platesnę studiją, jei laikas, sveikata ir
+    amžius neleis mums šito įgyvendinti.
+    * * *
+    VII Priedas
+    A p ie p ilk a p iu s
+    Šis lietuvių tautos istoriją dominantis straipsnis buvo
+    parašytas leidiniui „Tygodnik Wilenslki“', bet ir dabar
+    čia verta pakartoti jį su tam tikromis pataisomis.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215343
+
+- id: c-196195
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 136"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
+  citata_originali: |
+    Istoriniai tyrinėjimai byloja, jog Vladislovas Lokietka, ap-
+    1 Leidinyje „Tygodnik Wilenski“ (1817. T. IV. P. 59—64, 78—
+    80) buvo išspausdintas mano jotvingių tyrinėjimas; čia kalbama apie
+    šį užrašą ir kitas išvadas, kurias šiandien, geriau susipažinęs su
+    šiuo dalyku, praleidžiu*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198125
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 269."
+  citata_originali: |
+    Žymiau­
+    sia iš jų iki paskutinių stabmeldystės laikų buvo paskirta Per­
+    kūnui; apie ją dedu iš J. F. R. kronikos ištrauką, kuri buvo iš­
+    spausdinta Tygodnik Wilenski, 1816 metų 60 numeryje***.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218046
+
+- id: c-200757
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
+  citata_originali: |
+    Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
+    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
+    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217734

@@ -177,7 +177,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-97158
@@ -199,7 +199,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-97159
@@ -222,7 +222,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-97161
@@ -246,7 +246,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-97162
@@ -270,7 +270,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-166864
@@ -291,7 +291,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166865
@@ -313,7 +313,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-166866
@@ -338,5 +338,5 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

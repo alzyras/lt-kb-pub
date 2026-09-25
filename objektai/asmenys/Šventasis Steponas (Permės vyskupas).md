@@ -122,7 +122,7 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172942
@@ -146,7 +146,7 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172943
@@ -173,5 +173,80 @@ Narbutas rašė, kad X a. pabaigoje prasidėjęs Biarmijos vertimas į krikšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-199287
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
+  citata_originali: |
+    Atver­
+    timas j krikščionybę, prasidėjęs tenai apie X amžiaus pabaigą,
+    vyko gana nesėkmingai: biarmiečiai tai priimdavo krikščiony­
+    bę, tai vėl atmesdavo, o dėl to neapsieidavo ir be kankinių:
+    vienam vyskupui, apsakančiam šventąją evangeliją, jie gyvam
+    nulupo odą. Pagaliau atsirado tikrasis Biarmijos apaštalas -
+    šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
+    kupinas žmoniškumo ir žmogaus širdies supratimo. Davęs
+    žmonėms pažinti savo dorybes ir užsitarnavęs jų meile, nie­
+    kuo neįžeisdamas čiabuvių tautos, nors pats buvo rusas, jis
+    taip sėkmingai pakreipė dalykų eigą, kad visa senovinė Biar­
+    mija priėmė Kristaus tikėjimo šviesą be pasipriešinimo ir no­
+    riai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199357
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
+  citata_originali: |
+    Davęs
+    žmonėms pažinti savo dorybes ir užsitarnavęs jų meile, nie­
+    kuo neįžeisdamas čiabuvių tautos, nors pats buvo rusas, jis
+    taip sėkmingai pakreipė dalykų eigą, kad visa senovinė Biar­
+    mija priėmė Kristaus tikėjimo šviesą be pasipriešinimo ir no­
+    riai. Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
+    biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų
+    sušvelninti rūsčią tautą, aistringai mylinčią savo tėvynę.
+    Dėl to susiklostė nuomonė, kad šventasis Steponas išra­
+    dęs šį raidyną XI amžiuje, bet reikia patikslinti, kad jis jį su­
+    tvarkė pagal rusų abėcėlę ir ėmė rašyti šiaurės slavų tarme,
+    idant čiabuviai galėtų suprasti iš rašto Dievo tiesas, kurias, ma­
+    tyt, jau pažino.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201267
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
+  citata_originali: |
+    Pagaliau atsirado tikrasis Biarmijos apaštalas -
+    šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
+    kupinas žmoniškumo ir žmogaus širdies supratimo. Davęs
+    žmonėms pažinti savo dorybes ir užsitarnavęs jų meile, nie­
+    kuo neįžeisdamas čiabuvių tautos, nors pats buvo rusas, jis
+    taip sėkmingai pakreipė dalykų eigą, kad visa senovinė Biar­
+    mija priėmė Kristaus tikėjimo šviesą be pasipriešinimo ir no­
+    riai. Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
+    biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų
+    sušvelninti rūsčią tautą, aistringai mylinčią savo tėvynę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -164,6 +164,43 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   pagrindžia:
     - c-176259
 
+<a id="claim-t-216650"></a>
+- t-216650
+  teiginys: "Sirvydo bei mitologiniai žodynai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199616
+
+<a id="claim-t-216835"></a>
+- t-216835
+  teiginys: "Konstantinas Sirvydas buvo gerai įtvirtinta."
+  atnaujinta: "2026-09-20 02:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198175
+
+<a id="claim-t-219330"></a>
+- t-219330
+  teiginys: "Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę."
+  atnaujinta: "2026-09-20 02:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-199616
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę.'
@@ -204,7 +241,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173176
@@ -230,7 +267,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173177
@@ -248,7 +285,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173630
@@ -265,7 +302,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173631
@@ -284,7 +321,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-176259
@@ -306,7 +343,7 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-179123
@@ -327,3 +364,79 @@ Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-196287
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 261."
+  citata_originali: |
+    Tačiau ši prielaida žlunga, jei atkreipsime dė­
+    mesį, jog tikroji Lietuva, nors ją ir laikytų rusų slavų nu­
+    galėta, nebuvo vadinama Rusia, o arčiausiai Lietuvos
+    1 Taip pat ir lietuvių kalba: Pridegis, Prlderinis (I\. Sirvydo žo­
+    dynas. P. 26).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197786
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 150."
+  citata_originali: |
+    Tai buvo piktųjų dvasių apgaulė; ty-
+    kodamos prie vandens, suvedžiodamos žmones, jos stengėsi
+    išvilioti sau dovanų“.
+    Dėl šių poeto Jakimavičiaus žodžių įgyjame naują objektą
+    mūsų deivių rinkiniui. Taip pat kunigas Sirvydas savo žodyne
+    Vilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198175
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
+  citata_originali: |
+    Tai buvo 1258 metais“ .
+    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
+    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
+    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
+    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
+    toje vietoje įkūrė Senąją Torunę.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216835
+
+- id: c-199616
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 56."
+  citata_originali: |
+    Jo nuomone, svarbiausias veikalo trūkumas -
+    šaltinių skurdumas, pagrindiniai T. Narbuto naudoti darbai te­
+    buvę K. Sirvydo bei mitologiniai žodynai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216650
+    - t-219330

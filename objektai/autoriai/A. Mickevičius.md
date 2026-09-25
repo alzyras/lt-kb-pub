@@ -94,6 +94,19 @@ Mickevičiaus, J.
   pagrindžia:
     - c-184221
 
+<a id="claim-t-209372"></a>
+- t-209372
+  teiginys: "A. Mickevičiaus „Odėje jaunystei“, šaltinyje įvardijamoje Lietuvos romantizmo manifestu, buvo skelbiami šūkiai, kuriuos šubravcai kartais pašiepdavo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-191966
+
 ## Citatos
 
 - id: c-22107
@@ -119,6 +132,7 @@ Mickevičiaus, J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-176256
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -138,7 +152,7 @@ Mickevičiaus, J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -153,9 +167,34 @@ Mickevičiaus, J.
     ševičius, Ad. Mickevičius, K ondratavičius ir daug
     k it.], yra visai ne lenkai, tik lietuviai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-191966
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 38"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 38."
+  citata_originali: |
+    iš esmes pozityvios asmenybės emancipacijos pusę - bendri interesai
+    tampa svetimais, atitolusiais nuo asmeninių egzistencinių poreikių.
+    Todėl neatsitiktinai ironijos principas savo aukščiausią laipsnį pasiekė
+    romantizmo šauklių elgsenoje ir kūryboje, o labiausiai organizuotą
+    formą įgavo danų mąstytojo Sioreno Kierkegoro darbuose. Tačiau
+    šubravcai dar buvo romantizmo priešaušryje ir rėmėsi Švietimo
+    epothos idėjomis, kartais net pašiepdami A. Mickevičiaus "Odės
+    jaunystei" - Lietuvos romantizmo manifesto - Šūkius.
+  citata_rodoma: "Tačiau \nšubravcai dar buvo romantizmo priešaušryje ir rėmėsi Švietimo \nepothos idėjomis, kartais net pašiepdami A. Mickevičiaus \"Odės \njaunystei\" - Lietuvos romantizmo manifesto - Šūkius."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209372

@@ -90,5 +90,5 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

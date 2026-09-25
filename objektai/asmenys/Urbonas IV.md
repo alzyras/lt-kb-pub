@@ -117,7 +117,7 @@ canonical_biography: "1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60849
@@ -140,7 +140,7 @@ canonical_biography: "1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -177,6 +177,28 @@ canonical_biography: "1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šv
   statusas: verified
   atnaujinta: "2026-07-13 01:17"
 
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205243
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 234"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 234."
+  citata_originali: |
+    Apie Kristaus kūno šventės įsteigimą
+
+      1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią
+    vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V
+    (Ptol. 22, 23—25).
+
+
+
+                      46.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

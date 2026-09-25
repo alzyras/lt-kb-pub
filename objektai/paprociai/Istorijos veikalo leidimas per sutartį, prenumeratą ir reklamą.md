@@ -47,48 +47,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-189795"></a>
-- t-001
-  teiginys: "Nuo 1837 metų A. Marcinovskis rūpinosi T. Narbuto „Lietuvių tautos istorijos“ leidyba, prenumerata ir reklama."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Antanas Marcinovskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antanas Marcinovskis: mention_match, author, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą\" parinktas kaip owner_note_path. Targetas \"Antanas Marcinovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172678
-
-<a id="claim-t-189796"></a>
-- t-002
-  teiginys: "Narbutui artimas literatas A. Marcinovskis suprato „Lietuvių tautos istorijos“ reikšmę ir reklamos tekste veikė ne vien kaip prekiautojas."
-  atnaujinta: "2026-07-19 18:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Antanas Marcinovskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antanas Marcinovskis: mention_match, author, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą\" parinktas kaip owner_note_path. Targetas \"Antanas Marcinovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172679
-
 ## Citatos
 
 - id: c-172678
@@ -109,8 +67,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-172679
   autorius: "Teodoras Narbutas"
@@ -131,5 +87,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

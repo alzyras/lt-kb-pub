@@ -55,6 +55,18 @@ Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuome
   pagrindžia:
     - c-173002
 
+<a id="claim-t-217285"></a>
+- t-217285
+  teiginys: "Vitolfas susitaikė su tenykščiu karaliumi, kadangi abu buvo kerėtojai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197776
+
 ## Citatos
 
 - id: c-173002
@@ -77,5 +89,28 @@ Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuome
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197776
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
+  citata_originali: |
+    Kartą, kai Vitolfas puotavo pas vieną karalių,
+    jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­
+    šių ypatybių kaip žirgas. Bet dievai, nenorėdami, kad gausėtų
+    tokių milžiniškų gyvulių giminė, užvertė ant jų du kalnus, li­
+    pančius vienas ant kito. Nusiminęs Vytolfas išvyko iš to kara­
+    liaus dvaro, o kai su kariuomene sugrįžo užkariauti jo karalys­
+    tės, ties tuo pačiu kalnu susidūrė su slibinu Pukiu (Pūkis), jį
+    nugalėjo ir paėmė nesuskaičiuojamus turtus. Pagaliau jis susi­
+    taikė su tenykščiu karaliumi, kadangi abu buvo kerėtojai.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217285

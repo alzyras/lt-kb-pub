@@ -83,8 +83,26 @@ Dusburgietis teigia, kad valdovas Henrikas, Varmės vyskupas, vėliau, 1279 vie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205585
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
+  citata_originali: |
+    Išgirdę, kad pilis ir miestas
+    sudeginti, visi drauge patraukė į Elbingą. Valdovas Henrikas, Varmės vyskupas, vėliau,
+    1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur ji ir dabar
+    tebestovi415. Vos atvykęs  po konsekracijos į savo vyskupystę, šis vyskupas gavo per
+    metus iš visos vyskupystės tik vieną markę pajamų, kurią jam sumokėjo vienas malūnas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Henrikas (Varmės vyskupas) pastatė [[objektai/vietos/Brunsbergas]]

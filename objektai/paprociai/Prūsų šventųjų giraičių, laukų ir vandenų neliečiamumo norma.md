@@ -86,5 +86,26 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205366
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    Kadangi jie nepažino
+    dievo, tai, suprantama, klaidingai dievino visokiausius tvarinius, būtent: saulę, mėnulį ir
+    žvaigždes, griaustinį, sparnuočius ir keturkojus, netgi rupūžes.
+       Jie turėjo šventųjų giraičių, laukų ir vandenų, kur niekas nedrįso nei medžio kirsti, nei
+    žemės dirbti, nei žuvauti. Šios klastingos tautos [gyvenamų žemių] viduryje, Nadruvoje,
+    buvo vieta, kurią vadino Romove204, gavusi savo vardą nuo Romos, o ten gyveno žmogus,
+      203 Manoma, kad pagrindinė Galindos žemės nusiaubimo priežastis buvo pasienio
+    karai, ypač su Lenkija XI—XIII a.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

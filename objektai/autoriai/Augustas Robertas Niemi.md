@@ -166,7 +166,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177614
@@ -184,7 +184,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177615
@@ -202,7 +202,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177616
@@ -225,7 +225,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177617
@@ -243,7 +243,7 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-177618
@@ -259,9 +259,10 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
     cenciato disertacija.
   citata_rodoma: "1898. Kalevalos I sudėtis. \nRinkinys runų apie Vainamoiną. Li­\ncenciato disertacija."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

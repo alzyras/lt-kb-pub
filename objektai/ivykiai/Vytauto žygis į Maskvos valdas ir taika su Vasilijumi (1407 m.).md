@@ -153,7 +153,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -185,7 +185,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178912
@@ -217,5 +217,36 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-193049
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 103"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 103."
+  citata_originali: |
+    Naugardiečiai, matydami pskoviečius jam pasidavus
+    ir priėmus jo vietininką, nebenorėdami, kad jų žemė
+    nuo didžiojo kunigaikščio Vytauto dar labiau nukentė­
+    tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
+    tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
+    kaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas
+    paskyrė jiems vietininku savo svainį, kunigaikštį Si­
+    moną Alšėniškį, vadinamą Rūsčiuoju 9.
+    Ir davė naugardiečiai didžiajam kunigaikščiui Vy­
+    tautui kiekvienais metais duoklės po dešimt tūkstančių
+    auksinų 10 ir keturias dešimtis sunkiųjų žirgų, kuriuos
+    dabar vadina fryzais, ir keturias dešimtis kailinių, ir
+    devynias galybes sabalų, ir lūšių, ir kiaunių, ir lapių,
+    ir šermuonėlių, ir voverių kailių. Mokėjo naugardie­
+    čiai šitiek į Lietuvos didžiojo kunigaikščio Vytauto
+    iždą kiekvienais metais, o pskoviečiai davė pusė to,
+    ką davė naugardiečiai, tiek auksu ir žirgais, tiek kai­
+    liais ".
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

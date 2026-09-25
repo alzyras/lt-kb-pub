@@ -79,6 +79,28 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
   pagrindžia:
     - c-60809
 
+<a id="claim-t-222501"></a>
+- t-222501
+  teiginys: "Dusburgietis teigia, kad muka mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės kaimų, daugybę vienuolynams bei kilmingiesiems priklausančių dvarų, 30 parapinių bažnyčių ir koplyčių su daug dievo garbei skirtų maldos namų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-224898"></a>
+- t-224898
+  teiginys: "Muka su 19 plėšikautojų apsupo ir nukovė 45 lietuvių raitelius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204665
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1324 m. Varmės vyskupystės vyras Muka su 19 plėšikautojų dykrose apsupo ir nukovė 45 lietuvių raitelius.'
@@ -128,7 +150,7 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60810
@@ -153,5 +175,43 @@ Dusburgietis teigia, kad apie 45 lietuvių žūtį 1324 metais Tais pačiais met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202555
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 220"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 220."
+  citata_originali: |
+    Dar apie tą patį
+    Kitą kartą tas pats Muka patraukė su būriu plėšikautojų prieš netikėlius ir, atvykęs į
+    dykras, išvydo daugybę Lietuvos raitelių; pabūgęs tokios gausybės bei galybės, numetė
+    į šalį valgį bei gėrimą ir visa kita, kas galėjo trukdyti, ir su savo bendrais paspruko bei
+    išvengė mirties. Neilgai trukus tas pats Muka susirūpinęs po ilgų svarstymų tarė savo
+    bendrams: „Mums prisieis mirti badu, nes neturime maisto. Dėl to patariu bent garbingai
+    numirti. Sėlinkime paskui mūsų priešus ir žiūrėkime, ar nepavyks šio ar to iš jų laimėti“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204665
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 220"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 220."
+  citata_originali: |
+    Tais pačiais metais ir	tuo pat laiku vienas Varmės vyskupystės vyras, vardu Muka,
+    su 19 plėšikautojų patraukė link Lietuvos, aptiko dykrose 45 lietuvių raitelius, sumaniai
+    juos apsupo ir visus nukovė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224898

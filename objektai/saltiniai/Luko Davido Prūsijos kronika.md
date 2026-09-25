@@ -113,7 +113,7 @@ Jo pastebėjimais iš senų rankraštinių kronikų pagrįsta Vaidevučio laikam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188010
@@ -142,5 +142,5 @@ Jo pastebėjimais iš senų rankraštinių kronikų pagrįsta Vaidevučio laikam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

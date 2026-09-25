@@ -105,7 +105,7 @@ Pasak Teodoro Narbuto, Pskovo riteriai noriai prisidėjo prie Dovydo žygio prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188534
@@ -131,7 +131,7 @@ Pasak Teodoro Narbuto, Pskovo riteriai noriai prisidėjo prie Dovydo žygio prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188535
@@ -152,5 +152,5 @@ Pasak Teodoro Narbuto, Pskovo riteriai noriai prisidėjo prie Dovydo žygio prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

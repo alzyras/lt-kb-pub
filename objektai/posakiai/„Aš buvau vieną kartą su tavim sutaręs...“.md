@@ -59,5 +59,5 @@ Kaipogi karalius, jutęs Gediminą paėjus, buvo išleidęs siuntinius, lūgodam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

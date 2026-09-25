@@ -98,6 +98,18 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
   pagrindžia:
     - c-175130
 
+<a id="claim-t-218052"></a>
+- t-218052
+  teiginys: "Kiniglis šaltinyje reiškia triušį, o ne kiškį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201511
+
 ## Citatos
 
 - id: c-175130
@@ -122,7 +134,27 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
+
+- id: c-201511
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
+  citata_originali: |
+    Pa­
+    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
+    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
+    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
+    boje žodis „ Kiniglis“ būtent tą ir reiškia
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218052

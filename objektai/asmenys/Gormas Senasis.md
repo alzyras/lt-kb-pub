@@ -91,5 +91,5 @@ Damijo-s valdovas Gormas Senasis, trečiasis to vardo karalius, plėtė savo už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

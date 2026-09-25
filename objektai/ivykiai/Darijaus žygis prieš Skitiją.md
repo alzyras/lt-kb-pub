@@ -74,5 +74,5 @@ Gelonai ir budinai Darijaus karo metu buvo ištikimiausi ir uoliausi skitų sąj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

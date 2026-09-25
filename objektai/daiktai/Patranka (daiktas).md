@@ -138,7 +138,7 @@ Vokiečiai Kauno pilį sudaužė iš didelių patrankų. Jogaila nusprendė, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-193235
@@ -158,7 +158,7 @@ Vokiečiai Kauno pilį sudaužė iš didelių patrankų. Jogaila nusprendė, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-193301
@@ -175,7 +175,7 @@ Vokiečiai Kauno pilį sudaužė iš didelių patrankų. Jogaila nusprendė, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-193758
@@ -194,7 +194,7 @@ Vokiečiai Kauno pilį sudaužė iš didelių patrankų. Jogaila nusprendė, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-194087
@@ -215,5 +215,5 @@ Vokiečiai Kauno pilį sudaužė iš didelių patrankų. Jogaila nusprendė, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

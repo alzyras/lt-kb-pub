@@ -65,9 +65,10 @@ Basanavičiaus aiškinimu, katalikiškųjų parapijų baltrusiai su lenkiška li
     vimo galas, kaip tik baltrusiai pradēs labiaus atsi-
     gaivint tautiškai....
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

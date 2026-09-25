@@ -83,5 +83,5 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -65,5 +65,5 @@ Taip pat nėra pagrindo neigti, kad šiandien Arklių Vandenimis vadina ma upė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

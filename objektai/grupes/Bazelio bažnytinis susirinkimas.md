@@ -74,5 +74,5 @@ Tuo tarpu Bazelio bažnytinis susirinkimas dar 1431 m. pabaigoje siekė sutaikyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

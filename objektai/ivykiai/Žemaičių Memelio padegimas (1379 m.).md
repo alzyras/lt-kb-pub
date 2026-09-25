@@ -77,5 +77,5 @@ Teodoras Narbutas teigia, kad žemaičiai pasiuntė persirengėlius į Memelį i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

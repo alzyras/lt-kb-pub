@@ -74,7 +74,7 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167507
@@ -98,8 +98,52 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202485
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
+  citata_originali: |
+    Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
+    tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar
+    nepakako, galop atėjo visa likusi kariuomenė, taip tirštai padengdama ledą, kaip skėriai
+    padengia žemę; kai karalius paklausė, ar šitiek kariuomenės pakanka, kad galėtum šį
+    tą nuveikti Sembos žemėje, jis atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
+    Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių
+    ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.
+    Jis vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai,
+    todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo
+    ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205224
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
+  citata_originali: |
+    Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių
+    ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.
+    Jis vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai,
+    todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo
+    ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.
+    Tada karalius įsibrovė į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas
+    Medenava, ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs į
+    nelaisvę ir išžudęs, ten pat ir pernakvojo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Gedūnas]]

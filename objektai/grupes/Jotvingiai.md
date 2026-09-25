@@ -135,28 +135,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - c-175205
     - c-180640
 
-<a id="claim-t-198564"></a>
-- t-005
-  teiginys: "Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Reikia patikslinti įvardžius ir atribuuoti kronikos pasakojimą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Voruta"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jotvingiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=100"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jotvingiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180642
-
 <a id="claim-t-198565"></a>
 - t-006
   teiginys: "Per 1279 metų badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių."
@@ -176,25 +154,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-180639
-
-<a id="claim-t-198566"></a>
-- t-007
-  teiginys: "Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata pateikia interpretacinį palyginimą, todėl reikia aiškios autorinės atribucijos."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]"
-  ryšio_patikimumas: "uzkariavo -> Jotvingiai: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vokiečių ordinas nukariavo jotvingius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-180643
 
 <a id="claim-t-198570"></a>
 - t-008
@@ -299,26 +258,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindžia:
     - c-180639
 
-<a id="claim-t-198580"></a>
-- t-015
-  teiginys: "Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Galindai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Galindai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Jotvingiai ir galindai veikia drauge pereidami į tą pačią protekciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-186029
-
 <a id="claim-t-198581"></a>
 - t-016
   teiginys: "1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes."
@@ -414,6 +353,78 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindžia:
     - c-188205
 
+<a id="claim-t-214374"></a>
+- t-214374
+  teiginys: "Jotvingiai už savo protėvių tikėjimą verčiau žū davo; prūsai irgi žuvo kariaudami su kryžiuočiais dėl savo tautiškumo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195008
+
+<a id="claim-t-214618"></a>
+- t-214618
+  teiginys: "Jotvingių tauta, kiek galima spręs ti iš istorinių šaltinių, buvo mažai civilizuota, gyveno valstiečių bendruomenėmis arba buvo susiskirsčiusi į vals čius arba ordas, kurių kiekvienai vadovavo kažkokie lyg karaliukai, sudarę tarpusavio sąjungas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196881
+
+<a id="claim-t-214682"></a>
+- t-214682
+  teiginys: "Narbutas teigia, kad Polesėje gyveno jotvingiai ir jų giminės slonėnai nuo Šešupės pusės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195483
+
+<a id="claim-t-214880"></a>
+- t-214880
+  teiginys: "Tagrai-jotvingiai II a. po Kr. kalbėjo lietuvių dialektu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195598
+
+<a id="claim-t-215932"></a>
+- t-215932
+  teiginys: "Narbutas teigia, kad po anarchijos Lenkijoje jotvingiai pakėlė galvą ir ėmė įkyrėti rusams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194437
+
+<a id="claim-t-217669"></a>
+- t-217669
+  teiginys: "Lietuviškai kalbančių gy ventojų žemė susideda iš keturių dalių: pirmoji žemės juosta yra vietinių jotvingių, kurie apie Drohičino tvirtovę gyvena, ir nedaug jų belikę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198629
+
 ## Citatos
 
 - id: c-162467
@@ -431,7 +442,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-162468
@@ -469,7 +480,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-162476
@@ -491,6 +502,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-175204
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -521,6 +533,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-175205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -549,7 +562,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-180632
@@ -571,7 +584,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-180633
@@ -589,7 +602,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-016
 
@@ -628,7 +641,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-180635
@@ -652,7 +665,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-180636
@@ -677,7 +690,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-180637
@@ -698,6 +711,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180638
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -717,7 +731,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-180639
@@ -741,7 +755,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-008
     - t-014
@@ -774,7 +788,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-180641
@@ -794,6 +808,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180642
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -817,8 +832,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-180643
   autorius: "Zenonas Ivinskis"
@@ -840,8 +853,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
 
 - id: c-180644
   autorius: "Anoniminis metraštininkas"
@@ -863,7 +874,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-180645
@@ -890,6 +901,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180646
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -906,6 +918,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180647
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -924,7 +937,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-180648
@@ -956,7 +969,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-186028
@@ -977,7 +990,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-186029
@@ -996,8 +1009,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
 
 - id: c-187856
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -1016,7 +1027,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-188205
@@ -1039,8 +1050,250 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
+
+- id: c-193007
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 50"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 50."
+  citata_originali: |
+    Visa tai padarė, kad Lietuva netapo krikščioniška.
+    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
+    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
+    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
+    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
+    Mindaugą.
+    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
+    virame lauke nesikauti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193991
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
+  citata_originali: |
+    O
+    paskui Danielius sumanė su savo broliu ir nusiuntė
+    pasiuntinius į Lenkiją, pas lenkų kunigaikščius, bylo­
+    damas: „Dabar proga krikščionims prieš pagonis eiti,
+    nes jie patys vieni su kitais kariauja." Lenkai pažadė­
+    jo, bet netesėjo. Danielius su Vasilka nusiuntė Vykin­
+    tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius,
+    ir Vykintas palenkė juos, jotvingius ir pusę žemaičių
+    sidabru ir įvairiomis dovanomis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194437
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 120."
+  citata_originali: |
+    II mirties Lenkijoje prasidėjo anarchija, jotvingiai
+    pakėlė galvą ir ėmė įkyrėti rusams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215932
+
+- id: c-195008
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 199"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 199."
+  citata_originali: |
+    Jotvingiai už savo protėvių tikėjimą verčiau žū­
+    davo; prūsai irgi žuvo kariaudami su kryžiuočiais dėl savo
+    tautiškumo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214374
+
+- id: c-195347
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
+  citata_originali: |
+    120
+    Santykiai su lietuviais. Laikui bėgant, matome jotvin­
+    gius kartu su lietuviais puldinėjančius rusų kraštus. Ma­
+    tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų
+    priklausomybės ir savarankiškai, vadovaujami savo vadų
+    arba kunigai'kštukų, įvairiais laikais ir keliais veržėsi į
+    Rusią, Lenkiją ir Mazoviją. Taip vadų rankose buvo su­
+    kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
+    dant, kai sykį Uchanės grafas Gotardas, Lukošiaus sūnus,
+    kautynėse suėmė septynis jotvingių kunigaikštukus, kiek­
+    vienas jų išsipirko sumokėdamas septynis šimtus gryno
+    sidabro grivinų, o tai yra šiandieninių lenkiškų auksinų
+    po 22 tūkstančius 400 už kiekvieną3. Jotvingiai, nepaisy­
+    dami iš mazoviečių ir prūsų patirtų nesėkmių, gyvendami
+    slavų Brastos kaimynystėje, 1227 metais savo antpuolius
+    išplėtė net iki Voluinės Vladimiro, kur buvo suimti du
+    jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
+    vičius.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195483
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 217-218"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 217-218."
+  citata_originali: |
+    Hartknochas savo pastabose šią Dusburgo nurodytą vietą
+    neteisingai liepia laikyti lietuvių Rusia arba Polese, nes
+    Polesė ir Rusia yra ir nuo seno buvo visiškai atskiri kraš­
+    tai; Prūsija niekados nesiribojo su Rusia, o ribojosi su
+    Polese, kur gyveno jotvingiai ir jų giminės slonėnai nuo
+    Šešupės pusės; sūduvių Lietuva driekėsi net iki Nemuno
+    1 ...fine Pruzza... locum qui dicitur Russ, ei ¡ine Russiae. Anti­
+    quitates Italicae medii sevi. T. V. P. 831.
+    2 Helmold. Chronic, slav. L. I. C. 15 ir etc.
+    3 Tertia insula illa, quae
+    Semland
+    appellari
+    solet,
+    contigua
+    Ruzzis... Adam Brem. De situ Daniae. P. 147. (Trečioji sala ta, ku­
+    rią paprastai vadina Semba ir kuri ribojasi (gretima) su rusais...)
+    4 Polonia habet ab occidente Oderam fluvium, ab oriente Isiū­
+    lam, ab septentrione Ruthenos et mare Scythicum. De reb. gest. Pri­
+    derki Imperatoris. Lib. I. (Lenkijos vakaruose teka Oderio upė, iš
+    rytu pusės — Vysla, šiaurėje yra rutėnai ir Skitų jūra.)
+    V Parte III. C. 2. P. 68.
+    6 Ibid. P. 71.
+    220
+
+    ir niekada negalėjo priklausyti Rusiai dėl didelio atstu­
+    mo
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214682
+
+- id: c-195598
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 207"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 207."
+  citata_originali: |
+    Baigiant dar reikėtų priminti ir tai, jog dėl tos prie­
+    žasties, kad tagrai-jotvingiai (§ 108) kalbėjo lietuvių
+    dialektu II m. e. amžiuje, akivaizdu, jog ir ta kalba, ir ta
+    tauta turėjo gyvuoti jau gerokai anksčiau*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214880
+
+- id: c-195731
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 125"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 125."
+  citata_originali: |
+    Tai lėmė, kad
+    galindai ir jotvingiai drauge perėjo lenkų kunigaikščių,
+    Krokuvos Boleslovo ir Kujavijos Kazimiero, protekcijon,
+    o jie išsiuntė pranešimus apie tai popiežiui. Iš to atsira­
+    do 1253 metų bulė, kuri leido kunigaikščiams priimti sau­
+    goti ir globoti pagonių gentis, jei jos geranoriškai ir be
+    mažiausios prievartos priims krikščionių tikėjimą; šioje
+    bulėje buvo sąlyga, kad teisė atversti užsispyrusius pa­
+    gonis su kalavijais priklauso vokiečių ordino riteriams,
+    lenkų kunigaikščiai neturi į tai įsipainioti nei išplėtoti
+    savo valdžią žemėse, kurios įėjo į naujų diecezijų ribas;
+    be kita ko, popiežius garantavo kunigaikščiams valdžią
+    savanoriškai pasiduodančiose žemėse ir gentyse nuo bet
+    kokių tolesnių kryžiuočių pretenzijų1.
+    124
+    Tokiu popiežiaus nutarimu remdamasis, Kujavijos ku­
+    nigaikštis sudarė krikščionišką Jotvingių provinciją.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196881
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 118"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 118."
+  citata_originali: |
+    Jotvingių tauta, kiek galima spręs­
+    ti iš istorinių šaltinių, buvo mažai civilizuota, gyveno
+    valstiečių bendruomenėmis arba buvo susiskirsčiusi į vals­
+    čius arba ordas, kurių kiekvienai vadovavo kažkokie lyg
+    karaliukai, sudarę tarpusavio sąjungas. Jotvingiai noriai
+    puldinėdavo kaimyninius kraštus, atsitraukdami visuomet
+    mokėjo panaudoti savo krašto gamtos gynybines sąly­
+    gas. Būdingas šios genties bruožas yra aistringa meilė
+    tautiškumui, laisvei ir protėvių religijai; visa tai ginda­
+    mi, jie verčiau sutikdavo būti visiškai sunaikinti negu
+    matyti save nugalėtus priešų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214618
+
+- id: c-198629
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 437"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 437."
+  citata_originali: |
+    Lietuviškai kalbančių gy­
+    ventojų žemė susideda iš keturių dalių: pirmoji žemės juosta yra
+    vietinių jotvingių, kurie apie Drohičino tvirtovę gyvena, ir nedaug
+    jų belikę. Antroji yra lietuvių ir žemaičių. Trečioji - prūsų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217669
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Vasilka]]

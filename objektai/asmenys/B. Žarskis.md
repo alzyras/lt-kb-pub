@@ -89,11 +89,12 @@ canonical_biography: "Žarskis, J. Žarskiui."
     Antonievičiui, B. Žarskiui.
   citata_rodoma: "Atkakliai priešindamiesi\nsukilėliai išsilaikė dvi valan-\ndas, tačiau jų veiksmai pakriko\nsužeidus vadą Z. Sierakauską,\nmjr. P. Vivulskį ir žuvus ba-\ntalionų vadams majorams\nAntonievičiui, B. Žarskiui."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44306
@@ -117,5 +118,5 @@ canonical_biography: "Žarskis, J. Žarskiui."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

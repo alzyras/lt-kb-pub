@@ -61,6 +61,16 @@ historical_names: []
   pagrindžia:
     - c-175646
 
+<a id="claim-t-210519"></a>
+- t-210519
+  teiginys: "477 metais herulai sudegino Juvavą prie Saurus upės, dabartinį Zalcburgą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Citatos
 
 - id: c-175646
@@ -83,5 +93,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

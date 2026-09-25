@@ -51,19 +51,6 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 
 ## Teiginiai
 
-<a id="claim-t-199237"></a>
-- t-001
-  teiginys: "Pagal rusų metraščius ir Henriko Latvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko patekimo Lietuvos valdžion XIII a."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-181758
-
 <a id="claim-t-199238"></a>
 - t-002
   teiginys: "HChL santrumpa žymi L. Arbusowo ir Alb. Bauerio parengtą „Heinrici Chronicon Livoniae“ leidimą, išleistą Hanoveryje 1955 m."
@@ -110,6 +97,30 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   pagrindžia:
     - c-188257
 
+<a id="claim-t-218258"></a>
+- t-218258
+  teiginys: "T. Narbutas remiasi Henriko Latvio kronikos prierašu, kuriame esą įrašyti lietuviški kreipiniai į karo dievą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198614
+
+<a id="claim-t-219019"></a>
+- t-219019
+  teiginys: "Henriko Latvio kronikos prierašuose, arba pastabose, ku rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias turiu rankoje, tarp nedaugelio Lietuvos istoriją liečiančių da lykų yra parašyta, kad, kai 1243 metais Livonijos riteriai, šauk dami tikrojo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199018
+
 ## Citatos
 
 - id: c-03534
@@ -131,6 +142,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-03535
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -140,11 +152,12 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
     HChL = Heinrici Chronicon Livoniae, išl. L. Arbusow ir Alb. Bauer
     (MGH SS) Hannover 1955.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-181757
@@ -166,6 +179,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181758
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -182,8 +196,6 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-188041
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -203,7 +215,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188257
@@ -227,5 +239,44 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-198614
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 29"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 29."
+  citata_originali: |
+    Norėdamas savo prielaidą paremti, T. Narbutas
+    nurodo neva lietuviškus kreipinius į šį dievą, iškaltus ant rasto
+    trimito ir įrašytus Henriko Latvio kronikos prieraše.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218258
+
+- id: c-199018
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
+  citata_originali: |
+    Henriko Latvio kronikos prierašuose, arba pastabose, ku­
+    rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias
+    turiu rankoje, tarp nedaugelio Lietuvos istoriją liečiančių da­
+    lykų yra parašyta, kad, kai 1243 metais Livonijos riteriai, šauk­
+    dami tikrojo Dievo vardą, užpuolė lietuvius, šie savo ruožtu
+    rėkė: JogKauou, jogKauaile! („Jok Kove, jok Kovaiti!“).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219019

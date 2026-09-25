@@ -72,5 +72,29 @@ Narbutas pasakoja, kad koboliai apsigyvendavo namuose, jei šeimininkas palikdav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201261
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 181"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 181."
+  citata_originali: |
+    Jeigu tik
+    tie dievaičiai ketindavo apsigyventi kieno nors namuose, jie
+    įspėdavo šeimininką apie savo norą tokiu būdu: naktį surink­
+    davo skiedras ir sudėdavo jas į krūvelę pirkios vidury, taip pat
+    į indus su pienu primėtydavo įvairių gyvulių išmatų. Jei ryto­
+    jaus dieną namų šeimininkas pastebėdavo ir palikdavo skied­
+    rų krūvą iki ateinančios nakties, tai yra neliepdavo iššluoti pir­
+    kios ir duodavo namiškiams vartoti sugadintą pieną, tuomet
+    koboliai pasirodydavo viešai ir gyvendavo jo namuose. Tačiau
+    jeigu pirkią iššluodavo, skiedras išmėtydavo ir pieną išpilda­
+    vo, jie ramiai išeidavo ieškoti kito būsto.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

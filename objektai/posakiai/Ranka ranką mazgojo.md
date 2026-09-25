@@ -64,9 +64,10 @@ Basanavičius posakį „Ranka ranką mazgojo“ siejo su padėtimi, kai ūkinin
     no: Dievas buvo augštai, teisybē — toli, ir ukinin­
     kai išsisklaidē po svietą.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

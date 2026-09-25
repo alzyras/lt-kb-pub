@@ -74,5 +74,5 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

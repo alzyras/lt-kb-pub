@@ -73,23 +73,6 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   pagrindžia:
     - c-14686
 
-<a id="claim-t-131656"></a>
-- t-003
-  teiginys: "Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "valde -> Lietuva: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo Gedimino valdymą Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Gediminas valdė Lietuva (0.84)"
-  pagrindžia:
-    - c-14686
-
 <a id="claim-t-131657"></a>
 - t-004
   teiginys: "Lietuvos žemių dviejų kunigaikščių valdymas istorikų vadintas dualizmu arba diarchija ir nežuvo po Algirdo mirties 1377 m."
@@ -157,9 +140,8 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
-    - t-003
 
 - id: c-120212
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -181,7 +163,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-120214
@@ -205,7 +187,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166807
@@ -226,5 +208,5 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

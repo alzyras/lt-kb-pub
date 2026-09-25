@@ -53,3 +53,44 @@ Alfredas Bumblauskas teigia, kad 1993 m. Anatolio Lieveno knyga „Pabaltijo rev
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207465"></a>
+- t-001
+  teiginys: "Alfredas Bumblauskas teigia, kad 1993 m. Anatolio Lieveno knyga „Pabaltijo revoliucija“ atkartoja Lietuvos, kaip miškų krašto, įvaizdį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190110
+
+## Citatos
+
+- id: c-190110
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 20"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 20."
+  citata_originali: |
+    Tie-
+    sa, Daukantui žalčiai yra lietuviškosios kultūros ir religijos ženklas, o miškai ir vyrai
+    su meškenomis – laisvės simbolis. Pagoniškoji epocha su pliuso ženklu mūsų istorinėje
+    sąmonėje išliko iki pat šių dienų – Daukanto niekas iš esmės nenuginčijo. Tad nėra ko
+    stebėtis, kad ir praėjus dar šimtui metų po Alfredo Jarry dramos plačiausiai Vakaruose
+    pasklidusi knyga apie Lietuvą – Anatolio Lieveno „Pabaltijo revoliucija“ (1993) atkartoja
+    Lietuvos, kaip miškų krašto, įvaizdį (nors vargu ar miškų šiandien Lietuvoje daugiau nei
+    Estijoje), o pagoniškąja istorijos specifika bando pagrįsti Lietuvos kitoniškumą (orientacija
+    į „pagoniškuosius didvyrių laikus“ nebūdinga latvių ir estų Atgimimo sąjūdžiams).
+  citata_rodoma: "plačiausiai Vakaruose \npasklidusi knyga apie Lietuvą – Anatolio Lieveno „Pabaltijo revoliucija“ (1993) atkartoja \nLietuvos, kaip miškų krašto, įvaizdį"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

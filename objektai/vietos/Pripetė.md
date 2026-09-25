@@ -182,6 +182,28 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   pagrindžia:
     - c-179390
 
+<a id="claim-t-213839"></a>
+- t-213839
+  teiginys: "Pagaliau Pripetė ten, kur ji dabar įteka į Padneprės slėnį, plaukė maždaug varsto atstumu savo slė niu lygiagrečiai su kairiąja Dnepro vaga."
+  atnaujinta: "2026-09-20 00:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-214315"></a>
+- t-214315
+  teiginys: "Pripetė tekste apibūdinama kaip senovinė vakarinė Dnepro šaka, kurios baseinas jungėsi su Nemuno sistema."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194683
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto.'
@@ -222,7 +244,7 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168461
@@ -244,7 +266,7 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175494
@@ -266,7 +288,7 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175495
@@ -300,7 +322,7 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-006
 
@@ -332,7 +354,7 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-179390
@@ -359,5 +381,70 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-194683
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 209"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
+  citata_originali: |
+    atėjo į kairįjį krantą Pripetės, senovėje laikytos
+    vakarine Dnepro šaka1, Pentikapo upe, kurios vandens
+    baseinas jungėsi su Nemuno sistema
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214315
+
+- id: c-195885
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
+  citata_originali: |
+    Tokių kalvų kartais randama išsibarsčiusių laukuose,
+    netgi sausose pievose po dvi, kelias, o kai kur jų esti la­
+    bai daug netvarkingai išmėtytų įvairiomis kryptimis ir
+    įvairaus dydžio: daugiausia vidutinių, mažiau mažų, o
+    didelių nedaug, daugiausia stūkso atskirai, nuošaliau nuo
+    kitų ar poromis. Paprastai jos būva netoli gyvenviečių
+    arba joms tinkamose vietose.
+    Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
+    daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
+    Sklovo iki Pripetės žiočių, kairiojoje pakrantėje jie plyti
+    palei senas Rusijos sienas su Lietuvos valstybe, de­
+    šiniojoje driekiasi už Borisovo apskrities net iki tikrosios
+    Lietuvos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196417
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
+  citata_originali: |
+    Pantikapas, o
+    tai panašiausia į tikrovę, yra šiandienė Pripetė, jungianti
+    Baltijos ir Juodosios jūros vandens baseinus. Šiuo vardu
+    Skitijos geografijoje galėjo būti vadinama ne viena upė
+    ir vietovė, nes žinoma, kad šiandien Kerčės tvirtovė sto­
+    vi ant Pantikapėjos miesto griuvėsių1. Taip pat nėra
+    pagrindo neigti, kad šiandien Arklių Vandenimis vadina­
+    ma upė buvo kitados graikų vadinta Pantikapu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

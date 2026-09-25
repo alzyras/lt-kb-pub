@@ -84,5 +84,5 @@ Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

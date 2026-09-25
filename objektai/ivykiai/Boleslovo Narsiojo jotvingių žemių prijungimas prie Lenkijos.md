@@ -77,5 +77,5 @@ Po 1018 m. Boleslovas Narsusis prie Lenkijos karalystės prijungė prie Bugo esa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

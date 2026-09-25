@@ -66,5 +66,5 @@ Brolis Konradas iš Tirbergo su kariuomene užėmė ir sudegino Sasavos pilį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

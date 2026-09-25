@@ -92,7 +92,7 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176380
@@ -111,5 +111,5 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

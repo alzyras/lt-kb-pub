@@ -146,7 +146,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-61576
@@ -165,7 +165,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-61577
@@ -184,7 +184,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-61578
@@ -201,5 +201,39 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-203036
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
+  citata_originali: |
+    Iš „Pasakojimo...” žinome,
+    kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę, o ją iš pradžių valdė kapelionas
+    Konradas ir kamerarijus Burhardas, kurie po Akono paėmimo pastatė ir bažnyčią.
+    Po Švabijos kunigaikščio Fridricho mirties vokiečių magnatų taryboje pirmu Ordino
+    magistru buvo išrinktas Henrikas (ar Hermanas).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205199
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  citata_originali: |
+    Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs
+    Akone greičiausiai 1204—1211 m. ankstesnių (XII a. pabaigos) dokumentų pagrindu,
+    yra „Pasakojimas (Narratio...) apie Teutonų ordino pradžią“109.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

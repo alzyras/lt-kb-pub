@@ -160,6 +160,42 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-183835
 
+<a id="claim-t-212261"></a>
+- t-212261
+  teiginys: "Antrojo LTI leidimo papildymo medžiaga buvo paimta iš L. A. Jucevičiaus „Lietuvos“ dalies „Metamorfozės lietuvių mitologijoje“."
+  atnaujinta: "2026-09-19 21:13"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Sakinys sutrumpintas ir paliktas faktinis ryšys su L. A. Jucevičiaus veikalu. Nepridėta papildomos informacijos apie PEĮ lapą ar leidimo rengimo aplinkybes."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
+<a id="claim-t-212695"></a>
+- t-212695
+  teiginys: "T. Narbutas padavimą apie septynias deives paėmė iš L. A. Jucevičiaus monografijos „Lietuva“."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195428
+
+<a id="claim-t-218023"></a>
+- t-218023
+  teiginys: "T. Narbutas naudojo L. A. Jucevičiaus monografijas „Lietuvių liaudies priežodžiai“ (1840), „Žemaitijos atsiminimai“ (1842) ir „Lietuva“ (1846)."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197941
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Antrojo LTI leidimo papildymo medžiaga buvo paimta iš L. A. Jucevičiaus „Lietuvos“ dalies „Metamorfozės lietuvių mitologijoje“.'
@@ -191,7 +227,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173637
@@ -209,7 +245,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173638
@@ -229,6 +265,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183828
   autorius: "Teodoras Narbutas"
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -246,6 +283,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183829
   autorius: "Teodoras Narbutas"
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -263,7 +301,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-183830
@@ -283,7 +321,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-183835
@@ -293,6 +331,63 @@ object_page_seo_policy_version: object-page-policy/v7
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 2."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-195428
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 474"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 474."
+  citata_originali: |
+    Padavimą apie septynias deives is­
+    torikas paėmė iš L. A. Jucevičiaus monografijos „Lietuva“
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212695
+
+- id: c-197234
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 480"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 480."
+  citata_originali: |
+    O taip atsitiktų, jeigu aš pateikčiau ilgą legendą
+    apie gegužės pavirtimą, kurio aprašymu ekskunigas Adomas Ju­
+    cevičius užėmė nemenką „Tygodnik Petersburski“ (1836. Nr. 28)
+    dalį. Vis dėlto patį pavirtimo turinį privalau aprašyti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197941
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 72."
+  citata_originali: |
+    Su L. A. Jucevi­
+    čiumi, regis, taip pat nebūta glaudesnių kontaktų; laiškų neli­
+    ko, o ir vertinimų taip pat. Vis dėlto parankiniame egzemplio­
+    riuje gausu citatų iš L. A. Jucevičiaus monografijų („Lietuvių
+    liaudies priežodžiai“, 1840; „Žemaitijos atsiminimai“, 1842;
+    „Lietuva“, 1846); po T. Volianskio tai buvo antras ryškiausias
+    darbinio LTI varianto autorius, ir tai jau daug ką pasako.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218023

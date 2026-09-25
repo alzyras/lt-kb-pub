@@ -76,6 +76,24 @@ Nenurodyta
   pagrindžia:
     - c-169911
 
+<a id="claim-t-210521"></a>
+- t-210521
+  teiginys: "Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+
+<a id="claim-t-210809"></a>
+- t-210809
+  teiginys: "Lenkijos karaliaus Olbrachto ir Lietuvos didžiojo kunigaikščio Aleksandro atstovai per pasitarimą nutarė sušaukti seimą Parčeve."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.'
@@ -149,5 +167,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

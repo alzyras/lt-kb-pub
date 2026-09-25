@@ -297,6 +297,55 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   pagrindžia:
     - c-186935
 
+<a id="claim-t-207778"></a>
+- t-207778
+  teiginys: "Našlaitėlis po Tiubingeno keliavo po Italiją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190580
+
+<a id="claim-t-209616"></a>
+- t-209616
+  teiginys: "Rusijos, Lietuvos, Italijos ir Šveicarijos lietuviai, susirinkę Šveicarijos Lausannoj, svarstydami Amerikos lietuvių surink ti} aukų mažumą, nusprendė, išreikšti Ameri kos lietuviams papeikimą ir stebėjimąsi, kad jie nesiliauja pešęsi tarpu savęs net šiuom."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
+  pagrindžia:
+    - c-192236
+
+<a id="claim-t-213994"></a>
+- t-213994
+  teiginys: "Jis valdė Italiją beveik 14 metų; istorikai neįžvelgia ja me nieko barbariško, išskyrus vardą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195467
+
+<a id="claim-t-216229"></a>
+- t-216229
+  teiginys: "Narbutas teigia, kad kuo senesni senųjų Italijos gyventojų kalbos paminklai, tuo artimesnė jų kalbų giminystė su lietuvių kalba."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201118
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Narbutas teigė, kad gotai lietuviams būtų primetę ne iš Italijos miestų išguitą romėnų stabmeldystę, o krikščionybę arba šiaurės asų religiją.'
@@ -346,7 +395,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -372,7 +421,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-105417
@@ -399,7 +448,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-166413
@@ -418,7 +467,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-166414
@@ -441,7 +490,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-007
 
@@ -474,7 +523,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-171589
@@ -504,7 +553,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-175437
@@ -524,7 +573,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-176308
@@ -543,7 +592,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-184123
@@ -559,11 +608,12 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     vežtas į Vilnių ir kad čia pagal šitą užsieninį pavyzdį per du šimtmečiu
     buvo statomi visi pastatai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-186935
@@ -587,8 +637,111 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
+
+- id: c-190580
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 219"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 219."
+  citata_originali: |
+    Radvila Juodasis nuolatos susirašinėjo su sūnumi, rūpinosi, kad jis įgytų jo padėčiai
+    derantį gerą išsilavinimą, stengėsi sužadinti ir palaikyti norą mokytis. Viename iš laiškų
+    tėvas rašė Mikalojui Kristupui, kad kuo greičiau jis gerai išmoks lotynų kalbą, tuo
+    greičiau galės leistis į pažintinę kelionę, nes tik įgijęs tvirtus mokslo pagrindus, keliau-
+    damas, matydamas naujas šalis ir miestus, sugebės daug ko išmokti, o sugrįžęs po kelio-
+    nių namo, bus pasiruošęs tarnybai. Likimas lėmė, kad po metų, Strasbūre prasidėjus
+    epidemijai, Našlaitėlis su B. Jezerskiu išvyko į Tiubingeną, vėliau keliavo po Šveicariją
+    bei Italiją.
+  citata_rodoma: "Likimas lėmė, kad po metų, Strasbūre prasidėjus\nepidemijai, Našlaitėlis su B. Jezerskiu išvyko į Tiubingeną, vėliau keliavo po Šveicariją\nbei Italiją."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207778
+
+- id: c-192236
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 49"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 49."
+  citata_originali: |
+    Rusijos,
+    Lietuvos,
+    Italijos
+    ir
+    Šveicarijos lietuviai, susirinkę Šveicarijos Lau-
+    sannoj, svarstydami Amerikos lietuvių surink­
+    ti} aukų mažumą, nusprendė, išreikšti Ameri­
+    kos lietuviams papeikimą ir stebėjimąsi, kad
+    jie nesiliauja pešęsi tarpu savęs net šiuom bai­
+    siu karės metu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209616
+
+- id: c-194650
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
+  citata_originali: |
+    Šios tautos plėtėsi nuo
+    1700 iki 1200 metų prieš Kristaus gimimą. Per tuos pen­
+    kis amžius pelazgai įsigalėjo artimesnėje Hesperijoje,
+    arba Italijoje, ir apie 1500 metus prieš Kristaus gimimą
+    davė pradžią dorėnams ir achajams. Vėliau iš jų kilo
+    1 i d a i, sikelai, makedonai, tesalai ir daug kitų tautų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195467
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 316."
+  citata_originali: |
+    Jis valdė Italiją beveik 14 metų; istorikai neįžvelgia ja­
+    me nieko barbariško, išskyrus vardą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213994
+
+- id: c-201118
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 441"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 441."
+  citata_originali: |
+    Mat
+    kuo senesnius randame senųjų Italijos gyventojų kalbos pamin­
+    klus, tuo artimesnę pastebime jų kalbų giminystę su lietuvių
+    kalba.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216229
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Odoakras]]

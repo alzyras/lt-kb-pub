@@ -68,8 +68,23 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie Turku suomių liciej�
     įstojo į Turku suomių liciejų, mūsiškai — gimnaziją.
   citata_rodoma: "įstojo į Turku suomių liciejų, mūsiškai — gimnaziją"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 03:27"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-195449"></a>
+- t-001
+  teiginys: "Liciejus šiame šaltinyje reiškia gimnazijos tipo mokymo įstaigą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177870

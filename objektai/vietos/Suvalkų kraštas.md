@@ -144,7 +144,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-90170
@@ -164,7 +164,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-90171
@@ -188,7 +188,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-90172
@@ -211,7 +211,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-90175
@@ -229,7 +229,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175971
@@ -252,5 +252,5 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

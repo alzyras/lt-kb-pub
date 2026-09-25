@@ -53,25 +53,17 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   pagrindžia:
     - c-38115
 
-<a id="claim-t-188604"></a>
-- t-002
-  teiginys: "Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-216520"></a>
+- t-216520
+  teiginys: "Narbutas Prokopą vadina Polocko kunigaikščio patikėtiniu ir išdaviku."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "siunte_i -> Polockas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Treniota: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai sakoma, kad Treniota pasiuntė Prokopą į Polocką."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171493
+    - c-200000
 
 ## Citatos
 
@@ -95,7 +87,7 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171493
@@ -121,5 +113,22 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-200000
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  citata_originali: |
+    išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216520

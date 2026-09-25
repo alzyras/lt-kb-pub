@@ -71,5 +71,5 @@ canonical_biography: 1259 m. ant švento Jurgio kalno Karšuvos žemėje buvo pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

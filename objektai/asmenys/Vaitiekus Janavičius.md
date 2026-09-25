@@ -112,5 +112,5 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -66,5 +66,5 @@ Vytautas, būdamas savo pilyje Didžiajame Lucke, pasiuntė pasiuntinius pas Ven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

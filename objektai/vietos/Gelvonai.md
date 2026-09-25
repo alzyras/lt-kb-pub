@@ -67,6 +67,18 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   pagrindžia:
     - c-186413
 
+<a id="claim-t-208289"></a>
+- t-208289
+  teiginys: "Gelvonai minimi kaip vienas iš vienuolynų, kuriuos uždarant, pranciškonų manymu, bendradarbiavo pasaulietinė dvasininkija."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190833
+
 ## Citatos
 
 - id: c-45099
@@ -90,7 +102,7 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186413
@@ -109,5 +121,28 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190833
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 235"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 235."
+  citata_originali: |
+    Vis dėlto liūdniausią minorinę
+    gaidą Vilniaus pranciškonų memoriale kuria 1831 m. carinės valdžios vajus po
+    1831 m. sukilimo uždarinėti katalikų vienuolynus. Šios represijos tiesiogiai ir
+    skaudžiai palietė pranciškonus konventualus. įgyvendinus 1831 m. liepos 19 d.
+    caro Nikolajaus I įsaką, iš 41 Lietuvos pranciškonų provincijos vienuolyno liko
+    tik io64. Memoriale fiksuojami keli atvejai, kai, pranciškonų manymu, pasaulie­
+    tinė dvasininkija (pvz., Vilniaus vyskupas sufraganas Benediktas Klongevičius)
+    bendradarbiavo su caro valdžia uždarant vieną ar kitą vienuolyną (pvz., Gelvonų,
+    Valkininkų)65.
+  citata_rodoma: "Memoriale fiksuojami keli atvejai, kai, pranciškonų manymu, pasaulie­\ntinė dvasininkija (pvz., Vilniaus vyskupas sufraganas Benediktas Klongevičius) \nbendradarbiavo su caro valdžia uždarant vieną ar kitą vienuolyną (pvz., Gelvonų, \nValkininkų)65."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208289

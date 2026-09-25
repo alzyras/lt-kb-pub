@@ -97,7 +97,7 @@ Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir med
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184842
@@ -116,5 +116,5 @@ Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir med
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

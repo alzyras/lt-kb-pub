@@ -93,7 +93,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-10080
@@ -113,6 +113,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-10081
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -131,7 +132,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

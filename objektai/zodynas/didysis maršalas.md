@@ -77,5 +77,26 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202242
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
+  citata_originali: |
+    Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
+    100 kelių į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
+    kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino
+    administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309
+    m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
+    apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
+    rezidencija136. Šis iš Karaliaučiaus, pavaduodamas didįjį magistrą, organizavo žygius į
+    Lietuvą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

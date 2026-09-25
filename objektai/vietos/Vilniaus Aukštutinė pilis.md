@@ -148,6 +148,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177527
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -169,6 +170,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177528
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -200,7 +202,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177529
@@ -227,7 +229,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177530
@@ -269,7 +271,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -294,5 +296,5 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

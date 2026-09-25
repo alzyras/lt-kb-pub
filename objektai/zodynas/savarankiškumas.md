@@ -68,7 +68,7 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-69366
@@ -93,5 +93,5 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

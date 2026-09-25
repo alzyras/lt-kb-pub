@@ -62,5 +62,5 @@ Nykstant ir išsigimstant lietuvių mitologijai, burtininkų profesija nusmu ko 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

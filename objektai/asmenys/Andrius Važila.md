@@ -110,7 +110,7 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83365
@@ -133,5 +133,5 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

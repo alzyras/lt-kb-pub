@@ -94,6 +94,18 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-185186
 
+<a id="claim-t-208332"></a>
+- t-208332
+  teiginys: "Abiejų Tautų Respublikos Seimas Hagos pasiuntinybei kėlė politinius ir ekonominius tikslus."
+  atnaujinta: "2026-09-20 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-191005
+
 ## Citatos
 
 - id: c-185183
@@ -113,7 +125,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185184
@@ -130,7 +142,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185185
@@ -147,7 +159,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-185186
@@ -164,5 +176,27 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-191005
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 269"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 269."
+  citata_originali: |
+    Ekonominiai interesai buvo glaudžiai susiję su politiniais, todėl pasiuntinybei
+    Hagoje Abiejų Tautų Respublikos Seimas kėlė tiek politinius, tiek ir ekonominius
+    tikslus: stiprinti draugystės ryšius su Nyderlandų Respublika; užsitikrinti sąjungoje
+    su Prūsija buvusių Nyderlandų politinę paramą; gauti finansinę paskolą Respu­
+    blikai ir karaliui bei siekti „krašto prekybos plėtros, reikalingos tiek bendrajam
+    gėriui, tiek naudingos kiekvienam piliečiui“45.
+    Pasiuntiniu ypatingiesiems pavedimams ir įgaliotuoju ministru Hagoje buvo
+    paskirtas didysis Lietuvos kardininkas M . K .
+  citata_rodoma: "pasiuntinybei \nHagoje Abiejų Tautų Respublikos Seimas kėlė tiek politinius, tiek ir ekonominius \ntikslus: stiprinti draugystės ryšius su Nyderlandų Respublika; užsitikrinti sąjungoje \nsu Prūsija buvusių Nyderlandų politinę paramą; gauti finansinę paskolą Respu­\nblikai ir karaliui bei siekti „krašto prekybos plėtros, reikalingos tiek bendrajam \ngėriui, tiek naudingos kiekvienam piliečiui“45."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208332

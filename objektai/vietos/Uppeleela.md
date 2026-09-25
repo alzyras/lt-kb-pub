@@ -90,6 +90,25 @@ Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-195154
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
+  citata_originali: |
+    Ant jos krantų, gal prie žiočių, buvo miestas Uppe-
+    leela; iš čia svetimšaliai autoriai mini Apuliją. O Anger
+    upės žinomos dvi: viena įteka į Ventą iš jos dešiniosios
+    pakrantės, antra — į Engūrės ežerą. Taip pat ties pie­
+    tiniu šio ežero sąsiauriu yra miestelis Anger, nusidrie-
+    1 Voigt.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

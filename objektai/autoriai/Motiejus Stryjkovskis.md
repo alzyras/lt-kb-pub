@@ -58,6 +58,18 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
   pagrindžia:
     - c-184843
 
+<a id="claim-t-207751"></a>
+- t-207751
+  teiginys: "M. Stryjkovskis buvo autorius, rašęs eilėmis ir proza įvairių žanrų kūrinius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190455
+
 ## Citatos
 
 - id: c-33070
@@ -80,7 +92,7 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184843
@@ -100,5 +112,27 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190455
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 74"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 74."
+  citata_originali: |
+    Ar iš tiesų M. Stryjkovskis menkai tesuvokė riterystės idėjos prasmę, nesugebėjo jos
+    pritaikyti Lietuvos Didžiosios Kunigaikštystės gyvenimo realijoms? Tai klausimas, kurį,
+    manyčiau, prasminga svarstyti.
+    Pasirinkti tekstai M. Stryjkovskio, autoriaus, rašiusio eilėmis ir proza įvairių žanrų
+    kūrinius, tarp kurių yra ir garsioji „Kronika" arba XVI a. parašyta pirmoji spausdinta
+    Lietuvos Didžiosios Kunigaikštystės istorija.
+  citata_rodoma: "Pasirinkti tekstai M. Stryjkovskio, autoriaus, rašiusio eilėmis ir proza įvairių žanrų\nkūrinius, tarp kurių yra ir garsioji „Kronika\" arba XVI a. parašyta pirmoji spausdinta\nLietuvos Didžiosios Kunigaikštystės istorija."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207751

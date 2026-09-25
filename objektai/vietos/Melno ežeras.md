@@ -104,7 +104,7 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-68206
@@ -124,5 +124,5 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

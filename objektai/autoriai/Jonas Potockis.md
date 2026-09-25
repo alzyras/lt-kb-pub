@@ -143,6 +143,30 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   pagrindžia:
     - c-173617
 
+<a id="claim-t-212248"></a>
+- t-212248
+  teiginys: "Tunmanas3, Jo nas Potockis4, Lelevelis5 tai žinojo, bet į šį klausimą ne atsakė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197129
+
+<a id="claim-t-213186"></a>
+- t-213186
+  teiginys: "Jonas Potockis pastebėjo slenksčių garbinimą pas kalmukus."
+  atnaujinta: "2026-09-20 15:05"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194573
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Pakanka nuodugnių Jono Potockio ty rimų, iš kurių paaiškėjo, kad Retros šventyklos žynys vadinosi Krewe, kad ten bf’ta lietuvių stabų, kad pagaliau Meklenburge ir Lužicoje surasti užrašai runomis herulų kalba, arba lietuviš ka tarme.'
@@ -185,7 +209,7 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173211
@@ -203,7 +227,7 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173616
@@ -227,7 +251,7 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173617
@@ -246,5 +270,64 @@ Retro ir Prilvico stabų tyrimai Narbuto išnašoje siejami su Tunmano, Jono Pot
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-194573
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
+  citata_originali: |
+    Grafas Jonas Potockis tokį garbinimą
+    pastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),
+    bet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės
+    lietuvius1. Senovės slavai specialiai darydavo žemas duris, kad
+    ateinantysis arba išeinantysis nusilenktų slenksčiui2.
+    1 Potocki J. Podrož do Astrahanu // Dziennik Wilenski. 1828.
+    T.
+    V.
+    S.
+    293.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213186
+
+- id: c-197129
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 327"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 327."
+  citata_originali: |
+    Tunmanas3, Jo­
+    nas Potockis4, Lelevelis5 tai žinojo, bet į šį klausimą ne­
+    atsakė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212248
+
+- id: c-201532
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 483"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 483."
+  citata_originali: |
+    Šį kartą istorikas turėjo omenyje straipsnį: Podrož
+    Hrabiego Jana Potockiego do Astrachanu i okolic
+    przyleglych, w roku 1797 // Dziennik Wilenski. -
+    1828. - T. V. - S. 222-240; 284-304.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -69,7 +69,7 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-69353
@@ -89,5 +89,5 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

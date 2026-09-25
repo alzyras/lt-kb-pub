@@ -80,7 +80,7 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175902
@@ -102,5 +102,5 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

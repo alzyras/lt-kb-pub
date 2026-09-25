@@ -48,6 +48,20 @@ Vartojamos formos: `sūdąs`, `sūdą`.
   pagrindžia:
     - c-09639
 
+<a id="claim-t-210096"></a>
+- t-210096
+  teiginys: "Sūdas vartojamas skolų ir ginčo sprendimo kontekste, kai sprendimą galėjo persūdyti didysis kunigaikštis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> didysis kunigaikštis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "sūdas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "didysis kunigaikštis: mention_match, thing, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"sūdas\" parinktas kaip owner_note_path. Targetas \"didysis kunigaikštis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
 ## Citatos
 
 - id: c-09638
@@ -64,6 +78,7 @@ Vartojamos formos: `sūdąs`, `sūdą`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-09639
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -77,5 +92,5 @@ Vartojamos formos: `sūdąs`, `sūdą`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -80,6 +80,19 @@ Nenurodyta
   pagrindžia:
     - c-168939
 
+<a id="claim-t-196168"></a>
+- t-196168
+  teiginys: "Kojelavičiaus pasakojime Jonas Olbrachtas prisiminė brolio Kazimiero patirtį ir vengrų elgesį laikė apgavyste."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178566
+
 ## Citatos
 
 - id: c-168938
@@ -110,7 +123,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168939
@@ -139,7 +152,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178566
@@ -163,3 +176,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-196168

@@ -79,5 +79,5 @@ canonical_biography: "1741 m. Stanislovas Pioro buvo LDK kariuomenės petihorų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

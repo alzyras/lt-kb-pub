@@ -90,7 +90,7 @@ Kryžiuočių žygio į Gardiną metu šešiasdešimt riterių su kariuomene pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188596
@@ -116,5 +116,5 @@ Kryžiuočių žygio į Gardiną metu šešiasdešimt riterių su kariuomene pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

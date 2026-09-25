@@ -79,5 +79,5 @@ Todėl, pavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų tau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

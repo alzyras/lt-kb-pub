@@ -60,6 +60,16 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
   pagrindžia:
     - c-61106
 
+<a id="claim-t-222112"></a>
+- t-222112
+  teiginys: "Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-61106
@@ -83,5 +93,5 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

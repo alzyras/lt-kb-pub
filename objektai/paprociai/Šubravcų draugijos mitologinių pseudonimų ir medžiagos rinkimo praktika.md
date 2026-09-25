@@ -96,7 +96,7 @@ Vilniaus šubravcų draugijos nariai rinkosi pagoniškus dievų ir dievybių var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-199574
@@ -114,5 +114,5 @@ Vilniaus šubravcų draugijos nariai rinkosi pagoniškus dievų ir dievybių var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

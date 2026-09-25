@@ -74,5 +74,5 @@ At­ sirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­ micini 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

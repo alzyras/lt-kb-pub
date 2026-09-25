@@ -71,7 +71,7 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167519
@@ -90,5 +90,40 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202630
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 233"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
+  citata_originali: |
+    Atsisakęs Regensburgo vyskupystės, jis 18
+    metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties
+    metais, o palaidotas Kelne. Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
+    mokinys bei pamokslininkų ordino vienuolis (Ptol. 22,18—20), vėliau popiežiaus Jono
+    XXII kanonizuotas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204918
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 233"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
+  citata_originali: |
+    Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
+    mokinys bei pamokslininkų ordino vienuolis (Ptol. 22,18—20), vėliau popiežiaus Jono
+    XXII kanonizuotas.
+    42.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

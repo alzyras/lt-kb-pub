@@ -83,5 +83,5 @@ J. Kliukovskio raštas yra pakvitavimas, duotas Gardino stalininkui Jonui Melcš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

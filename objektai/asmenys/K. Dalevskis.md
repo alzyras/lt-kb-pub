@@ -74,5 +74,5 @@ Dalevskis, nurodydamas, kad rusai vakare iš kautynių vietos taip pat pasitrauk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

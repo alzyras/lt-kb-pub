@@ -98,7 +98,7 @@ Centralinis komitetas iš Petrogrado atsiuntė Augštuoliui 8000 kronų. Jonas A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192555
@@ -119,7 +119,7 @@ Centralinis komitetas iš Petrogrado atsiuntė Augštuoliui 8000 kronų. Jonas A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-192556
@@ -138,5 +138,5 @@ Centralinis komitetas iš Petrogrado atsiuntė Augštuoliui 8000 kronų. Jonas A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -57,22 +57,6 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
   pagrindžia:
     - c-61614
 
-<a id="claim-t-60982"></a>
-- t-002
-  teiginys: "Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ivinskis Z. Gedimino pilis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivinskis Z. Gedimino pilis\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61613
-
 ## Citatos
 
 - id: c-61613
@@ -91,8 +75,6 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-61614
   autorius: "Petras Dusburgietis"
@@ -106,5 +88,19 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202074
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 264"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
+  citata_originali: |
+    Ivinskis Z. Gedimino pilis.—LE, 1940, t. 8, p. 1139—1141.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

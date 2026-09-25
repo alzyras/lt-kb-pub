@@ -85,7 +85,7 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175850
@@ -105,7 +105,7 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

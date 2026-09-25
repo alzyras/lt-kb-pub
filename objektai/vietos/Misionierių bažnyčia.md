@@ -68,9 +68,10 @@ Misionierių bažnyčia buvo užbaigta dešimt metų vėliau ir plėtojo Šv. Ko
     antgamtišką subtilumą. Toli yra matoma šita liekna bažnyčia, kurios du
     bokštai, it baltos gulbės, stypso viršum Išganytojo kalno.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

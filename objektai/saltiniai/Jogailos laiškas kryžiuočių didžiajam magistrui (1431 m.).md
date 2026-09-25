@@ -60,5 +60,5 @@ Kad prie Jogailos ir jo dvariškių lenkų buvo pastatyta sar gyba, rašė vėli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

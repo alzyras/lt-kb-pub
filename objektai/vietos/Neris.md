@@ -352,6 +352,39 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   pagrindžia:
     - c-177499
 
+<a id="claim-t-195112"></a>
+- t-195112
+  teiginys: "Vilniaus pirklių vytinėms buvo leista laisvai plaukioti Vilijos upe."
+  atnaujinta: "2026-09-19 07:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys glaustai perteikia citatoje minimą leidimą vytinėms plaukioti Vilija."
+  susije_objektai: "mentioned_place: Vilija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Jonas Markovičius|Jonas Markovičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bobruiskas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rudamina; mentioned_place: Smolenskas; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177484
+    - c-177491
+    - c-177496
+
+<a id="claim-t-216888"></a>
+- t-216888
+  teiginys: "Narbutas cituoja apostrofą Vilijos upei, kurioje Neris prašoma pranešti dievams lyrinio kalbėtojo kančias ir sielvartą."
+  atnaujinta: "2026-09-19 07:49"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Lenkiškas citatos fragmentas perrašytas lietuvišku sakiniu apie Nerį. Mitologinis kreipimasis paliktas kaip Narbuto cituojamas poetinis vaizdinys."
+  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vilnius"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Neris: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Neris\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-022
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -399,7 +432,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-177483
@@ -426,7 +459,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177484
@@ -467,8 +500,9 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
+    - t-195112
 
 - id: c-177485
   autorius: "Michał Baliński"
@@ -499,6 +533,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177486
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -528,7 +563,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-177487
@@ -564,7 +599,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-177488
@@ -595,7 +630,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-177489
@@ -616,7 +651,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177490
@@ -644,7 +679,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-177491
@@ -696,6 +731,9 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195112
+
 - id: c-177492
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -717,7 +755,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-008
 
@@ -743,7 +781,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-019
     - t-022
@@ -773,6 +811,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177495
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -795,7 +834,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-177496
@@ -824,6 +863,9 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195112
+
 - id: c-177497
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -846,6 +888,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177498
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -873,7 +916,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-006
     - t-011
@@ -902,7 +945,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-177500
@@ -929,7 +972,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-177501
@@ -964,6 +1007,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177502
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -986,7 +1030,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-177503
@@ -1015,6 +1059,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177504
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1041,7 +1086,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-177505
@@ -1066,7 +1111,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177506
@@ -1090,5 +1135,5 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009

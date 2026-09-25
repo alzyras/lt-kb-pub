@@ -158,7 +158,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83955
@@ -197,7 +197,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-83957
@@ -220,7 +220,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-83958
@@ -239,7 +239,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83959
@@ -266,5 +266,5 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

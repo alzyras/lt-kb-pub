@@ -101,7 +101,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179082
@@ -124,5 +124,52 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198339
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 316."
+  citata_originali: |
+    Tada
+    nebebuvo ko delsia: reikėdavo kuo skubiau vykti pas kurį nors
+    garsų krivį arba pas patį Krivių Krivaitį, kuris, priėmęs dova­
+    nas, imdavo burti ir kerėti, paskui nurodydavo asmenį, kurio
+    kraujas turįs būti paaukotas dievams kaip permaldavimo au­
+    ka. Tad namų savininkas būdavo priverstas atiduoti net bran­
+    giausią šeimos asmenį arba ieškoti progos, kaip nužudyti nu­
+    rodytąjį kur kitur ir jo galvą padėti prie Pokliaus stabo. Tačiau
+    plintant apšvietai, ši barbarystė buvo uždrausta ir kruvinoji
+    permaldavimo auka tapo tokia, kad vaidila pats susižeisdavo
+    ir savo kraują atnašaudavo dievams kaip auką, o prie Pokliaus
+    stabo dėdavo gyvulio galvą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199388
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 317."
+  citata_originali: |
+    Jeigu būdavo ketinama pradėti karą su ko­
+    kia šalimi arba jeigu gynybinio karo metu norėdavo sužinoti,
+    ar seksis savosioms pajėgoms, tai stengdavosi paimti gyvą prie­
+    šų karį. Atlikę maldas ir būrimus, belaisvį pastatydavo žmo­
+    nių akivaizdoje; žynys, vyriausiasis iš susirinkusiųjų, smogda­
+    vo jam peiliu į krūtinę. Jeigu kraujas plūsdavo srove, tai būda­
+    vo geras ir sėkmingas ženklas, priešingai, jeigu vos lašėdavo,
+    tuomet nebuvo ko tikėtis sėkmės kare; puolamąjį karą sustab­
+    dydavo, kol dievai parodys geresnį ženklą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -238,7 +238,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-36291
@@ -262,7 +262,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-006
 
@@ -285,7 +285,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-009
 
@@ -313,7 +313,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-88598
@@ -339,7 +339,7 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -365,6 +365,6 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-008

@@ -83,5 +83,5 @@ Brutenis buvo išrinktas vyriausiuoju žyniu, vadintu Kri vių Krivaičiu, o sva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

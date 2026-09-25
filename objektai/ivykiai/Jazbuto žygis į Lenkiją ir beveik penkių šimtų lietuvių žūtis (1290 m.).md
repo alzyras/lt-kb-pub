@@ -111,7 +111,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-66771
@@ -132,5 +132,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204347
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
+  citata_originali: |
+    Apie beveik penkių šimtų lietuvių žūtį
+    Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų
+    įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį:
+    išsivarė daug žmonių ir išsivežė galybę visokių daiktų. Nors šis Jazbutas rodėsi einąs
+    su netikėliais, tačiau slapta gerbė brolius. Jis įspėjo juos anksčiau, nei pats patraukė
+    su kariuomene į žygį. Dėl to magistras pasiuntė brolį Henriką Cutsvertą ir 29 brolius su
+    1200 vyrų, turėjusių jam pastoti kelią.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

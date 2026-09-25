@@ -46,61 +46,29 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
 
 ## Teiginiai
 
-<a id="claim-t-186244"></a>
-- t-001
-  teiginys: "Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_zmona -> Živinbudas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pajauta: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Živinbudas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Pajauta atiduota Živinbudui į žmonas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Pajauta buvo žmona Živinbudas (0.94); Živinbudas vedė Pajauta (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1089 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Pajautos santuoką, bet pradinis sakinys per ilgas ir priklausomas nuo neaiškių įvardžių."
-  pagrindžia:
-    - c-169605
-
-<a id="claim-t-188600"></a>
-- t-002
-  teiginys: "Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_dukte -> Kernius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pajauta: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kernius: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatos kontekste Pajauta apibūdinta kaip kunigaikščio Kerniaus duktė."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Pajauta buvo duktė Kernius (0.82)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171489
-
-<a id="claim-t-197434"></a>
-- t-003
-  teiginys: "Pajauta yra ant gana aukšto kalno, matomas toli iš jūros."
-  atnaujinta: "2026-07-12 22:32"
+<a id="claim-t-218338"></a>
+- t-218338
+  teiginys: "Pajauta buvo pripažinta deive."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179185
+    - c-200596
+
+<a id="claim-t-218911"></a>
+- t-218911
+  teiginys: "Pajauta garsėjo grožiu ir dorybėmis, dievintomis anais amžiais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199093
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -174,8 +142,6 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-171489
   autorius: "Teodoras Narbutas"
@@ -202,8 +168,6 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-179185
   autorius: "Teodoras Narbutas"
@@ -224,8 +188,69 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-199093
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  citata_originali: |
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+    Ta kunigaikštytė buvo ištekėjusi už Dausprungų giminės Zi-
+    vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
+    šė paveldimą Kernavės kunigaikštystę. Ji garsėjo grožiu ir do­
+    rybėmis, dievintomis anais amžiais. Mirė maždaug prieš 1220
+    metus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218911
+
+- id: c-199102
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  citata_originali: |
+    Pagal dabartinius tyrimus toji vieta vadinasi Raksztis Szwies-
+    tas Bintias, dieviškosios Birutės kapas, kurio šventumui pažy­
+    mėti ten visuomet stovi medinis kryžius. Jis yra ant gana aukš­
+    to kalno, matomas toli iš jūros.
+    Lietuvos ir Prūsijos archeologų surinkti duomenys patiks­
+    lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri-
+    mės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­
+    lučių.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200596
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  citata_originali: |
+    Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa­
+    statė stabą, kadangi po mirties jai pradėta teikti dievišką gar­
+    bę, kitaip sakant, ji buvo pripažinta deive. Toje vietoje jai bu­
+    vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
+    kutinių lietuvių stabmeldystės laikų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218338
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Živinbudas]]

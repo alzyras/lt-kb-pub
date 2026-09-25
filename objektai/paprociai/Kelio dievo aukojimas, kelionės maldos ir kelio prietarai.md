@@ -119,6 +119,27 @@ Nenurodyta
   pagrindžia:
     - c-172658
 
+<a id="claim-t-219811"></a>
+- t-219811
+  teiginys: "Pasak Strijkovskio, senovėje kelių dievaičiui aukotos baltos vištos, prašant laimingos kelionės ir sugrįžimo namo."
+  atnaujinta: "2026-09-20 20:23"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Namas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kelio dievo aukojimas, kelionės maldos ir kelio prietarai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing, gap=80"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kelio dievo aukojimas, kelionės maldos ir kelio prietarai\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-198679
+    - c-199823
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašė, kad prie kelio gulintys akmenys vadinti Kelio dievo užkeikimo akmenimis ir laikyti paskirtais kelių dievui.'
@@ -168,7 +189,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-172660
@@ -195,7 +216,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172661
@@ -219,7 +240,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172662
@@ -244,5 +265,84 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-198679
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 164"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 164."
+  citata_originali: |
+    Stebėtinai panašu į senovės romėnų prietarus;
+    tegul skaitytojas teikiasi prisiminti Horacijaus 27-ąją odę iš 3-
+    iosios knygos: laipiosparrae recinentis omen (klaida apdainuo­
+    jančio nedorus).
+    Visose lietuvių genties tautose vieškelis, Wiessas Kielas, bu­
+    vo religiškai paaukotas šalies svetingumui: nė vienam, keliau­
+    jančiam vieškeliu, nederėjo daryti skriaudos dėl rūstaus dievų
+    keršto; taip skelbia senovės padavimai.
+    Sis dievaitis atitinka Romos Larą (Lar vialis); Antikos žmo­
+    nių Merkurijus, Apolonas, Bakchas, Herkulis taip pat vadino­
+    si kelio dievai, Dii viales.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219811
+
+- id: c-199627
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 163"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 163."
+  citata_originali: |
+    Niekas
+    neišdrįsdavo atsisėsti ant tų akmenų, prieš tai nesukalbėjęs
+    tam tikros mitinės formulės, tai yra maldelės, matyt, iš bai­
+    mės, kad neatsitiktų kas blogo: dažniausiai manyta, kad ak­
+    muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
+    sigauti.
+    Kaimiečiai iki šiol tebėra pamaldūs šiam dievaičiui, nors
+    dėl daugelio priežasčių beveik jau jį užmiršo ir savo tos rūšies
+    maldose turi galvoje tikrąjį Dievą; tas maldas kalba krikščio­
+    nišku papročiu prieš pat įsėsdami į ratus; taigi keliautojai, prieš
+    išeidami iš trobos, susėda ant suolo kartu su visais esančiais,
+    trumpai pasimeldžia ir patyli akis nukreipę į krosnį. Taip pa­
+    sėdi kurį laiką, tarytum dar kažką apmąstydami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199823
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 163"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 163."
+  citata_originali: |
+    O
+    dėl kelionės prietarų, tai Lietuvos kaimiečiai išsaugojo
+    jų liekanų: niekas išvažiuodamas nedrįsta perkirsti kelio ke­
+    leiviui, kad, įvykus kelionėje nelaimingam atsitikimui, tai ne­
+    būtų priskirta nelaimingam jo perėjimui per kelią.
+    Prietaringas kaimietis, prieš sėsdamas į vežimą arba išei­
+    damas su kinkiniu į lauką, turi apeiti jį ratu. O pačiame kelyje
+    sutikti tam tikri asmenys arba gyvuliai arba perbėgę per kelią
+    pranašauja, kad kelionė bus sėkminga arba nesėkminga. Be­
+    je, vienuolis, nėščia moteris, lapė, nėščia kalė arba vilkė pra­
+    našauja bloga: priešingai, sutiktas kiškis, vilkas, vaikas, burti­
+    ninkas, čigonas žada laimingą kelionę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219811

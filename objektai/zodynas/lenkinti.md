@@ -66,5 +66,5 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

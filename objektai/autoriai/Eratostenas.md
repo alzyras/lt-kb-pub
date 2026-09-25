@@ -112,5 +112,5 @@ Eratostenas Narbuto paminėtas tarp autorių, kurie, jo teigimu, kalbėjo apie v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

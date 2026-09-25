@@ -64,42 +64,6 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
   pagrindžia:
     - c-60769
 
-<a id="claim-t-60137"></a>
-- t-002
-  teiginys: "Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Pamedėnai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Veidos: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pamedėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Užimta pamedėnų pilis, todėl Henrikas veikė prieš pamedėnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Henrikas iš Veidos kariavo prieš Pamedėnai (0.74)"
-  pagrindžia:
-    - c-60768
-
-<a id="claim-t-184083"></a>
-- t-003
-  teiginys: "Henrikas iš Veidos užimtoje pamedėnų pilyje įkurdino brolius ir daug ginklanešių."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henrikas iš Veidos: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas iš Veidos\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60768
-
 <a id="claim-t-194489"></a>
 - t-004
   teiginys: "Apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis."
@@ -111,6 +75,18 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60768
+
+<a id="claim-t-224294"></a>
+- t-224294
+  teiginys: "Henrikas iš Veidos buvo trečias Prūsijos žemės magistras."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203930
 
 ## Citatos
 
@@ -136,9 +112,7 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+  pagrindžia:
     - t-004
 
 - id: c-60769
@@ -161,5 +135,52 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202753
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
+  citata_originali: |
+    Apie vienos pilies užkariavimą ir apie Kristburgo pilį
+    Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
+    yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
+    rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
+    ir maldininkus, patraukė į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
+    ilsintis, priartėjo prie pamedėnų pilies, stovėjusios tada toje vietoje, kuri dabar
+    vadinama Senuoju Kristburgu, slapta įsibrovė į pilį, pristatęs prie sienų kopėčias, ir
+    ją užėmė nukovęs ar išsivaręs į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
+    daug ginklanešių. Kadangi Kristaus gimimo naktį buvo tikinčiųjų užkariauta ta pilis, ji
+    pavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties
+    pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203930
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 97"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 97."
+  citata_originali: |
+    1247
+    Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius
+    metus296. Jis atsivedė drauge su savimi į Prūsijos žemę kilnųjį vyrą Veidos valdovą297,
+    savo giminaitį, ir penkiasdešimt didžiai įgudusių kariauti vyrų (jie buvo tokie narsūs,
+    kad apie juos sklido garsas, jog niekas nestengė jų ieties atremti, o jų paleistos strėlės
+    visados susirasdavusios taikinį) bei daug kitų kilmingų maldininkų iš Vokietijos. Sis brolis
+    Henrikas, gavęs savo žmonos sutikimą, apsivilko Teutonų ordino vienuolio apsiaustą, o
+    ji pati įstojo į Kronsvico moterų vienuolyną298, kurį jis pats įkūrė ir aprūpino ir kuriam
+    suteikė dosnių dovanų.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224294

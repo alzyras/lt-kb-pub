@@ -81,6 +81,18 @@ Pilviškių vis. Pilviškių vls.
   pagrindžia:
     - c-43742
 
+<a id="claim-t-209639"></a>
+- t-209639
+  teiginys: "Pilviškių miestelio šiapus Pilvės ir Šešupės beveik nieko neliko."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192259
+
 ## Citatos
 
 - id: c-43742
@@ -99,7 +111,7 @@ Pilviškių vis. Pilviškių vls.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-45275
@@ -118,5 +130,42 @@ Pilviškių vis. Pilviškių vls.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192259
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 39"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 39."
+  citata_originali: |
+    Kas kita už Pilviškių.
+    Pilviškių mies­
+    telio šiapus Pilvės ir
+    Šešupės nieko
+    neliko.
+    Anoj gi pusėje išdeginta klebonija, bet bažny­
+    čia nelytėta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209639
+
+- id: c-192260
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 55"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 55."
+  citata_originali: |
+    Pradedant Antanavo dvaru,
+    Pilviškių
+    parapijoje iki Liudvinavo ir toliaus pašešupiai
+    labai mažai išliko sveikų ūkių.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:03"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -57,6 +57,20 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
     - c-59284
     - c-167598
 
+<a id="claim-t-224277"></a>
+- t-224277
+  teiginys: "Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jeronimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vda: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jeronimas: mention_match, person, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vda\" parinktas kaip owner_note_path. Targetas \"Jeronimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-59284
@@ -73,7 +87,7 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59285
@@ -95,6 +109,7 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-167598
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -110,5 +125,5 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

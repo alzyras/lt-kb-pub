@@ -93,5 +93,5 @@ Pasak Teodoro Narbuto, po Dobrynės riterių žvaigžde buvo dangiškos spalvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

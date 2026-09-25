@@ -128,7 +128,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-55801
@@ -156,7 +156,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55802
@@ -180,9 +180,10 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
     jo.
   citata_rodoma: "pagal minėtos privilegijos nuostatus buvo įprasta laikytis, \nsavą auksakalystės meną atskirai nuo cecho narių neapgal­\nvotai išdrįso vystyti ir savo dirbinius pagal savus įgeidžius, \nbe jokios tvarkos ir dėmesio atliktus, visų žmonių, kurie tik \nnorėjo, vartojimui išdrįso gaminti ir pardavinėti. Visa tai darė \nnegerbdamas privilegijų, leistų minėtam cechui, kaip visa \ntai mūsų šaukime į teismą aiškiau yra aprašyta."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

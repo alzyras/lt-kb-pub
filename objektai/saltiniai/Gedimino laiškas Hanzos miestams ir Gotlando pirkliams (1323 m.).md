@@ -131,7 +131,7 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-84099
@@ -152,7 +152,7 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-84100
@@ -184,7 +184,7 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-84101
@@ -229,5 +229,5 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

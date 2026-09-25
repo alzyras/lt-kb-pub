@@ -72,5 +72,21 @@ Dusburgietis teigia, kad varakauskas R.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201918
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  citata_originali: |
+    Varakauskas R. Kautynės ties Ašerade (1279 m.): Iš lietuvių kovų prieš Livonijos
+    ordiną XIII a.— Lietuvos TSR aukštųjų mokyklų mokslo darbai. Istorija, V., 1963, 4, p.
+    123—134.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

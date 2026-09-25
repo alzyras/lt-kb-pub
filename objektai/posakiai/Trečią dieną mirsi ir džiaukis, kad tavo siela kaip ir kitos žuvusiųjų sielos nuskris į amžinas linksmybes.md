@@ -74,5 +74,5 @@ Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

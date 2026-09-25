@@ -61,6 +61,18 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
   pagrindžia:
     - c-175654
 
+<a id="claim-t-212205"></a>
+- t-212205
+  teiginys: "Apie 362 metus prie Meotidės krantų buvo minima gelonų kolonija."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196786
+
 ## Citatos
 
 - id: c-175654
@@ -85,5 +97,46 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196786
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 304"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 304."
+  citata_originali: |
+    Apie 362 metus istorijoje aptinkame žinių apie gelonų
+    koloniją prie Meotidės krantų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212205
+
+- id: c-197558
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
+  citata_originali: |
+    Jų kraštas derlingas, turtingas tankių miškų, o
+    didžiausiame miške yra pelkėtas, nendrėmis apaugęs
+    ežeras; šiame ežere jie gaudo ūdras ir bebrus. Senovės
+    geografai nurodo tris gelonų kolonijas: viena prie Meo-
+    tidės, kolchų kaimynystėje, antra tarp budinu, o trečia
+    prie Kaspijos3. Bet ne visos jos buvo vienu metu, nes
+    gerai matyti, jog pirmiausia, išvyti iš emporiumų, jie gy­
+    veno dešiniojoje Dnepro ir Bugo pakrantėje, kur stovėjo
+    ir Gelono miestas (apie tai kalbėsime vėliau), persikėlė
+    prie Meotidės arba į Dono žemupio apylinkes, o vėliau —
+    pas budinus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

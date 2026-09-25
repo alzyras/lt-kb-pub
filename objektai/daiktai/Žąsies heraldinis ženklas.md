@@ -87,7 +87,7 @@ Ikiunijiniuose lietuviškuose antspauduose prie žąsies buvo vaizduojami keturi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-201332
@@ -103,5 +103,5 @@ Ikiunijiniuose lietuviškuose antspauduose prie žąsies buvo vaizduojami keturi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

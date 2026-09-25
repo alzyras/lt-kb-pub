@@ -85,25 +85,6 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   pagrindžia:
     - c-87480
 
-<a id="claim-t-91841"></a>
-- t-003
-  teiginys: "1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karšuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švento Jurgio pilis (pilis, XIII a.): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Karšuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švento Jurgio pilis (pilis, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Karšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: iki 1261 m.; įvykio data: po 1259 m.; įvykio data: 1259 m.; įvykio data: 1260 m.; įvykio data: 1261 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia konkretų veiksmą, susijusį su pilimi."
-  pagrindžia:
-    - c-87482
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.'
@@ -149,7 +130,7 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -173,5 +154,25 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-202452
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 111"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111."
+  citata_originali: |
+    Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno
+    Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas
+    ten Livonijos broliams iš Prūsijos žemės kaip magistras. Turėdamas kuo tiksliausių žinių
+    apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus,
+    jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą,
+    Karšuvos žemėje343, ant švento Jurgio kalno344, 1259 viešpaties metais būtų pastatyta
+    pilis, kuri tada buvo itin reikalinga krikščionių tikėjimui plėsti. Pastačius šią pilį, jai
+    saugoti ten buvo palikta Prūsijos ir Livonijos brolių bei ginklanešių įgula, sudaryta iš
+    vyrų, tinkamai parinktų ir įgudusių kovoti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

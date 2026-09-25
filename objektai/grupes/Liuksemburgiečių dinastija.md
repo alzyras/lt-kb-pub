@@ -69,5 +69,5 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

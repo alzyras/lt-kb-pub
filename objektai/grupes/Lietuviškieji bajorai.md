@@ -68,9 +68,10 @@ Basanavičiaus teigimu, sustiprėjus judėjimui Varšuvoje, lietuviškieji bajor
     jingų, vardai taps apgarsinti, nė išdaużymas langų
     ir tt.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

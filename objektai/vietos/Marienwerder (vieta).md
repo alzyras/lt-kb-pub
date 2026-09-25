@@ -73,9 +73,10 @@ Marienwerder (dabartinis Kwidzyn) buvo Prūsijos miestas ir pilis į pietus nuo 
     vyskupo sostinė.
     1 6 8 Graudenz (dabar Grudziąz), Kulmo žemės miestas ir pilis prie Vyslos upės.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

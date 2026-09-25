@@ -53,6 +53,18 @@ Kaunas, 2008; Šinkūnaitė L., Valinčiūtė-Varnė Rima, Kamuntavičienė v., 
   pagrindžia:
     - c-185562
 
+<a id="claim-t-230253"></a>
+- t-230253
+  teiginys: "Architektūros istorikė Nijolė Lukšionytė-Tolvaišienė Kupiškio bažnyčią apibūdino kaip kryžminio plano pseudobaziliką, kurios tūris, fasadų struktūra ir proporcijos primena dvibokštes barokines bažnyčias, o elementai ir detalės yra neogotikiniai."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  pagrindžia:
+    - c-210865
+
 ## Citatos
 
 - id: c-185562
@@ -68,5 +80,17 @@ Kaunas, 2008; Šinkūnaitė L., Valinčiūtė-Varnė Rima, Kamuntavičienė v., 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-210865
+  autorius: "unknown"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto sakralinių pastatų ir parapijos trobesių architektūra"
+  puslapiai: "p. 335-336 (PDF 336-337)"
+  indeksas: "unknown, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto sakralinių pastatų ir parapijos trobesių architektūra, p. 335-336 (PDF 336-337)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-230253

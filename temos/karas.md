@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 382
+tema_objektu_skaicius: 385
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 382.
+Objektų skaičius: 385.
 
 ## Kaip naudoti
 
@@ -26,6 +26,8 @@ Objektų skaičius: 382.
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Antanas Slučka-Šarūnas]]
+- [[objektai/asmenys/Antanas Starkus-Montė]]
 - [[objektai/asmenys/Hugonas Butyras]]
 - [[objektai/asmenys/Konradas Štangė]]
 - [[objektai/asmenys/Petras (Hermano iš Lichtenburgo nuodėmklausys)]]
@@ -33,6 +35,9 @@ Objektų skaičius: 382.
 
 ### Autoriai
 - [[objektai/autoriai/J. I. Kraševskis]]
+
+### Grupės
+- [[objektai/grupes/Rusijos kariuomenė]]
 
 ### Papročiai
 - [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
@@ -58,9 +63,9 @@ Objektų skaičius: 382.
 - [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas]]
 - [[objektai/ivykiai/Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)]]
 - [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]
-- [[objektai/ivykiai/Antrasis karas su Maskva (1512–1522 m.)]]
-- [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
-- [[objektai/ivykiai/ATR karai su Švedija XVII a]]
+- [Antrasis karas su Maskva (1512–1522 m.)](../objektai/ivykiai/Antrasis%20karas%20su%20Maskva%20%281512%E2%80%931522%20m.%29)
+- [Antrasis Panevėžio puolimas](../objektai/ivykiai/Antrasis%20Panev%C4%97%C5%BEio%20puolimas)
+- [ATR karai su Švedija XVII a](../objektai/ivykiai/ATR%20karai%20su%20%C5%A0vedija%20XVII%20a)
 - [Augustavo-Suvalkų operacija](../objektai/ivykiai/Augustavo-Suvalk%C5%B3%20operacija)
 - [Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)](../objektai/ivykiai/Augustavo-Suvalk%C5%B3%20operacija%20%281920%20m.%20rugs%C4%97jo%2022%20d.%20%E2%80%93%20rugs%C4%97jo%20pabaiga%29)
 - [Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)](../objektai/ivykiai/Auk%C5%A1%C4%8Diausiosios%20Tarybos%20r%C5%ABm%C5%B3%20gynyba%20%281991%20m.%20sausis%E2%80%93rugpj%C5%ABtis%29)

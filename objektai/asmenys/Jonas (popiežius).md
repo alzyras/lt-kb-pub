@@ -106,7 +106,7 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83502
@@ -141,5 +141,5 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

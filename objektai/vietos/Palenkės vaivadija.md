@@ -82,5 +82,5 @@ XVI a. pirmojoje pusėje tokie teismai buvo įkurti Palenkės vaivadijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

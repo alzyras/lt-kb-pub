@@ -77,5 +77,5 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

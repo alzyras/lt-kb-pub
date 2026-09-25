@@ -86,5 +86,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204521
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  citata_originali: |
+    XVI a. 1-oje pusėje S. Grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas
+    ąžuolas, kurio kamienas buvęs padalytas  į tris lygias dalis, kiekvienoje jų — iškirstas
+    langas ar uoksas, juose stovėję dievų trejybės stabai; Perkūno, Patulo ir Patrimpo.
+      Perkūnas — baltiškasis audros, griaustinio dievas. Jis susijęs su kalnu, ąžuolu. Naujausi
+    mitologijos tyrinėjimai leidžia konstatuoti ryšį tarp S. Grunau šventojo trijų dalių ąžuolo
+    Romovėje resp. Romuvoje ir kitų indoeuropiečių tautų mitologinių vaizdinių. Šventasis
+    ąžuolas buvęs kosmogoninis tridalio pasaulio medžio simbolis (Иванов В.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

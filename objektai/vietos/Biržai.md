@@ -81,6 +81,30 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   pagrindžia:
     - c-166396
 
+<a id="claim-t-208303"></a>
+- t-208303
+  teiginys: "Ratomskio Vilniaus žemės teisme atliktą apklausą, iš kurios aiškėjo, jog šis vogė įvairius daiktus (laikrodžius, pini gus, brangenybes, drabužius, indus) Vilniuje, Biržuose ir kitose."
+  atnaujinta: "2026-09-24 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190852
+
+<a id="claim-t-215142"></a>
+- t-215142
+  teiginys: "Biržų parapijoje pamaldos vyko vokiečių ir latvių kalbomis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194825
+
 ## Citatos
 
 - id: c-164818
@@ -99,7 +123,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166396
@@ -117,9 +141,50 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
     ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190852
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 215"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 215."
+  citata_originali: |
+    Kauno pilies teismas kalėjimo bausmę taikė keturiuose sprendimuose šešių
+    asmenų atžvilgiu. Dar tais pačiais 1782 m. ir pasirėmus minėtuoju Nuolatinės
+    tarybos nurodymu kalėjimo iki gyvos galvos bausmė buvo skirta vagiui - ne­
+    žinomo luomo asmeniui Juozapui Ratomskiui U ózef Ratomski), pagautam, kai
+    bandė patekti į Darsūniškio seniūno Ignoto Oginskio (Ignacy Oginski) rūmus
+    Strėvininkuose. Kaltintojas pasitelkė minėtojo J. Ratomskio Vilniaus žemės teisme
+    atliktą apklausą, iš kurios aiškėjo, jog šis vogė įvairius daiktus (laikrodžius, pini­
+    gus, brangenybes, drabužius, indus) Vilniuje, Biržuose ir kitose vietose.
+  citata_rodoma: "Kaltintojas pasitelkė minėtojo J. Ratomskio Vilniaus žemės teisme \natliktą apklausą, iš kurios aiškėjo, jog šis vogė įvairius daiktus (laikrodžius, pini­\ngus, brangenybes, drabužius, indus) Vilniuje, Biržuose ir kitose"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208303
+
+- id: c-194825
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 291"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 291."
+  citata_originali: |
+    ypač dviejose liuteroniškose
+    Žeimelio ir Biržų parapijose, kur pamaldos vyksta ne
+    tik vokiečių, bet ir latvių kalbomis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215142

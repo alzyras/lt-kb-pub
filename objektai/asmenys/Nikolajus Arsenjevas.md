@@ -92,7 +92,7 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44478
@@ -118,5 +118,5 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

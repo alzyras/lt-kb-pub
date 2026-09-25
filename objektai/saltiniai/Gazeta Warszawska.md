@@ -45,6 +45,7 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-175817
+    - c-175818
 
 <a id="claim-t-193050"></a>
 - t-002
@@ -55,20 +56,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   susije_objektai: "mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-175817
     - c-175818
-
-<a id="claim-t-194677"></a>
-- t-003
-  teiginys: "Narbutas teigia, kad yra žmogus Dievo siųstas iš dangaus, Jo lietuviškoje krūtinėje šventoji ugnis liepsnoja, - 8 Gazeta Warszawska."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177074
 
 ## Citatos
 
@@ -93,8 +82,9 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-002
 
 - id: c-175818
   autorius: "Michał Baliński"
@@ -117,7 +107,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-001
     - t-002
 
 - id: c-177074
@@ -136,5 +127,3 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003

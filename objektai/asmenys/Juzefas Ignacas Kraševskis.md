@@ -86,18 +86,6 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   pagrindžia:
     - c-173783
 
-<a id="claim-t-197768"></a>
-- t-003
-  teiginys: "Juzefas Ignacas Kraševskis nevengė tuo pasidalyti su kitais."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179331
-
 ## Citatos
 
 - id: c-64728
@@ -117,7 +105,7 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173783
@@ -139,7 +127,7 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179331
@@ -158,5 +146,42 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-194828
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 451"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 451."
+  citata_originali: |
+    Galima
+    spėti, jog būtent ši recenzija
+    davė pradžią šaltiems
+    T. Narbuto ir J. I. Kraševskio santykiams (nors, jeigu
+    tikėsime pirmuoju, jie niekuomet nebuvo asmeniškai pa­
+    žįstami). Ši nuostata ypač ryški istoriko laiškuose arti-
+    miausiems bičiuliams. Beje, T. Narbutas dėl J. I. Kra­
+    ševskio istorinių darbų išsakė identiškų priekaištų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195914
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 9"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 9."
+  citata_originali: |
+    Kaip ga­
+    lima prieiti iki jos lopšio?“2.
+    Visos šios mintys yra identiškos antrame LTI tome
+    keliamoms problemoms — T. Narbutą kankino tie patys
+    nuogąstavimai, ir jis nevengė tuo pasidalyti su kitais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

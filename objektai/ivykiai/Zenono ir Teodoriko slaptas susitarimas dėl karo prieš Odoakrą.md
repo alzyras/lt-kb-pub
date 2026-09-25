@@ -151,7 +151,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -181,5 +181,33 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197418
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
+  citata_originali: |
+    Nors Teodorikas gerai
+    perprato ketinimus visuomet klastingo Zenono, kuris jau
+    seniau, dar 479 metais, kurstė jį prieš Odoakrą, kai po
+    Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
+    ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
+    Bet dabartinėmis aplinkybėmis surengti Italijos žygį pa­
+    skatino jį kiti dalykai, kuriuos įkvėpė asmeninis pavydas
+    ir troškimas įgyti geresnį kraštą Italijoje, negu jam pri­
+    klausė Mezijoje. Tariamomis žygio priežastimis tapo
+    kerštas už padarytą rugiams skriaudą ir vykdymas įsa­
+    kymų Zenono, kuris tuomet buvo laikomas imperatoriumi
+    visos Romos valstybės, buvusios iki jos pasidalijimo į
+    Rytų ir Vakarų imperijas; kartu jis turėjo teisę savo nuo­
+    žiūra skirti vietininkus Italijoje ir nušalinti jam neįtin­
+    kančius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

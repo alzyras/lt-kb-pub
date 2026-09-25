@@ -76,5 +76,5 @@ Horodlės unijos (1413) aktu užtvirtintos visoms bažnyčioms, parapijoms, kole
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

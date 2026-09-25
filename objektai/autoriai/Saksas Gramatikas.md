@@ -68,5 +68,5 @@ Anot jo, senovės rusai yra šiandienos rusų protėviai; šią savo prie laidą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

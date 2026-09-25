@@ -83,5 +83,5 @@ Jurgis, dokumente įvardytas Rusios kunigaikščiu, pažadėjo išlaikyti taiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

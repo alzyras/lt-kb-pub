@@ -77,5 +77,26 @@ Narbutas, tikėtina, rėmėsi Aleksandro von Humboldto ir A. Bonplando kelionių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198975
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 489"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 489."
+  citata_originali: |
+    Tik­
+    riausiai T. Narbutas šią informaeiją paėmė iš ke­
+    liautojo ir mokslininko barono Frideriko Aleksan­
+    dro fon Humbolto (1769-1859) kelionių aprašymo
+    (HumboldtA. von und Bonplandt A. Reise in die
+    Aeąuinoctiol-Gegenden dės neuen Continents in
+    den Jahren 1799,1800,1801,1802,1803 und 1804. -
+    T. I-VI. - Stuttgart-Tuubingen, 1815-1832).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

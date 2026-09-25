@@ -72,5 +72,5 @@ Vaclovas tačiau gąsdino, jog ordino pusėje stosiąs jis pats ir jo brolis Ven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

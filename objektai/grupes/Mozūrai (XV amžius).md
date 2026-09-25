@@ -106,6 +106,18 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   pagrindžia:
     - c-188144
 
+<a id="claim-t-225619"></a>
+- t-225619
+  teiginys: "VII—VIII a. Kulmo žemė, užimta kujavų ir mozūrų, tapo lenkų kunigaikščių valda."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203119
+
 ## Citatos
 
 - id: c-13635
@@ -123,7 +135,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175879
@@ -143,7 +155,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175880
@@ -162,7 +174,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177339
@@ -182,7 +194,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188144
@@ -204,5 +216,21 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-203119
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
+  citata_originali: |
+    VII—VIII a. Kulmo žemė, užimta kujavų ir mozūrų, tapo lenkų kunigaikščių valda.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225619

@@ -66,5 +66,5 @@ Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Hen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

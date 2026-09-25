@@ -71,5 +71,5 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

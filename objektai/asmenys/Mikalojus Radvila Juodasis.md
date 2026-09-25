@@ -259,6 +259,50 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   pagrindžia:
     - c-105063
 
+<a id="claim-t-207428"></a>
+- t-207428
+  teiginys: "Mikalojus Radvila Juodasis 1563 m. išleido Brastos Bibliją lenkų kalba."
+  atnaujinta: "2026-09-19 13:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190030
+
+<a id="claim-t-207729"></a>
+- t-207729
+  teiginys: "1563 m. Vilniaus vaivada Mikalojus Radvila Juodasis išsiuntė 14-metį pirmagimį sūnų Mikalojų Kristupą Radvilą Našlaitėlį mokytis į užsienį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1563 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įrašytas aiškus veiksnys, pareigos, sūnaus amžius ir vardas. Išlaikytas tik citatoje nurodytas mokymosi užsienyje faktas."
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190586
+
+<a id="claim-t-207750"></a>
+- t-207750
+  teiginys: "Mikalojus Radvila Juodasis 1553 m. tapo Žygimanto Augusto trečiųjų vedybų diplomatiniu pasiuntiniu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1553 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai nusako Mikalojaus Radvilos Juodojo paskyrimą 1553 m. bei jo paskirtį. Šaltinio diplomatinis kontekstas teiginiui neprivalomas."
+  pagrindžia:
+    - c-190509
+
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: 'Mikalojus Radvila Juodasis 1563 m. išleido Brastos Bibliją lenkų kalba.'
@@ -321,7 +365,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-105063
@@ -363,7 +407,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-011
 
@@ -414,7 +458,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-105065
@@ -467,7 +511,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-105066
@@ -495,7 +539,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-105068
@@ -529,7 +573,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -559,11 +603,12 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     Vokietija, XVI a. trečiasis ketvirtis
   citata_rodoma: "Žygimanto Augusto\nparadiniai šarvai, pa-\n\ngaminti Niunberge meistro\nKunzo Lochnerio, XVI a.\n6 dešimtmetyje\n\n## Puslapis 89\n\nViršutinė Lietuvos didžiojo kanclerio ir\nmaršalkos Mikalojaus Radvilos Juodojo\nšarvų dalis, pagaminta Niurnberge, meis-\ntro Kunzo Lochnerio, apie 1555 m.\n\nŽygimanto Augusto pistoletas su\nratukine spyna (Puffer) su Lenkijos\nereliu ir raide S (Sigismundus)\nVokietija, XVI a."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-008
 
@@ -585,5 +630,66 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-190030
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 22"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 22."
+  citata_originali: |
+    Lenkų kalbos vaidmenį Lietuvos kultūroje simboliškai nusakė vienas iš Radvilų savo
+    laiške (rašytame 1615 m.): „Nors lietuviu esu gimęs ir lietuviu teks man mirti, tačiau turime
+    vartoti mūsų tėvynėje lenkų kalbą.“ 1563 m. Mikalojus Radvila Juodasis garsiąją „Brastos
+    Bibliją“ išleidžia lenkų kalba (anksčiau negu Lenkijoje), nes, kaip nuosekliam reformatui,
+    jam rūpi, kad ją suprastų liaudis.
+  citata_rodoma: "1563 m. Mikalojus Radvila Juodasis garsiąją „Brastos \nBibliją“ išleidžia lenkų kalba (anksčiau negu Lenkijoje), nes, kaip nuosekliam reformatui, \njam rūpi, kad ją suprastų liaudis."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207428
+
+- id: c-190509
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 196"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 196."
+  citata_originali: |
+    1553 m. pradžioje S. Herberšteinas
+    laiške M. Radvilai Juodajam gyrė karaliaus Ferdinando šeimą, pabrėždamas jo vaikų
+    dorybes, jų linksmą būdą ir grožį. Šį kartą Vienos diplomatui pavyko sudominti artimą
+    karaliui asmenį. M. Radvila Juodasis tapo trečiųjų Žygimanto Augusto vedybų diplo-
+    matiniu pasiuntiniu ir kovo mėnesį Grace jau vedė derybas su Ferdinandu I dėl jo
+    dukters santuokos su Lenkijos karaliumi ir Lietuvos didžiuoju kunigaikščiu.
+  citata_rodoma: "1553 m. pradžioje S. Herberšteinas\nlaiške M. Radvilai Juodajam gyrė karaliaus Ferdinando šeimą, pabrėždamas jo vaikų\ndorybes, jų linksmą būdą ir grožį. Šį kartą Vienos diplomatui pavyko sudominti artimą\nkaraliui asmenį. M. Radvila Juodasis tapo trečiųjų Žygimanto Augusto vedybų diplo-\nmatiniu pasiuntiniu ir kovo mėnesį Grace jau vedė derybas su Ferdinandu I dėl jo\ndukters santuokos su Lenkijos karaliumi ir Lietuvos didžiuoju kunigaikščiu"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207750
+
+- id: c-190586
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 219"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 219."
+  citata_originali: |
+    Pakeliaukime su kai kuriais iš jų po XVI a. antrosios pusės Europą.
+    1563 m. Vilniaus vaivada Mikalojus Radvila Juodasis išsiuntė mokytis į užsienį
+    14-os metų sulaukusį pirmagimį sūnų Mikalojų Kristupą Našlaitėlį.
+  citata_rodoma: "1563 m. Vilniaus vaivada Mikalojus Radvila Juodasis išsiuntė mokytis į užsienį\n14-os metų sulaukusį pirmagimį sūnų Mikalojų Kristupą Našlaitėlį."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207729

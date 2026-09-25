@@ -123,7 +123,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59451
@@ -144,7 +144,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-59452
@@ -165,7 +165,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-59453
@@ -184,5 +184,43 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203248
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
+  citata_originali: |
+    Apie tai, kaip buvo pastatytas ir išgriautas malūnas
+
+      Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti
+    broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246
+    persikėlė pas Baigos brolius, o šie, jiems atvykus, sustiprėjo ir pastatė prie upės malūną
+      245 Prūsiškoji Baigos pilis buvusi Aismarių kranto kyšulyje, per 25 m virš jūros lygio,
+    sausumos prieigas dengusios pelkės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204708
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
+  citata_originali: |
+    246 D.— cum omni domo et familia sua. D. domus (namai) — tai šeimos nariai, o
+    familia (šeimyna) — ūkyje dirbantys ne šeimos nariai, kurių šeimininkas buvęs feodalas,
+    viešpats (Jurginis  J., Baudžiavos..., p. 120—121). Vitingo (bajoro) šeimyną sudarė
+    patriarchaliniai vergai (dvaro išlaikomi bernai, mergos, piemenys) ir bernai bei tarnai,
+    turėję žemės ir ūkį, dalyvavę savo feodalo kariaunoje (ten pat, p. 128—145).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

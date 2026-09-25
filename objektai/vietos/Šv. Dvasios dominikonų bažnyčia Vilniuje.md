@@ -101,7 +101,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82257
@@ -128,5 +128,5 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

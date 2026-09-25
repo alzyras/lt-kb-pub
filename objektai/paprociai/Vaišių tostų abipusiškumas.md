@@ -95,5 +95,5 @@ Per vaišes šeimininkas, šeimininkė, jų vaikai ir gentainiai keldavo taurę 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

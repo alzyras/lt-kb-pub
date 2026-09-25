@@ -52,3 +52,39 @@ Ant Bekešo kalno viršūnės stovėjo koplyčia, pastatyta šio karžygio atmin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208251"></a>
+- t-001
+  teiginys: "Ant Bekešo kalno viršūnės stovėjo koplyčia, pastatyta šio karžygio atminimui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190868
+
+## Citatos
+
+- id: c-190868
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 318"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 318."
+  citata_originali: |
+    Lapo kairėje yra pavaizduoti Totorių vartai (Nr. i) ir „Dvarelis skersgatvyje,
+    einant link Vilniaus vartų“15 (Nr. z). Fone piešinio kairėje - Aukštutinės pilies
+    kalnas su pilies griuvėsiais, vienas jos bokštas pažymėtas kaip Aukštutinė pilis16
+    (Nr. 3), o kitas (Nr. 4) - kaip „pagonių dievuko Lelum Polelum Svistum po
+    Svistum bažnyčia“17. Dešinėje kompozicijos pusėje nupieštas Bekešo kalnas su
+    jo viršūnėje stovinčia koplyčia, pastatyta šio karžygio atminimui (Nr. 5 ir 6)18.
+  citata_rodoma: "Dešinėje kompozicijos pusėje nupieštas Bekešo kalnas su \njo viršūnėje stovinčia koplyčia, pastatyta šio karžygio atminimui (Nr. 5 ir 6)18."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

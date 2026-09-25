@@ -78,5 +78,5 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

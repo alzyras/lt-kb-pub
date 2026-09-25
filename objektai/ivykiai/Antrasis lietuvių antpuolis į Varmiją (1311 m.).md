@@ -77,5 +77,5 @@ Teodoro Narbuto pasakojimu, 1311 m. balandžio 3 d. didysis Lietuvos kunigaikšt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

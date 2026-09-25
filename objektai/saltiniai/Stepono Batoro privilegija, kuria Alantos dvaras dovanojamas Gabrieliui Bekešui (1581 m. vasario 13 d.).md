@@ -82,5 +82,5 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

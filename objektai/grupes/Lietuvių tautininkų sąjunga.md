@@ -155,7 +155,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-22541
@@ -177,7 +177,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-22542
@@ -203,7 +203,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-22543
@@ -226,7 +226,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-47941
@@ -246,5 +246,5 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

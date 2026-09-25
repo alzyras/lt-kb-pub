@@ -81,5 +81,5 @@ Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

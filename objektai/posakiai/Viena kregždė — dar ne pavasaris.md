@@ -55,5 +55,5 @@ Una hirundo non facit ver — viena kregždė -— dar ne pavasaris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

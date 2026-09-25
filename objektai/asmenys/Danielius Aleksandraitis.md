@@ -81,5 +81,5 @@ canonical_biography: "1406 m. vasario mėnesį šis netikėtai su Lietuvos kariu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

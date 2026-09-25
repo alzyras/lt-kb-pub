@@ -73,23 +73,6 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   pagrindžia:
     - c-76664
 
-<a id="claim-t-79721"></a>
-- t-003
-  teiginys: "Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Lunenburgas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ditrichas iš Altenburgo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lunenburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Ditrichas pastatė Lunenburgo pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Ditrichas iš Altenburgo pastatė Lunenburgas (0.90); Lunenburgas priklausė Barta (0.82)"
-  pagrindžia:
-    - c-76665
-
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje.'
@@ -130,7 +113,7 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-76664
@@ -148,7 +131,7 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-76665
@@ -171,8 +154,23 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-203118
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 224"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
+  citata_originali: |
+    594  D.— Lunenburgk, Jer.— Lûnenburc (plg. lie. liūnas, Liūnai — GAO, p. 92); vėliau
+    vok. Leunenburg, dab. Sontočnas (Sątoczno) į pietryčius nuo Sempopolio. Išlikęs
+    piliakalnis (CV, t. 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p.
+    389).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Ditrichas iš Altenburgo]]

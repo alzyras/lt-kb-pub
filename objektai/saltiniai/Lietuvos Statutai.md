@@ -262,6 +262,31 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   pagrindžia:
     - c-186924
 
+<a id="claim-t-207561"></a>
+- t-207561
+  teiginys: "Lietuvos Statutai priklauso LDK raštinėje susiformavusiai alternatyviai raštijos tradicijai."
+  atnaujinta: "2026-09-19 13:16"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190178
+
+<a id="claim-t-207563"></a>
+- t-207563
+  teiginys: "Alfredas Bumblauskas Lietuvos Statutus prilygina europeizacijos diplominiam darbui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190180
+
 ## Citatos
 
 - id: c-23849
@@ -282,7 +307,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-23851
@@ -306,7 +331,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -327,7 +352,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-23853
@@ -350,6 +375,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-95088
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -366,7 +392,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-95089
@@ -389,7 +415,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-95090
@@ -420,7 +446,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-95091
@@ -442,7 +468,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -470,7 +496,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-176271
@@ -489,7 +515,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-186697
@@ -509,7 +535,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-186924
@@ -535,5 +561,70 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
+
+- id: c-190178
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 36"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 36."
+  citata_originali: |
+    Moksle taip pat seniai žinoma, kad joje
+    iš pradžių XV a. pradžioje būta daugiau „ukrainizmų“, vėliau – „baltarusizmų“. Amžinin-
+    kai Maskvos rusai ją aiškiai skyrė ir vadino „lietuvių“ kalba, nes Maskvos valstybėje ilgai
+    būtent tik slavų bažnytinė kalba, iki pat XVII–XVIII a., ir buvo vienintelė.
+    LDK raštinėje susiformavusi alternatyvi raštijos tradicija apėmė ne tik kanceliarijos
+    raštus – Lietuvos Metriką, bet ir ja rašyti Lietuvos metraščiai bei Lietuvos Statutai, taip
+    pat net įvairių vėlesnių XVI–XVII a. bažnytinių tekstų pratarmės ir intarpai.
+  citata_rodoma: "LDK raštinėje susiformavusi alternatyvi raštijos tradicija apėmė ne tik kanceliarijos \nraštus – Lietuvos Metriką, bet ir ja rašyti Lietuvos metraščiai bei Lietuvos Statutai, taip \npat net įvairių vėlesnių XVI–XVII a. bažnytinių tekstų pratarmės ir intarpai."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207561
+
+- id: c-190179
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 112"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 112."
+  citata_originali: |
+    Tiesa, ji rašto „industrijos“ institucija taps
+    tik nuo Vytauto, tačiau vienuolynuose buvo rašoma bulgarų kilmės slavų bažnytine kal-
+    ba, o LDK raštinėje pradėjo formuotis rašto tradicija, kurią kalbininkai aiškiai skiria nuo
+    minėtos bažnytinės kalbos ir šiandien vadina rusėnų kalba. Šia kalba, LDK raštinėje susi-
+    formavusia alternatyva „bulgariškai“ raštijos tradicijai, ir buvo surašyti reikšmingiausi
+    to meto raštijos fenomenai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
+    Taigi svarbiausias politinio lietuvių elito vaidmuo stačiatikiškoje kultūroje yra tas, kad
+    jie buvo šios kultūros užsakovai.
+  citata_rodoma: "lba, LDK raštinėje susi-\nformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir buvo surašyti reikšmingiausi \nto meto raštijos fenomenai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. \nTaigi"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-190180
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 120"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 120."
+  citata_originali: |
+    Onos bažnyčia
+    Vilniuje, pradedamos kurti poemos ir kritinė visuomenės publicistika. Svarbiausia – LDK
+    sugebėjo sukurti įspūdingą reiškinį – Lietuvos Statutus, savo sistemingumu ir renesansi-
+    niu „apiforminimu“ pralenkusius kaimynų teisės kodifikacijos lygį. Lietuvos Statutai buvo
+    tarsi europeizacijos diplominis darbas.
+  citata_rodoma: "Lietuvos Statutai buvo \ntarsi europeizacijos diplominis darbas."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207563

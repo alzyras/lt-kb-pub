@@ -78,5 +78,5 @@ Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

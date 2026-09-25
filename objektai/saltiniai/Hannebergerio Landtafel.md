@@ -76,6 +76,28 @@ Narbutas, remdamasis Hannebergerio „Landtafel“, rašė, kad Jesugubu vadinta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-195548
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 363."
+  citata_originali: |
+    Pilys padėjo apsiginti iš Mazovijos pusės, bet isto­
+    rija nemini pilių pavadinimų, net nežinome, kur gyveno
+    ta šventoji pranašė, kuri dėl savo reikšmės ir pranašys­
+    čių valdė ir tvarkė savo kraštą (Domina, guae secundum
+    ritum ipsorum sacra et Prophetissa reputabatur, ad cujus
+    itnperium hujus terrae facta singula regebantur). Šio
+    krašto kunigaikštis, kurį vėlesnis kronikininkas vadina
+    .Jesugubu, gyveno netoli Loetzen, vieno ežero viduryje
+    (Hanneberger.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

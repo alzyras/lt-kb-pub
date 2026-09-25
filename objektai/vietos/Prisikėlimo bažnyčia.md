@@ -128,7 +128,7 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003

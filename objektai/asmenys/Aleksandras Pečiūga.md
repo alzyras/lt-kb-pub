@@ -70,5 +70,5 @@ canonical_biography: "1645 m. Kauno vaitas Aleksandras Pečiūga, valdęs iš va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

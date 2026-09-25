@@ -76,5 +76,5 @@ Narbutas teigia, kad Vytenis buvo paimtas į nelaisvę ir buvo Batu stovykloje K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -151,7 +151,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-42391
@@ -168,7 +168,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-42392
@@ -185,7 +185,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-42393
@@ -200,7 +200,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-42395
@@ -219,7 +219,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-007
 
@@ -241,5 +241,5 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -74,6 +74,16 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
   pagrindžia:
     - c-171487
 
+<a id="claim-t-224492"></a>
+- t-224492
+  teiginys: "Mozė nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą, kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo bėgti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas.'
@@ -112,7 +122,7 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171487
@@ -136,5 +146,28 @@ Dusburgietis teigia, kad mozė meldėsi, nugalėdavęs Amalechą (Išm 11, 3); k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-201284
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 380."
+  citata_originali: |
+    Šventasis Au­
+    gustinas aiškiai teigia, kad egiptiečiai kryžiaus ženklu vaiz­
+    davo amžinąjį gyvenimą; tad Serapio, busimojo gyvenimo die­
+    vo, drabužiai buvo pažymėti daugybe kryžių. Florencijos se­
+    novinės tapybos paminkluose rastas žaltys, kurį Mozė dyku­
+    moje įsakė išliedinti iš vario, pavaizduotas ant medžio, pana­
+    šaus į kryžių (žiūrėk jo pavaizdavimą V lentelės 37-ajame
+    piešinyje). Iš visų šių nagrinėjimų išaiškėja, kad jeigu tas sim­
+    bolis buvo žinomas senovės lietuviams, tai ir jiems reiškė ne
+    ką kitką.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

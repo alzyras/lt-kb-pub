@@ -8,15 +8,13 @@ datos:
   - '1575 m.'
 date_start: '1575'
 date_end: ''
-sukurta: ''
-atnaujinta: ''
-tags:
-  - karalius
-  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+sukurta: ''
+atnaujinta: ''
+tags: []
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,20 +33,20 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Jurgis Chodkevičius"]
 sameAs: []
-canonical_biography: "Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį."
+canonical_biography: "Aleksandro Chodkevičiaus sūnus Jurgis pradėjo Supraslio šaką. Kartu su broliu Grigaliumi jis rėmė Lietuvos Didžiosios Kunigaikštystės savarankiškumą pabrėžusią Radvilų politinę kryptį."
 ---
 # Jurgis Chodkevičius
 
 ## Santrauka
 
-Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį.
+Aleksandro Chodkevičiaus sūnus Jurgis pradėjo Supraslio šaką. Kartu su broliu Grigaliumi jis rėmė Lietuvos Didžiosios Kunigaikštystės savarankiškumą pabrėžusią Radvilų politinę kryptį.
 
 ## Teiginiai
 
 <a id="claim-t-87742"></a>
 - t-001
   teiginys: "Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-22 01:45"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -63,6 +61,18 @@ Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą 
   temporalinis_llm_pakomentavimas: "Citata palaiko Jurgio Chodkevičiaus pagalbą spaustuvininkui."
   pagrindžia:
     - c-83721
+
+## Šaltiniai
+
+- [VLE: Chodkevičiai](https://www.vle.lt/straipsnis/chodkeviciai/)
+
+## Šeima
+
+- [[objektai/asmenys/Aleksandras Chodkevičius (1475-1549)|Aleksandras Chodkevičius (1475–1549)]]
+- [[objektai/asmenys/Jurgis Chodkevičius (mirė 1595 m.)|Jurgis Chodkevičius (mirė 1595 m.)]]
+- [[objektai/asmenys/Jeronimas Jarašius Chodkevičius (mirė 1617 m.)|Jeronimas Jarašius Chodkevičius (mirė 1617 m.)]]
+
+[[objektai/grupes/Chodkevičiai|Chodkevičiai]] · [[straipsniai/chodkeviciai-etmonai-miestai-ir-spaustuves|Giminės narių registras ir istorija]]
 
 ## Citatos
 

@@ -74,5 +74,5 @@ Jarmerikui nebūnant slavų kraštuose, slavai iškapojo jo paliktų įgulų sar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

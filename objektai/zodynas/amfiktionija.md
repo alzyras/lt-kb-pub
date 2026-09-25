@@ -83,7 +83,7 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166787
@@ -102,5 +102,5 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

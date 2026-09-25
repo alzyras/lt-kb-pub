@@ -76,6 +76,18 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
   pagrindžia:
     - c-174832
 
+<a id="claim-t-210345"></a>
+- t-210345
+  teiginys: "Per šią sumaištį greitai kei tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas neilgai valdė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196038
+
 ## Citatos
 
 - id: c-174153
@@ -98,7 +110,7 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174832
@@ -121,5 +133,28 @@ Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196038
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
+  citata_originali: |
+    Imperatoriaus
+    sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
+    darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
+    galbos iš Konstantinopolio. Per šią sumaištį greitai kei­
+    tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas
+    neilgai valdė; pagaliau Ricimero mirtis davė progą sam­
+    dytai kariuomenei vadovavusiam Orestui į imperatoriaus
+    sostą pasodinti savo dar jauną sūnų Romulą Momilijų
+    Augustulą. Tai įvyko 475 metais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210345

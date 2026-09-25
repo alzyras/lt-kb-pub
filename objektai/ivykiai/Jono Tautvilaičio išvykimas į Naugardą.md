@@ -72,5 +72,5 @@ Narbutas pasakoja, kad Jonas, siekdamas išvaduoti Polocko ponus, išjojo į Nau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

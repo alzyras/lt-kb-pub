@@ -93,7 +93,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-85404
@@ -114,5 +114,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-203866
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
+  citata_originali: |
+    Kitą
+    dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia
+    tesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
+    pirties tiesiog kęste nekenčia. Moterys ir vyrai pratę verpti, vieni — linus, kiti — vilnas,
+    211 Senovės paprotys reikalavo, kad jaunikis pinigais ar daiktais mokėtų jaunosios
+    tėvui, t. y. išpirktų žmoną.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

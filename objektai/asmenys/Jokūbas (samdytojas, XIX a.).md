@@ -66,16 +66,6 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   pagrindžia:
     - c-177965
 
-<a id="claim-t-195547"></a>
-- t-002
-  teiginys: "Jokūbas derėjosi su Grigoru dėl algos ir pasirūpino duoti du auksinus rankpinigių."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177964
-
 <a id="claim-t-195548"></a>
 - t-003
   teiginys: "Po nesėkmingos baigties Jokūbui teko ieškoti kito berno."
@@ -104,6 +94,7 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177963
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -121,7 +112,7 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177964
@@ -137,8 +128,6 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-177965
   autorius: "M. Katkus"
@@ -153,5 +142,5 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

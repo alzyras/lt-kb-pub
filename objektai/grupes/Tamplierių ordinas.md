@@ -175,6 +175,28 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   pagrindžia:
     - c-187930
 
+<a id="claim-t-223334"></a>
+- t-223334
+  teiginys: "Tamplierių ordinas, šaltinio teigimu, buvo įsteigtas 1112 m. popiežiaus Paskalio II ir imperatoriaus Henriko V laikais."
+  atnaujinta: "2026-09-20 00:06"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-225691"></a>
+- t-225691
+  teiginys: "Kronikoje teigiama, kad popiežius Klemensas V Tamplierių ordiną panaikino 1312 m. kovo 23 d. Vieno suvažiavime, imperatoriaus Henriko VII laikais."
+  atnaujinta: "2026-09-20 00:06"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202909
+
 ## Citatos
 
 - id: c-85272
@@ -196,7 +218,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-85273
@@ -217,7 +239,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -236,7 +258,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-85276
@@ -258,7 +280,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187930
@@ -280,7 +302,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-188130
@@ -305,5 +327,43 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-202909
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
+  citata_originali: |
+    Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
+    Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
+    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
+    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
+    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
+    Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
+    Henriko VI laikais (Dusb.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225691
+
+- id: c-203157
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  citata_originali: |
+    Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
+    padarinių. 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai
+    Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo
+    Teutonų ordinas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

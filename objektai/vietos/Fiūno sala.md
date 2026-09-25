@@ -76,7 +76,7 @@ Buvo iškastas Fiūno saloje (pagal Tomą Bartoliną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-201130
@@ -94,5 +94,5 @@ Buvo iškastas Fiūno saloje (pagal Tomą Bartoliną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

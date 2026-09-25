@@ -123,6 +123,42 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
   pagrindžia:
     - c-173634
 
+<a id="claim-t-212890"></a>
+- t-212890
+  teiginys: "Kristijonas, pirmasis Kulmo arba Prūsijos vyskupas, įvardijamas kaip kronikos apie senovės Prūsiją autorius."
+  atnaujinta: "2026-09-20 03:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197434
+
+<a id="claim-t-215883"></a>
+- t-215883
+  teiginys: "Kristijonas buvo prūsų vyskupas, kurio kronika pateko į Erazmo Stelos naudotus šaltinius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195876
+
+<a id="claim-t-216323"></a>
+- t-216323
+  teiginys: "Betgi Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenenbergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar ba."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197909
+
 ## Citatos
 
 - id: c-173277
@@ -141,7 +177,7 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173278
@@ -163,7 +199,7 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173633
@@ -191,7 +227,7 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173634
@@ -210,5 +246,134 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-195149
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
+  citata_originali: |
+    3 Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi­
+    nosi Liber filiorum Belini, cum suis superstitionibus Brutiae factionis
+    incipit cum molestia cordis ir kurios pradžią sudarė Jaroslavo kroni­
+    ka, o vėliau autoriaus pastabos, nėra abejonių, atsižvelgiant j tai, ką
+    šia tema parašė ponas Foigtas (Gesch. Preuss. B. I. S. 617).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195876
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 271."
+  citata_originali: |
+    jei įsigilinsime į pirmus
+    Erazmo Stelos paragrafus, aiškiai liudijančius, jog jis
+    rėmėsi prūsų vyskupo Kristijono kronika ir kitais seno­
+    vės šaltiniais, kuriuose buvo prūsų tautinių senienų, pa­
+    tekusių į krikščioniškąsias žinias XIII amžiaus pradžioje
+    ar dar anksčiau
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215883
+
+- id: c-197434
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
+  citata_originali: |
+    *  ¥  *
+    III skyrius
+    S E N O V Ė S  Ž I N I Ų  T Ę S I N Y S
+    171
+    Sausumos atradimai. Iš imperatoriaus Augusto valdy­
+    mo Romos valstybėje epochos išliko geografijos—istorijos
+    paminklas, susijęs su mūsų tema. ITartknochas savo prūsų
+    istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­
+    sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo
+    laikoma pradingusia, apie senovės Prūsiją, — ją cituoja
+    ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus
+    ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
+    neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
+    te, vėliau pavadintame Prūsija, stebėjimus.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212890
+
+- id: c-197814
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 415"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
+  citata_originali: |
+    Abu šie kronikinin­
+    kai - Lukas Davidas (kn. I. - P. 16,53-54) ir Simonas Grunau
+    (traktatas II. - Skyrius 1. - Skirsnis 4) - aiškiai įtikina, kad jų
+    žinios apie Romovės įkūrimą ir krivio buvimą remiasi pirmo­
+    jo Prūsijos vyskupo Kristijono kronika.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197909
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 432"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
+  citata_originali: |
+    Betgi
+    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
+    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
+    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
+    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
+    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
+    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
+    rokai išsamesniais paaiškinimais negu Simonas Grunau17
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216323
+
+- id: c-201447
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 415"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
+  citata_originali: |
+    - Skirsnis 4) - aiškiai įtikina, kad jų
+    žinios apie Romovės įkūrimą ir krivio buvimą remiasi pirmo­
+    jo Prūsijos vyskupo Kristijono kronika. Tiesa, tai yra tikru­
+    mas, kuris remiasi tik padavimu apie minėtąją kroniką, bet
+    kitur turima aiškiausių įrodymų, kad ji tikrai egzistavo2. O pats
+    krivis visoje jų istorijoje atlieka tokį svarbų vaidmenį ir yra
+    toks svarbus objektas, kad jeigu jis būtų buvęs pramanytas, tai
+    būtų sugriuvusi visa jos sandara.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -81,5 +81,5 @@ Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs ko kunigaikšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

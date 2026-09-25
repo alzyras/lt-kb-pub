@@ -65,5 +65,21 @@ Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakranči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194403
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 152"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 152."
+  citata_originali: |
+    Tos mokslinės pastangos mums atrodo visiškai nerei­
+    1 Lygai apskritai laikomi senovės amžių Baltijos jūros pietryčių
+    pakrančių gyventojais (Lelemel. Bad. Geogr. S. 522).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -89,7 +89,7 @@ Senovės žmonės ypač gerbdavo tam tikrus akmenis, ku riuose pati gamta kažk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-201239
@@ -107,5 +107,5 @@ Senovės žmonės ypač gerbdavo tam tikrus akmenis, ku riuose pati gamta kažk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -84,5 +84,33 @@ Anglų keliautojas mokslininkas Bleikas nurodė Baltojo Himalajų kalno aukštį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194784
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 39"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 39."
+  citata_originali: |
+    Šios dvi tautos, gal ir
+    skirtingos kilmės, turėjo artimų tarpusavio santykių ir
+    1 Vidurinėje Azijoje nusidriekę Himalajų kalnai, sudarantys Ki­
+    nijos pietų sieną, anot naujesnių duomenų, savo vidutiniu aukščiu
+    viršija Cimborasą, Amerikos Kordiljerų grandinės kalną, lig šiol lai­
+    kytą aukščiausiu Žemės kalnu. Anglų keliautojas mokslininkas ponas
+    Bleikas
+    (Blake)*
+    pateikia
+    vieno Himalajų
+    kalno — Baltojo
+    —
+    aukštį (28 000 angliškų pėdų); jis beveik du kartus aukštesnis negu
+    Monblanas Prancūzijoje. Tačiau Pietų Kinijoje turėtų būti dar aukš­
+    tesnis kalnas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

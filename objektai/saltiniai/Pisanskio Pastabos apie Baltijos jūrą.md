@@ -158,7 +158,7 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174615
@@ -181,6 +181,28 @@ Narbutas, lygindamas su Pisanskio pastabomis apie Baltijos jūrą, kritikuoja Ke
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
+
+- id: c-194479
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 345."
+  citata_originali: |
+    Vėliau Pisanskis rašo, jog vietovės,
+    kurios, anot įtikėtinų žinių, buvo gana toli nuo jūros
+    krantų, paskui pamažu prie jų priartėjo. Kaip pavyzdį jis
+    nurodo šv. Vaitiėkaus bažnytėlę, kuri, pasak jo, buvo
+    pastatyta Sambijos vyskupo Jono I maždaug XIII amžiaus
+    pabaigoje ir tuomet buvo per mylią nuo kranto. Šiuo
+    klausimu jis cituoja buvusio profesoriaus Rapolto teiginį
+    (Meditalio epistolaris de origine succini in littore sam-
+    biensi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

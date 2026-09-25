@@ -33,29 +33,6 @@ canonical_biography: "Narbutas, remdamasis senoviniais Berosijaus padavimais, Ar
 
 Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina.
 
-## Teiginiai
-
-<a id="claim-t-191366"></a>
-- t-001
-  teiginys: "Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo dukra ir Skito, skitų genties protėvio, motina."
-  atnaujinta: "2026-07-19 17:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Araksas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Araksas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo budinų gyvenamą vietą prie Arakso."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Budinai gyveno Araksas (0.88)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
-    - c-174248
-
 ## Citatos
 
 - id: c-174248
@@ -80,5 +57,3 @@ Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

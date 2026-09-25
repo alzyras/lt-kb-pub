@@ -89,5 +89,30 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198001
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 387."
+  citata_originali: |
+    Spręsdami iš viso to, ką iki šiol pateikėme apie pomirtinį
+    gyvenimą, negalime abejoti, kad lietuviai tikėjo sielos nemir­
+    tingumu, bet šis prietarais aplipęs tikėjimas buvo priežastis
+    daugybės prietaringų nuomonių apie būsimą pomirtinę sielos
+    būklę.
+    Įsitikinę, kad ateinantis gyvenimas bus atpildas ir bausmė,
+    jie nepaprastai rūpindavosi būsimu vėlės likimu, todėl prieš
+    mirtį reikalaudavo iš giminaičių, kad tie stropiai atliktų laido­
+    tuvių apeigas ir per žynius ieškotų priemonių laimingam am­
+    žinajam gyvenimui pasiekti. Mirštančiųjų reikalavimai būda­
+    vo šventi, nes priešingu atveju neišvengiamai grėsė dievų kerš­
+    tas, kurio Poklius tuomet nebūtų atsisakęs įvykdyti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

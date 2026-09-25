@@ -471,7 +471,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-163454
@@ -493,7 +493,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-017
 
@@ -528,7 +528,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-163457
@@ -554,7 +554,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-011
 
@@ -577,7 +577,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-163459
@@ -623,7 +623,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-163460
@@ -643,7 +643,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-016
 
@@ -665,7 +665,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-163464
@@ -685,7 +685,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-013
 
@@ -710,7 +710,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-163469
@@ -735,7 +735,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-018
 
@@ -758,7 +758,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-163472
@@ -779,7 +779,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-163474
@@ -802,7 +802,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-168310
@@ -830,7 +830,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-171576
@@ -857,7 +857,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-189080
@@ -882,7 +882,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-189081
@@ -900,5 +900,5 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022

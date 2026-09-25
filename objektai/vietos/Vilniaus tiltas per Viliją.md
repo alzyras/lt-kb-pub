@@ -147,6 +147,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177550
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -175,7 +176,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -217,7 +218,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177552
@@ -244,7 +245,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177553
@@ -295,7 +296,7 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177554

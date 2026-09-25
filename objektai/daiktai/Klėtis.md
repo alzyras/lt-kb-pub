@@ -83,6 +83,31 @@ Nenurodyta
   pagrindžia:
     - c-10254
 
+<a id="claim-t-225912"></a>
+- t-225912
+  teiginys: "Klėtis yra nešildomas atskiras kaimo sodybos ūkinis trobesys, skirtas grūdams, maisto produktams, drabužiams laikyti ir poilsiui."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  pagrindžia:
+    - c-206428
+
+<a id="claim-t-225913"></a>
+- t-225913
+  teiginys: "Šoninės dvilypės klėtys sudaro antrąjį klėčių tipą: pailgame stačiakampiame pastate dvi atskiras patalpas skiria rąstų siena."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  vertinimo_atnaujinta: "2026-09-23T18:01:45Z"
+  pagrindžia:
+    - c-206429
+
 ## Citatos
 
 - id: c-10253
@@ -102,7 +127,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-10254
@@ -121,5 +146,29 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-206428
+  autorius: "unknown"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio valsčiaus liaudies architektūra"
+  puslapiai: "p. 713 (PDF 714)"
+  indeksas: "unknown, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio valsčiaus liaudies architektūra, p. 713 (PDF 714)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225912
+
+- id: c-206429
+  autorius: "unknown"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio valsčiaus liaudies architektūra"
+  puslapiai: "p. 714 (PDF 715)"
+  indeksas: "unknown, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio valsčiaus liaudies architektūra, p. 714 (PDF 715)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225913

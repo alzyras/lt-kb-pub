@@ -78,5 +78,26 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200522
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
+  citata_originali: |
+    Toje
+    vietoje būna įkaltas stulpelis ir ant jo padėtas pinigas. Raite­
+    liai nuo tam tikros vietos leidžiasi lenktynių stulpelio link; tas,
+    kuris prijos pirmasis ir paims pinigą, pelno nemenką šlovę. Jis
+    nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš
+    akių; kiti lydi mirusįjį iki laidojimo vietos. Šios lenktynės yra
+    dalis triznos papročio, žmonių pamėgdžiojamo ir mūsų istori­
+    ko pastebėto.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

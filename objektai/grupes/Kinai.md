@@ -29,26 +29,6 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
 
 ## Teiginiai
 
-<a id="claim-t-189493"></a>
-- t-001
-  teiginys: "Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymus, papročius ir visuomenės gyvenimo smulkmenas."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Indai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kinai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Indai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kinai\" parinktas kaip owner_note_path. Targetas \"Indai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172381
-
 <a id="claim-t-194568"></a>
 - t-002
   teiginys: "Senovės isto rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai, egiptiečiai, izraelitai, persai, graikai dūsauja prisimindami ge resnę praeitį - visų padavimai primena palaimingus dar nesu gadintos prigimties laikus."
@@ -61,6 +41,18 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-176968
+
+<a id="claim-t-217803"></a>
+- t-217803
+  teiginys: "Seniausios žemės tautos - indai ir kinai savo tautiškumo svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve nimo smulkmenų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200104
 
 ## Citatos
 
@@ -87,8 +79,6 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-176968
   autorius: "Teodoras Narbutas"
@@ -108,5 +98,44 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-200104
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 79."
+  citata_originali: |
+    Seniausios žemės tautos - indai ir kinai savo tautiškumo
+    svarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­
+    nųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­
+    nimo smulkmenų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217803
+
+- id: c-200892
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 81."
+  citata_originali: |
+    Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
+    rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,
+    egiptiečiai, izraelitai, persai, graikai dūsauja prisimindami ge­
+    resnę praeitį - visų padavimai primena palaimingus dar nesu­
+    gadintos prigimties laikus. Senovės filosofų devizas buvo šie
+    žodžiai: aurea prima sata ėst aetas - pirmasis gimė aukso am­
+    žius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

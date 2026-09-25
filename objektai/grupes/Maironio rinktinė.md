@@ -98,7 +98,7 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44815
@@ -120,5 +120,5 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

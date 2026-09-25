@@ -79,5 +79,5 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

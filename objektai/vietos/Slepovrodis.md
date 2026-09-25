@@ -111,5 +111,5 @@ Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasida
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

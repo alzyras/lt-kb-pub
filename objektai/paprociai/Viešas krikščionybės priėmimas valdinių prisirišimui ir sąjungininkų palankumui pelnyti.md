@@ -86,9 +86,10 @@ Nenurodyta
     krikščionybę.
   citata_rodoma: "Jau­\nnuoliai, sėkmingai baigę žygį į priešų šalį, užgrobė\nreikšmingus Rusios miestus, o pažinę savarankiško\n98\n\n## Puslapis 97\n\nvaldymo skonį, nebenorėjo kęsti dėdės jungo. Drucką\nir dalį Smolensko gavo Erdivydas, Vitebską — Vykin­\ntas, Polocką — Tautvilas. Norėdami savo valdinius la­\nbiau prie savęs prisirišti, jie viešai priėmė šventąją\nkrikščionybę."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

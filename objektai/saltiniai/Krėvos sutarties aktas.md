@@ -49,3 +49,42 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207702"></a>
+- t-001
+  teiginys: "1385 m. rugpjūčio 14 d. į Krėvos pilį atvykę lenkai pateikė parengtą sutarties dokumentą, su kurio turiniu sutiko Jogaila."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta, kad į pilį atvykusi lenkų delegacija turėjo parengtą dokumentą, o ne kad jis būtinai buvo parengtas pačioje pilyje. Išlaikyti dokumento pateikimas ir Jogailos sutikimas."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190319
+
+## Citatos
+
+- id: c-190319
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 114"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 114."
+  citata_originali: |
+    Krėvos sutartis
+    1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai, regis, jau turėjo
+    parengtą sutarties dokumentą. Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas
+    ir į istoriją įėjo Krėvos sutarties vardu.
+  citata_rodoma: "1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai, regis, jau turėjo \nparengtą sutarties dokumentą. Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas \nir į istoriją įėjo Krėvos sutarties vardu."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

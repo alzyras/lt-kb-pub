@@ -76,18 +76,6 @@ Johanas Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės ž
   pagrindžia:
     - c-174164
 
-<a id="claim-t-197760"></a>
-- t-003
-  teiginys: "Johanas Fosas keliavęs du kartus: pirmą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-174163
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Johanas Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės žiotis.'
@@ -129,9 +117,8 @@ Johanas Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-003
 
 - id: c-174164
   autorius: "Teodoras Narbutas"
@@ -150,5 +137,24 @@ Johanas Fosas teigė, kad Pitėjas pasiekė tik Reiną arba daugiausia Elbės ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197334
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  citata_originali: |
+    Kiek čia nepatikimumo!2
+    Fosas, visuomet neigęs Pitėjo lankymąsi Baltijos jū­
+    roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
+    Amelandu. Jam rūpėjo įrodyti, jog romėnų kariai rinkę
+    gintarą, todėl jis teigė, jog jo buvo turtinga visa vaka­
+    rinė Europos pakrantė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

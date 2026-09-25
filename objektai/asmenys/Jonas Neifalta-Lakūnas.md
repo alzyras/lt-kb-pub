@@ -126,7 +126,7 @@ canonical_biography: "“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-76150
@@ -148,10 +148,11 @@ canonical_biography: "“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lie
     Aleksandro Podemansko - Šarūno.
   citata_rodoma: "Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš\nakis galimas partizanų negailestingas sankcijas.“\n\nPartizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos\nkariuomenės ulonų puskarininkio Jono\nNeifalto- Lakūno ir jam talkinančio\n\nAleksandro Podemansko - Šarūno."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

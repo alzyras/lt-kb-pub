@@ -51,37 +51,29 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-62821"></a>
-- t-001
-  teiginys: "1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "puole -> Karšuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Konradas su kariuomene tiesiogiai įsiveržė į Karšuvos žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "pastatymo data: 1303 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos duomenis."
-  pagrindžia:
-    - c-63636
-
-<a id="claim-t-194393"></a>
-- t-002
-  teiginys: "Apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas."
-  atnaujinta: "2026-07-12 22:31"
+<a id="claim-t-221231"></a>
+- t-221231
+  teiginys: "1303 m. žiemą Konradas su didele kariuomene įsiveržė į Karšuvos žemę."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-63636
+    - c-205525
+
+<a id="claim-t-222607"></a>
+- t-222607
+  teiginys: "1307 m. Folradas pasiuntė Hildebrandą iš Rebergo kariauti prieš Karšuvos kariuomenę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202591
 
 ## Citatos
 
@@ -104,6 +96,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-63636
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -123,6 +116,42 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+
+- id: c-202591
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 200-201"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 200-201."
+  citata_originali: |
+    Brolis Folčas, arba Folradas, Ragainės komtūras, išgirdęs, jog karšuviai išžygiavo su
+    kariuomene prieš Klaipėdos brolius, įsakė broliui Hildebrandui iš Rebergo traukti į karą
+
+    prieš juos; šis, pasiėmęs keletą brolių ir 80 karių, įsiveržė į minėtąją Karšuvos žemę, iš
+    kur, daug ką sudeginęs bei apiplėšęs, išsivarė 70 belaisvių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222607
+
+- id: c-205525
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
+  citata_originali: |
+    Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į
+    Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į
+    saugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,
+    sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221231

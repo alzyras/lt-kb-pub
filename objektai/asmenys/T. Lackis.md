@@ -86,7 +86,7 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44530
@@ -110,5 +110,5 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

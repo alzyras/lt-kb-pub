@@ -91,7 +91,7 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-35477
@@ -104,11 +104,12 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
     Rakšties, RAKŠTYS. Satyros ir juokai. 96 pusl. Kaina Lt. 2, —
     Čia yra labai aštrios mūsų dienų satyros.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-35478
@@ -130,5 +131,5 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

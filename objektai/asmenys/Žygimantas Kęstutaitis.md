@@ -280,22 +280,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   pagrindžia:
     - c-180491
 
-<a id="claim-t-198517"></a>
-- t-015
-  teiginys: "Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, ėjo į Trakus."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Perrašyta trumpiau ir pašalintos citatinės formuluotės, paliekant citatos pagrįstus faktus."
-  susije_objektai: "llm_object: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija"
-  semantiniai_rysiai: "[[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] keliavo į Trakai"
-  temporaliniai_duomenys: "įvykio data: 1435 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta trumpiau ir pašalintos citatinės formuluotės, paliekant citatos pagrįstus faktus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180481
-
 <a id="claim-t-198520"></a>
 - t-016
   teiginys: "1440 m. balandį Žygimantas Kęstutaitis buvo sąmokslininkų nužudytas Trakų pilyje."
@@ -311,31 +295,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-180483
-
-<a id="claim-t-198525"></a>
-- t-017
-  teiginys: "Narbutas aprašė, kad 1436 m. Žygimanto Kęstutaičio didžiajame antspaude buvo keturi herbiniai skydai, tarp jų Lietuvos Vytis."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Išskleistas antspaudo kontekstas ir pašalinti OCR bei nutrūkusio sakinio fragmentai. Heraldinė interpretacija palikta su Narbuto atribucija, nepridedant duomenų už citatos ribų."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/Priesaika|Priesaika]]; mentioned_place: Lenkija; mentioned_place: Starodubas; mentioned_place: Trakai; mentioned_place: Volynė"
-  temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: 1436 m.; įvykio data: 1432 m.; įvykio data: 1436 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas antspaudo kontekstas ir pašalinti OCR bei nutrūkusio sakinio fragmentai. Heraldinė interpretacija palikta su Narbuto atribucija, nepridedant duomenų už citatos ribų."
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180479
 
 <a id="claim-t-198526"></a>
 - t-018
@@ -434,18 +393,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   pagrindžia:
     - c-168281
 
-<a id="claim-t-203571"></a>
-- t-026
-  teiginys: "Lietuvos metraštyje pasakojama, kad Verbų sekmadienį Aleksandrui Čartorijskiui ir Skabeikai įvažiavus į Trakų pilį, kunigaikščio Žygimanto sūnus buvo išėjęs iš pilies į bažnyčią, o pats Žygimantas klausė mišių pilies miegamajame."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176649
-
 <a id="claim-t-205254"></a>
 - t-027
   teiginys: "Narbutas teigia, kad didysis kunigaikštis Žygimantas paėmė Manvydui priklausiusį Graužiškių dvarą iždo žinion ir Manvydą nužudė už dalyvavimą Švitrigailos partijoje."
@@ -458,6 +405,103 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
   pagrindžia:
     - c-187696
+
+<a id="claim-t-184920"></a>
+- t-184920
+  teiginys: "Jonas su keliais vyrais įsiveržė į Žygimanto Kęstutaičio miegamąjį, partrenkė valdovą ir prisidėjo prie jo nužudymo."
+  atnaujinta: "2026-09-19 04:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Jonas įsiveržė į valdovo miegamąjį ir partrenkė Žygimantą, todėl tai tiesioginis puolimo ryšys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-168281
+    - c-178831
+
+<a id="claim-t-198508"></a>
+- t-198508
+  teiginys: "1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje."
+  atnaujinta: "2026-09-19 04:42"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata palaiko faktą, bet teiginį reikia išvalyti nuo OCR ir puslapio triukšmo."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/knechtas|knechtas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Smolenskas; mentioned_place: Trakai"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet teiginį reikia išvalyti nuo OCR ir puslapio triukšmo."
+  ryšio_patikimumas: "pastate -> Pabaiskas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pabaiskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Bažnyčia nurodyta esanti Pabaiske, bet atskiro bažnyčios objekto nėra, todėl ryšys nukreiptas į vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-180480
+    - c-180493
+
+<a id="claim-t-198514"></a>
+- t-198514
+  teiginys: "Lenkai paragino Žygimantą Kęstutaitį griebtis ginklo prieš Boleslovą ir pažadėjo jam pagalbą bei Lietuvos Didžiąją Kunigaikštystę už pergalę."
+  atnaujinta: "2026-09-19 04:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-168276
+    - c-168279
+
+<a id="claim-t-198523"></a>
+- t-198523
+  teiginys: "1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė."
+  atnaujinta: "2026-09-19 04:42"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "llm_object: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; llm_object: Trakai; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius"
+  semantiniai_rysiai: "[[objektai/asmenys/Mykolas|Mykolas]] buvo sūnus [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] mirė Trakai"
+  temporaliniai_duomenys: "įvykio data: 1440 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-180484
+    - c-180492
+
+<a id="claim-t-212009"></a>
+- t-212009
+  teiginys: "Didysis kunigaikštis Žygimantas, valdydamas Vilnių ir Trakus bei visas rusų, ir lietuvių, ir že maičių žemes, buvo nuožmus savo valdiniams, o ypač bajorų luomui; be gailesčio suiminėjo ir žiauriai kan kino, nekaltus baudė ir žudė kankinimais, kokius tik."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193759
+
+<a id="claim-t-217136"></a>
+- t-217136
+  teiginys: "Žygimanto Kęstutaičio didžiajame antspaude, prikabintame prie 1436 metų rašto, buvo keturi herbiniai skydai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200327
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -637,11 +681,12 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m. Kazimierui.
     S *Ė - Pabaisko mūšyje Livonijos Suomijos įlanka ) | Jogailaičiui.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-024
 
@@ -664,6 +709,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-105268
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -687,7 +733,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-168276
@@ -714,9 +760,10 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-009
+    - t-198514
 
 - id: c-168277
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -743,7 +790,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-168279
@@ -771,9 +818,10 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
+    - t-198514
 
 - id: c-168280
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -802,11 +850,12 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     širdis kieta ir žiauri, ir dėl to pranašavo, kad, jam val­
     dant, prasidės tikrai baisi tironija, kurios ir baisėjosi.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-168281
@@ -827,9 +876,10 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-025
+    - t-184920
 
 - id: c-176649
   autorius: "Anoniminis metraštininkas"
@@ -853,9 +903,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
-    - t-026
 
 - id: c-177125
   autorius: "Teodoras Narbutas"
@@ -878,7 +927,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-178831
@@ -902,8 +951,9 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+    - t-184920
 
 - id: c-178833
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -937,6 +987,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180474
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -956,6 +1007,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180479
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -978,8 +1030,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-017
 
 - id: c-180480
   autorius: "Michał Baliński"
@@ -1001,6 +1051,9 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-198508
+
 - id: c-180481
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1019,8 +1072,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
 
 - id: c-180483
   autorius: "Michał Baliński"
@@ -1042,7 +1093,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-180484
@@ -1067,6 +1118,9 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-198523
+
 - id: c-180487
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1088,6 +1142,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180488
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -1112,6 +1167,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180489
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1132,7 +1188,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-018
 
@@ -1156,7 +1212,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-180491
@@ -1178,7 +1234,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-180492
@@ -1203,6 +1259,9 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-198523
+
 - id: c-180493
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1223,6 +1282,9 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-198508
+
 - id: c-184914
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
   puslapiai: "PDF 50"
@@ -1236,7 +1298,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-184915
@@ -1253,7 +1315,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-184916
@@ -1273,7 +1335,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-184917
@@ -1290,7 +1352,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-184918
@@ -1307,7 +1369,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-186024
@@ -1338,7 +1400,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-186025
@@ -1361,7 +1423,7 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-187696
@@ -1378,8 +1440,53 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
+
+- id: c-193759
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 118-119"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 118-119."
+  citata_originali: |
+    Didysis kunigaikštis Žygimantas, valdyda-
+
+    mas Vilnių ir Trakus bei visas rusų, ir lietuvių, ir že­
+    maičių žemes, buvo nuožmus savo valdiniams, o ypač
+    bajorų luomui; be gailesčio suiminėjo ir žiauriai kan­
+    kino, nekaltus baudė ir žudė kankinimais, kokius tik
+    sugebėjo išgalvoti
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212009
+
+- id: c-200327
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 407"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
+  citata_originali: |
+    Lietuvos didžiojo kunigaikščio Žygimanto Kęstutaičio di­
+    džiajame antspaude, įspaustame vaške ir prikabintame prie
+    autentiško 1436 metų rašto (mačiau tikslų antspaudo piešinį),
+    yra keturi herbiniai skydai; viename, kurį kaire ranka laiko
+    kunigaikštis, sėdintis soste su kalaviju dešinėje rankoje, pa­
+    vaizduotas Lietuvos Vytis; tai visos Lietuvos herbas. Antrame
+    skyde - bėgantis lokys, nugręžtas į dešiniąją skydo pusę; tai
+    tėvoninės Žemaičių kunigaikštystės herbas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217136
 
 ## Ryšiai
 - Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į [[objektai/vietos/Trakai]]

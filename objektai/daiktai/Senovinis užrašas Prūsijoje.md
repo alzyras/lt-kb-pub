@@ -70,5 +70,5 @@ Sį pavadinimą senovės tyrinėtojai aptiko senoviniame už raše, kurį rado P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

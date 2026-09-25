@@ -85,5 +85,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200357
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 297."
+  citata_originali: |
+    Apie tai kalbėsime straipsnyje
+    „Burtai“.
+    Putonys (Puttones)
+    Buvo pranašautojai, nusakantys ateitį iš stebimo vandens,
+    ypač pagal jo ūžimą arba putas. Tačiau šias pareigas gerbti-
+    niausiomis visuomenėje laikė todėl, kad jų priedermė buvo
+    sutaikyti priešus ir susipykusius bet kurio luomo žmones.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

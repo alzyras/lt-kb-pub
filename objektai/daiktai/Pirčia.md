@@ -77,5 +77,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192823
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 73"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 73."
+  citata_originali: |
+    Ašmasis trobesys buvo vadinamas pirčia; pačioj pirty buvo krosnis, pusėj sienų buvo plautai,
+        nuo žodžio plauti, suolai, ant kurių voliodamies su lapuotomis beržinėmis vantomis pėrės,
+        žemiau pasieniais taip pat buvo suolai, ant kurių mazgojos ir trinkos; į kurias pirtis vedė ne vien
+        svečius ir pakeleivingus, bet siuntinius svetimų tautų: kaipogi senovėj visų didžiausia goda buvo
+        svetį į pirtį nuvesti ir išperdinti, nesgi pirtį žmogui susikeliavusiam už didžiai naudingą ir
+        reikalingą daiktą turėjo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

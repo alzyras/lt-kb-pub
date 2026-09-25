@@ -61,6 +61,16 @@ Nenurodyta
   pagrindžia:
     - c-62830
 
+<a id="claim-t-225330"></a>
+- t-225330
+  teiginys: "1307 metais hospitaljerai užėmė Rodo salą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-62830
@@ -79,5 +89,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -64,19 +64,6 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
   pagrindžia:
     - c-174423
 
-<a id="claim-t-194877"></a>
-- t-002
-  teiginys: "Mongolų karvedžiai skubėjo užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau 1 Stender Gotthard Friedrich."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177273
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.'
@@ -133,7 +120,7 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177273
@@ -158,5 +145,3 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

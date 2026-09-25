@@ -56,5 +56,5 @@ Tegul žino Pa celi, kad lietuviai ir be jo malonės gali priei ti prie šv.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

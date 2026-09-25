@@ -93,5 +93,5 @@ canonical_biography: "Škirpos, įkalinus jį „namų arešte“, birželio 23 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -70,5 +70,5 @@ Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

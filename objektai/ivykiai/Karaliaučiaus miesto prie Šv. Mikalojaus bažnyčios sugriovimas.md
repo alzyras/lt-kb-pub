@@ -84,5 +84,5 @@ Sembai netikėtai užpuolė ir visiškai sugriovė prie Šv. Mikalojaus bažnyč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -242,6 +242,98 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   pagrindžia:
     - c-188097
 
+<a id="claim-t-212762"></a>
+- t-212762
+  teiginys: "Labai senos yra venedų gentys, bet nėra tvirtų žinių apie tikrą jų kilmę arba giminę, nes ne mažai žemių įvairiuose Europos kraštuose buvo vadina mos venediškomis; čia dažnai gyveno įvairios kilmės tau tos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195813
+
+<a id="claim-t-213536"></a>
+- t-213536
+  teiginys: "Herodoto budinai buvo venedų tauta."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195324
+
+<a id="claim-t-213845"></a>
+- t-213845
+  teiginys: "Narbutas teigia, kad budinai įsiterpė tarp venedų ir slavų gyvenamųjų vietovių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196508
+
+<a id="claim-t-213987"></a>
+- t-213987
+  teiginys: "Venedai tą kraštą vadino Ulmigeria, o jo gyventojus – Ulmigeri."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195757
+
+<a id="claim-t-214415"></a>
+- t-214415
+  teiginys: "Venedų karalius Skalka buvo sumuštas ir krito mūšio lauke."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197115
+
+<a id="claim-t-214480"></a>
+- t-214480
+  teiginys: "Narbutas pasakoja, kad Bitinijos keliautojai per venedų ir alanų žemes pateko į Livoniją."
+  atnaujinta: "2026-09-19 09:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Venedai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Venedai\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-197582
+
+<a id="claim-t-222892"></a>
+- t-222892
+  teiginys: "Dusburgietis pasakoja, kad venedai po prieš imperiją sukelto maišto buvo smarkiai sutramdyti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204304
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas sieja Venedijos vardą su lygumų ir pelkynų kraštu, nuo kurio, jo aiškinimu, slavai vadinti venedų tauta.'
@@ -334,7 +426,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82753
@@ -366,7 +458,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175274
@@ -384,7 +476,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-175275
@@ -405,7 +497,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175276
@@ -440,7 +532,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-009
 
@@ -465,7 +557,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-175278
@@ -487,7 +579,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-179232
@@ -513,7 +605,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-179233
@@ -540,7 +632,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-184280
@@ -561,7 +653,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-188097
@@ -589,8 +681,232 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
+
+- id: c-194538
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 303."
+  citata_originali: |
+    Taip apie IV amžiaus vidurį gotų valdžia paplito
+    iki Baltijos jūros. Iš ankstesnio šios temos dėstymo ži­
+    nome, kad tuo metu prie šios jūros gyveno venedai, sla­
+    vai ir estai lietuviai arba visos šiuo bendriniu vardu va­
+    dinamos lietuvių genties tautos. Pirmųjų jau buvo labai
+    daug, nors jie gal vėliau negu kiti apsigyveno prie Bal­
+    tijos jūros. Taip pat, pasikliaudami galia savo ginkluotų
+    žmonių, kurių labai daug galėjo išvesti į kovos lauką,
+    mėgino priešintis galingo karaliaus žygiams; bet jis,
+    pasiuntęs gausius ginkluotų žmonių būrius, pirmiausia
+    išmintingais politiniais žygiais pelnė palankumą ir nuo­
+    lankumą estų, beje, nepernelyg patenkintų galingų vene-
+    dų kaimynyste, o vėliau lengvai įvedė savo valdžią.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195324
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 14"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 14."
+  citata_originali: |
+    Herodoto budinai buvo venedų tauta
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213536
+
+- id: c-195387
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  citata_originali: |
+    Senovės tyrinėtojai ne­
+    abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
+    mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­
+    stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,
+    Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie
+    jūros skubančio Nemuno vaga atvedė iki žygio j vakarus
+    pabaigos. Tad Nemuno žemupio pakrantes visų pirma de­
+    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
+    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195757
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
+  citata_originali: |
+    Jie keliavo per ją skersai ir išilgai, bet ne­
+    nesugebėjo su niekuo susikalbėti, galop sutiko kelis iš
+    Sarmatijos atvykusius venedus, kurių kalbą galėjo šiek
+    tiek suprasti. Venedai tą kraštą vadino Ulmigeria, o te­
+    nykščius žmones — Ulmigeri.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213987
+
+- id: c-195813
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 96."
+  citata_originali: |
+    Labai senos yra venedų gentys, bet
+    nėra tvirtų žinių apie tikrą jų kilmę arba giminę, nes ne­
+    mažai žemių įvairiuose Europos kraštuose buvo vadina­
+    mos venediškomis; čia dažnai gyveno įvairios kilmės tau­
+    tos. Iš to atsirado įvairių išvadų, abejotinų nuomonių ir
+    skirtingų pavadinimų. Istorikai įvairiai rašo šį pavadini­
+    mą: Heneti, Veneti, Veniti, Vendi, Benedi, Vitiidi, Vinuli,
+    Vinidari, Vidivarii.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212762
+
+- id: c-196278
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 488"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
+  citata_originali: |
+    Lotynų kalbą slavai venedai ir lietuviai var­
+    tojo kaip diplomatinę kalbą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196297
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 487"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 487."
+  citata_originali: |
+    Nedailus, vos galima suprasti, jog tai raitelis su sa­
+    kalu. Raidės užrašytos ratu: lotyniškas užrašas, venedų runomis,
+    pagal mano aiškinimą: l MM3 1 : S'k8>bP<^f> .’I*
+    HrlT
+    ĄĄŪ
+    Ų/nmolavit Saifiborius dux ¡\rucho olitori). To dievaičio
+    vardo užrašė raidė „o“ yra įterpta į vidurį, o ne į pabaigą, va­
+    dinasi, yra Koruch vietoj Krucho, o vietoje raidės „ch“, kuri ne­
+    buvo žinoma venedų runų abėcėlėje, buvo naudojama dviguba
+    „gg“ (11), kurios, sujungtos j vieną raidę ^ , skaitoma kaip ,,CH“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196508
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  citata_originali: |
+    Taigi jau pastebime lietuvių tautos protėvius, turė­
+    jusius santykius su Venedų jūra. Senovės tyrinėtojai ne­
+    abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
+    mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­
+    stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,
+    Dauguvos, — tai nedvejodamas pasakoja
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213845
+
+- id: c-197115
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
+  citata_originali: |
+    Jis įsiveržė
+    į slavų kraštą; venedų karalius Skalka buvo sumuštas ir
+    krito mūšio lauke, o jo kraštas pateko į priešų rankas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214415
+
+- id: c-197582
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
+  citata_originali: |
+    Venedai tą kraštą vadino Ulmigeria, o te­
+    nykščius žmones — Ulmigeri. Tad jų padedami tęsė savo
+    tyrinėjimus. Tas kraštas buvo visiškai laukinis, jame ne­
+    buvo nei miestų, nei kaimų, nei jokių tvirtai suręstų namų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214480
+
+- id: c-204304
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  citata_originali: |
+    Kai venedai buvo smarkiai sutramdyti  po maišto, sukelto
+    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
+    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
+    ruožtu į Prūsijos kraštą, į Elbingo pilį
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222892
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Skalka]]

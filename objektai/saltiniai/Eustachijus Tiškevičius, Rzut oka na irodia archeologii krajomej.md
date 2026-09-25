@@ -81,7 +81,7 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179289
@@ -102,5 +102,25 @@ Eustachijus Tiškevičius kasinėjo Lietuvos Rusioje, Borisovo apskrityje. Kurš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196495
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 385."
+  citata_originali: |
+    Sis darbas tikriausiai yra vienas žymiau­
+    sių ir dėl jame išdėstytų naujų faktų, ir dėl apimties. Ant­
+    ra vertus, beveik visoje Siaurės Europoje tai šen, tai ten
+    randami tokių kapaviečių pėdsakai. Kurše, Infliantuose ir
+    Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
+    sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
+    čius3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

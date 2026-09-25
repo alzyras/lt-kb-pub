@@ -123,7 +123,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59078
@@ -147,7 +147,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59079
@@ -170,5 +170,50 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-201670
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 151."
+  citata_originali: |
+    D. aprašomos castrum Cameniswikam (Kampsvykių) pilies ieškoma ir gerokai toliau
+    į pietus, kur ji tapatinama su Kamantų (Kamanten) piliakalniu kair. Vangrapės krante
+    per 3 km į šiaurę nuo Darkiemio (dab. Oziorskas; HE, p. 65; CV, t. 33, p. 270)„ netoli
+    kurio teka Vyko upelis, deš. Vangrapės intakas. Vis dėlto čia greičiausiai buvęs XIV a.
+    pabaigos kelių aprašyme (SRP, 2, p. 689) minimas Caniswig (Mortensen H., Mortensen
+    G., Die Besiedlung.., 2, p. 78—80). Arsos upelis ir čia nežinomas, tik spėjamas, kaip ir
+    prie mūsų minėtų Tamoviškių. Pastarųjų pirminė forma Cammow bei išlikę vietovardžiai
+    leistų, mūsų nuomone, Dusburgiečio aprašytos pilies vietą sieti su vėlesne kryžiuočių
+    Tamoviškių pilimi į rytus nuo Įsruties. Problemą patikslintų archeologiniai tyrimai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202236
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 151."
+  citata_originali: |
+    Todėl nadruviai, nors turėjo
+    daugybę karių ir nemaža įtvirtinimų, paliovė rodę laukinę narsą ir pasidavė tikėjimui bei
+    broliams, išskyrus nedaugelį, kurie pasitraukė į Lietuvos žemę; šitaip Nadruvos žemė po
+
+      463  D.—  castrum  Cameniswikam,  Jer.—  vestine   [...]  Kameinswikin;  vėliau
+    Kamswicusberg. Į rytus nuo Įsruties (dab. Černiachovskas), deš. Vangrapės krante,
+    upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių..,
+    p. 190—191), per 400 m į pietus nuo Tamoviškių. Čia lokalizuojama 1275 m. sunaikinta
+    nadruvių pilis (HE, p. 161; CV, t. 34, p. 129) bei vėlesnė Ordino Tamoviškių pilis (1366
+    m.— Cammow, 1371 m. ir vėliau — Tammow — SRP, 2, p. 557, 570, 578, 581).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

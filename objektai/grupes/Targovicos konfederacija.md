@@ -99,6 +99,44 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   pagrindžia:
     - c-166328
 
+<a id="claim-t-208020"></a>
+- t-208020
+  teiginys: "Vien žinojimo, kad asmuo priklausė konfederacijai, nepakako kaltinimui pagrįsti."
+  atnaujinta: "2026-09-20 06:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190634
+
+<a id="claim-t-208185"></a>
+- t-208185
+  teiginys: "Su Targovicos konfederacijos šalininkais buvo aiškinamasi ilgai, nes trūko dokumentų jų kaltėms patvirtinti."
+  atnaujinta: "2026-09-20 06:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190700
+
+<a id="claim-t-208190"></a>
+- t-208190
+  teiginys: "Targovicos konfederacijos pertvarkymai 1791 m. rugpjūčio 18 d. palietė centrinę iždo administraciją."
+  atnaujinta: "2026-09-20 06:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190638
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.'
@@ -143,7 +181,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -164,6 +202,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-166328
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -182,5 +221,67 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190634
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 160"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 160."
+  citata_originali: |
+    Manome, kad tai yra tas pats sąrašas, kurj pateikia Hcnrykas Mościckis, žr. Henryk Mościcki,
+    op. cit., p, )79-з8о.
+    nis", kurie, „visuomenės nuomone, yra akivaizdūs tautos išdavikai", stoti prieš
+    Kriminalinį teismą, o Iždo deputacijai leisti perimti į iždą šiij asmenų turtą'°.
+    Tačiau vien žinojimo, kad asmuo priklausė konfederacijai, nepakako.
+  citata_rodoma: "Tačiau vien žinojimo, kad asmuo priklausė konfederacijai, nepakako."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208020
+
+- id: c-190638
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 142"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 142."
+  citata_originali: |
+    Targovicos konfederacija Lenkijoje jau 1791 m.
+    liepos mėnesį nurodė Iždo, Karo, Edukacijos ir Policijos komisijų bei Užsienio
+    reikalų departamento nariams prisiekti konfederacijai. Neprisiekusieji neteko
+    teisės eiti savo pareigas. 1791 m. rugpjūčio 18 d. Targovicos konfederacijos per­
+    tvarkymai palietė ir centrinę iždo administraciją: buvo panaikinta ir {statymų
+    sargyba, ir Abiejų Tautų iždo komisija.
+  citata_rodoma: "1791 m. rugpjūčio 18 d. Targovicos konfederacijos per­\ntvarkymai palietė ir centrinę iždo administraciją:"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208190
+
+- id: c-190700
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 159"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 159."
+  citata_originali: |
+    Pirmuoju teisiamuoju, dar už Iki sukilimo padarytus nusikaltimus, tapo
+    S. Kosakovskis. Vos tik įsteigto PCrimlnalinio teismo sprendimu" jis buvo pakartas
+    balandžio 15 d. Vilniaus rotušės aikštėje". Su kitais Targovicos konfederacijos
+    šalininkais buvo aiškinamasi kur kas ilgiau, nes per trumpą laiką surinkti kaltės
+    įrodymus nebuvo taip paprasta, kadangi trūko dokumentų, kuriais būtų galima
+    patvirtinti targovlcinlnkų kaltę.
+  citata_rodoma: "Su kitais Targovicos konfederacijos \nšalininkais buvo aiškinamasi kur kas ilgiau, nes per trumpą laiką surinkti kaltės \nįrodymus nebuvo taip paprasta, kadangi trūko dokumentų, kuriais būtų galima \npatvirtinti targovlcinlnkų kaltę."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208185

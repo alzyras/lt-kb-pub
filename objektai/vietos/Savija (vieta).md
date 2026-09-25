@@ -70,5 +70,5 @@ Prie Savos ir Dravos upių plytėjusi Panonijos dalis buvo vadinama Savija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

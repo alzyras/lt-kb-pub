@@ -88,5 +88,5 @@ Lietuviai, apiplėšę visą tą provinciją, prieš naktį susibūrė Anonos ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

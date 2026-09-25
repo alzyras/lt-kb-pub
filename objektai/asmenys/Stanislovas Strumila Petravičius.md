@@ -106,7 +106,7 @@ Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169527
@@ -132,5 +132,5 @@ Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

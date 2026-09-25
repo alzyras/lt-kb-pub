@@ -45,23 +45,6 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 
 ## Teiginiai
 
-<a id="claim-t-60116"></a>
-- t-001
-  teiginys: "Ragainės komtūras Folradas, gavęs Draikos prašymą, su kariuomene patraukė prieš Aukaimio pilį."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Aukaimis: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Folradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukaimis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Folradas su kariuomene patraukė prieš Aukaimio pilį, tad puolimo ryšys tiesiogiai pagrįstas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Folradas puolė Aukaimis (0.94)"
-  pagrindžia:
-    - c-60748
-
 <a id="claim-t-205673"></a>
 - t-002
   teiginys: "Teodoras Narbutas vaizduoja Ragainės komtūrą Folradą kaip penkerius metus plėšikavusį ir plėšrūniškai kariauti įgudusį vadą."
@@ -74,6 +57,16 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
   pagrindžia:
     - c-188288
+
+<a id="claim-t-221050"></a>
+- t-221050
+  teiginys: "Folradas prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio žengti, nors jį ir smarkiai ragino pentinais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -121,8 +114,6 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-188288
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -144,7 +135,7 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

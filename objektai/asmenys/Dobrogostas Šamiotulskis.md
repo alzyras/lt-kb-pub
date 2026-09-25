@@ -65,5 +65,5 @@ Teodoras Narbutas pabrėžia, kad didysis kunigaikštis ir Švitrigaila liko gyv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

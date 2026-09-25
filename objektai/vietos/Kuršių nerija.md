@@ -45,25 +45,6 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 
 ## Teiginiai
 
-<a id="claim-t-58580"></a>
-- t-001
-  teiginys: "1283 m. žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė du valsčius."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuršiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kuršių nerija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuršių nerija\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1283 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata apie 1283 m. žygį."
-  pagrindžia:
-    - c-59213
-
 <a id="claim-t-58581"></a>
 - t-002
   teiginys: "Ordino lotyniškuose dokumentuose vardu Neria iš pradžių vadinta tik Aismarių nerija."
@@ -91,6 +72,30 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184972
+
+<a id="claim-t-213674"></a>
+- t-213674
+  teiginys: "Pirmosios liekanų dabar yra vadinamojoje Kur šių nerijoje, o antrosios liekanos — tos pačios nerijos pietinė dalis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196879
+
+<a id="claim-t-220348"></a>
+- t-220348
+  teiginys: "Kuršių nerijoje prie sūriosios jūros pakrantės buvo pastatyta Noihauzo pilis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201686
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -128,7 +133,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59213
@@ -149,8 +154,6 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-184972
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -168,5 +171,56 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-196879
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 183"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 183."
+  citata_originali: |
+    Pirmosios liekanų dabar yra vadinamojoje Kur­
+    šių nerijoje, o antrosios liekanos — tos pačios nerijos
+    pietinė dalis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213674
+
+- id: c-201686
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170."
+  citata_originali: |
+    pastatydino nerijoje, sūriosios jūros pakrantėje, stiprią pilį,
+    kuri buvo vadinama Noihauzu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220348
+
+- id: c-201922
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
+  citata_originali: |
+    509  D.— per Neriam Curoniensem, iri dicta Neria, Jer.— dî kûrîsche Nerge, kûrschin
+    Nerge. Ordino lotyniškuose dokumentuose nerija (Neria) iš pradžių vadinta tik Aismarių
+    nerija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

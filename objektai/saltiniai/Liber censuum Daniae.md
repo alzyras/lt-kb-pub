@@ -71,5 +71,23 @@ Dusburgietis teigia, kad tai rodo Liber censuum Daniae žemių sąrašas, sudary
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205477
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
+  citata_originali: |
+    Dėl Danijos antpuolių baltiškasis pajūris,
+    be kita ko, Semba ir Skalva, buvo patekęs į tam tikrą pavaldumą Danijai. Tai rodo
+    Liber censuum Daniae žemių sąrašas, sudarytas greičiausiai 1231 m. (SRP, 1, p. 737;
+    Powierski J., Stosunki.., p. 139). Vad, Danijos ir Riugeno laivai galėjo pasiekti Ragainę,
+    o pasakojimas apie jų antpuolį — patekti į Dusburgiečio kroniką.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

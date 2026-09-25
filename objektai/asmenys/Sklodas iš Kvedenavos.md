@@ -36,23 +36,6 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
 
 ## Teiginiai
 
-<a id="claim-t-60205"></a>
-- t-001
-  teiginys: "Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Sklodas iš Kvedenavos: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Noliubas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sklodas iš Kvedenavos: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Sklodas tiesiogiai įvardytas Noliubo tėvu, todėl Noliubas yra jo sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Noliubas buvo sūnus Sklodas iš Kvedenavos (0.95)"
-  pagrindžia:
-    - c-60838
-
 <a id="claim-t-60206"></a>
 - t-002
   teiginys: "Sklodas iš Kvedenavos buvo Noliubo tėvas."
@@ -108,7 +91,7 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60838
@@ -135,8 +118,6 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Noliubas]]

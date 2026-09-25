@@ -89,7 +89,7 @@ Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio. Lietuvos ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-203402
@@ -107,7 +107,7 @@ Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio. Lietuvos ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-206214
@@ -125,5 +125,5 @@ Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio. Lietuvos ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

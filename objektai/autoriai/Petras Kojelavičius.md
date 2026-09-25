@@ -143,7 +143,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83993
@@ -166,7 +166,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-83994
@@ -190,7 +190,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83995
@@ -212,5 +212,5 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

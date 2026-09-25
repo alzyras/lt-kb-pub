@@ -163,7 +163,7 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174435
@@ -185,7 +185,7 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174436
@@ -213,6 +213,30 @@ Narbutas rašė, kad Foigto studijose nagrinėta jūros užlieta Vitlandija su k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
+
+- id: c-196259
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 186"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 186."
+  citata_originali: |
+    1669 metais didžiulė audra visiškai išgriovė šio pastato
+    sienas.
+    189
+    Ne mažiau įdomios yra pono Foigto studijos apie pra­
+    dingusią, jūrai užliejus, Vitlandijos žemę, taip pat po tos
+    pačios gamtinės revoliucijos, kuri Memelio vagą pavertė
+    marių dalimi. Tai buvęs tankiai gyvenamas, gana platus
+    kraštas, kur driekėsi nemažai kaimų, Liubeko pirklių pa­
+    statytas uostas, vadinamas Lipsa, ir daug kitų; apie tai
+    rašo šis istorikas savo veikale2, o kiti istorikai apie tai ne­
+    užsimena nė žodžiu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

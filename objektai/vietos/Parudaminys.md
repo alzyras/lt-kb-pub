@@ -84,5 +84,5 @@ Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygand�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

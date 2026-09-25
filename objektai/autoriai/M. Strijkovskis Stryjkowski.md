@@ -375,7 +375,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-157272
@@ -402,7 +402,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-157273
@@ -441,7 +441,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-157274
@@ -472,7 +472,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-157275
@@ -506,7 +506,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-157276
@@ -550,7 +550,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-157277
@@ -602,7 +602,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-157278
@@ -625,7 +625,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-157279
@@ -645,7 +645,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-157280
@@ -668,7 +668,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-157281
@@ -699,7 +699,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-157282
@@ -724,7 +724,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-157284
@@ -764,7 +764,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-157285
@@ -794,7 +794,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-157286
@@ -816,7 +816,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-157287
@@ -875,7 +875,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-157288
@@ -904,5 +904,5 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010

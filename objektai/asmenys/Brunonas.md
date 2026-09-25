@@ -144,6 +144,19 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   pagrindžia:
     - c-188273
 
+<a id="claim-t-220703"></a>
+- t-220703
+  teiginys: "1298 m. Brunonas buvo Livonijos žemės magistras."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-203222
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus.'
@@ -194,7 +207,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-85623
@@ -217,7 +230,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-85624
@@ -248,7 +261,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-168043
@@ -272,7 +285,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -293,7 +306,7 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188273
@@ -316,5 +329,48 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-203222
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
+  citata_originali: |
+    brolis Brunonas, Livonijos žemės magistras,
+    leidęsis pavymui su nedidele kariuomene, jį užpuolė birželio 1 d. pajūryje prie Treiderės
+    upės551, išvadavo iš priešo rankų beveik tris tūkstančius krikščionių ir nukovė aštuonis
+    šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220703
+
+- id: c-203239
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
+  citata_originali: |
+    4. Apie Kristaus karių ordino brolius
+
+      Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
+    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
+    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
+    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
+    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
+    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
+    su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
+      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
+    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

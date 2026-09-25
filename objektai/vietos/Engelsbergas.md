@@ -93,7 +93,7 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167537
@@ -113,5 +113,42 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201980
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
+  citata_originali: |
+    248 Engelsbergas — dab. Pokživnas (Pokżywno, per 8 km į pietryčius nuo Grudziondzo).
+    1222 m. Mazovijos kunigaikštis Konradas perdavė Engelsbergą vyskupui. Kryžiuočių įgula
+    pilyje— nuo 1237 m. Išliko 1278—1339 m. statytos iš akmenų ir plytų pilies griuvėsiai
+    (plačiau žr. Тоерреn M., HCGP, p. 171; SZCh, p. 100—101; Byczko T., Z badań.., p. 153;
+    Mroczko T., Ruch budowlany.., p. 298).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205703
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
+  citata_originali: |
+    Niekad arba beveik niekad netruko čia
+    maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar
+    rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno. Kai kurie vienuoliai,
+    atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
+    kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
+    „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

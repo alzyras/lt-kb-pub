@@ -69,23 +69,6 @@ Nenurodyta
     - c-59883
     - c-167349
 
-<a id="claim-t-59251"></a>
-- t-002
-  teiginys: "Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Hirtshalsas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Notangai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Hirtshalsas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad notangai Hirtshalsą paskyrė aukai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Notangai paskyrė Hirtshalsas (0.86)"
-  pagrindžia:
-    - c-59882
-
 ## Citatos
 
 - id: c-59881
@@ -106,6 +89,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-59882
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -125,8 +109,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-59883
   autorius: "Petras Dusburgietis"
@@ -150,7 +132,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167349
@@ -177,5 +159,69 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202120
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
+  citata_originali: |
+    Vis
+    dėlto, kai grįždamas brovėsi per juos, buvo nukautas, o tarp jų prasidėjo atkakli kova,
+    pareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų. Kadangi
+    tokia buvo dievo valia, krito galop nukautas pats valdovas [..?] iš Reiderio su didžiąja
+    dalimi karių ir brolių, su juo ten drauge buvusių; kai kurie buvo paimti į nelaisvę, o likusieji
+    pasileido bėgti.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204642
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
+  citata_originali: |
+    Po šių skerdynių
+    notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų
+    akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir
+    turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė Herkų Mantą
+    prisiminti patirtas Magdeburgo mieste geradarystes ir išgelbėti jį nuo šitokios nelaimės.
+    Šitai išgirdęs, Herkus, jį užjausdamas, du kartus jį išgelbėjo. Tačiau kai ir trečią kartą
+    burtai jam krito, pats atsižadėjo noro išsigelbėti ir iš pagarbos tikėjimui laisva valia
+    pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:07"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205091
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
+  citata_originali: |
+    Broliai ir maldininkai nutarė, kad viena dalis jų kariuomenės
+    sugrįžtų atgal ir pakartotinai nusiaubtų minėtąją žemę, o kita dalis — paliktų toje pačioje
+    vietoje. Kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės
+    siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį;
+    maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu
+    Štenkelis iš Bentheimo, kuris kadaise patyrė iš vieno vyskupo pamokslo, kad tikinčiųjų,
+    nukautų Prūsijoje, sielos kylančios tiesiai į dangų, aplenkdamos skaistyklą, todėl dabar,
+    paspaudęs savo žirgą pentinais, atstatęs ietį, kaip paprastai daro kariai, įsibrovė į priešo
+    rikiuotę, žudydamas nedorėlius į dešinę ir kairę, o jie krito žemėn vieni čia, kiti ten. Vis
+    dėlto, kai grįždamas brovėsi per juos, buvo nukautas, o tarp jų prasidėjo atkakli kova,
+    pareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

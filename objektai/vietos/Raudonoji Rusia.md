@@ -77,5 +77,5 @@ Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

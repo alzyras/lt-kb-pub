@@ -108,7 +108,7 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-45273
@@ -133,7 +133,7 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167185
@@ -160,7 +160,7 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

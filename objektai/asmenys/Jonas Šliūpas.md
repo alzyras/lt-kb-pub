@@ -1,0 +1,49 @@
+---
+tipas: asmuo
+pavadinimas: 'Jonas Šliūpas'
+saltiniai:
+  - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-4c4a890ffefb426b09a5635f"
+canonical_name: "Jonas Šliūpas"
+entity_roles: ["person"]
+entity_view_role: "person"
+entity_aliases: ["Jonas Šliūpas"]
+sameAs: []
+canonical_biography: "Gyvendamas Amerikoje, Jonas Šliūpas palaikė draugijos veiklą ir rinko aukas."
+---
+# Jonas Šliūpas
+
+## Santrauka
+
+Gyvendamas Amerikoje, Jonas Šliūpas palaikė draugijos veiklą ir rinko aukas.
+
+## Santrauka
+
+Gyvendamas Amerikoje, Jonas Šliūpas palaikė draugijos veiklą ir rinko aukas.
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Gyvendamas Amerikoje, Jonas Šliūpas palaikė draugijos veiklą ir rinko aukas.'
+  šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
+  puslapiai: "p. 789 (PDF 790)"
+  citatos_rezimas: "indeksas"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- t-002

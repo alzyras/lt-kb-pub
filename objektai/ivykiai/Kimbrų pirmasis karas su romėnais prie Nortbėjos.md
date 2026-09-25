@@ -99,5 +99,34 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194898
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
+  citata_originali: |
+    Tačiau esama sunku­
+    mų nustatant datą, kada tai galėjo įvykti: kalbėdamas
+    apie dalykus, susijusius su įvykiais, galėjusiais įvykti
+    daugiau negu šimtmetis prieš naują erą, jis mini 1190
+    metus ir kalba apie tą potvynį, kuris, anot jo pasakoji­
+    mų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3.
+    Strijkovskis neabejotinai taiso šios vietos prieštaravimus
+    ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
+    epochą, vesdamas juos nuo Baltijos jūros pakrančių tie­
+    siai į Ilyriją, kur jie prie Nortbėjos pirmąsyk kariauja su
+    tenykščio prokonsulo Cyras-Karbo** vadovaujamais ro­
+    mėnais; tai įvyko 190 metais prieš Kristaus gimimą4. Iš
+    to išplaukia, kad buvo pastebėta Rozencveigo ar klaidin­
+    gai į egzempliorius, buvusius po ranka Hartknochui ir
+    Pretorijui, o gal ir Strijkovskiui, įrašyta data, tikriausiai
+    prieš skaičių 190 pridėtas vienas vienetas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

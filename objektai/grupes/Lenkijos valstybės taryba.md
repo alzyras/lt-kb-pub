@@ -117,7 +117,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-72548
@@ -144,7 +144,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-72549
@@ -171,7 +171,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-72550
@@ -192,5 +192,5 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

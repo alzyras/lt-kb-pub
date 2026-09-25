@@ -217,15 +217,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - c-78769
 
-<a id="claim-t-54963"></a>
-- t-008
-  teiginys: "Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55321
-
 <a id="claim-t-82283"></a>
 - t-009
   teiginys: "Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus."
@@ -414,7 +405,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-014
 
@@ -437,7 +428,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-55320
@@ -461,7 +452,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-55321
@@ -485,9 +476,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
-    - t-008
 
 - id: c-55322
   autorius: "Michał Baliński"
@@ -519,7 +509,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-55324
@@ -565,6 +555,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-78763
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -584,7 +575,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-78764
@@ -611,7 +602,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-78765
@@ -635,7 +626,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-78766
@@ -660,11 +651,12 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
   citata_rodoma: "229\n\n## Puslapis 246\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nsu Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­\nkreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai \nir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­\ntarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­\ndžiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-009
 
@@ -719,7 +711,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-78768
@@ -746,7 +738,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-78769
@@ -790,11 +782,12 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     sicut expressum est ad tempora vitae suae.
   citata_rodoma: "Amžinai dalykų atminčiai. Šiuo raštu skelbiame \nvisiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­\ndamas į šviesiausiosios karalienės, mūsų brangiausiosios \nžmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir \nnorėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė, \njai dovanojome, užrašėme ir šiuo raštu duodame, užrašome \nir dovanojame tik tam laikui, kol bus gyva, Mogiliavo pilį, \nstovinčią šalia Dniepro upės, su visomis žemėmis, ir kitas \nvaldas, prie šios pilies nuo seno esančias ir jai priklausan­\nčias su žmonėmis ir jų patarnavimais bei darbais, činšais, \npajamomis, mokesčiais - ar grašiais, ar medumi, rinkliavo­\nmis, dvareliais, dirvomis, laukais ir ganyklomis, gervuogių \nkrūmais, krūmynais, miškeliais, miškais, gojais, šilais, bity­\nnais, bebrų, laukinių žvėrių ir paukščių medžiokle, miškų \naptvarais, krūmais, vandenimis, upėmis, tvenkiniais, eže­\nrais, upeliais, upeliūkščiais, žuvingomis kūdromis, žūkla- \nvimu, malūnais ir jų produktais, apskritai, su visais priklau- \nsiniais, priedėliais ir visais priedais, kad ir kokiu vardu jie\n365\n\n## Puslapis 382\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\net appendicibus universis, quocunque nomine aliter nuncu­\npatis, ad expressum castellum Mobilow quomodolibet ex an­\ntiquo spectantibus; et pertinentibus, quae sunt, et in poste­\nrum quocunque ingenio, ac industria bumana fieri, et angeri \npossint, ita late, longe, et circumferentialiter prout ipsa bona \nin suis graniciebus limitata sunt, et distincta per expressum — \nillustrissimam Helenam Reginam Consortem nostram haben­\ndum, tenendum, utifruendum pacifice, et quiete possidendum, \nsicut expressum est ad tempora vitae suae."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-010
 
@@ -823,7 +816,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 ## Ryšiai

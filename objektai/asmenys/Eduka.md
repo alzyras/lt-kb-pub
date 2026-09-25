@@ -89,6 +89,30 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
   pagrindžia:
     - c-174830
 
+<a id="claim-t-213588"></a>
+- t-213588
+  teiginys: "Taip pat rašoma, jog Odoakras buvo Eduikos, arba Edukono, sūnus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195928
+
+<a id="claim-t-213909"></a>
+- t-213909
+  teiginys: "Eduka atėjo iš Noriko su herulais ir jų sąjungininkais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195201
+
 ## Citatos
 
 - id: c-174083
@@ -112,7 +136,7 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174830
@@ -142,5 +166,92 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195201
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 312"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
+  citata_originali: |
+    Su jais atvyko Orestas ir Eduka; pirmasis vadovavo miš­
+    riai germanų kariuomenei, antrasis atėjo iš Noriko su
+    herulais ir jų sąjungininkais, t. y. rugiais ir turcilingais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213909
+
+- id: c-195928
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 316."
+  citata_originali: |
+    Taip pat rašoma, jog Odoakras buvo Eduikos, arba
+    Edukono, sūnus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213588
+
+- id: c-196158
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
+  citata_originali: |
+    Sudargai, kuriuos istorikai vadina
+    Satargarii ir Sadargii, buvo ištikimiausi skiriu bičiuliai:
+    visi drauge įsikūrė prie Dunojaus žemupio, kartu patyrė
+    likimo smūgius, kuriuos labiau užtraukė klastingi svebų
+    karaliukų patarimai negu jų pačių neapdairumas ar gotų
+    priespaudos priežastys. Kadangi paskutinio žygio metu
+    skiriu stovykloje buvo du vadai — Eduka ir Volfas, tai
+    pagrįstai galima daryti išvadą, kad pirmasis vadovavo
+    skiriams, o antrasis — sudargams arba kad tarp abiejų
+    vienos giminės genčių buvo sąjunga ir kiekviena iš jų
+    turėjo savo vadą.
+    289
+    Vėliau dešiniojoje Dunojaus pakrantėje gyvenę skiri ai
+    ir sudargai kiek pagerino savo reikalus, padidinę karinę
+    galią, galbūt: atvykus tiesiai iš gimtosios žemės naujiems
+    žmonėms.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196564
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
+  citata_originali: |
+    Šios vilties ir narsos, ku­
+    rią suteikia keršto troškimas, skatinami, skiri ai skubėjo
+    su savo vadais Eduka ir Volfu pagelbėti svebams. Ir vėl
+    laimės žvaigždė lydėjo gotus, kurie niekais pavertė vi­
+    sus pasikėsinimus j jų valdžią. Ištikus šiai nelaimei, Edu­
+    ka gelbėjo likučius savo žmonių, kurie, palikę savo gy­
+    venamąsias vietas Mezijoje, kėlėsi į dešiniąją Dunojaus
+    pakrantę ir pasidavė romėnų globai. Šis kraustymasis
+    kartu su kitomis dėl šių politinių įvykių persekiojamomis
+    gotų gentimis įvyko apie 355 metus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

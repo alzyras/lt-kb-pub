@@ -93,6 +93,18 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
   pagrindžia:
     - c-61601
 
+<a id="claim-t-225650"></a>
+- t-225650
+  teiginys: "Statutų prologas buvo oficialios Vokiečių ordino pradžios tradicijos šaltinis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201714
+
 ## Citatos
 
 - id: c-61600
@@ -114,7 +126,7 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-61601
@@ -133,7 +145,7 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-61602
@@ -149,5 +161,42 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-201714
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
+  citata_originali: |
+    Dusburgietis iškreipia faktus dėl akivaizdžios tendencijos. Vokiečių ordino pradžią jis
+    datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai
+    iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos
+    kunigaikštis Fridrichas kreipėsi į savo brolį, Vokietijos karalių ir busimąjį imperatorių
+    (nuo 1191 m.) Henriką, kad šis tarpininkautų popiežiaus kurijoje. Popiežius patvirtino
+    Jeruzalės brolių ligoninę, suteikė jiems tokių pat privilegijų, kaip kitados buvo suteikęs
+    joanitams ir tamplieriams (dvasiškiams ir riteriams). Čia Dusburgietis pateikia oficialią
+    Ordino pradžios tradiciją (pagal Statutų prologą).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225650
+
+- id: c-206177
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  citata_originali: |
+    „Pasakojimą...“ ir prologą panaudojo Dusburgietis, pateikdamas
+    vokiškąją, tendencingą Ordino įsikūrimo versiją.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

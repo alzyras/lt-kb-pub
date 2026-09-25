@@ -33,50 +33,6 @@ media_all_json: |-
 
 Narbutas mini 1249 m. kryžiuočių dokumentą kaip originalą, kurį, jo teigimu, pats matė ir kuriame skaitymą `confringere` taisė į `confingere`. Šį dokumentą jis pasitelkia svarstydamas nuomonę apie Kurko stabo daužymą arba pasidarymą.
 
-## Teiginiai
-
-<a id="claim-t-188027"></a>
-- t-001
-  teiginys: "Narbutas teigė matęs 1249 m. kryžiuočių dokumento originalą, kuriame vietoje žodžio „confringere“ buvo parašyta „confingere“."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "1249 metų kryžiuočių dokumentas apie Kurką: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1249 metų kryžiuočių dokumentas apie Kurką\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1249 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra apie autoriaus matytą dokumentą, todėl palikta atribucija. Tik patikslinta formuluotė ir suvienodintos kabutės."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-170962
-
-<a id="claim-t-188028"></a>
-- t-002
-  teiginys: "Narbutas 1249 m. kryžiuočių dokumentą siejo su abejonėmis dėl aiškinimo, kilusio iš žodžio „confringere“ reikšmės."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "1249 metų kryžiuočių dokumentas apie Kurką: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1249 metų kryžiuočių dokumentas apie Kurką\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1249 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Abejonė yra Narbuto interpretacija, todėl ji atribuuota. Nepridėtas Kurko vardas, nes pateiktoje citatoje jis tiesiogiai neminimas."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-170962
-
 ## Citatos
 
 - id: c-170962
@@ -100,6 +56,3 @@ Narbutas mini 1249 m. kryžiuočių dokumentą kaip originalą, kurį, jo teigim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002

@@ -86,7 +86,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-71088
@@ -109,7 +109,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-71089
@@ -126,7 +126,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166361
@@ -146,5 +146,5 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

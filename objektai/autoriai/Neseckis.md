@@ -97,7 +97,7 @@ Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui. Narbutas kriti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173257
@@ -120,5 +120,27 @@ Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui. Narbutas kriti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-200943
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
+  citata_originali: |
+    Apskritai, įsiskaičius į senuosius lenkų herbų pavadinimus,
+    ne viename jų randame lietuvių kalbai būdingų elementų. Pa­
+    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
+    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
+    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
+    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
+    Nors pirmaujančios lietuvių giminės po Horodlės seimo
+    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
+    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

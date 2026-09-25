@@ -184,7 +184,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-22800
@@ -203,7 +203,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-22801
@@ -225,7 +225,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-42976
@@ -249,7 +249,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-66563
@@ -268,7 +268,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166580
@@ -287,7 +287,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-176244
@@ -308,5 +308,5 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007

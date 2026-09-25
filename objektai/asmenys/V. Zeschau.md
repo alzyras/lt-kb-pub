@@ -89,5 +89,5 @@ Zeschau vadovaujamas 18-tarių skaičius su šių komendantūrų kasis saksų p�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

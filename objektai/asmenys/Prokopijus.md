@@ -111,7 +111,7 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174853
@@ -136,7 +136,7 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179350
@@ -159,5 +159,49 @@ Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie karingus O
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194872
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 295"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 295."
+  citata_originali: |
+    Jorda­
+    nas rašo, kad jie ėjo išvien su gotais, bet baigia pasako­
+    jimą kaip ir Prokopijus; kai girdime tų pačių istorikų
+    pateiktas žinias apie skirius ir sudargus, apie hirius jau
+    nematome jokių užuominų. Tačiau III amžiaus pabaigoje
+    minimi herulai; tai gentis, laikoma ta pačia, kuri anks­
+    čiau buvo vadinama hiriais. Taigi privalome patyrinėti
+    šios trečios lietuvių genties, grįžusios su gotais į Rytus,
+    kelius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196004
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
+  citata_originali: |
+    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
+    riko įtaką Europos vakaruose gyvenančioms tautoms ir
+    gentims, sako: „Turbūt tas pats karalius Germanarikas
+    savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
+    kraštą ir pavergė estų tautą“4. Žinios apie šį bendrinį pa­
+    vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
+    ni estus, kalbėdamas apie karingus Odoakro vadovauja­
+    mus herulus, kilusius iš estų tautos. Sis istorikas gyveno
+    imperatoriaus Justiniano laikais, arba VI amžiuje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

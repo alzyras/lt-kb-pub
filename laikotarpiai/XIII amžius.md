@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIII amžius"
 periodo_pradzia: 1201
 periodo_pabaiga: 1300
-periodo_objektu_skaicius: 1055
+periodo_objektu_skaicius: 1080
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1055.
+Objektų skaičius: 1080.
 
 ## Susiję objektai
 
@@ -195,6 +195,7 @@ Objektų skaičius: 1055.
 - [[objektai/asmenys/Petras (Celestinas V)]]
 - [[objektai/asmenys/Petras (Krokuvos vaivada)]]
 - [[objektai/asmenys/Petras (Poznanės vyskupas)]]
+- [[objektai/asmenys/Petras Babickas]]
 - [[objektai/asmenys/Pipinas]]
 - [[objektai/asmenys/Popiežius Honorijus II]]
 - [[objektai/asmenys/Poponas iš Osternos]]
@@ -215,10 +216,12 @@ Objektų skaičius: 1055.
 - [[objektai/asmenys/Surminas]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/asmenys/Svisdeta]]
+- [[objektai/asmenys/Tautvilis Bukėnas]]
 - [[objektai/asmenys/Tirskas]]
 - [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/asmenys/Treniota]]
 - [[objektai/asmenys/Ulrichas iš Magdeburgo]]
+- [[objektai/asmenys/Unė Babickaitė-Milerienė]]
 - [[objektai/asmenys/Urbonas IV]]
 - [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius)]]
 - [[objektai/asmenys/Vaclovas (Čekijos karalius)]]
@@ -286,6 +289,7 @@ Objektų skaičius: 1055.
 - [[objektai/autoriai/Nalepa J]]
 - [[objektai/autoriai/Napierski]]
 - [[objektai/autoriai/Paszkiewicz H]]
+- [[objektai/autoriai/Petras Babickas]]
 - [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/autoriai/Powierski J]]
 - [[objektai/autoriai/R. Jasas]]
@@ -305,6 +309,7 @@ Objektų skaičius: 1055.
 
 ### Daiktai
 - [[objektai/daiktai/Akmeninė knyga]]
+- [[objektai/daiktai/Angelas (daiktas)]]
 - [[objektai/daiktai/Apgulties mašinos]]
 - [[objektai/daiktai/Arisaka 30 modelio šautuvas]]
 - [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
@@ -318,6 +323,7 @@ Objektų skaičius: 1055.
 - [[objektai/daiktai/Mosin-Nagant šautuvas]]
 - [[objektai/daiktai/Mūro sienos]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/daiktai/Paukščiai (daiktas)]]
 - [[objektai/daiktai/Popiežiaus vainikas]]
 - [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]
 - [[objektai/daiktai/Viešpaties erškėčių vainikas]]
@@ -371,11 +377,14 @@ Objektų skaičius: 1055.
 - [[objektai/grupes/Polockiečiai]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Prancūzai]]
+- [[objektai/grupes/Prancūzijos kariuomenė]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
 - [[objektai/grupes/Reino konfederacija]]
 - [[objektai/grupes/Rendaliai]]
+- [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/grupes/Rygiečiai]]
 - [[objektai/grupes/Saracėnai]]
+- [[objektai/grupes/Savanorių kūrėjų draugija]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/grupes/Sūduviai]]
@@ -393,16 +402,21 @@ Objektų skaičius: 1055.
 
 ### Papročiai
 - [[objektai/paprociai/Apgaulingo atsitraukimo manevras]]
+- [[objektai/paprociai/Babickų giminaičių tarpusavio globa ir materialinė bei kultūrinė parama]]
+- [[objektai/paprociai/Babickų šeimos atminimo ir archyvinio palikimo saugojimas]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
 - [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]
+- [[objektai/paprociai/Giedojimas bažnyčios chore ir per laidotuves]]
 - [[objektai/paprociai/Kalinių paleidimas kaip kraitis]]
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
 - [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
 - [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise]]
+- [[objektai/paprociai/Krikšto apeigos Kupiškio parapijoje]]
 - [[objektai/paprociai/Kristaus kūno šventės šventimas]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/paprociai/Lietuvos valdovų laidojimas pagoniškais papročiais]]
+- [[objektai/paprociai/Medžio drožėjų plenerų „Žmogus ir vanduo“ praktika]]
 - [[objektai/paprociai/Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose|Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose (krikštas)]]
 - [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje]]
 - [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]
@@ -531,6 +545,7 @@ Objektų skaičius: 1055.
 - [[objektai/vietos/Kulmija]]
 - [[objektai/vietos/Kulmo žemė]]
 - [[objektai/vietos/Kumanų žemė]]
+- [[objektai/vietos/Kupiškis]]
 - [[objektai/vietos/Kuršas]]
 - [[objektai/vietos/Kuršių marios]]
 - [[objektai/vietos/Kuršių nerija]]
@@ -777,6 +792,7 @@ Objektų skaičius: 1055.
 - [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.)]]
 - [[objektai/ivykiai/Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)]]
 - [[objektai/ivykiai/Kulmo žemės nusiaubimas prūsų antpuoliu]]
+- [[objektai/ivykiai/Kupiškėnų garso įrašai fonografu 1935–1940 metais]]
 - [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.)]]
 - [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]
 - [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais]]
@@ -892,6 +908,7 @@ Objektų skaičius: 1055.
 - [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.)]]
 - [[objektai/ivykiai/tūkstančių saracėnų žūtis totorių žygyje (1300 m.)]]
 - [[objektai/ivykiai/Utenio žygis į Padaugavį ir Ašradės apygardas]]
+- [[objektai/ivykiai/Vaclovо Stančiko, J. Garbausko ir Jadzės Vasiulytės epizodas Girelės miške]]
 - [[objektai/ivykiai/Vaišvilko valdžios perdavimas Švarnui (apie 1268 m.)]]
 - [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]
 - [[objektai/ivykiai/Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)]]
@@ -949,6 +966,8 @@ Objektų skaičius: 1055.
 - [[objektai/saltiniai/1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas]]
 - [[objektai/saltiniai/1324 m. popiežiaus legatų dokumentas dėl taikos su Gediminu]]
 - [[objektai/saltiniai/1329 m. dokumentas su forma „Kanthe“]]
+- [[objektai/saltiniai/1808. X. 29 Platelių dvaro inventorius]]
+- [[objektai/saltiniai/A. Filipeckio pamokslų rinkinys]]
 - [[objektai/saltiniai/A. Prochaska, Dzieje Witolda]]
 - [[objektai/saltiniai/Albericho 1228 metų kronika]]
 - [[objektai/saltiniai/Baltische Geschichte 1180-1918]]
@@ -973,6 +992,7 @@ Objektų skaičius: 1055.
 - [[objektai/saltiniai/Jasas R. Didysis prūsų sukilimas (1260—1274)]]
 - [[objektai/saltiniai/Johanno Voigto Prūsijos istorija]]
 - [[objektai/saltiniai/Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a. pradžioje]]
+- [[objektai/saltiniai/Kauno vicegubernatoriaus 1874 m. vasario 12 d. raštas Vilniaus generalgubernatoriui]]
 - [[objektai/saltiniai/Klaipėdos miesto istorija 1252-1466]]
 - [[objektai/saltiniai/Klemenso IV bulė apie Mindaugą (1268 m.)]]
 - [[objektai/saltiniai/Konrado 1230 m. dovanojimo raštas]]
@@ -986,6 +1006,7 @@ Objektų skaičius: 1055.
 - [[objektai/saltiniai/Lietuvių kalbos žodynas, t. I (1968)]]
 - [[objektai/saltiniai/Lietuvos kronika]]
 - [[objektai/saltiniai/Livonijos kronika]]
+- [[objektai/saltiniai/M. Bialobžeskio pamokslų rinkinys]]
 - [[objektai/saltiniai/Martyno iš Opavos popiežių ir imperatorių istorija]]
 - [[objektai/saltiniai/Mindaugas-Lietuvos karalius]]
 - [[objektai/saltiniai/Mindaugo dovanojimo raštas Livonijos ordinui]]
@@ -997,6 +1018,7 @@ Objektų skaičius: 1055.
 - [[objektai/saltiniai/P. Šležas, Vytauto D. kovos dėl Žemaičių ir Klaipėdos]]
 - [[objektai/saltiniai/Pasakojimas apie Teutonų ordino pradžią]]
 - [[objektai/saltiniai/Pasaulio aprašymo pradžia]]
+- [[objektai/saltiniai/Patarlės žemaičių]]
 - [[objektai/saltiniai/Pašuta V. Lietuvos valstybės susidarymas]]
 - [[objektai/saltiniai/Pelplino analai]]
 - [[objektai/saltiniai/Piętka J. Geneza mazowieckiej elity feudalnej i jej stan w pierwszym okresie niezależności księstwa (1138—1371)]]
@@ -1023,6 +1045,8 @@ Objektų skaičius: 1055.
 - [[objektai/saltiniai/Tolede surasta akmeninė knyga]]
 - [[objektai/saltiniai/Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a]]
 - [[objektai/saltiniai/Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu (1236—1263)]]
+- [[objektai/saltiniai/Vidaus reikalų viceministro 1869 m. lapkričio 27 d. raštas A. Potapovui]]
+- [[objektai/saltiniai/Vilniaus cenzūros komiteto 1865. II. 16 posėdžio protokolas]]
 - [[objektai/saltiniai/Vokiečių ordino statutų prologas]]
 - [[objektai/saltiniai/Volynijos kronika]]
 - [[objektai/saltiniai/Volynės metraštis]]
@@ -1072,6 +1096,7 @@ Objektų skaičius: 1055.
 - [[objektai/zodynas/Municipalinė teisėtvarka]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/papilys]]
+- [[objektai/zodynas/pazvanai (sąvoka)]]
 - [[objektai/zodynas/priešmindauginė Lietuva]]
 - [[objektai/zodynas/prūsas Prūsa Prūsija]]
 - [[objektai/zodynas/reformacija]]

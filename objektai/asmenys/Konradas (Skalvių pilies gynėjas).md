@@ -34,24 +34,6 @@ canonical_biography: "Dusburgietis teigia, kad jie, priėję šią pilį, nužud
 
 Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo.
 
-## Teiginiai
-
-<a id="claim-t-60478"></a>
-- t-001
-  teiginys: "Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Albrechtas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas (Skalvių pilies gynėjas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Albrechtas: mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas (Skalvių pilies gynėjas)\" parinktas kaip owner_note_path. Targetas \"Albrechtas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61110
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.'
@@ -89,5 +71,3 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

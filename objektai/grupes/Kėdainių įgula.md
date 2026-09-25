@@ -83,7 +83,7 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-75493
@@ -109,5 +109,5 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

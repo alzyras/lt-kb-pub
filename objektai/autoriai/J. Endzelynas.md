@@ -85,6 +85,16 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   pagrindžia:
     - c-61203
 
+<a id="claim-t-221380"></a>
+- t-221380
+  teiginys: "J. Endzelynas nuo XIX a. vidurio tyrė prūsų kalbą ir jos paminklus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-61203
@@ -107,7 +117,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-61204
@@ -130,7 +140,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-61205
@@ -147,5 +157,43 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206100
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
+  citata_originali: |
+    6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...;
+    Endzelīns  J. Senprūšu valoda; Būga K. Rinktiniai raštai,  t. 1, 3; Mikalauskaitė E.
+    Priešreformacinių...,.p. 102—106; Matusevičiūtė I. Kiek naujos medžiagos..., p. 10—18;
+    Мажюлис В. Заметки..., c. 191—197; Prūsų kalbos paminklai / Parengė Mažiulis V.; to
+    paties, Baltų...; to paties, Seniausias baltų..., p. 125—131; Kuzavinis K. Prūsų kalba;
+    MLTE, t. 2, p. 935—936; Schmalstieg W. R. An Old Prussian Grammar...; Steponavičienė
+    I. Dėl lietuviškų vietovardžių..., p. 163— 168; Топоров B. H. Прусский язык...; Kubicka
+    W. Bibliografia...; Lietuvos TSR bibliografija, Ser. А. Т. 1, р. 483—488 (prūsų kalbos ir
+    raštijos paminklai).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206258
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 59"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 59."
+  citata_originali: |
+    Šiaurės vakarų Kurše, prie Edolės, žinomas
+    vietovardis (dvaro vardas) Semba, kurį J. Endzelynas tapatina su šiuo prūsų žemės
+    vardu (Endzelins J. Piezimes..., p. 8).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

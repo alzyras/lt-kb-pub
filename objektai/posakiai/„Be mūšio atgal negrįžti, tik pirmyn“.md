@@ -57,5 +57,5 @@ O kunigaikštis Konstantinas, ir didikai, ir visi žmo nės, kurie buvo su jais,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

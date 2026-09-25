@@ -107,7 +107,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168438
@@ -165,7 +165,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

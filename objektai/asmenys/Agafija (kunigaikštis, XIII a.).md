@@ -102,5 +102,5 @@ canonical_biography: "1226 m. į Plocką atvykę kryžiuočių riteriai Konrado 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

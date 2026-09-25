@@ -81,7 +81,7 @@ canonical_biography: "1402 m. viduryje kryžiuočiai, vedami didžiojo komtūro 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

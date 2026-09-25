@@ -123,6 +123,7 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-22480
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -142,7 +143,7 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-22481
@@ -165,7 +166,7 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176221
@@ -187,6 +188,6 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004

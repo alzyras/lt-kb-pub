@@ -120,7 +120,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175799
@@ -148,7 +148,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179247
@@ -171,5 +171,54 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-197013
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 391."
+  citata_originali: |
+    Jų krašte stovi medinis
+    miestas (jtožig guž.Luų); šis miestas vadinamas Gelonos
+    (TeAwubg), o jo gynybinės sienos
+    (xeTxog) kiekvienos
+    kraštinės ilgis sudaro 30 stadijų; ji aukšta ir medinė,
+    kaip ir jų bažnyčia. Ten yra helenų dievų bažnyčių, hele-
+    nų papročiu tapytų dievų paveikslų (’EXXrpnxwg aexaxeua-
+    apeva ayakpaai), altorių ir koplytėlių (%ai PcoųdToi); vi­
+    sa tai išskobta iš medžio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197429
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 391."
+  citata_originali: |
+    Ten yra helenų dievų bažnyčių, hele-
+    nų papročiu tapytų dievų paveikslų (’EXXrpnxwg aexaxeua-
+    apeva ayakpaai), altorių ir koplytėlių (%ai PcoųdToi); vi­
+    sa tai išskobta iš medžio. Jie taip pat kas trejus metus
+    švenčia Dioniso šventę ir rengia bakchanalijas ((ìaxxéo -
+    ai).
+    Kadangi
+    gelonų
+    protėviai
+    yra
+    helenai (Teàwuoi
+    'xcMQ%aXou ’EÀÀuueg), išvyti iš emporiumų, jie apsigyveno
+    tarp budinu; jų kalba iš dalies panaši į skitų ir helenų
+    kalbą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

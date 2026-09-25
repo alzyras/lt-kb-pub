@@ -86,7 +86,7 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82500
@@ -113,5 +113,5 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

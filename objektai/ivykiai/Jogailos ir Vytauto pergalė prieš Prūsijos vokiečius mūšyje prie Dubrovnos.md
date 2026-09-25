@@ -58,18 +58,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-193851"></a>
-- t-001
-  teiginys: "Karalius Jogaila ir didysis kunigaikštis Vytautas, su savo kariuomenėmis perėję per miškus, priėjo tuos Dubrovnos laukus."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176491
-
 <a id="claim-t-196785"></a>
 - t-002
   teiginys: "Lietuvos metraštis vaizduoja, kad po pergalės Jogailos ir Vytauto kariuomenė paėmė dalį vokiečių miestų bei žemių ir grįžo su didžia šlove."
@@ -82,6 +70,27 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-178907
+
+<a id="claim-t-210509"></a>
+- t-210509
+  teiginys: "Lietuvos metraštis pasakoja, kad po pergalės prie Dubrovnos vokiečių vėliavos ir nuo magistro bei komtūrų nuplėštos barzdos padalytos Lenkijai ir Lietuvai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-193428
+
+<a id="claim-t-211398"></a>
+- t-211398
+  teiginys: "Lietuvos metraštis pasakoja, kad po pergalės buvo paimta daug vokiečių miestų ir žemių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193428
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -195,8 +204,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-178907
   autorius: "Anoniminis metraštininkas"
@@ -223,5 +230,35 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-193428
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 105-106"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 105-106."
+  citata_originali: |
+    O likusioji lenkų kariuomenė jiems nieko
+    nepadėjo, tik į tai žiūrėjo l0.
+    Paskui, visus juos sutriuškinę ir paėmę daug jų
+    miestų bei žemių, o kitus išdeginę ir pavertę kraštą ly­
+    no
+
+    rais, su neapsakoma pergale ir negirdėta pasaulyje
+    šlove, didžiausio pagerbimo lydimi, sugrįžo į savo že­
+    mes. Ir pusę vokiečių vėliavų bei pusę barzdų", nu­
+    plėštų nuo magistro ir visų jo negyvų komtūrų, perdavė
+    Lenkijai, o pusę Lietuvai, ir tos jų barzdos ir vėliavos
+    Krokuvoje pakabintos pilyje, švento Stanislovo baž­
+    nyčioje, o Vilniuje taip pat švento Stanislovo (ka­
+    tedroje) ia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210509
+    - t-211398

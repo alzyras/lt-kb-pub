@@ -81,7 +81,7 @@ Kauno lenkai paskleidė gandą, kad delegatai lietuviams atvežė tris milijonus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192366
@@ -98,5 +98,5 @@ Kauno lenkai paskleidė gandą, kad delegatai lietuviams atvežė tris milijonus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

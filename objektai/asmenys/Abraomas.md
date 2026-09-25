@@ -86,18 +86,6 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   pagrindžia:
     - c-171399
 
-<a id="claim-t-197387"></a>
-- t-003
-  teiginys: "Abraomas keletą dienų susilaikys nuo noro santykiauti su moterimi; tam laikui praėjus, pridūrė, atsiųsiu pas tave bitę, kuri praneš tau tavo laimės valandą."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171398
-
 <a id="claim-t-203804"></a>
 - t-004
   teiginys: "1741 m. Antanas ir Ona Jezerskai užpuolė dvarelį prie pylimo už arsenalo, išvijo ten gyvenusį žydą Abraomą, atėmė jo gobtuvą ir pagrobė kvitus, liudijančius sumokėtus mokesčius."
@@ -113,6 +101,41 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
   pagrindžia:
     - c-186408
+
+<a id="claim-t-218616"></a>
+- t-218616
+  teiginys: "Senovės Rytų legendose Abraomui priskiriamas kipariso, eglės ir kedro pasodinimas."
+  atnaujinta: "2026-09-20 12:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-200006
+
+<a id="claim-t-219329"></a>
+- t-219329
+  teiginys: "Se novės Rytų legendos skelbia, kad Abraomas pasodinęs kipari są, eglę ir kedrą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200006
+
+<a id="claim-t-221679"></a>
+- t-221679
+  teiginys: "Šaltinio pasakojime Abraomas su 318 tarnų ištisus metus kovojo dėl savo brolio laisvės ir kalinio sugrąžinimo."
+  atnaujinta: "2026-09-20 12:48"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
 ## Citatos
 
@@ -141,7 +164,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171398
@@ -165,8 +188,6 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-171399
   autorius: "Teodoras Narbutas"
@@ -189,7 +210,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-186408
@@ -208,5 +229,48 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-200006
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
+  citata_originali: |
+    Se­
+    novės Rytų legendos skelbia, kad Abraomas pasodinęs kipari­
+    są, eglę ir kedrą. Tie trys medžiai suaugę į vieną medį, kuris
+    buvęs panaudotas Saliamono šventyklos statybai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218616
+    - t-219329
+
+- id: c-200205
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 233"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
+  citata_originali: |
+    Nimfa, pagauta davusi žodį, nebegalė­
+    jo atsisakyti, tad pažadėjo pasimatyti su juo vienu, tik su sąly­
+    ga, kad jis keletą dienų susilaikys nuo noro santykiauti su mo­
+    terimi; tam laikui praėjus, pridūrė, atsiųsiu pas tave bitę, kuri
+    praneš tau tavo laimės valandą. Tačiau tas Rekas buvo aistrin­
+    gas lošėjas; nutiko taip, kad jis lošė tuo metu, kai atlėkė bitė
+    su pranešimu; užuot paklausęs paslaugios pasiuntinės, jis vos
+    neužmušė jos už įkyrų zvimbimą paausy. Tas paniekinimas taip
+    įžeidė hamadriadę, kad ji atėmė iš jo sugebėjimą valdyti tam
+    tikras kūno dalis.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

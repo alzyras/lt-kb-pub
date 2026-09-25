@@ -116,6 +116,29 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   pagrindžia:
     - c-187800
 
+<a id="claim-t-225568"></a>
+- t-225568
+  teiginys: "1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos kovoti dėl netikėlių užimtų krikščionių žemių."
+  atnaujinta: "2026-09-20 12:51"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "sudare_sutarti_su -> Teutonai: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Grigalius IX: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas mini susitarimą su Teutonų ordino broliais, nors Grigalius IX jį patvirtino, o ne būtinai sudarė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Grigalius IX sudarė sutartį su Teutonai (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1230 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir remiasi citatoje nurodytais Grigaliaus IX veiksmais."
+  pagrindžia:
+    - c-201979
+
 ## Citatos
 
 - id: c-41926
@@ -138,7 +161,7 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167459
@@ -160,7 +183,7 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-187800
@@ -198,7 +221,7 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188055
@@ -225,5 +248,28 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-201979
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
+  citata_originali: |
+    58—59): „Prisirenkite
+    ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš
+    mus sunaikinti mūsų ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti
+    mūsų tautos ir šventovės nelaimes14. Stiprindamas jų kilnias širdis, jis guodė juos šiais
+    viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš
+    savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant
+    negu tavoji, nebijok jųjų, nes viešpats, tavo dievas, yra su tavimi“, be to, pridurdamas
+    (Ist 20.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225568

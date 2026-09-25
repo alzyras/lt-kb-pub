@@ -60,5 +60,5 @@ Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel džių trejybė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

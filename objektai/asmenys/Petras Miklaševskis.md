@@ -68,5 +68,5 @@ canonical_biography: "1560 m. Petro Miklaševskio kuopai, kurią sudarė 100 kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

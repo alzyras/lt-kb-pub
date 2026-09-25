@@ -101,7 +101,7 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-82478
@@ -125,7 +125,7 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82479
@@ -149,5 +149,5 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -74,5 +74,5 @@ Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

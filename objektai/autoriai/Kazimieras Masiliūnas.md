@@ -89,5 +89,5 @@ canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (vicem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

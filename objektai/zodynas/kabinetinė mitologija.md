@@ -90,5 +90,29 @@ Mitologijos tyrimų kritinės metodologijos terminas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197801
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 35."
+  citata_originali: |
+    Deja, T. Narbutas šito nepadarė ir dėl to užsitraukė sau falsi-
+    fikatoriaus nešlovę, o būsimiems lietuvių mitologijos tyrinė­
+    tojams sudarė daug papildomų sunkumų: norint dabar pasi­
+    naudoti jo tyrinėjimais, visų pirma reikia atskirti, kas sąžinin­
+    gai paimta iš pirminių šaltinių ir kas sukurta arba prikurta,
+    pagražinta. O kadangi pirminiais šaltiniais (ypač J. Lasickiu,
+    M. Strijkovskiu) buvo naudotasi nelabai kritiškai, dar reikia
+    tikrinti ir iš tų šaltinių paimtus faktus, nurodyti, ar jie iš tiesų
+    priklauso lietuvių mitologijai, ar yra kabinetinės mitologijos
+    produktas. Ir pagaliau dar reikia atskirti, kurie faktai priklau­
+    so lietuvių, o kurie -  prūsų, latvių ar kitų baltų mitologijai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -172,7 +172,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -196,11 +196,12 @@ Vilniaus žydų bendruomenės savivaldos institucija.
     Iš kahalo nuo 5 500 auksinų sumos komisijos sprendimo
     vigore [galia] - 165 auks.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-78324
@@ -231,7 +232,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-78325
@@ -262,5 +263,5 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

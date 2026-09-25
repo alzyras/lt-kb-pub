@@ -78,5 +78,28 @@ Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų me
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201444
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 515."
+  citata_originali: |
+    Tas
+    seimas taip pat priėmė kitus Lietuvai svarbius įsta­
+    tymus (ten pat. - P. 219-220). Tų metų pabaigoje
+    atėjo laikas prasidėti abiejų tautų seimui, arba Liub­
+    lino unijai (Gornicki L. - S. 166). Taigi čia turi būti
+    klaida - atsiųstoje man kopijoje arba pačiame
+    spausdintame originale vietoj 1568 metų parašyta
+    1567), pateikiamas straipsnis, kurį pridedu tokį, ko­
+    kį gavau išvertęs iš lotynų kalbos, norėdamas juo
+    paremti teiginius, išdėstytus anksčiau šiame tome.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

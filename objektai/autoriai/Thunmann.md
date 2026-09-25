@@ -82,5 +82,31 @@ Narbutas Thunmannu rėmė maldos dievui Kurkai vėliavose aiškinimą, susijusį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198364
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 475."
+  citata_originali: |
+    Tad maldavo jo nu­
+    bausti ir padėti, o kariauninkų narsumą skatino to­
+    kiais žodžiais savo vėliavose: Dew Korgsupyx spus-
+    titiais ystuk ssiis, tai yra: „Dieve Kurkai, būk rūstus
+    tiems naikintojams, daryk jiems bloga“ (Thunmann.
+    Untersuchungen ūber die alte Geschichte einiger
+    nordischen Volker. - S. 255) (Kiedy rozbojnicy nie-
+    mieccy, bez žadnego powodu, spokojnych i gošcin-
+    nych napadli Pnissow zbrojną ręką, zabierając mie-
+    nie ich, pustosząc pola, ogrody, burząc domowstwa,
+    udawali się wtedy oniz ucieczką do boga swego, ktore-
+    go przez ten napad za abražonego imaiali; jakoby
+    on przez zemstę tych hipiezcow nasytat.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -51,6 +51,18 @@ Kojelavičiaus pasakojime Germantas pagal Šventaragio prašymą apvalė aikšt�
   pagrindžia:
     - c-176161
 
+<a id="claim-t-212002"></a>
+- t-212002
+  teiginys: "Gediminas apsinakvojo Šventaragio slėnyje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194039
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mat Šventaragis, būdama gyvas, kartą medžioklės metu pateko į be galo žavin gą vietą, kur į Nerį įteka Vilnios upė, apibėgdama ly gumą, apsuptą aukštų kalnų ir apaugusią pušynais.'
@@ -108,5 +120,24 @@ Kojelavičiaus pasakojime Germantas pagal Šventaragio prašymą apvalė aikšt�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194039
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 66."
+  citata_originali: |
+    O kad buvo labai vėlu
+    grįžti į Trakus, jis sustojo Šventaragio slėnyje, kur
+    degindavo pirmuosius didžiuosius kunigaikščius, ir čia
+    apsinakvojo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212002

@@ -65,5 +65,20 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202709
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 261."
+  citata_originali: |
+    Codex diplomaticus Warmiensis oder Regesten und Urkunden zur Geschichte Ermlands
+    / K. P. Woelky und J. M. Saage.—Bd. 1 (1231 —1340), Mainz, 1860.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

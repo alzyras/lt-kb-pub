@@ -65,5 +65,5 @@ ir Jog.) esate mūsų viešpačiai: kų toje byloje nuspręsite, bus ir įvykdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

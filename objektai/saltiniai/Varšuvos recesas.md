@@ -67,7 +67,7 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67421
@@ -88,5 +88,5 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

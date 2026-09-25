@@ -410,7 +410,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172255
@@ -430,7 +430,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172259
@@ -451,7 +451,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-172260
@@ -469,7 +469,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-172261
@@ -493,7 +493,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-172262
@@ -514,7 +514,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-172263
@@ -537,7 +537,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-009
 
@@ -560,7 +560,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-172265
@@ -583,7 +583,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-176987
@@ -608,7 +608,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-176988
@@ -630,7 +630,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-176989
@@ -649,7 +649,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-176990
@@ -673,7 +673,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-176991
@@ -692,7 +692,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-176992
@@ -712,7 +712,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-015
 
@@ -735,7 +735,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-179072
@@ -760,8 +760,181 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
+
+- id: c-197992
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 360"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 360."
+  citata_originali: |
+    Juk mirtingai būtybei net sekundė
+    gyvenimo yra malonus turtas.
+    Negalime neigti, kad senovės lietuviai nesmerkė savižudy­
+    bės; juk nepalyginti labiau apsišvietę graikai ir romėnai buvo
+    tos pačios nuomonės. Tai nugrimzdusios į paklydimą religijos
+    silpnoji pusė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198114
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 200"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 200."
+  citata_originali: |
+    Apie fetišizmą
+    Visos stabmeldžių tautos turėjo įvairiais vardais vadina­
+    mus savo namų dievus. Romėnų DU Penates, Lares ir 1.1., lie­
+    tuvių Siejmi Dewas, Gulbi ir 1.1, buvo šios rūšies dievaičiai, tik
+    jie buvo visiems bendri, garbinami visų krašto žmonių, jų es­
+    mę suprasdavo ir juos įsivaizduodavo pagal kitų dievų pavyz­
+    dį, jiems skirtas maldas jungdavo su maldomis, kreipiamomis
+    apskritai į visus dievus; jų žemą kategoriją rodo tai, kad jie
+    buvo kasdieniai, globojantys tą ar kitą namų ūkio dalį, saky­
+    čiau, namų parankiniai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198153
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  citata_originali: |
+    Palemonas (Palemon)
+    Didvyris, vardas, Lietuvos pajūrio šalies valdovas, atkilęs
+    su savo žmonėmis iš svetimos žemės.
+    Kronikos vienur rašė, kad romėnai arba kurie nors pana­
+    šūs į juos piliečiai atvykę į Lietuvą apie 48 metus prieš Kristų,
+    kitur - 57 metais po Kristaus, trečiur - tos pačios eros 401
+    metais. Strijkovskis, savo papratimu nesileisdamas į jokią kri­
+    tiką, naiviai deda ištraukas iš anuomet jam žinomų kronikų,
+    kurių gana daug turėjo rankose, arba semiasi žinių iš vietos
+    padavimų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199030
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 80."
+  citata_originali: |
+    Tuo tarpu Apvaizda ruošė kitą tautą, turėjusią tapti Euro­
+    pos apšvietos sargu. Senovės Lacijaus gilumoje, tarp plikų kal­
+    nų, nesveikiausiame užkampyje, užsimezgė romėnų karalys­
+    tė - romėnų, kurie parodė pasauliui didų būdą, didžias dory­
+    bes, nepalyginamą tėvynės meilę, vyriškumą, ištvermę, gilia­
+    mintę politiką, neišmatuojamą troškimą būti galingi. Visa tai,
+    sulydyta su įgimtais europiečių privalumais, sukūrė tautą, ver­
+    tą valdyti pasaulį, - tautą, kuriai buvo lemta tapti pavyzdžiu
+    tolimiausiems ainiams ir kuri tarytum šešėlis dingo nuo pa­
+    saulio paviršiaus vien todėl, kad jos moralė skyrėsi nuo religi­
+    jos vaizdinių, kad dievų žyniai nebuvo filosofai nei filosofijos
+    žyniai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199185
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 91."
+  citata_originali: |
+    Per­
+    sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš
+    metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo
+    už nuodėmes, savo misterijose vaizduodavo gamtos atgimi­
+    mą, rengdavosi naujam, doram gyvenimui.
+    Kai kurie kronikininkai, kaip Gvaninis ir Meletijus, lygina
+    šį dievą su Perkūnu, kadangi jis buvo laikomas dangaus ir že­
+    mės viešpačiu. Jų nuomonės nėra nepagrįstos, nes tai buvo
+    suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
+    aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
+    tingais mitais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199922
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
+  citata_originali: |
+    Tas tikėjimas
+    V amžiaus pabaigoje arba VI amžiaus pradžioje kažkokiu bū­
+    du susigiminiavo su senovės romėnų tikyba, tikriausiai ne itin
+    svetima lietuvių protėviams dėl jų kraujo giminystės ir santy­
+    kių rytuose su graikais2. Kadangi lietuvių gentys nuolatos pa­
+    laikė artimus ryšius su gotais, tad ir iš jų perėmė daug religi­
+    nių mitų ir apeigų, kurių pėdsakai mūsų mitologijoje yra pa­
+    kankamai ryškūs - tiek, kad senesnieji istorikai visą tą mitolo­
+    giją kildina iš skandinavų. Kadangi ir šioje yra nemažai pasi­
+    savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
+    šybė pasirodo esanti dar ryškesnė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200075
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
+  citata_originali: |
+    Senovės germanai nehervalai turėjo du dievaičius Alcius,
+    amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
+    laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą - Al­
+    kidą. Jie taip pat turėjo atskiras dievybes, vadintas Alkidėmis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201346
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  citata_originali: |
+    Šiuos prietarus žinojo ir Lietuvos rusinai.
+    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
+    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
+    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
+    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Senovės romėnai pastatė [[objektai/daiktai/Aukurai]]

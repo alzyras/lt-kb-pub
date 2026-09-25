@@ -58,5 +58,5 @@ Nėra nė mažiausių abejonių, jog ger manų tautų valtys išplaukdavo toliau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

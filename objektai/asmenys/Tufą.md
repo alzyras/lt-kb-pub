@@ -138,7 +138,7 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -160,6 +160,26 @@ Po Teodoriko pergalės prieš herulus Tufą, vienas seniausių Odoakro karvedži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
+
+- id: c-195726
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
+  citata_originali: |
+    Teodoriko valdžia nepatenkintas
+    Tufą su visa jam patikėta kariuomene paliko jį ir vėl
+    perėjo pas Odoakrą. Taip pat ir rugių vadas Frederikas
+    paliko gotus ir su saviškiais pasitraukė pas herulus. Teo­
+    dorikas buvo apsuptas Pavijoje, Odoakrui nepalankiame
+    mieste nuo tų laikų, kai ten buvo nugalėtas Orestas; po
+    šio pralaimėjimo miestas sustiprėjo ir buvo atstatytas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -84,6 +84,30 @@ Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-195633
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
+  citata_originali: |
+    Ki­
+    ti, remdamiesi Vaiselijumi, vadina ją Hoggerland pagal
+    mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
+    gezanijos tėvo, vardą. Daugiausiai dėmesio vertas šios
+    provincijos prekybinis miestas Trusas prie Drūsinės eže­
+    ro, buvęs, ko gero, ten, kur vėliau buvo įkurtas Elblion-
+    gas. Tačiau su tuo miestu susiję dalykai išnyksta prieš­
+    istorinėje praeityje, jog net nežinome, ar buvo šio seno­
+    vinio miesto pėdsakų prieš įkuriant Elbliongą. Jei netu­
+    rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
+    nieko nežinotume apie šį miestą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

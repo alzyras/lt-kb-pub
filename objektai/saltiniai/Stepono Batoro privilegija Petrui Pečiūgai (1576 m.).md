@@ -64,5 +64,5 @@ Cituotose privilegijose ir dar kitoje 1576 m. Stepono Batoro privilegijoje, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -71,5 +71,5 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

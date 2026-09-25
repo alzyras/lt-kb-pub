@@ -88,7 +88,7 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167033
@@ -112,5 +112,5 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

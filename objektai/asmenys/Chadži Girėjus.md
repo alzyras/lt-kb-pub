@@ -88,5 +88,5 @@ canonical_biography: "Čia, Vilniuje (1443 metais), totorių pasiuntinių prašy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

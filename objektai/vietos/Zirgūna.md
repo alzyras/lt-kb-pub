@@ -71,6 +71,18 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
   pagrindžia:
     - c-59293
 
+<a id="claim-t-222743"></a>
+- t-222743
+  teiginys: "Kryžiuočiai, įsiveržę į Reisių valsčių, priartėjo prie Zirgūnos upės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203587
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Zirgūnos upe plukdydami atsargas Kristburgo broliams, broliai ir jų tarnai dažnai prarasdavo krovinius ir gyvybes.'
@@ -114,7 +126,7 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59293
@@ -139,5 +151,22 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-203587
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
+  citata_originali: |
+    įsibrovė į Reisių valsčių ir, ten išžudę arba paėmę į nelaisvę daugybę
+    žmonių, priartėjo prie Zirgūnos upės232, kur ir sulaukė to, ko taip ilgai buvo troškę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222743

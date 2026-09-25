@@ -109,7 +109,7 @@ Narbutas teigia, kad vitingai buvo Danijos naujakuriai, laikui bėgant nutautėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188007
@@ -134,7 +134,7 @@ Narbutas teigia, kad vitingai buvo Danijos naujakuriai, laikui bėgant nutautėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188191
@@ -156,5 +156,5 @@ Narbutas teigia, kad vitingai buvo Danijos naujakuriai, laikui bėgant nutautėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -93,7 +93,7 @@ Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184478
@@ -121,5 +121,5 @@ Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

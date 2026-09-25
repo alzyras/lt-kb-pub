@@ -81,5 +81,5 @@ Jis pastojo turkams kelią Dniestro paupy, ties Chocimu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

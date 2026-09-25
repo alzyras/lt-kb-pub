@@ -84,7 +84,7 @@ Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167740
@@ -103,5 +103,5 @@ Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

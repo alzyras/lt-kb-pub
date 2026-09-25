@@ -73,5 +73,5 @@ Miršta ramūs tik tuomet, kai pernelyg užsitęsęs gyveni mas jiems jau netenk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -54,6 +54,22 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   pagrindžia:
     - c-09707
 
+<a id="claim-t-210020"></a>
+- t-210020
+  teiginys: "Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "medė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"medė\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-192903
+
 ## Citatos
 
 - id: c-09705
@@ -80,6 +96,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-09707
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -93,5 +110,22 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192903
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 51"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 51."
+  citata_originali: |
+    Gyventojus tarp upių Nemuno, Ventos ir Nevėžio vadino medininkais nuo to, jog didžiose medėse gyveno,
+        nuo ko ir vyskupas Žemaičių Medininkų vyskupu lig šio laiko vadinos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210020

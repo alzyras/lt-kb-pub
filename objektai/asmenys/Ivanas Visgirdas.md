@@ -94,7 +94,7 @@ canonical_biography: "1585 m. Bartolomėjus Petravičius skundėsi dėl Ivano Vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186384
@@ -110,5 +110,5 @@ canonical_biography: "1585 m. Bartolomėjus Petravičius skundėsi dėl Ivano Vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

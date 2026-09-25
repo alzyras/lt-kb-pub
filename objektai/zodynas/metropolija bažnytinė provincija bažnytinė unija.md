@@ -67,5 +67,5 @@ Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

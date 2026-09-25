@@ -63,6 +63,16 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
   pagrindžia:
     - c-60923
 
+<a id="claim-t-222816"></a>
+- t-222816
+  teiginys: "Girdavas turėjo Bartos žemėje pilį, pavadintą jo vardu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-60923
@@ -83,5 +93,5 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

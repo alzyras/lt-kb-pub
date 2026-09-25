@@ -49,19 +49,6 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
   pagrindžia:
     - c-172078
 
-<a id="claim-t-194692"></a>
-- t-002
-  teiginys: "Šventieji ežerai Senojoje lietuvių religijoje ne tik tekantys, bet ir kai kurie stovintys vandenys buvo laikomi šventenybėmis."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177089
-
 <a id="claim-t-197380"></a>
 - t-003
   teiginys: "Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10 mylių, nulieja vandenis į Volgą."
@@ -94,7 +81,7 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177089
@@ -123,8 +110,6 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-179158
   autorius: "Teodoras Narbutas"
@@ -144,5 +129,45 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-198081
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 231"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 231."
+  citata_originali: |
+    Italijoje,
+    Bažnyčios valstybėje, Nera įteka į Tiberį. Vengrijoje Nera įte­
+    ka į Temezą. Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve­
+    ra ežeras, kurio perimetras 10 mylių, nulieja vandenis į Volgą.
+    Lietuvoje Neris - senasis Vilijos pavadinimas. Dalmatijoje, Bra-
+    zos (Brazza) saloje, Neris, arba Nerisi - upokšnis, prie kurio
+    yra to paties pavadinimo miestas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198268
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 229"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
+  citata_originali: |
+    1. Lydos apskrityje yra didžiulis [Dubičių] ežeras Dub, ar­
+    ba Duupe, tai yra Dviupis, kadangi jame prasideda dvi upės,
+    tekančios j skirtingas puses. Pasak vietos padavimų, jis buvo
+    laikomas šventu. Priėjo, vaizdingoje vietoje, yra kaimas, vadi­
+    namas Romanovu (Romanowo), kuris primena šventąjį Ro-
+    movės mišką; visiškai panašu į tiesą, kadangi jame augęs šven­
+    tasis ąžuolas ar buvusi kažkokia šventykla.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

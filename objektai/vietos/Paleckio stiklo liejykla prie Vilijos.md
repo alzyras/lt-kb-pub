@@ -125,7 +125,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82006
@@ -154,7 +154,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-82007
@@ -179,5 +179,5 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

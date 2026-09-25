@@ -187,7 +187,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-66735
@@ -209,7 +209,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-66736
@@ -230,7 +230,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-66737
@@ -249,7 +249,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-66738
@@ -268,7 +268,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-188826
@@ -279,9 +279,10 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     Transakcijos data: lauke prie Dovydiškių, Vieš­
     paties metais 1380, per Dievo Kūno aštuntadienį
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

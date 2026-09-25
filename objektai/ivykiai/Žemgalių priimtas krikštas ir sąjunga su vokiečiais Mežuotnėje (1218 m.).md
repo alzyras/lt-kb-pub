@@ -114,7 +114,7 @@ Tad būt'ent 1218 metais ten nuvyko pirmieji Zemgalos asmenys, gy venę jų sost
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188166
@@ -136,5 +136,5 @@ Tad būt'ent 1218 metais ten nuvyko pirmieji Zemgalos asmenys, gy venę jų sost
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

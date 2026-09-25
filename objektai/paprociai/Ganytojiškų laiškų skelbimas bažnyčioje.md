@@ -68,7 +68,7 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192172
@@ -91,7 +91,7 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-192173
@@ -110,8 +110,9 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
 ## Teiginiai
 
 <a id="claim-t-209551"></a>
@@ -149,4 +150,3 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
   pagrindžia:
     - c-192173
-

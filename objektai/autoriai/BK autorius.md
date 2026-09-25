@@ -33,20 +33,6 @@ canonical_biography: "1 0 Čia pabaiga pirm ojo originalaus intarpo, kur) BK aut
 
 1 0 Čia pabaiga pirm ojo originalaus intarpo, kur) BK autorius ¡dėjo | tekstų, jo paimtų iš Lietuvos metraščių PS.
 
-## Teiginiai
-
-<a id="claim-t-194146"></a>
-- t-001
-  teiginys: "1 0 Čia pabaiga pirm ojo originalaus intarpo, kur) BK autorius ¡dėjo | tekstų, jo paimtų iš Lietuvos metraščių PS."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176759
-
 ## Citatos
 
 - id: c-176759
@@ -67,5 +53,3 @@ canonical_biography: "1 0 Čia pabaiga pirm ojo originalaus intarpo, kur) BK aut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

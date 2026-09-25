@@ -195,7 +195,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -219,7 +219,7 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -241,5 +241,25 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-197032
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 339"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 339."
+  citata_originali: |
+    Tokia yra tikroji padėtis. Galima būtų stebėtis, jei
+    karšto klimato medis Phyllantus Emblica būtų atsidū­
+    ręs Prūsijoje, bet pakanka peržvelgti Gartnerio veikalą
+    ,,De fructibus et seminibus plantarum", kad įsitikintume,
+    jog minėtas vaisius neišaugo jokioje Emblikoje. Prie to
+    dar reikia pridurti, kad šis medis užauga vos 40 pėdų
+    aukščio, o prūsiška palmė buvo du kartus aukštesnė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

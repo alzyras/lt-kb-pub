@@ -63,5 +63,23 @@ Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203632
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
+  citata_originali: |
+    Štai koks nuostabus
+    dalykas! Kol skalviai buvo netikėliai, jie turėjo žuvies, o dabar laiko varles, kai yra
+    krikščionys, nes tame tvenkinyje jau nebėra tiek vandens, kad jo pakaktų žuvims.
+    Kodėl šitaip yra, nežinau, težino vienas dievas, kurio sprendimai nesuprantami, o keliai
+    nesuvokiami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

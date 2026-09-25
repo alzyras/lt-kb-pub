@@ -77,5 +77,5 @@ Augustas Friderikas Kocebus (1761–1819) buvo vokiečių literatas ir Rusijos i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

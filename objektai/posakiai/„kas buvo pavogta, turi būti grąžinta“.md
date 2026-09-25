@@ -67,5 +67,5 @@ Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -162,7 +162,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-79985
@@ -186,7 +186,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -205,7 +205,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184973
@@ -222,5 +222,5 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

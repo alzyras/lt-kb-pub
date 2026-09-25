@@ -116,7 +116,7 @@ Po pir mojo didžiojo magistro mirties jo įpėdiniu buvo išrinktas Otonas Karp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-187968
@@ -135,5 +135,5 @@ Po pir mojo didžiojo magistro mirties jo įpėdiniu buvo išrinktas Otonas Karp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

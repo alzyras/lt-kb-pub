@@ -87,7 +87,7 @@ canonical_biography: "1733 m. Jurgis Daukantas su žmona Agota skundėsi dėl Al
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186515
@@ -105,5 +105,5 @@ canonical_biography: "1733 m. Jurgis Daukantas su žmona Agota skundėsi dėl Al
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

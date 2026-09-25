@@ -180,7 +180,7 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169843
@@ -198,7 +198,7 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-169844
@@ -216,5 +216,5 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

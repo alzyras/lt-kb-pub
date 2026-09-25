@@ -83,5 +83,27 @@ Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastat�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205540
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
+  citata_originali: |
+    Apie tai, kaip buvo pastatytas ir išgriautas malūnas
+
+      Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti
+    broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246
+    persikėlė pas Baigos brolius, o šie, jiems atvykus, sustiprėjo ir pastatė prie upės malūną
+      245 Prūsiškoji Baigos pilis buvusi Aismarių kranto kyšulyje, per 25 m virš jūros lygio,
+    sausumos prieigas dengusios pelkės. Paėmę pilį, kryžiuočiai čia įsitvirtino, pastatė mūrinę
+    pilį, o šalia jos rytų pusėje — didelį papilį (Тоерреn M., HCCP, p. 203; Boetticher A., Die
+    Bau.., 2, p. 17—18).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

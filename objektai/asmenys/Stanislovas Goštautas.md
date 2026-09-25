@@ -124,7 +124,7 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83458
@@ -149,7 +149,7 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178785
@@ -175,5 +175,5 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

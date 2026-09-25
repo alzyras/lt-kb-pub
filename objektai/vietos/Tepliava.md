@@ -136,6 +136,18 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   pagrindžia:
     - c-59036
 
+<a id="claim-t-223862"></a>
+- t-223862
+  teiginys: "Prūsai Tepliavos pilį vadino Surgurbiu."
+  atnaujinta: "2026-09-20 11:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203270
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Petro Dusburgiečio kronikoje Tepliavos pilies pastatymas minimas ne chronologine tvarka, prieš 1263 m. Kroicburgo įvykį.'
@@ -172,7 +184,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59036
@@ -192,7 +204,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -212,7 +224,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-59038
@@ -231,5 +243,43 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-203270
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
+  citata_originali: |
+    Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
+    Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino
+    Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo
+    vieno ten gyvenusio sembo, vadinamo Laukstetu, vardo, jas sustiprinant, kad būtų
+    lengviau tramdyti sembus.
+    113 (108).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223862
+
+- id: c-205692
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
+  citata_originali: |
+    327 D. — Tapiow, Jer.— Tapiowe; Tepliava (buv. Tapiau, dab. Gvardeiskas) Deimenos
+    ir Priegliaus santakoje. Tepliavos vardu vadintas valsčius, kuriame buvusi prūsų pilis
+    Surgurbis (žr. D. III, 112; GAO, p. 177), stovėjusi, atrodo, santakoje, Deimenos kair.
+    krante. Ordinas 1265 m. čia pastatė savo Tepliavos pilį (prūsų pilies ieškota ir kiek toliau
+    į šiaurę nuo Tepliavos).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

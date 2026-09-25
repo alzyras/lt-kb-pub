@@ -75,5 +75,5 @@ Darbo sėkmę siejanti su sočiu gyvuliu formulė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -174,7 +174,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-31275
@@ -195,7 +195,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-72953
@@ -214,7 +214,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-166579
@@ -245,7 +245,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -266,5 +266,5 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

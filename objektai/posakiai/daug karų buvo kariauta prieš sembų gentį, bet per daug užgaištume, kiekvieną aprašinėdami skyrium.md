@@ -111,7 +111,7 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -135,7 +135,7 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179016
@@ -158,5 +158,47 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-205465
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 26"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
+  citata_originali: |
+    Aprašęs kai kurias kovas Skalvoje abipus Nemuno, kronikininkas pažymi, jog
+    „daug karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną“ (III, 188).
+    Kalbėdamas apie Skomanto vadovaujamų sūduvių ir lietuvių kariuomenės įsiveržimą
+    į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis
+    dažniau įsibraudavo“ į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir
+    nuostolių, kad tai labai dažnai pasikartodavo (III, 192). Nors apie Ordino pastangas
+    pavergti Sūduvą kronikininkas plačiai rašo, bet ir čia išsitaria: „Daug kartų ir be galo ilgai
+    broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“
+    (III, 219).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205889
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 26"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 26."
+  citata_originali: |
+    Kalbėdamas apie Skomanto vadovaujamų sūduvių  ir lietuvių kariuomenės įsiveržimą
+    į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis
+    dažniau įsibraudavo“  į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir
+    nuostolių, kad tai labai dažnai pasikartodavo (III, 192). Nors apie Ordino pastangas
+    pavergti Sūduvą kronikininkas plačiai rašo, bet ir čia išsitaria: „Daug kartų ir be galo ilgai
+    broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“
+    (III, 219). Netgi kalbėdamas apie XIV a.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

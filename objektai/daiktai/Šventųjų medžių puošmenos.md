@@ -82,5 +82,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199939
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 233"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 233."
+  citata_originali: |
+    Šios meilės vaisius buvo dvejetas įpėdinių.
+    Lietuvių religija medžių atžvilgiu mokė tokio pat pamal­
+    dumo: ne vieną šito pavyzdį turime kronikose, pasakojimuo­
+    se, padavimuose ir liaudies dainose. Šventųjų medžių puoši­
+    mas trofėjais, gėlių girliandomis ir degančiais žibintais buvo
+    įprastas dalykas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

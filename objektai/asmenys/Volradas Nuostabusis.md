@@ -35,25 +35,6 @@ canonical_biography: "Dusburgietis teigia, kad apie Lencenbergo pilies bei daugy
 
 Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginimą Tuo metu, kai prūsai buvo įtariami atskalūnybe, brolis Volradas, Notangos ir Varmės fogtas, vadinamas Volradu Nuostabiuoju355 (jis iš tiesų toks buvo), vakarieniavo su minėtosios žemės kilmingaisiais.
 
-## Teiginiai
-
-<a id="claim-t-60469"></a>
-- t-001
-  teiginys: "Volradas Nuostabusis, Notangos ir Varmės fogtas, Lencenbergo pilyje sudegino prūsų kilminguosius ir visą pilį."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Prūsai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "deterministic_validation_passed; llm_structured_decision; prusai_group_context"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Volradas Nuostabusis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Volradas sudegino prūsų kilminguosius; kandidatas „Prūsai“ pateiktas kaip vieta, todėl ryšys paliekamas atsargiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Volradas Nuostabusis puolė Prūsai (0.74)"
-  pagrindžia:
-    - c-61101
-
 ## Citatos
 
 - id: c-61101
@@ -79,5 +60,3 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

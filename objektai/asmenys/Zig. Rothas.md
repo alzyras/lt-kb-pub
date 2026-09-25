@@ -73,5 +73,5 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -53,3 +53,43 @@ Motiejus Dobratyckis, šaltinyje įvardijamas Vilniaus kanauninku kunigaikščiu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207749"></a>
+- t-001
+  teiginys: "Motiejus Dobratyckis, šaltinyje įvardijamas Vilniaus kanauninku kunigaikščiu, pateikė skundą prieš valdovo bajorą Vasilijų Fiodorovičių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190346
+
+## Citatos
+
+- id: c-190346
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 230"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 230."
+  citata_originali: |
+    Teisėjas Bogdanas Epimachas, gavęs Vilniaus kanauninko kunigaikščio Motiejaus
+    Dobratyckio skundą prieš valdovo bajorą Vasilijų Fiodorovičių, dalyvaujant ieškovui ir
+    atsakovui, įrašė į teismo knygą kanauninko skundą, kad jam grasino Vasilijaus Fiodo-
+    rovičiaus tarnautojas arba bičiulis. Teisėjas taip pat paskyrė 1000 kapų grašių garantinę
+    baudos sumą, kurią atsakovas turėtų sumokėti ieškovui, jeigu grasinimai būtų įvykdyti.
+    Tokiu pačiu būdu, nustačius, kad turės būti sumokėta bauda valdovui ir teisėjams,
+    1551 m. buvo išspręsta įsisenėjusi dviejų bajorų byla.
+  citata_rodoma: "Teisėjas Bogdanas Epimachas, gavęs Vilniaus kanauninko kunigaikščio Motiejaus\nDobratyckio skundą prieš valdovo bajorą Vasilijų Fiodorovičių, dalyvaujant ieškovui ir\natsakovui, įrašė į teismo knygą kanauninko skundą, kad jam grasino Vasilijaus Fiodo-\nrovičiaus tarnautojas arba bičiulis."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

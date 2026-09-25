@@ -93,7 +93,7 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-61641
@@ -109,5 +109,27 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-204288
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 188"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
+  citata_originali: |
+    Apie penktąją atskalūnybę ir apie bausmę už ją
+
+       Tais 1295 metais Boleslovas, Mazovijos kunigaikštis, apie kurį jau kalbėta, sielodamasis
+
+    Tacito minimus germanus lemovius (Lemonii ar Lemovii — Tacitas P. K., Rinktiniai raštai,
+    p. 29) bandoma sieti su XIII a. Lamatos žeme (Gudavičius E., Lemoviai, p. 75—83), bet
+    Lamatos vardas yra baltiškas (plg. pr. Lammoten, lie. loma, lomus, lie. vietovardžius
+    Lamata — GAO, p. 81; Топоров B. H., К фракийско-балтийским..., 60—61; Lietuvos
+    TSR administracinio-teritorinio suskirstymo žinynas, 2, p. 152).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

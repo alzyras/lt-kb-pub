@@ -93,7 +93,7 @@ Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188019
@@ -112,7 +112,7 @@ Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188103
@@ -132,5 +132,22 @@ Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-200771
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 231"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 231."
+  citata_originali: |
+    Lenkijoje Neras (Nėr) įteka į Vartą prie Chelmo. Italijoje,
+    Bažnyčios valstybėje, Nera įteka į Tiberį. Vengrijoje Nera įte­
+    ka į Temezą. Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve­
+    ra ežeras, kurio perimetras 10 mylių, nulieja vandenis į Volgą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

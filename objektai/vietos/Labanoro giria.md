@@ -94,5 +94,5 @@ Labanoro giri- (e) 4 = Maišiagala eliškės i > S oe t; sk k ‘ KAUNAS Nunsiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

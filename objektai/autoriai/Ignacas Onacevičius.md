@@ -257,6 +257,18 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   pagrindžia:
     - c-188838
 
+<a id="claim-t-212937"></a>
+- t-212937
+  teiginys: "Onacevičius Lietuvos istoriją suskirstė į tokias epochas:."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196819
+
 ## Citatos
 
 - id: c-55568
@@ -281,7 +293,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-006
 
@@ -303,7 +315,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -328,7 +340,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-78433
@@ -360,7 +372,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-78436
@@ -389,7 +401,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-78437
@@ -420,7 +432,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-171295
@@ -443,7 +455,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-176801
@@ -470,7 +482,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-184296
@@ -494,7 +506,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-188838
@@ -518,5 +530,43 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
+
+- id: c-196819
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 518"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 518."
+  citata_originali: |
+    I. Onacevičius Lietuvos istoriją suskirstė į tokias epochas:
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212937
+
+- id: c-198597
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  citata_originali: |
+    Išsamesnėms krašto praeities studijoms istoriką galė­
+    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
+    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

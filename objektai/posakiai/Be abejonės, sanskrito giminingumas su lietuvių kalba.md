@@ -86,10 +86,11 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
     25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
   citata_rodoma: "„Be abejonės, sanskrito giminingumas su lietuvių kalba yra"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

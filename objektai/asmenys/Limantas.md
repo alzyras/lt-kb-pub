@@ -81,5 +81,5 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

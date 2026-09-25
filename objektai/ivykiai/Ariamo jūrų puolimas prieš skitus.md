@@ -53,6 +53,27 @@ Nenurodyta
   pagrindžia:
     - c-173940
 
+<a id="claim-t-215283"></a>
+- t-215283
+  teiginys: "Narbutas Ariamo puolimą aiškina kerštu už pažeminimą: Kapadokijos valdytojas jūra puolė skitus, juos sumušė, paėmė grobio ir belaisvių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Ariamo jūrų puolimas prieš skitus: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ariamas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ariamo jūrų puolimas prieš skitus: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Ariamas tiesiogiai nurodytas kaip gavęs įsakymą pulti skitus; įvykio objektas yra šis puolimas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Ariamas puolė Ariamo jūrų puolimas prieš skitus (0.87)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-195390
+
 ## Citatos
 
 - id: c-173940
@@ -78,5 +99,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195390
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  citata_originali: |
+    Skitai savo ruožtu sudarė išmintingą gynybos pla­
+    ną: jie pirmiausia kreipėsi į savo kaimynus ir sąjunginin­
+    kus, kviesdami kovoti su bendru priešu, o patys, nusiau­
+    bę Padnestrės apylinkes, paliko šias vietas puolantiems
+    persams ir taip darė be paliovos traukdamiesi nuo jų
+    kariuomenės. Jie padalijo savo jėgas į dvi dalis, kurioms
+    vadovavo du vadai, turėję veikti pagal išankstinį susita­
+    rimą. Kadangi priešo būriai buvo narsūs ir puikiai gink­
+    luoti, todėl skitai niekur nestojo į mūšį, bet, gerai apsi­
+    galvoję ir išvengdami lemtingų kovų bei puldinėdami iš
+    šonų ir užnugario, vertė priešą sparčiai žygiuoti su visa
+    jo nesuskaičiuojamų atsargų našta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215283

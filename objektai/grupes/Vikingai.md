@@ -93,7 +93,7 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166331
@@ -114,5 +114,5 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

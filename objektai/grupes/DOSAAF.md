@@ -60,5 +60,5 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

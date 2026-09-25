@@ -102,7 +102,7 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-46441
@@ -125,5 +125,5 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

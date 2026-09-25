@@ -71,5 +71,5 @@ Dėl alanų galios padidėjimo ir išplitimo Europos dalis į šiaurę nuo sarma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

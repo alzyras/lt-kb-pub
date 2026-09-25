@@ -33,26 +33,6 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
 
 ## Teiginiai
 
-<a id="claim-t-189551"></a>
-- t-001
-  teiginys: "Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologiją, kurią vadino seniausios istorijos pamatu."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mitologija yra raktas seniausiajai tautų istorijai pažinti: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mitologija yra raktas seniausiajai tautų istorijai pažinti\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172439
-
 <a id="claim-t-189552"></a>
 - t-002
   teiginys: "Narbutas teigė, kad mitologija yra raktas seniausiajai tautų istorijai pažinti, remdamasis per trisdešimt metų kaupta medžiaga."
@@ -84,6 +64,18 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172439
+
+<a id="claim-t-219797"></a>
+- t-219797
+  teiginys: "Žodžiu, kiek tik leido laiko aplin kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito logija yra raktas seniausiajai tautų istorijai pažinti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198999
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -137,8 +129,7 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-003
 
 - id: c-172440
@@ -161,5 +152,28 @@ Narbutas pirmojo tomo tikslu laikė kuo išsamiau nušviesti lietuvių mitologij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198999
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
+  citata_originali: |
+    Be to, mano pa­
+    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
+    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
+    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
+    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
+    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
+    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
+    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
+    logija yra raktas seniausiajai tautų istorijai pažinti.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219797

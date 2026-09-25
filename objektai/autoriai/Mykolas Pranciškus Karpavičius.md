@@ -64,3 +64,68 @@ M. P. Karpavičius kalbėdamas Prienų pavieto bajorams aiškino, kad nuo įstat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208330"></a>
+- t-001
+  teiginys: "Karpavičiaus pamokslų misija tapo ir „proto apšvietimas įpilietinant liaudį“85."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-191015
+
+<a id="claim-t-208385"></a>
+- t-002
+  teiginys: "M. P. Karpavičius kalbėdamas Prienų pavieto bajorams aiškino, kad nuo įstatymų laikymosi priklauso jų šlovė, laimė, laisvė ir bajorystė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-191022
+
+## Citatos
+
+- id: c-191015
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 159"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 159."
+  citata_originali: |
+    Tokiame mąstyme prigimtinę teisę „absorbuoja
+    pozityvusis visuomenės įstatymas, sukonstruotas pagal prigimtinę teisę. Bendroji valia
+    užima prigimtinio įstatymo vietą“84. Iškeliant visuomeninį būvį, M. P. Karpavičiaus
+    pamokslų misija tapo ir „proto apšvietimas įpilietinant liaudį“85.
+  citata_rodoma: "M. P. Karpavičiaus \npamokslų misija tapo ir „proto apšvietimas įpilietinant liaudį“85"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-191022
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 148"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 148."
+  citata_originali: |
+    Tiek vieni, tiek
+    kiti įstatymų laikymąsi akcentavo kaip apsišvietusio ir tėvynę mylinčio piliečio
+    elgesį. M . P. Karpavičius, kalbėdamas Prienų pavieto bajorams, aiškino, kad nuo
+    ištikimo įstatymų laikymosi priklausys „jūsų šlovė, jūsų laimė, jūsų laisvė ir jūsų
+    bajorystė“50.
+  citata_rodoma: "M . P. Karpavičius, kalbėdamas Prienų pavieto bajorams, aiškino, kad nuo \ništikimo įstatymų laikymosi priklausys „jūsų šlovė, jūsų laimė, jūsų laisvė ir jūsų \nbajorystė“50."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002

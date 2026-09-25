@@ -72,5 +72,5 @@ Lencenbergas buvo pilis, kurioje vakarieniavo Volradas su Notangos ir Varmės ki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

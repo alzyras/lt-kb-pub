@@ -65,5 +65,5 @@ canonical_biography: 'Žalgirio mūšis įvyko dviem parom vėliau, bet ne ties 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

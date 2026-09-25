@@ -98,6 +98,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-197480
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 325"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 325."
+  citata_originali: |
+    Taip pat ir Romai antrąkart
+    pakliuvus į Totilos rankas, kai Justinianas surinko ka­
+    riuomenę, greta longobardų ir persų buvo herulų. Si ka­
+    riuomenė buvo sutelkta Pado žemupyje 552 metais Nar­
+    šui vadovaujant ir dalyvavo Taginos mūšyje; čia ir žuvo
+    Totila. Nedaug herulų, gal išlikusių kažkur Rytų valsty­
+    bės provincijose po to, kai prieš keturiasdešimt metų bu­
+    vo išblaškyti, liko šiose vietose gyventi1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -444,6 +444,18 @@ Nenurodyta
   pagrindžia:
     - c-175297
 
+<a id="claim-t-214916"></a>
+- t-214916
+  teiginys: "Taip pat daromos teisingos išvados, jog jie nekariavo su hunų vėliavomis, bet atvirkščiai — priešinosi hunams, o pra laimėję turėjo keltis į tolimą kraštą, kur jų nepasiekė kerštingi tų barbarų ginklai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195299
+
 ## Citatos
 
 - id: c-10308
@@ -460,7 +472,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-10309
@@ -482,7 +494,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-10310
@@ -501,7 +513,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-14345
@@ -521,7 +533,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-14349
@@ -538,7 +550,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-36751
@@ -561,7 +573,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-42581
@@ -583,7 +595,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-42582
@@ -605,7 +617,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-015
 
@@ -624,7 +636,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-160235
@@ -644,7 +656,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-160236
@@ -665,7 +677,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-160237
@@ -687,7 +699,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-160238
@@ -720,7 +732,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-021
 
@@ -746,7 +758,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-160240
@@ -764,7 +776,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-160241
@@ -783,7 +795,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-160245
@@ -800,11 +812,12 @@ Nenurodyta
     būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
     dėjus prie kitos vėliavos.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-013
 
@@ -830,7 +843,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-167714
@@ -848,7 +861,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-175297
@@ -867,5 +880,97 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
+
+- id: c-192693
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 289-290"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 289-290."
+  citata_originali: |
+    Kaipogi pats kūrėjų kūrėjas, išleisdamas kariauną į karę, laimino ją tokiu būdu: visų pirma
+        pasimeldęs išvyturo raudoną vėliavą ir kareiviams padavė, paskui, nešiojamas po rindas, barstė, regis,
+        druską ant kareivių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192802
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 290"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 290."
+  citata_originali: |
+    Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą,
+        sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno
+        žemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė^1303. Atlikusysis arba išmestasis
+        ir nevaidinusysis ant tos perveizos^1304 vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo
+        laikoma karės vėliava tos apykartos; kėlė į tą godą^1305 ne dėl didelumo turtų, kaip paskesnėse
+        gadynėse kad darė, bet, kaip sakiau, visų narsųjį ir guvųjį vyrą tarp pačių žemlionų, ką gal regėti
+        reistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių
+        žemlionų, arba vyčių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192897
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 297"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 297."
+  citata_originali: |
+    Kariauna, stodama į kovą, turėjo priešaky didelę baltą vėliavą, ant kurios buvęs skydas, pusiau
+        perdalytas, viršutinėje pusėj geltoni, o apatinėje mėlyni laukai, geltonuosiuose laukuose karūna
+        buvusi stati, o mėlynuosiuose aukštynoka^1334. Kartais turėję baltą vėliavą, kurios skyde buvęs žmogus
+        besėdįs meškos galva, ant kurios vėliavos buvę išrašyti tie žodžiai: „Dieve kūrėjau, supyk ant
+        pustytojų^1335 , užtik juos.“
+  statusas: verified
+  atnaujinta: "2026-09-13 18:04"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195299
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 114"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 114."
+  citata_originali: |
+    Taip pat
+    daromos teisingos išvados, jog jie nekariavo su hunų
+    vėliavomis, bet atvirkščiai — priešinosi hunams, o pra­
+    laimėję turėjo keltis į tolimą kraštą, kur jų nepasiekė
+    kerštingi tų barbarų ginklai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214916
+
+- id: c-197034
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
+  citata_originali: |
+    Kunigaikštis Danielius
+    išžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė.
+    Vasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­
+    zerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­
+    lė ir atėmė vado vėliavą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

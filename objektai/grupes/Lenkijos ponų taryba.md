@@ -56,6 +56,19 @@ Mackevičius, 1934 m. L I E T U V O S I S T O R I J A 52 ceremonija neįvyko –
   pagrindžia:
     - c-75147
 
+<a id="claim-t-207512"></a>
+- t-207512
+  teiginys: "Lenkijos ponų taryba privertė Jogailą atšaukti anksčiau duotą sutikimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190129
+
 ## Citatos
 
 - id: c-75147
@@ -78,5 +91,27 @@ Mackevičius, 1934 m. L I E T U V O S I S T O R I J A 52 ceremonija neįvyko –
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190129
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 140"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 140."
+  citata_originali: |
+    Lucko suvažiavi-
+    mas, kurio metu imperatorius Zigmantas iškėlė Vytauto vainikavimo Lietuvos karaliumi
+    klausimą, logiškai užbaigė tą sudėtingą Vytauto politinį kelią, numatytą dar XIV a. pabai-
+    goje ir atvedusį į galutinį tikslą: Lietuvos monarchija turėjo įsitvirtinti Europos politinėje
+    sistemoje. Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai
+    Julijonai, ceremonija neįvyko. Visų pirma, Lenkijos ponų taryba privertė Jogailą atšaukti
+    duotą sutikimą.
+  citata_rodoma: "Visų pirma, Lenkijos ponų taryba privertė Jogailą atšaukti \nduotą sutikimą."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207512

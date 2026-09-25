@@ -76,5 +76,24 @@ Narbutas citavo Vaterio veikalą „Sprache der alten Preussen“, 1821 m. išle
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195358
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 194"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 194."
+  citata_originali: |
+    200
+    Pasak šiandien daug kalbai nusipelniusių lingvistų,
+    nėra abejonių, jog visos Europos ir gana daug Azijos
+    (autų yra kilusios iš vienos giminės, kuri gyveno Vidu­
+    1 Vater. Sprache der alten Preussen, etc. Braunschweig. Annalis­
+    ten. Leipzig, 1821.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

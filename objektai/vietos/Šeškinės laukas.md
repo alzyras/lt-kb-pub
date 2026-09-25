@@ -36,27 +36,6 @@ historical_names: []
 
 Skirgaila persikėlęs per Nerį apsistojo Šeškinės lauke.
 
-## Teiginiai
-
-<a id="claim-t-187406"></a>
-- t-001
-  teiginys: "Skirgaila su savo kariuomenės pulkais persikėlė per Nerį ir apsistojo Šeškinės lauke."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "keliavo_i -> Šeškinės laukas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Šeškinės laukas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai rodo Skirgailos persikėlimą ir apsistojimą Šeškinės lauke."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Skirgaila keliavo į Šeškinės laukas (0.84)"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-170401
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Skirgaila su savo kariuomenės pulkais persikėlė per Nerį ir apsistojo Šeškinės lauke.'
@@ -100,5 +79,3 @@ Skirgaila persikėlęs per Nerį apsistojo Šeškinės lauke.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

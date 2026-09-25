@@ -72,5 +72,5 @@ canonical_biography: 1317 metais brolis Albrechtas iš Hageno užpuolė Sudargo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

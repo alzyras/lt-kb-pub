@@ -423,6 +423,18 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   pagrindžia:
     - c-75292
 
+<a id="claim-t-209611"></a>
+- t-209611
+  teiginys: "Smetoną Vilniaus ir Suvalkų gubernijoj, o p. Banaitį Kaimo gub."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192231
+
 ## Citatos
 
 - id: c-25431
@@ -443,7 +455,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-75281
@@ -469,7 +481,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-75282
@@ -499,7 +511,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-75283
@@ -521,7 +533,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-75284
@@ -547,7 +559,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-75285
@@ -571,7 +583,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-75286
@@ -594,7 +606,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-75288
@@ -620,7 +632,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-75289
@@ -641,7 +653,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-75290
@@ -666,7 +678,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-75291
@@ -685,7 +697,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-75292
@@ -705,7 +717,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-75293
@@ -734,7 +746,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-75294
@@ -760,7 +772,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-75295
@@ -780,7 +792,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-75296
@@ -805,7 +817,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-75297
@@ -830,7 +842,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-75298
@@ -852,7 +864,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-75299
@@ -878,7 +890,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-75300
@@ -905,8 +917,29 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
+
+- id: c-192231
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 52"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 52."
+  citata_originali: |
+    In-
+    galiojome p. A. Smetoną Vilniaus ir Suvalkų
+    gubernijoj,
+    o p. Banaitį
+    Kaimo gub.
+    Val­
+    džia apsiėmė juos priimti kontrolieriais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209611
 
 ## Ryšiai
 - A. Smetona valdė [[objektai/vietos/Lietuva]]

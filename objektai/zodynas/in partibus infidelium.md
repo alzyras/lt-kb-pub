@@ -70,5 +70,5 @@ Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

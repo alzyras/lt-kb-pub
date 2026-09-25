@@ -71,5 +71,5 @@ Dusburgietis teigia, kad Varmės, Notangos ir Bartos prūsai, priversti paklusti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

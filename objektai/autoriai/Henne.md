@@ -89,7 +89,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177365
@@ -112,5 +112,5 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

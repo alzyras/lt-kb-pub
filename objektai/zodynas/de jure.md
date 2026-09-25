@@ -107,7 +107,7 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-24791
@@ -128,7 +128,7 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-24792
@@ -150,5 +150,5 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

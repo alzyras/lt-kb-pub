@@ -117,7 +117,7 @@ Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptart
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174090
@@ -134,5 +134,49 @@ Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptart
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194704
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 512"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 512."
+  citata_originali: |
+    , Tekstas, kuriuo T. Narbutas papildė LTI, rengdamas antrąjį leidi­
+    mą (PEĮ. L. 294). Turima omenyje garsaus vokiečių istoriko, Hė­
+    gelio mokinio, Henriko Leo knyga, parašyta 1842—1845 metais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195229
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 512"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 512."
+  citata_originali: |
+    Brunsbergae, 1725.
+    192 /Prieš
+    paragrafą
+    „Apie
+    lietuvių
+    kalbą“/
+    Vokiečių istorikas Henrikas Leo darbe, pavadintame „Marienburgo
+    glosos“
+    (Die Malbergisch'e Glosse), teigia, jog žodžiai, vadinti
+    marienburgiškais, — nesuprasti
+    senoviškų
+    vokiškų
+    rankraščių
+    žodžiai, kurie buvo laikomi perrašinėtojų klaidomis. Jis juos per­
+    skaitė ir įrodė, jog tai keltų kalbos žodžiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

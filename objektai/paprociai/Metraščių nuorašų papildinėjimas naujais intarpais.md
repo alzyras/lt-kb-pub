@@ -78,5 +78,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-193154
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
+  citata_originali: |
+    Tiesa,
+    daugelyje Platesniojo sąvado nuorašų esama papildy­
+    mų — pametimų užrašų ir ilgesnių pasakojimų apie kai
+    kuriuos svarbesnius XV a. pabaigos ir XVI a. pirmo­
+    sios pusės įvykius. Tačiau tie pagrindinio teksto tęsiniai
+    nebepriklauso Platesniojo sąvado autoriui, o yra pri­
+    rašyti keliais etapais XVI a. viduryje. Jie vertintini
+    kaip savarankiškas LDK metraštinės literatūros vysty­
+    mosi etapas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

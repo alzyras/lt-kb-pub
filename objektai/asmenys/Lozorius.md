@@ -74,5 +74,23 @@ Lozorius mūšio metu lūkuriavo rezerve su poloviečiais, kuriuos vėliau smark
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194504
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
+  citata_originali: |
+    Kunigaikštis Danielius
+    išžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė.
+    Vasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­
+    zerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­
+    lė ir atėmė vado vėliavą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -69,5 +69,5 @@ Atstatytas Pūtvės papilys tų pačių metų rudenį buvo antrą kartą sudegin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

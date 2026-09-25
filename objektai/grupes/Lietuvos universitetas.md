@@ -73,5 +73,5 @@ Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų, 1919 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

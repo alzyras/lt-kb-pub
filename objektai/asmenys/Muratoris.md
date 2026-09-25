@@ -76,5 +76,25 @@ Muratoris išsaugojo apaštališkajam sostui skirtą donaciją, kurią sudarė l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194447
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 216."
+  citata_originali: |
+    222
+    Tai paminėję, pereikime prie rašytinių liudijimų, ku­
+    rie įrodo, jog Nemuno žemupyje iš tikrųjų buvęs Rusia
+    vadinamas kraštas. Muratoris išsaugojo donaeiją apašta­
+    liškajam sostui; ją sudarė lenkų kunigaikštis, pasivadinęs
+    Misica. Tai buvo Boleslovo Narsiojo tėvas Mečislovas,
+    valdęs nuo 964 iki 999 metų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

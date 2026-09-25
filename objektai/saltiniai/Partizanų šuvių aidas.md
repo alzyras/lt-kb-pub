@@ -71,5 +71,5 @@ p. 234, „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) Prisikėlimo apygardos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

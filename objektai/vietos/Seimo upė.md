@@ -80,5 +80,26 @@ Narbutas teigė, kad Hipakyris dabar vadinamas Seimo upe, o nerastą Herodoto up
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194565
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
+  citata_originali: |
+    Herodotas
+    teigia, kad iki šio krašto nuo Dnepro žiočių reikia plauk­
+    ti 40 dienų, o tai, anot Lelevelio apskaičiavimų2, turėtų
+    prilygti maždaug 4000 stadijų. Tad šis kraštas turėtų
+    būti Rogačiovo apylinkėse ir aukščiau. Buvo atkakliai
+    ieškoma tokio pavadinimo upės, bet nerasta; mes ma­
+    nome, kad tai turėtų būti dabartinė Desna, o Hipakyris
+    dabar vadinamas Seimo upe.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

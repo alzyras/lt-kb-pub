@@ -64,18 +64,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-13535"></a>
-- t-001
-  teiginys: "Lietuvos Respublika lenkiškoje Lietuvos sampratoje buvo vadinama Kauno Lietuva."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-16587
-    - c-74042
-
 <a id="claim-t-23422"></a>
 - t-002
   teiginys: "Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba."
@@ -131,8 +119,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-003
 
 - id: c-74041
@@ -154,6 +141,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-74042
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -171,6 +159,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-002

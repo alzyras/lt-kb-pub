@@ -81,5 +81,5 @@ Lietuviai apnuo dytas strėles naudojo dar 1512 m.1 2 Lietuvos didysis etmo nas,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

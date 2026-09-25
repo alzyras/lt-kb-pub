@@ -103,7 +103,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177265
@@ -128,5 +128,48 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194801
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
+  citata_originali: |
+    Imperatorius Au-
+    relianas Klaudijus stojo į kovą, galop prie Naisos Dar-
+    danijoje lemtingame mūšyje įveikė ir išvijo šiuos gro­
+    bikų būrius, visiškai juos sumušęs. Gotai patyrė didelių
+    nuostolių, o imperatorius prie savo titulų pridėjo Götti­
+    ens. Tarp kitų tautų su gotais** buvo ir herulai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196148
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
+  citata_originali: |
+    Taip ta­
+    pęs imperijos piliečiu, Malabatas gavo teisę užimti joje
+    aukščiausias pareigas, nes netrukus imperatorius suteikė
+    jam Romos konsulo titulą.
+    298
+    Netrukus po to, apie 269 metus, gotai, surinkę milži­
+    nišką apie 320 000 ginkluotų žmonių armiją, puolė impe­
+    riją, norėdami užkariauti visą valstybę. Imperatorius Au-
+    relianas Klaudijus stojo į kovą, galop prie Naisos Dar-
+    danijoje lemtingame mūšyje įveikė ir išvijo šiuos gro­
+    bikų būrius, visiškai juos sumušęs.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

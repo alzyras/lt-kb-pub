@@ -62,3 +62,38 @@ Rukainiai minimi kaip bažnyčios vieta, kuriai kadaise priklausęs Švč. M. Ma
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208268"></a>
+- t-001
+  teiginys: "Rukainiai minimi kaip bažnyčios vieta, kuriai kadaise priklausęs Švč. M. Marijos paveikslas buvo perduotas Vilniaus pranciškonų vienuolynui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190885
+
+## Citatos
+
+- id: c-190885
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 235"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 235."
+  citata_originali: |
+    Kaip tik tam ir pasitarnauja keleto nežymių įvykių iškalbingas aprašymas.
+    Vilniaus memoriale pažymima, kad 1831 m., uždarius Valkininkų vienuolyną,
+    t. A. Nieviarovskis pasirūpino, jog kadaise Rukainių bažnyčiai priklausęs garsus
+    Svč. M. Marijos paveikslas 1831 m. būtų perduotas Vilniaus pranciškonų vienuo­
+    lynui67.
+  citata_rodoma: "Vilniaus memoriale pažymima, kad 1831 m., uždarius Valkininkų vienuolyną, \nt. A. Nieviarovskis pasirūpino, jog kadaise Rukainių bažnyčiai priklausęs garsus \nSvč. M. Marijos paveikslas 1831 m. būtų perduotas Vilniaus pranciškonų vienuo­\nlynui67."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

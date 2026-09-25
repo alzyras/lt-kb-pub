@@ -77,7 +77,7 @@ Alšys įkūrė miestą ant kalno prie Karoblio upės. Karoblio upelis išteka i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-194054

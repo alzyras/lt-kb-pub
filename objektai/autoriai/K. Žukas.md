@@ -79,5 +79,5 @@ canonical_biography: "(^85) K. Žukas : Prof. K. Jablonskio bibliografija , Bibl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

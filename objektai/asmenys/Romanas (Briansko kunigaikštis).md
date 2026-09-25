@@ -77,18 +77,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   pagrindžia:
     - c-176125
 
-<a id="claim-t-193974"></a>
-- t-003
-  teiginys: "O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto paskirtas."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176599
-
 <a id="claim-t-196587"></a>
 - t-004
   teiginys: "Kilus pavojui Kijevui, kunigaikštis Romanas pakilo į kovą prieš Gedimino vadovaujamus lietuvius."
@@ -155,7 +143,7 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176125
@@ -188,7 +176,7 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176599
@@ -208,8 +196,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-178781
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -241,7 +227,7 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188325
@@ -266,7 +252,7 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 ## Ryšiai

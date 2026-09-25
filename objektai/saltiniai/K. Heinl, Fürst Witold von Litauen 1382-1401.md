@@ -74,5 +74,5 @@ Heinl : Fürst Witold von Litauen 1382-1401, 1925, 61 p. (^13) KolLJ, I, 51 p.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

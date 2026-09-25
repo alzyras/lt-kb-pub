@@ -69,7 +69,7 @@ Taip ir susidarė Gelonų-budinų respublika su viena valdžios forma ir viena r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-197465
@@ -88,5 +88,5 @@ Taip ir susidarė Gelonų-budinų respublika su viena valdžios forma ir viena r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

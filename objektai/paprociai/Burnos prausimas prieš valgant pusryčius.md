@@ -98,7 +98,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177808
@@ -115,9 +115,10 @@ Nenurodyta
     pusryčių.
   citata_rodoma: "Pažymėsime vieną mūsų tautišką paprotį: lietuvis prausia burną ne dieną pradėdamas, bet visada eidamas valgyti pusryčių."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

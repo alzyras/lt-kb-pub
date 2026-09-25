@@ -109,7 +109,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-38321
@@ -129,9 +129,10 @@ Nenurodyta
     diną ir galutinai atėmė iš jo Žemaitiją.
   citata_rodoma: "Tuo būdu buvo užbaigti painūs\nir daug lietuvių prekybą trukdę neramumai. Lietuvos pirkliai\ndabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­\ndiną ir galutinai atėmė iš jo Žemaitiją."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

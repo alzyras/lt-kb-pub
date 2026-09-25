@@ -102,11 +102,12 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     pats miesto centras, nedidelis, su mediniais namais, bet su
     tvirtų statinių tvorų ir griovių sutvirtinimais.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82039
@@ -133,7 +134,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-82040
@@ -155,7 +156,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

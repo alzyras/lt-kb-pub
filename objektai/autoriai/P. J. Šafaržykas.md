@@ -98,5 +98,26 @@ P. J. Šafaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyje tapo b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197072
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 262."
+  citata_originali: |
+    Šio nepaprastai mokslingo tyrinėtojo (nelaimei, pernelyg
+    dainai besiremiančio nuojauta, — dėl to jo išvados dažnai klaidin­
+    gos) įrodinėjimus verta čia išdėstyti bent jau tam, kad išsakytume ir
+    savo nuomonę. Žodyje phrugundiones jis įžvelgia paslėptą prūsų, o
+    ne vokiečių-burgundų (kaip kad buvo manyta iki tol) vardą. Tą žodį
+    jis dalija į dvi dalis: Phru, jo manymu, yra Pru, o pridėjus raidę
+    „s" — Prus, o dalį Gunde randa Estijos vietovardžiuose; ji reiškia
+    šalį, pavietą, gentį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

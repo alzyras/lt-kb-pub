@@ -58,5 +58,5 @@ Amerikos indėnai išsaugojo atmintį apie akmenų garbinimą, nes jie, kaip sak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

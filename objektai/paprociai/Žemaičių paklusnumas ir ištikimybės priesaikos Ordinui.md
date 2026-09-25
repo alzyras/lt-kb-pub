@@ -118,6 +118,6 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

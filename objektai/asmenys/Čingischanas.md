@@ -45,29 +45,6 @@ canonical_biography: "1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vad
 
 ## Teiginiai
 
-<a id="claim-t-191490"></a>
-- t-001
-  teiginys: "1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vadovaujamą kariuomenės būrį užimti Samachos ir Derbento vakarinėje Kaspijos pakrantėje."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Bojaduras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Čingischanas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bojaduras: mention_match, person, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čingischanas\" parinktas kaip owner_note_path. Targetas \"Bojaduras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1223 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys turi aiškų subjektą, veiksmą, datą, vadus ir tikslą. Jis neperima moralinių ar motyvų vertinimų, todėl papildoma atribucija nereikalinga."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174372
-
 <a id="claim-t-205740"></a>
 - t-002
   teiginys: "Pasak Narbuto, Temučinas po priklausomybės nuo niučių karaliaus pasiskelbė vienvaldžiu ir pasivadino Didžiuoju Chanu, arba Čingischanu."
@@ -79,6 +56,18 @@ canonical_biography: "1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vad
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-188355
+
+<a id="claim-t-215820"></a>
+- t-215820
+  teiginys: "1223 metais Čingischanas išsiuntė stiprų kariuomenės būrį į vakarinę Kaspijos pakrantę užimti Samachos ir Derbento miestų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196081
 
 ## Citatos
 
@@ -104,8 +93,6 @@ canonical_biography: "1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-188355
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -126,5 +113,25 @@ canonical_biography: "1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196081
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 109."
+  citata_originali: |
+    Kai 1223 metais Čingischanas išsiuntė stiprų savo
+    kariuomenės būrį, vadovaujamą vadų Bojaduro ir Cip-
+    noviano, į vakarinę Kaspijos pakrantę užimti Samachos
+    ir Derbento miestų, atsitiko taip, kad pirmasis miestas
+    pasidavė nesipriešindamas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215820

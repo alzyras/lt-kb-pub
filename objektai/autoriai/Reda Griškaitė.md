@@ -114,7 +114,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-84020
@@ -134,7 +134,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173671
@@ -162,5 +162,5 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

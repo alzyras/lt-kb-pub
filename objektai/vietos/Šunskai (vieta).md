@@ -69,5 +69,5 @@ canonical_biography: Šunskų parapijoje buvo išdeginti pašešupiai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

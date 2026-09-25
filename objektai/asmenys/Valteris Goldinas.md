@@ -84,5 +84,26 @@ Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenbu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206351
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
+  citata_originali: |
+    Apie 72 lietuvius, nukautus Notangoje
+    Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai
+    įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar
+    pagrobė viską, ką ten rado gyvą. Šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo
+    komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo
+    žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę, ir, stojęs į mūsų, nukovė visus,
+    išskyrus tris.
+    276 (269).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

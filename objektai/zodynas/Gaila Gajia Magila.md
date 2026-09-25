@@ -67,5 +67,30 @@ Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri kla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200211
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 148."
+  citata_originali: |
+    Gaila (Gajia)
+    Anot liaudies padavimų, prie piktųjų būtybių giminės pri­
+    klausė kažkokios moteriškos šmėklos, kankinančios žmones
+    ir gyvulius .
+    F. Noelis straipsnyje „Gajlau“ sako: „Arabai šitaip vadino
+    tam tikros rūšies miškų demonus, kurie žudydavo žmones ir
+    gyvulius“.
+    Atrodo, panašios rūšies dievybei Ksaveras Bogušas davė
+    Magilos (Magilla) vardą; jis reiškiąs pykčio deivę .
+    22 Ibid.
+    23 Sirvydo žodyne (p. 77) randame: Jędza - lietuviškai Gajia, lo­
+    tyniškai Lamia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

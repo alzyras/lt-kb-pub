@@ -107,7 +107,7 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-75495
@@ -144,5 +144,5 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -98,11 +98,12 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
     Petras.
   citata_rodoma: "Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras — Petras."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177971
@@ -118,7 +119,7 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177972
@@ -138,9 +139,10 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
     Oną.
   citata_rodoma: "Petras nesidaiijo su broliu žemės, nes jam prikaišiojo, kam vedęs vargingą Oną."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

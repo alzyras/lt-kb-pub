@@ -77,5 +77,5 @@ Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­ kis, kuris (nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

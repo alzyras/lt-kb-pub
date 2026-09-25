@@ -82,7 +82,7 @@ Teodoro Narbuto pateikimu, kunigaikštis Patrikas turėjo tris sūnus — Teodor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188500
@@ -103,5 +103,5 @@ Teodoro Narbuto pateikimu, kunigaikštis Patrikas turėjo tris sūnus — Teodor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

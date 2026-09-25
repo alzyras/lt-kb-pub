@@ -140,7 +140,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172743
@@ -161,7 +161,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172744
@@ -185,7 +185,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177028
@@ -203,5 +203,65 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-199538
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
+  citata_originali: |
+    Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
+    asmuo. Žymiausius laidojo ant kalnelių, greta jų namų. Net
+    pati jų forma rodo tam tikrą jų ryšį su mirusiųjų padėtimi ir
+    aukštomis pareigomis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199571
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
+  citata_originali: |
+    Be abejo,
+    tai vėliau mirusių artimų velionio giminaičių arba drauge su
+    juo sudegintų tarnų ir tarnaičių kapai.
+    Žemesnio luomo žmonių palaidojimai buvo be tokių soli­
+    džių statinių. Urnas su pelenais labai dažnai pakasdavo žemė­
+    je plikame lauke arba miškuose ir virš jų supildavo daugiau ar
+    mažiau iškilius kauburius iš smėlio, be jokių akmenų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200475
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
+  citata_originali: |
+    Urnas su pelenais labai dažnai pakasdavo žemė­
+    je plikame lauke arba miškuose ir virš jų supildavo daugiau ar
+    mažiau iškilius kauburius iš smėlio, be jokių akmenų. Paga­
+    liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami
+    kaip visos šeimos kapai; pradedant juos pilti, būdavo galvoja­
+    ma apie vietas šeimos nariams, mirsiantiems vėliau6.
+    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
+    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
+    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
+    kitame šio veikalo tome.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

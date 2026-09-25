@@ -47,6 +47,25 @@ Vartojamos formos: `aukos`, `aukas`.
   pagrindžia:
     - c-09619
 
+<a id="claim-t-210027"></a>
+- t-210027
+  teiginys: "`Aukausenos` šiame tekste reiškia aukojimo apeigas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
+<a id="claim-t-218487"></a>
+- t-218487
+  teiginys: "Kiekviena auka rėmėsi bendromis visų dalyvaujančiųjų vai šėmis, todėl tas, kuris nevalgydavo aukos, savo buvimu ją ter šė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200977
+
 ## Citatos
 
 - id: c-09618
@@ -63,6 +82,7 @@ Vartojamos formos: `aukos`, `aukas`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-09619
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -76,5 +96,23 @@ Vartojamos formos: `aukos`, `aukas`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200977
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 309."
+  citata_originali: |
+    Kiekviena auka rėmėsi bendromis visų dalyvaujančiųjų vai­
+    šėmis, todėl tas, kuris nevalgydavo aukos, savo buvimu ją ter­
+    šė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218487

@@ -150,7 +150,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-46268
@@ -171,7 +171,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-46269
@@ -196,7 +196,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-152973
@@ -220,7 +220,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-166289
@@ -239,7 +239,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175852
@@ -260,5 +260,5 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

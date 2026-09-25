@@ -79,5 +79,5 @@ Kazimieras buvo vainikuotas Lenkijos karaliumi 1447 m. birželio 25 d.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

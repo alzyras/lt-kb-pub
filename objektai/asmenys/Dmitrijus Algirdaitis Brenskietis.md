@@ -113,6 +113,6 @@ Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

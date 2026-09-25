@@ -61,5 +61,19 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192895
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 262"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 262."
+  citata_originali: |
+    Miera, ar saikas, storumo buvo: žiupsnis, rieškutės, gniūžtis^1137 , našta, klėbys, ašis^1138 , sauja, grįžtis, kepurė, rakandą, druskinė, dvolikis^1139 , sėtuvė, pūras, bačka, vežimas. Miera, arba saikas, tekumo^1140 buvo: lašas, tauragė^1141 , kaušas, krūžas^1142 ,^ kipis^1143 , milžtuvė, legerė^1144 , vogonas^1145 , verpelė^1146 , bačka, bosas ir taip toliau. Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^1150.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

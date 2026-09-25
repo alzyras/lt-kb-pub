@@ -74,6 +74,78 @@ Nenurodyta
   pagrindžia:
     - c-70118
 
+<a id="claim-t-209602"></a>
+- t-209602
+  teiginys: "Už 8.000 kronų, gautų iš Centralinio komiteto, nupirkta drabužių vaikams ir suaugusiems."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192222
+
+<a id="claim-t-209603"></a>
+- t-209603
+  teiginys: "Švedų Raudonasis Kryžius nematė kliūčių siųsti drabužius lietuviams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192223
+
+<a id="claim-t-209604"></a>
+- t-209604
+  teiginys: "Amerikos Raudonasis Kryžius galėjo padėti pervežti į Lietuvą siunčiamus drabužius per Švediją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192224
+
+<a id="claim-t-210381"></a>
+- t-210381
+  teiginys: "Ir pagal savo tėvo įsakymą toje vietoje, Vilnios žiotyse, kur ji įteka į Nerį, įtaisė ugniavietę, ir ten sa vo tėvo kūną sudegino, ir jo žirgą, ant kurio jodinėda vo, ir jo drabužius, kuriais vilkėdavo, ir jo mylimą vergą, kuriam jis buvo malonus, ir sakalą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193277
+
+<a id="claim-t-211003"></a>
+- t-211003
+  teiginys: "Ji patarė jam taip: kai tarnaitė ateis kloti jiems patalo, kad jis apsivilktų vienos tarnaitės drabužiais ir su ant rąja tarnaite išeitų, o pirmoji pasiliktų su ja."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194257
+
+<a id="claim-t-211796"></a>
+- t-211796
+  teiginys: "Vytautas Maskvos didžiajam kunigaikščiui dovanojo perlais siuvinėtų drabužių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193941
+
 ## Citatos
 
 - id: c-70118
@@ -93,5 +165,133 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192222
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 21"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 21."
+  citata_originali: |
+    Už pri­
+    siųstus 8.000 kronų iš Centralio komiteto nu­
+    pirkta reikalingų drabužių vaikams ir suaugu­
+    siems ir pasiijsta Vilniun p. Smetonos vardu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209602
+
+- id: c-192223
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 21-22"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 21-22."
+  citata_originali: |
+    Švedų Raudonasis Kryžius nemato kliūčių, del-
+    ko jisai negalėtų siųsti drabužių lietuviams.
+    Jisai nori, kad Amerikos lietuviai pasirūpin­
+
+    — 22 —
+    tų (jeigu tas reikalinga) išgauti pavelijimą, iš
+    atsakančių valdžių persiųsti drabužius . Rau­
+    doną švedų
+    Kryžiij.
+    Gavę čion
+    drabužius
+    ir susižinoję su vokiečių valdžia jie pasižada
+    pristayti juos į nurodytas vietas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209603
+
+- id: c-192224
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 22"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 22."
+  citata_originali: |
+    Man matos,
+    kad Amerikos lietuviams jau gražus laikas pa­
+    sirūpinti siuntimu drabužių Lietuvon.
+    Gal
+    galėtų pervežti Švedijon Lietuvon siunčiamus
+    drabužius Amerikos Raudonasis Kryžius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209604
+
+- id: c-193277
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 55."
+  citata_originali: |
+    Ir pagal savo tėvo įsakymą toje vietoje, Vilnios
+    žiotyse, kur ji įteka į Nerį, įtaisė ugniavietę, ir ten sa­
+    vo tėvo kūną sudegino, ir jo žirgą, ant kurio jodinėda­
+    vo, ir jo drabužius, kuriais vilkėdavo, ir jo mylimą
+    vergą, kuriam jis buvo malonus, ir sakalą, ir jo kurtą
+    sudegino.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210381
+
+- id: c-193941
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 97"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 97."
+  citata_originali: |
+    O didysis kunigaikštis
+    Vytautas taip pat pagerbė savo žentą, didįjį kunigaikš­
+    tį, ir dovanojo jam įvairių dovanų: perlais siuvinėtų
+    drabužių, brangių aksomų, vertingiausių brangakmenių,
+    žirgų su aukso balnais ir daug kitų nuostabių daiktų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211796
+
+- id: c-194257
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 83"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 83."
+  citata_originali: |
+    Ji
+    patarė jam taip: kai tarnaitė ateis kloti jiems patalo,
+    kad jis apsivilktų vienos tarnaitės drabužiais ir su ant­
+    rąja tarnaite išeitų, o pirmoji pasiliktų su ja. Ir jis pa­
+    gal jos patarimą apsivilko vienos tarnaitės drabužiais,
+    su antrąja išėjo ir, nusileidęs iš pilies, pabėgo į Prūsi­
+    ją pas vokiečius7.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211003

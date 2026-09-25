@@ -62,26 +62,6 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   pagrindžia:
     - c-60586
 
-<a id="claim-t-59954"></a>
-- t-002
-  teiginys: "1316 m. Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų išžudė Bisenės pilies sargybą keitusius lietuvius."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fridrichas iš Libencelės (vyskupas, XIV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Fridricho iš Libencelės žygį link Lietuvos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Fridrichas iš Libencelės (vyskupas, XIV a.) surengė žygį į Lietuva (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta glaudžiau ir tiksliau, nurodant, kad buvo išžudyti sargybą keitę lietuviai."
-  pagrindžia:
-    - c-60585
-
 <a id="claim-t-59955"></a>
 - t-003
   teiginys: "Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė."
@@ -173,8 +153,6 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-60586
   autorius: "Petras Dusburgietis"
@@ -203,7 +181,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-60587
@@ -230,7 +208,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-60588
@@ -251,5 +229,34 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-202615
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 222-223"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 222-223."
+  citata_originali: |
+    Tais pačiais metais ir tuo pat laiku Eberhardas,
+    Varmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino
+
+
+    pagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes,
+    netgi vyskupų valdas (žr. D. papildymus, 13 ir paaiškinimus).
+      584 D.— Rositen, Jer.— Rosîten; dab. Rezeknė, miestas Latgaloje į šiaurės rytus nuo
+    Daugpilio.
+      585  Dusburgietis,  tendencingai neigdamas Gedimino  laiškų  buvimą,  stengiasi
+    sumenkinti ir diskredituoti sėkmingą Lietuvos DK diplomatinę kovą prieš Ordino agresiją.
+    Apie Gedimino laiškus žr. GL, p. 7—18 (Pašuta V.), Jakštas J., Vokiečių ordinas..., 2, p.
+    6—32; Lietuvių karas..., p. 208—210 (Sideravičius K.).
+
+    Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje586; kai ši pilis jau buvo baigta,
+    kai buvo iškilmingai giedamos mišios į šventąją dvasią, per evangeliją pasirodė vienas
+    baltas baltutėlis naminis balandis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

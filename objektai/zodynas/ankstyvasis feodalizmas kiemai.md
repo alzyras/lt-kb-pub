@@ -95,7 +95,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166790
@@ -116,5 +116,5 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

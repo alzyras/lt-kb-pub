@@ -85,5 +85,5 @@ Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­ kilmingai įvesdinta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

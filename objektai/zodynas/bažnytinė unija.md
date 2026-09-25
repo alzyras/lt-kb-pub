@@ -65,5 +65,5 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

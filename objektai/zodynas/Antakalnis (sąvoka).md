@@ -66,9 +66,10 @@ Vorobjovas Antakalnio XIX ir XX a. vilas bei kareivines vertino kaip topografiš
     mums iš Kauno ir provincijos valdinio rusų „stiliaus1 ’ kūryba — šlykščios,
     gelsvai žalsvos plytinės kerėblos.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

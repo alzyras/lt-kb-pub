@@ -99,7 +99,7 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-70106
@@ -122,6 +122,7 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-184845
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
   puslapiai: "PDF 44"
@@ -134,5 +135,5 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

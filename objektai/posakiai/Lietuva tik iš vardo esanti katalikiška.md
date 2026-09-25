@@ -85,9 +85,10 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
     džiamas.
   citata_rodoma: "Vok. Ordinas nenorėjo nusileisti. Apie Vytautą jis skelbė\nVak. Europoje, kad tai yra labai pavojingas katalikams valdo-\nvas, nes visas pilis paveda stačiatikiams ir susideda su toto-\nriais, kurie veržiasi Europon. Lietuva tik iš vardo esanti ka-\ntalikiška: bažnyčios joje nestatomos, kat. tikėjimas nesklei-\ndžiamas."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

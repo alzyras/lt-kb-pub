@@ -78,6 +78,80 @@ Ypač gerai savo padalinių archyvinę medžiagą kaupė jėzuitai savo centrini
   pagrindžia:
     - c-185688
 
+<a id="claim-t-208006"></a>
+- t-208006
+  teiginys: "1758-1767 m. rekonstravo Vitebsko jėzuitų Šv."
+  atnaujinta: "2026-09-19 22:51"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  temporaliniai_duomenys: "įvykio data: 1758-1767; įvykio data: 1767 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190635
+
+<a id="claim-t-208032"></a>
+- t-208032
+  teiginys: "Jėzuitų ir pijorų konkurencija skatino mokymo programų inovacijas."
+  atnaujinta: "2026-09-19 22:51"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190808
+
+<a id="claim-t-208038"></a>
+- t-208038
+  teiginys: "Dirbo Viniaus dominikonams, bonifratrams, jėzuitams."
+  atnaujinta: "2026-09-19 22:51"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190623
+
+<a id="claim-t-208057"></a>
+- t-208057
+  teiginys: "Polocko jėzuitų Šv."
+  atnaujinta: "2026-09-19 22:51"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190692
+
+<a id="claim-t-212591"></a>
+- t-212591
+  teiginys: "Dažnai jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo vintais jėzuitų aprašymais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195832
+
+<a id="claim-t-213954"></a>
+- t-213954
+  teiginys: "T. Narbutas nurodo, kad 1583 metais Žemaitijoje apaštalavę jėzuitai aptiko didelių akmenų garbinimo pėdsakų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194695
+
 ## Citatos
 
 - id: c-185194
@@ -94,7 +168,7 @@ Ypač gerai savo padalinių archyvinę medžiagą kaupė jėzuitai savo centrini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185688
@@ -104,6 +178,124 @@ Ypač gerai savo padalinių archyvinę medžiagą kaupė jėzuitai savo centrini
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 21:24"
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190623
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 253"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 253."
+  citata_originali: |
+    J. V. Dyderšteinas su šeima j Vilnių atvyko 1749 m. Čia įsikūrė, susilaukė
+    dukters, palaikė bičiuliškus ryšius su kitais meninių specialybių atstovais. Dirbo
+    Viniaus dominikonams, bonifratrams, jėzuitams, tačiau geresnių veiklos galimybių
+    suviliotas 1752 m. vasarą iš sostinės išvyko'".
+  citata_rodoma: "Dirbo \nViniaus dominikonams, bonifratrams, jėzuitams"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208038
+
+- id: c-190635
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 255"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 255."
+  citata_originali: |
+    Sofijos katedrą, nuo 1749 m. statė Zabie-
+    lų-Valyncų dominikonų bažnyčią (konsekruota 1756 m.), nuo 1756 m. iki 1763 m.
+    koordinavo arkivyskupo G. Koniskio inicijuotas statybas Mogiliave. Jo pavardė
+    sutinkama Vitebsko jėzuitų pajamų ir išlaidų knygoje, iš kurios puslapių aiškėja,
+    kad 1758-1767 m. rekonstravo Vitebsko jėzuitų Šv. Juozapo bažnyčią ir kolegiją, o
+    laikinai išvykus darbus kuravo patikėtiniai - statybų prižiūrėtojai Mirskis ir Micke­
+    vičius (Mickiewicz).
+  citata_rodoma: "1758-1767 m. rekonstravo Vitebsko jėzuitų Šv. Juozapo bažnyčią ir kolegiją"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208006
+
+- id: c-190692
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 255"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 255."
+  citata_originali: |
+    Apie plačią architektūrinęj. K. Glaubico veiklą šiose teritorijose
+    liudija ir kiti jo autorystei priskirtini objektai - tai Polocko jėzuitų Šv. Stepono ir
+    Mstislavlio karmelitų Švč.
+  citata_rodoma: "Polocko jėzuitų Šv. Stepono"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208057
+
+- id: c-190808
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 225"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 225."
+  citata_originali: |
+    Reikšminiai žodžiai: Barokas, Apšvieta, XVIII a. proginė literatūra (lotynij),
+    mokymo sistema, jėzuitai, pijorai.
+    XVIII a. Lietuvos viešajame gyvenime aktyviausiai dalyvavo jėzuitų ir pijorų
+    kongregacijos, o jų konkurencinė sąveika skatino inovacijas abiejų vienuolijų
+    mokymo programose.
+  citata_rodoma: "XVIII a. Lietuvos viešajame gyvenime aktyviausiai dalyvavo jėzuitų ir pijorų \nkongregacijos, o jų konkurencinė sąveika skatino inovacijas abiejų vienuolijų \nmokymo programose."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208032
+
+- id: c-194695
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 480"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 480."
+  citata_originali: |
+    1583 metais jėzuitai, apašta­
+    laudami Žemaitijoje, aptiko tam tikrų didelių akmenų garbinimo
+    pėdsakus2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213954
+
+- id: c-195832
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  citata_originali: |
+    Dažnai
+    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
+    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
+    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
+    vintais jėzuitų aprašymais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212591

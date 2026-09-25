@@ -77,5 +77,5 @@ Kita kryžiuočių pilis, vadinta Fridbergu (taikos kalnas), pastatyta tuo pat m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

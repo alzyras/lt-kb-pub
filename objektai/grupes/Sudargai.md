@@ -117,7 +117,7 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175700
@@ -146,7 +146,7 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175701
@@ -172,5 +172,30 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194972
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
+  citata_originali: |
+    288
+    Istorinės išvados. Sudargai, kuriuos istorikai vadina
+    Satargarii ir Sadargii, buvo ištikimiausi skiriu bičiuliai:
+    visi drauge įsikūrė prie Dunojaus žemupio, kartu patyrė
+    likimo smūgius, kuriuos labiau užtraukė klastingi svebų
+    karaliukų patarimai negu jų pačių neapdairumas ar gotų
+    priespaudos priežastys. Kadangi paskutinio žygio metu
+    skiriu stovykloje buvo du vadai — Eduka ir Volfas, tai
+    pagrįstai galima daryti išvadą, kad pirmasis vadovavo
+    skiriams, o antrasis — sudargams arba kad tarp abiejų
+    vienos giminės genčių buvo sąjunga ir kiekviena iš jų
+    turėjo savo vadą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

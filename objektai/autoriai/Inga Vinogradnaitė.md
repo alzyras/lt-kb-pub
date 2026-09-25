@@ -112,5 +112,5 @@ Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

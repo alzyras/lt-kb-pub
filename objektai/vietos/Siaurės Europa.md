@@ -80,5 +80,27 @@ Narbutas Siaurės Europos praeities miglotumą siejo su vėlyvu rašto pažinimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195974
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 28"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 28."
+  citata_originali: |
+    O ir tas, kuris susipažino su priešistorinės seno­
+    vės epochomis, apiplėštomis įvairių senienų epochomis,
+    ko kito galėtų geisti? Siaurės Europoje ilgai užsitęsęs lai­
+    mingai ištobulėjusio pietuose rašto nepažinimas, karai,
+    sumaištys, dar pragaištingesni gaisrai, religijų ir civili­
+    nių organizacijų kaita greta visuotinės tamsos nugramz­
+    dino mūsų tėvynės praeitį į neperžvelgiamą debesį. Ant­
+    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
+    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

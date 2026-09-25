@@ -90,7 +90,7 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184126
@@ -105,9 +105,10 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
     vardu. Čia jau galima kalbėti apie meninę formą ir apie architektūrinį
     stilių.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

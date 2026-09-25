@@ -94,5 +94,5 @@ Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

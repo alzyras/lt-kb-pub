@@ -41,39 +41,6 @@ canonical_biography: "Dusburgietis teigia, kad broliai jiems bandė pastoti keli
 
 Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį Joną, vadinamą Pope, o daug kitų sužeidė.
 
-## Teiginiai
-
-<a id="claim-t-60351"></a>
-- t-001
-  teiginys: "1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Ragainė: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lietuviai užpuolė Ragainės pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1315 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir turi neaiškių įvardžių."
-  pagrindžia:
-    - c-60983
-
-<a id="claim-t-194495"></a>
-- t-002
-  teiginys: "Broliai jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį Joną, vadinamą Pope, o daug kitų sužeidė."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60983
-
 ## Citatos
 
 - id: c-60983
@@ -97,6 +64,3 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002

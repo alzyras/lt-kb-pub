@@ -70,19 +70,6 @@ Nenurodyta
   pagrindžia:
     - c-175791
 
-<a id="claim-t-194872"></a>
-- t-002
-  teiginys: "Vėliau dažniau matome jotvingių ryšius su lietuvių gentimis, su kuriomis jie nuo seno turėjo santykių, nes, gyvendami klajokliškai, turėjo daug naudos iš medžiok lės."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177268
-
 ## Citatos
 
 - id: c-175791
@@ -105,7 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177268
@@ -130,5 +117,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-197232
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 118"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 118."
+  citata_originali: |
+    114
+    Istorinės pastabos. Jotvingių tauta, kiek galima spręs­
+    ti iš istorinių šaltinių, buvo mažai civilizuota, gyveno
+    valstiečių bendruomenėmis arba buvo susiskirsčiusi į vals­
+    čius arba ordas, kurių kiekvienai vadovavo kažkokie lyg
+    karaliukai, sudarę tarpusavio sąjungas. Jotvingiai noriai
+    puldinėdavo kaimyninius kraštus, atsitraukdami visuomet
+    mokėjo panaudoti savo krašto gamtos gynybines sąly­
+    gas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

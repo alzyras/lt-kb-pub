@@ -56,18 +56,6 @@ Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga
   pagrindžia:
     - c-172968
 
-<a id="claim-t-197389"></a>
-- t-002
-  teiginys: "Belskis globojo ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus dirbinius."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179161
-
 ## Citatos
 
 - id: c-172968
@@ -92,7 +80,7 @@ Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179161
@@ -115,5 +103,49 @@ Narbutas Belskio nuomonę apie Ledą, Ladą, Lėlį ir Polėlį laikė klaidinga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-199869
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 138"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 138."
+  citata_originali: |
+    Tai buvo Linų Izidė, to augalo vertės atradėja; ji globojo
+    ne patį linų auginimą lauke, bet tai, kas padaryta iš linų, visus
+    dirbinius.
+    Linai pirmiausia atrasti Egipte, kur auga kaip laukinis au­
+    galas, todėl pirmieji lininiai dirbiniai turėjo pasirodyti šiame
+    krašte; apdoroti juos išmokė karalienė Izidė, Hermio žmona,
+    todėl Antikos žmonės ją praminė Isis linigem.
+    Aušra (Aussra)
+    Ryto deivė.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200496
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
+  citata_originali: |
+    Šie
+    mitai jokiu būdu netaikomi Ledos dvyniams Kastorui ir Poliuk-
+    sui, kaip tai mėginta įrodyti.
+    Šios nuomonės klaidingumas atsirado dėl to, kad šitaip ma­
+    nė kronikininkas Belskis, kuriam tikriausiai pirmiau už Lato­
+    ną atėjo į galvą Ledos vardas, panašesnis į Ladą, žinomą Lėlio
+    ir Polėlio motinos vardu.
+    Tyrėjams stokojant kritiškumo, ta klaida išplito panašiai
+    kaip mūsų mitologų spėjimas; kai kurie iš mūsų deivės Lados
+    daro graikų Venerą arba egiptiečių Izidę, o iš jos dvynių Lėlių
+    vadina Kupidonu, o Polėlių - Himenėju.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

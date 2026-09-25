@@ -68,5 +68,5 @@ canonical_biography: "Štai 1543 m. Kauno miesto tarybos ir suolininkų atleidž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

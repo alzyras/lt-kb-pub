@@ -64,25 +64,6 @@ Nenurodyta
     - c-63052
     - c-167338
 
-<a id="claim-t-183953"></a>
-- t-002
-  teiginys: "Per penkių kaimų apiplėšimą Goliubo pilies apylinkėse lietuvių kariuomenė paėmė į nelaisvę arba nužudė daug krikščionių."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "surenge_zygi_i -> Kulmas: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje aiškiai pasakyta, kad lietuvių kariuomenė įsibrovė į Kulmo žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-167338
-
 ## Citatos
 
 - id: c-63052
@@ -106,7 +87,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167338
@@ -138,6 +119,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002

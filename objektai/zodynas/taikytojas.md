@@ -29,25 +29,6 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
 
 ## Teiginiai
 
-<a id="claim-t-185369"></a>
-- t-001
-  teiginys: "Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuostolius."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Ivanas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "taikytojas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ivanas: mention_match, person, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"taikytojas\" parinktas kaip owner_note_path. Targetas \"Ivanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168730
-
 <a id="claim-t-185370"></a>
 - t-002
   teiginys: "Maskvėnai turėjo paskirti taikytojus, kurie Sebežo krašte įsakytų grąžinti kaimus ir atlyginti nuostolius."
@@ -91,8 +72,6 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-168731
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -118,5 +97,5 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

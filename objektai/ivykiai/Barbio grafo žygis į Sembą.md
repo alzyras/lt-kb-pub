@@ -69,5 +69,5 @@ Barbio grafas su didele kariuomene įsiveržė į Sembą ir ją nusiaubė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

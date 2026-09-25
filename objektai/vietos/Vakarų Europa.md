@@ -170,6 +170,19 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   pagrindžia:
     - c-184063
 
+<a id="claim-t-208354"></a>
+- t-208354
+  teiginys: "Lietuvos ir Vakarų Europos civilizacinių / kultūros ryšių glaudinimo."
+  atnaujinta: "2026-09-20 02:20"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
+  pagrindžia:
+    - c-190853
+
 ## Citatos
 
 - id: c-155482
@@ -191,7 +204,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-155483
@@ -214,7 +227,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175538
@@ -239,7 +252,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176323
@@ -256,7 +269,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184062
@@ -266,8 +279,9 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 2."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:29"
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184063
@@ -277,9 +291,55 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 15."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:29"
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-190853
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 352"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 352."
+  citata_originali: |
+    3 6i
+    buvo sunaikinta agresyvių kaimynų Rusijos, Prūsijos ir Austrijos, nenorėjusių ir
+    negalėjusių kaip kaimynės turėti stiprėjančios valstybės“ (p. 676). Gan svarbus yra
+    ir Lietuvos Didžiosios Kunigaikštystės bei Vakarų Europos sąsajų paryškinimas.
+    Z. Kiaupa aštuonioliktąjį šimtmetį įvardija kaip „anksčiau užmegztų bei plečiamų
+    Lietuvos ir Vakarų Europos civilizacinių / kultūros ryšių glaudinimo“ (p. 676)
+    amžių.
+  citata_rodoma: "Lietuvos ir Vakarų Europos civilizacinių / kultūros ryšių glaudinimo"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208354
+
+- id: c-196693
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
+  citata_originali: |
+    Ten jie vadinami Sembi\ iš čia ki­
+    lęs Sembos — vienos prūsų provincijos — pavadinimas2.
+    Taip pat nebūtina įrodinėti, jog senovės germanai3 jei
+    ir netiesiogiai kilę, tai giminiavosi su kimbrais nuo jų
+    persikėlimo į Vakarų Europą laikų4; tai, be laibejo1, įvyko
+    netrukus po 650 metų prieš Kristaus gimimą, kai kimbrų
+    grobuoniški antpuoliai Rytuose ėmė slopti5.
+    25
+    Kimbrų gentims, pagyvenusioms penkis, o gal kiek
+    daugiau amžių, dėl kažkokių svarbių priežasčių buvo lem­
+    ta pasitraukti iš Baltijos jūros pakrančių6.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Kimbrai]]

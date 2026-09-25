@@ -83,5 +83,24 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200463
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 252"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 252."
+  citata_originali: |
+    Ar
+    ji yra vietinė ar užsieninė, spręsti palieku žinovams.
+    Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie
+    Druskininkų, lauke, kuriame yra daug laidojimų, apie kuriuos
+    čia kalbama. Vienoje pusėje pavaizduotas Gedimino šeimos her­
+    bas Stulpai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

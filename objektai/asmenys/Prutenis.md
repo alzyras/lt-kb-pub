@@ -66,18 +66,6 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
   pagrindžia:
     - c-177116
 
-<a id="claim-t-197439"></a>
-- t-003
-  teiginys: "Prutenis gyvenęs ir Šventamiestyje, kitaip Šventajame Karvelyje; tam tikrais kritiškais momentais, kai Didžiajai Rornovei kildavo grėsmė, kad gali būti priešo užimta, arba kai ji būdavo naikinama, kaip per karus su lenkais, tuomet jis gyvendavo vietovėse, kurios turi panašius pavadinimus."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179189
-
 ## Citatos
 
 - id: c-61051
@@ -95,7 +83,7 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177116
@@ -119,7 +107,7 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179189
@@ -142,5 +130,65 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-198457
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
+  citata_originali: |
+    Palaikydavo taiką arba
+    užkurdavo karo gaisrą, nes buvo artimas dievų puotų dalyvis.
+    Iki kryžiuočių užpuolimo vyriausiojo žynio buveinė buvo Ro-
+    movė Natangijoje, Prūsos ir Bysleidos upių santakoje. Sako,
+    kad kadaise jis gyvenęs ir Šventamiestyje, kitaip Šventajame
+    Karvelyje; tam tikrais kritiškais momentais, kai Didžiajai Ro-
+    rnovei kildavo grėsmė, kad gali būti priešo užimta, arba kai ji
+    būdavo naikinama, kaip per karus su lenkais, tuomet jis gy­
+    vendavo vietovėse, kurios turi panašius pavadinimus.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199088
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
+  citata_originali: |
+    Išeitų, kad dievo Šneibrato mitas virto nusipelniusio tau­
+    tai dievinamo vyro simboliu, kadangi tie patys kronikininkai
+    teigia, jog trejetas vyriausiųjų dievų buvo Perkūnas, Atrimpas
+    ir Poklius, o po jų vyriausiesiems dievams priklausė taip pat
+    Viršaitis, Šneibratas ir Kurkas.
+    Tai paimta iš paminklų, rastų Prūsijoje, kur kaip dievai buvo
+    garbinami du broliai - Vaidevutis ir Prutenis, garbinti per sta­
+    bus tų minėtų dievų, kurie turėjo ir atskiras savo valdymo sritis.
+    Jam aukodavo sorų paplotėlius, iškeptus ant ugnies, sukur­
+    tos prie liepų medžių21.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206093
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55."
+  citata_originali: |
+    Problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi
+    (II a. pr. m. e.) Prūsijumi (Długossii J. Annales..., kn. II, p. 216); kitur Prūsijos pradžia
+    siejama su Pruteniu ir Videvučiu (SRP, 4, p. 293—298; Jurginis J. Legendos..., p. 17—
+    18, 70—75, 89— 97).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

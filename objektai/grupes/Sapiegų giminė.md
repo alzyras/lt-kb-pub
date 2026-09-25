@@ -114,7 +114,7 @@ A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171223
@@ -132,7 +132,7 @@ A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185873
@@ -142,6 +142,24 @@ A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jo
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 61 (PDF 4)."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:26"
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-199840
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 401."
+  citata_originali: |
+    Lie­
+    9
+    Neseckis (Herbarz Polski. -  T. VIII. -  S. 242) teigia, kad Sapiegų
+    giminės protėvio herbe buvo pavaizduotos trys lelijos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

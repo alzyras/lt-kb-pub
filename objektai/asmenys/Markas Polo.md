@@ -55,6 +55,16 @@ Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuoki
   pagrindžia:
     - c-174324
 
+<a id="claim-t-215478"></a>
+- t-215478
+  teiginys: "Dažnai jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo vintais jėzuitų aprašymais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Citatos
 
 - id: c-174324
@@ -77,5 +87,5 @@ Teodoras Narbutas rašo, kad Marko Polo žinios apie Kiniją ilgai buvo išjuoki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

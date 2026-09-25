@@ -72,6 +72,26 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   pagrindžia:
     - c-163141
 
+<a id="claim-t-179439"></a>
+- t-179439
+  teiginys: "Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Gediminas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai įvardyta Gedimino ir rygiečių sąjunga."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Rygiečiai buvo sąjungininkas su Gediminas (0.93); Rygiečiai kariavo prieš Kryžiuočių ordinas (0.86); Rygiečiai puolė Daugavgryva (0.78)"
+  pagrindžia:
+    - c-163133
+    - c-163134
+    - c-163137
+    - c-163141
+
 ## Citatos
 
 - id: c-163133
@@ -91,6 +111,9 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-179439
+
 - id: c-163134
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -108,6 +131,9 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-179439
+
 - id: c-163137
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -126,8 +152,9 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-179439
 
 - id: c-163141
   autorius: "Zenonas Ivinskis"
@@ -145,8 +172,9 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-179439
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Lietuviai]]

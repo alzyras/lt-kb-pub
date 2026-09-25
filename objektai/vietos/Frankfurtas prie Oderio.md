@@ -83,7 +83,7 @@ Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167539
@@ -104,5 +104,5 @@ Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

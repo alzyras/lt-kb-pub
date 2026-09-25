@@ -60,5 +60,5 @@ Pastarasis, gavęs iš valdovo pievą Kauno girioje prie Pilvos upės ir teisę 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

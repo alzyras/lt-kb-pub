@@ -82,7 +82,7 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83557
@@ -116,5 +116,5 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

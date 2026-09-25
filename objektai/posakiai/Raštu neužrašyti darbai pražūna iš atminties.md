@@ -122,11 +122,12 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     Lietuvos, Žemaitijos, Rusios, Kijevo ir 1.1, kunigaikštis.
   citata_rodoma: "IV KNYGA\nVardan šventosios ir nedalomosios Trejybės Amen. Vi­\nsus mirtingųjų atliekamus darbus kartu su pačiu žmogumi \nsunaikina griaunanti senatvė, ir jokios žinios ateinančioms \nkartoms nebūtų perduotos, jei nebūtų nenykstančių, patiki­\nmai paliudytų raštų. Gilios išminties karaliai ir valdovai su­\nprato, kad jų valdymo metu nuveikti darbai turi būti įam­\nžinti rašto paminklais ir patikimais paliudijimais. Amžinai \ndalykų atminčiai. Mes, Aleksandras, Dievo malone didysis \nLietuvos, Žemaitijos, Rusios, Kijevo ir 1.1, kunigaikštis."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-55783
@@ -145,11 +146,12 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     ir tėvonis. Amžinai dalykų atminčiai.
   citata_rodoma: "IV  KNYGA\nVardan Viešpaties Amen. Kad savo metu nuveikti žmo­\nnių darbai iš mirtingųjų atminties neišnyktų, gilios išmin­\nties karaliai ir valdovai sugalvojo tokius aktus ir darbus raš­\ntais ir patikimais liudininkų parašais įmažinti. Todėl mes, \nAleksandras, Dievo malone Lenkijos karalius, didysis Lie­\ntuvos, Rusios, Prūsijos, Žemaitijos ir 1.1, kunigaikštis. Ponas \nir tėvonis. Amžinai dalykų atminčiai."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55784
@@ -186,5 +188,5 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

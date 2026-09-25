@@ -85,7 +85,7 @@ J. Kiaupienės tyrimai parodė, kad per visą XVI–XVIII a. laikotarpį Žemait
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186270
@@ -104,5 +104,5 @@ J. Kiaupienės tyrimai parodė, kad per visą XVI–XVIII a. laikotarpį Žemait
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

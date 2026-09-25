@@ -44,6 +44,16 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
   pagrindžia:
     - c-61925
 
+<a id="claim-t-221070"></a>
+- t-221070
+  teiginys: "Sembos kanauninko rinkinyje yra žinių, išrašytų iš neišlikusio Seniausio Prūsijos metraščio."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sembos kanauninko rinkinio tyrinėjimai rodo, kad jame yra žinių iš neišlikusio Seniausio Prūsijos metraščio.'
@@ -84,5 +94,5 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

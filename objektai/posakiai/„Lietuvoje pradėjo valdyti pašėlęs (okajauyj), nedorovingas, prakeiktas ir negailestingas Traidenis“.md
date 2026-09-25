@@ -128,11 +128,12 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
     ruoliais : « Sirijos Antiochu, Jeruzalės Erodu, Romos Neronu »^227.
   citata_rodoma: "Pagal\nIpatijų, keturi Traidenio broliai (Borza, Sirputis, Lesis, Svilkenis)\nesą buvę krikščionys, kilnus ir geri vyrai^225 Bet toji kronika nepa­\ngailėjo piktų žodžių pačiam Traideniui. Prie 1270 m. ji pradžioje\npažymi : « Lietuvoje pradėjo valdyti pašėlęs _(okajauyj),_ nedorovingas,\nprakeiktas ir negailestingas Traidenis ». Jis ten lyginamas su žiau­\nruoliais : « Sirijos Antiochu, Jeruzalės Erodu, Romos Neronu »^227."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003

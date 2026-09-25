@@ -72,5 +72,24 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203214
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
+  citata_originali: |
+    XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
+    Nr. 52, p. 38 ir kt.). Dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius,
+    dalyvavęs Čekijos karaliaus Otokaro II (ir kryžiuočių) 1255 m. puolime prieš Sembą,
+    konstatuoja, kad už Prūsijos  į šiaurę tęsiasi Semba (Prusciam sequitur Zambia ad
+    aquilonem — Colker M. L. America..., p. 721; Samalavičius S., Abramauskas S. Naujas...,
+    p. 63).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -105,7 +105,7 @@ Moterė lės verkia iš susirūpinimo, ir negali suprasti, kad kas nors iš liuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192473
@@ -122,7 +122,7 @@ Moterė lės verkia iš susirūpinimo, ir negali suprasti, kad kas nors iš liuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-192474
@@ -144,5 +144,5 @@ Moterė lės verkia iš susirūpinimo, ir negali suprasti, kad kas nors iš liuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -97,7 +97,7 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175930
@@ -120,5 +120,5 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

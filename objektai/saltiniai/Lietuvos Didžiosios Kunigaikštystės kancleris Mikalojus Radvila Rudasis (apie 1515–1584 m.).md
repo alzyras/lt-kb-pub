@@ -74,5 +74,5 @@ Pirmuose dviejuose monografijos skyriuose analizuojama didžiojo medžioklio par
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

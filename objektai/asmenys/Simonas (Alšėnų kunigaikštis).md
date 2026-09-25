@@ -139,7 +139,7 @@ canonical_biography: "Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83553
@@ -170,5 +170,5 @@ canonical_biography: "Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

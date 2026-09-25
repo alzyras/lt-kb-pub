@@ -129,7 +129,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-84196
@@ -152,7 +152,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-84197
@@ -199,7 +199,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-84198
@@ -225,5 +225,5 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

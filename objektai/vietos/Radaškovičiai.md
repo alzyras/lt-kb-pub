@@ -90,5 +90,31 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199132
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
+  citata_originali: |
+    Tais metais karaliui Žy­
+    gimantui buvo daug darbų ir rūpesčių; mat, be ši­
+    to darbštaus seimo, dar kariavo šiaurėje karą su
+    Rusija. Romanas Sanguška kovojo kruvinus mū­
+    šius su Rusija; įvyko taip, kad karalius, Piotrkovo
+    seime parengęs abiejų tautų žygį, rudenį su ka­
+    riuomene išžygiavo iš Vilniaus, bet pasiekė tik Ra-
+    daškovičius; ten jis susitiko su caro pasiuntiniais,
+    pareiškusiais pageidavimą taikytis. Nors karalius
+    nenutraukė karo veiksmų, už kuriuos stojo San­
+    guška ir Jonas Chodkevičius, tačiau, matyt, sku­
+    bėjo sušaukti seimą Gardine dar 1567 metų pa­
+    baigoje, išsiuntinėjęs universalus Lietuvai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

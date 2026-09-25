@@ -84,5 +84,22 @@ Carlo Denina nurodytas kaip 1784 m. Venecijoje išleisto veikalo „Delle Rivolu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195485
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
+  citata_originali: |
+    1
+    Delle Rivoluzioni d’Italia, di Carlo Denina in Venezia. 1784,
+    Lib. V, Gap. 1; ištraukos iš Tilemano, Muratorijaus ir kitų sudaro
+    šios temos pagrindą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

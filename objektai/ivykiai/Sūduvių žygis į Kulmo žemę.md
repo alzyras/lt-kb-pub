@@ -69,5 +69,5 @@ Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene spalio 2
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

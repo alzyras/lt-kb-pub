@@ -54,18 +54,6 @@ Sembos žemėje, Gėlavandenių marių pakrantėje, stovėjo pilis priešais Bra
   pagrindžia:
     - c-204250
 
-<a id="claim-t-220346"></a>
-- t-220346
-  teiginys: "1280 m. sūduviai, pasitelkę lietuvius, smarkiai užpuolė Sembos žemę."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-202318
-
 ## Citatos
 
 - id: c-202318
@@ -81,8 +69,6 @@ Sembos žemėje, Gėlavandenių marių pakrantėje, stovėjo pilis priešais Bra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-220346
 
 - id: c-204250
   autorius: "Petras Dusburgietis"
@@ -100,4 +86,3 @@ Sembos žemėje, Gėlavandenių marių pakrantėje, stovėjo pilis priešais Bra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-

@@ -65,5 +65,5 @@ Tik apie vidurį antrojo tūkstantmečio prieš Kristų į Lietuvą patenka paty
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

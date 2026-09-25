@@ -106,7 +106,7 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82260
@@ -130,7 +130,7 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184133
@@ -144,9 +144,10 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
     niu šv. Jono bažnyčios fasadu, šis kiemas žavi mus plačia ir vienkart dar­
     niai organizuota erdve.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

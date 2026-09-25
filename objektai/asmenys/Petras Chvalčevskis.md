@@ -68,5 +68,5 @@ Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mirties 1551 m. Kauno se
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

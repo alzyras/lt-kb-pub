@@ -318,18 +318,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   pagrindžia:
     - c-177109
 
-<a id="claim-t-197414"></a>
-- t-016
-  teiginys: "Kristoforas Hartknochas turėjo aukurą, arba akmeni, esantį tarp Frauenburgo ir Tolkmito, ant kurio žvejai atnašaudavo jam pirmas sužvejotas žuvis."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-172853
-
 <a id="claim-t-197415"></a>
 - t-017
   teiginys: "Hartknochas (p. 159) nurodo kronikininką Grunau, kuris linkęs manyti, kad prūsai garbinę dievą Kurką kartu su mazoviečiais."
@@ -354,30 +342,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   pagrindžia:
     - c-172854
 
-<a id="claim-t-197417"></a>
-- t-019
-  teiginys: "Kristoforas Hartknochas gimdydavo ne tik įgimtu būdu, bet galėdavo pagimdyti vaikų iš rankų, kojų, galvos ir iš kitų kūno dalių."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-172855
-
-<a id="claim-t-197418"></a>
-- t-020
-  teiginys: "Kristoforas Hartknochas taip sėkmingai pakreipė dalykų eigą, kad visa senovinė Biarmija priėmė Kristaus tikėjimo šviesą be pasipriešinimo ir noriai."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179175
-
 ## Citatos
 
 - id: c-172853
@@ -398,8 +362,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-016
 
 - id: c-172854
   autorius: "Teodoras Narbutas"
@@ -420,7 +382,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-172855
@@ -444,8 +406,6 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-019
 
 - id: c-172856
   autorius: "Teodoras Narbutas"
@@ -467,7 +427,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
     - t-004
@@ -492,7 +452,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-172858
@@ -514,7 +474,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-172859
@@ -538,7 +498,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-172860
@@ -560,7 +520,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-172861
@@ -584,7 +544,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-172862
@@ -605,7 +565,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-172864
@@ -628,7 +588,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-172866
@@ -653,7 +613,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-172867
@@ -672,7 +632,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-177108
@@ -692,7 +652,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-177109
@@ -714,7 +674,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-179174
@@ -740,7 +700,7 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-017
 
@@ -765,5 +725,226 @@ Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
+
+- id: c-198550
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
+  citata_originali: |
+    Dar
+    jis turėjo aukurą, arba akmeni, esantį tarp Frauenburgo ir Tol-
+    kmito, ant kurio žvejai atnašaudavo jam pirmas sužvejotas žu­
+    vis. Apaštalai, apkrikštydami prūsus, daugiausia vargo, kol įvei­
+    kė prietaringą tikėjimą šia dievybe*.
+    Latviai tą dievą, vadindami Zeemneeks, garbino visiškai ta
+    pačia prasme kaip lietuviai.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:05"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198768
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
+  citata_originali: |
+    Draugystės, svetingumo, santai­
+    kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
+    baimingai tautai tikriausiai nebuvo tušti simboliai. Tad Ški­
+    cas, Henenbergeris, Hartknochas ir Kojalavičius apšmeižė se­
+    novės lietuvius, priskirdami jiems žiaurumą su ligoniais, bejė­
+    giais, luošaisiais arba mirštančiais žmonėmis, esą buvę įprasta
+    pagreitinti jų mirtį . Tuo nepatikės niekas, kas bent kiek pa- 13
+    13
+    Iš dalies tą darė herulai -  tai pasakysime mūsų istorijos tęsiny­
+    je, -  bet ne smurtu ir ne pagal religijos nuostatus, o tik prietaringų ir
+    ligos palaužtų senelių prašymu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198774
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
+  citata_originali: |
+    Todėl plačios galimybės maitintis visuomenės lengvatikiš­
+    kumu leido laikyti daug žynių.
+    Turime pakankamai kronikose išlikusių raštiškų paminė­
+    jimų, kuriuos kruopščiai surinko Hartknochas savo Prūsijos
+    istorijoje; ypač reikšmingos yra ištraukos iš popiežiaus legato,
+    Leodijos arkidiakono Jokūbo privilegijos, duotos prūsams 1249
+    metais. Kitką pasisėmėme iš rankraščių ir padavimų, kuriuos
+    pasitaikė surinkti, visuomet laikydamiesi griežto kritiškumo,
+    su kuriuo išlukštenama tiesa iš per amžius susikaupusios pai­
+    niavos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198928
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
+  citata_originali: |
+    Pagaliau atsirado tikrasis Biarmijos apaštalas -
+    šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
+    kupinas žmoniškumo ir žmogaus širdies supratimo. Davęs
+    žmonėms pažinti savo dorybes ir užsitarnavęs jų meile, nie­
+    kuo neįžeisdamas čiabuvių tautos, nors pats buvo rusas, jis
+    taip sėkmingai pakreipė dalykų eigą, kad visa senovinė Biar­
+    mija priėmė Kristaus tikėjimo šviesą be pasipriešinimo ir no­
+    riai. Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
+    biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų
+    sušvelninti rūsčią tautą, aistringai mylinčią savo tėvynę.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199023
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 240."
+  citata_originali: |
+    Toliau klausinėjant, pavyko išgirsti pasakojimą
+    apie šventąją blindę. Viena moteris, besivadinanti Blinde (Blin­
+    da), turėjo ypatingą dovaną: galėjo paleisti į pasaulį aibe pali­
+    kuonių neapsakomai lengvai, be to, ji gimdydavo ne tik įgimtu
+    būdu, bet galėdavo pagimdyti vaikų iš rankų, kojų, galvos ir iš
+    kitų kūno dalių. Žemė, vaisingiausioj i iš motinų, ėmė pavydė­
+    ti jai tokio vaisingumo, todėl vieną kartą, kai Blindé ėjo per
+    gramzdžią pievą, jos kojos įklimpo, ir žemė taip suspaudė pė­
+    das, kad nebegalėjo ji pajudėti iš vietos ir pavirto medžiu -
+    blinde.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199661
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
+  citata_originali: |
+    Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis
+    prie žemės buvo dvidešimt septynių uolekčių apimties (vadi­
+    nasi, skersmuo buvo beveik devynios uolektys!); paliudyti tai
+    ir išduoti matų pažymėjimą gali gerbiamoji Vėluvos miesto
+    taryba; aš pats turiu šito įrodym iĮ su tos tarybos antspaudu.
+    Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
+    jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
+    išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200212
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
+  citata_originali: |
+    V skyrius
+    ŠVENTĖS, IŠKILMĖS
+    Klaidinga Čackio nuomonė1, esą lietuviai germanų pavyz­
+    džiu skaičiavę laiką ne dienomis, o naktimis. Tą pastebėjęs
+    Neliubavičius (Nielubowicz) vienoje senoje lietuviškoje dai­
+    noje. Hartknochas, mėgstantis viską pritempti prie germaniš­
+    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
+    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
+    tus1 2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200650
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
+  citata_originali: |
+    Krikščionims iš smalsumo buvo
+    draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
+    tikriausiai ne4.
+    Hartknochas pagal senus duomenis nurodo garsų šventąjį
+    mišką, kurio vietą senovės Prūsijos žemėlapiuose pažymi prie
+    Žemaitijos sienos, santakoje dviejų upių, iš kurių viena įteka į
+    Rusnės įlanką. Jis turėjo būti prie Tenenio upės, rodos, toje
+    vietoje, kur yra Prūsijos Romučių (Romuten) kaimas, o Že­
+    maitijoje, tik už sienos - Romuniškiai (Romuniszki).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200844
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
+  citata_originali: |
+    Nežinia, dėl kurios priežasties, nes jei dėl žodžių
+    panašumo, tai jis apsiriko: lietuviai jo nevadino kitaip, kaip
+    tik Žemininku, o prūsai - Kurku, o jei iš lotynų kalbos Cur-
+    chus, tai visai ne nuo žodžio gora, nes gora yra Kalnas. Hart-
+    knochas (p. 159) nurodo kronikininką Grunau, kuris linkęs
+    manyti, kad prūsai garbinę dievą Kurką kartu su mazoviečiais.
+    Mes nustatėme jį atitinkant slavų Čarnobogą (Czarnobog) ar­
+    ba Ziemiobogą, kuris buvo Bialobogo priešingybė, kaip lietu­
+    vių mitologijoje Žemininkas - Santvara priešingybė.
+    Šio dievo mitas taip pat sutampa su senovės persų Oro-
+    mazu ir Arimanu, iš kurių, matyt, ir kilęs. Senovės romėnai
+    vadino jį Niger Deus ir painiojo su Plutono mitais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200917
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 265."
+  citata_originali: |
+    Treteris Jono I, Varmijos
+    vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
+    reiktų jos ieškoti. Remdamasis tuo, Hartknochas senosios Prū­
+    sijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bys-
+    leidos upių, nors rutuliukas, turintis pažymėti vietovę, padė­
+    tas ne visai tiksliai. O antrajame Naujosios Prūsijos, jau val-
+    6
+    Žinoma, kad slavai šventyklas vadino gontinomis (Gontyny) ar­
+    ba kontinomis (Kontyny).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

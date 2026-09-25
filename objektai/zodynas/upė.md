@@ -62,6 +62,22 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   pagrindžia:
     - c-175352
 
+<a id="claim-t-215429"></a>
+- t-215429
+  teiginys: "Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "upė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"upė\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.'
@@ -99,6 +115,7 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-175352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -119,5 +136,5 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

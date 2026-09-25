@@ -73,9 +73,10 @@ Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo l
     mantas.
   citata_rodoma: "Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­\nmantas."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

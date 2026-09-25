@@ -99,7 +99,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179236
@@ -123,5 +123,53 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194763
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
+  citata_originali: |
+    Iš pra­
+    džių jų ginklai įvarė gerokai baimės, bet imperatoriaus
+    sūnus Galėnas sulaikė puolimą ir sutriuškino herulus. Ta­
+    čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­
+    kiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo
+    toks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­
+    sipirkti taiką, paaukojus kažkokį pajūrio kraštą. Taip ta­
+    pęs imperijos piliečiu, Malabatas gavo teisę užimti joje
+    aukščiausias pareigas, nes netrukus imperatorius suteikė
+    jam Romos konsulo titulą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196200
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
+  citata_originali: |
+    Ta­
+    čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­
+    kiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo
+    toks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­
+    sipirkti taiką, paaukojus kažkokį pajūrio kraštą. Taip ta­
+    pęs imperijos piliečiu, Malabatas gavo teisę užimti joje
+    aukščiausias pareigas, nes netrukus imperatorius suteikė
+    jam Romos konsulo titulą.
+    298
+    Netrukus po to, apie 269 metus, gotai, surinkę milži­
+    nišką apie 320 000 ginkluotų žmonių armiją, puolė impe­
+    riją, norėdami užkariauti visą valstybę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -63,5 +63,5 @@ Aš, kaip atrodo, pasirinkau vidurio kelią: pateikdamas faktus apie tautą, iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

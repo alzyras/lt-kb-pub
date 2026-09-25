@@ -29,38 +29,17 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
 
 ## Teiginiai
 
-<a id="claim-t-189441"></a>
-- t-001
-  teiginys: "Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivaitį, o žmonės parpuldavo veidais žemyn."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-216608"></a>
+- t-216608
+  teiginys: "Per aukojimo apeigas, kurias atlikdavo vyresnieji žy niai, vadovaujami vietinio krivio, padedami vaidilų, tų žynių keliamas triukšmas prilygdavo karo triukšmui."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172328
-
-<a id="claim-t-189442"></a>
-- t-002
-  teiginys: "Narbutas abejojo pasakojimu, kad vaidila galėjęs pagalve uždusinti ligonį, jei būrimai rodė neišvengiamą mirtį."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vaidila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaidilos: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vaidila: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidilos\" parinktas kaip owner_note_path. Targetas \"Vaidila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172329
+    - c-198278
 
 ## Citatos
 
@@ -81,8 +60,6 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-172329
   autorius: "Teodoras Narbutas"
@@ -109,5 +86,21 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-198278
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 342"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 342."
+  citata_originali: |
+    Per aukojimo apeigas, kurias atlikdavo vyresnieji žy­
+    niai, vadovaujami vietinio krivio, padedami vaidilų, tų žynių
+    keliamas triukšmas prilygdavo karo triukšmui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216608

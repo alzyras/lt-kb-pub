@@ -68,6 +68,24 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   pagrindžia:
     - c-82403
 
+<a id="claim-t-86424"></a>
+- t-86424
+  teiginys: "Vilniaus miestiečiams ir pirkliams buvo nurodyta mokėti muito, čopės ir šoso rinkliavas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Czopowe: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "muitas thelonea: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Czopowe: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"muitas thelonea\" parinktas kaip owner_note_path. Targetas \"Czopowe\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82403
+    - c-82404
+    - c-82405
+
 ## Citatos
 
 - id: c-82403
@@ -101,8 +119,9 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-86424
 
 - id: c-82404
   autorius: "Michał Baliński"
@@ -140,8 +159,9 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-86424
 
 - id: c-82405
   autorius: "Michał Baliński"
@@ -170,3 +190,5 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-86424

@@ -75,5 +75,5 @@ Po Žalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės taika ir Žema
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

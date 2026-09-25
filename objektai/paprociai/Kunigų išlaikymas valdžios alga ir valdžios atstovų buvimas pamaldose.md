@@ -83,7 +83,7 @@ Jinai moka kunigams tų pat alga (150 r.) kų mokėjo rusų valdžia. Per pamoks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192520
@@ -100,5 +100,5 @@ Jinai moka kunigams tų pat alga (150 r.) kų mokėjo rusų valdžia. Per pamoks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

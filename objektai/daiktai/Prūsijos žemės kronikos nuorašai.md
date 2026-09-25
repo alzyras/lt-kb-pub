@@ -55,28 +55,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-59704"></a>
-- t-001
-  teiginys: "M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Berlynas: 0.76"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prūsijos žemės kronikos nuorašai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Berlynas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini Berlyno nuorašus kaip dalį kronikos nuorašų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Prūsijos žemės kronikos nuorašai priklausė Berlynas (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1861 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra savarankiškas, faktinis ir paremtas citata."
-  pagrindžia:
-    - c-60336
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.'
@@ -114,5 +92,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

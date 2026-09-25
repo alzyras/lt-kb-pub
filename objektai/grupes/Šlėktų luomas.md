@@ -73,5 +73,5 @@ Tačiau šis Statutas tarnavo išim­ tinai tik šlėktų luomui, nes miestui ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

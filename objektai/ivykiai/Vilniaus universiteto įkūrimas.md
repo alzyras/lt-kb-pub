@@ -118,6 +118,56 @@ Nenurodyta
   pagrindžia:
     - c-23274
 
+<a id="claim-t-71774"></a>
+- t-71774
+  teiginys: "Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas."
+  atnaujinta: "2026-09-20 03:43"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus universiteto įkūrimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus universiteto įkūrimas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1618 m.; įvykio data: 1646 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-23274
+
+<a id="claim-t-71775"></a>
+- t-71775
+  teiginys: "Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto kūrimu."
+  atnaujinta: "2026-09-20 03:43"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus universiteto įkūrimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus universiteto įkūrimas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-23272
+    - c-23274
+
+<a id="claim-t-207425"></a>
+- t-207425
+  teiginys: "1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą."
+  atnaujinta: "2026-09-20 03:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą bei tiesiogiai aprašo Vilniaus universiteto įkūrimo aplinkybę."
+  pagrindžia:
+    - c-190042
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: '1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
@@ -156,8 +206,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-71775
 
 - id: c-23273
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -176,6 +227,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-23274
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -199,8 +251,10 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+    - t-71774
+    - t-71775
 
 - id: c-166672
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -221,5 +275,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190042
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 172"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 172."
+  citata_originali: |
+    Galiausiai 1579 m. balandžio 1 d.
+    karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir
+    pastangas, išdavė Vilniaus akademijos atidarymo privileginį raštą. 1579 m. spalio 29 d.
+    popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu. Nau-
+    joji mokykla vadinosi Academia et Universitas Vilnensis Societatis Iesu – Vilniaus Jėzaus
+    draugijos akademija ir universitetas.
+    Įkurtas Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė
+    Lietuvos mokykla, bet ir svarbiausias kultūros centras.
+  citata_rodoma: "siai 1579 m. balandžio 1 d. \nkaralius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir \npastangas, išdavė Vilniaus akademijos atidarymo privileginį raštą. 1579 m. spalio 29 d. \npopiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu. Nau-\njoji mokykla vadinosi Academia et Universitas Vilnensis Societatis Iesu – Vilniaus Jėzaus \ndraugijos akademija ir universitetas.\nĮkurt"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207425

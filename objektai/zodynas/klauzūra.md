@@ -68,5 +68,5 @@ Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapini�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

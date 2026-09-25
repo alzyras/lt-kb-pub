@@ -77,5 +77,5 @@ canonical_biography: "1738 m. Adomas Dzentoletas kreipėsi į teismą dėl savo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

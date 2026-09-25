@@ -65,19 +65,6 @@ canonical_biography: "1227 metais prie Voluinės Vladimiro buvo suimti du jotvin
   pagrindžia:
     - c-174206
 
-<a id="claim-t-191325"></a>
-- t-002
-  teiginys: "Pasak Teodoro Narbuto, Sutras Monoduničius krito mūšio lauke nuo pačių kunigaikščių ginklo."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174207
-
 ## Citatos
 
 - id: c-174206
@@ -105,7 +92,7 @@ canonical_biography: "1227 metais prie Voluinės Vladimiro buvo suimti du jotvin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174207
@@ -123,5 +110,30 @@ canonical_biography: "1227 metais prie Voluinės Vladimiro buvo suimti du jotvin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-196581
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
+  citata_originali: |
+    Taip vadų rankose buvo su­
+    kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­
+    dant, kai sykį Uchanės grafas Gotardas, Lukošiaus sūnus,
+    kautynėse suėmė septynis jotvingių kunigaikštukus, kiek­
+    vienas jų išsipirko sumokėdamas septynis šimtus gryno
+    sidabro grivinų, o tai yra šiandieninių lenkiškų auksinų
+    po 22 tūkstančius 400 už kiekvieną3. Jotvingiai, nepaisy­
+    dami iš mazoviečių ir prūsų patirtų nesėkmių, gyvendami
+    slavų Brastos kaimynystėje, 1227 metais savo antpuolius
+    išplėtė net iki Voluinės Vladimiro, kur buvo suimti du
+    jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
+    vičius. Tuo tarpu Voluinės kunigaikščiai Danielius ir Va-
+    silka buvo priversti žygiuoti net iki jotvingių gyvenvie­
+    1 Voigt.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

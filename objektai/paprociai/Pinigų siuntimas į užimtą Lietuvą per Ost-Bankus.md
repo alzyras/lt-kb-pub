@@ -62,18 +62,6 @@ Nenurodyta
   pagrindžia:
     - c-192507
 
-<a id="claim-t-209885"></a>
-- t-209885
-  teiginys: "Pinigai į užimtą Lietuvą buvo siunčiami per Vilniaus ir Kauno Ost-Bankus."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
-  pagrindžia:
-    - c-192505
-
 ## Santrauka
 
 Pinigai į užimtą Lietuvą buvo siunčiami per Vilniaus ir Kauno Ost-Bankus. Per Kauno Ost-Banką j Kauno ir Kimšo gub. „Darbininkas“ tarpininkavo pinigų siuntime.
@@ -93,8 +81,6 @@ Pinigai į užimtą Lietuvą buvo siunčiami per Vilniaus ir Kauno Ost-Bankus. P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-209885
 
 - id: c-192506
   šaltinis: "Kelionė Lietuvon 1916 karės metais"
@@ -125,4 +111,3 @@ Pinigai į užimtą Lietuvą buvo siunčiami per Vilniaus ir Kauno Ost-Bankus. P
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-

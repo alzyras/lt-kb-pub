@@ -102,6 +102,6 @@ canonical_biography: "1413 m. sausio 28 d. derybose Salyne (prie Kauno) su Vokie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

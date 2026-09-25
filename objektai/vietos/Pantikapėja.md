@@ -79,5 +79,26 @@ Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197650
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
+  citata_originali: |
+    Pantikapas, o
+    tai panašiausia į tikrovę, yra šiandienė Pripetė, jungianti
+    Baltijos ir Juodosios jūros vandens baseinus. Šiuo vardu
+    Skitijos geografijoje galėjo būti vadinama ne viena upė
+    ir vietovė, nes žinoma, kad šiandien Kerčės tvirtovė sto­
+    vi ant Pantikapėjos miesto griuvėsių1. Taip pat nėra
+    pagrindo neigti, kad šiandien Arklių Vandenimis vadina­
+    ma upė buvo kitados graikų vadinta Pantikapu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

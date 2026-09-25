@@ -88,7 +88,7 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-163258
@@ -109,5 +109,5 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

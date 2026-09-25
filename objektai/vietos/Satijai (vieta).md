@@ -76,5 +76,5 @@ Narbutas pasakoja, kad Satijų valsčiuje sugautas pagonių žynys, tikriausiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

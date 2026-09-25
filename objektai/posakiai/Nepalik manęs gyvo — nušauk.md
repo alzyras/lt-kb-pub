@@ -54,5 +54,5 @@ Pakilau perbėgti tolyn ir matau - greta manęs buvęs Mingilas krinta apsipylę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

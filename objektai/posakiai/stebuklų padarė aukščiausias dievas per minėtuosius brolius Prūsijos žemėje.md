@@ -154,7 +154,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
@@ -176,6 +176,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-85548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -194,7 +195,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -215,5 +216,44 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-202319
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
+  citata_originali: |
+    Štai tokių didžiulių
+    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“. Toliau
+    Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne
+    Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo,
+    kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“. Taigi autorius siekia išaukštinti
+    jau užmirštus Ordine pirminius idealus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204773
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
+  citata_originali: |
+    Toliau
+    Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne
+    Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo,
+    kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“. Taigi autorius siekia išaukštinti
+    jau užmirštus Ordine pirminius idealus.
+    Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems
+    broliams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

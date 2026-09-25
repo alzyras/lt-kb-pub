@@ -94,7 +94,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-66863
@@ -113,11 +113,12 @@ Nenurodyta
     pavadintą Urugvajaus Lietuvių Klubu.
   citata_rodoma: "Jo rūpesčiu buvo įkurta lietuvių katalikų bend-\nruomenė, nemaža kitų organizacijų ir lietuviškoji 3 skyrių mo-\nkykla (joje yra apie 100 mokinių). Visos tautiškos organiza-\ncijos to paties kun. Radžiaus buvo suburtos į vieną centrą,\npavadintą Urugvajaus Lietuvių Klubu."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-66866
@@ -137,5 +138,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

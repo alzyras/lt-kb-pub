@@ -206,11 +206,12 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     vius Livonijoje. 1616 m.
   citata_rodoma: "ee Kuoknesės pilis\n\nBaronas Karolis Karl-\nsonas Gyllenhielmas\n(Carl Carlson Gyllen-\nhielm, 1574-1650 m.)\nŠvedijos karaliaus\nKarolio 1x ir Karinos\nNilsdotter nesantuo-\nkinis sūnus. Vadovavo\nšvedų kariuomenei,\nveikusiai prieš lietu-\nvius Livonijoje."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-007
 
@@ -235,7 +236,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-006
 
@@ -256,7 +257,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-76173
@@ -276,7 +277,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-76176
@@ -298,7 +299,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

@@ -81,5 +81,5 @@ Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Eu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

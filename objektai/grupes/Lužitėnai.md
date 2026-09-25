@@ -68,5 +68,5 @@ Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

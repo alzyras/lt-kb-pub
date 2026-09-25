@@ -59,6 +59,30 @@ Narbutas, remdamasis Herodotu, skitų klajojimo kraštą ribojo Donu, Azovo ir J
   pagrindžia:
     - c-175633
 
+<a id="claim-t-213159"></a>
+- t-213159
+  teiginys: "Sarmatai iš pradžių gyveno prie Azovo jūros ir kairiojoje Dono pakrantėje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196205
+
+<a id="claim-t-214765"></a>
+- t-214765
+  teiginys: "Tie gyveno prie Azovo jūros gotų karaliaus Germanariko laikais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197414
+
 ## Citatos
 
 - id: c-175633
@@ -88,5 +112,70 @@ Narbutas, remdamasis Herodotu, skitų klajojimo kraštą ribojo Donu, Azovo ir J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195770
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
+  citata_originali: |
+    Toks skitų tautos
+    bruožų vaizdas susidaro iš Herodoto, kuris pats asme­
+    niškai keliavo su ta tautai, kūrinių1.
+    31
+    Skitų valdos, arba veikiau didžiulis kraštas, po kurį
+    jie klajojo, ribojosi Dono upe, Azovo ir Juodąja jūromis,
+    Dunojumi, nuo Dunojaus iki Dnestro versmių plytinčio­
+    mis kalnuotomis dykumomis, paskui beveik ta pačia kryp­
+    timi nubrėžta linija iki 52 laipsnių platumos lygiagretės,
+    kuri net iki susikirtimo su Donu uždarydavo tą erdvę iš
+    šiaurės; už tų linijų be paliovos bastėsi pusiau laukinės
+    gentys, vadinamos neurais; tai buvo miškų gyventojai,
+    kurie niekados nepereidavo į atviras skitų šalis.
+    32
+    Skitų gentys dalijosi į įvairias kartas arba klases, bet
+    dvi svarbiausios buvo šios: žemdirbių ir klajoklių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196205
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 59"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 59."
+  citata_originali: |
+    Tikrieji sarmatai pirmiausia taikiai
+    gyveno prie Azovo jūros ir kairiojoje Dono pakrantėje,
+    kaimynystėje su skitais, netgi rėmė juos karo su Darijum
+    metu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213159
+
+- id: c-197414
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 311"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 311."
+  citata_originali: |
+    Tie gyveno prie Azovo jūros gotų karaliaus Germanari-
+    ko laikais
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214765

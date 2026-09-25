@@ -179,7 +179,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-139020
@@ -204,7 +204,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-139021
@@ -228,7 +228,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -249,5 +249,5 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

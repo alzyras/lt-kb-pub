@@ -123,7 +123,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -144,5 +144,5 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

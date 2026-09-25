@@ -63,5 +63,24 @@ Dusburgietis teigia, kad apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202407
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  citata_originali: |
+    Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
+    Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,
+    d. 2, p. 321; t. 33, p. 264; t. 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J.,
+    Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89;
+    Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės
+    baltų..., p. 221—223, 234.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

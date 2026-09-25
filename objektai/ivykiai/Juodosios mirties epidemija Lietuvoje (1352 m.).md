@@ -88,5 +88,5 @@ Pasak Teodoro Narbuto, 1352 m. Juodosios mirties epidemija pasiekė Naugardą, P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

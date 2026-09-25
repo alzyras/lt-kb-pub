@@ -233,6 +233,54 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   pagrindžia:
     - c-179251
 
+<a id="claim-t-213256"></a>
+- t-213256
+  teiginys: "Antanas Marcinovskis (1781–1842) šaltinyje apibūdinamas kaip Vilniaus literatas, redaktorius ir leidėjas, taip pat T. Narbuto LTI leidėjas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195801
+
+<a id="claim-t-214922"></a>
+- t-214922
+  teiginys: "Marcinovskis pasirūpino ne tik leidyba, prenumerata, bet ir reklama."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195213
+
+<a id="claim-t-215577"></a>
+- t-215577
+  teiginys: "Antanas Marcinovskis (1781—1855) buvo Vilniaus literatas, redaktorius, spaustuvės savininkas ir vienas ryškiausių to meto intelektualų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195019
+
+<a id="claim-t-217498"></a>
+- t-217498
+  teiginys: "Antanas Marcinovskis buvo Vilniaus literatas, redaktorius ir spaustuvės savininkas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197750
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1835 m. Vilniuje pirmasis „Dzieje starożytne narodu Litewskiego“ tomas išėjo A. Marcinovskio lėšomis ir spaustuvėje.'
@@ -289,7 +337,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-170745
@@ -316,7 +364,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-170746
@@ -336,7 +384,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-170925
@@ -360,7 +408,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-170926
@@ -381,7 +429,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173510
@@ -404,7 +452,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173572
@@ -428,7 +476,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-173573
@@ -450,7 +498,7 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-179251
@@ -474,5 +522,131 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-195019
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 443"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 443."
+  citata_originali: |
+    Juo tapo Antanas Marcinovskis
+    (1781 —1855) — žinomas Vilniaus literatas, redaktorius
+    ir spaustuvės savininkas, vienas ryškiausių to meto inte­
+    lektualų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215577
+
+- id: c-195213
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 444"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 444."
+  citata_originali: |
+    Taigi nuo 1837 metų T. Narbutas galėjo toliau tęsti
+    pradėtą darbą, jau turėdamas pagrįstą viltį, jog LTI bus
+    išspausdinta. Ir ne tik išspausdinta,
+    bet
+    ir
+    perkama:
+    A. Marcinovskis pasirūpino ne tik leidyba, prenumerata,
+    bet ir reklama.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214922
+
+- id: c-195364
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 490"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
+  citata_originali: |
+    Kitoje pusėje (ji yra visiškai
+    tokia pat kaip ir ankstesnė, tik vaizdas atvirkščias), kaip ir pran­
+    cūziškose monetose, pavaizduotas riteris su romėnišku šalmu ir
+    šarvais, sėdintis ant žemės, pakėlęs dešinę koją, o pėda besire­
+    miantis į žemę; jo kairė koja ištiesta; riterį puola lokys, stovin­
+    tis ant užpakalinių letenų, su išžiotais nasrais ir ištiestomis prie­
+    kinėmis letenomis. Karys kairiąja ranka stumia žvėrį. Toje ran­
+    koje laiko kažką panašaus j skydą, o dešiniąja arba remiasi į že­
+    mę, arba siekia ginklo. Už riterio galvos yra ženklas „O“, virš
+    kurio — žvėries letena ir ženklas „I“.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:02"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195801
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 490"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
+  citata_originali: |
+    Pasirodo, jog T. Bulgarinas (1789—1859) ją iš tikrųjų buvo pa­
+    siuntęs garsiam Vilniaus literatui, redaktoriui, leidėjui (žinoma, ir
+    T. Narbuto LTI) Antanui Marcinovskiui (1781—1842) .-►Sis peter-
+    burgiškio literato prašymu monetą turėjęs perduoti T. Narbutui,
+    bet pažado neįvykdė: radinį įteikė Vilniuje viešėjusiam ministrui
+    (kokiam — neaišku), o istorikui nusiuntė tik biografo J. Ozem-
+    blovskio padarytą piešinį (MAB RS. F. 17. B. 247C. L. 435).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213256
+
+- id: c-197750
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 51."
+  citata_originali: |
+    Juo tapo Antanas Marcinovskis (1781-1855) - ži­
+    nomas Vilniaus literatas, redaktorius ir spaustuvės savininkas,
+    vienas ryškiausių to meto intelektualų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217498
+
+- id: c-198129
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 54."
+  citata_originali: |
+    „Prane­
+    šimo“ autoriaus įsitikinimu, LTI ypač reikšminga yra dabar,
+    nes „joje vaizduojami laikai ir įvykiai, regis, ypač domina visų
+    rašančiųjų protą“.
+    Tai buvo puikus pristatymas. Viskas, net pati LTI autoriaus
+    biografija, žadėjo sėkme. Sunku pasakyti, kokia buvo reali lei­
+    dėjo materialinė nauda, tačiau galima manyti (turint omenyje
+    A. Marcinovskio biografiją, jo aspiracijas, o galbūt ir net tik
+    ką cituotą tekstą), kad jam rūpėjo ne vien pelnas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

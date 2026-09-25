@@ -59,19 +59,6 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   pagrindžia:
     - c-170699
 
-<a id="claim-t-193831"></a>
-- t-002
-  teiginys: "Tarp Vilniaus seniūnų pirmas iš Goštautų buvo Andrius Goštautas (1387 m.)."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-176475
-
 <a id="claim-t-196779"></a>
 - t-003
   teiginys: "Pasakojimas, kad Petras Goštautas atsikvietė į Vilnių pranciškonų, komentare laikomas veikiausiai XV a. antrojoje pusėje kilusia legenda."
@@ -130,7 +117,7 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176475
@@ -153,6 +140,53 @@ Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
     - t-003
+
+- id: c-193681
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 323"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 323."
+  citata_originali: |
+    5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
+    puchovo
+    kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­
+    miniavęs su LDK didikais Goštautais ir vasaliniais buv. Kijevo ir
+    Slucko
+    kunigaikščiais
+    Olelkaičiais
+    ir
+    Alšėniškiais. Lietuvos Di­
+    džiojoje Kunigaikštystėje Fedoras Jaroslavičius valdė Klecką, Da-
+    vidgorodoką ir Rogačiovą, o taip pat Pinską, kurj gavo, vesdamas
+    Kijevo kunigaikščio Simono Olelkaičio ir jo žmonos Jonaitės Goš-
+    tautaitės dukterį Oleną Aleksandrą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193819
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 222"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 222."
+  citata_originali: |
+    Pakitusiu dėl vėlesnių perstatymų pavidalu Ji tebestovi ligi
+    šiol Vilniuje prie dabartinės Kutuzovo aikštės.
+    ‘ Pasakojimas, kad Petras Goštautas atsikvietęs | Vilnių dar
+    pranciškonų, taip pat laikomas legenda, kilusia, veikiausiai, dar
+    XV a. antrojoje pusėje. Neabejotina, kad pranciškonai, jsikūru-
+    siejl prieš 1387 m. Vilniaus vienuolyne prie Trakų vartų, buvo kilų
+    iš Lenkijos ir daugiausia iš Krokuvos, nes vilniškio pranciškonų
+    vienuolyno, kaip ir krokuviškio, pavadinimas turėjo tų patį prie-
+    vardj — „in Arena" arba „na Piaskach".
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -81,5 +81,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198742
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 266"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 266."
+  citata_originali: |
+    Priešais ąžuolą,
+    angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos
+    aukos ir palaikoma šventoji ugnis. Šventyklą supo aikštė, ku­
+    rioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla
+    buvo Adytum. Aikštėje buvo sukrautos stirtos malkų šventajai
+    ugniai palaikyti. Aplink aikšte stovėjo žynių, vaidilučių ir kitų
+    šventyklos tarnų būstai. Įėjimas - tai priekiniai vartai, į dešinę
+    nuo vartų buvo vyriausiojo kunigo būstas, kairėje - užeiga,
+    arba svečių namas (šios šventyklos ir viso miesto piešinį žiū­
+    rėk VII lentelėje).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -61,23 +61,6 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 
 ## Teiginiai
 
-<a id="claim-t-10801"></a>
-- t-001
-  teiginys: "Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte."
-  atnaujinta: "2026-06-14 09:48"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Brunono misija į aisčių kraštą ir žūtis (1009 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brunono misija į aisčių kraštą ir žūtis (1009 m.)\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-14T06:48:43Z"
-  pagrindžia:
-    - c-00189
-
 <a id="claim-t-71739"></a>
 - t-002
   teiginys: "1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais."
@@ -113,8 +96,6 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-70265
   autorius: "Zenonas Ivinskis"
@@ -136,5 +117,5 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

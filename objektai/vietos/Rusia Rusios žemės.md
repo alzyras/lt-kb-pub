@@ -131,7 +131,7 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-81929
@@ -167,7 +167,7 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-81930
@@ -198,5 +198,5 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -65,5 +65,5 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

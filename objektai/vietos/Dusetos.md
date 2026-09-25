@@ -69,6 +69,9 @@ Dusetos šiame šaltinyje yra vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 - id: c-177912
   šaltinis: "Mūsų tautosaka, t.4 (1931) — Tautosakos komisijos gauta medžiaga ir perrašytos dainos"
   puslapiai: "p. 187 (PDF 185)"
@@ -83,3 +86,18 @@ Dusetos šiame šaltinyje yra vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-195489"></a>
+- t-001
+  teiginys: "1931 m. Tautosakos komisijos suvestinėje A. Mažiulis ir A. Barzda nurodyti kaip iš Dusetų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177911
+    - c-177912

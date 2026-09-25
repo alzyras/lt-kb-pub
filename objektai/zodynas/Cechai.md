@@ -71,5 +71,5 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

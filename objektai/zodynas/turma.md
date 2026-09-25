@@ -64,5 +64,24 @@ Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201724
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
+  citata_originali: |
+    437 D.—in tres turmas, Jer.— in drîe[...] partie[...] teil. Plg. D. III, 282, 286 —
+    lietuviai padalijo kariuomenę in duas turmas (Jer.— in zwei gescheidin; ūf zwei pfat);
+    pamarėnų Swantepolcus cum tribus turmis (D. III, 55; Jer.— mit drin scharn); Ordino
+    kariuomenė dalijama in III turmas (D. III, 332; Jer.— in vîr rote). D. turma — įvairaus
+    dydžio kariuomenės, raitelių būrys. Terminas senas. Šen. romėnų turma — 30—32
+    raiteliai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

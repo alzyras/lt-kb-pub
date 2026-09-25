@@ -66,5 +66,5 @@ Vilniaus ir Radomo susitarimais (1401 m.) buvo nustatyta, kad, Vytautui mirus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

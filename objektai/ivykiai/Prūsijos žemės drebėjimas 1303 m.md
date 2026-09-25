@@ -86,5 +86,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195015
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 48"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 48."
+  citata_originali: |
+    Be to, šios pakrantės neišvengė vulkaninių ka­
+    tastrofų, kurių ryšį su staigiais atmosferos sujudimais
+    jau įrodė mokslininkai. Iš prūsų kronikų žinoma, kad
+    1303 metais įvyko žemės drebėjimas2. Dėl Baltijos jūros
+    lygio kritimo, galbūt net keliais sieksniais3, formuojantis
+    žemynams, kuriuos skalauja vandenys, žemės būklė labai
+    pakito.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

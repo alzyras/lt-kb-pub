@@ -128,7 +128,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-43557
@@ -150,7 +150,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-67969
@@ -177,7 +177,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166431
@@ -202,5 +202,5 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

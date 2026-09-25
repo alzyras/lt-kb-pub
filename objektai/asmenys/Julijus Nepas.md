@@ -56,18 +56,6 @@ Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu. Jul
   pagrindžia:
     - c-174168
 
-<a id="claim-t-197765"></a>
-- t-002
-  teiginys: "Julijus Nepas seniau nuvertė nuo sosto ir paskyrė Salemos vyskupu, žmonės."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-174168
-
 ## Citatos
 
 - id: c-174168
@@ -89,9 +77,29 @@ Julijus Nepas nuvertė Glicerijų nuo sosto ir paskyrė jį Salemos vyskupu. Jul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
+
+- id: c-194734
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
+  citata_originali: |
+    Tačiau, nepaisant viso to,
+    Odoakras gavo tai, ko geidė, nors italai nelabai buvo
+    linkę jį remti. Po trejų metų Dalmatijoje šį nominalinį
+    monarchą nužudė atsiųsti Giicero, kurį jis seniau nu­
+    vertė nuo sosto ir paskyrė Salemos vyskupu, žmonės. Tuo
+    metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
+    Italijos vietininku, pavesdami jam visą valdžią ir Dal­
+    matijoje, kurios imperatorius buvo miręs.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Julijus Nepas paskyrė [[objektai/asmenys/Odoakras]]

@@ -106,5 +106,5 @@ canonical_biography: "Įsruties komtūras Eberhardas Sorcas su 300 raitelių ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

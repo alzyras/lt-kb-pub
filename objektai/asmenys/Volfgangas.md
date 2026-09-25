@@ -135,5 +135,5 @@ Bavarijos grafas Volfgangas parėmė Prūsų magistrą žygyje, per kurį buvo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

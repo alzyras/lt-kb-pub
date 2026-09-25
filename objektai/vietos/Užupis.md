@@ -210,7 +210,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-81104
@@ -233,7 +233,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -252,7 +252,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-81106
@@ -279,7 +279,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-171735
@@ -306,7 +306,7 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-186421
@@ -324,8 +324,34 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-198329
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
+  citata_originali: |
+    Niech twoja Neris (a) i bogam oznami,
+    Pod ktorych wladzą są morskie zamęty,
+    Cierpienia moję i žal nieujęty.
+    Powiedz przešliczne boztwo Wiliej rzeki
+    Nimfom (b) twym siostrom, boginiom podwodnym:
+    25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas
+    baisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo
+    Karališkosios Malonybės Vilniaus miesto dukartinį sudeginimą. Pir­
+    mą kartą dėl nekrikšto žydo Rubino kaltės 1748 metų birželio 11
+    dieną, tarytum iš pragaro gilumos išsiveržus liepsnai iš alaus daryk­
+    los Užupyje; antrą kartą 1749 metų birželio 8 dieną iš Subačiaus prie­
+    miesčio, iš pono Gregoravičiaus dvarelio, virtusio pelenais, nuo žie­
+    žirbos iš nepaprasta liepsna užsidegusio kamino.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Užėmė Užupį: [[objektai/grupes/Rusai]]

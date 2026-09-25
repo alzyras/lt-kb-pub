@@ -99,7 +99,7 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179156
@@ -118,5 +118,23 @@ Paparona Narbutas laiko grynai lietuvišku žodžiu, vartotu jo apylinkių kaimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-200775
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 162"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
+  citata_originali: |
+    Tai yra jis buvo atsikartojantis
+    garsas, vadinasi, aidas.
+    Kitaip vadinosi Varputis (Warputis). Vietas, kuriose girdi­
+    mas aiškus aidas, kai kurie kaimiečiai vadina Warputinej.
+    Pats žodis Warpelis yra žodžio Warpas mažybinė forma.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

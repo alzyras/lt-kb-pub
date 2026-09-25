@@ -87,7 +87,7 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-64940
@@ -106,7 +106,7 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-64942
@@ -128,5 +128,5 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -77,5 +77,5 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

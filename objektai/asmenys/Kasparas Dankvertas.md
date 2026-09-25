@@ -79,5 +79,27 @@ Hartknochas, Narbuto teigimu, rėmėsi Kasparu Dankvertu tvirtindamas, kad kimbr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195466
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
+  citata_originali: |
+    Mūsų kronikinin­
+    kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
+    tiniais, kuriuos jis naudojo1. Paskui Hartknochas**, rem­
+    damasis vertais pasitikėjimo prūsų kronikų rašytojais,
+    ypač Kasparu Dankvertu, puikiai išmanantis prūsų isto­
+    riją, darbštus istorinės tiesos tyrinėtojas ir atradėjas, vi­
+    siškai įsitikinęs tvirtina, kad kimbrų gyventa žemėje, kur
+    vėliau įsikūrė prūsai. Ten jie vadinami Sembi\ iš čia ki­
+    lęs Sembos — vienos prūsų provincijos — pavadinimas2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

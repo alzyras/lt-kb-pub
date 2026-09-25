@@ -55,5 +55,5 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

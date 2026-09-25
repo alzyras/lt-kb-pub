@@ -114,7 +114,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82719
@@ -142,7 +142,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82720
@@ -164,7 +164,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 ## Ryšiai

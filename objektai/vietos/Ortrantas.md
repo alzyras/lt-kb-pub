@@ -85,5 +85,5 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

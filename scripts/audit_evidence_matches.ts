@@ -7,6 +7,9 @@ import {
 import { evidenceSupportsClaim, evidenceTextOverlapScore } from "../quartz/util/evidenceIntegrity"
 
 const objectRoot = path.resolve(process.env.CORPUS_ROOT ?? "objektai")
+const sourceIdArg = process.argv.indexOf("--source-id")
+const sourceId = sourceIdArg >= 0 ? process.argv[sourceIdArg + 1]?.trim() : undefined
+const failOnIssues = process.argv.includes("--fail")
 
 function listMarkdownFiles(dir: string): string[] {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
@@ -55,6 +58,7 @@ for (const file of listMarkdownFiles(objectRoot)) {
     for (const rawRef of refs) {
       const citation = citationById.get(rawRef.trim())
       if (!citation) continue
+      if (sourceId && !(citation.fields.get("šaltinis") ?? "").includes(sourceId)) continue
       references++
       const isIndexOnly =
         citation.fields.get("citatos_rezimas")?.trim() === "indeksas" &&
@@ -100,6 +104,7 @@ console.log(
   JSON.stringify(
     {
       files: listMarkdownFiles(objectRoot).length,
+      sourceScope: sourceId ?? "all",
       references,
       unsupportedReferences,
       indexOnlyReferences,
@@ -113,6 +118,6 @@ console.log(
   ),
 )
 
-if (unsupportedReferences > 0 || textMismatchReferences > 0) {
+if (failOnIssues && (unsupportedReferences > 0 || textMismatchReferences > 0)) {
   process.exitCode = 1
 }

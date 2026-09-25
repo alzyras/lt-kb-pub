@@ -76,5 +76,5 @@ Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

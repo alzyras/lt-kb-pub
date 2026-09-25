@@ -76,5 +76,5 @@ Riteris ir Vinas pirmiausia nuvyko į Rusią, iš ten žygiavo į maištaujanči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

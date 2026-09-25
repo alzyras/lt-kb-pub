@@ -70,19 +70,6 @@ Nenurodyta
   pagrindžia:
     - c-172541
 
-<a id="claim-t-194615"></a>
-- t-002
-  teiginys: "Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų, skirtų tam tikroms religinėms apeigoms."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177014
-
 ## Citatos
 
 - id: c-172541
@@ -104,7 +91,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177014
@@ -131,5 +118,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-198777
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
+  citata_originali: |
+    Padavimai išsaugojo paprastų žmonių atminimą, kad lie­
+    tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka­
+    riams prikelti, ženklui sargybiniams paduoti, taip pat pavojui
+    paskelbti. 1780 metais* tokio varpo gabalą radau sename ap­
+    kase, arba pilies pylime, prie Gorodiščės kaimo, ties Rodū­
+    nios miesteliu, tikroje lietuviškoje žemėje. Tas gabalas buvo
+    l ‘A colio storio, svėrė kelias dešimtis svarų; matyti, kad pri­
+    klausė didžiuliam varpui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

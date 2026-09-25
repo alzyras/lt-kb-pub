@@ -96,7 +96,7 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82722
@@ -149,5 +149,5 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

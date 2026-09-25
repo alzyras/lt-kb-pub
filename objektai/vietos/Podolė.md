@@ -296,6 +296,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161730
+    - c-182528
     - c-186125
 
 <a id="claim-t-177922"></a>
@@ -355,6 +356,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-161730
+    - c-182528
 
 <a id="claim-t-177928"></a>
 - t-015
@@ -490,7 +492,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-161747
+    - c-182545
     - c-161755
+    - c-182559
 
 <a id="claim-t-177942"></a>
 - t-022
@@ -775,20 +779,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   pagrindžia:
     - c-168450
 
-<a id="claim-t-199671"></a>
-- t-038
-  teiginys: "1971 m. leidimo paaiškinime Podolė apibrėžiama kaip Ukrainos dalies į šiaurę nuo Karpatų ir Dnestro istorinis pavadinimas."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Numeruotas paaiškinimo fragmentas perrašytas į pilną sakinį apie Podolę. Palikta tik citatoje pateikta geografinė apibrėžtis, nepridedant kitų duomenų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-182539
-
 <a id="claim-t-199672"></a>
 - t-039
   teiginys: "Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai."
@@ -827,31 +817,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-182563
-
-<a id="claim-t-199682"></a>
-- t-041
-  teiginys: "Lietuvos metraštyje Jonas Žadivydas vadinamas kunigaikščiu, valdžiusiu Podolės žemę."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Valdovo titulas šiame profilyje turi likti atribuuotas."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Valakija; mentioned_place: Voluinė"
-  temporaliniai_duomenys: "įvykio data: 1431 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Valdovo titulas šiame profilyje turi likti atribuuotas."
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-170582
 
 <a id="claim-t-199684"></a>
 - t-042
@@ -911,17 +876,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   pagrindžia:
     - c-186126
 
-<a id="claim-t-199703"></a>
-- t-046
-  teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lenkija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182550
-
 <a id="claim-t-199704"></a>
 - t-047
   teiginys: "Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį."
@@ -935,28 +889,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-186125
-
-<a id="claim-t-199710"></a>
-- t-048
-  teiginys: "Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Citata remiasi kitų autorių pasakojimu, todėl teiginiui reikia atribucijos."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Antoni Melissanius de Macro|Antoni Melissanius de Macro]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]"
-  temporaliniai_duomenys: "įvykio data: 1333 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remiasi kitų autorių pasakojimu, todėl teiginiui reikia atribucijos."
-  ryšio_patikimumas: "priklause -> Lenkija: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kamenecas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Švitrigaila atsisakė Kameneco Lenkijos labui, todėl tekstas pagrindžia Kameneco perėjimą Lenkijos naudai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-182565
 
 <a id="claim-t-199715"></a>
 - t-049
@@ -996,6 +928,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie Podolės gynybinę reikšmę, pašalintas antraštės triukšmas."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
+    - c-161730
     - c-182528
 
 <a id="claim-t-203406"></a>
@@ -1009,6 +942,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-161755
+    - c-182559
 
 <a id="claim-t-203490"></a>
 - t-053
@@ -1164,6 +1098,73 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
   pagrindžia:
     - c-189157
+
+<a id="claim-t-177907"></a>
+- t-177907
+  teiginys: "Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir vėlesniu Vilniaus vyskupu."
+  atnaujinta: "2026-09-19 01:15"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-161726
+    - c-182527
+    - c-161738
+    - c-182549
+
+<a id="claim-t-208279"></a>
+- t-208279
+  teiginys: "Podolėje 1739 m. liko rusų amunicija ir artilerijos įrenginiai."
+  atnaujinta: "2026-09-19 01:15"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1739 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190998
+
+<a id="claim-t-210635"></a>
+- t-210635
+  teiginys: "Lietuvos metraštis Vytautą vadina didžiuoju kunigaikščiu ir rašo, kad pavasariop jis ištraukė į Podolės žemę."
+  atnaujinta: "2026-09-19 01:15"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Titulas ir kronikos pasakojimas turi būti pateikti su atribucija."
+  susije_objektai: "llm_object: Podolė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vladimiras"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Podolė"
+  ryšio_patikimumas: "surenge_zygi_i -> Podolė: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto žygį į Podolės žemę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
+<a id="claim-t-211695"></a>
+- t-211695
+  teiginys: "Vakarinė Podolės dalis 1395–1411 m. buvo valdoma Lenkijos, o vėliau grąžinta Vytautui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193200
 
 ## Reikšmingi paminėjimai
 - c-029
@@ -1332,6 +1333,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-24388
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1350,7 +1352,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-24389
@@ -1370,7 +1372,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-058
 
@@ -1389,7 +1391,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-46677
@@ -1409,7 +1411,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-161721
@@ -1448,6 +1450,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-161722
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1465,7 +1468,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-161723
@@ -1486,6 +1489,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-161725
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1509,7 +1513,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-161726
@@ -1537,6 +1541,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-177907
+
 - id: c-161728
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1559,7 +1566,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-161730
@@ -1583,9 +1590,10 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-014
+    - t-051
 
 - id: c-161733
   autorius: "Michał Baliński"
@@ -1609,7 +1617,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-161734
@@ -1629,7 +1637,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-161736
@@ -1667,7 +1675,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-161738
@@ -1694,8 +1702,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
+    - t-177907
 
 - id: c-161739
   autorius: "Michał Baliński"
@@ -1721,7 +1730,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
     - t-035
 
@@ -1746,7 +1755,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-161741
@@ -1772,7 +1781,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-019
 
@@ -1796,7 +1805,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-161743
@@ -1825,7 +1834,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-017
 
@@ -1849,7 +1858,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-161745
@@ -1868,7 +1877,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-013
 
@@ -1894,7 +1903,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-161748
@@ -1917,7 +1926,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-161749
@@ -1939,7 +1948,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-013
 
@@ -1963,7 +1972,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-021
     - t-052
@@ -1987,7 +1996,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-168448
@@ -2015,7 +2024,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
     - t-036
 
@@ -2044,7 +2053,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-168450
@@ -2080,7 +2089,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
     - t-037
 
@@ -2104,7 +2113,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-168453
@@ -2140,7 +2149,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-168454
@@ -2165,7 +2174,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
     - t-057
 
@@ -2186,8 +2195,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-041
 
 - id: c-170583
   autorius: "Anoniminis metraštininkas"
@@ -2212,6 +2219,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-175491
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -2229,7 +2237,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-176851
@@ -2257,7 +2265,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
     - t-050
 
@@ -2287,7 +2295,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-182524
@@ -2309,7 +2317,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
     - t-049
 
@@ -2335,7 +2343,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
 
 - id: c-182526
@@ -2360,7 +2368,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-182527
@@ -2388,6 +2396,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-177907
+
 - id: c-182528
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2409,7 +2420,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-011
+    - t-014
     - t-051
 
 - id: c-182529
@@ -2438,6 +2451,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182533
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2456,6 +2470,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182535
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2492,6 +2507,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182536
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2512,6 +2528,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182537
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2536,7 +2553,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
     - t-042
 
@@ -2556,6 +2573,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182539
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2571,8 +2589,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-038
 
 - id: c-182540
   autorius: "Michał Baliński"
@@ -2598,6 +2614,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182542
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2615,6 +2632,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182543
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2638,7 +2656,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-019
 
@@ -2662,7 +2680,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-182545
@@ -2688,6 +2706,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-021
+
 - id: c-182546
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -2707,7 +2728,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
 
 - id: c-182547
@@ -2727,7 +2748,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-182548
@@ -2747,7 +2768,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-056
 
 - id: c-182549
@@ -2774,8 +2795,9 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
+    - t-177907
 
 - id: c-182550
   autorius: "Michał Baliński"
@@ -2794,8 +2816,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-046
 
 - id: c-182551
   autorius: "Anoniminis metraštininkas"
@@ -2820,6 +2840,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182552
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2837,7 +2858,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-054
 
 - id: c-182553
@@ -2857,7 +2878,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-182555
@@ -2880,7 +2901,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-182556
@@ -2906,6 +2927,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182557
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2927,7 +2949,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-182559
@@ -2950,8 +2972,10 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+    - t-021
+    - t-052
 
 - id: c-182561
   redaktorius: "A. Šapoka"
@@ -2971,7 +2995,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-182562
@@ -3010,6 +3034,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182563
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3032,7 +3057,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
 
 - id: c-182564
@@ -3057,7 +3082,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-044
 
 - id: c-182565
@@ -3095,8 +3120,6 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-048
 
 - id: c-186124
   autorius: "Michał Baliński"
@@ -3118,7 +3141,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186125
@@ -3136,7 +3159,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-047
 
@@ -3164,7 +3187,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
 
 - id: c-186127
@@ -3187,7 +3210,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-186128
@@ -3207,7 +3230,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-186263
@@ -3220,11 +3243,12 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
     vienog skaitoma revoliucijiniu, nes ėjo prieš rusus. Susirin-
     ko Bare (Podolėje). Karalių žadėjo numesti nuo karalystės.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-059
 
 - id: c-186632
@@ -3241,7 +3265,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-060
 
 - id: c-189154
@@ -3257,7 +3281,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-061
 
 - id: c-189155
@@ -3276,7 +3300,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-062
 
 - id: c-189156
@@ -3295,7 +3319,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-063
 
 - id: c-189157
@@ -3317,8 +3341,88 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-064
+
+- id: c-190222
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 124"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 124."
+  citata_originali: |
+    1393 m. Luckas perėjo tiesiogiai Vy-
+    tauto žinion, 1394 m. jis panaikina Kijevo kunigaikštiją (Kijevą gauna Skirgaila, jam mi-
+    rus 1397 m., Vytautas paskiria Joną Alšėniškį), 1395 m. paskiria savo vietininką Podolėje
+    (Teodoras Karijotaitis pasitraukė į Vengriją ir iki šiol prisimenamas Mukačiove), Siverų
+    Naugardą gauna valdyti iš Voluinės Vladimiro atkeltas Teodoras Liubartaitis. Išliko tik
+    mažesnės ar net visai smulkios Ostrogo, Turovo, Pinsko, Ratno ir kitos kunigaikštijos.
+  citata_rodoma: ". Luckas perėjo tiesiogiai Vy-\ntauto žinion, 1394 m. jis panaikina Kijevo kunigaikštiją (Kijevą gauna Skirgaila, jam mi-\nrus 1397 m., Vytautas paskiria Joną Alšėniškį), 1395 m. paskiria savo vietininką Podolėje \n(Teodoras Karijotaitis pasitraukė į Vengriją ir iki šiol prisimenamas Mukačiove), Siverų \nNaugardą gauna valdyti iš Voluinės Vladimiro atkeltas Teodoras Liubartaitis. Išlik"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-190998
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 100"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 100."
+  citata_originali: |
+    1740 m. I. Oginskis siekė
+    gauti kompensacijas už nuostolius, Abiejų Tautų Respublikos patirtus Rusijos
+    kariuomenei 1738-1739 m. žygiuojant per pietrytines Respublikos vaivadijas, bei
+    užkirti kelią panašiai praktikai ateityje. Po trejų metų vykusioje pasiuntinybėje taip
+    pat rūpinosi gauti kompensacijas už nuostolius, Respublikos patirtus nuo caro ka­
+    riuomenės Rusijos-Turldjos karo kampanijų metu, tačiau tuo metu į pirmąjį planą
+    iškilo kiti klausimai: Kuršo kunigaikštystės sosto reikalai, susiję su Ernesto Jano
+    Birono turėtų titulų ir pareigybių netekimu; 1740 m. įvykdytos Rusijos ir Osmanų
+    imperijos sienos delimitacijos metu iš Respublikos atplėštų teritorijų sugrąžinimo
+    klausimas bei Podolėje 1739 m. paliktos rusų amunicijos ir artilerijos įrenginių,
+    neigiamai veikusių Respublikos santykius su Turkija, išgabenimo sunkumai.
+  citata_rodoma: "Podolėje 1739 m. paliktos rusų amunicijos ir artilerijos įrenginių"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208279
+
+- id: c-193200
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 265."
+  citata_originali: |
+    1395—1411 m. vakarinė Podolės dalis buvo Lenkijos valdoma,
+    bet 1411 m. Jogaila ją grąžino Vytautui Iki gyvos galvos
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211695
+
+- id: c-196922
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 191"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
+  citata_originali: |
+    Tačiau šie, bijodami imperato­
+    riaus žiaurumo, išžudė kvietėjus, du ar tris kartus atplaukusius pas
+    juos, o patys jų laivais nuplaukė į Juodąją jūrą. Iš čia jie per miš­
+    kingas stepes (didelė tų miškų dalis šiandieną iškirsta, ir šios vietos
+    vadinamos Rusija, Podolija ir Lietuva), kur kitados romėnai keliau­
+    davo medžioti, prasiskverbė ligi Baltijos jūros...) Joan.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Daugirdas Gedgaila]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Nestanas]], [[objektai/asmenys/Spytekas iš Melštyno]], [[objektai/asmenys/Spytkas iš Melsztyno]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

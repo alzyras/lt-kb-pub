@@ -100,7 +100,7 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps. ŽIŪRŲ-GUDELI
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-45409
@@ -119,5 +119,5 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps. ŽIŪRŲ-GUDELI
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

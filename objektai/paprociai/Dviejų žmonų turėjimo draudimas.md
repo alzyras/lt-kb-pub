@@ -72,5 +72,5 @@ Dusburgietis pasakoja, kad Bansas norėjo viešai turėti dvi žmonas, tačiau b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

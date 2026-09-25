@@ -86,6 +86,6 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

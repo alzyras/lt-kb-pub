@@ -76,5 +76,5 @@ Apie 510 m. pr. Kr. lakedamoniečiai palaikė prekybinius ryšius su Skitijos ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

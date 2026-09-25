@@ -68,5 +68,5 @@ Linksmūnėlis45, Jonas Šliūpas46, Konstancija Skirmuntaitė47), nors ir žino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

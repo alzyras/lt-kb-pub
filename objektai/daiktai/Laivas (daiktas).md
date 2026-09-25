@@ -233,7 +233,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192476
@@ -254,7 +254,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-193317
@@ -273,7 +273,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-194165
@@ -292,7 +292,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-196185
@@ -314,7 +314,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-196187
@@ -335,7 +335,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-201976
@@ -353,7 +353,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-202192
@@ -370,7 +370,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-202558
@@ -392,7 +392,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-202885
@@ -409,7 +409,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-203151
@@ -428,7 +428,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-203215
@@ -447,7 +447,7 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-205726
@@ -467,5 +467,5 @@ Laivas susiūbavo ir pamažu New-Yorkas pradėjo nykti iš mūsų akių. Tuom ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011

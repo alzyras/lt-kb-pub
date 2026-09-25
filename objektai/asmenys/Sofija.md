@@ -116,7 +116,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167227
@@ -139,7 +139,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-189001
@@ -156,5 +156,22 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194336
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 100"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 100."
+  citata_originali: |
+    Vėliau karalius Jogaila atsiuntė iš Lenkijos žymiau­
+    sius ponus, kurie paėmę kunigaikštytę Sofiją parvežė
+    pas jį į Krokuvą. O jis iškėlė šaunias vestuves, paėmė
+    ją sau žmona ir vainikavo ją
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

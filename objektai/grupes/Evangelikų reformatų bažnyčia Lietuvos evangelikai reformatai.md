@@ -165,7 +165,7 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -186,7 +186,7 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -218,5 +218,5 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

@@ -110,7 +110,7 @@ canonical_biography: "„Pukuveras, Lietuvos karalius, tais pačiais metais pasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-41224
@@ -132,7 +132,7 @@ canonical_biography: "„Pukuveras, Lietuvos karalius, tais pačiais metais pasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

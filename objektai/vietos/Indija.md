@@ -40,26 +40,6 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
 
 ## Teiginiai
 
-<a id="claim-t-188936"></a>
-- t-001
-  teiginys: "Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų, daugelio mokslų bei religinių vaizdinių kilmės vieta."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Indai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Indija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Indai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Indija\" parinktas kaip owner_note_path. Targetas \"Indai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171825
-
 <a id="claim-t-192665"></a>
 - t-002
   teiginys: "Narbutas remiasi Plinijaus užrašytu Archelajo pasakojimu, kad iš Indijos buvo atvežama gintaro žaliava, dar neatskirta nuo medžių žievės."
@@ -79,6 +59,18 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175435
+
+<a id="claim-t-218320"></a>
+- t-218320
+  teiginys: "Indiją, gražiausią senojo pasaulio šalį, tikriausiai iš pat pra džių buvo apgyvenę civilizuoti žmonės, nes iš ten kilo ir dau gybė kastų, ir daugelis mokslų, o su jais religiniai vaizdiniai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199377
 
 ## Citatos
 
@@ -104,8 +96,6 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-175435
   autorius: "Teodoras Narbutas"
@@ -129,5 +119,47 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194555
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  citata_originali: |
+    Jūroje išilgai prūsų pakrančių slypi
+    ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
+    supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
+    jaus užrašytą Kapadokijos karaliaus Archelajo pasakoji­
+    mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
+    skirtos nuo medžių žievės1.
+    152
+    Pavienių gintaro gabalų randama beveik visur: Lie­
+    tuvoje, Lenkijoje, Silezijoje, Čekijoje, Halės žemės ang­
+    lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
+    balų išmesdavo Švedijos ežeras Maeleras.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199377
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 82"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 82."
+  citata_originali: |
+    Indiją, gražiausią senojo pasaulio šalį, tikriausiai iš pat pra­
+    džių buvo apgyvenę civilizuoti žmonės, nes iš ten kilo ir dau­
+    gybė kastų, ir daugelis mokslų, o su jais religiniai vaizdiniai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218320

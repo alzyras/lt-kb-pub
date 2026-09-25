@@ -50,6 +50,27 @@ Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo me
   pagrindžia:
     - c-171875
 
+<a id="claim-t-217092"></a>
+- t-217092
+  teiginys: "Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo medinis milžino išvaizdos Kukovaičio stabas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Deltuvos kalnas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kukovaičio stabas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Deltuvos kalnas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Kukovaičio stabas stovėjo ant kalno prie Deltuvos; tai pakankamai tiksliai nusako objekto vietą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Kukovaičio stabas priklausė Deltuvos kalnas (0.84)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-198427
+
 ## Citatos
 
 - id: c-171875
@@ -69,5 +90,26 @@ Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo me
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198427
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
+  citata_originali: |
+    Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
+    tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors
+    Plikasis kalnas. Visa, ką šiuo klausimu žinome iš istorijos, ap­
+    siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217092

@@ -96,9 +96,10 @@ Irena Katilienė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
     Jūratė Dalia Baronienė, 2007
     © Romas Dubonis, apipavidalinimas,
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

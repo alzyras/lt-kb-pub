@@ -65,6 +65,18 @@ Kare su švedais Naugardui padėjo Pskovas, kur buvo lietuvių vietininkas Jurgi
   pagrindžia:
     - c-41372
 
+<a id="claim-t-217677"></a>
+- t-217677
+  teiginys: "Narbutas nurodo, kad Jurijus, arba Jurgis, Vytautaitis valdė Pskovo žemę apie 1342 metus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200011
+
 ## Citatos
 
 - id: c-41372
@@ -89,5 +101,23 @@ Kare su švedais Naugardui padėjo Pskovas, kur buvo lietuvių vietininkas Jurgi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200011
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
+  citata_originali: |
+    Buvo ir lietuvių valdo­
+    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
+    taitis, kuris valdė Pskovo žemę apie 1342 metus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217677

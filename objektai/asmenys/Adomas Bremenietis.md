@@ -265,7 +265,7 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172920
@@ -289,7 +289,7 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172921
@@ -311,7 +311,7 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-172922
@@ -333,7 +333,7 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-172923
@@ -356,7 +356,7 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173717
@@ -378,7 +378,7 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173718
@@ -409,6 +409,116 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-008
+
+- id: c-194492
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 92."
+  citata_originali: |
+    Dešinėje tos upės pusėje gotų
+    jau nebuvo, todėl prūsai įėjo į estų genčių skaičių. Ado­
+    mas Bremenietis* žinojo tą pačią Estiją. Aprašinėdamas
+    prie Baltijos jūros esančius kraštus, kuriuos dėl senama­
+    diškų kaprizų vadina salomis, jis rašo: „Taip pat mums
+    pasakojo, kad toje jūroje esama daug kitų salų, kurių
+    viena
+    didžiulė vadinasi Estlandija1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198421
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
+  citata_originali: |
+    Tą ypatybę kronikininkai priskiria velnio galy­
+    bei, manydami, kad velniai buvo garbinami toje šventykloje
+    šalies dievų pavidalu.
+    Adomas Bremenietis užsimena apie tokį pat šventąjį ąžuo­
+    lą, augusį Švedijoje, netoli Upsalos, tačiau Albertas Krantcas* 11,
+    nė kiek neneigdamas, kad tas medis visą laiką žaliavęs, pridu­
+    ria, jog jo rūšies niekas negalėjęs nustatyti. Taigi tai turėjo bū­
+    ti ne ąžuolai, bet kitokios rūšies medžiai, kurie išnyko seniai,
+    dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji
+    medžiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198934
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
+  citata_originali: |
+    Apskritai reikia ma­
+    nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
+    kadangi šio medžio šventumas lietuvių mitologijoje susiliejo
+    su dievų buveinės vaizdiniu.
+    Tikėjimą šito medžio šventumu skandinavai iš dalies pe­
+    rėmė iš lietuvių, kadangi ne visi ir ne visur turėjo šventyklas
+    po ąžuolais; kaip praneša Adomas Bremenietis, to ypač laikė­
+    si švedų protėviai .
+    Lietuvių liaudies pasakos mini, kad žmonės valgydavę gi­
+    les, iškeptas pelenuose arba virtas su pelenais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199328
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 421"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 421."
+  citata_originali: |
+    Čia panagrinėsime dar trečią priekaištą, kuris galėjo būti
+    iškeltas prieš krivio buvimą Prūsijoje praeityje, tai yra kad vi­
+    siškas visų kitų istorijos šaltinių tylėjimas Dusburgiečio pra­
+    nešimą apie tą krivį daro labai abejotiną. Tai tiesa, kad joks
+    užsienio kronikininkas, joks istorijos šaltinis - nei Vulfstanas,
+    nei Ditmaras Merzeburgiškis, nei Adomas Bremenietis, nei
+    Helmoldas, nei lenkų kronikininkai, nei jokie dokumentai nė
+    vienu žodžiu neužsimena apie krivį. Tačiau norint suvokti prie­
+    kaišto esmę, reikia visą dalyką panagrinėti šiek tiek iš arčiau.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199336
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 416"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 416."
+  citata_originali: |
+    Tautos
+    šventovė buvo Upsaloje; ten, kaip Romovės šventykloje, sto­
+    vėjo trijų vyriausiųjų dievų stabai (Adamus Bremenensis. De
+    situ Daniae. - Cap. 233); ten, kaip ir Romovėje, gyveno tar­
+    nauti dievams pašaukti žyniai ir, be abejo, taip pat vyriausiasis
+    žynys. Adomas Bremenietis (skyrius 235) sako: de sacerdoti­
+    bus, qui ad Ubsolam Daemonibus astare solebant (apie žynius,
+    kurie Upsaloje buvo papratę tarnauti piktosioms dvasioms).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

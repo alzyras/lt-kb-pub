@@ -81,11 +81,12 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
     ten paskyrė sau artimą kunig. Joną Algimantaitį (Alšėniškį)^3 ).
   citata_rodoma: "Taip\npav., mirus Kijevą valdžiusiam Skirgailai, jis savo vietininku\nten paskyrė sau artimą kunig. Joną Algimantaitį (Alšėniškį)^3 )."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178729
@@ -112,5 +113,5 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

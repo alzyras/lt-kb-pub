@@ -77,5 +77,26 @@ Henrikas Leo „Marienburgo glosose“ teigė, kad marienburgiškais vadinti žo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201074
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 438"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 438."
+  citata_originali: |
+    22 Vokiečių istorikas Henrikas Leo darbe, pavadintame „Marien­
+    burgo glosos“ (Die Malbergische Glosse), teigia, kad žodžiai, vadinti
+    marienburgiškais, - nesuprasti senoviškų vokiškų rankraščių žodžiai,
+    kurie buvo laikomi perrašinėtojų klaidomis. Jis juos perskaitė ir įrodė,
+    jog tai keltų kalbos žodžiai. Šioji kalba jau yra dingusi ir kur ne kur
+    kelių protėvių vartojama. Išsamūs šio mokslininko tyrinėjimai aiški­
+    nantis vokiškų žodžių, neturinčių savo užuomazgos, kilmę, įrodė ne­
+    mažai istorijos faktų, kurių nebūtų galima pagrįsti kitaip.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

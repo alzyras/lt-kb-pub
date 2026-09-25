@@ -94,5 +94,5 @@ Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

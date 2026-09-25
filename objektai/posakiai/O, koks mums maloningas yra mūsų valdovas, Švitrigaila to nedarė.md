@@ -80,5 +80,5 @@ Visi kalba: „O, koks mums maloningas yra mūsų valdovas, Švitrigaila to ne­
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -77,7 +77,7 @@ Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167020
@@ -97,5 +97,5 @@ Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

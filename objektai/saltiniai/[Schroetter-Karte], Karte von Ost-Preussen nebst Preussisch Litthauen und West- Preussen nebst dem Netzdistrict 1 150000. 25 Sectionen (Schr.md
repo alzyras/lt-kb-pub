@@ -76,5 +76,22 @@ Dusburgietis teigia, kad [Schroetter-Karte], Karte von Ost-Preussen nebst Preuss
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205376
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  citata_originali: |
+    [Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West-
+    Preussen nebst dem Netzdistrict 1 : 150000. 25 Sectionen (Schroetter-Karte, 1796—
+    1802).—Historisch-geographischer Atlas des Preussenlandes / Herausgegeben von H.
+    Mortensen, G. Mortensen, R. Wenskus, H. Jäger. Lieferung 6.— Wiesbaden, 1978.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

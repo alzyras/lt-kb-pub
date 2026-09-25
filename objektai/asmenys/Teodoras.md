@@ -126,7 +126,7 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-76275
@@ -146,7 +146,7 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178789
@@ -172,7 +172,7 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-189012
@@ -188,11 +188,12 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
     kurią pasirašė Vilniaus vyskupas Andrius, taip pat pirmieji Lie­
     tuvos didikai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 ## Ryšiai

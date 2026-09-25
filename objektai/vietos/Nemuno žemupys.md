@@ -75,7 +75,7 @@ Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu sią Vilniuje, su�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-199836
@@ -93,5 +93,5 @@ Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu sią Vilniuje, su�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

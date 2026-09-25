@@ -74,9 +74,10 @@ Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius savo dvar
     Konstancijoj (1416)^1 ).
   citata_rodoma: "Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius\nsavo dvarus — ekonomijas, administruojamas tam tikrų jų ski­\nriamų valdininkų, vad. vietininkais; kitas žemes valdė sričių\nkunigaikščiai, kariai-bajorai, laisvieji gyventojai. Be senesnių­\njų lietuvių ir rusų kunigaikščių — tėvynainių (otčici) į savo val­\ndomas žemes turėjo visišką nuosavybės teisę ir Žemaitijos ba­\njorai nuo senų laikų, ką mes sužinom iš jų skundo prieš Ordiną\nKonstancijoj (1416)^1 )."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

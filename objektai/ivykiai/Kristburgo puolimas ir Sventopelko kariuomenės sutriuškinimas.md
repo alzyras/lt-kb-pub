@@ -54,20 +54,3 @@ Pastačius Kristburgo pilį, prūsai, naujakrikščiai ir Sventopelkas nutarė j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-225437"></a>
-- t-001
-  teiginys: "Pastačius Kristburgo pilį, prūsai, naujakrikščiai ir Sventopelkas nutarė ją sunaikinti."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-203309
-

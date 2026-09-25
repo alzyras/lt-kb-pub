@@ -123,7 +123,7 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83978
@@ -156,7 +156,7 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83979
@@ -187,11 +187,12 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
     nostro sua sigilla apponerent. Georgius Radziwił Episcopus
     Vilnen. Dux Olicae manu propria.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83980
@@ -228,5 +229,5 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -82,5 +82,5 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

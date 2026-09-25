@@ -114,5 +114,5 @@ Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado prot�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

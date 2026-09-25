@@ -88,6 +88,42 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
   pagrindžia:
     - c-176107
 
+<a id="claim-t-193382"></a>
+- t-193382
+  teiginys: "Dėl to visi pradėjo atvirai niekinti senuosius magistrų, maršalų, komtūrų titulus ir galvoti apie valstybinės santvarkos pakei timą."
+  atnaujinta: "2026-09-20 03:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176107
+
+<a id="claim-t-222321"></a>
+- t-222321
+  teiginys: "Helvigas iš Goldbacho įvardijamas penkioliktuoju Prūsijos žemės magistru, vadovauja vienus metus ir atsisako pareigų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205411
+
+<a id="claim-t-224255"></a>
+- t-224255
+  teiginys: "Liudvikas iš Šipeno įvardijamas keturioliktuoju Prūsijos žemės magistru ir vadovauja vienus metus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202029
+
 ## Citatos
 
 - id: c-159335
@@ -108,7 +144,7 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -140,5 +176,40 @@ Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalinta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+    - t-193382
+
+- id: c-202029
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
+  citata_originali: |
+    Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus
+    metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224255
+
+- id: c-205411
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
+  citata_originali: |
+    Brolis Helvigas iš Goldbacho iš Tiuringijos, penkioliktas Prūsijos žemės magistras,
+    vadovavo vienus metus; vėliau, atsisakęs pareigų, grįžo į Vokietiją, kur mirė ir palaidotas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222321

@@ -69,5 +69,21 @@ Dusburgietis teigia, kad pollakówna M.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204527
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  citata_originali: |
+    Pollakówna M. Sprawa ocenzurowania kroniki Piotra z Dusburga.—Europa—
+    Słowiańszczyzna—Polska: Studia ku uczceniu prof. K. Tymienieckiego, Poznań, 1970, s.
+    127—134.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

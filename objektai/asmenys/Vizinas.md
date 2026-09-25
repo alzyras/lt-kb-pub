@@ -88,6 +88,18 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   pagrindžia:
     - c-174119
 
+<a id="claim-t-213179"></a>
+- t-213179
+  teiginys: "Vizinas gyveno ant įtvirtinto Anapilio kalno ir puldinėjo gretimas apylinkes."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196776
+
 ## Citatos
 
 - id: c-174119
@@ -114,7 +126,7 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -137,5 +149,46 @@ Narbuto pasakojime Vizinas vadintas plėšriuoju slibinu, galėjusiu burtais vie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196589
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  citata_originali: |
+    Pirkliavę Danijoje rusai
+    guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
+    jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė
+    jį, pasitelkęs ¡gudrybę. Žinodamas, kad slibinas žvilgsniu
+    užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona
+    oda; taip burtininko akims nepasiekiamas ¡ginklas padėjo
+    jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
+    atsargus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196776
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  citata_originali: |
+    Tuo tarpu atsitiko taip, kad Rusioje buvo didelis tiro­
+    nas ir žmogžudys Vizinas1, gyvenęs ant įtvirtinto kalno,
+    kuris vadinosi Anapiliu; iš čia jis puldinėdavo ir plėšdavo
+    gretimas apylinkes, žudydavo visus, kurie tik drįsdavo
+    ibent kiek jam pasipriešinti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213179

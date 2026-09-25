@@ -97,7 +97,7 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167634
@@ -118,5 +118,5 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

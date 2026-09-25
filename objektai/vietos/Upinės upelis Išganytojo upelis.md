@@ -171,7 +171,7 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-171801
@@ -190,7 +190,7 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171802
@@ -209,7 +209,7 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177153
@@ -231,6 +231,45 @@ Upinės, vėliau Išganytojo, upelis tekėjo per kelią kairiajame Nemuno krante
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
+
+- id: c-199319
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
+  citata_originali: |
+    Tenai pūva tokia daugybė drobės gabalė­
+    lių, kad mažiau prietaringame krašte drąsiai būtų galima ap­
+    rūpinti popieriaus dirbtuvę žaliava. Prie upelio, dešinėje vieš­
+    kelio pusėje, ant nedidelės žemės sankasos, kurią sakė buvus
+    deivės Upinės, kadaise to upelio globėjos, altoriumi, stovi me­
+    dinė koplytėlė su Nukryžiuotoju. Dar gyvas nesenas atmini­
+    mas apie buvusią kažkokią moterų broliją, atlikinėjusią apei­
+    gas tai Upinei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199452
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
+  citata_originali: |
+    Išaušus dienai, senė pranykdavo,
+    ir sugrįždavo įprasta tvarka. Senė, vadinama Upine, tomis apei­
+    gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
+    domosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos
+    kerus, ant Upinės kaupo buvo pastatyta koplyčia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -108,7 +108,7 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44986
@@ -138,7 +138,7 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167088
@@ -161,5 +161,5 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

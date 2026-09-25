@@ -177,7 +177,7 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -197,7 +197,7 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-75923
@@ -218,6 +218,6 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004

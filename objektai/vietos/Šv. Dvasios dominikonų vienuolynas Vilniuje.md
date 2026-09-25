@@ -90,7 +90,7 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82105
@@ -113,5 +113,5 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

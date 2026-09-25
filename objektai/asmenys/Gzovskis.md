@@ -94,5 +94,5 @@ Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

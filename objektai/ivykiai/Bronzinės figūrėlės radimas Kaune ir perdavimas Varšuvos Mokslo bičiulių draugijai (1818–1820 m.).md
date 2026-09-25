@@ -89,5 +89,5 @@ Draugijos prezidentas Stašicas 1820 m. lapkričio 22 d. pranešė, kad figūrė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

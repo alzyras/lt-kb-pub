@@ -91,7 +91,7 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177095
@@ -114,5 +114,48 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198635
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
+  citata_originali: |
+    Pasak vietos padavimo, tame kape
+    palaidotas kažkoks lietuvių didikas, vadas (Wada), vardu Bou-
+    sas (Bous); jis čia gulįs su žirgu, su kurtais ir sakalu bei visa
+    karine ginkluote. Sį kapą kaimiečiai lietuviškai vadina vado
+    Bouso kapinėmis (Kapinies Wade Boussa). Iš senų vietinių do­
+    kumentų aišku tik tiek, kad apie 1520 metus ta žemė priklau­
+    sė Bousevičių giminei; tuo laiku Boguslavas Bousevičius, Ro­
+    dūnios vėliavininkas, buvo tos žemės tėvonis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201109
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
+  citata_originali: |
+    Pasitaiko taip pat ir akmeninių kaitų,
+    labai gražiai padirbtų iš titnago.
+    Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že­
+    mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo,
+    tik apmūrytas lauko akmenimis, lyg tai būtų kokio nors medi­
+    nio pastato pamūrijimas. Pasak vietos padavimo, tame kape
+    palaidotas kažkoks lietuvių didikas, vadas (Wada), vardu Bou-
+    sas (Bous); jis čia gulįs su žirgu, su kurtais ir sakalu bei visa
+    karine ginkluote.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -75,5 +75,5 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -104,7 +104,7 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167094
@@ -132,5 +132,5 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

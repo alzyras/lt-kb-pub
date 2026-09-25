@@ -140,7 +140,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-160559
@@ -161,7 +161,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-160560
@@ -187,7 +187,7 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167745
@@ -206,5 +206,5 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

@@ -111,7 +111,7 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-35500
@@ -133,7 +133,7 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167631
@@ -155,5 +155,5 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

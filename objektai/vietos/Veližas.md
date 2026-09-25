@@ -50,28 +50,6 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 
 ## Teiginiai
 
-<a id="claim-t-199954"></a>
-- t-001
-  teiginys: "Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Sakinys aiškus, konkretus ir paremtas citata."
-  susije_objektai: "mentioned_place: Krasnyj Gorod; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Biala; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Smolenskas; mentioned_place: Toropecas"
-  ryšio_patikimumas: "susije_su -> Krasnyj Gorod: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Veližas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krasnyj Gorod: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Veližas\" parinktas kaip owner_note_path. Targetas \"Krasnyj Gorod\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-182944
-
 <a id="claim-t-203056"></a>
 - t-002
   teiginys: "Pagal Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą į Rusijos teritoriją tarp Veližo ir Smolensko."
@@ -83,6 +61,18 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182943
+
+<a id="claim-t-210775"></a>
+- t-210775
+  teiginys: "Veližas yra miestas prie Dauguvos aukštupio."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193887
 
 ## Citatos
 
@@ -111,7 +101,7 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-182944
@@ -145,5 +135,21 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-193887
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 254"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 254."
+  citata_originali: |
+    Veližas— dabar RFTSR Smolensko sr. miestas (prie Dauguvos
+    aukštupio, apie 80 km | šiaurės rytus nuo Vitebsko). BK Veližas
+    klaidingai laikomas Pskovo bajorų respublikai priklausančiu miestu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210775

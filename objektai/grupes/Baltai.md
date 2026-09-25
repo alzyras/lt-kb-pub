@@ -270,6 +270,18 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   pagrindžia:
     - c-179219
 
+<a id="claim-t-218008"></a>
+- t-218008
+  teiginys: "Narbutas lietuviais vadina visus baltus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199586
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Lietuvos pastangomis bendrai kovai prieš vokiečių feodalinę agresiją buvo mobilizuojami beveik visi baltai.'
@@ -313,7 +325,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-31043
@@ -336,7 +348,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-90794
@@ -356,7 +368,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-90795
@@ -375,7 +387,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-90796
@@ -395,7 +407,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-90797
@@ -411,7 +423,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-90798
@@ -432,7 +444,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-90799
@@ -456,7 +468,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-90800
@@ -483,7 +495,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-90803
@@ -509,7 +521,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-90804
@@ -533,7 +545,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-166507
@@ -553,7 +565,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-179219
@@ -575,8 +587,152 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
+
+- id: c-196895
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
+  citata_originali: |
+    Otono Freizingiškio kronikoje randame, jog Vakarų
+    gotai turėjo garsią Balthorum giminę, antrą po Amalų, o žodis Bultha
+    turėjo reikšti
+    audax,
+    narsus*.
+    4 Helmold. Lib. I. C. 1. Appellatur inde Ballictis, eo quod in
+    modum baltei, longo tractu per Scythicas regiones tenditur, usque in
+    Graeciam (sc.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199586
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 19."
+  citata_originali: |
+    T. Narbutas sujun­
+    gia ne tik dvi lietuvių, bet ir kitų baltų - prūsų, latvių - mitolo­
+    gijos tyrinėjimo tradicijas, nes lietuviais pagal beįsivyraujantį
+    ano meto požiūrį jis vadina visus baltus; prūsai ir latviai, anot
+    jo, esą tik „atskiros lietuvių gentys“, „atskiros lietuvių genties
+    tautos“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218008
+
+- id: c-203115
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
+  citata_originali: |
+    Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
+    antropomorfinę dievybę, panašią  į krikščioniškąjį dievą (Łowmiański H. Elementy..., p.
+    153). Apie politeistinę baltų religiją, indoeuropietiškos kilmės vyriausiąjį dievą (lygintiną
+    su prūsų Patrimpu), jo garbinimą, vyriausiojo žynio Krivės funkcijas, Perkūną ir kt. baltų
+    dievus — Gimbutienė M. Baltai, p. 148—178; Mannhardt W. Letto-Preussische..., Apie
+    Krivį— Топоров B. H. Прусский язык, K—L, с. 196—205.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203145
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    204  Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
+    prūsų, lietuvių ir kitų baltų religinio kulto centras.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203375
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 66-67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66-67."
+  citata_originali: |
+    Dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos
+    tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П. И., Шмидт
+
+    vadinamas kriviu205, kurį gerbė kaip popiežių, nes kaip valdovas popiežius valdo visuotinę
+
+    E. А., Древние..., с. 17, 31, 61), Bačkininkėlių piliakalnyje prie Nemuno (Daugudis V.,
+    Senoji.., p. 36), Palangos Birutės kalne (Žulkus V., Birutės..., p. 16—17) ir kt.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206272
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  citata_originali: |
+    186 Manoma, kad politinė  ir etninė baltų (Pamedės prūsų)  ir Pamario slavų riba
+    ėjusi XII—XIII  a. žemutine  Vysla  ir Nogatu (Trautmann  R.  Die  altpreussischen
+    Sprachdenkmäler, p. MII; Łowmiański H. Studja..., 1, p. 47; HP, 1, 1, p. 421—422 (G.
+    Labuda), nors prūsų tuo metu būta ir kair. Vyslos krante (Mevės apyl.— Yčas J. Prūsų...,
+    p. 11—12). Vyslos žemupį siekė ir baltų prokalbės, susiformavusios XX a. pr. m. e.,
+    arealas (Mažiulis V. Apie senovės vakarų baltus..., p. 5). Nors Vysla — pagrindinio baltų
+    arealo riba vakaruose, tačiau baltų hidronimikos yra ir  į vakarus nuo Vyslos (Ванагас
+    А. П., Максимальный ареал..., с. 119; Топоров В. Н. Новые работы..., с. 263—273;
+    plg. Рыбаков Б. А. Киевская Русь..., с. 15), periferinė baltų zona vakaruose siekusi
+    Oderio—Elbės tarpupį (Schall H. Baltische Gewässernamen..., p. 7—42; Топоров B. H.
+    К вопросу о топонимических соответствиях..., с. 103—111; to paties, Балтийский
+    элемент..., с. 250—252).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206305
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
+  citata_originali: |
+    Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
+    Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83). Prūsai V—VI a.
+    sandūroje vėl gyveno teritorijoje iki Vyslos (Labuda G. Zagadnienie..., p. 15, [Powierski J.]
+    Pomezania, p. 220). Kitų tvirtinama, kad prūsai pasiekė Vyslą ir Nogatą tik X—XI a. arba
+    net XII—XIII a. sandūroje (Pollakówna M. Zanik..., p. 164—165; Powierski J. Stosunki...,
+    p. 121; Górnowicz H. Toponimia..., p. 14—15). Pastaroji nuomonė kritikuojama (Ślaski
+    K. Rec.— ABS, 1967, 5, p. 358—360). Antikinių šaltinių tyrimas rodo, kad lotyniškoji
+    forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros
+    pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54,
+    66); žr. ir GAO, p. 204; Gimbutienė M. Baltai, p. 17—19, 48—51, 66, 106, 114.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/grupes/Bartai]], [[objektai/grupes/Latviai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Prūsai]], [[objektai/grupes/Sembai]]

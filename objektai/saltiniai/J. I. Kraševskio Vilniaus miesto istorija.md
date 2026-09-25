@@ -76,5 +76,5 @@ Nepaisant gana kritiško požiūrio į istorijos šaltinius, M. Tačiau jaučiam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

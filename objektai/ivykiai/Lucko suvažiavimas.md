@@ -166,6 +166,44 @@ Nenurodyta
   pagrindžia:
     - c-184053
 
+<a id="claim-t-211362"></a>
+- t-211362
+  teiginys: "Suvažiavimo dieno tvarkėje buvo Moldavijos padalijimas Vengrijai ir Lenkijai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
+  pagrindžia:
+    - c-192994
+
+<a id="claim-t-211511"></a>
+- t-211511
+  teiginys: "Suvažiavimas truko maždaug tris savaites."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194242
+
+<a id="claim-t-211934"></a>
+- t-211934
+  teiginys: "Tokiu pačiu sakiniu prasideda Lietuvos metraščių TS nuora šų trumpas pasakojimas apie dalies Vidurio ir Rylų Europos val dovų suvažiavimą 1429 m. pradžioje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
+  pagrindžia:
+    - c-193743
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Štai todėl karalius po senato posėdžio, net neatsi sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.'
@@ -234,7 +272,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -264,7 +302,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176087
@@ -293,7 +331,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184053
@@ -303,6 +341,83 @@ Nenurodyta
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:35"
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-190080
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 140"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 140."
+  citata_originali: |
+    Suvažia-
+    vimą inicijavo imperatorius, todėl ir vieta, numatyta iš pradžių Trakuose, buvo perkelta
+    arčiau Vengrijos, į Lucką. Suvažiavime taip pat dalyvavo Maskvos didžiojo kunigaikščio
+    ir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kuni-
+    gaikščiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldovos, Danijos karaliaus
+    ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavimas rodė išaugusį LDK ir Vytauto
+    vaidmenį regione, o į Lietuvos istoriją jis įėjo pirmiausiai dėl Vytauto vainikavimo plano,
+    kurį rėmė Zigmantas I ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
+  citata_rodoma: "avime taip pat dalyvavo Maskvos didžiojo kunigaikščio \nir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kuni-\ngaikščiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldovos, Danijos karaliaus \nir Bizantijos imperatoriaus pasiuntiniai. Lucko"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192994
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 260"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 260."
+  citata_originali: |
+    Suvažiavimo dieno­
+    tvarkėje buvo Moldavijos padalijimas Vengrijai ir Lenkijai
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211362
+
+- id: c-193743
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
+  citata_originali: |
+    Tokiu pačiu sakiniu prasideda Lietuvos metraščių TS nuora­
+    šų trumpas pasakojimas apie dalies Vidurio ir Rylų Europos val­
+    dovų suvažiavimą 1429 m. pradžioje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211934
+
+- id: c-194242
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 262."
+  citata_originali: |
+    Lucko
+    suvažiavimas
+    truko ne septynias, o maždaug tris
+    savaites
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211511

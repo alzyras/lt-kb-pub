@@ -394,7 +394,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-30681
@@ -413,7 +413,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-163201
@@ -435,7 +435,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-017
 
@@ -457,7 +457,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-007
 
@@ -481,7 +481,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-163206
@@ -504,7 +504,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-163207
@@ -526,7 +526,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-163209
@@ -550,7 +550,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-018
 
@@ -574,7 +574,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-013
 
@@ -599,7 +599,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-163214
@@ -628,7 +628,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-014
 
@@ -650,7 +650,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-163216
@@ -671,6 +671,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

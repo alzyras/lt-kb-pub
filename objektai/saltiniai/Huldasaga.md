@@ -68,5 +68,25 @@ Narbutas, remdamasis Huldasaga, rašo, kad Huldos dukterys Tergerda ir Irpa stat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199077
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 181"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 181."
+  citata_originali: |
+    Vietiniai kaimiečiai dar nepaliauja tikėję, kad esama žmo­
+    nių, susidėjusių su koboliais, kurie jiems slapčia neša dovanų
+    w Skandinavams tai buvo mitinės būtybės, tačiau įkyrios ir ir­
+    zlios; su jomis buvo galima kovoti ir jas užmušti. Jos turėjo savo sei­
+    mą ir karalienę, vardu Huldą, kuri turėjo dvi dukteris - Tergerdą
+    (Thergerd) ir Irpą (Yrpo). Jos statė šventyklą Odino garbei, gyveno
+    miškuose ir Siaurės šalyse (Islandų saga, pavadinta Huldasaga).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

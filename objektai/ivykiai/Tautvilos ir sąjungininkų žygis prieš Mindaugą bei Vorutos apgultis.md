@@ -122,6 +122,17 @@ Nenurodyta
   pagrindžia:
     - c-170457
 
+<a id="claim-t-210465"></a>
+- t-210465
+  teiginys: "Lietuvos metraščio pasakojime Mindaugas priekaištavo sūnui dėl pasirinkto vienuoliško gyvenimo, o sūnus esą labai nemylėjo tėvo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -181,7 +192,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-170457
@@ -204,7 +215,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-004

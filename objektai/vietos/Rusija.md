@@ -484,6 +484,94 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-177147
 
+<a id="claim-t-209291"></a>
+- t-209291
+  teiginys: "Rusijos valdžia 1804, 1807 ir 1813 m. išleido įsakus dėl žydų iškeldinimo iš dvarų ir sodžių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1813 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir tiesiogiai pagrįstas citata. Papildomos įsakų vykdymo aplinkybės sąmoningai nepridėtos."
+  pagrindžia:
+    - c-191959
+
+<a id="claim-t-209374"></a>
+- t-209374
+  teiginys: "Rufinas Piotrovičius penktojo dešimtmečio viduryje į užsienį išvyko bėgdamas nuo Rusijos valdžios persekiojimo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
+  pagrindžia:
+    - c-191909
+
+<a id="claim-t-209641"></a>
+- t-209641
+  teiginys: "Jie va žiavo tai į neutrales šalis, tai į Rusijų biz nio daryti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192261
+
+<a id="claim-t-209642"></a>
+- t-209642
+  teiginys: "Rusijos, Lietuvos, Italijos ir Šveicarijos lietuviai, susirinkę Šveicarijos Lausannoj, svarstydami Amerikos lietuvių surink ti} aukų mažumą, nusprendė, išreikšti Ameri kos lietuviams papeikimą ir stebėjimąsi, kad jie nesiliauja pešęsi tarpu savęs net šiuom."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192262
+
+<a id="claim-t-209643"></a>
+- t-209643
+  teiginys: "Sako, kad rusų caras nenorįs jo išleisti iš Rusijos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192263
+
+<a id="claim-t-216094"></a>
+- t-216094
+  teiginys: "Tais metais karaliui Žy gimantui buvo daug darbų ir rūpesčių; mat, be ši to darbštaus seimo, dar kariavo šiaurėje karą su Rusija."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200227
+
+<a id="claim-t-217576"></a>
+- t-217576
+  teiginys: "T. Narbutas nurodo tarnavęs Rusijos armijoje ir keliaudamas ieškojęs praeities pėdsakų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198690
+
 ## Citatos
 
 - id: c-32396
@@ -502,7 +590,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-164112
@@ -527,7 +615,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-164116
@@ -551,7 +639,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-009
 
@@ -583,7 +671,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-015
 
@@ -611,7 +699,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-164120
@@ -637,7 +725,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-164122
@@ -656,7 +744,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-164125
@@ -683,7 +771,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-164126
@@ -707,7 +795,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-164129
@@ -729,7 +817,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-012
 
@@ -754,7 +842,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-164132
@@ -778,7 +866,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-164133
@@ -800,7 +888,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-164134
@@ -821,7 +909,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-164135
@@ -846,7 +934,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-164140
@@ -869,7 +957,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-164142
@@ -890,7 +978,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-171715
@@ -912,7 +1000,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-175967
@@ -930,7 +1018,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-177147
@@ -950,8 +1038,153 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
+
+- id: c-191909
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 18"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 18."
+  citata_originali: |
+    Kiti (V. Biržiška) teigė, jog tai buvo
+    kuris nors kitas, Šimkevičių pavardę turėjęs inteligentas, greičiausiai
+    emigrantas. Be to, V. Biržiška nurodė, jog laiško D. Poškai ąutorius
+    gali būti Rufino Piotrovičiaus, penktojo dešimtmečio viduryje bėgusio
+    nuo Rusijos valdžios persekiojimo užsienin, prisiminimuose minimas
+    žemaitis poetas Simkevičius, kuris 1846 m. Karaliaučiuje tarnavo
+    valdininku ir sakėsi daug žemaitiškų eilėraščių parašęs.
+  citata_rodoma: "Rufino Piotrovičiaus, penktojo dešimtmečio viduryje bėgusio \nnuo Rusijos valdžios persekiojimo užsienin, prisiminimuose minimas \nžemaitis poetas Simkevičius, kuris 1846 m. Karaliaučiuje tarnavo \nvaldininku ir sakėsi daug žemaitiškų eilėraščių parašęs."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209374
+
+- id: c-191959
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 51"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 51."
+  citata_originali: |
+    1804,
+    1807,
+    1813 m. Rusijos valdžia, gindama
+    viešpataujančios klasės interesus, išleido įsakus, įpareigojančius žydus
+    išsikelti iš dvarų ir sodžių. Kuršo, Gardino gubernijose iš dalies tie
+    patvarkymai pradėti vykdyti59, bet 1812 karo metu Lietuvos
+    bajoriškajai visuomenei daug prisidėjus prie Napoleono žygio, o žydų
+    bendruomenei gerai pasidarbavus Rusijos interesų labui, tie įsakai liko
+    tik popieriuje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209291
+
+- id: c-192261
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 19"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 19."
+  citata_originali: |
+    Jie va­
+    žiavo tai į neutrales šalis,
+    tai į Rusijų biz­
+    nio daryti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209641
+
+- id: c-192262
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 49"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 49."
+  citata_originali: |
+    Rusijos,
+    Lietuvos,
+    Italijos
+    ir
+    Šveicarijos lietuviai, susirinkę Šveicarijos Lau-
+    sannoj, svarstydami Amerikos lietuvių surink­
+    ti} aukų mažumą, nusprendė, išreikšti Ameri­
+    kos lietuviams papeikimą ir stebėjimąsi, kad
+    jie nesiliauja pešęsi tarpu savęs net šiuom bai­
+    siu karės metu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209642
+
+- id: c-192263
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 68"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 68."
+  citata_originali: |
+    Sako,
+    kad
+    rusų caras nenorįs jo išleisti iš Rusijos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209643
+
+- id: c-198690
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 48"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 48."
+  citata_originali: |
+    Jau trisdešimt
+    metų, kai jaučiu norą dirbti šį darbą; tarnavau inžinieriumi
+    Rusijos armijoje ir, daug keliaudamas, versdamas ir rausda­
+    mas žemę (ne vieną kartą - ir savo gimtąją), ieškojau praeities
+    pėdsakų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217576
+
+- id: c-200227
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
+  citata_originali: |
+    Tais metais karaliui Žy­
+    gimantui buvo daug darbų ir rūpesčių; mat, be ši­
+    to darbštaus seimo, dar kariavo šiaurėje karą su
+    Rusija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216094
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksejus Michailovičius]]

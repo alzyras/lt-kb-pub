@@ -256,7 +256,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166422
@@ -279,7 +279,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166994
@@ -299,7 +299,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-166995
@@ -317,7 +317,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-166997
@@ -336,7 +336,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-166998
@@ -360,7 +360,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-166999
@@ -382,7 +382,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-167000
@@ -403,7 +403,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-176310
@@ -423,7 +423,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-176311
@@ -442,7 +442,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 ## Ryšiai

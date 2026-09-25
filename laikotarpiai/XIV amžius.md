@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIV amžius"
 periodo_pradzia: 1301
 periodo_pabaiga: 1400
-periodo_objektu_skaicius: 1480
+periodo_objektu_skaicius: 1510
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1480.
+Objektų skaičius: 1510.
 
 ## Susiję objektai
 
@@ -176,6 +176,7 @@ Objektų skaičius: 1480.
 - [[objektai/asmenys/Konradas von Jungingen]]
 - [[objektai/asmenys/Konradas Wallenrodas]]
 - [[objektai/asmenys/Konradas Žakas]]
+- [[objektai/asmenys/Konstancija Šlapelytė]]
 - [[objektai/asmenys/Konstantinas Karijotaitis]]
 - [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]
 - [[objektai/asmenys/Kviramas iš Valdavos]]
@@ -226,6 +227,7 @@ Objektų skaičius: 1480.
 - [[objektai/asmenys/Pelka]]
 - [[objektai/asmenys/Petras (Celestinas V)]]
 - [[objektai/asmenys/Petras (Poznanės vyskupas)]]
+- [[objektai/asmenys/Petras Babickas]]
 - [[objektai/asmenys/Petras d'Ailli]]
 - [[objektai/asmenys/Petras Dusburgietis]]
 - [[objektai/asmenys/Petras Goštautas]]
@@ -253,6 +255,7 @@ Objektų skaičius: 1480.
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/asmenys/Svirdeika]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/asmenys/Tautvilis Bukėnas]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/asmenys/Teodoras (Gedimino brolis)]]
 - [[objektai/asmenys/Teodoras Karijotaitis]]
@@ -270,6 +273,7 @@ Objektų skaičius: 1480.
 - [[objektai/asmenys/Treteris]]
 - [[objektai/asmenys/Ulrichas iš Drinlevės]]
 - [[objektai/asmenys/Ulrichas iš Tetingeno]]
+- [[objektai/asmenys/Unė Babickaitė-Milerienė]]
 - [[objektai/asmenys/Urbonas IV]]
 - [[objektai/asmenys/Uzbeko]]
 - [[objektai/asmenys/Vaclovas]]
@@ -347,6 +351,7 @@ Objektų skaičius: 1480.
 - [[objektai/autoriai/Napierski]]
 - [[objektai/autoriai/O. Halecki]]
 - [[objektai/autoriai/P. Tarasenka]]
+- [[objektai/autoriai/Petras Babickas]]
 - [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/autoriai/Petras d’Ailli]]
 - [[objektai/autoriai/R. Krumbholtz]]
@@ -365,6 +370,7 @@ Objektų skaičius: 1480.
 - [[objektai/autoriai/Zajączkowski, St]]
 
 ### Daiktai
+- [[objektai/daiktai/Angelas (daiktas)]]
 - [[objektai/daiktai/Apgulties mašinos]]
 - [[objektai/daiktai/Arisaka 30 modelio šautuvas]]
 - [[objektai/daiktai/Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste]]
@@ -394,6 +400,7 @@ Objektų skaičius: 1480.
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
 - [[objektai/daiktai/Parakas]]
 - [[objektai/daiktai/Patrankos]]
+- [[objektai/daiktai/Paukščiai (daiktas)]]
 - [[objektai/daiktai/Pilies arklidės, kunigaikščio brangenybės ir sidabro luitai]]
 - [[objektai/daiktai/Pilies raktai|Pilies raktai (pilis)]]
 - [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
@@ -469,11 +476,14 @@ Objektų skaičius: 1480.
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Prancūzai]]
+- [[objektai/grupes/Prancūzijos kariuomenė]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/grupes/Rygos kapitula]]
 - [[objektai/grupes/Rygos miestiečiai]]
 - [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
 - [[objektai/grupes/Saracėnai]]
+- [[objektai/grupes/Savanorių kūrėjų draugija]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Senovės graikai]]
 - [[objektai/grupes/Smolensko kunigaikščiai]]
@@ -500,6 +510,8 @@ Objektų skaičius: 1480.
 ### Papročiai
 - [[objektai/paprociai/Apgaulingo atsitraukimo manevras]]
 - [[objektai/paprociai/Apkaltintųjų mėginimas verdančiu vandeniu]]
+- [[objektai/paprociai/Babickų giminaičių tarpusavio globa ir materialinė bei kultūrinė parama]]
+- [[objektai/paprociai/Babickų šeimos atminimo ir archyvinio palikimo saugojimas]]
 - [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis|Bajorijos stiprinimas valdovo privilegijomis (privilegija)]]
 - [[objektai/paprociai/Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
@@ -511,11 +523,13 @@ Objektų skaičius: 1480.
 - [[objektai/paprociai/Gedimino svetimšalių pirklių, amatininkų ir kolonistų kvietimas bei teisių suteikimas]]
 - [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]
 - [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]
+- [[objektai/paprociai/Giedojimas bažnyčios chore ir per laidotuves]]
 - [[objektai/paprociai/Kalinių paleidimas kaip kraitis]]
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
 - [[objektai/paprociai/Karo nualintų gyventojų aprūpinimas maistu ir drabužiais]]
 - [[objektai/paprociai/Kauno gynėjų gedulo raudos]]
 - [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise]]
+- [[objektai/paprociai/Krikšto apeigos Kupiškio parapijoje]]
 - [[objektai/paprociai/Kristaus kūno šventės šventimas]]
 - [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
 - [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]
@@ -527,8 +541,10 @@ Objektų skaičius: 1480.
 - [[objektai/paprociai/Lietuvos valdovų laidojimas pagoniškais papročiais]]
 - [[objektai/paprociai/Lietuvos valdovų reikalų sprendimas Trakuose vietoj sostinės Vilniaus]]
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]
+- [[objektai/paprociai/Medžio drožėjų plenerų „Žmogus ir vanduo“ praktika]]
 - [[objektai/paprociai/Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą]]
 - [[objektai/paprociai/Metų pranašavimas iš orakulo nurodytų plytų]]
+- [[objektai/paprociai/Monetų dėjimas į kapus]]
 - [[objektai/paprociai/Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas]]
 - [[objektai/paprociai/Pagoniškųjų tikėjimų integravimas į krikščionišką praktiką]]
 - [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]
@@ -713,6 +729,7 @@ Objektų skaičius: 1480.
 - [[objektai/vietos/Kulių (Jurgaičių) pilys]]
 - [[objektai/vietos/Kulmas]]
 - [[objektai/vietos/Kulmo žemė]]
+- [[objektai/vietos/Kupiškis]]
 - [[objektai/vietos/Kuršas]]
 - [[objektai/vietos/Kvėdarna]]
 - [[objektai/vietos/Labanoras]]
@@ -1063,6 +1080,7 @@ Objektų skaičius: 1480.
 - [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
 - [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
 - [[objektai/ivykiai/Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)]]
+- [[objektai/ivykiai/Kupiškėnų garso įrašai fonografu 1935–1940 metais]]
 - [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį]]
 - [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.)]]
 - [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)]]
@@ -1174,6 +1192,7 @@ Objektų skaičius: 1480.
 - [[objektai/ivykiai/Trijų nuodijimu apkaltintų vyrų išbandymas verdančiu vandeniu Slavijoje (1321 m.)]]
 - [[objektai/ivykiai/Trijų saulių pasirodymas ir kardinolų kolegijos skilimas (1314–1316 m.)]]
 - [[objektai/ivykiai/Utenio žygis į Padaugavį ir Ašradės apygardas]]
+- [[objektai/ivykiai/Vaclovо Stančiko, J. Garbausko ir Jadzės Vasiulytės epizodas Girelės miške]]
 - [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]
 - [[objektai/ivykiai/Vernerio iš Orzelno išrinkimas didžiuoju magistru (1324 m. liepos 6 d.)]]
 - [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]
@@ -1258,9 +1277,11 @@ Objektų skaičius: 1480.
 - [[objektai/saltiniai/1404 m. Racionžo taikos sutartis]]
 - [[objektai/saltiniai/1427 m. vyskupų induitas dėl Šv. Jono bažnyčios pašventinimo]]
 - [[objektai/saltiniai/1781 m. vokiškas Dusburgiečio kronikos vertimas]]
+- [[objektai/saltiniai/1808. X. 29 Platelių dvaro inventorius]]
 - [[Prätorius M.] Praetorio M. Deliciae Prussicae oder Preussische Schawbühne. [Rankraštis, 1—7 knygos]](/objektai/saltiniai/%5BPr%C3%A4torius%20M.%5D%20Praetorio%20M.%20Deliciae%20Prussicae%20oder%20Preussische%20Schawb%C3%BChne.%20%5BRankra%C5%A1tis%2C%201%E2%80%947%20knygos%5D)
 - [[Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne [Rankraštis]](/objektai/saltiniai/%5BPr%C3%A4torius%20M.%5D%20Proetorius%20M.%20Deliciae%20Prussiae%20oder%20Preussische%20Schaub%C3%BChne%20%5BRankra%C5%A1tis%5D)
 - [[Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne. [Mašinraštis. E. Kraštinaičio šifruotas tekstas]](/objektai/saltiniai/%5BPr%C3%A4torius%20M.%5D%20Proetorius%20M.%20Deliciae%20Prussiae%20oder%20Preussische%20Schaub%C3%BChne.%20%5BMa%C5%A1inra%C5%A1tis.%20E.%20Kra%C5%A1tinai%C4%8Dio%20%C5%A1ifruotas%20tekstas%5D)
+- [[objektai/saltiniai/A. Filipeckio pamokslų rinkinys]]
 - [[objektai/saltiniai/A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329]]
 - [[objektai/saltiniai/A. Prochaska, Dzieje Witolda]]
 - [[objektai/saltiniai/A. Prochaska, Nieznany akt homogialny Witolda]]
@@ -1316,6 +1337,8 @@ Objektų skaičius: 1480.
 - [[objektai/saltiniai/Jono XXII bulė dėl Gedimino ir 1323 m. sutarties]]
 - [[objektai/saltiniai/K. Heinl, Fürst Witold von Litauen 1382-1401]]
 - [[objektai/saltiniai/Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a. pradžioje]]
+- [[objektai/saltiniai/Kauno vicegubernatoriaus 1874 m. vasario 12 d. raštas Vilniaus generalgubernatoriui]]
+- [[objektai/saltiniai/Kazimiero Bagdzevičiaus 1828-12-14 laiškas Motiejui Valančiui]]
 - [[objektai/saltiniai/Klaipėdos miesto istorija 1252-1466]]
 - [[objektai/saltiniai/Konrado 1230 m. dovanojimo raštas]]
 - [[objektai/saltiniai/Kronika Lechitów i Polaków]]
@@ -1333,11 +1356,13 @@ Objektų skaičius: 1480.
 - [[objektai/saltiniai/Liublino unijos aktas (1569 m.)]]
 - [[objektai/saltiniai/Livonijos atstovų prieštaravimas dėl 1323 m. taikos]]
 - [[objektai/saltiniai/Lvovo privilegija (1392 m. bal. 16 d.)]]
+- [[objektai/saltiniai/M. Bialobžeskio pamokslų rinkinys]]
 - [[objektai/saltiniai/M. Strijkovskio kronika]]
 - [[objektai/saltiniai/Martyno iš Opavos popiežių ir imperatorių istorija]]
 - [[objektai/saltiniai/Mažesniųjų brolių laiškas dėl Teutonų ordino garbės (1323 m.)]]
 - [[objektai/saltiniai/Mikalojaus iš Jerošino Prūsijos žemės kronika]]
 - [[objektai/saltiniai/Mindaugas-Lietuvos karalius]]
+- [[objektai/saltiniai/Monetos ir žetonai Lietuvos senkapiuose 1387–1850 m]]
 - [[objektai/saltiniai/Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts]]
 - [[objektai/saltiniai/N. Korčino aktas]]
 - [[objektai/saltiniai/Naujausių Proistorinių Tyrinėjimų Duomens]]
@@ -1349,6 +1374,7 @@ Objektų skaičius: 1480.
 - [[objektai/saltiniai/Ostrogo kunigaikščio Feodoro privilegija (1396 m.)]]
 - [[objektai/saltiniai/Ostrovo sutartis (1392 m.)]]
 - [[objektai/saltiniai/P. Šležas, Vytauto D. kovos dėl Žemaičių ir Klaipėdos]]
+- [[objektai/saltiniai/Patarlės žemaičių]]
 - [[objektai/saltiniai/Pašuta V. Lietuvos valstybės susidarymas]]
 - [[objektai/saltiniai/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)]]
 - [[objektai/saltiniai/Pirmoji Lietuvos Bažnyčiai privilegija (1387 m.)]]
@@ -1386,6 +1412,9 @@ Objektų skaičius: 1480.
 - [[objektai/saltiniai/Urbono VI bulė dėl Vilniaus katedros ir vyskupijos]]
 - [[objektai/saltiniai/Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a]]
 - [[objektai/saltiniai/Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu (1236—1263)]]
+- [[objektai/saltiniai/Vidaus reikalų ministro 1867. VII. 2 raštas Vilniaus generalgubernatoriui]]
+- [[objektai/saltiniai/Vidaus reikalų viceministro 1869 m. lapkričio 27 d. raštas A. Potapovui]]
+- [[objektai/saltiniai/Vilniaus cenzūros komiteto 1865. II. 16 posėdžio protokolas]]
 - [[objektai/saltiniai/Vilniaus miesto planas Jogailos laikais]]
 - [[objektai/saltiniai/Vokiškieji kryžiuočių kelių aprašymai]]
 - [[objektai/saltiniai/Vytauto 1398 m. laiškas Prūsijos ordinui dėl pagalbos statant pilis]]
@@ -1471,6 +1500,7 @@ Objektų skaičius: 1480.
 - [[objektai/zodynas/Paliaubos induciae]]
 - [[objektai/zodynas/papilys]]
 - [[objektai/zodynas/Papilys suburbium]]
+- [[objektai/zodynas/pazvanai (sąvoka)]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/zodynas/pilėnas]]
 - [[objektai/zodynas/pilėnas pilėnai]]

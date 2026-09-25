@@ -61,5 +61,5 @@ Pasak Teodoro Narbuto, Smolensko bajorai ir gyventojai iš visos širdies pritar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

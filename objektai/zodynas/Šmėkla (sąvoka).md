@@ -61,5 +61,5 @@ Anot liaudies padavimų, prie piktųjų būtybių giminės pri klausė kažkokio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

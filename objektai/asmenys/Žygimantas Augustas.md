@@ -567,6 +567,44 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   pagrindžia:
     - c-186720
 
+<a id="claim-t-207429"></a>
+- t-207429
+  teiginys: "Bumblausko aprašyme LDK pinigų sistema prie Žygimanto Augusto įžengė į „aukso amžių“, kai buvo išleistos stambaus nominalo auksinės monetos – dukatai ir portugalai."
+  atnaujinta: "2026-09-19 05:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190028
+
+<a id="claim-t-207759"></a>
+- t-207759
+  teiginys: "Po Barboros Radvilaitės mirties Žygimantas Augustas, kaip nurodo Jūratė Kiaupienė, tikėdamasis sulaukti įpėdinio, Europos valdovų dvaruose ieškojo žmonos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190412
+
+<a id="claim-t-220070"></a>
+- t-220070
+  teiginys: "Valdant Žygimantui Augustui, Veliuonos vietos kunigas Ragauskas priėmė Socino tikėjimą."
+  atnaujinta: "2026-09-19 05:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198847
+
 ## Reikšmingi paminėjimai
 - c-014
   santrauka: '1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį.'
@@ -648,7 +686,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166974
@@ -667,7 +705,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166975
@@ -687,7 +725,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167230
@@ -706,7 +744,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-167231
@@ -729,7 +767,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-167232
@@ -750,7 +788,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-167233
@@ -776,7 +814,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-167234
@@ -801,7 +839,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-167235
@@ -829,7 +867,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-167236
@@ -856,7 +894,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-167237
@@ -881,7 +919,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-167238
@@ -910,7 +948,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-167239
@@ -931,7 +969,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-168271
@@ -962,7 +1000,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-168272
@@ -986,7 +1024,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-171546
@@ -1006,7 +1044,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-171547
@@ -1028,7 +1066,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
     - t-018
 
@@ -1053,7 +1091,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-178828
@@ -1085,7 +1123,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-178829
@@ -1110,6 +1148,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-184115
   autorius: "Mikalojus Vorobjovas"
   šaltinis: "Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)"
@@ -1122,11 +1161,12 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     torium. Nereikia manyti, kad abu šiuodu stilių taip jau yra priešingi vienas
     kitam.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-184912
@@ -1142,7 +1182,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-184913
@@ -1159,7 +1199,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-185663
@@ -1169,8 +1209,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-185874
@@ -1180,8 +1221,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-186622
@@ -1202,7 +1244,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-186623
@@ -1221,7 +1263,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-186720
@@ -1239,8 +1281,115 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
+
+- id: c-190028
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 48"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 48."
+  citata_originali: |
+    Monetose atsirado lotyniškos legendos, nurodan-
+    čios valstybę ir valdovą, o kartu monetose, be averse vaizduoto Vyčio, reverse atsiranda
+    Lenkijos Erelis. Žygimanto Senojo laikais – nuo 1508 m. – LDK monetos pradėtos tiksliai
+    datuoti. Į „aukso amžių“ (net tiesiogine prasme) LDK pinigų sistema įžengė prie Žygi-
+    manto Augusto, kuomet išleistos stambaus nominalo auksinės monetos – dukatai ir por-
+    tugalai (1 portugalas = 10 dukatų arba 400 grašių).
+  citata_rodoma: "Į „aukso amžių“ (net tiesiogine prasme) LDK pinigų sistema įžengė prie Žygi-\nmanto Augusto, kuomet išleistos stambaus nominalo auksinės monetos – dukatai ir por-\ntugalai (1 portugalas = 10 dukatų arba 400 grašių)."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207429
+
+- id: c-190412
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 196"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 196."
+  citata_originali: |
+    Ta-
+    čiau visi jie tarnavo savo tėvynei, atstovaudami Lietuvos Didžiosios Kunigaikštystės poli-
+    tiniams interesams imperatoriaus dvare, atlikdami valdovo ar Ponų Tarybos pavedimus.
+    Vieną tokią delikačią diplomatinę misiją atliko M. Radvila Juodasis. Po antrosios
+    žmonos Barboros Radvilaitės mirties
+    24 našlaujantis Žygimantas Augustas, tuo metu dar
+    tikėdamasis susilaukti įpėdinio, Europos valdovų dvaruose ieškojo žmonos.
+  citata_rodoma: "Po antrosios\nžmonos Barboros Radvilaitės mirties\n24 našlaujantis Žygimantas Augustas, tuo metu dar\ntikėdamasis susilaukti įpėdinio, Europos valdovų dvaruose ieškojo žmonos."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207759
+
+- id: c-198732
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 8"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
+  citata_originali: |
+    Istorijos veikalą T. Narbutas baigia tokiais žodžiais: „Aš pri­
+    vedžiau savo rašinį iki epochos, kuria baigėsi tautos savaran­
+    kiškumas. Čia turiu perduoti darbą tęsti lenkų istorikams. Pas­
+    kutinis savarankiškas Lietuvos valdovas ir paskutinis vyriška­
+    sis Jogailos palikuonis Žygimantas Augustas mirė, ir aš lau- j?
+    žau plunksną prie jo karsto“7.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198847
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  citata_originali: |
+    1414 metais
+    kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
+    ravo tą kraštą, įsteigė Veliuonos vėliavininkų ą, arba apskritį,
+    užrašė bažnyčiai daugiau pajamų. Valdant Žygimantui Augus­
+    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
+    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
+    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
+    Zigmantui III.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220070
+
+- id: c-199469
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
+  citata_originali: |
+    Is­
+    torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
+    ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
+    Joje buvusios trys figūros, pavaizduotos iki juosmens - Patrim­
+    pas, ar Atrimpas, gražiaveidis jaunikaitis be barzdos ir ūsų, su
+    varpų vainiku. Viduryje buvo Perkūnas - vidutinio amžiaus,
+    barzda ir plaukai garbiniuoti, juodi, aplink galvą buvo ugnies
+    spindulių vainikas, veidas ugninės - raudonos - spalvos, išpū­
+    tęs ir piktas, žiūrėjo į Atrimpą su pykčiu, o tas tarytum šypso-
+    jęsis.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:04"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]

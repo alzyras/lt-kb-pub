@@ -60,6 +60,18 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   pagrindžia:
     - c-42407
 
+<a id="claim-t-208407"></a>
+- t-208407
+  teiginys: "Gintautas Sliesoriūnas straipsnyje aiškina, kad švedai, užėmę Vilnių, elgėsi pabrėžtinai santūriai, tikėdamiesi įsiteikti Vilniaus miestiečiams ir bažnytinei valdžiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190841
+
 ## Citatos
 
 - id: c-42407
@@ -81,5 +93,25 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190841
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 229"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 229."
+  citata_originali: |
+    Balandžio 7 d. vienuolyne
+    jis buvo suimtas, surištas ir pristatytas į švedų generolo Carlo Gustafo Monterio
+    Antakalnyje įrengtą būstinę. Tą pačią dieną jis buvo paleistas, užtarus Lietuvos
+    magnatams, veikiausiai Sapiegoms33.
+    Gintautas Sliesoriūnas pažymi, kad užėmę Vilnių švedai elgėsi pabrėžtinai
+    santūriai, tikėdamiesi įsiteikti Vilniaus miestiečiams ir bažnytinei valdžiai34.
+  citata_rodoma: "Gintautas Sliesoriūnas pažymi, kad užėmę Vilnių švedai elgėsi pabrėžtinai \nsantūriai, tikėdamiesi įsiteikti Vilniaus miestiečiams ir bažnytinei valdžiai34."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208407

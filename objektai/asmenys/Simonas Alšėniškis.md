@@ -34,20 +34,6 @@ canonical_biography: "Ir didysis kunigaikštis Vytautas paskyrė jiems vietinink
 
 Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kunigaikštį Si moną Alšėniškį, vadinamą Rūsčiuoju 9 .
 
-## Teiginiai
-
-<a id="claim-t-194123"></a>
-- t-001
-  teiginys: "Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kunigaikštį Si moną Alšėniškį, vadinamą Rūsčiuoju 9 ."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176736
-
 ## Citatos
 
 - id: c-176736
@@ -76,5 +62,3 @@ Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -60,6 +60,16 @@ Nenurodyta
   pagrindžia:
     - c-170854
 
+<a id="claim-t-216880"></a>
+- t-216880
+  teiginys: "Adomo Mickevičiaus draugai filomatai ir filaretai su sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa kus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
 ## Citatos
 
 - id: c-170854
@@ -83,5 +93,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

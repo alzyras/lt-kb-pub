@@ -110,6 +110,26 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   pagrindžia:
     - c-60630
 
+<a id="claim-t-223009"></a>
+- t-223009
+  teiginys: "Pipinas buvo vienas iš pirmųjų žinomų prūsų kovotojų prieš Vokiečių ordino agresiją."
+  atnaujinta: "2026-09-20 17:20"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-225172"></a>
+- t-225172
+  teiginys: "Pipiną išdavė jo seserėnas, o broliai jį, pririštą prie arklio uodegos, nuvilko iki Torunės ir pakorė."
+  atnaujinta: "2026-09-20 17:20"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-60628
@@ -134,7 +154,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60630
@@ -159,7 +179,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-60631
@@ -182,7 +202,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

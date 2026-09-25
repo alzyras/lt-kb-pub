@@ -71,5 +71,5 @@ Pieštvės pilėnai kitą dieną davė įkaitų ir pasižadėjo paklusti broliam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

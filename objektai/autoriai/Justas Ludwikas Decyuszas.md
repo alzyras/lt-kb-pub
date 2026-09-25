@@ -87,5 +87,5 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

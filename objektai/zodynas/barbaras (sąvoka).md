@@ -63,5 +63,5 @@ Po Odo akro mirties dar ketverius metus truko susirėmimas prie šiškų barbar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

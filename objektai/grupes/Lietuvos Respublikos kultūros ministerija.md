@@ -107,5 +107,5 @@ Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Re
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

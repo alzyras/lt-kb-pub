@@ -100,7 +100,7 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179296
@@ -120,5 +120,24 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195102
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
+  citata_originali: |
+    Tai turėjo įvykti anks­
+    čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­
+    sitiko V amžiaus prieš Kristaus gimimą pradžioje. Vadi­
+    nasi, čia gyventa jau iki IV amžiaus.
+    1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus
+    mano buvus slavus, kuriuos kadaise nukariavo skitai*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

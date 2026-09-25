@@ -74,5 +74,5 @@ Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdomame Gardine 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

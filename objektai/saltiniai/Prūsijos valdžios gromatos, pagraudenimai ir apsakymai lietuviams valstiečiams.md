@@ -73,5 +73,5 @@ Suredagavo jis taip pat «Prūsijos valdžios gromatos, pagraudenimai ir apsakym
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

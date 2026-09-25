@@ -99,7 +99,7 @@ Tačiau, kai nu skriaustoji pusė nenorėjo eiti į derybas, tada abi pusės sto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-187912
@@ -120,5 +120,5 @@ Tačiau, kai nu skriaustoji pusė nenorėjo eiti į derybas, tada abi pusės sto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

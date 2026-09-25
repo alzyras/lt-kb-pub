@@ -73,5 +73,5 @@ Korčino aktas, stojo skersai kelio Vytauto siekimams Lietuvoj, ypač buvo aišk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

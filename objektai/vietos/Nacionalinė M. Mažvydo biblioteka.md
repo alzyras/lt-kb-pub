@@ -104,7 +104,7 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-45231
@@ -133,5 +133,5 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

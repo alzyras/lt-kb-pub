@@ -66,5 +66,5 @@ Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309. Pėstininko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

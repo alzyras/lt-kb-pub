@@ -62,5 +62,5 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -180,6 +180,22 @@ Nenurodyta
   pagrindžia:
     - c-184052
 
+<a id="claim-t-207415"></a>
+- t-207415
+  teiginys: "1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių."
+  atnaujinta: "2026-09-20 01:58"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "kelionės data: 1387 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie 1387 m. Lietuvos krikšto įvykį. Kronikininko pateikta papildoma informacija į teiginį neįtraukta."
+  vertinimo_atnaujinta: "2026-07-26T17:29:06Z"
+  pagrindžia:
+    - c-190035
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
@@ -216,7 +232,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
     - t-004
@@ -243,7 +259,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-169729
@@ -267,7 +283,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184052
@@ -277,6 +293,24 @@ Nenurodyta
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 3."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:35"
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-190035
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 122"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 122."
+  citata_originali: |
+    1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių. XV a. lenkų kronikininko Jano
+    Dlugošo žiniomis, kilmingieji – bajorai krikštytis buvo kviečiami į Vilnių su šeimomis
+    ir kiekvienas atskirai pašlakstomas vandeniu.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207415

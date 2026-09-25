@@ -50,3 +50,39 @@ Savininkui Mikalojui Volkui buvo grąžintas neteisėtai konfiskuotas Aristavos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207816"></a>
+- t-001
+  teiginys: "Savininkui Mikalojui Volkui buvo grąžintas neteisėtai konfiskuotas Aristavos dvaras."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190374
+
+## Citatos
+
+- id: c-190374
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 182"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 182."
+  citata_originali: |
+    Savininkui Mikalojui Volkui grąžinti jo neteisėtai konfiskuotą Aristavos dvarą te-
+    ko ir Kauno pakamarei Vaitiekui Devaltovskiui. Mat bajoras Volkas pateikė valdovui
+    kvitą, išduotą Kauno vėliavininko Jono Vydros, kuriame nurodyta, kad jis [Volkas]
+    atvyko į surašymą karo tarnybai pasirengęs ir tarnavo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

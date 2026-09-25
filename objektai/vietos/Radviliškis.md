@@ -80,5 +80,5 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

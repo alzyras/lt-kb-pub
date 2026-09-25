@@ -69,6 +69,16 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
   pagrindžia:
     - c-175084
 
+<a id="claim-t-212933"></a>
+- t-212933
+  teiginys: "Julijus Nepas paskyrė Odoakrą patricijumi po jo pergalės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -127,6 +137,6 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

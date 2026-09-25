@@ -114,7 +114,7 @@ Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188366
@@ -133,7 +133,7 @@ Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188367
@@ -161,5 +161,5 @@ Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

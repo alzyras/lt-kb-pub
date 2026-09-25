@@ -95,7 +95,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44479
@@ -121,7 +121,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167146
@@ -148,5 +148,5 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

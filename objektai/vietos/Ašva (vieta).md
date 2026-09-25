@@ -73,5 +73,5 @@ Antroji šiandien vadinama Ašva; ji prasideda taip pat Raseinių apskrityje, pl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

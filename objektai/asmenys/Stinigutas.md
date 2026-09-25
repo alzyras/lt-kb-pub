@@ -86,6 +86,31 @@ Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-197477
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 370."
+  citata_originali: |
+    Bet
+    kita piliavietė, kuri mums rūpi, ko gero, buvo ant vienos
+    iš kalvų, esančių dešiniojoje Šešupės pakrantėje, kur tu­
+    rėtų būti tvirtovės pėdsakų. Šalavija taip pat turėjo savo
+    savarankiškų ponų, valdžiusių žmones ir kraštą; buvo
+    minimi Surbantas, Svisdeta, Surdeta.
+    Iš šių galingų
+    žmonių buvo renkami vyriausieji vadai, kurių vienas buvo
+    Stinigutas. Svarbesni reikalai buvo aptariami susirinki­
+    muose vyresniųjų žmonių, kuriuos karo metu skirdavo at­
+    sižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­
+    davo skyrių vadus, kurie vadovavo būriams mūšio lauke.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

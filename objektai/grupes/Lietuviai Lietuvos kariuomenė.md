@@ -83,7 +83,7 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176786
@@ -105,5 +105,5 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

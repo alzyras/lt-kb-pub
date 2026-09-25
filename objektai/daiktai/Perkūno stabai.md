@@ -107,7 +107,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172579
@@ -131,5 +131,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-201150
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
+  citata_originali: |
+    O šios šventyklos aprašyme
+    istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
+    buvęs puošnesnis už kitus.
+    Lietuvių Perkūno stabas X amžiuje Šiaurėje buvo garsus,
+    kadangi Vladimiras, tapęs visos Šiaurės Rusios didžiuoju ku­
+    nigaikščiu, tokius pačius pastatė Kijeve ir Naugarde; tuo pa­
+    čiu metu tam dievui buvo pastatyta šventykla toje vietoje, kur
+    yra vadinamasis Perimo vienuolynas. Tai buvusi didžiulė sta­
+    tula, liemuo iš ąžuolo, galva sidabrinė, ūsai ir ausys auksinės,
+    kojos geležinės, kumštyje laikė kažką panašaus į žaibus23.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

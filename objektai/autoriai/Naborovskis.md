@@ -66,6 +66,18 @@ Narbutas nurodo, kad Naborovskis 1629 m. minėjo Lietuvoje žinotą Gedimino kap
   pagrindžia:
     - c-173326
 
+<a id="claim-t-216715"></a>
+- t-216715
+  teiginys: "Taip pat turime pėdsaką, kad dar XVII amžiuje apie Ge dimino kapą Lietuvoje visi žinojo; apie tai 1629 metais4 mini Naborovskis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199012
+
 ## Citatos
 
 - id: c-173326
@@ -87,5 +99,27 @@ Narbutas nurodo, kad Naborovskis 1629 m. minėjo Lietuvoje žinotą Gedimino kap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199012
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
+  citata_originali: |
+    Man sakė, kad vieno vienuolyno biblio­
+    tekoje buvo XV amžiaus lotyniškas rankraštis - svarstymas
+    apie milžinkapius3, kuriame turėję būti padavimų apie šį ka­
+    pą. Taip pat turime pėdsaką, kad dar XVII amžiuje apie Ge­
+    dimino kapą Lietuvoje visi žinojo; apie tai 1629 metais4 mini
+    Naborovskis.
+    Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
+    asmuo.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216715

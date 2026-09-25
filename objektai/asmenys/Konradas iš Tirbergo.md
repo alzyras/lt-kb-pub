@@ -97,7 +97,7 @@ Konradas iš Tirbergo pasiuntė Ditrichą su kariuomene į Nadruvą. Konradas i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-205311
@@ -117,7 +117,7 @@ Konradas iš Tirbergo pasiuntė Ditrichą su kariuomene į Nadruvą. Konradas i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-206350
@@ -136,5 +136,5 @@ Konradas iš Tirbergo pasiuntė Ditrichą su kariuomene į Nadruvą. Konradas i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

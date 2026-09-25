@@ -62,47 +62,6 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   pagrindžia:
     - c-173227
 
-<a id="claim-t-190817"></a>
-- t-002
-  teiginys: "Teodoro Narbuto cituotas Vincentas Kadlubekas aprašė Maslavo karą su Lenkijos karaliumi Kazimieru, kurio kariuomenėje kovojo jotvingiai, mozūrai ir prūsai."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Prūsai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Frazė rodo, kad jotvingiai ir prūsai kovojo toje pačioje kariuomenės pusėje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Jotvingiai buvo sąjungininkas su Prūsai (0.74)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-173699
-
-<a id="claim-t-190818"></a>
-- t-003
-  teiginys: "Išnašoje teigiama, kad Teodoras Narbutas tikriausiai naudojo lotynišką Vincento Kadlubeko kronikos variantą ir jos vertimą į lenkų kalbą."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vincentas Kadlubekas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vincentas Kadlubekas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-173700
-
 ## Citatos
 
 - id: c-173227
@@ -122,7 +81,7 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173699
@@ -146,8 +105,6 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-173700
   autorius: "Teodoras Narbutas"
@@ -170,5 +127,22 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-197953
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 508"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 508."
+  citata_originali: |
+    P. 387* - T. Narbutas tikriausiai naudojo tiek lotyniškąjį len­
+    kų vyskupo Vincento Kadlubeko (apie 1150-1223)
+    kronikos variantą ([Narbutt T.\ Spisanie Muzeum
+    w Szavvrach. - L. 21. - Nr. 464), tiek ir vertimą į
+    lenkų kalbą (Wincenty Kadtubek. Historya Polska.
+    Skrocona (przez) P. F. C. - Lowicz, 1803).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

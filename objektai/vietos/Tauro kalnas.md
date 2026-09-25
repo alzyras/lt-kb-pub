@@ -194,7 +194,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-80969
@@ -236,7 +236,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184457
@@ -263,7 +263,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-187794
@@ -285,5 +285,5 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

@@ -82,5 +82,5 @@ Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

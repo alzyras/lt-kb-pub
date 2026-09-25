@@ -83,5 +83,5 @@ Kijevo Plikasis kalnas garsėjo 1 1 Tokie kalnai pačioje Europoje buvo žinomi 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

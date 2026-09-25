@@ -95,5 +95,5 @@ Ditricho kariuomenė nusiaubė Retavos valsčių ir po ilgų kovų užėmė dvi 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

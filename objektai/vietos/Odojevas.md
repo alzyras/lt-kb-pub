@@ -135,6 +135,30 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   pagrindžia:
     - c-167687
 
+<a id="claim-t-211087"></a>
+- t-211087
+  teiginys: "Odojevas buvo kunigaikštystė ir miestas LDK rytų pasienyje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193502
+
+<a id="claim-t-212025"></a>
+- t-212025
+  teiginys: "Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, valachų kalba vadinami vaivadomis5, ir Bu'garų šalies val dovas, bulgarų kalba vadinamas despotu6, ir kiti di dieji kunigaikščiai — Tverės didysis kunigaikštis, ir Riazanės didysis kunigaikštis, ir Odojevo didysis ku."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194029
+
 ## Citatos
 
 - id: c-76806
@@ -160,7 +184,7 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -180,7 +204,7 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167687
@@ -199,8 +223,49 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-193502
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 261."
+  citata_originali: |
+    Odojevas — tuo
+    laikotarpiu
+    kunigaikštyste ir miestas LDK
+    rytų pasienyje (j pietų vakarus nuo Tūlos, prie Okos aukštupio
+    dešiniojo intako Upos upės).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211087
+
+- id: c-194029
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 178"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
+  citata_originali: |
+    Ir Moldavų bei Besarabų * šalies valdovai, valachų
+    kalba vadinami vaivadomis5, ir Bu'garų šalies val­
+    dovas, bulgarų kalba vadinamas despotu6, ir kiti di­
+    dieji kunigaikščiai — Tverės didysis kunigaikštis, ir
+    Riazanės didysis kunigaikštis, ir Odojevo didysis ku­
+    nigaikštis, ir Didysis Naugardas, ir Didysis Pskovas;
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212025
 
 ## Ryšiai
 - Puolė Odojevą: [[objektai/asmenys/Chudandachas]]

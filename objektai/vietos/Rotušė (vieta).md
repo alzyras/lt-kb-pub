@@ -68,5 +68,5 @@ Tarp pilies ir parapinės bažnyčios pavaizduota jau baigta statyti rotušė (P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

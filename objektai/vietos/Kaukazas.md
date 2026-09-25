@@ -76,6 +76,18 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
   pagrindžia:
     - c-175439
 
+<a id="claim-t-212723"></a>
+- t-212723
+  teiginys: "Tai buvo didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė si beveik nuo Kaukazo per Volgą ir į vakarus net iki Dono."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194494
+
 ## Citatos
 
 - id: c-33872
@@ -96,7 +108,7 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175439
@@ -119,5 +131,72 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194494
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 40-41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40-41."
+  citata_originali: |
+    jų kilo
+    1 i d a i, sikelai, makedonai, tesalai ir daug kitų tautų.
+    19
+    O
+    į pietryčius nuo mūsų, Juodosios jūros pakrantėse
+    ir prie vandenų, sruvenančių į ją iš Europos, išplito tos
+    pačios atšakos labai įvairiai vadinamų smulkesnių gen­
+    41
+
+    čių: ilyrų, mezų, penų, getų, dakų; jos pasitraukė to­
+    liau į šiaurę ir atsirado iš tų arba iš pagrindinio kamie­
+    no, pavyzdžiui, iš tisagetų, masagetų, gelonų. Iš pradžių
+    jos visos palaikė glaudžius ryšius ir bendrai gynė savo
+    saugumą. Pirmykštėje žmonių visuomenėje tautos sun­
+    kiai pakęsdavo šalia savęs svetimos giminės ir kalbos
+    žmones, o gentainių pagalbą ir abipusę draugystę labai
+    brangino; tai rodo pavyzdžiai tautų, išlikusių bendruo­
+    meninio gyvenimo kūdikystės lygio ir atrastų mūsų am­
+    žiais. Minėtų pelazgų palikuonių turėjo būti ant kai­
+    riojo Dono vidurupio kranto. Tai mini ir Herodotas*,
+    teigdamas, kad tisagetai gyvenę toliau į šiaurę, už gelonų
+    gyvenamo krašto.
+    20
+    Apie kolchus ir Kolchidę. Šioms tolimos senovės epo­
+    choms priskirtina ir kolchų tauta, nors ji gerokai vėliau
+    už pelazgus atsikėlė iš Azijos gilumos į kraštus, esan­
+    čius į šiaurę nuo Kaspijos ir Juodosios jūrų. Tai buvo
+    didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė­
+    si beveik nuo Kaukazo per Volgą ir į vakarus net iki
+    Dono
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212723
+
+- id: c-195712
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  citata_originali: |
+    Šioms tolimos senovės epo­
+    choms priskirtina ir kolchų tauta, nors ji gerokai vėliau
+    už pelazgus atsikėlė iš Azijos gilumos į kraštus, esan­
+    čius į šiaurę nuo Kaspijos ir Juodosios jūrų. Tai buvo
+    didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė­
+    si beveik nuo Kaukazo per Volgą ir į vakarus net iki
+    Dono, o į šiaurę tų kolonijų žemių ir genčių priklauso­
+    mybės ribų pažymėti nėra galimybių. Tikėtina, kad jie
+    galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdynų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -77,5 +77,5 @@ LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

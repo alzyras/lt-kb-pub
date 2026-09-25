@@ -87,5 +87,30 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199068
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 137"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 137."
+  citata_originali: |
+    Vaizduo­
+    jami du asmenys: vyras, viena koja priklaupęs ant kelmo, duo­
+    da vainiką moteriai, kuri, apsirengusi kaip žynė, savo ruožtu
+    tiesiajam taurę; tarp jų - ąžuolo šaka su trimis gilėmis; po po­
+    stamentu, į kurį atsirėmę asmenys, rangosi žaltys. Įskaitomi už­
+    rašai rusiškomis raidėmis: Poklus, Nijota.
+    Pirmasis primena jau žinomą pragaro dievą, antrasis užra­
+    šas susideda iš dviejų žodžių: Nija reiškė slavų Cereros arba
+    lietuvių Krūminės vardą; Ola lietuviškai - katakomba, pože­
+    minis urvas16. Tai bus požeminė Cerera, arba, visiškai graikų
+    mitologijos prasme, - Prozerpina. Taigi medalionas primena
+    jos jungtuves su Plutonu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -93,7 +93,7 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187713
@@ -113,5 +113,25 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-203053
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 225"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
+  citata_originali: |
+    Apie Konstantinopolio miesto užėmimą
+
+      1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog
+    niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,
+    įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
+    apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
+    lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -69,6 +69,9 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 - id: c-178047
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -81,8 +84,35 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
     pa. Pagavus duonos gabalėlį tuoj pro duris.
   citata_rodoma: "Įėjusi pas kiekvieną ūkininką trum­\npai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­\ndindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­\npa. Pagavus duonos gabalėlį tuoj pro duris."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 08:53"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-195645"></a>
+- t-001
+  teiginys: "Poterėliais galima verstis kaip elgetavimo būdu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary::repair"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178046
+    - c-178047
+
+<a id="claim-t-195646"></a>
+- t-002
+  teiginys: "Poterėlių vartosena šiame šaltinyje siejama su trumpu užsukimu ir greitu išėjimu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "gap::vocabulary::repair"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178047

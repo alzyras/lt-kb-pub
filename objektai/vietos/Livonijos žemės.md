@@ -77,5 +77,5 @@ Livonijos žemės pagal palivarko produkcijos pobūdį priskiriamos ir grūdų a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

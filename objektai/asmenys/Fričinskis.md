@@ -82,7 +82,7 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

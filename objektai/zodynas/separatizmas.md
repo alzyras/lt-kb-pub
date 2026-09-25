@@ -83,7 +83,7 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167632
@@ -104,5 +104,5 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

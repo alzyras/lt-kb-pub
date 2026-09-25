@@ -56,18 +56,6 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   pagrindžia:
     - c-32985
 
-<a id="claim-t-197614"></a>
-- t-002
-  teiginys: "Jordanes papildytas Jordano stebėjimais ir pavadintas „Apie gotų kilmę ir veiklą“ (De origine actuąue getarum liber / / Procopius Caesarensis."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179263
-
 ## Citatos
 
 - id: c-32985
@@ -90,7 +78,7 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179263
@@ -112,5 +100,24 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-195305
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 406."
+  citata_originali: |
+    Svarbiausias jo veikalas — sutrum­
+    pintas neišlikusios romėno Kasiodoro 12 to­
+    mų „Gotų istorijos“ atpasakojimas. Jis papil­
+    dytas Jordano stebėjimais ir pavadintas „Apie
+    gotų kilmę ir veiklą“ (De origine actuąue ge-
+    tarum liber / / Procopius Caesarensis. De re-
+    bus Gothorum, Persarum ac Vandalorum libri
+    VII.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

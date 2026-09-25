@@ -76,7 +76,7 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

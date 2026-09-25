@@ -81,5 +81,5 @@ Jie garbina ir valgiais vaišina barstukus - požemio gyventojus ir jų valdovą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

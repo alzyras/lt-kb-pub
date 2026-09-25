@@ -81,9 +81,10 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     dino pilių viršininkų.
   citata_rodoma: "Alek­\nsandras Vytautas su žmona\nOna savo bei savo palikuonių vardu turįs prisiekti, kad\njis su visomis Lietuvos valdomis amžinai liksiąs paklus­\nnus bei ištikimas karaliui; šventai saugosiąs Lietuvos\nkunigaikštystės sąjungą ir sandraugą su Lenkijos ka­\nralyste, nebandydamas nei nuo jos atsiskirti, nei ją pa­\nžeisti; visada laikysiąs savo draugais ir priešais Lenkijos\nkaralystės bei Lenkijos karaliaus draugus ir priešus; su\nSkirgaila visada stengsiąsis gyventi taikoje ir broliškoje\nsantarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skir­\ngailai bei jo palikuonims Kijevo kunigaikštystę su viso­\nmis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­\nkus, Kremenecą ir kai kurias kitas mažesnes valdas.\nTuo tarpu Kazimieras Skirgaila, pasitenkinęs gautomis\nkunigaikštystėmis, nesieksiąs Lietuvos didžiojo kuni­\ngaikščio vardo. Karalius Jogaila neskirsiąs be Vytauto\n330\n\n## Puslapis 329\n\nžinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­\ndino pilių viršininkų."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

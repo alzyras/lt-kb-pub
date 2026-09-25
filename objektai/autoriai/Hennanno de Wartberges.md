@@ -71,5 +71,5 @@ Vokiečių ordino XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi ži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

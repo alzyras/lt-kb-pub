@@ -50,18 +50,6 @@ Nenurodyta
   pagrindžia:
     - c-196923
 
-<a id="claim-t-211033"></a>
-- t-211033
-  teiginys: "Vienoje pusėje buvo Gediminaičių Stulpai, kitoje – šv. Jurgis ant žirgo su ietimi prieš drakoną."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-194842
-
 ## Santrauka
 
 Vienoje pusėje buvo Gediminaičių Stulpai, kitoje – šv. Jurgis ant žirgo su ietimi prieš drakoną. Monetos pusė, vaizduo janti Stulpus, šiek tiek iškili, o riterį — įdubusi.
@@ -86,8 +74,6 @@ Vienoje pusėje buvo Gediminaičių Stulpai, kitoje – šv. Jurgis ant žirgo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-211033
 
 - id: c-196923
   autorius: "Teodoras Narbutas"
@@ -107,4 +93,3 @@ Vienoje pusėje buvo Gediminaičių Stulpai, kitoje – šv. Jurgis ant žirgo s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-

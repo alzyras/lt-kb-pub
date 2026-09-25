@@ -78,5 +78,5 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

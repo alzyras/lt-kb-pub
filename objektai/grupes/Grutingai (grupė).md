@@ -72,7 +72,7 @@ Grutingai buvo tuo metu labai galinga gotų gentis. Germanarikas buvo kilęs iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-196762
@@ -89,5 +89,5 @@ Grutingai buvo tuo metu labai galinga gotų gentis. Germanarikas buvo kilęs iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

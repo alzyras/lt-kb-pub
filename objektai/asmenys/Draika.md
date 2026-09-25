@@ -121,30 +121,6 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   pagrindžia:
     - c-178692
 
-<a id="claim-t-197071"></a>
-- t-005
-  teiginys: "Draika prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio žengti, nors jį ir smarkiai ragino pentinais."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60741
-
-<a id="claim-t-197072"></a>
-- t-006
-  teiginys: "Draika išvydo neapsakomai aukštą skardį, nuo kurio galėjo nukristi į giliausią prarają, jeigu arklys būtų bent žingsnį žengęs į priekį, jis paženklino save šventuoju kryžiaus ženklu ir pašlovino vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60741
-
 <a id="claim-t-205668"></a>
 - t-007
   teiginys: "Teodoras Narbutas pasakoja, kad Draika atvėrė vartus kryžiuočiams, o po pilies sunaikinimo Ragainėje su visa šeima priėmė krikštą."
@@ -157,6 +133,18 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
   pagrindžia:
     - c-188283
+
+<a id="claim-t-225104"></a>
+- t-225104
+  teiginys: "Draika slapta atidarė Aukaimio pilies vartus ir vėliau buvo pakrikštytas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204131
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -204,7 +192,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -228,9 +216,6 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-    - t-006
 
 - id: c-168055
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -255,7 +240,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-178692
@@ -283,7 +268,7 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188283
@@ -302,8 +287,51 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-204131
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 194-195"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194-195."
+  citata_originali: |
+    Dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus, ir broliai, ten
+    įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai
+    554 Konradas Žakas, atrodo, ne pastatė Goliubo pilį, o tik ją pritaikė kryžiuočių
+    poreikiams (Powierski J., Dobra..., p. 191 — 192).
+
+    sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
+    Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225104
+
+- id: c-205673
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
+  citata_originali: |
+    Pagautas siaubo, Henrikas liko stovėti
+    toje vietoje, iki aušros nedrįsdamas nei į priekį žengti, nei atgal trauktis; kai jis išvydo
+    neapsakomai aukštą skardį, nuo kurio galėjo nukristi į giliausią prarają, jeigu arklys būtų
+    bent žingsnį žengęs į priekį, jis paženklino save šventuoju kryžiaus ženklu ir pašlovino
+    vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus. Po to vieną pavakarę jis
+    išvydo teisėją, sėdintį prie pakylos, ir apsukui stovėjusią minią žmonių, kurie įniko jį
+    kaltinti visokiausiais nusikaltimais; įvestas į teismą ir teisėjo paklaustas, kuo galįs atremti
+    jam keliamus įkalčius, jis nusigandęs tylėjo. Ilgokai jam grasinę, galop tarėjai paprašė
+    teisėją jo pasigailėti, o jį paakino tučtuojau pakeisti savo gyvenimo būdą.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Pinas]]

@@ -65,8 +65,9 @@ V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
 ## Teiginiai
 
 <a id="claim-t-209281"></a>
@@ -83,4 +84,3 @@ V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, ka
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai įvardija V. Nazimovą, datą, adresatą ir jo nuomonės turinį. Vertinamoji formuluotė palikta kaip autoriaus nuomonė."
   pagrindžia:
     - c-191995
-

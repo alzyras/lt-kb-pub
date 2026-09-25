@@ -172,7 +172,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-03994
@@ -187,11 +187,12 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     Vilnius 1958-61.
   citata_rodoma: "BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,\nVilnius 1958-61."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-03996
@@ -209,7 +210,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-03998
@@ -226,5 +227,5 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

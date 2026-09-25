@@ -86,6 +86,25 @@ Narbuto vertinimu Hasės mažai žinoma knyga rodė, kad iš žodžių nagrinėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-195753
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 334"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
+  citata_originali: |
+    Bet jau pakanka šių svaičiojimų. Siūlau dar Hasės
+    mažai žinomą ir dar mažiau nagrinėtą knygą, kuri, mano
+    galva, akivaizdžiai parodo, kad, rezgant žinias iš žodžių
+    nagrinėjimo, viskas tikrai įmanoma1.
+    Senovės graikų rašytojai, pavyzdžiui, Agatemeras2,
+    manė esant žemę apvalią, o jos viduryje buvus Graikiją.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

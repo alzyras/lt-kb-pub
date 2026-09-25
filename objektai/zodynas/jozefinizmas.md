@@ -63,5 +63,5 @@ Susižavėjęs šviečiamąja literatūra, jis darė reformas, viską, net Bažn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

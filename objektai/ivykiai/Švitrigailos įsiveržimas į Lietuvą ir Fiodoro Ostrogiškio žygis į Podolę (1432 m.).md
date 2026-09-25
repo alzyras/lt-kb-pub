@@ -60,6 +60,26 @@ Nenurodyta
   pagrindžia:
     - c-169201
 
+<a id="claim-t-185840"></a>
+- t-185840
+  teiginys: "Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Podolė: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Fiodoras Ostrogiškis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai nurodyta, kad Fiodoras netikėtai užpuolė Podolę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Fiodoras Ostrogiškis puolė Podolė (0.96)"
+  pagrindžia:
+    - c-169201
+
 ## Citatos
 
 - id: c-169201
@@ -83,5 +103,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-185840

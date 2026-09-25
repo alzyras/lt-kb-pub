@@ -93,7 +93,7 @@ Teodoras Narbutas teigia, kad pasikeitus religijai buvo sudaužyti dievų altori
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189540
@@ -117,5 +117,5 @@ Teodoras Narbutas teigia, kad pasikeitus religijai buvo sudaužyti dievų altori
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

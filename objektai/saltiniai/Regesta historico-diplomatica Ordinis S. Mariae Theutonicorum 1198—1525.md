@@ -66,5 +66,22 @@ Dusburgietis teigia, kad regesta historico-diplomatica Ordinis S.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205734
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  citata_originali: |
+    Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars
+    II: Regesta privilegiorum Ordinis S. Mariae Theutonicorum / Bearbeitet unter Mitwirkung
+    zahlreicher anderer von E. Joachim; Herausgegeben von W. Hubatsch.— Göttingen,
+    1948.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

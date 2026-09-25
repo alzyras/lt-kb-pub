@@ -75,6 +75,18 @@ Nenurodyta
   pagrindžia:
     - c-169008
 
+<a id="claim-t-185648"></a>
+- t-185648
+  teiginys: "Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169008
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę.'
@@ -130,6 +142,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+    - t-185648

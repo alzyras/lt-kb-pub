@@ -81,9 +81,10 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
     vas3.
   citata_rodoma: "48), liudija, kad XII amžiuje jau \nbūta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­\nlavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi- \nčių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus \nvaldžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­\nnus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas \nišvijo į Graikiją. Tasai Dovilas ar Dovydas turėjo būti pir­\nmasis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er- \ndeno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­\nvas3."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

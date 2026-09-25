@@ -56,6 +56,18 @@ Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškė
   pagrindžia:
     - c-174346
 
+<a id="claim-t-212532"></a>
+- t-212532
+  teiginys: "Ricimeras iškėlė Severą imperijos, beveik apsiribojusios Italija, vadovu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197160
+
 ## Citatos
 
 - id: c-174346
@@ -79,5 +91,29 @@ Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197160
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
+  citata_originali: |
+    Įvairiose šalyse atsirado
+    įvairių imperatorių ir barbarų karaliukų. Imperatoriaus
+    sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
+    darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
+    galbos iš Konstantinopolio. Per šią sumaištį greitai kei­
+    tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas
+    neilgai valdė; pagaliau Ricimero mirtis davė progą sam­
+    dytai kariuomenei vadovavusiam Orestui į imperatoriaus
+    sostą pasodinti savo dar jauną sūnų Romulą Momilijų
+    Augustulą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212532

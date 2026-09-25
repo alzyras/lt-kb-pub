@@ -106,7 +106,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-84238
@@ -125,7 +125,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-84239
@@ -148,5 +148,5 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

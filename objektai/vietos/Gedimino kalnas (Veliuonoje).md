@@ -93,7 +93,7 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82049
@@ -119,5 +119,5 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

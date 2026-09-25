@@ -72,5 +72,5 @@ Lenkijos didikų ir bajorų seimas, nutaręs kviesti Jogailą į Lenkijos sostą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

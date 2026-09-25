@@ -75,29 +75,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   pagrindžia:
     - c-14712
 
-<a id="claim-t-187529"></a>
-- t-003
-  teiginys: "Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "seniūnas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=114"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seniūnas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  temporaliniai_duomenys: "įvykio data: iki 1413 m.; įvykio data: 1387 m.; įvykio data: 1413 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia pastabą apie seniūnų funkcijas iki 1413 m. Nepridėtos atskiros pirmųjų vaivadų ir seniūnų pavardės."
-  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
-  pagrindžia:
-    - c-183732
-
 <a id="claim-t-193157"></a>
 - t-004
   teiginys: "Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete."
@@ -173,7 +150,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-14712
@@ -194,7 +171,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175909
@@ -217,7 +194,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-183731
@@ -240,7 +217,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-183732
@@ -261,8 +238,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-184854
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -278,7 +253,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-186192
@@ -297,5 +272,5 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

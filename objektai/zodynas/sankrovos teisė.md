@@ -110,7 +110,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185102
@@ -127,7 +127,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185103
@@ -145,7 +145,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-185104
@@ -162,7 +162,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-185105
@@ -179,5 +179,5 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

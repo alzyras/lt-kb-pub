@@ -72,5 +72,5 @@ Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

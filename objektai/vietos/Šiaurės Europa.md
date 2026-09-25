@@ -124,6 +124,30 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   pagrindžia:
     - c-175559
 
+<a id="claim-t-215796"></a>
+- t-215796
+  teiginys: "Siaurės Europoje ilgai užsitęsęs lai mingai ištobulėjusio pietuose rašto nepažinimas, karai, sumaištys, dar pragaištingesni gaisrai, religijų ir civili nių organizacijų kaita greta visuotinės tamsos nugramz dino mūsų tėvynės praeitį į neperžvelgiamą debesį."
+  atnaujinta: "2026-09-20 07:15"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194400
+
+<a id="claim-t-215888"></a>
+- t-215888
+  teiginys: "Be jokios abejonės, ne tik patys seniausi, bet ir paskutiniai stab meldžiai Siaurės Europoje buvo samojedai:."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195212
+
 ## Citatos
 
 - id: c-24625
@@ -148,7 +172,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -174,7 +198,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175559
@@ -197,5 +221,69 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-194400
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 28"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 28."
+  citata_originali: |
+    O ir tas, kuris susipažino su priešistorinės seno­
+    vės epochomis, apiplėštomis įvairių senienų epochomis,
+    ko kito galėtų geisti? Siaurės Europoje ilgai užsitęsęs lai­
+    mingai ištobulėjusio pietuose rašto nepažinimas, karai,
+    sumaištys, dar pragaištingesni gaisrai, religijų ir civili­
+    nių organizacijų kaita greta visuotinės tamsos nugramz­
+    dino mūsų tėvynės praeitį į neperžvelgiamą debesį. Ant­
+    ra vertus, ryšiai su labiau išvystytomis tautomis senovė­
+    je buvo be galo painūs, padriki ir tolydžio atnaujinami.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215796
+
+- id: c-195212
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 477"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 477."
+  citata_originali: |
+    Be jokios abejonės, ne tik patys seniausi, bet ir paskutiniai stab­
+    meldžiai Siaurės Europoje buvo samojedai:
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215888
+
+- id: c-200895
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 308"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 308."
+  citata_originali: |
+    Čia kalbama apie baltą gėrimą, kuris gali būti arba kume­
+    lių pienas, arba fermentuotas jo gaminys, kuris, kaip pamaty­
+    sime toliau, antrajame tome, buvo mėgstamas senovės lietu­
+    vių gėrimas; arba tas Alus, galintis taip vadintis dėl šviesios
+    spalvos, arba pagaliau liepų midus, kadangi seniau lietuvių
+    kraštai visur garsėjo midumi; ypač liepinis buvo geras Kauno
+    apylinkėse, kol didžiulius tenykščius liepynus sunaikino šalį
+    ištikusi suirutė. Naujoji Edą 20-ojoje giesmėje taip pat mini
+    midų, kaip mėgstamą dievų gėrimą. Kaip ir alus, midus įeida­
+    vo į Siaurės Europos tautų apeigas6; jo pavadinimas visose ci­
+    vilizuotose tautose buvo beveik toks pat.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

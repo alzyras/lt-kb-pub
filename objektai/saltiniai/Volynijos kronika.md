@@ -81,5 +81,5 @@ Volynijos kronika šiame veikale cituojama kaip šaltinis, teigiantis, kad 1248 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

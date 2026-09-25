@@ -76,5 +76,5 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

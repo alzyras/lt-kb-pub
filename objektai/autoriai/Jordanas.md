@@ -296,6 +296,66 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-179262
 
+<a id="claim-t-213431"></a>
+- t-213431
+  teiginys: "Be viso to, dar prisiminkime, ką dėstė daug seno vės autorių nuo Jordano ir net iki Rudbeko ir Ba sės apie Šiaurės tautų lopšį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194901
+
+<a id="claim-t-213615"></a>
+- t-213615
+  teiginys: "Į vakarus, pasak Jordano, keliavę tie alanai, kurie anks čiau gyveno Panonijoje, o iš ten kartu su vandalais jie turėjo bėgti nuo gotų, kuriuos vijo hunai; taip drauge su jais už Pirėnų atsidūrė ir dalis gotų."
+  atnaujinta: "2026-09-19 10:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197026
+
+<a id="claim-t-213855"></a>
+- t-213855
+  teiginys: "Jordano senelis buvo alanų karaliaus Kartdakso sekretorius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196446
+
+<a id="claim-t-214607"></a>
+- t-214607
+  teiginys: "Jordanas rašo: „Prie Vyslos žiočių yra vidivarai, o už jų estai, su kuriais ri bojasi agazirai; tai labai karinga gentis, nesėjanti javų, gyvenanti iš gyvulių auginimo ir medžioklės“3."
+  atnaujinta: "2026-09-19 10:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194814
+
+<a id="claim-t-215053"></a>
+- t-215053
+  teiginys: "Vėliau Jordanas, gotų istorikas, daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė jęs, mini estus, kurie taip pat gyveną jūros."
+  atnaujinta: "2026-09-19 10:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196813
+
 ## Citatos
 
 - id: c-63352
@@ -330,7 +390,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173618
@@ -357,7 +417,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173619
@@ -383,7 +443,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173620
@@ -407,7 +467,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173621
@@ -433,7 +493,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173622
@@ -458,7 +518,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173623
@@ -485,7 +545,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-173624
@@ -511,7 +571,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-012
 
@@ -538,7 +598,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-173626
@@ -557,7 +617,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-173627
@@ -577,7 +637,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-179262
@@ -599,5 +659,234 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
+
+- id: c-194814
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
+  citata_originali: |
+    281
+    Latvijos dalys. Agazirai, Agazziry. Senovės tyrinėto­
+    jai šią gentį priskiria prie lietuvių. Jordanas rašo: „Prie
+    Vyslos žiočių yra vidivarai, o už jų estai, su kuriais ri­
+    bojasi agazirai; tai labai karinga gentis, nesėjanti javų,
+    gyvenanti iš gyvulių auginimo ir medžioklės“3.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214607
+
+- id: c-194852
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
+  citata_originali: |
+    Apie šią tautą senovės ty­
+    rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
+    buvę kairiojoje Dono pakrantėje, prie Kimerijos Bospo­
+    ro2; šis teiginys, paimtas iš senovės geografų ir esantis
+    Plinijaus kompiliacijose, rodo, kad ši tauta buvusi labai
+    sena, be to, Jordanas teigia, kad spaliai gyveno dabarti­
+    nėje Mazovijoje. Norint sužinoti Filimero žygio kryptį,
+    reikia prisiminti, kad pirmiausia spaliai atvyko į tas Va­
+    karų šalis nuo Azovo jūros, o vėliau visi ar galbūt veik­
+    lesnė jų dalis keliavo su gotais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194901
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
+  citata_originali: |
+    Be viso to, dar prisiminkime, ką dėstė daug seno­
+    vės autorių nuo Jordano* ir net iki Rudbeko** ir Ba­
+    sės*** apie Šiaurės tautų lopšį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213431
+
+- id: c-195437
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 84."
+  citata_originali: |
+    Atvykusių iš Skandinavijos gotų galia toly­
+    džio vis didėjo, iš gimtosios žemės kėlėsi vis nauji gy­
+    ventojai, stiprėjo karingumo dvasia. Po pergalių prieš
+    kaimynus (jas aprašė gotų rašytojas Jordanas), ypač prieš
+    ulmerugius, gentį, kuri priklausė germanų tautos rugių
+    kartai ir buvo gimininga patiems gotams, gotai, nusiau­
+    bę jų kraštą, plytėjusį Oderio ir Viparos tarpupyje ir vi­
+    siškai skirtingą nuo Ulmigerijos, apie kurią kalbėsime
+    vėliau, atgręžė savo ginklus prieš vandalus, arba sve-
+    bogermanus, gyvenusius prie Vyslos vidurupio. Visa tai
+    įvyko pačioje II krikščioniškosios eros amžiaus pradžio­
+    je.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195867
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 406."
+  citata_originali: |
+    Svarbiausias jo veikalas — sutrum­
+    pintas neišlikusios romėno Kasiodoro 12 to­
+    mų „Gotų istorijos“ atpasakojimas. Jis papil­
+    dytas Jordano stebėjimais ir pavadintas „Apie
+    gotų kilmę ir veiklą“ (De origine actuąue ge-
+    tarum liber / / Procopius Caesarensis. De re-
+    bus Gothorum, Persarum ac Vandalorum libri
+    VII.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195961
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 253"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
+  citata_originali: |
+    Pagaliau ir ¡pats Naruševičius, žinojęs
+    tuos pačius ir, ko gero, dar ir kitus mums nežinomus įro­
+    dymus, visiškai rėmė šią nuomonę4.
+    247
+    Tas pats Jordanas, puikiai išmanęs istoriją ¡gotų, nuo
+    neatmenamų laikų turėjusių glaudžių santykių su lietuvių
+    žemėmis, tikriausiai žinojo jų geografinę padėtį ir pava­
+    dinimus, be to, jo žinios mums labai svarbios. Jis, Įpasa­
+    kodamas apie vėlesnius įvykius po karaliaus Filimero val­
+    dymo, tarp Pavyslio gyvenamųjų vietovių, buvusių prie
+    pat jūros, rašo: ,,Okeano pakrantėje, kur įteka trys Vys­
+    los šakos, gyvena iš įvairių tautų susidarę vidivariai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196446
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 64."
+  citata_originali: |
+    Taip pat yra įrodymų, jog alanai buvo susi­
+    giminiavę su gotais, kuriuos aprašo Jordanas2. Jo apra­
+    šymai yra svarbūs, nes susiję su pačiu autoriumi, kuris,
+    būdamas gotas, gerai pažinojo alanus, — jo senelis bu­
+    vo alanų karaliaus Kartdakso sekretorius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213855
+
+- id: c-196813
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
+  citata_originali: |
+    Apie estus nėra žinių nuo Tacito
+    laikų iki Teodoriko Didžiojo, turėjusio santykių su Bal­
+    tijos jūros pakrančių gyventojais, kurie prekiavo gintaru
+    ir buvo vadinami estais2. Vėliau Jordanas, gotų istorikas,
+    daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
+    jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3.
+    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
+    riko įtaką Europos vakaruose gyvenančioms tautoms ir
+    gentims, sako: „Turbūt tas pats karalius Germanarikas
+    savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
+    kraštą ir pavergė estų tautą“4.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215053
+
+- id: c-197026
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 63"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 63."
+  citata_originali: |
+    Kažkokia alanų da­
+    lis persikėlė į Europos pietvakarius: vieni iš jų įsikūrė
+    Galijoje prie Ligieros upės, kiti pateko į Ispaniją, kur
+    gyveno susimaišę su gotais; iš čia atsiradęs Gotoalanijos
+    provincijos pavadinimas, — šiandien tai Katalonija. Į
+    vakarus, pasak Jordano, keliavę tie alanai, kurie anks­
+    čiau gyveno Panonijoje, o iš ten kartu su vandalais jie
+    turėjo bėgti nuo gotų, kuriuos vijo hunai; taip drauge su
+    jais už Pirėnų atsidūrė ir dalis gotų.
+    48
+    Pagaliau dar vienas alanų būrys persikėlė į šiaurės
+    vakarus, j Vandaliją; kai kurie, kaip teigia Arnianas
+    Marcelinas2, apsigyveno Vyslos ir Nemuno tarpupyje.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213615
+
+- id: c-197485
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 253"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
+  citata_originali: |
+    Pirmiausia šią žinią randame Jordano
+    darbuose1, kai šis autorius pasakoja apie karaliaus Fili­
+    mero žygį 161 metais j Rytų Europos kraštus; tuomet,
+    persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa­
+    teko j kraštą, vadinamą Owim. Vėlesni istorijos tyrinė­
+    tojai įrodė, kad tas kraštas buvo šiandienė Prūsija. Tarp
+    mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu-
+    veris3**, kuris rašo: „Žemė Owim, plytėjusi priešais go­
+    tus, yra ne kokia kita, o dabar vadinama Prūsija, pilna
+    pelkių ir ežerų, sunki armijai keliauti ir daugelyje vietų
+    visiškai neįžengiama; šią žemę net ir šiais laikais saksai
+    vadina Owimu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

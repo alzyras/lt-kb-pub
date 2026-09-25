@@ -80,7 +80,7 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177093
@@ -107,5 +107,55 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-199072
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
+  citata_originali: |
+    Mūsų kraštuose dar išliko dainelė, susijusi
+    su tuo dievuku:
+    Skrindau Kaunis iž tola,
+    Kur vvassara umžynoja.
+    Man pasakė Naszaugole,
+    Jog tinaj mejlis karaujoja:
+    Unt szinvu arklu rejtwažoja
+    Su didu iždu nuoplesiu.
+    E j sugriže Dewutesiu!
+    Paimk jus unt salios sparnos,
+    Atneszk man jus swejku tiktej,
+    Ne noru až brangiu diklej,
+    Gan man sauos apimirnos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199682
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
+  citata_originali: |
+    (Skrido Kaunis iš toli,
+    Kur vasara amžinoji.
+    Man pasakė neužauguolis,
+    Jog tenai medis kariaujoja:
+    Ant širvų arklių raitvažiuoja
+    Su didžiu iždu nuoplėšių.
+    FA, sugrįžk, Dievutėliau!
+    Paimk juos ant savus sparnus,
+    Atnešk man juos sveiką tiktai,
+    Nenoriu aš brangių daiktų,
+    Gan man tavo apėmimo)*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

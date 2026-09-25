@@ -77,5 +77,5 @@ Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

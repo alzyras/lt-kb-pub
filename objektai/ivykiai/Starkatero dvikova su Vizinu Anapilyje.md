@@ -94,7 +94,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179243
@@ -120,5 +120,51 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197469
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  citata_originali: |
+    Jį vadindavo plėšriuoju slibi­
+    nu2, be to, jis turėjęs stiprią burtų galią, nes kiekvieną
+    prieš jį pakeltą ginklą mokėjo vien žvilgsniu nugalėti.
+    Taip pat buvo toks drąsus, kad ¡grobdavo iš vyrų jaunas
+    žmonas ir nuotakas iš tėvų namų. Pirkliavę Danijoje rusai
+    guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
+    jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė
+    jį, pasitelkęs ¡gudrybę. Žinodamas, kad slibinas žvilgsniu
+    užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona
+    oda; taip burtininko akims nepasiekiamas ¡ginklas padėjo
+    jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
+    atsargus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197497
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  citata_originali: |
+    Pirkliavę Danijoje rusai
+    guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
+    jęs, nuvažiavo į Rusią, iškvietė Viziną dvikovom ir nukovė
+    jį, pasitelkęs ¡gudrybę. Žinodamas, kad slibinas žvilgsniu
+    užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona
+    oda; taip burtininko akims nepasiekiamas ¡ginklas padėjo
+    jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
+    atsargus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

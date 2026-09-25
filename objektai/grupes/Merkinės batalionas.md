@@ -64,5 +64,5 @@ Vėliau Vanagas subūrė Merkinės ir Alovės partizanus į 140 vyrų kuopą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

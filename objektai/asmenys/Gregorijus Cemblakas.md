@@ -115,7 +115,7 @@ canonical_biography: "Šv.Panelės Marijos cerkvėje, dalyvaujant pačiam Vytaut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-36310
@@ -137,7 +137,7 @@ canonical_biography: "Šv.Panelės Marijos cerkvėje, dalyvaujant pačiam Vytaut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-88681
@@ -160,7 +160,7 @@ canonical_biography: "Šv.Panelės Marijos cerkvėje, dalyvaujant pačiam Vytaut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

@@ -87,5 +87,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201521
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
+  citata_originali: |
+    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
+    las arba šventykla, savo viduryje turėjusi neapsakomo didumo
+    ąžuolą; dėl artimos sienos ji buvo gerai įtvirtinta. Kryžiuočiai
+    paėmė ją, įžengdami į Prūsus, ir, kaip pastebi Hartknochas,
+    toje vietoje įkūrė Senąją Torunę. Ponas Svenckis12 13 nekritiškai
+    teigia, kad šis ąžuolas, kaip ir visi kiti panašūs to krašto me­
+    džiai, dėl savo storumo buvęs kaip tvirtovė. Šitoks padavimas
+    išliko dėl tos priežasties, kad aplink ąžuolą buvo stiprus ap­
+    tvaras: tai ir sudarė senovės lietuvių šventyklą. Apie tai papa­
+    sakosime straipsnyje „Šventyklos“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

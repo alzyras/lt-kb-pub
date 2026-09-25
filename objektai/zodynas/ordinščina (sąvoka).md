@@ -67,5 +67,5 @@ Nors Kaunui totorių puolimai negrėsė, solidariai su kitais miestais jis turė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

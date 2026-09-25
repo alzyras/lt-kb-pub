@@ -84,5 +84,26 @@ Narbutas 1629 metų Naborovskio paminėjimą pateikia kaip pėdsaką, kad XVII a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198492
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
+  citata_originali: |
+    Man sakė, kad vieno vienuolyno biblio­
+    tekoje buvo XV amžiaus lotyniškas rankraštis - svarstymas
+    apie milžinkapius3, kuriame turėję būti padavimų apie šį ka­
+    pą. Taip pat turime pėdsaką, kad dar XVII amžiuje apie Ge­
+    dimino kapą Lietuvoje visi žinojo; apie tai 1629 metais4 mini
+    Naborovskis.
+    Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
+    asmuo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -93,7 +93,7 @@ canonical_biography: "1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

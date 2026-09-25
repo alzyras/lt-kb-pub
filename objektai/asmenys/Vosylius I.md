@@ -141,7 +141,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-36552
@@ -170,7 +170,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-65066
@@ -192,7 +192,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-65067
@@ -213,5 +213,5 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

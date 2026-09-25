@@ -47,6 +47,13 @@ Papildomos aiškios formos neišskirtos.
   pagrindžia:
     - c-09608
 
+<a id="claim-t-210191"></a>
+- t-210191
+  teiginys: "Klajumas buvo erdvė aplink žinyčią, kurioje žmonės rinkdavosi melstis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
 ## Citatos
 
 - id: c-09608
@@ -62,7 +69,7 @@ Papildomos aiškios formos neišskirtos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-09609

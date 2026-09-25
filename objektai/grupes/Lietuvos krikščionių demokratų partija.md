@@ -117,7 +117,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -140,7 +140,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-22619
@@ -162,5 +162,5 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

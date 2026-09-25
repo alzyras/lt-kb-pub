@@ -68,5 +68,22 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202429
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 52."
+  citata_originali: |
+    Žodis dažnai apibūdina gyvenvietę iki miesto
+    privilegijos suteikimo (Grieser R. Lischke..., p. 232—241), plg. vietoves Lisken (į šiaurę
+    nuo Bartenšteino), Lyskow, Liskaw, Liskouwe, vėliau Lischkau  į šiaurę nuo Tepliavos
+    ir kt.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

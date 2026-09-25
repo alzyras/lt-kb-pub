@@ -116,7 +116,7 @@ canonical_biography: "Šiai kolonai vadovavo pats Ladyga. Ladyga birželio 2 d. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-42048
@@ -142,7 +142,7 @@ canonical_biography: "Šiai kolonai vadovavo pats Ladyga. Ladyga birželio 2 d. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-42049
@@ -163,7 +163,7 @@ canonical_biography: "Šiai kolonai vadovavo pats Ladyga. Ladyga birželio 2 d. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 ## Ryšiai

@@ -53,9 +53,10 @@ b) Voskresensk.
     Vielikom kniaženii, na vsiej ruskoj ziemli" ...
   citata_rodoma: "b) Voskresensk. lietopis (Pol. sobr. VIII, 72 p.), „Pochvalivsia, gla-\ngolišče bo Vitovt: pojdiem i pobiedim caria Temir Kutluja, wziem carstvo\njego, posadim ria niem caria Tachtamyša, o sam siadu na Moskvie, na\nVielikom kniaženii, na vsiej ruskoj ziemli\" ..."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

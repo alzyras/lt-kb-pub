@@ -67,17 +67,24 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   pagrindžia:
     - c-168196
 
-<a id="claim-t-197156"></a>
-- t-002
-  teiginys: "Surbantas esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas."
-  atnaujinta: "2026-07-12 22:31"
+<a id="claim-t-222240"></a>
+- t-222240
+  teiginys: "Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
+  teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Surdeta: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Surbantas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Surdeta: mention_match, person, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Surbantas\" parinktas kaip owner_note_path. Targetas \"Surdeta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-167514
+    - c-206211
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -121,8 +128,6 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-168196
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -141,9 +146,30 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
     mai Lenkijoje.
   citata_rodoma: "Tiesą sakant,\ntą pasitraukimą su visa manta ir vaikais į Lietuvą, kur\ngyveno tos pačios kilmės tauta, vargu ar galima va­\ndinti tremtimi. Tokio paties likimo ištikti skalvių di­\ndikai Surbantas, Svisdeta ir Surdeta, atsidūrę bėdoje,\npersikraustė su savo turtais ir žmonėmis toliau į Lie­\ntuvą. Tuo tarpu kilo neramu-\n1269 m e ta i\nmai Lenkijoje."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206211
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 159"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159."
+  citata_originali: |
+    Kai šitai vyko, ir vyrai, ir moterys paskutiniais
+    žodžiais keikė vieną sembą, vardu Bansas, Pabečių valsčiaus kamerarijų, tvirtindami,
+    jog jis esąs šio baisaus nusikaltimo sumanytojas, skatintojas ir pradininkas. Šis Bansas
+    norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik
+    visus prūsus sukurstė atsimesti nuo krikščionybės. Dėl to, ištyrę visus jo nusižengimus,
+    jį pelnytai pasmerkė mirti.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222240

@@ -90,5 +90,5 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

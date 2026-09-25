@@ -124,6 +124,18 @@ Nenurodyta
   pagrindžia:
     - c-102944
 
+<a id="claim-t-221233"></a>
+- t-221233
+  teiginys: "Martynas, atgavęs ginklus, priešams miegant vieną po kito išvogė jų skydus."
+  atnaujinta: "2026-09-20 13:23"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202895
+
 ## Citatos
 
 - id: c-10284
@@ -140,7 +152,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-10285
@@ -159,7 +171,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-102944
@@ -184,7 +196,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-102945
@@ -203,5 +215,64 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-192890
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 297"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 297."
+  citata_originali: |
+    Kariauna, stodama į kovą, turėjo priešaky didelę baltą vėliavą, ant kurios buvęs skydas, pusiau
+        perdalytas, viršutinėje pusėj geltoni, o apatinėje mėlyni laukai, geltonuosiuose laukuose karūna
+        buvusi stati, o mėlynuosiuose aukštynoka^1334. Kartais turėję baltą vėliavą, kurios skyde buvęs žmogus
+        besėdįs meškos galva, ant kurios vėliavos buvę išrašyti tie žodžiai: „Dieve kūrėjau, supyk ant
+        pustytojų^1335 , užtik juos.“
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192900
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 295"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 295."
+  citata_originali: |
+    Paskesnėse gadynėse ginklais buvo: kalavijai, kardai ir kirviai, iš akmens dirbti, turėjo taip pat
+        skydus, kuriais dangstės nuo neprieteliaus siūčiu, kurie buvo pailguotinai^1325 apvalūs, jau iš žilvičių
+        nupinti, jau iš lentos ištašyti. Lietuviai, tokiu ginklu ginkluodamies, ilgą laiką gynės nuo neprietelių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202895
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
+  citata_originali: |
+    Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
+    nekreipdamas dėmesio į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių
+    ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o
+    kiti išbėgiojo palikę visus turimus ginklus bei visą maistą. Sūduviai dėl to labai džiaugėsi,
+    tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus
+    bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną
+    po kito išvogė jų skydus, kalavijus bei ietis, o turėdamas ginklų, staiga juos su savo
+    bendrais užpuolė ir visus išžudė jų guoliuose, išskyrus vieną, kurį Martynas nukovė
+    pastojęs jam kelią, kuriuo šis mėgino sprukti; po to sugrįžo namo su anksčiau pelnytu
+    grobiu bei šių netikėlių ginklais ir kitais daiktais.
+    199 (194).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221233

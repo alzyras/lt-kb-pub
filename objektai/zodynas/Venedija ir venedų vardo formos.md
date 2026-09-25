@@ -107,7 +107,7 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175040
@@ -125,5 +125,5 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -82,5 +82,5 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

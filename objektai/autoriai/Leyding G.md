@@ -72,5 +72,22 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204152
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 57"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
+  citata_originali: |
+    Šį hidronimą, kildinamą iš le. Chełm ir vok. See, lyginame su 1401 m. dokumentų
+    Colmen/Kaelmen (GAO, p. 69), Koelmsee (Sch-K, XVI), Kölmsee, Kolm (Leyding G.
+    Słownik..., d. 2, p, 315) — ežero  į šiaurės vakarus nuo dab, Ylavos Osos aukštupyje
+    (pietrytinėje Pamedėje) vardu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

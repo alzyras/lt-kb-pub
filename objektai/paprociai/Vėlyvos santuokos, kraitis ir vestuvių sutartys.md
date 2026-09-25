@@ -96,5 +96,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192691
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 101"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 101."
+  citata_originali: |
+    Nesgi mergaitės, nubengusios sunkiuosius darbus pas savo tėvus, tuojau verpė ir audė sau ant
+        tėvų duonos ir drabužio lig ištekančios, kas vadinos pas juos kraitį kloti; nuo to paties regima yra,
+        jog juo sumitusi buvo merga, juo didesnį kraitį suklotą turėjo, turtingesne buvo ir veikiau gavo
+        vyrą, kursai, ją vesdamas, ne vien didį turtą sau rado, bet ir mergą it kūgį gavo, prie kurios galėjo
+        pats pasišildyti, o jos kraičiu plikį iš savo būtos išvaryti, nesgi ir nuotakos pačios neieškojo sau
+        turtingų vyrų ir negeidė jų turtuose tižti ir lepintis, kaip šiandien kad daro, nes narsių žaliūkų
+        lietos ar ūkės vyrų veizėjo, kaipogi pačios ne vien šeimyną vienos būtos, bet trijų, keturių butų
+        savo kraičiu galėjo apdaryti. Pinigų nežinojo, ir jų niekam nereikėjo, nesgi mokesnių niekam
+        nemokėjo, duoklių nedavė ir rinkliavų nežinojo, kaipogi visi liuosi sau gyvendami dirbo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

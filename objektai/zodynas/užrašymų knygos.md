@@ -54,5 +54,5 @@ Užrašymų knygomis vadinamos Metrikos knygos susideda daugiausia iš centrini�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

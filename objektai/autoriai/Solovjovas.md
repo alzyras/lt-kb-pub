@@ -79,5 +79,28 @@ Teodoras Narbutas Solovjovą mini kaip aiškinusį, kad priešistorėje buvusios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195093
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 99"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 99."
+  citata_originali: |
+    Safaržykas teigia, jog priešistoriniais lai­
+    kais buvusi viena tauta, kuri, laikui bėgant, susidvejino5.
+    Kiti, pavyzdžiui, Solovjovas6, aiškina atvirkščiai ir teigia,
+    jog priešistoriniais laikais buvusios dvi Skirtingos tau­
+    tos, kurios istoriniais laikais susiliejo. Bet šie istorikai
+    patys prisipažįsta, jog nežino priešistorinių epochų, todėl
+    1 Išsamius įrodymus to, kad venedai iš tikrųjų buvo slavai ir
+    tą vardą jiems suteikė kitos tautos, o ne jie patys taip save vadino,
+    be to, Adelungas ir net Dobrovskis venedus klaidingai priskyrė prie
+    vokiečių, pateikė Safaržykas (Starožytnošci slawianskie.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -207,6 +207,31 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   pagrindžia:
     - c-187769
 
+<a id="claim-t-212704"></a>
+- t-212704
+  teiginys: "Nestoras, pasak Narbuto, aptiko nedaug medžiagos ir užrašė tik sutrumpintas senų padavimų liekanas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196522
+
+<a id="claim-t-215180"></a>
+- t-215180
+  teiginys: "Narbutas Nestorą vadino rusų istorijos tėvu ir rašė, kad jis užrašė tik sutrumpintas senų padavimų liekanas."
+  atnaujinta: "2026-09-19 19:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-196522
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Narbutas Nestorą vadino rusų istorijos tėvu ir rašė, kad jis užrašė tik sutrumpintas senų padavimų liekanas.'
@@ -290,7 +315,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174413
@@ -315,7 +340,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174414
@@ -339,7 +364,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-008
 
@@ -365,7 +390,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-174417
@@ -385,7 +410,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177066
@@ -405,7 +430,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-179268
@@ -430,7 +455,7 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-187769
@@ -454,5 +479,140 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-196522
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 374"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 374."
+  citata_originali: |
+    Pats Nestoras, rusų istorijos tėvas,
+    jau aptiko nedaug medžiagos savo aprašymams ir pajėgė
+    užrašyti tik senų padavimų sutrumpintas liekanas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212704
+    - t-215180
+
+- id: c-196627
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  citata_originali: |
+    Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
+    išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­
+    jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių
+    metu rengdavo turnyrus. Visa tai išliko Prūsijoje. Jie
+    nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų
+    genčių; jų kalba buvo labiau gimininga slavų kalbai:
+    Slėceris šias dvi kalbas skelbia esant antro giminystės
+    laipsnio. Dėl sąjungos su graikų imperatoriumi rusai pri­
+    siekė savo dievu Perūnu; vadinasi, jis buvo tas pats kaip
+    ir prūsų Perkūnas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196863
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
+  citata_originali: |
+    Bet, kai smulkiame tautų sąva­
+    de šiam bendriniam pavadinimui neliko vietos, jis buvo
+    tarsi pamirštas, tuo tarpu herulais vadinamų hirių sąvo­
+    ka įgavo persvarą tarp kitų jiems giminingų genčių; jų
+    pavadinimas, tapęs bendrinis visiems, užgožė tą, kuris
+    liko tik gimtojoje žemėje ir ten gyvenusioms gentims. Iš
+    mums žinomų originalių istorikų pirmasis, Lietuvą pa­
+    minėjęs 860 metais ar kiek vėliau, buvo Nestoras; jis iš­
+    vardijo rusų variagams ¡priklausiusias gentis2. Dytmaras,
+    Merzeburgo vyskupas, pasakodamas apie Boleslovo Nar­
+    siojo karus, 1009 metais mini ir lietuvius**.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196904
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
+  citata_originali: |
+    Tačiau jis prieštarauja sau ir savo tiksliai
+    išdėstytoms istorinėms tiesoms, nes ir poloviečių puoli­
+    mai iki XII amžiaus pradžios, ir Giurgevo apgultis, pa­
+    imti iš Nestoro veikalo, liečia tų barbarų veiksmus kai­
+    riojoje Dnepro pakrantėje, į rytus nuo jo. Be to, tvirto­
+    vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
+    taiką; kartu ji nebuvo sunaikinta ir todėl netrukus turė­
+    jo* būti atstatyta. Tatiščevas**, gal geriau žinojęs šiuos
+    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
+    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
+    Jurjevu, stovėjusią prie Osteros upės žiočių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197329
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  citata_originali: |
+    Be to, ir Pretorijus sako,
+    jog prūsai ir rusai iš pradžių priklausė vienai genčiai;
+    variagų vardą jis kildina iš grynai prūsiško žodžio Wa-
+    rejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį
+    duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,
+    jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
+    krivičiams.
+    Visų šių teiginių, kaip man atrodo, pakanka įrodyti,
+    jog ne vienai senovės prūsų kartai tenka garbė už tai,
+    1 Wareys, iš lietuviško žodžio Warikt, visiškai nesiderina su
+    \Warrejas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197392
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
+  citata_originali: |
+    Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
+    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
+    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
+    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
+    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
+    novės Kijevą. Nestoras irgi nusirašė visa tai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -92,7 +92,7 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-65446
@@ -110,5 +110,39 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-204957
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
+  citata_originali: |
+    Netoli Kreivių k.— Romės Lauko k., o greta jo Obelyno
+    miške, pelkėje,— aukštumėlė, kurios rytiniame šone — didelis akmuo Velnių stals (mano
+    užfiksuota 1964.V.26.— R. B.; Tarasenka P. Pėdos..., Nr. 191 — žemėlapyje pažymėta
+    netiksliai).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205640
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
+  citata_originali: |
+    Pietiniame girios pakraštyje —
+    šiuo atveju mums reikšmingas kaimas Ragainiai (Rogainen — Sch-K XII; dab. Rogajny), o
+    rytiniame — prie Vištyčio miestelio — stebuklingas, pasak žmonių, akmuo (Tarasenka P.,
+    Pėdos..., p. 71).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

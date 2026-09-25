@@ -85,5 +85,5 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -70,7 +70,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -89,6 +89,20 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
 
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192569
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 153"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 153."
+  citata_originali: |
+    Užvis jog šaldrų^709 ir prašaleičių, atklydusių į savo kraštą, kurie norėjo savo nuomonę apie dievą jiems įbrukti ir tikybą naują įkurti, tuos, kaipo norinčius sau valdžią įgyti ir svietą nuvergti, be meilės galavo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

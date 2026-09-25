@@ -70,5 +70,27 @@ Narbutas Charonui iš Lampsako priskiria pasakojimą apie Reką, kuris pasirūpi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199160
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
+  citata_originali: |
+    Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo­
+    nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek
+    malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę mi-
+    lologinę pasaką: esą hamadriadės gyvendavusios medžiuose,
+    kartu su jais augdavusios, kentėdavusios ir užbaigdavusios sa­
+    vo gyvenimą. Charonas iš Lampsako išsaugojo mums įdomią
+    istoriją apie šį dalyką. Kažkoks Rekas (Rhoecus), kartą apim­
+    lus gailesčio dėl griūvančio ąžuolo, liepė apkasti jį šviežia že­
+    me ir paramstyti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

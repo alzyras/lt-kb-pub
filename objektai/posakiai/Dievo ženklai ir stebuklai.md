@@ -55,5 +55,5 @@ Dusburgietis teigia, kad pats matyk didelius dievo ženklus ir galingus jo stebu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -88,7 +88,7 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166836
@@ -107,5 +107,5 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

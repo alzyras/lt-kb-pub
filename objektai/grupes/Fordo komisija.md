@@ -70,7 +70,7 @@ Kiek teko pastebėti iš Fordo komisijos na rių, tasai estų patrijotų projekt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192361
@@ -88,5 +88,5 @@ Kiek teko pastebėti iš Fordo komisijos na rių, tasai estų patrijotų projekt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

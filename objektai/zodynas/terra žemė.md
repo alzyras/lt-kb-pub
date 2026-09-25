@@ -92,7 +92,7 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59505
@@ -109,5 +109,43 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202298
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55."
+  citata_originali: |
+    XIII ir XIV a. pradžios dokumentuose ir kronikose terminu žemė (plačiąja prasme)
+    vadinamos visos prūsų žemės (1243 m.— terra Pruscie — PUB, 1, Nr. 144, p. 109 ir kt.;
+    terra Prussie — D. III, 3) ir atskiros prūsų žemės: terra Sambia (SU, 1, Nr. 200, p. 109,
+    ir kt.); de[...] terre Galindie (D. III, 4). Pastarųjų sudėtinės dalys —tai žemės siaurąja
+    prasme: terra Wargen (PUB, 1, 2, Nr. 138, p. 114). Antruoju atveju D. vartojo terminą
+    territorium (III, 107 ir kt.). Vėliau Vygandas Marburgiškis vėl neskyręs žemės plačiąja
+    prasme nuo jos sudėtinių dalių: abiem atvejais jis vartoja terminą terra: Sch[a]cken,
+    Powunden, Kaymen, Gesow, Eroglen, Rosgeyn (SRP, 2, p. 516—518; D. atitinkamai
+    territorium: III, 6, 70(71), 246, 255, 303, 340 ir kt.).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206188
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55."
+  citata_originali: |
+    189 2 D.— in XI partes, Jer.— in eilf teil, tačiau toliau D. jau vartoja terminą terra
+    (terre Galindie — III, 4 ir kt.). Terminu terra (žemė) Dusburgietis paprastai vadina
+    stambiausius prūsų ir lietuvių teritorinius vienetus, susidariusius genties pagrindu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

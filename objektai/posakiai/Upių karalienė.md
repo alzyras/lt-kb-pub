@@ -59,5 +59,5 @@ Ovidijus Eridaną vadina didžiausia upe; Hesiodas mini, kad Eridanas buvęs Oke
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

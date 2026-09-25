@@ -84,5 +84,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198837
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 137"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 137."
+  citata_originali: |
+    Mano pieštas natūralaus dydžio piešinys pateikiamas 1 lentelė­
+    je 3-iajame piešinyje su visais medaliono sužalojimais. Vaizduo­
+    jami du asmenys: vyras, viena koja priklaupęs ant kelmo, duo­
+    da vainiką moteriai, kuri, apsirengusi kaip žynė, savo ruožtu
+    tiesiajam taurę; tarp jų - ąžuolo šaka su trimis gilėmis; po po­
+    stamentu, į kurį atsirėmę asmenys, rangosi žaltys. Įskaitomi už­
+    rašai rusiškomis raidėmis: Poklus, Nijota.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -30,27 +30,6 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
 
 ## Teiginiai
 
-<a id="claim-t-192938"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skitais."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Isteris: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Getai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Isteris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad getai gyveno prie Dunojaus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Getai gyveno Isteris (0.90)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175708
-
 <a id="claim-t-200920"></a>
 - t-002
   teiginys: "Ir taip skitai, anapus Dunojaus gyveną, vadinos trakais, šiapus Dunojaus getais, juo į šiaurę einant, vadinos tyragetais, tai yra gyventojai tyrų, kaipogi tenai nė kokio medžio nebuvo, bet vieni tyri lau kai, kurie šiandien dar pietinėj Padalijo j ir Ukrainoj."
@@ -130,8 +109,6 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-184270
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -156,7 +133,7 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

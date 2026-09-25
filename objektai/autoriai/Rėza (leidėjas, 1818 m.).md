@@ -146,17 +146,41 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   pagrindžia:
     - c-171362
 
-<a id="claim-t-197336"></a>
-- t-005
-  teiginys: "Rėza sugrįžo jėzuitų pastangomis, valdant Zigmantui III."
-  atnaujinta: "2026-07-12 22:32"
+<a id="claim-t-216646"></a>
+- t-216646
+  teiginys: "Ponas Rėza „Dainų“ komentaruose pažy mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama Bier."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-177069
+    - c-199547
+
+<a id="claim-t-216777"></a>
+- t-216777
+  teiginys: "Rėza Šilinyčių, dar žinomą Šilo Radikio vardu, mato pas senovės prūsus ir sieja jį su staliaus funkcija."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199296
+
+<a id="claim-t-216906"></a>
+- t-216906
+  teiginys: "Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10 10 Rėza."
+  atnaujinta: "2026-09-20 15:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198216
 
 ## Reikšmingi paminėjimai
 - c-005
@@ -202,7 +226,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171360
@@ -225,7 +249,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171361
@@ -247,7 +271,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-171362
@@ -276,7 +300,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177069
@@ -297,5 +321,85 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+
+- id: c-198194
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 323."
+  citata_originali: |
+    Praėjusius metus žy­
+    mėdavo mazgeliais, įpjovomis arba ženklais šventyklose,
+    įspaustais į mūrą, kaip matėme anksčiau.
+    Kaip pažymi ponas Rėza, dar jie turėjo laiko dalijimą į
+    devynis periodus, perimtą iš skandinavų, bet smulkesnių duo­
+    menų apie tai neturime.
+    Štai lietuviški mėnesių pavadinimai iš kalendoriaus, esan­
+    čio senose maldų knygose, išspausdintose pamaldų reikalui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198216
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  citata_originali: |
+    Valdant Žygimantui Augus­
+    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
+    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
+    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
+    Zigmantui III. Ši trumpa ekskursija į istoriją remiasi vietinių
+    istorijos mokovų apklausa ir klebonijos užrašais, kuriais vie­
+    los klebonas leido man pasinaudoti 1805 metais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216906
+
+- id: c-199296
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 174."
+  citata_originali: |
+    Atrodo, kad tą patį Šilinyčių (Sylenicza), žinomą dar Šilo
+    Radikio (Sylla-Radikis) vardu, ponas Rėza mato pas senovės
+    prūsus; tai tiksliai atitinka tuos pačius požymius, nors jį lygina
+    su slavų Radegastu (Radogast), matyt, dėl panašaus autoriui
+    nežinomo epiteto Radikis, kuris kilęs iš žodžioRaddiht, latvių
+    kalboje reiškiančio kurti, formuoti, iš naujo aptašyti; taigi Šilo
+    Radikis reikš miško, medžio dorotoją, vienu žodžiu, stalių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216777
+
+- id: c-199547
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
+  citata_originali: |
+    Ponas Rėza „Dainų“ komentaruose pažy­
+    mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama
+    Bier. Alus yra malonesnis gerti, saldesnis, šviesesnis3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216646

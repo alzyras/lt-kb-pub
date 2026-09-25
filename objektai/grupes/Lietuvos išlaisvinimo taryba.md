@@ -77,7 +77,7 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176401
@@ -95,5 +95,5 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

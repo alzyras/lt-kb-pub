@@ -99,7 +99,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175824
@@ -126,5 +126,31 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198533
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
+  citata_originali: |
+    Įdomią smulkmeną apie tuos dievaičius mums paliko Prū­
+    sijos kronikos . 1247 metais, kai kryžiuočiai jau valdė Pame-
+    dę ir tenykščius žmones lyg ir atvertė į krikščionių tikėjimą,
+    vis dėlto dėl nuolatinių sumaiščių ir kovų su kitų provincijų
+    gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie,
+    matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
+    sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu. Šitaip ap­
+    leidus dalyką, pradėjo atsirasti dievaičių, vadintų aitvarais (Suc-
+    cubis etlncubis*), kurie, vis dažniau svečiuodamiesi, įniko nak­
+    timis viešai ir dažnai rodytis gyvų žmonių pavidalu. Kankino
+    moteris, gaudė vyrus, užsispyrusius ir nepatinkamus žmones
+    įmesdavo į šulinius, skandindavo upėse, kardavo ant medžių,
+    14 Stender.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

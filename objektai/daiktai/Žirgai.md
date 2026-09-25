@@ -93,5 +93,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203272
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 196."
+  citata_originali: |
+    Kartą
+    vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė:
+    „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave  į tokią vietą, kur tu pelnysi
+    didelį grobį“. Henrikas nudžiugo ir, užsėdęs savo žirgą, nusekė iš paskos visokiausiais
+    keliais ir šunkeliais. Galop jis prijojo vietą, kur jo arklys nebenorėjo toliau nė žingsnio
+    žengti, nors jį ir smarkiai ragino pentinais. Mat arklys matė pavojų, kurio raitelis nakties
+    tamsoje negalėjo išvysti. Galop Henrikas tarė savo arkliui, stipriai  jį paspausdamas
+    pentinais: „Vardan viešpaties— į priekį“. Tada jo bendras, tai yra velnias, atsistojo prieš
+    jį ir pasakė: „Tavo laimė, kad paminėjai savo dievo vardą, jeigu to nebūtum padaręs,
+    jau būtum negyvas nutrenktas  į šią pragarmę“. Pagautas siaubo, Henrikas liko stovėti
+    toje vietoje, iki aušros nedrįsdamas nei į priekį žengti, nei atgal trauktis; kai jis išvydo
+    neapsakomai aukštą skardį, nuo kurio galėjo nukristi į giliausią prarają, jeigu arklys būtų
+    bent žingsnį žengęs į priekį, jis paženklino save šventuoju kryžiaus ženklu ir pašlovino
+    vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

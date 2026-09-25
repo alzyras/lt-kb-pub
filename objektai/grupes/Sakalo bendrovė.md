@@ -69,5 +69,5 @@ Sležas ##### KAUNAS, 1930 — VYTAUTO DIDŽIOJO — METAI ###### „SAKALO“ B
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

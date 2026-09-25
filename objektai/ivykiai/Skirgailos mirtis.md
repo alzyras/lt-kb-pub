@@ -77,5 +77,5 @@ Narbutas pasakoja, kad po pusryčių pas vienuolį Fomą Izufovą Skirgaila susi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

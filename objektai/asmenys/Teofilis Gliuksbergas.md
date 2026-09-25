@@ -59,8 +59,6 @@ canonical_biography: 1856 metais Teofilio Gliuksbergo spaustuvėje atsirado gali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-200417
   autorius: "Teodoras Narbutas"
@@ -83,32 +81,3 @@ canonical_biography: 1856 metais Teofilio Gliuksbergo spaustuvėje atsirado gali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-211180"></a>
-- t-001
-  teiginys: "1856 metais Teofilio Gliuksbergo spaustuvėje atsirado galimybė išleisti dalį Narbuto sukauptų LTI papildymų."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-193633
-
-<a id="claim-t-216420"></a>
-- t-002
-  teiginys: "1856 m. Teofilio Gliuksbergo spaustuvėje buvo išleista dalis medžiagos, turėjusios papildyti antrąjį LTI leidimą."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-200417
-

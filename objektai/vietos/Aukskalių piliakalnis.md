@@ -99,7 +99,7 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59152
@@ -116,5 +116,21 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-204435
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  citata_originali: |
+    Taigi su pagonišku kultu sietųsi buv. Obeliškių (dab. Zelencovo) apylinkės su Romovupe
+    ir Aukskalių piliakalniu, esančios  į pietvakarius nuo Įsruties (dab. Cerniachovsko),
+    Auksinės (dab. Golubaja) žemupyje (jos santakoje su Didlova, dab. Svoboda).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -102,6 +102,16 @@ Nenurodyta
   pagrindžia:
     - c-170441
 
+<a id="claim-t-211853"></a>
+- t-211853
+  teiginys: "Dėl dalyvavimo 1831 m. sukilime turėdamas emigruoti į už sienį, jis tespėjo paskelbti dramatiškiausią Bychovco kronikos fragmentą — pasakojimą apie Vytauto brolio Žygimanto Kęstutaičio nužudymą 1440 m."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Citatos
 
 - id: c-170441
@@ -123,6 +133,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

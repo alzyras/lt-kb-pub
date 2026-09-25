@@ -73,6 +73,19 @@ Nenurodyta
   pagrindžia:
     - c-172729
 
+<a id="claim-t-219502"></a>
+- t-219502
+  teiginys: "Visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-198684
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose.'
@@ -119,5 +132,29 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198684
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
+  citata_originali: |
+    Masonų organizacijose kampainis simboli­
+    zavo sąžine, akacijos šakelė - nemirtingumą, skriestuvas - aukš­
+    čiausiąjį protą. Ant taurės išgraviruota data - „1817 m.“ R. Kli­
+    mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
+    organizaciją4. Jis pradėjo rašyti straipsnius ugdymo ir auklėji­
+    mo temomis, laikraščiuose „Dziennik Willenski“ ir „Tygodnik
+    Wilenski“ pasisakė prieš baudžiavinį išnaudojimą. Šių peri­
+    odinių leidinių redaktoriai Kazimieras Kontrimas ir Antanas
+    Marcinovskis taip pat priklausė masonų organizacijai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219502

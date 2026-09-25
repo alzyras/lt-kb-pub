@@ -89,6 +89,18 @@ Nenurodyta
   pagrindžia:
     - c-66943
 
+<a id="claim-t-225396"></a>
+- t-225396
+  teiginys: "Draika slapta atidarė Aukaimio pilies vartus brolių kariuomenei."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203675
+
 ## Citatos
 
 - id: c-66942
@@ -114,7 +126,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-66943
@@ -138,5 +150,30 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-203675
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 194-195"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194-195."
+  citata_originali: |
+    Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
+    štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
+    kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
+    Dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus, ir broliai, ten
+    įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai
+    554 Konradas Žakas, atrodo, ne pastatė Goliubo pilį, o tik ją pritaikė kryžiuočių
+    poreikiams (Powierski J., Dobra..., p. 191 — 192).
+
+    sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
+    Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225396

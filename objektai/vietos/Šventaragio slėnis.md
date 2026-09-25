@@ -350,7 +350,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-110178
@@ -379,7 +379,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-011
 
@@ -407,7 +407,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-110181
@@ -434,7 +434,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-012
 
@@ -457,7 +457,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-110183
@@ -480,7 +480,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-110186
@@ -502,7 +502,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-110188
@@ -532,7 +532,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-009
 
@@ -574,7 +574,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-015
 
@@ -607,7 +607,7 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-014
     - t-016
@@ -648,5 +648,5 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017

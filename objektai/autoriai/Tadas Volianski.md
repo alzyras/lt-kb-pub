@@ -70,5 +70,5 @@ Tadas Volianski laiške Narbutui teigė, kad Lietuva tuo pačiu vardu buvo žino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

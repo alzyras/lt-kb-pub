@@ -64,24 +64,6 @@ Nenurodyta
   pagrindžia:
     - c-170450
 
-<a id="claim-t-187489"></a>
-- t-002
-  teiginys: "Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "gap::events"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "dalyvavo_musyje -> Skirmanto pergalė prie Kaidanovo: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skirmanto pergalė prie Kaidanovo: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Teiginys aprašo Skirmanto pergalę mūšyje prie Kaidanovo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Skirmantas dalyvavo mūšyje Skirmanto pergalė prie Kaidanovo (0.82)"
-  pagrindžia:
-    - c-170451
-
 <a id="claim-t-187490"></a>
 - t-003
   teiginys: "Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus."
@@ -117,6 +99,17 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170450
+
+<a id="claim-t-211229"></a>
+- t-211229
+  teiginys: "Lietuvos metraščio pasakojime Skirmantas prie Kaidanovo nukovė totorių chaną, paėmė kelis Rusų žemės miestus ir grįžo be nuostolių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -186,7 +179,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -211,6 +204,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
     - t-003

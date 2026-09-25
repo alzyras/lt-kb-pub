@@ -65,6 +65,18 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
   pagrindžia:
     - c-155467
 
+<a id="claim-t-207950"></a>
+- t-207950
+  teiginys: "Stanislovas Vronevskis išvyko į Turkiją mokytis graikų ir turkų kalbų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190420
+
 ## Citatos
 
 - id: c-155467
@@ -86,9 +98,57 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
     Chaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar
   citata_rodoma: "Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-\ntuvos emigrantai arba kilusios iš jų šeimų. O kai pamatai po provincijos \nmiestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir \nieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-\ngalvoji, kiek dar tokių vardų slepia Lietuva?\nFantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinke-\nvičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos \nscenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190420
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 224"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 224."
+  citata_originali: |
+    B
+    a
+    j
+    o
+    r
+    i
+    š
+    k
+    o
+    j
+    o
+    p
+    a
+    s
+    a
+    u
+    l
+    i
+    o
+    p
+    r
+    o
+    f
+    i
+    l
+    i
+    a
+    i
+    jo, Lietuvos didžiojo kunigaikščio, dvarioniui Stanislovui Vronevskiui, kuris išvyksta į
+    Turkiją mokytis graikų ir turkų kalbų, nes nori geriau tarnauti mums, valdovui ir
+    mūsų valstybėms.
+  citata_rodoma: "jo, Lietuvos didžiojo kunigaikščio, dvarioniui Stanislovui Vronevskiui, kuris išvyksta į\nTurkiją mokytis graikų ir turkų kalbų, nes nori geriau tarnauti mums, valdovui ir\nmūsų valstybėms."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207950

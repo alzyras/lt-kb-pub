@@ -71,5 +71,5 @@ Prieš pat sukilimo pradžią Vilniaus karo apygardoje buvo dislokuoti 66 482 ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

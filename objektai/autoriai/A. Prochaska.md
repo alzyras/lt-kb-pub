@@ -137,19 +137,6 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   pagrindžia:
     - c-50244
 
-<a id="claim-t-193876"></a>
-- t-006
-  teiginys: "A. Prochaskos veikalas „Dzieje Witolda“ citatoje nurodomas kaip šaltinis apie Dželal-ad-dino žūtį ir Aukso ordos istoriją."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176503
-
 ## Citatos
 
 - id: c-30421
@@ -172,7 +159,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -201,7 +188,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-50242
@@ -223,7 +210,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-50244
@@ -245,7 +232,7 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-176503
@@ -262,5 +249,3 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006

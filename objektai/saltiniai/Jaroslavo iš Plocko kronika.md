@@ -85,5 +85,5 @@ Narbutas teigia, kad Grunau ir Lukas Davidas nesilaikė Jaroslavo iš Plocko ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

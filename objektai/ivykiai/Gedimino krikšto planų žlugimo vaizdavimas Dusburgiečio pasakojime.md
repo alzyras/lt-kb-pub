@@ -91,18 +91,6 @@ Nenurodyta
     - c-63587
     - c-167305
 
-<a id="claim-t-196943"></a>
-- t-003
-  teiginys: "Lyginimas leidžia manyti, kad Ordinas klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo pagrindą147."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-63587
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgiečio duomenų lyginimas leidžia manyti, kad Ordinas stengėsi pakenkti Gedimino krikšto planams.'
@@ -144,9 +132,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
-    - t-003
 
 - id: c-63588
   autorius: "Petras Dusburgietis"
@@ -165,7 +152,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-63589
@@ -186,7 +173,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167305
@@ -207,5 +194,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

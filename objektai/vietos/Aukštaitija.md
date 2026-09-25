@@ -220,7 +220,7 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
     - t-004
@@ -251,7 +251,7 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189071
@@ -266,7 +266,7 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-189072
@@ -283,5 +283,5 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007

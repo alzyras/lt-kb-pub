@@ -99,7 +99,7 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59150
@@ -120,5 +120,25 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-203285
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
+  citata_originali: |
+    XVIII—XIX a. sandūroje sudarytame Sreterio žemėlapyje Auksinės (1576 m. K.
+    Henenbergerio žemėlapyje  ir M. Pretorijaus raštuose — Augste) žemupyje žymima
+    Romanuppen, o kiek toliau į rytus, prie Didlovos (Dittowa) — Kreywutschen (Sch-K VII).
+    XIX a. tose vietose V. Kalvaitis užfiksavo Romovupės upę ir Romovupių gyvenvietę bei
+    kaimą Kriwuczei, Kreywuczei (Kalwaitis W., Lietuwiszku..., p. 41, 54, 70). Vad., čia, prie
+    Auksinės upės, yra vienintelė Nadruvoje mums žinoma vieta, kurioje matome Kriv- ir
+    Rom- kompleksą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

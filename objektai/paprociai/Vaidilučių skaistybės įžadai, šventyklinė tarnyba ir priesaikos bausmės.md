@@ -42,21 +42,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-194637"></a>
-- t-001
-  teiginys: "Apskritai visa, kas religijos dalykuose tiesiogiai susiję su moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie josi su gražiąja lytimi, buvo vaidilučių sritis."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177035
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas vaidilutes apibūdina kaip žynes, davusias amžinos skaistybės įžadus ir už priesaikos sulaužymą baustas žiauria mirtimi.'
@@ -103,5 +88,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

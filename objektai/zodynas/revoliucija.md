@@ -182,6 +182,37 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   pagrindžia:
     - c-179298
 
+<a id="claim-t-214171"></a>
+- t-214171
+  teiginys: "Teodoras Narbutas nauja revoliucija vadina hunų į Europą atneštą padėties pasikeitimą."
+  atnaujinta: "2026-09-19 22:15"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "revoliucija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"revoliucija\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+
+<a id="claim-t-214530"></a>
+- t-214530
+  teiginys: "Narbutas aiškina, kad Ši revoliucija siejama su tautų judėjimu į Vakarus."
+  atnaujinta: "2026-09-19 22:15"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "revoliucija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"revoliucija\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -251,7 +282,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175080
@@ -270,7 +301,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -290,7 +321,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175349
@@ -315,7 +346,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-175350
@@ -343,7 +374,7 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-179298
@@ -366,5 +397,78 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-195369
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
+  citata_originali: |
+    Tebus ir čia leista at­
+    kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
+    dalelė Rus ir Ross — lietuviško šventos upės pavadini­
+    mo. O savo gyvenimą tolimame Septynių miestų krašte,
+    kur jie buvo laiko audrų nublokšti, agatirai galėjo iš­
+    keisti į gyvenvietes tarp giminingų kartų, kai nesiliau­
+    jančios sarmatų revoliucijos neleido jiems ilgiau ramiai
+    gyventi prie Marokos. Sis persikėlimas, o tai visiškai įti­
+    kėtina, įvyko gana anksti, nes IX amžiuje jau randame
+    klestintį miestą Vppeleela-, apie tai bus rašoma vėliau,
+    nagrinėjant atitinkamą epochą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196561
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 305"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 305."
+  citata_originali: |
+    Čia turbūt ir baigėsi jų sąjunga su alanais. Vėliau jie,
+    be abejo, nebūtų išvengę pražūties ar gotų vergijos, jei
+    nauja revoliucija, kurią į Europą atnešė hunai, nebūtų
+    pakeitusi tuometinės situacijos.
+    *  *  *
+    X skyrius
+    H U N Ų  į S I V E R Z I M A S  Į E U R O P Ą ,
+    T O L E S N I  L I E T U V I Ų  G E N T I E S
+    T A U T Ų  L I K I M A I
+    R Y T U O S E  I R P I E T U O S E
+    304
+    Jau gana įprasti tapo baisūs gotų antpuoliai ir už­
+    kariavimai; Rytų imperijos kraštai vargais negalais su­
+    sitaikė su tuo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197024
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
+  citata_originali: |
+    Vėliau juos pavergė alanai išvien su
+    gelonais ir budinais. Laikui bėgant, kai pastarieji paju­
+    dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
+    tirus išsikelti iš Uždneprės. Taip pat yra senovės geogra­
+    fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­
+    macija, jog agatirai, arba kitaip agazirai ar angershirai,
+    yra ta pati Amiano minima gentis, savaime suprantama,
+    gerokai prieš autoriaus amžių įsikūrusi krašte, per kurį
+    tekėjo dvi upės: Lela-Upe ir Anger-Upe.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

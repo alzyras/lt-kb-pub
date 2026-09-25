@@ -78,7 +78,7 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44271
@@ -99,5 +99,5 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -63,5 +63,5 @@ Nėra senų dienų dai nos, kurioje žirgas nebūt garbinamas, kaipogi jis buvo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

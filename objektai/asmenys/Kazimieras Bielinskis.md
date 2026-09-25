@@ -69,8 +69,9 @@ canonical_biography: Kun. Kazimieras Bielinskis 1877 m. balandžio 7 d. įvardyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
 ## Teiginiai
 
 <a id="claim-t-209416"></a>
@@ -88,4 +89,3 @@ canonical_biography: Kun. Kazimieras Bielinskis 1877 m. balandžio 7 d. įvardyt
   vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
   pagrindžia:
     - c-192042
-

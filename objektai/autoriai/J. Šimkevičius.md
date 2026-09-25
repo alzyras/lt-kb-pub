@@ -53,7 +53,7 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-191952
@@ -81,7 +81,7 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-191985
@@ -98,8 +98,9 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
 ## Teiginiai
 
 <a id="claim-t-209250"></a>
@@ -140,4 +141,3 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
   vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
   pagrindžia:
     - c-191952
-

@@ -111,5 +111,5 @@ Tad todėl Breslaujos ir Polocko mūrai re gėjo tuos lietuvių karius, o aplink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

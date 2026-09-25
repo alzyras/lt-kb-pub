@@ -85,6 +85,42 @@ Nenurodyta
   pagrindžia:
     - c-189527
 
+<a id="claim-t-210879"></a>
+- t-210879
+  teiginys: "Relikvija buvo apdėta sidabru, paimta dėl sidabro ir įkišta į ryšulį tarp kitų daiktų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192975
+
+<a id="claim-t-211418"></a>
+- t-211418
+  teiginys: "Šventojo Kryžiaus medis buvo parvežtas ir pastatytas Šventojo Kryžiaus bažnyčioje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193773
+
+<a id="claim-t-211581"></a>
+- t-211581
+  teiginys: "Kas tik iš pagonių palietė tą ry šulį, kuriame buvo šventojo kryžiaus medis, iš karto mirė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192962
+
 ## Santrauka
 
 Pasak Teodoro Narbuto, per aprašytą antpuolį buvo pagrobta Šventojo Kryžiaus medžio nuolauža, kuri stebuklingu būdu grįžo į ankstesnę vietą. Pasak Narbuto, Šventojo Kryžiaus medžio relikvija buvo paimta dėl ją dengusio sidabro, o ne dėl šventumo, ir negerbiant įdėta į ryšulį tarp kitų daiktų.
@@ -105,7 +141,7 @@ Pasak Teodoro Narbuto, per aprašytą antpuolį buvo pagrobta Šventojo Kryžiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189527
@@ -122,5 +158,63 @@ Pasak Teodoro Narbuto, per aprašytą antpuolį buvo pagrobta Šventojo Kryžiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-192962
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 85."
+  citata_originali: |
+    Kas tik iš pagonių palietė tą ry­
+    šulį, kuriame buvo šventojo kryžiaus medis, iš karto
+    mirė. Ir stebėjosi didysis kunigaikštis Jogaila, kad per
+    tą sutikimą taip netikėtai mirė šitiek žmonių, klausi­
+    nėjo saviškių, kas čia per stebuklas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211581
+
+- id: c-192975
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 85."
+  citata_originali: |
+    Jis paėmė šventojo kryžiaus me­
+    džio relikviją ", kuri buvo apdėta sidabru, pasiėmė tą
+    medį ne dėl jo šventumo, bet dėl sidabro, ir, to me­
+    džio nepagerbdamas, įkišo jį į ryšulį tarp kitų papras­
+    tų daiktų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210879
+
+- id: c-193773
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 86"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 86."
+  citata_originali: |
+    Ir ponas Davaina su panele nuvy­
+    ko pas jos tėvą, gražiai parvežė tą šventojo kryžiaus
+    medį ir pastatė Šventojo Kryžiaus bažnyčioję.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211418

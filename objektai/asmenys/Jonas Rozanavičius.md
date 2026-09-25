@@ -70,5 +70,5 @@ canonical_biography: "Štai 1607 m. Kauno vytindailiai Andrius Janavičius ir Ur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

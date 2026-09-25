@@ -85,6 +85,6 @@ Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

@@ -211,7 +211,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-169333
@@ -239,7 +239,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -277,7 +277,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-006
 
@@ -301,6 +301,6 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-007

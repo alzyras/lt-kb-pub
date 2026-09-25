@@ -274,7 +274,7 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55521
@@ -300,11 +300,12 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     užgauliojo karaliaus paniekinimui].
   citata_rodoma: ", p. 35, parašyta: \nTandem Christianissimum principem \ndominum Cazimirum dictum Cortgel- \nlo, fratrem germanum domini Regis, in­\nterfecerunt, interfectique caput a corpo­\nre scindentes et amputantes et \ndetruncantes, cum eodem capite ludib­\nria et multas subsannaciones fecerunt \nin vilipendium Regis. [Pagaliau krikš­\nčioniškąjį valdovą poną Kazimierą, \nvadinamą Karigaila, tikrą karaliaus \nbrolį, nužudė, ir nužudytojo galvą \nnuo kūno nuplėšę, nupjovę ir nukir­\ntę, iš šios galvos visaip tyčiojosi ir ją \nužgauliojo karaliaus paniekinimui]."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -351,7 +352,7 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-010
 
@@ -376,7 +377,7 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-157519
@@ -406,11 +407,12 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     (Briefe des Grosskomthurs an den Köm.
   citata_rodoma: "Arkikomtūro laiškas Romos\n- •\n123\n\n## Puslapis 140\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nPatrankų, apie kurias neseniai buvo sužinota, baisūs pa­\ndariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose \nįgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo \npagautų žmonių kamšatis ir visur umaru besibraunantis, įsi- \nšėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­\nti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­\ntutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito \nmūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­\nvo likimą31. Taip pasibaigė toji diena, lig tolei baisiausia Lie­\ntuvos sostinei."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-006
 
@@ -465,7 +467,7 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-157523
@@ -489,7 +491,7 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 ## Ryšiai

@@ -81,5 +81,5 @@ Suvalkų gubernijos pakraščiuose visos „Žiburio“ mokyklos buvo uždarytos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

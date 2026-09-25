@@ -121,7 +121,7 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-38409
@@ -143,10 +143,11 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     kraščių tautas, tarp kitko ir apie aisčius.
   citata_rodoma: "Anglų karalius Alfredas D. (871—901), kuris versdamas ispa­\nno Orossiuso knygą „Historiarum liber VII adversus pa­\nganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­\nkraščių tautas, tarp kitko ir apie aisčius."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

@@ -173,7 +173,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -196,7 +196,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-78783
@@ -227,7 +227,7 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 

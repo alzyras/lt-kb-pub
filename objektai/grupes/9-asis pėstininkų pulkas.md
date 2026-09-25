@@ -72,5 +72,5 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

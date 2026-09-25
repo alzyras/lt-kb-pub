@@ -78,5 +78,5 @@ Pacevičius su Kauno lenką's-endekais, užsimanė pasilikti visos Kau no decezi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

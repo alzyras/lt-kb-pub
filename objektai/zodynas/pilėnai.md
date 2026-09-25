@@ -182,7 +182,7 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176168
@@ -217,7 +217,7 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176940
@@ -237,7 +237,7 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176941
@@ -260,7 +260,7 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-179013
@@ -284,5 +284,69 @@ Užpuolus Gardino miestą, dalis pilėnų buvo išžudyti arba paimti į nelaisv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-202259
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
+  citata_originali: |
+    321 (314). Dar apie tą patį
+    Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
+    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
+    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
+    lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
+    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno ir brolio Rebodo iš
+    Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
+    ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
+    jas nusiaubė, degindami ir piešdami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202408
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  citata_originali: |
+    Apie vieną brolių karo laivą
+    Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su
+    sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies,
+    laivą pagriebė smarkus vėjas ir nubloškė prie kranto. Šitai išvydę, pilėnai, pasičiupę
+    ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
+    mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204080
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 216"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
+  citata_originali: |
+    Su jais ir su visa Kulmo žemės bei gretimų
+    žemių brolių kariuomene brolis Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, bei
+    150 brolių žiemą įsiveržė į Vaikių valsčių; apiplėšę bei sudeginę ir pilį, ir kitus pastatus,
+    tiek daug išžudė žmonių, kad ten nebeliko gyvo nė vieno kelnėto sutvėrimo. Kitą dieną
+    jie įsiveržė į Raseinių valsčių, o trečią dieną — į Ariogalos valsčių ir abu valsčius nusiaubė
+    ugnimi. Trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai
+    buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei
+    ietimis, nei kalavijais, nei kokiais kitais ginklais. Galop, nusitvėrę dviese, trise ar daugiau
+    po mietą, rėmė juos kopiantiems į krūtinę ar nugarą, stūmė žemyn ir vertė juos nuo
+    sienų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

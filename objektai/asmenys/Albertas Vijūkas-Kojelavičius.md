@@ -100,6 +100,33 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-178663
 
+<a id="claim-t-193494"></a>
+- t-193494
+  teiginys: "1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos."
+  atnaujinta: "2026-09-20 16:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-176185
+
+<a id="claim-t-193495"></a>
+- t-193495
+  teiginys: "Kojelavičius dalyvavo ordino narių susirinkime Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio tiniu."
+  atnaujinta: "2026-09-20 16:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176185
+    - c-176186
+    - c-178662
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1644 m. Albertas Vijūkas-Kojelavičius buvo išsiųstas į Braunsbergą dėstyti teologijos.'
@@ -141,6 +168,10 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-193494
+    - t-193495
+
 - id: c-176186
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -160,8 +191,9 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-193495
 
 - id: c-178662
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -180,8 +212,9 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-193495
 
 - id: c-178663
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -203,5 +236,5 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

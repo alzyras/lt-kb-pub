@@ -70,5 +70,23 @@ Dusburgietis teigia, kad vad., ir čia ryški tendencija susieti savo tautos pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204639
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 48"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
+  citata_originali: |
+    Viduramžių tradicijai artima humanizmo epochos versija, radusi atgarsio Kazimiero
+    Jogailaičio pasiuntinio pas popiežių Jono Ostrorogo kalboje apie senovės lenkų bei lietuvių
+    kovas su Julijumi Cezariu, apie jo pralaimėjimus Lietuvos žemėje. Vad., ir čia ryški
+    tendencija susieti savo tautos praeitį su tikrais ar menamais senovės Romos istorijos
+    įvykiais (Ročka M. Lietuvių..., p. 70—71).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

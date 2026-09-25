@@ -204,7 +204,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-22204
@@ -226,7 +226,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -250,7 +250,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-007
 
@@ -274,7 +274,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-73219
@@ -297,6 +297,6 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-006

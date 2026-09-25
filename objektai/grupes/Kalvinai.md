@@ -97,7 +97,7 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-01581
@@ -117,5 +117,5 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -90,7 +90,7 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-01616
@@ -110,5 +110,5 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

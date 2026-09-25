@@ -85,7 +85,7 @@ Ištrauka iš Johano Foigto „Prūsijos istorijos“ priedo (t. Net ne dėl to 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-200906
@@ -102,5 +102,5 @@ Ištrauka iš Johano Foigto „Prūsijos istorijos“ priedo (t. Net ne dėl to 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

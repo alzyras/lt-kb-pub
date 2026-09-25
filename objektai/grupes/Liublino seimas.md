@@ -75,7 +75,7 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175873
@@ -105,5 +105,5 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

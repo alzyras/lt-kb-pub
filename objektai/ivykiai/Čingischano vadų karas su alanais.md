@@ -95,5 +95,30 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197419
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
+  citata_originali: |
+    Erbelotas* mini vieną
+    alanų karaliuką, viešpatavusį savo genties ordoje, kuri
+    klajojo kažkur į šiaurę nuo Derbento1. Čingischano va­
+    dai irgi kariavo 1223 metais toje pačioje ¡pusėje su ala­
+    nais, kuriems pusiau su poloviečiais priklausė Dagesta­
+    nas, nors jų kilmė ir kalba buvo visiškai skirtingos2. Ka­
+    talikų vienuoliai Karpinas ir Rusbergas, arba Rubrikvis,
+    keliavę XIII amžiuje per Rytus į didelę mongolų ordą,
+    kalba apie Kaukazo alanus, kuriuos taip pat vadina Jassi,
+    Asses, Aries; jie tuomet buvę krikščionys, gabūs kalviai
+    ir šaltkalviai, gaminę puikius ginklus ir saugoję savo ne­
+    priklausomybę3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

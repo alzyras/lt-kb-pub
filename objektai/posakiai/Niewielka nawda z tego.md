@@ -57,5 +57,5 @@ Tarp mūsų kaimiečių iki šiol gyvas pasakymas Niewielka nawda z tego, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

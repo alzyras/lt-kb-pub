@@ -1320,6 +1320,258 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   pagrindžia:
     - c-188238
 
+<a id="claim-t-209598"></a>
+- t-209598
+  teiginys: "Pasakotojas teigia, kad prūsai nebėgtų taip smarkiai, kaip rusai bėgo iš Lietuvos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192218
+
+<a id="claim-t-212148"></a>
+- t-212148
+  teiginys: "T. Narbutas teigia, kad 1096 metais prūsai buvo prie Goplo ežero ir stojo į mūšį su lenkais."
+  atnaujinta: "2026-09-19 01:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195173
+
+<a id="claim-t-213897"></a>
+- t-213897
+  teiginys: "T. Narbutas teigia, kad senovės prūsams baltumas ir išmintis buvo vienareikšmiai žodžiai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195178
+
+<a id="claim-t-214210"></a>
+- t-214210
+  teiginys: "Jotvingiai už savo protėvių tikėjimą verčiau žū davo; prūsai irgi žuvo kariaudami su kryžiuočiais dėl savo tautiškumo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197199
+
+<a id="claim-t-214513"></a>
+- t-214513
+  teiginys: "Hartknochas, rem damasis vertais pasitikėjimo prūsų kronikų rašytojais, ypač Kasparu Dankvertu, puikiai išmanantis prūsų isto riją, darbštus istorinės tiesos tyrinėtojas ir atradėjas, vi siškai įsitikinęs tvirtina, kad kimbrų gyventa žemėje, kur vėliau."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195568
+
+<a id="claim-t-216760"></a>
+- t-216760
+  teiginys: "Prūsijos kronikininkai aprašo tautinį senovės prūsų her bą, kurio kilmė siekia Vaidevučio laikus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201121
+
+<a id="claim-t-217064"></a>
+- t-217064
+  teiginys: "Narbutas teigia, kad prūsai buvo lietuvių kilties ir vienos genties broliai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199493
+
+<a id="claim-t-217466"></a>
+- t-217466
+  teiginys: "Narbutas teigia, kad ypač prūsai savo pilyse turėjo didžiulius varpus pavojui kaimuose skelbti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199187
+
+<a id="claim-t-218145"></a>
+- t-218145
+  teiginys: "Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū gį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš čionybę, religinė sostinė buvo perkelta į Lietuvą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200641
+
+<a id="claim-t-218605"></a>
+- t-218605
+  teiginys: "Hartknochas, mėgstantis viską pritempti prie germaniš kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję."
+  atnaujinta: "2026-09-19 01:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200911
+
+<a id="claim-t-218929"></a>
+- t-218929
+  teiginys: "Prūsuose jis buvo itin garbinamas: jam buvo ypatingu bū du pašvęstų sodybų, kur apsigyvendavo užkalbėtojai nuo gy vačių įkandimų ir kitų nutikimų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199430
+
+<a id="claim-t-218972"></a>
+- t-218972
+  teiginys: "Narbutas teigia, kad šią šventę prūsai užbaigdavo Šventosios (Szwenta) šven tykloje, dabartiniame Heiligenbeilyje; ten stovėjusį dievo Kurko, arba Žemininko, stabą sutrupindavo ir padirbdavo naują."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199180
+
+<a id="claim-t-218984"></a>
+- t-218984
+  teiginys: "Narbutas teigia, kad prūsai - didžiausi šio dievo garbintojai, kasmet, pasibai gus Didžiajai šventei, sudaužydavo tą stabą ir pasidarydavo naują."
+  atnaujinta: "2026-09-19 01:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200347
+
+<a id="claim-t-219040"></a>
+- t-219040
+  teiginys: "Narbutas sujun gia ne tik dvi lietuvių, bet ir kitų baltų - prūsų, latvių - mitolo gijos tyrinėjimo tradicijas, nes lietuviais pagal beįsivyraujantį ano meto požiūrį jis vadina visus baltus; prūsai ir latviai, anot jo, esą tik „atskiros lietuvių gentys“."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198161
+
+<a id="claim-t-219265"></a>
+- t-219265
+  teiginys: "Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo se ir iškeldavo pilių bokštuose, kai joms grėsdavo priešas."
+  atnaujinta: "2026-09-19 01:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198252
+
+<a id="claim-t-219545"></a>
+- t-219545
+  teiginys: "Žymiausi prūsai, pasak Narbuto, buvo laidojami ant kalnelių greta savo namų."
+  atnaujinta: "2026-09-19 01:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198289
+
+<a id="claim-t-219662"></a>
+- t-219662
+  teiginys: "Prūsai teikdavo pirmeny bę širmiems, kitos provincijos -juodžiams, dar kitos - kitokio plauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa vo pasirinktą plauką ir su juo ypatingus ženklus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199325
+
+<a id="claim-t-220394"></a>
+- t-220394
+  teiginys: "Dusburgietis teigia, kad prūsai nusiaubė Kulmo žemę, krikščionis išžudė arba išsivarė į nelaisvę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201974
+
+<a id="claim-t-221898"></a>
+- t-221898
+  teiginys: "1249 m. prūsai sulaužė taikos sutartį ir nužudė 54 brolius bei kitus pilies gynėjus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201663
+
+<a id="claim-t-223501"></a>
+- t-223501
+  teiginys: "Dusburgietis pasakoja, kad kryžiuočių, žuvusių kovoje su prūsais, sielos einančios į dangų ir pelnančios amžiną palaimą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203763
+
+<a id="claim-t-223947"></a>
+- t-223947
+  teiginys: "Dusburgietis pasakoja, kad Bansas, broliams uždraudus jam turėti dvi žmonas, beveik visus prūsus sukurstė atsimesti nuo krikščionybės."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205056
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1947,7 +2199,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171186
@@ -1968,7 +2220,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171187
@@ -1990,7 +2242,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-171189
@@ -2014,7 +2266,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171190
@@ -2034,7 +2286,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-171191
@@ -2061,7 +2313,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-171192
@@ -2080,7 +2332,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-171194
@@ -2104,7 +2356,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-171195
@@ -2125,7 +2377,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-171196
@@ -2145,7 +2397,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-171197
@@ -2163,7 +2415,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-171198
@@ -2182,7 +2434,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-171199
@@ -2209,7 +2461,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-171200
@@ -2232,7 +2484,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-171201
@@ -2256,7 +2508,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-171202
@@ -2281,7 +2533,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-171203
@@ -2305,7 +2557,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-171204
@@ -2326,7 +2578,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-171205
@@ -2349,7 +2601,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-171206
@@ -2372,7 +2624,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-171207
@@ -2394,7 +2646,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-171208
@@ -2414,7 +2666,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-171211
@@ -2439,7 +2691,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-171212
@@ -2459,7 +2711,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-171213
@@ -2478,7 +2730,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-171214
@@ -2500,7 +2752,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-173497
@@ -2533,7 +2785,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-173499
@@ -2556,7 +2808,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-173500
@@ -2583,7 +2835,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-173501
@@ -2617,7 +2869,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-175238
@@ -2648,7 +2900,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-175239
@@ -2672,7 +2924,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-175240
@@ -2702,7 +2954,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-175241
@@ -2730,7 +2982,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-175242
@@ -2754,7 +3006,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
 
 - id: c-175243
@@ -2775,7 +3027,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
 
 - id: c-175244
@@ -2798,7 +3050,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
 
 - id: c-176059
@@ -2816,11 +3068,12 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     laukinių siautėjimą.
   citata_rodoma: "Šitaip kryžiuo­\nčiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie\nkerštą. Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­\nčionybės ir sutartu laiku, prieš pat šv. Motiejaus die­\nną, visame krašte išgriovė bažnyčias, o kunigus, ku-\nnių valdovai nutarė sutelkti visas savo jėgas ir atremti\nlaukinių siautėjimą."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-176061
@@ -2852,7 +3105,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
     - t-074
 
@@ -2885,7 +3138,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
 
 - id: c-176063
@@ -2906,11 +3159,12 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
     vildamiesi, jog už naują išdavystę kryžiuočiai jiems
     atleis jų ankstesnį nusikaltimą.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
     - t-042
 
@@ -2936,7 +3190,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
 
 - id: c-176238
@@ -2956,7 +3210,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
 
 - id: c-176787
@@ -2985,7 +3239,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-044
 
 - id: c-176916
@@ -3008,7 +3262,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
 
 - id: c-176917
@@ -3031,7 +3285,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-046
 
 - id: c-176918
@@ -3052,7 +3306,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-047
 
 - id: c-176919
@@ -3075,7 +3329,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-048
 
 - id: c-176920
@@ -3096,7 +3350,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-049
 
 - id: c-176921
@@ -3117,7 +3371,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-050
 
 - id: c-176922
@@ -3143,7 +3397,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-051
 
 - id: c-176923
@@ -3166,7 +3420,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-052
 
 - id: c-176924
@@ -3188,7 +3442,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
 
 - id: c-176925
@@ -3215,7 +3469,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-054
 
 - id: c-176926
@@ -3238,7 +3492,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
     - t-060
 
@@ -3265,7 +3519,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-076
 
 - id: c-176928
@@ -3285,7 +3539,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-057
 
 - id: c-176929
@@ -3308,7 +3562,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-058
 
 - id: c-176930
@@ -3334,7 +3588,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-056
     - t-059
 
@@ -3357,7 +3611,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-079
 
 - id: c-176932
@@ -3376,7 +3630,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-061
 
 - id: c-176933
@@ -3395,7 +3649,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-062
 
 - id: c-176934
@@ -3417,7 +3671,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-063
 
 - id: c-176935
@@ -3441,7 +3695,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-064
 
 - id: c-176936
@@ -3460,7 +3714,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-065
 
 - id: c-176937
@@ -3479,7 +3733,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-066
 
 - id: c-176975
@@ -3502,7 +3756,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-067
 
 - id: c-176976
@@ -3525,7 +3779,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-068
 
 - id: c-176977
@@ -3546,7 +3800,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-069
 
 - id: c-176978
@@ -3567,7 +3821,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-070
 
 - id: c-176979
@@ -3591,7 +3845,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-071
 
 - id: c-176980
@@ -3613,7 +3867,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-072
 
 - id: c-178537
@@ -3634,7 +3888,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-073
 
 - id: c-178539
@@ -3665,7 +3919,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-075
 
 - id: c-178978
@@ -3689,7 +3943,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-050
 
 - id: c-178979
@@ -3711,7 +3965,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-077
 
 - id: c-178980
@@ -3735,7 +3989,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-078
 
 - id: c-184278
@@ -3760,7 +4014,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-080
 
 - id: c-187778
@@ -3786,7 +4040,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-081
 
 - id: c-188087
@@ -3804,7 +4058,7 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-082
 
 - id: c-188238
@@ -3825,8 +4079,1188 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-083
+
+- id: c-192218
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 38"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 38."
+  citata_originali: |
+    Gal rusai ir
+    prūsai mano kuomet nors čionai sugryžti, kad
+    išbandyti da sykį savo jėgų.
+    Neduok Dieve,
+    kad tas atsitiktų! Iš mūsų tėvynės nebeliktų
+    nieko.
+    Prūsai nebėgtų taip smarkiai, kaip
+    kad bėgo rusai iš Lietuvos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209598
+
+- id: c-194598
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
+  citata_originali: |
+    Hartknochas2 pa­
+    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
+    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
+    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
+    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
+    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
+    atvykusius į prūsų kraštus. Po jo keli kronikininkai teigė
+    tą patį, visada remdamiesi vietiniais stebėjimais, kurie
+    visada jiems patvirtindavo giminingumą su heleniškomis
+    kartomis. Kiti, paremdami savo prielaidas kalbos pana­
+    šumu, su didžiausiu pasitikėjimu įsikibo padavimų, kal­
+    bančių apie tokią kilmę. Kilęs iš Prūsijos Vilichijus, ko­
+    mentavęs Tacitą, labiausiai tikina, jog lietuviai yra kilę
+    iš graikų, nes galėjo su jais susikalbėti jų kalba4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194883
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
+  citata_originali: |
+    Syvai, kurie kažkada sunkėsi iš ypa­
+    tingos rūšies palmės, pradingusios senovės pasaulio re­
+    voliucijose arba augusios žuvusioje Fajetono planetoje ir
+    su jos skeveldromis nukritusios žemėn, ypač dažnai ran­
+    dami prūsų Sembos pakrantėje. Ten, jūros pakrantėje,
+    smėlėtose kalvose, kurias dengia lengvas smėlio su gele­
+    žies dalelėmis sluoksnis, o po juo aptinkama juodžemio,
+    susidariusio augalams irstant, randama milžiniškų me­
+    džių, kokių, pasak vieno gamtos tyrinėtojo, dabartinis pa­
+    saulis niekada nėra regėjęs; jų būta dažnai 80 pėdų ilgio,
+    be šerdies, šakų, metinių augalo rievių, prisisunkusių sie­
+    ros rūgšties, bet nesuakmenėjusių; prie jų nei buvo ap­
+    tinkama panašių į migdolus riešutinių vaisių. Tie medžiai,
+    neteisingai laikomi medį mėgdžiojančiomis iškasenomis,
+    yra gintaro sandėliai. Jūroje išilgai prūsų pakrančių slypi
+    ištisos jų girios.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:01"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195173
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 471"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 471."
+  citata_originali: |
+    Žinoma, jog 1096 metais prūsai buvo tuose kraštuose ir stojo į
+    mūšį su lenkais prie Goplo ežero1. Kaip tik tuomet jie galėjo pa­
+    mesti savo deivės stabą, kuris išgulėjo žemėje daugiau nei sep­
+    tynis amžius. Šiandien tai lenkų
+    armijos
+    generolo Skažinskio
+    (Skaržynski) nuosavybė. Statulėlės išmatavimai nežinomi.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212148
+
+- id: c-195178
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 496"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 496."
+  citata_originali: |
+    Baltumas ir išmintis senovės prūsams buvo vienareikšmiai
+    žodžiai14®.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213897
+
+- id: c-195568
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
+  citata_originali: |
+    Hartknochas**, rem­
+    damasis vertais pasitikėjimo prūsų kronikų rašytojais,
+    ypač Kasparu Dankvertu, puikiai išmanantis prūsų isto­
+    riją, darbštus istorinės tiesos tyrinėtojas ir atradėjas, vi­
+    siškai įsitikinęs tvirtina, kad kimbrų gyventa žemėje, kur
+    vėliau įsikūrė prūsai
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214513
+
+- id: c-196358
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
+  citata_originali: |
+    Kitą dieną priešams buvo atsiųsta pagalba —
+    prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš
+    stovyklos visiškai apsiginklavus: skydai spindėjo kaip
+    žvaigždės, o šalmai — kaip tekančios saulės spinduliai,
+    ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
+    liai su lankais, paruoštais smūgiui. Pats Danielius, ant
+    žirgo jodamas, tvarkė kariuomenės gretas. Po to jis pa­
+    siuntė pasiuntinius, kad prūsų ir jotvingių paklaustų: „Ar
+    sugebėtų virstantį medį suvarpyti strėlėmis, t. y. ar galėtų
+    jie kariauti su šia kariuomene?".
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196381
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 262."
+  citata_originali: |
+    Atkreipę į tai dėmesį, paliekame savo
+    skaitytojams galimybę daryti išvadas tuomet, kai bus ži­
+    nomas šio veikalo tęsinys1.
+    255
+    Tikrą Prūsiją, kuri ligi XIII amžiaus buvo visiškai
+    savarankiška, sudarė dvylika provincijų, kuriose gyveno
+    dvylika genčių, būtent: Kulmas, Pamedė, Pagudė, Var­
+    mija, Galinda, Natangija, Barta, Sūduva, Samlandija,
+    arba Sambija, Nadruva, Salavija ir Sudargija. Pakalbėsi­
+    me apie kiekvieną atskirai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197199
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 199"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 199."
+  citata_originali: |
+    Jotvingiai už savo protėvių tikėjimą verčiau žū­
+    davo; prūsai irgi žuvo kariaudami su kryžiuočiais dėl savo
+    tautiškumo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214210
+
+- id: c-197742
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 286"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 286."
+  citata_originali: |
+    Todėl vyriausiųjų žy­
+    nių sąrašo autentiškumas nekelia įtarimo. Paskutinis Prūsijos
+    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
+    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
+    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
+    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti. Paga­
+    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
+    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
+    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
+    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
+    ir garantuotų sau politinę ramybę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197937
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
+  citata_originali: |
+    Be to, mano pa­
+    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
+    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
+    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
+    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
+    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
+    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
+    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
+    logija yra raktas seniausiajai tautų istorijai pažinti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197965
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
+  citata_originali: |
+    Paga­
+    liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami
+    kaip visos šeimos kapai; pradedant juos pilti, būdavo galvoja­
+    ma apie vietas šeimos nariams, mirsiantiems vėliau6.
+    Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
+    panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
+    nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
+    kitame šio veikalo tome.
+    Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
+    prie didelių akmenų, esančių laukuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198161
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 19."
+  citata_originali: |
+    T. Narbutas sujun­
+    gia ne tik dvi lietuvių, bet ir kitų baltų - prūsų, latvių - mitolo­
+    gijos tyrinėjimo tradicijas, nes lietuviais pagal beįsivyraujantį
+    ano meto požiūrį jis vadina visus baltus; prūsai ir latviai, anot
+    jo, esą tik „atskiros lietuvių gentys“, „atskiros lietuvių genties
+    tautos“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219040
+
+- id: c-198252
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
+  citata_originali: |
+    Taip anot pono Foigto tyrimų.
+    Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­
+    se ir iškeldavo pilių bokštuose, kai joms grėsdavo priešas. Is­
+    torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
+    ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219265
+
+- id: c-198289
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
+  citata_originali: |
+    Prūsų pilkapiai buvo įvairūs, nelygu kokio luomo miręs
+    asmuo. Žymiausius laidojo ant kalnelių, greta jų namų. Net
+    pati jų forma rodo tam tikrą jų ryšį su mirusiųjų padėtimi ir
+    aukštomis pareigomis. Aplink visą pilkapį ratu eina didokų
+    akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
+    tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­
+    nų eilės, nukreiptos nuo viršūnės tiesiai į apačią.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219545
+
+- id: c-198680
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 239."
+  citata_originali: |
+    LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
+    medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,
+    tai yra XVI amžiaus pabaigoje, Nemuno žemupyje, netoli Rus­
+    nės, Sakininkų (Szakaniki) kaime, dabar bene Šakūnai, augu­
+    si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
+    meldžių papratimu slapčia ateidavo prie jos m elstis18.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198725
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
+  citata_originali: |
+    Todėl plačios galimybės maitintis visuomenės lengvatikiš­
+    kumu leido laikyti daug žynių.
+    Turime pakankamai kronikose išlikusių raštiškų paminė­
+    jimų, kuriuos kruopščiai surinko Hartknochas savo Prūsijos
+    istorijoje; ypač reikšmingos yra ištraukos iš popiežiaus legato,
+    Leodijos arkidiakono Jokūbo privilegijos, duotos prūsams 1249
+    metais. Kitką pasisėmėme iš rankraščių ir padavimų, kuriuos
+    pasitaikė surinkti, visuomet laikydamiesi griežto kritiškumo,
+    su kuriuo išlukštenama tiesa iš per amžius susikaupusios pai­
+    niavos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199110
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  citata_originali: |
+    Net Vokietijoje,
+    kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
+    Russ, vėliau imtą vadinti Wessel. Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199122
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
+  citata_originali: |
+    Krikščionims iš smalsumo buvo
+    draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
+    tikriausiai ne4.
+    Hartknochas pagal senus duomenis nurodo garsų šventąjį
+    mišką, kurio vietą senovės Prūsijos žemėlapiuose pažymi prie
+    Žemaitijos sienos, santakoje dviejų upių, iš kurių viena įteka į
+    Rusnės įlanką. Jis turėjo būti prie Tenenio upės, rodos, toje
+    vietoje, kur yra Prūsijos Romučių (Romuten) kaimas, o Že­
+    maitijoje, tik už sienos - Romuniškiai (Romuniszki).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199180
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 335."
+  citata_originali: |
+    Šią šventę prūsai užbaigdavo Šventosios (Szwenta) šven­
+    tykloje, dabartiniame Heiligenbeilyje; ten stovėjusį dievo Kur-
+    ko, arba Žemininko, stabą sutrupindavo ir padirbdavo naują.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218972
+
+- id: c-199187
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
+  citata_originali: |
+    J. F. R. kro­
+    nikoje yra duomenų, kad lietuviai, gyvenantys prie Baltijos jū­
+    ros, ypač prūsai savo pilyse turėdavo didžiulius varpus pavojui
+    gretimuose kaimuose skelbti; tuos varpus vadino gumbais
+    (Gumbi); šios geležys buvo globojamos pavojaus dievo, šlovi­
+    namo su ypatinga pagarba.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217466
+
+- id: c-199325
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 318."
+  citata_originali: |
+    Prūsai teikdavo pirmeny­
+    bę širmiems, kitos provincijos -juodžiams, dar kitos - kitokio
+    plauko, tad kiekviena lietuvių genties tauta turėjo atskirą sa­
+    vo pasirinktą plauką ir su juo ypatingus ženklus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219662
+
+- id: c-199430
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 156"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 156."
+  citata_originali: |
+    Prūsuose jis buvo itin garbinamas: jam buvo ypatingu bū­
+    du pašvęstų sodybų, kur apsigyvendavo užkalbėtojai nuo gy­
+    vačių įkandimų ir kitų nutikimų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218929
+
+- id: c-199493
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
+  citata_originali: |
+    O kas gi buvo
+    anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
+    tuva kilties ir vienos genties broliai?
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217064
+
+- id: c-199576
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
+  citata_originali: |
+    4. Prūsuose, neminint kitų, yra Šventainės (Szwentejne),
+    upė, įtekanti į Peise (Pissa) ties Baičių (Bajcze) kaimu; seniau
+    ji vadinosi Galbė (Golbe), o kaimas -  Narpissa. Mitologinė
+    šios upės ypatybė yra ta, kad teikiamos malonės ženklan ji sa­
+    vo gerbėjams užtemdydavo vieną akį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200134
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 413"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 413."
+  citata_originali: |
+    Vos šimtas metų buvo praėję nuo kryžiuočių atsi­
+    kraustymo ir vos truputį daugiau nei keturiasdešimt metų nuo
+    visiško Prūsijos užkariavimo, kai Dusburgietis rašė tą prūsų
+    tautos papročių ir įpročių apybraižą ir kai 1326 metais įteikė
+    savo kroniką didžiajam magistrui. Daugelis iš tų, kurių tėvai
+    dar buvo stabmeldžiai ir kurių žodiniai pasakojimai apie se­
+    novinę krašto būkle, apie žygius, papročius ir įpročius tebegy­
+    vavo grynąja to žodžio prasme, buvo gyvi* Dusburgiečio lai­
+    kais, todėl jis nenuginčijamai galėjo gauti tikriausių žinių apie
+    viską, ką norėjo papasakoti apie stabmeldystės laikus. Todėl
+    jis rašo: Describam quo modo fratres intraverunt in terram Prus-
+    chiae, - de bellis et aliis, quae gesta sunt in dicta terra, quorum
+    pauca quae vidi, alia quae audivi ab his, qui viderunt et interfu­
+    erunt, caetera quae relatione veridica intellexi (Aprašysiu, ko­
+    kiu būdu broliai įžengė į Prūsijos žemę, karus ir kitką, kas įvy­
+    ko šioje žemėje, apie tuos, kuriuos pats esu matęs, pakalbėsiu
+    ir apie tuos, apie kuriuos pasakojo juos matę ir juose dalyvavę
+    žmonės, pagaliau apie tuos, apie kuriuos sužinojau iš patiki­
+    mų šaltinių).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200347
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 257."
+  citata_originali: |
+    Raidės
+    tos pačios“ (žiūrėk ten pat, piešinį 51) *.
+    Prūsai - didžiausi šio dievo garbintojai, kasmet, pasibai­
+    gus Didžiajai šventei, sudaužydavo tą stabą ir pasidarydavo
+    naują. Skaityk straipsnį „Šventės“.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218984
+
+- id: c-200381
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 422"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 422."
+  citata_originali: |
+    Iš tos seno­
+    viškos būties jau daug buvo sunaikinta ir išstumta, kai atsira­
+    do sutartis tarp prūsų tautos ir kryžiuočių. Kai tik ordinas už­
+    kariaudavo kurią sritį, kartu joje nelikdavo nei krivių, nei ri­
+    kių.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200641
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
+  citata_originali: |
+    Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū­
+    gį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš­
+    čionybę, religinė sostinė buvo perkelta į Lietuvą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218145
+
+- id: c-200911
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 322."
+  citata_originali: |
+    Hartknochas, mėgstantis viską pritempti prie germaniš­
+    kų ženklų, išvadą apie tokį pat laiko skaičiavimą daro iš spė­
+    liojimų, nes senovės prūsai daugelyje dalykų mėgdžioję go­
+    tus1 2. Bet Dusburgietis, artimiausias lietuvių genties tautų se­
+    novės liudytojas, sako aiškiai, kad senovės prūsų laiko skaičia­
+    vimas buvo visiškai toks pat kaip kryžiuočių; tarpusavio susi­
+    tarimuose nustatytą dienų skaičių pažymėdavo įpjovomis ar­
+    ba mazgeliais3 4. Tą patį patvirtina liaudies padavimai ir archy­
+    vuose išlikę duomenys iš XIII amžiaus.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:02"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218605
+
+- id: c-200932
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 401."
+  citata_originali: |
+    Be
+    to, pas Henenbergerį yra užrašas senovės lietuvių kalba (apie
+    naują šio užrašo aiškinimą, padarytą pono Tado Volianskio, bus
+    kalbama šio veikalo trečiame tome). Tinkamai perskaičius, pa­
+    aiškėja, kad tai buvo Lietuvos kunigaikščio Utenio, kuris padėjo
+    prūsams kovoti su kryžiuočiais ir kuris buvo pramintas Zupanit,
+    vėliava. Čia gi pateikėme iliustraciją, padarytą pagal piešinį, gautą
+    iš Zaluskių bibliotekos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201121
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
+  citata_originali: |
+    Prūsijos kronikininkai aprašo tautinį senovės prūsų her­
+    bą, kurio kilmė siekia Vaidevučio laikus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216760
+
+- id: c-201663
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 102"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  citata_originali: |
+    Kai visų kitų nuomonė paėmė viršų ir kai davė
+    įkaitus, apie kuriuos jau esame kalbėję, prūsai, sulaužę taikos sutartį, užpuolė ir nužudė
+    54 brolius bei visus kitus, ten buvusius, 1249 viešpaties metais308 lapkričio 29 d
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221898
+
+- id: c-201974
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  citata_originali: |
+    Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
+    po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
+    arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
+    išsigelbėjo pabėgdamas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220394
+
+- id: c-202377
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
+  citata_originali: |
+    150 (145). Apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį
+    Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
+    Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise
+    Kristus, penkiskart sužeistas, ir krito kovoje, o šito jis ne kartą buvo su ašaromis
+    viešpaties prašęs.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202832
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 117"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 117."
+  citata_originali: |
+    Apie tai, kaip buvo palikta Heilsbergo pilis
+    Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis]
+    bei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą. Apsiaustieji iš bado suvalgė
+    250 arklių ir jų odas. Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo
+    miestą, kur 12 prūsų įkaitų, kuriuos su savimi buvo atsivedę, išlupo akis, o juos sugrąžino
+    jų tėvams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203065
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 140"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 140."
+  citata_originali: |
+    Galop prūsai, iš visų pusių apsiautę pilį, pradėjo smarkiai ją pulti.
+    Broliai priešindamiesi daugybę jų nukovė arba mirtinai sužeidė strėlėmis. Tada perpykę
+    prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
+    vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
+    brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203234
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 71"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71."
+  citata_originali: |
+    Apie vieną stebuklą
+
+      Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris
+    nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo
+    prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo
+    tvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius. Tris
+    kartus jis padarė šitokį bandymą ir kiekvieną kartą susilaukė tos pačios baigties. Ketvirtą
+    kartą fogtas nupirko jam ketvirtą baltą žirgą ir pareiškė, kad tiek sykių šitai kartosiąs,
+    iki tą prūsą atpratinsiąs nuo prietarų. Kadangi ketvirtojo arklio velnias nepasmaugė kaip
+    pirmųjų, Dargis įtikėjo, nuolankiai išpažino savo klaidą ir pasidarė uolus tikėjimo bei
+    tikinčiųjų šalininkas, karštas dievo bei šventųjų gerbėjas, sutvirtinęs tikėjimu daugeliui
+    klystančiųjų naujakrikščių širdis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203251
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
+  citata_originali: |
+    3. Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
+
+       Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai
+    dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir
+    įbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,
+    reikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų
+    patenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,
+    šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
+    netikėlių pasiuntiniams jų drabužius bei žirgus165.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203473
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
+  citata_originali: |
+    120 (115). Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
+    Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,
+    kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo
+    šventenybes, kaip reikalauja jų apeigos [secundum ritum ipsorum]. Į šią kovą broliai
+    stojo su 150 vyrų, o tada ir užvirė didelis mūšis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203500
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
+  citata_originali: |
+    103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
+    Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas
+    priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė
+    pastatyti tiltą per Priegliaus upę, o abiejuose tilto galuose įrengti tvirtus kuorus,
+    manydami galėsią šitaip trukdyti broliams plukdyti į Karaliaučiaus pilį visokius reikmenis.
+    Kai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei
+    laukti negailestingos bado mirties, todėl apsiginklavo ir susėdo į laivus, o kai priplaukė
+    netoli tilto, nuleido inkarus, tačiau pakilo smarkus vėjas ir nubloškė juos prie pat tilto,
+    Žinoma, šitai įvyko dėl dievo apvaizdos; kopdami ant tilto, jie užtiko daugybę ginkluotų
+    vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
+    kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
+    matęs vedant nedidelį karių būrį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203603
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  citata_originali: |
+    Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
+    Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
+    Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
+    pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
+    nenorėdami grįžti tuščiomis rankomis,   užpuolė aplinkinius kaimus244, degindami juos
+    ir piešdami. Sitai pamatę, prūsai juos užpuolė ir išžudė visus brolius bei ginklanešius,
+    išskyrus tuos, kurie buvo palikti saugoti laivų. Matydami saviškių žūtį, šie greitai pasuko
+    atgal ir pranešė magistrui, kas atsitiko.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203763
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  citata_originali: |
+    Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
+    einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė
+    Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223501
+
+- id: c-203909
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
+  citata_originali: |
+    Juos persekiodami,
+    krikščionys daugybę išžudė, o maršalas, išskleidęs krikščionių kariuomenę, priėjo su 24
+    ginklanešiais prie vienos kalvos, kur išvydo 4 tūkstančius netikėlių, pasiruošusių stoti į
+    kovą. Kai prūsai pastebėjo tiek maža žmonių, [susibūrusių] prie brolių vėliavos, atgavo
+    jėgas bei drąsą, staiga juos užpuolė, nužudė maršalą, visus brolius ir 400 vyrų, išskyrus
+    10, kuriems pavyko pasprukti. Galop atskubėjo Torunės broliai su dviem šimtais vyrų į
+    maršalo skirtą vietą, jie atvyko tą valandą, kurią buvo numatęs maršalas, tačiau pabėgo,
+    pamatę išžudytus brolius. Prūsai besivydami daugybę išžudė, o kiti pabėgo280. Taigi
+    surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų į nelaisvę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203992
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
+  citata_originali: |
+    96 (91). Apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais
+    Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o
+    palaidotas Kulmenzės bažnyčioje. Tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas,
+    įgudęs kariauti ir Kristui atsidavęs vyras.
+    97 (92). Apie tai, kaip buvo palikta Rezlio pilis
+    Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino
+    pilis, labai išsigando ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų
+    keliais pasitraukė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204351
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
+  citata_originali: |
+    Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
+    už piktus sumanymus bei klastingas užmačias, niekais vertė viską, ko šie griebdavosi.
+    Matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai,
+    pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius
+    maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų. Susirūpinę šiuo reikalu,
+    broliai bei komtūras slapta pasiuntė vieną vyrą, kuris, kartą pragręžęs šiuos laivus grąžtu,
+    taip dažnai šitai kartojo, kad priešai, nukamuoti didelių įstangų ir išlaidų, turėjo liautis
+    puldinėję brolių laivus, kurių nemaža jau buvo sunaikinę, o įgulas paėmę nelaisvėn ir
+    išžudę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204522
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    Apie prūsų stabmeldystę, apeigas ir papročius
+
+      Prūsai nepažino dievo. Būdami paprasti žmonės, nestengė jo protu suvokti, o kadangi
+    neturėjo rašto,  tai nė iš rašto jo negalėjo pažinti. Jie be galo stebėdavosi, sužinoję,
+    kad žmogus gali raštu perduoti savo norą kitam, čia nesančiam. Kadangi jie nepažino
+    dievo, tai, suprantama, klaidingai dievino visokiausius tvarinius, būtent: saulę, mėnulį ir
+    žvaigždes, griaustinį, sparnuočius ir keturkojus, netgi rupūžes.
+       Jie turėjo šventųjų giraičių, laukų ir vandenų, kur niekas nedrįso nei medžio kirsti, nei
+    žemės dirbti, nei žuvauti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204610
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
+  citata_originali: |
+    Dėl šių dviejų žūties
+    prūsai labai džiūgavo, o broliai sielvartavo. Tačiau broliai sugalvojo paversti jų džiugesį
+    ašaromis bei liūdesiu ir prieš pilies vartus pakorė 30 prūsų įkaitų, kuriuos buvo paėmę
+    į nelaisvę. Dėl to prūsai, matydami pakartus savo sūnus ir giminaičius, patys prapliupo
+    didžiu raudojimu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204877
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
+  citata_originali: |
+    Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui
+    namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką
+    išgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki nusigeria
+    visi: svečias su namiškiais, žmona su vyru, sūnus su dukterimi. Pagal seną paprotį, kurį
+    prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną
+    laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
+    tikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama
+    elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
+    tinkami. Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
+    tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205056
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 159"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159."
+  citata_originali: |
+    Šis Bansas
+    norėjo viešai turėti dvi žmonas478; kadangi broliai jam šitai uždraudė, jis įniršęs beveik
+    visus prūsus sukurstė atsimesti nuo krikščionybės. Dėl to, ištyrę visus jo nusižengimus,
+    jį pelnytai pasmerkė mirti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223947
+
+- id: c-205555
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
+  citata_originali: |
+    Apie tai, kaip buvo palikta Rezlio pilis
+    Rezlio pilies broliai, išgirdę, kad prūsai apsiautė Karaliaučiaus, Kroicburgo ir Bartenšteino
+    pilis, labai išsigando ir, ilgai taręsi bei dvejoję, pavertė pelenais pilį ir slaptais dykrų
+    keliais pasitraukė.
+    98 (93). Apie laimėtą mūšį, kuriame Julicho ir Markos grafai nukovė tris tūkstančius
+    sembų
+    Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
+    ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
+    nes būgštavo, kad dievas ant jų labai užsirūstinęs. Po dvejus metus užtrukusių smarkių
+    kovų jų jėgos ėjo silpnyn, o tikėjimo priešai stiprėjo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205638
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  citata_originali: |
+    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
+    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
+    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
+    sritį valdė prūsai, turėję ten savo pilių (III,7).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205668
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  citata_originali: |
+    Po pergalės jie
+    aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį
+    atiduodami minėtajam kriviui, kuris tą dalį degino. Šiuo metu lietuviai ir kiti tose žemėse
+    gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet,
+    prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali
+    pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
+    papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205814
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
+  citata_originali: |
+    Mat
+    ten užtiko sutelktą didžiulę prūsų kariuomenę, ginkluotą ir pasirengusią kovai. Narsiai ją
+    užpuolę, privertė bėgti. Tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau
+    įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam
+    nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius. Vienur švytruojąs
+    Kristaus kariaunos kalavijas ryte rijo netikėlių kūnus, kitur ietis, ne veltui plušėdama,
+    sėjo aplinkui žaizdas, nes prūsai niekur negalėjo pasprukti nuo persekiotojų; šitaip buvo
+    suduotas skaudus smūgis prūsų tautai, nes tą dieną krito daugiau nei penki tūkstančiai
+    nukautųjų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206236
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
+  citata_originali: |
+    Kunigaikštis
+    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
+    padedami, ateityje pajungsią savo valdžiai. Kai apie tai sužinojo prūsai, jie, smarkiai
+    suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
+    ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170. To maža,
+    ilgainiui jie taip suįžūlėjo, kad nuolatos penki ar keturi prūsai kiek tinkami prie pilies
+    plėšikavo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206282
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
+  citata_originali: |
+    Apie žemutinių Prūsijos žemės dalių nusiaubimą
+
+      Kai šitai buvo padaryta, Sventopelkas, nepaisydamas dievo baimės, viešai sumanė
+    atskleisti  iki  šiol slėptą tūžmingą  įgeidį  persekioti, anksčiau padarytas nedorybes
+    papildydamas naujomis. Jis mat įsakė, kad naujakrikščiai, kurie visuomet lengvai sugrįžta
+    prie pirmykščių klaidų, vieną dieną visose Prūsijos žemėse patrauktų  į karą ir sukiltų
+    prieš brolius paniekinę ir atmetę tikėjimą. Štai todėl prūsai271, susirinkę visi kaip vienas,
+    išsirinko tą patį Sventopelką savo vyresniuoju bei vadu ir, susitelkę petys į petį, užplūdo
+    šio krašto žemutines apygardas, negailestingai išžudė visus senesnius krikščionis, kurie
+    buvo atvykę iš Vokietijos talkinti Prūsijos žemei, o moteris bei kūdikius išsivarė į amžiną
+    vergovę. Be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo
+    reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų
+    išgriovė ir išžudė brolius bei krikščionis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]

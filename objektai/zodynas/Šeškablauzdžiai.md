@@ -77,3 +77,17 @@ Terminas vartojamas vestuvių juokų ir kraičio nešimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-195629"></a>
+- t-001
+  teiginys: "Žodis vartojamas ir kaip šūksnis kraičio nešimo metu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178031

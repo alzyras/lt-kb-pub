@@ -69,6 +69,30 @@ Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sosti
   pagrindžia:
     - c-173829
 
+<a id="claim-t-212697"></a>
+- t-212697
+  teiginys: "Per šią sumaištį greitai kei tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas neilgai valdė; pagaliau Ricimero mirtis davė progą sam dytai kariuomenei vadovavusiam Orestui į imperatoriaus sostą pasodinti savo dar jauną sūnų Romulą Momilijų Augustulą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196005
+
+<a id="claim-t-215423"></a>
+- t-215423
+  teiginys: "Orestas vadovavo mišriai germanų kariuomenei."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195816
+
 ## Citatos
 
 - id: c-173829
@@ -90,6 +114,68 @@ Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sosti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-195065
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
+  citata_originali: |
+    Orestas, nedrįsęs atvirai pasiprie­
+    šinti mūšio lauke, užsidarė Pavijoje, kuri tuomet buvo
+    laikoma Italijos sostine. Odoakro kariuomenės apgultas
+    miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
+    tas; Orestas žuvo. Be pasipriešinimo užėmus Raveną,
+    imperatorius Augustulas pateko nelaisvėn ir liko gyvas
+    tik Odoakro didžiadvasiškumo dėka; jis atėmė tik impe­
+    ratoriaus ženklus ir purpurus.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195816
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 312"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
+  citata_originali: |
+    Su jais atvyko Orestas ir Eduka; pirmasis vadovavo miš­
+    riai germanų kariuomenei, antrasis atėjo iš Noriko su
+    herulais ir jų sąjungininkais, t. y. rugiais ir turcilingais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215423
+
+- id: c-196005
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
+  citata_originali: |
+    Imperatoriaus
+    sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­
+    darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
+    galbos iš Konstantinopolio. Per šią sumaištį greitai kei­
+    tėsi imperatoriai: Antemijus, Olibrijus, Gliceras, Nepas
+    neilgai valdė; pagaliau Ricimero mirtis davė progą sam­
+    dytai kariuomenei vadovavusiam Orestui į imperatoriaus
+    sostą pasodinti savo dar jauną sūnų Romulą Momilijų
+    Augustulą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212697

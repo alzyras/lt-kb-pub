@@ -81,7 +81,7 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-45008
@@ -98,5 +98,5 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

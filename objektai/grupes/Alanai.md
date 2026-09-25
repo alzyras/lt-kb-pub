@@ -178,6 +178,78 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   pagrindžia:
     - c-176039
 
+<a id="claim-t-212157"></a>
+- t-212157
+  teiginys: "476 metų pradžioje alanai paskelbė Odoakrą savo vadu ir karaliumi."
+  atnaujinta: "2026-09-19 15:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-212317"></a>
+- t-212317
+  teiginys: "Remdamiesi tuo, ką sakėme anksčiau (.48), nega lime prieštarauti, kad alanai galėjo klajoti netoli Prūsi jos; kalbame tik apie masagelus, kuriuos seniau patys pastebėdavome aukščiau Padonės gelonų ir budinu krašto plytinčių dykrų šiaurėje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196247
+
+<a id="claim-t-213496"></a>
+- t-213496
+  teiginys: "Alanai buvo galinga, turtinga arklių tauta, gyvenusi tarp Dono ir Dnepro."
+  atnaujinta: "2026-09-19 15:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-195012
+
+<a id="claim-t-213694"></a>
+- t-213694
+  teiginys: "Tai neginčijamai įrodo, jog alanai beveik šimtą metų gyvenę tarp Mazovijos ir tikrosios Lie tuvos, kurios gamtines sienas sudarė Pelesos, Katros ir Jezioro upės."
+  atnaujinta: "2026-09-19 15:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195911
+
+<a id="claim-t-218599"></a>
+- t-218599
+  teiginys: "Narbutas teigia, kad alanai burdavo iš tam tikru būdu sumaišytų karklo šakų."
+  atnaujinta: "2026-09-19 15:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199353
+
+<a id="claim-t-219058"></a>
+- t-219058
+  teiginys: "Alanai, kurie ne sykį kontaktavo su lietuviais, garbino ka lavijo pavidalo Aresą, lenkėsi jam su ypatingomis apeigomis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-201339
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kildino ją iš žodžio, reiškiančio mūšį.'
@@ -237,7 +309,7 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172353
@@ -266,7 +338,7 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175158
@@ -294,7 +366,7 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175159
@@ -327,7 +399,7 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175160
@@ -351,7 +423,7 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-175161
@@ -379,7 +451,7 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-176039
@@ -406,5 +478,155 @@ Narbutas alanų ir graikų žodžio „arės“ reikšmę siejo su Marsu ir kild
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-195012
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 62"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 62."
+  citata_originali: |
+    Praėjus pusantro amžiaus, jie pasitraukė į Dono
+    aukštupį ir pavergė arba išstūmė ten gyvenusias gentis:
+    galonus, antropofagus, melanchlenus, neurus ir kt.2 Maž­
+    daug tais pačiais metais Mozė iš Chore.no** aptinka
+    alanus Kaukazo kalnų apylinkėse. Dėl tokio alanų galybės
+    padidėjimo; ir jų išplitimo pradėta plytinčią į šiaurę nuo
+    sarmatą klajoklių vietovių Europos dalį vadinti Alanija.
+    Dionyzas iš Charakso mini alanus I krikščioniškosios
+    eros amžiuje, vadindamas juos galinga tauta, turtinga
+    arklių ir gyvenančia į šiaurę nuo šiandienio Kimburno,
+    Dono ir Dnepro tarpupyje;
+    jų kaimynai
+    buvo jiems
+    giminingi roksolanai, arba ai anai iš Vol gos žemupio.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213496
+
+- id: c-195377
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
+  citata_originali: |
+    Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
+    gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
+    yra nepaprastai šaltas aštuntasis ratas, — išsiuntė keliau­
+    tojus tai patikrinti. Šie perėjo plačius Tartarijos kraštus,
+    vėliau didelę slavų Roksolanijos valstybę ir per venedų
+    bei alanų žemes pateko į Livoniją. Iš to krašto, dar gana
+    toli nukeliavę vandens keliu, atsidūrė plačioje ir tuščioje
+    žemėje, kuri neturėjo jokio nuolatinio pavadinimo, nes ją
+    vadino tai Sargatia arba Sargaga, tai Getida arba Vatinla
+    ir dar kitaip.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195911
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 63"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 63."
+  citata_originali: |
+    48
+    Pagaliau dar vienas alanų būrys persikėlė į šiaurės
+    vakarus, j Vandaliją; kai kurie, kaip teigia Arnianas
+    Marcelinas2, apsigyveno Vyslos ir Nemuno tarpupyje. Tą
+    patį tvirtina ir Ptolemėjas, aprašinėjęs tą europinę Sar­
+    matijos dalį. Jis nurodo ir konkretesnę alanų gyvenamą­
+    ją vietą, rašydamas, kad jie buvo stavanų*, t. y. tikro­
+    sios Lietuvos, kaimynystėje. Mechovita sako: „Hunų iš­
+    vyti iš Panonijos alanai užpuolė Romos respubliką, pas­
+    kui Galiją, o iš ten, kaip teigia istorikai, grįžo į lenkišką
+    Vandaluos kraštą, kur gyveno net iki Stilikono laikų; be
+    to, iš kai kurių stebėjimų daromos išvados, kad jie at­
+    sinešę labai daug sidabro su užrašais ir imperatoriaus
+    Adriano atvaizdu“3. Tai neginčijamai įrodo, jog alanai
+    beveik šimtą metų gyvenę tarp Mazovijos ir tikrosios Lie­
+    tuvos, kurios gamtines sienas sudarė Pelesos, Katros ir
+    Jezioro upės, besidriekiančios nuo Katros vidurupio iki
+    Pervalko, netoli Nemuno, žemiau Gardino esančio mies­
+    telio.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213694
+
+- id: c-196247
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 257."
+  citata_originali: |
+    Remdamiesi tuo, ką sakėme anksčiau (§48), nega­
+    lime prieštarauti, kad alanai galėjo klajoti netoli Prūsi­
+    jos; kalbame tik apie masagelus, kuriuos seniau patys
+    pastebėdavome aukščiau Padonės gelonų ir budinu krašto
+    plytinčių dykrų šiaurėje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212317
+
+- id: c-199353
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
+  citata_originali: |
+    Beveik nežinome tautos, kuri, būdama tamsi arba nepa­
+    žindama tikrojo tikėjimo, neturėtų savų pranašavimo būdų;
+    įvairios tautos jų prisigalvodavo įvairių. Alanai, senieji kai ku­
+    rių plačiosios Lietuvos sričių gyventojai, arba veikiau klajok­
+    liai, burdavo, kaip sako istorija, iš karklo šakų, tam tikru būdu
+    sumaišytų; vėliau, traukdami vieną po kitos tam tikru nustaty­
+    tu laiku bei ištardami kažkokius žodžius ir kitaip burtininkų
+    mada vaipydamiesi, skaitydavo lemties knygą .
+    Lietuviai, visuomet pamaldūs ir todėl prietaringi, nieko
+    nepradėdavo nepaklausę pranašų patarimo; šiuo požiūriu
+    mūsų kaimiečiai iki šiol tebėra lengvatikiai; kiek jie turėjo
+    žynių, tiek kerėtojų arba burtininkų, o pats vyriausiasis žy­
+    nys Krivių Krivaitis buvo gyvas orakulas; į jį buvo kreipiama­
+    si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
+    kaip tai pamatysime toliau.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218599
+
+- id: c-201339
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
+  citata_originali: |
+    Alanai, kurie ne sykį kontaktavo su lietuviais, garbino ka­
+    lavijo pavidalo Aresą, lenkėsi jam su ypatingomis apeigomis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219058

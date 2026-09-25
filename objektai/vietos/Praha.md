@@ -153,6 +153,22 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   pagrindžia:
     - c-24405
 
+<a id="claim-t-181442"></a>
+- t-181442
+  teiginys: "Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius."
+  atnaujinta: "2026-09-24 22:33"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Basanavičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Praha: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Basanavičius: mention_match, author, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Praha\" parinktas kaip owner_note_path. Targetas \"Jonas Basanavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-164993
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.'
@@ -188,7 +204,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-164993
@@ -212,6 +228,9 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-181442
+
 - id: c-164994
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -233,7 +252,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166468
@@ -249,11 +268,12 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
     į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vado-
     vaujamą. Ji turėjo baigti derybas dėl krikšto.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167253
@@ -276,7 +296,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-168460
@@ -302,7 +322,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 ## Ryšiai

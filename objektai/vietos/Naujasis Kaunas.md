@@ -141,7 +141,7 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -167,7 +167,7 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 ## Ryšiai

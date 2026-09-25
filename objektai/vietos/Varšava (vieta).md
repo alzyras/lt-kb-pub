@@ -87,7 +87,7 @@ Kaune ir Vilniuje pasirodė vi sokių iš AVaršavos atkeliavusių agitatorių, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192299
@@ -107,5 +107,5 @@ Kaune ir Vilniuje pasirodė vi sokių iš AVaršavos atkeliavusių agitatorių, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -80,5 +80,5 @@ Grinius, Veidai ir problemos lietuvių literatūroje, I t., XII-406 psl., Roma 1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

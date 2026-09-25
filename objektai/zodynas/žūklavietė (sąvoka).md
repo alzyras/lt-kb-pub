@@ -61,5 +61,5 @@ Kai kurie bėgo slėp tis į savo žūklavietes ir ten, saloje, ėmė kurtis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

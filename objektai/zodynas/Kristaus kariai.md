@@ -87,7 +87,7 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59487
@@ -109,5 +109,5 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -260,7 +260,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-34215
@@ -289,7 +289,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-34216
@@ -311,7 +311,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-34217
@@ -339,7 +339,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-34218
@@ -363,7 +363,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-34219
@@ -380,7 +380,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-34220
@@ -402,7 +402,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-34221
@@ -428,7 +428,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-34222
@@ -452,7 +452,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-163220
@@ -476,5 +476,5 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

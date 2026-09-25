@@ -149,11 +149,12 @@ canonical_biography: "(^4) PRATARMĖ Šitame ryšyje verta paminėti, kad prof. 
     Estetika - XX a.
   citata_rodoma: "41a, LT-08217 Vilnius.\nKaina sutartinė\n\n## Puslapis 495\n\nIšleista:\nJozefas Frankas \nAtsiminimai apie Vilnių, 2001\nŽygimantas Liauksminas \nRinktiniai raštai, 2004\nTeodoras Narbutas\nLietuvių tautos istorija, I-V tomai, 1995-2001\nStasys Šalkauskis \nRaštai, I-VIII tomai, 1990-2005\nVincas Vyčinas \nRaštai, I-II tomai, 2002-2007\nRengiama spaudai:\nSudarytojas Antanas Katalynas \nEstetika - XX a."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-004
@@ -207,6 +208,7 @@ canonical_biography: "(^4) PRATARMĖ Šitame ryšyje verta paminėti, kad prof. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-78485
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -226,5 +228,5 @@ canonical_biography: "(^4) PRATARMĖ Šitame ryšyje verta paminėti, kad prof. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

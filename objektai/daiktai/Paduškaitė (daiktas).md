@@ -75,5 +75,5 @@ Pasakotojas, pasiėmęs paduškaitę, stebėjo pro langą lekiančius laukus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

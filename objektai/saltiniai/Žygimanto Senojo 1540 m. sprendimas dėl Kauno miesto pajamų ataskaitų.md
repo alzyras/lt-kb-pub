@@ -61,5 +61,5 @@ Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

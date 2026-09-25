@@ -229,6 +229,16 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   pagrindžia:
     - c-167751
 
+<a id="claim-t-222640"></a>
+- t-222640
+  teiginys: "1300 m. kryžiuočiai nusiaubė Aukaimio pilies apylinkes ir sudegino šešis kaimus."
+  atnaujinta: "2026-09-20 00:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: '1305 m. per gavėnią Svirtilas išdavė Aukaimio pilį broliams, kurie ją antrą kartą sugriovė iki pamatų.'
@@ -297,7 +307,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-67473
@@ -319,7 +329,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67474
@@ -341,7 +351,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-67475
@@ -364,7 +374,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-67476
@@ -385,7 +395,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-67477
@@ -411,7 +421,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-67478
@@ -430,7 +440,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-67479
@@ -450,7 +460,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-167751
@@ -474,5 +484,5 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009

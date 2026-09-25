@@ -53,23 +53,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-62927"></a>
-- t-001
-  teiginys: "Broliams negrąžinus sūnaus, Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Nogatas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Nogatas: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)\" parinktas kaip owner_note_path. Targetas \"Nogatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-63801
-
 <a id="claim-t-62928"></a>
 - t-002
   teiginys: "Sventopelkas surinko stiprią kariuomenę, įsibrovė į Kujaviją ir degindamas bei plėšdamas baisiai ją sunaikino."
@@ -157,8 +140,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-63802
   autorius: "Petras Dusburgietis"
@@ -181,7 +162,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178990
@@ -204,6 +185,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
+
+- id: c-205307
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
+  citata_originali: |
+    Todėl dviejų upių santakoje, būtent: Vyslos ir
+    Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų. Jie neleisdavo
+    brolių valdiniams ramiai plaukioti nei aukštyn, nei žemyn, atimdavo jų daiktus,
+    išsivarydavo juos į nelaisvę ar nugalabydavo.
+    46(45). Apie Svečės pilies pastatymą ir jos užpuolimą
+    Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją
+    su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1. Kokie keisti, kokie
+    be galo nuostabūs dalykai: vaikai stojo prieš savo tėvą dėl šio žiaurumo, su kuriuo jis
+    žemino tikėjimą ir tikinčiuosius!
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

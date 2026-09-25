@@ -113,7 +113,7 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172030
@@ -135,7 +135,7 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172031
@@ -157,5 +157,71 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-198971
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  citata_originali: |
+    Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
+    kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui
+    straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta­
+    čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs
+    Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau­
+    juosius Trakus, o ne Kęstutis. Lietuviai minėtus diržus vadina
+    Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
+    daikto pavadinimo, nes jį turėjo savo pačių kalboje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199537
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 275."
+  citata_originali: |
+    Šis istori­
+    nis fragmentas toks įdomus, kad negalime nepaaiškinti kai ku­
+    rių vietų. Trakų pavadinimas iš tikrųjų nelietuviškas; slavų kal­
+    ba tai reiškia medžiotojo diržus, pritvirtintus prie balno, ku­
+    riais pririša žvėrieną; technišku medžiotojų terminu tai vadi­
+    nama utroczyc. Gali būti, kad, esant daugybei žvėrių, senos
+    lietuvių gyvenvietės, vadintos Gurghani, apylinkėse apsigyve­
+    nę rusinu kunigaikščiams duodamos duoklės rinkėjai. Atstatę
+    ir sutvirtinę tą vietą, pavadinę ją Troki, nes medžiotojai ir da­
+    bar įpratę sakyti apie vietą, kur yra kokių nors žvėrių -jak w
+    Trokach (kaip Trakuose).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199817
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  citata_originali: |
+    Slaptos
+    dievo Atlaibo šventyklos buvo Trakuose ir Vilniuje, ir po abiem
+    miestais yra visiškai tokie pat požemiai, iki šiol pakankamai
+    neaprašyti - Senųjų Trakų pilyje ir Vaikelio Jėzaus vienuoly­
+    ne. Žinau, kad vienas iš naujausių rašytojų, kalbėdamas apie
+    Trakus, tvirtino, jog tai originalus lietu viškas pavadinimas. Gal­
+    būt tai tiesa, bet man nepavyko tokio žodžio rasti jokioje lietu­
+    viškoje tarmėje*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

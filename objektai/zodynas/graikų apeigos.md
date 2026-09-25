@@ -77,5 +77,5 @@ Ivanas slapta kurstė Simoną, Andrejų ir Vasilijų Šemiačičius, ištikimus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -66,5 +66,5 @@ Jų žemes ordinas priiminėjo vasaliniais feodais, vis rūpestingai aktuose pa�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

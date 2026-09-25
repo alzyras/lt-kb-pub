@@ -68,6 +68,22 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   pagrindžia:
     - c-175897
 
+<a id="claim-t-22157"></a>
+- t-22157
+  teiginys: "Rusijos imperijos vietinio valdymo grandyje gubernijas valdė caro skiriami gubernatoriai, o gubernijos buvo skirstomos į apskritis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rusija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "gubernija apskritis (ujezd): owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"gubernija apskritis (ujezd)\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-24842
+
 ## Citatos
 
 - id: c-24842
@@ -93,6 +109,9 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-22157
+
 - id: c-24843
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -112,7 +131,7 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175897
@@ -133,5 +152,5 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

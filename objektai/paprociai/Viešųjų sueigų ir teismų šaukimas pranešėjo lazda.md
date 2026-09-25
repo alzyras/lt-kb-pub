@@ -86,5 +86,34 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198307
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 417"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 417."
+  citata_originali: |
+    Erat autem hic
+    baculus nunciatorius effectus ad modum rei, de qua in Conven­
+    tu tractatio instituenda fuit, ut, si res sacra, crux lignea, si homi­
+    cidium, ligneum telum, aut securis (Budlafla senuosiuose šve­
+    dų įstatymuose būdavo vadinamas šaukimas į teismą papras­
+    tosiose bylose, panaudojant lazdą, kuri buvo praminta žinių
+    arba pranešėjo, pasiuntinio lazda. Šią lazdą su išdegintu iš abie­
+    jų pusių ženklu teisėjas išsiųsdavo skirtingą atskiriems terito­
+    rijos gyventojams, kad žinia apie įvykį ir kartu įspėjimas būti
+    pasiruošusiems pasklistų aplinkui. Šitaip būdavo paskelbiami
+    ne vien teismai, bet ir be skirtumo visokios viešosios sueigos;
+    ten turėdavo būti svarstomi kokie nors neeiliniai klausimai
+    arba bylos. Ši pranešėjo lazda būdavo pažymėta priklausomai
+    nuo dalyko, kuris turėdavo būti svarstomas sueigoje, kaip an­
+    tai, jeigu tikėjimo dalykas, - mediniu kryžiumi; jeigu žmogžu­
+    dystė, - medine strėle arba kirviu).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

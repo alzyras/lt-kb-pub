@@ -64,6 +64,18 @@ Nenurodyta
   pagrindžia:
     - c-175786
 
+<a id="claim-t-214366"></a>
+- t-214366
+  teiginys: "Žiemos kinkinys buvo naudojamas keliauti vandens kelių kryptimi žiemą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194580
+
 ## Citatos
 
 - id: c-175786
@@ -89,5 +101,31 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194580
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 209"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 209."
+  citata_originali: |
+    Tokioje žemėje didesnės
+    upės buvo tarsi lengviau įveikiami keliai, jų vandenys
+    išplukdydavo nuvirtusius medžius, nusausindavo krantus
+    ir vedė prie dar didesnių plaukiančių arba stovinčių van­
+    denų. Šie keliai buvo prieinami ir vasarą, ir žiemą: pir­
+    muoju atveju pakako turėti šiokią tokią valtį, o antruo­
+    ju — žiemos kinkinį, kad pasroviui arba tų vandens kelių
+    kryptimi galima būtų keliauti, nes taip lengviausia pa­
+    tenkinti gyvenimo poreikius. Tokie ¡natūraliai įsivaizduo­
+    jami daugybės žmonių persikėlimai iš tikrųjų vykdavo la­
+    bai seniai; tuo ¡galima įsitikinti skaitant senovės amžių
+    istorijas ir žiūrint į geografijos žemėlapius.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214366

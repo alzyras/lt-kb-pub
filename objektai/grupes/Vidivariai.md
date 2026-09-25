@@ -49,6 +49,18 @@ Narbutas mini nuomonę, kad lietuvių tauta IV ar V a. Vyslos žemupyje susidar�
   pagrindžia:
     - c-175714
 
+<a id="claim-t-214954"></a>
+- t-214954
+  teiginys: "Taip pat nedera steigtis neigti naujas, gana neišlaikytas nuomones, pasak kurių lietuvių tauta esanti daugelio tautų, ypač germanų kilmės, lydinys, kuris su sidarė maždaug IV ar V amžiuje Vyslos žemupyje ir buvo vadinamas vidivariais, vidais ar dar kitais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196890
+
 ## Citatos
 
 - id: c-175714
@@ -73,5 +85,30 @@ Narbutas mini nuomonę, kad lietuvių tauta IV ar V a. Vyslos žemupyje susidar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196890
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 191"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
+  citata_originali: |
+    195
+    Čia neaiškinsime priežasčių, kodėl mes nepripažįstame
+    lietuvių kildinimo iš gotų ar keltų, nes apie tai vėliau dar
+    pakalbėsime. Taip pat nedera steigtis neigti naujas, gana
+    neišlaikytas nuomones, pasak kurių lietuvių tauta esanti
+    daugelio tautų, ypač germanų kilmės, lydinys, kuris su­
+    sidarė maždaug IV ar V amžiuje Vyslos žemupyje ir buvo
+    vadinamas vidivariais, vidais ar dar kitais vardais. Jau
+    vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo­
+    1
+    Tradunt veteres, majores Samogitarum Italos fuisse.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214954

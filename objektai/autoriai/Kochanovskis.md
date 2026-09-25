@@ -108,7 +108,7 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-38191
@@ -133,7 +133,7 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167623
@@ -150,9 +150,10 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
     kilo geniali mintis, pralenkianti ištisus amžius ir kartas^2 ). Tai buvo
     unija su Lietuva.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

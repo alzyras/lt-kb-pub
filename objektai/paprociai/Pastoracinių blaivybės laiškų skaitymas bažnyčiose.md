@@ -57,12 +57,14 @@ Vyskupas Motiejus Valančius blaivybę skelbė pastoraciniais laiškais, kurie b
     blaivybės akcijoje.
   citata_rodoma: "Vysk. M. Valančius skelbė blaivybę, rašydamas pas­\ntoracinius laiškus, kurie bažnyčiose būdavo skaitomi 3 \nsekmadienius. Šie laiškai buvo labai svarbus veiksnys \nblaivybės akcijoje."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
 ## Teiginiai
 
 <a id="claim-t-208845"></a>
@@ -77,4 +79,3 @@ Vyskupas Motiejus Valančius blaivybę skelbė pastoraciniais laiškais, kurie b
   vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
     - c-191465
-

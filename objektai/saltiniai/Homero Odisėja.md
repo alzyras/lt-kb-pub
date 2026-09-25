@@ -89,7 +89,7 @@ Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174661
@@ -108,5 +108,44 @@ Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195525
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
+  citata_originali: |
+    Apolonas ir Diana į Graikiją, Ozyris į Egiptą
+    atvyko neva iš Siaurės. Saturnas, Borėjas, palaimintoji
+    Atlantidos sala egzistavo Siaurės Europoje arba dingu­
+    siose salose, kurios buvo Lediniuotojoje jūroje. Ten buvo
+    Homero „Odisėjoje“ apdainuotas Elisiejus (4 giesmė),
+    ten, kur ambrozija sruveno, auksinis, palaimintasis die­
+    vų kraštas, hesperidžių sodas, makrobijų1 gyvenamoji
+    1 Šis pavadinimas turėtų reikšti kinų protėvius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196654
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 145"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 145."
+  citata_originali: |
+    Iš čia kilo lotyniškas Glacies, ledas, vokiškas
+    Glass, Glcintz „stiklas“, „blizgesys“, slaviškas Gtaz „akis“
+    ir daug panašių, bet geriausiai ir ryškiausiai šio žodžio
+    1 Elektroną senovėje laikė brangiuoju metalu; jį prisimena Ho­
+    meras (Odisėja IV, 73; XV, 459; Hesiod. Scut. Hercui. 142).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

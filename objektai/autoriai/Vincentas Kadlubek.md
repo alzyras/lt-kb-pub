@@ -73,5 +73,5 @@ Teodoras Narbutas tikriausiai naudojo lotynišką ir lenkišką Vincento Kadlube
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

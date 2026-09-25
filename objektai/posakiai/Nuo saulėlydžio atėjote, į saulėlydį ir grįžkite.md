@@ -55,5 +55,5 @@ Nuo saulėlydžio atėjote, j saulėlydį ir grįž kite.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

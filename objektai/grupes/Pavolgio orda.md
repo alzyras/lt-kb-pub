@@ -67,5 +67,5 @@ Teodoras Narbutas pasakoja, kad Mamajus, jo vaizduojamas kaip pavergęs chano, v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

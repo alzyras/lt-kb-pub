@@ -86,7 +86,7 @@ Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-sk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179221
@@ -109,5 +109,52 @@ Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-sk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195769
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
+  citata_originali: |
+    Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai. Galėjo
+    būti, kad slavai, vėliau tapę šios tvirtovės šeimininkais,
+    ėmė ją vadinti Kue arba Kuje, iš kur kilo Kij, Kijev pe-
+    rewoz, o iš čia pasakojimas apie tris brolius — K i j ų,
+    Ščeką ir Choryvą — susiliejo išvien su žiniomis apie se­
+    novės Kijevą. Nestoras irgi nusirašė visa tai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197064
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
+  citata_originali: |
+    Tai pasakoja Amia-
+    nas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­
+    damas į Ptolernėjo raštuose nubraižytą žemėlapį. Naru­
+    ševičius, taip pat naudojęs tuos šaltinius, nėmaž neabe­
+    joja, kad Ptolernėjo chunai, kurių kolonija turėjusi būti
+    ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
+    ir Geniui, neva net atsikėlusi iš Chijo salos2. Tačiau ži­
+    noma, kad Dnepro pakrantėje buvo tvirtovė, vadinama
+    Chue, Chunnigard-, ji priklausė minėtai tautai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

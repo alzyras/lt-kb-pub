@@ -141,7 +141,7 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -166,7 +166,7 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179394
@@ -186,5 +186,45 @@ Narbutas Raveną apibūdina kaip erdvesnę ir geriau aprūpintą už Paviją, tu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-194490
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
+  citata_originali: |
+    Netikėtai
+    gotai Ravenoje ir jos apylinkėse puolė herulus, kurių ga­
+    na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
+    dieną. Kai kurie istorikai, norėdami bent iš dalies suma­
+    žinti Teodoriko nusikaltimo dydį, stengiasi įterpti spė­
+    jimą, jog Odoakras kėsinęsis į jo gyvybę'.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194871
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
+  citata_originali: |
+    Ra-
+    vena buvo erdvesnė ir viskuo geriau aprūpinta, turėjo
+    gerą susisiekimą su jūra ir galėjo suteikti apsiaustiesiems
+    nepalyginti palankesnes sąlygas. Jėgų teikė viltis sulauk­
+    ti svetimšalių paramos, žadėtos imperatoriaus Zenono.
+    Visos šios aplinkybės žadėjo kuo geriausias sąlygas su­
+    sitaikyti su apgulėjais, kurių visi kariniai žygiai ir bū­
+    dai buvo bevaisiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

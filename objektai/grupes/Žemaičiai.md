@@ -806,18 +806,6 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-181579
 
-<a id="claim-t-199141"></a>
-- t-044
-  teiginys: "Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir paliktas aiškus faktas apie žemaičius."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_place: Lietuva; mentioned_place: Rusija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-181584
-
 <a id="claim-t-199145"></a>
 - t-045
   teiginys: "Žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų."
@@ -845,28 +833,6 @@ object_page_seo_policy_version: object-page-policy/v7
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-181604
-
-<a id="claim-t-199153"></a>
-- t-047
-  teiginys: "Narbutas mini pajūrio žemaičių dainą, kurioje apverkiami jūreiviai, esą pagrobti paaukoti audrai."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Mitologinis aukojimo motyvas paliktas su Narbuto atribucija ir žodžiu „esą“. Nepridėta paaiškinimų apie dainos kilmę ar istoriškumą."
-  susije_objektai: "mentioned_place: Pajūris"
-  ryšio_patikimumas: "susije_su -> Pajūris: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Pajūris: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičiai\" parinktas kaip owner_note_path. Targetas \"Pajūris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-171257
 
 <a id="claim-t-199156"></a>
 - t-048
@@ -1432,6 +1398,331 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-188824
 
+<a id="claim-t-199190"></a>
+- t-199190
+  teiginys: "Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą."
+  atnaujinta: "2026-09-19 00:08"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
+  semantiniai_rysiai: "[[objektai/grupes/Žemaičiai|Žemaičiai]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-14998
+    - c-14999
+    - c-181568
+    - c-181585
+
+<a id="claim-t-207527"></a>
+- t-207527
+  teiginys: "Žemaičiai prie Durbės sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę."
+  atnaujinta: "2026-09-19 00:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190144
+
+<a id="claim-t-210494"></a>
+- t-210494
+  teiginys: "Lietuvos metraštyje žemaičiai Palangoje nuo kopų akmenimis sumušė prieš juos sutelktą Prūsijos ir Livonijos vokiečių kariuomenę."
+  atnaujinta: "2026-09-19 00:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Priešiškas karo epizodo vaizdavimas paliktas su Lietuvos metraščio atribucija. Nepridėta daugiau apie Vytauto globą ar žemaičių pasiuntinius."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Palanga; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
+  ryšio_patikimumas: "reme -> Žemaičiai: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Vytautas parėmė žemaičius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
+<a id="claim-t-211130"></a>
+- t-211130
+  teiginys: "Žemaičiai palaikė Mykoliuko Žygimantaičio pusę ir išsirinko Daumantą savo seniūnu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193905
+
+<a id="claim-t-211222"></a>
+- t-211222
+  teiginys: "Tas Kantauto giminaitis suprato, kad negalima sto ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę tarnauti didžiajam kunigaikščiui Kazimierui, ir visi kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka zimierą, visi žemai lenkdamiesi prisiekė jam."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193654
+
+<a id="claim-t-211502"></a>
+- t-211502
+  teiginys: "O tuo laiku, jam bebūnant Rusioje, kita gentis, va dinama latviais, kurie gyveno jūros pakrantėje ir iš girdo, kad kunigaikščio Kerniaus nebėra Lietuvoje, o didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi susirinkę patraukė į Žemaičių žemę ir pridarė Žemai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192973
+
+<a id="claim-t-211608"></a>
+- t-211608
+  teiginys: "Lietuvos metraštis aiškina, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami būti vokiečių valdžioje."
+  atnaujinta: "2026-09-19 00:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Motyvacija reikalauja šaltinio priskyrimo."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Livonija; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]"
+  semantiniai_rysiai: "[[objektai/grupes/Žemaičiai|Žemaičiai]] buvo priešas [[objektai/grupes/Vokiečiai|Vokiečiai]]"
+  ryšio_patikimumas: "buvo_priesas -> Vokiečiai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Smurtas prieš Prūsijos vokiečius tiesiogiai rodo priešiškumą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
+<a id="claim-t-211776"></a>
+- t-211776
+  teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis nujojo į Žemaičius ieškoti pagalbos ir su žemaičiais atėjo prie Trakų."
+  atnaujinta: "2026-09-19 00:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Motyvas ir pasakojimo perspektyva reikalauja priskyrimo šaltiniui."
+  susije_objektai: "llm_object: Trakai; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva"
+  semantiniai_rysiai: "[[objektai/grupes/Žemaičiai|Žemaičiai]] keliavo į Trakai"
+  ryšio_patikimumas: "keliavo_i -> Trakai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje žemaičiai aiškiai atėjo prie Trakų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
+<a id="claim-t-212063"></a>
+- t-212063
+  teiginys: "Ir kai nuo kopų vo kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų valdovu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194060
+
+<a id="claim-t-214773"></a>
+- t-214773
+  teiginys: "Dar beveik iki XVI amžiaus pabaigos žemaičiai švęsdavo tą šventę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197545
+
+<a id="claim-t-215233"></a>
+- t-215233
+  teiginys: "1583 metais jėzuitai buvo pasiųsti į Žemaičius ir Livoniją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195031
+
+<a id="claim-t-217350"></a>
+- t-217350
+  teiginys: "Narbutas rašė, kad pajūrio žemaičių vaizduotėje Čeltyčios buvo Baltijos jūros nimfos, gyvenančios gintaro rūmuose jūros gelmėse."
+  atnaujinta: "2026-09-19 00:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Mitologinis vaizdinys paliktas kaip Narbuto aprašymas. Pašalintos OCR klaidos ir neperkelti papildomi pasakojimo motyvai apie jaunikaičius."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Čeltyčios|Čeltyčios]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_place: Baltija; mentioned_place: Pajūris"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičiai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
+<a id="claim-t-217531"></a>
+- t-217531
+  teiginys: "Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių siejo su atsargiu elgesiu su ugnimi ir teigė, kad Žemaičiuose jis buvo dievinamas „Dims tipo“ vardu."
+  atnaujinta: "2026-09-19 00:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Religinis aiškinimas ir Lasickio pozicija palikti su atribucija. Neaiškus „naminių gyvulių grupės“ fragmentas neplėtotas už citatos ribų."
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičiai\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
+<a id="claim-t-217740"></a>
+- t-217740
+  teiginys: "Kai kryžiuočiai, užvaldę visą Žemaitiją, vi sose svarbiausiose vietovėse įsirengė būstines, laikydami krašto žmones itin varginančioje paklusnybėje, ir kai jie, valdydami grobimu ir smurtingu tautos naikinimu, išsėmė žemaičių kan trybę, šie, slapčia susitarę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200733
+
+<a id="claim-t-217792"></a>
+- t-217792
+  teiginys: "Žemaičių ir Trakų kuni gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį buvo davusi deivei, jis išsivežė ją prieš."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200057
+
+<a id="claim-t-217821"></a>
+- t-217821
+  teiginys: "1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius."
+  atnaujinta: "2026-09-19 00:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys perrašytas kaip konkretus datuotas įvykis apie Žemaičius. Pašalintos OCR klaidos ir nepridėta daugiau misionierių vardų, nes citata jų nepateikia."
+  susije_objektai: "mentioned_place: Livonija"
+  temporaliniai_duomenys: "įvykio data: 1583 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys perrašytas kaip konkretus datuotas įvykis apie Žemaičius. Pašalintos OCR klaidos ir nepridėta daugiau misionierių vardų, nes citata jų nepateikia."
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičiai\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-198026
+
+<a id="claim-t-217851"></a>
+- t-217851
+  teiginys: "Dar beveik iki XVI amžiaus pabaigos žemaičiai švęsdavo tą šventę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199737
+
+<a id="claim-t-218269"></a>
+- t-218269
+  teiginys: "Teodoras Narbutas rašė, kad esama padavimo, jog Žemaičiuose buvusios septynios deivės parkos."
+  atnaujinta: "2026-09-19 00:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
+<a id="claim-t-218522"></a>
+- t-218522
+  teiginys: "Narbutas rašė, kad žemaičiai religijos pasikeitimą aiškino krikščionių užgesinta amžinąja ugnimi, dėl kurios Perkūnas sušals, o dievai užmigs."
+  atnaujinta: "2026-09-19 00:08"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Religinė interpretacija palikta su Narbuto atribucija. Neišplėsta Naruševičiaus pastaba apie slavų ugnį, nes ji nėra tiesiogiai apie Žemaičius."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]"
+  ryšio_patikimumas: "susije_su -> Krikščionys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičiai\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
+<a id="claim-t-218702"></a>
+- t-218702
+  teiginys: "Narbutas žemaičių liaudies procesijų paprotį gultis veidu į žemę po brolijų altorėliais aiškino kaip senųjų stabmeldiškų apeigų tąsą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Vertinamasis ir religinis aiškinimas paliktas su Narbuto atribucija. Pašalintas moralizuojantis „perdėtai pamaldi“ ir neįtraukta antroji bažnyčios detalė."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]"
+  ryšio_patikimumas: "susije_su -> Patrankos: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Patrankos: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičiai\" parinktas kaip owner_note_path. Targetas \"Patrankos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-201107
+
+<a id="claim-t-219404"></a>
+- t-219404
+  teiginys: "Antroji yra lietuvių ir žemaičių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198214
+
 ## Reikšmingi paminėjimai
 - c-032
   santrauka: 'Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.'
@@ -1768,7 +2059,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-00357
@@ -1788,7 +2079,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
 
 - id: c-00358
@@ -1809,7 +2100,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
 
 - id: c-05822
@@ -1827,7 +2118,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-14994
@@ -1848,7 +2139,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-048
 
 - id: c-14998
@@ -1874,6 +2165,9 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-199190
+
 - id: c-14999
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -1894,6 +2188,9 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-199190
+
 - id: c-21447
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1912,7 +2209,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-007
 
@@ -1932,7 +2229,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-36981
@@ -1953,6 +2250,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-46423
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1969,7 +2267,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-160170
@@ -1995,7 +2293,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-025
 
@@ -2032,7 +2330,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
     - t-028
 
@@ -2068,7 +2366,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-160173
@@ -2090,7 +2388,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-160177
@@ -2112,7 +2410,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-160178
@@ -2142,7 +2440,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-160180
@@ -2176,11 +2474,12 @@ object_page_seo_policy_version: object-page-policy/v7
     laidos panašiausios į tiesą.
   citata_rodoma: "Ta lietuvių tauta, išsis­\nkyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­\nšius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba\ntikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos\niki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki\nNemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,\nkad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu\npalei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­\nmą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,\niki pat Baltijos jūros siekianti, kaip lietuvių genties centras,\nišsaugojo gryniausius savo padermės bruožus. Kraštas, ku­\nrį dabar užima Vilniaus gubernija ir dalis Gardino guberni­\njų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­\ntuvių tautos padermių gyvenvietė: Žemaitijos, arba\nžemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-067
 
@@ -2203,7 +2502,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-160184
@@ -2264,7 +2563,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-160186
@@ -2294,7 +2593,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-026
 
@@ -2318,7 +2617,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-160194
@@ -2373,7 +2672,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-160197
@@ -2396,7 +2695,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
     - t-074
 
@@ -2429,7 +2728,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
     - t-024
@@ -2462,7 +2761,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-160208
@@ -2477,7 +2776,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-160210
@@ -2499,7 +2798,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-166332
@@ -2518,7 +2817,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-166333
@@ -2537,7 +2836,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-167292
@@ -2557,7 +2856,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-167952
@@ -2596,7 +2895,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-167953
@@ -2622,7 +2921,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
     - t-072
 
@@ -2652,7 +2951,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-167955
@@ -2675,7 +2974,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-167956
@@ -2715,7 +3014,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
 
 - id: c-167957
@@ -2747,7 +3046,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
     - t-035
 
@@ -2769,11 +3068,12 @@ object_page_seo_policy_version: object-page-policy/v7
     ir žuvo.
   citata_rodoma: "Vis dėl­\nto markgrafas, nenorėdamas, kad atrodytų, jog jis vel­\ntui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­\nnai vadinamas Brandenburgu. Tais pačiais metais, kaip\nsako Livonijos metraštis, žemaičiai ir lietuviai prie\nEželio ant ledo kovojo su Livonijos magistru Otonu,\nmagistras žuvo su penkiasdešimčia šio ordino brolių.\nTokio pat likimo susilaukė jo įpėdinis Andrius fon\nVestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas\nir žuvo."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-29 11:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
     - t-075
 
@@ -2797,7 +3097,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-054
 
 - id: c-170692
@@ -2819,7 +3119,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
 
 - id: c-170694
@@ -2842,6 +3142,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-170695
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2863,6 +3164,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-170696
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2886,6 +3188,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2904,7 +3207,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-051
 
 - id: c-171256
@@ -2927,7 +3230,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
 
 - id: c-171257
@@ -2949,8 +3252,6 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-047
 
 - id: c-171258
   autorius: "Teodoras Narbutas"
@@ -2969,6 +3270,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171259
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -2993,6 +3295,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3011,6 +3314,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171261
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3030,6 +3334,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171262
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3051,6 +3356,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171263
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3069,6 +3375,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171264
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3089,6 +3396,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-176789
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3115,7 +3423,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
 
 - id: c-181556
@@ -3138,6 +3446,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181557
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -3159,7 +3468,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-181558
@@ -3180,6 +3489,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181560
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3201,6 +3511,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181561
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3220,6 +3531,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181562
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3241,6 +3553,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181563
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -3260,6 +3573,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181564
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3280,7 +3594,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-058
 
 - id: c-181565
@@ -3311,6 +3625,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181566
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3330,7 +3645,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
 
 - id: c-181568
@@ -3357,9 +3672,10 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
     - t-056
+    - t-199190
 
 - id: c-181569
   autorius: "Anoniminis metraštininkas"
@@ -3382,6 +3698,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3400,6 +3717,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181571
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3421,6 +3739,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181572
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -3450,7 +3769,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-024
     - t-071
@@ -3476,6 +3795,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181575
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3493,7 +3813,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-077
 
 - id: c-181576
@@ -3514,7 +3834,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-068
 
 - id: c-181577
@@ -3543,7 +3863,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
 
 - id: c-181578
@@ -3565,6 +3885,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181579
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -3585,7 +3906,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
 
 - id: c-181580
@@ -3604,7 +3925,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-181581
@@ -3627,7 +3948,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-059
 
 - id: c-181582
@@ -3663,7 +3984,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-070
 
 - id: c-181584
@@ -3685,8 +4006,6 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-044
 
 - id: c-181585
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3713,8 +4032,9 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-199190
 
 - id: c-181586
   autorius: "Michał Baliński"
@@ -3774,7 +4094,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-073
 
 - id: c-181588
@@ -3791,11 +4111,12 @@ object_page_seo_policy_version: object-page-policy/v7
     kiauti su Aukštaičiais, jas dabar vėl atgavo.
   citata_rodoma: "Lie­\ntuvių pirkliai dabar nuvykdavo toli į Prūsus, pasiekdavo Danci­\ngą, Rygą. Taip pat šiuo laiku Nemunu buvo plukdoma ir daug\nmedžių. Žemaičiai, kurie pirmaisiais metais neturėjo teisių pre­\nkiauti su Aukštaičiais, jas dabar vėl atgavo."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-181589
@@ -3822,7 +4143,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-181590
@@ -3843,6 +4164,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181591
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3863,6 +4185,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181592
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -3890,7 +4213,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-079
 
 - id: c-181593
@@ -3922,6 +4245,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181594
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3940,6 +4264,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181595
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -3961,6 +4286,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181596
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3980,6 +4306,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181597
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4008,6 +4335,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181598
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -4026,7 +4354,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-078
 
 - id: c-181599
@@ -4081,7 +4409,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-181600
@@ -4101,6 +4429,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181601
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -4118,7 +4447,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-181602
@@ -4144,6 +4473,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181603
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4164,6 +4494,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181604
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4182,7 +4513,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-046
     - t-049
 
@@ -4205,6 +4536,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181606
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -4226,6 +4558,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181607
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -4247,6 +4580,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181608
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -4281,7 +4615,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
     - t-028
 
@@ -4302,7 +4636,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-069
 
 - id: c-181610
@@ -4322,7 +4656,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-181611
@@ -4346,6 +4680,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181612
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -4363,7 +4698,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-076
 
 - id: c-181613
@@ -4386,6 +4721,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181614
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -4410,6 +4746,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181615
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -4422,7 +4759,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-181617
@@ -4443,6 +4780,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-184281
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   puslapiai: "PDF 191"
@@ -4476,7 +4814,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-061
 
 - id: c-184282
@@ -4506,7 +4844,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-062
 
 - id: c-184283
@@ -4534,7 +4872,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-063
 
 - id: c-184284
@@ -4563,7 +4901,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-064
 
 - id: c-184285
@@ -4586,7 +4924,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-065
 
 - id: c-184286
@@ -4609,7 +4947,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-066
 
 - id: c-186079
@@ -4641,7 +4979,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-050
     - t-060
 
@@ -4672,7 +5010,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-052
 
 - id: c-186081
@@ -4706,7 +5044,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
 
 - id: c-186082
@@ -4733,7 +5071,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-186083
@@ -4754,7 +5092,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-057
 
 - id: c-188244
@@ -4775,7 +5113,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-080
 
 - id: c-188245
@@ -4795,7 +5133,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-081
 
 - id: c-188246
@@ -4816,7 +5154,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-082
 
 - id: c-188247
@@ -4836,7 +5174,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-083
 
 - id: c-188822
@@ -4855,7 +5193,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-084
 
 - id: c-188823
@@ -4873,7 +5211,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-085
 
 - id: c-188824
@@ -4897,8 +5235,422 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-086
+
+- id: c-190144
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 86"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 86."
+  citata_originali: |
+    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien
+    su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą (nežinoma kur, ta-
+    čiau atkreiptinas dėmesys, kad Latvijos katalikiškoje dalyje, Agluonoje iki šiol tradiciškai
+    manoma, kad Mindaugas buvo nužudytas būtent čia). Paprastai istorikai tai laiko pagonių
+    reakcija prieš krikščionį valdovą. Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos
+    ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų
+    siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
+  citata_rodoma: "Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos \nordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų \nsiūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207527
+
+- id: c-192973
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 42"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 42."
+  citata_originali: |
+    O tuo laiku, jam bebūnant Rusioje, kita gentis, va­
+    dinama latviais, kurie gyveno jūros pakrantėje ir iš­
+    girdo, kad kunigaikščio Kerniaus nebėra Lietuvoje,
+    o didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi
+    susirinkę patraukė į Žemaičių žemę ir pridarė Žemai­
+    čių žemėje daug žalos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211502
+
+- id: c-193146
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 50"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 50."
+  citata_originali: |
+    Visa tai padarė, kad Lietuva netapo krikščioniška.
+    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
+    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
+    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
+    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
+    Mindaugą.
+    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
+    virame lauke nesikauti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193654
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 126."
+  citata_originali: |
+    Tas Kantauto giminaitis suprato, kad negalima sto­
+    ti prieš taip didį valdovą, ir žemaičiai nusileido, sutikę
+    tarnauti didžiajam kunigaikščiui Kazimierui, ir visi
+    kaip vienas atvyko į Kauną pas didįjį kunigaikštį Ka­
+    zimierą, visi žemai lenkdamiesi prisiekė jam ištikimai
+    tarnauti
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211222
+
+- id: c-193905
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 125"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 125."
+  citata_originali: |
+    O paskui atėjo žinios iš Žemaičių, kad ten nenorima
+    paklusti didžiajam kunigaikščiui Kazimierui, nes jie
+    palaikė Mykoliuko Zygimantaičio pusę 12, seniūno Kęs-
+    gailos vietininkus išvarė ir išsirinko seniūnu Dauman­
+    tą, Kantauto giminaitįIS.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211130
+
+- id: c-193974
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
+  citata_originali: |
+    O
+    paskui Danielius sumanė su savo broliu ir nusiuntė
+    pasiuntinius į Lenkiją, pas lenkų kunigaikščius, bylo­
+    damas: „Dabar proga krikščionims prieš pagonis eiti,
+    nes jie patys vieni su kitais kariauja." Lenkai pažadė­
+    jo, bet netesėjo. Danielius su Vasilka nusiuntė Vykin­
+    tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius,
+    ir Vykintas palenkė juos, jotvingius ir pusę žemaičių
+    sidabru ir įvairiomis dovanomis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194060
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 107"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 107."
+  citata_originali: |
+    Ir kai nuo kopų vo­
+    kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­
+    gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­
+    kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų
+    valdovu. Ir Vytautas juos priėmė savo globon
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212063
+
+- id: c-195031
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 502"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 502."
+  citata_originali: |
+    1583 metais jėzuitai į Žemaičius ir į Livoniją pasiuntė tris mi­
+    sionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215233
+
+- id: c-197545
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 499"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 499."
+  citata_originali: |
+    Dar beveik iki XVI
+    amžiaus pabaigos žemaičiai švęsdavo tą
+    šventę.
+    Jos metu
+    atnašaudavo
+    sudėtines
+    aukas63.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214773
+
+- id: c-198026
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
+  citata_originali: |
+    Dar negalime nepaminėti smulkmenų, bylojančių apie Že­
+    maitijoje įsišaknijusį apeiginį dievų garbinimą. Ten jis buvo pa­
+    stebėtas praėjus daugiau nei pusantro šimto metų po krikščiony­
+    bės įvedimo. 1583 metais jėzuitai į Žemaičius ir į Livoniją pa­
+    siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
+    lius.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217821
+
+- id: c-198214
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 437"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 437."
+  citata_originali: |
+    Lietuviškai kalbančių gy­
+    ventojų žemė susideda iš keturių dalių: pirmoji žemės juosta yra
+    vietinių jotvingių, kurie apie Drohičino tvirtovę gyvena, ir nedaug
+    jų belikę. Antroji yra lietuvių ir žemaičių. Trečioji - prūsų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219404
+
+- id: c-199403
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 49."
+  citata_originali: |
+    Be to,
+    ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
+    imti. Bene geriausiai ją apibūdina 1829 metais „Dziennik Wars-
+    zawski“ išspausdintas Dionizo Poškos straipsnis „Keletas įžan­
+    ginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių
+    istoriją“8. Jis parašytas metai prieš mirtį, todėl jį drįstume lai­
+    kyti tam tikru literatūriniu testamentu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199737
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 329"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 329."
+  citata_originali: |
+    Dar beveik iki XVI
+    amžiaus pabaigos žemaičiai švęsdavo tą šventę. Jos metu atna­
+    šaudavo sudėtines aukas*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217851
+
+- id: c-200057
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  citata_originali: |
+    Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217792
+
+- id: c-200733
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 337"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 337."
+  citata_originali: |
+    Kai kryžiuočiai, užvaldę visą Žemaitiją, vi­
+    sose svarbiausiose vietovėse įsirengė būstines, laikydami krašto
+    žmones itin varginančioje paklusnybėje, ir kai jie, valdydami
+    grobimu ir smurtingu tautos naikinimu, išsėmė žemaičių kan­
+    trybę, šie, slapčia susitarę, 128114 metų lapkričio 5-ąją per vie­
+    ną dieną iškapojo visus kryžiuočius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217740
+
+- id: c-200950
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
+  citata_originali: |
+    Be to, mano pa­
+    ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
+    lobį žinių iš mūsų dalyko. Papročiai, įpročiai, prietarai, burtai,
+    mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos,
+    surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų
+    ir Latvijos, sudaro tą turtą. Žodžiu, kiek tik leido laiko aplin­
+    kybės ir galimybė, stengiausi papildyti ir išaiškinti dalyką, kurį
+    privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
+    logija yra raktas seniausiajai tautų istorijai pažinti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201107
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 343"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 343."
+  citata_originali: |
+    Atlikdami religines apeigas, jie naudodavo storus (tuščiavidu­
+    rius) medžių kamienus, aptrauktus žalia oda, kurių garsas bu­
+    vo panašus į patrankos šūvį; jie vadinosi liutaurai (Lietauros)“.
+    Perdėtai pamaldi žemaičių liaudis religiniame gyvenime
+    iki šiol tebeatlieka kai kurias savo senąsias stabmeldiškas apei­
+    gas: per procesiją nešant brolijų altorėlius, žmonės sugula vei­
+    dais į žemę, kad per juos perneštų tuos altorėlius. Bažnyčioje
+    nusilenkdami klaupiasi ir patys mušasi per veidą dešiniuoju
+    delnu, pradėdami nuo kairiojo žando.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218702
+
+- id: c-203124
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
+  citata_originali: |
+    Dusburgiečio krivis
+    tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės
+    papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam
+    žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil. 4680), be to, Lietuvos
+    metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t. 17, стб.
+    261, 314 ir kt.; t. 32, c. 138; Lietuvos metraštis, p. 71).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204577
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 12-13"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12-13."
+  citata_originali: |
+    1416 m. žemaičių delegacija Konstancos bažnytiniame susirinkime pareiškė, jog jie,
+
+    s. 8, 35, 46, 52.
+      35  Pakarklis P. Kryžiuočių..., p. 87—89, 142—145; Steponavičienė I. Dėl lietuviškų
+    vietovardžių prūsinimo..., p. 163—168.
+      36 SRP, B. 2, S. 493.
+      37 Długosz J..., XIII, s. 80; CEV, p. 214.
+      38 GL, Nr. 3—6.
+      39 SRP,  B.  2,  S. 80; Kolankowski  L.  Litwini...,  s. 159—162;  Paszkiewicz H.
+    Jagiellonowie..., s. 402; Kučinskas A. Kęstutis, p. 138; Karwasińska J, Złote bulle..., s.
+    244; Varakauskas R. Lietuvos ir Livonijos..., p. 220—222.
+      40 CEV, p. 232.
+      41 CEV, p. 257.
+
+    žemaičiai, esą tos pačios — lietuvių tautos žmonės, giminingi prūsams, patekusiems  į
+    sunkią kryžiuočių vergiją42.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206209
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  citata_originali: |
+    Kšivickis L. Žemaičių senovė.—Kaunas—Marijampolė, 1928.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Rėmė Žemaičiai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

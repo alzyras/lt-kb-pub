@@ -113,6 +113,21 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   pagrindžia:
     - c-79180
 
+<a id="claim-t-207416"></a>
+- t-207416
+  teiginys: "Tadas Kosciuška buvo paskutinio pasipriešinimo Rusijai, 1794 m. sukilimo, vadovas."
+  atnaujinta: "2026-09-20 12:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai įvardija Tadą Kosciušką ir jo vaidmenį 1794 m. sukilime. Šaltinio apibūdinimas išlaikytas be papildomų istorinių faktų."
+  pagrindžia:
+    - c-190090
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Tadas Kosciuška buvo paskutinio pasipriešinimo Rusijai, 1794 m. sukilimo, vadovas.'
@@ -150,7 +165,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-79180
@@ -170,7 +185,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-79181
@@ -199,7 +214,7 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-79183
@@ -221,5 +236,25 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190090
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 18"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 18."
+  citata_originali: |
+    1795 metais
+    Lietuvos Didžioji Kunigaikštija kartu su Lenkija buvo sunaikinta. Ar gali ši aplinkybė
+    paaiškinti, kodėl beveik iš karto pasireiškė nepaprastai trumpa atmintis?
+    Kaip žinoma, paskutinio pasipriešinimo Rusijai – 1794 m. sukilimo – vadovas Tadas
+    Kosciuška prieš tai buvo JAV Nepriklausomybės karo didvyris.
+  citata_rodoma: "Kaip žinoma, paskutinio pasipriešinimo Rusijai – 1794 m. sukilimo – vadovas Tadas \nKosciuška prieš tai buvo JAV Nepriklausomybės karo didvyris."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207416

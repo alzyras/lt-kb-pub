@@ -85,7 +85,7 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167142
@@ -105,7 +105,7 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

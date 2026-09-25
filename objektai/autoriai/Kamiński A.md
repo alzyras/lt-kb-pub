@@ -52,18 +52,6 @@ Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro u
   pagrindžia:
     - c-87571
 
-<a id="claim-t-197003"></a>
-- t-002
-  teiginys: "Dusburgietis teigia, kad kamiński A nelyginant Gedeonas iš daugybės karių tepasiėmė 300 vyrų, su kuriais stojo į kovą ir drąsiai puolė priešus, pasikliaudamas gailestingumu dievo, kuris neapleidžia nė vieno žmogaus, juo įtikėjusio; pirmiausia išvadavęs nelaisvėn paimtuosius krikščionis, smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko pasprukti."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-178998
-
 ## Citatos
 
 - id: c-87571
@@ -82,7 +70,7 @@ Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178998
@@ -109,5 +97,47 @@ Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-203192
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 162"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 162."
+  citata_originali: |
+    Trumpai
+    drūtai kalbant, jis nelyginant Gedeonas iš daugybės karių tepasiėmė 300 vyrų, su kuriais
+    stojo į kovą ir drąsiai puolė priešus, pasikliaudamas gailestingumu dievo, kuris neapleidžia
+    nė vieno žmogaus, juo įtikėjusio; pirmiausia išvadavęs nelaisvėn paimtuosius krikščionis,
+    smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko
+    pasprukti.
+    197 (192). Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą
+
+
+    Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą
+    raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492,
+    kur nukovė 18 šio valsčiaus žymių viešpačių [dominos], o kitus [karius] paliko prie
+    įeigos į minėtąją žemę493.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:01"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203296
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
+  citata_originali: |
+    baltai gyveno  į šiaurę nuo Narevo  ir, matyt, Bebro
+    upių; Zilijos valsčius tuo metu greičiausiai buvo  į šiaurę nuo Bebro—Elko santakos, jis
+    galėjo aprėpti ir Raigardo (Rajgród) apylinkes, eiti link Augustavo (Kamiński A., Jaćwież,
+    p. 46— 47, 96—98; to paties, Z badań nad pograniczem..., p. 131—168; Būga K., 3,
+    p. 149, 152; Łowmiański H., Studja..., 1, p. 74; 2, p. 43).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

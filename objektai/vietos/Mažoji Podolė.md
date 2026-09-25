@@ -118,7 +118,7 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-76752
@@ -146,7 +146,7 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-76753
@@ -178,5 +178,5 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

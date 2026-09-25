@@ -75,5 +75,5 @@ Rašydami šį veikalą, ne kartą kalbėjome apie Biarmijos (Permės) raidyną,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

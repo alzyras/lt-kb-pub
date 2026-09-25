@@ -374,6 +374,55 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-188798
 
+<a id="claim-t-207514"></a>
+- t-207514
+  teiginys: "Alfredas Bumblauskas teigia, kad LDK istoriją siekiama priderinti prie dominuojančių Lietuvos, Lenkijos, Baltarusijos ar Ukrainos tautinių naratyvų."
+  atnaujinta: "2026-09-19 07:21"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190131
+
+<a id="claim-t-207748"></a>
+- t-207748
+  teiginys: "Lietuvos Didžioji Kunigaikštystė čia įvardijama kaip vėlyvųjų viduramžių Vidurio Europos valstybė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190613
+
+<a id="claim-t-211566"></a>
+- t-211566
+  teiginys: "1500–1503 m. Maskvos ir Lietuvos valstybių kare LDK pusėje stojo Aukso ordos chanas Sich-Achmetas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193385
+
+<a id="claim-t-220025"></a>
+- t-220025
+  teiginys: "Istorinė Lietuva, arba Lietuvos Didžioji Kunigaikštystė, apėmė lietuvių, lenkų, žydų, baltarusių ir ukrainiečių politinio, socialinio bei kultūrinio paveldo arealą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199150
+
 ## Reikšmingi paminėjimai
 - c-007
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -457,7 +506,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-154401
@@ -478,7 +527,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-154403
@@ -518,7 +567,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167921
@@ -544,7 +593,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-181211
@@ -560,7 +609,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-181212
@@ -584,7 +633,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-181213
@@ -611,7 +660,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-181214
@@ -635,7 +684,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-181215
@@ -675,7 +724,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-181216
@@ -696,7 +745,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-181218
@@ -733,6 +782,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-181219
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -750,7 +800,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-181220
@@ -771,7 +821,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-181221
@@ -793,7 +843,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-181222
@@ -811,7 +861,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-181223
@@ -831,7 +881,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-186686
@@ -856,7 +906,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-188797
@@ -873,7 +923,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-188798
@@ -895,5 +945,170 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
+
+- id: c-190131
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 318"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 318."
+  citata_originali: |
+    Šiandien pasiektos reljefingos, erdvios ir gilios LDK istorijos įžvalgos, tačiau daž-
+    niausiai LDK istorija įkomponuojama į šiuolaikinių tautų likimus, LDK istorija laikoma
+    tautų istorijų tarpsniu. Taip LDK yra Lietuvos, Lenkijos, Baltarusijos arba Ukrainos isto-
+    rijos dalis, o tai visada lemia ne siekį matyti LDK visumą, o siekį priderinti LDK istoriją
+    prie dominuojančių tautinių naratyvų.
+    • Z. Kiaupa, J. Kiaupienė, J. Kuncevičius.
+  citata_rodoma: "ra Lietuvos, Lenkijos, Baltarusijos arba Ukrainos isto-\nrijos dalis, o tai visada lemia ne siekį matyti LDK visumą, o siekį priderinti LDK istoriją \nprie dominuojančių tautinių naratyvų.\n• Z. Kiau"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207514
+
+- id: c-190613
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 26"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 26."
+  citata_originali: |
+    Tiesa, skaitant šias sintezes aiškėja, kad jų autoriai vis dėlto daugiau ar mažiau
+    stengiasi rištis prie Europos istorijos epochų, parodo jų ir svarbiausių Lietuvos visuo-
+    menės bei valstybės raidos momentų dermę.
+    „Lietuvos istorijoje iki 1795 metų", apibūdinant valstybės ir visuomenės organiza-
+    vimo pakitimus, įvykusius 1387-1430 m., nurodoma, kad per palyginti trumpą laiką
+    Lietuvos Didžioji Kunigaikštystė tapo vėlyvųjų viduramžių Vidurio Europos valstybe;
+    Lietuvos kultūros modelis XV a. turėjo turinio ir formos bruožų, būdingų vėlyvųjų
+    viduramžių Europos kultūrai.
+  citata_rodoma: "Lietuvos Didžioji Kunigaikštystė tapo vėlyvųjų viduramžių Vidurio Europos valstybe;\nLietuvos kultūros modelis XV a. turėjo turinio ir formos bruožų, būdingų vėlyvųjų\nviduramžių Europos kultūrai."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207748
+
+- id: c-193106
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 305"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 305."
+  citata_originali: |
+    1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
+    LDK žemių seimas Vilniuje, 1492.VII.18.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193117
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 252"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 252."
+  citata_originali: |
+    * Čia
+    labai
+    apibendrintai Ir glaustai kalbama apie LDK ir
+    Maskvos Didžiosios Kunigaikštystės karų 1406— 1408 m. Karo prie­
+    žastis buvo ne du bebrai ir trys statinės medaus, o Vytauto progra­
+    ma Išplėsti savo įtakų Pskovo Ir Didžiojo Naugardo bajorų respub­
+    likose ir pasodinti ten savo vietininkus. Karo veiksmai ėjo LDK
+    rytų
+    pasieniu, Ugios Ir Okos upių ruože, daugiausia dabartinės
+    Kalugos srities teritorijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193385
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 320"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 320."
+  citata_originali: |
+    Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos
+    chanas. 1500—1503 m. Maskvos ir Lietuvos valstybių kare stojo
+    LDK pusėn, tikėdamasis iš jos paramos prieš bendrų priešų — Kry­
+    mo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich-
+    Achmetų ir sujungti savo valdžioje visas totorių ordas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211566
+
+- id: c-193438
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 170."
+  citata_originali: |
+    Labai maža jų grįžo į Ordą.
+    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
+    dievo gailestingumą, o Korano giminė — neapsakomą
+    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
+    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
+    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
+    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
+    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
+    vimi daug belaisvių ir turėdami rankas pilnas aukso,
+    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199150
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
+  citata_originali: |
+    Istorinė
+    Lietuva, arba Lietuvos Didžioji Kunigaikštystė, - tai lietuvių,
+    lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
+    tūrinio paveldo arealas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220025
+
+- id: c-200695
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 8"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
+  citata_originali: |
+    Šitaip T. Narbutas pasisakė prieš vieningos Lenkijos atkūri­
+    mo šalininkų mėginimus paversti Lietuvos Didžiosios Kuni­
+    gaikštystės žemes eiline provincija. Jo parašytas istorijos vei­
+    kalas turėjo priminti Lietuvos bajorams, kas jie yra iš tikrųjų.
+    LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
+    dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija - tai
+    savarankiškos LDK egzistavimo pabaiga.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

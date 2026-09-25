@@ -69,5 +69,5 @@ Sūduviai įsibrovė į Notangos žemę ir apiplėšė jos dalį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

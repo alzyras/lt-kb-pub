@@ -84,6 +84,20 @@ Vartojamos formos: `ermyderių`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-192651
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 30"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 30."
+  citata_originali: |
+    Vienos yra buvusios šiame pasauly tokios atmainos, kurias jam raštai pasako, kitas jam žemės, vandens ir oro ermyderiai^3 rodo, noris^4 raštai tyli, kitos yra tokios, kurias žmogus pats savo amžiuje gali regėti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

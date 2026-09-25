@@ -55,6 +55,21 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
   pagrindžia:
     - c-45350
 
+<a id="claim-t-226082"></a>
+- t-226082
+  teiginys: "Vladas Rabašauskas 1983–2000 m. buvo Svėdasų klebonas."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  temporaliniai_duomenys: "įvykio data: 2000 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys įvardija Vladą Rabašauską, Svėdasų klebono pareigas ir laikotarpį. Kitų jo pareigų nepridėjau."
+  pagrindžia:
+    - c-206598
+
 ## Citatos
 
 - id: c-45350
@@ -87,8 +102,20 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206598
+  autorius: "Dalia Klajumienė"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio Kristaus Žengimo į dangų bažnyčios architektūra ir dailės kūriniai"
+  puslapiai: "p. 428 (PDF 429)"
+  indeksas: "Dalia Klajumienė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio Kristaus Žengimo į dangų bažnyčios architektūra ir dailės kūriniai, p. 428 (PDF 429)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-226082
 
 ## Ryšiai
 - Užėmė Svėdasai: [[objektai/asmenys/P. Genys]]

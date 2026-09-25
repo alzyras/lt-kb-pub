@@ -57,6 +57,18 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   pagrindžia:
     - c-75149
 
+<a id="claim-t-207518"></a>
+- t-207518
+  teiginys: "Lietuvos tautinė aukščiausioji taryba buvo Lietuvos sukilimo metu sudaryta sukilėlių vyriausybė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190135
+
 ## Citatos
 
 - id: c-75149
@@ -83,5 +95,24 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190135
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 194"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 194."
+  citata_originali: |
+    Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose. Lietu-
+    vos sukilėlių vadu tapo Vilniaus karo inžinerijos mokyklos viršininkas Jokūbas Jasinskis.
+    Sukilėliai balandį išvadavo iš rusų Vilnių ir Rotušės aikštėje paskelbė Lietuvos sukilimo
+    aktą, kuriuo buvo sudaroma sukilėlių vyriausybė – Lietuvos tautinė aukščiausioji taryba.
+  citata_rodoma: "Sukilėliai balandį išvadavo iš rusų Vilnių ir Rotušės aikštėje paskelbė Lietuvos sukilimo \naktą, kuriuo buvo sudaroma sukilėlių vyriausybė – Lietuvos tautinė aukščiausioji taryba."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207518

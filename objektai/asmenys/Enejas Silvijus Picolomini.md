@@ -77,5 +77,5 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

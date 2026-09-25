@@ -54,5 +54,5 @@ Nugi galutinas pavergimas be vilties ka da nors išsisukti iš priešo nagų!
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -63,6 +63,18 @@ Dusburgietis teigia, kad apie Aleksandrą IV, popiežių, ir neužimtą imperato
   pagrindžia:
     - c-60865
 
+<a id="claim-t-222991"></a>
+- t-222991
+  teiginys: "Aleksandras IV buvo popiežius ir anksčiau – legatas Lenkijos bei Prūsijos žemėse."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205593
+
 ## Citatos
 
 - id: c-60865
@@ -83,5 +95,26 @@ Dusburgietis teigia, kad apie Aleksandrą IV, popiežių, ir neužimtą imperato
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205593
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
+  citata_originali: |
+    Apie Aleksandrą IV, popiežių, ir neužimtą imperatoriaus sostą
+
+      1253 viešpaties metais apaštališkajame soste sėdėjo popiežius Aleksandras IV, kadaise
+    legatas Vilhelmas Lenkijos ir Prūsijos žemėse, o imperatoriaus sostas buvo neužimtas.
+    Jis daug gera darė ir vargšams, būdamas jiems maloningas bei mielaširdingas (Ptol.
+    22,13), ir Prūsijos žemei, nes globėjo žvilgsniu aiškiai matė vargą, kurį ten kentė Teutonų
+    namų broliai bei kiti Kristaus garbintojai.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222991

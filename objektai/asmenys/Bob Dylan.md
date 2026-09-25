@@ -55,6 +55,22 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
   pagrindžia:
     - c-21627
 
+<a id="claim-t-18856"></a>
+- t-18856
+  teiginys: "Bob Dylan grojo Tony Zemaicio sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bob Dylan: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bob Dylan\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-21627
+
 ## Citatos
 
 - id: c-21627
@@ -77,8 +93,9 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-18856
 
 - id: c-21628
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"

@@ -137,18 +137,6 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-176568
 
-<a id="claim-t-197419"></a>
-- t-006
-  teiginys: "Kukovaitis yra ant gana aukšto kalno, matomas toli iš jūros."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171460
-
 <a id="claim-t-205416"></a>
 - t-007
   teiginys: "Narbutas rašo, kad Kukovaitis su savo daliniu pasiekė Voluinės Vladimiro apylinkes ir Mozyrių."
@@ -187,6 +175,29 @@ object_page_seo_policy_version: object-page-policy/v7
   vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
   pagrindžia:
     - c-187755
+
+<a id="claim-t-211000"></a>
+- t-211000
+  teiginys: "O paskui mirė didysis Lietuvos ir Žemaičių kuni gaikštis Kukovaitis, buvęs labai teisingas ir malonin gas savo valdiniams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193697
+
+<a id="claim-t-219143"></a>
+- t-219143
+  teiginys: "Narbutas pasakojo, kad kunigaikštis Kukovaitis prie Žaslių ežero pastatė stabą motinai, po mirties pripažintai deive."
+  atnaujinta: "2026-09-19 20:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -265,11 +276,12 @@ object_page_seo_policy_version: object-page-policy/v7
     venimą, jis deramu laiku perdavė valdžią sūnui, kurį
     po pergalės triumfuojantį matė savo akimis.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -295,8 +307,6 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
 
 - id: c-171461
   autorius: "Teodoras Narbutas"
@@ -321,7 +331,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176568
@@ -342,7 +352,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -361,7 +371,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-187796
@@ -380,7 +390,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-187926
@@ -403,8 +413,46 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-193439
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
+  citata_originali: |
+    Ir didysis kunigaikštis Kukovaitis, mylėdamas
+    savo motiną, jos atminimui pagerbti pagal jos išvaizdą
+    padirbo stabą ir pastatė tą savo motinos Pajautos vardo
+    stabą ties Žaslių ežeru. O tą jos stabą garbino ir Pa­
+    jautą laikė deive. Paskui tas stabas supuvo, ir toje vie­
+    loje išaugo liepos. Tąsias liepas garbino ir iki mūsų
+    dienų jas tebedievina, minėdami tą Pajautą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193697
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
+  citata_originali: |
+    O paskui mirė didysis Lietuvos ir Žemaičių kuni­
+    gaikštis Kukovaitis, buvęs labai teisingas ir malonin­
+    gas savo valdiniams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211000
 
 ## Ryšiai
 - Kukovaitis rėmė [[objektai/asmenys/Skirmantas]]

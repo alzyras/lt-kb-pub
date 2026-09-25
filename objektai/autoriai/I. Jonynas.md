@@ -84,5 +84,5 @@ Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinast
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

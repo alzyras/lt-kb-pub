@@ -183,7 +183,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -211,7 +211,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-006
 
@@ -232,7 +232,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-26885
@@ -256,5 +256,5 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

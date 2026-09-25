@@ -78,5 +78,5 @@ Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 4
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

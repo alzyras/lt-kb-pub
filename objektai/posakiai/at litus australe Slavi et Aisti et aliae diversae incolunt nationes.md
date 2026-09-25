@@ -78,5 +78,5 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

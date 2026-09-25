@@ -122,10 +122,11 @@ Nenurodyta
     cheologinių radinių ir meno kolekcijos.
   citata_rodoma: "Iš \ntiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet \nveikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­\nvo. Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­\nčių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių \ntautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­\nieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo \nformos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­\nmą. 1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais \nmetais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis. Lie­\ntuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo \naptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­\ncheologinių radinių ir meno kolekcijos."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

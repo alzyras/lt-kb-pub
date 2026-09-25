@@ -84,7 +84,7 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-84345
@@ -111,5 +111,5 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

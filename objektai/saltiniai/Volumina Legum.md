@@ -95,6 +95,30 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   pagrindžia:
     - c-184850
 
+<a id="claim-t-208074"></a>
+- t-208074
+  teiginys: "Volumina Legum, t."
+  atnaujinta: "2026-09-20 12:21"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190644
+
+<a id="claim-t-208209"></a>
+- t-208209
+  teiginys: "Volumina Legum, t."
+  atnaujinta: "2026-09-20 12:21"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190851
+
 ## Citatos
 
 - id: c-37269
@@ -110,7 +134,7 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-67430
@@ -130,7 +154,7 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184850
@@ -147,5 +171,42 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190644
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 211"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 211."
+  citata_originali: |
+    Источники и литература
+    Dziennik Handlowy zawierający w sobie wszystkie okoliczności czyli ogniwa całego łańcucha handlu
+    polskiego. Zaczęty u> Warszawie roku 17S6,1.1, Warszawa: Drukarnia XX Missionarzów, 1786.
+    Volumina Legum, t. VI-VIII, Petersburg: Nakładem i Drukiem Jozefata Ohryski, i860.
+  citata_rodoma: "Volumina Legum, t. VI-VIII, Petersburg: Nakładem i Drukiem Jozefata Ohryski, i860."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208074
+
+- id: c-190851
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 218"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 218."
+  citata_originali: |
+    Przemysław P. Romaniuk, An­
+    drzej Haratym, Warszawa: Wydawnictwo DiG, 1009.
+    Volumina Legum, t. VI, VII, Petersburg: nakładem i drukiem Jozefata Ohryzki, i860.
+    Volumina Legum, t. IX, Kraków: Nakładem Akademii Umiejętności, 1889.
+  citata_rodoma: "Volumina Legum, t. IX, Kraków: Nakładem Akademii Umiejętności, 1889."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208209

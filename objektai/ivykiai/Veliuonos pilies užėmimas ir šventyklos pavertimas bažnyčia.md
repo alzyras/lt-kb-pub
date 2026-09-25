@@ -74,5 +74,5 @@ Po 1406 metų pilies paėmimo Veliuonos šventykla buvo perstatyta į krikščio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

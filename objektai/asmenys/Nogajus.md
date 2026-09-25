@@ -90,5 +90,5 @@ canonical_biography: "8 ## Puslapis 25 ĮVADAS denio įkurtas gynybai nuo Prūsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

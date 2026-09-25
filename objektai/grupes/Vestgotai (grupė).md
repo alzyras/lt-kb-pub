@@ -63,5 +63,5 @@ Vestgotai buvo iš dalies išlaisvinti iš hunų priklausomybės arba atėjo į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

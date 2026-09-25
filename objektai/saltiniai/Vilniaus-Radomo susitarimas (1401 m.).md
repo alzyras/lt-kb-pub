@@ -79,7 +79,7 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-67428
@@ -101,7 +101,7 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67429
@@ -124,5 +124,5 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

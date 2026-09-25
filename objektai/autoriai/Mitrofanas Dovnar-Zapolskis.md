@@ -73,5 +73,5 @@ canonical_biography: "Štai rusų istorikas Mitrofanas Dovnar-Zapolskis (1867-19
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

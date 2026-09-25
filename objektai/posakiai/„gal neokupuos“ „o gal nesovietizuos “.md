@@ -65,5 +65,5 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

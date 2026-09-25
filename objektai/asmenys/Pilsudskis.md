@@ -92,7 +92,7 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-64907
@@ -116,5 +116,5 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

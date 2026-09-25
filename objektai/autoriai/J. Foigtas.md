@@ -424,7 +424,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-65303
@@ -440,7 +440,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171302
@@ -460,7 +460,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-171303
@@ -481,7 +481,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173609
@@ -514,7 +514,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173610
@@ -549,7 +549,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173612
@@ -568,7 +568,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-173613
@@ -599,7 +599,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-174768
@@ -621,7 +621,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-179116
@@ -646,7 +646,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-179259
@@ -668,7 +668,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-179260
@@ -690,7 +690,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-188839
@@ -707,5 +707,89 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
+
+- id: c-194748
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
+  citata_originali: |
+    Ragainė Hartknocho išleistame Dus-
+    burgo veikale klaidingai pavadinta Ramige (p. III. C.
+    178). Ponas Foigtas rado Berlyno rankraštyje vietovardį
+    Raganita, ir tai žinomas pats tikriausias pavadinimas, nes
+    jis kilęs iš mitinio vardo Ragana.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194847
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Iš dalies
+    tai buvo pono Foigto studijos apie senovės Sambijos vi-
+    tingus (Geschichte der Eidechsen Gesellschaft in Preus-
+    sen. S. 206—208) teiginiai; tačiau ten nepakako vietos
+    viską plačiai išdėstyti, ir tik vienas dokumentas su pra­
+    dingusios žemės dydžio aprašymu sudarė svarbiausio
+    įrodymo pagrindą. Čia plačiau panagrinėsime tuos tei­
+    ginius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195133
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
+  citata_originali: |
+    Salavija
+    Vienuolikta Prūsijos provincija buvo Salavija, Scha-
+    laueri. Jos sienas pažymėti yra labai sunku. Kadangi se­
+    nais pagonių laikais ji nebuvo žinoma šiuo pavadinimu,
+    bet, kaip mano ponas Foigtas, buvęs kitas Lietuvos kraš­
+    tas, t. y. Pusnė. Tik jai sunykus, galbūt paskutiniais pa­
+    gonybės amžiais, atsirado šis pavadinimas, reiškiąs jos
+    nuotolį nuo Prūsijos vidurio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200584
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 432"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
+  citata_originali: |
+    Betgi
+    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
+    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
+    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
+    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
+    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
+    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
+    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
+    2.
+    Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,
+    todėl jam kelia įtarimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

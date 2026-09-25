@@ -197,6 +197,18 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   pagrindžia:
     - c-85391
 
+<a id="claim-t-211819"></a>
+- t-211819
+  teiginys: "Tuo metu, bestatant Budą ir apjuosiant mies tą mūro siena, jis nužudė trečiąjį savo brolį, Bledoną."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193357
+
 ## Citatos
 
 - id: c-55711
@@ -221,7 +233,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55713
@@ -246,7 +258,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-85389
@@ -272,7 +284,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-85390
@@ -296,7 +308,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-85391
@@ -325,7 +337,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-85392
@@ -353,6 +365,48 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
+
+- id: c-193357
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 38."
+  citata_originali: |
+    Tuo metu, bestatant Budą ir apjuosiant mies­
+    tą mūro siena, jis nužudė trečiąjį savo brolį, Bledoną
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211819
+
+- id: c-202060
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 256"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
+  citata_originali: |
+    Apie Rygos miesto sugriovimą
+
+      Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos
+    miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė)
+    Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė laikinai aprimo; didėjant
+    nepritekliui ir stiprėjant nesantaikai, kurios su baime laukta kilsiant tarp miesto valdytojų
+    ir paprastų žmonių, miestiečiai turėjo ir save, ir savo šeimas, ir miestą, ir savo laisves
+    bei visas teises ir privilegijas patikėti broliui Eberhardui iš Manheimo, Livonijos žemės
+    magistrui, bei broliams tam, kad jie viską tvarkytų ir rikiuotų, kaip jiems rodysis tinkama.
+    Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
+    spraga. Tarė tada viena moteris: „Matyt, tas magistras labai storas, jeigu jam reikia
+    tokios skylės ir negali įeiti pro kitus vartus kaip kiti krikščionys”.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

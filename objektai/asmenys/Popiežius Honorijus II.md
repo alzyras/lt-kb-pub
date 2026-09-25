@@ -86,7 +86,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

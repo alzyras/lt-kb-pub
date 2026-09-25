@@ -81,5 +81,5 @@ Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

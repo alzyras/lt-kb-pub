@@ -125,6 +125,20 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   pagrindžia:
     - c-186354
 
+<a id="claim-t-207867"></a>
+- t-207867
+  teiginys: "1593 m. gavo Upytės pakamarės urėdą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1593 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190422
+
 ## Citatos
 
 - id: c-43942
@@ -149,7 +163,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167198
@@ -172,7 +186,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186352
@@ -201,7 +215,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-186353
@@ -222,7 +236,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186354
@@ -246,8 +260,30 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-190422
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 223"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 223."
+  citata_originali: |
+    Prieš tai jis jau buvo pasimokęs Karaliaučiuje
+    (imatrikuliuotas 1570 m.) ir Leipcige. 1578 m. grižęs j Lietuvą gavo Ukmergės mokesčių
+    rinkėjo pareigas, greitai išpopuliarėjo tarp bajorų, ne kartą buvo renkamas pasiuntiniu į
+    seimą ir siunčiamas atstovauti Lietuvos Didžiajai Kunigaikštystei kitomis progomis:
+    1588 m. buvo tarp pasiuntinių, vykusių pranešti Zigmantui Vazai, kad Lietuvos Didžio-
+    ji Kunigaikštystė pripažįsta jį valdovu. 1593 m. gavo Upytės pakamarės urėdą.
+  citata_rodoma: "1593 m. gavo Upytės pakamarės urėdą."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207867
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Hiriai ir hendai]]

@@ -79,5 +79,5 @@ Jogaila atėmė Vidimanto turtus iš jo žmonos bei giminaičių ir atidavė juo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -81,5 +81,5 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

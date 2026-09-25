@@ -137,7 +137,7 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83419
@@ -181,7 +181,7 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83420
@@ -202,11 +202,12 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
     Dziennik Wileński Nr. 1.
   citata_rodoma: "Tad, visuotinei tamsybei klestint, kryžiuočiai leng­\nvai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar \nesanti pagonių šalis. Galop ta galinga kariauna išsiruošė į \nžygį vedama vyriausiojo vado Ordino maršalo Engelhardo \nRabės22, kadangi didysis magistras Konradas Ciolneris gu­\nlėjo pakirstas sunkios ligos. Tūkstančiui rinktinių anglų\n21\nTo įsidėmėtino žygio į Vilnių apra­\nšymą nepasirašę įdėjome į 1829 metų \nDziennik Wileński Nr."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188939
@@ -225,5 +226,5 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

@@ -89,11 +89,12 @@ canonical_biography: "Šulskis šiame pasakojime minimas kaip senas ūkininkas, 
     tegul pusę dubos valdo.“ Taip ir padarė.
   citata_rodoma: "Buvo kas patarė: „Eikite pas Šulskiuką! Jis turi pinigų ir javų. Tegul užmoka ponui nuomą už jūsų dubą ir tegul pusę dubos valdo.“"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177647
@@ -120,5 +121,5 @@ canonical_biography: "Šulskis šiame pasakojime minimas kaip senas ūkininkas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

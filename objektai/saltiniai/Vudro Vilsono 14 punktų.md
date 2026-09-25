@@ -63,3 +63,27 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-21318"></a>
+- t-001
+  teiginys: "Vudro Vilsono paskelbti „14 punktų“ suteikė JAV lietuvių imigrantams progą kelti Lietuvos klausimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Rusija: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje nurodoma, kad lietuvių pabėgėliai ir migrantai buvo išsisklaidę Rusijos teritorijoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuviai gyveno Rusija (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, bet citata pagrindžia glaustą faktą apie „14 punktų“ reikšmę."
+  pagrindžia:
+    - c-24018

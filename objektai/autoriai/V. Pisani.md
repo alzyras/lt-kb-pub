@@ -86,5 +86,5 @@ Pisani, V.: II paganesimo balto-slavo, Storia delle religioni, red. G.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

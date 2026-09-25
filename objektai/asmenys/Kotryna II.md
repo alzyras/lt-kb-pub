@@ -188,7 +188,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-04160
@@ -211,7 +211,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-64767
@@ -234,7 +234,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-64769
@@ -255,7 +255,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-64773
@@ -277,7 +277,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177311
@@ -306,7 +306,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-177312
@@ -332,5 +332,58 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-195200
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 125"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 125."
+  citata_originali: |
+    Be to, 1253 metų kryžiuočių kampanijos tikslas bu­
+    vo pirmiausia nusiaubti Bartą ir Galindą. Tai lėmė, kad
+    galindai ir jotvingiai drauge perėjo lenkų kunigaikščių,
+    Krokuvos Boleslovo ir Kujavijos Kazimiero, protekcijon,
+    o jie išsiuntė pranešimus apie tai popiežiui. Iš to atsira­
+    do 1253 metų bulė, kuri leido kunigaikščiams priimti sau­
+    goti ir globoti pagonių gentis, jei jos geranoriškai ir be
+    mažiausios prievartos priims krikščionių tikėjimą; šioje
+    bulėje buvo sąlyga, kad teisė atversti užsispyrusius pa­
+    gonis su kalavijais priklauso vokiečių ordino riteriams,
+    lenkų kunigaikščiai neturi į tai įsipainioti nei išplėtoti
+    savo valdžią žemėse, kurios įėjo į naujų diecezijų ribas;
+    be kita ko, popiežius garantavo kunigaikščiams valdžią
+    savanoriškai pasiduodančiose žemėse ir gentyse nuo bet
+    kokių tolesnių kryžiuočių pretenzijų1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196877
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 128"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 128."
+  citata_originali: |
+    Rusai laimėjo tik tiek, kad savo ginklais nubaidė
+    jotvingius toli nuo savo sienų, daugybė jų susitelkė prie
+    Bugo.
+    330
+    Be abejonės, po to, kai dešiniojoje Bugo pakrantėje
+    įtvirtintose vietose stovėjo rusų įgulos ir iš savo pusės
+    pradėjo spausti kryžiuočiai, jotvingiai vėl pasidavė Kjuja-
+    vijos kunigaikščio Kazimiero globai, nes tais pačiais 1256
+    metais šis kunigaikštis gavo popiežiaus bulę, kuri leido
+    priimti globon ir apsaugon pagoniškas gentis, ¡gera valia
+    pageidavusias krikštytis, ypač jotvingius2 3. Voluinės kro­
+    nikoje5 apie 1251 metus (tikriausiai 1256.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

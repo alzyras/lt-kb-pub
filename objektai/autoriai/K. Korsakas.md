@@ -65,26 +65,6 @@ Korsako ir J.
   pagrindžia:
     - c-169802
 
-<a id="claim-t-186447"></a>
-- t-002
-  teiginys: "K. Korsakas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos pirmininkas."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> A. Venclova: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "K. Korsakas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "A. Venclova: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Korsakas\" parinktas kaip owner_note_path. Targetas \"A. Venclova\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  temporaliniai_duomenys: "įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia, kad K. Korsakas sąraše nurodytas redakcinės komisijos pirmininku."
-  pagrindžia:
-    - c-169797
-
 ## Citatos
 
 - id: c-169797
@@ -104,8 +84,6 @@ Korsako ir J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-169802
   autorius: "Zenonas Ivinskis"
@@ -133,5 +111,5 @@ Korsako ir J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

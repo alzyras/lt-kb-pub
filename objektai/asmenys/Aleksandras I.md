@@ -156,7 +156,7 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-73370
@@ -182,7 +182,7 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -206,5 +206,5 @@ Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

@@ -74,5 +74,5 @@ Stanevičius — lietuviškų dainų rinkinį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

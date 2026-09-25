@@ -66,9 +66,10 @@ Vorobjovas pabrėžė, kad Italijoje XVI–XVII a. susiformavęs barokas neturė
     vežtas į Vilnių ir kad čia pagal šitą užsieninį pavyzdį per du šimtmečiu
     buvo statomi visi pastatai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

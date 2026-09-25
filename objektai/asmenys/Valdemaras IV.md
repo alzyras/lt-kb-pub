@@ -72,5 +72,5 @@ Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje ordinas rubeži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

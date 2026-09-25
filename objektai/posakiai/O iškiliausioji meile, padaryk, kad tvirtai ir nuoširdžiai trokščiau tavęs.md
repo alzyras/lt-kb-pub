@@ -38,22 +38,6 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 
 ## Teiginiai
 
-<a id="claim-t-59142"></a>
-- t-001
-  teiginys: "Dusburgietis pateikia vokišką šios maldos formą ir pasakoja, kad vienas brolis ją kasdien kalbėjo metus."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Deglas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Deglas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs\" parinktas kaip owner_note_path. Targetas \"Deglas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59775
-
 <a id="claim-t-59143"></a>
 - t-002
   teiginys: "Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“."
@@ -114,7 +98,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59775
@@ -133,5 +117,29 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-203902
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 175-176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175-176."
+  citata_originali: |
+    Kadangi ne tris kartus, bet daugelį kartų jis prašė
+    viešpatį padaryti, kad nebebūtų šio kankintojo, išgirdo balsą, sklindantį iš dangaus ir
+    jam bylojantį: „Albertai, jeigu nori išvengti sunkių pagundų, privalai kiekvieną dieną
+    nuolankiai sukalbėti šią maldą: „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai
+      524 Šią formulę (quasi secundus fuit post regem Lethowinorum) kronikininkas taiko
+    ir Lietuvos vyriausybės atstovui, vedusiam 1324 m. derybas Rygoje (D. III, 359; Пашуто
+    В. T., Образование..., c. 297; Pašuta V., Lietuvos..., p. 155. Plačiau — Гудавичюс Э. По
+    поводу..., c., 35—44).
+      525  Apie auksą ir sidabrą senovės Lietuvoje bei sidabro dirbinius žr. Vaitkunskienė
+    L., Sidabras..., p. 10 ir kt.
+      526 Komtūras 1283.IX.3—1288.VII.30 (Voigt J., Namen-... p. 34).
+
+    trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

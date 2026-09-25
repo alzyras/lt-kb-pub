@@ -79,5 +79,5 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

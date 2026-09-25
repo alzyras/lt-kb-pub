@@ -100,7 +100,7 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83544
@@ -130,5 +130,5 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -110,7 +110,7 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-76071
@@ -138,5 +138,5 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

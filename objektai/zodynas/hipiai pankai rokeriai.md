@@ -66,5 +66,5 @@ Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

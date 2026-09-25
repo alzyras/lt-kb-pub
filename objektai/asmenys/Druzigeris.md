@@ -53,21 +53,15 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   pagrindžia:
     - c-60644
 
-<a id="claim-t-60012"></a>
-- t-002
-  teiginys: "Stalininkas Druzigeris Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo mūšyje."
-  atnaujinta: "2026-07-19 18:44"
+<a id="claim-t-223518"></a>
+- t-223518
+  teiginys: "Druzigeris jau trečią kartą buvo sulaužęs priesaika patvirtintą taikos sutartį."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Torunė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Druzigeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Torunė: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Druzigeris\" parinktas kaip owner_note_path. Targetas \"Torunė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60643
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -148,6 +142,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-60643
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -165,8 +160,6 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-60644
   autorius: "Petras Dusburgietis"
@@ -183,5 +176,5 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

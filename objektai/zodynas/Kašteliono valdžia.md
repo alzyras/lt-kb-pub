@@ -76,5 +76,5 @@ Išsi­ laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­ tai, s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

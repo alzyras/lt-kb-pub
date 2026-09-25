@@ -69,7 +69,7 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

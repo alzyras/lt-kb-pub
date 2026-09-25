@@ -124,7 +124,7 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -152,5 +152,5 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

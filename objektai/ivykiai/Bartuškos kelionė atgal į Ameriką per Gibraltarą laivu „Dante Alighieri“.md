@@ -96,7 +96,7 @@ Važiuoti iš Rymo į Franciją ir leistis iš Bordeau Amerikon, buvo pavojinga 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192419
@@ -121,5 +121,5 @@ Važiuoti iš Rymo į Franciją ir leistis iš Bordeau Amerikon, buvo pavojinga 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

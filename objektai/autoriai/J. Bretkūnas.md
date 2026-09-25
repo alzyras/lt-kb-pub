@@ -93,7 +93,7 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-06617
@@ -109,5 +109,5 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

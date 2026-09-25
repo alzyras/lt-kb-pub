@@ -143,6 +143,51 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   pagrindžia:
     - c-172363
 
+<a id="claim-t-216999"></a>
+- t-216999
+  teiginys: "Lietuvos rusinai pasakoja apie panašias baidykles, turin čias keliamečių vaikų pavidalą, vadindami jas Zlydni."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199246
+
+<a id="claim-t-219154"></a>
+- t-219154
+  teiginys: "Narbutas rašė, kad Lietuvos rusinai pasakojo apie keliamečių vaikų pavidalo baidykles, vadintas Zlydni."
+  atnaujinta: "2026-09-20 10:04"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos rusinai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos rusinai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-198360
+    - c-199246
+
+<a id="claim-t-219575"></a>
+- t-219575
+  teiginys: "Lietuvos rusinai savo pasakojimuose taip pat mini Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For tūna, būdama permaininga, vieniems būdavo gera, o kitiems - bloga."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200344
+
 ## Citatos
 
 - id: c-172360
@@ -164,7 +209,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172361
@@ -190,7 +235,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172362
@@ -215,7 +260,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-172363
@@ -236,7 +281,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-172364
@@ -258,7 +303,7 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-179069
@@ -279,8 +324,108 @@ Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-198360
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 184"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
+  citata_originali: |
+    Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
+    pagrindą ištisai sudaro indų padavimai. Saulė ir mėnuo, du
+    svarbiausieji dangaus kūnai, į savo giminę įtraukia visus kitus,
+    kurie yra jų vaikai.
+    Rūpestingai surinkome to pirmykščio kulto liekanas, išli­
+    kusias mitologinėse istorijose, padavimuose ir dainose, ir pa­
+    gal tai išdėstome tokiu būdu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219154
+
+- id: c-199059
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
+  citata_originali: |
+    Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
+    tinkame mūsų kaimiečių padavimuose. Turiu jį savajame se­
+    nų liaudies padavimų rinkinyje; kitą, menkai tesiskiriantį, ga­
+    vau iš Žemaitijos, iš vieno senovės tyrėjo. Pasak šių lietuvių
+    padavimų, pasakojimo veikėjų vardai yra arba visiškai iškrai­
+    pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
+    buvo deivė, kaip vadinosi vyriausiasis dievas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199246
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 183"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 183."
+  citata_originali: |
+    Lietuvos rusinai pasakoja apie panašias baidykles, turin­
+    čias keliamečių vaikų pavidalą, vadindami jas Zlydni.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216999
+    - t-219154
+
+- id: c-200344
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  citata_originali: |
+    Lietuvos rusinai savo pasakojimuose taip pat mini
+    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
+    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
+    bloga.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219575
+
+- id: c-201142
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  citata_originali: |
+    Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
+    pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­
+    nius žalčius; šie baltu rankšluosčiu užšliaužia ant stalo ir ra­
+    gauja valgių, kuriuos paskui žmonės suvalgo, bet jeigu žalčiai
+    nenorėtų išlįsti arba ėsti, tai reikštų gresiančią namui didelę
+    nelaimę“.
+    Latviai naminius žalčius, garbintus kaip fetišus, vadino
+    Czuhskas. Šiuos prietarus žinojo ir Lietuvos rusinai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Lietuvos rusinai gyveno [[objektai/vietos/Lietuva]]

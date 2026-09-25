@@ -75,6 +75,16 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
   pagrindžia:
     - c-170754
 
+<a id="claim-t-216698"></a>
+- t-216698
+  teiginys: "Boleslovas Narbutas aktyviai dalyvavo 1863 m. sukilime."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
 ## Citatos
 
 - id: c-170754
@@ -93,5 +103,5 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

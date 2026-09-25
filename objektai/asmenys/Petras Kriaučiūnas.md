@@ -118,7 +118,7 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-73655
@@ -139,7 +139,7 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-73656
@@ -169,5 +169,5 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -84,5 +84,5 @@ Ji ne tik gynė svarbų kelią tarp Prūsų ir Livonijos per patogią Kuršių N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

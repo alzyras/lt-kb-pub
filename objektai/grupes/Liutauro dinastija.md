@@ -76,5 +76,31 @@ Narbutas vaizduoja Liutauro dinastijos kunigaikščius kaip valdovus, kuriems ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200359
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 393"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 393."
+  citata_originali: |
+    Apie katalikų religijos, kaip viešpataujančios, priėmimą auto­
+    rius pasakoja: „Nors lietuvių genties tautos yra stipriai susiju­
+    sios su savo protėvių tikėjimu, vis dėlto paklusnumas viešpa­
+    taujantiems kunigaikščiams svarbiau už viską; tos valdžios įsa­
+    kymus gerbia kaip nenuginčijamą autoritetą. Mat tauta, ilgus
+    metus varginta kruvinų vidaus ir išorės karų, privalėdama dė­
+    koti už savo tautinį gyvenimą protui ir galybei Liutauro dinas­
+    tijos kunigaikščių, iš kurių kiekvienas garsėjo ypatingomis iš­
+    minties ir vyriškumo savybėmis, nepavydėjo jiems tos absoliu­
+    čios valdžios, kuri tapo tautos išganymu; tauta aklai pasiklio­
+    vė viešpataujančios dinastijos, garsėjančios tikrais karžygiais,
+    valia ir teise. Pavaldžios tautos perima viešpataujančių kuni­
+    gaikščių rūmų tikėjimą, papročius ir įpročius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

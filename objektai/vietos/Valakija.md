@@ -111,7 +111,7 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-106105
@@ -140,7 +140,7 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186233
@@ -167,7 +167,7 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 ## Ryšiai

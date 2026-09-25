@@ -67,5 +67,5 @@ J. I. Kraševskis „Lietuvių mitologiją“ apibūdino kaip kruopščią kompi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

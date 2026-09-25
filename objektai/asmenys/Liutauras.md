@@ -69,6 +69,18 @@ Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė L
   pagrindžia:
     - c-172989
 
+<a id="claim-t-219528"></a>
+- t-219528
+  teiginys: "O Lietu vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val dytų jį kaip vietininkas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201266
+
 ## Citatos
 
 - id: c-172989
@@ -91,5 +103,28 @@ Narbutas rašo, kad Lietuvos ponai 1264 m. visuotiniame suvažiavime pasiuntė L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201266
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  citata_originali: |
+    Todėl Jonas, išvaduodamas nuo nelaimės Po­
+    locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­
+    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
+    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
+    dytų jį kaip vietininkas. Liutauro sūnus Vytenis, gimęs 1232
+    metais Žemaitijoje, gyveno Ariogaloje; jis išgarsėjo rusų ka­
+    ruose su totoriais, buvo paimtas į nelaisvę, buvo Batu stovyk­
+    loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni­
+    gaikštystę kartu su savo tėvu.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219528

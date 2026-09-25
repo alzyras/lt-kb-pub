@@ -65,5 +65,5 @@ Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

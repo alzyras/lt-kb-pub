@@ -58,5 +58,5 @@ Lenkų taryba kartu su arkivyskupu ir vyskupais pasitiko Jogailą Krokuvoje ir n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

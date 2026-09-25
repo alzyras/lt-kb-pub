@@ -142,7 +142,7 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168733
@@ -175,7 +175,7 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178660
@@ -209,5 +209,5 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

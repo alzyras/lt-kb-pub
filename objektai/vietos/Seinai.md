@@ -61,6 +61,46 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   pagrindžia:
     - c-165000
 
+<a id="claim-t-209644"></a>
+- t-209644
+  teiginys: "Seinų ad ministratorius nepriėmė pasiųlytos valdžios al gos, nenorėdamas kokiu nors būdu surišti sau — 67 — rankų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192264
+
+<a id="claim-t-209645"></a>
+- t-209645
+  teiginys: "Tie Seinų kunigai, kurie priešinosi vo kietinimo politikai, tapo pabausti išvežinimu jų Vokietijon, arba permainymu vietos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192265
+
+<a id="claim-t-226075"></a>
+- t-226075
+  teiginys: "Panaikinus 1918–1926 m. gyvavusią Seinų vyskupiją, iš jos Lietuvos Respublikos teritorijoje buvusių dekanatų sudaryta Vilkaviškio vyskupija."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  temporaliniai_duomenys: "įvykio data: 1918-1926; įvykio data: 1926 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išlaikytas aiškus vyskupijų ryšys ir 1918–1926 m. laikotarpis; papildoma bažnytinė istorija iš skliaustų neįtraukta."
+  vertinimo_atnaujinta: "2026-09-24T07:18:08Z"
+  pagrindžia:
+    - c-206591
+
 ## Citatos
 
 - id: c-165000
@@ -82,5 +122,56 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192264
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 66-67"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 66-67."
+  citata_originali: |
+    Seinų ad­
+    ministratorius nepriėmė pasiųlytos valdžios al­
+    gos, nenorėdamas kokiu nors būdu surišti sau
+
+    — 67 —
+    rankų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209644
+
+- id: c-192265
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 68"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 68."
+  citata_originali: |
+    Tie Seinų kunigai,
+    kurie priešinosi vo­
+    kietinimo politikai, tapo pabausti išvežinimu
+    jų Vokietijon,
+    arba permainymu vietos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209645
+
+- id: c-206591
+  autorius: "Dalia Klajumienė"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio Kristaus Žengimo į dangų bažnyčios architektūra ir dailės kūriniai"
+  puslapiai: "p. 397 (PDF 398)"
+  indeksas: "Dalia Klajumienė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio Kristaus Žengimo į dangų bažnyčios architektūra ir dailės kūriniai, p. 397 (PDF 398)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-226075

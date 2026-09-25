@@ -76,5 +76,26 @@ Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Tren
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195804
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
+  citata_originali: |
+    Italijoje, netoli Veronos, slėnyje tarp
+    Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių
+    senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa­
+    garsėjo pergale prieš konsulą Scipioną 169 metais prieš
+    Kristaus gimimą. Švedų autorius Biorntelis (Bornthel)
+    mano dabar esant iki 60 000 jų gyventojų. Tai lyg ir la­
+    bai besiskiriantys nuo kitų tenykščių gyventojų žmonės,
+    išsaugoję daug smulkmenų, įrodančių jų seną kilmę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

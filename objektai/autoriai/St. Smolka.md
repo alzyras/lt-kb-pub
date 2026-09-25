@@ -117,7 +117,7 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -139,5 +139,5 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

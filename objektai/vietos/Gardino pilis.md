@@ -73,5 +73,21 @@ Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206306
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
+  citata_originali: |
+    Kitą dieną broliai persikėlė per
+    užšalusį Nemuną ir įsiveržė į Gardino pilies apylinkes bei papilį, degindami ir piešdami;
+    neskaitant užmuštųjų, jie išsivarė į nelaisvę 200 žmonių
+  statusas: verified
+  atnaujinta: "2026-09-13 18:04"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

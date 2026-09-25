@@ -64,26 +64,17 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
   pagrindžia:
     - c-36020
 
-<a id="claim-t-188540"></a>
-- t-002
-  teiginys: "Jaunė, arba Ieva, Narbuto genealogijoje pateikiama kaip trečioji Gedimino žmona ir Polocko kunigaikščio duktė."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-219534"></a>
+- t-219534
+  teiginys: "Trečioji - Jaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni gaikščio, mirusios Gedimino žmonos brolio, duktė."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_zmona -> Gediminas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jaunė (Jievna): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekste Jaunė apibūdinama kaip Gedimino žmona."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Jaunė (Jievna) buvo žmona Gediminas (0.90)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171429
+    - c-199677
 
 ## Citatos
 
@@ -105,7 +96,7 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171429
@@ -127,8 +118,26 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-199677
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  citata_originali: |
+    Trečioji -
+    Jaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni­
+    gaikščio, mirusios Gedimino žmonos brolio, duktė. Iš jos sū­
+    nūs: Liubartas, gimęs 1299 metais, Jaunutis, gimęs 1301 me­
+    tais, ir Kariotas, gimęs 1306 metais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219534
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

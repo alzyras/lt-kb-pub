@@ -71,5 +71,23 @@ Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205338
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 96"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 96."
+  citata_originali: |
+    Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
+    staiga užgriuvo priešus ir sugrąžino į pirmykštę vietą atimtą grobį. Apie tai sužinojęs,
+    Sventopelkas paskubėjo saviesiems į pagalbą su trimis raitelių būriais. Juos išvydę,
+    lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei
+    kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

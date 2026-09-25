@@ -164,7 +164,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-36470
@@ -185,7 +185,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-160555
@@ -208,7 +208,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-160556
@@ -230,7 +230,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-160558
@@ -255,5 +255,5 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

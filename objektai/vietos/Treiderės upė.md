@@ -192,7 +192,7 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168525
@@ -216,7 +216,7 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -241,7 +241,7 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188440
@@ -264,5 +264,5 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

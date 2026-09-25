@@ -64,5 +64,5 @@ Ir kada toji šalis pabus, dūmo jau sau, vaikščiodamas po New-Yorko gatves, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

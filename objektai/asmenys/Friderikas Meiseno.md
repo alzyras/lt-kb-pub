@@ -80,7 +80,7 @@ Teodoro Narbuto pasakojimu, apie šv. Joną iš Vokietijos atvyko markgrafas Fri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189610
@@ -97,5 +97,5 @@ Teodoro Narbuto pasakojimu, apie šv. Joną iš Vokietijos atvyko markgrafas Fri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

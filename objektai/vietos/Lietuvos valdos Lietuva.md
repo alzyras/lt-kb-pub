@@ -94,7 +94,7 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176144
@@ -121,5 +121,5 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

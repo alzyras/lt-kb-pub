@@ -67,5 +67,5 @@ Esant šiam Vytautui didžiuoju kunigaikščiu ir val dant Lietuvos ir Rusų Did
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

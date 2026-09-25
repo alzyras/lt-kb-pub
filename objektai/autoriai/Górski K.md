@@ -45,36 +45,24 @@ Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K
 
 ## Teiginiai
 
-<a id="claim-t-60603"></a>
-- t-001
-  teiginys: "K. Górskis Dobrynės ordino įkūrimą siejo su 1228 m. dokumentuose išlikusiomis pirmosiomis žiniomis."
-  atnaujinta: "2026-07-12 22:31"
+<a id="claim-t-220558"></a>
+- t-220558
+  teiginys: "K. Górski cituojamas teiginiui, kad Ordino konventas iš Santyro į Marienburgo pilį perkeltas 1280 m."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
+  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Górski K: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Górski K\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Górski K\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1228 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, kad Górskis minimas tarp autorių apie Dobrynės ordino įkūrimo datą."
+  temporaliniai_duomenys: "įvykio data: iki 1279 m.; įvykio data: 1272 m.; įvykio data: 1274 m.; įvykio data: 1275 m.; įvykio data: 1276 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą ir bibliografinę sąsają, o pradinis sakinys nutrūkęs."
   pagrindžia:
-    - c-61235
-
-<a id="claim-t-196999"></a>
-- t-002
-  teiginys: "Górski K galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61234
+    - c-204178
 
 ## Citatos
 
@@ -97,8 +85,6 @@ Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-61235
   autorius: "Petras Dusburgietis"
@@ -116,5 +102,22 @@ Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-204178
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
+  citata_originali: |
+    Pirmosios žinios apie Dobrynės ordiną išliko
+    1228 m. dokumentuose, todėl istoriografijoje šie metai pateikiami kaip Ordino įkūrimo
+    data (CDP, Nr. 19—21; Regesta historico-diplomatica Ordinis..., Nr. 38—40; Benninghoven
+    F. Der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K. Zakon..., p. 25; Lietuvių
+    karas..., p. 74).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220558

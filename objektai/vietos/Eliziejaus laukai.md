@@ -80,5 +80,27 @@ Narbutas aiškino, kad kūnui sunykus žmogaus šešėlis išsivaduoja ir gali s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198925
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 392"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 392."
+  citata_originali: |
+    Žmogaus siela taip pat esanti dvilypės
+    prigimties ir dvejopos kilmės: vienos sielos kilusios iš gerojo
+    dievo, kitos - iš piktojo. Kūnas - niekingiausia žmogaus dalis,
+    turinti visiškai supūti ir išnykti, idant jo šešėlis vėl susijungtų
+    su siela grynu, eteriniu pavidalu; tad kuo greičiau sunyks kū­
+    nas, tuo greičiau šešėlis išsivaduos ir galės lėkti į Eliziejaus
+    laukus; todėl ir buvo išrastas numirėlių kūnų deginimas. Sau­
+    lė su Mėnesiu priklauso pirmajai dievų kategorijai, yra gera­
+    dariai ir susiję vedybų saitais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

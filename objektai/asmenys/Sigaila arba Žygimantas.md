@@ -34,28 +34,6 @@ canonical_biography: "Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš 
 
 Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmonos sūnų.
 
-## Teiginiai
-
-<a id="claim-t-190208"></a>
-- t-001
-  teiginys: "Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmonos sūnų."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sigaila arba Žygimantas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sigaila arba Žygimantas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173091
-
 ## Citatos
 
 - id: c-173091
@@ -79,5 +57,3 @@ Narbutas Sigailą, arba Žygimantą, mini kaip vieną iš Kęstučio ir jo žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -81,7 +81,7 @@ Narbutas teigia, kad Julijus Cezaris pasakojo apie Litavietį, lietuvių vadą, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-200612
@@ -98,5 +98,5 @@ Narbutas teigia, kad Julijus Cezaris pasakojo apie Litavietį, lietuvių vadą, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

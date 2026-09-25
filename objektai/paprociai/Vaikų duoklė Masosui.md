@@ -84,5 +84,26 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197665
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
+  citata_originali: |
+    Raštas jiems nežinomas dalykas, be to, jie nesu­
+    prato, kaip parašytomis raidėmis galima persiųsti savo
+    mintis net į tolimiausius kraštus, o dienas ir mėnulio ap­
+    sisukimus skaičiavo ¿pindami į krepšį pagaliukus arba už­
+    megzdami mazgus ant virvelės. Savo karaliukui, vardu
+    Masos, kaip duoklę atneša gražiausius savo vaikus. Tas
+    karalius gyvena kitoje stovykloje ir ten augina tuos vai­
+    kus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

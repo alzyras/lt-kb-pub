@@ -111,7 +111,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59447
@@ -132,7 +132,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59448
@@ -149,7 +149,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-59449
@@ -169,5 +169,42 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-202251
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
+  citata_originali: |
+    205 D. Criwe, Jer. der obriste êwarte, t. y. vyriausiasis kunigas (ar teisėjas). Krivis
+    (krivė) arba kirvaitis (Grunau), krivaitis—luominis vyriausiojo žynio vardas (Būga K.,
+    1, p. 170—179; 2, 79; Топоров B. H., Прусский язык. А—Д, с. 74; Иванов В. В.,
+    Топоров В. Я., Мифологические..., с. 127; Łowmiański H., Studja..., 2, р. 205; Pašuta
+    V., Lietuvos..., р. 106—109; Vėlius N., Senovės baltų..., p. 221—222).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203667
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
+  citata_originali: |
+    A. Mežinskio nuomone, krivis — tikrinis paskutinio Nadruvos žynio vardas (Мержинский
+    А. Ф., О надровском жреце..., с. 246—259). Tokiai nuomonei kartais pritariama (Ivinskis
+    Z.). Kartais tvirtinama, kad žynių luomo apskritai nėra buvę (Kosman М., Drogi zaniku...,
+    р. 14—15; to paties, Przenikanie katolicyzmu..., p. 112—113); manoma, jog krivis — tai
+    konkreti asmenybė, o ne pareigybė, nepaisoma kalbinių argumentų, jog tai apeliatyvas,
+    luomo atstovo vardas (Būga K., 1, p. 171— 172).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

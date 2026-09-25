@@ -78,5 +78,5 @@ canonical_biography: Čingischanas 1223 metais pasiuntė kariuomenę užimti Sam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

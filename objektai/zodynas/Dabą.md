@@ -68,5 +68,19 @@ Vartojamos formos: `dabos`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-192612
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 41"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 41."
+  citata_originali: |
+    jog svietas dar pasakomis minėjo, jog nuo Indijos kilimo buvo, jau nuo jų būdo, dabos ir tikybos, kuo būtinai indijonims pavėdavo^68 , kaip mums tą senovės raštininkai stigavoja^69.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

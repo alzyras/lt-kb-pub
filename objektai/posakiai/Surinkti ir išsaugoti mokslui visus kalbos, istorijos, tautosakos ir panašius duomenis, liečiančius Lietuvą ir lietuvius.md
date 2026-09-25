@@ -91,7 +91,7 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-02316
@@ -114,5 +114,5 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

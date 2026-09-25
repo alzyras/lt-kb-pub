@@ -77,5 +77,24 @@ Senuosiuose pasakojimuose Giaros saloje gyvenę romėnų tremtiniai esą buvo Ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197652
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 191"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
+  citata_originali: |
+    (Senieji [rašytojai] pasakoja, kad samagitų (jie patys save vadina
+    žemaičiais) protėviai buvę italai. Imperatorius Neronas, ketindamas
+    traukti j karo žygį, kvietęs į jį taip pat romėnų tremtinius, gyve­
+    nančius nederlingoje Giaro saloje. Tačiau šie, bijodami imperato­
+    riaus žiaurumo, išžudė kvietėjus, du ar tris kartus atplaukusius pas
+    juos, o patys jų laivais nuplaukė į Juodąją jūrą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

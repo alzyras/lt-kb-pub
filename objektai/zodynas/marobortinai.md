@@ -33,18 +33,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų į dieną (Ptol.
 
-## Teiginiai
-
-<a id="claim-t-58916"></a>
-- t-001
-  teiginys: "Marobortinai citatoje minimi kaip aukso pinigai, kuriais kasdien mokėta po 1000 vienetų duoklės."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
-  pagrindžia:
-    - c-59548
-
 ## Citatos
 
 - id: c-59548
@@ -65,5 +53,3 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

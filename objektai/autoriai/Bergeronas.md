@@ -55,6 +55,18 @@ Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietu
   pagrindžia:
     - c-173298
 
+<a id="claim-t-217034"></a>
+- t-217034
+  teiginys: "Venecijos pasiuntinys Kantorinis (Kantoriui) Bergerono kelionių aprašymuose duoda tam tikrą supratimą apie tą muziką, susidedančią iš katilų, būgnų, tri mitų, ragų, dūdelių; apie tas aukas galime tik spėlioti, nes duo menų apie jas neišliko."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198788
+
 ## Citatos
 
 - id: c-173298
@@ -75,5 +87,26 @@ Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198788
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 313."
+  citata_originali: |
+    Žinome, kad per panašias apeigas skam­
+    bėdavo lietuviška muzika. Venecijos pasiuntinys Kantorinis
+    (Kantoriui) Bergerono kelionių aprašymuose duoda tam tikrą
+    supratimą apie tą muziką, susidedančią iš katilų, būgnų, tri­
+    mitų, ragų, dūdelių; apie tas aukas galime tik spėlioti, nes duo­
+    menų apie jas neišliko.
+    6.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217034

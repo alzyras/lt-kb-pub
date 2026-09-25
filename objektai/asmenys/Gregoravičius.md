@@ -105,7 +105,7 @@ Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo G
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172979
@@ -132,5 +132,49 @@ Narbuto aprašytame eiliuotame pasakojime antrasis Vilniaus gaisras prasidėjo G
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-199561
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
+  citata_originali: |
+    Toliau jis pateikia ilgą su­
+    degusių namų sąrašą. Paskui vėl graudžios eilės. Po šito, tary­
+    tum antrojoje veikalo dalyje, vėl kreipimasis į skaitytoją, ei­
+    liuota istorija antro gaisro, prasidėjusio Gregoravičiaus (Hre-
+    horovvicz) dvarelyje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200014
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
+  citata_originali: |
+    Powiedz przešliczne boztwo Wiliej rzeki
+    Nimfom (b) twym siostrom, boginiom podwodnym:
+    25 Štai šio nedidelio kūrinėlio pavadinimas: „Ašaringas vaizdas
+    baisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo
+    Karališkosios Malonybės Vilniaus miesto dukartinį sudeginimą. Pir­
+    mą kartą dėl nekrikšto žydo Rubino kaltės 1748 metų birželio 11
+    dieną, tarytum iš pragaro gilumos išsiveržus liepsnai iš alaus daryk­
+    los Užupyje; antrą kartą 1749 metų birželio 8 dieną iš Subačiaus prie­
+    miesčio, iš pono Gregoravičiaus dvarelio, virtusio pelenais, nuo žie­
+    žirbos iš nepaprasta liepsna užsidegusio kamino. To Vilniaus miesto
+    gerovei antrą kartą išleistas Viešpaties 1753 metais per Bazilį Boni­
+    facą Jakimavičių (Jachimowicz) ketvirčio lapo formato, nenumeruo­
+    tų puslapių 60, to meto nuorašas ranka“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

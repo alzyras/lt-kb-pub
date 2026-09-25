@@ -155,6 +155,55 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindžia:
     - c-175989
 
+<a id="claim-t-209661"></a>
+- t-209661
+  teiginys: "Pilviškių mies telio šiapus Pilvės ir Šešupės nieko neliko."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-192281
+
+<a id="claim-t-209662"></a>
+- t-209662
+  teiginys: "Mintis ma no atsidūrė tėviškėje, kur augau ir jaunystė je ant Šešupės krantų žaidžiau."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192282
+
+<a id="claim-t-209663"></a>
+- t-209663
+  teiginys: "Šeš tadienis buvo, ėjome žuvauti, nes gyvename ' ant Šešupės krantų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192283
+
+<a id="claim-t-218801"></a>
+- t-218801
+  teiginys: "Rausvė įteka į Šešupę kairiajame krante netoli Naumiesčio."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200081
+
 ## Citatos
 
 - id: c-32593
@@ -175,7 +224,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -196,7 +245,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -224,7 +273,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-175989
@@ -245,5 +294,75 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-192281
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 39"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 39."
+  citata_originali: |
+    Pilviškių mies­
+    telio šiapus Pilvės ir
+    Šešupės nieko
+    neliko.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209661
+
+- id: c-192282
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 40"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 40."
+  citata_originali: |
+    Mintis ma­
+    no atsidūrė tėviškėje, kur augau ir jaunystė­
+    je ant Šešupės krantų žaidžiau.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209662
+
+- id: c-192283
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 54"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 54."
+  citata_originali: |
+    Šeš­
+    tadienis buvo,
+    ėjome žuvauti, nes gyvename
+    ' ant Šešupės krantų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209663
+
+- id: c-200081
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  citata_originali: |
+    Ji įteka į Šešupę jos kairiajame krante netoli
+    Naumiesčio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218801

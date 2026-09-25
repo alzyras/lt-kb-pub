@@ -74,5 +74,5 @@ Jeigu kronikininkas Wigandas teisingai užrašė, jie dar vidaus karo metu 1382 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

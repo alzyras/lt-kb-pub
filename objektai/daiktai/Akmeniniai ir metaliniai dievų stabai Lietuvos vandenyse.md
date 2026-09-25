@@ -78,5 +78,26 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198767
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 259."
+  citata_originali: |
+    Šios rūšies paminklai buvo labiausiai naikinami Lietuvai
+    priimant krikščionių tikėjimą; ypač atvertėjai - kryžiuočių ir
+    kalavijuočių riteriai griovė, naikino, skandino viską, kas tik nors
+    kiek buvo susiję su stabmeldiškųjų dievų vaizdavimu. Mūsų
+    upės, ežerai ir pelkės ne vienoje vietoje slepia dievų stabus iš
+    akmens ir metalo.
+    Prilvico stabai saugomi Raceburgo bibliotekoje ir Nauja­
+    jame Brandenburge, Sponholco kabinete**.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

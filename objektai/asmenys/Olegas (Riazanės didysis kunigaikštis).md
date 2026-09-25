@@ -82,7 +82,7 @@ canonical_biography: "1396 m. Riazanės didysis kunigaikštis Olegas ir kiti „
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

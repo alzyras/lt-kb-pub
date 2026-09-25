@@ -32,21 +32,6 @@ media_all_json: |-
 
 Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui sulieti Lietuvą su Lenkija, todėl Kazimieras sutiko su personalinės unijos sąlygomis.
 
-## Teiginiai
-
-<a id="claim-t-194159"></a>
-- t-001
-  teiginys: "Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui sulieti Lietuvą su Lenkija, todėl Kazimieras sutiko su personalinės unijos sąlygomis."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176772
-
 ## Citatos
 
 - id: c-176772
@@ -67,5 +52,3 @@ Jono Goštauto vadovaujami Lietuvos atstovai priešinosi Lenkijos reikalavimui s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

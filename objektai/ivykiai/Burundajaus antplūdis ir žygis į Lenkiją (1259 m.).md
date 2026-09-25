@@ -86,5 +86,5 @@ Anot Narbuto, Lietuvos karalius 1259 m. nusprendė pasiskelbti chano draugu ir s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

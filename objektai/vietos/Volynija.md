@@ -194,7 +194,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -219,7 +219,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-110162
@@ -243,7 +243,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-110164
@@ -266,7 +266,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184467
@@ -293,7 +293,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184468
@@ -333,5 +333,5 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007

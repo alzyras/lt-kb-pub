@@ -112,11 +112,12 @@ Nenurodyta
     vališkos valdžios perlenkimais.
   citata_rodoma: "Prisižiū­\nrėjęs į klestinčią Krokuvą, Vladislovas Jogaila nusprendė vi­\nlioti svetimtaučius kurdintis Vilniaus mieste, tačiau palankūs \ntos privilegijos padariniai sumenko per išlygą, jog nepai­\nsant naujų nuostatų, visi miestiečiai pavaldūs Vilniaus se­\nniūnui, dėl ko jiems kilo pavojus ne kartą susidurti su sava­\nvališkos valdžios perlenkimais."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-55661
@@ -140,5 +141,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -77,5 +77,5 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

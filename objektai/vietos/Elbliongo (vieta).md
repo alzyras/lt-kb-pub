@@ -70,5 +70,5 @@ Senovės Druso miestas buvo netoli dabartinio Elbliongo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

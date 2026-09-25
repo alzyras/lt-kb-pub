@@ -82,6 +82,7 @@ canonical_biography: "1688 m. į Gardino seimą vykęs Mogiliavo vaitas ir suoli
   indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 19:20"
-  pagrindzia:
+  pagrindžia:
     - t-001

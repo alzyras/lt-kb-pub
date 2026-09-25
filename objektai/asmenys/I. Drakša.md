@@ -81,5 +81,5 @@ Drakšos 1991 m. Vienas iš LR seimo rūmuose budėjusių savanorių šaunamųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

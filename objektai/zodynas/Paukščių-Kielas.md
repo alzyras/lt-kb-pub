@@ -56,5 +56,5 @@ Ant jo karūnuotos galvos yra žvaigž dėtas dangaus skliautas — visa tai pri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

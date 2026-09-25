@@ -69,5 +69,5 @@ Lietuvis nesupran ta arba suprasti nemoka, kad lietuvių šeimy nos yra surišto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -55,24 +55,6 @@ Sudegė abiejų pilių papiliai.
 
 ## Teiginiai
 
-<a id="claim-t-70938"></a>
-- t-001
-  teiginys: "1293 m. liepos 25 d. Meinhardas su gausia raitija puolė Junigedą ir Pieštvę."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pieštvė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Junigėdos, Peštvės ir Pograudos kampanija (1293 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Pieštvė: mention_match, place, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)\" parinktas kaip owner_note_path. Targetas \"Pieštvė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1293 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-69725
-
 <a id="claim-t-70941"></a>
 - t-002
   teiginys: "Magistras Meinhardas liepos 25 d. užpuolė Junigėdą ir Pieštvę, o nepajėgęs daugiau padaryti sudegino abiejų pilių papilius."
@@ -127,8 +109,7 @@ Sudegė abiejų pilių papiliai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-002
 
 - id: c-69726
@@ -151,6 +132,7 @@ Sudegė abiejų pilių papiliai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-69727
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"

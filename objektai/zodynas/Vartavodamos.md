@@ -57,6 +57,20 @@ Papildomos aiškios formos neišskirtos.
   pagrindžia:
     - c-09664
 
+<a id="claim-t-210052"></a>
+- t-210052
+  teiginys: "`Vartavodamos` šaltinyje reiškia prekiaujant ar mainant."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "vartavodamos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vartavodamos\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
 ## Citatos
 
 - id: c-09664
@@ -75,5 +89,5 @@ Papildomos aiškios formos neišskirtos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

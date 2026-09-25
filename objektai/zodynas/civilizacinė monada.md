@@ -70,5 +70,5 @@ Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Alg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

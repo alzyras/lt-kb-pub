@@ -108,7 +108,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60030
@@ -128,5 +128,53 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202419
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
+  citata_originali: |
+    Apie netikėlių išžudymą ir Partigalos pilies bei kuoro sunaikinimą
+
+       Iš minėtųjų prūsų pilių kasdien  į karą traukdavo tiek ginkluotų vyrų, kad broliai
+    negalėjo nei jiems kelio pastoti, nei jų užpulti. Didžiai dėl to susirūpinę broliai dažnai
+    rinkdavosi pasitarti, vildamiesi rasti šiomis aplinkybėmis tinkamą  išeitį. Galop pats
+    Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių
+    sunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį
+    didelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį pas brolius,
+    imtis tikėjimo bei tikinčiųjų reikalo. Taigi Pomandas iš Baigos pilies sugrįžo pas savo
+    bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai
+    nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.
+    Pomando patariami, susirinko visi Varmės, Notangos, Bartos galingesnieji bei kiti kariauti
+    pasirengę vyrai ir apsupo Baigos pilį, įsitaisę čia karo stovyklas, tačiau broliai, iš anksto
+    žinodami, ką jie daro ir kaip tvarkosi, sutelkė minėtojo Braunšveigo kunigaikščio bei kitų
+    maldininkų jėgas ir pakilo į kovę, ir visus išžudė, nepalikdami nė vieno, kuris tokį įvykį
+    galėtų papasakoti busimosioms kartoms.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203079
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
+  citata_originali: |
+    Sitai padarę, kunigaikštis bei broliai su savo
+    kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami
+    pelenais, o žmones išsivesdami į nelaisvę arba išžudydami. Toliau būdamas Baigos
+    pilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų
+    taip kamavo prusus, kad tie nė atsikvėpti negalėjo. Po metų, kai pasibaigė maldininko
+    įžadams duotas laikas, jis smagus sugrįžo į savo žemę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

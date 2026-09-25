@@ -89,7 +89,7 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176404
@@ -108,5 +108,5 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

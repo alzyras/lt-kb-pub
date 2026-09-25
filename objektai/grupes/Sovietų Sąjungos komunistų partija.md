@@ -91,7 +91,7 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-72880
@@ -112,5 +112,5 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

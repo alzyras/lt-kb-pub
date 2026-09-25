@@ -86,7 +86,7 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174829
@@ -107,5 +107,43 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194391
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 354"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 354."
+  citata_originali: |
+    Beje, šiandien nelengva atrasti
+    visas tvirtoves, kurias mini Dregerio skelbta sutartis (Nr.
+    58. Actą Borus. T. I. B. 52), visų pirma dėl to, kad blogai
+    išrašytos, antra vertus, dėl to, kad jų vietoje nieko, kas
+    primintų jų pavadinimus, neatstatyta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194995
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 349"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 349."
+  citata_originali: |
+    Aiškiausiai apie tai kalba
+    Sambijos vyskupo Henriko sutartis, paminėta Dregerio*
+    (p. 476; et in act. Boruss. T. III. P. 146), kuria jis savo
+    žemės vaidas, esančias Vitlandsorte, perleidžia už atly­
+    ginimą Ordinui, siekdamas suteikti jam galimybę pasta­
+    tyti ten tvirtovę, kuri garantuotų įplaukiančių ir išplau­
+    kiančių laivų saugumą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

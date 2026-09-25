@@ -155,6 +155,18 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   pagrindžia:
     - c-178634
 
+<a id="claim-t-193523"></a>
+- t-193523
+  teiginys: "Atmesti paminėjimai taip pat nuoširdžiai trokštąs taikos, ir išsiuntė raštą, kurio Žygimantas buvo prašęs."
+  atnaujinta: "2026-09-20 04:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176203
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikščio titulą.'
@@ -322,7 +334,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176194
@@ -364,7 +376,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176196
@@ -394,7 +406,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176198
@@ -421,7 +433,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-176201
@@ -452,7 +464,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-176203
@@ -488,6 +500,9 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-193523
+
 - id: c-176204
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -509,7 +524,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-176208
@@ -534,7 +549,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-178634
@@ -567,5 +582,5 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008

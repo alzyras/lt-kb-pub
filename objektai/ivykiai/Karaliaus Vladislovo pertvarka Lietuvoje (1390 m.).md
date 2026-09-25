@@ -81,5 +81,5 @@ Vygandui Aleksandrui buvo patikėtos vietininko pareigos Lietuvoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

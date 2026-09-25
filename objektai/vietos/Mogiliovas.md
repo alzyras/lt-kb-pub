@@ -53,25 +53,17 @@ historical_names: []
   pagrindžia:
     - c-170639
 
-<a id="claim-t-189026"></a>
-- t-002
-  teiginys: "Narbutas tarp Mogiliovo ir Rogačiovo minimus Dnepro pakrančių kapus aiškino kaip skitų supiltus milžinkapius."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-209477"></a>
+- t-209477
+  teiginys: "Godojamas Mogiliovo arkivyskupas."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mogiliovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mogiliovas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
   pagrindžia:
-    - c-171915
+    - c-192097
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -112,7 +104,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171915
@@ -134,5 +126,43 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-192097
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 26"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 26."
+  citata_originali: |
+    Tai visa gcresniai pažinsite, perskaitę ant galo pridurtas gromatas Tėvo Šventojo. Gromatoms į
+    mūsų žemę atėjus, Peterburge katalikų šv. Kotrynos bažnyčioj 24 d. vasario 1850 meto palikau įšvęstas
+    į vyskupus; pašventė mane dievobaimingas Godojamas Mogiliovo arkivyskupas, visų katalikų bažnyčių
+    Maskolių Ciesorystėj esančių metropolitas Jomylista Kazimieras Dmochovskis draugystėj savo padė­
+    tojo ir atenčio įpėdinio Karistijos vyskupo Jomylistos Ignaciaus Holovinskio su Vilniaus vyskupu Jo­
+    mylista Vaclovu Žilinskiu.
+  citata_rodoma: "Godojamas Mogiliovo arkivyskupas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209477
+
+- id: c-193000
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 235"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 235."
+  citata_originali: |
+    Krokuvoje kituose šaltiniuose nepaliudytas Ir
+    abejotinas.
+    '• Mogiliovas — dabar BTSR rytinės dalies miestas prie Dnepro.
+    " Andrius Vladimiraitis buvo Kijevo kunigaikščio Vladimiro
+    Algirdalčlo jauniausias sūnus, miręs apie 1457 m.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

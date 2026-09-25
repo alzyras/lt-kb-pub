@@ -54,6 +54,19 @@ Tiktai Albetrandis apsirinka, sakydamas, kad Asti­ ko dvaras Kavarske buvo nuto
   pagrindžia:
     - c-82175
 
+<a id="claim-t-208554"></a>
+- t-208554
+  teiginys: "Vyskupas Motiejus Valančius ragino Kavarsko dvarininkų maršalką Siesickį tęsti bažnyčios statybą, tačiau Siesickis ją laikinai atidėjo dėl pabrangusių darbininkų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
+  pagrindžia:
+    - c-191174
+
 ## Citatos
 
 - id: c-82175
@@ -76,5 +89,24 @@ Tiktai Albetrandis apsirinka, sakydamas, kad Asti­ ko dvaras Kavarske buvo nuto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-191174
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 41"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 41."
+  citata_originali: |
+    Panašiai vysk. M. Valančius ragino kavarskietį dva­
+    rininkų maršalką Siesickį 6. Šis teisinosi, kad pabrangę dar­
+    bininkai, todėl esąs priverstas laikinai bažnyčios statybą
+    atidėti ateičiai7.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208554

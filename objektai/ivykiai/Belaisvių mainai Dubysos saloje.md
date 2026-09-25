@@ -85,7 +85,7 @@ Rugpjūčio 15 d. Dubysos saloje vykusiame suvažiavime lietuviams atstovavo Vyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189392
@@ -98,9 +98,10 @@ Rugpjūčio 15 d. Dubysos saloje vykusiame suvažiavime lietuviams atstovavo Vyt
     žiuočių riterių; pagaliau nė už vieną žmogų nė vienai pusei
     nereikėjo mokėti.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

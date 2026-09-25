@@ -102,6 +102,31 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-196527
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 253"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
+  citata_originali: |
+    Pirmiausia šią žinią randame Jordano
+    darbuose1, kai šis autorius pasakoja apie karaliaus Fili­
+    mero žygį 161 metais j Rytų Europos kraštus; tuomet,
+    persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa­
+    teko j kraštą, vadinamą Owim. Vėlesni istorijos tyrinė­
+    tojai įrodė, kad tas kraštas buvo šiandienė Prūsija. Tarp
+    mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu-
+    veris3**, kuris rašo: „Žemė Owim, plytėjusi priešais go­
+    tus, yra ne kokia kita, o dabar vadinama Prūsija, pilna
+    pelkių ir ežerų, sunki armijai keliauti ir daugelyje vietų
+    visiškai neįžengiama; šią žemę net ir šiais laikais saksai
+    vadina Owimu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

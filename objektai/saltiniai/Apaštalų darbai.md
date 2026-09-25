@@ -63,5 +63,24 @@ Dusburgietis teigia, kad apie didingus ženklus „Apaštalų darbuose“ (Apd 6
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204951
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  citata_originali: |
+    Apie didingus ženklus
+    „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė
+    žmonėse didžių stebuklingų ženklų“. Vargu ar kas galėtų suabejoti, kad Teutonų namų
+    broliai buvo pilni malonės ir galios, nes,  į tokį negausų būrį susispietę, pajungė tokią
+    galingą, tokią žiaurią ir nesuskaitomą prūsų gentį, kurios neįstengė pavergti daugybė
+    valdovų, daug kartų šitai mėginusių padaryti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

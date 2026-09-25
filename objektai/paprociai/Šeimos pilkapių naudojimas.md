@@ -61,20 +61,3 @@ Kai kurie pilkapiai būdavo naudojami kaip visos šeimos kapai, iš anksto numat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-218604"></a>
-- t-001
-  teiginys: "Kai kurie pilkapiai būdavo naudojami kaip visos šeimos kapai, iš anksto numatant vietas vėliau mirsiantiems šeimos nariams."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-201192
-

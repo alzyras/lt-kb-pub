@@ -64,5 +64,5 @@ Dlugošas 1455–1480 m. rašytuose „Analuose, arba kronikose“ panaudojo Mik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -84,5 +84,31 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199954
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 270."
+  citata_originali: |
+    Kiekvienas laiptas buvo skirtas kuriam nors vienam
+    Zodiako ženklui; kas mėnesį, tą dieną, kai saulė kildama ar
+    leisdamasi įžengdavo į tą ženklą, ant tų laiptų buvo uždegami
+    ir aukų aukojimo laužai; taigi aukščiausias laiptas buvo Vė­
+    žio, o žemiausias - Ožiaragio. Tačiau tikroji auka, kaip many­
+    ta, ant laiptų nebūdavo deginama, degindavo jos imitacijas,
+    nulipdytas iš vaško, kaip antai Liūto, Mergelės. Ant aukštojo
+    aukuro kai kuriomis šventosiomis dienomis būdavo degina­
+    mos gyvulių aukos; jame visuomet degdavo Amžinoji ugnis,
+    prižiūrima tam specialiai paskirtų žynių. Vidury aukuro buvo
+    padaryta įduba taip sumaniai, kad jokia liūtis, sniegas ir vėjas
+    negalėdavo užgesinti ugnies; priešingai, tokiais atvejais lieps­
+    nos kildavo dar aukščiau; tikriausiai tai dėl degių medžiagų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

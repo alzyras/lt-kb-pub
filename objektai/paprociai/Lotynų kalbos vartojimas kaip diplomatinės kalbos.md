@@ -98,7 +98,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175301
@@ -117,5 +117,23 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196655
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 488"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
+  citata_originali: |
+    Taip pat kaip ir ant Volgasto miesto globėjo Jaruvito
+    skydo, ant kurio radau tokį užrašą: „Tutori Voigasliensi, optimo
+    maximo Jurowito". Lotynų kalbą slavai venedai ir lietuviai var­
+    tojo kaip diplomatinę kalbą. (Tą pakabučio piešinį paėmiau iš
+    Tomseno III lentelės 34 piešinio)“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

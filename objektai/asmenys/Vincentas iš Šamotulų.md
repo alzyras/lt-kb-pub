@@ -112,7 +112,7 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169450
@@ -136,5 +136,5 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -71,6 +71,26 @@ Nenurodyta
   pagrindžia:
     - c-63234
 
+<a id="claim-t-220223"></a>
+- t-220223
+  teiginys: "1260 m. Vengrijos karalius su 40 000 raitelių užpuolė Čekijos karalių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-220991"></a>
+- t-220991
+  teiginys: "Mūšyje Vengrijos karalius buvo sunkiai sužeistas ir pabėgo, o upėje prigėrė 14 000 Vengrijos karių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-63234
@@ -93,5 +113,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

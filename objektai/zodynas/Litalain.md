@@ -124,6 +124,16 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
   pagrindžia:
     - c-175052
 
+<a id="claim-t-214778"></a>
+- t-214778
+  teiginys: "Narbutas teigia, kad prie Peipaus ežero gyvenantys estai lietuvius vadina Litalain ir šiuo žodžiu įvardija Lietuvos dalį, sudarančią Ukmergės apskritį."
+  atnaujinta: "2026-09-20 22:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -174,7 +184,7 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003

@@ -63,9 +63,10 @@ Teodoras Narbutas šį Rygos arkivyskupo paskelbtą kryžiuočių atskyrimo nuo 
     su paskelbtu spaudoje pono Kocebiu (t. II — P. 368, se-
     qu.).
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-12 08:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

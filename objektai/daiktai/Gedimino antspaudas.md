@@ -182,7 +182,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -238,7 +238,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-78390
@@ -272,7 +272,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-78391
@@ -295,5 +295,5 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

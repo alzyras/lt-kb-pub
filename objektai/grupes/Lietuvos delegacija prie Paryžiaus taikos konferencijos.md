@@ -184,7 +184,7 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -212,7 +212,7 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-22592
@@ -239,7 +239,7 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -269,7 +269,7 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166537
@@ -296,5 +296,5 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

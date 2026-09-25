@@ -112,7 +112,7 @@ canonical_biography: "14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176714
@@ -136,6 +136,26 @@ canonical_biography: "14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-193627
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 60"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 60."
+  citata_originali: |
+    Išrikiavo jisai
+    savo pulkus ir susidūrė su Daumantu prie ežero. Ir
+    susikibo jie su savo pulkais iš abiejų pusių, ir užvirė
+    tarp jų mūšis ir nemenka skerdynė, nuo ryto ligi va­
+    karo. Ir dievas pagelbėjo Laurui, ir jis sumušė visą sa­
+    vo dėdės Daumanto kariuomenę, patį užmušė 10 ir pa­
+    ėmė Polocko miestą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

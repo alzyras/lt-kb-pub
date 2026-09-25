@@ -64,5 +64,5 @@ Enciklopedinis rašytojas, Romos imperijos karininkas Plinijus Se­ nesnysis (23
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

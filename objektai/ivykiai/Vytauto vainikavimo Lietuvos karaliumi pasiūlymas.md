@@ -58,20 +58,3 @@ Imperatorius pasiuntė pasiuntinius pas popiežių dėl Vytauto karaliaus vainik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-211692"></a>
-- t-001
-  teiginys: "Imperatorius pasiuntė pasiuntinius pas popiežių dėl Vytauto karaliaus vainiko."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-194218
-

@@ -69,5 +69,5 @@ Atskirai reikia paminėti Rimanto Viedrynaičio sudarytą leidinį Kaunas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

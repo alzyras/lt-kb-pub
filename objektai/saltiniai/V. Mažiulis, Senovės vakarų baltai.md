@@ -65,7 +65,7 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-61645
@@ -82,5 +82,5 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

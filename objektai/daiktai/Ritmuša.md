@@ -66,6 +66,14 @@ Nenurodyta
   pagrindžia:
     - c-56404
 
+<a id="claim-t-210309"></a>
+- t-210309
+  teiginys: "Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
 ## Pastabos
 
 - terminas tekste turi ir žaidybinį, ir karės įrankio vartojimą, todėl daiktinis kandidatas čia keliamas kartu su galimu žodyno kandidatu.
@@ -89,6 +97,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-56404
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -104,5 +113,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

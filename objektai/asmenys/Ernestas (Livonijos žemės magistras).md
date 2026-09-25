@@ -82,6 +82,16 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
   pagrindžia:
     - c-85640
 
+<a id="claim-t-223548"></a>
+- t-223548
+  teiginys: "Ernestas buvo Livonijos žemės magistras."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.'
@@ -118,7 +128,7 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-85640
@@ -139,5 +149,5 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

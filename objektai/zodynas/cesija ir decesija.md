@@ -84,5 +84,5 @@ Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

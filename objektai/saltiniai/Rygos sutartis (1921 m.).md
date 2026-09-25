@@ -90,7 +90,7 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176273
@@ -109,5 +109,5 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

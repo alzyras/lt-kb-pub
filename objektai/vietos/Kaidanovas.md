@@ -74,6 +74,17 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   pagrindžia:
     - c-170296
 
+<a id="claim-t-210583"></a>
+- t-210583
+  teiginys: "Lietuvos metraštyje pasakojama, kad Skirmantas, surinkęs visas savo kariaunas, pasitiko totorius Kaidanove prie savo sienos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -135,6 +146,6 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

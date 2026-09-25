@@ -102,7 +102,7 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174594
@@ -126,7 +126,7 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179287
@@ -155,5 +155,54 @@ Narbutas nurodo, kad Hartknocho darbuose galima rasti išsamiau išnagrinėtų k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194817
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 194"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 194."
+  citata_originali: |
+    Ilgai čia reikėtų dėstyti jo įrodymus, parem­
+    tus vien žodžių ir religinių apeigų panašumu, bet pasaky­
+    sime tik tiek, jog šis autorius, puikiai mokėjęs abi kalbas,
+    labiau įrodė jų kilmę iš vieno šaltinio negu jų tapatybę.
+    O lyginant ją su graikų kalba, nustatyta nemažai stebi­
+    nančių ne tik atskirų žodžių, bet ištisų frazių ir posakių
+    panašumų. Smalsus tyrinėtojas ras tam dar išsamiau iš­
+    nagrinėtų įrodymų ir pavyzdžių Hartknocho darbuose3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196578
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 196."
+  citata_originali: |
+    Hartknochas pateikia XV amžiuje gyvenusio prūsų
+    kilmės Frydriko Zamilio lotynų kalba parašytos poemos
+    ištrauką, kur, sakydamas savo sūnums apie savo lietuviš­
+    ką kilmę, be kita ko, jis mini protėvius pelazgus1. Dabar
+    panagrinėkime naujesnius pėdsakus, liudijančius, kad šių
+    protėvių vardas ne tik nebuvo svetimas Lietuvoje, bet ir
+    įsiamžino įžymių žmonių, giminių asmenvardžiuose, upių,
+    ežerų, gyvenviečių pavadinimuose. Dusiburgas2 primena
+    vardą įžymaus žmogaus, kilusio iš kunigaikščio Pelužio
+    giminės; anot vietinių tyrinėjimų, Lydos apskrityje būta
+    ir kilmingos Pelužių, arba Pelusų, Pelasų, giminės; ten
+    taip pat Pelesos upė ir to paties pavadinimo ežeras, į kurį
+    ji įteka, be to, esama kaimų, senovinių gyvenviečių, yra
+    senoji ir naujoji Pelesa, taip pat Palaškos, esančios toje
+    pačioje apskrityje ir netoli šių vandens telkinių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

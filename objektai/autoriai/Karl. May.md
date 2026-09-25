@@ -60,5 +60,5 @@ canonical_biography: "2. Karl. May PER DYKUMĄ. I,II ir III tomai. Iš originalo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

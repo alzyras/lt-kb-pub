@@ -87,5 +87,26 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202721
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
+  citata_originali: |
+    Apie dievo kerštą
+
+      Tuo metu, kai vengrai siaubė Kulmo žemę, Vengrijos karalius su didžiausia kariuomene
+    patraukė prieš vieną karalių, jam pavaldų. Kai  jis brovėsi  į jo karalystę, to krašto
+    kaimiečiai su pjūklais taip papjovė medžius miškuose, kuriais turėjo vengrai grįždami
+    žygiuoti, kad vienas medis griūdamas parblokštų kitą ir taip toliau. Todėl, kai vengrai
+    grįždami įėjo  į šį mišką, mūsų jau minėti kaimiečiai pajudino medžius, o tie, griūdami
+    vienas ant kito iš vienos ir kitos pusės, nuslėgė galybę vengrų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

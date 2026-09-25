@@ -120,7 +120,7 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82134
@@ -143,7 +143,7 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176854
@@ -166,5 +166,5 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

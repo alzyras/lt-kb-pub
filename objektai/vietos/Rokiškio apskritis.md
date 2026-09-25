@@ -104,7 +104,7 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167017
@@ -125,5 +125,5 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

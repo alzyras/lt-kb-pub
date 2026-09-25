@@ -181,6 +181,42 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   pagrindžia:
     - c-184971
 
+<a id="claim-t-212354"></a>
+- t-212354
+  teiginys: "Prūsijoje prie Kuršių marių buvo mažų kolonijų, siejamų su kuršiais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196399
+
+<a id="claim-t-214248"></a>
+- t-214248
+  teiginys: "Kuršių marios skalavo Sambiją šiaurėje ir rytuose."
+  atnaujinta: "2026-09-19 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194664
+
+<a id="claim-t-215029"></a>
+- t-215029
+  teiginys: "O pačios marios senovėje buvo vadinamos Rusna, Kurtoniszke Russe, Kur tom, o nuo XV amžiaus turi šiandienį kryžiuočių suteiktą Curisch-Haft, Kuršių įlankos, vardą, kilusį iš kuršių ko lonijos, buvusios jos vakariniame gale; ją įkūrė Kuršo kryžiuočiai."
+  atnaujinta: "2026-09-19 20:25"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194943
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa.'
@@ -254,7 +290,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67964
@@ -273,7 +309,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-67966
@@ -290,7 +326,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-67967
@@ -310,7 +346,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-67968
@@ -330,7 +366,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167559
@@ -350,7 +386,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175456
@@ -374,7 +410,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184971
@@ -390,5 +426,82 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-194664
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 366"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 366."
+  citata_originali: |
+    šiaurėje ir rytuose ją
+    skalavo jūra ir Kuršių marios.
+  statusas: verified
+  atnaujinta: "2026-09-13 18:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214248
+
+- id: c-194943
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 220."
+  citata_originali: |
+    Priešais jos žiotis buvo protaka per Kuršių
+    neriją prie Rasytės, kuri vadinosi Gausse. O pačios marios
+    senovėje buvo vadinamos Rusna, Kurtoniszke Russe, Kur­
+    tom, o nuo XV amžiaus turi šiandienį kryžiuočių suteiktą
+    Curisch-Haft, Kuršių įlankos, vardą, kilusį iš kuršių ko­
+    lonijos, buvusios jos vakariniame gale; ją įkūrė Kuršo
+    kryžiuočiai.
+    225
+    Taip pat negalima nepaminėti kai kurių paaiškinimų,
+    susijusių su senovės Rusios miestais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215029
+
+- id: c-196399
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 291"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 291."
+  citata_originali: |
+    yra mažų kolonijų
+    Prūsijoje prie Kuršių marių, kurios pavadintos jų vardu,
+    nes tenykščiai žvejai buvo vadinami kuršiais
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212354
+
+- id: c-205393
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
+  citata_originali: |
+    Kai vėliau
+    traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką. Ledas
+    buvo toks minkštas, kad bangavo nelyginant vanduo audros metu, kai, stipriam vėjui
+    pučiant, jis kyla aukštyn ir krinta žemyn. Todėl ir žmonės tarpais kopė ledu sakytum į
+    kalną, tarpais leidosi žemyn nelyginant į klonį, tačiau, viešpaties globojami, nė vienas
+    nenuskendo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

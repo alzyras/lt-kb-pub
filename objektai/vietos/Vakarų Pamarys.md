@@ -77,5 +77,5 @@ Vakarų Pamarys priskiriamas avių ir galvijų auginimo regionams pagal vyraujan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

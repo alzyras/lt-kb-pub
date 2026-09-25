@@ -73,6 +73,16 @@ Nenurodyta
   pagrindžia:
     - c-63705
 
+<a id="claim-t-220688"></a>
+- t-220688
+  teiginys: "Lietuvos valstybė, kariaujanti su Kryžiuočių ordinu ir atskirta nuo Baltijos jūros, dabar išėjo prie pietinių tarptautinės prekybos kelių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gedimino Lietuva 1323 m. pabaigoje arba 1324 m. pradžioje, matyt, susitarusi su Vladislovu Lokietka, užėmė Bresto žemę.'
@@ -110,5 +120,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

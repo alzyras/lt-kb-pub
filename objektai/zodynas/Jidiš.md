@@ -60,5 +60,5 @@ Gerai nemokėdami lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

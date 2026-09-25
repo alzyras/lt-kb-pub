@@ -67,5 +67,5 @@ Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba ben
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

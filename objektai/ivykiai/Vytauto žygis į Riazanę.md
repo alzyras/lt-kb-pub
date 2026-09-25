@@ -77,5 +77,5 @@ Vytautui užėmus Riazanę, kunigaikštis Olegas, pasak Teodoro Narbuto, turėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

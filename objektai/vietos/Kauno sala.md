@@ -88,5 +88,5 @@ Po to Kauno saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas, (14
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

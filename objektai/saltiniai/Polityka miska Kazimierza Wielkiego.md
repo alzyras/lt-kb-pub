@@ -76,5 +76,5 @@ Paszkiewicz : Polityka miska Kazimierza Wielkiego, Warszawa 1925, 189 p. (^11) Z
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

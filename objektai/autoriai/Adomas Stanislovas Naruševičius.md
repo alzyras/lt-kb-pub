@@ -377,18 +377,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   pagrindžia:
     - c-170919
 
-<a id="claim-t-197274"></a>
-- t-018
-  teiginys: "Adomas Stanislovas Naruševičius šį paprotį, menantį seniausius budizmo principus, pastebėjo Kašmiro žemumoje."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179097
-
 <a id="claim-t-197572"></a>
 - t-019
   teiginys: "161 krikščioniško sios eros metais, pasak Naruševičiaus tyrimų1, gotai su savo karaliumi Filimeru, pereidami iš Germanijos į Sarmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo met ribojo senovės geografų taip pavadintus kraštus."
@@ -400,30 +388,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179248
-
-<a id="claim-t-197573"></a>
-- t-020
-  teiginys: "A. Naruševičius sako, kad jie nepriklauso nei sarmatams, nei germanams, turi daug žemių, vakaruose teka Vysla; jų kaimynai — estai bei gitonai (.. 66—80), šiaurėje — finai, pietuose — peucinai, o rytuose yra nežinomos sritys."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179249
-
-<a id="claim-t-197574"></a>
-- t-021
-  teiginys: "A. Naruševičius teigia, kad, remdami mozūrų Maslavą, kovojo jotvingiai ir slovėnai, t."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179250
 
 <a id="claim-t-197576"></a>
 - t-022
@@ -448,6 +412,18 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174756
+
+<a id="claim-t-213010"></a>
+- t-213010
+  teiginys: "Naruševičius parašė veikalą „Historya narodu Polskiego, od początku chrzesciaństwa“."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196276
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -526,7 +502,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-170919
@@ -547,7 +523,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-006
     - t-017
@@ -569,7 +545,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-170927
@@ -591,7 +567,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171286
@@ -613,7 +589,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173554
@@ -638,7 +614,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-173555
@@ -660,7 +636,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-173556
@@ -687,7 +663,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-173557
@@ -710,7 +686,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-173558
@@ -734,7 +710,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-173560
@@ -757,7 +733,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-173564
@@ -783,7 +759,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-173565
@@ -808,7 +784,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
     - t-022
 
@@ -833,7 +809,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
     - t-023
 
@@ -862,7 +838,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-179097
@@ -880,8 +856,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
 
 - id: c-179248
   autorius: "Teodoras Narbutas"
@@ -904,7 +878,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-179249
@@ -928,8 +902,6 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
 
 - id: c-179250
   autorius: "Teodoras Narbutas"
@@ -950,5 +922,273 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-021
+
+- id: c-194728
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
+  citata_originali: |
+    Tad atleiskime
+    senovės autoriams, kurių geografinių žinių gavimo gali­
+    mybės buvo labiau ribotos negu mūsų; jos pražuvo, mums
+    liko vien spausdintos Plinijaus ištraukos arba kitų geog­
+    rafų traktatų fragmentai. Siek tiek labiau venedų reika­
+    lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
+    klauso nei sarmatams, nei germanams, turi daug žemių,
+    vakaruose teka Vysla; jų kaimynai — estai bei gitonai
+    (§§ 66—80), šiaurėje — finai, pietuose — peucinai, o
+    rytuose yra nežinomos sritys.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194916
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
+  citata_originali: |
+    Mūsų mokslininkas, lietuvių istorijos tyri­
+    nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
+    toms iš kitur pažįstamus poloviečius', remdamasis tokio­
+    mis pat Kojalavičiaus prielaidomis1 2. Naruševičius patei­
+    kia žinių, kurios, rodos, taip pat remia šią nuomonę, kad
+    poloviečiai buvę rusų kaimynai nuo saulės patekėjimo ir
+    nusileidimo pusių3. Šie teiginiai įpareigoja mus patyri­
+    nėti istorinius faktus, kurie geriau paaiškintų tai ir at­
+    skleistų tikrą ar spėjamą giminystę, kurią mini mūsų pirm­
+    takai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195141
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 115."
+  citata_originali: |
+    Bet Kromeris, jei skaitysime
+    jo originalų leidinį, ketvirtoje knygoje labiau išplėtoja
+    šią mintį. Jis teigia, kad, remdami mozūrų Maslavą, ko­
+    vojo jotvingiai ir slovėnai, t. y. gentys, priklausiusios
+    prūsų lygai. Jis laiko tuos jotvingius Ptolemėjo meta-
+    nastais, kilusiais iš Jazigibano, t. y. jotvingių žemės, ply­
+    tinčios Vengrijoje prie Tisos upės, nes jų likučių ten tu­
+    rėję būti net ligi autoriaus laikų.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195366
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
+  citata_originali: |
+    Tai, be
+    abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
+    tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
+    nės sutampa. Sis geografas pastarosios aukštupyje kuo
+    aiškiausiai apgyvendina gelonų tautą2. Naruševičius taip
+    pat patvirtina tai daugelyje savo darbų3. Pats Ptolemėjas,
+    kuris šį sykį mini toje žemėje gyvenančią igelonų tautą,
+    1 Zelva — lietuviškas pavadinimas — taip pat kartojasi ne
+    vienoje vietoje. Mes nesigilinsime į upių pavadinimų etimologinį ty­
+    rimą, nes tai mus nuvestų toli nuo pageidaujamo trumpumo; tai pa­
+    liekame lietuvių kalbos ir jos ištakų tyrinėtojams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195624
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 119"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119."
+  citata_originali: |
+    Mechovita taip kalba apie
+    čigonus, žmones, kuriuos kai kada priskirdavo prie jot­
+    vingių.
+    116
+    Naruševičius iki XII amžiaus priskiria jotvingiams
+    pernelyg plačias valdas, kurios plyti nuo Bugo iki Ber-
+    žūnos, nuo Pripetės iki Narvos1. Iš pradžių ši tauta, nors
+    gausi ir didelė, gyveno nelabai plačiai, nes ją supo pa­
+    žįstamos kitų tautų gyvenamosios vietovės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195734
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
+  citata_originali: |
+    Tuo remdamasis, Naruševičius savo Lenkijos istorijos
+    pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
+    dešiniojoje šios upės pakrantėje. Tebus ir čia leista at­
+    kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
+    dalelė Rus ir Ross — lietuviško šventos upės pavadini­
+    mo. O savo gyvenimą tolimame Septynių miestų krašte,
+    kur jie buvo laiko audrų nublokšti, agatirai galėjo iš­
+    keisti į gyvenvietes tarp giminingų kartų, kai nesiliau­
+    jančios sarmatų revoliucijos neleido jiems ilgiau ramiai
+    gyventi prie Marokos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196276
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 476"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 476."
+  citata_originali: |
+    Tai žymaus lenkų poeto ir istoriko Adomo Stanislovo Naruševi­
+    čiaus
+    (1733—1796)
+    veikalas
+    (Naruszewicz A. Historya narodu
+    Polskiego, od początku chrzesciañstwa. T. 1—7. Warszawa, 1803—
+    1804
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213010
+
+- id: c-197243
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 253"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
+  citata_originali: |
+    Tarp
+    mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu-
+    veris3**, kuris rašo: „Žemė Owim, plytėjusi priešais go­
+    tus, yra ne kokia kita, o dabar vadinama Prūsija, pilna
+    pelkių ir ežerų, sunki armijai keliauti ir daugelyje vietų
+    visiškai neįžengiama; šią žemę net ir šiais laikais saksai
+    vadina Owimu. Pagaliau ir ¡pats Naruševičius, žinojęs
+    tuos pačius ir, ko gero, dar ir kitus mums nežinomus įro­
+    dymus, visiškai rėmė šią nuomonę4.
+    247
+    Tas pats Jordanas, puikiai išmanęs istoriją ¡gotų, nuo
+    neatmenamų laikų turėjusių glaudžių santykių su lietuvių
+    žemėmis, tikriausiai žinojo jų geografinę padėtį ir pava­
+    dinimus, be to, jo žinios mums labai svarbios.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197534
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
+  citata_originali: |
+    161 krikščioniško­
+    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
+    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
+    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
+    met ribojo senovės geografų taip pavadintus kraštus. Bet
+    atsitiko taip, kad tiltas, kai pusė gotų perėjo, įlūžo ir
+    buvo nuneštas srovės. Yra senovės istorikų prielaidų, jog
+    Filimeras, baimindamasis didelio žmonių susigrūdimo,
+    nes visi žmonės norėjo iškeliauti, tyčia pagreitino šį įvy­
+    kį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197540
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 84."
+  citata_originali: |
+    Šitaip susiklosčiusi politinė pa­
+    dėtis, kiek suprantu, tapo priežastimi, kuri ir nulėmė
+    drąsų gotų ketinimą iškeliauti į tolimas Rytų Europos
+    šalis ir susirasti patogių kolonijai vietų palaimintose Ry­
+    tų šalyse, į kurias visuomet viliojo kažin koks pagundos
+    jausmas ir kažkada ten protėvių patirtos laimės prisimi­
+    nimai. Naruševičius šį išėjimą aiškina kitaip. Jis rašo:
+    „Panašu į tiesą, kad dakai su getais, prisimindami tiek iš
+    romėnų patirtų pralaimėjimų, pasikvietė pas save gotus,
+    pasiryžę veikiau jungtis su jais negu būti svetimų val­
+    domi“1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199191
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 11"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 11."
+  citata_originali: |
+    Lyg atsakydamas gausiems savo darbo kritikams, T. Nar­
+    butas laiške Vilniaus gydytojui ir artimam šeimos draugui Ani­
+    cetui Renjė rašė: „Mūsų istorijoje tiek mažai faktų, tiek daug
+    visuotinės istorijos <...>. Istorikas Naruševičius nieko apie
+    tautą nerašė, tik dėstė valdžios veiksmus ir karo įvykius, o Le­
+    levelis, norėdamas tai ištaisyti, puolė į kitą suklydimą: sam­
+    protaudamas ir lygindamas ją su kitomis europietiškomis vals­
+    tybėmis, savo tyrimuose faktams neskyrė pakankamai vietos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201494
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 226"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  citata_originali: |
+    Šitaip galindų tauta turėjo Rosės * 5
+    šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
+    likti tokį garbinimą (Hiegels. Reise nach Indien). Jis šį paprotį, menantį
+    seniausius budizmo principus, pastebėjo Kašmiro žemumoje*.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

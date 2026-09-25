@@ -113,7 +113,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-66853
@@ -140,6 +140,48 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
+
+- id: c-203656
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  citata_originali: |
+    164  Rašydamas apie 250 sudegintų parapinių bažnyčių Konrado valdose. Dusburgietis
+    perdeda: netiksliai interpretuoja savo šaltinį (SRP, 5, p. 159), matyt, norėdamas padidinti
+    prūsų padarytų nuostolių mastą (PKD, p. 29; Powierski J. Przekaz..., p. 420).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203682
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  citata_originali: |
+    Apie Lenkijos žemės nuniokojimą
+
+      Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir
+    nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis
+    įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių
+    nuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus
+    išsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo
+    paskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos
+    dobė, maustydami ant tvorų baslių. Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,
+    netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,
+    Plocku vadinama163. Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,
+    neskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų
+    ir griežtos klauzūros moterų vienuolynų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

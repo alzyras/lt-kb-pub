@@ -56,6 +56,18 @@ Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latv
   pagrindžia:
     - c-173301
 
+<a id="claim-t-218979"></a>
+- t-218979
+  teiginys: "Kuršiškai arba latviškai; iš Branto, imta iš Ksavero Bogu šo (ten pat):."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199739
+
 ## Citatos
 
 - id: c-173301
@@ -84,5 +96,34 @@ Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199739
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 448"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 448."
+  citata_originali: |
+    Musu denisze majse dut mums szoden; pamate
+    mums musu grakie, kas mes pamat musu paraduken; ne wede
+    mus lajna badekle, bet passaka mus no wusse loune.
+    Kuršiškai arba latviškai; iš Branto, imta iš Ksavero Bogu­
+    šo (ten pat):
+    Tews mus, kut tu esz in Debbes; szwentic tau Wards; innej-
+    kas muns tau walstib; tau spraats nottek in Debbes, ka wers an
+    žemes; mus sziodenisz majsid dotu mums szoden; pomettes mu­
+    su parradus, ka mes pamettam sau paradnekiam; ne wed mus
+    ekszan kaėdem, nan essi eri laune.
+    Kuršo Alsungos katalikų parapijos tarme; gauta iš tenykš­
+    čio klebono:
+    Tęs mus, kas Tu essi debbessis; swetits lajtop Taus wards; laj
+    nakas mums tawa walstiba taus prats lajnotek ka debes sys ta
+    aridzen wier žemes.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218979

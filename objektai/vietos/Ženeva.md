@@ -123,7 +123,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-75100
@@ -143,7 +143,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-75101
@@ -166,5 +166,5 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

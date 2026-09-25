@@ -75,5 +75,5 @@ Petras d’Ailly buvo viduramžių filologas, teologas ir bažnyčios veikėjas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

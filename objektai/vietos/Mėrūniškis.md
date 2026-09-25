@@ -71,18 +71,6 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   pagrindžia:
     - c-59233
 
-<a id="claim-t-194544"></a>
-- t-003
-  teiginys: "Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492, kur nukovė 18 šio valsčiaus."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59232
-
 ## Citatos
 
 - id: c-59232
@@ -109,9 +97,8 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-003
 
 - id: c-59233
   autorius: "Petras Dusburgietis"
@@ -127,5 +114,21 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-206329
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 162"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 162."
+  citata_originali: |
+    492 D.— territorium dictum Meruniskam, Jer.— gebît[...] Meruniskin; Mėrūniškis (dab.
+    Mieruniszki), per 29 km į šiaurės vakarus nuo Suvalkų, to pat vardo valsčiaus įtvirtintas
+    centras.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

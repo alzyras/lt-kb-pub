@@ -110,7 +110,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-73248
@@ -132,7 +132,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-73250
@@ -160,5 +160,27 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190174
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 112"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 112."
+  citata_originali: |
+    Tiesa, ji rašto „industrijos“ institucija taps
+    tik nuo Vytauto, tačiau vienuolynuose buvo rašoma bulgarų kilmės slavų bažnytine kal-
+    ba, o LDK raštinėje pradėjo formuotis rašto tradicija, kurią kalbininkai aiškiai skiria nuo
+    minėtos bažnytinės kalbos ir šiandien vadina rusėnų kalba. Šia kalba, LDK raštinėje susi-
+    formavusia alternatyva „bulgariškai“ raštijos tradicijai, ir buvo surašyti reikšmingiausi
+    to meto raštijos fenomenai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
+    Taigi svarbiausias politinio lietuvių elito vaidmuo stačiatikiškoje kultūroje yra tas, kad
+    jie buvo šios kultūros užsakovai.
+  citata_rodoma: "lba, LDK raštinėje susi-\nformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir buvo surašyti reikšmingiausi \nto meto raštijos fenomenai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. \nTaigi"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

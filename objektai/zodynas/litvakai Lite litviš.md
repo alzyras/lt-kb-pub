@@ -116,7 +116,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-26792
@@ -135,7 +135,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166841
@@ -159,6 +159,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004

@@ -179,7 +179,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-75323
@@ -199,7 +199,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-75324
@@ -220,7 +220,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-75325
@@ -245,7 +245,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-75326
@@ -269,5 +269,5 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

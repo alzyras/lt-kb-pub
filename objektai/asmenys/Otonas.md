@@ -63,6 +63,40 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
   pagrindžia:
     - c-61032
 
+<a id="claim-t-223987"></a>
+- t-223987
+  teiginys: "1266 metais — Brandenburgo markgrafas Otonas su sūnumi bei tikruoju broliu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204815
+
+<a id="claim-t-224102"></a>
+- t-224102
+  teiginys: "Šaltinis pasakoja, kad Otonas, Braunšveigo valdovas ir kunigaikštis, į Prūsiją atvyko su daugybe maldininkų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206078
+
+<a id="claim-t-225420"></a>
+- t-225420
+  teiginys: "Otonas buvo iškalbingas, mandagus, išmintingas, apdairus, atsargus, o visi jo darbai rodo jį buvus garbingą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.'
@@ -105,8 +139,43 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204815
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129."
+  citata_originali: |
+    1266 metais — Brandenburgo
+    markgrafas Otonas su sūnumi bei tikruoju broliu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223987
+
+- id: c-206078
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
+  citata_originali: |
+    į Prūsijos žemę su daugybe
+    maldininkų atvyko kilnusis ir pamaldusis Otonas, šviesusis Braunšveigo valdovas ir
+    kunigaikštis, vadinamas taip pat ir [Otonu] iš Liuneburgo
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224102
 
 ## Ryšiai
 - Otonas buvo palaidotas [[objektai/vietos/Akonas]]

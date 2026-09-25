@@ -81,5 +81,29 @@ Anoniminė 1835 m. recenzija buvo apibūdinta kaip bene reikšmingiausia ir ypa�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200631
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 55."
+  citata_originali: |
+    Pirmoji buvo anoni­
+    miška, o antroji priklausė Juozapo Ignoto Kraševskio
+    plunksnai.
+    Bene pati reikšmingiausia, ypač didelės apimties (25 pus­
+    lapių) buvo anoniminė 1835 metų recenzija18. Rašinio auto­
+    rius tokią apimtį aiškino taip: „Šis veikalas atneša tokią pat
+    garbę tiek autoriaus pilietiniam sumanymui, tiek ir leidėjui
+    ponui Marcinovskiui; jis yra sugalvotas turint tokį svarbų tiks­
+    lą ir taip rūpi visiems tenykščiams provincijos gyventojams,
+    kad mūsų leidinyje negalima apsiriboti tik sausa užuomina ar­
+    ba tik visapusiškomis liaupsėmis“19.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -80,5 +80,27 @@ Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakaln�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200083
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
+  citata_originali: |
+    Už Tilžės, žemiau Vingio (Winge) dvaro, prie
+    Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­
+    nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
+    kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio
+    (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį,
+    pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
+    Kronu). Tai rodo, kad vietos gyventojai kadaise Nemuną tik­
+    rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi-
+    17 Stender.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

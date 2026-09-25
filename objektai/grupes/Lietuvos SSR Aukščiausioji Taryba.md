@@ -173,7 +173,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-22575
@@ -200,7 +200,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-22576
@@ -224,7 +224,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-22578
@@ -248,7 +248,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-22579
@@ -274,5 +274,5 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

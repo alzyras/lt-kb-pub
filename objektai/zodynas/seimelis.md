@@ -141,8 +141,9 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184025
@@ -162,7 +163,7 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184026
@@ -182,6 +183,7 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-184027
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -204,6 +206,7 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-184029
   redaktorius: "A. Šapoka"
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -226,7 +229,7 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -237,6 +240,7 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:49"
-  pagrindzia:
+  pagrindžia:
     - t-005

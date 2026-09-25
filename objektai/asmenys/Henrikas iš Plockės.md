@@ -289,7 +289,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-60497
@@ -311,7 +311,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-60498
@@ -335,7 +335,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-60499
@@ -359,7 +359,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-60500
@@ -383,7 +383,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-60501
@@ -405,7 +405,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60502
@@ -425,9 +425,28 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-008
+
+- id: c-205266
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
+  citata_originali: |
+    Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
+    visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie,
+    kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir sustatę
+    karo įrenginius, ilgą laiką smarkiai ją puldinėjo, tačiau nesėkmingai. Todėl, kai kurie ne
+    kurie broliai ir keli pilėnai liko sužeisti, jie pasitraukė nutraukę apgulą.
+    317 (310).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Henrikas iš Plockės puolė [[objektai/vietos/Bisenė]], [[objektai/vietos/Sizditė]]

@@ -83,5 +83,5 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

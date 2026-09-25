@@ -83,11 +83,12 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
     neik vienas, veskis ir mane.
   citata_rodoma: "— Ar nepasapnavai šiandien ko gero? Rauleli, kai eisi į Lomius, neik vienas, veskis ir mane."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177919
@@ -106,5 +107,5 @@ Lomiai šiame šaltinyje yra gyvenvietė ar vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

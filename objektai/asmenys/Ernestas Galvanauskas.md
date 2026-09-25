@@ -182,7 +182,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-154643
@@ -205,7 +205,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -226,7 +226,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-154645
@@ -250,6 +250,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-154646
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -268,7 +269,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166924
@@ -290,5 +291,5 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

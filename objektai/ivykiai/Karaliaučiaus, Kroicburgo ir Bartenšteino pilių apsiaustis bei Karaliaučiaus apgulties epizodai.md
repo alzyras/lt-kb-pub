@@ -293,7 +293,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-59810
@@ -317,7 +317,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-009
 
@@ -338,7 +338,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-59812
@@ -366,7 +366,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-59813
@@ -387,7 +387,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59814
@@ -408,7 +408,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-010
 
@@ -436,7 +436,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-167313
@@ -459,5 +459,105 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202807
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
+  citata_originali: |
+    Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
+    už piktus sumanymus bei klastingas užmačias, niekais vertė viską, ko šie griebdavosi.
+    Matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai,
+    pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius
+    maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų. Susirūpinę šiuo reikalu,
+    broliai bei komtūras slapta pasiuntė vieną vyrą, kuris, kartą pragręžęs šiuos laivus grąžtu,
+    taip dažnai šitai kartojo, kad priešai, nukamuoti didelių įstangų ir išlaidų, turėjo liautis
+    puldinėję brolių laivus, kurių nemaža jau buvo sunaikinę, o įgulas paėmę nelaisvėn ir
+    išžudę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202825
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
+  citata_originali: |
+    Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
+    Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas
+    priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė
+    pastatyti tiltą per Priegliaus upę, o abiejuose tilto galuose įrengti tvirtus kuorus,
+    manydami galėsią šitaip trukdyti broliams plukdyti į Karaliaučiaus pilį visokius reikmenis.
+    Kai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei
+    laukti negailestingos bado mirties, todėl apsiginklavo ir susėdo į laivus, o kai priplaukė
+    netoli tilto, nuleido inkarus, tačiau pakilo smarkus vėjas ir nubloškė juos prie pat tilto,
+    Žinoma, šitai įvyko dėl dievo apvaizdos; kopdami ant tilto, jie užtiko daugybę ginkluotų
+    vyrų ant jo ir kuoruose, iškylančiuose virs galvų, vieni jiems narsiai priešinosi ant tilto,
+    kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
+    matęs vedant nedidelį karių būrį. Galop aukštybių dievas atėjo jiems į pagalbą, o kad
+    šitaip buvo, neverta nė abejoti, nes žmonėms vargu ar būtų užtekę jėgų taip grumtis
+    su tokia daugybe priešų, kad broliai galėtų, juos išvaikę, iki pamatų išardyti ir sunaikinti
+    tiltą bei kuorus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203263
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
+  citata_originali: |
+    Apie laimėtą mūšį, kuriame Julicho ir Markos grafai nukovė tris tūkstančius
+    sembų
+    Prūsijos žemės broliai bei tikintieji, įvairiopų negandų užgulti, suvokė artėjant galą
+    ir, pagauti baimės, pravirko kruvinomis ašaromis, tačiau nestengė vienas kito paguosti,
+    nes būgštavo, kad dievas ant jų labai užsirūstinęs. Po dvejus metus užtrukusių smarkių
+    kovų jų jėgos ėjo silpnyn, o tikėjimo priešai stiprėjo.	 Todėl jie nuolankiai ir gailiai kėlė
+    akis į dangų, su ašaromis šaukdamiesi viešpaties pagalbos, ir viešpats jų išklausė.
+    Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
+    kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
+    pavakarę, jie atvyko į Karaliaučiaus pilį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204145
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 121-122"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121-122."
+  citata_originali: |
+    Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­
+                                         lojaus kalvoje
+
+      Aplink parapinę švento Mikalojaus bažnyčią, ant kalvos prie Karaliaučiaus pilies, broliai
+    buvo įkūrę miestą376; kadangi jis nebuvo deramai sutvirtintas, sembai netikėtai jį užpuolė
+      375 D. — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama
+    suktuvu. Šis kovos prie Karaliaučiaus epizodas įdomus viduramžių raitelių ir pėstininkų
+    kovos vedimo būdams suvokti (Дельбрюк Г., История..., т. 3, с. 193).
+      376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane (Brauno) yra prie Steindamm
+    gatvės. Vėliau — Steindamm Kirche (1613 m, XX a. planai), polnische Kirche (1815 m.
+    planas). Bažnyčia stovėjo apie 250 m į šiaurės vakarus nuo buv. pilies. Šioje vietoje, apie
+
+    ir visiškai sugriovė, daug žmonių paimdami į nelaisvę ir išžudydami. Todėl vėliau miestas
+    buvo perkeltas į slėnį tarp Priegliaus ir pilies, į tą vietą, kur tebestovi ir šiandien377.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -108,7 +108,7 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-47158
@@ -134,5 +134,5 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

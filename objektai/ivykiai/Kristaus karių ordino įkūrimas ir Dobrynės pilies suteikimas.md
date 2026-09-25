@@ -105,5 +105,5 @@ Dusburgietis pasakoja, kad Konradas, patartas vyskupo Kristijono ir didikų, sub
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

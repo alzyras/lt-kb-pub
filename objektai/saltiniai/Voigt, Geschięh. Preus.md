@@ -52,5 +52,5 @@ Visur rodo lietuvius it 1 V o i g t, Geschięh.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -75,7 +75,7 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184546
@@ -99,5 +99,5 @@ Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

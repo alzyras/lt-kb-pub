@@ -85,7 +85,7 @@ Hermanas iš Lichtenburgo dėvėjo grandininius marškinius ant pliko kūno. Bro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-203800
@@ -105,5 +105,5 @@ Hermanas iš Lichtenburgo dėvėjo grandininius marškinius ant pliko kūno. Bro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -84,7 +84,7 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185201
@@ -100,7 +100,7 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185202
@@ -117,5 +117,5 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

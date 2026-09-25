@@ -100,6 +100,18 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   pagrindžia:
     - c-173883
 
+<a id="claim-t-215167"></a>
+- t-215167
+  teiginys: "Rytų imperatorius Zenonas atsiuntė pasiuntinius, kurie, linkėdami laimės, buvo slap ta įpareigoti susipažinti su padėtimi Italijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194766
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas.'
@@ -148,7 +160,7 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173883
@@ -179,6 +191,26 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
+
+- id: c-194766
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 314-315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314-315."
+  citata_originali: |
+    Rytų imperatorius Zenonas
+    304
+
+    atsiuntė pasiuntinius, kurie, linkėdami laimės, buvo slap­
+    ta įpareigoti susipažinti su padėtimi Italijoje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215167

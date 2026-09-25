@@ -724,6 +724,162 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   pagrindžia:
     - c-188090
 
+<a id="claim-t-212162"></a>
+- t-212162
+  teiginys: "Tikrieji latviai gyveno Kuršo ir Žemgalos kunigaikštystėse bei Piltenės grafystėje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196163
+
+<a id="claim-t-212657"></a>
+- t-212657
+  teiginys: "Arba jie buvo latviai, kuriuos rusai ir dabar vadina Kreewi {ir."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197426
+
+<a id="claim-t-214549"></a>
+- t-214549
+  teiginys: "Lietuvių padermės tautos: senovės prū sai, galindai, sūduviai, kuršiai ir šiandieniai lietuviai, taip pat ir latviai, dėl dviejų priežasčių nusipelnė ypatin go slavų istoriko ir kalbos tyrinėtojo dėmesio."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194840
+
+<a id="claim-t-215083"></a>
+- t-215083
+  teiginys: "Vėliau paaiškėjo, jog ši malda buvusi latvių kalba."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196191
+
+<a id="claim-t-215594"></a>
+- t-215594
+  teiginys: "Viskas pasakyta teisingai ir bešališkai, išskyrus apie latvius, ku rie ir šiandieną tebešneka savo kalba, o be to, ir jos raštą tobu lina."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195151
+
+<a id="claim-t-216103"></a>
+- t-216103
+  teiginys: "Atminimas apie šios deivės garbinimą išliko tiktai Latvi joje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199738
+
+<a id="claim-t-217336"></a>
+- t-217336
+  teiginys: "Narbutas teigia, kad latviai savo krašte rodė didelius pilkapius, vadinamus milžinkapiais arba M ilsu Kappi."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201396
+
+<a id="claim-t-217512"></a>
+- t-217512
+  teiginys: "Latviai iki šiol pamena Blukka wakars, tai yra rąstigalio vakarą, kuris švenčiamas per Kalėdas; tuo metu kaimiečiai ke lia vaišes, daug valgo, geria ir šokinėja per rąstigalį, kaip dykaduoniavimo simbolį, valkioja jį po kaimą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200748
+
+<a id="claim-t-218344"></a>
+- t-218344
+  teiginys: "Narbutas sujun gia ne tik dvi lietuvių, bet ir kitų baltų - prūsų, latvių - mitolo gijos tyrinėjimo tradicijas, nes lietuviais pagal beįsivyraujantį ano meto požiūrį jis vadina visus baltus; prūsai ir latviai, anot jo, esą tik „atskiros lietuvių gentys“."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200984
+
+<a id="claim-t-218797"></a>
+- t-218797
+  teiginys: "Latviai šį dievą vadino Drebbkuls, kadangi jo galybei pri skirdavo žemės drebėjimą: mat, kaip sako liaudies padavimai, kai Likimas užsirūstina ant žemės, tai ją, vargšę, taip plaka, kad visa dreba."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200013
+
+<a id="claim-t-219191"></a>
+- t-219191
+  teiginys: "Latviai vadina jį Auskučiu (Auskuč)."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201031
+
+<a id="claim-t-219284"></a>
+- t-219284
+  teiginys: "Latvių pranašautojai turėjo būrimo būdą, vadinamą Pimpolis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199310
+
+<a id="claim-t-219603"></a>
+- t-219603
+  teiginys: "Narbutas teigia, kad latviai ištikimiau už lietuvius išsaugojo senųjų mėnesių atminimą ir skaičiavo trylika mėnesių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198581
+
 ## Reikšmingi paminėjimai
 - c-030
   santrauka: 'Narbutas teigė, kad Latvija, žlugus politinei nepriklausomybei, virto vokiečių kolonija.'
@@ -777,7 +933,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-006
     - t-008
@@ -801,7 +957,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-154292
@@ -821,7 +977,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-154293
@@ -844,7 +1000,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-154294
@@ -874,7 +1030,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-154296
@@ -898,7 +1054,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-167877
@@ -930,11 +1086,12 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     Rusią.
   citata_rodoma: "Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-\n93\n\n## Puslapis 84\n\n1221 m e ta i\nK u k o v a itis — L ietu ­\nv o s  ir Ž e m a itijo s k u ­\nn ig a ik štis\ngojo taiką, būdamas beveik\niš visų pusių apsuptas bičiu­\nlių; vakaruose—prūsų- rytuo­\nse — brolio Ginvilos, Poloc­\nko kunigaikščio, pietuose\njotvingių ir Skirmanto, Nau­\ngarduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau\ntos pusės saugumą laidavo tai, kad vokiečiai ir latviai,\nįsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti\nLietuvos. Todėl, būdamas ramus dėl vidaus reikalų,\nKukovaitis galėjo siųsti didesnę pagalbą Skirmantui į\nRusią."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-171115
@@ -957,7 +1114,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-171116
@@ -978,7 +1135,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-171117
@@ -1000,7 +1157,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-171118
@@ -1022,7 +1179,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-171119
@@ -1045,7 +1202,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-171120
@@ -1069,7 +1226,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-171121
@@ -1089,7 +1246,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-171122
@@ -1109,7 +1266,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-171123
@@ -1131,7 +1288,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-171124
@@ -1153,7 +1310,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-171125
@@ -1178,7 +1335,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-171126
@@ -1197,7 +1354,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-171127
@@ -1218,7 +1375,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-171128
@@ -1237,7 +1394,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-171129
@@ -1259,7 +1416,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-171130
@@ -1281,7 +1438,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-171131
@@ -1299,7 +1456,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-171132
@@ -1319,7 +1476,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-171133
@@ -1340,7 +1497,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-171134
@@ -1361,7 +1518,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-171135
@@ -1382,7 +1539,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-171136
@@ -1403,7 +1560,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-171138
@@ -1425,7 +1582,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-171139
@@ -1448,7 +1605,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-175213
@@ -1477,7 +1634,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-175214
@@ -1503,7 +1660,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
 
 - id: c-175215
@@ -1526,7 +1683,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
 
 - id: c-188090
@@ -1548,8 +1705,450 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
+
+- id: c-194840
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 15"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 15."
+  citata_originali: |
+    Lietuvių padermės tautos: senovės prū­
+    sai, galindai, sūduviai, kuršiai ir šiandieniai lietuviai,
+    taip pat ir latviai, dėl dviejų priežasčių nusipelnė ypatin­
+    go slavų istoriko ir kalbos tyrinėtojo dėmesio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214549
+
+- id: c-195151
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 513"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 513."
+  citata_originali: |
+    Viskas pasakyta teisingai ir bešališkai, išskyrus apie latvius, ku­
+    rie ir šiandieną tebešneka savo kalba, o be to, ir jos raštą tobu­
+    lina.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215594
+
+- id: c-196163
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 290-291"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290-291."
+  citata_originali: |
+    Tikrieji latviai gyvena:
+    1) abiejose Kuršo ir Zemgalos kunigaikštystėse, taip pat
+    Piltenės grafystėje; 2) toje Livonijos dalyje, kurią vadi­
+    na Letlandija arba Latgala; 3) Lenkijos Livonijoje; 4)
+    1 Žemėlapis Kruzės veikale „Necrolivonica"**,
+    2 Lett. Gramm.
+    280
+
+    Lietuvoje prie Kuršo sienos, ypač dviejose liuteroniškose
+    Žeimelio ir Biržų parapijose
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212162
+
+- id: c-196191
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 515."
+  citata_originali: |
+    Vėliau paaiškėjo, jog ši malda
+    buvusi
+    latvių
+    kalba.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215083
+
+- id: c-197426
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  citata_originali: |
+    Arba jie
+    buvo latviai, kuriuos rusai ir dabar vadina Kreewi {ir.
+    Stender. Lettische Gramm.), arba lietuviai. Taip manyti
+    galima pagal jų krašto padėtį
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212657
+
+- id: c-197936
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 147"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 147."
+  citata_originali: |
+    Austėja (Austheja)
+    Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi
+    geidaujant iš kur nors atklydusį jaunų bičių spiečių įsivilioti į
+    savo avilius ir dreves. Ji taip pat turėjo galios saugoti bites nuo
+    kenksmingų vabzdžių ir kitų nutikimų.
+    Lasickis jos išsamiau neaiškino.
+    Latviai taip pat turėjo bičių dievybę, vadinamą gana pana­
+    šiai - Uhsinsz arba Szwets uhsinsz21.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198067
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 437"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 437."
+  citata_originali: |
+    Tito tarpu
+    Žemaitijoje, kuri yra penkiasdešimt romėniškų mylių ilgio, ir Lie­
+    tuvoje, kuri yra trisdešimt romėniškų mylių ilgio, sodžiuose šne­
+    ka lietuviškai, o didžiojoje dalyje lenkti kalbą pripažįsta, ir kuni­
+    gai jų bažnyčiose lenkiškai pamokslauja). Viskas pasakyta tei­
+    singai ir bešališkai, išskyrus apie latvius, kurie ir šiandieną tebeš-
+    neka savo kalba, o be to, ir jos raštą tobulina. Tuo tarpu jotvin­
+    gių kalbos neturime jokio aiškesnio pavyzdžio, todėl ir negalime
+    pa tikrinti Mechovitos nuomonės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198581
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 324."
+  citata_originali: |
+    Latviai ištikimiau išsaugojo senųjų mėnesių atminimą pa­
+    gal skaičiavimą nuo jauno iki jauno mėnulio. Todėl jų mėne­
+    siai neatitinka mūsiškių arba nesutampa su mūsų kalendorių
+    skaičiavimu, nes jų yra trylika.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219603
+
+- id: c-198954
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  citata_originali: |
+    Beje, labai gali būti,
+    kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
+    būdindama dievybių lytį, bet ne čia esmė; tai lengvai ištaiso­
+    ma, jeigu tik atsirastų kokių nors žinių apie šį dalyką.
+    Latviai žinojo šią dievybę kaip Pilviką (Pelwihkse), kitaip
+    Szkahde. Stenderis, tuose savo latvių mitologijos straipsniuo­
+    se saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­
+    mės ir tiesos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199310
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 305-306"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 305-306."
+  citata_originali: |
+    Latvių pranašautojai turėjo būrimo būdą, vadinamą Pim-
+    polis. Vaško rutuliuką, padarytą su tam tikromis apeigomis, su
+    40 Quae [domina] secundum ritum ipsorum sacra et prophetissa
+    reputabatur... (Kurią [viešpaty], pasak savo pačių tikėjimo, jie laikė
+    šventąja bei žyne <...>) Dusburg. - Pars III. - Cap. 4.
+    41 Liaudies padavimas nuo Pelesos krantų.
+    306
+
+    tam tikru magišku siūlu pakabindavo kamine. Buvo buriama
+    stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219284
+
+- id: c-199738
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 148."
+  citata_originali: |
+    Atminimas apie šios deivės garbinimą išliko tiktai Latvi­
+    joje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216103
+
+- id: c-199949
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  citata_originali: |
+    Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
+    pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­
+    nius žalčius; šie baltu rankšluosčiu užšliaužia ant stalo ir ra­
+    gauja valgių, kuriuos paskui žmonės suvalgo, bet jeigu žalčiai
+    nenorėtų išlįsti arba ėsti, tai reikštų gresiančią namui didelę
+    nelaimę“.
+    Latviai naminius žalčius, garbintus kaip fetišus, vadino
+    Czuhskas. Šiuos prietarus žinojo ir Lietuvos rusinai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200013
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 90"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 90."
+  citata_originali: |
+    Latviai šį dievą vadino Drebbkuls, kadangi jo galybei pri­
+    skirdavo žemės drebėjimą: mat, kaip sako liaudies padavimai,
+    kai Likimas užsirūstina ant žemės, tai ją, vargšę, taip plaka,
+    kad visa dreba.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218797
+
+- id: c-200384
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 183"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 183."
+  citata_originali: |
+    Juodas (Johds)
+    Laukų arba miškų velnias, tam tikra dvasių gąsdintojų rū­
+    šis. Daugiskaita Juodi (,Johdi) reiškia oro dvasias, mirusiųjų
+    vėles. Latvijos kaimiečiai, išlaikę tą mitą, dar ir dabar, išvydę
+    šiaurės pašvaiste, sako: Johdi Kaujahs, dvasios kaunasi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200408
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 185"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 185."
+  citata_originali: |
+    Didingai riedėdama savo keliu, apžvelgusi visą pasaulį,
+    kuris, lietuvių supratimu, buvęs ne apvalus, o plokščias ir ova­
+    lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
+    maudyti ir vykdavo į savo rūmus nakties poilsio.
+    Tačiau tam tikru metu atsitikdavo, kad drakonai ir kerėto­
+    jai užpuldavo dieną bebėgančią Saulę, todėl kildavo kova, ir
+    Saulė aptemdavo. Latviai šį nutikimą vadina Majtaszana arba
+    Saules majtaszana, Saulės gadinimu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200624
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
+  citata_originali: |
+    Datonas (Datonus)
+    Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie
+    jį papasakojo Lasickis. Tenka spėlioti, kad tai buvo savotiškas
+    Plutono sekimas.
+    Latviai, pasak Stenderio, jį vadino Pilnyčiu (Pilnitis).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200748
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 339"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 339."
+  citata_originali: |
+    Latviai iki šiol pamena Blukka wakars, tai yra rąstigalio
+    vakarą, kuris švenčiamas per Kalėdas; tuo metu kaimiečiai ke­
+    lia vaišes, daug valgo, geria ir šokinėja per rąstigalį, kaip dyka-
+    duoniavimo simbolį, valkioja jį po kaimą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217512
+
+- id: c-200984
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 19."
+  citata_originali: |
+    T. Narbutas sujun­
+    gia ne tik dvi lietuvių, bet ir kitų baltų - prūsų, latvių - mitolo­
+    gijos tyrinėjimo tradicijas, nes lietuviais pagal beįsivyraujantį
+    ano meto požiūrį jis vadina visus baltus; prūsai ir latviai, anot
+    jo, esą tik „atskiros lietuvių gentys“, „atskiros lietuvių genties
+    tautos“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218344
+
+- id: c-201031
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 156-157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 156-157."
+  citata_originali: |
+    Latviai vadina jį Auskučiu (Auskuč). Jiems jis buvo ne tik
+    žmonių ir naminių gyvulių gydymo globėjas, bet ir saugodavo
+    31 O pravvach. - T. II. - S. 185 (prierašas Nr. 1543)**.
+    32 Švięcki. Opis starožytnej Polski. Wydanie 2-gie. - T. II. -
+    S. 246***.
+    157
+
+    nuo visokių ligų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219191
+
+- id: c-201090
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
+  citata_originali: |
+    O jų sugebėjimai ir išmonė, tamsių žmonių aki­
+    mis, viršijantys kitų sugebėjimus, praradus anksčiau turėtą pa­
+    garbą, pavertė juos kerėtojais. TodėlBurtinikas ir Ciustinikas -
+    tikrasis burtininkas - lietuviams buvo lygiareikšmiai žodžiai;
+    latviams tą patį reiškė Barnis nuo žodžio Bart - kerėti. Pana­
+    šiai slavų Guslarz (kerėtojas) iš Gęsl, Husla - styginis instru­
+    mentas .
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201132
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 210"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 210."
+  citata_originali: |
+    Latviai vadina lapę kapsu Kuhmina - lapė kūma, Wilks
+    snohts (gal veikiausvohts) - vilkas svainis (piršlys. -R. J.). Žmo­
+    nių pasakojimuose arba pasakose gyvuliai kalba ir veikia kaip
+    pas Ezopą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201396
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 371"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
+  citata_originali: |
+    Latviai savo krašte iki šiol rodo didelius pilkapius, ku­
+    riuos savo padavimuose apie milžinus arba didelius žmones
+    vadina milžinkapiais, M ilsu Kappi. Tie sampilai priklauso toli­
+    mai senovei; tokių padavimų yra ir kitose lietuvių genties tau­
+    tose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217336
 
 ## Ryšiai
 - Latviai gyveno [[objektai/vietos/Dauguva]], [[objektai/vietos/Vidžemė]]

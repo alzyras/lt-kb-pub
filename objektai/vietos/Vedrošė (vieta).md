@@ -89,7 +89,7 @@ Vedrošė — upė ir kaimas dabartinėje Smolensko srityje. 1500 m. liepos 14 d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-194123
@@ -105,5 +105,5 @@ Vedrošė — upė ir kaimas dabartinėje Smolensko srityje. 1500 m. liepos 14 d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -48,6 +48,18 @@ Narbutas nurodė, kad Hartknochas aprašė padavimus apie Bitinijos keliautojo D
   pagrindžia:
     - c-174637
 
+<a id="claim-t-219689"></a>
+- t-219689
+  teiginys: "Hartknocho istorijoje aptariamos ištraukos iš Jokūbo privilegijos, duotos prūsams 1249 metais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200036
+
 ## Citatos
 
 - id: c-174637
@@ -74,5 +86,51 @@ Narbutas nurodė, kad Hartknochas aprašė padavimus apie Bitinijos keliautojo D
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195290
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
+  citata_originali: |
+    Iš imperatoriaus Augusto valdy­
+    mo Romos valstybėje epochos išliko geografijos—istorijos
+    paminklas, susijęs su mūsų tema. ITartknochas savo prūsų
+    istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­
+    sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo
+    laikoma pradingusia, apie senovės Prūsiją, — ją cituoja
+    ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus
+    ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
+    neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
+    te, vėliau pavadintame Prūsija, stebėjimus. Mes panau­
+    dosime Hartknocho aprašytus padavimus, pridurdami ir
+    Luko Davido kronikos teiginius, kurių nežinojo anas au­
+    1 Lib.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200036
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
+  citata_originali: |
+    Turime pakankamai kronikose išlikusių raštiškų paminė­
+    jimų, kuriuos kruopščiai surinko Hartknochas savo Prūsijos
+    istorijoje; ypač reikšmingos yra ištraukos iš popiežiaus legato,
+    Leodijos arkidiakono Jokūbo privilegijos, duotos prūsams 1249
+    metais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219689

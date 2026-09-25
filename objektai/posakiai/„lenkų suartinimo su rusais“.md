@@ -92,7 +92,7 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166891
@@ -114,5 +114,5 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

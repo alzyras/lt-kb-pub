@@ -106,7 +106,7 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-157665
@@ -139,7 +139,7 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

@@ -112,6 +112,18 @@ Baltų / prūsų regioninė grupė.
   pagrindžia:
     - c-187845
 
+<a id="claim-t-214759"></a>
+- t-214759
+  teiginys: "Narbutas teigia, kad lietuviai ir sambiai, gindami senąją pilį, buvo supylę apkasus prie Memelio ir Dangės santakos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197233
+
 ## Citatos
 
 - id: c-170875
@@ -142,7 +154,7 @@ Baltų / prūsų regioninė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175248
@@ -166,7 +178,7 @@ Baltų / prūsų regioninė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179227
@@ -193,7 +205,7 @@ Baltų / prūsų regioninė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-187845
@@ -215,5 +227,74 @@ Baltų / prūsų regioninė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-196215
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
+  citata_originali: |
+    Lietuvių protėviams atėjus į šiuos
+    kraštus, Sambijoje įsikūrė daugiausia senovės budinus
+    sudarantys gyventojai. Hugas Grocijus, tyręs budinu ko­
+    lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs
+    tyrimai paaiškina istorinę tiesą; tas autorius buvo Gero-
+    pijus Bekanas3. Sambijoje buvo gynybinių miestų, puikių
+    dievams garbinti skirtų šventųjų vietų, pastatytų turtin­
+    gų dvarų ir dėl nepaliaujamų susidūrimų su pakrančių
+    plėšikais gana daug laukinių, nepasitikinčių, tarpusavyje
+    besivaidijančių gyventojų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196925
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
+  citata_originali: |
+    Sambija — ne itin didelis
+    kraštas, anksčiau, kol jūra per visą pakrantės ilgį nepa­
+    siglemžė dalies sausumos, buvęs platesnis, nes, anot kai
+    kurių stebėtojų, buvo atplėštas keliolikos kvadratinių my­
+    lių plotas2. Ji turėjo daugiausiai pasaulyje gintaro, gy­
+    ventojai visados buvo patys turtingiausi. Provincija ko­
+    vai su kryžiuočiais galėjo surinkti apie 40 000 pėstininkų
+    ir tiek pat raitelių. Lietuvių protėviams atėjus į šiuos
+    kraštus, Sambijoje įsikūrė daugiausia senovės budinus
+    sudarantys gyventojai. Hugas Grocijus, tyręs budinu ko­
+    lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs
+    tyrimai paaiškina istorinę tiesą; tas autorius buvo Gero-
+    pijus Bekanas3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197233
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 182"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 182."
+  citata_originali: |
+    Miesto riba
+    turėjo būti prie apkasų, kur prieš daugelį metų prie Ne­
+    muno stovėjo pilis, prie Memelio ir Dangės upės santakos,
+    iki pat apkasų, kuriuos buvo supylę lietuviai ir sambiai,
+    gindami senąją pilį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214759

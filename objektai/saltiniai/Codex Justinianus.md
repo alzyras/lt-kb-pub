@@ -53,5 +53,20 @@ Dusburgietis teigia, kad codex Justinianus (VI a.) terrula (demin.) — žemės 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202372
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 56."
+  citata_originali: |
+    Plg. Codex Justinianus
+    (VI a.) terrula (demin.) — žemės sklypas (sklypelis).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -139,7 +139,7 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-82706
@@ -161,7 +161,7 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82707
@@ -181,7 +181,7 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82708
@@ -210,5 +210,5 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

@@ -76,5 +76,5 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -78,5 +78,5 @@ Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Korner
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

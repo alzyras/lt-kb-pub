@@ -76,5 +76,5 @@ Ragainės broliai su sembais įsiveržė į Paštuvos, o kita kariuomenės dalis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

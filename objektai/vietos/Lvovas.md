@@ -168,28 +168,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   pagrindžia:
     - c-182381
 
-<a id="claim-t-199603"></a>
-- t-007
-  teiginys: "Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Citata remia tikslesnį veiksmą „kariavo“, o ne vien „nusiaubė“."
-  susije_objektai: "mentioned_place: Krokuva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lvovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lvovas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182384
-
 <a id="claim-t-199604"></a>
 - t-008
   teiginys: "Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė."
@@ -245,6 +223,45 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   pagrindžia:
     - c-182386
 
+<a id="claim-t-207804"></a>
+- t-207804
+  teiginys: "Tvirčiausios tame krašte buvo Lvovo ir Kamieneco-Podolsko pilys."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190415
+
+<a id="claim-t-208380"></a>
+- t-208380
+  teiginys: "Nuo 1798 m. pabaigos V. I. Marevičius gyveno Lvove ir Varšuvoje."
+  atnaujinta: "2026-09-19 09:44"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: po 1798 m.; gyvenimo laikotarpis: 1798 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip gyvenimo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190960
+
+<a id="claim-t-210806"></a>
+- t-210806
+  teiginys: "Ir Lvove juos pasiekė žinia apie didžiojo kunigaikščio mirtį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193667
+
 ## Reikšmingi paminėjimai
 - c-007
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -279,7 +296,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-111632
@@ -301,7 +318,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-111634
@@ -325,7 +342,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-168397
@@ -360,7 +377,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175955
@@ -382,7 +399,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-182377
@@ -401,6 +418,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182379
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -417,7 +435,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-182380
@@ -440,6 +458,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182381
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -459,7 +478,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-182383
@@ -482,6 +501,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182384
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -500,8 +520,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
 
 - id: c-182385
   autorius: "Michał Baliński"
@@ -525,6 +543,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-182386
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -544,7 +563,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-186116
@@ -567,7 +586,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186117
@@ -587,5 +606,61 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-190415
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 161"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 161."
+  citata_originali: |
+    Tai ypač buvo justi pietinėse
+    Ukrainos teritorijose - Voluinėje, Podolėje, kurias nuolat puldinėjo totoriai. Nors pilys
+    čia buvo labai svarbi gynybos grandis, Žygimanto Augusto laikais jų tinklas buvo retas,
+    ne visos jos buvo mūrinės, daug dar buvo medinių, sutvirtintų žemėmis. Tvirčiausios
+    tame krašte buvo Lvovo ir Kamieneco-Podolsko pilys.
+  citata_rodoma: "Tvirčiausios\ntame krašte buvo Lvovo ir Kamieneco-Podolsko pilys."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207804
+
+- id: c-190960
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 291"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 291."
+  citata_originali: |
+    Po Abiejų Tautų Respublikos paskutiniojo padalijimo V. I. Marevičius
+    tebegyveno Vilniuje, rašė ir spausdino proginius eilėraščius bei dramas. Jos buvo
+    statomos Vilniaus scenoje, kurioje pats V. I. Marevičius vaidino kartu su žmona.
+    Nuo 1798 m. pabaigos abu gyveno Lvove ir Varšuvoje.
+  citata_rodoma: "Nuo 1798 m. pabaigos abu gyveno Lvove ir Varšuvoje."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208380
+
+- id: c-193667
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 112."
+  citata_originali: |
+    Ir Lvove juos pasiekė žinia
+    apie didžiojo kunigaikščio mirtį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210806

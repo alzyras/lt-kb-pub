@@ -107,7 +107,7 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-30456
@@ -122,10 +122,11 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
     pažino, kad jis davęs ne originalų veikalą, o tik perdirbęs ir su­
     trumpinęs Kojalavičių, kurio vertę, kaip istoriko, aukštai kėlė.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

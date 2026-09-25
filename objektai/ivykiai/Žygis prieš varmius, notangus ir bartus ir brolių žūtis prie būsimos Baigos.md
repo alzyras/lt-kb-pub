@@ -102,7 +102,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-67092
@@ -132,5 +132,49 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201629
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  citata_originali: |
+    243  Apie kovas su varmiais, notangais ir sembais kalba 1238. VI.11 dokumentas
+    (CDW, 1, Nr. 2). Skyrelyje aprašytas Varmės puolimas įvyko 1238 m. vasarą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204547
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
+  citata_originali: |
+    Apie brolių karą su varmiais, bartais ir notangais ir apie daugybės brolių ir krikščio­
+                                           nių žūtį
+
+      Vargu ar kas valiotų smulkiai papasakoti, kiek turėjo patirti magistras bei broliai
+    vargo, kokių susilaukti pavojų ir bėdų, stengdamiesi, kad Kristaus tikėjimas deramai
+    tarptų, o krikščioniškųjų žemių ribos butų plečiamos. Todėl po to, kai, įkvėpti dievo be
+    kurio nieko gera negali įvykti, pamedėnai ir pagudėnai pasidavė tikėjimui ir broliams,
+    tas pats magistras bei broliai susirengė  į kovą prieš varmius, notangus  ir bartus243.
+    Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
+    Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
+    Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
+    pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
+    nenorėdami grįžti tuščiomis rankomis,  užpuolė aplinkinius kaimus244, degindami juos
+    ir piešdami. Sitai pamatę, prūsai juos užpuolė ir išžudė visus brolius bei ginklanešius,
+    išskyrus tuos, kurie buvo palikti saugoti laivų. Matydami saviškių žūtį, šie greitai pasuko
+    atgal ir pranešė magistrui, kas atsitiko.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

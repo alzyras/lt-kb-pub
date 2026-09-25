@@ -128,7 +128,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-85369
@@ -160,6 +160,37 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
+
+- id: c-202786
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 240-241"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240-241."
+  citata_originali: |
+    Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
+
+    karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų,
+    gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną
+    II, kuris jį maloniai priėmė, pervažiavo Italiją ir persikėlė per Alpes, uoliai ragindamas
+    ir visaip skatindamas (mat šitai būta išmintingo žmogaus, gebančio ir veikti, ir kalbėti)
+    tiek Rytų, tiek Vakarų valdovus, tiek žemesnių luomų žmones aliai vieną drąsiai ryžtis
+    sunkiai maldininkų kelionei   į Jeruzalę, talkinant viešpačiui, o jo pasiuntiniui savo
+    kalbomis teikiant [kryžininkams] visokeriopų malonių. Neilgai trukus po to jo šventenybė
+    popiežius Urbonas, palydėjęs minėtąjį Petrą į Prancūziją, sušaukė visuotinį susirinkimą,
+    kuriame, pažadėjęs už šitokį dorą bei mielą maldininkų žygį visų nuodėmių atleidimą,
+    nuodugniai išklojo visiems, kuriuos šventoji dvasia skatino atkeršyti už nukryžiuotojo
+    žaizdas ir išvaduoti šventąją žemę, kokių negandų ir kokią priespaudą patiria tikintieji,
+    gyvenantys šventojoje žemėje, kaip niekina ir teršia tie purvini šunys viešpaties kapą
+    bei kitas šventąsias vietas. Ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji
+    gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai
+    bei  kiti kilmingieji  ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu,
+    duodami viešpačiui įžadus leistis į maldininkų žygį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

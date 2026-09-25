@@ -147,7 +147,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174612
@@ -172,7 +172,7 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179294
@@ -194,5 +194,50 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-197395
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  citata_originali: |
+    Be to, reikia pridurti nors ir nepilną, tačiau Nestoro
+    išsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­
+    jų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių
+    metu rengdavo turnyrus. Visa tai išliko Prūsijoje. Jie
+    nekalbėjo slaviškai, nes Nestoras nemini jų tarp slaviškų
+    genčių; jų kalba buvo labiau gimininga slavų kalbai:
+    Slėceris šias dvi kalbas skelbia esant antro giminystės
+    laipsnio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197478
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  citata_originali: |
+    Be to, ir Pretorijus sako,
+    jog prūsai ir rusai iš pradžių priklausė vienai genčiai;
+    variagų vardą jis kildina iš grynai prūsiško žodžio Wa-
+    rejs1, kuris dar jo laikais reiškė vyrą, prievarta renkantį
+    duoklę. Kaip puikiai tai sutampa su Nestoro pasakojimu,
+    jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
+    krivičiams.
+    Visų šių teiginių, kaip man atrodo, pakanka įrodyti,
+    jog ne vienai senovės prūsų kartai tenka garbė už tai,
+    1 Wareys, iš lietuviško žodžio Warikt, visiškai nesiderina su
+    \Warrejas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

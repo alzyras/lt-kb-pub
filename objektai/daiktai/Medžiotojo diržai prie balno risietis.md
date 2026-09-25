@@ -105,7 +105,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172572
@@ -130,5 +130,50 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198869
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  citata_originali: |
+    Ta pati mintis ateina Okolskiui
+    straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta­
+    čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs
+    Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau­
+    juosius Trakus, o ne Kęstutis. Lietuviai minėtus diržus vadina
+    Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
+    daikto pavadinimo, nes jį turėjo savo pačių kalboje. Slaptos
+    dievo Atlaibo šventyklos buvo Trakuose ir Vilniuje, ir po abiem
+    miestais yra visiškai tokie pat požemiai, iki šiol pakankamai
+    neaprašyti - Senųjų Trakų pilyje ir Vaikelio Jėzaus vienuoly­
+    ne.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199624
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 275."
+  citata_originali: |
+    Šis istori­
+    nis fragmentas toks įdomus, kad negalime nepaaiškinti kai ku­
+    rių vietų. Trakų pavadinimas iš tikrųjų nelietuviškas; slavų kal­
+    ba tai reiškia medžiotojo diržus, pritvirtintus prie balno, ku­
+    riais pririša žvėrieną; technišku medžiotojų terminu tai vadi­
+    nama utroczyc. Gali būti, kad, esant daugybei žvėrių, senos
+    lietuvių gyvenvietės, vadintos Gurghani, apylinkėse apsigyve­
+    nę rusinu kunigaikščiams duodamos duoklės rinkėjai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

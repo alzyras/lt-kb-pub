@@ -45,22 +45,6 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
 
 ## Teiginiai
 
-<a id="claim-t-89922"></a>
-- t-001
-  teiginys: "Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikautojų, kurių žygius vadino nuostabiais ir nepaprastais."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas, vardu Divelis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas, vardu Divelis\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-85833
-
 <a id="claim-t-89923"></a>
 - t-002
   teiginys: "Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje."
@@ -124,7 +108,7 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-85833
@@ -144,8 +128,6 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-85834
   autorius: "Petras Dusburgietis"
@@ -169,5 +151,5 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

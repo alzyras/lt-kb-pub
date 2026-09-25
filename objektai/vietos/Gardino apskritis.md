@@ -82,7 +82,7 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179205
@@ -103,5 +103,44 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198945
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 182"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
+  citata_originali: |
+    Tokie sku­
+    durai yra kobolių dovana.
+    Lydos ir Gardino apskričių sandūroje yra didelis ežeras,
+    vadinamas Kobeliu.
+    Atrodo, pradžią šioms spėlionėms yra davusi tam tikra na­
+    minių vabzdžių rūšis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199854
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
+  citata_originali: |
+    Vienoda jų sandara ir tokia pat radimo vieta įtikina,
+    jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
+    kad į jas tekėtų ašaros.
+    Tikrojoje Lietuvoje, tai yra Ukmergės, Vilniaus, Trakų ir Ly­
+    dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
+    rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
+    Obelijomis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

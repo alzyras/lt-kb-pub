@@ -109,7 +109,7 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44287
@@ -135,7 +135,7 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-44288
@@ -159,5 +159,5 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

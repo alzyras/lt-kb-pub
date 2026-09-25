@@ -84,5 +84,5 @@ Pasak Teodoro Narbuto, 1376 m. vasario 10 d. didysis magistras su rinktiniais ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

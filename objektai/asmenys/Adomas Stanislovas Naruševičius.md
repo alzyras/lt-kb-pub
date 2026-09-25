@@ -210,7 +210,7 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173992
@@ -233,7 +233,7 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173994
@@ -254,7 +254,7 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173995
@@ -282,7 +282,7 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173996
@@ -308,6 +308,58 @@ Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Fi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-006
+
+- id: c-196164
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 289."
+  citata_originali: |
+    Septynių miestų žemėje*, pa­
+    skutiniame amžiuje prieš krikščioniškosios eros pradžią.
+    Tuo remdamasis, Naruševičius savo Lenkijos istorijos
+    pirmo tomo 7 puslapyje nurodė, kad agatirų kolonijų būta
+    dešiniojoje šios upės pakrantėje. Tebus ir čia leista at­
+    kreipti dėmesį, kad pavadinimuose Marus ir Marosz yra
+    dalelė Rus ir Ross — lietuviško šventos upės pavadini­
+    mo. O savo gyvenimą tolimame Septynių miestų krašte,
+    kur jie buvo laiko audrų nublokšti, agatirai galėjo iš­
+    keisti į gyvenvietes tarp giminingų kartų, kai nesiliau­
+    jančios sarmatų revoliucijos neleido jiems ilgiau ramiai
+    gyventi prie Marokos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196782
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 253"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 253."
+  citata_originali: |
+    Tarp
+    mokslininkų ¡buvęs Hugo Grocijus2*, taip ¡pat Pilypas Kjiu-
+    veris3**, kuris rašo: „Žemė Owim, plytėjusi priešais go­
+    tus, yra ne kokia kita, o dabar vadinama Prūsija, pilna
+    pelkių ir ežerų, sunki armijai keliauti ir daugelyje vietų
+    visiškai neįžengiama; šią žemę net ir šiais laikais saksai
+    vadina Owimu. Pagaliau ir ¡pats Naruševičius, žinojęs
+    tuos pačius ir, ko gero, dar ir kitus mums nežinomus įro­
+    dymus, visiškai rėmė šią nuomonę4.
+    247
+    Tas pats Jordanas, puikiai išmanęs istoriją ¡gotų, nuo
+    neatmenamų laikų turėjusių glaudžių santykių su lietuvių
+    žemėmis, tikriausiai žinojo jų geografinę padėtį ir pava­
+    dinimus, be to, jo žinios mums labai svarbios.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -36,17 +36,18 @@ La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (
 
 ## Teiginiai
 
-<a id="claim-t-197335"></a>
-- t-001
-  teiginys: "Pogge buvusi 4 uolekčių ilgio, 3 uolekčių pločio."
-  atnaujinta: "2026-07-12 22:32"
+<a id="claim-t-219536"></a>
+- t-219536
+  teiginys: "La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas (tas pats ir straipsnis „Kobham“); Pogge."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-177244
+    - c-198609
 
 ## Citatos
 
@@ -66,5 +67,22 @@ La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-198609
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
+  citata_originali: |
+    Taip anot pono Foigto tyrimų.
+    Tautinė senovės prūsų vėliava, kurią nešdavo karo žygiuo­
+    se ir iškeldavo pilių bokštuose, kai joms grėsdavo priešas. Is­
+    torikas Grunau teigia, kad pats turėjęs tokią vėliavą rankose
+    ir ją išmatavęs: ji buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219536

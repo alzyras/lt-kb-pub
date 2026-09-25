@@ -84,6 +84,18 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   pagrindžia:
     - c-60828
 
+<a id="claim-t-222345"></a>
+- t-222345
+  teiginys: "Pukuveras, šaltinio įvardijamas Lietuvos karaliumi, pasiuntė sūnų Vytenį su kariuomene į Lenkiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202936
+
 ## Citatos
 
 - id: c-60827
@@ -125,7 +137,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-60828
@@ -148,8 +160,50 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-202936
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 182-183"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182-183."
+  citata_originali: |
+    Apie Lenkijos žemės apiplėšimą
+
+      Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
+    kariuomene  į Lenkiją,  į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių
+    nukovę bei paėmę  į nelaisvę, išdeginę bei išgrobstę, Kazimieras bei Lokietka, Lenkijos
+    kunigaikščiai, nerimaudami dėl savo žmonių likimo, paprašė brolį Meinhardą, Prūsijos
+    magistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
+    kunigaikščiai pasileido bėgti su visais savo lenkais. Sitai matydami, broliai nusigando ir,
+    neturėdami jėgų atsispirti tokiai daugybei priešų, irgi pasitraukė, tiesa, patyrę nemažų
+    nuostolių, nes daug brolių bei kitų krikščionių buvo sunkiai sužeista anksčiau, nei jiems
+    pavyko garbingai išvengti kovos.
+
+
+
+
+             249 (242). Apie nuostabų brolių išsigelbėjimą vieno žygio metu
+
+
+      537 1292 m. žygis (SRP, 2, p. 155; Regesta Lithuaniae..., p. 144).
+      538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta V., Lietuvos..., p. 420—421.
+      539  Į Kujavijos Brestą.
+
+    1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai
+    rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę
+    ir patraukė prie lietuvių sienų. Čia vienas prūsas atėjo pas brolį Henriką Cutsvertą ir
+    pasakė: „Ir tu būsi išduotas, ir tavo broliai bus išduoti, jeigu įeisite  į lietuvių žemę;
+    jie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu
+    tučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222345
 
 ## Ryšiai
 - Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas [[objektai/vietos/Lietuva]]

@@ -71,5 +71,5 @@ Lietuvos karalius su aštuoniais tūkstančiais raitelių įsiveržė į Sembos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

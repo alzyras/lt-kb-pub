@@ -56,18 +56,29 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
   pagrindžia:
     - c-173286
 
-<a id="claim-t-190790"></a>
-- t-002
-  teiginys: "Riteris Narbuto nurodomas kaip autorius, kurio dėstymu ir paaiškinimais remtasi aiškinant Herodoto ketvirtąją knygą."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-213611"></a>
+- t-213611
+  teiginys: "Narbutas remiasi Riterio veikalu teigdamas, kad kolchai giminiavosi su indais arba iš Indostano kilusiomis gentimis."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
-    - c-173672
+    - c-195679
+
+<a id="claim-t-213675"></a>
+- t-213675
+  teiginys: "Narbutas remiasi mokslininko ir senovės tyrinėtojo Riterio nuomone, kad Homeras sakė daugiau tiesos negu vėlesni rašytojai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196402
 
 ## Citatos
 
@@ -92,7 +103,7 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173672
@@ -109,5 +120,64 @@ Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-195679
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  citata_originali: |
+    Pernelyg išsiplėstume, jei įsigilintume į kolchų, beje,
+    mums artimą gentį, tad remkimės tik moksliniu ir kruopš­
+    čiai parašytu pono Riterio** veikalu1. Jame sakoma, kad
+    kolchai giminiavosi su indais, arba kitados iš Indostano
+    kilusiomis gentimis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213611
+
+- id: c-196402
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 160"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 160."
+  citata_originali: |
+    Čia pasitvirtina
+    ir mokslininko, senovės tyrinėtojo pono Riterio nuomonė,
+    jog Homeras sakęs daugiau tiesos negu vėlesni
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213675
+
+- id: c-199090
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 100"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 100."
+  citata_originali: |
+    Lietuvių liaudies rugiapjūtės dainose yra po­
+    sakis „saulės gaivinantis spindulys“, vartojamas pasakymas Ga­
+    ru Kotu; matyt, tai primena padavimą apie Plinijaus14 pastebė­
+    tą saulės, arba Apolono, garbinimą prie Baltijos jūros, kur gar­
+    binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
+    ponas Riteris savo Siaurės senovės tyrimuose15.
+    Kronikininkai mini Svaistiką (Szwajstix) arba Svaitestiksą
+    (Swajtestix) kaip šviesos dievą: lietuviškai tas žodis reiškia švie­
+    sos teikėją arba žadinančiąją šviesą, o tai atitinka senovės Fe­
+    bą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -74,5 +74,5 @@ Turbūt šio krašto didikai buvo skandinavų kariai, avantiūristai ar veikiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

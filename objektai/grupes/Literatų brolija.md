@@ -100,7 +100,7 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185188
@@ -118,7 +118,7 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185189
@@ -135,7 +135,7 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-185190
@@ -152,5 +152,5 @@ Savo rašte komisarams valdovas nurodė, kad Literatų brolija (čia vadinama Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

@@ -86,5 +86,5 @@ Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

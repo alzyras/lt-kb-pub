@@ -84,5 +84,5 @@ Po 1385 m. žygio didysis magistras gavo buvusio Polocko kunigaikščio Vingaudo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

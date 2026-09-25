@@ -55,5 +55,5 @@ Anot legendos, tuo metu uolos skilo į uolas, kalnai griuvo ant kalnų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

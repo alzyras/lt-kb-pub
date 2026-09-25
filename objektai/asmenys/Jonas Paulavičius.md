@@ -70,5 +70,5 @@ Tai parapinės bažnyčios mokykla, su ja sietinas 1537 m. Kaune žinomas Jonas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

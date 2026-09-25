@@ -144,7 +144,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-154614
@@ -168,7 +168,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166869
@@ -190,7 +190,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166870
@@ -213,5 +213,5 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

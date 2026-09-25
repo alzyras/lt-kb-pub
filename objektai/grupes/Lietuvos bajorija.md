@@ -399,6 +399,19 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   pagrindžia:
     - c-175872
 
+<a id="claim-t-219227"></a>
+- t-219227
+  teiginys: "Įsigalėjęs neigiamas požiūris į sulenkėjusią Lietuvos bajoriją ją vaizdavo kaip kultūrinių ir socialinių tautos vertybių išdavikę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-199058
+
 ## Citatos
 
 - id: c-46363
@@ -418,7 +431,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-170855
@@ -440,7 +453,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-170856
@@ -463,7 +476,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-170862
@@ -490,7 +503,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-170863
@@ -516,7 +529,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-011
 
@@ -541,7 +554,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-017
 
@@ -567,7 +580,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-170866
@@ -590,7 +603,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-170867
@@ -611,7 +624,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-170868
@@ -635,7 +648,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-170869
@@ -659,7 +672,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
     - t-016
 
@@ -690,7 +703,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-013
 
@@ -717,7 +730,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-171175
@@ -740,7 +753,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-171176
@@ -762,7 +775,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-171177
@@ -783,7 +796,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-171178
@@ -808,7 +821,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-175870
@@ -828,7 +841,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-175871
@@ -849,7 +862,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-175872
@@ -869,8 +882,72 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
+
+- id: c-197731
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
+  citata_originali: |
+    Pa­
+    vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
+    kad pasakyta Neseckio „Herbyne“ (aiškino tik pagal piešinį ir iš
+    lotynų kalbos išvertė žodį „Lepus“), bet triušį, nes lietuvių kal­
+    boje žodis „ Kiniglis“ būtent tą ir reiškia *.
+    Nors pirmaujančios lietuvių giminės po Horodlės seimo
+    naudojosi antspaudais su lenkiškais herbais, vis dėlto vargin­
+    gesnį bajorai dar ilgai turėjo savo senovinius antspaudus. Juo­
+    se ant sutarčių, kurias sudarinėjo bajorai vieni su kitais, net iki
+    XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
+    dalo ir seno graviravimo signečių pėdsakas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199058
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
+  citata_originali: |
+    Įsigalėjęs neigia­
+    mas požiūris į sulenkėjusią Lietuvos bajoriją kaip kultūrinių ir
+    socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
+    ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219227
+
+- id: c-199374
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
+  citata_originali: |
+    Vienas kitas aiškiai lietuviškas her­
+    bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
+    rios tais herbais naudojosi. Tik 1413 metais, po Lietuvos uni­
+    jos su Lenkija Horodlės seime, abiejų tautų susijungimo žen-
+    klan Lenkijos bajorai suteikė savo herbus lietuvių bajorams ir
+    įvesta herbų vienovė.
+    Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
+    herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Sapiegos]]

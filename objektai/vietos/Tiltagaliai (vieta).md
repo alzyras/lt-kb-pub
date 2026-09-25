@@ -86,7 +86,7 @@ Tarp Tiltagalių kaimo ir Lėvens upės plyti pilkapiais nusėtas laukas, kurį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189240
@@ -107,5 +107,5 @@ Tarp Tiltagalių kaimo ir Lėvens upės plyti pilkapiais nusėtas laukas, kurį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

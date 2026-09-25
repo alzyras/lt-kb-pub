@@ -79,7 +79,7 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185052
@@ -96,5 +96,5 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -115,7 +115,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-36662
@@ -137,7 +137,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-65317
@@ -159,5 +159,5 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

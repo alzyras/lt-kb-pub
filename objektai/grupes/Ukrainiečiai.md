@@ -87,7 +87,7 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171249
@@ -115,5 +115,32 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-200158
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  citata_originali: |
+    Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+    Be šito, lietuvių kraštuose turime ne vieną šventą upe, ar­
+    ba tiesiog taip pavadintą, arba apie ją žinome iš istorijos ar
+    liaudies padavimų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

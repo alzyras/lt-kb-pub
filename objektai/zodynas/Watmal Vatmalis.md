@@ -27,25 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, vadina mų Watmal, kuriuos įsakė išduoti broliams.
 
-## Teiginiai
-
-<a id="claim-t-58930"></a>
-- t-001
-  teiginys: "Hartmanas iš Grumbacho buvo pramintas Vatmaliu dėl vilnonių drabužių, vadintų Watmal, kuriuos įsakė išduoti broliams."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Prūsija: 0.63"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hartmanas iš Grumbacho: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Hartmanas įvardytas Prūsijos žemės magistru, todėl ryšys su valdymu yra tiesiogiai numanomas iš pareigų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Hartmanas iš Grumbacho valdė Prūsija (0.63)"
-  pagrindžia:
-    - c-59562
-
 ## Citatos
 
 - id: c-59562
@@ -66,5 +47,3 @@ Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -116,7 +116,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172664
@@ -144,5 +144,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198151
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
+  citata_originali: |
+    Šie
+    paprasti žodžiai, kupini nuoširdaus išpažinimo ir ryžtingai ra­
+    ginantys pasitikėti, yra senųjų lietuvių būdo bruožas; jiems liu­
+    dytojo sąžiningumas buvo ne žaislas. Jeigu priesaiką duodavo
+    tam, kad kas nors būtų išteisintas, tai tas, kuris norėjo būti ištei­
+    sintas, sakydavo priesaikos žodžius, o kaip užstatą duodavo tam
+    tikrą pinigų sumą, pavyzdžiui, rublį grašiais; jeigu ieškinį patei­
+    kusi pusė sutikdavo su priesaikos žodžiais, tai yra su kepurės
+    padavimu, priesaiką priimdavo, bet jai būtinai reikėjo sumokėti
+    rublį grašiais, kurie buvo kepurėje. Kartais toji pusė, kuri norėjo
+    būti išteisinta, pasišaukdavo ieškinį pateikusią pusę arba jos liu­
+    dytojus ir paduodavo kepurę pirma įdėję rublį grašiais; jeigu prie­
+    saiką priimdavo, prie tų pinigų pridėdavo besibylinėjančių teis­
+    me arba jų liudytojų, o kartais ir visų iš karto kepures.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

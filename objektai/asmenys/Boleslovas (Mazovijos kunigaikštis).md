@@ -163,6 +163,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-85619
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -192,7 +193,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -226,7 +227,7 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-168042
@@ -261,5 +262,5 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

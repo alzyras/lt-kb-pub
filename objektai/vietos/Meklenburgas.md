@@ -92,6 +92,28 @@ Narbutas, remdamasis Ksaveru Bogušu, rašo, kad Meklenburgo dalyje dar turėtų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-194533
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 328"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 328."
+  citata_originali: |
+    To­
+    je Meklenburgo dalyje ligi šiol turėtų būti kaimiečių,
+    mokančių herulų kalbą. Galima būtų dar daug papasa­
+    koti apie Meklenburgo herulus, bet jų vėlesnė istorija
+    mūsų nedomina; taigi apsiribosime tuo, ką pasakėme
+    apie herulų ryšius su lietuvių žemėse gyvenusiomis gen­
+    timis. Tačiau išsamesnės žinios apie herulus nuo VI am­
+    žiaus bei vėlesni tyrimai suteiktų daug žinių ir apie sla-
+    - vus bei lietuvius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

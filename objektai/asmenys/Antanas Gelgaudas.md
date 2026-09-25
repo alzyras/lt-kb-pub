@@ -117,7 +117,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-41825
@@ -142,7 +142,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-41826
@@ -164,5 +164,5 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -170,6 +170,19 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   pagrindžia:
     - c-188045
 
+<a id="claim-t-208605"></a>
+- t-208605
+  teiginys: "Leidinys buvo išleistas Tilžėje, o ne Vilniuje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191225
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Tarnaudamas Rusijos kariuomenėje, T. Narbutas 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.'
@@ -208,7 +221,7 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171727
@@ -226,7 +239,7 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171728
@@ -249,7 +262,7 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177345
@@ -266,7 +279,7 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-178886
@@ -290,7 +303,7 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-188045
@@ -309,5 +322,44 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-191225
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 106"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 106."
+  citata_originali: |
+    Iš tikrųjų ji buvo>
+    išleista ne Vilniuje, bet Tilžėje 4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208605
+
+- id: c-199883
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
+  citata_originali: |
+    Iš mano tyrimų paaiškėja, kad ne tik mano kaimelyje, bet
+    ir daugelyje tikrosios Lietuvos vietų yra įvairių vietovių, vadi­
+    namų Kronie. Už Tilžės, žemiau Vingio (Winge) dvaro, prie
+    Sancinės, kur Nemunas išsišakoja į dvi atšakas - Giliją ir Rus­
+    nę, prarasdamas savo pavadinimą, buvo apkasas, arba pilia­
+    kalnis, vietinių vadinamas Kroniszkas - Pilnis, tai yra Kruonio
+    (Kronu) pilimi. Ties Prienais, kur Nemunas daro pusračio vingį,
+    pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
+    Kronu).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -104,11 +104,12 @@ Nenurodyta
     Kūlimo metu darbininkai dienomis vengia sunkaus darbo: taiso gyvuliams žiemai kūtes, dirba ėdžias, kerta lovius, veža į daržus mėšlą, taiso ar dengia stogus, piauna avis ir prielaidus, dirba sau klumpius, vis neskubindami; syk ir visai bindzinėja.
   citata_rodoma: "Kūlimo metu darbininkai dienomis vengia sunkaus darbo: taiso gyvuliams žiemai kūtes, dirba ėdžias, kerta lovius, veža į daržus mėšlą, taiso ar dengia stogus, piauna avis ir prielaidus, dirba sau klumpius, vis neskubindami; syk ir visai bindzinėja."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177781
@@ -124,7 +125,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177782
@@ -141,6 +142,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177783
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -154,5 +156,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

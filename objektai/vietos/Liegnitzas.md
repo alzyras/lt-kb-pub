@@ -83,5 +83,5 @@ Ir iš menkų šaltinių nuotrupų yra įmanoma šiek tiek įžvelgti, jog Minda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -80,5 +80,5 @@ Lietuvos metraštis teigia, kad nuo pasaulio sutvėrimo septyni tūkstančiai a�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

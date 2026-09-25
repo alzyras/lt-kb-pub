@@ -139,6 +139,91 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   pagrindžia:
     - c-175524
 
+<a id="claim-t-208333"></a>
+- t-208333
+  teiginys: "We wrześniu 179 3 roku na polecenie Timofieja Tutolmina, gubernatora miń skiego, znalazł się w delegacji wysłanej do Katarzyny II do Sankt Petersburga."
+  atnaujinta: "2026-09-23 14:15"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-191008
+
+<a id="claim-t-208402"></a>
+- t-208402
+  teiginys: "Jednak w Sankt Petersburgu stawiło się ono dopiero w marcu 17 10 roku."
+  atnaujinta: "2026-09-23 14:15"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190867
+
+<a id="claim-t-214819"></a>
+- t-214819
+  teiginys: "1831 m. senovės paminklas kartu su Varšuvos Mokslo bičiulių draugijos muziejumi buvo išvežtas į Sankt Peterburgą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195875
+
+<a id="claim-t-215363"></a>
+- t-215363
+  teiginys: "Originalas buvo Vilniuje ir tikriau siai pateko į Sankt Peterburgą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195174
+
+<a id="claim-t-218578"></a>
+- t-218578
+  teiginys: "1831 metais tas senovės paminklas kartu su visu drau gijos muziejumi buvo išvežtas į Sankt Peterburgą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201443
+
+<a id="claim-t-226073"></a>
+- t-226073
+  teiginys: "Kolekcijoje saugomi keli atvaizdai iš Sankt Peterburge veikusios Nawruckio litografijos."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  pagrindžia:
+    - c-206589
+
+<a id="claim-t-226074"></a>
+- t-226074
+  teiginys: "Dvi vienodos Sankt Peterburge išleistos litografijos vaizduoja Mergelę Mariją, apsuptą ne vien scenų iš Mergelės Marijos rožinio slėpinių, bet ir iš Švč. Jėzaus Vardo rožinio dalių."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  vertinimo_atnaujinta: "2026-09-23T18:02:11Z"
+  pagrindžia:
+    - c-206590
+
 ## Citatos
 
 - id: c-175131
@@ -166,7 +251,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175132
@@ -191,7 +276,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175133
@@ -209,7 +294,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175524
@@ -232,5 +317,124 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-190867
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 71"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 71."
+  citata_originali: |
+    Wpływ na twardą
+    postawę strony rosyjskiej również w tym przypadku miała postawa dyplomacji
+    saskiej, nie wspierającej obu misji na wyraźny rozkaz króla20.
+    W końcowej fazie W ielkiej Wojny Północnej decydujące znaczenie dla
+    ułożenia stosunków Rzeczypospolitej z Rosją m iało poselstwo, o którego
+    wysłaniu zadecydowano na sejmie w Warszawie na przełomie 1718 i 1719 roku.
+    Jednak w Sankt Petersburgu stawiło się ono dopiero w marcu 17 10 roku.
+  citata_rodoma: "Jednak w Sankt Petersburgu stawiło się ono dopiero w marcu 17 10 roku."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208402
+
+- id: c-191008
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 104"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 104."
+  citata_originali: |
+    Wówczas, stwierdzić możemy, że poszedł do następnej
+    przysięgi, na wierność dla Katarzyny II. Tu jednak zauważmy, że również kwestia
+    postrzegania wagi przysięgi w tym czasie się zmieniała10.
+    We wrześniu 179 3 roku na polecenie Timofieja Tutolmina, gubernatora miń­
+    skiego, znalazł się w delegacji wysłanej do Katarzyny II do Sankt Petersburga dla
+    „złożenia hołdu tronowi berła rosyjskiego”11.
+  citata_rodoma: "We wrześniu 179 3 roku na polecenie Timofieja Tutolmina, gubernatora miń­\nskiego, znalazł się w delegacji wysłanej do Katarzyny II do Sankt Petersburga"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208333
+
+- id: c-195174
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 490"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
+  citata_originali: |
+    Originalas buvo Vilniuje ir tikriau­
+    siai pateko į Sankt Peterburgą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215363
+
+- id: c-195875
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 484-485"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 484-485."
+  citata_originali: |
+    1831
+    metais tas senovės paminklas kartu su visu draugijos muziejumi
+    475
+
+    buvo išvežtas į Sankt-Peterburgą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214819
+
+- id: c-201443
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
+  citata_originali: |
+    1831 metais tas senovės paminklas kartu su visu drau­
+    gijos muziejumi buvo išvežtas į Sankt Peterburgą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218578
+
+- id: c-206589
+  autorius: "Ieva Bobinaitė"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Adomo Petrausko muziejaus masinės gamybos sieninių religinių paveikslų kolekcija. Uoginių kapinių koplyčios Kryžiaus kelio stotys"
+  puslapiai: "p. 672 (PDF 673)"
+  indeksas: "Ieva Bobinaitė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Adomo Petrausko muziejaus masinės gamybos sieninių religinių paveikslų kolekcija. Uoginių kapinių koplyčios Kryžiaus kelio stotys, p. 672 (PDF 673)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-226073
+
+- id: c-206590
+  autorius: "Ieva Bobinaitė"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Adomo Petrausko muziejaus masinės gamybos sieninių religinių paveikslų kolekcija. Uoginių kapinių koplyčios Kryžiaus kelio stotys"
+  puslapiai: "p. 676 (PDF 677)"
+  indeksas: "Ieva Bobinaitė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Adomo Petrausko muziejaus masinės gamybos sieninių religinių paveikslų kolekcija. Uoginių kapinių koplyčios Kryžiaus kelio stotys, p. 676 (PDF 677)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-226074

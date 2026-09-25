@@ -64,5 +64,24 @@ Dusburgietis teigia, kad kronikos autorius, politiniai ir ideologiniai uždavini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205536
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
+  citata_originali: |
+    Kronikos autorius, politiniai ir ideologiniai uždaviniai
+    Dusburgiečio dedikacija kronikos pradžioje rodo, kad jis buvęs Kryžiuočių ordino
+    brolis — kunigas, vėliau, galimas daiktas, magistro kapelionas. Jo siekta palikti ateities
+    kartoms žinių apie Ordino laimėtus karus, kuriuos jis surašė ir sudėjo „į šią knygą“.
+    Veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame
+    bus taisytina.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

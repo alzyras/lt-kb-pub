@@ -86,5 +86,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198288
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
+  citata_originali: |
+    Erazmas Ste­
+    la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,
+    kad laidojimo apeigų tvarka buvo labai senas, šventas daly­
+    kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu­
+    vių genties tautos. Pasak Henenbergerio tyrimų, turtingųjų na­
+    muose gedulas trukdavo keturias savaites, per kurias negalėjo
+    būti jokio pasilinksminimo, o samdytos raudotojos privalėjo
+    nuolat verkti apraudodamos mirusiojo atminimą. Dainiai ge­
+    dulingomis raudomis apdainuodavo jo dorybes ir žymiausius
+    jo karo žygius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

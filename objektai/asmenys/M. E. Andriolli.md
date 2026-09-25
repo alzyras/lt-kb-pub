@@ -91,5 +91,5 @@ Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų dr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -59,5 +59,5 @@ Be vokabuliarinio panašumo, sakinio san dara, balsio ilgumas ir daug kitų gram
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

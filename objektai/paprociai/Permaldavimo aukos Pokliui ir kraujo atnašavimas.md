@@ -137,7 +137,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172655
@@ -159,7 +159,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172656
@@ -182,7 +182,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-172657
@@ -206,5 +206,89 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-197758
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 315."
+  citata_originali: |
+    Dėl savo interesų jie laikė žmones baimėje ir, da­
+    rydami įvairias intrigas, galėjo pasitelkti į pagalbą Poklių - tą
+    baisųjį dievą, kurio šiurpus vaizdas ir nepaprastas žiaurumas
+    prisidėjo prie daugelio apgavysčių. Beje, baisiausia buvo Po­
+    klių pamatyti kieno nors namuose - tai reiškė aiškią dievų rūs­
+    tybę. Tokiu atveju namų savininkas tikriausiai ne su tuščiomis
+    rankomis skubėdavo pas artimiausią žynį, kuris atnašaudavo
+    permaldavimo auką.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200217
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 316."
+  citata_originali: |
+    Jeigu užkietėję rūstybėje dievai dar ir tuo nepa­
+    sitenkindavo, Poklius apsireikšdavo dvigubai baisesnis. Tada
+    nebebuvo ko delsia: reikėdavo kuo skubiau vykti pas kurį nors
+    garsų krivį arba pas patį Krivių Krivaitį, kuris, priėmęs dova­
+    nas, imdavo burti ir kerėti, paskui nurodydavo asmenį, kurio
+    kraujas turįs būti paaukotas dievams kaip permaldavimo au­
+    ka. Tad namų savininkas būdavo priverstas atiduoti net bran­
+    giausią šeimos asmenį arba ieškoti progos, kaip nužudyti nu­
+    rodytąjį kur kitur ir jo galvą padėti prie Pokliaus stabo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200459
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 316."
+  citata_originali: |
+    Tad namų savininkas būdavo priverstas atiduoti net bran­
+    giausią šeimos asmenį arba ieškoti progos, kaip nužudyti nu­
+    rodytąjį kur kitur ir jo galvą padėti prie Pokliaus stabo. Tačiau
+    plintant apšvietai, ši barbarystė buvo uždrausta ir kruvinoji
+    permaldavimo auka tapo tokia, kad vaidila pats susižeisdavo
+    ir savo kraują atnašaudavo dievams kaip auką, o prie Pokliaus
+    stabo dėdavo gyvulio galvą. Toks trečias Pokliaus pasirody­
+    mas turėjo nusmukdyti turtingiausias šeimas, ir visa tai dėl bai­
+    saus žynių godumo; kad jie vien šiuo požiūriu vaidino nemažą
+    vaidmenį, netenka abejoti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201209
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 315."
+  citata_originali: |
+    10. Permaldavimo auka. Stabmeldžių žynių godumas buvo
+    itin didelis. Dėl savo interesų jie laikė žmones baimėje ir, da­
+    rydami įvairias intrigas, galėjo pasitelkti į pagalbą Poklių -  tą
+    baisųjį dievą, kurio šiurpus vaizdas ir nepaprastas žiaurumas
+    prisidėjo prie daugelio apgavysčių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -35,15 +35,6 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
 
 ## Teiginiai
 
-<a id="claim-t-74189"></a>
-- t-001
-  teiginys: "Klaipėdos krašto lietuviai politiškai liko ištikimi Vokietijai ir patys sukilti nesiruošė."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-22464
-
 <a id="claim-t-74190"></a>
 - t-002
   teiginys: "Klaipėdos krašto surašymo duomenimis, krašte gyveno 37 000 lietuvių ir 34 000 lietuviškai namuose kalbėjusių „klaipėdiečių“."
@@ -85,6 +76,7 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-22464
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -102,6 +94,5 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-002

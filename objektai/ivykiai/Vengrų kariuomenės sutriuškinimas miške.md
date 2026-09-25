@@ -68,5 +68,5 @@ Kaimiečiams pajudinus medžius, jie iš abiejų pusių nuslėgė galybę vengr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

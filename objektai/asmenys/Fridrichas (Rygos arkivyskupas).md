@@ -206,15 +206,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   pagrindžia:
     - c-55509
 
-<a id="claim-t-89711"></a>
-- t-008
-  teiginys: "Rygos arkivyskupą Fridrichą Ordino broliai klastingai išmetė iš bažnyčios."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-85645
-
 <a id="claim-t-89712"></a>
 - t-009
   teiginys: "Rygos arkivyskupas Fridrichas įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus."
@@ -306,7 +297,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55508
@@ -351,7 +342,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-55509
@@ -381,7 +372,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-007
 
@@ -407,6 +398,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-55511
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -433,7 +425,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-012
 
@@ -458,7 +450,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-55513
@@ -488,7 +480,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-85642
@@ -517,7 +509,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-85645
@@ -547,8 +539,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
     - t-011
 
 - id: c-85646
@@ -577,5 +568,33 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
+
+- id: c-203425
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
+  citata_originali: |
+    356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
+    čionių 1324 metais
+    Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą,
+    įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo, bei to paties
+    miesto gyventojų, du legatus, būtent: Baltramiejų, Aleto vyskupą, ir Bernardą, švento
+    Benedikto ordino švento Teofrido vienuolyno abatą Le Piui vyskupystėje, pakrikštyti
+    lietuvių ir rusų karaliaus. Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
+    šventės (rugsėjo 22) atvyko į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo
+    karaliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos ir apaštališkojo sosto
+    valia pasiūlė tvirtai jos laikytis, pridurdami, kad toji šalis, kuri lengvapėdiškai pažeisianti
+    šį susitarimą, kuri sakysianti tokius žodžius ar darysianti tokius veiksmus, griebsiantisi
+    tokių sumanymų ar darbų, kurie galėtų trukdyti šiam susitarimui ar jį vilkinti, būsianti
+    dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
+    tik apaštališkasis sostas, prie kurio jie patys per tris mėnesius turėsią prisistatyti,
+    kad atvykę deramai pataisytų tai, kas atsitiko.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

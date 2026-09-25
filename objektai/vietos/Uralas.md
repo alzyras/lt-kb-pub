@@ -81,5 +81,27 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196697
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  citata_originali: |
+    Tai buvo
+    didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė­
+    si beveik nuo Kaukazo per Volgą ir į vakarus net iki
+    Dono, o į šiaurę tų kolonijų žemių ir genčių priklauso­
+    mybės ribų pažymėti nėra galimybių. Tikėtina, kad jie
+    galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdynų.
+    Pernelyg išsiplėstume, jei įsigilintume į kolchų, beje,
+    mums artimą gentį, tad remkimės tik moksliniu ir kruopš­
+    čiai parašytu pono Riterio** veikalu1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

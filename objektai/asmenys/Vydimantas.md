@@ -76,7 +76,7 @@ Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

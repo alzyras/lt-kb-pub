@@ -98,7 +98,7 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-45034
@@ -129,5 +129,5 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

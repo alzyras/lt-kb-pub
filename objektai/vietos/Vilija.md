@@ -288,7 +288,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-158375
@@ -338,7 +338,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-158376
@@ -365,7 +365,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-158377
@@ -389,7 +389,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-158378
@@ -422,7 +422,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-158380
@@ -450,7 +450,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-158381
@@ -476,7 +476,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-158382
@@ -553,7 +553,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-158383
@@ -578,7 +578,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-167258
@@ -608,7 +608,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-167259
@@ -632,5 +632,5 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011

@@ -68,5 +68,5 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

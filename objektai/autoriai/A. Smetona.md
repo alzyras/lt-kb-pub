@@ -89,7 +89,7 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176373
@@ -115,5 +115,5 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

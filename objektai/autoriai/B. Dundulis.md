@@ -117,19 +117,6 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   pagrindžia:
     - c-70073
 
-<a id="claim-t-193877"></a>
-- t-005
-  teiginys: "B. Dundulio veikalas apie Lietuvos kovą dėl valstybinio savarankiškumo XV a. cituojamas aiškinant Kazimiero sutikimo užimti Lenkijos sostą sąlygas."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176504
-
 ## Citatos
 
 - id: c-03976
@@ -151,7 +138,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-03977
@@ -171,7 +158,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-70073
@@ -191,7 +178,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-70074
@@ -212,7 +199,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-70077
@@ -232,6 +219,7 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-176504
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -250,5 +238,3 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005

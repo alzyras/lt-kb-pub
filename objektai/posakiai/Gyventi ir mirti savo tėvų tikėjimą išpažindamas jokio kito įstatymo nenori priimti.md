@@ -88,5 +88,5 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -102,5 +102,5 @@ Tad tokia bausmė, taikyta Maslavui, ir tos pa tyčios buvo didelė politinė gu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

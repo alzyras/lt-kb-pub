@@ -123,11 +123,12 @@ Nenurodyta
     nant kumštį, be galo lengvai sunkiaisiais raiteliais pra­
     laužė rikiuotės vidurį ir atvėrė kelią į pergalę.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
@@ -157,5 +158,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

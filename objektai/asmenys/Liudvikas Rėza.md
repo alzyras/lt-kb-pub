@@ -46,49 +46,24 @@ canonical_biography: "Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslinin
 
 ## Teiginiai
 
-<a id="claim-t-188578"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad pono Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų lazdų paprotį."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-19110"></a>
+- t-19110
+  teiginys: "Liudvikas Rėza Karaliaučiuje išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liudvikas Rėza: owner_note_path, person"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas Rėza\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  ryšio_subjekto_parinkimas: "Liudvikas Rėza: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=86"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas Rėza\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1818 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti aiškesnį teiginį apie Rėzos veiksmą."
   pagrindžia:
-    - c-171467
-
-<a id="claim-t-197424"></a>
-- t-002
-  teiginys: "Liudvikas Rėza sugrįžo jėzuitų pastangomis, valdant Zigmantui III."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179178
-
-<a id="claim-t-197425"></a>
-- t-003
-  teiginys: "Liudvikas Rėza nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš akių; kiti lydi mirusįjį iki laidojimo vietos."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179179
+    - c-21859
 
 ## Citatos
 
@@ -111,6 +86,9 @@ canonical_biography: "Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-19110
+
 - id: c-171467
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -137,8 +115,6 @@ canonical_biography: "Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-179178
   autorius: "Teodoras Narbutas"
@@ -158,8 +134,6 @@ canonical_biography: "Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-179179
   autorius: "Teodoras Narbutas"
@@ -180,5 +154,44 @@ canonical_biography: "Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-199506
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
+  citata_originali: |
+    Toje
+    vietoje būna įkaltas stulpelis ir ant jo padėtas pinigas. Raite­
+    liai nuo tam tikros vietos leidžiasi lenktynių stulpelio link; tas,
+    kuris prijos pirmasis ir paims pinigą, pelno nemenką šlovę. Jis
+    nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš
+    akių; kiti lydi mirusįjį iki laidojimo vietos. Šios lenktynės yra
+    dalis triznos papročio, žmonių pamėgdžiojamo ir mūsų istori­
+    ko pastebėto.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199598
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  citata_originali: |
+    Valdant Žygimantui Augus­
+    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
+    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
+    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
+    Zigmantui III. Ši trumpa ekskursija į istoriją remiasi vietinių
+    istorijos mokovų apklausa ir klebonijos užrašais, kuriais vie­
+    los klebonas leido man pasinaudoti 1805 metais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

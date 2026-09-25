@@ -50,26 +50,6 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 
 ## Teiginiai
 
-<a id="claim-t-97718"></a>
-- t-001
-  teiginys: "Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Semba: 0.57"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aistmarios: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas sieja marių pakrantę su Sembos žeme, bet tik netiesiogiai per pilies vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Aistmarios priklausė Semba (0.57)"
-  temporaliniai_duomenys: "įvykio data: 1267 m.; įvykio data: po 1273 m.; įvykio data: 1273 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Citata leidžia patikimai teigti tik pilies vietą; asmenų įvardijimui trūksta aiškaus konteksto."
-  pagrindžia:
-    - c-92170
-
 <a id="claim-t-97721"></a>
 - t-002
   teiginys: "Hermano Wartberges kronikoje aprašyta siena Priegliumi turėjo eiti iki Aistmarių."
@@ -129,7 +109,7 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-92170
@@ -149,5 +129,3 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

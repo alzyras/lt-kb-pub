@@ -91,7 +91,7 @@ canonical_biography: "1926, būdamas dvejų metų su tėvais emigravęs į PAR, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

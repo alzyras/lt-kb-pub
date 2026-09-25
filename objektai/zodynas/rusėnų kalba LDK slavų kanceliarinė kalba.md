@@ -81,7 +81,7 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-24984
@@ -100,5 +100,5 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

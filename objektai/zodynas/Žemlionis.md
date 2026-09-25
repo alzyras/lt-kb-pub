@@ -70,6 +70,15 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   pagrindžia:
     - c-09781
 
+<a id="claim-t-210329"></a>
+- t-210329
+  teiginys: "`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-192857
+
 ## Citatos
 
 - id: c-09781
@@ -84,7 +93,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-09782
@@ -107,7 +116,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-09783
@@ -131,3 +140,19 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-192857
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 77"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 77."
+  citata_originali: |
+    Jei toksai kiemas, karei kėlusis, leido kareivį jotą^259 vieną ar du, tris – pagal tą, kaip daug žemės turėjo, tad vadinos žemlioniu^260 , nuo žemės, kurią buvo sau pragyvenęs.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210329

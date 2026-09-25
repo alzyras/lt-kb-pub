@@ -76,5 +76,5 @@ Viešos bausmės, anot Gitanos Zujienės, turėjo suvienyti visuomenę ir ugdyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -85,7 +85,7 @@ Nujautęs tą, valdymieras Pleskavo Ditrichą paleido ir paskui jį savo siuntin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187788
@@ -106,5 +106,5 @@ Nujautęs tą, valdymieras Pleskavo Ditrichą paleido ir paskui jį savo siuntin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -70,9 +70,10 @@ Vilniaus metų pabaigoje kilęs gaisras sunaikino papilę ir svarbiausius Žemut
     liepsna. Didžiojo kunigaikščio iždo nuostoliai buvo įkainoti
     šešiasdešimčia tūkstančių sidabro rublių1 2.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

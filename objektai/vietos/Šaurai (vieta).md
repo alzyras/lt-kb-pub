@@ -72,5 +72,5 @@ canonical_biography: Šaurų dvaro bibliotekoje buvo saugoma nemažai D. Poškos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

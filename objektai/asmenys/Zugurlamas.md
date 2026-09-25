@@ -82,5 +82,30 @@ Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197573
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
+  citata_originali: |
+    Torfėjas, chronologiškai vardijęs
+    danų istorijos įvykius, palygintus su tiksliausiais skaičia­
+    vimais, Frotono III valdymą sieja su III krikščioniškosios
+    eros amžiumi.
+    234
+    Islandų sakmėse, vadinamose šiaurinėmis sagomis,
+    esama žinių apie įžymų rusų karalių, vadinamą Zugurla-
+    mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
+    pat gyveno III amžiuje3. Iš to paties šaltinio žinoma, jog
+    rusų genties valdovo ir didvyrio Heiraudo dukra Heiridė
+    ištekėjo už norvego Augmundo; kartu ji gavo kraičio ne­
+    mažą Rusios valdą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

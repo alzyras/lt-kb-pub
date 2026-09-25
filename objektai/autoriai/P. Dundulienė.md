@@ -60,6 +60,19 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
   pagrindžia:
     - c-33090
 
+<a id="claim-t-225939"></a>
+- t-225939
+  teiginys: "Anot Pranės Dundulienės, XX a. pradžioje Medinių Strėvininkų apylinkėse per šv. Jurgio dieną vyresnis kaimo gyventojas užlipdavo ant kalnelio ir paskelbdavo, kad atėjo pavasaris."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  vertinimo_atnaujinta: "2026-09-23T18:01:42Z"
+  pagrindžia:
+    - c-206455
+
 ## Citatos
 
 - id: c-33090
@@ -88,5 +101,17 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206455
+  autorius: "Arūnas Vaicekauskas"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Didžiosios pavasario šventės Kupiškio krašte"
+  puslapiai: "p. 929 (PDF 930)"
+  indeksas: "Arūnas Vaicekauskas, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Didžiosios pavasario šventės Kupiškio krašte, p. 929 (PDF 930)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225939

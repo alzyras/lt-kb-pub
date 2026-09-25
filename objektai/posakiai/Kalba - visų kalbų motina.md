@@ -69,5 +69,32 @@ Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199602
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 438"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 438."
+  citata_originali: |
+    Nepaisant viso
+    šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir užmarš­
+    ties amžių, pasilikome sau dar daug tyrimų, ketindami juos
+    išdėstyti kitame tome; tad ši tomą galima laikyti pasirengimu
+    tam, apie ką dar kalbėsime.
+    Nuodugniau lyginant gyvąsias kalbas su mirusiomis, pa­
+    stebėta, kad tarp jų yra skirtumas, tai yra atrastos tam tikros
+    pirmykštės kalbos, iš kurių viena ar kita kalba yra kilusi, ta­
+    čiau dėmesingiau įsigilinus atrodo, kad yra buvusi kalba - visų
+    kalbų motina, nes iki šiol neaptikta jokios, kurioje neatsirastų
+    žodžių, bendrų kitoms kalboms ne tik skambėjimu, bet ir reikš­
+    me. O kuo senesnes kalbas imama nagrinėti, tuo ryškesnė ma­
+    toma jų giminystė, tai yra kuo kuri tauta senesnė, tuo jos kal­
+    ba artimesnė senojo pasaulio kalboms .
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

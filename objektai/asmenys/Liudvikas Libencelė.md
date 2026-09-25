@@ -115,7 +115,7 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169507
@@ -148,6 +148,6 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003

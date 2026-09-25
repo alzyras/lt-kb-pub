@@ -93,5 +93,29 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194806
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 159."
+  citata_originali: |
+    1826 metais Ukmergės apskrities Antakriautiio dvare, pri­
+    klausančiame ponui Romanovskiui, prie ežero, tiesiant nau­
+    ją kelią, buvo atkastas senovinis pilkapis, kuriame rastas
+    skeletas, ant kurio abiejų rankų buvo užmauta po penkias
+    varines apyrankes, ant piršto — žiedas, pagamintas iš to­
+    kio pat metalo ir susuktas spirale iš gana plačios skardelės
+    (apie 1 linijos pločio, 10 ir 3/4 colio ilgio), o pakaklėje la­
+    bai meistriškai padaryta sagtis, skirta marškinių apykak­
+    lei susegti. Galvą puošė grandinėlė, suverta iš vielinių
+    rutuliukų (poromis), keleto uolekčių ilgio. Ji buvo įsirė-
+    žusi į kaukolę taip, jog liko net plaukų ir odos pėdsakų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

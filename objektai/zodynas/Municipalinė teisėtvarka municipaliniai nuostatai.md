@@ -87,7 +87,7 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82543
@@ -113,5 +113,5 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

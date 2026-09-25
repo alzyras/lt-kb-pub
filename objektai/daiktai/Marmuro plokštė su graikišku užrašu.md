@@ -82,5 +82,23 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194539
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 310"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 310."
+  citata_originali: |
+    Pa­
+    gal ją ¡r buvo duotas Adliai vardas. Volgos žemupyje buvo rasta mar-
+    muro* ¡plokštė] su graikišku užrašu ir kažkokiais ženklais. Būtent iš
+    čia ir buvo paimta ši informacija (iš inžinerijos generolo majoro Fel-
+    kercamo pasakojimų)*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

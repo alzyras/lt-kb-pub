@@ -41,26 +41,6 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
 
 ## Teiginiai
 
-<a id="claim-t-191388"></a>
-- t-001
-  teiginys: "Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtojas, įrodinėjęs osų arba osetinų ryšį su senovės alanais."
-  atnaujinta: "2026-07-19 18:48"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Italai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Džiovani Ramusio: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Italai: mention_match, group, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Džiovani Ramusio\" parinktas kaip owner_note_path. Targetas \"Italai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
-    - c-174270
-
 <a id="claim-t-191389"></a>
 - t-002
   teiginys: "Džiovani Ramusio buvo 1482–1557 m. gyvenęs italų mokslininkas ir politikas, ilgalaikis pasiuntinys įvairiuose Europos karališkuosiuose dvaruose."
@@ -110,8 +90,6 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-174271
   autorius: "Teodoras Narbutas"
@@ -131,5 +109,25 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197196
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 413"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 413."
+  citata_originali: |
+    Paris, 1697.
+    Turimas omenyje Džiovani Ramusio (1482—
+    1557), italų mokslininkas ir politikas, ilgalai­
+    kis pasiuntinys įvairiuose Europos karališkuo­
+    se dvaruose. Jo kelionių aprašymai (Delle na-
+    vigazioni e viaggi; 1550—1559) yra vienas iš
+    įdomiausių ano meto tokio pobūdžio kūrinių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

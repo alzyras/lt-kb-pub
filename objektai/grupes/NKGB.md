@@ -162,7 +162,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-26830
@@ -184,7 +184,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-42876
@@ -201,7 +201,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-42877
@@ -221,5 +221,5 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

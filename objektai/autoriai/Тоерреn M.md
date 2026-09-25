@@ -81,23 +81,6 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   pagrindžia:
     - c-61297
 
-<a id="claim-t-60667"></a>
-- t-003
-  teiginys: "Sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21)."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Semba: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Тоерреn M: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Тоерреn M\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-61298
-
 ## Citatos
 
 - id: c-61297
@@ -120,7 +103,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-61298
@@ -137,8 +120,6 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-61299
   autorius: "Petras Dusburgietis"
@@ -158,5 +139,47 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201712
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
+  citata_originali: |
+    Apie tai, kaip buvo pastatytas ir išgriautas malūnas
+
+      Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti
+    broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246
+    persikėlė pas Baigos brolius, o šie, jiems atvykus, sustiprėjo ir pastatė prie upės malūną
+      245 Prūsiškoji Baigos pilis buvusi Aismarių kranto kyšulyje, per 25 m virš jūros lygio,
+    sausumos prieigas dengusios pelkės. Paėmę pilį, kryžiuočiai čia įsitvirtino, pastatė mūrinę
+    pilį, o šalia jos rytų pusėje — didelį papilį (Тоерреn M., HCCP, p. 203; Boetticher A., Die
+    Bau.., 2, p. 17—18).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202515
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    Ieškodamas centrinės baltų Romovės resp. Romuvos Nadruvoje, M. Pretorijus (1664—
+    1684 m. gyvenęs Nibudžiuose, į šiaurės rytus nuo Gumbinės) rašęs, kad, jo nuomone,
+    Romovė resp. Romuva galėjusi būti prie Biserkiemio (netoli Gumbinės) ant kalvos, tada
+    vadintos Sidabro kalnu, kur aptinkama įvairių radinių, be kita ko — pentinų, lenkto ir
+    sukto sidabro (Prätorius M., Deliciae..., kn. 4, sk. 1, § XXII, r. 1. (WU) 152; r. p. (MA)
+    271—272; š. p. 564—565). M, Tepenas atkreipė dėmesį į Rausvės intaką Romene rytų
+    Nadruvoje, į pietus nuo Pilkalnio (Тоерреn M., HCGP, p. 26—27 ir žemėlapis).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

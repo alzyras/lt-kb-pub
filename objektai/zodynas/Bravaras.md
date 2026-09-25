@@ -72,3 +72,17 @@ Terminas vartojamas XIX a. kaimo gėrimo ir dvaro ūkio kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-195615"></a>
+- t-001
+  teiginys: "Bravaras šiame šaltinyje yra vieta, kur iš salyklos išvaroma degtinė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178017

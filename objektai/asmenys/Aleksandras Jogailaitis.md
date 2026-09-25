@@ -933,7 +933,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -957,7 +957,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-55310
@@ -980,7 +980,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-55311
@@ -1003,7 +1003,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-55313
@@ -1025,7 +1025,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-78657
@@ -1049,7 +1049,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-78658
@@ -1078,7 +1078,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-012
 
@@ -1107,7 +1107,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-78660
@@ -1156,7 +1156,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-78661
@@ -1184,7 +1184,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-78662
@@ -1251,7 +1251,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-78663
@@ -1280,7 +1280,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-78664
@@ -1308,7 +1308,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-78665
@@ -1346,7 +1346,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-78666
@@ -1369,7 +1369,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-78667
@@ -1398,7 +1398,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-016
 
@@ -1422,7 +1422,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-78669
@@ -1452,7 +1452,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-78670
@@ -1489,7 +1489,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-168018
@@ -1528,7 +1528,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
     - t-035
 
@@ -1555,7 +1555,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-168020
@@ -1584,7 +1584,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-168021
@@ -1609,7 +1609,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
 
 - id: c-168022
@@ -1644,7 +1644,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-168023
@@ -1671,7 +1671,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-171400
@@ -1693,7 +1693,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
 
 - id: c-173727
@@ -1719,7 +1719,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-176512
@@ -1744,7 +1744,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
     - t-037
 
@@ -1764,7 +1764,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-176514
@@ -1780,7 +1780,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-178666
@@ -1803,7 +1803,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-178667
@@ -1830,7 +1830,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
 
 - id: c-184858
@@ -1847,7 +1847,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-184859
@@ -1864,7 +1864,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
 
 - id: c-184860
@@ -1883,8 +1883,47 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
+
+- id: c-193656
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
+  citata_originali: |
+    O pas­
+    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
+    vą 39.
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos40. Paskui,
+    sekančių metų vasarą bei rudenį4I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 42, vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 43.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193984
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 305"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 305."
+  citata_originali: |
+    1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
+    LDK žemių seimas Vilniuje, 1492.VII.18.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

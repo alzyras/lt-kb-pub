@@ -106,5 +106,25 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200135
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
+  citata_originali: |
+    Iš istorijos žinoma, kad senovės prūsai turėjo
+    Trejybę, todėl nedvejosime priimdami Kabirus į lietuvių die­
+    vų tarpą.
+    Apžvelkime artimesnius šito tikėjimo paminklus. 1811 me­
+    tais Drujos apylinkėse nusausinto ežero dugne rastos trys žal­
+    varinės statulėlės: jos buvo apie 18 colių aukščio, įskaitant pa­
+    grindą - 2 colių storumo trikampę žalvarinę lentą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

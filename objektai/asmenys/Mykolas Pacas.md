@@ -93,6 +93,21 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   pagrindžia:
     - c-184110
 
+<a id="claim-t-225975"></a>
+- t-225975
+  teiginys: "1682 m. Mikalojus Pacas išdavė leidimą statyti sinagogą."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  temporaliniai_duomenys: "įvykio data: 1682 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys įvardija Mikalojų Pacą, leidimą statyti sinagogą ir jo datą; palikau šį faktą be papildomos išvados apie žydų įsikūrimo laiką."
+  pagrindžia:
+    - c-206491
+
 ## Citatos
 
 - id: c-76225
@@ -113,7 +128,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-76226
@@ -135,7 +150,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184110
@@ -153,9 +168,22 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     etmonas. Tuomet, pav., fasadas buvo apvainikuotas frontonu su vingiuotais
     ir užriestais kraštais.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-206491
+  autorius: "Simonas Jurkštaitis"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio žydų bendruomenės istorija iki Antrojo pasaulinio karo"
+  puslapiai: "p. 563 (PDF 564)"
+  indeksas: "Simonas Jurkštaitis, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio žydų bendruomenės istorija iki Antrojo pasaulinio karo, p. 563 (PDF 564)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225975

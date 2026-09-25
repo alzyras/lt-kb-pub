@@ -90,7 +90,7 @@ Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184585
@@ -112,5 +112,5 @@ Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

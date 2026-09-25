@@ -109,6 +109,18 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   pagrindžia:
     - c-184324
 
+<a id="claim-t-220649"></a>
+- t-220649
+  teiginys: "Šaltinio pasakojime popiežius Celestinas III įkūrė ir pašventino Šventosios Marijos Teutonų ordino vienuolių ligoninę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204986
+
 ## Citatos
 
 - id: c-60856
@@ -131,7 +143,7 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-60857
@@ -159,7 +171,7 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -191,5 +203,52 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-204986
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
+  citata_originali: |
+    Mat
+    prie jo skuba visuotinė bažnyčia, trokšdama išgirsti ir pažinti jo mokymą, nelyginant
+    karalienė Saba, norėjusi patirti Saliamono išmintingumą. Štai šis popiežius Celestinas
+    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
+    naudai namus — šventosios Marijos Teutonų ordino vienuolių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220649
+
+- id: c-205446
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
+  citata_originali: |
+    Štai šis popiežius Celestinas
+    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
+    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto
+    septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
+    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos ir Armėnijos152,
+    kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
+    pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
+    šulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru,
+    pasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“.
+    Kadangi parašyta: „Dvasia teikia gyvybę, o kūnas nieko neduoda“, todėl buvo reikalingi
+    šiam namui septyni kitoniški šulai — dvasiniai, kurių trimis, būtent: klusnumu, neturtu ir
+    skaistybe, rėmėsi visiems privaloma drausmė, o keturi kiti, būtent: gailestis nusidėjus,
+    nuodėmių išpažinimas, atgaila ir gausius nusidėjimus atperkanti artimo meilė, tramdė
+    šventuoju pagarbumu tuos, kurie atbuko karštam teisybės ieškojimui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -36,19 +36,6 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
 
 ## Teiginiai
 
-<a id="claim-t-187780"></a>
-- t-001
-  teiginys: "Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi bent 12 kartų."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-170719
-
 <a id="claim-t-188220"></a>
 - t-002
   teiginys: "Jonas Lenartaitis Kęsgailą prie 1490 m. Trakų pavieto bajorų sutarties prispaudė antspaudą su bėgančio ietį laikančio žmogaus atvaizdu."
@@ -72,6 +59,18 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   pagrindžia:
     - c-171114
 
+<a id="claim-t-211750"></a>
+- t-211750
+  teiginys: "Žemaitijos istorijai pri skirtina taip pat tai, kas joje pasakojama apie Žemaiti jos seniūnų Kęsgailų giminės atstovus (jie minimi bent 12 atvejų)."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193643
+
 ## Citatos
 
 - id: c-170719
@@ -93,8 +92,6 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-171114
   autorius: "Teodoras Narbutas"
@@ -115,5 +112,45 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-193643
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 22"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 22."
+  citata_originali: |
+    Žemaitijos istorijai pri­
+    skirtina taip pat tai, kas joje pasakojama apie Žemaiti­
+    jos seniūnų Kęsgailų giminės atstovus (jie minimi bent
+    12 atvejų).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211750
+
+- id: c-199753
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 404"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
+  citata_originali: |
+    IV
+    lentelė, 19-asis piešinys. Nuogas bėgantis žmogus abiem
+    rankom laiko ietį su dviguba ietigalio geležte, nukreipta durti;
+    galva pridengta kažkokiu trikampiu apdangalu. Šį antspaudą
+    prispaudė Jonas Lenartaitis Kęsgailą (Iwan Lenartowicz Kiez-
+    hajtio) prie 1490 metų sutarties, kurią vieni su kitais sudarė
+    Trakų pavieto, arba vaivadijos, bajorai. Gal tai fetišas Regie-
+    ziowan, kurį Lasickis priskiria Kęsgailų giminei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

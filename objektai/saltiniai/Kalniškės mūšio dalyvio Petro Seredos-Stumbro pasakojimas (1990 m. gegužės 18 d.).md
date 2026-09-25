@@ -118,7 +118,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-43260
@@ -145,6 +145,6 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003

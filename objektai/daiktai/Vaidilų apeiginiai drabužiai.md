@@ -64,27 +64,6 @@ Nenurodyta
   pagrindžia:
     - c-172547
 
-<a id="claim-t-189665"></a>
-- t-002
-  teiginys: "Narbutas rašė, kad vaidilų drabužio apačioje būdavo prisiūta maždaug pėdos ilgumo gyvulio plaukų kuokštų."
-  atnaujinta: "2026-07-19 18:48"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Vaidilos: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vaidilų apeiginiai drabužiai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Vaidilos: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo, kad drabužis yra vaidilų."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Vaidilų apeiginiai drabužiai priklausė Vaidilos (0.82)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172548
-
 ## Citatos
 
 - id: c-172547
@@ -105,7 +84,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172548
@@ -125,5 +104,23 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-200419
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 293."
+  citata_originali: |
+    Šie žyniai būdavo ne­
+    vedę*.
+    Vaidilų viršutinis drabužis buvo ilgas, įprastinio sukirpi­
+    mo, apsiūtas baltu drobiniu apvadu; krūtinė būdavo užsega­
+    ma trimis sagomis su trimis poromis baltų virvelinių kilpų, be­
+    sibaigiančių kutais. Baltas drobinis diržas, susegtas sagtimi arba
+    juosta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

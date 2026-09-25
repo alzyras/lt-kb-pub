@@ -92,7 +92,7 @@ Duburys šiame šaltinyje yra upuokšnis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177902
@@ -104,9 +104,10 @@ Duburys šiame šaltinyje yra upuokšnis.
     Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė.
   citata_rodoma: "Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

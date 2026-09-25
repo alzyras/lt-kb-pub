@@ -95,10 +95,11 @@ Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Len
     bibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek).
   citata_rodoma: "—Filevič, I. L. : _Bor’ba Pol’ši i Litvy-Rusi za Galicko-\nVladimirskoje nasledije,_ Peterburg 1890. — Grekov, B. D. i Jakubov _­_\nskij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati\nbibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek)."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

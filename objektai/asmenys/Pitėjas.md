@@ -158,6 +158,18 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   pagrindžia:
     - c-184373
 
+<a id="claim-t-215775"></a>
+- t-215775
+  teiginys: "Pitėjas buvo Masilijos astronomas ir jūrų keliautojas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196675
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas pažymėjo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti.'
@@ -205,7 +217,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -228,7 +240,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -263,7 +275,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-179343
@@ -294,7 +306,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184373
@@ -327,5 +339,98 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-195001
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 366-367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 366-367."
+  citata_originali: |
+    Joje
+    yra labai įdomios detalės: 1) Frische Haff, alias recens
+    mare, neseniai atsiradusi jūra; 2) į užtvindytą Vitlandijos
+    3 5 6
+
+    kraštą, vadinamą vulgo Balta, id est terra albescens, at­
+    plaukia neaprėpiama daugybė žuvų ir silkių, vandens
+    šviežumo suviliotos; 3) minima Witlands Ort ir paaiški­
+    nama: vulgo Balta gals, finis albus. Kopija iš Karaliau­
+    čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­
+    do, yra be pradžios ir pabaigos. Argi tuo būdu negalima
+    buvo patekti j Baltiją, Plinijaus vadinamą gintaringa
+    sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos
+    ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­
+    daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už
+    šiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­
+    žiau kaip šiandien Sambijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195022
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
+  citata_originali: |
+    Priekaištaujama, kad, norint su­
+    skaičiuoti 6000 stadijų, reikia imti visą jūros ilgį. Aes­
+    tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
+    seklias vietas, kurios kartais būva apsemtos, o kartais —
+    sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai.
+    Sala, kurią Plinijus vadina Baltija, remdamasis visais
+    Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
+    lia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195960
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  citata_originali: |
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
+    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
+    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
+    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
+    vintais jėzuitų aprašymais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196675
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
+  citata_originali: |
+    Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
+    mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis,
+    gerai nustatęs išvykimo vietos, t. y. Masilijos uosto, geo­
+    grafinę padėtį, išplaukė į Atlanto vandenyną. Tai įvyko
+    praėjus 90 metų po H imi Ikaro kelionės, arba 340 metais
+    ¡prieš Kristaus gimimą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215775

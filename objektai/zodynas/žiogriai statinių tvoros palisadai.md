@@ -130,7 +130,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82421
@@ -167,7 +167,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82422
@@ -200,7 +200,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-82423
@@ -226,5 +226,5 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

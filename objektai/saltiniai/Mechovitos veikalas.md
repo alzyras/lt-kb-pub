@@ -86,7 +86,7 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174679
@@ -112,5 +112,23 @@ Teodoro Narbuto vertinimu, Mechovita painioja jotvingių ir lietuvių kilmę, no
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197559
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
+  citata_originali: |
+    Veikiau reikėtų daryti išva­
+    dą, jog buvę keli šios Skomantų giminės kariūnai1. Me-
+    chovita maišo jotvingių ir lietuvių kilmę. Vis dėlto jis
+    sako, kad dar jo laikais apie Drohiciną buvo kalbama jot­
+    vingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

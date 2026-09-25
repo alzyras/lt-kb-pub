@@ -157,6 +157,17 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   pagrindžia:
     - c-168437
 
+<a id="claim-t-222804"></a>
+- t-222804
+  teiginys: "1305 m. brolio Eberhardo kariuomenė nusiaubė didžiąją Pagraudės dalį."
+  atnaujinta: "2026-09-20 04:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+
 ## Citatos
 
 - id: c-59023
@@ -177,7 +188,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59024
@@ -197,7 +208,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-59025
@@ -221,7 +232,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-59026
@@ -244,7 +255,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167574
@@ -263,7 +274,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-168437
@@ -289,8 +300,65 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-202147
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
+  citata_originali: |
+    544  D.— contra territorium [...] Pograudam, Jer.— Pograudin; valsčius Žemaičių
+    pietvakariuose, atrodo, ties Jūros upe, jame — Gedimino pilis (žr. III, 289, 332; SRP, 2,
+    p. 665—666; SZM, p. 230—231; Łowmiański H., Studja..., 2, p. 100—101; plg. Jurginis
+    J., Baudžiavos..., p. 170). Pagraudės ieškota ir labiau į rytus (Mortensen H., Mortensen
+    G., Die Besiedlung..., 2, p. 205). Grandė — baltiškas žodis, turėjęs tam tikro miško
+    reikšmę. Tad pats Pagraudės vardas reikštų vietą, teritoriją prie graudės ‘miško, girios’,
+    t. y. Pa-miškę. Pa-girį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202165
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
+  citata_originali: |
+    Kitą
+    kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o
+    keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus
+    šešis. Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
+    tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė į valsčių, vardu Vaikiai545, kur
+    — irgi iš pasalų — nukovė daug kilmingųjų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202758
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 187"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 187."
+  citata_originali: |
+    Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu. Kitą
+    kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o
+    keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus
+    šešis. Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
+    tiek raitelių, kiek galėjo anksčiau.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Puolė Pagraudę: [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]

@@ -61,5 +61,5 @@ Jonas Basanavičius 1897 m. išvertė į lietuvių kalbą ir išlei do „Grovo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

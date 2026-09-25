@@ -86,6 +86,26 @@ historical_names: []
   pagrindžia:
     - c-167763
 
+<a id="claim-t-69217"></a>
+- t-69217
+  teiginys: "Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Brianskas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Brianskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas tiesiogiai sako, kad Algirdas atakavo Brianską."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) puolė Brianskas (0.96); Algirdas (Lietuvos valdovas) užėmė Mstislavlis (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1356 m.; įvykio data: 1357-1358; įvykio data: 1358 m.; įvykio data: 1359 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Algirdo veiksmus Rževe ir aplinkinėse žemėse."
+  pagrindžia:
+    - c-68610
+
 ## Citatos
 
 - id: c-32404
@@ -105,7 +125,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-68610
@@ -127,6 +147,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-69217
+
 - id: c-167763
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -144,5 +167,5 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

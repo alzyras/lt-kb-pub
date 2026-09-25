@@ -35,15 +35,6 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
 
 ## Teiginiai
 
-<a id="claim-t-59165"></a>
-- t-001
-  teiginys: "Henrikas, pentinais spausdamas arklį, ištarė: „Vardan viešpaties — į priekį“; po šių žodžių velnias pasakė, kad Dievo vardas jį išgelbėjo."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-167427
-
 <a id="claim-t-197056"></a>
 - t-002
   teiginys: "Todėl ir žmonės tarpais kopė ledu sakytum į kalną, tarpais leidosi žemyn nelyginant į klonį, tačiau, viešpaties globojami, nė vienas nenuskendo."
@@ -100,7 +91,7 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167427
@@ -120,5 +111,3 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -38,26 +38,6 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
 
 ## Teiginiai
 
-<a id="claim-t-192817"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano upės, įtekančios į Šiaurės jūrą."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Aldeskos upė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Eridanas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aldeskos upė: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eridanas\" parinktas kaip owner_note_path. Targetas \"Aldeskos upė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175587
-
 <a id="claim-t-192818"></a>
 - t-002
   teiginys: "Narbutas cituoja pasakojimą, kuriame abejojama Eridano upe, įtekančia į Šiaurės jūrą ir siejama su gintaru."
@@ -77,6 +57,18 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175588
+
+<a id="claim-t-212495"></a>
+- t-212495
+  teiginys: "Man atrodo visiškai tikėtina, jog pati Baltijos jūra buvo vadinama Eridanu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194452
 
 ## Citatos
 
@@ -101,8 +93,6 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-175588
   autorius: "Teodoras Narbutas"
@@ -122,5 +112,43 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194452
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 331"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 331."
+  citata_originali: |
+    Man atrodo visiškai tikėtina, jog pati Baltijos jūra
+    buvo vadinama Eridanu. Sis pavadinimas, o tai jau pas­
+    tebėjo pats Herodotas, yra grynai graikiškas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212495
+
+- id: c-195807
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
+  citata_originali: |
+    Tad šis garsus keliautojas ir objektyviausias rašytojas
+    buvo priverstas atsisakyti tolesnės kelionės; jis turbūt bu­
+    vo nukeliavęs ne toliau kaip iki dabartinio Kijevo. Galop
+    jis taip baigia savo pasakojimą: „Apie toliausias Europos
+    vietoves neturiu 'ką pasakyti. Net nemanau, kad ten būtų
+    upė, vadinama Eridanu, įtekanti į Siaurės jūrą, iš kur
+    gaunama ¡gintaro.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

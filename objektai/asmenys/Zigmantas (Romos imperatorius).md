@@ -249,18 +249,6 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-176136
 
-<a id="claim-t-196883"></a>
-- t-014
-  teiginys: "Zigmantas liguruoja tarp kitų liudininkų Ldk Švitrigailos sutartyje su kryžiuočiais."
-  atnaujinta: "2026-07-12 22:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-178963
-
 <a id="claim-t-200710"></a>
 - t-015
   teiginys: "Motiejus Stryjkowskis kronikoje mini, kad po Lucko suvažiavimo imperatorius Zigmantas iš Vytauto gavo brangakmeniais puoštą tauro ragą."
@@ -377,7 +365,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83359
@@ -408,7 +396,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-83360
@@ -451,7 +439,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-83361
@@ -475,7 +463,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83362
@@ -500,7 +488,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176132
@@ -524,7 +512,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-176133
@@ -551,7 +539,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-176134
@@ -579,7 +567,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-176136
@@ -614,7 +602,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-013
 
@@ -636,7 +624,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-176842
@@ -655,7 +643,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-178820
@@ -682,7 +670,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-178963
@@ -701,8 +689,6 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
 
 - id: c-184055
   autorius: "Rimvydas Laužikas"
@@ -711,8 +697,9 @@ object_page_seo_policy_version: object-page-policy/v7
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:29"
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-189058
@@ -749,8 +736,46 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
+
+- id: c-193557
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 263"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 263."
+  citata_originali: |
+    Sis Sedbaras buvo Ukmergės vietininkas. 1432 m. jis ligu-
+    ruoja tarp kitų liudininkų Ldk Švitrigailos sutartyje su kryžiuo­
+    čiais. Apie jo kelionę j Komą Vytauto karaliaus vainiko reikalu
+    iš kitų šaltinių nieko nežinoma. Matyt, čia susiduriama su vienu
+    iš Kęsgailų gimines padavimų.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193892
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 260"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 260."
+  citata_originali: |
+    4 Pasiūlymų, kad Vytautas siekių karaliaus vainiko, iškėlė ne
+    Jogaila, o Vokietijos imperatorius Zigmantas. Pirmų kaitų jis siūlė
+    Vytautui vainikuotis dar 1410 m. balandžio mėn. per susitikimų su
+    Vytautu Slovakijoje, Kežmarko mieste, norėdamas kryžiuočių naudai
+    išardyti Lenkijos ir Lietuvos sųjungų. Tačiau to meto aplinkybėmis
+    Vytautas nesileido j derybas. Antrų kartų vainikavimo pasiūlymų
+    Zigmantas iškėlė 1429 m.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Cyleikaitė]]

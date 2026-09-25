@@ -220,7 +220,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-75336
@@ -239,7 +239,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-75337
@@ -263,7 +263,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-75338
@@ -286,7 +286,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-191092
@@ -308,7 +308,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-191876
@@ -332,7 +332,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-191906
@@ -354,7 +354,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-191993
@@ -377,7 +377,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-192022
@@ -397,5 +397,5 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009

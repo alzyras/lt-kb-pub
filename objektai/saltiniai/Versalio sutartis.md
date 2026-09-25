@@ -84,7 +84,7 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-48459
@@ -102,7 +102,7 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166779
@@ -120,5 +120,5 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

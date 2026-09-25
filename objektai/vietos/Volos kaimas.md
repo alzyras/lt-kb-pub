@@ -76,5 +76,5 @@ Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

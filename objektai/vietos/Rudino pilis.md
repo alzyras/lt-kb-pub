@@ -71,5 +71,5 @@ canonical_biography: 1234 m. Rudino pilis pastatyta tarp Pamedės ir Kulmo žemi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

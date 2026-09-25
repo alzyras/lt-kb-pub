@@ -34,28 +34,6 @@ canonical_biography: "Narbutas rašo, kad Bochartas žodį „Cabires“ kildino
 
 Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabir“, reiškiančio galią.
 
-## Teiginiai
-
-<a id="claim-t-190416"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabir“, reiškiančio galią."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bochartas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bochartas\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173299
-
 ## Citatos
 
 - id: c-173299
@@ -76,5 +54,3 @@ Narbutas rašo, kad Bochartas žodį „Cabires“ kildino iš arabiško „Kabi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -57,6 +57,18 @@ Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseni
   pagrindžia:
     - c-177321
 
+<a id="claim-t-212072"></a>
+- t-212072
+  teiginys: "Traidenis prie Bebro upės aptiko kalną, įkūrė miestą ir pavadino jį Raigardu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193289
+
 ## Citatos
 
 - id: c-177321
@@ -79,5 +91,45 @@ Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-193289
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 57"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 57."
+  citata_originali: |
+    Didysis kunigaikštis Traidenis aptiko prie Bebro
+    upės 14 gražų kalną, jam tenai labai patiko, įkūrė ten
+    miestą ir pavadino jį
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212072
+
+- id: c-194549
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
+  citata_originali: |
+    Si sutartis buvo pasirašyta Trošine 1260 metų
+    birželio 15 dieną1.
+    133
+    Nuosmukis. Kryžiuočių ir gal totorių iš Galicijos pusės
+    puolimų įbauginti ir neseniai Mazovijos Ziemovito suda­
+    rytos taikos sutarties su kryžiuočiais atgrasinti jotvingiai
+    pasitraukė prie Bebro upės ir Bugo žemupio, iš kur, pa­
+    dvigubinę savo jėgas, puldinėdavo kitapus Vyslos ir darė
+    daug žalos Lenkijai ir Mazovijai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

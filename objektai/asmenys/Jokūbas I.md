@@ -80,6 +80,18 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   pagrindžia:
     - c-177107
 
+<a id="claim-t-212962"></a>
+- t-212962
+  teiginys: "Jonas I nurodo šv."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194977
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Tai buvo tarp 1351 ir 1355 metų; tada tasai Jonas I buvo Varmijos vyskupas.'
@@ -143,7 +155,7 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177107
@@ -166,7 +178,7 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177309
@@ -191,6 +203,7 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -207,6 +220,44 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   statusas: verified
   atnaujinta: "2026-07-12 22:34"
 
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194977
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 345."
+  citata_originali: |
+    Kaip pavyzdį jis
+    nurodo šv. Vaitiėkaus bažnytėlę, kuri, pasak jo, buvo
+    pastatyta Sambijos vyskupo Jono I maždaug XIII amžiaus
+    pabaigoje ir tuomet buvo per mylią nuo kranto. Šiuo
+    klausimu jis cituoja buvusio profesoriaus Rapolto teiginį
+    (Meditalio epistolaris de origine succini in littore sam-
+    biensi.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212962
+
+- id: c-197914
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
+  citata_originali: |
+    Tačiau Treteris tą neigia sakydamas, kad ąžuolas tebesto­
+    vėjęs kryžiuočių laikais, o žmonės nenustoję jam melstis, to­
+    dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
+    Jono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355
+    metų; tada tasai Jonas I buvo Varmijos vyskupas
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

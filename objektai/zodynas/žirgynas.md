@@ -75,7 +75,7 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-03476
@@ -96,5 +96,5 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

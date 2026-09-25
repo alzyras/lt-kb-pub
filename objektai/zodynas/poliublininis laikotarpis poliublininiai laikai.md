@@ -145,7 +145,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-32682
@@ -164,7 +164,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-96904
@@ -183,11 +183,12 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     po 1569 metų Liublino unijos.
   citata_rodoma: ", labiausiai Šapoka tyrinėjo valsty­\nbinius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­\ndamas studiją apie Jogailos aktus (JoŠ). Perėjęs pagrindinai į\npoliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę\nstraipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­\nniu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija\npo 1569 metų Liublino unijos."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -210,5 +211,5 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

@@ -90,7 +90,7 @@ Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Ausku�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173407
@@ -109,5 +109,45 @@ Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Ausku�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198827
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
+  citata_originali: |
+    Šioje tautoje prietarai, susiję su kal­
+    bamuoju dievaičiu, gyvuoja iki šiol. Pastebėję po nakties avį
+    nuplikusia dėmėmis nugara, be vilnos, tarytum būtų ji iškirpta
+    arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja
+    žmonių arba gyvulių marą; dėl šios priežasties dažnai visame
+    kaime kyla didelis verksmas ir susijaudinimas; išplisdamas ap­
+    linkui, jis tampa didelio nerimo priežastimi. Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199935
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
+  citata_originali: |
+    Datonas (Datonus)
+    Dievaitis, žemių arba visokio turto dalytojas. Tik tiek apie
+    jį papasakojo Lasickis. Tenka spėlioti, kad tai buvo savotiškas
+    Plutono sekimas.
+    Latviai, pasak Stenderio, jį vadino Pilnyčiu (Pilnitis).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

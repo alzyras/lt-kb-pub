@@ -172,18 +172,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   pagrindžia:
     - c-176257
 
-<a id="claim-t-197288"></a>
-- t-007
-  teiginys: "Poška, rašydamas šį straipsnį, turėjo omenyje kokį nors konkretų asmenį."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179106
-
 <a id="claim-t-197585"></a>
 - t-008
   teiginys: "Bene geriausiai ją apibūdina 1829 metais „Dziennik Warszawski“ išspaus dintas Dionizo Poškos straipsnis „Keletas įžanginių žo džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is toriją“2."
@@ -195,6 +183,30 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173577
+
+<a id="claim-t-212358"></a>
+- t-212358
+  teiginys: "Dionizas Poška 1829 metais „Dziennik Warszawski“ paskelbė straipsnį „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195882
+
+<a id="claim-t-216607"></a>
+- t-216607
+  teiginys: "Dionizas Poška 1829 metais paskelbė straipsnį „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“."
+  atnaujinta: "2026-09-19 22:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197991
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -261,7 +273,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-06627
@@ -282,7 +294,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171288
@@ -303,7 +315,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-171289
@@ -324,7 +336,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173577
@@ -350,7 +362,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-008
 
@@ -375,7 +387,7 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-179106
@@ -396,5 +408,90 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+
+- id: c-195419
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 441"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 441."
+  citata_originali: |
+    Tame pačiame laiške I. Ona­
+    cevičiui istorikas prisipažino, jog šią medžiagą jis ėmė
+    tvarkyti maždaug prieš dešimtį metų, t. y. apie 1825—
+    1827 metus. Vadinasi, trečiojo dešimtmečio pabaigoje
+    T. Narbutas jau turėjo sukaupęs pakankamą kiekį šalti­
+    nių, kuriais remdamasis galėjo ryžtis rekonstruoti seniau­
+    sią Lietuvos istoriją. Be to, ir anuometinė atmosfera bu­
+    vo palanki tokiam sprendimui priimti. Bene geriausiai ją
+    apibūdina 1829 metais „Dziennik Warszawski“ išspaus­
+    dintas Dionizo Poškos straipsnis „Keletas įžanginių žo­
+    džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is­
+    toriją“2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195882
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 441"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 441."
+  citata_originali: |
+    Bene geriausiai ją
+    apibūdina 1829 metais „Dziennik Warszawski“ išspaus­
+    dintas Dionizo Poškos straipsnis „Keletas įžanginių žo­
+    džių bet kam, žadančiam rašyti Lietuvos ir Žemaičių is­
+    toriją“2. Jis parašytas metai prieš mirtį, todėl jį drįstume
+    laikyti tam tikru literatūriniu testamentu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212358
+
+- id: c-197991
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 49."
+  citata_originali: |
+    Be to,
+    ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
+    imti. Bene geriausiai ją apibūdina 1829 metais „Dziennik Wars-
+    zawski“ išspausdintas Dionizo Poškos straipsnis „Keletas įžan­
+    ginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių
+    istoriją“8. Jis parašytas metai prieš mirtį, todėl jį drįstume lai­
+    kyti tam tikru literatūriniu testamentu.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216607
+
+- id: c-198243
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 50."
+  citata_originali: |
+    Autoriaus įsitikinimu, dėl šių priežasčių lietuvių tau­
+    tos istoriją gali parašyti „tiktai kuris nors civilis pilietis“ ir tik
+    jis turi galimybę objektyviai pavaizduoti tos tautos praeitį.
+    Sunku pasakyti, ar D. Poška, rašydamas šį straipsnį, turėjo
+    omenyje kokį nors konkretų asmenį. Galbūt ir taip. Jam pui­
+    kiai buvo žinomas tuometinis intelektualus Lietuvos elitas,
+    ypač tie, kurie domėjosi krašto praeitimi.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

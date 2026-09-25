@@ -59,5 +59,5 @@ Ten prie bet ku rios aukos sukalbėdavo prakeikimo formulę, o po to viską su m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

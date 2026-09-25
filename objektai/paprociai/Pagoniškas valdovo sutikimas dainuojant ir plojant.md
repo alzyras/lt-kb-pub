@@ -74,5 +74,5 @@ Vilniečiai, išėję su žmonomis ir vaikais už miesto, pasitinka didįjį ku 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

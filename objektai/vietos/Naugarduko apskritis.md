@@ -89,5 +89,5 @@ Neturtingas Naugarduko apskrities bajoras Antanas, Jono sūnus, Petro anūkas, M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

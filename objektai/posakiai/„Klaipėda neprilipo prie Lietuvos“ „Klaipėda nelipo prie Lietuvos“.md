@@ -66,5 +66,5 @@ Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

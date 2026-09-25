@@ -101,11 +101,12 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
     burnos, atsiprašant, kažin ką.
   citata_rodoma: "O tu, Grigorai, sutikęs, davęs žodį, laikykis, nedaryk iš savo burnos, atsiprašant, kažin ką."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177957
@@ -121,11 +122,12 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
     to rūpesčio.
   citata_rodoma: "Kitas žmogus, Lileika, jis nei samdo nei persisamdo, jis laisvas nuo to rūpesčio."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177958
@@ -141,5 +143,5 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

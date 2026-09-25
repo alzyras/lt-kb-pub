@@ -86,7 +86,7 @@ Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184483
@@ -108,5 +108,5 @@ Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

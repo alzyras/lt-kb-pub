@@ -68,8 +68,23 @@ Terminas vartojamas vestuvių tęsinio ir ištekėjusios moters apdėjimo kontek
     turi suruošti vadinamas „prikeltuves“ .
   citata_rodoma: "Kaip „anoje šalyje“ piršlys buvo pirmas, taip dabar čia svočia: turi suruošti vadinamas „prikeltuves“ ."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 08:46"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-195630"></a>
+- t-001
+  teiginys: "Prikeltuvės šiame šaltinyje yra svočios surengiama apeiga."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178032

@@ -663,7 +663,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
     - t-021
     - t-030
@@ -692,7 +692,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-009
 
@@ -724,7 +724,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
     - t-022
 
@@ -755,7 +755,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
     - t-025
 
@@ -783,7 +783,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
     - t-026
 
@@ -836,7 +836,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-160135
@@ -862,7 +862,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-160136
@@ -897,7 +897,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-029
 
@@ -924,7 +924,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-160138
@@ -972,7 +972,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-160139
@@ -994,7 +994,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
     - t-018
 
@@ -1017,7 +1017,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-160143
@@ -1071,7 +1071,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-160146
@@ -1124,7 +1124,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-160147
@@ -1158,7 +1158,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-027
 
@@ -1190,7 +1190,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-032
 
@@ -1213,7 +1213,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-160157
@@ -1241,7 +1241,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-160158
@@ -1282,7 +1282,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-019
 
@@ -1311,7 +1311,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
     - t-033
 
@@ -1337,7 +1337,7 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-160162
@@ -1363,5 +1363,5 @@ Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007

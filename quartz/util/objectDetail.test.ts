@@ -94,12 +94,12 @@ test("keeps every Vytautas claim, canonical citation, and significant mention re
   const source = path.join(process.cwd(), "objektai/asmenys/Vytautas.md")
   if (!fs.existsSync(source)) return
   const evidence = objectDetailEvidence(fs.readFileSync(source, "utf8"))
-  // Reviewed published corpus integrated from 30daf19f27; withdrawn legacy
-  // quote blocks are not restored merely to match the previous snapshot.
-  assert.equal(evidence.claims.length, 376)
-  assert.equal(evidence.citations.size, 290)
+  // Current DB-authoritative public projection; retired evidence is not
+  // restored merely to preserve the older hand-rendered snapshot.
+  assert.equal(evidence.claims.length, 373)
+  assert.equal(evidence.citations.size, 312)
   assert.equal(evidence.citationRecords.filter((record) => record.significantMention).length, 30)
-  assert.equal(evidence.citationRecords.filter((record) => record.standalone).length, 23)
+  assert.equal(evidence.citationRecords.filter((record) => record.standalone).length, 45)
 })
 
 test("collapses duplicate quote displays but preserves distinct sources, pages and records", () => {

@@ -111,7 +111,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-61149
@@ -129,7 +129,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-61150
@@ -146,5 +146,56 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203135
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 61"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61."
+  citata_originali: |
+    Pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos,
+    Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41—
+    42), kartais —apie Vangrapės aukštupį, dab. Vengoževo (Węgorzewo) apylinkėse —
+    (Okulicz J. Pradzieje..., p. 466) arba į pietryčius nuo Suduonios (Powierski J., Uwagi...,
+    p. 124).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203700
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
+  citata_originali: |
+    Nauji vietovardžių tyrimai (ež. Stabo — dab. Kamienne  ir
+    kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose
+    centrinėse žemėse jotvingiai išliko dar ilgai po 1283 m., tik vėliau buvo palaipsniui
+    polonizuoti (Nalepa J., Stabo..., p. 146—148).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205656
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 162"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 162."
+  citata_originali: |
+    Kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136,
+    145, 152; Kamiński A., Jaćwież..., p. 105— 106; Nalepa J., Przyczynek do znajomości...,
+    p. 128; to paties, Stabo..., p. 146—148; CV, t. 34, p. 85; MGP, p. 50).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

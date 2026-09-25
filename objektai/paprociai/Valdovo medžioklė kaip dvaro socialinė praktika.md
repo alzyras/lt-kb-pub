@@ -91,7 +91,7 @@ XVI a. valdovo organizuojamomis medžioklėmis siekta teigiamų emocijų ir pasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186772
@@ -116,5 +116,5 @@ XVI a. valdovo organizuojamomis medžioklėmis siekta teigiamų emocijų ir pasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

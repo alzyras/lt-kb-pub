@@ -69,6 +69,19 @@ Nenurodyta
   pagrindžia:
     - c-168907
 
+<a id="claim-t-193366"></a>
+- t-193366
+  teiginys: "Kojelavičius vaizduoja, kad Švitrigaila Rusioje rengėsi karui prieš Lietuvą, o Žygimanto priešininkai traukė į jo pusę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-176093
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1433 m. Boleslovas Švitrigaila padalijo kariuomenę į tris voras; viena įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo.'
@@ -149,7 +162,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176093
@@ -176,3 +189,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-193366

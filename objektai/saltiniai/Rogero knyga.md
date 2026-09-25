@@ -77,5 +77,5 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -79,5 +79,5 @@ Narbutas nurodo, kad prieš paskelbimą Gediminas gyveno Ariogaloje ir valdė ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

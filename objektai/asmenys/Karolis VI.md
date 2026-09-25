@@ -53,6 +53,18 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
     - c-38070
     - c-167660
 
+<a id="claim-t-217500"></a>
+- t-217500
+  teiginys: "O XV amžiaus pradžioje, kai Karolio VI žmona, Prancū zijos karalienė Izabelė buvo pirmoji Europos elegantė, pradė jusi nešioti drobinius marškinius, toje pačioje epochoje lietu viai savo krašte ėmė visuotinai dėvėti gelumbę, kuri iki tol bu vo tik prabangos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200516
+
 ## Citatos
 
 - id: c-38070
@@ -75,7 +87,7 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167660
@@ -98,5 +110,25 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200516
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
+  citata_originali: |
+    O XV amžiaus pradžioje, kai Karolio VI žmona, Prancū­
+    zijos karalienė Izabelė buvo pirmoji Europos elegantė, pradė­
+    jusi nešioti drobinius marškinius, toje pačioje epochoje lietu­
+    viai savo krašte ėmė visuotinai dėvėti gelumbę, kuri iki tol bu­
+    vo tik prabangos ženklas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217500

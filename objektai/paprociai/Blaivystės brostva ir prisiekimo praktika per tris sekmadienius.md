@@ -70,6 +70,16 @@ Nenurodyta
   pagrindžia:
     - c-177791
 
+<a id="claim-t-195375"></a>
+- t-195375
+  teiginys: "Prieš priesaiką dar būdavo atsisveikinama su degtine."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177792
+
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -88,7 +98,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177792
@@ -105,3 +115,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195375

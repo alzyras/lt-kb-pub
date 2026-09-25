@@ -108,5 +108,33 @@ Pasak Teodoro Narbuto, V. Suroveckis venedų srityse lokalizavo senovės slavų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-194441
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
+  citata_originali: |
+    Sis aprašymas ap­
+    ima plačius ir labai didžiulius kraštus. Žymusis mūsų
+    senovės tyrinėtojas ponas Suroveckis2 labai gerai aiškina,
+    kad šiose venedų srityse lokalizuoja senų senovės slavų
+    gyvenamąsias vielas, aprašinėdamas ribas kraštų, kur
+    šen bei ten esti slavų valstiečių, kolonijų. Pasak jo, šio
+    venedų krašto ribos buvusios tokios: „Pradedant nuo Vys­
+    los, išilgai estų kraštų, per šiandienį Nemuną (viduryje,
+    kiek žemiau Gardino), Žemaitiją, Livoniją, Estiją (Gu­
+    diją) net iki rytinio Baltijos pakraščio (Suomių įlanką);
+    iš ten pro Volgos ir Dnepro versmes iki Pripetės žiočių,
+    toliau išilgai šios upės iki jos versmių, per dalį Polesės ir
+    Voluinės, per Dnestro aukštupį net ligi Tatrų ir Vyslos,
+    kuri nuo tada buvo vakarų siena, skirianti juos nuo ger­
+    1 De Mor.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

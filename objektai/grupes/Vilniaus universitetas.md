@@ -480,7 +480,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -506,7 +506,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-26836
@@ -528,7 +528,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-014
     - t-015
@@ -560,7 +560,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-26838
@@ -579,7 +579,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-104616
@@ -612,7 +612,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-009
 
@@ -635,7 +635,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-104622
@@ -661,7 +661,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-104624
@@ -679,7 +679,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-104625
@@ -704,7 +704,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-104626
@@ -729,7 +729,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-104627
@@ -756,7 +756,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-010
 
@@ -780,7 +780,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-171250
@@ -802,7 +802,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-176245
@@ -822,7 +822,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-176788
@@ -850,5 +850,26 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
+
+- id: c-197889
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 58."
+  citata_originali: |
+    „Wizerunki i Roz­
+    trząsania Naukowe“ puslapiuose anonimiškumas buvo įpras­
+    tas reiškinys. Šio leidinio, kuris buvo sumanytas kaip šubravcų
+    tradicijų tęsėjas, autoriai buvo aštuoniolika buvusių Vilniaus
+    universiteto profesorių, aštuoni su šia įstaiga nesusiję moksli­
+    ninkai ir devyniolika literatų, kurių dauguma buvo to univer­
+    siteto absolventai. Sunku tarp jų būtų pažinti recenzijos auto­
+    rių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

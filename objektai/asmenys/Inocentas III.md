@@ -93,7 +93,7 @@ Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188133
@@ -115,5 +115,22 @@ Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-205732
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 226"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
+  citata_originali: |
+    Apie Livonijos žemės atvertimą į tikėjimą
+
+      1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus
+    Inocento rūpesčiu į Kristaus tikėjimą (Ptol. 21,10; Mart. loc. cit.).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

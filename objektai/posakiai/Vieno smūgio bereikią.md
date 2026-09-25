@@ -86,10 +86,11 @@ Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio i
     toliai buvo vienodi.
   citata_rodoma: "Prieš juos stovį ne ginkluoti ligi dan­\ntų plieno ginklais kryžiuočių pulkai, kuriuos jie dau­\ngel kartų yra triuškinę, nors rodėsi nepalaužiami, o \nrusai, menki buvusių pergalių likučiai, paskutinės be­\njėgės, mirštančios galybės nuoliekos. Vieno smūgio be­\nreikią, ir jų kariauna savaime subyrėsianti. Ir vieni, ir \nkiti pradėjo kovą, įnirtingai šaudydami strėlėmis ir \nsvaidydami ietimis, tačiau niekam nepadarydami di­\ndesnės žalos. Atkaklus ir kruvinas mūšis užvirė, kai \nsusidūrė ištisi būriai, kai iš arti imta kovoti kalavi­\njais: vieni ir kiti grūmėsi narsiai, ir tų, ir kitų nuos­\ntoliai buvo vienodi."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

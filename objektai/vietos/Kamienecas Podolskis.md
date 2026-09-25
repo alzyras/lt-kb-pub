@@ -51,3 +51,40 @@ Tvirčiausios tame krašte buvo Lvovo ir Kamieneco-Podolsko pilys.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207820"></a>
+- t-001
+  teiginys: "Tvirčiausios tame krašte buvo Lvovo ir Kamieneco-Podolsko pilys."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190518
+
+## Citatos
+
+- id: c-190518
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 161"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 161."
+  citata_originali: |
+    Tai ypač buvo justi pietinėse
+    Ukrainos teritorijose - Voluinėje, Podolėje, kurias nuolat puldinėjo totoriai. Nors pilys
+    čia buvo labai svarbi gynybos grandis, Žygimanto Augusto laikais jų tinklas buvo retas,
+    ne visos jos buvo mūrinės, daug dar buvo medinių, sutvirtintų žemėmis. Tvirčiausios
+    tame krašte buvo Lvovo ir Kamieneco-Podolsko pilys.
+  citata_rodoma: "Tvirčiausios\ntame krašte buvo Lvovo ir Kamieneco-Podolsko pilys."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

@@ -118,7 +118,7 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44716
@@ -149,5 +149,5 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

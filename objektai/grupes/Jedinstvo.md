@@ -154,7 +154,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-42681
@@ -186,7 +186,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-42682
@@ -209,7 +209,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-42683
@@ -232,7 +232,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-166520
@@ -253,7 +253,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-167046
@@ -281,5 +281,5 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

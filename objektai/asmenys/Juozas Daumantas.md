@@ -109,7 +109,7 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167133
@@ -139,5 +139,5 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -89,7 +89,7 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184320
@@ -114,5 +114,5 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

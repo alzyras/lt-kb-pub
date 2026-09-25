@@ -65,6 +65,18 @@ Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łoki
   pagrindžia:
     - c-59321
 
+<a id="claim-t-223231"></a>
+- t-223231
+  teiginys: "Pukuveras pasiuntė Vytenį su didele kariuomene į Lenkiją, į Bresto žemę, kur lietuviai niokojo kraštą ir ėmė belaisvius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202677
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1323 m. pabaigoje–1324 m. pradžioje Gedimino Lietuva, puldama Volynę, užėmė Bresto žemę, arba Palenkę.'
@@ -96,5 +108,23 @@ Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łoki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202677
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
+  citata_originali: |
+    Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
+    kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių
+    nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę,
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223231

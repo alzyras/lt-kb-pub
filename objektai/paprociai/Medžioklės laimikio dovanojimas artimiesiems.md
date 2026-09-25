@@ -89,5 +89,5 @@ XVI a. LDK laiško retorika medžioklės laimikio dalijimąsi siejo su deramo d�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

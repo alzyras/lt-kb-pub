@@ -102,6 +102,114 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
   pagrindžia:
     - c-173674
 
+<a id="claim-t-212330"></a>
+- t-212330
+  teiginys: "Tačiau apie tai rašoma Kurliandijos kle bono Stenderò veikale, iš kurio pateikiame išverstą iš 1 Karamzin."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197661
+
+<a id="claim-t-212777"></a>
+- t-212777
+  teiginys: "Stenderis buvo Kuršo pamokslininkas ir latvių gramatikos autorius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195798
+
+<a id="claim-t-212815"></a>
+- t-212815
+  teiginys: "Narbutas remiasi Stenderio ištrauka, kurioje latvių gyvenamosios vietos nurodomos Kuršo ir Žemgalos kunigaikštystėse, Piltenės grafystėje, Livonijoje, Lenkijos Livonijoje, prie Kuršo sienos Lietuvoje ir Prūsijoje prie Kuršių marių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197151
+
+<a id="claim-t-216534"></a>
+- t-216534
+  teiginys: "Veltui Stenderis savo latvių mitologijoje stengiasi išve džioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li vonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar ba Kriws."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198453
+
+<a id="claim-t-216669"></a>
+- t-216669
+  teiginys: "Stenderis dar sako, kad latviams Lauma reiškia tą patį, ką ir ragana."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198617
+
+<a id="claim-t-217533"></a>
+- t-217533
+  teiginys: "Stenderis yra latvių kalbos gramatikos autorius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199144
+
+<a id="claim-t-217685"></a>
+- t-217685
+  teiginys: "Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri mo nekaltai nubaudė vieną žmogų“42."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200621
+
+<a id="claim-t-218230"></a>
+- t-218230
+  teiginys: "Stenderis, anot Narbuto, prisimena buvęs Auskučio sukeltų neramumų liudytojas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199244
+
+<a id="claim-t-218239"></a>
+- t-218239
+  teiginys: "Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Pergrubę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199863
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės.'
@@ -149,7 +257,7 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173674
@@ -170,6 +278,221 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
+
+- id: c-195599
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
+  citata_originali: |
+    Odoakras,
+    tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo
+    1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia­
+    lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti,
+    kelti triukšmą (Stender. Lettische Gramm. S. 37). „E“ yra prieš-
+    vardinis garsas, paverčiantis siekinį daiktavardžiu; taip Eduhka reiš­
+    kia ūmų, aistringai bet kokio žygio besiimantį žmogų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195798
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 256"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 256."
+  citata_originali: |
+    Trumpiausiai į tai atsakome pateikdami Kuršo pa­
+    mokslininko ir latvių gramatikos autoriaus Stenderio žo­
+    džius. Stenderis, neketindamas atsakyti į Tuntnano prie­
+    laidą, bet tiesiog aprašydamas istorinius-topografinius šios
+    tautos bruožus, rašo: „Latvių kalba yra nutolusi nuo šiau­
+    rinių kaimynų estų kalbos taip, kaip dangus ir žemė. Ir
+    nors pačiame Kuršo viduryje yra dvi apskritys, kur kai­
+    miečiai tarpusavy kalbasi estiškai, o su svetimšaliais —
+    latviškai, bet tai niekados neturėjo jokios įtakos latvių
+    kalbai, nes estai nesimaišė su latviais ir su jais nesituo-
+    kė“2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212777
+
+- id: c-197151
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 290-291"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290-291."
+  citata_originali: |
+    Papildydami žinias apie šią trečią lietuvių tautos sritį,
+    norėdami toliau kalbėti apie bendrą istoriją, pateikiame
+    čia Stenderio ištrauką2, įrodančią latvių genčių egzista­
+    vimą ir jų gyvenamąsias vietas: „Tikrieji latviai gyvena:
+    1) abiejose Kuršo ir Zemgalos kunigaikštystėse, taip pat
+    Piltenės grafystėje; 2) toje Livonijos dalyje, kurią vadi­
+    na Letlandija arba Latgala; 3) Lenkijos Livonijoje; 4)
+    1 Žemėlapis Kruzės veikale „Necrolivonica"**,
+    2 Lett. Gramm.
+    280
+
+    Lietuvoje prie Kuršo sienos, ypač dviejose liuteroniškose
+    Žeimelio ir Biržų parapijose, kur pamaldos vyksta ne
+    tik vokiečių, bet ir latvių kalbomis; 5) yra mažų kolonijų
+    Prūsijoje prie Kuršių marių, kurios pavadintos jų vardu,
+    nes tenykščiai žvejai buvo vadinami kuršiais
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212815
+
+- id: c-197661
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 108-109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 108-109."
+  citata_originali: |
+    Tačiau apie tai rašoma Kurliandijos kle­
+    bono Stenderò* veikale, iš kurio pateikiame išverstą iš­
+    1 Karamzin. Istor. Hos. Ross. T. 1. S. 154.
+    2 Rozprawa.
+    S.
+    103.
+    111
+
+    trauką: „Vienas aukšto laipsnio karininkas ir malonin­
+    gas pažįstamas, kilęs iš mano buvusios parapijos, pasku­
+    tinio turkų karo su rusų kariuomene metu lankėsi Ma­
+    žojoje Tartarijoje ir, jo teisingumu neabejoju, suteikė man
+    šių žinių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212330
+
+- id: c-198453
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
+  citata_originali: |
+    Veltui Stenderis savo latvių mitologijoje stengiasi išve­
+    džioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­
+    vonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­
+    ba Kriws
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216534
+
+- id: c-198617
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 121"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 121."
+  citata_originali: |
+    Stenderis dar sako, kad latviams
+    Lauma reiškia tą patį, ką ir ragana.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216669
+
+- id: c-199144
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 95"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 95."
+  citata_originali: |
+    Stenderis (latvių kalbos gramatikos autorius) straipsnyje
+    apie tos tautos mitologiją aiškina mitologinių terminų kilmę
+    su keistu nusistatymu: jokiu būdu nenori pripažinti jų kilmės
+    iš graikų ar lotynų kalbų; nuobodžiausiai stengiasi surasti vie­
+    tinių žodžių, kad tik nereiktų vartoti lotyniškų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217533
+
+- id: c-199244
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
+  citata_originali: |
+    Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218230
+
+- id: c-199863
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
+  citata_originali: |
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218239
+
+- id: c-200621
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 306"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 306."
+  citata_originali: |
+    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
+    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
+    mo nekaltai nubaudė vieną žmogų“42.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217685

@@ -76,5 +76,5 @@ Kad labiau popiežius patrauktų Vytautą į savo pusę, paskiria jį ir Rygos a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

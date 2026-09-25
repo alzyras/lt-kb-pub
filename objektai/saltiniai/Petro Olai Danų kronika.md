@@ -86,7 +86,7 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176815
@@ -119,5 +119,5 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

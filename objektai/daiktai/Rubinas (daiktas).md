@@ -82,5 +82,5 @@ Rubinas buvo įtaisytas vainiko viršuje ir, vainikui nukritus, iškrito bei pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

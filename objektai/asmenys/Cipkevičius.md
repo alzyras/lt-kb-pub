@@ -69,5 +69,5 @@ canonical_biography: "1 būrio kareiviai Cipkevičius ir Šidiškis prašė, kad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

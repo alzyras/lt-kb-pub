@@ -94,7 +94,7 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-35568
@@ -116,5 +116,5 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

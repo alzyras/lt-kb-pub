@@ -78,5 +78,5 @@ Andrius Nemyra kituose šaltiniuose nepaliudytas, bet vienas Nemyra (be vardo) j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

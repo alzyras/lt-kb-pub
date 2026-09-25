@@ -90,7 +90,7 @@ Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

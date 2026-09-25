@@ -84,5 +84,5 @@ Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

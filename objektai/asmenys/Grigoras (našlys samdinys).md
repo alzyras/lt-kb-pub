@@ -97,11 +97,12 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     — Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras.
   citata_rodoma: "— Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177960
@@ -113,11 +114,12 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką.
   citata_rodoma: "Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177961
@@ -133,5 +135,5 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

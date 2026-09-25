@@ -139,7 +139,7 @@ Ne tik žiūrima pasporto, bet perkrečiami ir visi vežamieji daiktai. Ant mano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-192454
@@ -158,7 +158,7 @@ Ne tik žiūrima pasporto, bet perkrečiami ir visi vežamieji daiktai. Ant mano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-192455
@@ -179,7 +179,7 @@ Ne tik žiūrima pasporto, bet perkrečiami ir visi vežamieji daiktai. Ant mano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-192456
@@ -204,7 +204,7 @@ Ne tik žiūrima pasporto, bet perkrečiami ir visi vežamieji daiktai. Ant mano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-192457
@@ -225,5 +225,5 @@ Ne tik žiūrima pasporto, bet perkrečiami ir visi vežamieji daiktai. Ant mano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

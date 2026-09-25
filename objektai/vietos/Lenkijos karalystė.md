@@ -230,6 +230,42 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   pagrindžia:
     - c-105531
 
+<a id="claim-t-208517"></a>
+- t-208517
+  teiginys: "Lenkijos Karalystėje veikė blaivininkų organizacijos, kurios buvo valdžios uždraustos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-191137
+
+<a id="claim-t-209358"></a>
+- t-209358
+  teiginys: "Blaivybės brolijų idėjos pasiekė Lenkijos Karalystę per Poznanės kunigaikštystę ir Galiciją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-191945
+
+<a id="claim-t-210540"></a>
+- t-210540
+  teiginys: "Šventieji ežerai yra Lenkijos Karalystės Augustavo gubernijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194657
+
 ## Citatos
 
 - id: c-24242
@@ -250,7 +286,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-24243
@@ -272,7 +308,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-105527
@@ -302,7 +338,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -333,7 +369,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-105529
@@ -353,7 +389,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-105530
@@ -390,7 +426,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-105531
@@ -424,7 +460,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-105532
@@ -451,7 +487,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-105533
@@ -474,8 +510,61 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-191137
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 66"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 66."
+  citata_originali: |
+    kada Lenkijos
+    Karalystėje veikusios (ir, kaip minėta, valdžios uždraustos) blaivininkų
+    organizacijos jau keletą metų buvo plačiai Lietuvoje žinomos20.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208517
+
+- id: c-191945
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 61"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 61."
+  citata_originali: |
+    liepos 28 d. buvo patvirtinti popiežiaus Pijaus IX7. Tai dar labiau
+    paspartino blaivybės judėjimą įvairiose Europos Šalyse. Per Poznanės
+    kunigaikštystę, Galiciją, brolijų idėjos pasiekė Lenkijos Karalystę.
+  citata_rodoma: "Per Poznanės \nkunigaikštystę, Galiciją, brolijų idėjos pasiekė Lenkijos Karalystę."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209358
+
+- id: c-194657
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 482"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 482."
+  citata_originali: |
+    Šventieji ežerai yra Lenkijos Karalystės Augustavo gubernijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210540
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Suvalkija]]

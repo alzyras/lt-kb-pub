@@ -100,7 +100,7 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-35577
@@ -121,7 +121,7 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167610
@@ -142,5 +142,5 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

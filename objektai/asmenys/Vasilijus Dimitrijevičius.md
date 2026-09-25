@@ -36,29 +36,29 @@ canonical_biography: "Štai kas nutiko po šito dangaus ženklo didžiajam kunig
 
 ## Teiginiai
 
-<a id="claim-t-194088"></a>
-- t-001
-  teiginys: "Štai kas nutiko po šito dangaus ženklo didžiajam kunigaikščiui Vytautui, draugiškai sugyvenusiam su savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi Dimitrijevičiumi."
-  atnaujinta: "2026-07-12 22:30"
+<a id="claim-t-211440"></a>
+- t-211440
+  teiginys: "Vasilijus Dimitrijevičius buvo Maskvos didysis kunigaikštis ir Vytauto žentas."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
-    - c-176701
+    - c-194005
 
-<a id="claim-t-196875"></a>
-- t-002
-  teiginys: "Vasilijus Dimitrijevičius savo valdovu, kaip ir pskoviečiai."
-  atnaujinta: "2026-07-12 22:29"
+<a id="claim-t-212074"></a>
+- t-212074
+  teiginys: "Vasilijus Dimitrijevičius buvo Maskvos didysis kunigaikštis."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
-    - c-178955
+    - c-193148
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,8 +115,6 @@ canonical_biography: "Štai kas nutiko po šito dangaus ženklo didžiajam kunig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-178955
   autorius: "Anoniminis metraštininkas"
@@ -143,5 +141,65 @@ canonical_biography: "Štai kas nutiko po šito dangaus ženklo didžiajam kunig
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-193039
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 103"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 103."
+  citata_originali: |
+    Naugardiečiai, matydami pskoviečius jam pasidavus
+    ir priėmus jo vietininką, nebenorėdami, kad jų žemė
+    nuo didžiojo kunigaikščio Vytauto dar labiau nukentė­
+    tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
+    tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
+    kaip ir pskoviečiai. Ir didysis kunigaikštis Vytautas
+    paskyrė jiems vietininku savo svainį, kunigaikštį Si­
+    moną Alšėniškį, vadinamą Rūsčiuoju 9.
+    Ir davė naugardiečiai didžiajam kunigaikščiui Vy­
+    tautui kiekvienais metais duoklės po dešimt tūkstančių
+    auksinų 10 ir keturias dešimtis sunkiųjų žirgų, kuriuos
+    dabar vadina fryzais, ir keturias dešimtis kailinių, ir
+    devynias galybes sabalų, ir lūšių, ir kiaunių, ir lapių,
+    ir šermuonėlių, ir voverių kailių.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193148
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 261."
+  citata_originali: |
+    Maskvos didysis kunigaikštis — Vasilijus Dimitrijevlčlus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212074
+
+- id: c-194005
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 102"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102."
+  citata_originali: |
+    O paskui didysis kunigaikštis Vytautas ir jo žentas,
+    Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius,
+    sudarę amžiną taiką ir nustatę sieną pagal Ugros upę,
+    važiavo su visais savo žmonėmis į skirtingas puses.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211440

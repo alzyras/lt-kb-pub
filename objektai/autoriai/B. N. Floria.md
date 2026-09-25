@@ -82,5 +82,5 @@ Florią kronika atsiradusi ne tik Slucko ku nigaikščių Olelkaičių, bet ir l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

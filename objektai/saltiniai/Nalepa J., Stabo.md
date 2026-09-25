@@ -71,5 +71,22 @@ Dusburgietis teigia, kad stabo — dab.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202002
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
+  citata_originali: |
+    Nauji vietovardžių tyrimai (ež. Stabo — dab. Kamienne  ir
+    kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose
+    centrinėse žemėse jotvingiai išliko dar ilgai po 1283 m., tik vėliau buvo palaipsniui
+    polonizuoti (Nalepa J., Stabo..., p. 146—148).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

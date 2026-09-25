@@ -100,7 +100,7 @@ Vladimirskį-Budanovą 187. Vladimirskij-Budanov : Očerki iz istorii Litovsko-r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-33049
@@ -125,5 +125,5 @@ Vladimirskį-Budanovą 187. Vladimirskij-Budanov : Očerki iz istorii Litovsko-r
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

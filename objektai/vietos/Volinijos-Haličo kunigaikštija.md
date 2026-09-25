@@ -101,7 +101,7 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-34101
@@ -123,5 +123,5 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

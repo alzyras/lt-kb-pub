@@ -75,5 +75,5 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

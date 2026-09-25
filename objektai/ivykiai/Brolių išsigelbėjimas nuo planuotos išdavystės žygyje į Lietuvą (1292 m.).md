@@ -87,38 +87,6 @@ Nenurodyta
   pagrindžia:
     - c-63547
 
-<a id="claim-t-62760"></a>
-- t-003
-  teiginys: "1292 m. magistras sutelkė didelę brolių ir kitų ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1292 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą veiksmą."
-  pagrindžia:
-    - c-63545
-
-<a id="claim-t-194380"></a>
-- t-004
-  teiginys: "1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-63545
-
 <a id="claim-t-196938"></a>
 - t-005
   teiginys: "Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies, pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo."
@@ -176,9 +144,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-004
 
 - id: c-63546
   autorius: "Petras Dusburgietis"
@@ -200,7 +165,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -226,7 +191,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-63548
@@ -251,6 +216,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005

@@ -64,5 +64,5 @@ Ducis Withowdi super bona Tudeniski [Didžiojo kunigaikščio Vytauto privilegij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

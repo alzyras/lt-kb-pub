@@ -115,7 +115,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-37126
@@ -138,7 +138,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167635
@@ -157,5 +157,5 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

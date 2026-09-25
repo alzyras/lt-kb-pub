@@ -338,6 +338,74 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   pagrindžia:
     - c-171408
 
+<a id="claim-t-207488"></a>
+- t-207488
+  teiginys: "Alfredas Bumblauskas nurodo, kad Birutės ir Kęstučio meilės istorija yra vienas iš Lietuvos metraščiuose užrašytų siužetų, atitinkančių epinius pasakojimus."
+  atnaujinta: "2026-09-19 11:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-190034
+
+<a id="claim-t-210815"></a>
+- t-210815
+  teiginys: "Birutė buvo Palangoje gyvenusi mergelė, žmonių garbinta kaip dievaitė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194275
+
+<a id="claim-t-219169"></a>
+- t-219169
+  teiginys: "Birutė turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kunigaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip žmoną."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201546
+
+<a id="claim-t-219836"></a>
+- t-219836
+  teiginys: "Narbutas chronologiškai skaičiuoja, kad Birutė gimė apie 1331 metus, ištekėjo 1348 metais ir mirė 1416 metais."
+  atnaujinta: "2026-09-19 11:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Birutė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutė\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200035
+
+<a id="claim-t-220058"></a>
+- t-220058
+  teiginys: "Strijkov skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy bas, aiškiai mini ją buvus panašia žyne, arba vestale."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201567
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Lietuvos metraščiuose Birutė vaizduojama kaip Palangos mergelė, žmonių garbinta kaip dievaitė.'
@@ -461,7 +529,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-160327
@@ -492,7 +560,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-160328
@@ -516,7 +584,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-160331
@@ -541,7 +609,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
 
@@ -561,7 +629,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-160334
@@ -599,11 +667,12 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     žmonių.
   citata_rodoma: "Tačiau ir tai negalėjo pasotinti go­\nduolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­\n36\nKlausimas, ar Kęstutis pats pasirin­\nkęs mirtį, - juk Skirgaila, važiavęs\njo aplankyti, netikėtai rado negyvą,\nar nužudytas, o jo žmona kunigaikš­\ntienė Birutė paskandinta, - nėra iki\nšiol aiškus ir rašantiesiems Lietuvos\nistoriją dera jo imtis.\n37\nVygandas  savo kronikoje, p."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-168036
@@ -628,11 +697,12 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     romis, nusiaubė visą kraštą.
   citata_rodoma: "Užėmęs kovos lau­\nką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­\nsa, gana kruviną; jie čia ir sustojo, be vado nedrįsdami \ntoliau žygiuoti. Tuo tarpu lietuviai, išsaugoję likusius \nkarius, ramiai patraukė namo, išsigabendami laimikį — \nvisą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į \nžmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­\nnimu, nors labai norėjo užmiršti savo vargus."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-014
 
@@ -662,7 +732,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-171404
@@ -689,7 +759,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-171405
@@ -713,7 +783,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-171406
@@ -734,7 +804,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-171407
@@ -757,7 +827,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-171408
@@ -780,7 +850,7 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-179162
@@ -804,8 +874,161 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
+
+- id: c-190034
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 106"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 106."
+  citata_originali: |
+    Visų pirma atsirado herojinės dainos, bet
+    jų žinoma labai nedaug. Ryškiausias pavyzdys – dainos apie Sudaitį. Šiandien pripažįstama,
+    kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedi-
+    mino sapnas apie Vilniaus įkūrimą, Algirdo žygiai į Maskvą bei Birutės ir Kęstučio meilės
+    istorija (Birutės istorija įdomi dar ir kitkuo – taip ir neįgijusi krikščioniško vardo, palaidota
+    kaip pagonė, jos legenda nenutrūko ir įsigalint krikščionybei, o XVI a.
+  citata_rodoma: "usias pavyzdys – dainos apie Sudaitį. Šiandien pripažįstama, \nkad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedi-\nmino sapnas apie Vilniaus įkūrimą, Algirdo žygiai į Maskvą bei Birutės ir Kęstučio meilės \nistorija (Biru"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207488
+
+- id: c-194275
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 67"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 67."
+  citata_originali: |
+    Kęstutis, viešpataudamas Trakuose bei Žemaičiuose,
+    išgirdo esant Palangoje mergelę, vardu Birutę, kuri pa­
+    gonišku papročiu buvo pasižadėjusi savo dievams iš­
+    saugoti skaistybę ir pati buvo žmonių garbinama kaip
+    dievaitė
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210815
+
+- id: c-200035
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 157."
+  citata_originali: |
+    Pastebėję po nakties avį
+    nuplikusia dėmėmis nugara, be vilnos, tarytum būtų ji iškirpta
+    arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja
+    žmonių arba gyvulių marą; dėl šios priežasties dažnai visame
+    kaime kyla didelis verksmas ir susijaudinimas; išplisdamas ap­
+    linkui, jis tampa didelio nerimo priežastimi. Stenderis savo lat­
+    vių mitologijoje prisimena, kad pats buvęs panašių, Auskučio
+    sukeltų, neramumų liudytojas.
+    Garbinamas buvo žalčio pavidalu.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219836
+
+- id: c-200481
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  citata_originali: |
+    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201502
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  citata_originali: |
+    Lietuvos ir Prūsijos archeologų surinkti duomenys patiks­
+    lina Strijkovskio paminėtą faktą; ant to kalno stovėjęs Prauri-
+    mės aukuras, kuriame degusi Amžinoji ugnis, saugota vaidi­
+    lučių. Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201546
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  citata_originali: |
+    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
+    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
+    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
+    Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
+    nė, būdama gyva, garsėjo savo kilniaširdiškumu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219169
+
+- id: c-201567
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 114"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 114."
+  citata_originali: |
+    Strijkov­
+    skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
+    bas, aiškiai mini ją buvus panašia žyne, arba vestale.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220058
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

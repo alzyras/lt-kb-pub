@@ -71,5 +71,5 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

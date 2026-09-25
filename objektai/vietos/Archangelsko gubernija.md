@@ -110,7 +110,7 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177893
@@ -144,5 +144,5 @@ Archangelsko gubernija šiame šaltinyje pateikiama kaip dainų rinkimo ir runų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

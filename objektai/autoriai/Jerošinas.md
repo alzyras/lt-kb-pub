@@ -71,25 +71,17 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   pagrindžia:
     - c-84026
 
-<a id="claim-t-188408"></a>
-- t-003
-  teiginys: "Narbutas spėja, kad Jerošinas apie krivį turėjo daugiau žinių, nes vadino jį Obriste Ewarte."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-219067"></a>
+- t-219067
+  teiginys: "Dusburgiečio vertėjas Jerošinas savo vertimo kalbamojo je vietoje vyriausiąjį žynį vadina Ewarte ', tai yra įstatymų sar gu arba aukščiausiuoju teisėju."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jerošinas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jerošinas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171298
+    - c-199872
 
 ## Citatos
 
@@ -119,7 +111,7 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-84026
@@ -148,7 +140,7 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171298
@@ -170,5 +162,21 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-199872
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 289."
+  citata_originali: |
+    Dusburgiečio vertėjas Jerošinas savo vertimo kalbamojo­
+    je vietoje vyriausiąjį žynį vadina Ewarte ', tai yra įstatymų sar­
+    gu arba aukščiausiuoju teisėju
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219067

@@ -72,5 +72,28 @@ Narbutas Vilija plaukiojusius krovininius laivus strungais kildino iš lietuviš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200559
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
+  citata_originali: |
+    Šiuo atveju to nelaimingo priešo - Vylingosios (Zdradliwa)
+    vardo veikiau buvo nusipelniusi Vilnia, kadaise tikusi laivy­
+    bai, tokia srauni, vingiuota, akmenuotu dugnu, palyginti su
+    Vilija, tekančia didinga vaga, dar visur gilia ir visur saugia lai­
+    vybai. Krovininiai laivai, plaukiojantys Vilija nuo lietuviško
+    Strungas - bukas vadinami strungais, yra tikri upinių laivų gi­
+    minės milžinai; jiems trūksta tik stiebų ir kylio, kad galėtų bū­
+    ti palyginti su jūrų laivais.
+    Čeltyčios (Czeltice)
+    Tai buvo Baltijos jūros vandenų nimfos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

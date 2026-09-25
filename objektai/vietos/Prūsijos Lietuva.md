@@ -87,5 +87,5 @@ Narbutas teigia, kad šią sritį apie XIII amžių imta vadinti Prūsų Lietuva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

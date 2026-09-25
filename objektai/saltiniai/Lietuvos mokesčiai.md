@@ -72,5 +72,5 @@ Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

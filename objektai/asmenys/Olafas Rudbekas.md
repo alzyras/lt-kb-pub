@@ -80,5 +80,30 @@ Teodoras Narbutas Olafą Rudbeką minėjo tarp autorių, dėsčiusių apie Šiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197314
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
+  citata_originali: |
+    O iš čia didelė tauta ėmė lietis į
+    visus kraštus; iš eilės Europos vakarai, šiaurė, rytai bei
+    pietūs regėjo ir gausias kariuomenes, ir daugybę atvy­
+    kėlių, vadinamų variagais, gotais ir įvairiais kitais var­
+    dais. Be viso to, dar prisiminkime, ką dėstė daug seno­
+    vės autorių nuo Jordano* ir net iki Rudbeko** ir Ba­
+    sės*** apie Šiaurės tautų lopšį. Susimąstykime skaity­
+    dami išmintingus Aleksandro Humbolto veikalus apie
+    Žemės rutulio temperatūros kitimą ir aiškiai suprasime
+    mūsų pateiktas mintis, jų tikėtinumą, žodžiu, įsitikinsi­
+    me, kad mūsų Šiaurėje labai seniai būta gyventojų, ku­
+    rie gyveno po laimingesnių dangumi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

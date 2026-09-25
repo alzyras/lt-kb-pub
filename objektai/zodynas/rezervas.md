@@ -91,7 +91,7 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-45544
@@ -117,5 +117,5 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

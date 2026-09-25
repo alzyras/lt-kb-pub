@@ -78,5 +78,5 @@ To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuoči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

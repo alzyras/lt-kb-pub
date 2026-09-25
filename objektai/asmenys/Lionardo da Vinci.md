@@ -68,9 +68,10 @@ Vorobjovo aiškinimu, Lionardo da Vinci moterų paveikslų šypsena paliko pėds
     lesnių Milano dailininkų kartų atminime; vienas toks vėlybas jų atstovas
     yra ir mūsų Peretti.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

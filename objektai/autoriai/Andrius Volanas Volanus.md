@@ -97,7 +97,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-84031
@@ -120,5 +120,5 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

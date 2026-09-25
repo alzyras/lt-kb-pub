@@ -70,5 +70,5 @@ Pavyko surinkti šiuos tenykščių kaimo gyventojų iš saugotus vietos padavim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

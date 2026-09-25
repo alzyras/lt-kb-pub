@@ -107,7 +107,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59209
@@ -131,5 +131,5 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

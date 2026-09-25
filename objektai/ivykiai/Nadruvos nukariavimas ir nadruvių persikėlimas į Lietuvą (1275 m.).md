@@ -93,5 +93,5 @@ Teodoro Narbuto aprašyme 1275 m. kryžiuočiai, vadovaujami Konrado Tirbergo, v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

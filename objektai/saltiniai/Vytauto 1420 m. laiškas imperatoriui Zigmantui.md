@@ -73,5 +73,5 @@ Narbutas nurodo, kad Foigtas pateikia didžiojo kunigaikščio Vytauto 1420 meta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

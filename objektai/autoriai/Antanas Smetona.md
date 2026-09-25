@@ -103,7 +103,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176375
@@ -127,7 +127,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176376
@@ -153,5 +153,5 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -52,6 +52,16 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
   pagrindžia:
     - c-63334
 
+<a id="claim-t-221445"></a>
+- t-221445
+  teiginys: "Karšuviai buvo išžygiavę su kariuomene prieš Klaipėdos brolius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-63334
@@ -73,5 +83,5 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

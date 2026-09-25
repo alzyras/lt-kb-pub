@@ -136,7 +136,7 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-35485
@@ -158,7 +158,7 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167625
@@ -180,7 +180,7 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-185695
@@ -190,6 +190,7 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
   indeksas: "Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.), PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 21:24"
-  pagrindzia:
+  pagrindžia:
     - t-004

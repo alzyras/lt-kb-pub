@@ -81,5 +81,5 @@ canonical_biography: "(apie 1430-1486) iš šveicarų Dieboldo Schillingo Berno 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

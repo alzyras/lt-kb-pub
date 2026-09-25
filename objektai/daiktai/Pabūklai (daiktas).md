@@ -97,7 +97,7 @@ Junigedos apgulties metu atakos buvo atremtos, pabūklai šaudė netaikliai, o g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188680
@@ -123,5 +123,5 @@ Junigedos apgulties metu atakos buvo atremtos, pabūklai šaudė netaikliai, o g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

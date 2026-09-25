@@ -91,5 +91,5 @@ Anot Narbuto, Ordino magistras ir broliai 1323 m. sučiupo į Rygą keliavusį b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

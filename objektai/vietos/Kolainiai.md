@@ -111,6 +111,18 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   pagrindžia:
     - c-188397
 
+<a id="claim-t-220748"></a>
+- t-220748
+  teiginys: "1290 m. Kolainių pilį puolė Meinhardas su 500 raitelių ir 2000 pėstininkų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204002
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos.'
@@ -159,7 +171,7 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168350
@@ -185,7 +197,7 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178848
@@ -212,7 +224,7 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188397
@@ -234,8 +246,26 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-204002
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
+  citata_originali: |
+    1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
+    magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais
+    pėstininkų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220748
 
 ## Ryšiai
 - Gynė Kolainiai: [[objektai/asmenys/Surminas]]

@@ -92,5 +92,5 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

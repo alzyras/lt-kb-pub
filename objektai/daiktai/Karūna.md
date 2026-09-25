@@ -192,6 +192,30 @@ Nenurodyta
   pagrindžia:
     - c-177369
 
+<a id="claim-t-212467"></a>
+- t-212467
+  teiginys: "Romos senatas patvirtino Ro mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro mulo karališkoji ir pirmojo Augusto įsteigtos karūnos, pašalinimą iš imperatoriaus posto."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196092
+
+<a id="claim-t-215158"></a>
+- t-215158
+  teiginys: "Padavimas skelbia, jog kažkada čia gyve no Nadruvą valdęs kunigaikštis Kamisviškis; be to, šis kalnas su atkastais jame radiniais, kuriuos sudaro dalgiakirviai, žiedai, monetos, karūnos ir t."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195636
+
 ## Citatos
 
 - id: c-169996
@@ -211,7 +235,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-169997
@@ -234,7 +258,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-169999
@@ -254,7 +278,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-170001
@@ -276,7 +300,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-170002
@@ -296,7 +320,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-170003
@@ -315,7 +339,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-170005
@@ -337,7 +361,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-177369
@@ -358,5 +382,45 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-195636
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 365"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 365."
+  citata_originali: |
+    Padavimas skelbia, jog kažkada čia gyve­
+    no Nadruvą valdęs kunigaikštis Kamisviškis; be to, šis
+    kalnas su atkastais jame radiniais, kuriuos sudaro dal-
+    giakirviai, žiedai, monetos, karūnos ir t. t., taip pat su
+    pilkapiais, arba kurhanais, dar ir šiandien 15 pėdų gylio
+    grioviais, yra šių žemių senovės paminklas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215158
+
+- id: c-196092
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
+  citata_originali: |
+    Romos senatas patvirtino Ro­
+    mulo Augustulo, kuriam nuo galvos nukrito pirmojo Ro­
+    mulo karališkoji ir pirmojo Augusto įsteigtos karūnos,
+    pašalinimą iš imperatoriaus posto.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212467

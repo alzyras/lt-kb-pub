@@ -131,6 +131,18 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   pagrindžia:
     - c-187907
 
+<a id="claim-t-213794"></a>
+- t-213794
+  teiginys: "Divonio kelionės aprašymas siejamas su Plocko katedros klebonu Jaroslavu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195796
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Divonio kelionės aprašymas siejamas su rankraščiu, atitekusiu Plocko katedros klebonui Jaroslavui arba rastu jo kronikoje.'
@@ -175,7 +187,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167576
@@ -202,7 +214,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175490
@@ -224,7 +236,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-187907
@@ -245,5 +257,49 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-195796
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
+  citata_originali: |
+    Šio Divonio kelionės
+    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
+    ros klebonui Jaroslavui
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213794
+
+- id: c-203576
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  citata_originali: |
+    Apie Lenkijos žemės nuniokojimą
+
+      Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir
+    nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis
+    įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių
+    nuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus
+    išsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo
+    paskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos
+    dobė, maustydami ant tvorų baslių. Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,
+    netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis,
+    Plocku vadinama163. Be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164,
+    neskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų
+    ir griežtos klauzūros moterų vienuolynų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

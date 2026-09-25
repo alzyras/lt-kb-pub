@@ -125,7 +125,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-44136
@@ -148,7 +148,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -181,7 +181,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-76008
@@ -202,7 +202,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176413
@@ -221,5 +221,5 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

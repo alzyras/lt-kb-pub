@@ -172,7 +172,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-191121
@@ -198,7 +198,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-191147
@@ -218,7 +218,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-191148
@@ -240,7 +240,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-191149
@@ -261,7 +261,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-191936
@@ -308,7 +308,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-192089
@@ -329,5 +329,5 @@ Nazimovas balandžio pabaigoje įsakė gen.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007

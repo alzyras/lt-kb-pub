@@ -78,6 +78,18 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   pagrindžia:
     - c-188968
 
+<a id="claim-t-211085"></a>
+- t-211085
+  teiginys: "Kunigaikštis Levas, išgirdęs, kad lietuviai nukovė ku nigaikštį Vladimirą ir užėmė Vladimiro miestą, nebeiš drįso priešintis ir pabėgo į Brianską."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193660
+
 ## Citatos
 
 - id: c-44435
@@ -101,7 +113,7 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188967
@@ -118,7 +130,7 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188968
@@ -141,8 +153,27 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-193660
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 63"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 63."
+  citata_originali: |
+    Paskui nužygiavo prieš Lucko kunigaikštį Levą *.
+    Kunigaikštis Levas, išgirdęs, kad lietuviai nukovė ku­
+    nigaikštį Vladimirą ir užėmė Vladimiro miestą, nebeiš­
+    drįso priešintis ir pabėgo į Brianską
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211085
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Totoriai]]

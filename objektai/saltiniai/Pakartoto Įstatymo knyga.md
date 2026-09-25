@@ -80,7 +80,7 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-61629
@@ -101,5 +101,25 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-205963
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
+  citata_originali: |
+    Stiprindamas jų kilnias širdis, jis guodė juos šiais
+    viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš
+    savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant
+    negu tavoji, nebijok jųjų, nes viešpats, tavo dievas, yra su tavimi“, be to, pridurdamas
+    (Ist 20. 3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
+    širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų
+    tarpe, jis kovos už jus prieš visus priešus, kad jus išgelbėtų iš pavojaus“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

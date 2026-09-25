@@ -115,7 +115,7 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82044
@@ -141,7 +141,7 @@ Kol vokiečių kariau­ na dar delsė stovyklaudama Žemaitijoje, galingas lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

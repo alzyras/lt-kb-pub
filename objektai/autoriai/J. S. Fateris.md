@@ -66,5 +66,5 @@ J. S. Fateris teigė, kad „Signat“ reiškia „laiminti“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

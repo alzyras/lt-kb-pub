@@ -179,7 +179,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-191253
@@ -203,7 +203,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-191254
@@ -227,7 +227,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-191256
@@ -248,7 +248,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-191257
@@ -266,7 +266,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-191258
@@ -288,7 +288,7 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-192122
@@ -307,5 +307,5 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007

@@ -75,5 +75,25 @@ Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196073
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
+  citata_originali: |
+    Bet ne visos jos buvo vienu metu, nes
+    gerai matyti, jog pirmiausia, išvyti iš emporiumų, jie gy­
+    veno dešiniojoje Dnepro ir Bugo pakrantėje, kur stovėjo
+    ir Gelono miestas (apie tai kalbėsime vėliau), persikėlė
+    prie Meotidės arba į Dono žemupio apylinkes, o vėliau —
+    pas budinus. O tie, apie kuriuos spėja Skilakas, yra gy­
+    venę prie Kaspijos4. Apie juos mes nekalbėsime.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

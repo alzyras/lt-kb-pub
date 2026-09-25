@@ -154,11 +154,12 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
     cS <cremoss:® 2 tuoti. Šiaurinė dalis atiteko Švedijai, likusi dalis buvo padalinta į
     4 + P i dvi kunigaikštystes (Kuršo ir Livonijos), kurios atiteko Lietuvai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -185,7 +186,7 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -207,5 +208,5 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

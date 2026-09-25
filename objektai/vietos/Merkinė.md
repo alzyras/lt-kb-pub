@@ -361,6 +361,30 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - c-184979
 
+<a id="claim-t-208228"></a>
+- t-208228
+  teiginys: "Merkinėje darbo turėjo kasėjai ir buvo organizuojamas jų atvykimas kasti užtvankų."
+  atnaujinta: "2026-09-19 11:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190845
+
+<a id="claim-t-211773"></a>
+- t-211773
+  teiginys: "Voložino kunigaikščiai buvo pasiųsti į Merkinę nužudyti Kazimiero."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193475
+
 ## Reikšmingi paminėjimai
 - c-011
   santrauka: 'Narbutas rašė matęs prie Merkinės valstiečio rastą aukso žiedą su raudonu akmeniu, gaidžiu skyde ir raidžių ženklais.'
@@ -402,7 +426,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-163930
@@ -428,7 +452,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-011
 
@@ -466,7 +490,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-010
 
@@ -490,7 +514,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-163933
@@ -513,7 +537,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-012
 
@@ -548,7 +572,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-006
 
@@ -572,7 +596,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-163937
@@ -607,7 +631,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-163939
@@ -630,7 +654,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-163941
@@ -654,7 +678,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-171661
@@ -676,7 +700,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-184979
@@ -695,5 +719,43 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
+
+- id: c-190845
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 32"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 32."
+  citata_originali: |
+    Merkinėje dirbusiems kasėjams administratorius turėjo suteikti visus patogumus
+    ir skirti alaus, „nes darbas sunkus“123. Kasėjai Merkinėje darbo turėjo nuolat, nes
+    17 14 m. rudenį seniūnas vėl organizavo keturių kasėjų atvykimą į Merkinę kasti
+    užtvankų, o jiems padėti dar turėjo žmonės iš Ilgų124. Kiek vėliau Dienoraštyje
+    A .
+  citata_rodoma: "Kasėjai Merkinėje darbo turėjo nuolat, nes \n17 14 m. rudenį seniūnas vėl organizavo keturių kasėjų atvykimą į Merkinę kasti \nužtvankų, o jiems padėti dar turėjo žmonės iš Ilgų124."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208228
+
+- id: c-193475
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 130."
+  citata_originali: |
+    Ir siunčia kunigaikštis Mykoliukas Voložino kuni­
+    gaikščius į Merkinę su penkiais šimtais ginkluotų rai­
+    telių prieš didįjį kunigaikštį Kazimierą, kėsindamasis
+    didįjį kunigaikštį Kazimierą nužudyti ir užimti sostą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211773

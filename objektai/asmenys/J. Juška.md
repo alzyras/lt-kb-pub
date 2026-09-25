@@ -52,6 +52,18 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
   pagrindžia:
     - c-44359
 
+<a id="claim-t-225966"></a>
+- t-225966
+  teiginys: "Subačiaus skyriaus bibliotekėlę tvarkė Jonas Juška."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  pagrindžia:
+    - c-206482
+
 ## Citatos
 
 - id: c-44359
@@ -81,5 +93,17 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206482
+  autorius: "unknown"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto bibliotekų istorijos fragmentai"
+  puslapiai: "p. 788 (PDF 789)"
+  indeksas: "unknown, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto bibliotekų istorijos fragmentai, p. 788 (PDF 789)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-225966

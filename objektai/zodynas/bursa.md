@@ -111,7 +111,7 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82395
@@ -138,5 +138,5 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

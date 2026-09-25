@@ -124,7 +124,7 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-36431
@@ -146,7 +146,7 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-64806
@@ -168,7 +168,7 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178757
@@ -200,7 +200,7 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-178759
@@ -238,5 +238,5 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

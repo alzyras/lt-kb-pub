@@ -266,6 +266,30 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   pagrindžia:
     - c-179408
 
+<a id="claim-t-211214"></a>
+- t-211214
+  teiginys: "Ugniavietė įrengta Vilnios žiotyse, kur Vilnia įteka į Nerį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193421
+
+<a id="claim-t-220057"></a>
+- t-220057
+  teiginys: "Vilniuje, kur dabar Katedra, augo senas ąžuolynas, pa švęstas stabmeldžių dievybėms, - toje pačioje vietoje, kur Vil nia susilieja su Neries upe."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198193
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Narbutas Vilnios vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.'
@@ -356,7 +380,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-158385
@@ -382,7 +406,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-158386
@@ -419,7 +443,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-158387
@@ -446,7 +470,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-158388
@@ -487,7 +511,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-158390
@@ -544,7 +568,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-158391
@@ -573,7 +597,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-171740
@@ -594,7 +618,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-171741
@@ -619,7 +643,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-171743
@@ -647,7 +671,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-176153
@@ -686,7 +710,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-176855
@@ -723,7 +747,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-179408
@@ -746,5 +770,86 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
+
+- id: c-193421
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 55."
+  citata_originali: |
+    Ir pagal savo tėvo įsakymą toje vietoje, Vilnios
+    žiotyse, kur ji įteka į Nerį, įtaisė ugniavietę,
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211214
+
+- id: c-194860
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 251."
+  citata_originali: |
+    Antroji mažesnė, kuri Vilniuje
+    įteka į Neri, lotyniškose privilegijose vadinama Velna
+    arba Wilna. Panašių vietovardžių yra labai daug, jie iš­
+    sibarstę po visą vilkų kraštą: kaimas Velatyčiai, Weta-
+    tycze, arba Viliatyčiai, Wiliatycze, esantis kairiajame Ber-
+    žūnos krante, Borisovo apskrity; miestas Vileika, kadaise
+    Vilkmergės krašto sostinė — ta dalis turėjo vadintis Wil-
+    komina, Wilkostam1. Antroji vilkų krašto dalis turėjo būti
+    Vilniaus sritis arba kunigaikštystė: Wilno, Wilna, Wilda.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198193
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 270."
+  citata_originali: |
+    Vilniuje, kur dabar Katedra, augo senas ąžuolynas, pa­
+    švęstas stabmeldžių dievybėms, - toje pačioje vietoje, kur Vil­
+    nia susilieja su Neries upe
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220057
+
+- id: c-199064
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
+  citata_originali: |
+    Darant to­
+    pografinę apžvalgą, nesunku pastebėti, kad tų upių vandens
+    lygis kadaise buvo daug aukštesnis ir, atrodo, tolydžio žemėja.
+    Šiuo atveju to nelaimingo priešo - Vylingosios (Zdradliwa)
+    vardo veikiau buvo nusipelniusi Vilnia, kadaise tikusi laivy­
+    bai, tokia srauni, vingiuota, akmenuotu dugnu, palyginti su
+    Vilija, tekančia didinga vaga, dar visur gilia ir visur saugia lai­
+    vybai. Krovininiai laivai, plaukiojantys Vilija nuo lietuviško
+    Strungas - bukas vadinami strungais, yra tikri upinių laivų gi­
+    minės milžinai; jiems trūksta tik stiebų ir kylio, kad galėtų bū­
+    ti palyginti su jūrų laivais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

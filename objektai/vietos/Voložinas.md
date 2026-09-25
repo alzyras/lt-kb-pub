@@ -64,6 +64,16 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
   pagrindžia:
     - c-183659
 
+<a id="claim-t-212046"></a>
+- t-212046
+  teiginys: "Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa sisvečiuoti pas Voložino kunigaikščius, ir Voložine at ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Citatos
 
 - id: c-183659
@@ -91,6 +101,6 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

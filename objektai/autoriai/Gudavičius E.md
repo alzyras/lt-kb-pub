@@ -65,18 +65,6 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
   pagrindžia:
     - c-87572
 
-<a id="claim-t-196996"></a>
-- t-002
-  teiginys: "Gudavičius E kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-178996
-
 ## Citatos
 
 - id: c-87572
@@ -98,7 +86,7 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178996
@@ -122,5 +110,47 @@ Dusburgietis teigia, kad gudavičius E prašė viešpatį padaryti, kad nebebūt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-201831
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
+  citata_originali: |
+    Kadangi ne tris kartus, bet daugelį kartų jis prašė
+    viešpatį padaryti, kad nebebūtų šio kankintojo, išgirdo balsą, sklindantį iš dangaus ir
+    jam bylojantį: „Albertai, jeigu nori išvengti sunkių pagundų, privalai kiekvieną dieną
+    nuolankiai sukalbėti šią maldą: „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai
+      524 Šią formulę (quasi secundus fuit post regem Lethowinorum) kronikininkas taiko
+    ir Lietuvos vyriausybės atstovui, vedusiam 1324 m. derybas Rygoje (D. III, 359; Пашуто
+    В. T., Образование..., c. 297; Pašuta V., Lietuvos..., p. 155. Plačiau — Гудавичюс Э. По
+    поводу..., c., 35—44).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202191
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
+  citata_originali: |
+    Dėl to jis kėlė siaubą visiems priešams, nes jų
+    negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.
+    235 (228). Apie Ragainės ir Skalvių pilių pastatymą
+    1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
+    krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio
+    kankinio dieną (balandžio 23) su galybe karių į skalvių žemę ir dievo garbei bei šlovei
+    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
+    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
+    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
+    su 40 brolių ir šimtu rinktinių ginklanešių.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

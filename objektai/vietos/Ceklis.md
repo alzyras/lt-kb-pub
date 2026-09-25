@@ -140,7 +140,7 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -163,7 +163,7 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167752
@@ -184,5 +184,5 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

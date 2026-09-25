@@ -73,5 +73,24 @@ Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ mini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196678
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  citata_originali: |
+    Kadangi tie kolchai turėjo santykių su egiptiečiais ar
+    priiminėjo juos, jų kolonijų ar tik pastatyto miesto ar
+    tvirtovės būta šiaurinėje Azovo jūros pakrantėje, tai da­
+    1
+    Ritter Carl. Die Vorhalle europäischer Völkergeschichten. Ber­
+    lin, 1820.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

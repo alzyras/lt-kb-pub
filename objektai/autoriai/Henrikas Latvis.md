@@ -162,6 +162,32 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   pagrindžia:
     - c-188249
 
+<a id="claim-t-219473"></a>
+- t-219473
+  teiginys: "Henriko Latvio kronikos prierašuose, arba pastabose, ku rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias turiu rankoje, tarp nedaugelio Lietuvos istoriją liečiančių da lykų yra parašyta, kad, kai 1243 metais Livonijos riteriai, šauk dami tikrojo."
+  atnaujinta: "2026-09-19 22:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-198992
+
+<a id="claim-t-225196"></a>
+- t-225196
+  teiginys: "Henriko Latvio kronika šaltinyje priskiriama prie svarbių XIII–XIV a. Lietuvos istorijos šaltinių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-202230
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Henriko Latvio kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti.'
@@ -245,7 +271,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-156012
@@ -268,7 +294,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-156013
@@ -287,7 +313,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171292
@@ -309,7 +335,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-187949
@@ -331,7 +357,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-188249
@@ -355,5 +381,47 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-198992
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
+  citata_originali: |
+    Henriko Latvio kronikos prierašuose, arba pastabose, ku­
+    rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias
+    turiu rankoje, tarp nedaugelio Lietuvos istoriją liečiančių da­
+    lykų yra parašyta, kad, kai 1243 metais Livonijos riteriai, šauk­
+    dami tikrojo Dievo vardą, užpuolė lietuvius, šie savo ruožtu
+    rėkė: JogKauou, jogKauaile! („Jok Kove, jok Kovaiti!“). Anot
+    autoriaus, tai buvęs šios tautos karo šūkis, arba kreipinys į jų
+    karo dievą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219473
+
+- id: c-202230
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  citata_originali: |
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
+    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
+    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225196

@@ -142,7 +142,7 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-32666
@@ -168,7 +168,7 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -189,5 +189,5 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

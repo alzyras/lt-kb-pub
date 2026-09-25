@@ -84,5 +84,5 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

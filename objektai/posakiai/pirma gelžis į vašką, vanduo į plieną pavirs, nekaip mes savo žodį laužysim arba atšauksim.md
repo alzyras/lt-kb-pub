@@ -59,5 +59,5 @@ Ant didesnės kliauties ir įtikėjimo, apžymėjom mes tą gromatą ta pačia �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

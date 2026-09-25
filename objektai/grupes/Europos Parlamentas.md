@@ -114,7 +114,7 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -138,5 +138,5 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

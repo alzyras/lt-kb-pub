@@ -65,5 +65,5 @@ canonical_biography: 'Šventoji įteka į Elksnę arba Timbrą, kuris įteka į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

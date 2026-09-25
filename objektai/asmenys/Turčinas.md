@@ -85,7 +85,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83566
@@ -103,5 +103,5 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

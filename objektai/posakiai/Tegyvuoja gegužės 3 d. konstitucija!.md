@@ -58,5 +58,5 @@ Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -27,21 +27,6 @@ media_all_json: |-
 
 Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų valdovą ir nepermaldaujamą mirusių nusikaltėlių vėlių keršytoją.
 
-## Teiginiai
-
-<a id="claim-t-189173"></a>
-- t-001
-  teiginys: "Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų valdovą ir nepermaldaujamą mirusių nusikaltėlių vėlių keršytoją."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172061
-
 ## Citatos
 
 - id: c-172061
@@ -64,5 +49,3 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

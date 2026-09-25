@@ -158,6 +158,54 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   pagrindžia:
     - c-188012
 
+<a id="claim-t-213065"></a>
+- t-213065
+  teiginys: "Bajeris, savaip aiškinęs šį už rašą3, bando dirbtinai įtikinti, kad turėjo būti Grikija, t."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194593
+
+<a id="claim-t-213857"></a>
+- t-213857
+  teiginys: "Narbutas nurodo, kad senovės tyrinėtojai Bajeris ir Naruševičius aptiko gelonų-budinų buvimo pėdsakų Sniatyno apylinkėse."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195709
+
+<a id="claim-t-215224"></a>
+- t-215224
+  teiginys: "Narbutas nurodo, kad Bajerio aiškinimu gelonų ir budinų kraštas galėjo būti Polesėje, senovės Kulmo žemėje ir Lietuvos Brastos vaivadijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196321
+
+<a id="claim-t-215419"></a>
+- t-215419
+  teiginys: "Sabinas manė jį buvus vė javaikį jauną valdovą, kurį nubaudęs Dievas, o Bajeris įžvelgė jame prie Juodosios jūros buvusių kolonijų pirk lį, kurio laivas, plaukdamas į gintaro kraštą, sudužo, ir jis nuskendo jūroje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195950
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įtraukti į „Monumentą Prussica“.'
@@ -193,7 +241,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174419
@@ -214,7 +262,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174420
@@ -237,7 +285,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-179252
@@ -258,7 +306,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-187791
@@ -277,7 +325,7 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-188012
@@ -296,5 +344,133 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-194593
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 257-258"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 257-258."
+  citata_originali: |
+    Bajeris, savaip aiškinęs šį už­
+    rašą3, bando dirbtinai įtikinti, kad turėjo būti Grikija,
+    t. y. Graikija, nes rusus, išpažįstančius graikų apeigų
+    krikščionybę, galima vadinti graikais; jie turėję kažkaip
+    1 Ergo in ipso hujus compagis exordio, ubi Riphaei deficiunt
+    montes, habitant Arimphaei, justi homines placiditateque cogniti, quos
+    amnes Chronius et Bisula preterfluunt. Amm. Marcei. Lib. XXII.
+    C. 8.
+    2 Herodotus. Lib. IV. Pavyzdžiui: Arimaspi skitiškai reiškia vie­
+    naki, Coclites.
+    3 Baieri. Geograph, Russiae et Script. Septentrión, in Comment.
+    Acad. Petrop. T. X.
+    247
+
+    užklysti j Prūsiją, ir duoti dingstį šiam užrašui
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213065
+
+- id: c-194827
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
+  citata_originali: |
+    Smalsuoliams
+    rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-
+    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
+    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
+    ją norėjo įdėti į savo „Monumentą Prussica“.
+    Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
+    gamtos tyrinėtojai Klaprotas ir Hagenas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195709
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 210"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 210."
+  citata_originali: |
+    Atvedėme keliavusią gelonų-budinų tautą į Sniatyno
+    apylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad
+    jų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris
+    ir Naruševičius1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213857
+
+- id: c-195805
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
+  citata_originali: |
+    Ado­
+    mas Bremenietis Balticum pavadinimą tapatina ¡su šių
+    kraštų pakrančių gyventojais (baltų), priklausančiais lie­
+    tuvių genties tautoms5. Regis tą patį patvirtina ir Bajeris,
+    šį dalyką tyrinėjęs išsamiau ir kruopščiau6. Mes negalime
+    1 Istoryczeskij Magazyn.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195950
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 332"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 332."
+  citata_originali: |
+    Sabinas manė jį buvus vė­
+    javaikį jauną valdovą, kurį nubaudęs Dievas, o Bajeris
+    įžvelgė jame prie Juodosios jūros buvusių kolonijų pirk­
+    lį, kurio laivas, plaukdamas į gintaro kraštą, sudužo, ir
+    jis nuskendo jūroje. Vėliau jis pakeitė savo nuomonę ir
+    pasakos šaltiniu nurodė žemę ištikusią katastrofą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215419
+
+- id: c-196321
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 204"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 204."
+  citata_originali: |
+    Iš to, remiantis
+    Bajeriu1, atsirado įsitikinimai, jog gelonų-budinų kraštas
+    turėjęs būti Polesėje, senovės Kulmo žemėje ir Lietuvos
+    Brastos vaivadijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215224

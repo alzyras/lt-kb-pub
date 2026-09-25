@@ -69,5 +69,5 @@ Teodoro Narbuto pasakojimu, Ragainės komtūras Gerardas Lensenas, ieškodamas g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

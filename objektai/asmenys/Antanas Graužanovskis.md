@@ -49,6 +49,20 @@ Antanas Graužanovskis buvo neturtingas Naugarduko apskrities bajoras. Antanas G
   pagrindžia:
     - c-187966
 
+<a id="claim-t-205581"></a>
+- t-205581
+  teiginys: "Antanas Graužanovskis kildino iš Graužos — lietuvių vado, žymaus Erdvilo kario."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187966
+    - c-188175
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Antanas Graužanovskis buvo neturtingas Naugarduko apskrities bajoras.'
@@ -86,8 +100,9 @@ Antanas Graužanovskis buvo neturtingas Naugarduko apskrities bajoras. Antanas G
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-205581
 
 - id: c-188175
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -103,3 +118,5 @@ Antanas Graužanovskis buvo neturtingas Naugarduko apskrities bajoras. Antanas G
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-205581

@@ -100,7 +100,7 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-32853
@@ -121,5 +121,5 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

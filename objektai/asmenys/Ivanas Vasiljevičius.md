@@ -124,6 +124,31 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   pagrindžia:
     - c-176538
 
+<a id="claim-t-211161"></a>
+- t-211161
+  teiginys: "Ivanas Vasiljevičius buvo Maskvos didysis kunigaikštis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193729
+
+<a id="claim-t-211990"></a>
+- t-211990
+  teiginys: "Lietuvos metraštis teigia, kad nuo pasaulio sutvėrimo septyni tūkstančiai aštun taisiais, o nuo dievo gimimo 1499 metais Maskvos di dysis kunigaikštis Ivanas Vasiljevičius sumanė pradėti kovą prieš savo žentą, Lietuvos didįjį kunigaikštį Aleksandrą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-193833
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.'
@@ -214,7 +239,7 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83500
@@ -234,7 +259,7 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-168074
@@ -261,7 +286,7 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-176538
@@ -293,5 +318,56 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-193729
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 161"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 161."
+  citata_originali: |
+    Tais pačiais metais mirė pats Maskvos didysis ku­
+    nigaikštis Ivanas Vasiljevičius 30 ir į Maskvos didžiojo
+    kunigaikščio sostą sėdo jo sūnus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211161
+
+- id: c-193833
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
+  citata_originali: |
+    54. APIE MASKVOS DIDŽIOJO KUNIGAIKŠČIO IVANO
+    VAŠIUEVlCi AUS KARĄ SU SAVO ŽENTU, LIETUVOS
+    DIDŽIUOJU KUNIGAIKŠČIU ALEKSANDRU, TAIP PAT
+    APIE UŽVOLGIO ORDOS CHANĄ SICH-ACHMETĄ
+    Nuo pasaulio sutvėrimo septyni tūkstančiai aštun­
+    taisiais, o nuo dievo gimimo 1499 metais Maskvos di­
+    dysis kunigaikštis Ivanas Vasiljevičius sumanė pradėti
+    kovą prieš savo žentą, Lietuvos didįjį kunigaikštį
+    Aleksandrą, prieš tai sudaręs sąmokslą su Perekopo
+    chanu Mengli-Girėjumi1  bei savo marčios tėvu, Mol­
+    davijos vaivada Steponu prisiekęs jiems amžiną taiką
+    bei pasirėmęs giminystės ryšiais. Ir siunčia žmones pas
+    Belajos kunigaikštį Simoną Jonaitį3  ir pas kunigaikštį
+    Vasilijų Jonaitį Semiačičių, slaptai siūlydamas, kad jie
+    su miestais ir valsčiais atsimestų nuo jo žento, didžiojo
+    kunigaikščio Aleksandro, ir su viskuo pereitų jo tar­
+    nybon, be to, dar žadėjo jiems daug savo miestų ir
+    valsčių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211990

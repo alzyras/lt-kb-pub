@@ -101,7 +101,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-178068
@@ -122,7 +122,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178069
@@ -134,9 +134,10 @@ Nenurodyta
     Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę.
   citata_rodoma: "Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

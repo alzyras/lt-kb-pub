@@ -246,7 +246,7 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169351
@@ -279,7 +279,7 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-169352
@@ -308,5 +308,5 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

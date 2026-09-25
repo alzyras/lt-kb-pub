@@ -94,7 +94,7 @@ Moneta buvo auksinė ir didelė kaip lenkiškas varinis grašis. Kitoje pusėje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-196093
@@ -116,5 +116,5 @@ Moneta buvo auksinė ir didelė kaip lenkiškas varinis grašis. Kitoje pusėje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

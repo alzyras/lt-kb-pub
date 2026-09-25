@@ -308,7 +308,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-14675
@@ -329,7 +329,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-37888
@@ -351,7 +351,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-104838
@@ -378,7 +378,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-104839
@@ -428,7 +428,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-104840
@@ -455,7 +455,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-104841
@@ -485,7 +485,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-104842
@@ -533,7 +533,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-104844
@@ -576,7 +576,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-104845
@@ -602,7 +602,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-104846
@@ -638,7 +638,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-104847
@@ -667,7 +667,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-104848
@@ -696,7 +696,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-104849
@@ -732,7 +732,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166357
@@ -751,5 +751,5 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013

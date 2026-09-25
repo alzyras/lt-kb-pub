@@ -50,6 +50,23 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
   pagrindžia:
     - c-188419
 
+<a id="claim-t-86305"></a>
+- t-86305
+  teiginys: "Pernava nurodyta kaip viena iš Livonijos pilių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Livonija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pernava: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pernava įvardyta kaip viena iš Livonijos pilių, todėl priklausomybės ryšys yra tiesiogiai pagrįstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Pernava priklausė Livonija (0.84)"
+  pagrindžia:
+    - c-82284
+
 ## Citatos
 
 - id: c-82284
@@ -88,6 +105,9 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-86305
+
 - id: c-188419
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
   puslapiai: "PDF 195"
@@ -106,5 +126,5 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

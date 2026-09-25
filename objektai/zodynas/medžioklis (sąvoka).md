@@ -80,7 +80,7 @@ Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių. Medž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186783
@@ -105,5 +105,5 @@ Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių. Medž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

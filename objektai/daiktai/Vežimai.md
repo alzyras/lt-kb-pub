@@ -122,6 +122,30 @@ Nenurodyta
   pagrindžia:
     - c-05255
 
+<a id="claim-t-212667"></a>
+- t-212667
+  teiginys: "Narbutas nurodo, kad amaksolių klajokliškos palapinės buvo ištiestos ant vežimų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197411
+
+<a id="claim-t-215210"></a>
+- t-215210
+  teiginys: "Karališkieji skitai žiemą per ledą vykdavo su vežimais pas sindus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195642
+
 ## Citatos
 
 - id: c-05255
@@ -146,7 +170,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-14342
@@ -166,6 +190,45 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-195642
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 393"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 393."
+  citata_originali: |
+    Šalto­
+    mis žiemomis čia užšąla jūra ir tas Kimerų Bosporas;
+    tuomet per ledą būriais traukia skitai, gyvenantys kita­
+    pus kanalo, t. y. karališkieji; su savo vežimais jie darda
+    pas sindus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215210
+
+- id: c-197411
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
+  citata_originali: |
+    Tarp šių dviejų tautų bas­
+    tėsi klajoklių amaksolių, arba sarmatų, ordos, neturėju­
+    sios kitokių būstų, o tik klajokliškas palapines, ištiestas
+    ant vežimų. Tai buvo miškinė gyvulių augintojų gentis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212667

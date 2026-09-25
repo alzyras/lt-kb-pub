@@ -80,7 +80,7 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44882
@@ -105,5 +105,5 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

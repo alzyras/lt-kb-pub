@@ -122,7 +122,7 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-45488
@@ -166,7 +166,7 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167206
@@ -186,7 +186,7 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 ## Ryšiai

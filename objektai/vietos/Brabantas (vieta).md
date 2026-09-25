@@ -69,5 +69,5 @@ Brabanto kunigaikštis Henrikas, kuris tuo metu vadovavo kariuomenei.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

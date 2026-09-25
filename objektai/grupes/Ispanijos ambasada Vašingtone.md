@@ -59,5 +59,5 @@ Laiškai į okupuotą Lietuvą buvo siunčiami per Ispanijos ambasadą Vašingto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

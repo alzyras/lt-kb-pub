@@ -94,7 +94,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184297
@@ -111,5 +111,5 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

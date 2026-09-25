@@ -80,7 +80,7 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175907
@@ -102,5 +102,5 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

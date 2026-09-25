@@ -77,5 +77,34 @@ Narbutas svarsto, ar Lukas Davidas naudojosi visa vyskupo Kristijono kronika, ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200857
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 432"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
+  citata_originali: |
+    Žinią apie vyriausiuosius žy­
+    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
+    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
+    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
+    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
+    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
+    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
+    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
+    Davido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi
+    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
+    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
+    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
+    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
+    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
+    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
+    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

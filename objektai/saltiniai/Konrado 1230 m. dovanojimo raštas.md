@@ -77,5 +77,5 @@ Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Du
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -78,5 +78,5 @@ Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

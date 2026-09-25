@@ -94,7 +94,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59156
@@ -117,5 +117,29 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202525
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 150."
+  citata_originali: |
+    462 D.— castrum Otholichiam, Jer.— burg [...] Otholich; Auktuolyčių pilis, Katavos
+    (Katinavos) valsčiaus centras (HGAPW). Pr. *aukt(a)s — aukštas, žr. Топоров В. H.,
+    Прусский язык, А-Д, с. 152.
+      Katinavoje išliko aukštai virš aplinkinių lygumų iškilęs piliakalnis (aikštelė ovalinė, apie
+    20X28 m, apjuosta pylimu, geriau išlikusiu šiaurinėje pusėje; šlaite rasta (1981.V.9)
+    grublėtos I m. e. tūkstantmečio vidurio keramikos). Į pietvakarius nuo Katinavos buvo
+    žinomas Šuršynų (Schorschienen, dab. Gavrilovas) piliakalnis (CV, t. 34, p. 119; Boetticher
+    A., Die Bau..., 5, p. 67, 95). Auktuolyčių pilies ieškota ir į pietus nuo Katinavos, Romintos
+    (dab. Krasnaja) ir Pisos santakoje (VBK), be to, į vakarus nuo Katinavos (Тоерреn М.,
+    HCGP), ji buvo tapatinama ir su Stanaičių (dab. Furmanovas) piliakalniu deš. Pisos krante
+    į šiaurės vakarus nuo Gumbinės, dab. Gusevas (СV, t. 34, p. 92, 125).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

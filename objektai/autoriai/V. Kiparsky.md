@@ -82,5 +82,5 @@ Kiparsky, V.: Baltische Sprachen und Völ­ ker, Baltische Lande, I, 1939, 48-59
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

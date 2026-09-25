@@ -133,7 +133,7 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-59641
@@ -157,7 +157,7 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59642
@@ -181,9 +181,32 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
+
+- id: c-203524
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
+  citata_originali: |
+    Apie maldininkų atvykimą
+
+      1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti
+    į Prūsijos žemę. Atvyko šie kilmingieji: jo kilnybė Verneris, Hoinbergo grafas, riteriai
+    Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
+    kitų kilmingųjų iš Reino.
+
+
+
+      555 Aprašomas 1302—1303 m.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Vokietijos maldininkai keliavo į [[objektai/vietos/Prūsija]]

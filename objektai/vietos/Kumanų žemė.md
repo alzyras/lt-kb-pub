@@ -88,5 +88,27 @@ Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200209
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  citata_originali: |
+    O Lietu­
+    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
+    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
+    dytų jį kaip vietininkas. Liutauro sūnus Vytenis, gimęs 1232
+    metais Žemaitijoje, gyveno Ariogaloje; jis išgarsėjo rusų ka­
+    ruose su totoriais, buvo paimtas į nelaisvę, buvo Batu stovyk­
+    loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni­
+    gaikštystę kartu su savo tėvu. Tebesitęsiančios tarpusavio ko­
+    vos Lietuvoje buvo daugelio valstybės permainų priežastis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -67,5 +67,5 @@ Albrechtas iš Oros su Fridrichu iš Libencelės ir Ditrichu iš Altenburgo puol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

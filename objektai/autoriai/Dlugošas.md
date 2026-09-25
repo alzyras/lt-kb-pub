@@ -61,6 +61,18 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
   pagrindžia:
     - c-187918
 
+<a id="claim-t-220001"></a>
+- t-220001
+  teiginys: "Apie tai žinome iš Dlugošo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199906
+
 ## Citatos
 
 - id: c-177363
@@ -86,7 +98,7 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187918
@@ -108,5 +120,21 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-199906
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
+  citata_originali: |
+    Apie tai žinome iš Dlugošo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220001

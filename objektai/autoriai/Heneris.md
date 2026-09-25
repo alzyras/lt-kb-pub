@@ -55,6 +55,16 @@ Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip
   pagrindžia:
     - c-174526
 
+<a id="claim-t-214856"></a>
+- t-214856
+  teiginys: "Heneris buvo Senojo Bychovo apskrities gydytojas ir istorinių dalykų tyrinėtojas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip keturiasdešimt metų gyvenusį Baltarusijoje.'
@@ -107,5 +117,5 @@ Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

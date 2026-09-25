@@ -92,5 +92,5 @@ Kaip byloja Siaurės tautų sagos, ir būtent garsioji Egilio saga, skandinavai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

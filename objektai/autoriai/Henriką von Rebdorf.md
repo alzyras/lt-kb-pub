@@ -82,5 +82,5 @@ Pagal kronikininką Henriką von Rebdorf 1358 m. liepos mėn.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -63,5 +63,5 @@ Antikos žmonių šventyklos susidėdavo iš dviejų dalių: Naos, kurioje stov�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

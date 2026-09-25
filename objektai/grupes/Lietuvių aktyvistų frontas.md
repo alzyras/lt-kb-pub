@@ -81,15 +81,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-13466"></a>
-- t-001
-  teiginys: "LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-154379
-
 <a id="claim-t-23307"></a>
 - t-002
   teiginys: "1941 m. rugsėjo 26 d. naciai uždarė Lietuvių aktyvistų frontą."
@@ -145,6 +136,40 @@ Nenurodyta
   pagrindžia:
     - c-154378
 
+<a id="claim-t-13467"></a>
+- t-13467
+  teiginys: "LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje."
+  atnaujinta: "2026-09-20 18:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> K. Škirpa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: owner_note_path, group"
+  ryšio_targeto_parinkimas: "K. Škirpa: mention_match, person, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių aktyvistų frontas\" parinktas kaip owner_note_path. Targetas \"K. Škirpa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-22533
+    - c-154379
+
+<a id="claim-t-24554"></a>
+- t-24554
+  teiginys: "LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje)."
+  atnaujinta: "2026-09-20 18:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> K. Škirpa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: owner_note_path, group"
+  ryšio_targeto_parinkimas: "K. Škirpa: mention_match, person, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių aktyvistų frontas\" parinktas kaip owner_note_path. Targetas \"K. Škirpa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-22533
+    - c-154379
+
 ## Citatos
 
 - id: c-22533
@@ -170,6 +195,10 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-13467
+    - t-24554
+
 - id: c-26863
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -188,7 +217,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-154378
@@ -209,7 +238,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-154379
@@ -244,6 +273,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-003
+    - t-13467
+    - t-24554

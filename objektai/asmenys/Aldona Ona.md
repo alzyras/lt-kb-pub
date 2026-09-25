@@ -81,7 +81,7 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

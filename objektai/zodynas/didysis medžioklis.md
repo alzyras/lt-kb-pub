@@ -145,7 +145,7 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-186734
@@ -167,7 +167,7 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-186736
@@ -193,7 +193,7 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186744
@@ -215,7 +215,7 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186750
@@ -236,7 +236,7 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-186769
@@ -260,5 +260,5 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

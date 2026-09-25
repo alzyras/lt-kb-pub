@@ -80,7 +80,7 @@ Gelonai dėl nesantaikos buvo išvyti iš Juodosios jūros emporiumų ir apsigyv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-197296
@@ -100,5 +100,5 @@ Gelonai dėl nesantaikos buvo išvyti iš Juodosios jūros emporiumų ir apsigyv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

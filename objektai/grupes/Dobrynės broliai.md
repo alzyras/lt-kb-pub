@@ -240,7 +240,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-65603
@@ -262,7 +262,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-65604
@@ -282,7 +282,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-65605
@@ -308,7 +308,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-65606
@@ -351,7 +351,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-006
 
@@ -380,7 +380,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-184266
@@ -399,7 +399,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-184267
@@ -427,5 +427,91 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-196043
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  citata_originali: |
+    Tad Danielius, palikęs Neb-
+    rą, grįžo atgal; tai padėjo pabėgti patiems žymiausiems
+    jotvingiam sK itais metais jotvingių grėsmė iškilo Ru­
+    siai, nes Voluinės kunigaikščiai, prieš išžygiuodami su
+    kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
+    turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
+    121
+    Mazovijos kunigaikštis Konradas XIII amžiaus pra­
+    džioje pasiekė Jotvingijoje didelių laimėjimų; dar prieš
+    1237 metus jam priklausė Drohičinas, nes tuo laiku jis
+    perdavė šį miestą magistrui Henrikui ir jo vienuoliams,
+    Dobrynės riteriams, kaip liudija privilegija, kurią vėliau
+    pateiksime. Būgas jau tuomet buvo Mazovijos ir rusų
+    žemių riba.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203028
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  citata_originali: |
+    „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio
+    Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas,
+    o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą,
+    apie Sventopelko, Lietuvos ir prūsų bendrą kovą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205967
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 44-45"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44-45."
+  citata_originali: |
+    Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
+      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
+    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten. Preroch, Thorandt (SRP,
+    5, p. 159). Prūsas Preroch minimas 1248 m. dokumente (PUB, 1, 1, Nr. 215). Didžiųjų
+    magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Preroch  ir
+    Corant (Lettouwen Preroch ende Corant — SRP, 5, p. 67) arba tris pasiuntinius, kurių
+    vardai: Lettouwe, Preroch, Corant.
+      Mazovijos kunigaikštis Konradas galėjęs bandyti atsipirkti nuo prūsų antpuolių po
+    1216—1217 m. iki Mazovijos nusiaubimo 1222 ar 1224—1225 m. (PKD, p. 29—30;
+    Powierski J. Przekaz..., p. 409—410).
+      166 Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu,
+    įkūrimą paremtas Hohenlohės pranešimu. Pirmosios žinios apie Dobrynės ordiną išliko
+    1228 m. dokumentuose, todėl istoriografijoje šie metai pateikiami kaip Ordino įkūrimo
+    data (CDP, Nr. 19—21; Regesta historico-diplomatica Ordinis..., Nr. 38—40; Benninghoven
+    F. Der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K. Zakon..., p. 25; Lietuvių
+    karas..., p. 74). Atrodo, kad Ordinas vis dėlto įkurtas anksčiau, vyskupo Kristijono arba
+    netgi jo pirmtako. Daugelis Ordino brolių paėjo iš Meklenburgo, spėjamosios Kristijono
+    gimtinės, riterijos. Kristaus brolių ordinas, kaip vyskupo Kristijono kariai, negalėjo būti
+    apeitas 1223 m. vyskupo ir kunigaikščio Konrado sutartyje (Manteufel T. Papiestwo...,
+    p. 101 104; Zientara B. Sprawy pruskie..., p. 37; Powierski J. Przekaz..., p. 409—410).
+    1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis
+    ir joanitai (XII a. pabaigoje —Regesta historico-diplomatica Ordinis..., Nr. 2), taip pat
+    riterių ordinas iš Kalatravos (Ispanija; Szacherska S. M., Opactwo..., p. 31—35).
+      167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė.
+
+    broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
+    jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
+    ir broliai susitarė, kad jie lygiomis dalimis pasidalysią netikėlių žemę, kurią, viešpaties
+    padedami, ateityje pajungsią savo valdžiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

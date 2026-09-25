@@ -70,5 +70,5 @@ Narbutas rašo, kad vietovė Paradas buvo visai šalia Sevilijos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

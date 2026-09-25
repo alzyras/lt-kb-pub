@@ -38,23 +38,6 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
 
 ## Teiginiai
 
-<a id="claim-t-58574"></a>
-- t-001
-  teiginys: "Kryžiuočių ordino broliai įsiveržė į Kimelio pilį, išžudė jos gyventojus ir sudegino pilį iki pamatų."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kimelis: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kimelis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočių ordino broliai tiesiogiai įvardyti kaip įsiveržę į Kimelio pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Kimelis (0.93); Kryžiuočių ordinas užėmė Kimelis (0.84)"
-  pagrindžia:
-    - c-167548
-
 <a id="claim-t-58575"></a>
 - t-002
   teiginys: "Dusburgietis Kimelį vadino Kymel, o Jerošinas - Kimel ir nurodė pilį buvus prie Nemuno."
@@ -96,7 +79,7 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167548
@@ -117,8 +100,31 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-204572
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
+  citata_originali: |
+    548 D.— Kymel, Jer.— Kimel, nurodydamas, kad pilis buvusi prie Nemuno (bî der
+    Mimel). S. Zajončkovskis, radęs panašų vardą prie Liolių (Kelmės rj.), darė prielaidą,
+    kad ten ir buvo ši pilis (Zajączkowski S., Studya..., p. 41), tačiau panašių vietovardžių
+    Lietuvoje yra ir daugiau (žr. Lietuvos TSR administracinio-teritorinio suskirstymo žinynas,
+    2, p. 115—116, 130). Kiti tyrinėtojai pilies nelokalizuoja (SZM, p. 217; Пашуто B. T.,
+    Образование..., c. 263, 418; Pašuta V., Lietuvos..., p. 38, 330; Lietuvių karas..., p. 195
+    (Kiumelis).
+      Kadangi kryžiuočiai puolė Bisenę, Kolainius, Medrabą, galima manyti, kad ir Kimelio
+    pilis buvo Jurbarko regione. Čia, kairiajame Nemuno krante, priešais Jurbarką yra kaimas
+    Kaimelis (Šakių rj.). Kiek žemiau kair. Nemuno krante (Kukarskės k.) aptiktas iki šiol
+    buvęs nežinomas piliakalnis, kurį galima būtų sieti su Dusburgiečio aprašoma Kimelio
+    pilimi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Puolė Kimelį: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -103,7 +103,7 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174456
@@ -123,5 +123,5 @@ Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

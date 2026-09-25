@@ -63,5 +63,5 @@ T. Narbutas rankraštyje teigė, kad ši knyga nėra pirmojo „Lietuvių tautos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -125,6 +125,18 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   pagrindžia:
     - c-64618
 
+<a id="claim-t-223545"></a>
+- t-223545
+  teiginys: "Dusburgietis pasakoja, kad Meiseno markgrafas Henrikas į Prūsiją atvyko su penkiais šimtais kilmingų ir kovai pasirengusių vyrų bei dideliais turtais."
+  atnaujinta: "2026-09-20 14:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202110
+
 ## Citatos
 
 - id: c-64618
@@ -149,7 +161,7 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
     - t-004
@@ -180,8 +192,33 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-202110
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
+  citata_originali: |
+    Apie Meiseno markgrafo atvykimą
+
+      Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas,
+    Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su
+    dideliais turtais. Šis vyras iš visos širdies ir iš visų jėgų ryžosi naikinti netikėlius ir plėsti
+    krikščionių žemes.
+
+
+
+
+                 14.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223545
 
 ## Ryšiai
 - Henrikas (Meiseno markgrafas) keliavo į [[objektai/vietos/Prūsija]]

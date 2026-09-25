@@ -74,5 +74,5 @@ canonical_biography: "1192 m. Kazimiero Teisingojo žygis j Prūsiją."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

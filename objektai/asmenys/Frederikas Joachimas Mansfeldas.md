@@ -95,7 +95,7 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44329
@@ -122,5 +122,5 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

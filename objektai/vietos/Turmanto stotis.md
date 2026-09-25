@@ -74,5 +74,5 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

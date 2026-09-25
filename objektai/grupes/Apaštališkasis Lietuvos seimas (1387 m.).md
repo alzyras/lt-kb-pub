@@ -102,7 +102,7 @@ Pasak Teodoro Narbuto, 1387 m. Lietuvos seime dalyvavo Skirgaila, Vladimiras Kij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189286
@@ -121,5 +121,5 @@ Pasak Teodoro Narbuto, 1387 m. Lietuvos seime dalyvavo Skirgaila, Vladimiras Kij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -68,5 +68,5 @@ O jau 1541 m. Žygimantas Senasis paskyrė Kauno pavieto žemės teisėjus Mykol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

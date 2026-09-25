@@ -164,7 +164,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -187,7 +187,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-43877
@@ -206,7 +206,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-176435
@@ -231,5 +231,5 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

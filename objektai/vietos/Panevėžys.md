@@ -158,6 +158,34 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   pagrindžia:
     - c-185001
 
+<a id="claim-t-208580"></a>
+- t-208580
+  teiginys: "1860 m. lapkričio 24 d. vyskupas Motiejus Valančius prie padėkos rašto Panevėžio dekanui pažymėjo, kad išleistos naujos žemaitiškos knygos, tarp jų – liaudžiai skirtas katekizmas, kurias reikėtų platinti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:49Z"
+  pagrindžia:
+    - c-191200
+
+<a id="claim-t-226060"></a>
+- t-226060
+  teiginys: "2016 m. liepos 16 d. Panevėžio Kristaus Karaliaus katedroje vyko vyskupo Lino Vodopjanovo ingreso iškilmės."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  temporaliniai_duomenys: "įvykio data: 2016 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai užbaigtas ir perteikia citatoje nurodytą ingreso datą, vietą bei vyskupo vardą. Papildomų faktų nepridėta."
+  pagrindžia:
+    - c-206576
+
 ## Citatos
 
 - id: c-43725
@@ -184,7 +212,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166186
@@ -206,7 +234,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166460
@@ -229,7 +257,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167012
@@ -249,7 +277,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-185000
@@ -265,7 +293,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-185001
@@ -284,5 +312,59 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-191200
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 109"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 109."
+  citata_originali: |
+    Antai
+    prie 1860.XI.24 padėkos rašto Panevėžio dekanui ganyto­
+    jas pridėjo pastabą, kad yra išėję iš spaudos naujų že­
+    maitiškų knygų, tarp jų katekizmas liaudžiai, kurias reik­
+    tų platinti.
+  citata_rodoma: "Antai \nprie 1860.XI.24 padėkos rašto Panevėžio dekanui ganyto­\njas pridėjo pastabą, kad yra išėję iš spaudos naujų že­\nmaitiškų knygų, tarp jų katekizmas liaudžiai, kurias reik­\ntų platinti"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208580
+
+- id: c-191201
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 214"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 214."
+  citata_originali: |
+    Argi nežinot, jogiai kožnas, išplė­
+    šius ar pavagiąs svetimą naudą, tol negali būti išgany­
+    tas, kol nesugrąžins, ką išplėšė ar pavogė.
+    Važiuodamas kiaurai per vyskupystę, aplankiau visus
+    kalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­
+    šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir
+    Kaune daugybę uždarytų per nelaimes, vaikų savo.
+  citata_rodoma: "Važiuodamas kiaurai per vyskupystę, aplankiau visus \nkalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­\nšiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir \nKaune daugybę uždarytų per nelaimes, vaikų savo."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206576
+  autorius: "Aldona Vasiliauskienė"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kristaus Žengimo į dangų bažnyčios ir parapijos istorija"
+  puslapiai: "p. 535 (PDF 536)"
+  indeksas: "Aldona Vasiliauskienė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kristaus Žengimo į dangų bažnyčios ir parapijos istorija, p. 535 (PDF 536)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-226060

@@ -56,5 +56,5 @@ Kad Laima tapatinama su mėnuliu, patvirtina Prūsijos lietu vių daina pono Rė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

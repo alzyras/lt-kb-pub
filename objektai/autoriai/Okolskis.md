@@ -94,5 +94,25 @@ Narbutas nesutinka su Okolskio aiškinimu, kad „Paparona“ kilusi iš „Part
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199540
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  citata_originali: |
+    Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
+    kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui
+    straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta­
+    čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs
+    Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau­
+    juosius Trakus, o ne Kęstutis. Lietuviai minėtus diržus vadina
+    Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
+    daikto pavadinimo, nes jį turėjo savo pačių kalboje.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

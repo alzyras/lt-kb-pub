@@ -89,6 +89,18 @@ Nenurodyta
   pagrindžia:
     - c-05245
 
+<a id="claim-t-212343"></a>
+- t-212343
+  teiginys: "Narbutas nurodo, kad netoli Elbliongo buvo rasta aukso, sidabro ir kitokių auksuotų metalų papuošalų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195701
+
 ## Citatos
 
 - id: c-05245
@@ -108,7 +120,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-31009
@@ -129,5 +141,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195701
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
+  citata_originali: |
+    Esama neabejotinų įro­
+    dymų apie tolimais amžiais šiose vietose gyvenusių žmo­
+    nių, visuomet garsėjusių prekyba, turtingumą; kasinėjant
+    netoli Elbliongo, aptikta labai dailių aukso, sidabro ir
+    kitokių auksuotų metalų papuošalų, molio, vaško ir pana­
+    šių į mozaiką, dažytų vėrinių, kurie sudaro įdomiausią
+    dalį senovės paminklų, saugomų Karaliaučiaus Archyvo
+    kabinete; kitur panašių beveik nepavykdavo rasti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212343

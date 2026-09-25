@@ -246,6 +246,42 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   pagrindžia:
     - c-176984
 
+<a id="claim-t-214827"></a>
+- t-214827
+  teiginys: "Ten yra trys mū rinės šventyklos, nes visos kitos medinės; tarp jų viena yra len kų, o kitos dvi — rusinu, kur jie įprastai atlieka savo apeigas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195944
+
+<a id="claim-t-218365"></a>
+- t-218365
+  teiginys: "Narbutas teigia, kad rusinai XI amžiaus pirmojoje pusėje pradėjo platinti krikščionybę stabmeldiškoje Lietuvoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198142
+
+<a id="claim-t-219644"></a>
+- t-219644
+  teiginys: "Rusinus, kaimynus nuo Polocko, arba baltarusius latviai vadi no krieviais (Kreews), nes jie yra žinomų iš istorijos krivičių ainiai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199450
+
 ## Citatos
 
 - id: c-172287
@@ -271,7 +307,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172288
@@ -296,7 +332,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172289
@@ -321,7 +357,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-172290
@@ -343,7 +379,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-172291
@@ -364,7 +400,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-172292
@@ -389,7 +425,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-172293
@@ -410,7 +446,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-172294
@@ -431,7 +467,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-172295
@@ -452,7 +488,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-176983
@@ -474,7 +510,7 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-176984
@@ -495,5 +531,84 @@ Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
+
+- id: c-195944
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 516"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 516."
+  citata_originali: |
+    Ten yra trys mū­
+    rinės šventyklos, nes visos kitos medinės; tarp jų viena yra len­
+    kų, o kitos dvi — rusinu, kur jie įprastai atlieka savo apeigas.
+    Rusinai taip pat turi priemiesčiuose dvi šventyklas: vieną mū­
+    rinę, kitą medinę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214827
+
+- id: c-198142
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 391."
+  citata_originali: |
+    Rusinai pirmieji, kaip sako, dar XI
+    amžiaus pirmojoje pusėje, ėmė platinti krikščionybę stabmel­
+    diškoje Lietuvoje, bet vėliau šie krikščionys, patys užsikrėtę
+    manicheizmo paklydimais, labiau juos pritaikė prie stabmel­
+    dystės, tai sunku pasakyti, ar lietuvių stabmeldystė sumišo su
+    krikščionybe, ar krikščionybė susiliejo su stabmeldyste
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218365
+
+- id: c-199450
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 419"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 419."
+  citata_originali: |
+    Rusinus, kaimynus nuo Polocko, arba baltarusius latviai vadi­
+    no krieviais (Kreews), nes jie yra žinomų iš istorijos krivičių ainiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219644
+
+- id: c-200947
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  citata_originali: |
+    Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
+    pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­
+    nius žalčius; šie baltu rankšluosčiu užšliaužia ant stalo ir ra­
+    gauja valgių, kuriuos paskui žmonės suvalgo, bet jeigu žalčiai
+    nenorėtų išlįsti arba ėsti, tai reikštų gresiančią namui didelę
+    nelaimę“.
+    Latviai naminius žalčius, garbintus kaip fetišus, vadino
+    Czuhskas. Šiuos prietarus žinojo ir Lietuvos rusinai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

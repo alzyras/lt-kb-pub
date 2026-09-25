@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 159
+tema_objektu_skaicius: 161
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 159.
+Objektų skaičius: 161.
 
 ## Kaip naudoti
 
@@ -24,6 +24,10 @@ Objektų skaičius: 159.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Antanas Slučka-Šarūnas]]
+- [[objektai/asmenys/Antanas Starkus-Montė]]
 
 ### Grupės
 - [[objektai/grupes/Abiejų Tautų Respublika]]
@@ -49,8 +53,8 @@ Objektų skaičius: 159.
 - [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]]
 - [[objektai/grupes/Gardino seimas]]
 - [[objektai/grupes/Generaliniai seimeliai]]
-- [[objektai/grupes/III Seimas]]
-- [[objektai/grupes/IV Seimas|IV Seimas (seimas)]]
+- [III Seimas](../objektai/grupes/III%20Seimas)
+- [IV Seimas (seimas)](../objektai/grupes/IV%20Seimas)
 - [JAV Kongresas](../objektai/grupes/JAV%20Kongresas)
 - [Jungtinių Tautų organizacija](../objektai/grupes/Jungtini%C5%B3%20Taut%C5%B3%20organizacija)
 - [Kardinolų kolegija](../objektai/grupes/Kardinol%C5%B3%20kolegija)

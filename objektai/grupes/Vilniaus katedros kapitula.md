@@ -67,3 +67,72 @@ Vilniaus katedros kapitula buvo kolegiali dvasininkijos institucija, telkusi vys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208284"></a>
+- t-001
+  teiginys: "Vilniaus katedros kapitula buvo kolegiali dvasininkijos institucija, telkusi vyskupijos elitą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190901
+
+<a id="claim-t-208285"></a>
+- t-002
+  teiginys: "Bohušas aktyviai dalyvavo kapitulos darbe, įskaitant posėdžius ir kapitulos stalo valdų valdymą bei inspektavimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190926
+
+## Citatos
+
+- id: c-190901
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 121"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 121."
+  citata_originali: |
+    Bohušui. Dabartiniame
+    temos tyrimo etape turimais duomenimis, diecezinio kunigo tarnystės etapas
+    P. K. Bohušo bažnytinėje karjeroje baigėsi Ukmergės parapijos klebono tarnyste.
+    Vilniaus vyskupijos katedros kapitulos narys
+    Vilniaus vyskupijos katedros kapitula - kaip ir kitose vyskupijose, buvo dvasininkijos
+    elitą telkusi institucija, turėjusi kasdienės liturginės tarnystės katedroje ir pagalbos
+    vyskupijos ganytojui pareigas - pairta drauge su vyskupija 1388 m.63 Tai buvo kolegiali
+    visateisių narių64 struktūra, jungusi dvi funkcines grupes - prelatus ir kanauninkus.
+  citata_rodoma: "Vilniaus vyskupijos katedros kapitula - kaip ir kitose vyskupijose, buvo dvasininkijos \nelitą telkusi institucija, turėjusi kasdienės liturginės tarnystės katedroje ir pagalbos \nvyskupijos ganytojui pareigas - pairta drauge su vyskupija 1388 m"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-190926
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 128"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 128."
+  citata_originali: |
+    Vilniaus katedros
+    kapitulos dvasininkų bendruomenės nariu P. K . Bohušas tapo 1783 m. kaip prelato
+    kantoriaus P. Točilovskio koadjutorius cumfutura successione. Pasižymėjo aktyviu
+    dalyvavimu kapitulos darbe (dalyvavimas posėdžiuose, kapitulos stalo valdų val­
+    dymas ir inspektavimas).
+  citata_rodoma: "Pasižymėjo aktyviu \ndalyvavimu kapitulos darbe (dalyvavimas posėdžiuose, kapitulos stalo valdų val­\ndymas ir inspektavimas)."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002

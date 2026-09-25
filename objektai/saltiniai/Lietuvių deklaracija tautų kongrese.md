@@ -69,5 +69,5 @@ Laike tautų kongreso daug guostasi prieš visokius persekiojimus ir pris paudim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

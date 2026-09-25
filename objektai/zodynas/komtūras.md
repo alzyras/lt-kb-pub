@@ -98,6 +98,18 @@ media_all_json: |-
   pagrindžia:
     - c-167219
 
+<a id="claim-t-221074"></a>
+- t-221074
+  teiginys: "1327 metais brolis Hermanas buvo Elbingo komtūras ir didysis Ordino špitolininkas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204086
+
 ## Citatos
 
 - id: c-14694
@@ -118,7 +130,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167103
@@ -135,7 +147,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167219
@@ -159,5 +171,23 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-204086
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 252"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 252."
+  citata_originali: |
+    1327 viešpaties metais brolis Hermanas, Elbingo komtūras bei didysis Ordino
+    špitolininkas, netoli Zalfeldo miesto pastatė jau minėtą miestą, vardu Morungenas600,
+    gavusį vardą nuo ežero, kurio pakrantėje jis ir buvęs įkurdintas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221074

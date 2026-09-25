@@ -49,25 +49,18 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
 
 ## Teiginiai
 
-<a id="claim-t-190070"></a>
-- t-001
-  teiginys: "Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais."
-  atnaujinta: "2026-07-19 18:48"
+<a id="claim-t-208329"></a>
+- t-208329
+  teiginys: "Vincento Ignaco Marevičiaus proginėse eilėse Jonas Potockis įvardijamas Karūnos laikytoju jo apsirengimo lenkiškais drabužiais proga."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Suroveckis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Potockis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Suroveckis: mention_match, author, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Potockis\" parinktas kaip owner_note_path. Targetas \"Suroveckis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-08-18T21:24:30Z"
   pagrindžia:
-    - c-172953
+    - c-190820
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -141,5 +134,23 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-190820
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 303"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 303."
+  citata_originali: |
+    V. I. Marevičius atsiliepė ir j polemiką, kilusią po
+    to, kaljanas Potockis pasirodė viešumoje, vilkėdamas tautiniais drabužiais. Ta proga pasirodė
+    daug giriamųjų ir poleminių eilių, tarp jų - V. I. Marcvičiaus Do Jaśnie Wielmożnego Jm ci P.ui.i
+    Jona Potockiego, krajezyka koronnego, z okoliczności przebrania sifjego po polsku Ųo Kilnybei Po­
+    nui Janui Potockim', Karūnos laikytojui, apsirengimo lenkiškais rūbais proga), ir. Krystyna Mak­
+    simowicz, Wstęp, p. 9,
+  citata_rodoma: "V. I. Marcvičiaus Do Jaśnie Wielmożnego Jm ci P.ui.i \nJona Potockiego, krajezyka koronnego, z okoliczności przebrania sifjego po polsku Ųo Kilnybei Po­\nnui Janui Potockim', Karūnos laikytojui, apsirengimo lenkiškais rūbais proga), ir. Krystyna Mak­\nsimowicz, Wstęp, p. 9,"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208329

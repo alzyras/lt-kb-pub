@@ -78,7 +78,7 @@ canonical_biography: "Žydui Markui palūkanų nuo pustrečio šimto zlotų už 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83527
@@ -100,5 +100,5 @@ canonical_biography: "Žydui Markui palūkanų nuo pustrečio šimto zlotų už 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

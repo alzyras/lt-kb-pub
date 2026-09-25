@@ -27,26 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr. Dusburgietis teigia, kad kristaus karių ordinas, Dobrynės broliai Kristaus karių ordinas Livonijos žemėje Kristburgas Senasis (Kirsapilis, Kirsa, Kirsberg, Kirsburg; Cristburgk, Cristburc; Christburg, Aldinkirsburg, Kirseburg ir pan.
 
-## Teiginiai
-
-<a id="claim-t-63011"></a>
-- t-001
-  teiginys: "Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Diunamiundė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristaus karių ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Diunamiundė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristaus karių ordinas\" parinktas kaip owner_note_path. Targetas \"Diunamiundė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-63921
-
 ## Citatos
 
 - id: c-63921
@@ -76,5 +56,3 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

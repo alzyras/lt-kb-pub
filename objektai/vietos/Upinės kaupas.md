@@ -95,7 +95,7 @@ Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177152
@@ -117,5 +117,44 @@ Narbutas rašė, kad Vilkijos seniūnui Zabielai uždraudus Upinės apeigas ant 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198853
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
+  citata_originali: |
+    Tenai pūva tokia daugybė drobės gabalė­
+    lių, kad mažiau prietaringame krašte drąsiai būtų galima ap­
+    rūpinti popieriaus dirbtuvę žaliava. Prie upelio, dešinėje vieš­
+    kelio pusėje, ant nedidelės žemės sankasos, kurią sakė buvus
+    deivės Upinės, kadaise to upelio globėjos, altoriumi, stovi me­
+    dinė koplytėlė su Nukryžiuotoju. Dar gyvas nesenas atmini­
+    mas apie buvusią kažkokią moterų broliją, atlikinėjusią apei­
+    gas tai Upinei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199644
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
+  citata_originali: |
+    Senė, vadinama Upine, tomis apei­
+    gomis pašventindavo upelį, ir jis visiems metams įgydavo gy­
+    domosios galios. Kai Vilkijos seniūnas Zabiela uždraudė tuos
+    kerus, ant Upinės kaupo buvo pastatyta koplyčia. 1785 metais,
+    šv.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

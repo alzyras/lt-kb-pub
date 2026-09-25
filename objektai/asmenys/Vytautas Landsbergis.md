@@ -204,7 +204,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-154919
@@ -227,7 +227,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-154921
@@ -251,7 +251,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-154922
@@ -272,7 +272,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-154923
@@ -298,7 +298,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-154924
@@ -320,7 +320,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-154926
@@ -343,7 +343,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

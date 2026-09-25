@@ -162,6 +162,42 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   pagrindžia:
     - c-175200
 
+<a id="claim-t-212661"></a>
+- t-212661
+  teiginys: "Graikai, ypač masiliečiai, tęsė finikiečių tyrimus, tačiau dalį jų pasakojimų rašė eilėmis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196918
+
+<a id="claim-t-212837"></a>
+- t-212837
+  teiginys: "Savo ruožtu graikų boristeniečių prekybiniai santy kiai su skitų žemdirbiais lėmė, jog pirmieji apsigyveno Kankinėje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196040
+
+<a id="claim-t-217751"></a>
+- t-217751
+  teiginys: "Graikai, kitokio dangaus ir sąmonės tauta, perėmę iš egip tiečių dalį dangaus kūnų ir Titanų giminės garbinimą, išvystė malonesnio pavidalo savo daugiadievystę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-199307
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: '514 metais prieš Kristų persų būriai, remiami graikų sąjungininkų, įžengė į Europą ir brovėsi Dunojaus link.'
@@ -200,7 +236,7 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172397
@@ -218,7 +254,7 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172398
@@ -240,7 +276,7 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175198
@@ -263,7 +299,7 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175199
@@ -282,7 +318,7 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-175200
@@ -305,8 +341,178 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-195453
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 55."
+  citata_originali: |
+    Padaugėjo nedorų žmonių būrių,
+    pradėjo lietis kraujas ir ėmė veržtis nevaržomos aistros.
+    Tuomet suklestėjo graikų kolonijos, kurios užgožė žlun­
+    gančius skitus. Bet tikras šių genčių žlugimas prasidėjo
+    persų antpuolio prieš Skitiją metu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195767
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
+  citata_originali: |
+    33
+    Jau labai senais laikais graikai užmezgė santykius su
+    Juodosios jūros pakrančių skitais. Sakoma, kad Neopto-
+    lemas pirmasis pradėjo steigti pirmas pastovias graikų
+    gyvenvietes, pirmiausia prie Dnestro, paskui ir prie Dnep-
+    ro žiočių. Tai davė pradžią graikų emporiumams, arba
+    prekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą
+    pradėjo klestėti ir vėliau virto tokiais turtingais kaip
+    Olbija, Heraklėja, Chersonas ir kiti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 18:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196040
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 378."
+  citata_originali: |
+    Savo ruožtu graikų boristeniečių prekybiniai santy­
+    kiai su skitų žemdirbiais lėmė, jog pirmieji apsigyveno
+    Kankinėje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212837
+
+- id: c-196359
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 205."
+  citata_originali: |
+    Juk
+    neabejotina, jog šiame krašte, kai jis priklausė gelo-
+    nams-budinams, dar persų karaliaus Darijaus amžiuje
+    žemdirbystė buvo aukšto lygio ir skatino graikus prekiau­
+    ti grūdais Juodojoje jūroje.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196918
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  citata_originali: |
+    Graikai, ypač
+    masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
+    vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga­
+    lėtojai, pažengė toliau, tačiau apie kraštus, esančius už
+    Elbės ir Arkados žiočių, nepaliko jokių rašytinių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212661
+
+- id: c-198022
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  citata_originali: |
+    Šiuos prietarus žinojo ir Lietuvos rusinai.
+    Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
+    jai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau­
+    gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
+    vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199307
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
+  citata_originali: |
+    Graikai, kitokio dangaus ir sąmonės tauta, perėmę iš egip­
+    tiečių dalį dangaus kūnų ir Titanų giminės garbinimą, išvystė
+    malonesnio pavidalo savo daugiadievystę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217751
+
+- id: c-199658
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
+  citata_originali: |
+    Senovės germanai nehervalai turėjo du dievaičius Alcius,
+    amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
+    laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą - Al­
+    kidą. Jie taip pat turėjo atskiras dievybes, vadintas Alkidėmis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200371
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
+  citata_originali: |
+    Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
+    pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
+    dingos mūsų tėvynės istorijai.
+    Šventoji ugnis
+    Chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti kaip
+    dievybę garbino ugnį. Gvebrai, ligi šiol išpažįstantys Zoroast-
+    ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
+    bet nemoka tos esybės pavadinti vardu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Graikai pastatė [[objektai/daiktai/Aukurai]]

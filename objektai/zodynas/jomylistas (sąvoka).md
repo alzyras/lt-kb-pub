@@ -65,5 +65,5 @@ Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylist
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

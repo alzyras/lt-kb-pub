@@ -33,28 +33,6 @@ canonical_biography: "Narbutas primena biblinį pasakojimą, kad Abraomas ėjo a
 
 Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko.
 
-## Teiginiai
-
-<a id="claim-t-190159"></a>
-- t-001
-  teiginys: "Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Abraomas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Izaokas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Abraomas: mention_match, person, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Izaokas\" parinktas kaip owner_note_path. Targetas \"Abraomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-173042
-
 ## Citatos
 
 - id: c-173042
@@ -81,5 +59,3 @@ Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

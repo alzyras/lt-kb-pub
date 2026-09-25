@@ -507,6 +507,59 @@ saugoti Dubysos upyną.
   pagrindžia:
     - c-189203
 
+<a id="claim-t-207806"></a>
+- t-207806
+  teiginys: "Prie Veliuonos 1317 m. įvyko čekų riterio Plichtos ir lietuvių didžiūno kova."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190423
+
+<a id="claim-t-209496"></a>
+- t-209496
+  teiginys: "Šį ganytojišką laišką Skapiškio ir Kamajų para pijoms Valančius 1861 m. spalio 13 d. ir 1862 m. ko vo 20 d. peradresavo Kulių, Vainuto bei Veliuonos ' parapijoms."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  temporaliniai_duomenys: "įvykio data: 1861 m.; įvykio data: 1862 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-09-02T11:31:51Z"
+  pagrindžia:
+    - c-192116
+
+<a id="claim-t-209497"></a>
+- t-209497
+  teiginys: "Tekstas Veliuonos parapijai lyginamas su panašiais laiškais Skapiškio, Kamajų, Kulių ir Vainuto parapijoms."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192117
+
+<a id="claim-t-210433"></a>
+- t-210433
+  teiginys: "Veliuonos gynimui 1364 m. vadovavo Goštautas, Veliuonos pilies viršininkas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193401
+
 ## Reikšmingi paminėjimai
 - c-019
   santrauka: 'Vis dėlto 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė pilį.'
@@ -546,7 +599,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-37790
@@ -571,7 +624,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-43974
@@ -595,7 +648,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-164323
@@ -619,7 +672,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-164324
@@ -638,7 +691,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-164325
@@ -660,7 +713,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-014
 
@@ -700,7 +753,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-012
 
@@ -724,7 +777,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-016
 
@@ -752,7 +805,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-164332
@@ -775,7 +828,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-020
 
@@ -799,7 +852,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-164336
@@ -826,7 +879,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-164339
@@ -848,7 +901,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-164340
@@ -870,7 +923,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-164341
@@ -902,7 +955,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-022
 
@@ -924,7 +977,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-164345
@@ -947,7 +1000,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-168533
@@ -985,7 +1038,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-177154
@@ -1005,7 +1058,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-185017
@@ -1023,7 +1076,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
 
 - id: c-189202
@@ -1041,7 +1094,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-189203
@@ -1063,8 +1116,96 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
+
+- id: c-190423
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 69"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 69."
+  citata_originali: |
+    Livonijos, Vokiečių ordinų pilyse lankėsi pirmieji kuriamos
+    Lietuvos valstybės diplomatai, ieškoję kelių į Europą; ne tik mūšio laukuose kovėsi, bet
+    ir sėmėsi politinio, diplomatinio, taip pat riteriškojo gyvenimo būdo patyrimo didysis
+    kunigaikštis Vytautas ir jo palydoje buvę Lietuvos aukštuomenės žmonės; Europos
+    riterių pilyse gyvendavo įkaitais palikti kunigaikščių ir bajorų giminių atstovai.
+    Istorinėje literatūroje nurodomi konkretūs faktai, rodantys, kad XIV-XV a. Lie-
+    tuvos didžiojo kunigaikščio dvare ir aukštuomenės sluoksniuose buvo žinomos riterių
+    tradicijos: čekų riterio Plichtos kova su lietuvių didžiūnu prie Veliuonos 1317 m.;
+    lietuvių kunigaikščio Margirio dvikova su Čekijos karaliumi Jonu Liuksemburgiečiu
+    1329 m.; faktas, kad 1403 m. šeši lietuvių bajorai iškvietė į dvikovą šešis Vokiečių
+    ordino riterius; lietuvių dalyvavimas riterių turnyre 1413 m.; tai, kad Vytautas pakėlė į
+    riterius imperatoriaus Zigmanto pasiuntinį Benediktą Makrą.
+  citata_rodoma: "čekų riterio Plichtos kova su lietuvių didžiūnu prie Veliuonos 1317 m.;"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207806
+
+- id: c-192116
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 85"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 85."
+  citata_originali: |
+    70,1. 201-202).
+    Šį ganytojišką laišką Skapiškio ir Kamajų para­
+    pijoms Valančius 1861 m. spalio 13 d. ir 1862 m. ko­
+    vo 20 d. peradresavo Kulių, Vainuto bei Veliuonos
+    ' parapijoms.
+  citata_rodoma: "Šį ganytojišką laišką Skapiškio ir Kamajų para­\npijoms Valančius 1861 m. spalio 13 d. ir 1862 m. ko­\nvo 20 d. peradresavo Kulių, Vainuto bei Veliuonos \n' parapijoms"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209496
+
+- id: c-192117
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 123"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 123."
+  citata_originali: |
+    35, lapai nenumeruoti.
+    Ne p u b l i k u o t a s .
+    Ganytojiškas laiškas Veliuonos parapijai panašus
+    į laiškus Skapiškio bei Kamajų parapijoms, taip pat
+    Rietavo dekanato Kulių ir Vainuto parapijoms.
+  citata_rodoma: "Ganytojiškas laiškas Veliuonos parapijai panašus \nį laiškus Skapiškio bei Kamajų parapijoms, taip pat \nRietavo dekanato Kulių ir Vainuto parapijoms."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209497
+
+- id: c-193401
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 210"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 210."
+  citata_originali: |
+    Veliuonos gynimui 1364 m. tikrai vadovavo Goštautas, Ve­
+    liuonos pilies viršininkas. Nebepajėgdamas atsispirti kryžiuočiams, jis
+    pasidavė drauge su ¡gula ir buvo kryžiuočių nužudytas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210433
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

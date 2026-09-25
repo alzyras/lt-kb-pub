@@ -79,5 +79,5 @@ Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. paro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

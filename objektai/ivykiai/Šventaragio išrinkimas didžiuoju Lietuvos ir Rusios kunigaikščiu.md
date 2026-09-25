@@ -78,5 +78,5 @@ Teodoro Narbuto pasakojimu, lietuviai kartu su rusinais Kernavėje išrinko Liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -92,7 +92,7 @@ Konradas, kaip pasakoja Teodoras Narbutas, vasarą sumanė pulti svarbiausią pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189087
@@ -110,5 +110,5 @@ Konradas, kaip pasakoja Teodoras Narbutas, vasarą sumanė pulti svarbiausią pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

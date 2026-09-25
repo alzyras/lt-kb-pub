@@ -118,7 +118,7 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185788
@@ -133,11 +133,12 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
     kuvon Kazimiero vestuvių švęsti su 1200 žirgų in magna pompa et aparatu
     106.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188982
@@ -154,5 +155,5 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

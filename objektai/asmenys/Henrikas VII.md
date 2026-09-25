@@ -125,6 +125,36 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   pagrindžia:
     - c-60611
 
+<a id="claim-t-220388"></a>
+- t-220388
+  teiginys: "Henrikas iš Liuksemburgo 1308 metais buvo išrinktas Romos karaliumi."
+  atnaujinta: "2026-09-20 04:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-223075"></a>
+- t-223075
+  teiginys: "1313 metais imperatorius Henrikas mirė Sienos grafystėje ir buvo palaidotas Pizoje."
+  atnaujinta: "2026-09-20 04:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-224814"></a>
+- t-224814
+  teiginys: "1312 metais Henrikas VII Romoje buvo vainikuotas imperatoriumi."
+  atnaujinta: "2026-09-20 04:27"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-60608
@@ -144,7 +174,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-60609
@@ -164,7 +194,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-60610
@@ -183,7 +213,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-60611
@@ -204,6 +234,6 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005

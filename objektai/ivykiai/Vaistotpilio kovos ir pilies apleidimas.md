@@ -147,6 +147,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-85373
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -165,7 +166,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -187,7 +188,43 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
     - t-005
+
+- id: c-204470
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 125"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 125."
+  citata_originali: |
+    Šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią
+    ten du kaimus. Vis dėlto prūsai, pasprukę nuo jiems ten paspęstų spąstų, nužudė šešis
+    brolius bei daugybę krikščionių.
+    115 (110).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206321
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 125"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 125."
+  citata_originali: |
+    Apie tai, kaip buvo palikta Vaistotpilio pilis
+    Nesitenkindami broliams padarytais nuostoliais, prūsai subūrė didžiulę kariuomenę
+    ir apsupo Vaistotpilio pilį; jie smarkiai puolė ją nuo aušros iki sutemų, o broliai narsiai
+    gynėsi. Kai prūsai, nepasiekę tikslo, pasitraukė, broliai, turėdami galvoje, kad pilis nesanti
+    deramai sutvirtinta ir ateityje nestengsianti atremti tokių stiprių antpuolių, sudegino pilį
+    ir slapta pasitraukė.
+    116 (111).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

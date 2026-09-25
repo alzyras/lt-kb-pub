@@ -51,6 +51,16 @@ Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame pl
   pagrindžia:
     - c-177323
 
+<a id="claim-t-214544"></a>
+- t-214544
+  teiginys: "Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame plote."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame plote, o kairiojoje Dnepro pakrantėje nuo Mogiliovo Sašos upės link ir netoli jos žio čių.'
@@ -104,5 +114,5 @@ Daugiausia pilkapių aptinkama Drutės ir Beržūnos upių žemupio uždarame pl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

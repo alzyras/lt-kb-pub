@@ -61,5 +61,5 @@ Apie 215 metus dakai gyveno kairiojoje Dnepro pakrantėje ir buvo nepriklausomi 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

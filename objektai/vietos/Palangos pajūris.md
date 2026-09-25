@@ -88,5 +88,5 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -81,5 +81,28 @@ Narbutas perpasakoja legendinę kelionę, kurioje keliautojai perėjo plačius T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195615
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
+  citata_originali: |
+    Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
+    gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
+    yra nepaprastai šaltas aštuntasis ratas, — išsiuntė keliau­
+    tojus tai patikrinti. Šie perėjo plačius Tartarijos kraštus,
+    vėliau didelę slavų Roksolanijos valstybę ir per venedų
+    bei alanų žemes pateko į Livoniją. Iš to krašto, dar gana
+    toli nukeliavę vandens keliu, atsidūrė plačioje ir tuščioje
+    žemėje, kuri neturėjo jokio nuolatinio pavadinimo, nes ją
+    vadino tai Sargatia arba Sargaga, tai Getida arba Vatinla
+    ir dar kitaip.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

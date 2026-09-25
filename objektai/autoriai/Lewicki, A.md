@@ -102,6 +102,6 @@ Lewicki, A.: Kiedy Witold został wielkiem księciem Litwy, KH, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

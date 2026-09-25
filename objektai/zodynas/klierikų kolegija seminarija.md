@@ -100,7 +100,7 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82454
@@ -129,5 +129,5 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

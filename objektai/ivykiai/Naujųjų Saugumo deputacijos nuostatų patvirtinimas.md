@@ -59,3 +59,45 @@ Nenurodyta
 ## Santrauka
 
 Naujieji Saugumo deputacijos nuostatai gegužės 10 d. buvo baigti rengti, o gegužės 14 d. juos patvirtino Lietuvos Taryba; rengimą užbaigė Mykolas Kleopas Oginskis, Dominykas Narbutas ir Mykolas Karpavičius.
+
+## Teiginiai
+
+<a id="claim-t-208005"></a>
+- t-001
+  teiginys: "Naujieji Saugumo deputacijos nuostatai gegužės 10 d. buvo baigti rengti, o gegužės 14 d. juos patvirtino Lietuvos Taryba; rengimą užbaigė Mykolas Kleopas Oginskis, Dominykas Narbutas ir Mykolas Karpavičius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  vertinimo_atnaujinta: "2026-08-18T20:43:07Z"
+  pagrindžia:
+    - c-190664
+
+## Citatos
+
+- id: c-190664
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 150"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 150."
+  citata_originali: |
+    Tarybai/* kad iki tos dienos iš karinių dalinių gavusi tik vieną raportą, todėl ji
+    nežino, ko vienam ar kitam daliniui trūksta, ir negali koordinuoti išsibarsčiusių
+    dalinių veiksmų. Todėl deputacija, pabrėždama, kad „uoliai ir virš savo galimybių
+    vykdo jai patikėtas pareigas bei jų nesikrato", prašė Lietuvos Tarybos arba panai­
+    kinti funkcijas, kurių ne dėl savo kaltės ji negali vykdyti, arba aiškiai nustatyti,
+    kaip jos turi būti vykdomos.
+    Taip reikalingi naujieji nuostatai Saugumo deputacijai pabaigti rengti gegu­
+    žės 10 d. (juos rengti pabaigė Mykolas Kleopas Oginskis, Dominykas Narbutas,
+    Mykolas Karpavičius), o gegužės 14 d. Lietuvos Tarybos patvirtinti''.
+  citata_rodoma: "Taip reikalingi naujieji nuostatai Saugumo deputacijai pabaigti rengti gegu­\nžės 10 d. (juos rengti pabaigė Mykolas Kleopas Oginskis, Dominykas Narbutas, \nMykolas Karpavičius), o gegužės 14 d. Lietuvos Tarybos patvirtinti"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

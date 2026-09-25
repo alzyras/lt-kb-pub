@@ -41,6 +41,16 @@ Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiam
   pagrindžia:
     - c-180666
 
+<a id="claim-t-211264"></a>
+- t-211264
+  teiginys: "Vėliau, išmirus Palemono įpėdiniams ir sekančios Kentauro herbo dinastijos ku nigaikščiams, Lietuvos sostas atitekęs pirmajam Gediminaičių dinastijos valdovui Vyteniui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
 ## Citatos
 
 - id: c-180666
@@ -66,5 +76,5 @@ Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

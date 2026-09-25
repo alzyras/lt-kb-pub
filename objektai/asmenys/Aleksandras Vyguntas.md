@@ -84,5 +84,5 @@ Pati re­ forma nepasisekė, nes Vygunto mirtis (1392 m. birželio 28 d.) suard�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

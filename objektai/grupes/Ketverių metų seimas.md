@@ -124,6 +124,18 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   pagrindžia:
     - c-166301
 
+<a id="claim-t-208029"></a>
+- t-208029
+  teiginys: "Ketverių metų seimo pradėtos reformos tekste pristatomos kaip pirmas žingsnis į moderniąją pilietinę visuomenę."
+  atnaujinta: "2026-09-20 05:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190655
+
 ## Citatos
 
 - id: c-72232
@@ -144,7 +156,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-72233
@@ -168,7 +180,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166300
@@ -196,7 +208,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-166301
@@ -217,5 +229,46 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-190127
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 180"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 180."
+  citata_originali: |
+    Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš baudžia-
+    vos, suteikiant jiems asmeninę laisvę, atvejus. Ryškiausiu iš jų laikytina Pauliaus Ksave-
+    ro Bžostovskio įkurta Paulavos respublika. Jos įstatus 1791 m. patvirtino Ketverių metų
+    seimas, parodydamas savo prielankumą tokiam „eksperimentui“, kuriuo buvo bandoma
+    diegti respublikonišką gyvenseną.
+  citata_rodoma: "Jos įstatus 1791 m. patvirtino Ketverių metų \nseimas, parodydamas savo prielankumą tokiam „eksperimentui“, kuriuo buvo bandoma \ndiegti respublikonišką gyvenseną."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-190655
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 86"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 86."
+  citata_originali: |
+    Naujįjjų laikų istorijos tyrinėtojų Edvardo Gudavičiaus, Ingės Lukšaitės, Zig­
+    manto ir Jūratės Kiaupų ir jų mokinių. Ši koncepcija, atmetusi etnolingvistinj
+    ir kartu tradiciškai antilenkišką Lietuvos istorijos naratyvą, padėjo pagrindus
+    kitaip traktuoti Lietuvos Didžiosios Kunigaikštystės paveldą ir tradiciją, kurtą
+    lenkų ir rusėnų kalbomis**. 1995 m. pasirodžiusioje Lietuvos istorijos sintezėje*'
+    jau buvo pabrėžiama, kad Ketverių metų seimo pradėtos reformos buvo pirmas
+    žingsnis pereinant nuo viduramžiškos bajorų privilegijomis grįstos luominės
+    prie moderniosios pilietinės visuomenės.
+  citata_rodoma: "Ketverių metų seimo pradėtos reformos buvo pirmas \nžingsnis pereinant nuo viduramžiškos bajorų privilegijomis grįstos luominės \nprie moderniosios pilietinės visuomenės."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208029

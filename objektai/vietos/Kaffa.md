@@ -73,5 +73,5 @@ Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­ davo į Kaffos miest�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

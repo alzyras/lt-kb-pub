@@ -174,7 +174,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-70502
@@ -212,7 +212,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-006
 
@@ -240,7 +240,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-70505
@@ -262,7 +262,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-70506
@@ -284,5 +284,31 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-204264
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 37-38"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37-38."
+  citata_originali: |
+    Tad popiežius, išklausęs šią
+    pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
+    dievo vardu patvirtino. Jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams
+    slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti
+    broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir
+    suteikdamas jiems visokių laisvių, lengvatų bei indulgencijų, kurių apaštališkasis sostas
+      153 Akonas (Akra, Aka) — miestas ir uostas Viduržemio jūros rytinėje pakrantėje (dab
+    Izraelio teritorijoje), XI a. pabaigoje buvęs Vakarų Europos kryžininkų įkurtoje Jeruzalės
+    karalystėje. 1187 m. jį užėmė Egipto sultonas. Saladinas. Kryžininkų atkariautas 1191
+    m., tapo Jeruzalės karalystės sostine (iki 1291 m.).
+
+    teikė tokiems garbingiems ordinams, kaip jau minėtieji joanitai  ir tamplieriai, taigi
+    duodamas teisę laisvai naudotis tomis pat privilegijomis kaip ir anieji.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

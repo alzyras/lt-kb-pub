@@ -135,7 +135,7 @@ Skirgaila Jogailos ir savo vardu davė Kęstučiui bei Vytautui žodį ir ranką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-193405
@@ -154,5 +154,5 @@ Skirgaila Jogailos ir savo vardu davė Kęstučiui bei Vytautui žodį ir ranką
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

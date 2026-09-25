@@ -70,5 +70,26 @@ Medžiojnomis Narbutas vadina miško nimfas, globojusias tankmes ir, jo aiškini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197812
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
+  citata_originali: |
+    Medziojna (Medziojna)
+    Taip nuo žodžio Medžios - tankus miškas vadinosi miško
+    nimfos, kurios globojo miško tankmes ir, ten gyvendamos,
+    kenkdavo arba padėdavo žmonėms, todėl turėjo teisę būti jų
+    garbinamos. Apie jas žinome iš Lasickio ir liaudies padavimų.
+    Tai buvo antikinės driadės. Nereikia tapatinti Medziojnos
+    su Medžiojma, kurią laikėme medžiotojų deive, vadinama
+    Laima.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

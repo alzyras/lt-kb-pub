@@ -84,7 +84,7 @@ Dusburgietis nurodo, kad Skomantas su visais savo namais bei šeimyna pasidavė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-205008
@@ -105,5 +105,5 @@ Dusburgietis nurodo, kad Skomantas su visais savo namais bei šeimyna pasidavė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

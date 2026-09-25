@@ -182,7 +182,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-106011
@@ -204,7 +204,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-106012
@@ -225,7 +225,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-106013
@@ -280,7 +280,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167768
@@ -298,7 +298,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-189195
@@ -318,5 +318,5 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

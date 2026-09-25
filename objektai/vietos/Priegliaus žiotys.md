@@ -87,7 +87,7 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -107,5 +107,5 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -85,7 +85,7 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-40682
@@ -112,7 +112,7 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167055
@@ -136,7 +136,7 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

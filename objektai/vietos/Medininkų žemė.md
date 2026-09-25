@@ -111,7 +111,7 @@ BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

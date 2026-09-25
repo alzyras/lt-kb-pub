@@ -68,7 +68,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166575
@@ -89,5 +89,5 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

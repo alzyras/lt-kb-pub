@@ -91,7 +91,7 @@ Rupūžės buvo laikomos prie šventyklų ir kai kuriuose namuose ypač gerbiamo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-198578
@@ -116,5 +116,5 @@ Rupūžės buvo laikomos prie šventyklų ir kai kuriuose namuose ypač gerbiamo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

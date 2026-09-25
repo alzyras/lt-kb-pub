@@ -83,5 +83,32 @@ Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195106
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
+  citata_originali: |
+    Odoakras ne­
+    trukus perleido šią provinciją visigotų karaliui Evarikui,
+    norėdamas taip pelnyti jo palankumą, o kiek anksčiau
+    jis užmezgė draugiškus santykius su galingu Afrikos
+    vandalų karaliumi Genseriku, iš kurio tam tikromis są­
+    lygomis gavo Siciliją. Užsitikrinęs kaimyninių valstybių
+    vadovų Zenono, Evariko ir Genseriko, kurie galėjo jam
+    pakenkti, palankumą, jis, dorybingo ministro romėno Li-
+    berijaus remiamas, sutelkė visą dėmesį į Italijos vidaus
+    problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
+    trečdalį žemės valdų1. Galbūt seni žemės savininkai pri­
+    ėmė šį nurodymą ne visai geranoriškai, bei atvirai maiš­
+    tauti nedrįso pirmiausia dėl savo bejėgiškumo, o antra
+    1 Procop.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

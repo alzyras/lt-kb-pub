@@ -61,20 +61,3 @@ Totoriai siaubė Slucko, Klecko, Nesvyžiaus ir Naugarduko apylinkes bei sudegin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-## Teiginiai
-
-<a id="claim-t-211293"></a>
-- t-001
-  teiginys: "Totoriai siaubė Slucko, Klecko, Nesvyžiaus ir Naugarduko apylinkes bei sudegino Klecko pilį."
-  atnaujinta: "2026-09-13 20:22"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-193156
-

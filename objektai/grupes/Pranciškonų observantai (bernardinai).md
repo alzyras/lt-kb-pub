@@ -62,5 +62,5 @@ Tai buvo vienos iš pranciškonų šakos, pranciškonų observantų, paprastai v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -90,5 +90,5 @@ Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

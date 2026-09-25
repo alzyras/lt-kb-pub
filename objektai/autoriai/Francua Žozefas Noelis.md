@@ -89,17 +89,26 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   pagrindžia:
     - c-173180
 
-<a id="claim-t-197293"></a>
-- t-003
-  teiginys: "Francua Žozefas Noelis yra pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Plutonas - požemį, arba egzistavimą po mirties."
-  atnaujinta: "2026-07-12 22:32"
+<a id="claim-t-219241"></a>
+- t-219241
+  teiginys: "Francua Žozefas Noelis manė, kad kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje buvusi seniausia jų šventykla."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Francua Žozefas Noelis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Francua Žozefas Noelis\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173179
+    - c-198253
+    - c-201221
 
 ## Citatos
 
@@ -119,7 +128,7 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173179
@@ -145,8 +154,6 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-173180
   autorius: "Teodoras Narbutas"
@@ -166,5 +173,53 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198253
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
+  citata_originali: |
+    Tačiau lygindami tuos padavimus vieną
+    su kitu ir aiškindamiesi tų dievybių prigimtį, Mnelea, o vėliau
+    Rolandas, labiausiai priartėdami prie tiesos, sutaria, kad Ka­
+    tarai - trys pragaro, arba mirusiųjų, dievai, kadangi Prozerpi­
+    na simbolizuoja žemę, priimančią į savo įsčias visa, kas mirė,
+    ir atiduodančią, arba gimdančią, iš tų pačių įsčių, dėl to ji yra
+    pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito
+    gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
+    nas - požemį, arba egzistavimą po mirties. Tai iš tikrųjų ir yra
+    graikų mitologijos Trejybė.
+    Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
+    susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219241
+
+- id: c-201221
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 472"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 472."
+  citata_originali: |
+    Francua Žozefo Noelio (1751-1841), prancūzų po­
+    litinio veikėjo ir mokslininko, veikalas (Noel Fran­
+    cois Joseph. Dictionnaire de la fable: Ou mytholo­
+    gie grecque, latine, égyptienne, celtique, persane,
+    syriaque e. a. - Paris, 1803. - T. I—II) buvo istoriko
+    Šaurų dvaro bibliotekoje ([Narbutt T ] Spisanie Mu­
+    zeum w Szawrach.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219241

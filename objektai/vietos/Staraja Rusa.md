@@ -101,10 +101,11 @@ liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, 
     apgulto Pskovo buvusią S. Batoro
   citata_rodoma: "RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis\n\nvos atkariautos teritorijos\n\nStarajos Rusos miesto\nir jį sudegino, o įgulą\n„išmušė“. Galiausiai buvo\nnusiaubtos Opokos apylinkės."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

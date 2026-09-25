@@ -105,7 +105,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-82410
@@ -131,7 +131,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82411
@@ -159,5 +159,5 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

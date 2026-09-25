@@ -873,18 +873,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - c-178944
 
-<a id="claim-t-197420"></a>
-- t-050
-  teiginys: "Kęstutis visiškai atitiko Pergrubę."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179176
-
 <a id="claim-t-201008"></a>
 - t-051
   teiginys: "Kryžėjai, norėdami ta dimgsčia naudoti, nuleido siuntinius pas Kęstutį, tardami, jei jis persikrikštys, galės su kryžėjų talka brolį nuveikti ir vienas valdžioniu tapti."
@@ -1122,6 +1110,60 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - c-188966
 
+<a id="claim-t-10689"></a>
+- t-10689
+  teiginys: "Kęstutis pastatė mūro pilį Trakų ežero saloje."
+  atnaujinta: "2026-09-19 02:35"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Trakai: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata pilies pastatymą priskiria Gediminui, o vėliau ją susieja su Trakais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Gediminas pastatė Trakai (0.76)"
+  pagrindžia:
+    - c-160518
+    - c-160519
+
+<a id="claim-t-211760"></a>
+- t-211760
+  teiginys: "Kęstutis paėmė Birutę žmona."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194221
+
+<a id="claim-t-219174"></a>
+- t-219174
+  teiginys: "Po 1364 metų Veliuonos sugriovimo kunigaikštis Kęstutis atstatė ir sustiprino pilį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200867
+
+<a id="claim-t-219963"></a>
+- t-219963
+  teiginys: "Ta pati mintis ateina Okolskiui straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau juosius Trakus, o ne Kęstutis."
+  atnaujinta: "2026-09-19 02:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201337
+
 ## Reikšmingi paminėjimai
 - c-023
   santrauka: 'Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju.'
@@ -1261,11 +1303,12 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     girdas čia jam visada padėdavo.
   citata_rodoma: "Greta Algirdo, svarbiausią vaidmenį vaidino Kęstutis, nes\njis valdė pavojingiausią ir priešo dažniausiai puolamą sritį. Jo\nviso gyvenimo tikslas buvo atlaikyti kryžiuočių puolimus. Al-\ngirdas čia jam visada padėdavo."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-04615
@@ -1286,6 +1329,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-21848
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -1303,7 +1347,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-160515
@@ -1330,11 +1374,12 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     tovia [Jogaila, arba Jagėla, Dievo ma­
     lone lietuvių karalius].
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-160516
@@ -1399,7 +1444,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-160517
@@ -1415,7 +1460,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-160518
@@ -1435,6 +1480,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-10689
+
 - id: c-160519
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1452,8 +1500,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+    - t-10689
 
 - id: c-160520
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1478,7 +1527,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
     - t-021
 
@@ -1504,7 +1553,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-160523
@@ -1530,7 +1579,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-160524
@@ -1554,7 +1603,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-160525
@@ -1574,7 +1623,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-160527
@@ -1595,7 +1644,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-160530
@@ -1618,7 +1667,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-160531
@@ -1638,7 +1687,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-160533
@@ -1656,7 +1705,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-160534
@@ -1681,7 +1730,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-160535
@@ -1715,7 +1764,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-160536
@@ -1742,7 +1791,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-160537
@@ -1765,7 +1814,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-160538
@@ -1796,7 +1845,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-168122
@@ -1825,6 +1874,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-168124
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1859,7 +1909,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-168125
@@ -1884,7 +1934,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
     - t-041
 
@@ -1916,7 +1966,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-168128
@@ -1958,6 +2008,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-168129
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1988,7 +2039,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-026
     - t-042
 
@@ -2018,7 +2069,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
     - t-043
 
@@ -2059,7 +2110,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
     - t-044
 
@@ -2098,7 +2149,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
     - t-045
 
@@ -2140,7 +2191,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-030
 
 - id: c-171463
@@ -2166,7 +2217,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-171464
@@ -2188,7 +2239,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-032
 
 - id: c-171465
@@ -2210,7 +2261,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-176572
@@ -2231,7 +2282,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
     - t-046
 
@@ -2254,7 +2305,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
 
 - id: c-176574
@@ -2275,7 +2326,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
 
 - id: c-176575
@@ -2294,7 +2345,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
 
 - id: c-177343
@@ -2317,7 +2368,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-178750
@@ -2336,11 +2387,12 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris
     savo dėdei atsimokėjęs klastingu nužudymu.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 22:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
     - t-039
 
@@ -2370,7 +2422,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
 
 - id: c-178942
@@ -2393,7 +2445,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-047
 
 - id: c-178943
@@ -2418,7 +2470,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-048
 
 - id: c-178944
@@ -2440,7 +2492,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-049
 
 - id: c-179176
@@ -2462,8 +2514,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-050
 
 - id: c-184358
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -2487,7 +2537,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-051
 
 - id: c-184359
@@ -2506,7 +2556,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-052
 
 - id: c-188950
@@ -2524,7 +2574,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-053
 
 - id: c-188951
@@ -2542,7 +2592,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-054
 
 - id: c-188952
@@ -2557,7 +2607,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-055
 
 - id: c-188953
@@ -2577,7 +2627,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-056
 
 - id: c-188954
@@ -2597,7 +2647,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-057
 
 - id: c-188956
@@ -2616,7 +2666,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-058
 
 - id: c-188957
@@ -2639,7 +2689,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-059
 
 - id: c-188958
@@ -2658,7 +2708,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-060
 
 - id: c-188959
@@ -2678,7 +2728,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-061
 
 - id: c-188960
@@ -2699,7 +2749,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-062
 
 - id: c-188961
@@ -2718,7 +2768,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-063
 
 - id: c-188962
@@ -2736,7 +2786,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-064
 
 - id: c-188963
@@ -2756,7 +2806,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-065
 
 - id: c-188964
@@ -2776,7 +2826,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-066
 
 - id: c-188965
@@ -2802,7 +2852,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-067
 
 - id: c-188966
@@ -2820,8 +2870,177 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-068
+
+- id: c-193065
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 69."
+  citata_originali: |
+    Ir didysis kunigaikštis Kęstutis tarė savo bro­
+    liui, didžiajam kunigaikščiui Algirdui: ,,Tau dera būti
+    Vilniuje didžiuoju kunigaikščiu, tu mūsų vyriausiasis
+    brolis, o aš eisiu išvien su tavimi." Ir įsodino jį Vilniuje
+    į didžiojo kunigaikščio sostą, o Jaunučiui davė Za-
+    slavlį 4.
+    Ir vienudu nutaria, kad visi broliai privalėsią klau­
+    syti didžiojo kunigaikščio Algirdo, o valsčius ir kaimus
+    pasidalysią.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193321
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 78-79"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78-79."
+  citata_originali: |
+    Tas žygūnas suranda didįjį ku-
+    SJ
+
+    nigaikštį Vytautą Gardine, nes jis jau buvo iš Drohiči-
+    no atvykęs į Gardiną. Didysis kunigaikštis Vytautas
+    per vieną dieną atskuba iš Gardino pas savo tėvą, di­
+    dįjį kunigaikštį Kęstutį. O šis tarė savo sūnui, didžia­
+    jam kunigaikščiui Vytautui: „Tu manim netikėjai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193467
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 78"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78."
+  citata_originali: |
+    Didysis kunigaikš­
+    tis Jogaila buvo davęs Polocką savo broliui Skirgailai,
+    o tie jo nepriėmė. Didysis kunigaikštis Jogaila nusiun­
+    tė į Polocką savo lietuvių ir rusų kariuomenę su savo
+    broliu, didžiuoju kunigaikščiu Skirgaila, ir ji apgulė
+    miestą 47. Ir didysis kunigaikštis Kęstutis vėl ėmė verk­
+    damas skųstis savo sūnui, didžiajam kunigaikščiui Vy­
+    tautui, dėl kunigaikščio Jogailos: ,,Jis anksčiau mane
+    didžiausiai įskaudino, išleisdamas už vergo mano gimi­
+    naitę, o savo seserį, o dabar — aš žinau — su vokie­
+    čiais bičiuliaujasi, sudarė prieš mus sandėrį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193568
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 175"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 175."
+  citata_originali: |
+    Man tai buvo
+    labai skaudu. Dėl to aš skundžiausi dažnai kunigaikš­
+    čiui Jogailai ir mačiau aiškiai, kad aš čia ničnieko ne­
+    galėjau padaryti ir negalėjau nieku būdu tų privilegijų
+    nusimesti. Ir aš prašiau kunigaikštį Jogailą raštų bei
+    privilegijų dėl tų žemių, kurias jis man buvo davęs,
+    dėl rusų žemės7, kuri buvo priklausiusi Liubartui",
+    kad aš ją galėčiau pasilaikyti.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194221
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 68"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 68."
+  citata_originali: |
+    Ir kunigaikštis
+    Kęstutis paėmė ją prievarta iš tos vietos, su didžia pa­
+    garba palydėjo ją į savo sostinę Trakus ir, sukvietęs
+    brolius, iškėlė su savaisiais broliais dideles vestuves
+    ir paėmė tą mergelę Birutę sau žmona
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211760
+
+- id: c-199594
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
+  citata_originali: |
+    Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
+    gėlių ir vaismedžių sodas.
+    Stenderis yra pastebėjęs, kad latviai turėjo deivę, kurią va­
+    dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
+    grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
+    Su šia malonia dievybe supažindina dainelė, iki šiol tebes­
+    kambanti Lietuvos kaimo gražuolių lūpose:
+    Dok mums žiedaj, dok, Grubite!
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200867
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  citata_originali: |
+    Po to kunigaikštis Kęstutis pasisten­
+    gė pilį iš naujo atstatyti ir sustiprinti. Atnaujino ir šventyklą,
+    kuri gyvavo iki 1406 metų, kada kryžiuočiai antrą kartą paė­
+    mė pilį ir perstatė į krikščionių bažnyčią.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219174
+
+- id: c-201337
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  citata_originali: |
+    Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
+    kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui
+    straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta­
+    čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs
+    Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau­
+    juosius Trakus, o ne Kęstutis. Lietuviai minėtus diržus vadina
+    Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
+    daikto pavadinimo, nes jį turėjo savo pačių kalboje.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219963
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Birutė]]

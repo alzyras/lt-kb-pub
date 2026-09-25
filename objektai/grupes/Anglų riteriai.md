@@ -76,7 +76,7 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

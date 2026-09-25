@@ -44,38 +44,6 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
 
 ## Teiginiai
 
-<a id="claim-t-60098"></a>
-- t-001
-  teiginys: "Burchardas iš Švandeno buvo iškilmingai išrinktas Teutonų ordino didžiuoju magistru."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teutonai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Burchardas iš Švandeno: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Teutonai: mention_match, group, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Burchardas iš Švandeno\" parinktas kaip owner_note_path. Targetas \"Teutonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-167434
-
-<a id="claim-t-60099"></a>
-- t-002
-  teiginys: "Burchardas iš Švandeno buvo devintas Teutonų ordino didysis magistras ir vėliau perėjo į hospitaljerų ordiną."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Burchardas iš Švandeno: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Burchardas iš Švandeno\" parinktas kaip owner_note_path. Targetas \"Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60730
-
 <a id="claim-t-194478"></a>
 - t-003
   teiginys: "Apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino didysis magistras."
@@ -87,6 +55,30 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-60730
+
+<a id="claim-t-221906"></a>
+- t-221906
+  teiginys: "Burchardas iš Švandeno buvo išrinktas Teutonų ordino didžiuoju magistru."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205553
+
+<a id="claim-t-223045"></a>
+- t-223045
+  teiginys: "Burchardas iš Švandeno buvo devintasis Teutonų namų ordino didysis magistras."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202737
 
 ## Citatos
 
@@ -113,8 +105,7 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
     - t-003
 
 - id: c-167434
@@ -141,5 +132,40 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-202737
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 238-239"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238-239."
+  citata_originali: |
+    Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino
+    didysis magistras. Nežinau, kas jį bus paskatinęs, bet tuo metu, kai turėjo patraukti ginti
+
+    šventosios žemės, jis, pasiprašęs leidimo ir jį gavęs, nusivilko Teutonų ordino apsiaustą
+    ir apsivilko hospitaljerų ordino abitą, kuriuo vilkėdamas vėliau ir mirė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223045
+
+- id: c-205553
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
+  citata_originali: |
+    kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o
+    grįždamas namo, kelyje ir pasimirė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221906

@@ -70,5 +70,20 @@ Dusburgietis teigia, kad grunau S.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-205255
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 263"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 263."
+  citata_originali: |
+    Grunau S. Preussische Chronik / Herausgegeben von M. Perlbach.— Bd. 1.— Leipzig,
+    1875.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

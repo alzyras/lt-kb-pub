@@ -119,5 +119,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199348
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
+  citata_originali: |
+    Ten dirbęs žmogus, išmušęs keletą
+    sluoksnių plytų, aptiko kadaise įmūrytą cinkinę deivės Veneros
+    statulėlę, kurią nunešė kunigui vikanu Mingailai. Kunigas vika­
+    ras, skrupulas, nelaukdamas mano sugrįžimo, įsakė tą antiką
+    sudaužyti ir nucinkuoti prikaistuvus bei puodus. Ir įvyko taip,
+    jog to paminklo, kurį senovės lietuvis (vadinasi, tam Dievui mel­
+    dęsis) bandė išgelbėti nuo pražūties, mūsiškis bedievis Mingaila
+    nenorėjo net pėdsako palikti“. Tai apčiuopiamas įrodymas, jog
+    kadaise buvo deivės Mildos stabai, kuriuos lietuviai itin garbi­
+    no*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

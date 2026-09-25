@@ -262,7 +262,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-72865
@@ -281,7 +281,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-72866
@@ -305,7 +305,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167939
@@ -349,7 +349,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171215
@@ -372,7 +372,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184104
@@ -396,11 +396,12 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     meto Europos kraštuose, būdavo iš dalies svetimšaliai, iš dalies — iš jų
     prasimokę vietos meistrai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184832
@@ -416,7 +417,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-186723
@@ -438,8 +439,30 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-199554
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 407"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
+  citata_originali: |
+    Rašy­
+    tas ant storo, lygaus ir gražaus skudurinio popieriaus; antspau­
+    das prispaustas prie paties popieriaus ir visiškai ryškus. Ratu
+    einantis užrašas perskaitomas; kai dėl herbo įvedimo datos,
+    atrodo, įtikėtina, kad tai buvo 1325 metais, taigi dar stabmel­
+    dystės laikais; todėl pasitvirtina mūsų spėjimas, kad tai milži­
+    nas Alcis laikui bėgant virto šventuoju Kristupu. Antrame ant­
+    spaude, prispaustame šalia šito, skyde yra Vytis po karūna;
+    apačioje - Radvilų herbas Trimitai*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Radvilos užėmė [[objektai/vietos/Cholmas]]

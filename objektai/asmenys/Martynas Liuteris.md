@@ -130,7 +130,7 @@ canonical_biography: "1517 m. Martyno Liuterio (Martin Luther) pradėta reformac
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -150,5 +150,5 @@ canonical_biography: "1517 m. Martyno Liuterio (Martin Luther) pradėta reformac
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

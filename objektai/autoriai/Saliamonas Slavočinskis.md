@@ -105,6 +105,6 @@ Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m. ir siejamos su lietuvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

@@ -60,5 +60,5 @@ Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

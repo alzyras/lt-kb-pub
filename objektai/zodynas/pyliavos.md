@@ -136,7 +136,7 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-24949
@@ -157,7 +157,7 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-95104
@@ -187,6 +187,6 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004

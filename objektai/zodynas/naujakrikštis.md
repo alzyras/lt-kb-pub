@@ -81,7 +81,7 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-69302
@@ -103,6 +103,30 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   statusas: verified
   atnaujinta: "2026-07-12 22:31"
 
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203681
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 172"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 172."
+  citata_originali: |
+    Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei
+    libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis
+    turi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę papročiai; vis
+    dėlto, paisydami jų nuopelnų ar nusižengimų, broliai gali ir kitaip elgtis, pavyzdžiui, negi
+    nekilmingasis, atskalūnybės metais ar kitokių tikėjimui iškilusių negandų atvejais likęs
+    ištikimas tikėjimui ir broliams, nėra taip didžiai nusipelnęs, kad iš nekilmingųjų būtų
+    pakeltas į garbingus kilminguosius, o vergovė jam pakeista pelnyta laisve? Žinoma, kad
+    taip. Priešingais atvejais broliai irgi tinkamai elgėsi. Dėl to Prūsijoje daug naujakrikščių,
+    kurių protėviai gimę iš kilmingų šeimų, tačiau jie patys dėl nusikaltimų, padarytų tikėjimui
+    bei tikintiesiems, buvo palaikyti prastos kilmės žmonėmis, tuo tarpu kiti, kurių tėvai
+    buvę nekilmingi, pelnė laisvę už ištikimą tarnybą tikėjimui ir broliams518.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

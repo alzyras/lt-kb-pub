@@ -45,26 +45,6 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 
 ## Teiginiai
 
-<a id="claim-t-58596"></a>
-- t-001
-  teiginys: "1283 m. Teutonų ordino broliai įkūrė Mevės pilį prie Vyslos, perkėlę Poterbergo pilį iš Kulmo žemės."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Mevė: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Mevė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Teutonų ordino broliai įkūrė Mevės pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Teutonai pastatė Mevė (0.89)"
-  temporaliniai_duomenys: "įkūrimo data: 1283 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai nurodo Mevės pilies įkūrimą, datą ir vietą."
-  pagrindžia:
-    - c-59229
-
 <a id="claim-t-58597"></a>
 - t-002
   teiginys: "Mevė, vėliau vadinta Mewe, yra dabartinis Gnevas kairiajame Vyslos krante."
@@ -99,7 +79,7 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59229
@@ -126,5 +106,18 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-201926
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
+  citata_originali: |
+    508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew),
+    pilis kair. Vyslos krante, statyta 1283 m. pradžioje (Ewald A.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -94,5 +94,5 @@ Buvo imtasi statydinti naujiems gy nėjams būstą su įtvirtinimais jų pasirin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

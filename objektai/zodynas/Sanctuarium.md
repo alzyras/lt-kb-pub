@@ -66,5 +66,5 @@ Pats miestelis dali­ jamas į aukštutinį ir žemutinį: pirmajame stovi aukš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

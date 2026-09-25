@@ -66,9 +66,10 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
     kos. Antrasai pulkas aptaisytas, kas ką turėjo; o trečiasai - sodiečių, beveik visų vyzoty,
     dalgėm apginkluotų.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

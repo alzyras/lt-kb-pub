@@ -70,5 +70,5 @@ canonical_biography: "Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

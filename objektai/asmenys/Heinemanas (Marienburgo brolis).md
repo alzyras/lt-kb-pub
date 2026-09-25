@@ -56,6 +56,35 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   pagrindžia:
     - c-60935
 
+<a id="claim-t-223029"></a>
+- t-223029
+  teiginys: "Marienburgo pilyje gyvenęs brolis Heinemanas užsikrėtė raupsais ir mirė tą pačią dieną, kai sužinojo apie brolio Fridricho mirtį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Marienburgas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heinemanas (Marienburgo brolis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Heinemanas gyveno Marienburgo pilyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Heinemanas (Marienburgo brolis) gyveno Marienburgas (0.93)"
+  pagrindžia:
+    - c-202250
+
+<a id="claim-t-225354"></a>
+- t-225354
+  teiginys: "Heinemanas gyveno Marienburgo pilyje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202250
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Marienburgo pilyje gyvenęs brolis Heinemanas užsikrėtė raupsais ir mirė tą pačią dieną, kai sužinojo apie brolio Fridricho mirtį.'
@@ -103,8 +132,28 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-202250
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
+  citata_originali: |
+    Tuo metu Marienburgo pilyje gyveno brolis Heinemanas ir brolis Fridrichas, kuriuodu
+    vienas kitą taip mylėjo, kad vienas be kito nenorėjo ne tik gyventi, bet ir mirti. Ilgainiui
+    brolis Heinemanas užsikrėtė raupsais, o netrukus brolis Fridrichas nukrito nuo žirgo
+    ir užsimušė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223029
+    - t-225354
 
 ## Ryšiai
 - Heinemanas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]

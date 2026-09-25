@@ -68,5 +68,5 @@ Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

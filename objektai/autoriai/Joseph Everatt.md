@@ -69,5 +69,5 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

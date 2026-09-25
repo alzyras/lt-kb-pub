@@ -93,7 +93,7 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-34017
@@ -114,7 +114,7 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

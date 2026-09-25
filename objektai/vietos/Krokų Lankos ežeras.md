@@ -65,5 +65,5 @@ Norint nuvesti Memelį iš Krokų Lankos ežero iki Klai pėdos tiesiai į šiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

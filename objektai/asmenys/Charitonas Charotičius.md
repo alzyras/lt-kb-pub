@@ -74,5 +74,5 @@ canonical_biography: "21 Patvirtinimas Vilniaus burmistrui Charitonui Charotiči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -127,7 +127,7 @@ Kojelavičiaus pasakojime Algirdas viešai laikėsi stabmeldžių apeigų, bet J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168756
@@ -155,5 +155,5 @@ Kojelavičiaus pasakojime Algirdas viešai laikėsi stabmeldžių apeigų, bet J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

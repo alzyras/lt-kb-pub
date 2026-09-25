@@ -68,5 +68,5 @@ Narbutas teigia, kad švedų karalius Gotbrodas maždaug to paties amžiaus paba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

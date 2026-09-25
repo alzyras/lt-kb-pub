@@ -332,6 +332,64 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   pagrindžia:
     - c-184378
 
+<a id="claim-t-220936"></a>
+- t-220936
+  teiginys: "Skomantas vadovavo sūduvių ir lietuvių kariuomenei 1277 m. žygyje iki Kristburgo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203101
+
+<a id="claim-t-223210"></a>
+- t-223210
+  teiginys: "Todėl jis tarė Skomantui: „Negi tam čia mane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu drįsti, atsikeršyk už tau daromas nuoskaudas, o aš tau padėsiu“."
+  atnaujinta: "2026-09-19 12:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204077
+
+<a id="claim-t-223807"></a>
+- t-223807
+  teiginys: "Skomantas kartu su sūduviais įsibrovė į Kulmo žemę."
+  atnaujinta: "2026-09-19 12:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204077
+
+<a id="claim-t-224227"></a>
+- t-224227
+  teiginys: "Skomantas vadovavo sūduvių kariuomenei, kuri įsiveržė į Kulmo žemę."
+  atnaujinta: "2026-09-19 12:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-225470"></a>
+- t-225470
+  teiginys: "Skomantas su sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203372
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ordino magistras Mangoldas per žygį į Kresmenos valsčių sudegino Skomanto sodybą.'
@@ -493,7 +551,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-60457
@@ -516,7 +574,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-60458
@@ -535,7 +593,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-60459
@@ -558,7 +616,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-014
 
@@ -590,7 +648,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-60461
@@ -614,7 +672,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-60462
@@ -638,7 +696,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60463
@@ -657,7 +715,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-60464
@@ -679,7 +737,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168188
@@ -710,7 +768,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-168189
@@ -743,7 +801,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-168190
@@ -768,7 +826,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
     - t-015
 
@@ -795,7 +853,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-184378
@@ -820,8 +878,101 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
+
+- id: c-195511
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
+  citata_originali: |
+    Tačiau negalime su­
+    tikti su mokslininku Heningu, kuris daro prielaidą, kad
+    visi sūduviai yra buvę jotvingiai, nes kitur esama negin­
+    čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
+    vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
+    Tačiau ne tas Skomantas, kurį lenkų istorikai vadina Ko­
+    modų, vadovavęs 1264 metų birželio 23 dienos mūšyje ir,
+    anot jų, žuvęs, turėjo vadovauti prūsų sukilimui, o 1282
+    ar 1283 metais grįžęs iš Lietuvos, kur buvo pabėgęs, ap­
+    sikrikštijo ir pagaliau davė savo vardą vienam ežerui,
+    esančiam netoli Ario miesto. Veikiau reikėtų daryti išva­
+    dą, jog buvę keli šios Skomantų giminės kariūnai1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203101
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
+  citata_originali: |
+    Tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl
+    bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga
+    sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo
+    (III, 192).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220936
+
+- id: c-203372
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
+  citata_originali: |
+    Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas
+    siaubė Kulmo žemę, plėšdamas ir degindamas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225470
+
+- id: c-204077
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 144-145"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144-145."
+  citata_originali: |
+    Apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį
+
+      Po to Skomantas442, įsibrovęs su sūduviais  į Kulmo žemę, padalijo savo kariuomenę
+      439  Sūduviai puolė tarp 1263 m. balandžio pradžios  ir 1264 m. sausio mėn, D.
+    III, 161 aprašomas prūsų antpuolis įvyko 1263 m. balandžio—birželio mėn. Aprašomi
+    įvykiai, galimas daiktas, rodo sūduvių ir prūsų karinį bendradarbiavimą (Powierski J.,
+    Dobra.., p. 77—78).
+      440 Dab. Liubava (Lóbau, Lubawa), gyvenvietė į rytus nuo Drevantos aukštupio.
+      441 D.— Straisbergk; vėliau — Strasburg, dab. Brodnica prie Drevantos (SZCh, p.
+    12).
+      442 D.— Scumandus, Jer.— Skomant; jotvingių Skomant(a)s arba Skomand(a)
+    s. Asmenvardis giminingas vietovardžiams Skomantai, Klaipėdos rj. (Gerullis G., Zur
+    Sprache.., p. 48; Būga К., 2, p. 100—101; 3, p. 140—141), Skuomantai (kaimas prie
+    Rokiškio, su tarminiu senesnio o virtimu uo).
+
+    į dvi dalis, kurių viena patraukė prieš Torunę, o kita prieš Kulmo miestą, žudydamos,
+    imdamos į nelaisvę ir degindamos visa, ką sutikdavo pakelėje.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223210
+    - t-223807
 
 ## Ryšiai
 - Skomantas puolė [[objektai/vietos/Kulmas]]

@@ -114,6 +114,76 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
   pagrindžia:
     - c-187724
 
+<a id="claim-t-212976"></a>
+- t-212976
+  teiginys: "Naruševičius rašo.; „Ar būta litianų (Lithuani), tarnavusių su Atilos ženklais, jokių žinių nė ra, nes tai visiškai nenustatyta. Paminėję, kad jų būta, istorikai visiškai nutyli, iš kur jie kilę“1."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196428
+
+<a id="claim-t-213422"></a>
+- t-213422
+  teiginys: "Narbutas nurodo, kad Naruševičius kartu su Bajeriu aptiko gelonų-budinų buvimo pėdsakų Sniatyno apylinkėse."
+  atnaujinta: "2026-09-19 21:15"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-213997"></a>
+- t-213997
+  teiginys: "161 krikščioniško sios eros metais, pasak Naruševičiaus tyrimų1, gotai su savo karaliumi Filimeru, pereidami iš Germanijos į Sarmatiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo met ribojo senovės geografų taip pavadintus kraštus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194511
+
+<a id="claim-t-214774"></a>
+- t-214774
+  teiginys: "Nors autorius ir ne vienas pats stojo Lietuvos istorijos tyrinėjimų srityje (kaip jis nori tvir tinti įžangos pradžioje), nes po Strijkovskio ir po Kojalavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženk liai atnaujinę jos pėdsakus, vis dėlto jo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195827
+
+<a id="claim-t-216602"></a>
+- t-216602
+  teiginys: "Kaip mano Naruševičius', slavai taip pat žinojo panašią ugnį, vadintą Zwicz."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198370
+
+<a id="claim-t-216696"></a>
+- t-216696
+  teiginys: "Mat, pasak Naruševičiaus , Henilą garbino serbai ir kitos slavų tautos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200018
+
 ## Citatos
 
 - id: c-174469
@@ -139,7 +209,7 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174470
@@ -164,7 +234,7 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -186,5 +256,126 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-194511
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
+  citata_originali: |
+    161 krikščioniško­
+    sios eros metais, pasak Naruševičiaus tyrimų1, gotai su
+    savo karaliumi Filimeru, pereidami iš Germanijos į Sar-
+    matiją, tiltu kėlėsi per Vyslos žemupį, nes ši upė tuo­
+    met ribojo senovės geografų taip pavadintus kraštus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213997
+
+- id: c-195516
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
+  citata_originali: |
+    Tai, be
+    abejonės, yra Pripetė ir Nemunas, nors kai kurie tyrinė­
+    tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
+    nės sutampa. Sis geografas pastarosios aukštupyje kuo
+    aiškiausiai apgyvendina gelonų tautą2. Naruševičius taip
+    pat patvirtina tai daugelyje savo darbų3. Pats Ptolemėjas,
+    kuris šį sykį mini toje žemėje gyvenančią igelonų tautą,
+    1 Zelva — lietuviškas pavadinimas — taip pat kartojasi ne
+    vienoje vietoje. Mes nesigilinsime į upių pavadinimų etimologinį ty­
+    rimą, nes tai mus nuvestų toli nuo pageidaujamo trumpumo; tai pa­
+    liekame lietuvių kalbos ir jos ištakų tyrinėtojams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195827
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 447"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 447."
+  citata_originali: |
+    Nors autorius ir ne vienas pats stojo
+    Lietuvos istorijos tyrinėjimų srityje (kaip jis nori tvir­
+    tinti įžangos pradžioje), nes po Strijkovskio ir po Koja-
+    lavičiaus Naruševičiaus, Bogušas ir kiti jau yra gana ženk­
+    liai atnaujinę jos pėdsakus, vis dėlto jo nuopelnas vi­
+    suomet bus labai didelis, nes jis į vieną vietą surinko apie
+    Lietuvą tas žinias, kurios buvo išbarstytos po įvairias len­
+    kų, rusų ir vokiečių kronikas, taip pat skambėjo įvairiuose
+    to krašto padavimuose
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214774
+
+- id: c-196428
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
+  citata_originali: |
+    Naruševičius rašo.; „Ar būta litianų
+    (Lithuani), tarnavusių su Atilos ženklais, jokių žinių nė­
+    ra, nes tai visiškai nenustatyta. Paminėję, kad jų būta,
+    istorikai visiškai nutyli, iš kur jie kilę“1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212976
+
+- id: c-198370
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 225"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 225."
+  citata_originali: |
+    Kaip mano Naruševičius', slavai taip pat žinojo panašią
+    ugnį, vadintą Zwicz.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216602
+
+- id: c-200018
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 172"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 172."
+  citata_originali: |
+    Mat, pasak Naruševičiaus , He-
+    nilą garbino serbai ir kitos slavų tautos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216696

@@ -214,7 +214,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-79044
@@ -242,7 +242,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-006
 
@@ -275,7 +275,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-008
 
@@ -300,7 +300,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-79048
@@ -329,7 +329,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-79049
@@ -354,5 +354,5 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005

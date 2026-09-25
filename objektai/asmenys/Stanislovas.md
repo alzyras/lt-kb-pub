@@ -112,6 +112,18 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
   pagrindžia:
     - c-169379
 
+<a id="claim-t-210991"></a>
+- t-210991
+  teiginys: "Stanislovas vedė Riazanės kunigaikščio Ivano dukterį Olgą ir tapo Riazanės didžiuoju kunigaikščiu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193685
+
 ## Citatos
 
 - id: c-169378
@@ -144,7 +156,7 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -168,6 +180,24 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
+
+- id: c-193685
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 65."
+  citata_originali: |
+    Ir kunigaikštis Stanislovas persikėlė pas jį, vedė jo
+    dukterį ir po jo mirties tapo Riazanės didžiuoju ku­
+    nigaikščiu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210991

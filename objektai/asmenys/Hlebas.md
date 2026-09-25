@@ -101,7 +101,7 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-32739
@@ -125,5 +125,5 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -70,5 +70,26 @@ Narbutas Lėlių ir Lėlę laikė dvyniais, pamirštos deivės vaikais, kuriuos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198585
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
+  citata_originali: |
+    Visa tai paaiškina dar mažai ištirtus Siaurės mitologijos mi­
+    tus. Iš lietuvių mitologijos tyrimų pastebima, kad Lėlius (Lelus)
+    ir Lėlė (Lela) - tai dvyniai: brolis ir sesuo, vyras ir žmona, kaž­
+    kokios deivės, kurios vardas pamirštas, vaikai; darau išvadą, kad
+    tai buvo Lada (Lado), atitinkanti graikų Latoną, o jos vaikai -
+    Apoloną ir Dianą, o slavų mitologijoje - Lėlių ir Polėlių. Šie
+    mitai jokiu būdu netaikomi Ledos dvyniams Kastorui ir Poliuk-
+    sui, kaip tai mėginta įrodyti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

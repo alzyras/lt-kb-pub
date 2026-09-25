@@ -102,7 +102,7 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167107
@@ -124,5 +124,5 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

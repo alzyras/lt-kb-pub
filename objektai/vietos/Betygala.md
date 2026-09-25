@@ -65,15 +65,6 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
 
 ## Teiginiai
 
-<a id="claim-t-179756"></a>
-- t-001
-  teiginys: "Vytautas Žemaitijoje pastatė bažnyčią Betygaloje."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-163415
-
 <a id="claim-t-179758"></a>
 - t-002
   teiginys: "Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje."
@@ -169,6 +160,19 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   pagrindžia:
     - c-171565
 
+<a id="claim-t-208213"></a>
+- t-208213
+  teiginys: "Betygalos valdoje buvo nušautas vietos valstietis."
+  atnaujinta: "2026-09-20 06:04"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-190847
+
 ## Citatos
 
 - id: c-43341
@@ -187,7 +191,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-163415
@@ -214,8 +218,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-004
 
 - id: c-163416
@@ -238,7 +241,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -263,6 +266,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-171565
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -284,5 +288,53 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-190847
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 214"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 214."
+  citata_originali: |
+    Bet tokia bausmė šiuo
+    atveju rėmėsi T L S X I skyriaus 27 straipsnyje užfiksuota nuostata, jog už nusikal­
+    timus prieš moterį skiriama dvigubo dydžio bausmė ir bauda88. Tuo tarpu pusės
+    metų kalėjimo žemutiniame bokšte bausmės paprastai buvo skirtos asmenims,
+    kurie nesugebėjo įrodyti baudžiamojo pobūdžio kaltinimo89. Vienoje byloje
+    tokios bausmės buvo skirtos net dvylikai asmenų - Kauno žemės teismo teisė-
+    jienei Elžbietai Meištavičienei {Elżbieta M eysztowiczowi), jos sūnui ir dešimčiai
+    pagalbininkų, kurie, ieškodami pabėgusių valstiečių, svetimoje Betygalos valdoje
+    nušovė vietos valstietį (greičiausiai šiuo atveju teismas rėmėsi T L S X I skyriaus
+    2 straipsniu, kuris numatė 24 savaičių kalėjimo žemutiniame bokšte bausmę už
+    bajoro valdos užpuolimą bei tuo metu įvykdytą asmens sužeidimą)90.
+  citata_rodoma: "Vienoje byloje \ntokios bausmės buvo skirtos net dvylikai asmenų - Kauno žemės teismo teisė- \njienei Elžbietai Meištavičienei {Elżbieta M eysztowiczowi), jos sūnui ir dešimčiai \npagalbininkų, kurie, ieškodami pabėgusių valstiečių, svetimoje Betygalos valdoje \nnušovė vietos valstietį (greičiausiai šiuo atveju teismas rėmėsi T L S X I skyriaus \n2 straipsniu, kuris numatė 24 savaičių kalėjimo žemutiniame bokšte bausmę už \nbajoro valdos užpuolimą bei tuo metu įvykdytą asmens sužeidimą)90."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208213
+
+- id: c-200859
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 220"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
+  citata_originali: |
+    Plaukdami tolyn,
+    jie pateko į neaprėpiamus miškus ir, susidūrę su daugybe kliū­
+    čių, trukdančių toliau keliauti, kalbėjo: E-ira galas, nėra ga­
+    lo; toji vieta buvo praminta Eiriogala (Ariogala), o miestelis
+    iki šiol tebesivadina tokiu vardu. Siek tiek pasistūmėję upe
+    aukštyn, jie įsitikino, kad galima pasiekti užsibrėžtąjį tikslą,
+    ir uždainavo dainą, išreiškiančią džiaugsmą, kad jau kelio­
+    nės pabaiga: Bet ir galas, bet yra galas; iš to kilo Betygalos
+    (Betygola) pavadinimas. Šių keliautojų vadas vadinosi Nemu­
+    nas (Nemon).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

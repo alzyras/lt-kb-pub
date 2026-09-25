@@ -115,7 +115,7 @@ Smolensko sukilimo metu prastieji žmonės skambino varpu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-198575
@@ -134,7 +134,7 @@ Smolensko sukilimo metu prastieji žmonės skambino varpu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-199728
@@ -157,7 +157,7 @@ Smolensko sukilimo metu prastieji žmonės skambino varpu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-201123
@@ -179,5 +179,5 @@ Smolensko sukilimo metu prastieji žmonės skambino varpu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004

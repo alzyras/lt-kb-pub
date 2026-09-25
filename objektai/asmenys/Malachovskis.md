@@ -34,28 +34,6 @@ canonical_biography: "Narbutas nurodo, kad Malachovskis savo bajoriškų pavard�
 
 Narbutas nurodo, kad Malachovskis savo bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą, bet šaltinio neįvardijo.
 
-## Teiginiai
-
-<a id="claim-t-190233"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad Malachovskis savo bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą, bet šaltinio neįvardijo."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Herbas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Malachovskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Herbas: mention_match, thing, gap=97"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Malachovskis\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173116
-
 ## Citatos
 
 - id: c-173116
@@ -78,5 +56,3 @@ Narbutas nurodo, kad Malachovskis savo bajoriškų pavardžių rinkinyje pateik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

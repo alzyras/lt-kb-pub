@@ -110,7 +110,7 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178771
@@ -142,7 +142,7 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

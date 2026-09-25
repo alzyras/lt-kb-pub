@@ -76,5 +76,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200675
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 311"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 311."
+  citata_originali: |
+    Žyniai, kurie vadinosi Wejktime, latviškai - Wiktums, tu­
+    rintys atlikti aukojimą, rengdavosi jam. Henenbergerio liudi­
+    jimu, vaidila, atnašaujantis aukas Atrimpui, turėdavo rengtis
+    tris dienas pasninkaudamas ir gulėdamas ant plikos žemės.
+    Pasak to paties autoriaus, prieš aukos atnašavimą priešais sta­
+    bus būdavo smilkoma įvairiomis medžiagomis, nelygu koks
+    dievas. Pavyzdžiui, Atrimpui degindavo vašką ir smilkalus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

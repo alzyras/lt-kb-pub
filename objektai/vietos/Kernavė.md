@@ -443,6 +443,54 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   pagrindžia:
     - c-189117
 
+<a id="claim-t-207780"></a>
+- t-207780
+  teiginys: "Kernavėje ieškovas priminė atsakovui skolą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190400
+
+<a id="claim-t-211400"></a>
+- t-211400
+  teiginys: "Kernavė šaltiniuose pirmą kartą paminėta 1279 m."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194085
+
+<a id="claim-t-218183"></a>
+- t-218183
+  teiginys: "Ji taip pat turėjo jai skirtus savus aukurus įvairiose vietose, upės pakran tėse, pirmiausia vietovėje, vadintoje Kernave, kur buvo ir Neriškių miškas."
+  atnaujinta: "2026-09-19 05:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201159
+
+<a id="claim-t-219852"></a>
+- t-219852
+  teiginys: "Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199961
+
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: 'Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė.'
@@ -551,7 +599,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-157744
@@ -579,7 +627,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-007
 
@@ -601,7 +649,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-157748
@@ -642,7 +690,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-157750
@@ -662,7 +710,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-157751
@@ -684,7 +732,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-157754
@@ -707,7 +755,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-157755
@@ -731,7 +779,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-168343
@@ -762,7 +810,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-168345
@@ -792,7 +840,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-171609
@@ -821,7 +869,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-171610
@@ -849,7 +897,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
 
 - id: c-171611
@@ -870,7 +918,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-171612
@@ -892,7 +940,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-178845
@@ -925,7 +973,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-178846
@@ -966,7 +1014,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-184414
@@ -987,7 +1035,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-184415
@@ -1010,7 +1058,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-188038
@@ -1030,7 +1078,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-188391
@@ -1049,7 +1097,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-188392
@@ -1073,7 +1121,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-188393
@@ -1095,7 +1143,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-189117
@@ -1115,8 +1163,115 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
+
+- id: c-190400
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 230"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 230."
+  citata_originali: |
+    Tačiau ieškovas į teismą atvedė liudytoją, pono Dmitrijaus
+    urėdą Valentiną, kuris patvirtino, kad ieškovas jam tikrai skundėsi, esą kai jis, ieškovas,
+    priminė 80 grašių skolą, atsakovas jam pagrasinęs, sakydamas: „Žinok, kad aš tavo na-
+    muose padarysiu skylę". Be to, ieškovas atsivedė į teismą dar tris liudytojus bajorus,
+    kuriems girdint jam buvo grasinta. Visi trys liudytojai patvirtino, kad šeštadienį, po
+    Visų Šventų, jie buvę Kernavėje ir jiems girdint ieškovas Povilas priminė atsakovui An-
+    drejui 80 grašių skolą, o Andrejus atsakęs: „Aš tau už tuos pinigus jau atidirbau".
+  citata_rodoma: "šeštadienį, po\nVisų Šventų, jie buvę Kernavėje ir jiems girdint ieškovas Povilas priminė atsakovui An-\ndrejui 80 grašių skolą"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207780
+
+- id: c-194085
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 206"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 206."
+  citata_originali: |
+    Kernavė šaltiniuose pirmą kartą paminėta 1279 m. Livonijos
+    Eiliuotoje kronikoje ir vadinama „karaliaus Traidenio žeme".
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211400
+
+- id: c-199961
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  citata_originali: |
+    Lietuvių kunigaikščio Kerniaus, viešpatavusio Vidurio, ar­
+    ba Užnerio, Lietuvoje, kurios sostinė buvo Kernavė, duktė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219852
+
+- id: c-200923
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 269."
+  citata_originali: |
+    Taip pat ir žemesnės kate­
+    gorijos žyniai įsirengdavo laikinus arba pastovius aukurus miš­
+    kuose, po šventaisiais medžiais, upių, ežerų pakrantėse, vidu­
+    ry miestų turgaviečių ir ten prireikus atnašaudavo aukas.
+    Kol buvo įkurtas Vilnius, XIII amžiuje valstybės sostinė ir
+    vyriausiojo žynio buveinė buvo Kernavėje, todėl ten turėjo būti
+    ir vyriausioji šventykla.
+    Greitai augantis Vilnius turėjo ne vieną šventyklą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201159
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 150."
+  citata_originali: |
+    Te tavo Neris (a) apreiškia ir dievams,
+    Kurių valdžioje jūrų gelmės,
+    Mano kančias ir nenumaldomą gailestį.
+    Pasakyk, Vilijos upės skaisčiausioji deive,
+    Nimfoms - tavo sesėms, vandens dievybėms,
+    Kokia didi ugnis sudegino tavo blakstienas,
+    Kaip buvai beužtrokštanti nuo mirtinų dūmų,
+    Kaip tavo vandenys, bejėgiai užgesinti šį karštį,
+    Dejuodami skalavo miesto pelenus)
+    Autorius prideda tokius paaiškinimus: a) „Fama commu­
+    nis refert - žmonės pasakoja, kad Neris - tai upės Vilijos nim­
+    fa, kurią lietuviai stabmeldžiai garbino kaip deivę. Ji taip pat
+    turėjo jai skirtus savus aukurus įvairiose vietose, upės pakran­
+    tėse, pirmiausia vietovėje, vadintoje Kernave, kur buvo ir Ne-
+    riškių miškas.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218183
 
 ## Ryšiai
 - Užėmė Kernavę: [[objektai/grupes/Kryžiuočių ordinas]]

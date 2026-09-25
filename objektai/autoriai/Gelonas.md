@@ -79,5 +79,29 @@ Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195750
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 265."
+  citata_originali: |
+    Vėliau, laikui bėgant, sla­
+    vams ar kitoms tautoms spaudžiant iš rytų, jie buvo pri­
+    versti pasitraukti prie Narevo ir ten kartu su kitomis gi­
+    miningomis gentimis davė pradžią mūsų aptariamai Ga­
+    lindai. Šias prielaidas įrodo senovinių ir naujesnių lietu­
+    viškų pavardžių nagrinėjimas: Gelon2, Rapagelonask Ja-
+    geloti, Jagelto, Jagellowicz, taip pat ir topografinis šven­
+    tų upių tyrinėjimas, nes randame Rosės upę, įtekančią į
+    Narevą iš dešiniosios pakrantės, kurią galindai turėjo
+    pašventinti išsikėlę iš AMlkovysko Rosės. Tai atrodo dar
+    !
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -193,6 +193,40 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   pagrindžia:
     - c-189188
 
+<a id="claim-t-212539"></a>
+- t-212539
+  teiginys: "Vėliau Rusnės upė suskilo į daugelį šakų ir liko žemiau Rusnės salos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195319
+
+<a id="claim-t-214175"></a>
+- t-214175
+  teiginys: "Rusnės upė buvo dešinioji Nemuno vaga nuo Rusnės salos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195671
+
+<a id="claim-t-214273"></a>
+- t-214273
+  teiginys: "Prie Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rusnia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo mis."
+  atnaujinta: "2026-09-19 18:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas aiškino, kad lietuvių protėviai Rusnę, dešiniąją Nemuno atšaką, pagal religines apeigas pavertė penktąja šventąja upe.'
@@ -260,7 +294,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171717
@@ -284,7 +318,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175518
@@ -314,7 +348,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175519
@@ -339,7 +373,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184452
@@ -363,7 +397,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184453
@@ -396,7 +430,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184454
@@ -421,7 +455,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-187984
@@ -442,7 +476,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-189188
@@ -460,5 +494,70 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-195319
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 185"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 185."
+  citata_originali: |
+    patvinę marių vandenys užliejo naujus plotus nuo Kar­
+    vaičių ligi Klaipėdos, o suskilusi į daugelį šakų Rusnės
+    upė liko žemiau Rusnės salos
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212539
+
+- id: c-195671
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 180."
+  citata_originali: |
+    Mano nuomone, Rus­
+    nės upė, arba dešinioji Nemuno vaga, nuo Rusnės salos,
+    kur yra to paties pavadinimo teritorinis vienetas, suko į
+    dešinę
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214175
+
+- id: c-196281
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  citata_originali: |
+    Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2. Tačiau visų seniausia
+    jų gyvenvietė turėtų būti prie Nemuno vagos dešinės da­
+    lies, ligi šiol vadinamos Ruse arba slaviškai Rusne,
+    Rusnia.
+    *  *  *
+    VI skyrius
+    A P I E  R U S I Ą  IR R U S U  S*
+    219
+    Mūsų teiginys, kad senovės Lietuvos Rusios kraštas
+    egzistavo prie Nemuno žemupio1 * 3, — ¡panašiai vadinama ša­
+    ka, arba turi lietuvišką religinį Ros ės vardą, — kai kam
+    gali pasirodyti nauja suregzta išmone, kuri mažai susiju­
+    si su nagrinėjamu dalyku.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -140,7 +140,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177626
@@ -163,7 +163,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177627
@@ -179,7 +179,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177628
@@ -195,7 +195,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177629
@@ -215,5 +215,5 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

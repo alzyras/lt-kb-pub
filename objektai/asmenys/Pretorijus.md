@@ -320,7 +320,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172926
@@ -342,7 +342,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172927
@@ -365,7 +365,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173843
@@ -393,7 +393,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-173844
@@ -411,7 +411,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-173845
@@ -438,7 +438,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-173846
@@ -464,7 +464,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-177115
@@ -491,7 +491,7 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-179349
@@ -514,5 +514,93 @@ Narbutas rašo, kad Pretorijus Hartknocho studijų prierašuose Kreive arba Kriw
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-194951
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
+  citata_originali: |
+    Strijkovskis neabejotinai taiso šios vietos prieštaravimus
+    ar rašiusiojo klaidą, nes nurodo kimbrų pasitraukimo
+    epochą, vesdamas juos nuo Baltijos jūros pakrančių tie­
+    siai į Ilyriją, kur jie prie Nortbėjos pirmąsyk kariauja su
+    tenykščio prokonsulo Cyras-Karbo** vadovaujamais ro­
+    mėnais; tai įvyko 190 metais prieš Kristaus gimimą4. Iš
+    to išplaukia, kad buvo pastebėta Rozencveigo ar klaidin­
+    gai į egzempliorius, buvusius po ranka Hartknochui ir
+    Pretorijui, o gal ir Strijkovskiui, įrašyta data, tikriausiai
+    prieš skaičių 190 pridėtas vienas vienetas. Tos audros,
+    anot kronikose užrašytų padavimų, beveik be paliovos
+    truko 12 metų, nusiaubė Baltijos jūros vakarines pakran­
+    tes ir neatpažįstamai pakeitė jų vaizdą: pradingo netoli
+    1 Plutarchus; Sirabo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197331
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
+  citata_originali: |
+    2 Pas Hartknochą.
+    3 Rozencveigo kronika šiandien laikoma dingusia; čia iš jos pa­
+    teikti dalykai yra Pretorijaus veikale (Preussische Schaubühne, sive
+    Deliciae Prussiae). Rankraščio originalas saugomas Berlyno archyve.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197632
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 369-370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
+  citata_originali: |
+    Ne Sarkės, o Šar­
+    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
+    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
+    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
+    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
+    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
+    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
+
+    dos turėjo būti vadinama Cyse arba Sussa.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197975
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 430"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 430."
+  citata_originali: |
+    Tą
+    lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy­
+    nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša
+    atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne­
+    delsiant atvykti į valsčiaus susirinkimo vietą. Pretorijus, atpa­
+    sakodamas šią Dusburgiečio kronikos vietą, kur kalbama apie
+    žynio lazdą, vadina ją krivūle. Čia anksčiau nupieštą kreivą
+    lazdą Prūsijos lietuviai šitaip tebevadina, taigi krivis turėjo pa­
+    našią lazdą ir ji turėjo būti jo įsakomasis ženklas9 10.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

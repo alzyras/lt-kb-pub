@@ -61,5 +61,5 @@ Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir 1649 m. Jono
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -112,7 +112,7 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-78084
@@ -137,7 +137,7 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-78085
@@ -167,5 +167,5 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

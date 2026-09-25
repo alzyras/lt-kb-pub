@@ -71,5 +71,28 @@ Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195312
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
+  citata_originali: |
+    91
+    Tačiau, atsižvelgdami j didžiausią tikimybę, pasirin­
+    kime iš šio sąrašo kaimynines venedų tautas, nepriklau­
+    sančias lietuvių kartoms. Toliausiai į pietryčius gyveno
+    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
+    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
+    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
+    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
+    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
+    apie tai Karamzinas rašo savo tyrimuose3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

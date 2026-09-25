@@ -62,3 +62,41 @@ Zabluduvėje buvo įsteigta spaustuvė, o ten priglaustas pirmasis Maskvos spaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207637"></a>
+- t-001
+  teiginys: "Zabluduvėje buvo įsteigta spaustuvė, o ten priglaustas pirmasis Maskvos spaustuvininkas Ivanas Fiodorovas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190254
+
+## Citatos
+
+- id: c-190254
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 150"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 150."
+  citata_originali: |
+    Tai buvo reformacijos nulemtas įvykis. Po dešimtmečio
+    čia pasirodė įspūdingas leidybos kūrinys – Brastos Biblija. Vėliau Radvila Juodasis įkūrė
+    spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai:
+    jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fio-
+    dorovą, nulėmusį stačiatikišką jos pobūdį.
+  citata_rodoma: "jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fio-\ndorovą, nulėmusį stačiatikišką jos pobūdį."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

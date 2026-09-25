@@ -41,6 +41,25 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
   pagrindžia:
     - c-169702
 
+<a id="claim-t-186341"></a>
+- t-186341
+  teiginys: "Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyne -> Livonija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas Augustas ketino ginti Livoniją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169702
+
 ## Citatos
 
 - id: c-169702
@@ -79,5 +98,6 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-186341

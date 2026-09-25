@@ -74,5 +74,5 @@ Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Res
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

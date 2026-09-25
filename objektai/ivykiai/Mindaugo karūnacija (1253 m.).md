@@ -229,7 +229,7 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-16377
@@ -248,7 +248,7 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
 
@@ -291,7 +291,7 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
     - t-006
@@ -310,5 +310,5 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007

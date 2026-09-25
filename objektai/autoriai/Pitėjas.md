@@ -164,18 +164,6 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   pagrindžia:
     - c-179271
 
-<a id="claim-t-197634"></a>
-- t-007
-  teiginys: "Pitėjas gabenamas, nei kelio, kuriuo jį veždavo."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-174428
-
 <a id="claim-t-197635"></a>
 - t-008
   teiginys: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
@@ -254,9 +242,8 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-007
 
 - id: c-174429
   autorius: "Teodoras Narbutas"
@@ -275,7 +262,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174430
@@ -297,7 +284,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-174431
@@ -320,7 +307,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-008
 
@@ -348,7 +335,7 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-179271
@@ -372,5 +359,116 @@ Teodoro Narbuto pasakojime Pitėjas Masilietis žinojo gintarą ir jo savybes be
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-194745
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  citata_originali: |
+    Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
+    mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
+    Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
+    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
+    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
+    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
+    vintais jėzuitų aprašymais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194765
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
+  citata_originali: |
+    Matyt, priežastis yra ta, kad
+    tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
+    būtų sieti šį pavadinimą. Tik Tacitas, rašęs I mūsų eros
+    amžiaus pabaigoje, paminėjęs germanų gyvenamąsias vie­
+    tas, jų kartas ir papročius ir baigdamas savo aprašymus
+    galinga svebų tautos karta, kuri gyveno šiauriausiuose
+    germanų kraštuose, galop pereina prie Prūsijos pakran­
+    čių ir prisimena estus. 2inių apie šį pavadinimą jis tur­
+    būt turėjo iš germanų, kurie visuomet taip gotiškai vadi­
+    no šiuos kraštus ir žmones.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195236
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
+  citata_originali: |
+    Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
+    mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis,
+    gerai nustatęs išvykimo vietos, t. y. Masilijos uosto, geo­
+    grafinę padėtį, išplaukė į Atlanto vandenyną. Tai įvyko
+    praėjus 90 metų po H imi Ikaro kelionės, arba 340 metais
+    ¡prieš Kristaus gimimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196221
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
+  citata_originali: |
+    Ši kelionė
+    įvyko 340 metais prieš Kristaus gimimą; nuo tų laikų
+    net iki Tacito senovės autoriai niekur nemini Estijos, nors
+    kai kurie, kaip Diodoras Sicilietis, Melą ir net pats Pli-
+    nijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis
+    aprašymais, estų nemini. Matyt, priežastis yra ta, kad
+    tuomet nebuvo jokios tautos, su kuria tiesiogiai galima
+    būtų sieti šį pavadinimą. Tik Tacitas, rašęs I mūsų eros
+    amžiaus pabaigoje, paminėjęs germanų gyvenamąsias vie­
+    tas, jų kartas ir papročius ir baigdamas savo aprašymus
+    galinga svebų tautos karta, kuri gyveno šiauriausiuose
+    germanų kraštuose, galop pereina prie Prūsijos pakran­
+    čių ir prisimena estus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196514
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 156"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 156."
+  citata_originali: |
+    Plinijus paliko mums tokius šio keliautojo
+    aprašymų papildymus: „Pakrantėje, kuri vadinasi Mente-
+    nomonu ir plyti per 6000 stadijų, gyvena germanų gutonų
+    gentis. Per vieną plaukimo iš ten dieną yra Abalo sala,
+    į kurią pavasario audrų bangos išmeta gintaro, sumetė­
+    jusio jūros produkto. Gyventojai naudoja jį vietoj malkų
+    kurui arba parduoda kaimynams teutonams“2. Tos pačios
+    kelionės metu Pitėjas atrado šiaurinės Tanajo upės žiotis3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

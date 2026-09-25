@@ -121,7 +121,7 @@ Bychovco Lietuvos kronikoje apie tai irgi nieko nėkalbama. Lietuvos kronika bū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-187991
@@ -140,7 +140,7 @@ Bychovco Lietuvos kronikoje apie tai irgi nieko nėkalbama. Lietuvos kronika bū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188063
@@ -156,5 +156,5 @@ Bychovco Lietuvos kronikoje apie tai irgi nieko nėkalbama. Lietuvos kronika bū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

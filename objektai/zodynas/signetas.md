@@ -77,5 +77,5 @@ Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

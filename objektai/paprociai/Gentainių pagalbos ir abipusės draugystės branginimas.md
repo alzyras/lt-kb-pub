@@ -74,5 +74,5 @@ Narbutas teigia, kad pirmykštėje visuomenėje gentainių pagalba ir abipusė d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

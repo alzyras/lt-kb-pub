@@ -112,7 +112,7 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-35572
@@ -134,7 +134,7 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167607
@@ -155,5 +155,5 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

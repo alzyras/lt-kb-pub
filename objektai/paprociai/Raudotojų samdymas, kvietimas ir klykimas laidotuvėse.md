@@ -118,7 +118,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172751
@@ -139,7 +139,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-172752
@@ -165,5 +165,70 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-199315
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
+  citata_originali: |
+    Klajojanti, kenkianti vėlė arba vaiduoklis latviškai vadina­
+    mas Kehms, žemaitiškai - kernas (Kernas); apie juos visur dau­
+    gybė kalbų, ir pasakoja apie visokius kerus jiems nubaidyti ar
+    nuraminti.
+    Svarbiausias dalykas laidotuvėse buvo raudotojos; many­
+    ta, kad jos nuraminančios vėles. Sis paprotys žmonėse tebegy­
+    vuoja iki šiol, nepaisant tiekos politinių ir religinių permainų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201148
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
+  citata_originali: |
+    Nuostabus dalykas, kaip tos rau­
+    dotojos sugeba išreikšti didžiausią liūdesį, bet stebėtoją labiau­
+    siai stulbina jų linksmi ir pragiedrėję veidai tuo momentu, kai
+    jos liaujasi rėkusios - nueina nuo scenos kaip artistės, visiškai
+    nepaveiktos įspūdžių, kuriuos ką tik vaizdavo žiūrovams. Ne­
+    turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
+    jei ir nebūtų jokios giminaitės, kuri nors moteris iš dievobai­
+    mingumo turi paklykauti .
+    Seniau ašaras, išverktas per laidotuves, labai rūpestingai
+    surinkdavo į molinius dubenėlius; kai kada turėdavo stiklinių
+    indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
+    rusiojo kojų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201378
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
+  citata_originali: |
+    Sis paprotys žmonėse tebegy­
+    vuoja iki šiol, nepaisant tiekos politinių ir religinių permainų.
+    Raudotojos yra jaunos, stiprių plaučių moterys; kai kas nors
+    miršta, nuo to momento iki kūno nuleidimo į kapą jos be per­
+    stojo kuo garsiausiai ir kuo klaikiausiai klykia, kiek tik gali.
+    Jeigu mirusysis neturėjo tam tinkamos giminaitės, kviečiama
+    pirma pasitaikiusi kaimynė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

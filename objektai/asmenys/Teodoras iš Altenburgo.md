@@ -82,5 +82,5 @@ canonical_biography: "1315 m. gruodžio 7 d. Teodoras iš Altenburgo vadovavo kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

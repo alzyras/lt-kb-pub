@@ -131,6 +131,54 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   pagrindžia:
     - c-174802
 
+<a id="claim-t-212100"></a>
+- t-212100
+  teiginys: "Narbutas teigia, kad skitų tautos bruožų vaizdas susidaro iš Herodoto kūrinių."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195909
+
+<a id="claim-t-212224"></a>
+- t-212224
+  teiginys: "Narbutas nurodo, kad Herodoto istorijoje Skitijos geografija išdėstyta nepakankamai."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196095
+
+<a id="claim-t-213671"></a>
+- t-213671
+  teiginys: "Iš Herodoto žinome, kad budinai savo žemėje turėjo pastatę medines tvirtoves."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195792
+
+<a id="claim-t-214995"></a>
+- t-214995
+  teiginys: "Mes, sekdami Herodoto žodžiais ir remdamiesi se novės tyrinėtojų išvadomis, laikome kimbrus kitados Prū sijoje viešėjusia gentimi, net galėjusia palikti savo kal bos ir susigiminiavimo su pirmykščiais mūsų Baltijos jū ros pakrančių gyventojais paminklų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194896
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Teodoras Narbutas Herodoto pasakojime nurodė persų karaliaus kelią nuo Maetis ežero į žemyno gilumą.'
@@ -175,7 +223,7 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174572
@@ -199,7 +247,7 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174573
@@ -222,7 +270,7 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-174802
@@ -247,6 +295,131 @@ Teodorui Narbutui Herodoto istorijoje svarbesnė atrodė Skitijos geografija, no
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-005
+
+- id: c-194896
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
+  citata_originali: |
+    Mes, sekdami Herodoto žodžiais ir remdamiesi se­
+    novės tyrinėtojų išvadomis, laikome kimbrus kitados Prū­
+    sijoje viešėjusia gentimi, net galėjusia palikti savo kal­
+    bos ir susigiminiavimo su pirmykščiais mūsų Baltijos jū­
+    ros pakrančių gyventojais paminklų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214995
+
+- id: c-195792
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 75"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 75."
+  citata_originali: |
+    Iš Herodoto žinome, kad budinai savo žemėje turėjo
+    pastatę medines tvirtoves. Viena jų buvo kvadratinė, kiek­
+    vienas jos šonas turėjo 30 stadijų, t. y. buvo 3000 rusiš­
+    kų sieksnių ilgio, ir vadinosi Gelonos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213671
+
+- id: c-195909
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
+  citata_originali: |
+    artimas energingam temperamentas. Toks skitų tautos
+    bruožų vaizdas susidaro iš Herodoto, kuris pats asme­
+    niškai keliavo su ta tautai, kūrinių1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212100
+
+- id: c-196095
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
+  citata_originali: |
+    Skitų įpročius, papročius ir religi­
+    ją iš dalies aprašė Herodotas, bet tai nelabai reikalinga
+    mūsų dalykui. Įdomesnė atrodo Skitijos geografija, nors
+    Herodoto
+    istorijoje
+    ji
+    nepakankamai
+    išdėstyta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212224
+
+- id: c-196989
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
+  citata_originali: |
+    Taip Darijus buvo
+    priverstas greitai pereiti visą Skitiją, persikelti per to­
+    kias dideles upes kaip Dnestras, Būgas, Dnepras ir Done-
+    cas. Antra vertus, persų karalius, pasak Herodoto, savo
+    dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­
+    čio tarytum padėjo skitams įgyvendinti jų ketinimus. Jo
+    brolis Artabanas veltui stengėsi įrodyti, kad nenaudinga
+    aukoti septynissyk šimtatūkstantinę armiją nepažįstamam,
+    visiškai nusiaubtam ir sausringam kraštui, kur visko la­
+    bai stigo, o tai buvo pavojingiau negu priešo ginklai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197261
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 59"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 59."
+  citata_originali: |
+    Manoma, kad šis pavadinimas atsirado ne iš
+    itin gausios tautos, turėjusios tokį vardą, tačiau istoriš­
+    kai pirmykštė jos kilmė taip ir nenustatyta. Herodotas,
+    pats tiksliausias iš senovės rašytojų, palikęs tiek daug
+    pasaulio istoriją dominančių smulkmenų, sarmatams ski­
+    ria pusiau pasakiškas ištakas, neva jie yra neteisėto guo­
+    lio vaikai, gimę iš amazonių ir skitų. Tačiau tai nepaaiš­
+    kina šios genties istorijos, o tik rodo, kad ji esanti pu­
+    siau skitų kilmės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -871,6 +871,67 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   pagrindžia:
     - c-188999
 
+<a id="claim-t-207461"></a>
+- t-207461
+  teiginys: "Alfredo Bumblausko pasakojime Jogaila pavedė savo broliui Skirgailai susidoroti su Kęstučiu."
+  atnaujinta: "2026-09-19 02:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-190058
+
+<a id="claim-t-210843"></a>
+- t-210843
+  teiginys: "Ta da kunigaikštis Skirgaila davė žodi mano tėvui kuni gaikščio Jogailos vardu ir davė jam savo ranką, ir savo vardu taip pat davė žodį ir savo ranką."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194041
+
+<a id="claim-t-210894"></a>
+- t-210894
+  teiginys: "Kunigaikštis Skirgaila labai mane apšmeižė kuni gaikščiui Jogailai ir laiškus siuntė [?]."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193944
+
+<a id="claim-t-210949"></a>
+- t-210949
+  teiginys: "Skirgaila yra rusų 181 tikėjimo3, kurio ir šiandien laikosi."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194229
+
+<a id="claim-t-215364"></a>
+- t-215364
+  teiginys: "Šiuo periodu Lietuva pasiekė di džiausios savo galybės laikotarpį, ypač valdant Vytautui, kuris sostą paveldėjo iš Skirgailos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196824
+
 ## Reikšmingi paminėjimai
 - c-031
   santrauka: 'Narbutas rašė, kad 1386-1447 m. Lietuva pasiekė didžiausią galybę, ypač valdant Vytautui, sostą paveldėjusiam iš Skirgailos.'
@@ -948,7 +1009,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-30281
@@ -969,7 +1030,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-36502
@@ -987,7 +1048,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-028
 
 - id: c-36503
@@ -1008,7 +1069,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-025
 
 - id: c-36504
@@ -1028,7 +1089,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-031
 
 - id: c-163314
@@ -1059,7 +1120,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-024
 
@@ -1083,11 +1144,12 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo
     kariais.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-032
 
@@ -1116,7 +1178,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-013
     - t-026
 
@@ -1143,7 +1205,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-033
 
 - id: c-163320
@@ -1169,7 +1231,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-035
 
 - id: c-163321
@@ -1190,7 +1252,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-029
     - t-030
 
@@ -1214,7 +1276,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-163324
@@ -1243,7 +1305,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-163325
@@ -1270,7 +1332,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-163327
@@ -1300,7 +1362,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-008
 
@@ -1326,7 +1388,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
     - t-023
 
@@ -1351,7 +1413,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-019
 
@@ -1373,7 +1435,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-163336
@@ -1394,7 +1456,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-015
 
 - id: c-163337
@@ -1422,7 +1484,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-163338
@@ -1453,7 +1515,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-034
 
 - id: c-163339
@@ -1475,7 +1537,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-027
 
 - id: c-163340
@@ -1504,7 +1566,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-163341
@@ -1526,7 +1588,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-163342
@@ -1546,7 +1608,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-163343
@@ -1569,7 +1631,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-163344
@@ -1592,7 +1654,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-163346
@@ -1617,7 +1679,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-167746
@@ -1636,7 +1698,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-036
 
 - id: c-171506
@@ -1658,7 +1720,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-037
 
 - id: c-173853
@@ -1677,7 +1739,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-038
 
 - id: c-176604
@@ -1704,7 +1766,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-039
 
 - id: c-188991
@@ -1725,7 +1787,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-040
 
 - id: c-188992
@@ -1742,7 +1804,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-041
 
 - id: c-188993
@@ -1759,7 +1821,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-042
 
 - id: c-188994
@@ -1777,7 +1839,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-043
 
 - id: c-188996
@@ -1794,7 +1856,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-044
 
 - id: c-188997
@@ -1813,7 +1875,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-045
 
 - id: c-188998
@@ -1832,7 +1894,7 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-046
 
 - id: c-188999
@@ -1853,8 +1915,131 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-047
+
+- id: c-190058
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 56"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 56."
+  citata_originali: |
+    Net Palangą su Birutės kalnu Vytautas vienu metu buvo linkęs atiduoti
+    Vokiečių ordinui, ir jį nuo tokio žingsnio sustabdė Jogaila. Taigi Vytautas buvo azartiškas
+    žaidėjas, neriantis į sudėtingą situaciją, pasiektas tikslas jam – priemonė naujam tikslui.
+    Jogaila tokiose situacijose sugebėdavo likti nuošalyje (su Kęstučiu susidorojo ne pats, o
+    pavedė tai broliui Skirgailai).
+  citata_rodoma: "Jogaila tokiose situacijose sugebėdavo likti nuošalyje (su Kęstučiu susidorojo ne pats, o \npavedė tai broliui Skirgailai)."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207461
+
+- id: c-193944
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 175-176"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 175-176."
+  citata_originali: |
+    Kunigaikštis Skirgaila labai mane apšmeižė kuni­
+    gaikščiui Jogailai ir laiškus siuntė [?]. Tai jis prie ma­
+
+    nęs išsiųsdavo laiškus, tai prie manęs kalbėdavo, kad
+    aš girdėčiau.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210894
+
+- id: c-194041
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 174"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 174."
+  citata_originali: |
+    Ta­
+    da kunigaikštis Skirgaila davė žodi mano tėvui kuni­
+    gaikščio Jogailos vardu ir davė jam savo ranką, ir savo
+    vardu taip pat davė žodį ir savo ranką. Ir man pačiam
+    jis taip pat davė žodį kunigaikščio Jogailos vardu ir
+    savo vardu, ir [davėj savo ranką.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210843
+
+- id: c-194229
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 174-175"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 174-175."
+  citata_originali: |
+    Ogi Skir­
+    gaila nėra mūsų2 krikščionių tikėjimo, jis yra rusų
+    181
+
+    tikėjimo3, kurio ir šiandien laikosi. Tačiau jie vertė ir
+    mane priimti rusų tikėjimų, kad pasidaryčiau visų žmo­
+    nių nekenčiamas4
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210949
+
+- id: c-196824
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 518"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 518."
+  citata_originali: |
+    IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo
+    turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­
+    džiausios savo galybės laikotarpį, ypač valdant Vytautui, kuris
+    sostą paveldėjo iš Skirgailos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215364
+
+- id: c-201462
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
+  citata_originali: |
+    Si epocha baigėsi 1386 metais, tai yra visiškai
+    įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
+    lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat
+    daryti visą tautą.
+    IV 1386-1447 metai, tai yra iki to laikotarpio, kai Lietuva
+    nustojo turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pa­
+    siekė didžiausios savo galybės laikotarpį, ypač valdant Vytautui,
+    kuris sostą paveldėjo iš Skirgailos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vladislovas Jogaila]]

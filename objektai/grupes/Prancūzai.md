@@ -185,7 +185,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-78180
@@ -214,7 +214,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-78185
@@ -236,11 +236,12 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
     esanti pagonių šalis.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-78187
@@ -263,7 +264,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167276
@@ -284,8 +285,28 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-204069
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 225"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
+  citata_originali: |
+    Apie Konstantinopolio miesto užėmimą
+
+      1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog
+    niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai,
+    įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
+    apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
+    lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Flandrai]]

@@ -88,7 +88,7 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44556
@@ -111,5 +111,5 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

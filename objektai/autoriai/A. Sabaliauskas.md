@@ -109,7 +109,7 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177611
@@ -127,7 +127,7 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177612
@@ -160,5 +160,5 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

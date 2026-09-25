@@ -75,5 +75,5 @@ Algirdas dėl didelių gabumų iškėlė Vaidilą iš kepėjo sūnaus iki rūmų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

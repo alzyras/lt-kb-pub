@@ -67,5 +67,5 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

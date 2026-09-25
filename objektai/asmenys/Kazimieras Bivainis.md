@@ -74,5 +74,5 @@ canonical_biography: "1722 m. Kazimieras Bivainis vadovavo Jurgio Daukanto namo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

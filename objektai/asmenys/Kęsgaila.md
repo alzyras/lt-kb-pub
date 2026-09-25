@@ -53,18 +53,6 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
   pagrindžia:
     - c-38074
 
-<a id="claim-t-193945"></a>
-- t-002
-  teiginys: "Ir jų dar nebuvo suvažiavusių, nes kai kurie buvo tolimuose Didžiosios Kunigaikštystės miestuose, srityse: 2emaičių seniūnas Kęsgailą2 Žemaitijoje, Jonas Goštautas3 Smolenske, nes jis tuo metu buvo Smolensko vietininku."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176570
-
 ## Citatos
 
 - id: c-38074
@@ -85,7 +73,7 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176570
@@ -125,5 +113,3 @@ Kęsgaila buvo Žemaičių seniūnas. Ir jų dar nebuvo suvažiavusių, nes kai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

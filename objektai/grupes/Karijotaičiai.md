@@ -67,23 +67,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   pagrindžia:
     - c-155909
 
-<a id="claim-t-171342"></a>
-- t-002
-  teiginys: "Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras."
-  atnaujinta: "2026-05-31 14:12"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Podolė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Karijotaičiai ėmė ginti Podolės žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Karijotaičiai gynė Podolė (0.86); Karijotaičiai pastatė Kamenecas (0.78)"
-  pagrindžia:
-    - c-155910
-
 <a id="claim-t-171343"></a>
 - t-003
   teiginys: "Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis."
@@ -180,7 +163,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-155906
@@ -208,7 +191,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-155908
@@ -238,7 +221,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-155909
@@ -275,7 +258,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-155910
@@ -312,8 +295,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-186603
   autorius: "Rimvydas Petrauskas"
@@ -329,7 +310,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188747
@@ -350,7 +331,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 ## Ryšiai

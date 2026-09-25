@@ -105,7 +105,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166730
@@ -118,11 +118,12 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
     A. Bieliūnienė ir kiti. Antrasis papildytas leidimas. Vilnius, 2011; Lietuva žemėlapiuose:
     = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166731
@@ -140,5 +141,5 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

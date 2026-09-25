@@ -92,5 +92,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196275
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
+  citata_originali: |
+    Lengvumas ir žinomos
+    cheminės savybės liepia priskirti jį sakų klasei; patrintas
+    pritraukia lengvus kūnus, iš jo atsirado elektros pavadi­
+    nimas ir davė pradžią supratimui apie elektrą. Pridėtas
+    prie skaudamos žmogaus kūno dalies, jis skatina trans­
+    piraciją, smilkdamas išskiria maloniai kvepiančių, orą
+    gryninančių dūmų, padeda gydyti reumato ligas. Seniau į
+    daugelį vaistų būdavo dedama skysto gintaro medžiagų,
+    eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in­
+    dai ir kinai; pas mus jis dedamas į lakus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

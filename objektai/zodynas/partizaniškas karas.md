@@ -72,7 +72,7 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-69325
@@ -99,5 +99,5 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

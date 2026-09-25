@@ -73,5 +73,5 @@ Sabeckio vadovaujama 300 karių grupė (dvi kuopos iš 7-ojo fusilierių regimen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

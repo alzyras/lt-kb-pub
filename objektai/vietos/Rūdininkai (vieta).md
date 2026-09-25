@@ -61,3 +61,23 @@ canonical_biography: "Žygimantas Senasis 1556 m. Rūdininkuose paskelbė „Kar
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190443
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 165"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 165."
+  citata_originali: |
+    Tų pačių metų liepos mėnesį Žygimantas Senasis, stiprindamas pašauktinių ir al-
+    gininkų kariuomenės dvasią ir tvarką, būdamas Rūdininkuose, paskelbė „Karo tarny-
+    bos nuostatus". Juos galėtume pavadinti XVI a. Lietuvos Didžiosios Kunigaikštystės
+    bajoro kario dorovės ir garbės kodeksu.
+  citata_rodoma: "Tų pačių metų liepos mėnesį Žygimantas Senasis, stiprindamas pašauktinių ir al-\ngininkų kariuomenės dvasią ir tvarką, būdamas Rūdininkuose, paskelbė „Karo tarny-\nbos nuostatus\"."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

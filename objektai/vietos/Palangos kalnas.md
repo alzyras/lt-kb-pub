@@ -97,7 +97,7 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171850
@@ -120,5 +120,46 @@ Palangos kalnas Narbuto pasakojime garsėjo Praurimės aukuru. Narbutas rašo, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-199026
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
+  citata_originali: |
+    Visa, ką šiuo klausimu žinome iš istorijos, ap­
+    siriboja kalnais, ant kurių stovėjo aukurai arba šventyklos. Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,
+    turėjo būti pramintas rusinu - miesto kolonistų, atgabentų iš
+    Lietuvos Rusios kuriant miestą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200590
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 270."
+  citata_originali: |
+    Bet virš jos nebuvo stogo; į ją vedė tik vienas įėjimas
+    nuo didžiosios upės pusės; prie sienos, esančios priešais įėji­
+    mą, buvo koplyčia, kurios viduje buvo laikomos įvairios rete­
+    nybės ir vertingos šventenybės; po ja buvo rūsys, kuriame lai­
+    kė šventuosius žalčius, rupūžes ir panašius šliužus; virš koply­
+    čios kilo altana, išsikišusi 16 uolekčių aukščiau už šventyklos
+    sienų. Pačioje altanoje stovėjo medinis dievo stabas, atgaben­
+    tas iš Palangos šventųjų miškų. Koplyčia ir altana buvo sumū­
+    rytos iš plytų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

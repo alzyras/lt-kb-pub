@@ -37,18 +37,17 @@ Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimanta
 
 ## Teiginiai
 
-<a id="claim-t-193953"></a>
-- t-001
-  teiginys: "Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimantas Trakų pilyje buvo nužudytas greičiausiai jo nurodymu."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-211535"></a>
+- t-211535
+  teiginys: "Tuo metu Vilniaus vaivada buvo Daugirdas\", o Trakų vaivada — Leliušas."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
-    - c-176578
+    - c-193873
 
 ## Citatos
 
@@ -80,5 +79,20 @@ Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimanta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-193873
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 120."
+  citata_originali: |
+    Tuo metu Vilniaus vaivada buvo Daugirdas", o
+    Trakų vaivada — Leliušas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211535

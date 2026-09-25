@@ -76,5 +76,5 @@ canonical_biography: "1585 m. Valentinas Tancevičius Upytės pilies teisme pran
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

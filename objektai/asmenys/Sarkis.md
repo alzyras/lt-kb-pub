@@ -52,37 +52,17 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   pagrindžia:
     - c-60696
 
-<a id="claim-t-60065"></a>
-- t-002
-  teiginys: "Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje."
-  atnaujinta: "2026-07-19 18:48"
+<a id="claim-t-220593"></a>
+- t-220593
+  teiginys: "Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sarkis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sarkis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60697
-
-<a id="claim-t-60066"></a>
-- t-003
-  teiginys: "Sarkis pasiuntė žygūnus pas Klaipėdos komtūrą, prašydamas jį su namais ir šeimyna išvesti krikštytis."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karšuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sarkis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karšuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sarkis\" parinktas kaip owner_note_path. Targetas \"Karšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60698
+    - c-205484
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -122,7 +102,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-60697
@@ -143,8 +123,6 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-60698
   autorius: "Petras Dusburgietis"
@@ -165,5 +143,21 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-205484
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 156"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156."
+  citata_originali: |
+    Gyveno vienas galingas skalvių vyras, vardu Sarkis, pilininkas Sarkų pilies473,
+    šitaip pavadintos nuo jo vardo ir stovėjusios toje Skalvos dalyje, kuri Lietuvos žemės
+    pasienyje474.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220593

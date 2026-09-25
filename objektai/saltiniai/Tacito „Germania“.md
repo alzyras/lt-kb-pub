@@ -56,5 +56,5 @@ Pirmiausia pacituosime pa ties istoriko Riūso (Ruhs) žodžius, kur jis aiškin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

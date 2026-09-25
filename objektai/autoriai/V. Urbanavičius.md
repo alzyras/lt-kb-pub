@@ -116,7 +116,7 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-33185
@@ -140,7 +140,7 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-33186
@@ -163,5 +163,5 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

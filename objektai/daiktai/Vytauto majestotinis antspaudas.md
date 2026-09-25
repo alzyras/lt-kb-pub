@@ -58,3 +58,40 @@ Nenurodyta
 ## Santrauka
 
 Vytauto majestotiniame antspaude pavaizduotam raiteliui Alfredas Bumblauskas priskiria ne tik Vilniaus kunigaikštijos, bet ir visos valstybės herbo statusą.
+
+## Teiginiai
+
+<a id="claim-t-207667"></a>
+- t-001
+  teiginys: "Vytauto majestotiniame antspaude pavaizduotam raiteliui Alfredas Bumblauskas priskiria ne tik Vilniaus kunigaikštijos, bet ir visos valstybės herbo statusą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190284
+
+## Citatos
+
+- id: c-190284
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 44"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 44."
+  citata_originali: |
+    O Smolenskas,
+    prijungtas tik 1396 m., buvo tikra to meto aktualija, kuri ir atsispindėjo Vytauto heral-
+    dikoje. Šie ženklai įeis ir į Vytauto majestotinį antspaudą – tik raiteliui, laikomam ran-
+    koje, bus suteiktas jau ne tik Vilniaus kunigaikštijos, bet visos valstybės herbo statusas.
+    Atrodo, kad Vytautas buvo pateikęs ir kitą ženklų sisteminimo variantą.
+  citata_rodoma: "ženklai įeis ir į Vytauto majestotinį antspaudą – tik raiteliui, laikomam ran-\nkoje, bus suteiktas jau ne tik Vilniaus kunigaikštijos, bet visos valstybės herbo statusas. \nAtr"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

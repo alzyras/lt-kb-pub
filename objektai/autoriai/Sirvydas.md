@@ -55,6 +55,30 @@ Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką 
   pagrindžia:
     - c-173287
 
+<a id="claim-t-216057"></a>
+- t-216057
+  teiginys: "Narbutas nurodo, kad kunigas Sirvydas savo žodyne Aitvarą vadina Ajtwaros, lotyniškai Incubus ir lenkiškai Latawiec."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200692
+
+<a id="claim-t-217234"></a>
+- t-217234
+  teiginys: "Sirvydas savo žodyne Vilijos upę lotyniškai vadina Vilia, o lietuviškai – Nerimi."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200638
+
 ## Citatos
 
 - id: c-173287
@@ -76,5 +100,60 @@ Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200638
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 150."
+  citata_originali: |
+    Taip pat kunigas Sirvydas savo žodyne
+    Vilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217234
+
+- id: c-200692
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
+  citata_originali: |
+    Kunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai
+    Incubus, lenkiškai Latawiec.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216057
+
+- id: c-201243
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 291"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 291."
+  citata_originali: |
+    Lietuviai, artimesni prūsams,krzywy\adincLKreiwas -
+    iš slavų kalbos, o kiti, kaip antai mano užkampiečiai, turi tam
+    tikslui liaudišką žodį „nukrypęs“ (Nukripis) . Taigi neneigda­
+    mi, kad vaitų lazdas vadino krivūlėmis (Krywuli) ir kad galbūt
+    panašiomis lazdomis naudojosi ir žemesnieji kriviai, nekildin­
+    sime jų pavadinimo iš slaviško žodžio, pasiskolinto tik vienoje
+    provincijoje.
+    21 Sirvydo žodynas. - P. 119.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

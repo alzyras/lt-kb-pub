@@ -72,5 +72,5 @@ Lietuvos gyventojų trėmimai 1941, 1944–1953 metais.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

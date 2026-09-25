@@ -66,18 +66,6 @@ Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo �
   pagrindžia:
     - c-174525
 
-<a id="claim-t-197296"></a>
-- t-002
-  teiginys: "Gotfrydas Ostermejeris reiškė vyrų garbinamą mėnulį, kaip romėnų Men arba Lunus; Mena, arba Luna, - tas pats šviesulys, kurio, kaip deivės, šaukiasi moterys."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179110
-
 ## Citatos
 
 - id: c-174525
@@ -98,7 +86,7 @@ Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179110
@@ -118,5 +106,42 @@ Gotfrydas Ostermejeris buvo Karaliaučiaus universiteto profesorius ir veikalo �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-197177
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
+  citata_originali: |
+    Stettin, 1748.
+    Turimas omenyje Karaliaučiaus universiteto
+    profesoriaus Gotfrydo Ostermejerio (Osterme-
+    yer; 1716—1800) veikalas „Mintys apie se­
+    nuosius Prūsų žemės gyventojus“ (Gedanken
+    von den alten Bewohnern des Landes Preus-
+    sen. 1780).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199060
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 121"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 121."
+  citata_originali: |
+    Statulėlės išmatavimai nežinomi*.
+    Liaudies dainose pastebėtas pavadinimas Menule, taiko­
+    mas mėnuliui (Menuo, Menesis, Menulis) ir laikomas moteriš­
+    kos giminės. Jis reiškė vyrų garbinamą mėnulį, kaip romėnų
+    Men arba Lunus; Mena, arba Luna, - tas pats šviesulys, kurio,
+    kaip deivės, šaukiasi moterys.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -91,7 +91,7 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82519
@@ -124,5 +124,5 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

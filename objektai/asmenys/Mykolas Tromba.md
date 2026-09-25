@@ -77,5 +77,5 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

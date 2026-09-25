@@ -67,5 +67,5 @@ Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

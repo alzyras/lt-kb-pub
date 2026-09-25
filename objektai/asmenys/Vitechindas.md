@@ -79,5 +79,28 @@ Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195946
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
+  citata_originali: |
+    Hartknochas2 pa­
+    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
+    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
+    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
+    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
+    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
+    atvykusius į prūsų kraštus. Po jo keli kronikininkai teigė
+    tą patį, visada remdamiesi vietiniais stebėjimais, kurie
+    visada jiems patvirtindavo giminingumą su heleniškomis
+    kartomis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

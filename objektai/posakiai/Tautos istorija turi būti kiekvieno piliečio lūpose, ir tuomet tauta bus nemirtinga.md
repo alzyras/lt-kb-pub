@@ -54,6 +54,24 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
   pagrindžia:
     - c-23553
 
+<a id="claim-t-13504"></a>
+- t-13504
+  teiginys: "Frazė siejama su tautos atminties ir tautos ateities ryšiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
+  ryšio_patikimumas: "susije_su -> „Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.\" parinktas kaip owner_note_path. Targetas \"„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1859 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-23553
+
 ## Citatos
 
 - id: c-23553
@@ -76,5 +94,6 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-13504

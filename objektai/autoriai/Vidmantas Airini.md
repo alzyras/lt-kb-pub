@@ -86,7 +86,7 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44630
@@ -104,5 +104,5 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -115,7 +115,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172527
@@ -135,7 +135,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177007
@@ -158,5 +158,46 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-198168
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
+  citata_originali: |
+    Įvairiai ruošiant javus, lengva ap­
+    tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,
+    ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per­
+    ėjus fermentaciją, alus jau ir gatavas. Iš tikrųjų turime įrody­
+    mų, kad mūsų šiaurės šalių gyventojai alaus darymo būdą ži­
+    nojo nuo seniausių laikų. Tuo klausimu išsamiai įtikina Cac-
+    kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
+    A e l, Al, rusinai - Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
+    Alus, latviai Alius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200054
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 310"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 310."
+  citata_originali: |
+    Tačiau visų aukų pagrindas buvo
+    duona ir alus. Ar sutinkant ką nors, ar išleidžiant, duoną ir alų
+    aukodavo namų dievams ir vaišindavo jais svečią. Atnašau­
+    jant mažą auką namiškių susibūrime arba ant aukuro, kai bū­
+    davo atliekamos kokios nors apeigos, be duonos ir alaus ne­
+    būdavo galima apsieiti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

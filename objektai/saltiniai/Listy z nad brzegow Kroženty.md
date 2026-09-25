@@ -66,5 +66,23 @@ Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200114
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 58."
+  citata_originali: |
+    Bet tai tik hipotezė, rašinys galėjo būti ir
+    kolektyvinio darbo vaisius. Vis dėlto reikėtų manyti, kad „Lie­
+    tuvių mitologijos“ recenzentas nebuvo vienas iš artimiausių
+    25 Listy z nad brzegow Kroženty // Gazeta Warszawska. - 1856—
+    1859 (list I-X).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

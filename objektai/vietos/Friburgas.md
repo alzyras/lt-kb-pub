@@ -85,5 +85,5 @@ Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas prof. G.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -89,7 +89,7 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-72796
@@ -112,5 +112,5 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -165,6 +165,32 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   pagrindžia:
     - c-186892
 
+<a id="claim-t-207564"></a>
+- t-207564
+  teiginys: "Pirmasis Lietuvos Statutas buvo rašomas visomis labiau paplitusiomis LDK kalbomis, tik ne lietuvių."
+  atnaujinta: "2026-09-19 18:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190181
+
+<a id="claim-t-207773"></a>
+- t-207773
+  teiginys: "1529 m. paskelbtas Pirmasis Lietuvos Statutas nustatė karo tarnybos tvarką."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1529 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190383
+
 ## Citatos
 
 - id: c-84250
@@ -187,7 +213,7 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-84251
@@ -216,7 +242,7 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-84252
@@ -245,7 +271,7 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186275
@@ -264,7 +290,7 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-186338
@@ -288,7 +314,7 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-186339
@@ -308,7 +334,7 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-186604
@@ -327,7 +353,7 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-186892
@@ -352,5 +378,55 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
+
+- id: c-190181
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 150"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 150."
+  citata_originali: |
+    Tiek šis, tiek Martynas Mažvydas turėjo kurti emigracijoje – Ka-
+    raliaučiuje. LDK visuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai. Pirmasis
+    Lietuvos Statutas, kaip ir vėlesni Statutai, buvo surašomas visomis labiau paplitusiomis
+    LDK kalbomis – lotynų, rusėnų, vėliau lenkų – tik ne lietuvių.
+  citata_rodoma: "Pirmasis \nLietuvos Statutas, kaip ir vėlesni Statutai, buvo surašomas visomis labiau paplitusiomis \nLDK kalbomis – lotynų, rusėnų, vėliau lenkų – tik ne lietuvių."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207564
+
+- id: c-190383
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 164"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 164."
+  citata_originali: |
+    Taip pat nustatome, kad jei kuris bajoras karo tarnybos metu užpultų kurio nors
+    bajoro namus ar kluoną arba, vykdamas į karą, pakeliui plėšikautų, ir būtų įrodyta, kad
+    tai jis pagrobė ar padarė žalą, už kiekvieną tokį veiksmą turės smurtpinigius sumokėti.
+    Jeigu kam nors, esant kariuomenėje, maisto sau ir pašaro žirgui nebūtų, turi toks
+    kartu su etmono pasiuntiniu kur nors nuvažiuoti ar nueiti ir pasiimti reikalingą maistą
+    sau ir pašarą žirgui, o už tai sumokėti nuostatais numatytą kainą. Malkas turi imti iš
+    miško, namų neardyti, tvorų nekūrenti, tvenkiniuose žuvų negaudyti ir vandens iš jų
+    nenuleidinėti, nei rugių, nei kviečių trypti ir naikinti neturi. Ö jei kuris tokią žalą
+    padarytų, privalo etmonas mūsų tokį grandinėmis sukaustyti, o tas turi žalą atlyginti ir
+    smurtpinigius sumokėti.
+    O jeigu kuris, tarnaudamas mums, kariuomenės stovykloje kitą užpultų ir jį sužeistų
+    arba sumuštų, tas, kaip prievartautojas, galvos netenka"
+    13.
+    otai tokią karo tarnybos tvarką nustatė 1529 m. paskelbtas pirmasis Lietuvos Sta-
+    tutas - pagrindinis Lietuvos valstybės tvarkos ir teisingumo garantas.
+  citata_rodoma: "Taip pat nustatome, kad jei kuris bajoras karo tarnybos metu užpultų kurio nors\nbajoro namus ar kluoną arba, vykdamas į karą, pakeliui plėšikautų, ir būtų įrodyta, kad\ntai jis pagrobė ar padarė žalą, už kiekvieną tokį veiksmą turės smurtpinigius sumokėti.\nJeigu kam nors, esant kariuomenėje, maisto sau ir pašaro žirgui nebūtų, turi toks\nkartu su etmono pasiuntiniu kur nors nuvažiuoti ar nueiti ir pasiimti reikalingą maistą\nsau ir pašarą žirgui, o už tai sumokėti nuostatais numatytą kainą. Malkas turi imti iš\nmiško, namų neardyti, tvorų nekūrenti, tvenkiniuose žuvų negaudyti ir vandens iš jų\nnenuleidinėti, nei rugių, nei kviečių trypti ir naikinti neturi. Ö jei kuris tokią žalą\npadarytų, privalo etmonas mūsų tokį grandinėmis sukaustyti, o tas turi žalą atlyginti ir\nsmurtpinigius sumokėti.\nO jeigu kuris, tarnaudamas mums, kariuomenės stovykloje kitą užpultų ir jį sužeistų\narba sumuštų, tas, kaip prievartautojas, galvos netenka\"\n13.\notai tokią karo tarnybos tvarką nustatė 1529 m. paskelbtas pirmasis Lietuvos Sta-\ntutas - pagrindinis Lietuvos valstybės tvarkos ir teisingumo garantas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207773

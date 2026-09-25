@@ -91,6 +91,30 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   pagrindžia:
     - c-176982
 
+<a id="claim-t-217622"></a>
+- t-217622
+  teiginys: "Aukų atnašavimo Pergrubei apei gų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute ronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny čios Agenda."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199341
+
+<a id="claim-t-219601"></a>
+- t-219601
+  teiginys: "O dėl Saulės vedybų su Mėnesiu, tai turime išlikusią Prū sijos lietuvių dainą, kurioje yra senųjų padavimų pėdsakų, ne tik mitologinių, bet ir astronominių:."
+  atnaujinta: "2026-09-20 18:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199959
+
 ## Citatos
 
 - id: c-172348
@@ -112,7 +136,7 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176981
@@ -135,7 +159,7 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176982
@@ -156,5 +180,67 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-199341
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 133."
+  citata_originali: |
+    Aukų atnašavimo Pergrubei apei­
+    gų Prūsijos lietuviai laikėsi dar iki 1530 metų; tai liudija liute­
+    ronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­
+    čios Agenda.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217622
+
+- id: c-199959
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 186"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 186."
+  citata_originali: |
+    O dėl Saulės vedybų su Mėnesiu, tai turime išlikusią Prū­
+    sijos lietuvių dainą, kurioje yra senųjų padavimų pėdsakų, ne
+    tik mitologinių, bet ir astronominių:
+    Menu saulužę wede,
+    Piima Pawasareli.
+    Saulužė angsti kėlės;
+    Menuzis atsiskyrė.
+    Menu wiens waiksztiniejo.
+    Aussrinnę pamilejo.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219601
+
+- id: c-201491
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 189"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 189."
+  citata_originali: |
+    O į klausimą, kada apsi­
+    vilkti baltus vestuvinius drabužius, motina atsako: tą dieną,
+    kai švies devynios saulės. Tas skaičius devyni yra religinis,
+    ypač, kaip pažymi ponas Rėza, Prūsijos lietuviams, kurie jį
+    perėmė iš skandinavų. Todėl laikas buvo dalijamas į devynis
+    tam tikrus periodus, ir tam skaičiui būdavo priskiriamos įvai­
+    rios ypatybės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

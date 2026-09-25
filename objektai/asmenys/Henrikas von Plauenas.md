@@ -125,7 +125,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-36324
@@ -151,7 +151,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-160420
@@ -181,11 +181,12 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     magistro (paimtos 1431 m.).
   citata_rodoma: "47) Švitco komtūro Henriko v. Plaueno ar Mykolo\nKuchmeisterio (paimta ties Koronovu), 48) Tomo miesto, 49) Dancigo\nsenosios komturijos ir pilies, 50) Gnievkovos komturijos, pilies ir miesto,"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-167646
@@ -208,5 +209,5 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

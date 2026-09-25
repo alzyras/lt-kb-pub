@@ -69,5 +69,5 @@ Napoleonas, pasak Narbuto, apie Lietuvą yra pasakęs, kad joje yra penktasis el
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

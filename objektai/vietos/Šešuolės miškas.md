@@ -84,5 +84,5 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

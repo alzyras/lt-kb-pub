@@ -93,5 +93,5 @@ canonical_biography: "146 ## Puslapis 163 Il KNYGA nėtinai didelį skaičių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

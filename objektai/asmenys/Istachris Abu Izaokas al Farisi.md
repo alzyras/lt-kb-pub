@@ -84,5 +84,25 @@ Istachris Abu Izaokas al Farisi buvo arabų geografas, gyvenęs apie 907-912 m. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-197602
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
+  citata_originali: |
+    Čia reikėtų pateikti
+    nuomonę Dorpato universiteto profesoriaus pono Kruzės, kuris Gotos
+    bibliotekoje aptiko geografijos žemėlapių, nubraižytų arabų geografo
+    Istachrio Abu Izaoko ai Farisi, gyvenusio apie 907—912 Kristaus
+    eros metus. Tarp jų yra ir Armėnijos žemėlapis su Arakso upe, kuri
+    ten vadinama Nahr-Russ (Zurnal Ministierstva narodnogo prosviešl.
+    1835. Nr. III. S. 480)*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

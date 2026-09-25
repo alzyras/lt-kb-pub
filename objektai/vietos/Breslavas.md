@@ -102,7 +102,7 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-38462
@@ -129,5 +129,5 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

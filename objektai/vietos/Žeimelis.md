@@ -66,6 +66,18 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
   pagrindžia:
     - c-45480
 
+<a id="claim-t-215033"></a>
+- t-215033
+  teiginys: "Žeimelio parapijoje pamaldos vyko vokiečių ir latvių kalbomis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-193112
+
 ## Citatos
 
 - id: c-45480
@@ -91,6 +103,24 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-193112
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 291"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 291."
+  citata_originali: |
+    Lietuvoje prie Kuršo sienos, ypač dviejose liuteroniškose
+    Žeimelio ir Biržų parapijose, kur pamaldos vyksta ne
+    tik vokiečių, bet ir latvių kalbomis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215033

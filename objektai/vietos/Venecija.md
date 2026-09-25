@@ -75,6 +75,18 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   pagrindžia:
     - c-184127
 
+<a id="claim-t-223604"></a>
+- t-223604
+  teiginys: "Po Akono miesto sugriovimo Ordino vyriausioji būstinė buvo Venecijoje iki perkėlimo į Marienburgą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205330
+
 ## Citatos
 
 - id: c-167599
@@ -99,7 +111,7 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184127
@@ -116,12 +128,56 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
     suteikia miestui dar romantiškesnį pobūdį, — lygiai, kaip ir apleista, ap­
     kerpėjusi daugelio pastatų ir ištisų kvartalų išvaizda.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-204848
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 195-196"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195-196."
+  citata_originali: |
+    Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
+             kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
+
+      1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją
+    atvyko  į Livoniją, palikęs ten brolius šiai žemei ginti, kitais metais sugrįžo  į Prūsiją
+    ir Elbingo kapituloje atsisakė savo pareigų, nors, sugrįžęs  į Vokietiją, lengvapėdiškai
+    sugalvojo vėl jas eiti. Jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas
+    didžiuoju magistru brolis Zigfridas  iš Foichtvangeno, kuris  ir iškeliavo  į Veneciją,  į
+    vyriausiąją [Ordino] būstinę.
+
+    284 (277).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205330
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 203."
+  citata_originali: |
+    1309 viešpaties metais, rugsėjį atvyko į Prūsijos žemę brolis Zigfridas iš Foichtvangeno,
+    vienuoliktas didysis magistras ir aštuonioliktas Prūsijos žemės magistras, ir perkėlė į
+    Marienburgo pilį Prūsijoje Ordino vyriausiąją būstinę, kuri po Akono miesto sugriovimo
+    buvo Venecijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223604
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Zigfridas iš Foichtvangeno]]

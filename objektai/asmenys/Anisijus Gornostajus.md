@@ -99,5 +99,5 @@ Kojelavičiaus pasakojime maršalas Anisijus Gornostajus Lietuvos senate prieši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

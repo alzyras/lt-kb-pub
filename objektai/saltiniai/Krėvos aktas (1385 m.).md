@@ -78,5 +78,5 @@ Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -75,5 +75,5 @@ Labai neaiškiai tuos pat siekimus tada paskelbė ir Vilniaus lietuvių būrys R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

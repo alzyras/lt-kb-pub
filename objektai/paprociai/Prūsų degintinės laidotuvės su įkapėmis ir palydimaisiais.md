@@ -76,18 +76,6 @@ Nenurodyta
   pagrindžia:
     - c-67205
 
-<a id="claim-t-196991"></a>
-- t-003
-  teiginys: "Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-67207
-
 ## Citatos
 
 - id: c-67205
@@ -107,7 +95,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -135,5 +123,22 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-202953
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  citata_originali: |
+    Savo svečiams jie rodo nepaprastą lipšnumą, ir vargu ar kada
+
+      209 Pasakojama apie kilmingojo laidotuves, per kurias buvę deginami valdiniai. Kitur
+    D. rašo, jog prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį (III,
+    91), taip pat darę ir lietuviai (III, 338). Manoma, kad aprašymas patikimas (Mierzyński
+    A. Żródła..., 2, p. 56).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

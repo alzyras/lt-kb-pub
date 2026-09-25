@@ -60,6 +60,19 @@ Nenurodyta
   pagrindžia:
     - c-168931
 
+<a id="claim-t-193355"></a>
+- t-193355
+  teiginys: "Kojelavičius spėjo, kad po 924 m. italai ar kiti atvykėliai Baltijos jūra pasiekė Kuršių įlanką ir Nemuno žiotis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-176083
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kojelavičius spėjo, kad po 924 m. italai ar kiti atvykėliai Baltijos jūra pasiekė Kuršių įlanką ir Nemuno žiotis.'
@@ -128,7 +141,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176083
@@ -165,3 +178,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-193355

@@ -63,5 +63,5 @@ Leidinyje paskelbti lotyniškojo originalo ir lietuviškojo vertimo fragmentai a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

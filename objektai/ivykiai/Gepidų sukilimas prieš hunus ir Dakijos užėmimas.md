@@ -71,5 +71,5 @@ Gepidai nušlavė 30 000 hunų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

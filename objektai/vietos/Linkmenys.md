@@ -78,5 +78,5 @@ Livonijos kariuomenės 1433.I.30—II.9 reidas ėjo per Linkmenų valsčių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

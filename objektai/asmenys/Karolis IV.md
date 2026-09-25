@@ -134,6 +134,16 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   pagrindžia:
     - c-42063
 
+<a id="claim-t-222582"></a>
+- t-222582
+  teiginys: "1358 m. Lietuvos vyriausybė derybose su Karoliu IV reikalavo grąžinti Ordino užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros."
+  atnaujinta: "2026-09-20 13:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-11538
@@ -154,7 +164,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-42063
@@ -175,7 +185,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-85799
@@ -197,7 +207,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-85800
@@ -217,5 +227,5 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

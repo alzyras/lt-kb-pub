@@ -68,5 +68,5 @@ Konradas iš Foichtvangeno po vienų metų atsisakė pareigybės Prūsijoje ir p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

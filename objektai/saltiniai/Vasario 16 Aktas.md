@@ -193,7 +193,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-005
 
@@ -220,7 +220,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-23995
@@ -257,7 +257,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-70349
@@ -284,6 +284,6 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004

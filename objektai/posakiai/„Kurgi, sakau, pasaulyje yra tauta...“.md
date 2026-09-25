@@ -111,11 +111,12 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
     M. Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia
     kalba sukurti oficialųjį kultūros modelį.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003

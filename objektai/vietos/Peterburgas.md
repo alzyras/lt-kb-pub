@@ -281,6 +281,57 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   pagrindžia:
     - c-175489
 
+<a id="claim-t-207604"></a>
+- t-207604
+  teiginys: "1795 m. Peterburge buvo pasirašyta konvencija dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo."
+  atnaujinta: "2026-09-19 13:04"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190221
+
+<a id="claim-t-209398"></a>
+- t-209398
+  teiginys: "M. Valančius nuosekliai rinko ir rėmė jaunąją kunigų kartą, tarp jų – mokinius iš Peterburgo dvasinės akademijos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
+  pagrindžia:
+    - c-191869
+
+<a id="claim-t-209478"></a>
+- t-209478
+  teiginys: "Gavęs Peterburge vyskupo šventimus ir 1850."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192098
+
+<a id="claim-t-217453"></a>
+- t-217453
+  teiginys: "„Lietuvių mitologija“ buvo įvertinta Peterburge."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199431
+
 ## Citatos
 
 - id: c-24373
@@ -305,7 +356,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-24374
@@ -327,7 +378,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-24375
@@ -348,7 +399,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-24376
@@ -370,7 +421,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-24377
@@ -394,7 +445,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-24379
@@ -414,7 +465,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-74580
@@ -436,7 +487,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-74581
@@ -461,7 +512,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-74582
@@ -483,7 +534,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-74583
@@ -508,7 +559,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171690
@@ -527,7 +578,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-175489
@@ -550,5 +601,84 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
+
+- id: c-190221
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 194"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 194."
+  citata_originali: |
+    Ginant Varšuvą žuvo Lietuvos sukilėlių vadas
+    Jokūbas Jasinskis ir Gegužės 3-iosios konstitucijos pataisos autorius Tadas Korsakas.
+    Sukilimo pralaimėjimas pagreitino paskutinįjį LLV padalijimą. 1795 m. spalio 24 d.
+    Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos
+    valstybės padalijimo.
+  citata_rodoma: "1795 m. spalio 24 d. \nPeterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos \nvalstybės padalijimo."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207604
+
+- id: c-191869
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 66"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 66."
+  citata_originali: |
+    M.
+    Valančius nuosekliai rinko ir rėmė jaunąją kunigų kartą, dažniausiai
+    savo mokinius iš Kražių gimnazijos, Vąrnių dvasinės seminarijos ar
+    Peterburgo dvasinės akademijos laikų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209398
+
+- id: c-192098
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 12"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 12."
+  citata_originali: |
+    Gavęs Peterburge
+    vyskupo šventimus ir 1850. IV. 9 oficialiai įžengęs į Že­
+    maičių vyskupijos katedrą Varniuose, ganytojišką laišką
+    galutinai baigė ir IV. 25 drauge su Pijaus IX bule pa­
+    siuntė Vilniaus cenzūros komitetui aprobuoti (M. Valan­
+    čiaus IV.
+  citata_rodoma: "Gavęs Peterburge \nvyskupo šventimus ir 1850. IV. 9 oficialiai įžengęs į Že­\nmaičių vyskupijos katedrą Varniuose, ganytojišką laišką \ngalutinai baigė ir IV. 25 drauge su Pijaus IX bule pa­\nsiuntė Vilniaus cenzūros komitetui aprobuoti"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209478
+
+- id: c-199431
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 62"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 62."
+  citata_originali: |
+    Va­
+    dinasi, sumanymas siekia daug ankstesnius laikus nei „Lietu­
+    vių mitologija“ buvo įvertinta sostinėje Peterburge.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217453

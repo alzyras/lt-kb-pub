@@ -63,6 +63,20 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   pagrindžia:
     - c-82167
 
+<a id="claim-t-208406"></a>
+- t-208406
+  teiginys: "A. Midletonas 1796 m. pavasarį persikėlė į Hamburgą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1796 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190953
+
 ## Citatos
 
 - id: c-82167
@@ -85,5 +99,23 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190953
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 282"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 282."
+  citata_originali: |
+    Pasiuntinio
+    skola buvo padengta Nikolajaus Repnino nurodymu.
+    Nei j Lenkiją, nei į Lietuvą A. Midletonas negrįžo. 1796 m. pavasarį persikėlė
+    į Hamburgą, o iš ten - į Danijai priklausiusią Altoną.
+  citata_rodoma: "1796 m. pavasarį persikėlė \nį Hamburgą, o iš ten - į Danijai priklausiusią Altoną."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208406

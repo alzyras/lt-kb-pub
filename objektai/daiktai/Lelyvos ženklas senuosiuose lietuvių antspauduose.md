@@ -74,5 +74,5 @@ Lelyvos ženkle buvo šešiakampė žvaigždė virš ragais aukštyn apversto pu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

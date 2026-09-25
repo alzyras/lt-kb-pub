@@ -105,7 +105,7 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178919
@@ -134,5 +134,33 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194150
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 33-34"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 33-34."
+  citata_originali: |
+    Visa tai labai lakoniškas, bet
+    neabejotinas pakartojimas to, kas apie tuos Goštautus,
+    “ Acla Tomiciana, t. VII. p. 263.
+
+    ypač apie Joną Goštautą, rašoma Bychovco kroni­
+    koje.
+    Antra vertus, tai taip pat rodo, kad Bychovco kro­
+    nika turėjo būti jau parašyta iki 1525 m., nes, kaip
+    anksčiau matėme, tame pačiame dešimtmetyje, prieš
+    1529 m., būta taip pat ir kai kurių kitų originaliųjų
+    Bychovco kronikos pasakojimų ir ji pati turėjo būti
+    galutinai suredaguota ne vėliau kaip 1529 m.
+    Be protėvių nuopelnų apibūdinimo, A. Goštauto me­
+    moriale esama ir daugiau elementų, atitinkančių By­
+    chovco kroniką.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

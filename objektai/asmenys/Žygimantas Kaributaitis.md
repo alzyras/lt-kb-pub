@@ -129,7 +129,7 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-105256
@@ -155,7 +155,7 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167160
@@ -182,7 +182,7 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168275
@@ -211,5 +211,5 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

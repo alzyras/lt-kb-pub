@@ -152,6 +152,30 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   pagrindžia:
     - c-188044
 
+<a id="claim-t-221996"></a>
+- t-221996
+  teiginys: "Tais pačiais metais Kelne mirė Albertas Didysis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204991
+
+<a id="claim-t-224417"></a>
+- t-224417
+  teiginys: "Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas."
+  atnaujinta: "2026-09-19 21:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203628
+
 ## Citatos
 
 - id: c-57669
@@ -172,7 +196,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
@@ -198,7 +222,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177305
@@ -225,7 +249,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-179299
@@ -252,7 +276,7 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-188044
@@ -275,8 +299,94 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+- id: c-194768
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 202."
+  citata_originali: |
+    Mirus
+    Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo­
+    nijos karalystės valdžios galybė, padažnėjo grobikiškų
+    žygių įvairių agresyvių tautų, besiskverbiančių vis toliau
+    į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši­
+    niąją jo pakrantę. Alanai traukė ten, tad gelonai-budinai
+    liko kairiojoje Dnepro pakrantėje savarankiški, be sle­
+    giančios jų valdžios įtakos; netgi esama nedidelių dings­
+    čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
+    tus. Gal tai davė pradžią romėnų žinioms apie gelonų
+    žygį į getų dukras ir net į Rodopų kalnus arba į šiandie­
+    nius Balkanus, kur buvo pažinti puikūs šios tautos lanki­
+    ninkai (§63).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195662
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
+  citata_originali: |
+    Hartknochas2 pa­
+    teikia žinių, jog prie Baltijos jūros amžių amžiais buvo
+    žinomi padavimai apie tenykščių genčių, ypač prūsų, iš­
+    takas. Tai nugirdęs kronikininkas Vitechindas3, savo ruož­
+    tu norėjęs nuspalvinti šiuos ¡padavimus tariamu istorišku­
+    mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
+    atvykusius į prūsų kraštus. Po jo keli kronikininkai teigė
+    tą patį, visada remdamiesi vietiniais stebėjimais, kurie
+    visada jiems patvirtindavo giminingumą su heleniškomis
+    kartomis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203628
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 233"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
+  citata_originali: |
+    Apie Albertą Didįjį ir Tomą Akvinietį
+
+      Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas,
+    kuris neturėjo sau lygaus išsilavinimu. Atsisakęs Regensburgo vyskupystės,  jis 18
+    metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties
+    metais, o palaidotas Kelne. Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
+    mokinys bei pamokslininkų ordino vienuolis (Ptol.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224417
+
+- id: c-204991
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 238"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
+  citata_originali: |
+    Tais pačiais metais Kelne mirė Albertas Didysis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221996
 
 ## Ryšiai
 - Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) gimė [[objektai/vietos/Vokietija]]

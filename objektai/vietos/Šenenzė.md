@@ -55,6 +55,18 @@ Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, �
   pagrindžia:
     - c-87541
 
+<a id="claim-t-223768"></a>
+- t-223768
+  teiginys: "1330 m. rudenį Lokietkos kariuomenė apgulė Šenenzės miestą, tačiau jo nepaėmė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201874
+
 ## Citatos
 
 - id: c-87541
@@ -78,5 +90,33 @@ Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201874
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 256-257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256-257."
+  citata_originali: |
+    Tų pat metų rudenį Lokietka, Lenkijos karalius, užgriuvo Kulmo žemę604 su visais savo
+    604 D. nutyli, kad Ordino valdų puolimas buvo numatytas bendromis Lokietkos ir
+    Gedimino jėgomis susitinkant Ordino teritorijoje rugsėjo 8 d. Lietuvos kariuomenė
+    rugsėjo pradžioje pasirodė prie Bartenšteino ir kovodama žygiavo tolyn pro Lubavą,
+    palei Drevantą, pasiekė Straisbergo apylinkes, kur kryžiuočiai sutelkė jėgas, siekdami
+    atremti lietuvius. Iš čia Gediminas patraukė į pietus ir atvyko prie Dobrynės pilies, kurią
+    nesėkmingai šturmavo Lokietkos pajėgos. Čia įvyko derybos tarp Gedimino ir Lokietkos.
+
+    karalystės raiteliais, su daugybe samdininkų ir 8 tūkstančiais karių, kuriuos jam iš savo
+    žemės atsiuntė į pagalbą Vengrijos karalius, ir apgulė Šenenzės miestą bei pilį, o paskui
+    patraukė prie Lypos pilies, tačiau nė vienos jų nepaėmė, tik 10 dienų užgulė šią žemę,
+    viską grobdamas bei degindamas. Galop, pritrūkęs maisto ir sudaręs kurias ne kurias
+    sutartis, jis pasitraukė
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223768

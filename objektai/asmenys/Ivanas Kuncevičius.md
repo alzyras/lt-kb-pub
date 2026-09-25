@@ -85,7 +85,7 @@ Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185429
@@ -103,5 +103,5 @@ Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

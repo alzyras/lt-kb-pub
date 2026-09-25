@@ -82,5 +82,29 @@ Narbutas Šventamiestyje, vėliau Heiligenbeilyje, mini žiemą ir vasarą žali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198163
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
+  citata_originali: |
+    Vis dėlto galimas
+    daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
+    reikėtų manyti, jog senovės žyniai mokėjo šventąjį ąžuolą taip
+    apauginti amalu, kad jo lapai būtų nepaprastai tankūs, o žie­
+    mą amalo žaluma nuspalvintų jo vainiką.
+    Sventamiestyje, vėliau Heiligenbeilyje, vadinamame Šven­
+    tuoju Kirveliu, augo panašios rūšies žiemą vasarą žalias neap­
+    sakomo storumo ąžuolas. Varmijos vyskupų biografas Trete-
+    ris sako: „Toje vietoje, kur yra Heiligenbeilis, augo milžiniš­
+    kas ąžuolas, kuris tiek vasarą, tiek žiemą žaliavo (be abejo,
+    velnio pastangomis).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

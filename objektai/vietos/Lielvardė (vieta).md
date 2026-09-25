@@ -96,5 +96,5 @@ Dėl tos priežas ties buvo žiauriai sunaikintas Lielvardės miestas ir vals č
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

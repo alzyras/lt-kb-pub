@@ -96,5 +96,29 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200907
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 240."
+  citata_originali: |
+    BLINDÉ, Blinda. Dešiniajame Nemuno krante, žemiau
+    Jurbarko, Kalnėnų (Kaliniany) kaime, 1805 metų vieną sek­
+    madienį pastebėjau blindę, papuoštą gėlių vainikais; prie jos
+    buvo keliolika ištekėjusių moterų: vienos meldėsi, kitos, sėdė­
+    damos ant dirvono, šnekėjosi. Paklausiau, ką reiškianti ši apei­
+    ga. Jos atsakė, kad senoviniu papročiu vasarą, šventomis die­
+    nomis, ištekėjusios moterys pratusios susirinkti prie šios blin­
+    dés pasimelsti. Kunigai liepė prie medžio prikalti kryžių, ka­
+    dangi seniau melsdavosi tiesiog po blinde, kuriai priskirdavo
+    kažkokį šventumą; melsdavosi prašydamos laimės ir palikuo­
+    nių gausumo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

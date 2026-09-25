@@ -99,7 +99,7 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174241
@@ -121,5 +121,28 @@ Narbutas teigė, kad Tatiščevas Giurgevo ieškojo kairiojoje Dnepro pakrantėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197361
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 74."
+  citata_originali: |
+    Be to, tvirto­
+    vė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė
+    taiką; kartu ji nebuvo sunaikinta ir todėl netrukus turė­
+    jo* būti atstatyta. Tatiščevas**, gal geriau žinojęs šiuos
+    įvykius, ieškojo Giurgevo kairiojoje Dnepro pakrantėje,
+    bet klaidingai rado kažkokią pilaitę, galbūt irgi vadintą
+    Jurjevu, stovėjusią prie Osteros upės žiočių. Reikėtų nu­
+    keliauti toliau į rytus ir gal ten, Doneco ir Dono tarp­
+    upyje, rasime buvusios Giurgevo tvirtovės vietą ir seno­
+    vės upę Ros.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

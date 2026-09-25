@@ -72,5 +72,5 @@ O iš didelių buvusi viena vokiška kronika, vieno iškiliausių Renesanso laik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

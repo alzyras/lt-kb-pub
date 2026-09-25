@@ -38,21 +38,17 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 
 ## Teiginiai
 
-<a id="claim-t-58602"></a>
-- t-001
-  teiginys: "Po Pakimos nusiaubimo Konrado iš Tirbergo Jaunesniojo kariuomenė vakare perėjo užšalusį Nagutino ežerą."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-220608"></a>
+- t-220608
+  teiginys: "Ordino kariuomenė vakare perėjo užšalusį Nagutino ežerą."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Nagutinas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nagutinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Konrado kariuomenės judėjimą per Nagutino ežerą."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-59234
+    - c-201812
 
 ## Citatos
 
@@ -81,5 +77,20 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-201812
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
+  citata_originali: |
+    vakare perėjo su savo kariuomene užšalusį ežerą,
+    vardu Nagutinas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220608

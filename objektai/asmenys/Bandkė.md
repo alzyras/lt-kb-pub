@@ -76,5 +76,26 @@ Narbutas nurodo, kad Bandkė savo Lenkijos istorijoje lietuvių Gurko tapatino s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-200069
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
+  citata_originali: |
+    Ypač
+    jis buvo gerbtinas kaip žemdirbių dievas.
+    Bandkė savo Lenkijos istorijoje, išvardydamas slavų die­
+    vus, aiškiai sako, kad lietuvių Gurko atitinka slavų Gurovidą
+    (Gorowicl). Nežinia, dėl kurios priežasties, nes jei dėl žodžių
+    panašumo, tai jis apsiriko: lietuviai jo nevadino kitaip, kaip
+    tik Žemininku, o prūsai - Kurku, o jei iš lotynų kalbos Cur-
+    chus, tai visai ne nuo žodžio gora, nes gora yra Kalnas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

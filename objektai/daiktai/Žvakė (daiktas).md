@@ -102,7 +102,7 @@ Lietuvos metraštis teigia, kad šventikai su žvakėmis, giedodami laido tuvių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-201680
@@ -120,7 +120,7 @@ Lietuvos metraštis teigia, kad šventikai su žvakėmis, giedodami laido tuvių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-203832
@@ -137,5 +137,5 @@ Lietuvos metraštis teigia, kad šventikai su žvakėmis, giedodami laido tuvių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

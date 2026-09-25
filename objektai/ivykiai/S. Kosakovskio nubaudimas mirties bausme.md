@@ -61,3 +61,40 @@ Nenurodyta
 ## Santrauka
 
 1794 m. balandžio 15 d. S. Kosakovskis buvo pakartas Vilniaus rotušės aikštėje.
+
+## Teiginiai
+
+<a id="claim-t-208077"></a>
+- t-001
+  teiginys: "1794 m. balandžio 15 d. S. Kosakovskis buvo pakartas Vilniaus rotušės aikštėje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190761
+
+## Citatos
+
+- id: c-190761
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 159"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 159."
+  citata_originali: |
+    Šis teismas turėjo teisti ne tik priešiškus sukilimui asmenis, bet „ir tuos,
+    kurie savo Tėvynei ex crimineperduellionis (išdavyste) jau nusikalto"".
+    Pirmuoju teisiamuoju, dar už Iki sukilimo padarytus nusikaltimus, tapo
+    S. Kosakovskis. Vos tik įsteigto PCrimlnalinio teismo sprendimu" jis buvo pakartas
+    balandžio 15 d. Vilniaus rotušės aikštėje".
+  citata_rodoma: "Pirmuoju teisiamuoju, dar už Iki sukilimo padarytus nusikaltimus, tapo \nS. Kosakovskis. Vos tik įsteigto PCrimlnalinio teismo sprendimu\" jis buvo pakartas \nbalandžio 15 d. Vilniaus rotušės aikštėje\"."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

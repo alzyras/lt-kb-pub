@@ -116,6 +116,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-175299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -141,5 +142,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195191
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 391."
+  citata_originali: |
+    Ten yra helenų dievų bažnyčių, hele-
+    nų papročiu tapytų dievų paveikslų (’EXXrpnxwg aexaxeua-
+    apeva ayakpaai), altorių ir koplytėlių (%ai PcoųdToi); vi­
+    sa tai išskobta iš medžio. Jie taip pat kas trejus metus
+    švenčia Dioniso šventę ir rengia bakchanalijas ((ìaxxéo -
+    ai).
+    Kadangi
+    gelonų
+    protėviai
+    yra
+    helenai (Teàwuoi
+    'xcMQ%aXou ’EÀÀuueg), išvyti iš emporiumų, jie apsigyveno
+    tarp budinu; jų kalba iš dalies panaši į skitų ir helenų
+    kalbą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

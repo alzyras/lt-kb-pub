@@ -95,6 +95,33 @@ Narbuto cituotame pasakojime šv. Severinas atpažino persirengusį Odoakrą ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-194813
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
+  citata_originali: |
+    Severino šventumą,
+    iš smalsumo aplankė jį kartu su savo riteriais. Norėda­
+    mas įsitikinti, ar tikrai vienuolis žino visiką apie praeitį,
+    dabartį ir ateitį, jis apsivilko paprastus kailinius ir neat­
+    pažintas įžengė į šventojo vyro celę. Kadangi jis buvo
+    aukštas, žemame kambarėlyje turėjo nulenkti galvą. Bet
+    šventasis vyras iškart jį atpažino ir išpranašavo, jog
+    anas taps karaliumi, o atsisveikindamas tarė: „Eik į Ita­
+    liją šiandien vilkėdamas paprastus kailinius, o netrukus
+    kitiems dalysi brangius apdarus ir dovanas“3. Odoakras,
+    tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo
+    1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia­
+    lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti,
+    kelti triukšmą (Stender.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

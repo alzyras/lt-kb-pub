@@ -488,6 +488,30 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   pagrindžia:
     - c-189144
 
+<a id="claim-t-217558"></a>
+- t-217558
+  teiginys: "Abejotinos istorijos periodas, tai yra nuo nuolatinių Lie tuvos žygių i rusų kraštus (Pskovą ir Naugardą) iki 1240 metų, tai yra Mindaugo valdymo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198272
+
+<a id="claim-t-218416"></a>
+- t-218416
+  teiginys: "Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiajame Naugarde."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199247
+
 ## Reikšmingi paminėjimai
 - c-018
   santrauka: 'Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais.'
@@ -530,7 +554,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-37565
@@ -553,7 +577,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-010
 
@@ -577,7 +601,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-017
 
@@ -600,7 +624,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-89824
@@ -625,11 +649,12 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
     sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
   citata_rodoma: "Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona, \ntaip gana ilgam sudrumstęs namų ramybę, privertė lenkus \ngaišti dėl nesvarbių reikalų.\nJau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­\nvo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­\nkeršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų \nmiestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­\nsyk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­\nmingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių \nPskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną \nSidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­\nleisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar \n250 rublių nepridėjo (1429 m."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
     - t-015
 
@@ -661,7 +686,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-013
 
@@ -684,7 +709,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-89828
@@ -707,7 +732,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-89829
@@ -733,7 +758,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-89833
@@ -754,7 +779,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-89834
@@ -778,7 +803,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-89836
@@ -802,7 +827,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-89839
@@ -828,7 +853,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-014
 
 - id: c-167684
@@ -849,7 +874,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-016
 
 - id: c-171662
@@ -871,7 +896,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-171663
@@ -898,7 +923,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-019
 
 - id: c-171664
@@ -922,7 +947,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-020
 
 - id: c-171665
@@ -951,7 +976,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-021
 
 - id: c-186963
@@ -977,7 +1002,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-022
 
 - id: c-188030
@@ -997,7 +1022,7 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-023
 
 - id: c-189144
@@ -1018,8 +1043,114 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-024
+
+- id: c-198272
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
+  citata_originali: |
+    II. Abejotinos istorijos periodas, tai yra nuo nuolatinių Lie­
+    tuvos žygių i rusų kraštus (Pskovą ir Naugardą) iki 1240 metų,
+    tai yra Mindaugo valdymo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217558
+
+- id: c-198442
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  citata_originali: |
+    Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
+    imtus bajorus. Todėl Jonas, išvaduodamas nuo nelaimės Po­
+    locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­
+    vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
+    niotos mirties, nusiuntė Liutaurą užimti Polocko, kad šis val­
+    dytų jį kaip vietininkas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199065
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
+  citata_originali: |
+    O šios šventyklos aprašyme
+    istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
+    buvęs puošnesnis už kitus.
+    Lietuvių Perkūno stabas X amžiuje Šiaurėje buvo garsus,
+    kadangi Vladimiras, tapęs visos Šiaurės Rusios didžiuoju ku­
+    nigaikščiu, tokius pačius pastatė Kijeve ir Naugarde; tuo pa­
+    čiu metu tam dievui buvo pastatyta šventykla toje vietoje, kur
+    yra vadinamasis Perimo vienuolynas. Tai buvusi didžiulė sta­
+    tula, liemuo iš ąžuolo, galva sidabrinė, ūsai ir ausys auksinės,
+    kojos geležinės, kumštyje laikė kažką panašaus į žaibus23.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199247
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 94"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 94."
+  citata_originali: |
+    Vla­
+    dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul­
+    tą Didžiajame Naugarde.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218416
+
+- id: c-201366
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  citata_originali: |
+    Net Vokietijoje,
+    kur herulai įsikūrė žuvus jų vadui Odoakrui, randame upę Ross,
+    Russ, vėliau imtą vadinti Wessel. Galbūt neįsižeis slavų seno­
+    vės tyrėjai, jei manysime, kad Naugardo gubernijoje Rusa, ar­
+    ba Russ, upei vardą davė lietuvių tautos kolonija, kažkaip va­
+    riagų atgabenta, kadangi ir pačiame Naugarde buvo prūsų ko­
+    lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
+    sų gatve.
+    Pagaliau dabar Kijevo gubernijoje ukrainiečių Rosės (Ross)
+    upė, įtekanti į Dneprą dešiniajame krante, už savo pašventin­
+    tą vardą yra skolinga lietuvių genties tautoms, kadaise ten gy­
+    venusioms, kurios išėjo į rytus su gotais karaliaujant Filimerui
+    arba šiek tiek vėliau.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Užėmė Naugardą: [[objektai/asmenys/Šich Achmetas]]

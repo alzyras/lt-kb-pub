@@ -97,7 +97,7 @@ Danielius, sudaręs sąjungą su Algimantu, kartu vedė lietuvių pulkus. Teodor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188706
@@ -124,5 +124,5 @@ Danielius, sudaręs sąjungą su Algimantu, kartu vedė lietuvių pulkus. Teodor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

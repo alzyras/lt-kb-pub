@@ -72,5 +72,35 @@ Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi me vedybų papro�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199184
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 349"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 349."
+  citata_originali: |
+    Senovės prūsų merginas, jeigu norė­
+    davo jas vesti, turėdavo iš tėvų nusipirkti1.
+    Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi­
+    me vedybų papročius, bendrus lietuviams ir skandinavams, tai
+    yra kad tik viena, pirmoji, žmona buvo iš tikrųjų laikoma tei­
+    sėta žmona ir namų šeimininke, o vėliau paimtos į namus mo­
+    terys neturėjo tokios reikšmės ir nors jų vaikai, tėvo pripažin­
+    ti, buvo laikomi teisėtais, kaip ir pagimdyti pirmosios žmonos,
+    vis dėlto ta daugpatystė buvo labai apribota, net iki to, kad
+    kitos žmonos buvo laikomos vergėmis ir namų nuosavybe, ku­
+    rią po šeimininko mirties pasidalydavo įpėdiniai; jos būdavo
+    arba iš paimtų per karą, arba nupirktos iš vargingų tėvų. O iš
+    tikrųjų senovinė teisė ir papročiai numatė vienpatystę; juk ki­
+    tos lietuvių genties tautos laikėsi šito griežčiau negu prūsai;
+    mat istorijoje nematome net pėdsako, kad lietuvių didikai ir
+    kunigaikščiai būtų turėję daugiau kaip vieną žmoną; vėl ves­
+    davo tiktai po žmonos mirties.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -141,6 +141,47 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   pagrindžia:
     - c-171709
 
+<a id="claim-t-208595"></a>
+- t-208595
+  teiginys: "Raseinių apskrityje blaivininkai sudarė 72 proc. katalikų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191215
+
+<a id="claim-t-209349"></a>
+- t-209349
+  teiginys: "1858 m. rudenį Raseinių apskrities klebonai buvo oficialiai valdžios klausiami, kuo remiantis kuriamos blaivininkų organizacijos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1858 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta formuluotė pagal citatoje esantį klausimo turinį. Išlaikyti metai, vieta, subjektas ir organizacijų kūrimo kontekstas."
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191992
+
+<a id="claim-t-219881"></a>
+- t-219881
+  teiginys: "Visiš kai panašų „pasakojimą“ jis nugirsta Raseinių apskrityje, Pa švenčio apylinkėse."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199886
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas rašė, kad Raseinių ir Upytės apskrityse rasti akmenys rodė ten vykusias ateivių iš Brandenburgo atneštas religines apeigas.'
@@ -178,7 +219,7 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171708
@@ -200,7 +241,7 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171709
@@ -224,7 +265,7 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-171710
@@ -250,6 +291,67 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
+
+- id: c-191215
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 134"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 134."
+  citata_originali: |
+    Kitose apskrityse blaivininkų buvo
+    tiek: Panevėžio — 89,4 proc., Šiaulių — 88,6 proc., Tel­
+    šių — 88,3 proc., Ukmergės — 84,9 proc., Raseinių —
+    72 proc. ir Kauno 66,5 proc. katalikų4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208595
+
+- id: c-191992
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 67"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 67."
+  citata_originali: |
+    Blaivybės istorijos Lietuvoje tyrinėtojai yra pateikę daug
+    pavyzdžių, rodančių, jog iš pat pradžių blaivybės brolijos steigėsi mažų
+    mažiausiai neoficialiai. Tačiau jos nebuvo nelegalios todėl, kad nebuvo
+    jas draudžiančio įstatymo (išskyrus įsaką Lenkijos Karalystėje, kuris
+    Lietuvos gubernijose negaliojo). Antai jau 1858 m. rudenį Raseinių
+    apskrities klebonai buvo oficialiai valdžios užklausti, kuo remiantis
+    kuriamos blaivininkų organizacijos.
+  citata_rodoma: "Antai jau 1858 m. rudenį Raseinių \napskrities klebonai buvo oficialiai valdžios užklausti, kuo remiantis \nkuriamos blaivininkų organizacijos."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209349
+
+- id: c-199886
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 31."
+  citata_originali: |
+    T. Narbutas Lietuvoje suranda ir antikinio mito apie Plu­
+    tono pagrobtą Demetros dukterį Persefonę atitikmenį. Visiš­
+    kai panašų „pasakojimą“ jis nugirsta Raseinių apskrityje, Pa­
+    švenčio apylinkėse.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219881

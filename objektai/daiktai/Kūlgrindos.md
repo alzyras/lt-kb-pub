@@ -97,10 +97,11 @@ Nenurodyta
     Lietuvoje tokių kelių liekanų.
   citata_rodoma: "Tie keliai būdavo tokie vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-\ntyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami\nkūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti\nLietuvoje tokių kelių liekanų."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

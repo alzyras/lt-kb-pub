@@ -59,6 +59,24 @@ Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1
   pagrindžia:
     - c-55065
 
+<a id="claim-t-54114"></a>
+- t-54114
+  teiginys: "S. Ekdahlas 1963 m. paskelbė straipsnį apie lietuvių pasitraukimą Tanenbergo mūšyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ekdahl, S: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ekdahl, S\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1409 m.; įvykio data: 1963 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55065
+
 ## Citatos
 
 - id: c-55065
@@ -74,9 +92,11 @@ Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1
     nr. 559-561, 1888.
   citata_rodoma: "1930. — Dundulis, B. : _Žemaičių sukilimai prieš teutoniškuosius paver­\ngėjus 1401 ir 1409 m.,_ VUMD, t. 6, 1955, 118-147 p.—Ekdahl, S.:\n_Die Flucht der Litauer in der Schlacht bei Tannenberg,_ ZfO, 12, 1, 1963.\n11-19 p. — Gókski, K. : _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,\nnr. 559-561, 1888."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-54114

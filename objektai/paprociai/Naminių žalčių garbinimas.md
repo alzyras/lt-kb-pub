@@ -87,7 +87,7 @@ Tačiau ir man pačiam yra tekę girdėti, kad kai kuriuose kaimuose šliaužo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-199105
@@ -108,5 +108,5 @@ Tačiau ir man pačiam yra tekę girdėti, kad kai kuriuose kaimuose šliaužo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -56,6 +56,19 @@ historical_names: []
   pagrindžia:
     - c-178065
 
+<a id="claim-t-226099"></a>
+- t-226099
+  teiginys: "S. Smilingytė-Žeimienė ir Dalia Vasiliūnienė išsiaiškino, kad XX a. pradžioje paveikslai buvo nutapyti Anykščių, Kupiškio ir Žemaičių Kalvarijos bažnyčioms."
+  atnaujinta: "2026-09-25 02:17"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  vertinimo_atnaujinta: "2026-09-23T18:02:11Z"
+  pagrindžia:
+    - c-206615
+
 ## Citatos
 
 - id: c-178065
@@ -81,5 +94,17 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206615
+  autorius: "unknown"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto sakralinių pastatų ir parapijos trobesių architektūra"
+  puslapiai: "p. 338 (PDF 339)"
+  indeksas: "unknown, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Kupiškio krašto sakralinių pastatų ir parapijos trobesių architektūra, p. 338 (PDF 339)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-25 02:17"
+  pagrindžia:
+    - t-226099

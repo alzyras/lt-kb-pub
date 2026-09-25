@@ -76,5 +76,5 @@ Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

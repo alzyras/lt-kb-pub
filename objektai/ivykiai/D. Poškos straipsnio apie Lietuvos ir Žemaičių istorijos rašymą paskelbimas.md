@@ -92,5 +92,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-198907
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 49."
+  citata_originali: |
+    Bene geriausiai ją apibūdina 1829 metais „Dziennik Wars-
+    zawski“ išspausdintas Dionizo Poškos straipsnis „Keletas įžan­
+    ginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių
+    istoriją“8. Jis parašytas metai prieš mirtį, todėl jį drįstume lai­
+    kyti tam tikru literatūriniu testamentu. Straipsnio pavadini­
+    mas tarsi sako, kad autoriui visų pirma rūpėjo duoti nurody­
+    mus ar patarimus visiems, kurie imsis rašyti lietuvių tautos is­
+    toriją. Tačiau, įsigilinus į rašinio turinį, aiškėja, jog problema
+    daug didesnė: D. Poškai labiausiai rūpi, kas gi rašys tą istoriją.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

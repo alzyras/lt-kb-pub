@@ -132,7 +132,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-59040
@@ -158,7 +158,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59041
@@ -181,7 +181,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-59042
@@ -205,5 +205,5 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

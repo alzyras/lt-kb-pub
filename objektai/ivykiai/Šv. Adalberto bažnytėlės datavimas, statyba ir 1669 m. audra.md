@@ -141,7 +141,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174904
@@ -166,7 +166,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175282
@@ -190,5 +190,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195411
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 186"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 186."
+  citata_originali: |
+    Šiandien tų griuvėsių liku­
+    čius galima pamatyti beveik pačioje jūros pakrantėje, į
+    kairę nuo kelio, einančio iš Laukstetų į Litausdorfo kaimą.
+    1669 metais didžiulė audra visiškai išgriovė šio pastato
+    sienas.
+    189
+    Ne mažiau įdomios yra pono Foigto studijos apie pra­
+    dingusią, jūrai užliejus, Vitlandijos žemę, taip pat po tos
+    pačios gamtinės revoliucijos, kuri Memelio vagą pavertė
+    marių dalimi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

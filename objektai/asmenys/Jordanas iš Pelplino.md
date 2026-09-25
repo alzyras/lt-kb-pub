@@ -89,7 +89,7 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai

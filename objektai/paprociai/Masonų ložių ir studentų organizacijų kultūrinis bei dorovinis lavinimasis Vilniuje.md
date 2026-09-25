@@ -69,6 +69,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-175814
+    - c-175816
 
 <a id="claim-t-193045"></a>
 - t-002
@@ -79,6 +80,7 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-175814
+    - c-175816
 
 <a id="claim-t-193046"></a>
 - t-003
@@ -112,24 +114,6 @@ Nenurodyta
   pagrindžia:
     - c-170777
 
-<a id="claim-t-193048"></a>
-- t-005
-  teiginys: "N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Masonų apeigų taurė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Masonų apeigų taurė: mention_match, thing, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje\" parinktas kaip owner_note_path. Targetas \"Masonų apeigų taurė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1817 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-170777
-
 ## Citatos
 
 - id: c-170777
@@ -153,9 +137,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
-    - t-005
 
 - id: c-175814
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -179,7 +162,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -200,7 +183,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175816
@@ -226,3 +209,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+    - t-002

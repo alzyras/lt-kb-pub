@@ -74,5 +74,31 @@ Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195512
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 63"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 63."
+  citata_originali: |
+    Kažkokia alanų da­
+    lis persikėlė į Europos pietvakarius: vieni iš jų įsikūrė
+    Galijoje prie Ligieros upės, kiti pateko į Ispaniją, kur
+    gyveno susimaišę su gotais; iš čia atsiradęs Gotoalanijos
+    provincijos pavadinimas, — šiandien tai Katalonija. Į
+    vakarus, pasak Jordano, keliavę tie alanai, kurie anks­
+    čiau gyveno Panonijoje, o iš ten kartu su vandalais jie
+    turėjo bėgti nuo gotų, kuriuos vijo hunai; taip drauge su
+    jais už Pirėnų atsidūrė ir dalis gotų.
+    48
+    Pagaliau dar vienas alanų būrys persikėlė į šiaurės
+    vakarus, j Vandaliją; kai kurie, kaip teigia Arnianas
+    Marcelinas2, apsigyveno Vyslos ir Nemuno tarpupyje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

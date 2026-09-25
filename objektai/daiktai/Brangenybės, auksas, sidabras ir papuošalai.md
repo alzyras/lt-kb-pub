@@ -152,7 +152,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175283
@@ -182,7 +182,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-179245
@@ -208,5 +208,30 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-197033
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
+  citata_originali: |
+    Tačiau su tuo miestu susiję dalykai išnyksta prieš­
+    istorinėje praeityje, jog net nežinome, ar buvo šio seno­
+    vinio miesto pėdsakų prieš įkuriant Elbliongą. Jei netu­
+    rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
+    nieko nežinotume apie šį miestą. Esama neabejotinų įro­
+    dymų apie tolimais amžiais šiose vietose gyvenusių žmo­
+    nių, visuomet garsėjusių prekyba, turtingumą; kasinėjant
+    netoli Elbliongo, aptikta labai dailių aukso, sidabro ir
+    kitokių auksuotų metalų papuošalų, molio, vaško ir pana­
+    šių į mozaiką, dažytų vėrinių, kurie sudaro įdomiausią
+    dalį senovės paminklų, saugomų Karaliaučiaus Archyvo
+    kabinete; kitur panašių beveik nepavykdavo rasti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

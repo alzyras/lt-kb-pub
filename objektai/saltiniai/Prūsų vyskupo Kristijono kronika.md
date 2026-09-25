@@ -28,27 +28,6 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
 
 ## Teiginiai
 
-<a id="claim-t-191716"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia apie sieros šaltinį netoli prūsų Romovės."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Prūsai: 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romovė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Formuluotė rodo, kad Romovė buvo siejama su prūsais kaip jų vieta."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Romovė priklausė Prūsai (0.82)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174598
-
 <a id="claim-t-191717"></a>
 - t-002
   teiginys: "Hartknocho liudijimu, vyskupas Kristijonas buvo senovės Prūsijos kronikos autorius, o ją citavo Grunau, Henenbergeris, Vaiselijus ir Lukas Davidas."
@@ -140,8 +119,6 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-174599
   autorius: "Teodoras Narbutas"
@@ -167,7 +144,7 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174600
@@ -189,7 +166,7 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-174601
@@ -209,7 +186,7 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-174602
@@ -228,5 +205,68 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-195994
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
+  citata_originali: |
+    3 Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi­
+    nosi Liber filiorum Belini, cum suis superstitionibus Brutiae factionis
+    incipit cum molestia cordis ir kurios pradžią sudarė Jaroslavo kroni­
+    ka, o vėliau autoriaus pastabos, nėra abejonių, atsižvelgiant j tai, ką
+    šia tema parašė ponas Foigtas (Gesch. Preuss. B. I. S. 617).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196579
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
+  citata_originali: |
+    Tai turėjusi
+    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
+    mis2. Kulmo vyskupas su jam būdingu kuklumu ir tei­
+    singumu įrašė į savo kroniką ištrauką iš Plocko kroniki­
+    ninko raštų3. Visos svarbiausios šio veikalo detalės turi
+    geriausių šiaurinių kraštų tyrinėtojų išvadas4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197193
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
+  citata_originali: |
+    Iš imperatoriaus Augusto valdy­
+    mo Romos valstybėje epochos išliko geografijos—istorijos
+    paminklas, susijęs su mūsų tema. ITartknochas savo prūsų
+    istorijos 20 puslapyje rašo« jog pirmasis Kulmo, arba Prū­
+    sijos, vyskupas Kristijonas, autorius kronikos, kuri buvo
+    laikoma pradingusia, apie senovės Prūsiją, — ją cituoja
+    ir mūsų kronikininkai Grunau, Henenbergeris, Vaiselijus
+    ir Lukas Davidas, — ¡pasakoja Bitinijos keliautojo Divonio,
+    neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
+    te, vėliau pavadintame Prūsija, stebėjimus. Mes panau­
+    dosime Hartknocho aprašytus padavimus, pridurdami ir
+    Luko Davido kronikos teiginius, kurių nežinojo anas au­
+    1 Lib.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

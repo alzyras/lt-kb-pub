@@ -81,11 +81,12 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
     siam Tochtamyšui pareiškęs: aš tave pasodinsiu Auksinėj Ordoj,
     o tu mane — Maskvos soste^1 ).
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-14556
@@ -107,6 +108,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-14557
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -127,5 +129,5 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

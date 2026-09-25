@@ -298,7 +298,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-85486
@@ -320,7 +320,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
     - t-013
 
@@ -345,7 +345,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-85490
@@ -365,7 +365,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
     - t-007
@@ -386,7 +386,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-010
 
@@ -408,7 +408,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-85493
@@ -428,7 +428,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-85494
@@ -452,7 +452,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-85495
@@ -474,6 +474,27 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
     - t-012
+
+- id: c-206279
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
+  citata_originali: |
+    270 (263). Apie Straisbergo miesto sugriovimą 1298 metais
+    Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo
+    29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus
+    gyventojus ir vieną kunigą, o moteris bei vaikus paėmė į nelaisvę; visaip išniekinę kitus
+    sakramentus, vienas dar suteršė indą krikšto vandeniui laikyti, pridergdamas į jį. Ligi pat
+    dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo
+    krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
+    palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -87,7 +87,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179381
@@ -111,5 +111,28 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-196643
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290."
+  citata_originali: |
+    Sis
+    pavadinimas kilęs iš latviškų žodžių Liatwin gals, Lie­
+    tuvos galas. Šios lietuvių tautos valdos yra iškovotos iš
+    lyvių, todėl vadinamos Livonija labai seniai ir gerokai
+    anksčiau negu IX amžiuje, nes rusų kronikos pačiais se­
+    niausiais laikais ten jau randa lietuvių giminės genčių.
+    Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas So-
+    letsa prie jūros, pats šiauriausias; pakrante nusitęsusi
+    žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė­
+    se — Toloma; rytinėje dalyje — tikroji Latgala1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

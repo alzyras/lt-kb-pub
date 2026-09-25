@@ -176,6 +176,19 @@ Nenurodyta
   pagrindžia:
     - c-166619
 
+<a id="claim-t-207449"></a>
+- t-207449
+  teiginys: "Alfredo Bumblausko interpretacijoje Krėvos sutartis sukūrė politinę sistemą, kurioje viršenybė priklausė Lenkijai."
+  atnaujinta: "2026-09-20 03:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
+  pagrindžia:
+    - c-190045
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Alfredo Bumblausko interpretacijoje Krėvos sutartis sukūrė politinę sistemą, kurioje viršenybė priklausė Lenkijai.'
@@ -205,7 +218,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-22973
@@ -225,7 +238,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-22975
@@ -246,7 +259,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-48207
@@ -267,7 +280,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166619
@@ -288,6 +301,29 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-006
+
+- id: c-190045
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 50"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 50."
+  citata_originali: |
+    Taigi Gediminaičių
+    dinastijos valdymas, susijęs su ankstyvuoju LDK istorijos laikotarpiu, istorinėje lietuvių
+    sąmonėje laikomu šlovingiausiu, o dinastijos ženklas – Gediminaičių stulpai – yra vienas
+    iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.
+    Krėvos sutartis sukūrė politinę sistemą, kurioje viršenybė priklausė Lenkijai, o šiai
+    sistemai – Lenkijos ir Lietuvos personalinei unijai – vadovauti Jogailai tapus Lenkijos ka-
+    raliumi iškelti Gediminaičiai, tapę lenkiškąja šios giminės šaka – Jogailaičiais. Ši Gedimi-
+    naičių šaka vėliau (XV a. pabaigoje – XVI a. pradžioje) buvo pasiekusi įtakos viršūnę.
+  citata_rodoma: "os sutartis sukūrė politinę sistemą, kurioje viršenybė priklausė Lenkijai, o šiai \nsistemai – Lenkijos ir Lietuvos personalinei unijai – vadovauti Jogailai tapus Lenkijos ka-\nraliumi iškelti Gediminaičiai, tapę lenkiškąja šios giminės šaka – Jogailaičiais. Ši"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207449

@@ -75,5 +75,5 @@ XVI a. pirmosios pusės teismo byla rodo, kad valstiečių ir bajorų kasdienio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

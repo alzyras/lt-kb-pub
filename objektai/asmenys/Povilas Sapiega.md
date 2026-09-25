@@ -122,7 +122,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-42197
@@ -144,7 +144,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-76233
@@ -166,5 +166,5 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

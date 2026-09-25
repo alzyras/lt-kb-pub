@@ -42,28 +42,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-189917"></a>
-- t-001
-  teiginys: "Narbutas Saitininkus aprašo kaip pranašautojus gydytojus, kurie ligas gydydavo užkabindami ligoniui ant kaklo tam tikrus amuletus."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Druska: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gydymas amuletais, kabinamais ant ligonio kaklo: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Druska: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gydymas amuletais, kabinamais ant ligonio kaklo\" parinktas kaip owner_note_path. Targetas \"Druska\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172800
-
 ## Citatos
 
 - id: c-172800
@@ -86,5 +64,3 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

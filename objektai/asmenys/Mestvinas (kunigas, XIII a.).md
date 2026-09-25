@@ -81,5 +81,5 @@ Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

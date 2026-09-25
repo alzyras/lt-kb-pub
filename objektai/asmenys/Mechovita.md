@@ -65,29 +65,6 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
   pagrindžia:
     - c-174046
 
-<a id="claim-t-191960"></a>
-- t-002
-  teiginys: "Narbuto cituojamas Mechovitos veikalas „Tractatus de duabus sarmatiis Asiana et Europiana, et de continentis in eis“ buvo išleistas Krokuvoje 1517 m."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mechovita: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=113"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mechovita\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1517 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas sakinys apie Mechovitos veikalą ir Narbuto citavimo kontekstą. Data ir leidimo vieta paimtos tiesiogiai iš citatos."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-174842
-
 ## Citatos
 
 - id: c-174046
@@ -109,7 +86,7 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174842
@@ -127,5 +104,24 @@ Narbutas rašo, kad Mechovita Polesėje prie Drohičino girdėjo kalbą, kurios 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-197640
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 119"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119."
+  citata_originali: |
+    Dėl to reikia daryti išva­
+    dą, kad senovės jotvingių kalba arba visiškai išnykusi,
+    arba buvo panaši j slavų kalbas. Tiesa, Mechovita, Zig­
+    manto I laikais gyvenęs istorikas, rašo girdėjęs jotvingių
+    kalbą Polesėje, šalia Drohičino; jos nei jis, nei lietuvis,
+    nei žemaitis negalėję suprasti. Mechovita taip kalba apie
+    čigonus, žmones, kuriuos kai kada priskirdavo prie jot­
+    vingių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

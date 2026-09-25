@@ -56,25 +56,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-186687"></a>
-- t-001
-  teiginys: "Mozyrius XIV a. antrajame ketvirtyje, valdant Gediminui, buvo Lietuvos įtakoje, o XIV a. viduryje galutinai prijungtas Algirdo."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mozyrius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sieja Mozyrių su Lietuvos įtaka, nors tai silpnesnė formuluotė nei aiški politinė priklausomybė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Mozyrius priklausė Lietuva (0.62)"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-169927
-
 <a id="claim-t-186688"></a>
 - t-002
   teiginys: "Pasakojimas apie mūšį su chano Kurdo totoriais prie Mozyriaus 1971 m. komentare laikomas galbūt paremtu vietos padavimu."
@@ -95,24 +76,6 @@ Nenurodyta
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-169928
-
-<a id="claim-t-186689"></a>
-- t-003
-  teiginys: "Tikslus Mozyriaus prijungimo prie LDK laikas ir aplinkybės nėra žinomi."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Mozyrius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Mozyrius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Mozyrius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-169927
 
 <a id="claim-t-186690"></a>
 - t-004
@@ -152,9 +115,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
 
 - id: c-169928
   autorius: "Anoniminis metraštininkas"
@@ -173,6 +133,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004

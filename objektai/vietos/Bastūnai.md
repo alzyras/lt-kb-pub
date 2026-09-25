@@ -76,5 +76,5 @@ Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

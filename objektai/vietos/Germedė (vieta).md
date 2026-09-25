@@ -48,21 +48,6 @@ Pasak Teodoro Narbuto, 1345 m. žiemos pabaigoje vokiečių surengtas antpuolis 
 
 Pasak Teodoro Narbuto, 1345 m. žiemos pabaigoje vokiečių surengtas antpuolis nuniokojo Germedės pavietą.
 
-## Teiginiai
-
-<a id="claim-t-206635"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, 1345 m. žiemos pabaigoje vokiečių surengtas antpuolis nuniokojo Germedės pavietą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189250
-
 ## Citatos
 
 - id: c-189250
@@ -77,5 +62,3 @@ Pasak Teodoro Narbuto, 1345 m. žiemos pabaigoje vokiečių surengtas antpuolis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

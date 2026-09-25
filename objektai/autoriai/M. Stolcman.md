@@ -71,5 +71,5 @@ M. Stolcman teigė, kad A. Marcinovskis nukrypo nuo XIX amžiuje dominavusio pro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

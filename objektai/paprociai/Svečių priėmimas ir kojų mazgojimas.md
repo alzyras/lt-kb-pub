@@ -95,5 +95,5 @@ Jeigu pasitaikydavo svečias, kuris, įėjęs į namus, gerais žodžiais pasvei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

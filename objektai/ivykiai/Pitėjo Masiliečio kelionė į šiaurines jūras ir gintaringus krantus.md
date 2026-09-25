@@ -125,7 +125,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-173904
@@ -156,7 +156,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173905
@@ -185,5 +185,84 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-194515
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 157."
+  citata_originali: |
+    O kalbėdami apie
+    Abalo salą, geriausi ¡senovės tyrinėtojai, ir tai labiausiai
+    įtikėtina, turi omeny šiandienę Sembą, kuri, būdama pu­
+    siasalis, dėl savo krantų, kurie aiškiai ¡skyrėsi nuo šian­
+    dienių, išties galėjo būti palaikyta sala: iš vienos pusės
+    žiotys Priegliaus, įtekančio į gerokai sausumon įsirėžusią
+    įlanką; iš kitos pusės Kuršių nerija, pertraukta ties Ra­
+    syte; pagaliau miškingos pakrantės galėjo lengvai suklai­
+    dinti jūros keliautoją, aprašinėjusį šią krašto dalį. Pitėjas
+    turbūt priplaukė prie kranto ties Nogato žiotimis, nes
+    vėliau ten dideliu laivu buvo atplaukęs Vulfstanas, — apie
+    jį kalbėsime vėliau, — pasiekė Druso miestą, be to, iš ten
+    išilgai krantų vieną ar porą dienų galėjo plaukti iki Sem­
+    bos. Čia ¡suprantame, kad tarp Nogato žiočių ir Sembos
+    vidurio senovėje buvo gana toli į jūrą išsikišusi sausumos
+    juosta, vadinta Vitlandija; ji iš dalies egzistavo XIII am­
+    žiaus pradžioje3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194861
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
+  citata_originali: |
+    Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
+    mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis,
+    gerai nustatęs išvykimo vietos, t. y. Masilijos uosto, geo­
+    grafinę padėtį, išplaukė į Atlanto vandenyną. Tai įvyko
+    praėjus 90 metų po H imi Ikaro kelionės, arba 340 metais
+    ¡prieš Kristaus gimimą. Sis keliautojas atvyko prie Brita­
+    nijos salų ir išsilaipino ¡pietryčių pusėje, prie Kanono ky­
+    šulio, 100 stadijų nuo žemyno atstumu3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197594
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 158."
+  citata_originali: |
+    Pagaliau kurui kaip
+    malkas vartojamą gintarą, kurio senovės Sembos gyven­
+    tojams netrūko, galima suprasti kaip iškasamas palmes,
+    iš kurių kažkada sunkėsi gintaras, apie tai kalbėjome
+    anksčiau; jų gal nemažai buvo išgaunama iš pakrančių
+    smėlio sluoksnio arba jų išmesdavo jūra.
+    162
+    Pasak autorių, gintaringos pakrantės buvo pažįstamos
+    dėl masiliečių prekybos, ypač alavu ir gintaru, išsiplėtu­
+    sios ir suklestėjusios IV amžiuje prieš Kristaus gimimą1.
+    Senovės tyrinėtojai netgi padarė gana taiklių prielaidų,
+    jog finikiečių, o gal ir masiliečių pirkliai turėję savo pre­
+    kyvietes, arba emporiurnus, Prūsijoje; iš jų viena buvusi
+    Ilelados pusiasalyje, Scurgon2 ramovėje, o antra ■— Kul­
+    nie prie Vyslos3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

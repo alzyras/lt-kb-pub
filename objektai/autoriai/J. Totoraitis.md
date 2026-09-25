@@ -81,5 +81,5 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

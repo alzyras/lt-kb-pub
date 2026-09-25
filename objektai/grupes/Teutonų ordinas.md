@@ -169,7 +169,7 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-202574
@@ -187,7 +187,7 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-202687
@@ -206,7 +206,7 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-203891
@@ -224,6 +224,7 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-204217
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -241,7 +242,7 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-204910
@@ -260,7 +261,7 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-205060
@@ -278,6 +279,7 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-205137
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -294,6 +296,7 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-205649
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -308,7 +311,7 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-205852
@@ -327,7 +330,7 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-206243
@@ -347,5 +350,5 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

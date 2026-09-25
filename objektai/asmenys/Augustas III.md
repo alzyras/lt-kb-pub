@@ -141,7 +141,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-78718
@@ -161,7 +161,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-78719
@@ -182,7 +182,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-78720
@@ -202,5 +202,5 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

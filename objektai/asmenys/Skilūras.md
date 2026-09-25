@@ -78,5 +78,27 @@ canonical_biography: "94 m. pr. Kr. roksolanai, vadovaujami Pasijaus, Paiako sū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196834
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
+  citata_originali: |
+    51
+    Ros-alanai, Seniausia užuomina apie roksolanus, kaip
+    apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
+    Dauguvos, buvo 94 metais prieš Kristaus gimimą. Rokso-
+    lanai, vadovaujami 'Pasijaus, Paiako sūnaus, padėjo ski­
+    tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
+    hR. Kai alanai iš Uralo kalnų pasistūmėjo į pietus, vie­
+    na jų orda pateko Į Volgos žemupį ir ten, šiandieninės
+    Astrachanės apylinkėse, gyveno gana ilgai4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

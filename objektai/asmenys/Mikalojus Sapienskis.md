@@ -87,7 +87,7 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-38096
@@ -109,5 +109,5 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

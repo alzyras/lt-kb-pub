@@ -141,7 +141,7 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -166,5 +166,45 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-200304
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 409"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 409."
+  citata_originali: |
+    Toks didelis buvo jo autoritetas, kad ne
+    tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo kri­
+    vūle ar kokiu kitu žinomu ženklu keliaudamas per šių netikė­
+    lių žemes, sulaukdavo didžios kunigaikščių, kilmingųjų bei pra­
+    stuomenės pagarbos). Nepradedami aiškinti šios Dusburgie-
+    čio kronikos vietos, pateiksime tą patį iš vėlesniojo jos perdir­
+    binio (rankraštis iš Slaptojo Karaliaučiaus archyvo), kur pasa­
+    kyta šitaip: In medio eorum fiât sita civitas Romowe, dicta a
+    Roma, in qua habitabat eorum nobilior, dictus Crive, quem pa­
+    gani pro Papa habebant, cui omnes non solum Pruteni, sed ei
+    Lithvani et Livonienses, veluti christiani Papae obediebant et
+    tantum venerabantur, quod etiam suos nuntios, qui ejus bacu­
+    lum aut signum aliquod portabant ab eo missum, principes etiam
+    et communis populus multo honore colebant et omnia praecep­
+    ta ejus firmiter servabant (Jų [žemės] viduryje buvo Romovės
+    miestas, gavęs vardą nuo Romos, kuriame gyveno kilminges-
+    nis iš jų, vadinamas kriviu, kurį stabmeldžiai laikė popiežiu­
+    mi, kurie visi - ne tik prūsai, bet ir lietuviai, ir livoniečiai -
+    klausė jo kaip krikščionys popiežiaus ir taip jį gerbė, kad netgi
+    jo pasiuntinius, nešinus jo lazda arba kokiu nors ženklu, jo
+    siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
+    sia pagarba ir griežtai vykdydavo visus jo nurodymus). Kaip
+    kiekvienas mato, abi šios citatos aiškiai skiriasi, iš dalies tuo,
+    kad antrojoje visiškai praleistas pavadinimas srities, kurioje
+    turėjusi būti Romovės šventovė; ten, kur kalbama apie krivį,
+    įdėta „kilmingesnis iš jų“ (eorum nobilior), taigi reiktų manyti,
+    jog Dusburgiečio tekstas netikslus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

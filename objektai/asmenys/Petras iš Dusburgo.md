@@ -58,6 +58,18 @@ Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romano
   pagrindžia:
     - c-169607
 
+<a id="claim-t-222444"></a>
+- t-222444
+  teiginys: "Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204249
+
 ## Citatos
 
 - id: c-169607
@@ -80,5 +92,21 @@ Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204249
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
+  citata_originali: |
+    Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222444

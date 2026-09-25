@@ -179,6 +179,31 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   pagrindžia:
     - c-187762
 
+<a id="claim-t-217482"></a>
+- t-217482
+  teiginys: "Vaidevutis buvo skirtas - vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir herbo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201463
+
+<a id="claim-t-219673"></a>
+- t-219673
+  teiginys: "Tačiau Prūsijos kronikininkai linkę manyti, kad šiuo vardu buvo garbinamas senovės kunigaikštis Vaidevutis, neva laiky tas dievu."
+  atnaujinta: "2026-09-19 18:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-201084
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs runų užrašas buvo skirtas vėliavai, ar herbui.'
@@ -262,7 +287,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172914
@@ -295,7 +320,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177122
@@ -319,7 +344,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177317
@@ -339,7 +364,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-178797
@@ -362,7 +387,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-178798
@@ -392,7 +417,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-178799
@@ -416,7 +441,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-179203
@@ -439,7 +464,7 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-187762
@@ -459,5 +484,120 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+- id: c-196558
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 509"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 509."
+  citata_originali: |
+    Mūsų
+    piešinio užrašas runomis reiškia Vaidevučio vardą (pono Volian­
+    skio šil'ruotė), tačiau negalime tiksliai pasakyti, kam jis buvo
+    skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir
+    herbo.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198035
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 433."
+  citata_originali: |
+    Labiausiai kritikui nepa­
+    tiko, kad didžioji vardų dalis baigiasi raide o; tokių prūsiškų,
+    šiaip jau žinomų vardų esą maža. Atsakant į tai, reikia atkreipti
+    kritiko dėmesį, kad tie vardai kronikose iš dalies rašomi ne­
+    tiksliai, kadangi šiaip jau žinomiBrutenes (Brutenis) ir Wejda-
+    wutis (Vaidevutis) tame būryje turi tokias pat vardų galūnes.
+    Tačiau pats kritikas negali užginčyti, kad buvo vardų ir su to­
+    kia galūne; tegu pamąsto apie tokį atvejį, jog tų žmonių būry­
+    je daugiausia buvo turinčių tas nelaimingas galūnes, kurios
+    padarė, kad autorius pats susilpnina ir vienu plunksnos brūkš­
+    niu padaro abejotinus savo principinius teiginius, taip stropiai
+    pateiktus anksčiau toje pačioje istorijoje, ir vyriausiojo žynio
+    buvimo įrodymus, nukreiptus prieš priešingų hipotezių kėlė­
+    jus, - įrodymus, tokius tvirtus, aiškius ir akivaizdžius, kiek tik
+    leidžia pagalbinės istorijos mokslo priemonės, - pasitelkda­
+    mas hipotezes jiems visiškai sugriauti ir dar hipotezes, pasi­
+    skolintas iš Hartknocho, kuris nerūpestingai prikaišiojo jų į
+    savo Prūsijos istorijos aprašymus ' ir šiandien tikrai atšauktų,
+    jeigu perskaitytų, ką mes čia tuo klausimu išdėstėme.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-198312
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 282."
+  citata_originali: |
+    Palaikydavo taiką arba
+    užkurdavo karo gaisrą, nes buvo artimas dievų puotų dalyvis.
+    Iki kryžiuočių užpuolimo vyriausiojo žynio buveinė buvo Ro-
+    movė Natangijoje, Prūsos ir Bysleidos upių santakoje. Sako,
+    kad kadaise jis gyvenęs ir Šventamiestyje, kitaip Šventajame
+    Karvelyje; tam tikrais kritiškais momentais, kai Didžiajai Ro-
+    rnovei kildavo grėsmė, kad gali būti priešo užimta, arba kai ji
+    būdavo naikinama, kaip per karus su lenkais, tuomet jis gy­
+    vendavo vietovėse, kurios turi panašius pavadinimus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201084
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
+  citata_originali: |
+    Išeitų, kad dievo Šneibrato mitas virto nusipelniusio tau­
+    tai dievinamo vyro simboliu, kadangi tie patys kronikininkai
+    teigia, jog trejetas vyriausiųjų dievų buvo Perkūnas, Atrimpas
+    ir Poklius, o po jų vyriausiesiems dievams priklausė taip pat
+    Viršaitis, Šneibratas ir Kurkas.
+    Tai paimta iš paminklų, rastų Prūsijoje, kur kaip dievai buvo
+    garbinami du broliai - Vaidevutis ir Prutenis, garbinti per sta­
+    bus tų minėtų dievų, kurie turėjo ir atskiras savo valdymo sritis.
+    Jam aukodavo sorų paplotėlius, iškeptus ant ugnies, sukur­
+    tos prie liepų medžių21.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219673
+
+- id: c-201463
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 401."
+  citata_originali: |
+    Mūsų piešinio užrašas runomis reiškia Vaivedučio
+    vardą (pono Volianskio šijruotė), tačiau negalime tiksliai pasa­
+    kyti, kam jis buvo skirtas - vėliavai ar herbui, nes jis užrašytas
+    tarp vėliavos ir herbo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217482

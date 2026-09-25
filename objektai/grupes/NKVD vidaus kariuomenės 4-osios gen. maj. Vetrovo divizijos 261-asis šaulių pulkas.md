@@ -71,5 +71,5 @@ NKVD pajėgos NKVD vidaus kariuomenės 4-osios gen. “ Mūšis 1945 m. kovo pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

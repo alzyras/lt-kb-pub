@@ -81,7 +81,7 @@ Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186556
@@ -100,5 +100,5 @@ Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

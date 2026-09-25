@@ -146,7 +146,7 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -175,7 +175,7 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-25418
@@ -205,7 +205,7 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-73213
@@ -226,5 +226,5 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

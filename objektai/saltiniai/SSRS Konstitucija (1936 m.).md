@@ -93,7 +93,7 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-23948
@@ -114,5 +114,5 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

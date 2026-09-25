@@ -93,6 +93,18 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   pagrindžia:
     - c-166509
 
+<a id="claim-t-207503"></a>
+- t-207503
+  teiginys: "Chodkevičių monografija siejama su bažnytinės unijos genezei svarbiomis įžvalgomis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190120
+
 ## Citatos
 
 - id: c-22370
@@ -113,7 +125,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-22371
@@ -135,6 +147,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-166509
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -150,6 +163,29 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
+
+- id: c-190120
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 324"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 324."
+  citata_originali: |
+    Kazimieras ir Jogailaičiai, Lietuvos Statutai ir Lietuvos
+    metraščiai, Barbora Radvilaitė su Žygimantu Augustu. Tarp tų pačių lietuviškų žvilgsnių
+    skirsis požiūriai į LDK margumą ir daugiakonfesiškumą – vieniems tai valstybės silpnu-
+    mo, o kitiems – tolerancijos išraiška. Ir vis dėlto reikėtų išskirti R. Petrausko socialinės
+    istorijos sintezę, Genutės Kirkienės Chodkevičių monografiją, kurioje ypač reikšmingos
+    bažnytinės unijos genezei skirtos įžvalgos, R. Ragauskienės studiją Mikalojui Radvilai
+    Rudajam, Dainoros Pociūtės Reformacijos genezės ir lietuvių–italų evangelikų ryšiams
+    skirtą monografiją.
+  citata_rodoma: "Genutės Kirkienės Chodkevičių monografiją, kurioje ypač reikšmingos \nbažnytinės unijos genezei skirtos įžvalgos, R. Ragauskienės studiją Mikalojui Radvilai \nRudajam, Dainoros Pociūtės Reformacijos genezės ir lietuvių–italų evangelikų ryšiams \nskirtą monografiją."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207503

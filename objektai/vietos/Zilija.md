@@ -84,5 +84,34 @@ Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-203898
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 167-168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167-168."
+  citata_originali: |
+    Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
+                            dvikas antrą kartą pakliuvo į nelaisvę
+
+      Tuo metu, kai brolis Mangoldas, magistras, keliavo  į kapitulą, brolis Konradas iš
+    Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule kariuomene į Sūduvos valsčių,
+    vardu Zilija504. Ši kariuomenė buvo tokia didelė, kad ji nusidriekė per daugelį mylių. Ji
+
+      503 Turbūt į Lietuvos valstybės teritoriją, gal į Gardino apylinkes (plg. D. III, 217, 219,
+    223). Apie sūduvių (jotvingių) apgyvendinimą Lietuvos valstybės teritorijoje žr. Kamiński
+    A., Jaćwież..., p. 67—71. Jų sodybos randamos XIII a. etninio lietuvių ploto rytiniame
+    pakraštyje — Dainavos (Dojnova) gyvenvietės prie Radoškovičių ir kitur (Ochmański J.,
+    Litewska granica..., p.. 36—37).
+      504 D. — territorium [...] Siliam, Jer.— zu Silien; Liber censuum Daniae — Syllonis
+
+    pavertė pelenais visus pastatus minėtajame valsčiuje, nukovė vieną kilmingąjį, vardu
+    Vadolis505, tenykštį vadą, bei daugybę kitų ir išsigabeno nesuskaičiuojamą grobį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

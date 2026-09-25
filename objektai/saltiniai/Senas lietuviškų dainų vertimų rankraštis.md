@@ -29,18 +29,17 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
 
 ## Teiginiai
 
-<a id="claim-t-194852"></a>
-- t-001
-  teiginys: "Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas 5 Senas lietuviškų dainų vertimų rankraštis."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-219365"></a>
+- t-219365
+  teiginys: "Dar išliko lietuvių daina, kurios vertimas toks:."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-177248
+    - c-198092
 
 ## Citatos
 
@@ -63,5 +62,19 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-198092
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
+  citata_originali: |
+    Dar išliko lietuvių daina, kurios vertimas toks:
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219365

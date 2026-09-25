@@ -111,7 +111,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175280
@@ -132,5 +132,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-195574
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 504"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 504."
+  citata_originali: |
+    Per daugelį metų taip išaugdavo pilka­
+    piai. Ukmergės pilkapis, kurį 1838 metais atkasė Karolis Koza-
+    kovskis, duoda pagrindo tuo tikėti. Tas pilkapis ilgus metus buvo
+    užlietas greta esančio ežero, bet, kai neseniai ta vieta buvo nu­
+    sausinta ir buvo atlikti kasinėjimai, paaiškėjo, jog pilkapis plytėjo
+    ant didžiulės duobės, kuri beveik visa buvo pilna pelenų ir ap­
+    degusių daiktų liekanų2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

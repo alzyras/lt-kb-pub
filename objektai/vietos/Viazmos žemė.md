@@ -115,7 +115,7 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168637
@@ -138,5 +138,5 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

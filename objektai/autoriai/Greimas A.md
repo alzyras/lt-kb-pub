@@ -69,5 +69,22 @@ Dusburgietis teigia, kad turėdami omenyje prūsų dievų triadą (Patulas, Patr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-201873
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
+  citata_originali: |
+    Turėdami omenyje prūsų dievų triadą (Patulas, Patrimpas, Perkūnas)  ir dievus
+    „žemininkus“ (Greimas A., Apie dievus..., p. 166—179; Топоров B. H., Заметки по
+    балтийской мифологии, с. 289—314; Vėlius N., Senovės baltų..., p. 59), anksčiau
+    aptartus Nadruvos regionus, skirtus pagoniškam kultui, galima būtų diferencijuoti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

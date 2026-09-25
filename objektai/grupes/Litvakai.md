@@ -178,7 +178,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-22659
@@ -203,7 +203,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-22660
@@ -228,7 +228,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-48012
@@ -258,7 +258,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-166557
@@ -275,10 +275,11 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     mokslinimui. Ne veltui sklido gandai, kad visi Vilniaus išminčiai atminti-
     nai mokėjo visus 64 Talmudo tomus.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-006

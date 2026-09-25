@@ -114,11 +114,12 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.
   citata_rodoma: "Ekonomikos susovietinimas\nUnifikuodami visų sovietinių respublikų gyvenimą, sovie-\ntai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad\nžemės ūkyje turėjo būti steigiami kolektyviniai ūkiai."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-24880
@@ -140,7 +141,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-73298
@@ -166,7 +167,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-73299
@@ -187,5 +188,5 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

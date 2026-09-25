@@ -188,7 +188,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-73647
@@ -211,6 +211,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-73648
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -239,7 +240,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -267,6 +268,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-73650
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -285,7 +287,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-73651
@@ -311,6 +313,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-73652
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -332,7 +335,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-007
     - t-008
@@ -354,5 +357,5 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006

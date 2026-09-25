@@ -80,5 +80,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199148
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 342"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 342."
+  citata_originali: |
+    Atrodo, jog ši pagoniška religija daugiausia būdavo nau­
+    dinga tuo, kad tamsią, piktą, linkusią nusigerti liaudį išlaiky­
+    davo tam tikru mastu padorią dėl vaišių, kurios dėl tos pačios
+    priežasties susiliedavo su religinėmis apeigomis. Religinės apei­
+    gos būdavo atliekamos po pliku dangumi, nes vos ne visos šven­
+    tyklos buvo be stogų ir kulto statiniai neturėjo dangos. Tam
+    tikslui būdavo pasirenkama rami ir giedra diena, o jeigu neti­
+    kėta liūtis sutrukdydavo apeigas, tą palaikydavo aiškiu dievų
+    pykčiu“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

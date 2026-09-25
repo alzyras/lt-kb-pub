@@ -60,5 +60,5 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

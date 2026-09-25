@@ -48,24 +48,6 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
 
 ## Teiginiai
 
-<a id="claim-t-78835"></a>
-- t-001
-  teiginys: "„Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.)“ šiame veikale cituojamas chunk_0010: siauresnis to paties aprašymo išskyrimas apie artileriją."
-  atnaujinta: "2026-06-01 14:44"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=158"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.)\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1572 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-11226
-
 <a id="claim-t-78836"></a>
 - t-002
   teiginys: "Fulvio Ruggieri 1572 m. aprašė, kad kavalerijoje kapitonas vadovavo šimtui raitininkų, o pėstininkų kapitonas paprastai turėjo 200 pėstininkų."
@@ -122,8 +104,7 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-003
 
 - id: c-75976
@@ -149,5 +130,5 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

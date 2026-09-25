@@ -148,6 +148,30 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   pagrindžia:
     - c-167844
 
+<a id="claim-t-210457"></a>
+- t-210457
+  teiginys: "Tai pirma jo žiau rybė, padaryta krikščionims."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193754
+
+<a id="claim-t-217485"></a>
+- t-217485
+  teiginys: "Todėl niekas iš krikščionių nei iš kitatikių negalėjo dalyvauti tame aukojime."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201413
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Gediminas nenorėjo priimti krikščionybės ar sudaryti sutarties su krikščionimis, todėl nutraukė pradėtas derybas.'
@@ -216,7 +240,7 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167843
@@ -240,7 +264,7 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167844
@@ -281,7 +305,7 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-006
 
@@ -305,7 +329,7 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171099
@@ -335,8 +359,43 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-193754
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 38."
+  citata_originali: |
+    Ir jos
+    vardan Kristaus tapo kankinėmis. Tai pirma jo žiau­
+    rybė, padaryta krikščionims.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210457
+
+- id: c-201413
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 313."
+  citata_originali: |
+    Todėl niekas iš krikščionių nei
+    iš kitatikių negalėjo dalyvauti tame aukojime.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217485
 
 ## Ryšiai
 - Krikščionys puolė [[objektai/grupes/Galindai]]

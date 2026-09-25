@@ -42,24 +42,6 @@ canonical_biography: "Dusburgietis teigia, kad tai nuo Dlugošo einanti tradicij
 
 Dusburgietis teigia, kad tai nuo Dlugošo einanti tradicija — Jakubowski J.
 
-## Teiginiai
-
-<a id="claim-t-60716"></a>
-- t-001
-  teiginys: "J. Jakubowskis Długoszo tradiciją siejo su žinia apie Petrą Dusburgietį per tarpininką."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jakubowski J: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jakubowski J\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61348
-
 ## Citatos
 
 - id: c-61348
@@ -78,5 +60,21 @@ Dusburgietis teigia, kad tai nuo Dlugošo einanti tradicija — Jakubowski J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-205048
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
+  citata_originali: |
+    75 Pasakodamas apie Vytenį, jis tvirtina rašąs kaip Petras Dusburgietis, senas Prūsų
+    istorijos rašytojas, bet iš tolesnio teksto matyti, kad apie Dusburgietį jis bus girdėjęs per
+    tarpininką, greičiausiai M. Mechovskį. Tai nuo Dlugošo einanti tradicija — Jakubowski J.
+    Studya..., s. 100—101; to paties, Tautiniai..., p. 80—81; plg. Baryczowa M. Augustyn
+    Rotundus..., s. 131, 133 (1936).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

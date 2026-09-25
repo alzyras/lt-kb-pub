@@ -33,21 +33,6 @@ canonical_biography: "Visi šie žynių - vyrų ir moterų - vardai paimti iš M
 
 Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai.
 
-## Teiginiai
-
-<a id="claim-t-194827"></a>
-- t-001
-  teiginys: "Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177223
-
 ## Citatos
 
 - id: c-177223
@@ -69,5 +54,3 @@ Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorija
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

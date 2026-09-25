@@ -69,9 +69,10 @@ Vilniaus gatvių architektūriniai vaizdai Vorobjovui priminė Bergamą ir kitus
     suteikia miestui dar romantiškesnį pobūdį, — lygiai, kaip ir apleista, ap­
     kerpėjusi daugelio pastatų ir ištisų kvartalų išvaizda.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

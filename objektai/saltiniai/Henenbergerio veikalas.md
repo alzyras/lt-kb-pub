@@ -57,5 +57,5 @@ Pasak Henenbergerio, lietuviai įsivaizduodavo jį senio pavidalu, su žila barz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

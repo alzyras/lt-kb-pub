@@ -64,6 +64,18 @@ Nenurodyta
   pagrindžia:
     - c-63671
 
+<a id="claim-t-224265"></a>
+- t-224265
+  teiginys: "Apaštališkojo sosto vardu buvo įsakyta skelbti kryžiaus karą Sventopelkui ir jo šalininkams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206267
+
 ## Citatos
 
 - id: c-63670
@@ -85,6 +97,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-63671
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -106,5 +119,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206267
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
+  citata_originali: |
+    Taigi pasiuntinys, matydamas, kad kunigaikštis visai neketina
+    taisytis ir nieku būdu nenori grįžti į šventosios motinos bažnyčios prieglobstį, deramai
+    jį įspėjo, kad, didėjant užsispyrimui, didėsianti ir bausmė; norėdamas sutramdyti šio
+    tirono bei jo šalininkų piktus darbus, jis apaštališkojo sosto vardu įsakė skelbti kryžiaus
+    karą karalystėse ir provincijose, kurios buvo numatytos tam reikalui, įpareigodamas
+    kryžininkus bei Teutonų ordino brolius, davus dorovingus šventojo klusnumo įžadus ir
+    tikintis nuodėmių atleidimo, ginti, kiek jėgos leidžia, Kristaus tikėjimą ir tikinčiųjų bažnyčią
+    Prūsijos žemėse nuo šitokio žiauraus bei neteisingo šio kunigaikščio persekiojimo270.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224265

@@ -83,5 +83,5 @@ Karolis Šidlauskas aprašomas kaip nedidelio ūgio samdinys, drauge tarnavęs s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -72,24 +72,20 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
   pagrindžia:
     - c-56336
 
-<a id="claim-t-55713"></a>
-- t-002
-  teiginys: "1314 m. sausio pradžioje keli lietuviai naktį įsibrovė į Henriko stovyklą ir nužudė keturis vyrus."
-  atnaujinta: "2026-07-19 18:48"
+<a id="claim-t-221064"></a>
+- t-221064
+  teiginys: "Po nesėkmingo Sizditės pilies puolimo Henriko kariuomenė patraukė į pilies apylinkes ir dar kartą jas nusiaubė."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumas: "susije_su -> Sizditė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Sizditė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)\" parinktas kaip owner_note_path. Targetas \"Sizditė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1314 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-56337
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -148,7 +144,7 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-56337
@@ -167,5 +163,3 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002

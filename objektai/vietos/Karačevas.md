@@ -103,6 +103,30 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
   pagrindžia:
     - c-170297
 
+<a id="claim-t-210790"></a>
+- t-210790
+  teiginys: "Karačevas yra miestas į pietryčius nuo Briansko."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194046
+
+<a id="claim-t-211747"></a>
+- t-211747
+  teiginys: "Karačevo kunigaikštystė buvo Černigovo žemės dalis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193793
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -142,10 +166,47 @@ Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
     - t-003
+
+- id: c-193793
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 197"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 197."
+  citata_originali: |
+    Karačevo kunigaikštystė (Černigovo žemės dalis) XIII a. vi­
+    duryje
+    buvo
+    vieno
+    Iš Černigovo rusų kunigaikščių — Mstislavo
+    Michallovičiaus — dala.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211747
+
+- id: c-194046
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 196."
+  citata_originali: |
+    Karačevas — RTFSR miestas (| pietryčius nuo Briansko).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210790
 
 ## Ryšiai
 - Užėmė Karačevą: [[objektai/asmenys/Skirmantas]]

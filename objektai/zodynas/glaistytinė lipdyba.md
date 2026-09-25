@@ -60,9 +60,10 @@ media_all_json: |-
     bažnyčioje koncentruota kupolo šviesa, apiberdama spinduliais begalinę
     aibę glaistytinių papuošalų, sujungia jų mases į tapybišką visetą.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -75,5 +75,5 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

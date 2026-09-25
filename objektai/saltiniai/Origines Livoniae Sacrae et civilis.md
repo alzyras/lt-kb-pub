@@ -69,5 +69,24 @@ Narbutas rašo, kad Amianas Marcelinas apie 378 m. prisiminė arimfėjų tautą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195815
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 256"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 256."
+  citata_originali: |
+    Amianas Marcelinas, baigęs rašyti Romos istoriją apie
+    378 metus, valdant imperatoriams Gracianui ir Valenti-
+    nianui, prisimena arimfėjų tautą, gyvenusią toje pačioje
+    vietoje, kur jie buvo alanų ir masagetų kaimynai, beje,
+    1 ibid. Origines Livoniae Sacrae et civilis (Silva Documento-
+    rum. P. 267, 268).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

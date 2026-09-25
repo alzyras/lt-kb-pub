@@ -103,7 +103,7 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167405
@@ -128,6 +128,30 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-003
+
+- id: c-204693
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
+  citata_originali: |
+    Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“
+    (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
+    dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į
+    Ordiną — tai „šventas sumanymas“ (III,284).
+    Čia verta priminti, kad Vakarų Europos pasaulietiniai ir bažnytiniai feodalai, norėdami
+    praturtėti, užvaldyti nekrikščioniškas šalis, skelbė kryžiaus žygių idėjas: žemė su visais
+    turtais esanti dievo dovana, ja neteisėtai naudojasi krikščionybės priešai.
+    Kryžininkų kariuomenėje buvo skirtingų luomų ir socialinės padėties žmonių, kurie tikėjo,
+    jog atlieka savo pareigą, gina ir skleidžia išganingą santvarką, paremtą krikščioniškąja
+    teise, pagal kurią tik krikščionių dievo vardu dovanota žemė ir ją dirbantys žmonės
+    laikomos teisėtai valdomi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -49,6 +49,18 @@ Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino
   pagrindžia:
     - c-172177
 
+<a id="claim-t-217045"></a>
+- t-217045
+  teiginys: "Latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199092
+
 ## Citatos
 
 - id: c-172177
@@ -70,5 +82,27 @@ Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-199092
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  citata_originali: |
+    Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
+    pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­
+    nius žalčius; šie baltu rankšluosčiu užšliaužia ant stalo ir ra­
+    gauja valgių, kuriuos paskui žmonės suvalgo, bet jeigu žalčiai
+    nenorėtų išlįsti arba ėsti, tai reikštų gresiančią namui didelę
+    nelaimę“.
+    Latviai naminius žalčius, garbintus kaip fetišus, vadino
+    Czuhskas. Šiuos prietarus žinojo ir Lietuvos rusinai.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217045

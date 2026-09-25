@@ -70,5 +70,5 @@ Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanusas Jagieris panoro ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

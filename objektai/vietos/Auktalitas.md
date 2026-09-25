@@ -90,7 +90,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59154
@@ -111,5 +111,5 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

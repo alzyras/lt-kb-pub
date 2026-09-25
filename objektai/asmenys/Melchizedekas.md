@@ -65,6 +65,16 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   pagrindžia:
     - c-61019
 
+<a id="claim-t-220575"></a>
+- t-220575
+  teiginys: "Melchizedekas Abraomui padovanojo duonos ir vyno kaip aukai skirtą dovaną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Citatos
 
 - id: c-61019
@@ -92,6 +102,6 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

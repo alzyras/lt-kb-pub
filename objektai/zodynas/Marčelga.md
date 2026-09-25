@@ -86,6 +86,16 @@ Papildomos aiškios formos neišskirtos.
   pagrindžia:
     - c-184302
 
+<a id="claim-t-210130"></a>
+- t-210130
+  teiginys: "Marčelga buvo vienas iš jaunojo genties vyresniųjų, vadinamas gaspadoriumi, nes martavo marčią."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
 ## Citatos
 
 - id: c-09588
@@ -106,7 +116,7 @@ Papildomos aiškios formos neišskirtos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184301
@@ -128,7 +138,7 @@ Papildomos aiškios formos neišskirtos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184302
@@ -160,5 +170,5 @@ Papildomos aiškios formos neišskirtos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

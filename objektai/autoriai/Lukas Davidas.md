@@ -216,7 +216,7 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177063
@@ -246,7 +246,7 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177280
@@ -264,7 +264,7 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-187813
@@ -284,7 +284,7 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-187870
@@ -313,7 +313,7 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-187929
@@ -335,7 +335,7 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-188006
@@ -357,7 +357,7 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-188077
@@ -381,7 +381,7 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188143
@@ -401,7 +401,7 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-188845
@@ -415,7 +415,7 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-010
 
 - id: c-188846
@@ -432,5 +432,53 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
+
+- id: c-199405
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 415"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
+  citata_originali: |
+    Prie šių svetimų įrodymų galima būtų pridurti dar kitus,
+    išplaukiančius iš paties dalyko. Lukas Davidas, kuris prūsus
+    kildina iš gotų, mano, kad Romonės šventyklos įkūrimas su
+    vyriausiuoju žyniu Krivių Krivaičiu yra tiesioginis sekimas go­
+    tų arba Skandinavijos švedų papročiu. Iš tikrųjų Skandinavi­
+    joje randame atitikmens pėdsaką.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199770
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 432"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
+  citata_originali: |
+    Žinią apie vyriausiuosius žy­
+    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
+    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
+    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
+    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
+    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
+    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
+    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
+    Davido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi
+    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
+    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
+    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
+    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
+    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
+    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
+    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

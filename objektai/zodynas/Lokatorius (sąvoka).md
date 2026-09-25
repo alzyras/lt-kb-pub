@@ -85,7 +85,7 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185126
@@ -101,7 +101,7 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185127
@@ -118,5 +118,5 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003

@@ -115,7 +115,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167322
@@ -135,5 +135,47 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-204312
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  citata_originali: |
+    162 Kulmo (dab. Chelmnas, Chelmno, LLR) pilies ir kt. Šios žemės pilių sunaikinimą
+    patvirtina 1222 (ar 1223) m. Konrado privilegija vyskupui Kristijonui (PUB, 1, 1, Nr.
+    41, p. 28). Tai galėjo įvykti 1216 m. ar 1217 m. pradžioje, kai į prūsų nelaisvę pateko
+    Mazovijos vaivada Kristinas, arba 1220 m. Prūsų rankose Kulmo žemė galėjo būti 1226—
+    1230 m. Dusburgiečio minimos (III, 7) prūsų įgulos Kulmo žemės pilyse siejamos jau
+    su 1226 m.; kita vertus, manoma, kad Kulmo žemę prūsai užėmė tik 1231 m. vasarą.
+    Istoriografijoje vyrauja nuomonė, kad Dusburgietis perdeda, teigdamas, jog Kulmo žemė
+    buvusi visiškai nusiaubta, paversta dykromis, nes jam rūpėjo padidinti prūsų antpuolių
+    rezultatus, iškelti Ordino nuopelnus (HP. 1, 1, p. 427, 436; Ślaski K. Przyczyny..., p. 26—
+    27; Powierski J. Stosunki..., p. 153; to paties, Przekaz..., p. 408).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204709
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 43"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 43."
+  citata_originali: |
+    kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
+    jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
+    prisėjo raugių. Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
+    po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
+    arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
+    išsigelbėjo pabėgdamas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

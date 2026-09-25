@@ -92,7 +92,7 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179315
@@ -113,8 +113,28 @@ Narbutas Gotbrodą vadina švedų karaliumi ir rašo, kad jo įpėdinis Goteris 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-197503
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
+  citata_originali: |
+    Gotbrodo įpėdinis Goteris žu­
+    vo kovodamas su Bojumi, Otino sūnumi, rusų karalienės
+    Rindos vyru. Vienas suomių burtininkas išpranašavo šį
+    liūdną atsitikimą, nes pats Bojas, sužeistas šiose kauty­
+    nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
+    laidojo jį itin pagarbiai. Supylė virš jo kapo didžiulį pil­
+    kapį, amžiną karingo Bojo šlovės paminklą3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Gotbrodas buvo valdovas [[objektai/grupes/Švedai]]

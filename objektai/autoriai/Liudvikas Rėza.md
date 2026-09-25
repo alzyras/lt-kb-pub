@@ -58,17 +58,17 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   pagrindžia:
     - c-176260
 
-<a id="claim-t-197319"></a>
-- t-002
-  teiginys: "Liudvikas Rėza nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš akių; kiti lydi mirusįjį iki laidojimo vietos."
-  atnaujinta: "2026-07-12 22:32"
+<a id="claim-t-217694"></a>
+- t-217694
+  teiginys: "Lietuvių garbinti dangaus kū nai (Saulė, Mėnuo, Aušra, Vakarinė, žvaigždės) daugiausia api būdinami pagal Liudviko Rėzos paskelbtąsias (1825) ir latvių mitologines dainas."
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179128
+    - c-201507
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -112,7 +112,7 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179128
@@ -132,5 +132,41 @@ Teodoro Narbuto teigimu, Liudvikas Rėza priekaištavo skeptikams ir gynė kroni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-199468
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
+  citata_originali: |
+    Toje
+    vietoje būna įkaltas stulpelis ir ant jo padėtas pinigas. Raite­
+    liai nuo tam tikros vietos leidžiasi lenktynių stulpelio link; tas,
+    kuris prijos pirmasis ir paims pinigą, pelno nemenką šlovę. Jis
+    nesustodamas joja tolyn, rodydamas laimikį, kol išnyksta iš
+    akių; kiti lydi mirusįjį iki laidojimo vietos.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201507
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 26"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 26."
+  citata_originali: |
+    Lietuvių garbinti dangaus kū­
+    nai (Saulė, Mėnuo, Aušra, Vakarinė, žvaigždės) daugiausia api­
+    būdinami pagal Liudviko Rėzos paskelbtąsias (1825) ir latvių
+    mitologines dainas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217694

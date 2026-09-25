@@ -60,5 +60,5 @@ p. 251, Sausio 13-osios dienos brolijos (organizacijos, vienijančios Sausio įv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

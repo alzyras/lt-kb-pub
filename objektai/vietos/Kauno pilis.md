@@ -192,7 +192,7 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-43493
@@ -220,7 +220,7 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-76419
@@ -243,7 +243,7 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-76420
@@ -276,7 +276,7 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184967
@@ -293,7 +293,7 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184968
@@ -311,7 +311,7 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184969
@@ -333,7 +333,7 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 ## Ryšiai

@@ -38,27 +38,6 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
 
 ## Teiginiai
 
-<a id="claim-t-191148"></a>
-- t-001
-  teiginys: "Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų karalystės pamatus, jei nebūtų sutrukdęs hunų įsiveržimas į Europą."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_valdovas -> Gotai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Germanarikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Germanarikas tiesiogiai įvardytas kaip vienas iš gotų karalių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Germanarikas buvo valdovas Gotai (0.90)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174030
-
 <a id="claim-t-191149"></a>
 - t-002
   teiginys: "Narbutas, remdamasis Jordanu, rašo, kad Rytų gotų valdovas Germanarikas užėmė ilgą Vokiečių okeano pakrantę ir pavergė estų tautą."
@@ -113,6 +92,18 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   pagrindžia:
     - c-188081
 
+<a id="claim-t-213540"></a>
+- t-213540
+  teiginys: "Narbutas teigia, kad Germanarikas buvo gotų karalius, labiausiai išplėtęs savo valdžią."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197404
+
 ## Citatos
 
 - id: c-174030
@@ -133,8 +124,6 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-174031
   autorius: "Teodoras Narbutas"
@@ -158,7 +147,7 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174032
@@ -182,7 +171,7 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188081
@@ -208,8 +197,50 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-196517
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
+  citata_originali: |
+    Vėliau Jordanas, gotų istorikas,
+    daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­
+    jęs, mini estus, kurie taip pat gyveną jūros pakrantėje3.
+    Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
+    riko įtaką Europos vakaruose gyvenančioms tautoms ir
+    gentims, sako: „Turbūt tas pats karalius Germanarikas
+    savo išmintimi užėmė ilgą Vokiečių okeano pakrantės
+    kraštą ir pavergė estų tautą“4. Žinios apie šį bendrinį pa­
+    vadinimą buvo plačiai paplitusios, nes ir Prokopijus5 mi­
+    ni estus, kalbėdamas apie karingus Odoakro vadovauja­
+    mus herulus, kilusius iš estų tautos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197404
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 87"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 87."
+  citata_originali: |
+    Vienas iš gotų karalių, Germanarikas, labiausiai išplėtęs
+    savo valdžią, gal ir būtų padėjęs gotų karalystės pama­
+    tus, jei to nebūtų sutrukdęs hunų įsiveržimas į Europą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213540
 
 ## Ryšiai
 - Germanarikas buvo valdovas [[objektai/grupes/Gotai]]

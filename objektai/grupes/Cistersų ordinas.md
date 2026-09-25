@@ -133,6 +133,18 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   pagrindžia:
     - c-178968
 
+<a id="claim-t-224971"></a>
+- t-224971
+  teiginys: "Dusburgietis nurodo, kad Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis."
+  atnaujinta: "2026-09-20 09:51"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202632
+
 ## Citatos
 
 - id: c-84522
@@ -152,7 +164,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-84523
@@ -175,7 +187,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-84524
@@ -204,7 +216,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -227,5 +239,96 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-201729
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
+  citata_originali: |
+    Cistersų ordinas — 1097 viešpaties metais.
+    Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
+    Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
+    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
+    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
+    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202254
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
+  citata_originali: |
+    Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
+    būdami netikėliai ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
+    160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo ir
+    Lenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis.
+    161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
+    misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
+    tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas
+    ir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202626
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
+  citata_originali: |
+    161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
+    misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,
+    tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas
+    ir su Lekno vienuolynu į šiaurės vakarus nuo Gnezno). Kristijono misijai padėjo Danijos
+    karaliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui
+    pripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad
+    tai buvusi vietinio prūso dovana, kiti — kad Santyrą su gretimomis žemėmis Kristijonui
+    dovanojęs Gdansko kunigaikštis Mščujus, ketinęs panaudoti cistersų misiją savo
+    politiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202632
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
+  citata_originali: |
+    Antra knygos dalis
+
+
+                BAIGIASI PIRMA ŠIOS KNYGOS DALIS PRASIDEDA ANTRA
+
+               APIE TEUTONŲ ORDINO BROLIŲ ATVYKIMĄ Į PRŪSIJOS ŽEMĘ
+
+
+                          1. Apie tai, kaip prūsai niokojo Kulmo žemę
+
+      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
+    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
+    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
+    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
+    Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224971

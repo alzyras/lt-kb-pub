@@ -68,6 +68,16 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
   pagrindžia:
     - c-60835
 
+<a id="claim-t-221808"></a>
+- t-221808
+  teiginys: "Samilis buvo Pamedės kilmingasis ir Tusino tėvas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pamedės kilmingasis Samilis, Tusino tėvas, padėjo badaujančiai Kristburgo piliai ir slapta gerbė tikėjimą bei brolius.'
@@ -111,7 +121,7 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60836
@@ -137,5 +147,5 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

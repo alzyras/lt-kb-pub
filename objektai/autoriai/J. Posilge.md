@@ -92,7 +92,7 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167720
@@ -112,5 +112,5 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

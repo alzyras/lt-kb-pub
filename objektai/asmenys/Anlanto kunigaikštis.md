@@ -65,5 +65,5 @@ Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -97,6 +97,18 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-188248
 
+<a id="claim-t-212227"></a>
+- t-212227
+  teiginys: "Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž daug IV amžiaus viduryje, sužinojo, kad lietuvių genties tautos, gyvenančios rytinėse Baltijos jūros pakrantėse; rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir jų tolesni kaimynai sumanė."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196761
+
 ## Citatos
 
 - id: c-175737
@@ -117,7 +129,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184287
@@ -146,7 +158,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184288
@@ -180,7 +192,7 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188248
@@ -201,5 +213,46 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-196431
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
+  citata_originali: |
+    Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
+    lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno
+    doblėnai, Dobleny, rytinėje — mechotėnai, Mechoteny, vi­
+    durinėje — kuršiai, Kurszovoy, o pietinėje — tervitėnai,
+    Tenvitenny. Iš tikrųjų lai buvo žemgalių gentys. Selonės
+    apskrity gyveno šeloniečių, Selonczycy, tauta — taip pat
+    žemgaliai'2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-196761
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
+  citata_originali: |
+    Karalius Frotonas, valdęs, pasak Torfėjo skaičiavimų, maž­
+    daug IV amžiaus viduryje, sužinojo, kad lietuvių genties
+    tautos, gyvenančios rytinėse Baltijos jūros pakrantėse;
+    rusai, kuršiai, žemgaliai, .sembai, arba samlandiečiai, ir
+    jų tolesni kaimynai sumanė atsisakyti priklausomybės Da­
+    nijos karalystei
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212227

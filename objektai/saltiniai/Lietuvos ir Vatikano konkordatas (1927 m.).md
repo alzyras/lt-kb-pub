@@ -94,7 +94,7 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-23876
@@ -121,5 +121,5 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

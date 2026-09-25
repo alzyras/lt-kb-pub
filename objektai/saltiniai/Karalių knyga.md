@@ -73,6 +73,23 @@ Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+- id: c-205169
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
+  citata_originali: |
+    Naujojo Malūno pilį.552 Šioje kovoje vienas prūsas iš Sembos stovėjo ir klojo priešus
+    taip, kaip Karalių knygoje skaitome apie Ahohietį (2 Kar 23, 9 ir toliau): „Kolei jo rankos
+    nepailso“ ir kalavijas neatšipo jo rankose. Trumpai kalbant, vargu ar kas stengtų surašyti
+    visas negandas, kurios kilo tikėjimui bei tikintiesiems dėl šios nesantaikos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

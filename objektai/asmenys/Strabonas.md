@@ -36,26 +36,6 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
 
 ## Teiginiai
 
-<a id="claim-t-191121"></a>
-- t-001
-  teiginys: "Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnams dar buvo visiškai nežinomas."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Strabonas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strabonas\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174003
-
 <a id="claim-t-191122"></a>
 - t-002
   teiginys: "Narbutas mini spėjimą, kad Strabonas, kaip šališkas Pitėjo aiškintojas, daug ką jam priskyrė svetimo."
@@ -170,8 +150,6 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-174004
   autorius: "Teodoras Narbutas"
@@ -194,7 +172,7 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-174005
@@ -226,7 +204,7 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-179352
@@ -247,5 +225,25 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-194785
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
+  citata_originali: |
+    Fosas teigia, jog jis pasiekė tik Reiną ar
+    toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
+    tojas Strabonas daug ką jam priskyrė svetimo. Dažnai
+    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
+    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
+    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
+    vintais jėzuitų aprašymais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

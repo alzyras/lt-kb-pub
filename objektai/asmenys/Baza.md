@@ -56,18 +56,6 @@ Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas
   pagrindžia:
     - c-174257
 
-<a id="claim-t-197717"></a>
-- t-002
-  teiginys: "Baza buvo mūšio lauke nukovęs gepidų karalių Trazilą ir įveikęs Bazos vadovaujamus bulgarus, — pasikvietęs pagalbon visigotus, kai šiek tiek užtruko jo žygis, surengė savo kariuomenių vadų pasitarimą dėl tolesnių veiksmų; tuo pat metu jis gavo žinią, j°g Odoakras su visomis savo pajėgomis, atėjęs prie Sonzo upės netoli Akvilos, įsirengė stovyklą ir taip įsitvirtino vietovėje, tarsi laukdamas priešo."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-174257
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas savo kariuomenių vadų pasitarimą.'
@@ -122,6 +110,5 @@ Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002

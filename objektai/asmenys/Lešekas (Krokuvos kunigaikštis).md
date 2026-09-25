@@ -34,20 +34,6 @@ canonical_biography: "Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pam
 
 Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs daugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas kopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”. Dusburgietis teigia, kad lešekas (Krokuvos kunigaikštis) nelyginant Gedeonas iš daugybės karių tepasiėmė 300 vyrų, su kuriais stojo į kovą ir drąsiai puolė priešus, pasikliaudamas gailestingumu dievo, kuris neapleidžia nė vieno žmogaus, juo įtikėjusio; pirmiausia išvadavęs nelaisvėn paimtuosius krikščionis, smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko pasprukti.
 
-## Teiginiai
-
-<a id="claim-t-197125"></a>
-- t-001
-  teiginys: "Lešekas (Krokuvos kunigaikštis) slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o turėdamas ginklų, staiga juos su savo bendrais užpuolė ir visus išžudė jų guoliuose, išskyrus vieną, kurį Martynas nukovė pastojęs jam kelią, kuriuo šis mėgino sprukti; po to sugrįžo namo su anksčiau pelnytu grobiu bei šių netikėlių ginklais ir kitais daiktais."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-179034
-
 ## Citatos
 
 - id: c-167491
@@ -75,6 +61,7 @@ Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-179034
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -97,5 +84,27 @@ Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-205289
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
+  citata_originali: |
+    Sūduviai dėl to labai džiaugėsi,
+    tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus
+    bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną
+    po kito išvogė jų skydus, kalavijus bei ietis, o turėdamas ginklų, staiga juos su savo
+    bendrais užpuolė ir visus išžudė jų guoliuose, išskyrus vieną, kurį Martynas nukovė
+    pastojęs jam kelią, kuriuo šis mėgino sprukti; po to sugrįžo namo su anksčiau pelnytu
+    grobiu bei šių netikėlių ginklais ir kitais daiktais.
+    199 (194). Apie tą patį
+    Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą
+    ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias
+    tarnybas, jį užpuolė, o visus žmones išžudė.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

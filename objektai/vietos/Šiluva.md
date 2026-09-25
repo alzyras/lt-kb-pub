@@ -63,6 +63,19 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
   pagrindžia:
     - c-49964
 
+<a id="claim-t-208630"></a>
+- t-208630
+  teiginys: "Našlaitė Liudvė Šiluvos bažnyčioje šaukėsi Dievo Motinos pagalbos ir tuojau buvo išklausyta."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:52Z"
+  pagrindžia:
+    - c-191250
+
 ## Citatos
 
 - id: c-49964
@@ -89,5 +102,25 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-191250
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 116"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 116."
+  citata_originali: |
+    Čia parodomas Šiluvos Švč. M. Ma­
+    rijos gailestingumas. Našlaitė Liudvė šaukėsi Šiluvos baž­
+    nyčioje Dievo Motinos pagalbos ir tuojau buvo išklausy­
+    ta.
+  citata_rodoma: "Našlaitė Liudvė šaukėsi Šiluvos baž­\nnyčioje Dievo Motinos pagalbos ir tuojau buvo išklausy­\nta."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208630

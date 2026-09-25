@@ -67,5 +67,5 @@ Visa tai galima suderinti, padarius prie laidą, jog Atrimpo simbolis buvo žalt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

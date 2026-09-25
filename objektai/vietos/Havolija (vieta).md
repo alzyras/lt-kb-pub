@@ -72,5 +72,5 @@ Havolija plytėjo prie Havolos, Sprė ir dalies Elbės.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -83,7 +83,7 @@ Vytautui ir Julijonai skirti karališkieji vainikai buvo nukalti Niurnbergo auks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-194216
@@ -103,5 +103,5 @@ Vytautui ir Julijonai skirti karališkieji vainikai buvo nukalti Niurnbergo auks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

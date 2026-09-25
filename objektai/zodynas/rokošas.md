@@ -89,7 +89,7 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-03386
@@ -109,5 +109,5 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002

@@ -83,5 +83,5 @@ Fluminibus quoque circa illud flu­ entibus, Villia et Vilna, ex ejusdem du­ ci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -91,6 +91,6 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002

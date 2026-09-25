@@ -93,7 +93,7 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-38650
@@ -114,5 +114,5 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

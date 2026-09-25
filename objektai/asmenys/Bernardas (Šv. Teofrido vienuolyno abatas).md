@@ -133,7 +133,7 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168035
@@ -159,7 +159,7 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai

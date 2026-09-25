@@ -71,5 +71,5 @@ Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex o
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

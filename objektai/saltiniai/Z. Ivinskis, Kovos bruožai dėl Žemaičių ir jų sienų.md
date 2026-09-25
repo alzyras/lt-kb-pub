@@ -95,7 +95,7 @@ Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų , Athenaeum V, 1935, 54-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-33764
@@ -116,5 +116,5 @@ Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų , Athenaeum V, 1935, 54-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

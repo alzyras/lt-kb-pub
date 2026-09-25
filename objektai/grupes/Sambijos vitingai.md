@@ -85,5 +85,5 @@ Po šio žygio prasidėjo nauji įvykiai ir juos lydinčios aplinky bės — tai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

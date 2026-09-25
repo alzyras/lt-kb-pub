@@ -59,3 +59,40 @@ Alfredas Bumblauskas teigia, kad Martyno Radomiečio lotynų kalba Dancige išsp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207692"></a>
+- t-001
+  teiginys: "Alfredas Bumblauskas teigia, kad Martyno Radomiečio lotynų kalba Dancige išspausdinta „Agenda“ laikoma pirmąja spausdintine Lietuvos knyga."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190309
+
+## Citatos
+
+- id: c-190309
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 150"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 150."
+  citata_originali: |
+    1499-aisiais Dan-
+    cige išspausdinta Vilniaus kapitulos kanauninko Martyno Radomiečio „Agenda“ lotynų
+    kalba. Ji ir laikoma pirmąja spausdintine Lietuvos knyga. Tokią teisę jai suteikia autorystė
+    ir adresatas: ji buvo sukurta vilniečio Vilniaus kapitulos aplinkoje ir skirta Lietuvos dva-
+    sininkams, vykdžiusiems lietuvių evangelizavimą – tai sakramentų teikimo vadovas.
+  citata_rodoma: "isiais Dan-\ncige išspausdinta Vilniaus kapitulos kanauninko Martyno Radomiečio „Agenda“ lotynų \nkalba. Ji ir laikoma pirmąja spausdintine Lietuvos knyga. Tokią"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

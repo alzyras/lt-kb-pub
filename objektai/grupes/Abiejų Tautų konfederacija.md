@@ -54,6 +54,19 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
   pagrindžia:
     - c-22327
 
+<a id="claim-t-207497"></a>
+- t-207497
+  teiginys: "Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir jos centru paskelbė Gardiną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190114
+
 ## Citatos
 
 - id: c-22327
@@ -76,5 +89,27 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190114
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 192"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 192."
+  citata_originali: |
+    Targovicos konfederacijai jau 1792 m. birželio 25 d. pritarė Vilniaus (t. y. Lietuvos)
+    konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosakovskis, jo brolis
+    Livonijos vyskupas Juozapas Kosakovskis ir Vilniaus vyskupas Ignotas Masalskis. Rug-
+    sėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų
+    konfederaciją, savo centru paskelbė Gardiną. LLV sąjungininkę Prūsiją gąsdino galimas
+    valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad
+    Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.
+  citata_rodoma: "o 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų \nkonfederaciją, savo centru paskelbė Gardiną. LLV s"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207497

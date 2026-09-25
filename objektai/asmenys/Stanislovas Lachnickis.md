@@ -57,3 +57,39 @@ canonical_biography: "1789 m. Ukmergės parapija buvo perduota kunigui Stanislov
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-208351"></a>
+- t-001
+  teiginys: "1789 m. Ukmergės parapija buvo perduota kunigui Stanislovui Lachnickiui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1789 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir tiesiogiai perteikia šaltinyje nurodytą Ukmergės parapijos perdavimą bei datą."
+  pagrindžia:
+    - c-190836
+
+## Citatos
+
+- id: c-190836
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 121"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 121."
+  citata_originali: |
+    A r P. K. Bohušą palietė / nepalietė gaisro sunaikintos bažnyčios
+    atstatymo rūpesčiai, neaišku. 1789 m. Ukmergės parapija buvo perduota kunigui
+    Stanislovui Lachnickiui61 62.
+  citata_rodoma: "1789 m. Ukmergės parapija buvo perduota kunigui \nStanislovui Lachnickiui"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

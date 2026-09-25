@@ -107,7 +107,7 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-83511
@@ -164,5 +164,5 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

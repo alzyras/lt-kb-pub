@@ -108,5 +108,5 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

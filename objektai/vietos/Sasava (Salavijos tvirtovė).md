@@ -70,6 +70,18 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   pagrindžia:
     - c-179402
 
+<a id="claim-t-214203"></a>
+- t-214203
+  teiginys: "Sasava vakaruose susisiekė su Lubavos žeme."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194903
+
 ## Citatos
 
 - id: c-175622
@@ -95,7 +107,7 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179402
@@ -118,8 +130,53 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194903
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 353-354"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 353-354."
+  citata_originali: |
+    Nedidelė Sasavos žemė, kurios pradinė padėtis
+    nežinoma, vakaruose susisiekė su Lubavos žeme, šiaurėje
+    jos siena buvo ligi Drevantos ežero prie Osterodės, pie­
+    343
+
+    tuose — ild Romano ežero prie Gilgenburgo, o rytuose —
+    iki Drevantos upės. Šios žemės sostinė buvo Saspilis —
+    sasavių tvirtovė
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214203
+
+- id: c-196371
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 369-370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369-370."
+  citata_originali: |
+    Ne Sarkės, o Šar­
+    kučių kaimas, kiek pats žinau iš vietovės tyrimų, yra Ly­
+    dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
+    kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką. Gar­
+    siausia šios provincijos tvirtovė buvo Sasava, stovėjusi
+    kažkokios upės pakrantėje, bet tai tiksliai nenustatyta.
+    Pretorijus teigia, kad ji buvo prie Šyšos upės, kuri kita­
+
+    dos turėjo būti vadinama Cyse arba Sussa.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sasava (Salavijos tvirtovė) priklausė [[objektai/vietos/Kulmas]]

@@ -64,5 +64,5 @@ Tuoj už Desnos prasideda pilkapių kraš tas, ir prie Rogačiovo jų yra daugia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

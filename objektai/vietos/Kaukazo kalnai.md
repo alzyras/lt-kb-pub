@@ -64,5 +64,5 @@ canonical_biography: 'Žinomi šios tautos likučiai, Kaukazo kalnų gyventojai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

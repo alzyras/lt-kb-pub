@@ -59,3 +59,42 @@ Iwo Jaworskis 1935 m. teoriškai svarstė feodalizmo Lietuvoje problemą ir abej
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207881"></a>
+- t-001
+  teiginys: "Iwo Jaworskis 1935 m. teoriškai svarstė feodalizmo Lietuvoje problemą ir abejojo, kad jis galėjo egzistuoti kaip išbaigtas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190574
+
+## Citatos
+
+- id: c-190574
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 38"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 38."
+  citata_originali: |
+    Diskusijos, ar egzistavo lietuviškasis feodalizmas, tęsiasi jau ne vieną dešimtį metų.
+    Istoriografijoje yra abejojančių, ar iš viso galima teigti Lietuvoje buvus feodalizmą.
+    Tipiškais šios pakraipos atstovais galima pavadinti Lenkijos istorikus Henriką
+    Łowmiańskj ir Iwo Jaworskj, dar 1935 m. teoriškai svarsčiusius feodalizmo Lietuvoje
+    problemą ir abejojusius, kad feodalizmas Lietuvoje galėjęs egzistuoti kaip išbaigtas.
+  citata_rodoma: "Tipiškais šios pakraipos atstovais galima pavadinti Lenkijos istorikus Henriką\nŁowmiańskj ir Iwo Jaworskj, dar 1935 m. teoriškai svarsčiusius feodalizmo Lietuvoje\nproblemą ir abejojusius, kad feodalizmas Lietuvoje galėjęs egzistuoti kaip išbaigtas."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001

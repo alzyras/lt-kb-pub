@@ -71,5 +71,5 @@ Lietuvos metraštis teigia, kad perėję Pripetę, pasivijo juos už vienos my l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

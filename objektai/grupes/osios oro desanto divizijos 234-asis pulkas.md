@@ -79,5 +79,5 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

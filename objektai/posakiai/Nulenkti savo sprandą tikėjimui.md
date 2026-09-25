@@ -59,5 +59,5 @@ Dusburgietis teigia, kad per penkiasdešimt trejus metus Teutonų ordino broliai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

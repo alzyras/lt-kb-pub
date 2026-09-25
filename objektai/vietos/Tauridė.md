@@ -87,5 +87,25 @@ Tauridė, Teodoro Narbuto pasakojimu, 1540 m. pr. Kr. priklausė gausiems ir gal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-195917
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 50."
+  citata_originali: |
+    Anksčiau jau minėjome, kad skitai
+    yra kone seniausia Europos tauta, kurios atėjimas iš Azi­
+    jos per Dono žemupį parodo Europos tautų kūdikystę.
+    Jau 1540 metais prieš Kristaus gimimą jie buvo labai
+    gausūs ir galingi, tuomet jiems priklausė Dnepro žiotys
+    ir Tauridė1. Paskui jie paplito po visas Europos šalis
+    kimbrų, keltų ir kitokiais pavadinimais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -75,6 +75,18 @@ canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzi
   pagrindžia:
     - c-186687
 
+<a id="claim-t-207864"></a>
+- t-207864
+  teiginys: "Antanas Tyla nurodo, kad XVI a."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190536
+
 ## Citatos
 
 - id: c-32892
@@ -98,7 +110,7 @@ canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186687
@@ -117,5 +129,31 @@ canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190536
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 162"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 162."
+  citata_originali: |
+    Tačiau pašauktinė kariuomenė buvo problemiškas organizmas. Ją
+    sudariusių bajorų nuotaikos greitai keisdavosi, jas veikdavo daugybė įvairių veiksnių:
+    kaip dažnai būdavo skelbiamas visuotinis šaukimas, kiek ilgai reikėdavo gyventi karo
+    lauko stovyklose nekariaujant, kokios ten būdavo buities sąlygos, koks metų laikas, ar
+    geras tais metais užaugo derlius ir kt. Todėl bajorai toli gražu ne visada su noru atsiliep-
+    davo į šaukimą ir nustatytu laiku susirinkdavo, daugėjo savavališkai pasišalinančiųjų iš
+    karo stovyklų. Antanas Tyla nurodo, kad XVI a. pabaigos šaltiniuose atsispindi Lietu-
+    vos Didžiosios Kunigaikštystės bajorijos noras išvengti tiesioginio dalyvavimo visuoti-
+    nio šaukimo, neatsisakant pačios teisės į šią prievolę, nes ji sudarė jiems prielaidas apri-
+    boti karaliaus kontrolę ir jo valdžią.
+  citata_rodoma: "Antanas Tyla nurodo, kad XVI a. pabaigos šaltiniuose atsispindi Lietu-\nvos Didžiosios Kunigaikštystės bajorijos noras išvengti tiesioginio dalyvavimo visuoti-\nnio šaukimo, neatsisakant pačios teisės į šią prievolę, nes ji sudarė jiems prielaidas apri-\nboti karaliaus kontrolę ir jo valdžią."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207864

@@ -93,7 +93,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179088
@@ -113,5 +113,48 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-198465
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 372"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 372."
+  citata_originali: |
+    Žymiausius laidojo ant kalnelių, greta jų namų. Net
+    pati jų forma rodo tam tikrą jų ryšį su mirusiųjų padėtimi ir
+    aukštomis pareigomis. Aplink visą pilkapį ratu eina didokų
+    akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta­
+    tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­
+    nų eilės, nukreiptos nuo viršūnės tiesiai į apačią.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201026
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 370."
+  citata_originali: |
+    Ten pat jie sunaikino ir svečių dievuko, vadinto Ce-
+    rokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir­
+    mąją gėrimo taurę23.
+    VII skyrius
+    APIE ŽMOGAUS MIRTIES
+    DALYKUS
+    Kapai
+    Kapai senovės lietuviams buvo šventas dalykas. Jokiu bū­
+    du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net
+    kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
+    dorybių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

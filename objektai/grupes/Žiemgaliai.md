@@ -372,6 +372,16 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - c-166335
 
+<a id="claim-t-225260"></a>
+- t-225260
+  teiginys: "Traidenis (1269—1282 m.), remdamas žiemgalius, telkė jėgas ir kovai Prūsijoje."
+  atnaujinta: "2026-09-19 07:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
 ## Reikšmingi paminėjimai
 - c-010
   santrauka: 'Traidenis 1269-1282 m. rėmė žiemgalius ir telkė jėgas kovai Prūsijoje.'
@@ -410,7 +420,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-012
 
 - id: c-31294
@@ -434,7 +444,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
     - t-014
 
@@ -456,7 +466,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-010
 
@@ -476,7 +486,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 - id: c-31297
@@ -495,7 +505,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-31298
@@ -518,7 +528,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
     - t-016
 
@@ -541,7 +551,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
     - t-013
 
@@ -564,7 +574,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-31301
@@ -585,7 +595,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-015
 
@@ -604,7 +614,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-85305
@@ -624,7 +634,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-85309
@@ -644,7 +654,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-017
 
 - id: c-166335
@@ -662,7 +672,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-018
 
 - id: c-167706
@@ -680,7 +690,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-011
 
 ## Ryšiai

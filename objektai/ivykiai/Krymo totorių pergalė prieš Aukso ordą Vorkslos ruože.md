@@ -79,27 +79,6 @@ Nenurodyta
   pagrindžia:
     - c-169983
 
-<a id="claim-t-186794"></a>
-- t-002
-  teiginys: "Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje, o 1503 m. rudenį grįžo į LDK."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Auksinė Orda: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože: owner_note_path, event"
-  ryšio_targeto_parinkimas: "Auksinė Orda: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože\" parinktas kaip owner_note_path. Targetas \"Auksinė Orda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  temporaliniai_duomenys: "įvykio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sujungia pralaimėjimą, prieglobsčio paiešką ir 1503 m. rudens grįžimą į LDK. Nepridėta Kijevo ar Belgorodo detalė, nes ji nėra būtina šiam sakiniui."
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-169983
-
 ## Citatos
 
 - id: c-169983
@@ -127,6 +106,5 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002

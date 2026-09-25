@@ -68,23 +68,6 @@ Nenurodyta
   pagrindžia:
     - c-85354
 
-<a id="claim-t-89395"></a>
-- t-002
-  teiginys: "Rinavos sembai mėgino pulti Fišhauzeno pilį, bet pasitraukė nepasiekę tikslo."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Fišhauzenas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Fišhauzenas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai nurodo Rinavos sembų mėginimą pulti Fišhauzeno pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sembai puolė Fišhauzenas (0.88)"
-  pagrindžia:
-    - c-85352
-
 <a id="claim-t-89396"></a>
 - t-003
   teiginys: "Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu."
@@ -151,8 +134,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
     - t-005
 
 - id: c-85354
@@ -172,7 +154,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -199,5 +181,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-202168
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
+  citata_originali: |
+    Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
+    Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė
+    kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su
+    visu jų turtu išsivarė su savimi, šitaip antrą kartą buvo sutramdyta sembų žemė, kurion
+    sugrįžo anksčiau čia viešpatavusi taika.
+    112 (107). Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
+    Po antrosios atskalūnybės buvo pastatyta 1265 m.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

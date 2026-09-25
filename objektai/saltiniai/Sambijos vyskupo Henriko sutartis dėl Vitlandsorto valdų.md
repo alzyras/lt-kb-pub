@@ -69,5 +69,25 @@ Sambijos vyskupas Henrikas sutartimi perleido Vitlandsorto valdas Ordinui už at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-196288
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 349"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 349."
+  citata_originali: |
+    Aiškiausiai apie tai kalba
+    Sambijos vyskupo Henriko sutartis, paminėta Dregerio*
+    (p. 476; et in act. Boruss. T. III. P. 146), kuria jis savo
+    žemės vaidas, esančias Vitlandsorte, perleidžia už atly­
+    ginimą Ordinui, siekdamas suteikti jam galimybę pasta­
+    tyti ten tvirtovę, kuri garantuotų įplaukiančių ir išplau­
+    kiančių laivų saugumą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

@@ -89,5 +89,5 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

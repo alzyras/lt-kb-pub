@@ -71,8 +71,9 @@ canonical_biography: 1775–1818 m. Jokūbas Šimkevičius buvo „Veikalo apie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
 ## Teiginiai
 
 <a id="claim-t-209294"></a>
@@ -90,4 +91,3 @@ canonical_biography: 1775–1818 m. Jokūbas Šimkevičius buvo „Veikalo apie 
   vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
   pagrindžia:
     - c-192028
-

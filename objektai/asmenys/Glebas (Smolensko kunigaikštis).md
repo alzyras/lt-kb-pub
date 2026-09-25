@@ -85,5 +85,5 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

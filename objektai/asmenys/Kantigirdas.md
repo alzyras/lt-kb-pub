@@ -69,18 +69,6 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
   pagrindžia:
     - c-60785
 
-<a id="claim-t-197111"></a>
-- t-003
-  teiginys: "Kantigirdas pasitraukė pas brolius ir priėmė krikštą."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-179029
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Brolis Liudvikas iš Libencelės pas magistrą Konradą atsivedė Kantigirdą, kurio anksčiau buvo paimtas į nelaisvę.'
@@ -121,7 +109,7 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-60786
@@ -142,7 +130,7 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-179029
@@ -163,5 +151,23 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-205103
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
+  citata_originali: |
+    Kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę
+    galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei
+    smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais
+    šimtais vyrų bei moterų jis pasitraukė pas brolius ir priėmė krikštą. Tačiau Skurdą516,
+    kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
+    Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
+    220 (215).
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

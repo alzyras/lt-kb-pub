@@ -109,7 +109,7 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-174544
@@ -130,5 +130,25 @@ Teodoro Narbuto vertinimu, Volfgangas Lazijus išsaugojo heruliškąja laikytos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-194616
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 515."
+  citata_originali: |
+    Volfgangas Lazius (1514—1565), istoriografas ir geografas,, pir­
+    masis paskelbė šią heruliškąją maldą „Tėve mūsų“. Dauguma to
+    meto istorikų, tarp jų ir S. Daukantas, herulus priskyrė prie bal­
+    tų genčių, ir net tiesiog lietuvių. Vėliau paaiškėjo, jog ši malda
+    buvusi
+    latvių
+    kalba.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

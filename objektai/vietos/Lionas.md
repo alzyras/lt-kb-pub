@@ -125,7 +125,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -148,7 +148,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-59091
@@ -168,5 +168,45 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-203896
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
+  citata_originali: |
+    Apie švenčiausiosios Marijos gimimo oktavos įsteigimą
+
+      1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė
+    švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol. 22,3).
+
+
+
+                31.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205864
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 236"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
+  citata_originali: |
+    Apie Liono sinodą ir apie kardinolo Bonaventūros bei Tomo Akviniečio mirtį
+
+      1274 viešpaties metais Grigalius X, popiežius, norėdamas padėti šventajai žemei,
+    sušaukė Lione sinodą, kuriame graikai sugrįžo  į šventosios bažnyčios vienybę, o keli
+    totorių pasiuntiniai buvo pakrikštyti. Jo šventenybė Bonaventūra, kardinolas, mažesniųjų
+    brolių ordino vienuolis, mirė ..... (Mart. p. 415; Ptol. 23, 2).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

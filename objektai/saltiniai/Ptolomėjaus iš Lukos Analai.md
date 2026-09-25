@@ -265,7 +265,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-61521
@@ -284,7 +284,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-61522
@@ -308,7 +308,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-61523
@@ -326,7 +326,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-61524
@@ -350,7 +350,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-61525
@@ -367,7 +367,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-61526
@@ -386,7 +386,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
 
 - id: c-61527
@@ -406,7 +406,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-61528
@@ -426,5 +426,70 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+- id: c-202658
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
+  citata_originali: |
+    Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
+
+       Tais  pačiais metais  prasidėjo  nesantarvė  tarp  Bonifaco,  popiežiaus,  ir  Pilypo,
+    Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos
+    karalystės reikalai esą betarpiškai pavaldūs apaštališkajam sostui, ir pasiuntė popiežius
+    priklausomybės reskriptą su bule Prancūzijos karaliui, tvirtindamas, jog tas, kas teigiąs
+    priešingai, esąs eretikas. Šis reskriptas buvo perskaitytas  ir sudegintas Paryžiuje,
+    karaliaus rūmuose, daugybės dvasininkų bei pasauliečių akivaizdoje. Karalius paskelbė
+    15 kaltinimų popiežiui ir kreipėsi į busimąjį susirinkimą arba popiežių. Vis dėlto popiežius
+    Romos susirinkime išsiteisino nuo šių kaltinimų (Ptol. p. 1221 ir kt.; Mart. p. 438).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-203918
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
+  citata_originali: |
+    Apie tris saulės spindulius ir kolegijos suskilimą
+
+      1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,
+    apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi —
+    pietuose; viena sukosi kaip įprasta, kita— priešingai, nei gamtos patvarkyta; jos ilgai
+    stovėjo danguje, o kiekviena skleidė savo spindulius. Sitai ir buvo ženklas bei požymis,
+    rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija. Vis dėlto šis skilimas
+    užtruko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl busimojo popiežiaus
+    išrinkimo. Pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus
+    Cezaris, o po jo mirties suskilo senatas (Ptol. n 1241).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206104
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 229-230"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229-230."
+  citata_originali: |
+    Apie didįjį saulės užtemimą
+
+      Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net
+    žvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37).
+
+    29.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

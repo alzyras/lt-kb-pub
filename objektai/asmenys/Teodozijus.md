@@ -78,5 +78,5 @@ Teodozijų, kaipo kan­ didatą į Kijevo metropolitus, bet Konstantinopolyje ru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

@@ -120,6 +120,18 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   pagrindžia:
     - c-173734
 
+<a id="claim-t-213409"></a>
+- t-213409
+  teiginys: "Lygiai tokią pat urną turėjo Dionizas Paškevičius savo rin kinyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196592
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Dionizas Paškevičius, tyrinėdamas herulus ir hirius, vardijo Žemaitijos vietovardžius kaip ženklus, kad ten kadaise gyveno ši lietuvių gentis.'
@@ -163,7 +175,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-172947
@@ -183,7 +195,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-173733
@@ -206,7 +218,7 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-173734
@@ -226,5 +238,28 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-196592
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 505"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 505."
+  citata_originali: |
+    163 /Ten
+    pat,
+    išnaša
+    priešpaskutiniam
+    sakiniui/
+    Į
+    4rLygiai tokią pat urną turėjo Dionizas Paškevičius savo rin­
+    kinyje. Žemaitijoje kapavietėse, t. y. laidojimo vietose, buvo rasta
+    ir daugiau tokių urnų (Dzien. Wil, 1823. T. II. S. 160).
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213409

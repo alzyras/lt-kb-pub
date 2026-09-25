@@ -64,5 +64,5 @@ Iš Stockholmo „Tag-Blatt“ redaktoriaus Sendebergo Jonas Augštuolis sužino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

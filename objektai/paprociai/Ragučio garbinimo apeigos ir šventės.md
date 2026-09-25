@@ -73,5 +73,5 @@ Plačiau apie tas smul kmenas papasakosime toliau, atskiruose straipsniuose, kur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001

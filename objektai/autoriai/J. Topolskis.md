@@ -49,6 +49,18 @@ J. Topolskis teigė, kad KPS koncepcija nepagrįstai siejo ATR feodalų perėjim
   pagrindžia:
     - c-186251
 
+<a id="claim-t-207858"></a>
+- t-207858
+  teiginys: "Jerzy Topolskis buvo kaimyninėje Lenkijoje dirbęs istorijos teoretikas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190361
+
 ## Citatos
 
 - id: c-186251
@@ -79,5 +91,26 @@ J. Topolskis teigė, kad KPS koncepcija nepagrįstai siejo ATR feodalų perėjim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190361
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 92"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 92."
+  citata_originali: |
+    Atsisakyti įsitikinimo, kad šaltiniai atskleidžia tiesą, istorikus ragino ir kaimyninėje
+    Lenkijoje dirbęs istorijos teoretikas Jerzy Topolskis, kuris rašė, kad kuo labiau jis gili-
+    nosi į istorijos tyrimus, tuo stiprėjo įsitikinimas, kad šis mitas kenksmingas, kad ši
+    prielaida - utopiška ir klaidinga. Tačiau istorikas neišvengs šios prielaidos. Belieka ro-
+    dyti, kad šaltiniai, kaip ir istorinis pasakojimas, turi subjektyvumo bruožų.
+  citata_rodoma: "Atsisakyti įsitikinimo, kad šaltiniai atskleidžia tiesą, istorikus ragino ir kaimyninėje\nLenkijoje dirbęs istorijos teoretikas Jerzy Topolskis, kuris rašė, kad kuo labiau jis gili-\nnosi į istorijos tyrimus, tuo stiprėjo įsitikinimas, kad šis mitas kenksmingas, kad ši\nprielaida - utopiška ir klaidinga."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207858
