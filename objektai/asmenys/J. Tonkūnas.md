@@ -38,41 +38,6 @@ J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbi�
 
 - Švietimo ministeris
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Norėtumėm pareikšti viltį, kad vadovėlis nors iš dalies pa-
-    tenkins gyvą visuomenės ir mokyklos reikalą, o kartu ir padė-
-    koti visiems, kurie prisidėjo prie jo pasirodymo. Pirmiausia
-    tenka padėkoti p. Švietimo Ministeriui prof. J. Tonkūnui ir Vi-
-    ceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant
-    bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
-    bui ir teikė reikiamos paramos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  statusas: verified
-## Citatos
-
-- id: c-00116
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  puslapiai: "PDF 4"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 4."
-  citata_originali: |
-    |
-  citata_rodoma: "|"
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Teiginiai
 
 <a id="claim-t-00007"></a>
@@ -90,3 +55,27 @@ J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbi�
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-00116
+
+## Citatos
+
+- id: c-00116
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  puslapiai: "PDF 4"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 4."
+  citata_originali: |
+    Norėtumėm pareikšti viltį, kad vadovėlis nors iš dalies pa-
+    tenkins gyvą visuomenės ir mokyklos reikalą, o kartu ir padė-
+    koti visiems, kurie prisidėjo prie jo pasirodymo. Pirmiausia
+    tenka padėkoti p. Švietimo Ministeriui prof. J. Tonkūnui ir Vi-
+    ceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant
+    bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
+    bui ir teikė reikiamos paramos.
+  citata_rodoma: "Norėtumėm pareikšti viltį, kad vadovėlis nors iš dalies pa-\ntenkins gyvą visuomenės ir mokyklos reikalą, o kartu ir padė-\nkoti visiems, kurie prisidėjo prie jo pasirodymo. Pirmiausia\ntenka padėkoti p. Švietimo Ministeriui prof. J. Tonkūnui ir Vi-\nceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant\nbendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-\nbui ir teikė reikiamos paramos."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

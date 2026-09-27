@@ -332,7 +332,7 @@
     {
       "id": "daumantas",
       "name": "Daumantas",
-      "notePath": "objektai/asmenys/Daumantas.md",
+      "notePath": "objektai/asmenys/Daumantas (Lietuvos valdovas).md",
       "years": "apie 1282–1285",
       "reigns": [
         {
@@ -344,7 +344,7 @@
         "ldk"
       ],
       "notice": "Tapatybė ir valdymo pradžia neaiškios. Negalima automatiškai tapatinti su Pskovo kunigaikščiu Daumantu.",
-      "objectSlug": "objektai/asmenys/Daumantas",
+      "objectSlug": "objektai/asmenys/Daumantas-(Lietuvos-valdovas)",
       "media": {
         "mediaId": "m-7114683e8aca0bcfab76acfe",
         "title": "Daumantas. Vėlesnis istorinis atvaizdas, 1908 m.",
@@ -375,7 +375,7 @@
         "visualReviewVersion": "museum-editorial-20260920",
         "relatedObjects": [
           {
-            "notePath": "objektai/asmenys/Daumantas.md",
+            "notePath": "objektai/asmenys/Daumantas (Lietuvos valdovas).md",
             "title": "Daumantas",
             "itemType": "asmuo",
             "relationType": "portrait_of",
@@ -389,6 +389,10 @@
           "title": "Vikipedija · Daumantas",
           "url": "https://lt.wikipedia.org/wiki/Daumantas",
           "revision": 7831080
+        },
+        {
+          "title": "Visuotinė lietuvių enciklopedija · Daumantas (Lietuvos valdovas)",
+          "url": "https://www.vle.lt/straipsnis/daumantas-1/"
         }
       ],
       "contextualImage": false

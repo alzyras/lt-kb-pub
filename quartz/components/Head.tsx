@@ -68,6 +68,7 @@ export default (() => {
       claimSummary: fileData.frontmatter?.object_page_seo_description,
       sameAs,
       dateModified: fileData.frontmatter?.atnaujinta ?? fileData.frontmatter?.modified,
+      keywords: fileData.frontmatter?.tags,
     }
     const title = seoTitle(seoInput, siteTitle, titleSuffix)
     const description = seoDescription(seoInput)
@@ -79,9 +80,11 @@ export default (() => {
     const noindex =
       utilityPage.has(String(fileData.slug ?? "").replace(/\/index$/, "")) ||
       (objectDetail ? !objectPageIndexable(objectEvidence!) : isPoorSeoPage(seoInput))
+    const articlePage = fileData.slug?.startsWith("straipsniai/") === true
     const mediaPrimaryThumb =
       String(fileData.frontmatter?.media_primary_thumb_url ?? "").trim() ||
-      String(fileData.frontmatter?.media_primary_canonical_url ?? "").trim()
+      String(fileData.frontmatter?.media_primary_canonical_url ?? "").trim() ||
+      (articlePage ? String(fileData.frontmatter?.image ?? "").trim() : "")
     const mediaPrimaryWidth = Number(fileData.frontmatter?.media_primary_width ?? 0)
     const mediaPrimaryHeight = Number(fileData.frontmatter?.media_primary_height ?? 0)
     const mediaEntry =

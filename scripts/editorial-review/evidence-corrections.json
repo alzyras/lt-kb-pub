@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "code": "t-219836",
+      "notePath": "objektai/asmenys/Birutė.md",
+      "sourceRel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md",
+      "sourceHash": "f2f8363eb25035133fa2471fc91475a99feb8fa8d92ebf1d8af4403fde7b7ddb",
+      "expectedClaimText": "Narbutas chronologiškai skaičiuoja, kad Birutė gimė apie 1331 metus, ištekėjo 1348 metais ir mirė 1416 metais.",
+      "replacementText": "Narbutas chronologiškai skaičiuoja, kad Birutė gimė apie 1331 metus, ištekėjo 1348 metais ir mirė 1416 metais.",
+      "start": 268988,
+      "end": 269199,
+      "excerpt": "Patyrinėjus chronologiją, paaiškėja, kad Birutė gimė apie 1331 \nmetus, ištekėjo 1348 metais, Vytautą pagimdė 1350 metais, liko naš­\nle 1382 metais, mirė 1416 metais. Prižiūrėjo Praurimės aukurą be­\nveik 18 metų.",
+      "replacesQuoteCodes": [
+        "c-200035"
+      ]
+    },
+    {
+      "code": "t-221223",
+      "notePath": "objektai/asmenys/Egidijus.md",
+      "sourceRel": "darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md",
+      "sourceHash": "c931f00908a42443ddb71d0772b21fe84ec2021b39e5061d487100a8825bf334",
+      "expectedClaimText": "Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.",
+      "replacementText": "Prūsijos žemės kronikos pasakojime Egidijaus mirtis datuojama 1316 m. sausio 1 d. Tai šaltinio pateikta data; šiuolaikinėje biografijoje nurodoma gruodžio 22 d.",
+      "start": 713590,
+      "end": 713915,
+      "excerpt": "Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau \nBonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol. 24, 14), jis mirė Avinjone, \nkai ten įsikūrė Romos kurija, Jono XXII, popiežiaus, laikais, 1316 viešpaties metų sausio \n1 dieną, o palaidotas Paryžiuje su kitais savo ordino broliais.",
+      "replacesQuoteCodes": [
+        "c-204609"
+      ]
+    },
+    {
+      "code": "t-222362",
+      "notePath": "objektai/asmenys/Egidijus.md",
+      "sourceRel": "darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md",
+      "sourceHash": "c931f00908a42443ddb71d0772b21fe84ec2021b39e5061d487100a8825bf334",
+      "expectedClaimText": "Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.",
+      "replacementText": "Prūsijos žemės kronikoje Egidijus apibūdinamas kaip augustinų mokytojas, popiežiaus Bonifaco VIII paskirtas Buržo arkivyskupu.",
+      "start": 713590,
+      "end": 713915,
+      "excerpt": "Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau \nBonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol. 24, 14), jis mirė Avinjone, \nkai ten įsikūrė Romos kurija, Jono XXII, popiežiaus, laikais, 1316 viešpaties metų sausio \n1 dieną, o palaidotas Paryžiuje su kitais savo ordino broliais.",
+      "replacesQuoteCodes": [
+        "c-204609"
+      ]
+    },
+    {
+      "code": "t-218905",
+      "notePath": "objektai/asmenys/Laurynas Gucevičius.md",
+      "sourceRel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md",
+      "sourceHash": "f2f8363eb25035133fa2471fc91475a99feb8fa8d92ebf1d8af4403fde7b7ddb",
+      "expectedClaimText": "Narbutas rašo, kad Šulcas tarp mirusio architekto Lauryno Gucevičiaus popierių aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.",
+      "replacementText": "Narbutas rašo, kad Šulcas tarp mirusio architekto Lauryno Gucevičiaus popierių aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.",
+      "start": 232228,
+      "end": 232651,
+      "excerpt": "Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­\nde, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­\njusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­\nteto architektūros profesorius ponas Šulcas tarp mirusio ar­\nchitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­\ntinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­\nkimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­",
+      "replacesQuoteCodes": [
+        "c-198960"
+      ]
+    },
+    {
+      "code": "t-217312",
+      "notePath": "objektai/asmenys/Mykolas Šulcas.md",
+      "sourceRel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md",
+      "sourceHash": "f2f8363eb25035133fa2471fc91475a99feb8fa8d92ebf1d8af4403fde7b7ddb",
+      "expectedClaimText": "Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.",
+      "replacementText": "Narbutas rašo, kad Mykolas Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinusį padavimą apie Mildos šventyklą.",
+      "start": 232228,
+      "end": 232651,
+      "excerpt": "Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­\nde, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­\njusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­\nteto architektūros profesorius ponas Šulcas tarp mirusio ar­\nchitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­\ntinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­\nkimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­",
+      "replacesQuoteCodes": [
+        "c-200353",
+        "c-201255"
+      ]
+    },
+    {
+      "code": "t-218798",
+      "notePath": "objektai/asmenys/Šulcas.md",
+      "sourceRel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md",
+      "sourceHash": "f2f8363eb25035133fa2471fc91475a99feb8fa8d92ebf1d8af4403fde7b7ddb",
+      "expectedClaimText": "Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Gucevičiaus popieriuose aptiko rankraštį apie Mildos šventyklos padavimą.",
+      "replacementText": "Narbutas rašo, kad Vilniaus universiteto architektūros profesorius Šulcas Gucevičiaus popieriuose aptiko rankraštį apie Mildos šventyklos padavimą.",
+      "start": 232228,
+      "end": 232651,
+      "excerpt": "Esama padavimo, kad Vilniaus Antakalnyje, Gedimino so­\nde, buvusiame dabartinio šv. Petro vienuolyno vietoje, stovė­\njusi Mildos šventykla arba koplyčia. Buvęs Vilniaus universi­\nteto architektūros profesorius ponas Šulcas tarp mirusio ar­\nchitekto Gucevičiaus popierių aptiko vieną rankraštį, patvir­\ntinantį šį padavimą. Atsimenu tik tiek, kad šio padavimo pati­\nkimumu neabejota. Remdamasis šio rankraščio aprašymu, dai­",
+      "replacesQuoteCodes": [
+        "c-198042"
+      ]
+    },
+    {
+      "code": "t-219886",
+      "notePath": "objektai/autoriai/Beli (Bayle).md",
+      "sourceRel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md",
+      "sourceHash": "f2f8363eb25035133fa2471fc91475a99feb8fa8d92ebf1d8af4403fde7b7ddb",
+      "expectedClaimText": "Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip vieną iš naudotų šaltinių.",
+      "replacementText": "Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip vieną iš naudotų šaltinių.",
+      "start": 711370,
+      "end": 711570,
+      "excerpt": "2 La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Ba- \nyle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas \n(tas pats ir straipsnis „Kobham“); Pogge. Epistola ad Aretinum.",
+      "replacesQuoteCodes": [
+        "c-198213"
+      ]
+    },
+    {
+      "code": "t-216912",
+      "notePath": "objektai/autoriai/Bonegartas.md",
+      "sourceRel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md",
+      "sourceHash": "f2f8363eb25035133fa2471fc91475a99feb8fa8d92ebf1d8af4403fde7b7ddb",
+      "expectedClaimText": "Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobhamą kaip naudotus šaltinius.",
+      "replacementText": "Narbutas nurodė Bonegarto žodyno straipsnius apie Jeronimą Prahiškį ir Kobhamą kaip naudotus šaltinius.",
+      "start": 711370,
+      "end": 711570,
+      "excerpt": "2 La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Ba- \nyle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas \n(tas pats ir straipsnis „Kobham“); Pogge. Epistola ad Aretinum.",
+      "replacesQuoteCodes": [
+        "c-197743"
+      ]
+    },
+    {
+      "code": "t-219241",
+      "notePath": "objektai/autoriai/Francua Žozefas Noelis.md",
+      "sourceRel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md",
+      "sourceHash": "f2f8363eb25035133fa2471fc91475a99feb8fa8d92ebf1d8af4403fde7b7ddb",
+      "expectedClaimText": "Francua Žozefas Noelis manė, kad kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje buvusi seniausia jų šventykla.",
+      "replacementText": "Teodoras Narbutas, remdamasis F. Noeliu, perteikia aiškinimą, kad kabirus anksčiausiai imta garbinti Egipte ir kad Memfyje buvusi seniausia jų šventykla.",
+      "start": 196777,
+      "end": 197086,
+      "excerpt": "Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­\nkiančio galią. Romėnai tuos pačius dievus vadino Diipotentes, \nDii socii arbaAnactes - monarchai. E Noelis mano, kad Kabi­\nrus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­\nvo seniausia jų šventykla. Herodotas sako, kad pelazgai, iš Sa-",
+      "replacesQuoteCodes": [
+        "c-198253",
+        "c-201221"
+      ]
+    },
+    {
+      "code": "t-221681",
+      "notePath": "objektai/autoriai/Górnowicz H.md",
+      "sourceRel": "darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md",
+      "sourceHash": "c931f00908a42443ddb71d0772b21fe84ec2021b39e5061d487100a8825bf334",
+      "expectedClaimText": "H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbingo upėvardžiu.",
+      "replacementText": "Prūsijos žemės kronikos 1985 m. leidimo komentare apie Elbingo upėvardžio kilmę nurodomas H. Górnowicziaus parengtas straipsnis leidinyje „Nazwy miast Pomorza Gdańskiego“.",
+      "start": 257869,
+      "end": 258162,
+      "excerpt": "Manoma, kad upėvardis Elbingas esąs baltiškas, tos pačios šaknies kaip ir lie. Elbentas \n(GAO, p. 48—49; Kuzavinis K., Etymologica, p. 183; plg. Górnowicz R., Średniowieczne..., \np. 99—100; Nazwy miast Pomorza Gdańskiego, p. 199—202 (Górnowicz H.); Vanagas \nA., Lietuvių hidronimų..., p. 100).",
+      "replacesQuoteCodes": [
+        "c-204270"
+      ]
+    },
+    {
+      "code": "t-225530",
+      "notePath": "objektai/autoriai/J. Poverskis.md",
+      "sourceRel": "darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md",
+      "sourceHash": "c931f00908a42443ddb71d0772b21fe84ec2021b39e5061d487100a8825bf334",
+      "expectedClaimText": "J. Poverskis siūlė vėlesnes pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos datas.",
+      "replacementText": "Prūsijos žemės kronikos 1985 m. leidimo komentare, remiantis J. Powierskio tyrimu, siūloma Marienburgo pilies statybą, konvento perkėlimą ir miesto lokacinę privilegiją datuoti vėliau nei ankstesnėje literatūroje.",
+      "start": 521678,
+      "end": 522355,
+      "excerpt": "500  Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti \n1272 m. ar 1274 m. 1275 m. pradėta statyti Aukštutinė pilis (iki 1279 m. pastatytas jos \nšiaurinis sparnas, Aukštutinė pilis baigta apie 1300 m.). 1276 m. miestas gavo lokacinę \nprivilegiją. Ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid \nB., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje \nMalborka, р. 22).\nDabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281 \nm.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m. \n(Powierski J., Chronologia..., p. 5—31).",
+      "replacesQuoteCodes": [
+        "c-202851"
+      ]
+    },
+    {
+      "code": "t-225757",
+      "notePath": "objektai/autoriai/Powierski J.md",
+      "sourceRel": "darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md",
+      "sourceHash": "c931f00908a42443ddb71d0772b21fe84ec2021b39e5061d487100a8825bf334",
+      "expectedClaimText": "J. Powierski siūlė vėlesnę pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos chronologiją.",
+      "replacementText": "Prūsijos žemės kronikos 1985 m. leidimo komentare, remiantis J. Powierskio tyrimu, siūloma Marienburgo pilies statybą, konvento perkėlimą ir miesto lokacinę privilegiją datuoti vėliau nei ankstesnėje literatūroje.",
+      "start": 521678,
+      "end": 522355,
+      "excerpt": "500  Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti \n1272 m. ar 1274 m. 1275 m. pradėta statyti Aukštutinė pilis (iki 1279 m. pastatytas jos \nšiaurinis sparnas, Aukštutinė pilis baigta apie 1300 m.). 1276 m. miestas gavo lokacinę \nprivilegiją. Ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid \nB., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje \nMalborka, р. 22).\nDabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281 \nm.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m. \n(Powierski J., Chronologia..., p. 5—31).",
+      "replacesQuoteCodes": [
+        "c-206246"
+      ]
+    },
+    {
+      "code": "t-212811",
+      "notePath": "objektai/autoriai/Malte-Brunas.md",
+      "sourceRel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md",
+      "sourceHash": "07c0550a6f61e21ee809e3b1490567f9c315479c2f197f65d4726e539f63a464",
+      "expectedClaimText": "Malte-Brunas, Narbuto vertinimu, teisingai pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė.",
+      "replacementText": "Malte-Brunas, Narbuto vertinimu, teisingai pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė.",
+      "start": 180258,
+      "end": 180819,
+      "excerpt": "kime iš šio sąrašo kaimynines venedų tautas, nepriklau­\nsančias lietuvių kartoms. Toliausiai į pietryčius gyveno \nstūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų \npavadinimą išsaugojo, kaip teisingai pastebėjo Malte- \nBrunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi- \nbionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­\nlis prie Dauguvos Witsby, kur dabar yra Vitebskas, — \napie tai Karamzinas rašo savo tyrimuose3. Neįmanoma \nnustatyti, kuriai giminei priklausė šios tautos; jos pasi­\nmeta sarmatų genčių sūkuryje. Tarp šių dviejų tautų bas­",
+      "replacesQuoteCodes": [
+        "c-196240",
+        "c-197192"
+      ]
+    },
+    {
+      "code": "t-218355",
+      "notePath": "objektai/autoriai/Petras Dusburgietis.md",
+      "sourceRel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md",
+      "sourceHash": "f2f8363eb25035133fa2471fc91475a99feb8fa8d92ebf1d8af4403fde7b7ddb",
+      "expectedClaimText": "Narbutas Petrą Dusburgietį pasitelkia liudydamas, kad lietuvės vilkėjo drobinius baltus ir dažytus rūbus, o vasarą juos vilkėjo ir vyrai.",
+      "replacementText": "Narbutas Petrą Dusburgietį pasitelkia liudydamas, kad lietuvės vilkėjo drobinius baltus ir dažytus rūbus, o vasarą juos vilkėjo ir vyrai.",
+      "start": 292420,
+      "end": 292763,
+      "excerpt": "matęs žaliuojančius linų laukus . Dar reikia turėti galvoje, kad \ntuo metu, kai pietų europiečiai visiškai nenaudojo lininių au­\ndinių drabužiams, lietuvės nuo kojų iki galvos puošėsi gražiais \ndrobiniais baltais ir dažytais rūbais, o vasarmečiu - ir vyrai, \nkaip liudija Petras Dusburgietis. Kitokių drabužių, išskyrus dro­\nbinius, nevilkėjo.",
+      "replacesQuoteCodes": [
+        "c-199306",
+        "c-200842"
+      ]
+    },
+    {
+      "code": "t-221861",
+      "notePath": "objektai/autoriai/J. Poverskis.md",
+      "sourceRel": "darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md",
+      "sourceHash": "c931f00908a42443ddb71d0772b21fe84ec2021b39e5061d487100a8825bf334",
+      "expectedClaimText": "J. Poverskis parašė darbą „Przekaz“.",
+      "replacementText": "1985 m. Prūsijos žemės kronikos leidimo bibliografijoje nurodytas J. Powierskio 1971 m. straipsnis apie Dusburgiečio pasakojimą apie prūsų antpuolius ir laikiną Kulmo žemės užėmimą.",
+      "start": 783253,
+      "end": 783421,
+      "excerpt": "Powierski J. Przekaz Dusburga o najazdach pruskich i przejściowej okupacj  ziemi \nChełmińskiej.—Komunikaty mazursko-warmińskie, Olsztyn, 1971, Nr. 4 (114), s. 379—\n427.",
+      "replacesQuoteCodes": [
+        "c-202233"
+      ]
+    },
+    {
+      "code": "t-221374",
+      "notePath": "objektai/autoriai/Powierski J.md",
+      "sourceRel": "darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md",
+      "sourceHash": "c931f00908a42443ddb71d0772b21fe84ec2021b39e5061d487100a8825bf334",
+      "expectedClaimText": "J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.",
+      "replacementText": "Prūsijos žemės kronikos komentare, remiantis J. Powierskiu, keliama prielaida, kad dalis Galindos gyventojų išliko iki XIII a.",
+      "start": 209778,
+      "end": 210266,
+      "excerpt": "203 Manoma, kad pagrindinė Galindos žemės nusiaubimo priežastis buvo pasienio \nkarai, ypač su Lenkija XI—XIII a. pradžioje (Łowmiański H. Studja..., 1, p. 49—50; \nPollakówna M., Zanik..., p. 165—166). Kai kurie archeologiniai duomenys leidžia \nsuabejoti D. teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška \ndykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo \nišlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).",
+      "replacesQuoteCodes": [
+        "c-204890"
+      ]
+    },
+    {
+      "code": "t-224644",
+      "notePath": "objektai/autoriai/Powierski J.md",
+      "sourceRel": "darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md",
+      "sourceHash": "c931f00908a42443ddb71d0772b21fe84ec2021b39e5061d487100a8825bf334",
+      "expectedClaimText": "J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu.",
+      "replacementText": "Prūsijos žemės kronikos leidimo komentare J. Powierskio darbas nurodomas aptariant 1218 m. Kristijono žygį ir numanomą susitarimą su Mazovijos kunigaikščiu Konradu.",
+      "start": 130826,
+      "end": 131206,
+      "excerpt": "Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos \nkunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M. \nPierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Stosunki..., p. 134—152). Šių \nmomentų Dusburgietis nemini, jis nekalba apie katalikiškųjų šalių feodalų agresiją, kuri \nprivertė prūsus stoti į kovą.",
+      "replacesQuoteCodes": [
+        "c-203741",
+        "c-205797"
+      ]
+    },
+    {
+      "code": "t-224936",
+      "notePath": "objektai/autoriai/Powierski J.md",
+      "sourceRel": "darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md",
+      "sourceHash": "c931f00908a42443ddb71d0772b21fe84ec2021b39e5061d487100a8825bf334",
+      "expectedClaimText": "J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme.",
+      "replacementText": "Prūsijos žemės kronikos leidimo komentare J. Powierskio darbais remiamasi aprašant Hugono Butyro kovas su prūsais ir numanomą jo bazę Kulme.",
+      "start": 152748,
+      "end": 153238,
+      "excerpt": "178  Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII \na. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir \nKrokuvos kunigaikščio) tarnyboje. Kariavo su prūsais, turėjo bazę greičiausiai Kulme \n(Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J. \nStosunki..., p. 110; to paties, Hugo Butyr..., p. 20—29; to paties. Dobra ostrowicko-\ngolubskie..., p. 39; Piętka J. Geneza mazowieckiej..., p. 39—40).",
+      "replacesQuoteCodes": [
+        "c-205797"
+      ]
+    }
+  ],
+  "summaries": {
+    "objektai/asmenys/Birutė.md": "Birutė – Kęstučio žmona ir Vytauto motina. Jos gyvenimo datos nėra tiksliai nustatytos. Teodoro Narbuto siūloma chronologija priklauso XIX a. istoriografijai; jo nurodyti 1416 m. nėra patikimai nustatyti Birutės mirties metai.",
+    "objektai/asmenys/Egidijus.md": "Egidijus Romietis – augustinų teologas ir Buržo arkivyskupas, miręs Avinjone 1316 m. gruodžio 22 d. Prūsijos žemės kronikos lietuviškame leidime pateikta sausio 1 d. nesutampa su šiuolaikinėje akademinėje biografijoje nurodoma data.",
+    "objektai/asmenys/Laurynas Gucevičius.md": "Laurynas Gucevičius (1753–1798) – architektas, projektavęs Vilniaus katedros ir rotušės rekonstrukcijas. Teodoro Narbuto pasakojimas apie jo popieriuose rastą Mildos šventyklos aprašymą čia pateikiamas kaip XIX a. istoriografijos liudijimas, o ne šventyklos egzistavimo įrodymas.",
+    "objektai/asmenys/Mykolas Šulcas.md": "Teodoras Narbutas Vilniaus universiteto profesorių Mykolą Šulcą mini kaip pasakojimų apie senienas pateikėją. Jam taip pat priskiria Gucevičiaus popieriuose rasto rankraščio apie Mildos šventyklą atradimą. Tai Narbuto pasakojimo atribucijos.",
+    "objektai/asmenys/Šulcas.md": "Teodoras Narbutas Vilniaus universiteto architektūros profesoriui Šulcui priskiria Gucevičiaus popieriuose rasto rankraščio apie Mildos šventyklą atradimą. Pasakojimas nėra savarankiškas tokios šventyklos egzistavimo įrodymas.",
+    "objektai/autoriai/Beli (Bayle).md": "Teodoras Narbutas tarp naudotos literatūros nurodo Bayle’o žodyno straipsnį apie Jeronimą Prahiškį.",
+    "objektai/autoriai/Bonegartas.md": "Teodoras Narbutas tarp naudotos literatūros mini Bonegarto vardu įvardyto žodyno straipsnius apie Jeronimą Prahiškį ir Kobhamą. Čia paliekama Narbuto leidinyje vartojama pavardės forma.",
+    "objektai/autoriai/Francua Žozefas Noelis.md": "Francua Žozefo Noelio mitologinis žodynas buvo vienas Teodoro Narbuto naudotų veikalų. Narbutas jo aiškinimus pasitelkė lygindamas skirtingų tautų mitologiją.",
+    "objektai/autoriai/Górnowicz H.md": "H. Górnowicziaus vietovardžių tyrimai nurodomi Prūsijos žemės kronikos 1985 m. leidimo komentaruose. Šios bibliografinės nuorodos priklauso leidimo rengėjams, o ne XIV a. kronikininkui.",
+    "objektai/autoriai/Malte-Brunas.md": "Teodoras Narbutas remiasi Malte-Bruno geografiniais ir etimologiniais aiškinimais. Čia pateikiamos šio autoriaus hipotezės iš Narbuto veikalų; jos nėra savaime patvirtinti vietovardžių kilmės ar tautų istorijos faktai."
+  },
+  "externalSources": {
+    "objektai/asmenys/Birutė.md": [
+      {
+        "title": "VLE: Birutė",
+        "url": "https://www.vle.lt/straipsnis/birute/"
+      }
+    ],
+    "objektai/asmenys/Egidijus.md": [
+      {
+        "title": "Stanford Encyclopedia of Philosophy: Giles of Rome",
+        "url": "https://plato.stanford.edu/entries/giles/"
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "exhibitions": [
     {
-      "description": "Chronologinė skaitmeninė paroda seka, kaip kito Vytauto vaizdas: nuo jo laikų dokumentų, monetų ir heraldikos iki pomirtinių graviūrų, istorinių scenų ir XIX–XX a. pradžios portretų. Kiekvieno eksponato data čia žymi paties vaizdo ar daikto sukūrimo laiką, o ne vaizduojamo įvykio datą.",
+      "description": "Chronologinė skaitmeninė paroda seka, kaip kito Vytauto vaizdas: nuo jo laikų dokumentų, monetų ir heraldikos iki pomirtinių graviūrų, istorinių scenų ir XIX–XX a. pradžios portretų. Kiekvieno eksponato data čia žymi paties vaizdo ar daikto sukūrimo laiką, o ne vaizduojamo įvykio datą. Vėlesniuose portretuose vaizduojama karūna yra meninis valdžios ženklas: Vytauto karūnavimas neįvyko.",
       "exhibitionId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo",
       "heroMediaId": "m-f396e7f6eccd59dd3f8167fc",
       "legacySlugs": [
@@ -139,22 +139,6 @@
               ]
             },
             {
-              "catalogDescriptionLt": "Apie 1430 m. Slucko kronikos puslapyje Vytautas šlovinamas raštu, todėl valdovo reputaciją čia kuria ne portretas, o kalba. Kitame Lietuvos metraščio pasakojime Aleksandras, vadinamas Vytautu, taip pat vaizduojamas kaip didžiai gerbiamas ir šlovinamas valdovas. Tai nėra pažodinis eksponuojamo puslapio paaiškinimas, bet tiesiogiai liudija platesnę metraštinę Vytauto išaukštinimo tradiciją. Rankraštis leidžia matyti, kad toks vaizdinys nebuvo vien XX a. išradimas: jis buvo kuriamas tekstu ir perduodamas vėlesniems skaitytojams. Rašytinis pagyrimas pats tampa eksponuojamu atvaizdu.",
-              "descriptionLt": "Apie 1430 m. Slucko kronikos puslapyje Vytautas šlovinamas raštu. Čia valdovo reputaciją kuria ne portretas, o kalba; kitame Lietuvos metraščio pasakojime Aleksandras, vadinamas Vytautu, taip pat vaizduojamas kaip didžiai gerbiamas ir šlovinamas valdovas. Rašytinis pagyrimas pats tampa eksponuojamu atvaizdu – vardas įgyja veidą per sakinį.",
-              "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-04-01",
-              "featured": true,
-              "mediaId": "m-ece9dfb4cc0790980d24121a",
-              "titleLt": "Pašlovinimas Slucko kronikoje",
-              "claimRefs": [
-                {
-                  "claimId": "t-194013",
-                  "citationId": "c-180314",
-                  "label": "Metraštinė Vytauto šlovinimo tradicija",
-                  "role": "contextual"
-                }
-              ]
-            },
-            {
               "catalogDescriptionLt": "1443 m. rankraščio miniatiūra yra vienas ankstyviausių parodos vaizdų, tačiau sukurta jau po Vytauto mirties. Ceremoninė scena ir raitelio ženklas, šiandien atpažįstamas kaip Vyčio tradicijos dalis, valdovo atmintį susieja su politine bei dinastine reprezentacija. Miniatiūra neatskleidžia tikro Vytauto veido: ji rodo, kaip XV a. viduryje jo vardas jau buvo paverstas matomu istorijos pasakojimu.",
               "descriptionLt": "1443 m. rankraščio miniatiūra sukurta jau po Vytauto mirties. Ceremoninė scena ir raitelio ženklas, šiandien atpažįstamas kaip Vyčio tradicijos dalis, įrašo valdovą į politinę bei dinastinę atmintį. Tai ne portretas iš natūros, o ankstyvas bandymas suteikti istoriniam vardui matomą pavidalą.",
               "evidenceNoteLt": "Miniatiūros data ir vaizdo apibūdinimas pateikiami pagal patvirtintus metaduomenis. Vėlesnis pasakojimas apie Vytauto laidotuves šiam konkrečiam vaizdui netaikomas.",
@@ -176,11 +160,39 @@
         {
           "items": [
             {
+              "catalogDescriptionLt": "Vytauto pagyrimo fragmentas XVI a. Slucko metraščio nuoraše. Kūrinio atsiradimo laikas ir išlikusio rankraščio data skiriasi.",
+              "descriptionLt": "Slucko metraščio nuoraše išliko Vytautą šlovinantis tekstas, kurio ištakos siejamos su XV a. Tačiau čia rodomas XVI a. rankraščio lapas. Tai vėlesnis teksto perdavimo liudijimas, o ne apie 1430 m. parašytas Vytauto laikų originalas.",
+              "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-04-01",
+              "featured": true,
+              "mediaId": "m-ece9dfb4cc0790980d24121a",
+              "titleLt": "Vytauto pagyrimas Slucko metraščio nuoraše",
+              "claimRefs": [
+                {
+                  "claimId": "t-194013",
+                  "citationId": "c-180314",
+                  "label": "Metraštinė Vytauto šlovinimo tradicija",
+                  "role": "contextual"
+                }
+              ],
+              "dateDisplay": "XVI a. (XV a. teksto nuorašas)",
+              "creatorDisplay": "Nuorašo raštininkas nežinomas",
+              "externalSources": [
+                {
+                  "title": "Rima Cicėnienė apie LDK rankraštinių knygų užsakovus",
+                  "url": "https://www.journals.vu.lt/knygotyra/article/download/3493/2553/2713"
+                },
+                {
+                  "title": "Išlikusio Slucko nuorašo datavimas, „Kardas“, 2012, Nr. 3",
+                  "url": "https://biblioteka.lka.lt/data/Leidiniai/K2006-/2012/2012-3%28114%29.pdf"
+                }
+              ]
+            },
+            {
               "exhibitionItemId": "hist-pomirtinis-01",
               "mediaId": "m-484ab5f62e4a960c1d978db8",
               "titleLt": "Guagnini Vytautas, 1578",
-              "descriptionLt": "Alessandro Guagnini 1578 m. atvaizdas, sukurtas praėjus beveik pusantro šimtmečio po Vytauto mirties, pradeda spausdintos ikonografijos kelionę. Knygos puslapyje valdovas gauna veidą, kuris galėjo būti kartojamas ir atpažįstamas toli nuo XV amžiaus.",
-              "catalogDescriptionLt": "Alessandro Guagnini 1578 m. atvaizdas sukurtas praėjus beveik pusantro šimtmečio po Vytauto mirties. Jis svarbus kaip ankstyva spausdintos ikonografijos grandis, bet ne kaip portretinis liudijimas.",
+              "descriptionLt": "Vytauto atvaizdas paskelbtas Aleksandro Gvagninio 1578 m. leidinyje, praėjus beveik pusantro šimtmečio po valdovo mirties. Tai įsivaizduojamas portretas, vėliau kartotas kituose leidiniuose.",
+              "catalogDescriptionLt": "Vytauto atvaizdas paskelbtas Aleksandro Gvagninio 1578 m. leidinyje, praėjus beveik pusantro šimtmečio po valdovo mirties. Tai įsivaizduojamas portretas, vėliau kartotas kituose leidiniuose.",
               "featured": true,
               "claimRefs": []
             },
@@ -188,8 +200,8 @@
               "exhibitionItemId": "hist-karuna-04",
               "mediaId": "m-1e708d0a5620d5a9bf639d0d",
               "titleLt": "Guagnini tradicijos tęsinys",
-              "descriptionLt": "1611 m. atvaizdas tęsia Alessandro Guagnini ikonografinę tradiciją. Spausdintas portretas čia veikia kaip atminties mechanizmas: vienas valdovo tipas kartojamas, keliauja per knygas ir tampa vis lengviau atpažįstamas.",
-              "catalogDescriptionLt": "1611 m. atvaizdas tęsia Alessandro Guagnini ikonografinę tradiciją. Jis rodo, kaip spausdintas portretas padėjo kartoti ir įtvirtinti atpažįstamą Vytauto tipą.",
+              "descriptionLt": "1611 m. leidinio atvaizdas tęsia Aleksandro Gvagninio knygose pateiktą Vytauto vaizdavimo tradiciją. Palyginus abu portretus galima matyti, kaip kartota valdovo figūra ir jos atributai.",
+              "catalogDescriptionLt": "1611 m. leidinio atvaizdas tęsia Aleksandro Gvagninio knygose pateiktą Vytauto vaizdavimo tradiciją. Palyginus abu portretus galima matyti, kaip kartota valdovo figūra ir jos atributai.",
               "featured": false,
               "relation": {
                 "kind": "variant_of",
@@ -223,17 +235,17 @@
               "exhibitionItemId": "hist-karuna-03",
               "mediaId": "m-d15bf12daf2da3d85cc37a07",
               "titleLt": "Tarasevičiaus raižinio valdovas",
-              "descriptionLt": "Aleksandro Tarasevičiaus 1675 m. raižinys suteikia Vytautui vėlesnių amžių valdovo reprezentacijos kalbą: iškilmingą laikyseną, ženklus ir žvilgsnį, skirtą istorijos didybei. Raižinys pasakoja apie XVII a. santykį su Vytauto atminimu.",
-              "catalogDescriptionLt": "Aleksandro Tarasevičiaus 1675 m. raižinys suteikia Vytautui vėlesnių amžių valdovo reprezentacijos kalbą. Kūrinio data aiškiai skiria jį nuo XV a. valdovo gyvenimo.",
+              "descriptionLt": "Aleksandro Tarasevičiaus 1675 m. raižinys sukurtas praėjus beveik dviem su puse šimtmečio po Vytauto mirties. Iškilminga laikysena ir valdžios ženklai priklauso XVII a. istorinio portreto tradicijai.",
+              "catalogDescriptionLt": "Aleksandro Tarasevičiaus 1675 m. raižinys sukurtas praėjus beveik dviem su puse šimtmečio po Vytauto mirties. Iškilminga laikysena ir valdžios ženklai priklauso XVII a. istorinio portreto tradicijai.",
               "featured": true,
               "claimRefs": []
             }
           ],
           "sectionId": "vyt-spausdintas-valdovas-1578-1675",
           "slug": "spausdintas-valdovas-1578-1675",
-          "title": "Spausdintas valdovas · 1578–1675",
-          "lead": "XVI–XVII a. kronikos ir raižiniai suteikė Vytautui lengvai kartojamą veidą. Tai įsivaizduojama ikonografija, sukurta praėjus daugeliui kartų po valdovo mirties.",
-          "evidenceNoteLt": "Šio skyriaus atvaizdai pateikiami kaip katalogo ir ikonografijos pavyzdžiai. Jų aprašai remiasi konkrečių objektų įrašais; atskiro bendro teiginio jiems nepriskiriame, kad vėlesnės ikonografijos neapsimestų XV a. portreto liudijimu.",
+          "title": "Metraščiai ir spausdinti atvaizdai · XVI–XVII a.",
+          "lead": "XVI a. nuorašai perdavė ankstesnius pasakojimus apie Vytautą, o kronikų iliustracijos ir raižiniai kūrė jo atvaizdą. Šie portretai sukurti praėjus kelioms kartoms po valdovo mirties.",
+          "evidenceNoteLt": "Datavimas ir autorystė nurodomi pagal eksponatų katalogus. Vėlesni įsivaizduojami portretai nelaikomi Vytauto išvaizdos liudijimais.",
           "navMediaId": "m-d15bf12daf2da3d85cc37a07",
           "navImagePosition": "50% 28%",
           "claimRefs": [
@@ -251,8 +263,8 @@
               "exhibitionItemId": "hist-pomirtinis-03",
               "mediaId": "m-dcdbe87268bf50ba7819977b",
               "titleLt": "XVIII amžiaus valdovo veidas",
-              "descriptionLt": "XVIII a. kūrinys dar kartą perkuria Vytautą pagal savo meto reprezentacijos lūkesčius. Valdovo laikysena, apranga ir aplinka daugiau pasakoja apie kūrimo epochą, tačiau būtent taip atmintis išlaiko jo didybę gyvą.",
-              "catalogDescriptionLt": "XVIII a. kūrinys dar kartą perkuria Vytautą pagal savo meto reprezentacijos lūkesčius. Kiekvienas toks portretas daugiau pasako apie kūrimo epochą negu apie XV a. žmogaus išvaizdą.",
+              "descriptionLt": "XVIII a. Vytauto atvaizde apranga, laikysena ir aplinka perteiktos pagal kūrinio autoriaus laikų istorinio portreto sampratą. Tai pomirtinis valdovo atminimo kūrinys.",
+              "catalogDescriptionLt": "XVIII a. Vytauto atvaizde apranga, laikysena ir aplinka perteiktos pagal kūrinio autoriaus laikų istorinio portreto sampratą. Tai pomirtinis valdovo atminimo kūrinys.",
               "featured": true,
               "claimRefs": []
             },
@@ -260,8 +272,8 @@
               "exhibitionItemId": "hist-karuna-02",
               "mediaId": "m-9271846f686d86ef49142b33",
               "titleLt": "Vytautas prie totorių pasiuntinių",
-              "descriptionLt": "Franciszeko Smuglevičiaus 1786 m. scena suteikia Vytautui vėlyvų amžių istorinio valdovo mastą. Lietuvos metraštis pasakoja apie Ordos vyresniuosius, atvykusius pas Vytautą į Kijevą su dovanomis ir prašymu paskirti chaną. Šis pasakojimas atveria totorių pasiuntinių temos istorinį lauką, o paveikslas jį paverčia XVIII a. suprantama valdovo didybės scena.",
-              "catalogDescriptionLt": "Franciszeko Smuglevičiaus 1786 m. scena yra vėlyva meninė Vytauto politinio masto interpretacija. Lietuvos metraštis pasakoja apie Ordos vyresniuosius, atvykusius pas Vytautą į Kijevą su dovanomis ir prašymu paskirti chaną. Šis pasakojimas padeda suprasti totorių pasiuntinių temos istorinį lauką, tačiau neįrodo, kad paveikslas tiksliai vaizduoja būtent tą epizodą. Todėl kūrinys parodoje skaitomas kaip XVIII a. istorinė vaizduotė, o ne valdovo epochos dokumentas.",
+              "descriptionLt": "Pranciškaus Smuglevičiaus 1786 m. scenoje vaizduojamas Vytauto susitikimas su totorių pasiuntiniais. Lietuvos metraščio pasakojime Ordos didikai atvyksta pas jį į Kijevą su dovanomis ir prašymu paskirti chaną. Metraštinis pasakojimas padeda suprasti kūrinio temą; paveikslas yra XVIII a. meninė interpretacija.",
+              "catalogDescriptionLt": "Pranciškaus Smuglevičiaus 1786 m. scenoje vaizduojamas Vytauto susitikimas su totorių pasiuntiniais. Lietuvos metraščio pasakojime Ordos didikai atvyksta pas jį į Kijevą su dovanomis ir prašymu paskirti chaną. Metraštinis pasakojimas padeda suprasti kūrinio temą; paveikslas yra XVIII a. meninė interpretacija.",
               "featured": true,
               "claimRefs": [
                 {
@@ -276,8 +288,8 @@
               "exhibitionItemId": "hist-katalogas-08",
               "mediaId": "m-d0f45f8e764022d84712e3d2",
               "titleLt": "XVIII amžiaus portreto variantas",
-              "descriptionLt": "Nežinomo autoriaus XVIII a. portretas pateikia dar vieną karūnuoto ir šarvuoto Vytauto tipą.",
-              "catalogDescriptionLt": "Nežinomo autoriaus XVIII a. portretas pateikia dar vieną karūnuoto ir šarvuoto Vytauto tipą. Lyginant jį su pagrindiniu šio laikotarpio portretu matyti, kaip ta pati valdovo idėja buvo kartojama keičiant aprangą, laikyseną ir aplinką.",
+              "descriptionLt": "Nežinomo autoriaus XVIII a. portretas pateikia dar vieną su karūna ir šarvais vaizduojamo Vytauto tipą.",
+              "catalogDescriptionLt": "Nežinomo autoriaus XVIII a. portretas pateikia dar vieną su karūna ir šarvais vaizduojamo Vytauto tipą. Lyginant jį su pagrindiniu šio laikotarpio portretu matyti, kaip ta pati valdovo idėja buvo kartojama keičiant aprangą, laikyseną ir aplinką.",
               "creatorDisplay": "Nežinomas autorius",
               "dateDisplay": "XVIII a.",
               "featured": false,
@@ -314,8 +326,8 @@
               "exhibitionItemId": "hist-katalogas-01",
               "mediaId": "m-a6684ef6e82e8375a5efb21e",
               "titleLt": "Słavieckio valdovas, 1831–1841",
-              "descriptionLt": "Vincento Słavieckio 1831–1841 m. piešinyje Vytautas rodomas visu ūgiu, su kalaviju ir karūna šalia. Tikslesnių metų šaltinis nenurodo, todėl paliekamas visas datos intervalas. Portretas gerai parodo romantizmo vaizduotę: istorinis Lietuvos valdovas paverčiamas teatrališka, lengvai perskaitoma didvyrio figūra.",
-              "catalogDescriptionLt": "Vincento Słavieckio piešinys datuojamas 1831–1841 m. Jame Vytautas rodomas visu ūgiu, su kalaviju ir karūna šalia – kaip romantizmo epochos sukurtas Lietuvos valdovo didvyrio tipas, o ne autentiškas XV a. portretas.",
+              "descriptionLt": "Vincento Słavieckio piešinys datuojamas 1831–1841 m. Vytautas pavaizduotas visu ūgiu, su kalaviju, šalia padėta karūna. Tikslesnė kūrinio data nenustatyta.",
+              "catalogDescriptionLt": "Vincento Słavieckio piešinys datuojamas 1831–1841 m. Vytautas pavaizduotas visu ūgiu, su kalaviju, šalia padėta karūna. Tikslesnė kūrinio data nenustatyta.",
               "creatorDisplay": "Vincentas Słavieckis",
               "dateDisplay": "1831–1841 m.",
               "featured": true,
@@ -325,14 +337,14 @@
               "exhibitionItemId": "hist-veidas-02",
               "mediaId": "m-35077b2615b9697b59f18d18",
               "titleLt": "Portretinė graviūra, 1837–1838",
-              "descriptionLt": "1837–1838 m. graviūra rodo kitą Vytauto atvaizdo gyvenimą – jo sklaidą spaudoje. Reprodukuojamas veidas tapo lengviau atpažįstamas, pakartojamas ir prieinamas vis naujam žiūrovui.",
-              "catalogDescriptionLt": "1837–1838 m. graviūra rodo, kaip valdovo atvaizdas galėjo plisti spaudoje. Reprodukuojamas veidas tapo lengviau atpažįstamas ir pakartojamas.",
+              "descriptionLt": "1837–1838 m. graviūra – XIX a. spaudoje platintas įsivaizduojamas Vytauto portretas. Jį galima palyginti su kitais parodoje rodomais raižiniais ir tapytais atvaizdais.",
+              "catalogDescriptionLt": "1837–1838 m. graviūra – XIX a. spaudoje platintas įsivaizduojamas Vytauto portretas. Jį galima palyginti su kitais parodoje rodomais raižiniais ir tapytais atvaizdais.",
               "featured": false,
               "claimRefs": []
             },
             {
-              "catalogDescriptionLt": "Jano Hesse 1842 m. graviūra pateikia karūnuotą, šarvuotą ir kalaviju ginkluotą Vytautą. Tai nėra iš natūros sukurtas portretas: XIX a. dailininkas rėmėsi senesniu Nesvyžiuje saugotu atvaizdu ir suteikė valdovui savo epochos istorinio didvyrio bruožų. Vaizdas svarbus kaip atminties, o ne fizinio panašumo dokumentas. Jis leidžia atskirti istorinį asmenį nuo po kelių šimtmečių sukurto jo veido ir pradeda parodos dialogą tarp istorijos bei atvaizdo.",
-              "descriptionLt": "Jano Hesse 1842 m. graviūroje Vytautas pasirodo karūnuotas, šarvuotas ir kalaviju ginkluotas. XIX a. dailininkas rėmėsi senesniu Nesvyžiuje saugotu atvaizdu, bet valdovui suteikė ir savo epochos istorinio didvyrio bruožų. Taip senas vardas gauna naują, įtaigų pavidalą.",
+              "catalogDescriptionLt": "Jano Hesse 1842 m. graviūroje Vytautas pavaizduotas su karūna, šarvais ir kalaviju. Dailininkas rėmėsi senesniu Nesvyžiuje saugotu atvaizdu. Graviūra liudija, kaip ankstesni portretai naudoti XIX a. spaudoje.",
+              "descriptionLt": "Jano Hesse 1842 m. graviūroje Vytautas pavaizduotas su karūna, šarvais ir kalaviju. Dailininkas rėmėsi senesniu Nesvyžiuje saugotu atvaizdu. Graviūra liudija, kaip ankstesni portretai naudoti XIX a. spaudoje.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-01-01",
               "featured": false,
               "mediaId": "m-d40580df0a4d385cdf5d7d00",
@@ -343,8 +355,8 @@
               "exhibitionItemId": "hist-katalogas-05",
               "mediaId": "m-b439b9ea85a1a40d2d56519f",
               "titleLt": "Dmochowskio Vytautas, 1848",
-              "descriptionLt": "Vincento Dmochowskio 1848 m. portrete šarvuotas ir karūnuotas Vytautas įkomponuotas į ovalų rėmą. Po dviejų dešimtmečių nuo romantizmo pradžios valdovo tipas jau atrodo nusistovėjęs: istorinį autoritetą kuria ne tik veidas, bet ir mantija, valdžios lazda bei reprezentacinė poza.",
-              "catalogDescriptionLt": "Vincento Dmochowskio 1848 m. portretas rodo šarvuotą ir karūnuotą Vytautą ovaliame rėme. Valdovo autoritetą čia kuria XIX a. reprezentacijos priemonės – mantija, valdžios lazda ir iškilminga poza.",
+              "descriptionLt": "Vincento Dmochowskio 1848 m. portrete Vytautas pavaizduotas su šarvais ir karūna, ovaliame rėme. Mantija, valdžios lazda ir iškilminga poza būdingos XIX a. istoriniam valdovo portretui.",
+              "catalogDescriptionLt": "Vincento Dmochowskio 1848 m. portretas rodo Vytautą su šarvais ir karūna ovaliame rėme. Valdovo autoritetą čia kuria XIX a. reprezentacijos priemonės – mantija, valdžios lazda ir iškilminga poza.",
               "creatorDisplay": "Vincentas Dmochowskis",
               "dateDisplay": "1848 m.",
               "featured": true,
@@ -354,8 +366,8 @@
               "exhibitionItemId": "hist-veidas-04",
               "mediaId": "m-07b98ddb6657ef599a10a45d",
               "titleLt": "Dmochowskio portretas, 1854",
-              "descriptionLt": "Vincento Dmochowskio 1854 m. portretas kuria orų istorinį valdovą. Santūri poza ir iškilminga laikysena rodo XIX a. meninį atsaką į Vytauto atmintį.",
-              "catalogDescriptionLt": "Vincento Dmochowskio 1854 m. portretas kuria orų istorinį valdovą. Kūrinys pateikiamas kaip XIX a. meninis atsakas į Vytauto atmintį.",
+              "descriptionLt": "Vincento Dmochowskio 1854 m. portretą galima palyginti su jo 1848 m. kūriniu. Abu paveikslai priklauso XIX a. Vytauto ikonografijai.",
+              "catalogDescriptionLt": "Vincento Dmochowskio 1854 m. portretą galima palyginti su jo 1848 m. kūriniu. Abu paveikslai priklauso XIX a. Vytauto ikonografijai.",
               "featured": false,
               "relation": {
                 "kind": "variant_of",
@@ -364,8 +376,8 @@
               "claimRefs": []
             },
             {
-              "catalogDescriptionLt": "Józefo Tadeuszo Polkowskio 1864 m. portrete Vytautas pateiktas kaip atpažįstamas istorinis valdovas, nors dailininkas jo gyvo nebuvo matęs. Santūri laikysena, valdžios atributai ir kruopščiai modeliuotas kostiumas kuria biografinio autoriteto įspūdį. Chronologinėje vaizdų sekoje portretas rodo, kaip XIX amžius sudėtingą, iš rašytinių šaltinių pažįstamą asmenį sutelkė į vieną vientisą valdovo figūrą. Tai meninis atminties vaizdas, todėl žiūrovas kviečiamas jo autoritetingumą vertinti kritiškai.",
-              "descriptionLt": "Józefo Tadeuszo Polkowskio 1864 m. portrete Vytautas pateiktas kaip atpažįstamas istorinis valdovas, nors dailininkas jo gyvo nebuvo matęs. Santūri laikysena, valdžios atributai ir kruopščiai modeliuotas kostiumas kuria biografinio autoriteto įspūdį. Portretas rodo, kaip XIX amžius sudėtingą istorinį asmenį sutelkė į vieną vientisą valdovo figūrą.",
+              "catalogDescriptionLt": "Józefo Tadeuszo Polkowskio 1864 m. portrete Vytautas vaizduojamas su valdžios atributais ir istoriniu kostiumu. Tai XIX a. dailininko įsivaizduotas valdovas; jo veido bruožai nėra Vytauto išvaizdos liudijimas.",
+              "descriptionLt": "Józefo Tadeuszo Polkowskio 1864 m. portrete Vytautas vaizduojamas su valdžios atributais ir istoriniu kostiumu. Tai XIX a. dailininko įsivaizduotas valdovas; jo veido bruožai nėra Vytauto išvaizdos liudijimas.",
               "exhibitionItemId": "vytautas-didysis-tarp-istorijos-ir-atvaizdo-01-02",
               "featured": true,
               "mediaId": "m-c3cdf2ed3b7f84c7ecb7ec6f",
@@ -376,8 +388,8 @@
               "exhibitionItemId": "hist-veidas-01",
               "mediaId": "m-ef3a92e376d5c48b81f60aaf",
               "titleLt": "Ziankievičiaus Vytautas",
-              "descriptionLt": "Jano Ziankievičiaus 1864–1870 m. paveikslas yra vienas iš XIX a. bandymų suteikti Vytautui įtikinamą istorinį veidą. Čia dailė kuria autoritetingą valdovo figūrą ir paverčia istoriją matomu pasakojimu.",
-              "catalogDescriptionLt": "Jano Ziankievičiaus 1864–1870 m. paveikslas yra vienas iš XIX a. bandymų suteikti Vytautui įtikinamą istorinį veidą. Jo vertė parodoje yra ikonografinė, ne dokumentinė.",
+              "descriptionLt": "Jano Ziankievičiaus 1864–1870 m. paveikslas – pomirtinis Vytauto portretas. Jis sukurtas XIX a. plintant istorinių Lietuvos valdovų atvaizdams.",
+              "catalogDescriptionLt": "Jano Ziankievičiaus 1864–1870 m. paveikslas – pomirtinis Vytauto portretas. Jis sukurtas XIX a. plintant istorinių Lietuvos valdovų atvaizdams.",
               "featured": false,
               "claimRefs": []
             },
@@ -441,8 +453,8 @@
               "exhibitionItemId": "hist-pomirtinis-04",
               "mediaId": "m-c0011d2677e2dcece9cf8f30",
               "titleLt": "Mateikos atvaizdas, 1866",
-              "descriptionLt": "Jano Mateikos 1866 m. atvaizdas priklauso XIX a. susidomėjimui istorijos didvyriais. Meninė įtaiga Vytautą paverčia didelės istorijos veikėju, o pats paveikslas rodo, kaip praeitis buvo įsivaizduojama naujai.",
-              "catalogDescriptionLt": "Jano Mateikos 1866 m. atvaizdas priklauso XIX a. susidomėjimui istorijos didvyriais. Meninė įtaiga čia sąmoningai atskiriama nuo autentiško portreto klausimo.",
+              "descriptionLt": "Jano Mateikos 1866 m. Vytauto atvaizdas priklauso XIX a. istorinei dailei. Jį nuo valdovo gyvenimo skiria daugiau kaip keturi šimtmečiai.",
+              "catalogDescriptionLt": "Jano Mateikos 1866 m. Vytauto atvaizdas priklauso XIX a. istorinei dailei. Jį nuo valdovo gyvenimo skiria daugiau kaip keturi šimtmečiai.",
               "featured": true,
               "claimRefs": []
             },
@@ -493,7 +505,7 @@
       "slug": "parodos/vytautas-didysis-istorijos-zenklai-ir-atvaizdo-raida",
       "subtitle": "Nuo valdovo ženklų iki modernaus tautos herojaus, 1392–1908",
       "title": "Vytautas Didysis: istorijos ženklai ir atvaizdo raida",
-      "updatedAt": "2026-07-21"
+      "updatedAt": "2026-09-27"
     }
   ],
   "schemaVersion": "3"

@@ -1,0 +1,42 @@
+{
+  "scope": {
+    "exhibitions": 10,
+    "items": 190,
+    "articles": 7,
+    "reexportedObjectPages": 29
+  },
+  "prebuild": {
+    "passed": true,
+    "tests": 287,
+    "failures": 0,
+    "exportedFiles": 21256,
+    "typescript": "passed",
+    "relationsIssues": 0
+  },
+  "corpus": {
+    "files": 21095,
+    "issues": 0,
+    "errors": 0,
+    "warnings": 0,
+    "counts": {},
+    "examples": []
+  },
+  "database": {
+    "foreign_key_errors": [],
+    "changed_existing_quote_texts": 0,
+    "changed_existing_global_quote_codes": 0,
+    "editorial_claim_states": [
+      {
+        "public_status": "quarantined",
+        "count": 59
+      }
+    ],
+    "editorial_metadata_keys": [
+      "editorial_evidence_repair_20260927",
+      "editorial_identity_split_20260927",
+      "editorial_semantic_review_20260927"
+    ]
+  },
+  "fullHtmlRebuildAfterFinalChanges": false,
+  "deployed": false
+}

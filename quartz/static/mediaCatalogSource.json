@@ -13667,15 +13667,15 @@
     {
       "attribution": "https://bis.nlb.by/api/files/getFromDocument/19328",
       "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3APochwa%C5%82a_Witoldowi.jpg",
-      "caption": "Vytauto Didžiojo pašlovinimas Slucko kronikoje, apie 1430 m.",
+      "caption": "Vytauto pagyrimo fragmentas XVI a. Slucko metraščio nuoraše.",
       "collection": "",
       "confidence": 0.95,
       "confidenceLevel": "high",
       "country": "",
-      "creator": "Timofey, scribe of bishop Gerasim of Smolensk",
-      "dateDisplay": "circa 1430",
-      "dateEnd": null,
-      "dateStart": null,
+      "creator": "Nuorašo raštininkas nežinomas",
+      "dateDisplay": "XVI a. (XV a. teksto nuorašas)",
+      "dateEnd": 1599,
+      "dateStart": 1500,
       "displayUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pochwa%C5%82a_Witoldowi.jpg",
       "height": 1346,
       "institution": "",
@@ -13686,7 +13686,7 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "mediaId": "m-ece9dfb4cc0790980d24121a",
-      "metadataEvidence": "Aprašas pateikia transkripciją, vertimą, autorių, Slucko kronikos pavadinimą ir datavimą apie 1430 m.",
+      "metadataEvidence": "Slucko nuorašas datuojamas XVI a. Ankstesnė apie 1430 m. data siejama su teksto tradicija, o ne šio rankraščio lapo sukūrimu. Žr. Rimos Cicėnienės ir Romo Batūros publikacijas parodos nuorodose.",
       "originalTitle": "Pochwała Witoldowi.jpg",
       "provider": "commons",
       "providerLabel": "Wikimedia Commons",
@@ -120867,7 +120867,7 @@
           "itemType": "asmuo",
           "notePath": "objektai/asmenys/Daumantas.md",
           "relationType": "painting_of",
-          "title": "Daumantas (kunigaikštis, XV a.)"
+          "title": "Daumantas (Nalšios ir Pskovo kunigaikštis)"
         }
       ],
       "relationType": "painting_of",
@@ -139790,13 +139790,13 @@
     {
       "attribution": "Bernardinai.lt",
       "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ACeremonial_reception_of_the_painting_of_Vytautas_the_Great_in_Kretinga%2C_Lithuania_in_1930.jpg",
-      "caption": "Vytauto Didžiojo paveikslo sutikimas Kretingoje, 1930 m. rugsėjo 8 d.",
+      "caption": "Vytauto atvaizdo sutikimas Kretingoje, 1930 m.; tiksli diena tikslintina.",
       "collection": "",
       "confidence": 0.82,
       "confidenceLevel": "medium",
       "country": "",
       "creator": "Unknown author Unknown author",
-      "dateDisplay": "1930-09-08",
+      "dateDisplay": "1930 m. (diena tikslintina)",
       "dateEnd": null,
       "dateStart": null,
       "directness": "contextual",
@@ -139811,7 +139811,7 @@
       "license": "Public domain",
       "licenseUrl": "",
       "mediaId": "m-f20d4ca30550878794cc7bc6",
-      "metadataEvidence": "Aprašas lokalizuoja įvykį Kretingoje, Lietuvoje, ir sieja jį su Vytauto Didžiojo paveikslo kelione per Lietuvą 1930 m.",
+      "metadataEvidence": "Commons nurodo 1930-09-08, bet Kretingos bibliotekos chronologijoje keliaujantis portretas sutiktas liepos 24 d. Konkreti fotografavimo diena nepatvirtinta.",
       "originalTitle": "Ceremonial reception of the painting of Vytautas the Great in Kretinga, Lithuania in 1930.jpg",
       "provider": "commons",
       "providerLabel": "Wikimedia Commons",
@@ -193567,7 +193567,7 @@
           "itemType": "asmuo",
           "notePath": "objektai/asmenys/Daumantas.md",
           "relationType": "painting_of",
-          "title": "Daumantas (kunigaikštis, XV a.)"
+          "title": "Daumantas (Nalšios ir Pskovo kunigaikštis)"
         }
       ],
       "relationType": "painting_of",
@@ -214474,7 +214474,7 @@
       "confidenceLevel": "high",
       "country": "",
       "creator": "Unknown author Unknown author",
-      "dateDisplay": "14 th century date QS:P,+1350-00-00T00:00:00Z/7",
+      "dateDisplay": "XIV a.",
       "dateEnd": null,
       "dateStart": null,
       "directness": "direct",
@@ -214499,7 +214499,7 @@
           "itemType": "asmuo",
           "notePath": "objektai/asmenys/Kęstutis.md",
           "relationType": "seal_of",
-          "title": "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)"
+          "title": "Kęstutis (Lietuvos valdovas, XIV a.)"
         }
       ],
       "relationType": "seal_of",
@@ -214600,7 +214600,7 @@
       ],
       "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg",
       "title": "Authentic Seal of Kęstutis.jpg",
-      "visualEvidence": "Matomas nespalvotas apskrito antspaudo piešinys su raiteliu, kardu, skydu ir aplinkiniu lotynišku įrašu.",
+      "visualEvidence": "Antspaudo piešinyje matomas stovintis karys su kalaviju ir skydu, aplink – įrašas.",
       "visualReviewVersion": "media-visual-validator-v2",
       "width": 816
     },
@@ -263290,7 +263290,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/blaivybes-medalis-po-1889.jpg",
       "title": "Blaivybės judėjimo medalis — vėlesnis atminties ženklas",
-      "visualEvidence": "Nedideliame aliuminio medalyje telpa religinis atvaizdas ir užrašai. Muziejus jį datuoja laikotarpiu po 1889 metų, tad tai vėlesnės blaivybės tradicijos daiktas. Valančius jo negalėjo įteikti 1858 metais į broliją stojusiam žmogui. Kam šis medalis priklausė ir kaip buvo nešiojamas, nežinoma. Jį verta apžiūrėti iš arti: ženklas buvo skirtas turėti su savimi, o blaivybės raginimą lydėjo religinis vaizdas. Parodą jis baigia jau kitu laikotarpiu, kai pirmųjų brolijų organizacija nebeveikė, tačiau jų skelbtas įsipareigojimas buvo tęsiamas ir prisimenamas.",
+      "visualEvidence": "Aliuminio medalį su religiniu atvaizdu ir užrašais muziejus datuoja laikotarpiu po 1889 m. Tai vėlesnės blaivybės tradicijos daiktas, pagamintas po Valančiaus mirties. Jo savininkas ir naudojimo aplinkybės nežinomi.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 598
     },
@@ -263386,7 +263386,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/smuglevicius-valstieciai-karcemoje-iki-1807.jpg",
       "title": "Pranciškus Smuglevičius. „Valstiečiai karčemoje“",
-      "visualEvidence": "Prie stalo susėdusius žmones Smuglevičius nutapė arti vienas kito. Priekyje sėdintį vyrą matome iš nugaros; už jo išryškėja kitų veidai, rankos ir indai. Karčema šiame paveiksle yra vieta bendrauti. Ką žmonės sako ir kiek išgėrė, nežinome. Kūrinys nutapytas iki dailininko mirties 1807 metais, gerokai anksčiau už Valančiaus sąjūdį. Tai nėra dokumentinis 1858 metų Žemaitijos kaimo vaizdas. Paveikslą saugo Nacionalinis muziejus Krokuvoje, iš kurio skaitmeninio rinkinio paimta reprodukcija. Parodoje jis padeda įsižiūrėti į gėrimą lydėjusią susitikimo aplinką.",
+      "visualEvidence": "Smuglevičiaus paveiksle žmonės susėdę prie stalo. Priekyje matomas vyras iš nugaros, už jo – kitų lankytojų veidai, rankos ir indai. Kūrinys nutapytas iki dailininko mirties 1807 m., gerokai anksčiau už Valančiaus sąjūdį. Jį saugo Nacionalinis muziejus Krokuvoje.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 4000
     },
@@ -263434,7 +263434,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/valancius-lietuviszkas-albumas-1898.jpg",
       "title": "Valančius 1898 metų „Lietuviškame albume“",
-      "visualEvidence": "Valančiaus portretas ir lietuviškas užrašas atspausdinti Antano Miluko išleistame „Lietuviškame albume“. Leidinys pasirodė 1898 metais, jau po vyskupo mirties. Rodome visą puslapį: šitaip matyti, kaip atvaizdas buvo pateiktas to meto skaitytojui. Albumo leidybos data nėra pirminio portreto sukūrimo data. Ji žymi vėlesnį jo panaudojimą, kai Valančius jau buvo prisimenamas kaip istorinis veikėjas. Šis puslapis nevaizduoja nei sukilimo, nei jo buto kratos. Jis parodo, kaip vyskupo atvaizdas buvo leidžiamas ir platinamas praėjus daugeliui metų po tų įvykių.",
+      "visualEvidence": "Antano Miluko 1898 m. „Lietuviškame albume“ Valančiaus portretas išspausdintas su lietuvišku užrašu. Leidinys pasirodė po vyskupo mirties. Albumo data nurodo šio atvaizdo publikavimą, tačiau neleidžia nustatyti, kada sukurtas pirminis portretas.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 4464
     },
@@ -263482,7 +263482,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/valancius-pamietnik-domowy-rankrastis-1873.jpg",
       "title": "„Pamiętnik domowy“: pagrindinio rankraščio pradžia",
-      "visualEvidence": "Lapo viršuje perskaitoma „Pamiętnik domowy“. Tai pagrindinio rankraščio pradžia iš Vilniaus universiteto bibliotekos rinkinio, kurio kataloge nurodyti 1873 metai. Pirmasis pasakojimas susijęs su religinės praktikos vertinimu. Tomo pradžioje yra ir vėlesnių lapų, tarp jų 1938 metų įrašas, tačiau čia pasirinktas paties istorinio rankraščio tekstas. Skaitmeniniame rinkinyje vartydami toliau pastebėsite šį skirtingą lapų amžių. Užrašų nereikėtų laikyti kasdien pildytu šiuolaikiniu dienoraščiu. Tai Valančiaus pasakojimai, kurių turinį svarbu skirti nuo vėlesnių saugotojų pastabų bei viso tomo įrišimo.",
+      "visualEvidence": "„Pamiętnik domowy“ antrašte prasideda pagrindinis Valančiaus rankraštis; bibliotekos kataloge nurodyti 1873 metai. Įrištame tome yra ir vėlesnių lapų, tarp jų – 1938 m. įrašas. Jie nepriklauso Valančiaus tekstui. Rodomas jo pasakojimų rankraštis, o ne kasdien pildyto dienoraščio lapas.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 1200
     },
@@ -263530,7 +263530,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/valancius-laiskas-tomaseviciui-1870.jpg",
       "title": "Laiškų kunigui Tomaševičiui rinkinio lapas",
-      "visualEvidence": "Lotyniškame laiške kunigui Tomaševičiui kalbama apie patarnavimą įkalintiems žmonėms ir tam reikalingus kunigo įgaliojimus. Rodomas pirmasis dokumentas iš bibliotekos aprašyto dviejų laiškų rinkinio, datuotas 1870 metų spalio 18 diena. Kalinių bylos jame neaprašytos, tad vadinti juos politiniais kaliniais nebūtų pagrindo. Laiškas išsaugojo konkretų bažnytinį reikalą, kurį sprendė vyskupas. Prie eksponato nurodytas kitas šaltinis pasakoja apie valdžios ginčijamus jo įgaliojimus, tačiau ne apie šio laiško sukeltą bylą. Dokumento tekstą galima išdidinti ir apžiūrėti visą lapą.",
+      "visualEvidence": "1870 m. spalio 18 d. lotyniškame laiške Tomaševičiui aptariamas patarnavimas kaliniams ir tam reikalingi kunigo įgaliojimai. Tai pirmasis iš bibliotekos aprašyto dviejų laiškų rinkinio dokumentų. Kalinių bylos nenurodytos, todėl nėra pagrindo juos laikyti konkrečios sukilėlių grupės nariais.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 1200
     },
@@ -263578,7 +263578,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/motiejus-valancius-bucher-fotografija-1867.jpg",
       "title": "Fotografinis Valančiaus portretas",
-      "visualEvidence": "Fotografo Szymielio Bucherio atspaude matyti Valančiaus apranga, poza ir ant kartono paliktas rankraštinis įrašas. Fotografija datuojama 1867 metais — laiku, kai vyskupo keliones jau ribojo administracija. Apžiūrėkite ir patį atvaizdą, ir jį supantį kartoną: įrašai yra išlikusio daikto dalis. Nors fotografija perteikia veido bruožus tiksliau už litografiją, išraiška nepasako, ką žmogus tą dieną jautė. Žinią apie suvaržytas vizitacijas pateikia atskiras šaltinis. Fotografavimo priežasties su jais nesiejame; šis atspaudas išsaugojo to laikotarpio vyskupo išvaizdą.",
+      "visualEvidence": "Szymielio Bucherio 1867 m. fotografijoje Valančius pozuoja su vyskupo apranga. Ant atvaizdą supančio kartono išliko rankraštinis įrašas. Fotografija sukurta administracijai jau ribojant jo keliones, tačiau konkreti fotografavimo proga nenustatyta.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 1736
     },
@@ -263626,7 +263626,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/evangelios-kirilika-vilnius-1865.jpg",
       "title": "„Evangelios ant nedėlios dienų...“, kirilika",
-      "visualEvidence": "Kalba lietuviška, raidės — kirilika. Antraštiniame lape nurodyti 1865 metai, Vilnius ir Rommo spaustuvė. Šios evangelijos pasirodė spaudos draudimo laikotarpiu, kai imperijos valdžia skatino lietuviškų tekstų leidybą rusiškais rašmenimis. Valančius nėra šios knygos autorius; ji nepriklauso ir jo slaptai Prūsijoje leistai literatūrai. Palyginus abu leidybos būdus, aiškiau matyti ginčas dėl rašto: tas pačias lietuvių kalbos žinias buvo siūloma skaityti kitu raidynu. Lape likę bibliotekos ženklai rodo vėlesnį egzemplioriaus saugojimą, ne pirmųjų skaitytojų požiūrį į naująsias raides.",
+      "visualEvidence": "Antraštiniame lape nurodyti 1865 metai, Vilnius ir Rommo spaustuvė. Lietuviškas evangelijų tekstas išspausdintas kirilika, imperijos valdžiai ribojant lotyniškų rašmenų vartojimą. Valančius nėra šios knygos autorius; tai oficialiai išleistas spaudinys, nepriklausantis jo slaptai leidybai Prūsijoje.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 1240
     },
@@ -263674,7 +263674,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/panevezio-pranesimas-smilgiu-karcema-1864.jpg",
       "title": "Smilgių karčema 1864 metų pranešime iš Panevėžio",
-      "visualEvidence": "„Za Karczmę Smilgewską“ — už Smilgių karčemą. Taip pirmojo lapo viduryje prasideda sakinys apie nuomos mokestį ir pinigų perdavimą. Greta surašytos kitos sumos, pavardės ir reikalai, o paraštėje juos atskiria kryžiukai. Dokumentas rašytas 1864 metais Panevėžyje; bibliotekos katalogas autoriaus ir adresato nenustato. Tai ne Valančiaus laiškas ir ne blaivybės sukeltų nuostolių ataskaita. Jame karčema minima kaip nuomojamas, pajamas duodantis turtas. Čia rodomas visas pirmas lapas, o likusius galima atversti bibliotekos skaitmeniniame rinkinyje pagal galerijos kortelės nuorodą.",
+      "visualEvidence": "„Za Karczmę Smilgewską“ – už Smilgių karčemą – prasideda pirmojo lapo sakinys apie nuomos mokestį ir pinigų perdavimą. Raštas surašytas Panevėžyje 1864 m.; autorius ir adresatas nežinomi. Jame aptariami mokėjimai, tačiau nekalbama apie blaivybės sukeltus nuostolius.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 1200
     },
@@ -263770,7 +263770,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/valancius-laisko-fragmentas-1862.jpg",
       "title": "Laiško neįvardytam dvasininkui fragmentas",
-      "visualEvidence": "Lapas prasideda sakinio tęsiniu: laiško pradžios čia nėra. Apačioje išlikusi 1862 metų data ir Valančiaus parašas. Biblioteka gavėją įvardija kaip dvasininką, tačiau jo pavardės nenurodo. Šį fragmentą verta palyginti su greta rodomais išsamiau išlikusiais laiškais. Jame vis dar galima apžiūrėti rašyseną, teksto išdėstymą ir pabaigą, bet prarastas kreipinys neleidžia patikslinti adresato. Rengėjų žinia apie sekretorių darbą paaiškina bendrą kurijos raštvedybą; kas užrašė būtent šį tekstą, vien iš jos nenustatysime. Fragmento su konkrečia sukilimo byla nesiejame.",
+      "visualEvidence": "Išlikusi laiško dalis prasideda sakinio tęsiniu. Apačioje matyti 1862 m. data ir Valančiaus parašas. Biblioteka gavėją įvardija kaip dvasininką, bet jo pavardė nežinoma. Prarasta pradžia neleidžia perskaityti kreipinio ir atkurti viso laiško turinio.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 1200
     },
@@ -263818,7 +263818,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/valancius-apej-brostwa-blaivistes-1861.jpg",
       "title": "„Apej brostwą błaiwistes arba nusiturieima“",
-      "visualEvidence": "„Brostwa“ reiškia broliją, „nusiturieimas“ — susilaikymą. Taip pavadinta 1861 metais Klaipėdoje išleista knygelė, kurios antraštinį lapą matote. Brolijos nario laukė apibrėžtos pareigos, maldos ir priėmimo tvarka. Puzaro perteiktose taisyklėse pažadas apėmė degtinę bei kitus stipriuosius gėrimus; alus, vynas ir midus buvo vertinami kitaip. Todėl jo nereikėtų suprasti kaip dabartinio pažado nevartoti jokio alkoholio. Atkreipkite dėmesį į senąją rašybą ir vėlesnius antspaudus. Knygelė išliko, tačiau kurio žmogaus įsipareigojimą lydėjo šis egzempliorius, iš bibliotekos žymų nesužinosime.",
+      "visualEvidence": "„Brostwa“ reiškia broliją, „nusiturieimas“ – susilaikymą. 1861 m. Klaipėdoje išleista knygelė aiškino brolijos nario pareigas, maldas ir priėmimo tvarką. Puzaro perteiktose taisyklėse atsisakoma degtinės ir kitų stipriųjų gėrimų, bet leidžiama saikingai vartoti alų, vyną bei midų.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 1200
     },
@@ -263866,7 +263866,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/vinkus-vitkauskas-blaivybes-medzio-raizinys-1861.jpg",
       "title": "Blaivybę skatinantis medžio raižinys",
-      "visualEvidence": "Aleksandro Vinkaus-Vitkausko raižinyje vaizdai gretinami su religiniais ženklais ir užrašais. Apačioje matyti 1861 metų data. Apžiūrint atskiras grupes aiškėja pamokantis sumanymas: parodyti elgesio pasekmes ir raginti rinktis blaivybę. Scenos nėra konkrečių šeimų nutikimų atvaizdai. Jos skirtos įtikinti žiūrovą, kaip pamokslas ar blaivybės knygelė — klausytoją ir skaitytoją. Greta pateiktas šaltinis pasakoja apie Valančiaus draudimą blaivinti žmones prievarta. Toks draudimas svarbus skaitant griežtus perspėjimus: girtavimo smerkimas ir leidimas žeminti geriantįjį nebuvo tas pats, nors praktikoje ši riba peržengta.",
+      "visualEvidence": "Aleksandro Vinkaus-Vitkausko raižinyje girtavimo pasekmės vaizduojamos pamokančiomis scenomis, religiniais ženklais ir užrašais. Apačioje matyti 1861 m. data. Tai elgesį keisti raginantis kūrinys, o ne konkrečios šeimos gyvenimo dokumentas. Prie eksponato pateiktas šaltinis aptaria Valančiaus draudimą blaivinti žmones prievarta.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 637
     },
@@ -263914,7 +263914,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/motiejus-valancius-lafosse-portretas-1857.jpg",
       "title": "Valančiaus litografinis portretas, 1857",
-      "visualEvidence": "Adolphe’o Lafosse’o 1857 metų litografijoje Valančius pavaizduotas su vyskupo apranga ir krūtinės kryžiumi. Apačioje įrašytas jo vardas. Portretas sukurtas prieš masinio blaivybės sąjūdžio pradžią, kai vyskupas jau vadovavo parapijų kunigams. Vėliau jų balsu žmones pasieks jo raginimai negerti: laišką buvo galima išgirsti nė karto nemačius autoriaus gyvai. Litografija pristato, kaip pats vyskupas buvo vaizduojamas spaudoje. Nėra žinių, kad šis atvaizdas kabėjo konkretaus brolijos nario namuose; parodoje jis skirtas susipažinti su žmogumi, kurio vardu duotas kvietimas.",
+      "visualEvidence": "Adolphe’o Lafosse’o 1857 m. litografijoje Valančius pavaizduotas su vyskupo apranga ir krūtinės kryžiumi; apačioje įrašytas jo vardas. Portretas sukurtas prieš 1858 m. blaivybės sąjūdį. Vėlesnius vyskupo raginimus kunigai perdavė parapijiečiams skaitydami jo laiškus.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 433
     },
@@ -263962,7 +263962,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/motiejus-valancius-noel-portretas-1854.jpg",
       "title": "Vyskupo portretas, 1854",
-      "visualEvidence": "Krūtinės kryžius ir vyskupo apranga iškart nurodo Valančiaus pareigas. Šią 1854 metų litografiją katalogas sieja su Alphonse’u-Léonu Noëliu ir leidėju Jonu Kazimieru Vilčinskiu. Atvaizdas skirtas viešai pristatyti vyskupą — jo laikysena iškilminga, apranga kruopščiai perteikta. Tai ankstyvesnis portretas už 1860 metų caro priėmimą, apie kurį skaitome šaltinyje prie eksponato. Portreto su tuo susitikimu nesieja nei sukūrimo data, nei žinomos užsakymo aplinkybės. Čia jis padeda atpažinti žmogų, kurio laiškus toliau apžiūrėsite, ir primena jo viešai užimtas pareigas.",
+      "visualEvidence": "1854 m. litografijoje Valančius pavaizduotas su vyskupo apranga ir krūtinės kryžiumi. Katalogas kūrinį sieja su Alphonse’u-Léonu Noëliu ir leidėju Jonu Kazimieru Vilčinskiu. Portretas sukurtas iki 1863 m. sukilimo ir vėlesnių administracijos suvaržymų.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 463
     },
@@ -264010,7 +264010,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/valancius-laiskas-taurages-klebonui-1852.jpg",
       "title": "Laiškas neįvardytam Tauragės klebonui",
-      "visualEvidence": "Apačioje matyti data ir Valančiaus parašas, virš jų — lenkiškai parašytas tekstas. 1852 metų sausio 8 dienos laišką Vilniaus universiteto biblioteka aprašo kaip skirtą neįvardytam Tauragės klebonui. Jo pavardė kataloge nepateikta. Tai tiesioginio vyskupo ir parapijos kunigo susirašinėjimo pavyzdys. Tokie raštai skiriasi nuo visiems tikintiesiems skelbiamų ganytojiškų laiškų: nėra žinių, kad šis buvo skaitomas iš sakyklos. Apžiūrėkite visą lapą, ypač teksto pabaigą. Parašas patvirtina, kieno vardu kreiptasi, o datos eilutė susirašinėjimą priskiria laikui iki sukilimo.",
+      "visualEvidence": "1852 m. sausio 8 d. lenkiškas laiškas skirtas Tauragės klebonui, kurio pavardės bibliotekos katalogas nenurodo. Lapo apačioje išliko data ir Valančiaus parašas. Tai asmeninio susirašinėjimo su kunigu pavyzdys; žinių, kad laiškas buvo viešai skaitomas parapijiečiams, nėra.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 1200
     },
@@ -264058,7 +264058,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/blaivybes-knygele-latviu-kalba-peterburgas-1849.jpg",
       "title": "Blaivybės knygelė latvių kalba, 1849",
-      "visualEvidence": "Antraštinio lapo apačioje įrašyta leidimo vieta — Peterburgas — ir 1849 metai. Aukščiau minima lietuvių kalba, Mieleškos vardas ir vertimas į latvių kalbą. Taigi tekstas skaitytojus pasiekė per vertėjus. Biblioteka leidinį priskiria Döbneriui, kurio pavardės šiame lape nėra. Tai ankstesnė už Valančiaus 1858 metų sąjūdį knygelė, ne jo brolijų vadovėlis. Apžiūrėkite ir antspaudus: jie atsirado egzemplioriui patekus į bibliotekas. Išlikęs lapas pasako apie blaivybės raštų kelią tarp kalbų, nors nežinome, kas šį konkretų egzempliorių skaitė pirmas.",
+      "visualEvidence": "Antraštiniame lape nurodyti Peterburgas, 1849 metai ir vertėjai. Tekstas į latvių kalbą atkeliavo per lietuvišką vertimą. Biblioteka knygelę priskiria Döbneriui, nors jo pavardės šiame lape nėra. Leidinys pasirodė devyneriais metais anksčiau už Valančiaus blaivybės sąjūdį.",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 1073
     },
@@ -264202,7 +264202,7 @@
       "tags": [],
       "thumbUrl": "/static/media/valancius/irenejus-kleopas-oginskis-kaniewski-portretas-1845.jpg",
       "title": "Irenėjus Kleopas Oginskis: blaivybę parėmęs dvarininkas",
-      "visualEvidence": "Portreto dešinėje matyti dailininko parašas ir 1845 metų data. Janas Ksaveras Kaniewskis Oginskį nutapė gerokai prieš jo laišką Valančiui. 1858 metų gruodį Rietavo kunigaikštis vyskupui dėkojo už blaivybės skelbimą, nors pats patyrė nuostolių. Tai svarbus dvarininko, sąmoningai parėmusio savo pajamoms nepalankų sąjūdį, pavyzdys. Tikslios nuostolių sumos nenurodome, nes istorikų pateikti dydžiai apibrėžti nevienodai. Laiško aplinkybės aptartos šaltinyje prie eksponato; pats portretas sukurtas kita proga. Jį saugo Nacionalinis M. K. Čiurlionio dailės muziejus, inventoriaus numeris Mt-1397.",
+      "visualEvidence": "Janas Ksaveras Kaniewskis Irenėjų Kleopą Oginskį nutapė 1845 m. 1858 m. gruodį kunigaikštis laiške dėkojo Valančiui už blaivybės skelbimą, nors nurodė patiriąs nuostolių. Paveikslas sukurtas anksčiau ir su šiuo laišku tiesiogiai nesusijęs. Portretą saugo Nacionalinis M. K. Čiurlionio dailės muziejus (Mt-1397).",
       "visualReviewVersion": "media-import-visual-v1",
       "width": 723
     },
@@ -265436,9 +265436,9 @@
         {
           "directness": "direct",
           "itemType": "asmuo",
-          "notePath": "objektai/asmenys/Daumantas.md",
+          "notePath": "objektai/asmenys/Daumantas (Lietuvos valdovas).md",
           "relationType": "portrait_of",
-          "title": "Daumantas (kunigaikštis, XV a.)"
+          "title": "Daumantas (Lietuvos valdovas)"
         }
       ],
       "reviewStatus": "accepted",

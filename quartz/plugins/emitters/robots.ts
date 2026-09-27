@@ -2,8 +2,8 @@ import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import { FullSlug, joinSegments } from "../../util/path"
 
-function generateRobotsTxt(baseUrl?: string): string {
-  const lines = ["User-agent: *", "Allow: /"]
+export function generateRobotsTxt(baseUrl?: string): string {
+  const lines = ["User-agent: *", "Allow: /", "", "User-agent: OAI-SearchBot", "Allow: /"]
   if (baseUrl) {
     lines.push(`Sitemap: https://${joinSegments(baseUrl, "sitemap.xml")}`)
   }

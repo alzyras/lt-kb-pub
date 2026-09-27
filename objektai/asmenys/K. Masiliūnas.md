@@ -50,30 +50,17 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 
 ## Teiginiai
 
-<a id="claim-t-193625"></a>
-- t-001
-  teiginys: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176296
-
 <a id="claim-t-00008"></a>
-- t-00008
+- t-001
   teiginys: "K. Masiliūno rūpesčiu buvo suburti penki žmonės, sutikę rašyti atskirus tautos gyvenimo laikotarpius."
   atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-00117
-    - c-00118
 
 <a id="claim-t-00009"></a>
-- t-00009
+- t-002
   teiginys: "K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių rinkimu ir teikė paramą atliekamam darbui."
   atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
@@ -86,38 +73,20 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Masiliūnas (viceministeris)\" parinktas kaip owner_note_path. Targetas \"J. Tonkūnas (švietimo ministeris)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-00117
     - c-00118
 
-## Reikšmingi paminėjimai
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ypač dėl jo sielojosi Švietimo
-    Ministerija. Pagaliau p. Viceministerio K. Masiliūno rūpesčiu
-    buvo suburta penketas žmonių, sutikusių imtis to darbo ir su-
-    tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
-    laikotarpį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Norėtumėm pareikšti viltį, kad vadovėlis nors iš dalies pa-
-    tenkins gyvą visuomenės ir mokyklos reikalą, o kartu ir padė-
-    koti visiems, kurie prisidėjo prie jo pasirodymo. Pirmiausia
-    tenka padėkoti p. Švietimo Ministeriui prof. J. Tonkūnui ir Vi-
-    ceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant
-    bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
-    bui ir teikė reikiamos paramos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-193625"></a>
+- t-003
+  teiginys: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176296
+
 ## Citatos
 
 - id: c-00117
@@ -126,17 +95,19 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   puslapiai: "PDF 3"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 3."
   citata_originali: |
-    |
-  citata_rodoma: "|"
+    Ypač dėl jo sielojosi Švietimo
+    Ministerija. Pagaliau p. Viceministerio K. Masiliūno rūpesčiu
+    buvo suburta penketas žmonių, sutikusių imtis to darbo ir su-
+    tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
+    laikotarpį.
+  citata_rodoma: "Ypač dėl jo sielojosi Švietimo\nMinisterija. Pagaliau p. Viceministerio K. Masiliūno rūpesčiu\nbuvo suburta penketas žmonių, sutikusių imtis to darbo ir su-\ntarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo\nlaikotarpį."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-
+  atnaujinta: "2026-09-27 13:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-00008
-    - t-00009
+  pagrindzia:
+    - t-001
 
 - id: c-00118
   redaktorius: "A. Šapoka"
@@ -144,17 +115,21 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   puslapiai: "PDF 4"
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.), PDF 4."
   citata_originali: |
-    |
-  citata_rodoma: "|"
+    Norėtumėm pareikšti viltį, kad vadovėlis nors iš dalies pa-
+    tenkins gyvą visuomenės ir mokyklos reikalą, o kartu ir padė-
+    koti visiems, kurie prisidėjo prie jo pasirodymo. Pirmiausia
+    tenka padėkoti p. Švietimo Ministeriui prof. J. Tonkūnui ir Vi-
+    ceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant
+    bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
+    bui ir teikė reikiamos paramos.
+  citata_rodoma: "Norėtumėm pareikšti viltį, kad vadovėlis nors iš dalies pa-\ntenkins gyvą visuomenės ir mokyklos reikalą, o kartu ir padė-\nkoti visiems, kurie prisidėjo prie jo pasirodymo. Pirmiausia\ntenka padėkoti p. Švietimo Ministeriui prof. J. Tonkūnui ir Vi-\nceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant\nbendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-\nbui ir teikė reikiamos paramos."
   statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-
+  atnaujinta: "2026-09-27 13:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-00008
-    - t-00009
+  pagrindzia:
+    - t-002
 
 - id: c-176296
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -175,5 +150,5 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
+  pagrindzia:
+    - t-003

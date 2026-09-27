@@ -1,0 +1,156 @@
+{
+  "entries": [
+    {
+      "code": "t-82778",
+      "notePath": "objektai/asmenys/Vaišelga.md",
+      "expectedText": "Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną.",
+      "replacementText": "Michało Balińskio veikale cituojamame metraščio pasakojime Vaišelga siejamas su kelione į Sinajaus kalną ir vienuolyno įkūrimu. Tai vėlyvojo pasakojimo versija, o ne patvirtinta kelionės biografija.",
+      "decision": "revise",
+      "reason": "Atribota vėlyvo metraščio versija."
+    },
+    {
+      "code": "t-205728",
+      "notePath": "objektai/asmenys/Vaišelga.md",
+      "expectedText": "Vaišelga, negalėjęs pasiekti Sv. kalno dėl tose žemėse kilusio maišto, grįžo į Naugarduką ir prie Nemuno tarp Lietuvos bei Naugarduko pastatė vienuolyną.",
+      "replacementText": "Teodoro Narbuto veikale pateikiamas pasakojimas, kad Vaišelga dėl maišto nepasiekė Šventojo kalno, grįžo į Naugarduką ir prie Nemuno įkūrė vienuolyną.",
+      "decision": "revise",
+      "reason": "Atribota cituojamo šaltinio versija."
+    },
+    {
+      "code": "t-176313",
+      "notePath": "objektai/asmenys/Birutė.md",
+      "expectedText": "Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.",
+      "replacementText": "1930 m. veikale „Vytautas Didysis“ keliama prielaida, kad Birutė buvo trijų jaunesniųjų Kęstučio sūnų ir trijų dukterų motina.",
+      "decision": "revise",
+      "reason": "Prielaida nebetapatinama su tikru giminystės faktu."
+    },
+    {
+      "code": "t-176315",
+      "notePath": "objektai/asmenys/Birutė.md",
+      "expectedText": "Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.",
+      "replacementText": "1930 m. veikale „Vytautas Didysis“ Birutė vadinama Vydimanto dukterimi, o Kęstutis vestuvių metu apibūdinamas kaip vyresnis nei keturiasdešimties metų. Tai šio veikalo pateikta versija.",
+      "decision": "revise",
+      "reason": "Neįrodyta kilmė ir tikslus amžius atriboti kaip autoriaus versija."
+    },
+    {
+      "code": "t-184675",
+      "notePath": "objektai/asmenys/Birutė.md",
+      "expectedText": "Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.",
+      "replacementText": "Kojelavičiaus pasakojime Kęstutis, grįžęs į Lietuvą, vedė vaidilute vadinamą Birutę.",
+      "decision": "revise",
+      "reason": "Atribotas XVII a. pasakojimas."
+    },
+    {
+      "code": "t-184676",
+      "notePath": "objektai/asmenys/Birutė.md",
+      "expectedText": "Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną.",
+      "replacementText": "Kojelavičius pasakoja, kad Vytautas su Birute pasitraukė į Gardiną; šioje ištraukoje autorius ją vadina Vytauto pamote. Šis giminystės įvardijimas yra šaltinio versija.",
+      "decision": "revise",
+      "reason": "Pamotės įvardijimas negali būti pateiktas kaip redakcijos nustatytas faktas."
+    },
+    {
+      "code": "t-210815",
+      "notePath": "objektai/asmenys/Birutė.md",
+      "expectedText": "Birutė buvo Palangoje gyvenusi mergelė, žmonių garbinta kaip dievaitė.",
+      "replacementText": "Bychovco kronikoje Birutė vaizduojama kaip Palangos mergelė, pasižadėjusi saugoti skaistybę ir žmonių garbinama kaip dievaitė.",
+      "decision": "revise",
+      "reason": "Legendinis pasakojimas atribotas nuo biografijos."
+    },
+    {
+      "code": "t-219110",
+      "notePath": "objektai/asmenys/Birutė.md",
+      "expectedText": "Au kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu sę, turėjo palikti jai tas apeigas.",
+      "replacementText": "Narbutas aiškino, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas. Tai XIX a. autoriaus interpretacija.",
+      "decision": "revise",
+      "reason": "Pašalinti OCR lūžiai; autoriaus motyvų aiškinimas atribotas."
+    },
+    {
+      "code": "t-219169",
+      "notePath": "objektai/asmenys/Birutė.md",
+      "expectedText": "Birutė turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kunigaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip žmoną.",
+      "replacementText": "Narbutas pasakojo, kad Kęstutis išsivežė Birutę prieš jos valią į Naujuosius Trakus ir vedė, nors ji buvo davusi skaistybės įžadą.",
+      "decision": "revise",
+      "reason": "Pasakojimui pridėta būtina atribucija."
+    },
+    {
+      "code": "t-220058",
+      "notePath": "objektai/asmenys/Birutė.md",
+      "expectedText": "Strijkov skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy bas, aiškiai mini ją buvus panašia žyne, arba vestale.",
+      "replacementText": "Narbutas, remdamasis Strijkovskiu, Birutę apibūdino kaip žynę arba vestalę.",
+      "decision": "revise",
+      "reason": "Pašalinti OCR lūžiai ir nurodyta netiesioginė atribucija."
+    },
+    {
+      "code": "t-219160",
+      "notePath": "objektai/autoriai/Petras Dusburgietis.md",
+      "expectedText": "Vos šimtas metų buvo praėję nuo kryžiuočių atsi kraustymo ir vos truputį daugiau nei keturiasdešimt metų nuo visiško Prūsijos užkariavimo, kai Dusburgietis rašė tą prūsų tautos papročių ir įpročių apybraižą ir kai 1326 metais įteikė savo kroniką didžiajam.",
+      "replacementText": "Narbutas pabrėžė, kad Dusburgietis savo kroniką 1326 m. rašė praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo ir daugiau kaip keturiasdešimčiai metų nuo Prūsijos užkariavimo.",
+      "decision": "revise",
+      "reason": "Užbaigtas sakinys ir atribotas autoriaus chronologinis argumentas."
+    },
+    {
+      "code": "t-225799",
+      "notePath": "objektai/autoriai/Petras Dusburgietis.md",
+      "expectedText": "Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.",
+      "replacementText": "Prūsijos žemės kronikos pratarmėje Dusburgietis cituoja biblinį pasakojimą apie Nabuchodonosarą ir jo žodžius pritaiko kronikos autoriui bei Ordino broliams.",
+      "decision": "revise",
+      "reason": "Atskirtas biblinės citatos veikėjas nuo kronikininko."
+    },
+    {
+      "code": "t-176314",
+      "notePath": "objektai/asmenys/Birutė.md",
+      "expectedText": "Birutė iš jų bus išmokęs skaityti ir rašyti.",
+      "replacementText": "Birutė iš jų bus išmokęs skaityti ir rašyti.",
+      "decision": "quarantine",
+      "reason": "Ištrauka kalba apie Vytauto mokymąsi; Birutė neteisingai įrašyta sakinio subjektu."
+    },
+    {
+      "code": "t-216246",
+      "notePath": "objektai/asmenys/Birutė.md",
+      "expectedText": "Birutė iškirpta arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja žmonių arba gyvulių marą; dėl šios priežasties dažnai visame kaime kyla didelis verksmas ir susijaudinimas; išplisdamas aplinkui, jis tampa didelio nerimo priežastimi.",
+      "replacementText": "Birutė iškirpta arba išgraužta, dėl tų prietarų jie mano, kad tai pranašauja žmonių arba gyvulių marą; dėl šios priežasties dažnai visame kaime kyla didelis verksmas ir susijaudinimas; išplisdamas aplinkui, jis tampa didelio nerimo priežastimi.",
+      "decision": "quarantine",
+      "reason": "Ištrauka kalba apie prietarus ir avies vilną, ne apie Birutę."
+    },
+    {
+      "code": "t-225730",
+      "notePath": "objektai/autoriai/Powierski J.md",
+      "expectedText": "Powierski J paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų išsigelbėjo pabėgdamas.",
+      "replacementText": "Powierski J paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų išsigelbėjo pabėgdamas.",
+      "decision": "quarantine",
+      "reason": "Šaltinio viduramžių pasakojimas neteisingai priskirtas šiuolaikiniam istorikui."
+    },
+    {
+      "code": "t-222132",
+      "notePath": "objektai/asmenys/Egidijus.md",
+      "expectedText": "Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol.",
+      "replacementText": "Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol.",
+      "decision": "quarantine",
+      "reason": "Nebaigtas antraštės ir sakinio fragmentas su nesusijusia citata; pilnas teiginys jau parengtas su tikslia ištrauka."
+    },
+    {
+      "code": "t-221047",
+      "notePath": "objektai/autoriai/Petras Dusburgietis.md",
+      "expectedText": "PRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.",
+      "replacementText": "PRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.",
+      "decision": "quarantine",
+      "reason": "Antraštės ir dedikacijos fragmentas; susieta kita ištrauka. Dedikaciją aprašo atskiri pilni teiginiai."
+    },
+    {
+      "code": "t-223143",
+      "notePath": "objektai/autoriai/Petras Dusburgietis.md",
+      "expectedText": "Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.",
+      "replacementText": "Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.",
+      "decision": "quarantine",
+      "reason": "Neužbaigtas antraštės fragmentas, kuris nesudaro istorinio teiginio."
+    },
+    {
+      "code": "t-225379",
+      "notePath": "objektai/autoriai/Petras Dusburgietis.md",
+      "expectedText": "Tarp jų ypatingą vietą užima Petro iš Dusburgo „Prūsijos žemės kronika“, pateikianti daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir jo sąjungininkų agresiją XIII—XIV a.",
+      "replacementText": "Tarp jų ypatingą vietą užima Petro iš Dusburgo „Prūsijos žemės kronika“, pateikianti daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir jo sąjungininkų agresiją XIII—XIV a.",
+      "decision": "quarantine",
+      "reason": "Neužbaigtas, kitą teiginį kartojantis įžangos fragmentas."
+    }
+  ]
+}

@@ -553,7 +553,7 @@ function ExhibitionIndex({ exhibitions }: { exhibitions: ExhibitionManifest[] })
   return (
     <EditorialCatalog
       title="Parodos"
-      lead="Kuruoti Lietuvos istorijos pasakojimai, kuriuose šaltinis, vaizdas ir atmintis susijungia į vieną kelionę."
+      lead="Lietuvos istorijos parodos: dokumentai, portretai ir daiktai su jų kilmės bei istorinio konteksto paaiškinimais."
       entries={entries}
     />
   )

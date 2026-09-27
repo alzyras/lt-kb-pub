@@ -1790,7 +1790,7 @@
       "subtitle": "Nuo Leono plunksnos iki Varšuvoje laukiamo antspaudo",
       "theme": "historical",
       "title": "Sapiegos: Statutas, rūmai ir šeimos laiškai",
-      "updatedAt": "2026-09-22T02:38:28.093407+03:00"
+      "updatedAt": "2026-09-27"
     },
     {
       "description": "Radvilos statė pilis, vadovavo kariuomenei ir leido knygas. Jų šeimoje buvo karalienė, kardinolas, keliautojas ir dramaturgė. Išlikę portretai bei raštai pasakoja apie žmones, kurių santuokos, tikėjimas ir politiniai sprendimai keitė Lietuvos istoriją.",
@@ -4194,7 +4194,7 @@
               "claims": [],
               "creatorDisplay": "Autorius nenustatytas",
               "dateDisplay": "XVI–XVII a.",
-              "descriptionLt": "Jurgis Radvila gimė Mikalojaus Radvilos Juodojo šeimoje, kuri rėmė Reformaciją, tačiau pats tapo Katalikų Bažnyčios kardinolu. Jo brolis Našlaitėlis taip pat rėmė katalikiškas fundacijas.\n\nPortretas leidžia kalbėti apie individualią karjerą ir bažnytinį statusą. Jis neleidžia visos giminės sutalpinti į vieną konfesiją: tuo pačiu metu Biržų–Dubingių šaka toliau globojo evangelikus reformatus, o Sofija Olelkaitė liko stačiatikė.",
+              "descriptionLt": "Jurgis Radvila gimė Mikalojaus Radvilos Juodojo šeimoje, kuri rėmė Reformaciją, tačiau pats tapo Katalikų Bažnyčios kardinolu. Jo brolis Našlaitėlis taip pat rėmė katalikiškas fundacijas.\n\nPortretas leidžia kalbėti apie individualią karjerą ir bažnytinį statusą. Jis neleidžia visos giminės sutalpinti į vieną konfesiją: tuo pačiu metu Biržų–Dubingių šaka toliau globojo evangelikus reformatus. Sofijos Olelkaitės atveju vėlesnę stačiatikių kulto tradiciją reikia skirti nuo gyvenimo meto dokumentų: su jos 1600 m. santuoka susiję raštai liudija katalikų tikėjimą.",
               "evidenceNoteLt": "Tiesioginis Jurgio Radvilos portretinis atvaizdas; platesnė konfesinė istorija pagrįsta atskirais biografiniais ir instituciniais šaltiniais.",
               "exhibitionItemId": "rad-jurgis-kardinolas",
               "externalSources": [
@@ -4205,6 +4205,10 @@
                 {
                   "title": "VLE: Jurgis Radvila",
                   "url": "https://www.vle.lt/straipsnis/jurgis-radvila/"
+                },
+                {
+                  "title": "Tomasz Kempa apie Sofijos Olelkaitės tikėjimą (2022), p. 158–160",
+                  "url": "https://www.zapiskihistoryczne.pl/files/5/Vol._87_2022/ZH_87-1_08_Rec-Kempa_N.pdf"
                 }
               ],
               "featured": true,
@@ -4280,7 +4284,7 @@
       "subtitle": "Barboros karūna, Biržų tvirtovė ir Nesvyžiaus rūmai",
       "theme": "historical",
       "title": "Radvilos: giminė, valdos ir paveldas",
-      "updatedAt": "2026-09-22T02:38:28.091472+03:00"
+      "updatedAt": "2026-09-27"
     },
     {
       "description": "Dvylika objektų pasakoja, kaip XV a. valdovo tarnyboje iškilę Chodkevičiai kūrė savo vietą Lietuvos Didžiosios Kunigaikštystės elite. Herbas ir vėlyvos portretų serijos liudija reprezentaciją, Zabludovo leidinys – spaudos mecenatystę, o Salaspilio, Chotino, Kretingos, Skuodo bei Liachavičių vaizdai atveria karo, miestų teisės, fundacijų ir vėlesnės atminties istoriją.",
@@ -4289,12 +4293,12 @@
       "familyMembers": [
         {
           "dates": "1475–1549",
-          "href": "https://www.vle.lt/straipsnis/aleksandras-chodkevicius/",
+          "href": "/objektai/asmenys/Aleksandras-Chodkevicius-(1475-1549)",
           "name": "Aleksandras Chodkevičius (1475–1549)",
           "sources": [
             {
-              "title": "Visuotinė lietuvių enciklopedija: Aleksandras Chodkevičius",
-              "url": "https://www.vle.lt/straipsnis/aleksandras-chodkevicius/"
+              "title": "Visuotinė lietuvių enciklopedija",
+              "url": "https://www.vle.lt/straipsnis/chodkeviciai/"
             },
             {
               "title": "Genutė Kirkienė, LDK politikos elito galingieji: Chodkevičiai XV–XVI amžiuje",
@@ -4326,7 +4330,7 @@
         },
         {
           "dates": "mirė apie 1626 m.",
-          "href": "https://www.vle.lt/straipsnis/chodkeviciai/",
+          "href": "/objektai/asmenys/Aleksandras-Chodkevicius-(m.-apie-1626)",
           "name": "Aleksandras Chodkevičius (mirė apie 1626 m.)",
           "sources": [
             {
@@ -4337,7 +4341,7 @@
         },
         {
           "dates": "1615–1676",
-          "href": "https://www.vle.lt/straipsnis/aleksandras-kristupas-chodkevicius/",
+          "href": "/objektai/asmenys/Aleksandras-Kristupas-Chodkevicius",
           "name": "Aleksandras Kristupas Chodkevičius",
           "sources": [
             {
@@ -4396,7 +4400,7 @@
         },
         {
           "dates": "XVI a.",
-          "href": "https://www.vle.lt/straipsnis/jeronimas-chodkevicius/",
+          "href": "/objektai/asmenys/Jeronimas-Chodkevicius",
           "name": "Jeronimas Chodkevičius",
           "sources": [
             {
@@ -4458,7 +4462,7 @@
           ]
         },
         {
-          "dates": "1560–1621",
+          "dates": "gimimo metai ginčijami; mirė 1621 m.",
           "href": "/objektai/asmenys/Jonas-Karolis-Chodkevicius",
           "name": "Jonas Karolis Chodkevičius",
           "sources": [
@@ -4469,6 +4473,10 @@
             {
               "title": "Julius Kanarskas, Kretingos miesto kūrėjas Jonas Karolis Chodkevičius",
               "url": "https://www.kretingosmuziejus.lt/files/Main/files/2022-07-08%20GHVI%20nr1%20p99-109%20Chodkevicius.pdf"
+            },
+            {
+              "title": "Sigitas Narbutas, Vilniaus vaivados Jono Karolio Chodkevičiaus pagerbimas (2022), p. 16–17",
+              "url": "https://www.llti.lt/failai/narbutas.pdf"
             }
           ]
         },
@@ -4496,7 +4504,7 @@
         },
         {
           "dates": "1738–1781",
-          "href": "https://www.vle.lt/straipsnis/chodkeviciai/",
+          "href": "/objektai/asmenys/Jonas-Mikalojus-Chodkevicius",
           "name": "Jonas Mikalojus Chodkevičius",
           "sources": [
             {
@@ -4529,7 +4537,7 @@
         },
         {
           "dates": "mirė 1659 m.",
-          "href": "https://www.vle.lt/straipsnis/chodkeviciai/",
+          "href": "/objektai/asmenys/Kristupas-Chodkevicius",
           "name": "Kristupas Chodkevičius",
           "sources": [
             {
@@ -4758,13 +4766,13 @@
               "titleLt": "Grifas su kalaviju"
             },
             {
-              "catalogDescriptionLt": "Conrado Götke 1642 m. Gdanske išleistas septynių Chodkevičių atvaizdų lakštas. Lenkijos nacionalinės bibliotekos skaitmeninto leidinio signatūra – SD XVII.4.101; kūrinys saugomas kaip giminės reprezentacijos, o ne portretinio panašumo šaltinis.",
+              "catalogDescriptionLt": "Conrado Götke 1642 m. Gdanske išleistame lape pavaizduoti septyni Chodkevičiai. Figūras lydi vardai ir pareigų ženklai. Leidinys sukurtas po Jono Karolio mirties ir pristato jį platesnėje giminės karvedžių bei pareigūnų sekoje.",
               "claimCodes": [],
               "claimRefs": [],
               "claims": [],
               "creatorDisplay": "Conrad Götke",
               "dateDisplay": "1642 m.",
-              "descriptionLt": "Conrado Götke 1642 m. Gdanske išleistame lape septyni Chodkevičiai sudėti į vieną giminės didybės pasakojimą. Kiekvieną figūrą lydi vardas ir statuso ženklai, todėl žiūrovas mato ne šeimos kasdienybę, o sąmoningai parinktą karvedžių bei pareigūnų seką. Leidinys atsirado jau po Jono Karolio mirties ir padėjo jo šlovę įrašyti į ilgesnę genealoginę atmintį.",
+              "descriptionLt": "Conrado Götke 1642 m. Gdanske išleistame lape pavaizduoti septyni Chodkevičiai. Figūras lydi vardai ir pareigų ženklai. Leidinys sukurtas po Jono Karolio mirties ir pristato jį platesnėje giminės karvedžių bei pareigūnų sekoje.",
               "evidenceNoteLt": "1642 m. lakštas yra giminės reprezentacijos šaltinis. Jame pateikti atvaizdai savaime nepatvirtina ankstesnių asmenų fizinės išvaizdos.",
               "exhibitionItemId": "chod-septyni",
               "externalSources": [
@@ -4930,7 +4938,7 @@
               "claims": [],
               "creatorDisplay": "Ivanas Fiodorovas ir Piotras Mstislavcas",
               "dateDisplay": "1569 m.",
-              "descriptionLt": "1569 m. Zabludove Ivanas Fiodorovas ir Piotras Mstislavcas išspausdino mokomąją Evangeliją. Kirilika išleista knyga buvo skirta stačiatikių raštijos aplinkai, o jos atsiradimą rėmė Grigalius Chodkevičius. Atverstas lapas leidžia matyti šriftą, ornamentą ir teksto sandarą – konkrečius spaudos dirbtuvės darbo pėdsakus. Jis nepasako, kiek fundatorius pats kišosi į redagavimą, bet patikimai sieja leidėjus, vietą ir datą.",
+              "descriptionLt": "1569 m. Zabludove Ivanas Fiodorovas ir Piotras Mstislavcas išspausdino mokomąją Evangeliją. Kirilika išleista knyga buvo skirta stačiatikių raštijos aplinkai, o jos atsiradimą rėmė Grigalius Chodkevičius. Atverstas lapas leidžia matyti šriftą, ornamentą ir teksto sandarą – konkrečius spaudos dirbtuvės darbo pėdsakus.",
               "evidenceNoteLt": "Skaitmenintas knygos lapas yra pirminis spaudos veiklos liudijimas; platesnis mecenatystės kontekstas tikrinamas biografiniuose tyrimuose.",
               "exhibitionItemId": "chod-evangelija",
               "externalSources": [
@@ -5492,7 +5500,7 @@
               "claims": [],
               "creatorDisplay": "Autorius nenustatytas",
               "dateDisplay": "1660 m.",
-              "descriptionLt": "Liachavičiai buvo tarp Jono Karolio iš tėvo paveldėtų valdų. XVII a. pradžioje čia įrengta bastioninė tvirtovė saugojo ne reprezentacinį rūmų fasadą, o strategiškai svarbų didiko valdų centrą. 1660 m. lakšte tvirtovė parodyta jau po etmono mirties, karo ir apgulties aplinkoje. Plane geriau nei vėlesnėje fotografijoje matyti bastionų geometrija, tačiau tai vis tiek konkretaus laiko karinis vaizdas, o ne visa statybų istorija.",
+              "descriptionLt": "Liachavičiai buvo tarp Jono Karolio iš tėvo paveldėtų valdų. XVII a. pradžioje čia įrengta bastioninė tvirtovė saugojo didiko valdų centrą. 1660 m. lakšte tvirtovė parodyta jau po etmono mirties, karo ir apgulties aplinkoje. Plane geriau nei vėlesnėje fotografijoje matyti bastionų geometrija, tačiau tai vis tiek konkretaus laiko karinis vaizdas, o ne visa statybų istorija.",
               "evidenceNoteLt": "Lakšto 1660 m. datą ir bibliotekos signatūrą pateikia katalogas; ryšį su Chodkevičių valda pagrindžia atskiri tyrimai.",
               "exhibitionItemId": "chod-liachaviciai",
               "externalSources": [
@@ -5661,7 +5669,7 @@
       "subtitle": "Zabludovo knygos, Salaspilio atmintis ir Kretingos fundacija",
       "theme": "historical",
       "title": "Chodkevičiai: etmonai, miestai ir spaustuvės",
-      "updatedAt": "2026-09-22T02:38:28.089292+03:00"
+      "updatedAt": "2026-09-27"
     }
   ],
   "schemaVersion": "ltkb-exhibition/v1"

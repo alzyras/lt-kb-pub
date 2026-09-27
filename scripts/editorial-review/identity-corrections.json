@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "original": "objektai/asmenys/Daumantas.md",
+  "pages": [
+    {
+      "path": "objektai/asmenys/Daumantas.md",
+      "title": "Daumantas (Nalšios ir Pskovo kunigaikštis)",
+      "entity": "ent-ad6f8f25a68c4fff556e8266",
+      "dates": [
+        "apie 1240–1299"
+      ],
+      "summary": "Daumantas (apie 1240–1299) – Nalšios, nuo 1266 m. Pskovo kunigaikštis. 1263 m. dalyvavo sąmoksle prieš Mindaugą. Pasitraukęs į Pskovą priėmė stačiatikių krikštą ir Timotiejaus (Timofėjaus) vardą. Tai kitas asmuo nei apie 1282–1285 m. Lietuvą valdęs Daumantas.",
+      "sources": [
+        {
+          "title": "VLE: Daumantas, Nalšios ir Pskovo kunigaikštis",
+          "url": "https://www.vle.lt/straipsnis/daumantas/"
+        }
+      ]
+    },
+    {
+      "path": "objektai/asmenys/Daumantas (Lietuvos valdovas).md",
+      "title": "Daumantas (Lietuvos valdovas)",
+      "dates": [
+        "apie 1282–1285"
+      ],
+      "summary": "Daumantas (mirė 1285 m.) – Lietuvos valdovas, istoriografijoje paprastai laikomas Traidenio įpėdiniu ir Butigeidžio pirmtaku. Jo valdymas datuojamas apytikriai 1282–1285 m. Žinių išliko nedaug: 1285 m. Daumantas vadovavo žygiui į Tverės žemę ir jame žuvo. Kilmė ir giminystės ryšiai patikimai nenustatyti. Jo nereikia tapatinti su iki 1299 m. gyvenusiu Pskovo kunigaikščiu Daumantu.",
+      "sources": [
+        {
+          "title": "VLE: Daumantas, Lietuvos didysis kunigaikštis",
+          "url": "https://www.vle.lt/straipsnis/daumantas-1/"
+        }
+      ]
+    },
+    {
+      "path": "objektai/asmenys/Daumantas (metraščių pasakojimai).md",
+      "title": "Daumantas metraščių ir senosios istoriografijos pasakojimuose",
+      "dates": [],
+      "summary": "Lietuvos metraščiuose ir vėlesnių autorių veikaluose Daumanto vardu vadinami veikėjai siejami su Utena, Narimantu, Traideniu, Pskovu ir Polocku. Šie pasakojimai nesudaro vieno patikimai nustatyto asmens biografijos. Čia pateikiami teiginiai liudija, ką rašė konkretūs autoriai; legendiniai giminystės ryšiai ir įvykiai nėra patvirtinti XIII a. istorijos faktai.",
+      "sources": [
+        {
+          "title": "Lietuvos metraštis. Bychovco kronika (1971), tekstas ir komentarai",
+          "url": "https://www.xn--altiniai-4wb.info/files/literatura/LD00/Bychovco_kronika.LD1802.pdf"
+        }
+      ]
+    },
+    {
+      "path": "objektai/asmenys/Daumantas (XV a. pasakojimas).md",
+      "title": "Daumantas Kojelavičiaus pasakojime apie XV a. Žemaitiją",
+      "dates": [
+        "XV a."
+      ],
+      "summary": "Albertas Vijūkas-Kojelavičius, aprašydamas Kazimiero Jogailaičio ir Mykolo Žygimantaičio šalininkų konfliktą Žemaitijoje, mini kunigaikščiu išrinktą Daumantą. Tai XVII a. autoriaus pasakojimas apie XV a. įvykius. Šio veikėjo negalima tapatinti su XIII a. Lietuvos valdovu ar Pskovo kunigaikščiu Daumantu. Iš čia pateikiamos ištraukos negalima nustatyti jo kilmės ir gyvenimo datų.",
+      "sources": []
+    }
+  ],
+  "moves": [
+    {
+      "codes": [
+        "t-184686",
+        "t-184687",
+        "t-196435",
+        "t-196437",
+        "t-200979",
+        "t-205664",
+        "t-210765",
+        "t-211330",
+        "t-211548",
+        "t-211864"
+      ],
+      "target": "objektai/asmenys/Daumantas (metraščių pasakojimai).md"
+    },
+    {
+      "codes": [
+        "t-196438"
+      ],
+      "target": "objektai/asmenys/Daumantas (XV a. pasakojimas).md"
+    },
+    {
+      "codes": [
+        "t-194224"
+      ],
+      "target": "objektai/asmenys/Vaišelga.md"
+    }
+  ],
+  "corrections": {
+    "t-05161": "Zenonas Ivinskis, remdamasis Ipatijaus metraščiu, rašo apie Daumanto sumanymą pašalinti Mindaugą ir menkesnes jo pajėgas.",
+    "t-82249": "Adolfo Šapokos redaguotoje Lietuvos istorijoje rašoma, kad 1263 m. prieš Brianską pasiųstai kariuomenei vadovavo Nalšios kunigaikštis Daumantas.",
+    "t-82252": "Adolfo Šapokos redaguotoje Lietuvos istorijoje keliama prielaida, kad Gardino kunigaikštis Dovydas buvo Mindaugo nužudyme dalyvavusio ir vėliau Pskovą valdžiusio Daumanto sūnus.",
+    "t-184683": "Kojelavičius pasakoja, kad Nalšios kunigaikščio Daumanto žmona, Mortos sesuo, atvyko į Mindaugo žmonos šermenis.",
+    "t-184685": "Kojelavičiaus pasakojime Daumantas, pasiųstas prieš Briansko kunigaikštį, ragina Treniotą pasinaudoti proga veikti prieš Mindaugą.",
+    "t-184686": "Kojelavičiaus perteikiamame legendiniame pasakojime Daumantui skiriama Utenos kunigaikštystė; autorius taip pat mini jam priskiriamą Svyrių pilies įkūrimą.",
+    "t-184687": "Kojelavičiaus perteikiamame legendiniame pasakojime Daumantas po žmonos laidotuvių prievarta pasilieka Narimanto žmoną.",
+    "t-194224": "Mykolo Balinskio veikale cituojamame pasakojime į Sinajaus kalną išvyksta ir vienuolynu rūpinasi Mindaugo sūnus Vaišelga. Šios ištraukos veikėjas nėra Daumantas.",
+    "t-196437": "Kojelavičius legendiniame pasakojime vaizduoja Daumantą po šermenų prievarta pasilikusį Narimanto žmoną.",
+    "t-200978": "Simonas Daukantas, perteikdamas rusėnų autorių pasakojimą, rašo apie Mindaugo pasiliktą Daumanto žmoną ir Daumanto susitarimą su Treniota bei Tautvilu prieš Mindaugą.",
+    "t-200979": "Simonas Daukantas mini mirusį Polocko pareigūną Daumantą. Ši ištrauka neleidžia jo patikimai sutapatinti su Nalšios ir Pskovo kunigaikščiu.",
+    "t-205662": "Teodoras Narbutas rašo, kad Mindaugas įsakė Daumantui atvykti su Nalšios pulkais ir prisidėti prie karaliaus kariuomenės.",
+    "t-205663": "Teodoras Narbutas Mindaugo ir dviejų jo sūnų nužudymą priskiria Treniotos bei Daumanto vedamiems sąmokslininkams. Jo nurodyta rugsėjo 12 d. ir miegančio valdovo palapinės aplinkybės čia pateikiamos kaip XIX a. autoriaus pasakojimo detalės, o ne patvirtinti įvykio duomenys.",
+    "t-205664": "Teodoras Narbutas teigia savo genealoginėse lentelėse skyręs keturis Daumantus. Cituojamoje ištraukoje jis aptaria Mindaugo sūnėnu laikytą Daumantą ir Pskove valdžiusį Daumantą Senąjį. Ši genealoginė schema yra Narbuto interpretacija.",
+    "t-210543": "Bychovco kronikos pasakojime Daumantas svarsto nužudyti Mindaugą, tačiau jo pajėgos apibūdinamos kaip silpnesnės už Mindaugo.",
+    "t-211411": "Bychovco kronikoje pasakojama, kad Mortos sesuo buvo ištekėjusi už Nalšios kunigaikščio Daumanto.",
+    "t-211864": "Bychovco kronikos legendiniame pasakojime Daumantas sutelkia Pskovo ir Polocko kariuomenę ir žygiuoja į Lietuvą, siekdamas valdžios."
+  },
+  "quarantine": {
+    "t-196435": "Iš pateiktos citatos negalima nustatyti kalbėtojo ir patikimai priskirti teiginio Daumantui.",
+    "t-210716": "Priskirta citata nepatvirtina teiginyje nurodytos mirties dienos ir pirmosios žmonos vardo nežinojimo.",
+    "t-210765": "Citatos vienuolis Lauras nėra Daumantas; klaidingas asmens priskyrimas.",
+    "t-211330": "Priskirta citata apie vienuolį Laurą nepatvirtina teiginio apie Narimanto žmonos apsilankymą.",
+    "t-211548": "Priskirta citata apie Traidenio nužudymą ir žygį nepatvirtina teiginio apie Utenos apsiaustį."
+  },
+  "expectedOriginalText": {
+    "t-05161": "Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.",
+    "t-05162": "Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.",
+    "t-05163": "Per krikštą Timofėjaus vardą priėmęs Daumantas buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais.",
+    "t-05164": "1266 m. Daumantas su pskoviečiais puolė Nalšėnus.",
+    "t-82249": "Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.",
+    "t-82252": "Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.",
+    "t-184683": "Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis.",
+    "t-184685": "Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.",
+    "t-184686": "Daumantui buvo duota Utenos kunigaikštystė, o kai kurie šaltiniai jam priskyrė Svyrių pilies įkūrimą.",
+    "t-184687": "Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją.",
+    "t-194224": "Daumantas į Sinajaus kalną ir pakrikštija vardan Tėvo ir Sūnaus ir Šventosios Dvasios ir mokosi iš šventųjų knygų ir nusikerpa pagal vienuolišką stotą Šventajame kalne ir, prabuvęs Šventajame kalne trejus metus, ir pareina į savo žemę ir grįžta iš Sinajaus kalno pas savo tėvą kunigaikštį Mindaugą ir įkuria sau vienuolyną.",
+    "t-196435": "Daumantas praliejąs Mindaugo, išžudžiusio savo artimuosius, kraują.",
+    "t-196437": "Kojelavičius vaizduoja Daumantą po šermenų prievarta pasilikusį Narimanto žmoną, kad ši jam guolyje pavaduotų mirusiąją.",
+    "t-196438": "Kojelavičiaus pasakojime Daumantas buvo išrinktas kunigaikščiu, o jį išrinkusieji, pašalinę Kęsgailos pareigūnus, rėmė Mykolą.",
+    "t-200978": "Tarp kitų svečių buvęs tenai Daumantas su žmona, se seria nabaštikės, kurią tenai Mindaugas taip pamė gęs, jog, geisdamas ją už žmoną sau paskirti, būk nebįdavęs daugiaus jos Daumantui, kursai, tuomi būdamas abydytu ir negaudamas teisybės, būk su sitaręs su.",
+    "t-200979": "Nustipus Daumantui, urėdui Polocko, ūkėjai, kitą kartą, kaip sakiau, krievais, arba krivičiais, vadinami, jau krikščionys ir į gudus išvirtę, kuriuos šiandien vadina baltaisiais gudais nuo to, jog dėvė jo lietuviškai, o kalba gudiškai jaugiai su lietuvių.",
+    "t-205662": "Karalius pasiuntė kariauną ir įsakė savo vasalui Daumantui atvykti su Nalšios kunigaikštystės pulkais; Daumantas atvyko į kovos lauką ir susijungė su karaliaus pajėgomis.",
+    "t-205663": "Teodoras Narbutas aprašo, kad rugsėjo 12 d. Treniotos ir Daumanto vadovaujami sąmokslininkai klastingai užpuolė miegančio karaliaus palapinę ir nužudė jį kartu su dviem sūnumis.",
+    "t-205664": "Teodoras Narbutas skiria du Daumantus: Mindaugo sūnėną Daumantą, kurį vadina žudiku ir nurodo dingus bei vėliau žuvus mūšyje, ir Daumantą Senąjį, Germanto sūnų, valdžiusį bei mirusį Pskove.",
+    "t-207491": "Alfredas Bumblauskas nurodo, kad Nalšios kunigaikščio Daumanto žmoną buvo paveržęs Mindaugas, o Daumantas, veikęs išvien su Treniota, 1263 m. nužudė Mindaugą.",
+    "t-210543": "O Daumantas, tai išgirdęs, labai susikrimto ir pra dėjo galvoti, kaip Mindaugą nužudyti, bet negalėjo, nes menka buvo jo jėga, o Mindaugo — galybė.",
+    "t-210716": "Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos vardas nežinomas.",
+    "t-210765": "Lietuvos metraščio pasakojime Daumantas, tapęs vienuoliu Lauru, prašė Narimanto skirti jam vietą vienuolynui Naugarduko pavieto girioje prie Nemuno.",
+    "t-211330": "Didysis kunigaikštis Narimantas, išgirdęs apie savo brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai liūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa reikšti užuojautos.",
+    "t-211411": "O jos sesuo buvo ištekėjusi už Daumanto, už Nalšios kunigaikščio.",
+    "t-211548": "Kunigaikštis Daumantas suprato, kad ne jo jėgoms atsispirti, ir prašė savo pilėnų, kad jie neatiduotų pi lies, kol jis nebus prasiveržęs per Narimanto kariuo menę.",
+    "t-211864": "Lietuvos metraštis Daumantą vaizduoja sutelkusį pskoviškę ir polockiškę kariuomenę ir žygiavusį į Lietuvą, ketinant tapti Lietuvos ir Žemaičių kunigaikščiu."
+  }
+}
