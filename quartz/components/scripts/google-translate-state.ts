@@ -4,7 +4,7 @@ export const SITE_LANGUAGES = [
   "pl",
   "lv",
   "et",
-  "be",
+  "by",
   "ru",
   "uk",
   "de",
@@ -19,13 +19,15 @@ export function isSiteLanguage(language: string | null): language is SiteLanguag
 }
 
 export function resolvePreferredLanguage(search: string, storedLanguage: string | null) {
-  const urlLanguage = new URLSearchParams(search).get("lang")
+  const requestedLanguage = new URLSearchParams(search).get("lang")
+  const urlLanguage = requestedLanguage === "be" ? "by" : requestedLanguage
   if (isSiteLanguage(urlLanguage)) {
     return { language: urlLanguage, fromUrl: true }
   }
 
+  const savedLanguage = storedLanguage === "be" ? "by" : storedLanguage
   return {
-    language: isSiteLanguage(storedLanguage) ? storedLanguage : "lt",
+    language: isSiteLanguage(savedLanguage) ? savedLanguage : "lt",
     fromUrl: false,
   } satisfies { language: SiteLanguage; fromUrl: boolean }
 }
