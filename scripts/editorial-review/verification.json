@@ -7,7 +7,7 @@
   },
   "prebuild": {
     "passed": true,
-    "tests": 287,
+    "tests": 288,
     "failures": 0,
     "exportedFiles": 21256,
     "typescript": "passed",
@@ -37,6 +37,29 @@
       "editorial_semantic_review_20260927"
     ]
   },
-  "fullHtmlRebuildAfterFinalChanges": false,
-  "deployed": false
+  "fullHtmlRebuildAfterFinalChanges": true,
+  "deployed": true,
+  "deployment": {
+    "commit": "b82882e0590c4bc59b38ba47132eff855239dc54",
+    "workflowRun": "https://github.com/alzyras/lt-kb-pub/actions/runs/36317732286",
+    "workflowConclusion": "success",
+    "liveUrl": "https://lietuvosistorija.eu",
+    "liveArticlePagesChecked": 7,
+    "robotsTxtAllowsOaiSearchBot": true,
+    "sitemapListsAllArticles": true
+  },
+  "articleSeo": {
+    "articlesChecked": 7,
+    "liveHttp200": true,
+    "canonicalAndDescription": true,
+    "articleStructuredData": true,
+    "indexable": true,
+    "sitemapListed": true,
+    "socialImageAltMatchesArticleImage": true
+  },
+  "relations": {
+    "files": 21094,
+    "labels": 186325,
+    "issues": 0
+  }
 }
