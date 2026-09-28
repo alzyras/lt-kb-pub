@@ -72,3 +72,4 @@ Kryžiaus žygio kariai vėlų rudenį grįžo į Prūsiją, nesusirėmę su lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

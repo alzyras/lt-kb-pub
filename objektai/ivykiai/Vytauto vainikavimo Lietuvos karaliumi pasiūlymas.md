@@ -58,3 +58,4 @@ Imperatorius pasiuntė pasiuntinius pas popiežių dėl Vytauto karaliaus vainik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -157,3 +157,4 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
   pagrindžia:
     - t-003
     - t-004
+

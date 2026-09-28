@@ -77,3 +77,4 @@ Vokiečių valdžia vėliau grąžino lietuvių mokykloms teises.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

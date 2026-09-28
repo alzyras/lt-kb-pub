@@ -150,3 +150,4 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
   pagrindžia:
     - t-001
     - t-003
+

@@ -73,3 +73,4 @@ Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex o
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

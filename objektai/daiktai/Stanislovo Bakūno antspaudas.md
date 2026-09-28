@@ -80,3 +80,4 @@ Stanislovo Bakūno antspaudo skydas perskirtas į dvi dalis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

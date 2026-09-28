@@ -110,3 +110,4 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

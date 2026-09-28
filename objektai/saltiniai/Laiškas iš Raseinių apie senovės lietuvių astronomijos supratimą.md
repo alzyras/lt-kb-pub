@@ -58,3 +58,4 @@ Narbutas antrajam LTI leidimui skyrių papildė iš Raseinių gauto laiško frag
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

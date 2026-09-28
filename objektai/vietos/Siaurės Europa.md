@@ -104,3 +104,4 @@ Narbutas Siaurės Europos praeities miglotumą siejo su vėlyvu rašto pažinimu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

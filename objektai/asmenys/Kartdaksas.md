@@ -87,3 +87,4 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215736
+

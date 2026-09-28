@@ -148,3 +148,4 @@ Pasak Kojelavičiaus, 1401 m. Lietuvos luomai viešu dokumentu paliudijo Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -32,7 +32,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Silvestras Gabrėnas"]
 sameAs: []
-canonical_biography: "Silvestras Gabrėnas 1804 m. Kupiškio bažnyčioje vedė Oną Kėdainytę iš Migonių. O Silvestrui Gabrėnui gimė dukra Pranciška (1812)."
+canonical_biography: "Silvestras Gabrėnas 1804 m. Kupiškio bažnyčioje vedė Oną Kėdainytę iš Migonių. "
 ---
 # Silvestras Gabrėnas
 
@@ -83,3 +83,4 @@ Silvestras Gabrėnas 1804 m. Kupiškio bažnyčioje vedė Oną Kėdainytę iš M
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

@@ -65,3 +65,4 @@ Teodoro Narbuto genealoginiame pasakojime kunigaikščių Koreckių giminė kild
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -69,5 +69,6 @@ Povilas Valma, gimęs 1926 m. balandžio 1 d. Siaurių kaime Kupiškio valsčiuj
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

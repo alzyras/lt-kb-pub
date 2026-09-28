@@ -91,3 +91,4 @@ Neturtingas Naugarduko apskrities bajoras Antanas, Jono sūnus, Petro anūkas, M
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

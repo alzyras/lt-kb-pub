@@ -128,3 +128,4 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

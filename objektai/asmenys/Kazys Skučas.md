@@ -75,3 +75,4 @@ Kazį Skučą ir Saugumo departamento direktorių Augustiną Povilaitį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

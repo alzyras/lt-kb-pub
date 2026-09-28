@@ -108,3 +108,4 @@ Jokūbo Hauro knyga apie ūkininkavimą ir gyvulių ligas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

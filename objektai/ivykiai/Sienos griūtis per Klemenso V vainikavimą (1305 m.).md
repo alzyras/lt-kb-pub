@@ -85,3 +85,4 @@ Po Klemenso V vainikavimo prie Liono sugriuvusi siena pražudė daug žmonių ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

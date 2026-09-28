@@ -106,3 +106,4 @@ Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219897
+

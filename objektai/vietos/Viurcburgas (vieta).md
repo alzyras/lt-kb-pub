@@ -72,3 +72,4 @@ Viurcburgo vyskupas bei Romos imperijos kancleris Konradas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

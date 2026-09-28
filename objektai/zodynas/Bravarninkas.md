@@ -102,3 +102,4 @@ Terminas vartojamas aprašant kaimo degtinės varymo tvarką.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

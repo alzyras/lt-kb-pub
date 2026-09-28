@@ -72,3 +72,4 @@ Frotonas IV, pasak Torfėjo skaičiavimų, valdė maždaug IV amžiaus viduryje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -61,3 +61,4 @@ Nieko panašaus nesimato pas italus, bei šveicarus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

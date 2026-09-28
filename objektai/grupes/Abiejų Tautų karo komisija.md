@@ -86,3 +86,4 @@ Abiejų Tautų karo komisiją turėjo sudaryti po lygiai asmenų iš Karūnos ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

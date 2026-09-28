@@ -75,3 +75,4 @@ Trumpa gynybinė vertinimo formulė.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177865
+

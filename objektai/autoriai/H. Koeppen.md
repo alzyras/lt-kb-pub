@@ -108,3 +108,4 @@ Dusburgietis teigia, kad koeppen.— Marburg, 1958; [3 Lieferung): Nachträge, R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -139,3 +139,4 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

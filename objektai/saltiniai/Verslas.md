@@ -67,3 +67,4 @@ Ketvirtajame dešimtmetyje gana agresyviai žydų prekybininkus ėmė puldinėti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -135,3 +135,4 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

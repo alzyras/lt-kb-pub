@@ -80,3 +80,4 @@ Dusburgietis teigia, kad wenskus R.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -104,3 +104,4 @@ Narbutas Vitechindą aprašo kaip kronikininką, kuris padavimus apie prūsų i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

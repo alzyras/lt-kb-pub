@@ -109,3 +109,4 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

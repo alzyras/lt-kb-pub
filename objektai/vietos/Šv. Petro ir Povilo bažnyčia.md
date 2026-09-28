@@ -206,3 +206,4 @@ Po fundatoriaus mirties 1682 m. Šv. Petro ir Povilo bažnyčios dekoravimas dar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

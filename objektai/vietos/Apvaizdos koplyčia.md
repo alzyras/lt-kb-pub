@@ -78,3 +78,4 @@ Apvaizdos koplyčia prie Šv. Kotrynos bažnyčios buvo centrinio aštuoniakampi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

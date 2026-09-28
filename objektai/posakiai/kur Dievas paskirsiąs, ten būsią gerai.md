@@ -99,3 +99,4 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

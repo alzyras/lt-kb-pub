@@ -112,3 +112,4 @@ Ringys buvo upelis už pusės varsto nuo Kapelių ir Užpalių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

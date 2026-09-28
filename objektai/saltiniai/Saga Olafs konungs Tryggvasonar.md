@@ -69,3 +69,4 @@ Vikingai naudojo visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

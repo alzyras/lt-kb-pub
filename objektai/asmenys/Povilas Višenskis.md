@@ -92,3 +92,4 @@ Povilas Višenskis buvo šviesiausiojo valdovo pono Žygi­ manto, didžiojo Lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

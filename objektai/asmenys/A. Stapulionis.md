@@ -80,3 +80,4 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

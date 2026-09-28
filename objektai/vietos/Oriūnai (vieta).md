@@ -28,7 +28,7 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Oriūnai","Oriūnai (vieta)"]
 sameAs: []
-canonical_biography: "7 lentelė 1oriūnų senkapio monetų nominalai ir jų priklausomybė valdovui."
+canonical_biography: "."
 place_authority: true
 historical_names: []
 ---

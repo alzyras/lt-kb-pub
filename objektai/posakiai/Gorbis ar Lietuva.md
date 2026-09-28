@@ -68,3 +68,4 @@ Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

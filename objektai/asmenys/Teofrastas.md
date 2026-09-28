@@ -100,3 +100,4 @@ Narbutas mini Teofrastą tarp senovės autorių, kurie žinojo gintarą, jo savy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

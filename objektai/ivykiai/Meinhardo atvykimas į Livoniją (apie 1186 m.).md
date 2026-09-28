@@ -107,3 +107,4 @@ Vėliau atsirado žmogus, vertas būti apaštalu, vardu — Meinhardas, Au gusti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

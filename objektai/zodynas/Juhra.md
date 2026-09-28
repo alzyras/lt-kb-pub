@@ -99,3 +99,4 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

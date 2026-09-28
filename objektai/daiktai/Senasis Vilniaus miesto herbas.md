@@ -87,3 +87,4 @@ Sename Vilniaus miesto herbe pavaizduotas milžinas Alcis, žengiantis per vande
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

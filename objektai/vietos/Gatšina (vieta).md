@@ -72,3 +72,4 @@ Pirmutines kelias dienas rusų žydelis, kaip vėliau paaiškėjo pirklys iš Ga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

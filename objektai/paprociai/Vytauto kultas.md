@@ -148,3 +148,4 @@ Alfredo Bumblausko interpretacijoje XVI a. Lietuvos visuomenė ypač puoselėjo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

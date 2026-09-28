@@ -77,3 +77,4 @@ Posakis „Kas parceliuoja dvarą, visada nori pasisavinti viską su rūmais“ 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

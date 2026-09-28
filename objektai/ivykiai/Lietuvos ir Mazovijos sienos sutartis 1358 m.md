@@ -86,3 +86,4 @@ Pasak Teodoro Narbuto, 1358 m. rugpjūčio 13 d. Gardine Kęstutis, atstovaudama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

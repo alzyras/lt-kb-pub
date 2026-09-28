@@ -113,3 +113,4 @@ Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo me
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217092
+

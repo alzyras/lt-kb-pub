@@ -86,3 +86,4 @@ M. S. Andersonas nurodo, kad XVI a. diplomatai turėjo mokėti šalies, kurioje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

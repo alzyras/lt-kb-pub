@@ -89,3 +89,4 @@ Narbutas darė išvadą, kad vaidilutės buvo jaunos merginos, pareigas ėjusios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

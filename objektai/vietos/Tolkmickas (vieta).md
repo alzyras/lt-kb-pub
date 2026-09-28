@@ -99,3 +99,4 @@ Simonas Grunau šaltinyje apibūdinamas kaip Tolkmicko dominikonų vienuolyno Pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

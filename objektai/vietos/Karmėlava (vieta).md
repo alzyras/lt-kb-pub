@@ -106,3 +106,4 @@ To negalima pasakyti apie kelią paneriu į krašto gilumą - Karmėlavą, Ukmer
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208538
+

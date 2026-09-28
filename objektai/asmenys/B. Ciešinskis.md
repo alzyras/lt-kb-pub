@@ -71,3 +71,4 @@ Ciešinskis (mirė 1649 m.).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

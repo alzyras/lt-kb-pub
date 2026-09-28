@@ -71,3 +71,4 @@ Narbutas Gartnerio veikalu „De fructibus et seminibus plantarum“ rėmėsi te
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

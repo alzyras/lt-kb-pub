@@ -83,3 +83,4 @@ Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

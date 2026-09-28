@@ -70,3 +70,4 @@ Metodiškai ir logiškai įpratusiam dirbti aukšto išsilavinimo jėzuitui jau 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

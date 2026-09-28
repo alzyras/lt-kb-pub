@@ -131,3 +131,4 @@ Jau kamendotas Karaliaučiaus su 2000 joties buvo įsigrūdęs į Pagraudenį, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -64,3 +64,4 @@ Amaksoliai apibūdinami kaip miškinė gyvulių augintojų gentis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -23,22 +23,22 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Stanislovas Ožiūkštis"]
 sameAs: []
-canonical_biography: "Drūlėnai – 2 dūmai (Stanislovo Ožiūkščio ir Kazimiero Ožiūkščio)."
+canonical_biography: "."
 ---
 # Stanislovas Ožiūkštis
 
 ## Santrauka
 
-Drūlėnai – 2 dūmai (Stanislovo Ožiūkščio ir Kazimiero Ožiūkščio).
+.
 
 ## Santrauka
 
-Drūlėnai – 2 dūmai (Stanislovo Ožiūkščio ir Kazimiero Ožiūkščio).
+.
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Drūlėnai – 2 dūmai (Stanislovo Ožiūkščio ir Kazimiero Ožiūkščio).'
+  santrauka: '.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 163 (PDF 164)"
   citatos_rezimas: "indeksas"

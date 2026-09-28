@@ -82,3 +82,4 @@ Karalius, kaip jį aprašo Narbutas, aukščiausiąją valdžią Lietuvoje patik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -62,3 +62,4 @@ Per jo rankas inteikta delegatams nuo augščiausio ry tų vado Hindenburgo seka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

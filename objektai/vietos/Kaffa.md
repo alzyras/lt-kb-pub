@@ -75,3 +75,4 @@ Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­ davo į Kaffos miest�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

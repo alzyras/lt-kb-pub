@@ -32,7 +32,7 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Lėvens upė"]
 sameAs: []
-canonical_biography: "VandenÒ sėmė iš Lėvens upės. 1745 m. nutinkavo korpusą nuo Lėvens upės pusės. Vienuolyno rytinis korpusas Lėvens upės pusėje statytas 1690–1701 m."
+canonical_biography: "VandenÒ sėmė iš Lėvens upės. Vienuolyno rytinis korpusas Lėvens upės pusėje statytas 1690–1701 m."
 place_authority: true
 historical_names: []
 ---
@@ -97,3 +97,4 @@ Gaisrininkai gaisrui gesinti vandenį sėmė iš Lėvens upės. 1745 m. korpusas
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

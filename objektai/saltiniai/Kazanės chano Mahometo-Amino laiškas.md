@@ -80,3 +80,4 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

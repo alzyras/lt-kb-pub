@@ -88,3 +88,4 @@ Krokuvos vaivada Jarandas iš Brudzevo buvo įtrauktas į senato pasiuntinybę, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

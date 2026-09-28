@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 192
+tema_objektu_skaicius: 191
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 192.
+Objektų skaičius: 191.
 
 ## Kaip naudoti
 
@@ -90,7 +90,6 @@ Objektų skaičius: 192.
 - [Klevo kuopa](../objektai/grupes/Klevo%20kuopa)
 - [Korano giminė](../objektai/grupes/Korano%20gimin%C4%97)
 - [Kosto Barkausko būrys](../objektai/grupes/Kosto%20Barkausko%20b%C5%ABrys)
-- [Kunigaikščio Margio rinktinė](../objektai/grupes/Kunigaik%C5%A1%C4%8Dio%20Margio%20rinktin%C4%97)
 - [Kuršiai](../objektai/grupes/Kur%C5%A1iai)
 - [Kuršiečiai](../objektai/grupes/Kur%C5%A1ie%C4%8Diai)
 - [Kėdainių įgula](../objektai/grupes/K%C4%97daini%C5%B3%20%C4%AFgula)

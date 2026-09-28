@@ -149,3 +149,4 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

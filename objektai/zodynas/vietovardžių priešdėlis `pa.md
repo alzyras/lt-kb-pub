@@ -76,3 +76,4 @@ Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

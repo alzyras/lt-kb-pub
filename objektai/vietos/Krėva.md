@@ -324,6 +324,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
+    - c-103199
     - c-181897
 
 <a id="claim-t-199334"></a>
@@ -561,6 +562,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+    - t-015
 
 - id: c-103200
   autorius: "Michał Baliński"

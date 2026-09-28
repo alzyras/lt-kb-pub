@@ -58,3 +58,4 @@ Nieko nepadarysi, at rėžiau jam, matyt reikia patiems pirmutinius ledus laužy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

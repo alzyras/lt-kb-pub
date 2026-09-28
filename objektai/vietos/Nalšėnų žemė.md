@@ -86,3 +86,4 @@ Jie buvo pasiekę Nalšėnų žemę^144.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

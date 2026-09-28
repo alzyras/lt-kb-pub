@@ -76,5 +76,6 @@ Lina su šeima išvyko į Izraelį 1990 m., o Aviva į Izraelį išvyko 1993 m.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

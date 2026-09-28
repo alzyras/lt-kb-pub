@@ -77,3 +77,4 @@ Jeigu iki tol Vytautas atrodė nepastovus, besiblaškantis, avantiūristas, tai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

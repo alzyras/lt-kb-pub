@@ -73,3 +73,4 @@ pietiniame Pabaltijyje, tarp Danijos ir Lietuvos plotų, išryškėjo gana savit
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

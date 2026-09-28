@@ -69,3 +69,4 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -70,3 +70,4 @@ Brigita Petronėlė minima kaip Antano Davainio Solohubo sutuoktinė, buvusi Vil
   pagrindžia:
     - t-001
     - t-002
+

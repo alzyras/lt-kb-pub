@@ -132,3 +132,4 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

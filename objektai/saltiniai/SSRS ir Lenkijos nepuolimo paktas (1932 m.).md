@@ -79,3 +79,4 @@ Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m. liepą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

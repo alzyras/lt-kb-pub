@@ -98,3 +98,4 @@ Iwo Jaworskis 1935 m. teoriškai svarstė feodalizmo Lietuvoje problemą ir abej
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

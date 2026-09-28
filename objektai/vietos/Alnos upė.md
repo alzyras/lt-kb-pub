@@ -81,3 +81,4 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

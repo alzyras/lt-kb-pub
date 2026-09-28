@@ -79,3 +79,4 @@ Narbutas skyriuje De rebaptisantis hominibus aptarė pakartotinio krikšto, arba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

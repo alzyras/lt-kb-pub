@@ -77,3 +77,4 @@ Kristaus karių broliai vilkėjo baltą apsiaustą su raudonu kalaviju ir žvaig
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

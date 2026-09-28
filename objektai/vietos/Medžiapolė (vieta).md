@@ -73,3 +73,4 @@ Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

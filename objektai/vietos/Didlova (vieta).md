@@ -71,3 +71,4 @@ Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

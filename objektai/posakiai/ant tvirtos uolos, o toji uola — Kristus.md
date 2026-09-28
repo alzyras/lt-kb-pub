@@ -69,3 +69,4 @@ Dusburgietis teigia, kad pirmosios dalies įvade tvirtinama, kaip Kristus pastat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

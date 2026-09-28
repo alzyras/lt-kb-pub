@@ -123,3 +123,4 @@ Važiuoti iš Rymo į Franciją ir leistis iš Bordeau Amerikon, buvo pavojinga 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

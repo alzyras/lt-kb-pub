@@ -85,3 +85,4 @@ Susirgęs Zebžidovskis perdavė pareigas Stanislovui Lesniovolskiui ir patarė 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

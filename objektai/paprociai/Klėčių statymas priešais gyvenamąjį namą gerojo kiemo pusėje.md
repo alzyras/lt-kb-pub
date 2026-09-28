@@ -83,3 +83,4 @@ Sodybose klėtys visuomet stovėjo priešais gyvenamąjį namą, o gerasis, arba
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

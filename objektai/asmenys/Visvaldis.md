@@ -130,3 +130,4 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

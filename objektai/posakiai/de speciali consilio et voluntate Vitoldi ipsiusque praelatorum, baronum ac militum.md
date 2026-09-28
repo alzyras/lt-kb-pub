@@ -80,3 +80,4 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

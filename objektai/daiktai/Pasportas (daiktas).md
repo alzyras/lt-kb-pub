@@ -227,3 +227,4 @@ Ne tik žiūrima pasporto, bet perkrečiami ir visi vežamieji daiktai. Ant mano
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

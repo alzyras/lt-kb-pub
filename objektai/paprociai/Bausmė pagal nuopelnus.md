@@ -86,3 +86,4 @@ Smolensko žemės privilegijoje teisingo teismo nuostata reikalavo bausmę skirt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -75,3 +75,4 @@ Deivių garbintojai aikštelę apdėdavo plokščiais, atsisėsti skirtais akmen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

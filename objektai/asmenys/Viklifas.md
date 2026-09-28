@@ -67,3 +67,4 @@ Narbutas Viklifo raštus sieja su Jeronimu, kuris apie 1405 m. grįždamas į t�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

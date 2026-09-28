@@ -83,3 +83,4 @@ canonical_biography: "1481 m. Jonas Alšėniškis, Alšėnų ir Dubrovicos kunig
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

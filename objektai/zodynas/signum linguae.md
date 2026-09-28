@@ -77,3 +77,4 @@ Prefek tas, vizituojantis klasę, pirmiausia klausdavo apie signum. Tas, kuris t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

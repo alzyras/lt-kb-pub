@@ -95,3 +95,4 @@ Narbutas mini nežinomos datos Vytauto laikų sienų dokumentą, kuriame ribože
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

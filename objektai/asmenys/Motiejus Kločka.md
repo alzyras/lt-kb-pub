@@ -135,3 +135,4 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

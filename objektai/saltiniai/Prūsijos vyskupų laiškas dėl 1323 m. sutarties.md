@@ -205,3 +205,4 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

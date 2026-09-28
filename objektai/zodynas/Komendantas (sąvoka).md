@@ -67,3 +67,4 @@ Komendantas aiškino, kad rusų pavaldinys neturėjo teisės pasilikti Berlyne.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

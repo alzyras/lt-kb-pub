@@ -229,3 +229,4 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

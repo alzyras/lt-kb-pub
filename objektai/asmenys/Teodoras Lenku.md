@@ -69,3 +69,4 @@ Vladislovas Jogaila į Konstancos susirinkimą pasiuntė dominikoną Teodorą Le
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -171,3 +171,4 @@ Povilo Juozapo Safaržyko „Slavų senienos“ XIX a. ketvirtajame dešimtmetyj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

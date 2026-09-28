@@ -77,3 +77,4 @@ Pasakotojas, pasiėmęs paduškaitę, stebėjo pro langą lekiančius laukus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

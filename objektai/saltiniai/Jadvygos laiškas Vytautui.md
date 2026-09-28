@@ -134,3 +134,4 @@ Gana grėsmingai įsiliepsnojo pirmieji nesuta­ rimai tarp abiejų tautų (1398
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

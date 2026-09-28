@@ -73,3 +73,4 @@ Lažinio palivarkinio ūkio biudžeto apskaičiavimo metodai ir vertinimo kriter
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

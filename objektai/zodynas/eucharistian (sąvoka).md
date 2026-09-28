@@ -68,3 +68,4 @@ Broliams vadovaujantis asmuo, paėmęs duoną ir vandeniu atmiešto vyno taurę,
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

@@ -66,3 +66,4 @@ Po Andriaus mirties ir ilgų ginčų Vengrijos sostą gavo Karolis Kūjis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

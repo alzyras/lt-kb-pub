@@ -75,3 +75,4 @@ Kovoje buvo nukautas Livonijos magistras Ottonas Luterbergas, taip pat 52 Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

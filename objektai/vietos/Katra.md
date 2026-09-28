@@ -80,3 +80,4 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

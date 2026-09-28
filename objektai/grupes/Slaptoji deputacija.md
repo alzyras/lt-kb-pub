@@ -95,3 +95,4 @@ Kariuomenės veiksmų koordinavimas galiausiai buvo perduotas šiai deputacijai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

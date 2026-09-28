@@ -67,3 +67,4 @@ Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

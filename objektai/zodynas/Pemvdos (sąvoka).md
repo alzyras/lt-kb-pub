@@ -62,3 +62,4 @@ Senovės lietuviai tokį ženklą vadino Pemvdos; skaityk straips nius „Velion
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

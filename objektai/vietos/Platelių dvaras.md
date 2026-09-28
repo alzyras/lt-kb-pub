@@ -73,3 +73,4 @@ canonical_biography: '1840 metų rugsėjo mėnesį viešėdamas Platelių dva re
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

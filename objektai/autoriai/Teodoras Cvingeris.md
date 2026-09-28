@@ -98,3 +98,4 @@ Teodoras Cvingeris nuo 1565 m. Bazelyje buvo graikų kalbos profesorius.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

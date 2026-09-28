@@ -84,3 +84,4 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

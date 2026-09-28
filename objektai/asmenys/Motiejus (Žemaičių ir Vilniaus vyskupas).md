@@ -257,3 +257,4 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

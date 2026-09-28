@@ -85,3 +85,4 @@ Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno vadovaujamų Žarėnų ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

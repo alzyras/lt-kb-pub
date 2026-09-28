@@ -75,3 +75,4 @@ Vulfstanas keliavęs jūra pagal nuo Hedaby, pre kyba pagirto Šlezvigo miesto, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

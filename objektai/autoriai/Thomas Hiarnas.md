@@ -68,3 +68,4 @@ Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, paraš�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

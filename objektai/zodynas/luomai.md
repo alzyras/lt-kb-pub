@@ -240,3 +240,4 @@ Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, at
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

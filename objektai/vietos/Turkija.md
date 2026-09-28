@@ -152,3 +152,4 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207950
+

@@ -150,3 +150,4 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

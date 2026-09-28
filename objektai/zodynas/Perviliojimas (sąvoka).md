@@ -70,3 +70,4 @@ Teisinėje praktikoje perviliojimas buvo įvardytas kaip viena iš nusikalstamo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

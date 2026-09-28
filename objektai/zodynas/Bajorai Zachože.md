@@ -62,3 +62,4 @@ Iš čia išaugo dar viena lais vųjų valstiečių rūšis, vadinama bajorais Z
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

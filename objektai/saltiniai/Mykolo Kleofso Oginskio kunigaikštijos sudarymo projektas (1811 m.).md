@@ -95,3 +95,4 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

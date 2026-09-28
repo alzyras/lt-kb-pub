@@ -261,3 +261,4 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

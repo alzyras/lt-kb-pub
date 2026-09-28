@@ -75,3 +75,4 @@ Narbutas nurodo, kad Foigtas pateikia didžiojo kunigaikščio Vytauto 1420 meta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

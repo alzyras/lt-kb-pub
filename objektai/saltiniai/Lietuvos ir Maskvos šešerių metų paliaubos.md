@@ -59,3 +59,4 @@ Maskvos didysis kunigaikštis pasiliko užimtus miestus ir valsčius, o lietuvi�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

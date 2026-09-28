@@ -135,3 +135,4 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

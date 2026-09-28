@@ -78,3 +78,4 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

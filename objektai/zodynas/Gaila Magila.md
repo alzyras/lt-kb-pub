@@ -50,3 +50,4 @@ Narbutas rašo, kad Ksaveras Bogušas panašios rūšies dievybei davė Magilos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

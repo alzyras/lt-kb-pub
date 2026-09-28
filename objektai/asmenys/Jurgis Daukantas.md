@@ -107,3 +107,4 @@ canonical_biography: "1733 m. Jurgis Daukantas su žmona Agota skundėsi dėl Al
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

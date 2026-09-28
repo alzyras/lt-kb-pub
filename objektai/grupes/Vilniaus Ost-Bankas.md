@@ -59,3 +59,4 @@ Pinigai užimton Lietuvon galima siųsti per Vilniaus ir Kauno Ost-Bankus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

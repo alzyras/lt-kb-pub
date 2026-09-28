@@ -92,3 +92,4 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

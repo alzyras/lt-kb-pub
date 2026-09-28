@@ -84,3 +84,4 @@ XVI a. pirmojoje pusėje tokie teismai buvo įkurti Palenkės vaivadijoje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

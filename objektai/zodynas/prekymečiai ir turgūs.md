@@ -91,3 +91,4 @@ Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -177,3 +177,4 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -108,3 +108,4 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

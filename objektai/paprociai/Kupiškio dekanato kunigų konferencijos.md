@@ -90,3 +90,4 @@ Kupiškio dekanato kunigų konferencijose buvo svarstomi teologijos ir sielovado
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

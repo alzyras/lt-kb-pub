@@ -67,3 +67,4 @@ Dideli ginčai jau buvo subrendę, ypač po to, kai 1442 m. Dancige buvo uždrau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

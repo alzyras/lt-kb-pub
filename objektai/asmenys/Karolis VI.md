@@ -132,3 +132,4 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217500
+

@@ -47,3 +47,4 @@ Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

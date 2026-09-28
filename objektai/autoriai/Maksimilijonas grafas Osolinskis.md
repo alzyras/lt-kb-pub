@@ -90,3 +90,4 @@ Tų budinu kolonijų išsidėstymo vietas deramai nusta tė šiuolaikiniai senov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

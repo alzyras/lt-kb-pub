@@ -79,3 +79,4 @@ Narbutas pasakoja, kad minėtoje cerkvėje kasmet liepos 28-ąją pagal rusų ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

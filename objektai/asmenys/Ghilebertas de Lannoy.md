@@ -75,3 +75,4 @@ Pasak flamando riterio Ghileberto de Lannoy, jis buvęs įve­ dęs Lietuvos kun
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

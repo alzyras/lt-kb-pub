@@ -81,3 +81,4 @@ Narbutas teigia, kad kunigaikštis Šventaragis 1282 metais priėmė Vyčio herb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

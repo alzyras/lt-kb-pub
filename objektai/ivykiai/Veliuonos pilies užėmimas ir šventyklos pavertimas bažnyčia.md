@@ -76,3 +76,4 @@ Po 1406 metų pilies paėmimo Veliuonos šventykla buvo perstatyta į krikščio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

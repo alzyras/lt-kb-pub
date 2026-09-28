@@ -133,3 +133,4 @@ Aprūpinimo deputacija buvo įsteigta Lietuvos Tarybos universalu 1794 m. baland
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

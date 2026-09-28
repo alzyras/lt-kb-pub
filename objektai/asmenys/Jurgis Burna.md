@@ -70,3 +70,4 @@ canonical_biography: "Štai 1554 m. Karaliaučiuje studijavo kaunietis Jurgis Bu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

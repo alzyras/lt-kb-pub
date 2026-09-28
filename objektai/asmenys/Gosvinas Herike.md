@@ -77,3 +77,4 @@ Livonijos provincijos magistras Gosvinas Herike su didžiuoju magistru Dusmeriu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

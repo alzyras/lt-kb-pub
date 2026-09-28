@@ -155,3 +155,4 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

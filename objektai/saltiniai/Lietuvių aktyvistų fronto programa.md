@@ -72,3 +72,4 @@ LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

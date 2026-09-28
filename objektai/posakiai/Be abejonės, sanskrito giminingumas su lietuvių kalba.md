@@ -94,3 +94,4 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
   pagrindžia:
     - t-001
     - t-002
+

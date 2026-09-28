@@ -107,3 +107,4 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212218
+

@@ -93,3 +93,4 @@ Tre훾ioje laivo klesoje buvo daugiau kaip pusantro t큰kstan훾io ital킬 ir graik�
   patikimumo_saltinis: ai
   pagrind탑ia:
     - t-002
+

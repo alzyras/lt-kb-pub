@@ -76,3 +76,4 @@ Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

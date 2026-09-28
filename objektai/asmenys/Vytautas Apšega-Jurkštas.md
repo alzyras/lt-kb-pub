@@ -31,23 +31,23 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Vytautas Apšega-Jurkštas"]
 sameAs: []
-canonical_biography: "Vytautas Apšega-Jurkštas žuvo 1948 m. birželio 12 d. Juodymo miške. Vytautas Apšega-Jurkštas žuvo 1948 m. birželio 12 d."
+canonical_biography: " Juodymo miške. "
 ---
 # Vytautas Apšega-Jurkštas
 
 ## Santrauka
 
-Vytautas Apšega-Jurkštas žuvo 1948 m. birželio 12 d. Juodymo miške. Vytautas Apšega-Jurkštas žuvo 1948 m. birželio 12 d.
+ Juodymo miške.
 
 ## Santrauka
 
-Vytautas Apšega-Jurkštas žuvo 1948 m. birželio 12 d. Juodymo miške. Vytautas Apšega-Jurkštas žuvo 1948 m. birželio 12 d.
+ Juodymo miške.
 
 ## Teiginiai
 
 <a id="claim-t-228003"></a>
 - t-001
-  teiginys: "Vytautas Apšega-Jurkštas žuvo 1948 m. birželio 12 d. Juodymo miške."
+  teiginys: " Juodymo miške."
   atnaujinta: "2026-09-25 02:17"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
@@ -62,7 +62,7 @@ Vytautas Apšega-Jurkštas žuvo 1948 m. birželio 12 d. Juodymo miške. Vytauta
 
 <a id="claim-t-228004"></a>
 - t-002
-  teiginys: "Vytautas Apšega-Jurkštas žuvo 1948 m. birželio 12 d."
+  teiginys: ""
   atnaujinta: "2026-09-25 02:17"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
@@ -86,7 +86,7 @@ Vytautas Apšega-Jurkštas žuvo 1948 m. birželio 12 d. Juodymo miške. Vytauta
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-208520
@@ -98,5 +98,6 @@ Vytautas Apšega-Jurkštas žuvo 1948 m. birželio 12 d. Juodymo miške. Vytauta
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-002
+

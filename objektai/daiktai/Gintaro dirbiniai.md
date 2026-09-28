@@ -77,3 +77,4 @@ Nedaug šiaurinių kraštų turėjo tokią reikšmę, sie kiančią žilą senov
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

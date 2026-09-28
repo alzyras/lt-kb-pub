@@ -81,3 +81,4 @@ Georg Glucksrath buvo Karaliaučiaus senojo miesto burmistras ir 1485 m. kovo 14
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

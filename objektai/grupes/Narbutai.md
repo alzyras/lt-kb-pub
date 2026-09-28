@@ -153,3 +153,4 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218987
+

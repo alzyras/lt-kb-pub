@@ -94,3 +94,4 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210513
+

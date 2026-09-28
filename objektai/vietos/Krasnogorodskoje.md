@@ -93,3 +93,4 @@ Komentare Krasnogorodskoje pateikiamas kaip Krasnyj gorod atitikmuo. Krasnogorod
   pagrindžia:
     - t-001
     - t-002
+

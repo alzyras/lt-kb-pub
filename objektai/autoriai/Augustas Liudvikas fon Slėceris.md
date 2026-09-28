@@ -185,3 +185,4 @@ Augustas Liudvikas fon Slėceris skaitė formą „satrium“ ir ją lygino su l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

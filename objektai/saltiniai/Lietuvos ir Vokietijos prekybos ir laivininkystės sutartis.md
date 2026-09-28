@@ -78,3 +78,4 @@ Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl 
   temporalinis_llm_pakomentavimas: "Pradinis sakinys per ilgas ir nutrūkęs, o citata pagrindžia sutarties pasirašymą."
   pagrindžia:
     - c-23878
+

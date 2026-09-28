@@ -211,3 +211,4 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
   patikimumo_saltinis: ai
   pagrindžia:
     - t-19635
+

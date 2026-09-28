@@ -67,3 +67,4 @@ Baltijos pajūrio gyventojai Dzivsvits laikė jūreivių globėju ir jūrų diev
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

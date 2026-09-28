@@ -105,3 +105,4 @@ Dusburgietis teigia, kad liscis, lizkis ‘stovykla, apsistojimo vieta’, iš p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

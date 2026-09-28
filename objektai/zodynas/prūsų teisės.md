@@ -81,3 +81,4 @@ prūsų teisės: tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos
   pagrindžia:
     - t-001
     - t-72739
+

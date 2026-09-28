@@ -68,3 +68,4 @@ Dar įvairesnės buvo gdanskiečio Dovydo Figerio prekės: 1 lašt as itališkų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

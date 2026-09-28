@@ -72,3 +72,4 @@ Dusburgietis teigia, kad kiti naujakrikščiai vėliau buvo valdomi remiantis ta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

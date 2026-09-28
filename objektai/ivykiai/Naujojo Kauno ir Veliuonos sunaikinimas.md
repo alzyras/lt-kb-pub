@@ -78,3 +78,4 @@ Teodoras Narbutas Veliuoną aprašo kaip gausiai apgyvendintą tvirtovę su pla�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -85,3 +85,4 @@ Skirgaila pasiūlė apsikeisti belaisviais, o vykdant šį susitarimą buvo suta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

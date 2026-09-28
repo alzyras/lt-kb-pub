@@ -89,3 +89,4 @@ Narbutas darė išvadą, kad vaidilučių pareigas eidavo jaunos merginos iki nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

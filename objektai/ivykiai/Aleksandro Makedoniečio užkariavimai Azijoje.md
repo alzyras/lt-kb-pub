@@ -72,3 +72,4 @@ Kai Aleksandro Makedoniečio užkariavimai lėmė poli tines permainas Azijoje, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

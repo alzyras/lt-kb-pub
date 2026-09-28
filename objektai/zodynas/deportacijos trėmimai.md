@@ -73,3 +73,4 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

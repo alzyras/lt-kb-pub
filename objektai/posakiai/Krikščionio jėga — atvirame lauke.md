@@ -64,3 +64,4 @@ Danielius čia formuluoja karo maksimos pavidalo pastabą apie krikščionio ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -73,3 +73,4 @@ Pilikėje, Akmenos kairiojo kranto vingyje, galėjo būti anksčiau statyta pila
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

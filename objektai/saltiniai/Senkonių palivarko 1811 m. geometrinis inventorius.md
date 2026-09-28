@@ -136,3 +136,4 @@ Senkonių palivarko inventorius yra 1811 m. žemės matavimo (mierezy) geometrin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -77,3 +77,4 @@ Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų plote, arti Nemuno,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

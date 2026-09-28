@@ -1413,3 +1413,4 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211827
+

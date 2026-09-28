@@ -86,3 +86,4 @@ Andrzej Stroynowski yra istorikas ir habilituotas mokslų daktaras.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -98,3 +98,4 @@ Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos. Krasnogo
   pagrindžia:
     - t-001
     - t-002
+

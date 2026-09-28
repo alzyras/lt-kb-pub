@@ -74,3 +74,4 @@ canonical_biography: '1256 m. Karaliaučiaus komtūras apsupo ir užėmė Auktal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

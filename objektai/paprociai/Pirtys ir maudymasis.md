@@ -130,3 +130,4 @@ Narbutas rašo, kad visi buvo įpratę praustis pirtyse, o vasarą maudytis srau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

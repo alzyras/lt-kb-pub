@@ -88,3 +88,4 @@ Seirijuose, Simne, Prienuose ir kt.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

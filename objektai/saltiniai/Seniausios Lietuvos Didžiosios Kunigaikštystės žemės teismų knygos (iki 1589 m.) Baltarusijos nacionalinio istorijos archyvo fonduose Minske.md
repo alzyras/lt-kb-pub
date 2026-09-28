@@ -86,3 +86,4 @@ V i 1 i m a s, Seniausios Lietuvos Didžiosios Kunigaikštystės žemės teismų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

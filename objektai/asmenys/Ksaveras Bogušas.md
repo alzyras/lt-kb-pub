@@ -568,3 +568,4 @@ Ksaveras Bogušas savo studijos 145 puslapyje Vulkaną lietuviškai vadino Jagau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216524
+

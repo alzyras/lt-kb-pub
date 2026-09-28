@@ -73,3 +73,4 @@ Pilviškių mies telio šiapus Pilvės ir Šešupės nieko neliko.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

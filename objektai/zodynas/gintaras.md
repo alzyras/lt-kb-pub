@@ -233,3 +233,4 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

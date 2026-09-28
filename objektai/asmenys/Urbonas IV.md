@@ -202,3 +202,4 @@ canonical_biography: "1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -145,3 +145,4 @@ Gotfrydas Ostermejeris buvo KaraliauÄiaus universiteto profesorius ir veikalo â
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

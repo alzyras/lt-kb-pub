@@ -69,3 +69,4 @@ Būdamas ir premjeru, ir užsienio reikalų ministru jau ne visur spėjo, konfli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

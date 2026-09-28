@@ -91,3 +91,4 @@ J. F. R. kronikoje teigiama, kad senovės lietuviai ir kuršiai garbino Kruonį 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

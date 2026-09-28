@@ -127,3 +127,4 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

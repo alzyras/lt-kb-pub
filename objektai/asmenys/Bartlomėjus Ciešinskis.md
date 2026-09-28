@@ -72,3 +72,4 @@ O barzdaskučių ceche, matyt, vyravo liuteronai, nes šie nesiveržė iš cecho
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

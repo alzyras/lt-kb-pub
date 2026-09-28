@@ -77,3 +77,4 @@ Vorobjovo interpretacijoje Vilniaus „genius loci“ siejamas su lietuvišku mi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

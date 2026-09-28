@@ -85,3 +85,4 @@ Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

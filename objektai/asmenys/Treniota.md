@@ -1117,3 +1117,4 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-221923
+

@@ -86,3 +86,4 @@ Jonas Feliksas Pacas buvo Šv. Kotrynos bažnyčios sumanytojas ir fundatorius, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

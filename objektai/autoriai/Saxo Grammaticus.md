@@ -77,3 +77,4 @@ Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) y
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

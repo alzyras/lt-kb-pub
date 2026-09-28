@@ -99,3 +99,4 @@ Andrius Ozereckis buvo Bogdano Ozereckio tėvas; šaltinyje jis įvardijamas kun
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

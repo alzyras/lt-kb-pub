@@ -81,3 +81,4 @@ To­ kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­ ginta Man
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

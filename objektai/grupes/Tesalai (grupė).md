@@ -62,3 +62,4 @@ Vėliau iš jų kilo 1 i d a i, sikelai, makedonai, tesalai ir daug kitų tautų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

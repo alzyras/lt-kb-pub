@@ -137,3 +137,4 @@ Terminas vartojamas ramių apsilankymų su gėrimais ir gavėnios rimties kontek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

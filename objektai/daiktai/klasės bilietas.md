@@ -76,3 +76,4 @@ Tuiom laiku policija išrūpino man pasportą Lietuvon, nupirko 2 klesos biliet�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

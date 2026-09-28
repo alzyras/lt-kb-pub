@@ -105,3 +105,4 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

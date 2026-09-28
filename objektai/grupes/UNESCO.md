@@ -86,3 +86,4 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Perrašymas glaudžiau susieja faktą su UNESCO ir pašalina perteklinį vardijimą."
   pagrindžia:
     - c-22787
+

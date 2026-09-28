@@ -122,3 +122,4 @@ Krasnoje minimas kaip pilis į pietus nuo Polocko, paimta 1579 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

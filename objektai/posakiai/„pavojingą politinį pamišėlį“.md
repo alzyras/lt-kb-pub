@@ -73,3 +73,4 @@ Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

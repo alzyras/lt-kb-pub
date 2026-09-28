@@ -87,3 +87,4 @@ M. Liubavskio nuomone, 1445–1446 m. suvažiavimas žymėjo naują Lietuvos Sei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

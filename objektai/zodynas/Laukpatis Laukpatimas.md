@@ -80,3 +80,4 @@ Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

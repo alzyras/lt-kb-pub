@@ -75,3 +75,4 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

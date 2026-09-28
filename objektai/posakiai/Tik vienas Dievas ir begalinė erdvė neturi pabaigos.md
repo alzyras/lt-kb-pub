@@ -58,3 +58,4 @@ Tik vienas Dievas, kuris nėra niekieno sukurtas, ku rio būstas yra toji begali
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

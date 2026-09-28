@@ -90,3 +90,4 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

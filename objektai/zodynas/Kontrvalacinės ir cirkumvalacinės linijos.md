@@ -65,3 +65,4 @@ Herodotas kontrvalacinių ir cirkumvalacinių linijų išradimą priskyrė Harpa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

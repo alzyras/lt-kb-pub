@@ -64,3 +64,4 @@ Narbutas nurodo, kad „Skir“ arba „Cyr“ reiškia tam tikro medžio ataug�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

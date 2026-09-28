@@ -114,3 +114,4 @@ J. Topolskis teigė, kad KPS koncepcija nepagrįstai siejo ATR feodalų perėjim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207858
+

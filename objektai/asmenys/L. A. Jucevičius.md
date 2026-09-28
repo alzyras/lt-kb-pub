@@ -77,3 +77,4 @@ L. A. Jucevičius buvo monografijų „Lietuvių liaudies priežodžiai“, „�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

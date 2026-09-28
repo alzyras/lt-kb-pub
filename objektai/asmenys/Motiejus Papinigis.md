@@ -67,3 +67,4 @@ Gertrūdos (Gerdrudska), nuo bažnyčios besiremianti į Breidžpetrio gatvę, P
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

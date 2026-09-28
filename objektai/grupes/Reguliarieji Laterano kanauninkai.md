@@ -60,3 +60,4 @@ Reguliariųjų Laterano kanauninkų idėjos susipynė su fundatoriaus Paco suman
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

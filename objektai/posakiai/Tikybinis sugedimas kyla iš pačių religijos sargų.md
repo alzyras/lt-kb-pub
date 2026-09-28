@@ -49,3 +49,4 @@ Narbutas tikybinį sugedimą aiškino kaip kylantį iš pačių religijos sargų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

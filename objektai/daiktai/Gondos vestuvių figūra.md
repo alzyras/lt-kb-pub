@@ -79,3 +79,4 @@ Gondu figūra buvo statoma ant apvalaus duonos kepalo, apvynioto baltu rankšluo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

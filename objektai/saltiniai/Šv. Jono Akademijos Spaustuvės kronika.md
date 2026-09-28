@@ -147,3 +147,4 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

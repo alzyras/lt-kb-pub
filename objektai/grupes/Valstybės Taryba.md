@@ -81,3 +81,4 @@ Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

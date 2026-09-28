@@ -108,3 +108,4 @@ Gotai nugalėjo ulmerugius ir nusiaubė jų kraštą tarp Oderio ir Viparos. Sav
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

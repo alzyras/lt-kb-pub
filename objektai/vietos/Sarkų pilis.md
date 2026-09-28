@@ -67,3 +67,4 @@ Sarkų pilis stovėjo Skalvos dalyje prie Lietuvos žemės pasienio.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

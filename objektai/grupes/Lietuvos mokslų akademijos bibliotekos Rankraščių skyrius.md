@@ -48,3 +48,4 @@ Didelės apimties 862 lapų rankraštis saugomas Lietuvos mokslų akademijos bib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -77,3 +77,4 @@ Teodoras Narbutas Aleksandrą Neviškį vadina Didžiojo Naugardo kunigaikščiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

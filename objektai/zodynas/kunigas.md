@@ -118,3 +118,4 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

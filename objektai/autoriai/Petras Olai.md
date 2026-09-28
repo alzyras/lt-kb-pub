@@ -86,3 +86,4 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

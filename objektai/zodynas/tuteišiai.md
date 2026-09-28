@@ -157,3 +157,4 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

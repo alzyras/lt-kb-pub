@@ -74,3 +74,4 @@ Seminarijos bažnyčios di dysis altorius pavirtęs ant šono.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

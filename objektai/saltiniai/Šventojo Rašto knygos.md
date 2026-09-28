@@ -102,3 +102,4 @@ Teodoras Narbutas Šventojo Rašto knygose aprašytą senovės pasaulio istorij�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

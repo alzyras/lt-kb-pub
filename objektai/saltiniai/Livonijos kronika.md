@@ -132,3 +132,4 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

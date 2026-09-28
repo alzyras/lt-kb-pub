@@ -57,3 +57,4 @@ JlĮ priekyje atsidūrė vadinamieji bendruomenės prisiekusieji (commlmitas iI/
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

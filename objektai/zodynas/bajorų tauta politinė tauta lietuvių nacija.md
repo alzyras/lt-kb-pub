@@ -140,3 +140,4 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

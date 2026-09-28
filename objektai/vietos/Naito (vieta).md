@@ -96,3 +96,4 @@ Vėliau Vaidevutis tarp Krono jūros ir Halibo įlankos, tai yra tarp Baltijos j
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

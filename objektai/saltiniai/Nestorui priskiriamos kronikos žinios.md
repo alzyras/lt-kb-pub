@@ -59,3 +59,4 @@ Narbutas nurodo, kad Nestoro pateiktos žinios patvirtina senus ir didelius skan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

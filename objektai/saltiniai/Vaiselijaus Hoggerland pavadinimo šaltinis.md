@@ -89,3 +89,4 @@ Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

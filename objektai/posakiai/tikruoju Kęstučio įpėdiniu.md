@@ -87,3 +87,4 @@ Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

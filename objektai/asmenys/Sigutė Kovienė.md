@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Sigutė Kovienė"]
 sameAs: []
-canonical_biography: "Vėliau kurÒ laiką kolektyvui vadovavo Sigutė Kovienė,."
+canonical_biography: "."
 ---
 # Sigutė Kovienė
 

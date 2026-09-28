@@ -70,3 +70,4 @@ canonical_biography: "1621 m. Kauno miestiečiai, norėdami atsipirkti nuo Teofi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

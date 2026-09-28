@@ -153,3 +153,4 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -71,3 +71,4 @@ Tuomet ir Kauno inteli gentai įsitikrino, kad ištikro atvažiuota delega tų i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

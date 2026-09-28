@@ -85,3 +85,4 @@ Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

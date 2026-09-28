@@ -279,3 +279,4 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
   pagrindžia:
     - t-002
     - t-006
+

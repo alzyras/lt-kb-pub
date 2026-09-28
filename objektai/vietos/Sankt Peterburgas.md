@@ -438,3 +438,4 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-226074
+

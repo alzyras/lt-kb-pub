@@ -140,3 +140,4 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

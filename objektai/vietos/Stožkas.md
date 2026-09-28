@@ -77,3 +77,4 @@ Vytautas pasižadėjo padėti Skirgailai pa­ imti Kijevą ir atiduoti jam Kreme
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -410,3 +410,4 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

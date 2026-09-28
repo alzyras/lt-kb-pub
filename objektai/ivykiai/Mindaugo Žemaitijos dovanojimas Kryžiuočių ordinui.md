@@ -77,3 +77,4 @@ Teodoro Narbuto aprašomame akte visa Žemaitija skiriama arba dovanojama visam 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

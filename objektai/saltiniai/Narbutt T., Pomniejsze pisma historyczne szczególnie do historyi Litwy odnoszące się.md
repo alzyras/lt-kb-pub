@@ -54,3 +54,4 @@ Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

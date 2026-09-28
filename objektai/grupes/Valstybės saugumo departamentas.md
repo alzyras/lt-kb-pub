@@ -80,3 +80,4 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

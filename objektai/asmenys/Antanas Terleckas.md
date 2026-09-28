@@ -133,3 +133,4 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-18826
+

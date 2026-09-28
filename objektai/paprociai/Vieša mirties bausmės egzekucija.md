@@ -88,3 +88,4 @@ Kauno pilies teismo mirties bausmės turėjo būti vykdomos viešai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

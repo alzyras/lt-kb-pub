@@ -105,3 +105,4 @@ Narbutas posakį „O wakar wakaratij“ pateikia kaip Rėzos rinkinio dainos pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

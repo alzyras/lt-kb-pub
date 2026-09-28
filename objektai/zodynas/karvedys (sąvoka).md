@@ -62,3 +62,4 @@ Vieto vardis primena totorių-mongolų chano Batu karvedį Kaidaną.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

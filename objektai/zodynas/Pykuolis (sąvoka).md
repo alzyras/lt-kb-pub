@@ -62,3 +62,4 @@ Tai yra varo šalin piktąjį dievą Pykuolį (Poklių) nuo mirusio asmens kūno
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -65,3 +65,4 @@ Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

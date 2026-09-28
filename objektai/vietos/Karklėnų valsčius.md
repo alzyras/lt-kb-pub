@@ -73,3 +73,4 @@ Kai 1626 m. Karklėnų valsčiaus vaitas Povilas Juozapavičius sugrąžino sula
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

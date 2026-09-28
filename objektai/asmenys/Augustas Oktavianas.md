@@ -227,3 +227,4 @@ Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautoja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212878
+

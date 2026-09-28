@@ -91,3 +91,4 @@ Narbutas rašė, kad lietuviai nuo seniausių amžių laiką dalijo į dienos ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

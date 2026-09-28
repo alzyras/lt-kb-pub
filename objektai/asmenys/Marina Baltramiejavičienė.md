@@ -91,3 +91,4 @@ Marina Baltramiejavičienė buvo Raseinių valsčiaus žemininko Jono Baltramiej
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

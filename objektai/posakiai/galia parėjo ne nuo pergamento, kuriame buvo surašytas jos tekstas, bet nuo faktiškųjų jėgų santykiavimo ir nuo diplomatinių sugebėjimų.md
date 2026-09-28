@@ -73,3 +73,4 @@ Tačiau ir tos sutar­ ties, kaip ir visų kitų, galia parėjo ne nuo pergament
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

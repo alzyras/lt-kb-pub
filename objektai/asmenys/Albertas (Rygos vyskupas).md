@@ -74,3 +74,4 @@ Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

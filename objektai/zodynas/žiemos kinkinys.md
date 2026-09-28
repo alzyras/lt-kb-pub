@@ -201,3 +201,4 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215166
+

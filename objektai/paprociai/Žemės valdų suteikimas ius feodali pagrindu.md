@@ -76,3 +76,4 @@ XV a. antrame dešimtmetyje Vytauto kanceliarijoje kai kuriose žemės valdų su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

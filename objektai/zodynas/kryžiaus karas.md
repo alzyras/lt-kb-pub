@@ -295,3 +295,4 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-223059
+

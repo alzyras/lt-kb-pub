@@ -79,3 +79,4 @@ Pasaulio sostinę didžiai nustebino neregėta pra banga, kai grumtynėse ant ž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

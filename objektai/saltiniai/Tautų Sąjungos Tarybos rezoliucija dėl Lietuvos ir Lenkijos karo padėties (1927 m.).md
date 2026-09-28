@@ -70,3 +70,4 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

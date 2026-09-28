@@ -45,3 +45,4 @@ Narbutas burtininkę Burte apibrėžė kaip lietuvių bardę Burtyniczka, kuri s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

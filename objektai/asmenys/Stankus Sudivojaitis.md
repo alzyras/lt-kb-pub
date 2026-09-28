@@ -72,3 +72,4 @@ canonical_biography: "Į Kauną bernardinus kvietė buvusio Kauno seniūno Sudiv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

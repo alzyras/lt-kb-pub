@@ -77,3 +77,4 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

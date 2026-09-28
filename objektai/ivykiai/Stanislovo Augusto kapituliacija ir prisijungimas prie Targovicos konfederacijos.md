@@ -97,3 +97,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citata pagrindžia tik Stanislovo Augusto pozicijos vertinimą ir karo kontekstą."
   pagrindžia:
     - c-23229
+

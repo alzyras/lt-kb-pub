@@ -78,3 +78,4 @@ Vartojama kaip trumpas senovės vokiečių dievaičių sąrašas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

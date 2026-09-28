@@ -269,3 +269,4 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

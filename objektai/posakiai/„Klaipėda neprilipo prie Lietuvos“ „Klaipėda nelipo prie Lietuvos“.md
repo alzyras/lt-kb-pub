@@ -68,3 +68,4 @@ Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

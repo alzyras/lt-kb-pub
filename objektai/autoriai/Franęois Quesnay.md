@@ -88,3 +88,4 @@ Franęois Quesnay formuluodamas gamtos tvarkos principus perėmė dekaniškąjį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

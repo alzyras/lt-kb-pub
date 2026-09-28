@@ -83,3 +83,4 @@ Ordino magistras pasiuntė Henriką Cukšvertą, Natangijos vaitą, su 29 riteri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

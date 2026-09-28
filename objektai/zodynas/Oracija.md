@@ -84,3 +84,4 @@ Terminas vartojamas kaip laukiamas apeiginės situacijos pasakymas.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177891
+

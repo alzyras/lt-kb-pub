@@ -57,3 +57,4 @@ Lotynų kalbą slavai venedai ir lietuviai var tojo kaip diplomatinę kalbą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

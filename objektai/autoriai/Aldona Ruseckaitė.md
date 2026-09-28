@@ -23,7 +23,7 @@ entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Aldona Ruseckaitė"]
 sameAs: []
-canonical_biography: "Garsioji Babickų šeima Aldona Ruseckaitė."
+canonical_biography: "."
 ---
 # Aldona Ruseckaitė
 
@@ -61,5 +61,6 @@ Aldona Ruseckaitė parašė straipsnį „Garsioji Babickų šeima“.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

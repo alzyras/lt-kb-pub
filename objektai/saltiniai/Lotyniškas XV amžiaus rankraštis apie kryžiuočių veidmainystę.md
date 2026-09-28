@@ -70,3 +70,4 @@ Teodoras Narbutas nurodė aptikęs lotynišką XV amžiaus rankraštį, tikriaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

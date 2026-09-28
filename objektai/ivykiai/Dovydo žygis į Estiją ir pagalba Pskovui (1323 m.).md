@@ -154,3 +154,4 @@ Pasak Teodoro Narbuto, Pskovo riteriai noriai prisidėjo prie Dovydo žygio prie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

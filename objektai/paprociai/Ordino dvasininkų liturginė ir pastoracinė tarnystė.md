@@ -77,3 +77,4 @@ Dusburgietis nurodo, kad Ordino dvasininkai taikos metu skatina brolius pasaulie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

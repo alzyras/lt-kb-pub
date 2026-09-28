@@ -59,3 +59,4 @@ Būdingas šios genties bruožas yra aistringa meilė tautiškumui, laisvei ir p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -58,3 +58,4 @@ Laivavedžiai ir laivų įgulų nariai išsiskyrė Kauno miestiečių bendruomen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

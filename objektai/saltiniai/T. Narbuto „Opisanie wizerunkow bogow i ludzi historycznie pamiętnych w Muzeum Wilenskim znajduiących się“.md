@@ -94,3 +94,4 @@ Narbuto autografe „Opisanie wizerunkow bogow i ludzi historycznie pamiętnych 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

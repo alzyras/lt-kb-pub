@@ -778,3 +778,4 @@ Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+

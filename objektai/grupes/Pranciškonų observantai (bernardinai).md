@@ -64,3 +64,4 @@ Tai buvo vienos iš pranciškonų šakos, pranciškonų observantų, paprastai v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

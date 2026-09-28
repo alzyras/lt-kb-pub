@@ -70,3 +70,4 @@ Kaimiečiams pajudinus medžius, jie iš abiejų pusių nuslėgė galybę vengr�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

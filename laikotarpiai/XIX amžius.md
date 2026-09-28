@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIX amžius"
 periodo_pradzia: 1801
 periodo_pabaiga: 1900
-periodo_objektu_skaicius: 1540
+periodo_objektu_skaicius: 1543
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1540.
+Objektų skaičius: 1543.
 
 ## Susiję objektai
 
@@ -33,6 +33,7 @@ Objektų skaičius: 1540.
 - [[objektai/asmenys/Andrius Sniadeckis]]
 - [[objektai/asmenys/Anicetas Renjė]]
 - [[objektai/asmenys/Antanas Baranauskas]]
+- [[objektai/asmenys/Antanas Dundulis]]
 - [[objektai/asmenys/Antanas Gelgaudas]]
 - [[objektai/asmenys/Antanas Goreckis]]
 - [[objektai/asmenys/Antanas Kripaitis]]
@@ -719,6 +720,7 @@ Objektų skaičius: 1540.
 - [[objektai/vietos/Jurbarkas]]
 - [[objektai/vietos/Kalnėnai]]
 - [[objektai/vietos/Kaltinėnai]]
+- [[objektai/vietos/Kamajai (vieta)]]
 - [[objektai/vietos/Karaliaučius]]
 - [[objektai/vietos/Karšuva]]
 - [[objektai/vietos/Katinavos apylinkės]]
@@ -1083,6 +1085,7 @@ Objektų skaičius: 1540.
 - [[objektai/saltiniai/1843 m. Kupiškio liustracija]]
 - [[objektai/saltiniai/1858 m. sausio 10 d. Motiejaus Valančiaus ganytojiškas laiškas apie valstiečių reformos ruošimą]]
 - [[objektai/saltiniai/1863 m. atsišaukimai lenkų ir lietuvių kalbomis dėl sukilimo pradžios]]
+- [[objektai/saltiniai/1947 m. gegužės 5 d. operatyvinė suvestinė Nr. 66 apie Kupiškio apskritį]]
 - [[Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistrict 1 150000. 25 Sectionen (Schr](/objektai/saltiniai/%5BSchroetter-Karte%5D%2C%20Karte%20von%20Ost-Preussen%20nebst%20Preussisch%20Litthauen%20und%20West-%20Preussen%20nebst%20dem%20Netzdistrict%201%20150000.%2025%20Sectionen%20%28Schr)
 - [[Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistriect Von Schroetter in den Jahre](/objektai/saltiniai/%5BSchroetter-Karte%5D%2C%20Karte%20von%20Ost-Preussen%20nebst%20Preussisch%20Litthauen%20und%20West-%20Preussen%20nebst%20dem%20Netzdistriect%20Von%20Schroetter%20in%20den%20Jahre)
 - [[objektai/saltiniai/A. Filipeckio pamokslų rinkinys]]

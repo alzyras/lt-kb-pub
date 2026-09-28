@@ -87,3 +87,4 @@ Be to, į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai (Gots
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

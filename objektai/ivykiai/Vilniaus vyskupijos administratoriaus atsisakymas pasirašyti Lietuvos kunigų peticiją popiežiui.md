@@ -75,3 +75,4 @@ Ar tikės man lietuvių visuomenė, kad tas kulvarta nepasirašė po prašymu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

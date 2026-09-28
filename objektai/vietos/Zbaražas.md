@@ -85,3 +85,4 @@ Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

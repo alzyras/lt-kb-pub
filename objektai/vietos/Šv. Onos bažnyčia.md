@@ -79,3 +79,4 @@ Onos bažnyčios atsiradimo žr.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

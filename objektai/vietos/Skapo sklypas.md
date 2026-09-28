@@ -87,3 +87,4 @@ Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų ga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

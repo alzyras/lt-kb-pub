@@ -78,3 +78,4 @@ Abiejose šiose vietose randami ištisi že mės pylimai su pelenais, sudegusiai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

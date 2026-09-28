@@ -157,3 +157,4 @@ canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207864
+

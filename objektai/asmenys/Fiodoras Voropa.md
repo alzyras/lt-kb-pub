@@ -93,3 +93,4 @@ Fiodoras Voropa buvo Vitebsko pavieto bajoras.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

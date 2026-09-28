@@ -93,3 +93,4 @@ Dusburgietis teigia, kad istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -78,3 +78,4 @@ Svarbiausias dalykas laidotuvėse buvo raudotojos; many ta, kad jos nuraminanči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

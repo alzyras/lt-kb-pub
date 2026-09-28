@@ -82,3 +82,4 @@ Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Po
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

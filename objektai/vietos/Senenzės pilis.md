@@ -67,3 +67,4 @@ Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

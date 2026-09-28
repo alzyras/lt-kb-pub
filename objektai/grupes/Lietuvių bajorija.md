@@ -224,3 +224,4 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

@@ -66,3 +66,4 @@ Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose L I E
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

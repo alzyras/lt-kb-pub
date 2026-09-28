@@ -84,3 +84,4 @@ Graužų-Lenčių (Zembiškio) miške NKVD Betygalos stribai, grįždami iš už
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

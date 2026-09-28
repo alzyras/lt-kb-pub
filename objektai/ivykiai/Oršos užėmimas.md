@@ -76,3 +76,4 @@ Teodoras Narbutas spėja, kad kunigaikštis Jonas Michailovičius, regis kilęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

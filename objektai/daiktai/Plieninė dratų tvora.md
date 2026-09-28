@@ -74,3 +74,4 @@ Prie Insrutės buvo išlikusios plieninės dratų tvoros.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

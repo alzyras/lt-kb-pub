@@ -82,3 +82,4 @@ Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

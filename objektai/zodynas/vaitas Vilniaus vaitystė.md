@@ -83,3 +83,4 @@ Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Ve
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -86,3 +86,4 @@ Hobbeso prigimtinės tvarkos dėsniai iškelia žmonijos norą išlikti, kurį g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -63,3 +63,4 @@ Pilwis reiškia storulį, perkeltine prasme – turčių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

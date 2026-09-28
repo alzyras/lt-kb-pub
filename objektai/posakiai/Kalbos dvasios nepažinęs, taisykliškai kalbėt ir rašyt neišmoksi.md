@@ -67,3 +67,4 @@ Norint suvokti kalbos dailumą ir grynumą, reikalinga pirmučiau­ siai kalbos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -55,3 +55,4 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

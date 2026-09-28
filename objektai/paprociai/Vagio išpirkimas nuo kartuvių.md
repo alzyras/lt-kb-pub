@@ -77,3 +77,4 @@ Mirties bausme nuteistą vagį nuo kartuvių buvo galima išpirkti, tačiau išs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

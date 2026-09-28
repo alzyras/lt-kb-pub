@@ -96,3 +96,4 @@ Narbutas Jakimavičiaus žodžius laikė pagrindu įtraukti naują objektą į s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

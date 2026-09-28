@@ -72,3 +72,4 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

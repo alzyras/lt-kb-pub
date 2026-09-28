@@ -79,3 +79,4 @@ Uždneprės slėniuose įrengtos užtvankos padėdavo persikelti per upę pavasa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -87,3 +87,4 @@ Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

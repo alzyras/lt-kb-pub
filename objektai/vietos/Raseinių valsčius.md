@@ -88,3 +88,4 @@ Raseinių valsčiaus žemininko Tomo Petravičiaus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

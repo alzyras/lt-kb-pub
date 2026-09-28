@@ -72,3 +72,4 @@ Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgul�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

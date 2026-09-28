@@ -78,3 +78,4 @@ Teodoras Narbutas aprašo, kad aukso ir sidabro garbės dovanų vertais pripaži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

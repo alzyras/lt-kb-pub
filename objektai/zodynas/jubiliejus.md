@@ -65,3 +65,4 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

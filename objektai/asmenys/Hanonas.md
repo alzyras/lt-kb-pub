@@ -98,3 +98,4 @@ Apie 450 m. pr. Kr. Hanonas iš Kartaginos su daugybe laivų pasuko į pietus ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214358
+

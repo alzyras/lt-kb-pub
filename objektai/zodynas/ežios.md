@@ -63,3 +63,4 @@ Visa žemė buvo išmatuota ir nustatytos aiškios ežios. ežios: tik bylos dė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

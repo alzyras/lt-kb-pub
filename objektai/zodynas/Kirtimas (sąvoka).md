@@ -82,3 +82,4 @@ Kirtimas būtent reiškia skynimą plėšiniuose, lietuviškai Lida.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

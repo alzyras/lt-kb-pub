@@ -83,3 +83,4 @@ Jis pastojo turkams kelią Dniestro paupy, ties Chocimu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

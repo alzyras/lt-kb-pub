@@ -67,3 +67,4 @@ Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

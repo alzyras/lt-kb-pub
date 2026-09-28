@@ -72,3 +72,4 @@ Europiečiai prieš 300 metų atrado Ameriką, įkūrė ten savo kolonijas ir su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -85,3 +85,4 @@ Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kroniko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

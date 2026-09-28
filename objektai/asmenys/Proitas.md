@@ -109,3 +109,4 @@ Narbutas, remdamasis graikų dievų padavimais, Proito laikus sieja su pranašau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

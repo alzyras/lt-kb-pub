@@ -140,3 +140,4 @@ Teodoras Narbutas, kaip pats nurodė, nebuvo asmeniškai pažįstamas su J. I. K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219245
+

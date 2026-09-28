@@ -126,3 +126,4 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

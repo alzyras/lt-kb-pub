@@ -58,3 +58,15 @@ Nenurodyta
 ## Santrauka
 
 1951 m. vasario 24 d. Varaniškių k. Povilo Stuko sodyboje įrengtame bunkeryje žuvo Povilas Laužikas-Liudas.
+
+## Citatos
+
+- id: c-214386
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 289"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 289."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:24"
+

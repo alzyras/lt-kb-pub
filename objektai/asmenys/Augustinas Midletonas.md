@@ -186,3 +186,4 @@ Išlikę Augustino Midletono raportai, kaip teigiama šaltinio ištraukoje, leid
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

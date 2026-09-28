@@ -65,3 +65,4 @@ Antikos žmonės turėjo tam tikras vietas, vadintas Hypetres arba Subdiales, ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

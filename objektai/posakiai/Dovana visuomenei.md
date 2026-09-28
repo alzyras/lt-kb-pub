@@ -60,3 +60,4 @@ Marcinov skis LTI vadina „dovana visuomenei“ ir sako, kad pirmą kartą Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

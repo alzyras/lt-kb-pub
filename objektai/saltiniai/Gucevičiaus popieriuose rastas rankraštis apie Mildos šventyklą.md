@@ -111,3 +111,4 @@ Pasak Narbuto, Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinus�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219052
+

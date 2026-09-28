@@ -89,3 +89,4 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219692
+

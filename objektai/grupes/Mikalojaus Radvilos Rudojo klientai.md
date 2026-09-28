@@ -77,3 +77,4 @@ Tarp Radvilos Rudojo klientų tėra paminėtas jo tarnautojas Jokūbas Abramavi�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

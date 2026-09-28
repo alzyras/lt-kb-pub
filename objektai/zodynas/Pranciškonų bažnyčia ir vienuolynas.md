@@ -67,3 +67,4 @@ Didžiosios Pranciškonų bažnyčios prie Trakų gatvės architektūra siejama 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

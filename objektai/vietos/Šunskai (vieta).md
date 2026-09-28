@@ -71,3 +71,4 @@ canonical_biography: Šunskų parapijoje buvo išdeginti pašešupiai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

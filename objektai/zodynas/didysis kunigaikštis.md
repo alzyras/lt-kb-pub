@@ -88,3 +88,4 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

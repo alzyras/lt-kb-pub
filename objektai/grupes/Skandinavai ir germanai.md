@@ -90,3 +90,4 @@ Narbutas rašo, kad skandinavai ir germanai alų vadino Ael arba Al, o prūsai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

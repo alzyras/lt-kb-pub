@@ -109,3 +109,4 @@ Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213439
+

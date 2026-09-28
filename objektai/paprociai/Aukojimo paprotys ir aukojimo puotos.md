@@ -119,3 +119,4 @@ Tai buvo akivaizdus aukojimo puotų li kutis. Vėliau piktnaudžiavimas stipriai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

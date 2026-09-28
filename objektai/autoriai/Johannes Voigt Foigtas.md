@@ -138,3 +138,4 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

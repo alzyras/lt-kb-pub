@@ -71,3 +71,4 @@ Kitą bylą su gėralų rinkiku Martynu Piadzevskiu Kauno miestas irgi laimėjo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

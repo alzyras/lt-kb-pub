@@ -82,3 +82,4 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata pagrindžia konstitucijos priėmimo kontekstą."
   pagrindžia:
     - c-23847
+

@@ -78,3 +78,4 @@ canonical_biography: "1500 m. Tripolio kaimą gavusiam Kijevo bajorui Danieliui 
   atnaujinta: "2026-07-26 19:26"
   pagrindžia:
     - t-001
+

@@ -65,3 +65,4 @@ Abiejų valstybių pirkliams buvo laiduota prekybos laisvė, jie galėjo netrukd
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

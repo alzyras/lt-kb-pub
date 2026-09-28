@@ -81,3 +81,4 @@ Livonijos riteriai kalaviją grąžino kunigaikščio giminėms, tarpininkaujant
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

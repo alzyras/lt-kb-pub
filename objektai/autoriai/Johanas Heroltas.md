@@ -71,3 +71,4 @@ canonical_biography: "Štai 1483 m. Strasburge išleisto Johano Herolto knygoje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

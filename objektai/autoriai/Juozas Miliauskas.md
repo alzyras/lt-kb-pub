@@ -76,3 +76,4 @@ Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYN�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

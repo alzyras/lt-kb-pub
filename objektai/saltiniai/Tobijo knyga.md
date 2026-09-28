@@ -101,3 +101,4 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

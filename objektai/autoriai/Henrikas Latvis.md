@@ -425,3 +425,4 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-225196
+

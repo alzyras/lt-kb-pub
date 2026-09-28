@@ -71,3 +71,4 @@ M. Strijkovskis savo Kronikoje beveik pažodžiui perteikė šio varianto fragme
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

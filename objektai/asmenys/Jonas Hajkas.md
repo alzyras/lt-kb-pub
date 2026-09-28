@@ -108,3 +108,4 @@ Jonas Hajkas 1566 m. tapo pirmuoju Lietuvos Brastos kaštelionu, prieš tai tarn
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

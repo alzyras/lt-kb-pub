@@ -81,3 +81,4 @@ canonical_biography: "1741 m. Vilniaus miestietis Jonas Šturmilovičius su Agot
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

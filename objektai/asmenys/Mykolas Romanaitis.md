@@ -64,3 +64,4 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

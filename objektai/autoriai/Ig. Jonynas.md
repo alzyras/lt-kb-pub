@@ -78,3 +78,4 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

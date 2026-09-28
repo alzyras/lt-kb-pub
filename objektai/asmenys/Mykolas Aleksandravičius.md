@@ -129,3 +129,4 @@ canonical_biography: "1776 m. Mykolas Aleksandravičius buvo Šv. Jono bažnyči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

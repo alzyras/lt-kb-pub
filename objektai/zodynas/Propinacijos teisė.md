@@ -77,3 +77,4 @@ Propinacijos teisė buvo teisė gaminti ir pardavinėti svaigalus karčiamose, a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

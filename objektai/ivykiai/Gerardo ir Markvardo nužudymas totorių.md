@@ -82,3 +82,4 @@ Teodoras Narbutas perteikia vietos istorijos pasakojimą, kad 1242 m. totoriai n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

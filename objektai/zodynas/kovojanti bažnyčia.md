@@ -96,3 +96,4 @@ Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

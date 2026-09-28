@@ -104,3 +104,4 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
   pagrindžia:
     - t-001
     - t-002
+

@@ -33,7 +33,7 @@ entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Alvydas Totoris"]
 sameAs: []
-canonical_biography: "Kupiškio seniūnija XVI–XIX amžiais Alvydas Totoris. Alvydas Totoris „Kupiškėnų enciklopedijoje“ rašė, kad 1930–1932 m. kunigo Stanislovo Eduardo Baltrimo rūpesčiu koplyčiose pastatyti Šv. Teresėlės ir Nukryžiuotojo altoriai."
+canonical_biography: ". Alvydas Totoris „Kupiškėnų enciklopedijoje“ rašė, kad 1930–1932 m. kunigo Stanislovo Eduardo Baltrimo rūpesčiu koplyčiose pastatyti Šv. Teresėlės ir Nukryžiuotojo altoriai."
 ---
 # Alvydas Totoris
 
@@ -85,3 +85,4 @@ Alvydas Totoris parašė skyrių „Kupiškio seniūnija XVI–XIX amžiais“. 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

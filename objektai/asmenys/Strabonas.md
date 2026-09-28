@@ -247,3 +247,4 @@ Narbutas cituoja Straboną, kad žemynas už Elbės iki didelės jūros romėnam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

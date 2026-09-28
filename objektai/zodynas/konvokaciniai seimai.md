@@ -104,3 +104,4 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

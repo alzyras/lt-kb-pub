@@ -172,3 +172,4 @@ Smolensko prastieji žmonės sukilimo metu buvo apsiginklavę strėlėmis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

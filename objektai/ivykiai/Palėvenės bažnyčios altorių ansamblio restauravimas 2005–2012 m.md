@@ -77,5 +77,6 @@ Palėvenės bažnyčios didysis altorius 2005–2009 m. restauruotas Kultūros p
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

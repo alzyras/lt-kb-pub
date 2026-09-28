@@ -85,3 +85,4 @@ J. Kliukovskio raštas yra pakvitavimas, duotas Gardino stalininkui Jonui Melcš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

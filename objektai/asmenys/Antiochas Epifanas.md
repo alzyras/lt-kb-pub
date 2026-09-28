@@ -80,3 +80,4 @@ Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

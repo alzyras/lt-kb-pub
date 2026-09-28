@@ -89,3 +89,4 @@ Henrikas, pasak Teodoro Narbuto, suteikė Vytautui susitaikymo su karaliumi Vlad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

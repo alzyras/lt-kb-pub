@@ -74,3 +74,4 @@ Iki mūsų eros pradžios teturime labai maža senosios kultūros liudininkų; t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

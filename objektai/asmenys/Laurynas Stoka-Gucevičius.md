@@ -75,3 +75,4 @@ Lauryno Stokos-Gucevičiaus Katedros projekte nebuvo fasado statulų; jas po arc
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

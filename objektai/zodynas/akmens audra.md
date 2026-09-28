@@ -167,3 +167,4 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
   pagrindžia:
     - t-002
     - t-003
+

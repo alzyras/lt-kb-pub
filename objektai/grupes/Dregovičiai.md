@@ -72,3 +72,4 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

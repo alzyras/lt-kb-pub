@@ -88,3 +88,4 @@ Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

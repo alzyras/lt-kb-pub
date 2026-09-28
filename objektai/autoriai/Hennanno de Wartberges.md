@@ -73,3 +73,4 @@ Vokiečių ordino XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi ži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

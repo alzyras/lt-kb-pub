@@ -76,3 +76,4 @@ Vilniaus gatvių architektūriniai vaizdai Vorobjovui priminė Bergamą ir kitus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

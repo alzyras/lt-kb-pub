@@ -90,3 +90,4 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Christiaano Barnardo atliktą operaciją."
   pagrindžia:
     - c-21639
+

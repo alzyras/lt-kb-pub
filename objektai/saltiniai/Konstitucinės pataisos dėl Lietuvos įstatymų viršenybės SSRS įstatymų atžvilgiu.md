@@ -79,3 +79,4 @@ LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

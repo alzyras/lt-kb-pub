@@ -160,3 +160,4 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

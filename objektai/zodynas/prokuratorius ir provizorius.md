@@ -83,3 +83,4 @@ Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, au
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

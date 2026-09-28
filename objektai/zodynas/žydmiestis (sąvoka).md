@@ -79,3 +79,4 @@ Vorobjovas Vilniaus žydmiestį apibūdino kaip pereinamų kiemų, užkaborių, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

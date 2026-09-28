@@ -74,3 +74,4 @@ Seminarijos bažnyčios aukuro stovylos buvo nuvirtusios ant žemės ir ant auku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

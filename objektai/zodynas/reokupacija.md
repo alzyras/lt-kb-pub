@@ -79,3 +79,4 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Sakinys papildytas sąvoka ir aiškiai susietas su įrašo objektu."
   pagrindžia:
     - c-24966
+

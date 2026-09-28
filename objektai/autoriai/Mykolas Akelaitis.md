@@ -86,3 +86,4 @@ Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -88,3 +88,4 @@ Kauno žemės teisėjas Adomas Kozakovskis 1795 m. vasario 1 d. iš Kulvos para�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

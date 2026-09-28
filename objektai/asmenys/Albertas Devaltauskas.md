@@ -71,3 +71,4 @@ Pirmasis Kauno pakamaris Albertas Devaltauskas (Deltuviškis) šias teisėjo par
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

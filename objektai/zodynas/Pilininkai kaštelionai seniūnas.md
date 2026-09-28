@@ -76,3 +76,4 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

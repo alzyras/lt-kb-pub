@@ -80,3 +80,4 @@ Apeiginis derliaus prašymas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -59,3 +59,4 @@ Daukanto „Darbai senųjų lie tuvių ir žemaičių“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

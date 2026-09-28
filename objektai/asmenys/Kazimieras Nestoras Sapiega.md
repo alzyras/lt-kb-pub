@@ -128,3 +128,4 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-63826
+

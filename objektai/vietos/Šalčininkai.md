@@ -85,3 +85,4 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

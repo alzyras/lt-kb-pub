@@ -70,3 +70,4 @@ Todėl nei bajorų nei didžiojo kunigaikščio dvaruose (vadinamuosiuose domenu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

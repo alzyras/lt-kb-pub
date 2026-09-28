@@ -72,3 +72,4 @@ Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

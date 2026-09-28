@@ -97,3 +97,4 @@ Jeigu pasitaikydavo svečias, kuris, įėjęs į namus, gerais žodžiais pasvei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

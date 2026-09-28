@@ -71,3 +71,4 @@ Klimo, LIETUVIŲ KALBOS SINTAKSĖ.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

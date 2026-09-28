@@ -86,3 +86,4 @@ Kopenhagos derybos vėliau dar buvo tęsiamos Luganoj (Šveicarijoje).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

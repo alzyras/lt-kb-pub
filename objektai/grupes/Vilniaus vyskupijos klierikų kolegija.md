@@ -339,3 +339,4 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
     - t-001
     - t-002
     - t-007
+

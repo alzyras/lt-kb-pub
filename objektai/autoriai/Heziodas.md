@@ -127,3 +127,4 @@ Narbutas nurodė, kad apie antikos žmonių atliekamas laukų apvalymo arba paš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

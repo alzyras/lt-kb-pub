@@ -78,5 +78,6 @@ Nuo 2001 m. Palėvenėje per Šv. Jono atlaidus vyksta tarptautinė teatro ir mu
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

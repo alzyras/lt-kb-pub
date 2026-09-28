@@ -83,3 +83,4 @@ Lietu vos pranciškonų provinciją palietė tiesiogiai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

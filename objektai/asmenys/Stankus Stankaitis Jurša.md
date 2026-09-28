@@ -97,3 +97,4 @@ Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216620
+

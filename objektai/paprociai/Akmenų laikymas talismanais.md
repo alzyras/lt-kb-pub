@@ -75,3 +75,4 @@ T. Narbutas teigia, kad Amerikos indėnai išsaugojo atmintį apie akmenų garbi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

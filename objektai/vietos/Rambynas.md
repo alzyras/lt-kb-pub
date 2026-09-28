@@ -102,3 +102,4 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

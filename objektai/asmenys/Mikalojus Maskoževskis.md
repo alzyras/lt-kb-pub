@@ -88,3 +88,4 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

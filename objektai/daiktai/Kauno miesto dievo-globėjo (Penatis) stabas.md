@@ -126,3 +126,4 @@ Statulėlė buvo rasta tvarkant griuvėsius prie vadinamųjų Perkūno namų, v�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -76,3 +76,4 @@ Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

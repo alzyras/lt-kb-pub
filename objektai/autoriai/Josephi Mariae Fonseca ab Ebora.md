@@ -81,3 +81,4 @@ opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

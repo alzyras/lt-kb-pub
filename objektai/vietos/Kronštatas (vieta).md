@@ -105,3 +105,4 @@ Atrodo, kad šis posakis būdingas net ir to limesniems Baltijos jūros pakrant�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

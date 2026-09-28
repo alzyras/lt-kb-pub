@@ -53,3 +53,4 @@ Teodoro Narbuto teigimu, Depingas be pagrįstų įrodymų Pavyslę priskyrė kra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

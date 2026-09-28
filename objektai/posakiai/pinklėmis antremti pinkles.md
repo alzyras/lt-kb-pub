@@ -80,3 +80,4 @@ Formulė nusako atsakomąją gudrybę: į priešo pinkles atsakyti kitomis pinkl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

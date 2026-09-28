@@ -86,3 +86,4 @@ Plėtojantis diplomatinei korespondencijai atsirado šifruotės ir pradėtos nau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

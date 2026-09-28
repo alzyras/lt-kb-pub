@@ -85,3 +85,4 @@ Antrąją svarbią Skaševskio nuosavybės dalį sudarė Kurtuvėnų miestelis, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

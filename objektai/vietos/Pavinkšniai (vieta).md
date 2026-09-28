@@ -82,3 +82,4 @@ Pavinkšniai buvo dabartiniame Kėdainių rajone.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

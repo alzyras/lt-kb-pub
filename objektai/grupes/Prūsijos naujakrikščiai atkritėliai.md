@@ -59,3 +59,4 @@ Sventopelkas savo kariuomenę telkė iš valdinių ir Prūsijos atsivertėlių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

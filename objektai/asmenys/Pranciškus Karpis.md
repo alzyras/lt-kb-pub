@@ -69,3 +69,4 @@ Jodaičių seniūnui Pranciškui Karpiui Rėkyvos dvaras buvo atiduotas valdyti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

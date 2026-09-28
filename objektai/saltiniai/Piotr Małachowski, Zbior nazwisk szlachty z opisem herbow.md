@@ -99,3 +99,4 @@ T. Narbutas turėjo omenyje Petro Malachovskio 1780 m. Lucke išleistą veikalą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

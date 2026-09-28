@@ -102,3 +102,4 @@ Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi mis, uoliai rūpinosi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

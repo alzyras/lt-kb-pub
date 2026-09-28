@@ -134,3 +134,4 @@ Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

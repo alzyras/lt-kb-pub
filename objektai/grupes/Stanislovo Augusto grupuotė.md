@@ -83,3 +83,4 @@ Stanislovo Augusto grupuotės nariai pasisakė už stiprią, klestinčią konsti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -76,3 +76,4 @@ O atvedė rusų kariuomenę toks Grinevičius iš Medikonių kaimo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

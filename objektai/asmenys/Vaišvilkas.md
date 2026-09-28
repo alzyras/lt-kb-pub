@@ -590,3 +590,4 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211761
+

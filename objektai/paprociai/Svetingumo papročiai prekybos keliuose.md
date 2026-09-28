@@ -75,3 +75,4 @@ O kad prekybos kelias nekliudomas ¡galėjo eiti per karingų ir gro bikiškų g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -133,3 +133,4 @@ Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ 
   pagrindžia:
     - t-001
     - t-002
+

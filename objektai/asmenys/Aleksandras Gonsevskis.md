@@ -89,3 +89,4 @@ Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleks
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

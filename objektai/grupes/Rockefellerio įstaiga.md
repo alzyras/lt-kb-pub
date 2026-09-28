@@ -65,3 +65,4 @@ P. Green buvo 100.000.000 Rockefellerio įstaigos sekretorius; įstaiga buvo ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

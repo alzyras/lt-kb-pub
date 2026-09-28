@@ -69,3 +69,4 @@ Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­ ną tokiais žo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

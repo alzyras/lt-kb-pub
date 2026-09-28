@@ -66,3 +66,4 @@ Kalavijas, rastas Desiukiškėse, yDKM, Artūro Užgalio nuotr.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -61,3 +61,4 @@ Tai buvo žinomas Pacellio paprastas vinguliavimas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

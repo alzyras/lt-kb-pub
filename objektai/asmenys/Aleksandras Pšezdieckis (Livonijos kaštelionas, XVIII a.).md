@@ -95,3 +95,4 @@ Aleksandras Pšezdieckis buvo Livonijos kaštelionas. 1730 m. jis derėjosi dėl
   pagrindžia:
     - t-001
     - t-002
+

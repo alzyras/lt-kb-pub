@@ -71,3 +71,4 @@ Yra išlikusių žinių, kad Kauno seniūnija dar kartą buvo atitekusi karalien
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Petras Varkalis"]
 sameAs: []
-canonical_biography: "Laukminiškiai – 2 dūmai (Petro Varkalio, Stanislovo Žiurlelio)."
+canonical_biography: "."
 ---
 # Petras Varkalis
 

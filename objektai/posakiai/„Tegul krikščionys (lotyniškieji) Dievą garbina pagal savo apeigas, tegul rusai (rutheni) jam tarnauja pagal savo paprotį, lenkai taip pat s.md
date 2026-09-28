@@ -68,3 +68,4 @@ Popiežiaus legato pasiuntiniams apie savo ir Lietuvos valsty­ bės tikėjimo k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

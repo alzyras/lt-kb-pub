@@ -73,3 +73,4 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

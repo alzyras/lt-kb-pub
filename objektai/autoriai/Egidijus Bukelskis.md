@@ -23,7 +23,7 @@ entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Egidijus Bukelskis"]
 sameAs: []
-canonical_biography: "Kupiškio marių ichtiologiniai tyrimai Egidijus Bukelskis."
+canonical_biography: "."
 ---
 # Egidijus Bukelskis
 
@@ -61,5 +61,6 @@ Egidijus Bukelskis yra skyriaus „Kupiškio marių ichtiologiniai tyrimai“ au
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

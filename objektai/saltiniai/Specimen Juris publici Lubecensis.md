@@ -68,3 +68,4 @@ Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažes
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

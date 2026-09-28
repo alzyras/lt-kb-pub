@@ -85,3 +85,4 @@ Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

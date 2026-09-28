@@ -312,3 +312,4 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

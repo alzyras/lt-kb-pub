@@ -76,3 +76,4 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

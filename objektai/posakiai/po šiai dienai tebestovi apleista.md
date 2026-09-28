@@ -82,3 +82,4 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

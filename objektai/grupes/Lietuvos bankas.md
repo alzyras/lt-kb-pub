@@ -78,3 +78,4 @@ Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl naciona
   temporalinis_llm_pakomentavimas: "Patikslinta, kad valiutų valdybos modelis pradėtas taikyti 1994 m."
   pagrindžia:
     - c-22587
+

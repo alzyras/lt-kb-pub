@@ -114,3 +114,4 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

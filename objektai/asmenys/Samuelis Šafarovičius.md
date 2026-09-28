@@ -81,3 +81,4 @@ canonical_biography: "1733 m. Samuelis Šafarovičius su ginkluota kompanija už
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

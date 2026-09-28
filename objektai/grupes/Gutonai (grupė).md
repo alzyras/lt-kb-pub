@@ -69,3 +69,4 @@ Pitėjas vadina gutonus ger manų gentimi, tuo tarpu Tacitas tikina, jog šis pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

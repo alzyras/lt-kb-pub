@@ -86,3 +86,4 @@ Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -69,3 +69,4 @@ Kaip kiekviena sutartis taip ir ši pasiliko sutartimi: galingi gyvenimo faktai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

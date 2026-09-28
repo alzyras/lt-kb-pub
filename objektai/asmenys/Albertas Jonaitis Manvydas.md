@@ -117,3 +117,4 @@ canonical_biography: "1460 m. Albertas Jonaitis Manvydas siuntė savo bajorus nu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

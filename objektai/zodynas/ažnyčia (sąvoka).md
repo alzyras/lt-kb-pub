@@ -75,3 +75,4 @@ Ažnyčia buvo vieta, kur salyklas daiginamas ir džiovinamas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

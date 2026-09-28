@@ -238,3 +238,4 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

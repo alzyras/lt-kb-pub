@@ -63,3 +63,4 @@ Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

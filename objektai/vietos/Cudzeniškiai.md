@@ -90,3 +90,4 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

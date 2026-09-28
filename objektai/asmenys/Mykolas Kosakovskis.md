@@ -87,3 +87,4 @@ Narbutas rašo, kad Mykolas Kosakovskis statulėlę laikė Kauno miesto dievu gl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215972
+

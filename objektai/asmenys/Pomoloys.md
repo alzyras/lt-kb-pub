@@ -59,3 +59,4 @@ Narbutas nurodo kritiką, kuris Pomoloys vardą, drauge su Jaygello ir Jargallo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -44,3 +44,4 @@ Nadra aiškinama kaip vieta už drabužio ligi juostos, o ši frazė pateikiama 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -70,3 +70,4 @@ Rykūnė prižiūrėjo sodybos tvartuose laikytas karves, avis, kiaules ir namin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

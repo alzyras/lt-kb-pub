@@ -115,3 +115,4 @@ Helsinkai šiame šaltinyje yra miestas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

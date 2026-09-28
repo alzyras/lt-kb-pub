@@ -67,3 +67,4 @@ Ne veltui Lietuvos valdovai savo privilegijose Kauno miestą įvardydavo respubl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

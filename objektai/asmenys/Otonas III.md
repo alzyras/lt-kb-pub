@@ -70,3 +70,4 @@ Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutonij�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

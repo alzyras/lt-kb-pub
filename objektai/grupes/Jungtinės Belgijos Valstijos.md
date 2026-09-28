@@ -98,3 +98,4 @@ Jungtinės Belgijos Valstijos susikūrė per 1789-1790 m. Brabanto revoliuciją.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

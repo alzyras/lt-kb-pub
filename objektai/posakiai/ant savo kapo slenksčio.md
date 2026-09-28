@@ -58,3 +58,4 @@ Taip dažnai didžiausia žemės galybė atsiduria ant savo kapo slenksčio.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -137,3 +137,4 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

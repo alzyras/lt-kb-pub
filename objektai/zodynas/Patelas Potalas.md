@@ -67,3 +67,4 @@ Narbutas Patelą apibūdina kaip skraidančių oro dvasių dievą ir aukščiaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

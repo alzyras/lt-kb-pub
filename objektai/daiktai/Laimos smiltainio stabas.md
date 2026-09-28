@@ -77,3 +77,4 @@ Netoli Krušvicos, prie Goplo ežero, buvo atkastas iš smiltainio iškaltas Lai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

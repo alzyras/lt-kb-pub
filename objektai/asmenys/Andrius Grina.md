@@ -31,7 +31,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Andrius Grina"]
 sameAs: []
-canonical_biography: "Andrius gyveno Liudiškiuose, Migonyse ir Grubų užusienyje. Andriaus sūnus Laurynas 1843 m. vedė Marijoną Pavilonytę iš Migonių."
+canonical_biography: "Andrius gyveno Liudiškiuose, Migonyse ir Grubų užusienyje."
 ---
 # Andrius Grina
 
@@ -83,3 +83,4 @@ Andrius Grina gyveno Liudiškiuose, vėliau – Migonyse ir Grubų užusienyje n
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

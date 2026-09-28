@@ -62,3 +62,4 @@ T. Narbutas teigia, kad indėnai akmenis laikė talismanais net pasikeitus jų a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

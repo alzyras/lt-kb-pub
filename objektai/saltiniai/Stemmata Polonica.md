@@ -133,3 +133,4 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

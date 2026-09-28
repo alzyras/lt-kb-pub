@@ -124,3 +124,4 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

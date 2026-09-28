@@ -73,3 +73,4 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

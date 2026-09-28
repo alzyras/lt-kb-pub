@@ -92,3 +92,4 @@ canonical_biography: "1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir K
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Juozą Lukšą-Skirmantą, veiksmą, laiką ir dokumentų nugabenimą."
   pagrindžia:
     - c-21774
+

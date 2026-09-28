@@ -99,3 +99,4 @@ canonical_biography: "Jokūbas Jastremskis yra Vilniaus vaivados vietininkas."
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

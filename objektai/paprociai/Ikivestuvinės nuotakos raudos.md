@@ -78,3 +78,4 @@ Senoviniai ikivestuviniai papročiai buvo maždaug tokie: nuotaka, užsiėmusi p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

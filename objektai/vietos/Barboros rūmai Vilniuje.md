@@ -256,3 +256,4 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   pagrindžia:
     - t-003
     - t-004
+

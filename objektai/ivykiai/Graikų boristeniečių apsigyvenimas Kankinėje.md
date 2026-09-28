@@ -73,3 +73,4 @@ Savo ruožtu graikų boristeniečių prekybiniai santy kiai su skitų žemdirbia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

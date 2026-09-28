@@ -100,3 +100,4 @@ canonical_biography: "Tomas Petravičius buvo Raseinių valsčiaus žemininkas."
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

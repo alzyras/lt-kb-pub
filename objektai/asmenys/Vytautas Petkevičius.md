@@ -72,3 +72,4 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

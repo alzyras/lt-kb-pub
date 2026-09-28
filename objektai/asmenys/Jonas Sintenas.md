@@ -103,3 +103,4 @@ Teodoras Narbutas rašo, kad Kryžiuočių ordinui siekiant, jog Jonas Sintenas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

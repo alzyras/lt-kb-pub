@@ -108,3 +108,4 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

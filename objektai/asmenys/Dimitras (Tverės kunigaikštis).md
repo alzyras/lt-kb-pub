@@ -75,3 +75,4 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

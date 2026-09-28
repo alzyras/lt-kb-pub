@@ -79,3 +79,4 @@ Jo asmuo, išvaizda, amžius sukėlė jų ypatingą pa garbą, tad, užuot nubau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

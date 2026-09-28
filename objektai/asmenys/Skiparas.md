@@ -107,3 +107,4 @@ Skiparas, citatoje pateiktas kaip Skipor, 1483 metais prispaudė vieną iš ašt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

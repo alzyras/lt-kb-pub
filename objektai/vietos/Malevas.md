@@ -57,3 +57,4 @@ Malevas yra kaimas kairiajame Ušos krante. Malevas yra apie 18 km į šiaurę n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

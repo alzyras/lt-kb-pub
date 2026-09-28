@@ -85,3 +85,4 @@ Vokietijos kancleris Teobaldas fon Betmanas Holvegas (Theobald von Bethmann Holl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

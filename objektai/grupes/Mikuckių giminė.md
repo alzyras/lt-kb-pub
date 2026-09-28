@@ -48,3 +48,4 @@ Narbutas Simonaitę įvardija kaip moteriškos giminės fetišą, kurį garbino 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

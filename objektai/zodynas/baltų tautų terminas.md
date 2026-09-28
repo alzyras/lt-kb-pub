@@ -65,3 +65,4 @@ Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tautas, vartodavo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

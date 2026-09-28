@@ -127,3 +127,4 @@ Anot Narbuto, Įvaras prijungė Daniją prie Švedijos, užgrobė dalį Žemutin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

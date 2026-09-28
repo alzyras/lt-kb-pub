@@ -84,3 +84,4 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

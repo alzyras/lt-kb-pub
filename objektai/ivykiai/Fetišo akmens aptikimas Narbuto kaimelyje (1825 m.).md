@@ -74,3 +74,4 @@ Pasvarstęs, kad visame perkase nebuvo jokio akmens, su vokiau, kad jis ten buvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

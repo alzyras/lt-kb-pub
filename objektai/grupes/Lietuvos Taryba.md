@@ -370,3 +370,4 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208129
+

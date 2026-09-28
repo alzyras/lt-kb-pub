@@ -70,3 +70,4 @@ Tokio griežto demokratinio tautos apibrėžimo nerasime nei minėtųjų Daukant
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -287,3 +287,4 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

@@ -78,3 +78,4 @@ Privilegija bajorui Rimvydui suteikė žemę prie Merkio upės Trakų apskrityje
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

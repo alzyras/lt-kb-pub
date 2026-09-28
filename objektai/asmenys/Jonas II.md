@@ -90,3 +90,4 @@ Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

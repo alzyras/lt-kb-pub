@@ -87,3 +87,4 @@ Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

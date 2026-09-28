@@ -86,3 +86,4 @@ Teodoro Narbuto pateiktoje Frideriko II privilegijoje Vokiečių ordinui žadama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -81,3 +81,4 @@ Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

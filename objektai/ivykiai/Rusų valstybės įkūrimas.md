@@ -77,3 +77,4 @@ Narbutas teigia, kad senovės prūsų kartos prisidėjo prie rusų valstybės į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

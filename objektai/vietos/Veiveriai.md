@@ -117,3 +117,4 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209648
+

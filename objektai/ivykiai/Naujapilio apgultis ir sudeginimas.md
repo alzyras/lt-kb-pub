@@ -73,3 +73,4 @@ Trečią dieną kryžiuočiai padegė Naujapilį ir atsitraukdami nusivijo iš p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

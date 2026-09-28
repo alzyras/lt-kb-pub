@@ -89,3 +89,4 @@ canonical_biography: "Šeptyckyj : Monumenta Ucrainae Historica, t."
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

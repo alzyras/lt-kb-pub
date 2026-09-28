@@ -62,3 +62,4 @@ Vaitas turėjo teisę skirti savo pavaduotoją, lentvaitį (viceadvocatus, Landv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -78,3 +78,4 @@ Vilniaus pilies teisme Kauno miestietis ir pirklys Mikalojus Bartkevičius su ki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -96,3 +96,4 @@ Kristaus karių ordino Livonijoje magistras Folkvinas šešerius metus ragino Te
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

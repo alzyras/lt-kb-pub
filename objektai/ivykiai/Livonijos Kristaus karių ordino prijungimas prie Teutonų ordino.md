@@ -118,3 +118,4 @@ Folkvinas šešerius metus ragino Hermaną iš Zalcos prijungti Livonijos ordin�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

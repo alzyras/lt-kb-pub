@@ -246,3 +246,4 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

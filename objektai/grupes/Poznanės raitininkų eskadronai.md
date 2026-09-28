@@ -73,3 +73,4 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -123,3 +123,4 @@ canonical_biography: "1583 metais jėzuitai kunigą Jokūbą Lencicijų ir du jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

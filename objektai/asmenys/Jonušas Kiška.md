@@ -72,3 +72,4 @@ canonical_biography: "1608 m. Kauno miesto tarybos posėdyje, dalyvaujant Lietuv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

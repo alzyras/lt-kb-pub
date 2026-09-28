@@ -57,3 +57,4 @@ Pirmieji buvo pelazgų-helenų, antrieji — indų-skitų kilmės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

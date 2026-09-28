@@ -72,3 +72,4 @@ Gardino vaizdas - raižinys ant skardos, gana ge rai atspaustas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

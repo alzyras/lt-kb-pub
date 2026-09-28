@@ -80,3 +80,4 @@ Iki šiol dar nuvargusio žemai čio visų didžiausias įrankis buvo arklį paa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

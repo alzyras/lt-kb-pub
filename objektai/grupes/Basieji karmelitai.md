@@ -74,3 +74,4 @@ Gluboko basųjų karmelitų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

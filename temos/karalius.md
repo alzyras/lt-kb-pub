@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 509
+tema_objektu_skaicius: 508
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 509.
+Objektų skaičius: 508.
 
 ## Kaip naudoti
 
@@ -93,7 +93,6 @@ Objektų skaičius: 509.
 - [Danielius iš Lenčicos](../objektai/asmenys/Danielius%20i%C5%A1%20Len%C4%8Dicos)
 - [Danmilė](../objektai/asmenys/Danmil%C4%97)
 - [Darijus](../objektai/asmenys/Darijus)
-- [Daumantas (kunigaikštis, XV a.)](../objektai/asmenys/Daumantas)
 - [Deziderijus](../objektai/asmenys/Deziderijus)
 - [Ditrichas (Meiseno markgrafas)](../objektai/asmenys/Ditrichas%20%28Meiseno%20markgrafas%29)
 - [Dmitrijus Michailovičius](../objektai/asmenys/Dmitrijus%20Michailovi%C4%8Dius)

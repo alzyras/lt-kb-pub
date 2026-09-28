@@ -90,3 +90,4 @@ Narbutas teigia, kad borestenitų gentis davė pradžią karališkiesiems skitam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

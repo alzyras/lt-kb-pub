@@ -88,3 +88,4 @@ Lemu parapija šiame šaltinyje yra parapija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -87,3 +87,4 @@ Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219879
+

@@ -73,3 +73,4 @@ Saspilis buvo Sasavos sostinė ir sasavių tvirtovė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

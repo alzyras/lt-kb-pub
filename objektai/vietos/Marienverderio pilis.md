@@ -67,3 +67,4 @@ Marienverderio pilis perkelta iš Kvedino salos į Pamedės valsčių Reisiai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

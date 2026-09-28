@@ -69,3 +69,4 @@ Mikalojus Vorobjovas Vilnių vadino atvira knyga, gyvais vaizdais rodančia Euro
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

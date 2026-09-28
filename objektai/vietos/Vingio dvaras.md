@@ -104,3 +104,4 @@ Narbutas rašė, kad žemiau Vingio dvaro, prie Sancinės, buvo vietinių Kronis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

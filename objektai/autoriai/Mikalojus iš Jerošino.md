@@ -79,3 +79,4 @@ XIV a. IV-ajame dešimtmetyje Mikalojus iš Jerošino Dusburgiečio kroniką iš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

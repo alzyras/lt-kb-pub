@@ -65,3 +65,4 @@ Trys broliai Petkevičiai tarnavo Vilniaus vaivadai Aleknai Sudimantaičiui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

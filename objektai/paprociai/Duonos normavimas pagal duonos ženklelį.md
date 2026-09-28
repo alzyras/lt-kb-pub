@@ -119,3 +119,4 @@ Be duonos ženklelio restorane duonos nebuvo galima gauti. Kada aš gryždamas a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

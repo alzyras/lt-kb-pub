@@ -71,3 +71,4 @@ Karaliaučiaus komtūras su Vonsdorfo vyrais įsibrovė į taikos sutartims nepr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

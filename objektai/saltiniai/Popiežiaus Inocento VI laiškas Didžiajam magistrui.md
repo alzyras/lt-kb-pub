@@ -65,3 +65,4 @@ Popiežius Inocentas VI laiške didžiajam magistrui, remdamasis kartojamomis ž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

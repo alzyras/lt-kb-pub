@@ -94,3 +94,4 @@ Jan Hikman pateikė skundą Kauno pilies teisme 1782 m. rugsėjo 16 d.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

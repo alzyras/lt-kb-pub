@@ -78,3 +78,4 @@ Lietuvos Seimo konfederacija po pertraukos reikalavo atskiros Iždo komisijos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

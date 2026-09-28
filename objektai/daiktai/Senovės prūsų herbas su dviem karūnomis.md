@@ -72,3 +72,4 @@ Kitas tautinis prūsų herbas vaizdavo dvi karališkas karūnas, vieną virš ki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

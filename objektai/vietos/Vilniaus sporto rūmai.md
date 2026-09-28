@@ -99,3 +99,4 @@ Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

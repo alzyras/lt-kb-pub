@@ -75,3 +75,4 @@ Apie 80 m. pr. Kr. sarmatai kartu su kitomis Pavolgio tautomis pradėjo plūsti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

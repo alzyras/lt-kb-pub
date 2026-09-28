@@ -203,3 +203,4 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

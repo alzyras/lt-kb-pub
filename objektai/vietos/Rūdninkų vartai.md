@@ -148,3 +148,4 @@ Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

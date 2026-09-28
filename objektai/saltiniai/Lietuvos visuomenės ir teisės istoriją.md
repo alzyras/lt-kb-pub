@@ -72,3 +72,4 @@ Jį reikia laikyti pirmuoju lietuvių teisės istoriku, nes, sekdamas St.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

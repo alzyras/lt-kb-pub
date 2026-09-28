@@ -63,3 +63,4 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -1003,3 +1003,4 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

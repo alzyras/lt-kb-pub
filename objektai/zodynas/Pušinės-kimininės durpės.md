@@ -60,5 +60,6 @@ Pušinėse-kimininėse durpėse pušų liekanos sudaro 10–30 %, viržinių še
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

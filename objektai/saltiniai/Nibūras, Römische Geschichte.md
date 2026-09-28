@@ -96,3 +96,4 @@ Narbutas cituoja Nibūrą, kad pelazgų kolonijų pasklidimas esąs ne prielaida
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

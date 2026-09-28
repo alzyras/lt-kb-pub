@@ -64,3 +64,4 @@ Borestenitų gentis, pasak šaltinio, davė pradžią karališkiesiems skitams.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

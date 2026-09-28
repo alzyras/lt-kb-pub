@@ -121,3 +121,4 @@ Aprašymo metu Palėvenėlės bažnyčios varpinėje buvo vienas varpas. 1937 m.
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
+

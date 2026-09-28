@@ -85,3 +85,4 @@ Krzysztof Kluk buvo Krusvicos kanauninkas ir veikalo apie naminių bei laukinių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

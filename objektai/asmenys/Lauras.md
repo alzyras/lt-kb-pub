@@ -252,3 +252,4 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

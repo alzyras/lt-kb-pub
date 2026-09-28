@@ -103,3 +103,4 @@ Henrikas iš Veidos, gavęs žmonos sutikimą, apsivilko Teutonų ordino vienuol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

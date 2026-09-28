@@ -187,3 +187,4 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213231
+

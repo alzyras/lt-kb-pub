@@ -90,3 +90,4 @@ Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -111,3 +111,4 @@ Teodoras Narbutas kritikavo Kelsijų ir Olafą Daliną dėl teiginio, kad nuo Kr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

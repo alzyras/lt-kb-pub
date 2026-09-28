@@ -559,3 +559,4 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+

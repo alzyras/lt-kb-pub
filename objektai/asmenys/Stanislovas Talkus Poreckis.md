@@ -97,3 +97,4 @@ Stanislovas Talkus Poreckis buvo Slanimo pavieto sidabrinės mokesčių rinkėja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

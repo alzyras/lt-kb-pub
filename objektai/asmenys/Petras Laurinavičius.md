@@ -58,3 +58,4 @@ canonical_biography: "1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

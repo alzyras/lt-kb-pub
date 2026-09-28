@@ -76,3 +76,4 @@ Stabas buvo varinis ir turėjo vidutinio amžiaus žmogaus galvą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

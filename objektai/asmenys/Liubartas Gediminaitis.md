@@ -86,3 +86,4 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -83,3 +83,4 @@ Dusburgietis teigia, kad kai jie pabeldė į vartus, juos apakino jų pačių ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

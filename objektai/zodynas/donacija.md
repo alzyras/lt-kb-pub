@@ -78,3 +78,4 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

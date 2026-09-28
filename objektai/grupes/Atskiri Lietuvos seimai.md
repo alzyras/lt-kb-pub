@@ -136,3 +136,4 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

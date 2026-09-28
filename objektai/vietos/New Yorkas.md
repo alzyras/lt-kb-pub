@@ -66,3 +66,4 @@ Ir kada toji šalis pabus, dūmo jau sau, vaikščiodamas po New-Yorko gatves, t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

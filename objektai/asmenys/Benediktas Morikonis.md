@@ -145,3 +145,4 @@ Benediktas Morikonis nedalyvavo nė viename sujungtos Iždo komisijos posėdyje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

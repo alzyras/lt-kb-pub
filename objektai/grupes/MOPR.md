@@ -74,3 +74,4 @@ narių svarbiausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

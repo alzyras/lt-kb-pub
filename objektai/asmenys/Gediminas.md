@@ -1155,6 +1155,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-160344
+    - c-179619
 
 <a id="claim-t-176401"></a>
 - t-061
@@ -1893,6 +1894,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] pastatė Aukštutinė pilis"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-160344
     - c-179619
 
 <a id="claim-t-203418"></a>
@@ -2155,9 +2157,9 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-160344
+    - c-179619
     - c-160396
     - c-179552
-    - c-179619
 
 <a id="claim-t-207423"></a>
 - t-207423
@@ -3119,6 +3121,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
     - t-017
     - t-043
     - t-060
+    - t-116
     - t-198104
 
 - id: c-160345
@@ -6856,6 +6859,7 @@ Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju. 1324 m. Ge
   pagrindžia:
     - t-017
     - t-043
+    - t-060
     - t-116
     - t-198104
 

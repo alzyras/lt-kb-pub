@@ -75,3 +75,4 @@ Lietuvos bažnyčių menas = The Art of Lithuanian Churches.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

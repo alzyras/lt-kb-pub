@@ -77,3 +77,4 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

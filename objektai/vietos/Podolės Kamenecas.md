@@ -238,3 +238,4 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208051
+

@@ -79,3 +79,4 @@ Lenkijos ir Čekijos talkos bei tarpusavio pagalbos prieš turkus sutartis pasir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

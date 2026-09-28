@@ -74,3 +74,4 @@ Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje ordinas rubeži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

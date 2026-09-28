@@ -75,3 +75,4 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

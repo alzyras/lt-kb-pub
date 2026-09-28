@@ -57,26 +57,6 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   pagrindžia:
     - c-173641
 
-<a id="claim-t-212811"></a>
-- t-212811
-  teiginys: "Malte-Brunas, Narbuto vertinimu, teisingai pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Styrė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Malte-Brunas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Styrė: mention_match, place, gap=103"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Malte-Brunas\" parinktas kaip owner_note_path. Targetas \"Styrė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-196240
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško aiškinimo „plikasis kalnas“.'
@@ -178,5 +158,74 @@ Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško ai�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-212811
+
+- id: c-00376
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  citata_originali: |
+    kime iš šio sąrašo kaimynines venedų tautas, nepriklau­
+    sančias lietuvių kartoms. Toliausiai į pietryčius gyveno
+    stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
+    pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
+    Brunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi-
+    bionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­
+    lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
+    apie tai Karamzinas rašo savo tyrimuose3. Neįmanoma
+    nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
+    meta sarmatų genčių sūkuryje. Tarp šių dviejų tautų bas­
+  citata_rodoma: "kime iš šio sąrašo kaimynines venedų tautas, nepriklau­\nsančias lietuvių kartoms. Toliausiai į pietryčius gyveno \nstūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų \npavadinimą išsaugojo, kaip teisingai pastebėjo Malte- \nBrunas2, Styrės upė. O šiaurės rytų kryptimi gyveno vi- \nbionų, arba vitbionų, gentis, jų sostinė buvo senovės pi­\nlis prie Dauguvos Witsby, kur dabar yra Vitebskas, — \napie tai Karamzinas rašo savo tyrimuose3. Neįmanoma \nnustatyti, kuriai giminei priklausė šios tautos; jos pasi­\nmeta sarmatų genčių sūkuryje. Tarp šių dviejų tautų bas­"
+  statusas: verified
+  atnaujinta: "2026-09-27 13:25"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197192
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
+  citata_originali: |
+    Tuo labiau kad jūros vadinimas Baltąja
+    neprieštarauja senovės ir naujųjų laikų geografijai. Ado­
+    mas Bremenietis Balticum pavadinimą tapatina ¡su šių
+    kraštų pakrančių gyventojais (baltų), priklausančiais lie­
+    tuvių genties tautoms5. Regis tą patį patvirtina ir Bajeris,
+    šį dalyką tyrinėjęs išsamiau ir kruopščiau6. Mes negalime
+    1 Istoryczeskij Magazyn.
+  citata_rodoma: "Tuo labiau kad jūros vadinimas Baltąja \nneprieštarauja senovės ir naujųjų laikų geografijai. Ado­\nmas Bremenietis Balticum pavadinimą tapatina ¡su šių \nkraštų pakrančių gyventojais (baltų), priklausančiais lie­\ntuvių genties tautoms5. Regis tą patį patvirtina ir Bajeris, \nšį dalyką tyrinėjęs išsamiau ir kruopščiau6. Mes negalime\n1 Istoryczeskij Magazyn."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200427
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
+  citata_originali: |
+    mo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi
+    miškelis buvo pirmoji visų tautų šventykla.
+    Tas pats pastebima lietuvių mitologijoje; šventi buvo ištisi
+    miško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo­
+    met prie upių, dažniausiai dviejų didesnių upių santakoje.
+    Miškelių garbinimas buvo taip sureikšmintas, kad juose
+    jokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­
+    čius, bet jie dar buvo persekiojamų žmonių prieglobstis; pasi­
+    slėpę toje šventoje vietoje, jie išsivaduodavo nuo persekioji­
+    mo, kadangi visos ten esančios būtybės, taip pat medžiai ir
+    augalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­
+    čiamais.
+  citata_rodoma: "mo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi \nmiškelis buvo pirmoji visų tautų šventykla.\nTas pats pastebima lietuvių mitologijoje; šventi buvo ištisi \nmiško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo­\nmet prie upių, dažniausiai dviejų didesnių upių santakoje.\nMiškelių garbinimas buvo taip sureikšmintas, kad juose \njokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­\nčius, bet jie dar buvo persekiojamų žmonių prieglobstis; pasi­\nslėpę toje šventoje vietoje, jie išsivaduodavo nuo persekioji­\nmo, kadangi visos ten esančios būtybės, taip pat medžiai ir \naugalai dėl griežto pamaldumo buvo laikomi šventais ir nelie­\nčiamais."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

@@ -82,3 +82,4 @@ canonical_biography: "1610 m. Vaclovas Karpis iš Andriaus Lasockio įgijo teis�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

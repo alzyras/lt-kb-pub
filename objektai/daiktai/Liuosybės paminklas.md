@@ -76,3 +76,4 @@ Tik liuosybės paminklas, augštai iškėlęs žibintuvą, il giau lydėjo mus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

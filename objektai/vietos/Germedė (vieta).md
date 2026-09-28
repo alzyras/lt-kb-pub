@@ -62,3 +62,4 @@ Pasak Teodoro Narbuto, 1345 m. žiemos pabaigoje vokiečių surengtas antpuolis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

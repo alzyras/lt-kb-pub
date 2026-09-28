@@ -117,3 +117,4 @@ Andrius Vasila (Wasilon) paskirtas pirmuoju Vilniaus vyskupu; anksčiau jis buvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

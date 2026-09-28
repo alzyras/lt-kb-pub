@@ -77,3 +77,4 @@ Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune) ir eilės kitų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

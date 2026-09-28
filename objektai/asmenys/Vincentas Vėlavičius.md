@@ -97,3 +97,4 @@ canonical_biography: "1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarins
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nemini objekto; citata remia faktą apie Vincentą Vėlavičių."
   pagrindžia:
     - c-22059
+

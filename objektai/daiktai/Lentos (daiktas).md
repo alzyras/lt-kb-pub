@@ -78,3 +78,4 @@ Užrakina duris, atsineša lentų, deda.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

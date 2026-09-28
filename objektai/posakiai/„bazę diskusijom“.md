@@ -78,3 +78,4 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -53,3 +53,4 @@ Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

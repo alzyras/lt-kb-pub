@@ -57,3 +57,4 @@ Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

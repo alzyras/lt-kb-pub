@@ -87,3 +87,4 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   patikimumo_saltinis: ai
   pagrindžia:
     - t-225698
+

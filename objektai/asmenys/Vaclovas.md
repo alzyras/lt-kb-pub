@@ -296,3 +296,4 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-224486
+

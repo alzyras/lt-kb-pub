@@ -128,3 +128,4 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -62,3 +62,4 @@ Pasporte buvo įrašyta, kad Oberost leidimas yra gautas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

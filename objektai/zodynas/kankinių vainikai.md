@@ -110,3 +110,4 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

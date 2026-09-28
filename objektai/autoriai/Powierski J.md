@@ -89,22 +89,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   pagrindžia:
     - c-61141
 
-<a id="claim-t-60508"></a>
-- t-003
-  teiginys: "J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galinda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Powierski J: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Galinda: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Powierski J\" parinktas kaip owner_note_path. Targetas \"Galinda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61144
-
 <a id="claim-t-60509"></a>
 - t-004
   teiginys: "J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais."
@@ -120,18 +104,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61138
-
-<a id="claim-t-60511"></a>
-- t-005
-  teiginys: "J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1218 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko autoriaus ryšį su konkretaus įvykio aiškinimu."
-  pagrindžia:
-    - c-61145
 
 <a id="claim-t-60512"></a>
 - t-006
@@ -149,49 +121,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
     - c-61139
-
-<a id="claim-t-60513"></a>
-- t-007
-  teiginys: "J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme."
-  atnaujinta: "2026-07-19 18:48"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Powierski J: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Powierski J\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: po 1146 m.; įvykio data: 1146 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko autoriaus ryšį su Hugono Butyro veiklos aiškinimu."
-  pagrindžia:
-    - c-61145
-
-<a id="claim-t-197008"></a>
-- t-008
-  teiginys: "Powierski J paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų išsigelbėjo pabėgdamas."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61142
-
-<a id="claim-t-225757"></a>
-- t-225757
-  teiginys: "J. Powierski siūlė vėlesnę pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos chronologiją."
-  atnaujinta: "2026-09-20 17:55"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1279 m.; įvykio data: 1281 m.; įvykio data: 1286 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie Powierskio siūlytą chronologiją."
-  pagrindžia:
-    - c-206246
 
 ## Citatos
 
@@ -271,8 +200,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
 
 - id: c-61143
   autorius: "Petras Dusburgietis"
@@ -308,8 +235,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
 
 - id: c-61145
   autorius: "Petras Dusburgietis"
@@ -329,9 +254,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-007
 
 - id: c-61146
   autorius: "Petras Dusburgietis"
@@ -446,5 +368,141 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225757
+
+- id: c-00340
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    500  Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
+    1272 m. ar 1274 m. 1275 m. pradėta statyti Aukštutinė pilis (iki 1279 m. pastatytas jos
+    šiaurinis sparnas, Aukštutinė pilis baigta apie 1300 m.). 1276 m. miestas gavo lokacinę
+    privilegiją. Ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid
+    B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje
+    Malborka, р. 22).
+    Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
+    m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
+    (Powierski J., Chronologia..., p. 5—31).
+  citata_rodoma: "500  Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti \n1272 m. ar 1274 m. 1275 m. pradėta statyti Aukštutinė pilis (iki 1279 m. pastatytas jos \nšiaurinis sparnas, Aukštutinė pilis baigta apie 1300 m.). 1276 m. miestas gavo lokacinę \nprivilegiją. Ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid \nB., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje \nMalborka, р. 22).\nDabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281 \nm.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m. \n(Powierski J., Chronologia..., p. 5—31)."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:25"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-00379
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    203 Manoma, kad pagrindinė Galindos žemės nusiaubimo priežastis buvo pasienio
+    karai, ypač su Lenkija XI—XIII a. pradžioje (Łowmiański H. Studja..., 1, p. 49—50;
+    Pollakówna M., Zanik..., p. 165—166). Kai kurie archeologiniai duomenys leidžia
+    suabejoti D. teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
+    dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
+    išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
+  citata_rodoma: "203 Manoma, kad pagrindinė Galindos žemės nusiaubimo priežastis buvo pasienio \nkarai, ypač su Lenkija XI—XIII a. pradžioje (Łowmiański H. Studja..., 1, p. 49—50; \nPollakówna M., Zanik..., p. 165—166). Kai kurie archeologiniai duomenys leidžia \nsuabejoti D. teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška \ndykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo \nišlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303)."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:44"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-00380
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos
+    kunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M.
+    Pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Stosunki..., p. 134—152). Šių
+    momentų Dusburgietis nemini, jis nekalba apie katalikiškųjų šalių feodalų agresiją, kuri
+    privertė prūsus stoti į kovą.
+  citata_rodoma: "Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos \nkunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M. \nPierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Stosunki..., p. 134—152). Šių \nmomentų Dusburgietis nemini, jis nekalba apie katalikiškųjų šalių feodalų agresiją, kuri \nprivertė prūsus stoti į kovą."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:44"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-00381
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    178  Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
+    a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
+    Krokuvos kunigaikščio) tarnyboje. Kariavo su prūsais, turėjo bazę greičiausiai Kulme
+    (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.
+    Stosunki..., p. 110; to paties, Hugo Butyr..., p. 20—29; to paties. Dobra ostrowicko-
+    golubskie..., p. 39; Piętka J. Geneza mazowieckiej..., p. 39—40).
+  citata_rodoma: "178  Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII \na. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir \nKrokuvos kunigaikščio) tarnyboje. Kariavo su prūsais, turėjo bazę greičiausiai Kulme \n(Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J. \nStosunki..., p. 110; to paties, Hugo Butyr..., p. 20—29; to paties. Dobra ostrowicko-\ngolubskie..., p. 39; Piętka J. Geneza mazowieckiej..., p. 39—40)."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:44"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204492
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 51."
+  citata_originali: |
+    Vienas į nelaisvę jų paimtas lenkas jiems pasakė, kad tai vienuoliai ir geri kariai,
+    popiežiaus iš Vokietijos atsiųsti tol su jais kovoti, kol jų — atkaklių ir žiaurių — neprivers
+    paklusti šventajai Romos bažnyčiai. Prūsai, šitai išgirdę, nusišypsojo ir sugrįžo atgal.
+    12 (10). Apie brolį Hermaną, pirmų Teutonų namų ordino magistrą Prūsijos žemėje
+    Brolis Hermanas, vadinamas Balkų, pirmas šventosios Marijos Teutonų namų
+    Jeruzalėje ligoninės ordino magistras Prūsijos žemėje, vadovavo dvylika metų.
+  citata_rodoma: "Vienas į nelaisvę jų paimtas lenkas jiems pasakė, kad tai vienuoliai ir geri kariai, \npopiežiaus iš Vokietijos atsiųsti tol su jais kovoti, kol jų — atkaklių ir žiaurių — neprivers \npaklusti šventajai Romos bažnyčiai. Prūsai, šitai išgirdę, nusišypsojo ir sugrįžo atgal.\n12 (10). Apie brolį Hermaną, pirmų Teutonų namų ordino magistrą Prūsijos žemėje\nBrolis Hermanas, vadinamas Balkų, pirmas šventosios Marijos Teutonų namų \nJeruzalėje ligoninės ordino magistras Prūsijos žemėje, vadovavo dvylika metų."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204890
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės
+    dokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto
+    vieta (CDP, 2, Nr. 113, p. 151—152; SU, 2, Nr. 238, p. 159—160; Voigt J., Geschichte...,
+    1, p. 639—649; GAO, p. 146).
+    Ieškodamas centrinės baltų Romovės resp.
+  citata_rodoma: "Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės \ndokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto \nvieta (CDP, 2, Nr. 113, p. 151—152; SU, 2, Nr. 238, p. 159—160; Voigt J., Geschichte..., \n1, p. 639—649; GAO, p. 146).\nIeškodamas centrinės baltų Romovės resp."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205797
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
+  citata_originali: |
+    priemonėmis, nes priešas nugalimas ne tik daiktiškais, bet ir dvasiškais ginklais, vadinasi,
+    malda. (Iš 17, 11) Štai skaitome apie Mozę, kad Izraelis, kai jis meldėsi, nugalėdavęs
+    Amalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas. Be to, ir
+    Išminties knygoje apie tą patį Mozę rašoma, kad jis nugalėdavęs priešų minias ne kūno
+    stiprybe ir ne ginklo galybe, bet žodžiu, vadinasi, malda. Apie tą patį sakoma Teisėjų
+    knygoje (Ts 4, 13): „Atsiminkite viešpaties tarną, kur Amalechą, pasitikintį savo skydais,
+    apgalėjo ne kovodamas, bet melsdamasis maldomis“.
+  citata_rodoma: "priemonėmis, nes priešas nugalimas ne tik daiktiškais, bet ir dvasiškais ginklais, vadinasi, \nmalda. (Iš 17, 11) Štai skaitome apie Mozę, kad Izraelis, kai jis meldėsi, nugalėdavęs \nAmalechą (Išm 11, 3); kai liaudavęsis melstis, Izraelis būdavęs įveikiamas. Be to, ir \nIšminties knygoje apie tą patį Mozę rašoma, kad jis nugalėdavęs priešų minias ne kūno \nstiprybe ir ne ginklo galybe, bet žodžiu, vadinasi, malda. Apie tą patį sakoma Teisėjų \nknygoje (Ts 4, 13): „Atsiminkite viešpaties tarną, kur Amalechą, pasitikintį savo skydais, \napgalėjo ne kovodamas, bet melsdamasis maldomis“."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

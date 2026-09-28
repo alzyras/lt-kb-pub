@@ -75,3 +75,4 @@ Tai patvirtina ir Hervararsaga (apie 675 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

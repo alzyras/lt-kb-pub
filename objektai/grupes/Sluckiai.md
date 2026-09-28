@@ -70,3 +70,4 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

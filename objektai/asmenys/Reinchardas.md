@@ -79,3 +79,4 @@ Narbutas nurodo, kad Reinchardas, remdamasis Foigtu, Stavaniją laikė buvusia �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

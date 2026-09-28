@@ -63,3 +63,4 @@ Alus buvo pirmutinis ir mėgstamiausias senovės lietuvių svaiginamasis gėrima
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

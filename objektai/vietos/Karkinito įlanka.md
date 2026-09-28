@@ -83,3 +83,4 @@ Gero upė, susijungusi su Hipakyrio upe, įtekėjo į Karkinito įlanką.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

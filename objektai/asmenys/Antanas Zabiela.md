@@ -141,3 +141,4 @@ canonical_biography: "1776 m. Antanas Zabiela, Šv. Jono bažnyčios zakristijon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208023
+

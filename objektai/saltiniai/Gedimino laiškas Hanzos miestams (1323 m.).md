@@ -73,3 +73,4 @@ Gedimino laiške Hanzos miestams prašyta perskaitytą laišką nurašyti, vienu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

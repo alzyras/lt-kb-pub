@@ -193,3 +193,4 @@ Narbutas Geloną vaizduoja kaip Elonos arba Iglonos sūnų ir lietuvių didvyrį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219017
+

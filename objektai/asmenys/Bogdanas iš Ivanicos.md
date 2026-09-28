@@ -79,3 +79,4 @@ Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

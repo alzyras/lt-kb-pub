@@ -69,3 +69,4 @@ Rimvydas Petrauskas yra straipsnio „Feodalinės teisės apraiškos Lietuvos Di
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

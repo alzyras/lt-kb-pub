@@ -106,3 +106,4 @@ Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218287
+

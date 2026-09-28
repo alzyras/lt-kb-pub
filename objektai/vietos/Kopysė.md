@@ -124,3 +124,4 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -81,3 +81,4 @@ Pagal Narbuto minimą Voluinės kronikos aprašymą, Rogvolodas apgulė Minską,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

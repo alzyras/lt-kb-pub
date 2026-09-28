@@ -128,3 +128,4 @@ Teodoro Narbuto pasakojimu, didžiuoju kunigaikščiu paskelbtas ir Kernavėje �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

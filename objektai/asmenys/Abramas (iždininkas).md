@@ -96,3 +96,4 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

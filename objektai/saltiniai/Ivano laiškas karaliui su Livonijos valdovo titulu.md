@@ -76,3 +76,4 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu. Numalšinęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -180,3 +180,4 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
   pagrindžia:
     - t-002
     - t-003
+

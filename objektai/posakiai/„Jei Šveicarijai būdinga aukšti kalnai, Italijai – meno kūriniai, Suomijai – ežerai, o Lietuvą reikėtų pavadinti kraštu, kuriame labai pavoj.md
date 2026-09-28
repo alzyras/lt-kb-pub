@@ -68,3 +68,4 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -130,3 +130,4 @@ Kauno liuteronų bendruomenė tikybos reikalais buvo pavaldi Prūsijos hercogyst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

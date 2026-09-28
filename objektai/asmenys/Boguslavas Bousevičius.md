@@ -111,3 +111,4 @@ Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bouseviči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

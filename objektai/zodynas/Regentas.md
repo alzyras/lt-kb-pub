@@ -100,3 +100,4 @@ Vaitiekaus Jučo pareigoms nusakyti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

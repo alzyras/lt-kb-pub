@@ -144,3 +144,4 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

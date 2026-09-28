@@ -113,3 +113,4 @@ Hartmano iš Heldrungeno pranešimas aprašo Kalavijuočių ordino susijungimą 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

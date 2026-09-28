@@ -73,3 +73,4 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -90,3 +90,4 @@ Po to Kauno saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas, (14
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -556,3 +556,4 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212054
+

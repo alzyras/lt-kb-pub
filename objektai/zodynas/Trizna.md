@@ -171,3 +171,4 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -120,3 +120,4 @@ Antanas Graužanovskis buvo neturtingas Naugarduko apskrities bajoras. Antanas G
   patikimumo_saltinis: ai
   pagrindžia:
     - t-205581
+

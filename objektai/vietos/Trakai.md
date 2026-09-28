@@ -1314,7 +1314,9 @@ media_primary_height: 640
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
+    - c-164265
     - c-182825
+    - c-182870
 
 <a id="claim-t-199933"></a>
 - t-074
@@ -1599,6 +1601,7 @@ media_primary_height: 640
   susije_objektai: "mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Luckas; mentioned_place: Vengrija; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-164190
     - c-182831
 
 <a id="claim-t-203546"></a>
@@ -2316,6 +2319,7 @@ media_primary_height: 640
   pagrindžia:
     - t-005
     - t-015
+    - t-095
 
 - id: c-164193
   autorius: "Michał Baliński"
@@ -3406,6 +3410,8 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-073
 
 - id: c-168520
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -5206,6 +5212,8 @@ media_primary_height: 640
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-073
 
 - id: c-185012
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"

@@ -92,3 +92,4 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

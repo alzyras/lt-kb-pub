@@ -72,3 +72,4 @@ O jeigu savo teisėjui užstatą parodytų po metų arba jeigu užstatas pas žy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -113,3 +113,4 @@ Kairėnėliai šiame šaltinyje yra kaimas ar gyvenvietė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -74,3 +74,4 @@ Moldavijos vaivada Steponas ir sultonas Malkočas kariavo Lenkijos žemėje nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

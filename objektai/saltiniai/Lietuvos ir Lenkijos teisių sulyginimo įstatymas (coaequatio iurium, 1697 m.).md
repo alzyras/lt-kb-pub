@@ -75,3 +75,4 @@ Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

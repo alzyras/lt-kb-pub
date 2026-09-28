@@ -122,3 +122,4 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

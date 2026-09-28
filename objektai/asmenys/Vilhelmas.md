@@ -289,3 +289,4 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-224454
+

@@ -72,3 +72,4 @@ p. 262, „AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA“, Kiekvienas Lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -62,3 +62,4 @@ J. E. R. kronika Perkurtą arba Perkurtą aiškina kaip griaustinį ir lietuvių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

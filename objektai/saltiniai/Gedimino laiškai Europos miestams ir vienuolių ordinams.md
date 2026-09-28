@@ -59,3 +59,4 @@ Gedimino laiškai buvo adresuoti Liubekui, Bremenui, Kelnui, kitiems miestams ik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

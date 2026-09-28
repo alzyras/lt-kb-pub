@@ -62,3 +62,4 @@ Net savo priešų Mindaugas buvo vadinamas išmintinguoju.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

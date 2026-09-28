@@ -85,3 +85,4 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

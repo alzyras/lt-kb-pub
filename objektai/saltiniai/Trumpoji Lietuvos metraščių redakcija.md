@@ -73,3 +73,4 @@ Trumpojoje Lietuvos metraščių redakcijoje (xv a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

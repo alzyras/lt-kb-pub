@@ -117,3 +117,4 @@ Benedikto ordiną. 1008 m. Brunonas į Kijevą vyko su dviem benediktinų ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

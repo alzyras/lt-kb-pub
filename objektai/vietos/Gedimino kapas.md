@@ -79,3 +79,4 @@ Gedimino kapas, pagal vietos padavimus, buvo prie Vilniaus, dešiniajame Vilnios
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

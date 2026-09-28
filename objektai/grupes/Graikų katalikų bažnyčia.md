@@ -103,3 +103,4 @@ Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolit
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207506
+

@@ -57,3 +57,4 @@ Iš Strijkovskio paliudijimų žinome, kad Vilniaus Antakal nyje buvo šventykla
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

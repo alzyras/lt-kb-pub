@@ -77,3 +77,4 @@ Pirmoji bažnyčia, į kurią buvo grąžintos lietuviškosios pamaldos, buvo Ve
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

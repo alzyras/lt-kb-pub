@@ -102,3 +102,4 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

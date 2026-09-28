@@ -89,3 +89,4 @@ Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarn
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

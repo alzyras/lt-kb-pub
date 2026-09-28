@@ -61,3 +61,4 @@ Kai kurie pilkapiai būdavo naudojami kaip visos šeimos kapai, iš anksto numat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -58,3 +58,4 @@ Taip pat buvo įtvirtinta karinė teritorinė pasipriešinimo judėjimo struktū
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

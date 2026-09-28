@@ -73,3 +73,4 @@ Spūdas slapta atidarė Pūtvės pilies vartus broliui Folčui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

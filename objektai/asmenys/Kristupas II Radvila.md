@@ -86,3 +86,4 @@ Jo sūnus, taip pat Kristupas II († 1640 m.), buvo iš karto lauko, o vėliau 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

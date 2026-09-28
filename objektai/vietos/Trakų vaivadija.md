@@ -95,3 +95,4 @@ Krašto padalinimas į pavietus ir vaivadijas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

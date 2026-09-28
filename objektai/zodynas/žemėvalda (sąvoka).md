@@ -65,3 +65,4 @@ Kokiu gi kitu būdu galėjo suformuoti bajoriją tautos, ne žinojusios jokių k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

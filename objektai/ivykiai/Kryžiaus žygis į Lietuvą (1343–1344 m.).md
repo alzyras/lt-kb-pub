@@ -128,3 +128,4 @@ Liudolfas Kionichas Vaitcanas, neseniai išrinktas didžiuoju magistru, ėmėsi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

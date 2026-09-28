@@ -66,3 +66,4 @@ Jakšto lenkiškai parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

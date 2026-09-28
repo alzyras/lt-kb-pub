@@ -65,3 +65,4 @@ Dvarelis buvo prie Neries upės, į šiaurę nuo Eigulių, vėliau pavadintas Kl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

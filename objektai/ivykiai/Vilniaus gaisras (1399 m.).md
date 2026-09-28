@@ -79,3 +79,4 @@ Gaisre sudegė Katedra, didžiojo kunigaikščio rūmai, iždas, sandėliai ir a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

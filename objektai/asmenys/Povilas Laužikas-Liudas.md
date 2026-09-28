@@ -72,5 +72,6 @@ Povilas Laužikas-Liudas žuvo 1951 m. vasario 24 d. Kupiškio rajono Varaniški
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -101,3 +101,4 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -225,3 +225,4 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

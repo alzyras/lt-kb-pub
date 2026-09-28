@@ -75,3 +75,4 @@ Rimvydas Laužikas nurodo, kad XVIII a. Abiejų Tautų Respubliką lankęs Alber
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

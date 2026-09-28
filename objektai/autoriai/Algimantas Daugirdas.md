@@ -83,3 +83,4 @@ Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU (tuometinį Kauno poli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -318,3 +318,4 @@ Narbuto pateiktame pasakojime Vilniaus Perkūno šventykla lokalizuojama dabarti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-220156
+

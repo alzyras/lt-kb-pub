@@ -95,3 +95,4 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
   pagrindžia:
     - t-001
     - t-002
+

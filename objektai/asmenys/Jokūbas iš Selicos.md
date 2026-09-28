@@ -68,3 +68,4 @@ Jokūbas iš Selicos, tuo metu nebuvęs pilyje, atskubėjo iš Holdovo ir nuvijo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -75,3 +75,4 @@ Krokuvos arkivyskupas, vyskupai ir Lenkų taryba išeina iš miesto pasitikti Jo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

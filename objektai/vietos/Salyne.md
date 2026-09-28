@@ -93,3 +93,4 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

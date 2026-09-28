@@ -91,3 +91,4 @@ Tos vė­ liavos buvusios smolenskiečių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

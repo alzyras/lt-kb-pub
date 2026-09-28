@@ -71,3 +71,4 @@ Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kare
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

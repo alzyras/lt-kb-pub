@@ -78,3 +78,4 @@ Antrasis leidimas išėjo 1648 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

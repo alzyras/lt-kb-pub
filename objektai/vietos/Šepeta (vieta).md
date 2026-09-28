@@ -80,6 +80,19 @@ Kupiškio parapijos kunigai aptarnauja Šepetos psichoneurologinio pensiono gyve
   pagrindžia:
     - c-206662
 
+<a id="claim-t-230678"></a>
+- t-230678
+  teiginys: "1948 m. lapkričio 10 d. MGB vidaus kariuomenės operacijos metu Šepetos miške buvo nukauti keturi Juliaus Ožio skyriaus partizanai."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:19Z"
+  pagrindžia:
+    - c-211316
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kupiškio parapijos kunigai aptarnauja Šepetos psichoneurologinio pensiono gyventojus.'
@@ -128,3 +141,16 @@ Kupiškio parapijos kunigai aptarnauja Šepetos psichoneurologinio pensiono gyve
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
+
+- id: c-211316
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 317"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 317."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230678
+

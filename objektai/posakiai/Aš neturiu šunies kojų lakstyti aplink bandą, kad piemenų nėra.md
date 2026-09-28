@@ -83,3 +83,4 @@ Kerdžius prie lango rėkauja reikalaudamas piemens.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

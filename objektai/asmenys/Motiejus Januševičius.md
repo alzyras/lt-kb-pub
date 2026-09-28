@@ -78,3 +78,4 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

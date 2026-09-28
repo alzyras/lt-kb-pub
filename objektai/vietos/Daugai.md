@@ -317,3 +317,4 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

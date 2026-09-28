@@ -85,3 +85,4 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

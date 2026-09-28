@@ -91,3 +91,4 @@ Ignotas Jonas Hanušas parašė lyginamąją slavų, lietuvių, prūsų, indų i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -144,3 +144,4 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

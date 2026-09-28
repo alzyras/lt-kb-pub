@@ -78,3 +78,4 @@ Teodoro Narbuto aprašyme Ragainės komtūras Konradas Stangė, gavęs kariuomen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

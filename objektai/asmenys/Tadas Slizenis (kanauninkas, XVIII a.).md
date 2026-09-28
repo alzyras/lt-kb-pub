@@ -94,3 +94,4 @@ Tadas Slizenis buvo kanauninkas. Tado Slizenio namuose tuo metu gyveno Lietuvos 
   pagrindžia:
     - t-001
     - t-003
+

@@ -74,3 +74,4 @@ Sūduvos gyventojai, be medžioklės ir žūklės, vertėsi žemdirbyste ir gyvu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

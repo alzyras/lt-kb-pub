@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Kazimieras Ožiūkštis"]
 sameAs: []
-canonical_biography: "Drūlėnai – 2 dūmai (Stanislovo Ožiūkščio ir Kazimiero Ožiūkščio)."
+canonical_biography: "."
 ---
 # Kazimieras Ožiūkštis
 

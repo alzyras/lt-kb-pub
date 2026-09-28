@@ -81,3 +81,4 @@ Mieste buvo pastebėta, jog darbininkai pardavinėja aukso skardeles.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

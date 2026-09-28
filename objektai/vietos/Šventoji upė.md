@@ -67,3 +67,4 @@ canonical_biography: Šventoji minima kaip Žemaitijai priklausęs uostamiestis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

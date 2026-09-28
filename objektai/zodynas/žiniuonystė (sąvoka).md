@@ -67,3 +67,4 @@ Jono Krikštytojo šventės išvakarėse, šokinėjimą aplink laužą, šokimą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

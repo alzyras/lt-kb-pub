@@ -75,3 +75,4 @@ Sabeckio vadovaujama 300 karių grupė (dvi kuopos iš 7-ojo fusilierių regimen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

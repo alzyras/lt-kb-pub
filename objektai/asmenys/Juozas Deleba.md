@@ -23,7 +23,6 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Juozas Deleba"]
 sameAs: []
-canonical_biography: "Algis Baltrūnas, Balys Burba, Juozas Deleba gerai išmanė savo darbą."
 ---
 # Juozas Deleba
 
@@ -61,5 +60,6 @@ Danutė Baronienė straipsnyje „Ugniagesiai ir jų veikla Kupiškio krašte (I
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

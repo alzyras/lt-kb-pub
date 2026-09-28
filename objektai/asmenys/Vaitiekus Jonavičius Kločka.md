@@ -74,3 +74,4 @@ Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo va
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

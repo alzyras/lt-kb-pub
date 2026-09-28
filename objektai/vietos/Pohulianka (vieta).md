@@ -89,3 +89,4 @@ Septintą valandą vakaro visas miestas jau buvo Pohuliankos lygumose.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

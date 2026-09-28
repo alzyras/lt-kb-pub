@@ -90,3 +90,4 @@ Narbutas vandens laikrodžius, kuriais lietuviai esą matuodavo valandų trukmę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

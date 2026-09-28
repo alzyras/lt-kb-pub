@@ -122,3 +122,4 @@ Ivano kalboje Aleksandras kaltintas vertęs rusus atsisakyti prosenelių tikėji
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -67,3 +67,4 @@ Norint nuvesti Memelį iš Krokų Lankos ežero iki Klai pėdos tiesiai į šiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

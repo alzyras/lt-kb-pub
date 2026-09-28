@@ -117,3 +117,4 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
   pagrindžia:
     - t-001
     - t-195618
+

@@ -65,3 +65,4 @@ Leidinyje paskelbti lotyniškojo originalo ir lietuviškojo vertimo fragmentai a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

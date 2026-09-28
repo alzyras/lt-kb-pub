@@ -73,3 +73,4 @@ Jo garbei kiekvienas namuose laikydavo numirėlio kaukolę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -64,3 +64,4 @@ Rašte nurodoma, kad Vytautas turėjo Ordinui užrašyti visas savo žemes, dal�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

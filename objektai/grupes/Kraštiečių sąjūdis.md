@@ -84,3 +84,4 @@ Mykolas Riomeris buvo susijęs su kraštiečių (krajovcų) sąjūdžiu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

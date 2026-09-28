@@ -37,17 +37,18 @@ canonical_biography: "– Stasys Blieka (iš Suvainių k.) ir Uršulė Vidžiūn
 
 ## Teiginiai
 
-<a id="claim-t-228280"></a>
-- t-001
-  teiginys: "– Stasys Blieka (iš Suvainių k.) ir Uršulė Vidžiūnienė."
-  atnaujinta: "2026-09-25 02:17"
+<a id="claim-t-230611"></a>
+- t-230611
+  teiginys: "Tarp atpažintų žuvusiųjų buvo Uršulė Vidžiūnienė, gimusi 1895 m. ir gyvenusi Vabalninko valsčiuje."
+  atnaujinta: "2026-09-28 20:07"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:03Z"
   pagrindžia:
-    - c-208796
+    - c-211249
 
 ## Citatos
 
@@ -60,5 +61,25 @@ canonical_biography: "– Stasys Blieka (iš Suvainių k.) ir Uršulė Vidžiūn
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
-    - t-001
+
+- id: c-211249
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 264"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 264."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230611
+
+- id: c-213396
+  autorius: "Edita Jankauskienė"
+  šaltinis: "Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Partizaninis ginkluotas pasipriešinimas ir jo slopinimas Kupiškio valsčiuje 1944–1953 metais"
+  puslapiai: "p. 617 (PDF 618)"
+  indeksas: "Edita Jankauskienė, Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai — Partizaninis ginkluotas pasipriešinimas ir jo slopinimas Kupiškio valsčiuje 1944–1953 metais, p. 617 (PDF 618)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:23"
+

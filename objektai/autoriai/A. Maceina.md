@@ -79,3 +79,4 @@ Maceina, Filosofijos kilmė ir prasmė, XII-328 psl. Roma 1978.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

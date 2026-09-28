@@ -58,3 +58,4 @@ Ir vėl laimės žvaigždė lydėjo gotus, kurie niekais pavertė vi sus pasikė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

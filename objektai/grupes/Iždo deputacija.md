@@ -87,3 +87,4 @@ Visuomenės saugumo (toliau Saugumo), Iždo, Aprūpinimo deputacijos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

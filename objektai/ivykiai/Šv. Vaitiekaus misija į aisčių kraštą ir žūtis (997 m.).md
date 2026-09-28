@@ -167,3 +167,4 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

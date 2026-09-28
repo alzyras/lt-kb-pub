@@ -77,3 +77,4 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

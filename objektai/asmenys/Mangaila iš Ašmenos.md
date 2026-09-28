@@ -83,3 +83,4 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

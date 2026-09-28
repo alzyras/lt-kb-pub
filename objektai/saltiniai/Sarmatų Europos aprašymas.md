@@ -69,3 +69,4 @@ A. Gvagninio „Sarmatų Europos aprašymas“ aprašo Rytų Europos žemes, tau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

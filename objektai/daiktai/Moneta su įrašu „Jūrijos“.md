@@ -73,3 +73,4 @@ Man pavyko rasti ir monetą su įrašytu pava dinimu Jūrijos, arba šio krašto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

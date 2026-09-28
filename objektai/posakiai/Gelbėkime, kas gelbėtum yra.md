@@ -59,3 +59,4 @@ Gelbėki me, kas gelbėtum yra.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -1,6 +1,9 @@
 import fs from "node:fs"
 import path from "node:path"
-import { collectCorpusEvidenceIntegrityIssues } from "../quartz/util/evidenceIntegrity"
+import {
+  collectCorpusEvidenceIntegrityIssues,
+  collectDuplicateCitationIdentityIssues,
+} from "../quartz/util/evidenceIntegrity"
 import { parseEvidenceSections } from "../quartz/util/citationFilter"
 
 const objectRoot = path.resolve(process.env.CORPUS_ROOT ?? "objektai")
@@ -17,8 +20,10 @@ const documents = listMarkdownFiles(objectRoot).map((file) => ({
   filePath: path.relative(process.cwd(), file),
   markdown: fs.readFileSync(file, "utf8"),
 }))
-const issues = collectCorpusEvidenceIntegrityIssues(documents)
-const citationOwners = new Map<string, string>()
+const issues = [
+  ...collectCorpusEvidenceIntegrityIssues(documents),
+  ...collectDuplicateCitationIdentityIssues(documents),
+]
 
 for (const { filePath, markdown } of documents) {
   const sections = parseEvidenceSections(markdown)
@@ -36,18 +41,6 @@ for (const { filePath, markdown } of documents) {
         message: `Citation ${citation.id} is not a global citation code`,
       })
       continue
-    }
-    const previousFile = citationOwners.get(citation.id)
-    if (previousFile && previousFile !== filePath) {
-      issues.push({
-        code: "duplicate_global_citation_id_across_files",
-        severity: "error",
-        entryId: citation.id,
-        filePath,
-        message: `Citation global id ${citation.id} is also used in ${previousFile}`,
-      })
-    } else {
-      citationOwners.set(citation.id, filePath)
     }
   }
 }

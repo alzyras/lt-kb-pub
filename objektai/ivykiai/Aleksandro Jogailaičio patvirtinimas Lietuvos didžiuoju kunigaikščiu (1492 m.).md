@@ -79,3 +79,4 @@ Aleksandrą Lietuvos didžiuoju kunigaikščiu patvirtino visų LDK žemių seim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

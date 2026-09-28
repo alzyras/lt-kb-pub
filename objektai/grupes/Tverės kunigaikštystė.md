@@ -75,3 +75,4 @@ Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

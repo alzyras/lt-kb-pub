@@ -78,3 +78,4 @@ Jau veikiau tai netvirtas ir varganas būvis, a) Ši nuomonė, įžvalgiausių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

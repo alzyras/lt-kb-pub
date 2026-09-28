@@ -70,3 +70,4 @@ Netoli šios sruveno kita upė, seniau vadinama Mažąja Jūra, arba Jūrele, o 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

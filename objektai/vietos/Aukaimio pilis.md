@@ -486,3 +486,4 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+

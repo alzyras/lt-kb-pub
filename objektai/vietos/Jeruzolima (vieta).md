@@ -82,3 +82,4 @@ Kaipogi vienu žygiu perga lėję turkus, Žemę Šventą jiems atėmė ir tenai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

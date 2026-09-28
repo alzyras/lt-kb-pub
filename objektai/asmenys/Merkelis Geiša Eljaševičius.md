@@ -89,3 +89,4 @@ canonical_biography: "1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

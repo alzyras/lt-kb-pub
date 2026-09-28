@@ -97,3 +97,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata remia trumpą užbaigtą sakinį."
   pagrindžia:
     - c-23313
+

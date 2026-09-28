@@ -141,3 +141,4 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   pagrindžia:
     - t-002
     - t-003
+

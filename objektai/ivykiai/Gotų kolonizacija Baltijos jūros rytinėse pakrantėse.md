@@ -72,3 +72,4 @@ Tai ir lėmė pirmą Baltijos jūros rytinių pakrančių gotų kolo nizavimą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

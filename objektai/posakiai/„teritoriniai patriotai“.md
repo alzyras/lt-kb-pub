@@ -80,3 +80,4 @@ Smetonos nuostatos – kadangi leidžiame tautinėms mažumoms gimtosios kalbos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

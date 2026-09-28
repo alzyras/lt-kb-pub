@@ -85,3 +85,4 @@ Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

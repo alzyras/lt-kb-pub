@@ -73,3 +73,4 @@ LAM = Lietuvių Katalikų Mokslo Akademijos Metraštis, t.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

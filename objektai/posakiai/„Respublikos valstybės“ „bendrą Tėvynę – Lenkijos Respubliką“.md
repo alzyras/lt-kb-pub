@@ -159,3 +159,4 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
   pagrindžia:
     - t-001
     - t-004
+

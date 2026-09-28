@@ -72,3 +72,4 @@ Teodorui Narbutui buvo žinomi kai kurie Voluinės kronikos fragmentai, paskelbt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

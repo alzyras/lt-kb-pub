@@ -72,5 +72,6 @@ canonical_biography: "1920 m. B. Alperavičius buvo išrinktas Kupiškio miesto 
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -79,3 +79,4 @@ Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvena
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

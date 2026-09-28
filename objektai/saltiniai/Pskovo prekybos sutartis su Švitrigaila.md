@@ -79,3 +79,4 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

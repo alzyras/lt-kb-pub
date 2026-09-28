@@ -84,3 +84,4 @@ Edvardas Gudavičius pereinamojo laikotarpio LDK santvarką apibūdina kaip pare
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

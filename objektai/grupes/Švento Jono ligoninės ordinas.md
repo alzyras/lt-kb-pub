@@ -80,3 +80,4 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

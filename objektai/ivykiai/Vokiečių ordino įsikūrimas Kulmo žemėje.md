@@ -70,3 +70,4 @@ Vokiečių ordino įsikūrimas Kulmo žemėje buvo siejamas su Mazovijos kunigai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

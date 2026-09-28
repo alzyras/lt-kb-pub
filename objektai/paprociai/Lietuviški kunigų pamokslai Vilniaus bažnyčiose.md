@@ -72,3 +72,4 @@ Narbutas teigia, kad Vilniuje kunigai iš ambonų lietuviškai pamokslaudavo iki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

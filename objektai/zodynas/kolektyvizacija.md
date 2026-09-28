@@ -190,3 +190,4 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -97,3 +97,4 @@ Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

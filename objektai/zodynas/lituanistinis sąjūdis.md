@@ -129,3 +129,4 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
   pagrindžia:
     - t-001
     - t-002
+

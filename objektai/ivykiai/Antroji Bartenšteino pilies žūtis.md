@@ -71,3 +71,4 @@ Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, kurioje buvo įsik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

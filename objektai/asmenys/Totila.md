@@ -126,3 +126,4 @@ Romai antrąkart patekus į Totilos rankas, Justiniano kariuomenėje buvo herul�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214896
+

@@ -110,3 +110,4 @@ Alberichas 1228 metų kronikoje tarp pagonių provincijų minėjo Prūsiją, Kur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

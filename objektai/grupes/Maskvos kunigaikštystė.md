@@ -385,3 +385,4 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

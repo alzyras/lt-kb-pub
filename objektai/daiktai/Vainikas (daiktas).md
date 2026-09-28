@@ -82,3 +82,4 @@ Paskui viršaitis, jų žynys, stabmeldžių papratimu už sidėjęs ant galvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

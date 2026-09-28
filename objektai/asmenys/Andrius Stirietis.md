@@ -75,3 +75,4 @@ Teodoras Narbutas Andrių Stirietį apibūdino kaip dorai gyvenusį, garbę ir r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

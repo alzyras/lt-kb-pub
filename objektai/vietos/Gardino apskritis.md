@@ -144,3 +144,4 @@ Lydos ir Gardino apskričių sandūroje yra didelis ežeras, vadinamas Kobeliu. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

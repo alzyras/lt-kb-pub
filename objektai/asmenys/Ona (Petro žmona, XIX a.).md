@@ -146,3 +146,4 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

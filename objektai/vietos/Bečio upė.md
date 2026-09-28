@@ -67,3 +67,4 @@ Tarteso uostas buvo prie Bečio upės žiočių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

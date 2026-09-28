@@ -85,3 +85,4 @@ Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

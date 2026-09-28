@@ -70,3 +70,4 @@ Veizint į žodžius Lietuvos kalbos: graižis, arba graižinys, muštinis, skat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

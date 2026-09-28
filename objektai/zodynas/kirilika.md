@@ -68,3 +68,4 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

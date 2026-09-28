@@ -179,3 +179,4 @@ Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207758
+

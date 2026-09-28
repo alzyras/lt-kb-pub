@@ -73,3 +73,4 @@ Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

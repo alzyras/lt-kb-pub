@@ -92,3 +92,4 @@ Kazimiero Narbuto „Logikoje“ 1769 m. pirmą kartą Lietuvoje buvo išdėstyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

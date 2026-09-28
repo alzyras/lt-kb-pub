@@ -188,3 +188,4 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-224257
+

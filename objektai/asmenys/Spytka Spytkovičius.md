@@ -67,3 +67,4 @@ Spytka Spytkovičius buvo Jogailos kariuomenės kiemo etmonas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

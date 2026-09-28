@@ -122,3 +122,4 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
   pagrindžia:
     - t-001
     - t-002
+

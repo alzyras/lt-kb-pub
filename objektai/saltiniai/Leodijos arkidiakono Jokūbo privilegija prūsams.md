@@ -102,3 +102,4 @@ Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

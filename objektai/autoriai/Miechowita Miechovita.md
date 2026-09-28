@@ -198,3 +198,4 @@ Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Vale
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211946
+

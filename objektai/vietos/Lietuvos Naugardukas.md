@@ -90,3 +90,4 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168629
+

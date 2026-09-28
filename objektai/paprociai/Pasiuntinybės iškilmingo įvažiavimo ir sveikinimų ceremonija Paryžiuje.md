@@ -100,3 +100,4 @@ Ceremonijoje pirmiausia buvo numatyta sveikinti Prancūzijos karalių, paskui jo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

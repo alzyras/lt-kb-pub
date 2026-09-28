@@ -50,3 +50,4 @@ Narbutas Krewe-Krewejto titulą lygino su persų vyriausiojo kunigo pavadinimais
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

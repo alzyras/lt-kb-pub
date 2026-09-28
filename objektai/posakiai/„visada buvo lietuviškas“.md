@@ -69,3 +69,4 @@ Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

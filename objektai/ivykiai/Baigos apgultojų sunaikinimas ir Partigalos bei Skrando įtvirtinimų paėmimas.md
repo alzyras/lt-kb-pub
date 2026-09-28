@@ -72,3 +72,4 @@ Pomando patarti Varmės, Notangos ir Bartos vyrai apsupo Baigos pilį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

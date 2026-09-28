@@ -47,3 +47,4 @@ Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -59,3 +59,4 @@ Santykiai su Prūsijos ir Livonijos kryžiuočių ordi nais — grėsmingiausia 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

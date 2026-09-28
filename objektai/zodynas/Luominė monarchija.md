@@ -85,3 +85,4 @@ Alfredas Bumblauskas Lenkijos ir Lietuvos santvarką siūlo vertinti kaip dėsni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

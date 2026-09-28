@@ -66,3 +66,4 @@ Kronikos nuolat mini per karus didelius skaičius iš lietuvių sodybų pagrobia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

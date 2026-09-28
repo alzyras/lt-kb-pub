@@ -28,17 +28,17 @@ media_all_json: |-
 
 ## Santrauka
 
-Alkierius – svečio troba, užimanti pusę trobos galutinės sienos ir turinti du stiklo langus. Alkierius – priestatas prie didesnio pastato.
+Alkierius – svečio troba, užimanti pusę trobos galutinės sienos ir turinti du stiklo langus.
 
 ## Santrauka
 
-Alkierius – svečio troba, užimanti pusę trobos galutinės sienos ir turinti du stiklo langus. Alkierius – priestatas prie didesnio pastato.
+Alkierius – svečio troba, užimanti pusę trobos galutinės sienos ir turinti du stiklo langus.
 
 ## Teiginiai
 
 <a id="claim-t-225945"></a>
 - t-001
-  teiginys: "Alkierius – priestatas prie didesnio pastato."
+  teiginys: ""
   atnaujinta: "2026-09-25 02:17"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
@@ -53,7 +53,7 @@ Alkierius – svečio troba, užimanti pusę trobos galutinės sienos ir turinti
   santrauka: 'Alkierius – svečio troba, užimanti pusę trobos galutinės sienos ir turinti du stiklo langus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Į saulėtekį buvo alkierius^223 , arba svečio troba, kursai užėmė pusę trobos galutinės sienos ir turėjo du stiklo langu
+    Į saulėtekį buvo alkierius^223, arba svečio troba, kursai užėmė pusę trobos galutinės sienos ir turėjo du stiklo langu
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,5 +70,6 @@ Alkierius – svečio troba, užimanti pusę trobos galutinės sienos ir turinti
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

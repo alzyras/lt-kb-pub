@@ -157,3 +157,4 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
     - t-002
     - t-003
     - t-004
+

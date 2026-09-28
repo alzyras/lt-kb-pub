@@ -136,3 +136,4 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

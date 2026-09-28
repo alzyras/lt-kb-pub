@@ -62,3 +62,4 @@ Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir tuojau su 12 000 karė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

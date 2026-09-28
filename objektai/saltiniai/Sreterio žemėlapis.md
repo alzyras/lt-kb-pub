@@ -87,3 +87,4 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

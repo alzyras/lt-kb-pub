@@ -78,3 +78,4 @@ O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamald
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

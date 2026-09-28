@@ -59,3 +59,4 @@ Pasak Narbuto, Dionyzas iš Charakso Aldeskos upės žiotis prie Šiaurės jūro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

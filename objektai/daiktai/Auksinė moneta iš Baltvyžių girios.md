@@ -165,3 +165,4 @@ Prie dešiniosios riterio rankos kažkoks taškas, galbūt žymintis monetos ver
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

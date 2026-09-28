@@ -71,3 +71,4 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

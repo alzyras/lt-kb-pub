@@ -54,3 +54,4 @@ Vadinamosiose Surašymų knygose yra XVI a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

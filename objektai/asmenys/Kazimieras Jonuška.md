@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Kazimieras Jonuška"]
 sameAs: []
-canonical_biography: "Lebedžiai – 3 dūmai (Juozapo Keršulio ir Simono Matulionio, Kazimiero Jonuškos)."
+canonical_biography: "."
 ---
 # Kazimieras Jonuška
 

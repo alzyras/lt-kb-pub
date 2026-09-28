@@ -75,3 +75,4 @@ O kuni gaikštis Skirgaila duotų priesaiką tavo vardu.".
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

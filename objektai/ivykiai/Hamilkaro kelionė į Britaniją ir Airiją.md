@@ -73,3 +73,4 @@ Jernos salas, arba Britaniją ir Airiją, neapsakomai turtingas švino ir alavo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

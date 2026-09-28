@@ -84,3 +84,4 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -48,3 +48,4 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

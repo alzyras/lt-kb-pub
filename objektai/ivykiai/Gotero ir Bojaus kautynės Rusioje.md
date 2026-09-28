@@ -70,3 +70,4 @@ Narbutas teigia, kad švedų karalius Gotbrodas maždaug to paties amžiaus paba
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

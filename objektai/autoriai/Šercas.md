@@ -57,3 +57,4 @@ Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -78,3 +78,4 @@ Pagal Pirmąjį Statutą mirties bausmės už nusikaltimą, išskyrus vagystę, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

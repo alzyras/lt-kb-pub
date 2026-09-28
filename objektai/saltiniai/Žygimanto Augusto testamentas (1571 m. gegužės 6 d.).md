@@ -103,3 +103,4 @@ O jeigu kas norėtų dėl to, ką kam atiduodame, pakenkti, prieš jį tvirtai u
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -173,3 +173,4 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

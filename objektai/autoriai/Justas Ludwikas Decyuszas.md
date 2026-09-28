@@ -89,3 +89,4 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

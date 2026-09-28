@@ -83,3 +83,4 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

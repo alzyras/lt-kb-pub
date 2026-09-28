@@ -78,3 +78,4 @@ Natangijoje, būdavo užkuriami karo laužai, kai prireik davo įspėti žmones,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

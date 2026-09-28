@@ -88,3 +88,4 @@ Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

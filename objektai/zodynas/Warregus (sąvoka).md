@@ -81,3 +81,4 @@ Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankinto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

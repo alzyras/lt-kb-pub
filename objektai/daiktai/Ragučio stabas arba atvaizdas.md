@@ -79,3 +79,4 @@ Ragučio stabas arba atvaizdas per vasario šventę buvo vežiojamas rogėmis i�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

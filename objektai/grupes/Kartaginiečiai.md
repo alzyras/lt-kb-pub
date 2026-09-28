@@ -212,3 +212,4 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213411
+

@@ -68,3 +68,4 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

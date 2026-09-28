@@ -73,3 +73,4 @@ p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Le
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

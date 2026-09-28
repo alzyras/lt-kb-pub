@@ -89,3 +89,4 @@ Sąjūdžio gimtadienio 10-mečio minėjimas Kupiškyje prasidėjo šv. Mišiomi
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

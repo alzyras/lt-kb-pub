@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Jokūbas Zubas"]
 sameAs: []
-canonical_biography: "Mikniūnai – 2 dūmai (Kristupo Grinos ir Jokūbo Zubo)."
+canonical_biography: "."
 ---
 # Jokūbas Zubas
 

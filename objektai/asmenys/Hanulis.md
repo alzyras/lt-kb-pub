@@ -79,3 +79,4 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

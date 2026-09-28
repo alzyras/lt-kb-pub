@@ -79,3 +79,4 @@ Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

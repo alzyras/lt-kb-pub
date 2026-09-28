@@ -75,3 +75,4 @@ Iškilmėse dalyvavo daugybė val dovų, neatvyko tik Vytautas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

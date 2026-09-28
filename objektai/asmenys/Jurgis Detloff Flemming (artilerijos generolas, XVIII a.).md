@@ -140,3 +140,4 @@ Jurgio Detloffo Flemmingo sutuoktinė Antanina kurį laiką gyveno Lopacinskio r
   pagrindžia:
     - t-003
     - t-004
+

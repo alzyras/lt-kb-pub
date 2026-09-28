@@ -90,7 +90,7 @@ Virgilijus Liuima 1989 m. gegužės 28 d. buvo įšventintas kunigu, o primicija
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-208309
@@ -102,5 +102,6 @@ Virgilijus Liuima 1989 m. gegužės 28 d. buvo įšventintas kunigu, o primicija
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-002
+

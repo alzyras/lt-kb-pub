@@ -78,3 +78,4 @@ Tie, kurie turi medaus ir grūdų, gamina iš jų gėrimus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

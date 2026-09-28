@@ -79,3 +79,4 @@ Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa statė stabą, kadan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

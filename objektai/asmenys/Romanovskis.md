@@ -118,3 +118,4 @@ canonical_biography: "1826 m. Romanovskiui priklausiusiame Antakriaučio dvare U
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

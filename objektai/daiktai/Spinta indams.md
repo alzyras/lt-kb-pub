@@ -79,3 +79,4 @@ XVI a. pabaigoje bajorų virtuvės interjere atsirado spinta indams.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

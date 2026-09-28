@@ -258,3 +258,4 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207416
+

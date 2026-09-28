@@ -109,3 +109,4 @@ Todėl patariu tau: prikalbėk didįjį kunigaikštį Vytautą, tegul jis įtiki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

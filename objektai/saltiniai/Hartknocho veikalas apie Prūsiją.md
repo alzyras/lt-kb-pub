@@ -58,3 +58,4 @@ Vyriausiųjų žynių sąrašo pasmerkimas, Narbuto teigimu, paimtas iš Hartkno
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

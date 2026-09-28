@@ -98,3 +98,4 @@ Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

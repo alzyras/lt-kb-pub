@@ -101,3 +101,4 @@ Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

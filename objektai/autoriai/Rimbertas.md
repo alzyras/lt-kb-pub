@@ -193,3 +193,4 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

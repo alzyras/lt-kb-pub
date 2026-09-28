@@ -120,3 +120,4 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

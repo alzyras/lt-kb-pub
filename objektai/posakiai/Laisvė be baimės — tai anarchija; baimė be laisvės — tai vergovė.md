@@ -57,3 +57,4 @@ Laisvė be baimės — tai anarchija, Baimė be laisvės — tai 'vergovė, i.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

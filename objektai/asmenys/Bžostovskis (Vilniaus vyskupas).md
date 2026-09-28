@@ -77,3 +77,4 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

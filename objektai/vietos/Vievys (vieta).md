@@ -81,3 +81,4 @@ Pasak Teodoro Narbuto, Vieviu vadinama vietovė yra šiauriniame ežero krante, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

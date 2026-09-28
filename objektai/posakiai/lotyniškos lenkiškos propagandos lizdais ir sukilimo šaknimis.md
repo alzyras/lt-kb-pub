@@ -59,3 +59,4 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

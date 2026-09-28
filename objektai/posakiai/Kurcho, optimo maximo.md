@@ -157,3 +157,4 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214824
+

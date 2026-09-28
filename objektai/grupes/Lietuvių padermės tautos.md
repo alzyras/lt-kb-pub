@@ -59,3 +59,4 @@ Lietuvių padermės tautos: senovės prū sai, galindai, sūduviai, kuršiai ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

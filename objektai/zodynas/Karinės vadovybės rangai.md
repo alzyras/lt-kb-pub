@@ -71,3 +71,4 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

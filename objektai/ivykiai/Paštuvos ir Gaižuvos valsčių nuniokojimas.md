@@ -78,3 +78,4 @@ Ragainės broliai su sembais įsiveržė į Paštuvos, o kita kariuomenės dalis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

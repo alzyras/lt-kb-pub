@@ -95,3 +95,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, faktinis ir tiksliai atitinka citatos informaciją."
   pagrindžia:
     - c-23257
+

@@ -81,3 +81,4 @@ Teodoro Narbuto aprašyme su Goldingą apgulusia įgula susijungę kariai netik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

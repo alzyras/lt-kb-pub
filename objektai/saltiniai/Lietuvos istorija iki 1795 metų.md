@@ -89,3 +89,4 @@ Zigmantas Kiaupa, Jūratė Kiaupienė, Albinas Kun cevičius, Lietuvos istorija 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

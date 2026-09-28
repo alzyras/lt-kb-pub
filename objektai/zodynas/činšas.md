@@ -483,3 +483,4 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+

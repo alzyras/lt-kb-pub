@@ -100,3 +100,4 @@ Teodoras Karijotas iš Braclavo pabėgo į Kamenecą. Apgultame Kamenece Teodora
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

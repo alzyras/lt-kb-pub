@@ -72,3 +72,4 @@ Romainių dvaras buvo netoli Kauno, į rytus nuo Nemuno ir Nevėžio santakos, o
   atnaujinta: "2026-07-26 21:24"
   pagrindžia:
     - t-001
+

@@ -85,3 +85,4 @@ Pasak Narbuto, sutartimi Lietuvos valdovas įsipareigojo ginti Rygos bažnyčios
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

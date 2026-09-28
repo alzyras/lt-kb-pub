@@ -95,3 +95,4 @@ Pareiškimo teikėja yra jo našlė Polonija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

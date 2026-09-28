@@ -82,3 +82,4 @@ Teodoro Narbuto aprašomas valdovas, miręs būdamas 82 metų, pagal senovinį p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

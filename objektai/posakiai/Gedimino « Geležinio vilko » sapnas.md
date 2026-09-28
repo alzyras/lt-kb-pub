@@ -158,3 +158,4 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

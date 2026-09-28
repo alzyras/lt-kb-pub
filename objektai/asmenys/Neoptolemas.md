@@ -101,3 +101,4 @@ Pasak Teodoro Narbuto perteikiamo pasakojimo, Neoptolemas pirmasis steigė pasto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

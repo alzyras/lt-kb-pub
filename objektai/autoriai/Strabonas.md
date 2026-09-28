@@ -240,3 +240,4 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214560
+

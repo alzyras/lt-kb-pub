@@ -123,3 +123,4 @@ Metraštininkai nurodo, kad po didžiojo kunigaikščio mirties Manvydas vadovav
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

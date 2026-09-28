@@ -92,3 +92,4 @@ Antra vertus, Vyslos baseine škutas buvo labai paplitęs laivas, dažniausiai n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

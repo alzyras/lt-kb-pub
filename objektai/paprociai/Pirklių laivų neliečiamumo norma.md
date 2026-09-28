@@ -104,3 +104,4 @@ Pagal šią normą pirklių laivas nebuvo puolamas, jei jo savininkas nebuvo gin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

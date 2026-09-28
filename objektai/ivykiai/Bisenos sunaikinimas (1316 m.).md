@@ -150,3 +150,4 @@ Pilis sudeginta ir liko apleista.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

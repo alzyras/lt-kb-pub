@@ -62,3 +62,4 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

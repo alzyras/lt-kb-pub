@@ -72,3 +72,4 @@ Narbutas rašė, kad Divonio kelionės aprašymą vyskupas Kristijonas veikiausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

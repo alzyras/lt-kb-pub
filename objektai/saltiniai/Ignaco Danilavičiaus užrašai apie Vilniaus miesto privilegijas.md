@@ -69,3 +69,4 @@ Tai buvęs Vilniaus Universiteto profeso­ rius, o dabar Kijeve vadovaujantis Te
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

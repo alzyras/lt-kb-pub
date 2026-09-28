@@ -113,3 +113,4 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

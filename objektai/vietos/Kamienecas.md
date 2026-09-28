@@ -89,3 +89,4 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -134,3 +134,4 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

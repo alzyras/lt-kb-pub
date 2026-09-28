@@ -88,3 +88,4 @@ Ant Bekešo kalno viršūnės stovėjo koplyčia, pastatyta šio karžygio atmin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

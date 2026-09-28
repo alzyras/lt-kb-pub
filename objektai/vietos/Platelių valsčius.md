@@ -66,3 +66,4 @@ Ypač jis globojo Platelių valsčių, ku riame ir buvusi toji legendinė pilis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

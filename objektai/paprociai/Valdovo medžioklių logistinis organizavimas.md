@@ -86,3 +86,4 @@ Didysis medžioklis derino kelionių klausimus ir parūpindavo kelionei reikalin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -88,3 +88,4 @@ Senoji Palanga buvo išsidėsčiusi kalvos, vadinamos Olandiška Skrybėle, pap�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218168
+

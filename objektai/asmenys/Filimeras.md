@@ -306,3 +306,4 @@ Narbutas spėjo, kad Rosės upės vardas siejosi su lietuvių genties tautomis, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219406
+

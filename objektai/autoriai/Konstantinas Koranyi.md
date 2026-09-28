@@ -68,3 +68,4 @@ Konstantinas Koranyi tyrė Romos teisės įtaką Pirmajam Lietuvos Statutui, dau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

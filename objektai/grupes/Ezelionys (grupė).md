@@ -69,3 +69,4 @@ Išgirdę taip pat ezelionys žemaičius taip laimin gai kariaujant išsižadėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

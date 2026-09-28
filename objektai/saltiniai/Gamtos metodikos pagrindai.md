@@ -56,3 +56,4 @@ Ruzgo GAMTOS METODIKOS PAGRINDAI. Gamtos moky­ tojas d-ras C.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -135,3 +135,4 @@ Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily 
   atnaujinta: "2026-07-26 17:37"
   pagrindžia:
     - t-003
+

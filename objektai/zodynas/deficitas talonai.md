@@ -101,3 +101,4 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

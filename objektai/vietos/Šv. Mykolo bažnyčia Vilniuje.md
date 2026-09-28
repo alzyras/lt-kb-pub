@@ -92,3 +92,4 @@ Mykolo bažnyčia buvo išmūryti didieji maldos namai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

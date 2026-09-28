@@ -83,3 +83,4 @@ Tenai pasakyta, kad 1618 metais Agluonoje, prie Dauguvos, buvusios nuvalytos sen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

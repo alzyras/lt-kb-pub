@@ -162,3 +162,4 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

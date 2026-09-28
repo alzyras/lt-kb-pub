@@ -79,3 +79,4 @@ Jo krikštatėviu buvo Ragainės komtūras Vy­ gandas von Baldersheimas, dėl t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

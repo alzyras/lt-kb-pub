@@ -67,3 +67,4 @@ Hermanas, apgalvojęs tuometines aplinky bes, sutiko su pasiūlymu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

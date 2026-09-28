@@ -245,3 +245,4 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

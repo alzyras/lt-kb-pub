@@ -99,3 +99,4 @@ Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

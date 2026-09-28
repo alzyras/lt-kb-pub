@@ -98,3 +98,4 @@ Vėliau kunigas, vardu Jonas, kuris apie tą laiką buvo lietuvių nelaisvėje, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -103,3 +103,4 @@ Dvasininkai lydėjo nuteistuosius į egzekucijos vietą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

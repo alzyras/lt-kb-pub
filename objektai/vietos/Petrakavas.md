@@ -98,3 +98,4 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

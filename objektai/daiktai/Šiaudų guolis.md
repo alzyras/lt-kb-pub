@@ -74,3 +74,4 @@ Deginant žymiausių mirusiųjų kūnus, kapo kalnelio arba kapvietei paruošto 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

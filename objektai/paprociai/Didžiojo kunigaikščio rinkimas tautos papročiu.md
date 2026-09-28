@@ -76,3 +76,4 @@ Pasak Narbuto, Skirgaila gavo sostą ir buvo paskelbtas Lietuvos didžiuoju kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

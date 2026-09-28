@@ -86,3 +86,4 @@ Fiziokratizmo nuostatomis valdžia turi užtikrinti visuomenės saugumą, laimę
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

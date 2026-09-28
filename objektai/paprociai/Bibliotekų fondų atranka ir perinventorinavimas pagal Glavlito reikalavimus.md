@@ -78,5 +78,6 @@ Pagal Glavlito reikalavimus bibliotekose iš naujo inventorizuotos ir kataloguot
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

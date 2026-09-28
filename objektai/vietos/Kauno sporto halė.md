@@ -90,3 +90,4 @@ Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

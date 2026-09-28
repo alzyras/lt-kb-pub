@@ -76,3 +76,4 @@ Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -124,3 +124,4 @@ Narbutas rašė, kad XVII a. kunigas Glumeris Henriko Latvio kronikos pastabose 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216154
+

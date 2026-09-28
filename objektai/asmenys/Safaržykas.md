@@ -257,3 +257,4 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

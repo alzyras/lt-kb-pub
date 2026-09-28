@@ -76,3 +76,4 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

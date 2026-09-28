@@ -70,3 +70,4 @@ Tai liudija 1537 m. Kauno klebono Erazmo Eustachijaus Kauno pilininkui Andriui L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

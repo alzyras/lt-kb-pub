@@ -68,3 +68,4 @@ Kaunas išnaudojo savivaldos teikiamas galimybes, greitai išaugo į vieną iš 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

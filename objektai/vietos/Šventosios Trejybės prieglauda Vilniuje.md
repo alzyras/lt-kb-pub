@@ -77,3 +77,4 @@ Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

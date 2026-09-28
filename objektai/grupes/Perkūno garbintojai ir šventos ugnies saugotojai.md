@@ -86,3 +86,4 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

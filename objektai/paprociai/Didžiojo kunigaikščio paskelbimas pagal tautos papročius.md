@@ -77,3 +77,4 @@ Kunigaikštis, nepaisant atsisakinėjimų, pagal tautos papročius buvo paskelbt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

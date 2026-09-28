@@ -75,3 +75,4 @@ Vorobjovo aiškinimu, Lionardo da Vinci moterų paveikslų šypsena paliko pėds
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

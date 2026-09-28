@@ -104,3 +104,4 @@ Narbutas rašė, kad Skilakas spėjo apie prie Kaspijos gyvenusius gelonus, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

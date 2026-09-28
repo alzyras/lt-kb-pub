@@ -912,3 +912,4 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213923
+

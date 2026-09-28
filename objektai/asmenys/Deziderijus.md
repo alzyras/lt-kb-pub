@@ -85,3 +85,4 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

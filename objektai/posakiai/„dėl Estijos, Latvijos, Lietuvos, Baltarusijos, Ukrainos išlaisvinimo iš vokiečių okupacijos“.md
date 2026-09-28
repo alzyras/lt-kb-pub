@@ -83,3 +83,4 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas; citata leidžia suformuluoti glaustesnį sakinį."
   pagrindžia:
     - c-23617
+

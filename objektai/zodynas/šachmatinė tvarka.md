@@ -117,3 +117,4 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

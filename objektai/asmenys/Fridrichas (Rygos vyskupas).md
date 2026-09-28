@@ -89,3 +89,4 @@ Fridrichas, Rygos vyskupas, bandė sutaikyti Livonijos ordiną ir Lietuvą, pasi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

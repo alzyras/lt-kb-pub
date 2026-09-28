@@ -119,3 +119,4 @@ Kojelavičius Petrą Skargą vadino pirmuoju Akademijos rektoriumi ir uoliausiu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -74,3 +74,4 @@ Kai iš vaiko atėmė fetišą, jis labai nu siminė, ėmė karščiuoti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

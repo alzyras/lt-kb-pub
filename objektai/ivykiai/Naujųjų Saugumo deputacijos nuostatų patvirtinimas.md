@@ -101,3 +101,4 @@ Naujieji Saugumo deputacijos nuostatai gegužės 10 d. buvo baigti rengti, o geg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

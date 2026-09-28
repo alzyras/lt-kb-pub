@@ -77,3 +77,4 @@ Lotynų kalba rašytuose šaltiniuose, kaip nurodo Lituanistika-3-Kazimiero-Joga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -72,3 +72,4 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

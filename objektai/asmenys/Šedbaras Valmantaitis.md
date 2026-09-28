@@ -100,3 +100,4 @@ canonical_biography: "1432 m. Kauno seniūnu vėl vadinamas Sudivojaus brolis Š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

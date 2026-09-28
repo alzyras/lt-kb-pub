@@ -192,3 +192,4 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

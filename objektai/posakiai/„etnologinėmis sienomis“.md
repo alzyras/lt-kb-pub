@@ -104,3 +104,4 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   pagrindžia:
     - t-001
     - t-002
+

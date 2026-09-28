@@ -120,3 +120,4 @@ Ponas Fridrikas Kruzė vykdė kapaviečių kasinėjimus Kurše, Infliantuose ir 
   pagrindžia:
     - t-001
     - t-002
+

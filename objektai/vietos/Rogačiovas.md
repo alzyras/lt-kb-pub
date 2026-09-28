@@ -415,3 +415,4 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214173
+

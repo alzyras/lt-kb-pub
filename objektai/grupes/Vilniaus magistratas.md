@@ -844,3 +844,4 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+

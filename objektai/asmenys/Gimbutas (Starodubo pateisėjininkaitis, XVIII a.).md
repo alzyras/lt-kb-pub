@@ -84,3 +84,4 @@ Gimbutas minimas kaip Starodubo pateisėjininkaitis, 1760 m. vedęs Starodubo ž
   pagrindžia:
     - t-001
     - t-002
+

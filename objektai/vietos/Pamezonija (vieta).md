@@ -123,3 +123,4 @@ Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -585,3 +585,4 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209338
+

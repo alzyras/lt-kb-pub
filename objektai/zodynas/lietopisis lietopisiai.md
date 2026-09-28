@@ -79,3 +79,4 @@ Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų metraščių žymė:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -76,3 +76,4 @@ Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

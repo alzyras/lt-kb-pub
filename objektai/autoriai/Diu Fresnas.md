@@ -53,3 +53,4 @@ Narbutas remiasi Diu Fresnu aiškindamas, kad senovės vokiečių kalboje „Sal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

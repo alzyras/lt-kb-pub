@@ -147,3 +147,4 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

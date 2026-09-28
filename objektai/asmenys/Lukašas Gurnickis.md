@@ -90,3 +90,4 @@ Lukašas Gurnickis buvo Lenkijos karaliaus sekretorius.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

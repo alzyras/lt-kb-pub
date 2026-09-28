@@ -70,3 +70,4 @@ Ernekė, Ragainės komtūras, magistro įsakymu plaukė link Lietuvos su Jonu i�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

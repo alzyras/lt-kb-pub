@@ -97,3 +97,4 @@ Narbutas rašo, kad sektantai nuo seno vadinti raskolnikais, tai yra atskalūnai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

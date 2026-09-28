@@ -65,3 +65,4 @@ Boguslavas Bousevičius buvo Rodūnios vėliavininkas ir tos žemės tėvonis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

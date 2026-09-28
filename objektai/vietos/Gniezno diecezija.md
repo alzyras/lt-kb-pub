@@ -97,3 +97,4 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

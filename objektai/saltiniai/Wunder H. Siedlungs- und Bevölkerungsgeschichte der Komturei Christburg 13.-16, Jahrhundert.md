@@ -61,3 +61,4 @@ Dusburgietis teigia, kad wunder H.
   temporaliniai_duomenys: "įvykio data: 1968 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, temą, laikotarpį, vietą ir metus."
+

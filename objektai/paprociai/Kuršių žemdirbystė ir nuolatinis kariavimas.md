@@ -74,3 +74,4 @@ Kuršiai visuomet buvo žem dirbiai ir kariai, nes, gyvendami pajūrio žemėse 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

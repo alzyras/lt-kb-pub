@@ -79,3 +79,4 @@ Teodoras Narbutas nurodo, kad Kristaus garbei tvirtovė pavadinta Kristmemeliu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -70,3 +70,4 @@ Nuo tol joks namas negalėjo būti statomas be miesto tarybos žinios ir be virv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -104,3 +104,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą deklaracijos turinį."
   pagrindžia:
     - c-22980
+

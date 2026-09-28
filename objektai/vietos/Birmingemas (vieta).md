@@ -102,3 +102,4 @@ Birmingeme 1831-1834 m. minima korintinio peripterio stiliaus rotušė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

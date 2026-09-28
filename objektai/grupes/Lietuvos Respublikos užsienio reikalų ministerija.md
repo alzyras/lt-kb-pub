@@ -153,3 +153,4 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

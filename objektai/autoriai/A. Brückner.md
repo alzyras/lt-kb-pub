@@ -167,3 +167,4 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   pagrindžia:
     - t-002
     - t-003
+

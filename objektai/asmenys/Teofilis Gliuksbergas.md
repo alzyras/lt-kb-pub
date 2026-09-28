@@ -81,3 +81,4 @@ canonical_biography: 1856 metais Teofilio Gliuksbergo spaustuvėje atsirado gali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

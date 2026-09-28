@@ -58,3 +58,4 @@ Grunau teigė pats turėjęs tokią vėliavą rankose ir ją išmatavęs.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

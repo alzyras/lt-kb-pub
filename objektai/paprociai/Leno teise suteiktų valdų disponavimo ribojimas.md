@@ -81,3 +81,4 @@ Stepono Batoro laikų dokumentuose minimi ankstesni Žygimanto Augusto užrašym
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

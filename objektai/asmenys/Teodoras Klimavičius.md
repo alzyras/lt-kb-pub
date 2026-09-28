@@ -72,3 +72,4 @@ Dar 1537 m. Kauno seniūniją valdžiusio Jono Radvilos vietininkas Stanislovas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

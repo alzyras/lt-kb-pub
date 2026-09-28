@@ -85,3 +85,4 @@ Smetona stengėsi laikytis „vidurainės [A.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

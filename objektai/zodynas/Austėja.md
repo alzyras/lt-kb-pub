@@ -93,3 +93,4 @@ Narbutas Austėją (Austheja) apibūdino kaip bičių ir bitininkystės globėj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

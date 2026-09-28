@@ -47,3 +47,4 @@ Pasak rusų metraščių, šiaurės slavai, arba naugardiečiai, severskiečiai,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -77,3 +77,4 @@ Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisak
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

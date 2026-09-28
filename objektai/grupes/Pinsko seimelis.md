@@ -78,3 +78,4 @@ Mykolo Višneveckio pozicija lėmė sėkmingą Pinsko seimelių baigtį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

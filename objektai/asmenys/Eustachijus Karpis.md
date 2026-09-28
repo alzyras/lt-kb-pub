@@ -68,3 +68,4 @@ Visi nurodyti dvarai buvo užrašyti Raseinių karūžaičiui Eustachijui Karpiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

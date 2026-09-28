@@ -89,3 +89,4 @@ Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -63,3 +63,4 @@ Lietuviai žuvusius tėvynės gynėjus didvyrius vadindavo Runketojas (kentėtoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -96,3 +96,4 @@ Alfredas Bumblauskas prie Maxo Weberio sąvokos „išganymo religijos“ priski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -71,3 +71,4 @@ Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­ tuvos kelių aprašymu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

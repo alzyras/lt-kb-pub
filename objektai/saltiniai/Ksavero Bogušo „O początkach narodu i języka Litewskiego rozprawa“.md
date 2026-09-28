@@ -125,3 +125,4 @@ Ksavero Bogušo studija „O początkach narodu i języka Litewskiego rozprawa�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

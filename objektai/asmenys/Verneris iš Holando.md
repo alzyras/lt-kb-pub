@@ -69,3 +69,4 @@ Verneris iš Holando, kryžiuočių riteris, subūrė karius žygininkams užkir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

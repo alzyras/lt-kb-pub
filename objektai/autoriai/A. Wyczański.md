@@ -73,3 +73,4 @@ A. Wyczańskis, tyrinėdamas Mazovijos ir Didžiosios Lenkijos šlėktų palivar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -146,3 +146,4 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

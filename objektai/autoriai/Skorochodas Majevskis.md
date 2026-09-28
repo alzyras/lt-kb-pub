@@ -51,3 +51,4 @@ canonical_biography: "2 Skorochodo Majevskio tyrinėjimai."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

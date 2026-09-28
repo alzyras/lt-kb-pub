@@ -70,3 +70,4 @@ Vis dėlto aš ketinu tuo tiks lu surengti didelę šventę ir pasikviesti į Lu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

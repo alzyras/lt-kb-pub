@@ -85,3 +85,4 @@ Teodoro Narbuto pasakojimu, gelonų-budinų krašte Darijaus amžiuje žemdirbys
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

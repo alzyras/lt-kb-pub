@@ -88,3 +88,4 @@ Marijos Magdalenos baž­ nyčios, po dešine ranka Skapo gatvėje ant paties ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

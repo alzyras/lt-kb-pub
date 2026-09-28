@@ -118,3 +118,4 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
   pagrindžia:
     - t-001
     - t-002
+

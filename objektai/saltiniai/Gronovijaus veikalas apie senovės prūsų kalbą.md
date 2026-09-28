@@ -57,3 +57,4 @@ Senovės prūsų kalba, iš Gronovijaus; imta iš Ksavero Bogušo (p. 110):.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

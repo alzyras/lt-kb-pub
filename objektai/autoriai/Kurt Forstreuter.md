@@ -70,3 +70,4 @@ Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba ben
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

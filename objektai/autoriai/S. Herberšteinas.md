@@ -88,3 +88,4 @@ S. Herberšteinui priskiriami „Užrašai“, kuriuos tekstas laiko bene išsam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

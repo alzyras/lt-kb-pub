@@ -89,3 +89,4 @@ Suchodolskio kavalerijos daliniu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

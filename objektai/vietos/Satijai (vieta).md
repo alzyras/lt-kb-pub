@@ -78,3 +78,4 @@ Narbutas pasakoja, kad Satijų valsčiuje sugautas pagonių žynys, tikriausiai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

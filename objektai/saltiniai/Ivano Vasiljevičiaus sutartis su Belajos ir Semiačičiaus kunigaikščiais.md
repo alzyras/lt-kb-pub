@@ -67,3 +67,4 @@ Sutartimi buvo numatyta puldinėti Lietuvos Didžiąją Kunigaikštystę ir vald
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -115,3 +115,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata apie Sąjūdžio grupes bei mitingus."
   pagrindžia:
     - c-16973
+

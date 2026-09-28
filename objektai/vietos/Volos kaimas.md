@@ -78,3 +78,4 @@ Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

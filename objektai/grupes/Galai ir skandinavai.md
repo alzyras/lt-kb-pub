@@ -49,3 +49,4 @@ Narbutas rašė, kad lietuviai ant laidotuvių laužo kraudami mirusiajam brangi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

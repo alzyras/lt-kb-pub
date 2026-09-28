@@ -75,3 +75,4 @@ Raštas jiems nežinomas dalykas, be to, jie nesu prato, kaip parašytomis raid�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

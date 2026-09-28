@@ -139,3 +139,4 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
   pagrindžia:
     - t-001
     - t-002
+

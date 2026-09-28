@@ -106,3 +106,4 @@ Teodoras Narbutas teigia, kad Klaproto „Asia Polyglotta“ osetinų kalbos žo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

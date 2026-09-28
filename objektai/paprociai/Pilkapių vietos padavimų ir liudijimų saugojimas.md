@@ -72,3 +72,4 @@ Pavyko surinkti šiuos tenykščių kaimo gyventojų iš saugotus vietos padavim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

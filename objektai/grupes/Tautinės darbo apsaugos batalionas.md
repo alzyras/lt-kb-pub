@@ -119,3 +119,4 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
   pagrindžia:
     - t-001
     - t-002
+

@@ -117,3 +117,4 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

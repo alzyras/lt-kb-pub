@@ -72,3 +72,4 @@ Lietuvių karaliaus turtų valdytojas pažadėjo broliams išduoti Gardino pilį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

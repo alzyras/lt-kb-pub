@@ -192,3 +192,4 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

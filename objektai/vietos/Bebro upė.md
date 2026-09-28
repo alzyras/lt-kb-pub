@@ -133,3 +133,4 @@ Kryžiuočių ir gal totorių iš Galicijos pusės puolimų įbauginti ir neseni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

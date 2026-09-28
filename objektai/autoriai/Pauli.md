@@ -75,3 +75,4 @@ Nors Pauli savo Prūsijos valsty­ bės istorijoje, T.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

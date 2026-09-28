@@ -78,3 +78,4 @@ k atvirų šaltinių žvalgybą (osINT), taktinę ri es bet baat " + Įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

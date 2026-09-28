@@ -130,3 +130,4 @@ Kariela šiame šaltinyje yra regionas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

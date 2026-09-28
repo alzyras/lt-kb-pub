@@ -73,3 +73,4 @@ Lietaus dievaitis; tas, kuris švelniu lietumi reikiamu metu nudžiugina gamtą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

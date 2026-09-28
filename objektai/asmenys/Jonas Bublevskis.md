@@ -72,3 +72,4 @@ canonical_biography: "1639 m. Kauno miesto ūkvedys Jonas Bublevskis pranešė m
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

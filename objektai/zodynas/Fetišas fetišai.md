@@ -105,3 +105,4 @@ Narbutas į senosios lietuvių religijos vaizdą įtraukė 22 „paslaptingąsia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

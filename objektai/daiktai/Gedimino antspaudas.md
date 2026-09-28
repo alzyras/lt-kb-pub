@@ -297,3 +297,4 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

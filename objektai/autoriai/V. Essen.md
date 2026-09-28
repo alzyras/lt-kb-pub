@@ -90,3 +90,4 @@ Essen, V.: Die länd­ lichen Siedlungen in Litauen, SBRiga, 1934.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33168
+

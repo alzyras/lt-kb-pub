@@ -57,3 +57,4 @@ Laukstetų pilis ilgainiui buvo vadinama Viklandsorto pilimi.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

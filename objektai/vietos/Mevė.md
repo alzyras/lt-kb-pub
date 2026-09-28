@@ -121,3 +121,4 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

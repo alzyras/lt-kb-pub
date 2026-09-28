@@ -118,3 +118,4 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

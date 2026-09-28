@@ -73,3 +73,4 @@ Belgorodo totoriai gyveno prie Juodosios jūros Limano įlankos, tarp Bugo ir Be
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

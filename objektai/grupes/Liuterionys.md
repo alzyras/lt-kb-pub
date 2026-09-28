@@ -74,3 +74,4 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

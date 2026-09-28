@@ -58,3 +58,4 @@ Ant jo karūnuotos galvos yra žvaigž dėtas dangaus skliautas — visa tai pri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

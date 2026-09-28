@@ -71,3 +71,4 @@ Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvauj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

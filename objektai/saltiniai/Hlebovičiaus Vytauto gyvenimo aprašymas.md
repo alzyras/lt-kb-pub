@@ -73,3 +73,4 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

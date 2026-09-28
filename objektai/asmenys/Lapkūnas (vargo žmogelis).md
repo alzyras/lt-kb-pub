@@ -81,3 +81,4 @@ Lapkūnas aprašomas kaip vargingas kaimo žmogus, turėjęs gausią šeimą ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

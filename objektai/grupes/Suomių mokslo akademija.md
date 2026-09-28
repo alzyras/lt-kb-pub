@@ -81,3 +81,4 @@ Mokslo akademija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

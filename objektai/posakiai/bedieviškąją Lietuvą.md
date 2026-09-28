@@ -75,3 +75,4 @@ Iš Pskovo buvo atvykę Livonijon 200 karių kaip kalavijuočių ordino sąjungi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

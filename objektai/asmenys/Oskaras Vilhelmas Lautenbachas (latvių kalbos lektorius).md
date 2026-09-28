@@ -96,3 +96,4 @@ Lautenbachas šiame straipsnyje minimas kaip Tartų universiteto latvių kalbos 
   pagrindžia:
     - t-001
     - t-002
+

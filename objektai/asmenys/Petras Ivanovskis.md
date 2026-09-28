@@ -93,3 +93,4 @@ Jį, dar būdama Stanislovienė Goštautienė, Trakų vaivadienė, našlė, išd
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

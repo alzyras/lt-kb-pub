@@ -80,3 +80,4 @@ Teodoro Narbuto pasakojimu, lietuviai kartu su rusinais Kernavėje išrinko Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

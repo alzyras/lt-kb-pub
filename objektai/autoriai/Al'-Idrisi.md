@@ -89,3 +89,4 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

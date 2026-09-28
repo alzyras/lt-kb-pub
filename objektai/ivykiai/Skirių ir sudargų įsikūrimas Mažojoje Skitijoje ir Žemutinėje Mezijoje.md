@@ -72,3 +72,4 @@ Skiriai ir sudargai pradėjo kurtis Mažojoje Skitijoje ir Žemutinėje Mezijoje
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

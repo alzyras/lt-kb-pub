@@ -72,3 +72,4 @@ Kalibras - 17,4 mm. Pagamintas Potsdame.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

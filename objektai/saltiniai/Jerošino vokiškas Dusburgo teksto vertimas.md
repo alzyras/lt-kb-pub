@@ -59,3 +59,4 @@ Narbutas nurodo, kad Jerošinas vokiškame vertime sutrumpino Dusburgo teksto vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -75,3 +75,4 @@ Juodas keturkojis driežas buvo garbinamas kaip namų dievaitis, rūpestingai ma
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

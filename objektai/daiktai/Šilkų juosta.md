@@ -76,3 +76,4 @@ Vienam duosiu šilkų juostą, Antram duosiu aukso žiedą, Trečiam neturiu ko 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

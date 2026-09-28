@@ -76,3 +76,4 @@ Išgirdęs tą, vėl Boleslovas karalius siuntė į Parusnį siuntinius, liepdam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

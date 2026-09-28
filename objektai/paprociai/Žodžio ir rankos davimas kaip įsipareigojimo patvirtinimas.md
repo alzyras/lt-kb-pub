@@ -156,3 +156,4 @@ Skirgaila Jogailos ir savo vardu davė Kęstučiui bei Vytautui žodį ir ranką
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

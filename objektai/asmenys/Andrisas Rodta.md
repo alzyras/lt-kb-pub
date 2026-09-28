@@ -72,3 +72,4 @@ canonical_biography: "Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adoma
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

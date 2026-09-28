@@ -91,3 +91,4 @@ Basanavičius posakį „Dievas buvo augštai, teisybė — toli“ siejo su ūk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

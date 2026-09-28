@@ -76,3 +76,4 @@ Mikalojus Vorobjovas Claude Lorrainą mini tarp meistrų, kurių spalvų ir švi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -74,3 +74,4 @@ Sis pavadinimas kilęs iš lie tuviško žodžio Zeme-galas todėl, kad čia buv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

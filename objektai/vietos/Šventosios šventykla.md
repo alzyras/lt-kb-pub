@@ -67,3 +67,4 @@ Narbutas teigia, kad šią šventę prūsai užbaigdavo Šventosios (Szwenta) š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -68,3 +68,4 @@ Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309. Pėstininko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -77,3 +77,4 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

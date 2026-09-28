@@ -77,3 +77,4 @@ Ir jeigu kurio nors lietuvių kunigaikščio ar didiko kūną deginda vo, tai pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

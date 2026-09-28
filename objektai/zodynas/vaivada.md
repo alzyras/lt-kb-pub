@@ -316,3 +316,4 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211769
+

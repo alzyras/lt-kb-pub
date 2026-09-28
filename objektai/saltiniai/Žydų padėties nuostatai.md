@@ -112,3 +112,4 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
   pagrindžia:
     - t-001
     - t-002
+

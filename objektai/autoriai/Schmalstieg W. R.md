@@ -92,3 +92,4 @@ Dusburgietis teigia, kad schmalstieg W.
   temporaliniai_duomenys: "įvykio data: 1974 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Bibliografinis įrašas aiškiai nurodo autorių, knygos temą, vietą ir metus."
+

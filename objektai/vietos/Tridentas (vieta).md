@@ -91,3 +91,4 @@ Pakeliui teko visą savaitę prastomis sąlygomis gyventi Tridente.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

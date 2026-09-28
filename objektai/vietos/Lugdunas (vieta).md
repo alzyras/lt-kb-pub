@@ -78,3 +78,4 @@ Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

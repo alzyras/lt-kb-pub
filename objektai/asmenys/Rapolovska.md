@@ -76,3 +76,4 @@ Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

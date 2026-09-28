@@ -98,3 +98,4 @@ Narbutas pasakoja, kad Vaidevutis ir Brutenis Romuvoje sušaukė kunigaikščių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

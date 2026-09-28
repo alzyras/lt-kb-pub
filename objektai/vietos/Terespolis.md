@@ -186,3 +186,4 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

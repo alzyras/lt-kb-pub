@@ -78,3 +78,4 @@ XVI a. Lietuvoje lankęsis Gerardas Merkatorius pasakojo, kad paprasti žmonės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

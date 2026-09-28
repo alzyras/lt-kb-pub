@@ -76,3 +76,4 @@ Jonas Čarnkovskis nepatvirtintas jokia priesaika.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -73,3 +73,4 @@ Kauno vaito aktų knyga apima 1550–1555 m. laikotarpį ir saugoma Lietuvos val
   atnaujinta: "2026-07-26 21:24"
   pagrindžia:
     - t-001
+

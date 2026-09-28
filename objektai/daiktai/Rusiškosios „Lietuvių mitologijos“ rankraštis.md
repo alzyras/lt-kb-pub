@@ -105,3 +105,4 @@ Didelės apimties (862 lapai) rankraštis šiuo metu saugo mas Lietuvos mokslų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

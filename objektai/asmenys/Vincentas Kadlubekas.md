@@ -57,3 +57,4 @@ Narbutas, cituodamas Kadlubeką, rašė, kad Maslavo kariuomenėje prieš lenkų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

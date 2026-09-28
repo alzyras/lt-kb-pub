@@ -95,3 +95,4 @@ Jonas Tadas Božimovskis buvo Lydos pavieto stalininkas ir Rodūnės seniūnas. 
   pagrindžia:
     - t-001
     - t-002
+

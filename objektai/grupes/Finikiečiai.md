@@ -392,3 +392,4 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217082
+

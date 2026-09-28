@@ -63,3 +63,4 @@ Jono bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­ demijos kol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

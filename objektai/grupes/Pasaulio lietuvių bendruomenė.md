@@ -81,3 +81,4 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti aiškesnį teiginį apie organizaciją."
   pagrindžia:
     - c-22691
+

@@ -180,3 +180,4 @@ canonical_biography: "1483 m. karaliaus Kazimiero privilegijoje bajoras Rimvydas
   pagrindžia:
     - t-217426
     - t-219130
+

@@ -102,3 +102,4 @@ Gvebrus Narbutas apibūdino kaip Zoroastro mokymo išpažinėjus, ugnyje įžiū
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217168
+

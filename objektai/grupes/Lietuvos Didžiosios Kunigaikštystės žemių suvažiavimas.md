@@ -143,3 +143,4 @@ Visos LDK masto suvažiavimai įvairiuose šaltiniuose vadinami terminais „die
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

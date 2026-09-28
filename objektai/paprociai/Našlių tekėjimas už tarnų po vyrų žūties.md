@@ -73,3 +73,4 @@ Kulmo vyskupas, suteikęs našlėms nuodėmių atleidimą, įpareigojo jas tekė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

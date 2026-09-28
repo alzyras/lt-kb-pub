@@ -49,7 +49,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1929 m. susikūrė ugniagesių draugija.'
+  santrauka: ''
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 688 (PDF 689)"
   citatos_rezimas: "indeksas"

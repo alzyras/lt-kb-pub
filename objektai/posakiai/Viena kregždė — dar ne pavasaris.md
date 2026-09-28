@@ -57,3 +57,4 @@ Una hirundo non facit ver — viena kregždė -— dar ne pavasaris.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

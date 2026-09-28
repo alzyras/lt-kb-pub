@@ -119,3 +119,4 @@ Narbutas pasakoja, kad Lizdeika paskelbė didžiajam kunigaikščiui Gediminui p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

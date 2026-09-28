@@ -79,3 +79,4 @@ Spitrė buvo kryžiuočių pilis Tilžės teritorijoje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

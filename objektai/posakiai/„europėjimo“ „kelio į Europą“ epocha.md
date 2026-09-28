@@ -62,3 +62,4 @@ Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

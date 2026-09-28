@@ -75,3 +75,4 @@ Kęstutis, viešpataudamas Trakuose bei Žemaičiuose, išgirdo esant Palangoje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

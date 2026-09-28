@@ -87,3 +87,4 @@ O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistin�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

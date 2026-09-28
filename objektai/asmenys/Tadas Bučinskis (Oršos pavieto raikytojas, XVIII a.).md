@@ -84,3 +84,4 @@ Tadas Bučinskis buvo Oršos pavieto raikytojas. Tadas Bučinskis Dalyvavo Mykol
   pagrindžia:
     - t-001
     - t-002
+

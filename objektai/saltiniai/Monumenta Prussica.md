@@ -57,3 +57,4 @@ Bajeris ją norėjo įdėti į savo „Monumentą Prussica“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

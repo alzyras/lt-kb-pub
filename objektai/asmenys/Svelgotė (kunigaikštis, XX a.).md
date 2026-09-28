@@ -93,3 +93,4 @@ Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi t�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

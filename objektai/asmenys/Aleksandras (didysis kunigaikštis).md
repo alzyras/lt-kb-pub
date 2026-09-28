@@ -155,3 +155,4 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

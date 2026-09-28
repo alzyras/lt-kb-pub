@@ -101,3 +101,4 @@ Kadaise Rukainių bažnyčiai priklausęs Švč. M. Marijos paveikslas 1831 m. b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

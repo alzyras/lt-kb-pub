@@ -58,3 +58,4 @@ Briukneris sarkastiškai ironizuoja, kad mitologai („nuo Nar buto iki Karo“)
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

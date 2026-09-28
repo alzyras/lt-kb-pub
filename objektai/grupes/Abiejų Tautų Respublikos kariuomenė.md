@@ -72,3 +72,4 @@ ATR kariuomenės pratęsė Europos riterių atakos tradiciją, o Vakarų Europoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

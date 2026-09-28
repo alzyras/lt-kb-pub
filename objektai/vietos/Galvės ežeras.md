@@ -166,3 +166,4 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

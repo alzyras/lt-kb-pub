@@ -110,3 +110,4 @@ Iš baigiamų pjauti javų paskutinės saujos pjo vėjos nupina vainiką, išdab
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

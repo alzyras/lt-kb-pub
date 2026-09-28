@@ -139,3 +139,4 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-193352
+

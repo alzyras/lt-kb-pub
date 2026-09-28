@@ -112,3 +112,4 @@ Narbutas ypač reikšmingomis laikė ištraukas iš popiežiaus legato, Leodijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

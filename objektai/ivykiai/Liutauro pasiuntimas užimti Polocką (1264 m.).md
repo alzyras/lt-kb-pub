@@ -81,3 +81,4 @@ O Lietu vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre niotos mirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -109,3 +109,4 @@ Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine
   pagrindžia:
     - t-001
     - t-002
+

@@ -72,3 +72,4 @@ Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

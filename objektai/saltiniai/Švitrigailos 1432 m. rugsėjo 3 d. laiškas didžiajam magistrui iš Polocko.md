@@ -86,3 +86,4 @@ Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

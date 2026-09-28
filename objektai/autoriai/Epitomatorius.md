@@ -93,3 +93,4 @@ Epitomatorius nurodo tiesiai: Cives Rigenses et Archiepiscopus eorum tunc Rome a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

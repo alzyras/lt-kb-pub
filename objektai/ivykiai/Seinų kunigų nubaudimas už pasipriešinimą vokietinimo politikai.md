@@ -75,3 +75,4 @@ Tie Seinų kunigai, kurie priešinosi vo kietinimo politikai, tapo pabausti išv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

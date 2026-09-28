@@ -49,3 +49,4 @@ Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per nakt�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

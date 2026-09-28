@@ -108,3 +108,4 @@ Valatkevičius (Wotodkiewicz) 1513 metais prispaudė vieną iš Narbuto aprašyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

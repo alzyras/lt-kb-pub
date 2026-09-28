@@ -94,3 +94,4 @@ Kliukovskio raštas (pakvitavimas), d u o t a s dar 1591 m .
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

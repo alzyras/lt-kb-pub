@@ -156,3 +156,4 @@ canonical_biography: "“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lie
   pagrindžia:
     - t-001
     - t-002
+

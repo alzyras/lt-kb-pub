@@ -70,3 +70,4 @@ canonical_biography: 'Šlėceris teigė, kad lietuviai iki valstybės sukūrimo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

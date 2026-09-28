@@ -67,3 +67,4 @@ Pasak Teodoro Narbuto, Valenrodų giminė nuo seno gyveno Frankonijoje; vienas j
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

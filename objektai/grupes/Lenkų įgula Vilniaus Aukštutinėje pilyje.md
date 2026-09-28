@@ -310,3 +310,4 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

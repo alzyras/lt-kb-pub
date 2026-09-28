@@ -65,3 +65,4 @@ Atėjus kryžiuočiams, visos šios tvirtovės ir pilys visame Kulme ir Lubavoje
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

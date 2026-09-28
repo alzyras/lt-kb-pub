@@ -94,3 +94,4 @@ Narbuto mitologiniame aiškinime daugiskaita „Juodi“ („Johdi“) reiškia 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

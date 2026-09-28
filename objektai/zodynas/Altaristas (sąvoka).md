@@ -83,3 +83,4 @@ Kunigas A. Mažeika 1963 m. rugsėjo 6 d. paskirtas Kupiškio altaristu. Klebono
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

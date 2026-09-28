@@ -75,3 +75,4 @@ Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -104,3 +104,4 @@ Prekybos sutartis su Pskovu, kaip ir prieš metus sudarytoji su Naugardu, buvo p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

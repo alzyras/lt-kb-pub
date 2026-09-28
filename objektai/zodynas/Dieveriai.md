@@ -81,3 +81,4 @@ Terminas vartojamas vestuvių dovanų paskirstymo kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

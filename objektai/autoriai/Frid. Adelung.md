@@ -64,3 +64,4 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

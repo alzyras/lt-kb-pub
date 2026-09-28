@@ -96,3 +96,4 @@ Memelburgo pilis Klaipėdos griuvėsių vietoje prie Nemuno žiočių pradėta s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

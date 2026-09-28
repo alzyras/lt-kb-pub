@@ -84,3 +84,4 @@ Jaunikis atsisėda prie stalo pirmojoje vietoje ir tampa ramus apeigų stebėtoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

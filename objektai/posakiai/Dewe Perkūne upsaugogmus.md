@@ -59,3 +59,4 @@ Lietuviškai sako: Dewe Perkūne upsaugogmus!
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

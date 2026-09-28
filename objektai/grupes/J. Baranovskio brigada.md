@@ -73,3 +73,4 @@ Baranovskio brigada atakuoja 2-ojo pėst.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

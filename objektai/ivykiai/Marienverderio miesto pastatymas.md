@@ -71,3 +71,4 @@ Marienverderio miesto pastatymas sustiprino anksčiau įkurtą pilį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

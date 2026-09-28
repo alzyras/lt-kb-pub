@@ -81,3 +81,4 @@ Masonų organizacijose kampainis simboli zavo sąžine, akacijos šakelė - nemi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

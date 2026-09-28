@@ -62,3 +62,4 @@ Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno mie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

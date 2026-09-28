@@ -92,3 +92,4 @@ Nerija Putinaitė knygoje „Šiaurės Atėnų tremtiniai“ parodė, kaip skiri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

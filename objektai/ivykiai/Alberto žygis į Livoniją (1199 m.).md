@@ -103,3 +103,4 @@ Kai jau apsirūpino visais reikmenimis, Dortmundo grafo Konrado, narsaus riterio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

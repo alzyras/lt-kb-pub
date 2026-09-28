@@ -84,3 +84,4 @@ Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

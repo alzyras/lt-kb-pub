@@ -141,3 +141,4 @@ Karalius Jogaila, išleisdamas didįjį kunigaikštį Vytautą ir Skirgailą į 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

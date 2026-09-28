@@ -120,3 +120,4 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

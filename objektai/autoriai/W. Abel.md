@@ -76,3 +76,4 @@ W. Abelio samprata sieja derliaus svyravimus ir produkcijos kainos santykį su E
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

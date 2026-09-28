@@ -58,3 +58,4 @@ Pulka arba polka buvo žemiausias teritorinio padalijimo vienetas Prūsijoje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

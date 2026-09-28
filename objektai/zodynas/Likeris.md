@@ -87,3 +87,4 @@ Terminas vartojamas blaivybės ir gėrimo grįžimo kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

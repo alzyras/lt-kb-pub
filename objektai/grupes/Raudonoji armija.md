@@ -424,3 +424,4 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

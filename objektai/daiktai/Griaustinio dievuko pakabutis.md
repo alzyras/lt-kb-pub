@@ -76,3 +76,4 @@ Pakabutyje buvo pavaizduotas ant debesų sėdintis ir litaurais grojantis griaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

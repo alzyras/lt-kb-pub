@@ -122,3 +122,4 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

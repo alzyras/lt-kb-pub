@@ -76,3 +76,4 @@ Norėdamas savo žygiui į Pietus pa kviesti visus krivičius, Olegas pirmiausia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

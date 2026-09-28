@@ -113,3 +113,4 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

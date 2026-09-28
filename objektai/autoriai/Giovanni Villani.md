@@ -94,3 +94,4 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

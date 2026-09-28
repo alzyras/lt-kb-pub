@@ -64,3 +64,4 @@ Archierejaus balta su dviem bokštais cerkvė, prieš 45 metų katalikų domi ni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

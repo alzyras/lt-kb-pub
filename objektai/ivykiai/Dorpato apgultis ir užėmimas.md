@@ -77,3 +77,4 @@ Vienas gyvas paliktas rusinas buvo išsiųstas pranešti prie Pskovo stovėjusia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

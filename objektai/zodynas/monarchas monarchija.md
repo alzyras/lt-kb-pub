@@ -88,3 +88,4 @@ Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaik
   pagrindžia:
     - t-001
     - t-002
+

@@ -104,3 +104,4 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -105,3 +105,4 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210727
+

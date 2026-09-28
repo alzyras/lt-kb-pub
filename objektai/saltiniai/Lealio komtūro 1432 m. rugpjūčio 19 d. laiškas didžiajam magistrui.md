@@ -78,3 +78,4 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -90,3 +90,4 @@ Be to, sinodas kuo įsakmiausiai įsako vi­ siems klebonams miestuose ir kai­ 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -110,3 +110,4 @@ Lietuviai kartu su rygiečiais apsupo ordino Naujojo Malūno pilį, kurioje, pas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

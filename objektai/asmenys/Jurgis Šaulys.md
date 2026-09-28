@@ -95,3 +95,4 @@ canonical_biography: "Šaulys) bei užsienio lietuvių atstovai, pasisakyta už 
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir perkrautas, citata pagrindžia Šaulio dalyvavimą."
   pagrindžia:
     - c-21792
+

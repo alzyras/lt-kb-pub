@@ -87,3 +87,4 @@ Atviros strukt큰ros LDK 탑emi킬 suva탑iavimuose, be Pon킬 tarybos atstov킬, gal�
   patikimumo_saltinis: ai
   pagrind탑ia:
     - t-001
+

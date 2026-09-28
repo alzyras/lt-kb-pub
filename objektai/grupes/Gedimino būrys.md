@@ -72,3 +72,4 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

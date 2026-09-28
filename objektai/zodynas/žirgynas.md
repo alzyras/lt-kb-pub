@@ -98,3 +98,4 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

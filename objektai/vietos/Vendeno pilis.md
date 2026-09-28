@@ -120,3 +120,4 @@ Narbutas rašė, kad Dangerutis buvo Livonijos riterių suimtas ir surakintas Ve
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219613
+

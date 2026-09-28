@@ -83,3 +83,4 @@ A. Midletonas buvo šios grupuotės žmogus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

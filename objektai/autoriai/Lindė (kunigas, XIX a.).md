@@ -97,3 +97,4 @@ Pasiremsime tiktai Faterio, Lindės ir Bole- .
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

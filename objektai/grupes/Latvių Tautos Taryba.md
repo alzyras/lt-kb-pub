@@ -142,3 +142,4 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

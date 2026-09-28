@@ -65,3 +65,4 @@ Ta tauta išsau gojo savo gimtąją kalbą, kuria bendrauja tarpusavyje, tačiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

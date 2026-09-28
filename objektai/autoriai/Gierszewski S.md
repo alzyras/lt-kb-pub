@@ -100,3 +100,4 @@ Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -73,3 +73,4 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -85,3 +85,4 @@ Dusburgietis teigia, kad labuda G.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

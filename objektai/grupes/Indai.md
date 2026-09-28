@@ -387,3 +387,4 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

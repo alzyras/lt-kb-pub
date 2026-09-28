@@ -96,3 +96,4 @@ Pasak Teodoro Narbuto, vasario 15 d. Krokuvos Šv. Stanislovo katedroje Jogaila,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

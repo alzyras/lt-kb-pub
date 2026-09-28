@@ -103,3 +103,4 @@ Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -91,3 +91,4 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

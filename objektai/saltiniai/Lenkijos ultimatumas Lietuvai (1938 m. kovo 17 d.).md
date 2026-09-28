@@ -117,3 +117,4 @@ Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie admi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

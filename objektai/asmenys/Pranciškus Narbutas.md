@@ -130,3 +130,4 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217022
+

@@ -82,3 +82,4 @@ Narbutas nurodo, kad didysis kunigaikštis Žygimantas Kęstutaitis 1439 m., Šv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

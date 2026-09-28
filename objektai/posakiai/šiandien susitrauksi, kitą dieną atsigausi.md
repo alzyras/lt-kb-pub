@@ -78,3 +78,4 @@ Patariamoji formulė apie susilaikymo ir atsistatymo kaitą.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177868
+

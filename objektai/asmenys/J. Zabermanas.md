@@ -55,3 +55,4 @@ Vyskupas Motiejus Valančius per Jurgį Bielinį nusiuntė Tilžės dekanui kuni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

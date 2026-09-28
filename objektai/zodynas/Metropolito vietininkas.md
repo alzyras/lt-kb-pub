@@ -58,3 +58,4 @@ Foma Izufovas buvo metropolito vietininkas metropolito rūmuose prie Šventosios
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

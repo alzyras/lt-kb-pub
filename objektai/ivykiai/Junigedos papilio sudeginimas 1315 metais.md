@@ -71,3 +71,4 @@ Ordino kariuomenė nukovė daug žmonių, 78 paėmė į nelaisvę ir papilį sud
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

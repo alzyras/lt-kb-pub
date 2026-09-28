@@ -156,3 +156,4 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

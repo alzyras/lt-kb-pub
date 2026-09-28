@@ -66,3 +66,4 @@ Anksčiau sakėme, kad žyniai stebėdavo dangaus kūnų ju dėjimą, norėdami 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

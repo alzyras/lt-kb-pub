@@ -96,3 +96,4 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

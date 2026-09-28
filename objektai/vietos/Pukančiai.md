@@ -139,3 +139,4 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

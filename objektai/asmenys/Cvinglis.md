@@ -99,3 +99,4 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

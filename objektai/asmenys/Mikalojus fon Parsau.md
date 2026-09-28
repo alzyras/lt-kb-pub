@@ -99,3 +99,4 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -74,3 +74,4 @@ Nap. = Napiersky, K, E., Russisch - livländische Urkunden.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -76,3 +76,4 @@ Brakteate pavaizduotas ant debesų sėdintis griaustinio dievukas, grojantis lit
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

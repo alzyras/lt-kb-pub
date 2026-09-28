@@ -93,3 +93,4 @@ J. I. Kraševskis vertino Narbuto darbą kaip tokį neautentišką, kad vėlesni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -74,3 +74,4 @@ Dauguma laivo pirklių važiavo į neutralias šalis arba į Rusiją verslo dary
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -70,3 +70,4 @@ canonical_biography: "Štai 1638 m. Kauno pirklys Laurynas KojaIavičius kratės
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

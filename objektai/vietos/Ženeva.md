@@ -168,3 +168,4 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

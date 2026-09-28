@@ -74,3 +74,4 @@ Kad bitininkystė dar ir vėliau buvo svarbi ūkio šaka, rodo randami nuostatai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -76,3 +76,4 @@ iš Liubavski, Oblastnoe delenie L.R.Q.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -64,3 +64,4 @@ Niekas nežino, ar prieš daugelį tūkstančių metų tie patys amerikiečiai n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

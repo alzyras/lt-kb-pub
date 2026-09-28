@@ -32,7 +32,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Antanina Bartaševičienė"]
 sameAs: []
-canonical_biography: "Antanina Bartaševičienė (Salamiestis, 1958–1996)."
+canonical_biography: "."
 ---
 # Antanina Bartaševičienė
 
@@ -47,7 +47,7 @@ Antanina Bartaševičienė siejama su Salamiesčiu, o jos gyvenimo datos nurodom
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Antanina Bartaševičienė (Salamiestis, 1958–1996).'
+  santrauka: '.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 817 (PDF 818)"
   citatos_rezimas: "indeksas"

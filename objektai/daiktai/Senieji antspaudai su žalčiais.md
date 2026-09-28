@@ -81,3 +81,4 @@ Vaičius globėjus; daugiausia senuosiuose antspauduose yra vi saip susirangiusi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

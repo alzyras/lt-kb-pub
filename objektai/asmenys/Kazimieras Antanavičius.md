@@ -110,3 +110,4 @@ canonical_biography: "Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Ka
   pagrindžia:
     - t-001
     - t-002
+

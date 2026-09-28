@@ -94,3 +94,4 @@ Karolis Estreicheris veikiausiai teisingai iššifravo kitus ope ros veikėjus: 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

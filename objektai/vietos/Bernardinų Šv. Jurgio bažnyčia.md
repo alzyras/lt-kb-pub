@@ -98,3 +98,4 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

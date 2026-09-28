@@ -299,3 +299,4 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

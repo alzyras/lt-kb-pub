@@ -76,3 +76,4 @@ Trumpa juokaujanti formulė apie mėsos valgymą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -123,3 +123,4 @@ canonical_biography: "Šulskis šiame pasakojime minimas kaip senas ūkininkas, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

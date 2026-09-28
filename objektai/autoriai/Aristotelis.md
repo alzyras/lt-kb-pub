@@ -177,3 +177,4 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -75,3 +75,4 @@ Pirmieji žmonės mūsų krašte jau neabejotinai gyveno viduriniojo akmens amž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

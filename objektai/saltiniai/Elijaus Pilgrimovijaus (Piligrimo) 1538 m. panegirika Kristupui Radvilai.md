@@ -103,3 +103,4 @@ Tai Elijaus Pilgrimovijaus (Piligrimo) 1538 m. lotynų kalba išspausdinta paneg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -78,3 +78,4 @@ Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altaja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

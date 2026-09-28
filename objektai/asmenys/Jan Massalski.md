@@ -88,3 +88,4 @@ Józef Massalski do Ignacego Massalskiego, 01 0 1 1 7 5 6 , Slonim.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

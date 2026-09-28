@@ -116,3 +116,4 @@ Vartojamos formos: `aukos`, `aukas`.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218487
+

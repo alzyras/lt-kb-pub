@@ -53,3 +53,4 @@ Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

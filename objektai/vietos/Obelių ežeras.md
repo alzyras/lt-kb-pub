@@ -87,3 +87,4 @@ Prie Obelių ežero Ukmergės apskrityje degintiniame kape buvo rasti 2–5 coli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216930
+

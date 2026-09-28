@@ -72,3 +72,4 @@ Trimito vamzdis buvo iš rago ir supuvo žemėje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

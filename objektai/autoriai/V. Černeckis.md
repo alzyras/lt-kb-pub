@@ -89,3 +89,4 @@ canonical_biography: "Černeckis rašė apie kapitalistinės pramo­ nės formav
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

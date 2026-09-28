@@ -83,3 +83,4 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

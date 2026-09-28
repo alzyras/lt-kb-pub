@@ -61,3 +61,4 @@ Vaitas karštai tvirtino, kad savivaldos institucijų pareigūnai yra privilegij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

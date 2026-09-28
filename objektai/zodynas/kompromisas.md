@@ -67,3 +67,4 @@ Vytautui reikėjo padaryti kompromisą su viena jų, kad galėtų kovoti su kita
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

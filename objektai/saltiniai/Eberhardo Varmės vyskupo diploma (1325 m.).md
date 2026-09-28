@@ -92,3 +92,4 @@ Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 meta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

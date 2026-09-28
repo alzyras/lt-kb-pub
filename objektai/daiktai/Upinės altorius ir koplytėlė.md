@@ -74,3 +74,4 @@ Prie upelio, dešinėje vieš kelio pusėje, ant nedidelės žemės sankasos, ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -57,3 +57,4 @@ Tačiau slavai ir toliau gyveno šiame mieste ir jo apylinkėse.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

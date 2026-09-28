@@ -79,3 +79,4 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė nebuvo apie Habsburgų dinastiją ir buvo nebaigta."
   pagrindžia:
     - c-22405
+

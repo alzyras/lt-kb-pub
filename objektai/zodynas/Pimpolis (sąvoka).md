@@ -70,3 +70,4 @@ Latvių pranašautojai turėjo būrimo būdą, vadinamą Pimpolis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

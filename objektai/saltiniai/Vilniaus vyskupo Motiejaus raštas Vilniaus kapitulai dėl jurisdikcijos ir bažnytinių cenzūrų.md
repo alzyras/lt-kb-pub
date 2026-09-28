@@ -86,3 +86,4 @@ Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitul
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

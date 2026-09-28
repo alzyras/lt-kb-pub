@@ -99,3 +99,4 @@ Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -180,3 +180,4 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   pagrindžia:
     - t-002
     - t-22113
+

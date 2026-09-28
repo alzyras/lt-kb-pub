@@ -59,3 +59,4 @@ Narbutas mini kritiko teiginį, kad Jargallo, Jaygello ir Pomoloys esą aiškiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

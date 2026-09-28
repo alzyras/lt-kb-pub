@@ -58,3 +58,4 @@ Savavaldaus miesto laikotarpio Kauno istorijos objektas yra sudėtingas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

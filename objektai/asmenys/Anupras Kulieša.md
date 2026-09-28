@@ -79,3 +79,4 @@ canonical_biography: "Adomas Dzentoletas teigė, kad 1738 m. Anupras Kulieša u�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

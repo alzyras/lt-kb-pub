@@ -90,3 +90,4 @@ Terminas reiškia puotose vartotus saldžius vaisių gardėsius.
   atnaujinta: "2026-07-26 17:37"
   pagrindžia:
     - t-001
+

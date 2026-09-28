@@ -78,3 +78,4 @@ Pasiruošimas operacijai Įvertinusi situaciją vyriausioji Lietuvos karinė vad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

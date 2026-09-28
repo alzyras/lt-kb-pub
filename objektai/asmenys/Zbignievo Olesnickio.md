@@ -67,3 +67,4 @@ Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

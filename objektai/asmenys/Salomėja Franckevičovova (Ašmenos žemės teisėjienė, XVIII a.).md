@@ -96,3 +96,4 @@ Salomėjos Franckevičovovos vedybos pradėjo seimelių savaitę. Salomėja Fran
   pagrindžia:
     - t-001
     - t-002
+

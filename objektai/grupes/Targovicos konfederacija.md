@@ -285,3 +285,4 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208185
+

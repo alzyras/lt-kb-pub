@@ -86,3 +86,4 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
   pagrindžia:
     - t-001
     - t-70215
+

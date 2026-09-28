@@ -105,3 +105,4 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

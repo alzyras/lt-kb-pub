@@ -90,3 +90,4 @@ Piotras Wandyczius rašė, kad baudžiavos negalima laikyti svarbiausiu kriterij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -96,3 +96,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė yra gramatiškai nebaigta, citata leidžia suformuluoti aiškų sakinį."
   pagrindžia:
     - c-67001
+

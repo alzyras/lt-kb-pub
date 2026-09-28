@@ -82,3 +82,4 @@ Būdamas pilnas nemalonės naujiems karūnos politikos vai­ rininkams, kancleri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

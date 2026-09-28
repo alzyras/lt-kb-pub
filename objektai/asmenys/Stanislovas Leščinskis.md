@@ -158,3 +158,4 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

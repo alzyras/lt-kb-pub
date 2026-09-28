@@ -94,3 +94,4 @@ Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212569
+

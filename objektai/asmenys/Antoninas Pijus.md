@@ -70,3 +70,4 @@ Rimvydas Laužikas nurodo, kad šv. Justinas Antoninui Pijui (138–161) rašė 
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

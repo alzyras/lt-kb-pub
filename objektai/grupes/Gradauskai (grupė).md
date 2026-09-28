@@ -68,3 +68,4 @@ Kaune bajoriškų giminių atšakų, virtusių miestiečiais, pavyzdžiai buvo B
   atnaujinta: "2026-07-26 21:24"
   pagrindžia:
     - t-001
+

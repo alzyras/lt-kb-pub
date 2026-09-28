@@ -141,3 +141,4 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

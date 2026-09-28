@@ -81,3 +81,4 @@ Teodoras Narbutas, remdamasis laiško Čekijos karaliui Otokarui II citata, kuri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

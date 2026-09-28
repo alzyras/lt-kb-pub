@@ -120,3 +120,4 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

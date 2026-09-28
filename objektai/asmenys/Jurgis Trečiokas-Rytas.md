@@ -76,3 +76,4 @@ Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

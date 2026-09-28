@@ -80,3 +80,4 @@ Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo pozicij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

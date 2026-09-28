@@ -94,3 +94,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai nurodo rinkimų rezultatą."
   pagrindžia:
     - c-22986
+

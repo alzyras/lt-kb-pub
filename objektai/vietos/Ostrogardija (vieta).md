@@ -96,3 +96,4 @@ Narbutas Ostrogardijoje lokalizuoja nuolatinį skandinavų įsikūrimą Rusioje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

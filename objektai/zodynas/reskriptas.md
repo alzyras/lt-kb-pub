@@ -112,3 +112,4 @@ Dusburgietis teigia, kad mat popiežius pasakė, kad ir pasaulietiški, ir dvasi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-223212
+

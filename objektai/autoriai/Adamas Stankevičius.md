@@ -103,3 +103,4 @@ Iš Adamo Stankevičiaus tyrimų žinomas Lietuvos Vyriausiojo Tribunolo regenta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

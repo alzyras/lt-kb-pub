@@ -64,3 +64,4 @@ Polianai chazarams mokėjo nedidelę duoklę iki IX amžiaus antrosios pusės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

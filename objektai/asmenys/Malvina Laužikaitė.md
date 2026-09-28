@@ -31,7 +31,6 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Malvina Laužikaitė"]
 sameAs: []
-canonical_biography: "Sesuo Malvina Laužikaitė 1948 m. buvo ištremta Ò Irkutsko sritÒ."
 ---
 # Malvina Laužikaitė
 

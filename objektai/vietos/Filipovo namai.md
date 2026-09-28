@@ -188,3 +188,4 @@ O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

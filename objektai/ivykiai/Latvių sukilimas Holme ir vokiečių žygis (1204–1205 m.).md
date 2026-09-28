@@ -99,3 +99,4 @@ Latviai pasklido į šalis, didesnė dau guma užsidarė pilyje, krikščionims 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

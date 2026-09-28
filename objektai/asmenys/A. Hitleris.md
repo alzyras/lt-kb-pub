@@ -292,3 +292,4 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

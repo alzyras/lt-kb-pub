@@ -65,3 +65,4 @@ Konkrečias aplinkybes, kuriomis imperatorius Zigmantas Luc ke iškėlė pasiūl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

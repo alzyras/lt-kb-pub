@@ -93,3 +93,4 @@ Narbutas nurodo, kad šiuo ediktu riterių luomo lietuvaičiams suteikta teisė 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

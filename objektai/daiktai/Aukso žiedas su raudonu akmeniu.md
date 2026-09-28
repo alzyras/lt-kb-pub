@@ -77,3 +77,4 @@ Prie Merkinės valstietis rado aukso žiedą su raudonu akmeniu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

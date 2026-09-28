@@ -85,3 +85,4 @@ Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­ no, lenkas, Aro 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

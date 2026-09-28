@@ -57,3 +57,4 @@ Man būtų reikėję ieškotis žmonos, o dabar pats dievas man davė žmoną.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

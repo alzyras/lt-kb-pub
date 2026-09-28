@@ -79,3 +79,4 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

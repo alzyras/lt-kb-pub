@@ -242,3 +242,4 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

@@ -71,3 +71,4 @@ Kai ant Dniepro saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

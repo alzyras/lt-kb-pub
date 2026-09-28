@@ -124,3 +124,4 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215033
+

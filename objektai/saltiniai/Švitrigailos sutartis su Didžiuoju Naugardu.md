@@ -113,3 +113,4 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

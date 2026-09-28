@@ -82,3 +82,4 @@ Lappo : Litovskij Statut 1588 goda, I t.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

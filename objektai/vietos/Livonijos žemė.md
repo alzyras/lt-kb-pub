@@ -66,3 +66,4 @@ Krivio valiai, šaltinio pasakojimu, pakluso lietuviai ir kitos Livonijos žemė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

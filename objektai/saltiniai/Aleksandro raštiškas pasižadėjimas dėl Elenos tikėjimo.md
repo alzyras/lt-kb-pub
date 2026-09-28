@@ -147,3 +147,4 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

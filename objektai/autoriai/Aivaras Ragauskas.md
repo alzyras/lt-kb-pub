@@ -87,3 +87,4 @@ Aivaras Ragauskas aptaria XVI-XVIII a. Lietuvos Didžiosios Kunigaikštystės mi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

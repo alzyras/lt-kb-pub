@@ -94,3 +94,4 @@ Ašarinės minimos kapaviečių aprašymuose ir Saurų dvaro muziejaus kataloge.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

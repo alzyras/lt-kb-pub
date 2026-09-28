@@ -74,3 +74,4 @@ Trečioji tvirtovės dalis nuo Dangės pusės atiteko vyskupui, o dvi dalys nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

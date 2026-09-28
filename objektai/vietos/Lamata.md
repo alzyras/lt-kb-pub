@@ -99,3 +99,4 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryÅ¾tingai kariavo, kad per Å
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

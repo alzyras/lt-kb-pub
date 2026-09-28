@@ -68,3 +68,4 @@ Michelis Foucault apibūdino aplink vedamą nuteistąjį susirinkusią publiką 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

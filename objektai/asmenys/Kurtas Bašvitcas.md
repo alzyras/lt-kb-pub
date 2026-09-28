@@ -85,3 +85,4 @@ Kurtas Bašvitcas buvo raganavimo istorijos Europoje tyrėjas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

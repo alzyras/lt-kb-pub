@@ -57,3 +57,4 @@ Teodoras Narbutas Kadlubekui priskyrė pasakojimą, kad Maslavo kariuomenėje pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

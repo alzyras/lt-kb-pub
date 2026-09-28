@@ -86,3 +86,4 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

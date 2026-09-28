@@ -533,3 +533,4 @@ Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

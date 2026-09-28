@@ -82,3 +82,4 @@ Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -117,3 +117,4 @@ A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
   pagrindžia:
     - c-192069
+

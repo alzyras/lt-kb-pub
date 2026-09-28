@@ -70,3 +70,4 @@ Linksmūnėlis45, Jonas Šliūpas46, Konstancija Skirmuntaitė47), nors ir žino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

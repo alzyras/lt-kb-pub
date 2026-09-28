@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVII amžius"
 periodo_pradzia: 1601
 periodo_pabaiga: 1700
-periodo_objektu_skaicius: 1094
+periodo_objektu_skaicius: 1095
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1094.
+Objektų skaičius: 1095.
 
 ## Susiję objektai
 
@@ -810,6 +810,7 @@ Objektų skaičius: 1094.
 - [[objektai/saltiniai/1737 m. lietuvių kalbos gramatika]]
 - [[objektai/saltiniai/1808. X. 29 Platelių dvaro inventorius]]
 - [[objektai/saltiniai/1858 m. sausio 10 d. Motiejaus Valančiaus ganytojiškas laiškas apie valstiečių reformos ruošimą]]
+- [[objektai/saltiniai/1947 m. gegužės 5 d. operatyvinė suvestinė Nr. 66 apie Kupiškio apskritį]]
 - [[objektai/saltiniai/A. Filipeckio pamokslų rinkinys]]
 - [[objektai/saltiniai/A. Kobylinskis]]
 - [[objektai/saltiniai/A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329]]

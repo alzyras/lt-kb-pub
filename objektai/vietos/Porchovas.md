@@ -144,3 +144,4 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211550
+

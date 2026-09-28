@@ -125,3 +125,4 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

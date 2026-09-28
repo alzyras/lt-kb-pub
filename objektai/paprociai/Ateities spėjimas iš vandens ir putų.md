@@ -74,3 +74,4 @@ Pranašautojai ateitį nusakydavo iš stebimo vandens, ypač pagal jo ūžimą a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -72,3 +72,4 @@ Kryžininkas iš Meiseno per vienus Prūsijoje praleistus metus įvykdė maldini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

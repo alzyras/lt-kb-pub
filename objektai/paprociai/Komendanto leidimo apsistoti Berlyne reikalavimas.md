@@ -82,3 +82,4 @@ Rusijos pavaldinys, neturėdamas tokio leidimo, neturėjo teisės sustoti Berlyn
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -181,3 +181,4 @@ Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

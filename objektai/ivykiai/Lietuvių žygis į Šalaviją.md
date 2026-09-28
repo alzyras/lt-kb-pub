@@ -76,3 +76,4 @@ Keturiomis kolonomis, kurių kiekvienoje buvo mažiausiai po 4 000 ginkluotų ž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

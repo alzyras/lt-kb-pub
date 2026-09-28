@@ -58,3 +58,4 @@ Narbuto aprašyme pelazgai buvo pasklidę nuo Po ir Arno upių žiočių iki Dne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

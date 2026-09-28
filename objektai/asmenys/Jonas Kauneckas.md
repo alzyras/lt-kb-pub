@@ -97,3 +97,4 @@ canonical_biography: "1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarins
   temporalinis_llm_pakomentavimas: "Pradinis teiginys neakcentuoja asmens; citata tiesiogiai nurodo jo narystę TTGK."
   pagrindžia:
     - c-21739
+

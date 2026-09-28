@@ -85,3 +85,4 @@ Savęs išaukštinimo ir politinio nuopelno deklaracija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

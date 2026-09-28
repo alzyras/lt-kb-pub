@@ -77,3 +77,4 @@ canonical_biography: "1694 m. Kristupas Karolis Mykolas Butleris Vilniuje išbuv
   atnaujinta: "2026-07-19 13:07"
   pagrindžia:
     - t-001
+

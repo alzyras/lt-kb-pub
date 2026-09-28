@@ -183,3 +183,4 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

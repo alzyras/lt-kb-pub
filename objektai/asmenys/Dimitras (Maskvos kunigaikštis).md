@@ -113,3 +113,4 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

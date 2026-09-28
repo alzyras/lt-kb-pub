@@ -111,3 +111,4 @@ LDK įstatymuose visiškai laisvi, į jokį luomą neįsilieję ir šeimininkų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

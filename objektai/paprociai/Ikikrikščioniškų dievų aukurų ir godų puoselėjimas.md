@@ -119,3 +119,4 @@ Teodoras Narbutas teigia, kad pasikeitus religijai buvo sudaužyti dievų altori
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

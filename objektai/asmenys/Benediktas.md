@@ -87,3 +87,4 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

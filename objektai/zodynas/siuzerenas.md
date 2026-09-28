@@ -69,3 +69,4 @@ Kuriuo tikslu buvo rodomas toks pa­ lankumas šiam naujam kandidatui į lenkų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

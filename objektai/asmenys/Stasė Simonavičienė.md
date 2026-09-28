@@ -23,22 +23,22 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Stasė Simonavičienė"]
 sameAs: []
-canonical_biography: "Pirmininke buvo išrinkta Stasė Simonavičienė."
+canonical_biography: "."
 ---
 # Stasė Simonavičienė
 
 ## Santrauka
 
-Pirmininke buvo išrinkta Stasė Simonavičienė.
+.
 
 ## Santrauka
 
-Pirmininke buvo išrinkta Stasė Simonavičienė.
+.
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Pirmininke buvo išrinkta Stasė Simonavičienė.'
+  santrauka: '.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 445 (PDF 446)"
   citatos_rezimas: "indeksas"

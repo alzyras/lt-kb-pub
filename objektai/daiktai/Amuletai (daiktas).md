@@ -78,3 +78,4 @@ Amuletai buvo laikomi senųjų dievų simboliais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

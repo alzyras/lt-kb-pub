@@ -80,3 +80,4 @@ Jos siekė veikti išvien ir pasitarnauti Lietuvos laisvės bylai tarptautiniu m
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

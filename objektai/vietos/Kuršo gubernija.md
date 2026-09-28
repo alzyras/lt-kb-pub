@@ -454,3 +454,4 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209476
+

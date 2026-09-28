@@ -92,3 +92,4 @@ canonical_biography: "1865 m.), Gertrude Ellion (Geltrūda Elion, 1918–1999; 1
   temporalinis_llm_pakomentavimas: "Pradinis teiginys perkrautas kitais asmenimis; citata palaiko faktą apie Brennerį."
   pagrindžia:
     - c-22022
+

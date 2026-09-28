@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Juozapas Čerka"]
 sameAs: []
-canonical_biography: "Didžprūdžiai – 2 dūmai (Jokūbo Šulnio – vaito, Juozapo Čerkos našlės)."
+canonical_biography: "."
 ---
 # Juozapas Čerka
 

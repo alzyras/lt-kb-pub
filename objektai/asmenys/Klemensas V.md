@@ -258,3 +258,4 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

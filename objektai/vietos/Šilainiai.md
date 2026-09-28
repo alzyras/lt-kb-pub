@@ -83,3 +83,4 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

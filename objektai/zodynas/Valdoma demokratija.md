@@ -68,3 +68,4 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

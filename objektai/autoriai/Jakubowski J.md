@@ -78,3 +78,4 @@ Dusburgietis teigia, kad tai nuo Dlugošo einanti tradicija — Jakubowski J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

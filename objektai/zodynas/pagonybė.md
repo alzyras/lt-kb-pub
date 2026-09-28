@@ -133,3 +133,4 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   pagrindžia:
     - t-002
     - t-003
+

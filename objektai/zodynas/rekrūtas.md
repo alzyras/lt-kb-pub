@@ -63,3 +63,4 @@ Rekrūtus rinkti Lietuvoje buvo galima tik į Lietuvos, o Lenkijoje tik į Lenki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

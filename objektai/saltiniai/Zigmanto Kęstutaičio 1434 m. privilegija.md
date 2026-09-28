@@ -76,3 +76,4 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

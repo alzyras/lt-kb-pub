@@ -83,3 +83,4 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai atitinka citatoje pateiktą informaciją."
   pagrindžia:
     - c-23915
+

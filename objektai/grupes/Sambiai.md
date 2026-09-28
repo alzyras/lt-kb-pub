@@ -298,3 +298,4 @@ Baltų / prūsų regioninė grupė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214759
+

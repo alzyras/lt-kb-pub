@@ -54,3 +54,4 @@ Friedricho Adelungo „Rapport entre la langue sanscrite et la langue russe“ i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -72,3 +72,4 @@ Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, mid
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -60,3 +60,4 @@ Amerikos indėnai išsaugojo atmintį apie akmenų garbinimą, nes jie, kaip sak
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

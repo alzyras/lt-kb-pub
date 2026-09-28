@@ -83,3 +83,4 @@ Teodoras Narbutas nurodo, kad kunigaikščiais išrinkti Giliginas ir Trobiaus p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

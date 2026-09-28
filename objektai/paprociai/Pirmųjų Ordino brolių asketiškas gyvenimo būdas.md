@@ -74,3 +74,4 @@ Kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius kaip atsisak
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

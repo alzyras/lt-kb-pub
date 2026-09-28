@@ -179,3 +179,4 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

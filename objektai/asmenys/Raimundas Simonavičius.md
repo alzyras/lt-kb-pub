@@ -33,7 +33,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Raimundas Simonavičius"]
 sameAs: []
-canonical_biography: "Raimundas Simonavičius 1998 m. buvo paskirtas Kupiškio parapijos vikaru. Raimondas Simonavičius Kupiškyje vikaru dirbo 1998–2001 m."
+canonical_biography: "Raimundas Simonavičius 1998 m. buvo paskirtas Kupiškio parapijos vikaru. "
 ---
 # Raimundas Simonavičius
 
@@ -86,3 +86,4 @@ Raimundas Simonavičius 1998 m. buvo paskirtas Kupiškio vikaru. Raimundas Simon
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

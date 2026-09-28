@@ -60,3 +60,4 @@ Mes savo aprašymuose laikomės vidurio tarp visiško nepasitikėjimo senovės p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -67,3 +67,4 @@ Vorobjovui Vilniaus gatvių vaizdai su varpinėmis ir bažnyčių frontonais pri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

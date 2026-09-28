@@ -141,3 +141,4 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   pagrindžia:
     - t-001
     - t-002
+

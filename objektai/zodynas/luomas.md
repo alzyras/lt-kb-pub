@@ -725,3 +725,4 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207766
+

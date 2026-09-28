@@ -76,3 +76,4 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

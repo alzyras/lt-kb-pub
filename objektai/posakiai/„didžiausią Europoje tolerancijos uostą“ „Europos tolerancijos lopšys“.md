@@ -82,3 +82,4 @@ Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

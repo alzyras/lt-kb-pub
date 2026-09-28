@@ -81,3 +81,4 @@ Be to, rengė astronomo Mikalojaus Ko­ perniko raštus, dalyvavo leidžiant sen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

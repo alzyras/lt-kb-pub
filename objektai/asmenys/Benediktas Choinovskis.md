@@ -70,3 +70,4 @@ Kur minėti anksčiau išvardinti ponai tarėjai šio miesto amžinai atminčiai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

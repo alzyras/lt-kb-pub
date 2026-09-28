@@ -130,3 +130,4 @@ Narbutas rašo, kad 1813 m. Lokaičių palivarko nuomotojas Daujotas jam pasakoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217543
+

@@ -102,3 +102,4 @@ Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos val
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -122,3 +122,4 @@ Rekolekcijos buvo viena iš dvasinio gyvenimo atsinaujinimo ir pažangos priemon
   vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
     - c-191434
+

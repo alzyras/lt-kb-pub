@@ -84,3 +84,4 @@ Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurina
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -70,3 +70,4 @@ Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai pri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

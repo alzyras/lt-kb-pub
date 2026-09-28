@@ -75,3 +75,4 @@ Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

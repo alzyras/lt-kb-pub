@@ -73,3 +73,4 @@ Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis, 1574-1653), garsus Jėz
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

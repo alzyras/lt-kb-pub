@@ -70,3 +70,4 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

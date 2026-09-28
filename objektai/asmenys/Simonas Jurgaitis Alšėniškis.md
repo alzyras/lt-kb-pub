@@ -75,3 +75,4 @@ Lucko seniūnas Simonas Jurgaitis Alšėniškis mirė 1505 ar 1506 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

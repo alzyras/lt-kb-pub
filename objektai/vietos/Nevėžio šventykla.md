@@ -98,3 +98,4 @@ Narbutas prie Nevėžio mini šventyklą kaip vieną iš istorijoje žinomų kal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

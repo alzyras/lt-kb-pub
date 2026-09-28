@@ -89,3 +89,4 @@ pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

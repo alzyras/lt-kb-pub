@@ -182,3 +182,4 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

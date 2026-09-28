@@ -74,3 +74,4 @@ Konduktorius padavė bilietus, bet prašneko lenkiškai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -65,3 +65,4 @@ Tokiu pačiu sakiniu prasideda Lietuvos metraščių TS nuora šų trumpas pasak
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

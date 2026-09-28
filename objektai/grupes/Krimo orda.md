@@ -61,3 +61,4 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

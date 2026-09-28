@@ -117,3 +117,4 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

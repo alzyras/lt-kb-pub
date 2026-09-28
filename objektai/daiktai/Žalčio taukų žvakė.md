@@ -79,3 +79,4 @@ Lietuviai tam tikriems burtams naudodavo žvakes, paga mintas iš žalčio tauk�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

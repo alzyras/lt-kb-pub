@@ -97,3 +97,4 @@ Galop 1234 me tų gruodžio 20-ąją padalijo kryžiuočiams ir Rygos mies tui E
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

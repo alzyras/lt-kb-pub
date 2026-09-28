@@ -230,3 +230,4 @@ canonical_biography: "(^4) PRATARMĖ Šitame ryšyje verta paminėti, kad prof. 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

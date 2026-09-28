@@ -1381,3 +1381,4 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+

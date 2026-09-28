@@ -171,3 +171,4 @@ Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219269
+

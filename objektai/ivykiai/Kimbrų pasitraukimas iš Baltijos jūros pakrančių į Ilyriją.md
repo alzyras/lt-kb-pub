@@ -76,3 +76,4 @@ Savaime suprantama, tokia didžiulė nelaimė turėjusi iš stumti tuometinius B
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

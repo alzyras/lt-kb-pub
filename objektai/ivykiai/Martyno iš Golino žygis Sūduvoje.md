@@ -70,3 +70,4 @@ Martynas iš Golino su 4 vokiečiais ir 11 prūsų užpuolė Sūduvos kaimą ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

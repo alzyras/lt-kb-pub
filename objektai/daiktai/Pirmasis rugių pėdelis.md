@@ -76,3 +76,4 @@ Lasickis trum pai pamini, kad šeimininkas, nupjovęs patį pirmąjį pėdelį r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

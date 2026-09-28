@@ -67,3 +67,4 @@ Parčevo suvažiavimo nesėkmė nesustabdė luominio susirinkimo modelio populia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

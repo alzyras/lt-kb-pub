@@ -58,3 +58,4 @@ Sybinskio aprašytoji antikinė „stebėtino gražumo nimfa Alexothe“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

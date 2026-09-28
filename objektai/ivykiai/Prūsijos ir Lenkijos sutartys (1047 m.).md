@@ -98,3 +98,4 @@ Karalius, būdamas ramaus būdo, dievotas, lengvai leidosi įkalba mas, paliko P
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

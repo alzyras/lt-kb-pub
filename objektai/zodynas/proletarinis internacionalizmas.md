@@ -107,3 +107,4 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
   pagrindžia:
     - t-001
     - t-002
+

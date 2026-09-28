@@ -72,3 +72,4 @@ canonical_biography: "1637 m. Kauno miesto taryba sprendė miestelėno Kristupo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

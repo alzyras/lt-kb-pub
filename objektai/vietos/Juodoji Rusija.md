@@ -122,3 +122,4 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

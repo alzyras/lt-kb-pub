@@ -73,3 +73,4 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -133,3 +133,4 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

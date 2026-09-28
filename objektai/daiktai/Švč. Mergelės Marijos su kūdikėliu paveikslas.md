@@ -90,3 +90,4 @@ Sūduvis iš Lenkijos išgabeno Švč. Mergelės Marijos su kūdikėliu ant rank
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

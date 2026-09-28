@@ -76,3 +76,4 @@ Rugsėjį Konradas Ciolneris vadovavo į Lietuvą atžygiavusiai didžiajai kry�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

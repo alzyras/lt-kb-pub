@@ -86,3 +86,4 @@ Stanislovas Gurskis buvo šaltinių publikacijos „Acta Tomiciana“ sudarytoja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

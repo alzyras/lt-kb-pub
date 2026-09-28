@@ -152,3 +152,4 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

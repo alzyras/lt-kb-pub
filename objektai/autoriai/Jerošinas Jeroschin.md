@@ -129,3 +129,4 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

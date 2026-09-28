@@ -144,3 +144,4 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

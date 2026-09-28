@@ -68,3 +68,4 @@ Versmėse Pinsko gyveno vadinami budinai, kurie kalbėjo mišria grekonų ir ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

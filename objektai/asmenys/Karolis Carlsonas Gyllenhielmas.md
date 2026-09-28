@@ -172,3 +172,4 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

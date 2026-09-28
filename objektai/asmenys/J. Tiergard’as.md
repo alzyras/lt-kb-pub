@@ -75,3 +75,4 @@ Tiergard’as reiškė tą pačią nuomonę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

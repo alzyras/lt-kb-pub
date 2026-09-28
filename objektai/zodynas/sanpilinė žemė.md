@@ -61,3 +61,4 @@ Nenuo stabu, kad tokia jūra, kupina beformių kyšulių, priešingų stipriausi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

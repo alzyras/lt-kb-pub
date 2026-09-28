@@ -159,3 +159,4 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

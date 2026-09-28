@@ -134,3 +134,4 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

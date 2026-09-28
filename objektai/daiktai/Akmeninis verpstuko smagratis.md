@@ -74,3 +74,4 @@ Visuomet pagoniškose kapa vietėse randamas koks nors geležinis daiktas, padė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -81,3 +81,4 @@ Dusburgietis teigia, kad zweck A.
   temporalinis_llm_pakomentavimas: "Citata pateikia straipsnio temą, metus ir leidinį."
   pagrindžia:
     - c-202675
+

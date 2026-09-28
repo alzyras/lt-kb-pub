@@ -79,3 +79,4 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

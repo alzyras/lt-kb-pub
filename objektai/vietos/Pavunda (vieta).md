@@ -79,3 +79,4 @@ canonical_biography: 1308 metais Pavundos valsčius buvo nusiaubtas gaisrais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

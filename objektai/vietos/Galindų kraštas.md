@@ -98,3 +98,4 @@ Galindų krašte, klestinčiame dėl ilgos taikos, taip padau gėjo žmonių, ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

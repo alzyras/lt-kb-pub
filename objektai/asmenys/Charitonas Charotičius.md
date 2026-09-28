@@ -76,3 +76,4 @@ canonical_biography: "21 Patvirtinimas Vilniaus burmistrui Charitonui Charotiči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

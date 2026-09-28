@@ -96,3 +96,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir pagrįstas citatos informacija."
   pagrindžia:
     - c-23177
+

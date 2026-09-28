@@ -63,3 +63,4 @@ Narbutas Polencą mini kaip liuteronų vyskupą, kurio ir Pauliaus Sprito Karali
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

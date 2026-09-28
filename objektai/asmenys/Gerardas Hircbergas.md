@@ -157,3 +157,4 @@ canonical_biography: "1258 m. vicemagistro Gerardo Hircbergo sutartyje nurodyti 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

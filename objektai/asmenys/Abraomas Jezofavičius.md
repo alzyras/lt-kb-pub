@@ -129,3 +129,4 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

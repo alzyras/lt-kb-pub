@@ -75,3 +75,4 @@ Vaitiekaus Goštauto, Lietuvos kanclerio, antkapio autoriumi laikomas Sienos sku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

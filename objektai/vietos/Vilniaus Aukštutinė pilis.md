@@ -298,3 +298,4 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

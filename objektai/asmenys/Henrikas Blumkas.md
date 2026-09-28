@@ -71,3 +71,4 @@ Pablogėjus bajoro ir kauniečio santykiams verslovę bandė perimti kitas Kauno
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

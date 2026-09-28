@@ -139,3 +139,4 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

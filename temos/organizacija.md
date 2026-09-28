@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 86
+tema_objektu_skaicius: 85
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 86.
+Objektų skaičius: 85.
 
 ## Kaip naudoti
 
@@ -60,7 +60,6 @@ Objektų skaičius: 86.
 - [Lietuvių informacijos biuras Lozanoje](../objektai/grupes/Lietuvi%C5%B3%20informacijos%20biuras%20Lozanoje)
 - [Lietuvos Helsinkio grupė](../objektai/grupes/Lietuvos%20Helsinkio%20grup%C4%97)
 - [Lietuvos laisvės armija](../objektai/grupes/Lietuvos%20laisv%C4%97s%20armija)
-- [Lietuvos laisvės kovos sąjūdis](../objektai/grupes/Lietuvos%20laisv%C4%97s%20kovos%20s%C4%85j%C5%ABdis)
 - [Lietuvos laisvės kovotojų sąjunga](../objektai/grupes/Lietuvos%20laisv%C4%97s%20kovotoj%C5%B3%20s%C4%85junga)
 - [Lietuvos masonų organizacijos](../objektai/grupes/Lietuvos%20mason%C5%B3%20organizacijos)
 - [Lietuvos Persitvarkymo Sąjūdis](../objektai/grupes/Lietuvos%20Persitvarkymo%20S%C4%85j%C5%ABdis)

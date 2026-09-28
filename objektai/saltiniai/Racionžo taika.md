@@ -61,3 +61,4 @@ Prekybos tvarkos straipsniai buvo pakartoti 1404 m. Racionžo taikos sutartyje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

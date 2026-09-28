@@ -115,3 +115,4 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -85,3 +85,4 @@ Paguodė pirmieji laimėjimai – disko metikas Romas Ubartas 1992 m. Barselonos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

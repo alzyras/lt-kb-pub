@@ -126,3 +126,4 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

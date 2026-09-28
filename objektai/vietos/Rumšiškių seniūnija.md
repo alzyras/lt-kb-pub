@@ -88,3 +88,4 @@ Rumšiškių seniūnijos valstiečiams buvo skirta 100 kirčių bausmė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

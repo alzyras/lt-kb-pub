@@ -94,3 +94,4 @@ Jogailos asmeniniai antspaudai buvo su Dvigubu kryžiumi raitelio skyde.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

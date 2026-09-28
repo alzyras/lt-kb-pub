@@ -246,6 +246,7 @@ object_page_seo_policy_version: object-page-policy/v7
   temporalinis_llm_pakomentavimas: "Citata leidžia papildyti datą ir suvienodinti formuluotę."
   pagrindžia:
     - c-163103
+    - c-181278
 
 <a id="claim-t-179377"></a>
 - t-011
@@ -622,6 +623,7 @@ object_page_seo_policy_version: object-page-policy/v7
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-163071
+    - c-181260
 
 <a id="claim-t-179410"></a>
 - t-031
@@ -1357,6 +1359,7 @@ object_page_seo_policy_version: object-page-policy/v7
   susije_objektai: "mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
+    - c-163071
     - c-181260
 
 <a id="claim-t-203370"></a>
@@ -1963,6 +1966,7 @@ object_page_seo_policy_version: object-page-policy/v7
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+    - t-080
 
 - id: c-163074
   autorius: "Petras Dusburgietis"
@@ -3255,6 +3259,7 @@ object_page_seo_policy_version: object-page-policy/v7
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-030
     - t-080
 
 - id: c-181261
@@ -3642,6 +3647,8 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-010
 
 - id: c-181279
   autorius: "Michał Baliński"

@@ -67,3 +67,4 @@ Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu)
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -78,3 +78,4 @@ Kar tais toji pusė, kuri norėjo būti išteisinta, pasišaukdavo ieškinį pa 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

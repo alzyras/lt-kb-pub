@@ -87,3 +87,4 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Culm / Bearbeitet von C.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

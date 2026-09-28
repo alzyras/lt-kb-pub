@@ -95,3 +95,4 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

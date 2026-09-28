@@ -64,3 +64,4 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

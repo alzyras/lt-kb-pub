@@ -73,3 +73,4 @@ Taip pat dešimtinė nuo visų garbin­ gojo Stanislovo Skopo gėrybių, kurias 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

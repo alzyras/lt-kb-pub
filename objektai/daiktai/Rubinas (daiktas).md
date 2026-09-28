@@ -84,3 +84,4 @@ Rubinas buvo įtaisytas vainiko viršuje ir, vainikui nukritus, iškrito bei pra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

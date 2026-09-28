@@ -76,3 +76,4 @@ Mirusįjį, vežamą į laidotuvių vietą, lydi raiti ginkluoti gi minaičiai i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

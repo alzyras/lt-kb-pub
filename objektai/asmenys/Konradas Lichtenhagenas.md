@@ -97,3 +97,4 @@ Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

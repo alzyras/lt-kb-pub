@@ -75,3 +75,4 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

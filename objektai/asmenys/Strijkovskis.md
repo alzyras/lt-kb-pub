@@ -94,3 +94,4 @@ Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214751
+

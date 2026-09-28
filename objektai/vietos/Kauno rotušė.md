@@ -101,3 +101,4 @@ Kauno rotušės kalėjime turėjo būti atliekamos 3 arba 6 savaičių laisvės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -74,3 +74,4 @@ Dusburgietis teigia, kad odoj R.
   ryšio_targeto_parinkimas: "Mozūrija: mention_match, place, gap=66"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Odoj R\" parinktas kaip owner_note_path. Targetas \"Mozūrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

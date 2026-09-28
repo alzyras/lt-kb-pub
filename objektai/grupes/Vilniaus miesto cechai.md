@@ -119,3 +119,4 @@ Vilniaus miesto amatų cechų visuma.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

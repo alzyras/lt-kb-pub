@@ -83,3 +83,4 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
   pagrindžia:
     - t-001
     - t-002
+

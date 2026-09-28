@@ -77,3 +77,4 @@ Kaltinamieji Pogosto dvaro valstiečius traktavo kaip esančius jų jurisdikcijo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

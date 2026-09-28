@@ -72,3 +72,4 @@ Tėvas jsitikrino, kad lietuvių klausimas — ne juoko klausimas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

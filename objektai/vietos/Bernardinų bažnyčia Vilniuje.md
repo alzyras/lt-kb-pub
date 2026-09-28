@@ -370,3 +370,4 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+

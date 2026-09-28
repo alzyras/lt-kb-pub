@@ -86,3 +86,4 @@ Lietuvos pijorai tuo metu priklausė Lenkijos pijorų provincijai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

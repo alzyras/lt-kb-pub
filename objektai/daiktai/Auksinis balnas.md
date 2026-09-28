@@ -75,3 +75,4 @@ Vytautas savo žentui dovanojo žirgų su aukso balnais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

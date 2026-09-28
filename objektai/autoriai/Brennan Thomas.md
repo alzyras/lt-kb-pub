@@ -71,3 +71,4 @@ Brennanas Thomasas 1989 m. žurnale „Journal of Social History“ paskelbė st
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

@@ -66,3 +66,4 @@ Norie upė išteka iš Sierra Verdės ir įteka į Santandero įlanką.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

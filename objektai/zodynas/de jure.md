@@ -152,3 +152,4 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

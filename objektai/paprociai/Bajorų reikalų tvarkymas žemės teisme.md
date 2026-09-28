@@ -111,3 +111,4 @@ Bajorų juridiniai veiksmai ir finansinės operacijos būdavo užfiksuojami pili
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

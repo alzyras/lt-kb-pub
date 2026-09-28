@@ -87,3 +87,4 @@ Dusburgietis teigia, kad plinius C.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -100,3 +100,4 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

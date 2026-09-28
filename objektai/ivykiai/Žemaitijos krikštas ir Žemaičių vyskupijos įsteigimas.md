@@ -75,3 +75,4 @@ Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose pastatė Šv. Petro ba
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

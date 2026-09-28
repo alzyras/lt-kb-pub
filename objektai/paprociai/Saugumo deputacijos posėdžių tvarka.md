@@ -94,3 +94,4 @@ Saugumo deputacijos posėdžiai vykdavo du kartus per dieną, ryte ir po pietų,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

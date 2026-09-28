@@ -78,3 +78,4 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūkęs; citata leidžia suformuluoti trumpą faktinį sakinį."
   pagrindžia:
     - c-24778
+

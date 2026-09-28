@@ -164,3 +164,4 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
   pagrindžia:
     - t-002
     - t-003
+

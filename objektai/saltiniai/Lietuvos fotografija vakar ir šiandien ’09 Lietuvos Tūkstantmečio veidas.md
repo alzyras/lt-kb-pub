@@ -64,3 +64,4 @@ Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantm
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

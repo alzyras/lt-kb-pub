@@ -62,3 +62,4 @@ Europoje ir Lietuvos Didžiojoje Kunigaikštystėje galiojo principas „miesto 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -23,7 +23,7 @@ entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Santa Neimanaitė"]
 sameAs: []
-canonical_biography: "Kupiškio tvenkinio geografinė padėtis Santa Neimanaitė."
+canonical_biography: "."
 ---
 # Santa Neimanaitė
 

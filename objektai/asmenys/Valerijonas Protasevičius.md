@@ -763,3 +763,4 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

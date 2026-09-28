@@ -75,5 +75,6 @@ KGB išsiaiškino, kas lapkričio 1 d. padėjo gėlių vazonėlius ir uždegė �
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

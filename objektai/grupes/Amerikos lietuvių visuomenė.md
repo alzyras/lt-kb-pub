@@ -58,3 +58,4 @@ Pasekmės tų tarybų, kurios tęsė si ir vėla iki 5 ryto Hotely Continental, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

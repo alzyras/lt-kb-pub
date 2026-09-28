@@ -102,3 +102,4 @@ Hansas Šachas 1567 m. išdėstė naują luomų sampratą kūrinyje apie visų �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

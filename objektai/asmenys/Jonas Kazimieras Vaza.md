@@ -77,3 +77,4 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

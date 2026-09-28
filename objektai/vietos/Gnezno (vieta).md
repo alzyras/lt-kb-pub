@@ -72,3 +72,4 @@ Setidawa arba Cidova buvo netoli Gnezno.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -92,3 +92,4 @@ Zenonas Norkus formuoja idėją, kad bent XIV–XV a. LDK buvo britaniško model
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

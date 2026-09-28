@@ -115,3 +115,4 @@ Per trumpą Jono Augštuolio buvimą Stockholme į Lietuvą buvo persiųsta arti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

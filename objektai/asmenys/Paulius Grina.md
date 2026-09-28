@@ -23,7 +23,6 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Paulius Grina"]
 sameAs: []
-canonical_biography: "Paulius susilaukė 11 vaikų, o jauniausias Pranciškus liko tėvų ūkyje."
 ---
 # Paulius Grina
 
@@ -61,5 +60,6 @@ Paulius Grina susilaukė 11 vaikų, o jauniausias sūnus Pranciškus liko tėvų
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

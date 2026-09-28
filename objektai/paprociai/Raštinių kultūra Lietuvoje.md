@@ -134,3 +134,4 @@ Didžiojo kunigaikščio raštinėje raštininkai lydėjo valdovą kelionėse ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

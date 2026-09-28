@@ -105,3 +105,4 @@ Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

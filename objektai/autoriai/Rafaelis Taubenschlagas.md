@@ -69,3 +69,4 @@ Rafaelis Taubenschlagas tyrė Justiniano kodeksų įtaką Antrajam Lietuvos Stat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

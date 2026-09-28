@@ -65,3 +65,4 @@ Imatrikuliuotas asmuo šaltinyje yra įrašytas į Vilniaus miesto piliečių b�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

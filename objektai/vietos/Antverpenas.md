@@ -82,3 +82,4 @@ Kristupas Pacas lankydavo Rubenso dirbtuvę Antverpene, keliaudamas po Italiją 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

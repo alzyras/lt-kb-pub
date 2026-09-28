@@ -69,3 +69,4 @@ LLL buvo paskutinė rezistencijos organizacija, kuri brežnevinės stagnacijos l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

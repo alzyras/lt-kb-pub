@@ -66,3 +66,4 @@ Sprendžiant iš kreipinių į jį ir maldelių, išlikusių kroniko se ir senov
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

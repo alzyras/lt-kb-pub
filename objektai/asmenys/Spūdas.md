@@ -163,3 +163,4 @@ Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-222384
+

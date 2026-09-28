@@ -75,3 +75,4 @@ Pirmoji sidabrinė moneta (žr.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

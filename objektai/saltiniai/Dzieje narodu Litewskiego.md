@@ -48,3 +48,4 @@ T. Narbutto „Dzieje narodu Litewskiego“ 9 tomas buvo išleistas Vilniuje 184
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

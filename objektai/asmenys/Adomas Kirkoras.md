@@ -85,3 +85,4 @@ Adomas Kirkoras kasinėjo pilkapius Lydos apskrityje prie Ogrodnikų kaimo, gret
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

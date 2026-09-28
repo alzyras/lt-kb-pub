@@ -73,3 +73,4 @@ Už Centralio komiteto atsiųstus 8.000 kronų nupirkta reikalingų drabužių v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

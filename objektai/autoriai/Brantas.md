@@ -127,3 +127,4 @@ Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218979
+

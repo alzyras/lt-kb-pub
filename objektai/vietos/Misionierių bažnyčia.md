@@ -75,3 +75,4 @@ Misionierių bažnyčia buvo užbaigta dešimt metų vėliau ir plėtojo Šv. Ko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

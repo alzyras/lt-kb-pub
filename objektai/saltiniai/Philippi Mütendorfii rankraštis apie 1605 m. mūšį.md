@@ -67,3 +67,4 @@ Rankraštyje minima, kad Ketleriui atvykus padėti Chodkevičiui tarp Kuršo baj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

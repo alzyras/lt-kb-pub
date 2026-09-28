@@ -81,3 +81,4 @@ Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

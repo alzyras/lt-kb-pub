@@ -80,3 +80,4 @@ Teodoras Narbutas Jogailą apibūdina kaip tuometinį Vitebsko, Krėvos ir Lydos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

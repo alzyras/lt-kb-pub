@@ -58,3 +58,4 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

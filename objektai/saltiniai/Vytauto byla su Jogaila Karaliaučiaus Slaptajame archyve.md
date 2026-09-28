@@ -129,3 +129,4 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

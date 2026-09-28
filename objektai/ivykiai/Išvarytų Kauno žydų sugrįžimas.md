@@ -69,3 +69,4 @@ Mums begyvenant Kaune per mėne sį laiko gyventojų skaitlius padidėjo, nes da
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

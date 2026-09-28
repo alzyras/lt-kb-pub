@@ -98,3 +98,4 @@ Robertas Jurgaitis (Vytauto Didžiojo universitetas).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

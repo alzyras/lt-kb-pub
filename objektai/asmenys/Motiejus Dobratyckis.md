@@ -93,3 +93,4 @@ Motiejus Dobratyckis, šaltinyje įvardijamas Vilniaus kanauninku kunigaikščiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

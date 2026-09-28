@@ -190,3 +190,4 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

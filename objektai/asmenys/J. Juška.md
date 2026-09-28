@@ -54,7 +54,7 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
 
 <a id="claim-t-225966"></a>
 - t-225966
-  teiginys: "Subačiaus skyriaus bibliotekėlę tvarkė Jonas Juška."
+  teiginys: ""
   atnaujinta: "2026-09-25 02:17"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
@@ -107,3 +107,4 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-225966
+

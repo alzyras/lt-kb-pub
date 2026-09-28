@@ -83,3 +83,4 @@ Drakšos 1991 m. Vienas iš LR seimo rūmuose budėjusių savanorių šaunamųj�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

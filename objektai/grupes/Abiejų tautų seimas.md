@@ -103,3 +103,4 @@ Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų me
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

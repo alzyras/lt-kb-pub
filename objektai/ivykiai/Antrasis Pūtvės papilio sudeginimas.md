@@ -71,3 +71,4 @@ Atstatytas Pūtvės papilys tų pačių metų rudenį buvo antrą kartą sudegin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

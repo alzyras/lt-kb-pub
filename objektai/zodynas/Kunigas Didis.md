@@ -108,3 +108,4 @@ Narbutas aiškino, kad runų įrašo junginys KUNI: DI reiškia „Kunigas Didis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216349
+

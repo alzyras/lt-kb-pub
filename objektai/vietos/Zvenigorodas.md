@@ -118,3 +118,4 @@ Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211731
+

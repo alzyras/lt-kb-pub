@@ -109,3 +109,4 @@ Algirdas, aprimęs dėl kryžiuočių, pasiuntė pas chaną Džanibeką iškilmi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

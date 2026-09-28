@@ -90,3 +90,4 @@ Taip pat, kad miesto gyventojai savo reikmėms galėtų lengviau pasisamdyti pa�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

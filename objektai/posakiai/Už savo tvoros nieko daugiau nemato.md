@@ -56,3 +56,4 @@ Už savo tvoros nie ko daugiau nemato.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

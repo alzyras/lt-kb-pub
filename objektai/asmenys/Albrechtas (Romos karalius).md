@@ -260,3 +260,4 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   pagrindžia:
     - t-003
     - t-005
+

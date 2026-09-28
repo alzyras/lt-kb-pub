@@ -54,3 +54,15 @@ Vienas Kupiškio tvenkinio pusiasalis yra prie Miliūnų kaimo, už Palėvenėl�
   patikimumo_saltinis: ai
   statusas: verified
 - t-002
+
+## Citatos
+
+- id: c-214820
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 151"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 151."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:24"
+

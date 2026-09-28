@@ -102,3 +102,4 @@ Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

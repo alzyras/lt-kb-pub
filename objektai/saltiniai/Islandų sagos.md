@@ -46,3 +46,4 @@ Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

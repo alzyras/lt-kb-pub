@@ -145,3 +145,4 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -109,3 +109,4 @@ Kad bausmė būtų skirta, nužudymo ir sužeidimo bylose reikėjo priesaikų. N
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

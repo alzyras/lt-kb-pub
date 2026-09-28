@@ -69,3 +69,4 @@ Vytautas padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­ vo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

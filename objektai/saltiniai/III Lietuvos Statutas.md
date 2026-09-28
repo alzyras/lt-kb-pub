@@ -94,3 +94,4 @@ II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

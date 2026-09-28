@@ -169,3 +169,4 @@ Narbutas mini Lėrbergą tarp šiuolaikinių istorikų, kurie stengėsi sukelti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217457
+

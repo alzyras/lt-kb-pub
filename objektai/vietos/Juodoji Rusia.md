@@ -122,3 +122,4 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -168,3 +168,4 @@ Anot Maksimiliano Osolinskio, germanų giminėje jūros pakrančių gyventojai b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

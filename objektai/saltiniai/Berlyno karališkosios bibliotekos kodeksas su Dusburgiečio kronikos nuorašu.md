@@ -64,3 +64,4 @@ Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

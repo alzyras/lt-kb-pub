@@ -96,3 +96,4 @@ Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 met
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

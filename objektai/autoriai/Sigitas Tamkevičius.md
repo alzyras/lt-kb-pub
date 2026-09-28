@@ -141,3 +141,4 @@ Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 19
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

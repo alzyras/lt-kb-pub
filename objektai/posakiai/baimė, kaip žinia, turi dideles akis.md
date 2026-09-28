@@ -55,3 +55,4 @@ Kojelavičius posakiu „baimė turi dideles akis“ aiškino karaliaus nerimą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

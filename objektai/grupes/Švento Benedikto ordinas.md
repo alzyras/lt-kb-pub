@@ -84,3 +84,4 @@ Dusburgietis teigia, kad apie vienuolijų kilmę ir pradžią Švento Benedikto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

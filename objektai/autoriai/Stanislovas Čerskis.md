@@ -82,3 +82,4 @@ Stanislovas Čerskis šiame straipsnyje minimas kaip vienas iš pirmųjų Žemai
   atnaujinta: "2026-07-26 17:37"
   pagrindžia:
     - t-001
+

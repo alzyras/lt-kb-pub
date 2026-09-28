@@ -217,3 +217,4 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

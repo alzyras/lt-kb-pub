@@ -63,3 +63,4 @@ Zigmantas Kiaupa daro prielaidą, kad Grigas Mikalaitis Vijūkas buvo Jono Kojal
   atnaujinta: "2026-07-26 21:24"
   pagrindžia:
     - t-001
+

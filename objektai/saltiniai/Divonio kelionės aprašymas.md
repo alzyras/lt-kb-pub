@@ -71,3 +71,4 @@ Narbutas nurodo, kad Divonio kelionės aprašymas išliko rankraštyje, siejamam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -61,5 +61,6 @@ Jonas Minkevičius buvo dumplinių instrumentų muzikantas ir muzikavo kartu su 
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

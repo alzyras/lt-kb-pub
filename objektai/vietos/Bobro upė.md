@@ -85,3 +85,4 @@ Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

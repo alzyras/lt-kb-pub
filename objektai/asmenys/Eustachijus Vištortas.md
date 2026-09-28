@@ -71,3 +71,4 @@ Lietuvos bernardinų istorijos tyrinėtojams nežinomas gvardijonas Eustachijus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -79,3 +79,4 @@ Po 1018 m. Boleslovas Narsusis prie Lenkijos karalystės prijungė prie Bugo esa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -76,3 +76,4 @@ Tuo tarpu Bazelio bažnytinis susirinkimas dar 1431 m. pabaigoje siekė sutaikyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

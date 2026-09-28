@@ -95,3 +95,4 @@ Teodoras Liubartaitis buvo atkeltas iš Voluinės Vladimiro valdyti Siverų Naug
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

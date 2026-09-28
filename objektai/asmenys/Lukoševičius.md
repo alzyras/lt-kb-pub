@@ -75,3 +75,4 @@ canonical_biography: "Šalia jo stovėjęs skyrininkas Lukoševičius komisarą 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

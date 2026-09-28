@@ -68,3 +68,4 @@ Luko Davido kronikos leidimo prierašai Teodoro Narbuto nuorodoje siejami su Hen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

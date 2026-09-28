@@ -80,3 +80,4 @@ Didysis kunigaikštis, pasak Teodoro Narbuto, pasiūlė apsikeisti belaisviais; 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -161,3 +161,4 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

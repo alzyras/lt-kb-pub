@@ -80,3 +80,4 @@ Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -70,3 +70,4 @@ Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \ o 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

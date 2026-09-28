@@ -63,3 +63,4 @@ Vaitas Jokūbas Šukas prisiminęs, kad buvę viešai paskelbta, jog be laidavim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -138,3 +138,4 @@ Stoties oficieriai pranešė keliautojams, kad be Hindenburgo leidimo jie negal�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

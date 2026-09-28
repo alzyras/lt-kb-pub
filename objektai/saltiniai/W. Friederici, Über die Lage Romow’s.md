@@ -44,3 +44,4 @@ Dusburgietis teigia, kad intako Auksinės žemupio vietovardžius Kreiwutschen i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

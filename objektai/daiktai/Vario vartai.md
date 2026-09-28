@@ -72,3 +72,4 @@ Stipriausius vario vartus sunaikino, geležies velkes sulaužė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

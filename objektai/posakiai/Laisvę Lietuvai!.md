@@ -97,3 +97,4 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
   temporalinis_llm_pakomentavimas: "Citata nepagrindžia, kad tai buvo pirmas toks protesto atvejis."
   pagrindžia:
     - c-23552
+

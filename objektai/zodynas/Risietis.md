@@ -93,3 +93,4 @@ Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė min
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

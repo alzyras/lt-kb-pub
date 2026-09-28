@@ -66,3 +66,4 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

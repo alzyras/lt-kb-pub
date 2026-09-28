@@ -93,3 +93,4 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -73,3 +73,4 @@ Narbutas pasakoja, kad kryžiuočiai beveik visus Sūduvos gyventojus iškapojo,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

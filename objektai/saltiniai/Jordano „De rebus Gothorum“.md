@@ -102,3 +102,4 @@ Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

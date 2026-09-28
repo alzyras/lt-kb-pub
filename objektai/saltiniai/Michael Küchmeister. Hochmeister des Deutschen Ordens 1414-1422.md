@@ -76,3 +76,4 @@ Nöbel : Michael Küchmeister.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

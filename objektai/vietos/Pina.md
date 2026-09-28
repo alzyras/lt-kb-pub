@@ -80,3 +80,4 @@ Pinskas lokalizuojamas prie Pinos upės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

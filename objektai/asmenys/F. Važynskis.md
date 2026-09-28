@@ -81,3 +81,4 @@ Apie susirinkusius seimelius minėjo R Važynskis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

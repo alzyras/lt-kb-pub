@@ -121,3 +121,4 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

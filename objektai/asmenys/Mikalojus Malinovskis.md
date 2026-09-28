@@ -126,3 +126,4 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

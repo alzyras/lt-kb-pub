@@ -169,3 +169,4 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

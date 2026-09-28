@@ -227,3 +227,4 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
   vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
     - c-191423
+

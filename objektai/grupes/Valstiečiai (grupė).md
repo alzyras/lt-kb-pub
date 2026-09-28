@@ -77,3 +77,4 @@ XVI a. pirmosios pusės teismo byla rodo, kad valstiečių ir bajorų kasdienio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

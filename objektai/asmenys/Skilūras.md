@@ -102,3 +102,4 @@ canonical_biography: "94 m. pr. Kr. roksolanai, vadovaujami Pasijaus, Paiako sū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

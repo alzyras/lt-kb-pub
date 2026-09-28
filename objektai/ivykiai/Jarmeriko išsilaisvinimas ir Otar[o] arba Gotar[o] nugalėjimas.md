@@ -95,3 +95,4 @@ Pabėgęs iš nelaisvės Jarmerikas užpuolė švedų karalių Otarą arba Gotar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -62,3 +62,4 @@ Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio, ltn. Raibikio, ltn. 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

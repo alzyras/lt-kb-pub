@@ -242,3 +242,4 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207814
+

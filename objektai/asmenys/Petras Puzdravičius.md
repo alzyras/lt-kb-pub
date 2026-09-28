@@ -77,3 +77,4 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

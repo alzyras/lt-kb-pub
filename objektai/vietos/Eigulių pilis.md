@@ -85,3 +85,4 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

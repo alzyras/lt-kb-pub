@@ -84,3 +84,4 @@ Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią anal
   pagrindžia:
     - t-001
     - t-002
+

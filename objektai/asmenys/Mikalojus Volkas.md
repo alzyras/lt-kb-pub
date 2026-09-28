@@ -86,3 +86,4 @@ Savininkui Mikalojui Volkui buvo grąžintas neteisėtai konfiskuotas Aristavos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

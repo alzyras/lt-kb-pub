@@ -103,3 +103,4 @@ Jurgis Ciapinskis buvo Lietuvos pijorų provincijos sekretorius.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

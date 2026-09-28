@@ -98,3 +98,4 @@ Antanas Gumovskis Vilniuje 170z m. pradėjo sudarinėti Vilniaus pranciškonų m
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

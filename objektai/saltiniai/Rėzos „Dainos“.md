@@ -104,3 +104,4 @@ Narbutas iš Rėzos „Dainų“ pateikė dainą Naujosios Prūsijos, arba Prūs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

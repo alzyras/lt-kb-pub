@@ -175,3 +175,4 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   pagrindžia:
     - t-002
     - t-004
+

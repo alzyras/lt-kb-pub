@@ -77,3 +77,4 @@ Mindaugo 1261 m. Sėlių žemės dovanojimo kryžiuočiams akte apibrėžiamos �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -74,3 +74,4 @@ Lietuviams buvo žinomas dievinamų asmenų stabų staty mas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

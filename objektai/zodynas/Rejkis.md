@@ -180,3 +180,4 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -95,3 +95,4 @@ Jonas Kiška 1586 m. pabaigoje rašė apie naujo valdovo rinkimų reikalus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -66,3 +66,4 @@ Eugenijaus Jovaišos straipsnis „Baltų visuomenė ankstyvųjų viduramžių p
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

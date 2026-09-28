@@ -64,3 +64,4 @@ Todėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia prekybą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

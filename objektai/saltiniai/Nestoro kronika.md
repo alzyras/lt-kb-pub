@@ -241,3 +241,4 @@ Iki šiol tačiau lieka neišrištas klausimas, ar neurus galima sieti su Nestor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

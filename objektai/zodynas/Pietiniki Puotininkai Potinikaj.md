@@ -105,3 +105,4 @@ Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

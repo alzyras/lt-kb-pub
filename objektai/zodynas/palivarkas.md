@@ -177,3 +177,4 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208465
+

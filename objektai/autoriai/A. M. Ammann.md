@@ -84,3 +84,4 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

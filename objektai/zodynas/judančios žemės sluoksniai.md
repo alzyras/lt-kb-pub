@@ -154,3 +154,4 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

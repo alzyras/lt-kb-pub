@@ -108,3 +108,4 @@ canonical_biography: "(Medicinos daktaro Renjė 1839 metų gmodžio 15 dienos la
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

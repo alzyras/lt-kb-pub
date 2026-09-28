@@ -80,3 +80,4 @@ Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -77,3 +77,4 @@ Vėlyvaisiais viduramžiais skandinimas kaip mirties bausmės vykdymo forma, reg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

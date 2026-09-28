@@ -95,3 +95,4 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-222218
+

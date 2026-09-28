@@ -68,3 +68,4 @@ Teko laikyti rankose rankraščius, turin čius žinių apie juodkalniečius; ja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

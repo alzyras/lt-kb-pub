@@ -91,3 +91,4 @@ Henrikas Julijus Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

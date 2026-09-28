@@ -101,3 +101,4 @@ Tad būt'ent 1218 metais ten nuvyko pirmieji Zemgalos asmenys, gy venę jų sost
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

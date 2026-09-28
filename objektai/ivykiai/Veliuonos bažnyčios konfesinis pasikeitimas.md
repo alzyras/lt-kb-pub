@@ -72,3 +72,4 @@ Valdant Žygimantui Augustui, Veliuonos klebonas Ragauskas priėmė socinų tik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

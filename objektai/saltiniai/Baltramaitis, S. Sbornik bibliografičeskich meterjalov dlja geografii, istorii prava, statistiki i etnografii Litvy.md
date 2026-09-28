@@ -74,3 +74,4 @@ Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

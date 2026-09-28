@@ -97,3 +97,4 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

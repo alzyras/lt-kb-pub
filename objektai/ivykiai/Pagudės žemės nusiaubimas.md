@@ -70,3 +70,4 @@ Konradas iš Tirbergo ir broliai įsiveržė į Pagudės žemę, išžudė daug 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

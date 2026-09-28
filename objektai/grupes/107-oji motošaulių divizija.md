@@ -82,3 +82,4 @@ kelio iki AT) 107-oji motošaulių divizija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

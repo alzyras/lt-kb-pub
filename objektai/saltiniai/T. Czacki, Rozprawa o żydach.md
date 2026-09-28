@@ -83,3 +83,4 @@ C z a c k i Rozpra­ wa o żydach, p. 107, Vilniuje, Zavadzkio sp., 1807.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

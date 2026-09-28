@@ -57,3 +57,4 @@ Keliolika Kauno pavieto bajorų konstatavo, kad mūsų Petrašiūnų dvaro mūs�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

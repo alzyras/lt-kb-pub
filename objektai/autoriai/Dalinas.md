@@ -147,3 +147,4 @@ Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuoda
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

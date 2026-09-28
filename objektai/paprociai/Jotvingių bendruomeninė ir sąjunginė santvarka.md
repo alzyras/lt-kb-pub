@@ -75,3 +75,4 @@ Jotvingių tauta, kiek galima spręs ti iš istorinių šaltinių, buvo mažai c
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

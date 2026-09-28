@@ -739,3 +739,4 @@ Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216457
+

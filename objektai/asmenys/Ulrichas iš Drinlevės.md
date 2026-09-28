@@ -111,3 +111,4 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

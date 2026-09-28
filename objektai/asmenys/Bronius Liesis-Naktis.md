@@ -87,3 +87,4 @@ canonical_biography: "Žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

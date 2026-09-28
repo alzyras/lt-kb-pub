@@ -84,3 +84,4 @@ Tadas Korsakas šiame straipsnyje minimas kaip kanauninkas, Šv. Mykolo bažnyč
   pagrindžia:
     - t-001
     - t-002
+

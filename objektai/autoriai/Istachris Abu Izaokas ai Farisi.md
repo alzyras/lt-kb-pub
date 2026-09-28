@@ -106,3 +106,4 @@ Kruzės nuomone, arabų geografas Istachris Abu Izaokas ai Farisi gyveno apie 90
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

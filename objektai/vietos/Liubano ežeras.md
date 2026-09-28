@@ -81,3 +81,4 @@ Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

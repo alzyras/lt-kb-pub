@@ -92,3 +92,4 @@ Ona Pociejūtė minima kaip Juozapo Tiškevičiaus sutuoktinė, 1751 m. atvykusi
   pagrindžia:
     - t-001
     - t-002
+

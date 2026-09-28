@@ -67,3 +67,4 @@ ir Jog.) esate mūsų viešpačiai: kų toje byloje nuspręsite, bus ir įvykdyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

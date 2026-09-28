@@ -312,3 +312,4 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

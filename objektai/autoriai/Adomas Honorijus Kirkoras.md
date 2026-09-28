@@ -146,3 +146,4 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

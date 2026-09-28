@@ -69,3 +69,4 @@ PRADZIOS KARO LAIVAI IR BRANDERIAI“, Andžej Geglis, dail.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

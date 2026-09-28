@@ -92,3 +92,4 @@ Ordinis apie tai plačiai pasa­ koja.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

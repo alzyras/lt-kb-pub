@@ -121,3 +121,4 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

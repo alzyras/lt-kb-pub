@@ -158,3 +158,4 @@ Napaliukas aprašomas kaip piemenų būrio narys, bendravęs su Baltu, bandęs p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

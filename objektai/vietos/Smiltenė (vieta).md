@@ -83,3 +83,4 @@ Benediktas Tyzenhauzas buvo Smiltenės seniūnas, o Smiltenė yra dabartinėje L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

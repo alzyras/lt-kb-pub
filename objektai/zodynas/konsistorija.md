@@ -83,3 +83,4 @@ Po slapto jų pokal­ bio veikiai buvo sukviesta vieša kardinolų konsistorija,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

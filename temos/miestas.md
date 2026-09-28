@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 530
+tema_objektu_skaicius: 531
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 530.
+Objektų skaičius: 531.
 
 ## Kaip naudoti
 
@@ -31,6 +31,7 @@ Objektų skaičius: 530.
 - [[objektai/asmenys/Ditrichas iš Altenburgo]]
 - [[objektai/asmenys/Grigalius Astikas]]
 - [[objektai/asmenys/Hirtshalsas]]
+- [[objektai/asmenys/Josifas Stalinas]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 
 ### Autoriai
@@ -60,7 +61,7 @@ Objektų skaičius: 530.
 - [[objektai/vietos/Alūksnė]]
 - [[objektai/vietos/Ananis]]
 - [[objektai/vietos/Angerburgas]]
-- [[objektai/vietos/Antverpenas]]
+- [Antverpenas](../objektai/vietos/Antverpenas)
 - [Aragonas](../objektai/vietos/Aragonas)
 - [Ariogala](../objektai/vietos/Ariogala)
 - [Astrachanas](../objektai/vietos/Astrachanas)

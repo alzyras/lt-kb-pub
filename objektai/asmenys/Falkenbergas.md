@@ -72,3 +72,4 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

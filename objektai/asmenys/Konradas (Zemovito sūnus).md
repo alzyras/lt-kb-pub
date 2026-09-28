@@ -87,3 +87,4 @@ Mindaugas Jazdovo dvare užklupo Zemovito sūnų Konradą, paėmė jį į nelais
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -174,3 +174,4 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

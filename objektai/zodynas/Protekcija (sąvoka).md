@@ -62,3 +62,4 @@ Per jų protekciją nekratyta mano daiktų, nevežta manęs pas dakta rą, ir ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -83,3 +83,4 @@ Dusburgietis teigia, kad meyer.—Paderborn, 1876.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

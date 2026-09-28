@@ -89,3 +89,4 @@ Pisan w miestie Wileńskom, roku 1507 dnia Igo Maja [Kuris stovėjo Vilniaus mie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

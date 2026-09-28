@@ -77,3 +77,4 @@ Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu De
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

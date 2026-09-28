@@ -68,3 +68,4 @@ Pats miestelis dali­ jamas į aukštutinį ir žemutinį: pirmajame stovi aukš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

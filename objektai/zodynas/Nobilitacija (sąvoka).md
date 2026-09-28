@@ -77,3 +77,4 @@ Kai kuriais atvejais valdovo privilegija, kuria ištarna buvo suteikiama leno te
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

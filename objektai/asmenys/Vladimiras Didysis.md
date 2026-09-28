@@ -206,3 +206,4 @@ Vladimiras Didysis pats išpažino ir netgi padidino garbinamų dievų skaičių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219231
+

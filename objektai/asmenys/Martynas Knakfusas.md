@@ -89,3 +89,4 @@ canonical_biography: "1769 m. vienas iš klasicizmo architektūros L I E T U V O
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

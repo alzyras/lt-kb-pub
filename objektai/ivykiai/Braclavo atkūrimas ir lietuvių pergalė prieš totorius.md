@@ -74,3 +74,4 @@ Didysis kunigaikštis Aleksandras atstatė Braclavo miestą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

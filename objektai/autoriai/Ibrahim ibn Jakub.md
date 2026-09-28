@@ -74,3 +74,4 @@ Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim ibn Jakub, per v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

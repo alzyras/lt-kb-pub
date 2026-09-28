@@ -104,3 +104,4 @@ Lietuvos Didžiosios Kunigaikštystės iždo komisija 1791 m. rugsėjo 15 d. atn
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

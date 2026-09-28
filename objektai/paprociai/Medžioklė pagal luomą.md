@@ -78,3 +78,4 @@ Narbutas rašo, kad bajorai ir riteriai medžiodavo ginklais, šunimis bei sakal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

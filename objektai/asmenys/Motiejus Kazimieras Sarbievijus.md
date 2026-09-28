@@ -93,3 +93,4 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
   temporalinis_llm_pakomentavimas: "Sakinys aiškiai sieja Sarbievijaus poeziją su vertimu ir skaitymu universitetuose."
   pagrindžia:
     - c-21902
+

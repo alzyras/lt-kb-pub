@@ -88,3 +88,4 @@ Terminas vartojamas ūkinių darbų sekoje, kai ruošiama medžiaga stogui dengt
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177882
+

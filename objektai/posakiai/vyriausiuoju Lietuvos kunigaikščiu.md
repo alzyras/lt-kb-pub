@@ -73,3 +73,4 @@ Vil­ niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą iki 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

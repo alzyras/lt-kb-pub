@@ -86,3 +86,4 @@ Nužymėti šį prekybos kelią padėjo: Kraus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

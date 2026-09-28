@@ -144,3 +144,4 @@ Jo pastebėjimais iš senų rankraštinių kronikų pagrįsta Vaidevučio laikam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

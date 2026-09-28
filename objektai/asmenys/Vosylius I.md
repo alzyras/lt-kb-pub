@@ -215,3 +215,4 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

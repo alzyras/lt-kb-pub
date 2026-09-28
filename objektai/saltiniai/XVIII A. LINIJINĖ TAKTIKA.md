@@ -67,3 +67,4 @@ p- 139, „XVIII A.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

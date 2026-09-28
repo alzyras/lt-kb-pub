@@ -89,3 +89,4 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

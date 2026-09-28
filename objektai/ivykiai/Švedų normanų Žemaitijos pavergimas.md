@@ -70,3 +70,4 @@ Narbutas pasakoja, kad Gelono šlovės paveldėtojai žuvo mūšiuose su švedai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

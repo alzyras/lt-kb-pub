@@ -86,3 +86,4 @@ Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

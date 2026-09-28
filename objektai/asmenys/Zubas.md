@@ -107,3 +107,4 @@ Narbutas IV lentelėje nurodo, kad Zubas 1480 m. prispaudė vieną iš aštuoni�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

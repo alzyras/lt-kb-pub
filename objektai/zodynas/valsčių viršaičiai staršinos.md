@@ -86,3 +86,4 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
   pagrindžia:
     - t-001
     - t-002
+

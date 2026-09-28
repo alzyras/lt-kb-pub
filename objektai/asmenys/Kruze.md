@@ -195,3 +195,4 @@ Kruze vykdė kasinėjimus Kurše, Infliantuose ir Estijoje, Narbutui aptariant �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212597
+

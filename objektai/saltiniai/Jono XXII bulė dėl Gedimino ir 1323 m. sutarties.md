@@ -77,3 +77,4 @@ Didelį palankumą reikšdami primename ir patariame jums, kad tos sutarties, ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

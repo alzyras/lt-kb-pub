@@ -75,3 +75,4 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

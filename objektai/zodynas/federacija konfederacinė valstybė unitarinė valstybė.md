@@ -79,3 +79,4 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

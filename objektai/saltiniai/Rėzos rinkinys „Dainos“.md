@@ -58,3 +58,4 @@ Kad Laima tapatinama su mėnuliu, patvirtina Prūsijos lietu vių daina pono Rė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

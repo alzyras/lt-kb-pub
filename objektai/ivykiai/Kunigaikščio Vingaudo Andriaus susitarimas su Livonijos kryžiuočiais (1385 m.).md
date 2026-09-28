@@ -86,3 +86,4 @@ Po 1385 m. žygio didysis magistras gavo buvusio Polocko kunigaikščio Vingaudo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

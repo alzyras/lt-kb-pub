@@ -66,3 +66,4 @@ Metempsichozė šaltinyje apibūdinama kaip sielos persikėlimas į kito žmogau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

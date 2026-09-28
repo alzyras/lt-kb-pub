@@ -77,3 +77,4 @@ Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą pal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

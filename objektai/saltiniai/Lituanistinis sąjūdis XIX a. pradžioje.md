@@ -53,3 +53,4 @@ XIX a. pradžioje susidomėjimas lietuvių mitologija plito tarp Vilniaus univer
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

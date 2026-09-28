@@ -114,3 +114,4 @@ Lietuva žemėlapiuose: = Lithuania on the map: paroda, Vilnius, 1999 09 26–19
   pagrindžia:
     - t-001
     - t-002
+

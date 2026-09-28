@@ -150,3 +150,4 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
   pagrindžia:
     - t-001
     - t-195509
+

@@ -70,3 +70,4 @@ Jonas Pliateris buvo Gegabrastos seniūnas ir tijūnas. Jonas Pliateris Kartu su
   pagrindžia:
     - t-001
     - t-002
+

@@ -83,3 +83,4 @@ Skundo formulė apie vyrų ir moterų nelygų palankumą.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177853
+

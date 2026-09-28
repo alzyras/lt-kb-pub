@@ -88,3 +88,4 @@ Karinė deputacija buvo sukurta 1794 m. gegužės 17 d. Lietuvos Tarybos sprendi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

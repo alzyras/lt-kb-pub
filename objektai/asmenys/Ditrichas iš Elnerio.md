@@ -51,3 +51,4 @@ Jaunesnysis ir vyresnysis Ditrichai iš Elnerio buvo Reino kilmingieji, atvykę 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

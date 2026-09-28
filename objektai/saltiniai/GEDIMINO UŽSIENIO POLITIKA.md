@@ -65,3 +65,4 @@ P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

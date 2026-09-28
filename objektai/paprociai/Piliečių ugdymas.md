@@ -89,3 +89,4 @@ M. P. Karpavičiaus pamoksluose piliečių ugdymas įvardijamas kaip vienas kert
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

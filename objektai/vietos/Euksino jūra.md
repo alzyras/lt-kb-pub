@@ -67,3 +67,4 @@ Senovėje manyta, kad Euksino ir Kaspijos jūrų vandenys susisiekdavo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

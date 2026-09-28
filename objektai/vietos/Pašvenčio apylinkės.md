@@ -90,3 +90,4 @@ Narbutas nurodo Pašvenčio apylinkėse Raseinių apskrityje išgirdęs mitologi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218395
+

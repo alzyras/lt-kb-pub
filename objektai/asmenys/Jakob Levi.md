@@ -84,3 +84,4 @@ Jakob Levi, iš Vilniaus, 1427 m. rašė hebrajiškas knygas ir turėjo Moreno, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -33,7 +33,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Regina Masiulienė"]
 sameAs: []
-canonical_biography: "Regina Masiulienė (Gaigaliai, Migonys, 1967–2009)."
+canonical_biography: "."
 ---
 # Regina Masiulienė
 

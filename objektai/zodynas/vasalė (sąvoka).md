@@ -74,3 +74,4 @@ Teodoras Narbutas Švitigailos valdą Podolėje apibūdina kaip atskiros kunigai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

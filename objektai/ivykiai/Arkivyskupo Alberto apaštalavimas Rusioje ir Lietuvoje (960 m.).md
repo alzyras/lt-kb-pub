@@ -137,3 +137,4 @@ Kijevo kunigaikštienė Olga, kuri priėmė krikštą 955 me tais Konstantinopol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

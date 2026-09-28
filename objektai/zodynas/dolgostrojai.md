@@ -114,3 +114,4 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
   pagrindžia:
     - t-001
     - t-002
+

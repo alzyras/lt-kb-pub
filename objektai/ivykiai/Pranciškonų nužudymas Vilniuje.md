@@ -84,3 +84,4 @@ Susibūrusi minia nuspren dė išžudyti pranciškonus; užpuolė jų buveinę, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

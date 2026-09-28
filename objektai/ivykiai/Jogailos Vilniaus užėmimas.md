@@ -83,3 +83,4 @@ Pasak Teodoro Narbuto, Jogaila, susimokęs su kai kuriais Vilniaus gyventojais i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

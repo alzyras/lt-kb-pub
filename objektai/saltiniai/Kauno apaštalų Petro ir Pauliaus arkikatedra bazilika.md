@@ -61,3 +61,4 @@ Kauno apaštalų Petro ir Pauliaus arkikatedra bazilika.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -31,7 +31,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Danutė Bukinienė"]
 sameAs: []
-canonical_biography: "Šiems namams vadovavo Danutė Bukinienė."
+canonical_biography: "."
 ---
 # Danutė Bukinienė
 
@@ -72,5 +72,6 @@ Danutė Bukinienė vadovavo Paketurių šv. Kazimiero vaikų globos namams, įku
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

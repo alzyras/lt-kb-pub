@@ -110,3 +110,4 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212940
+

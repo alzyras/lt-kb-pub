@@ -89,3 +89,4 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

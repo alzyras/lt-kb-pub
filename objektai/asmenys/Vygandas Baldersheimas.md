@@ -110,3 +110,4 @@ Insterburgo valdytojas Vygandas Baldersheimas vadovavo kryžiuočių žygiui į 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

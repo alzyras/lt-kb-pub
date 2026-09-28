@@ -93,3 +93,4 @@ Pirm negu važiuoti Washingtonan man teko nu eiti su tautininkų vadais, atvaži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

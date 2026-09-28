@@ -71,3 +71,4 @@ Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

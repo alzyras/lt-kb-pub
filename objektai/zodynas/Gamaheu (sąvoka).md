@@ -62,3 +62,4 @@ Tokius akmenis gerbdavo, juos vadinda vo Gamaheu, Gamaheus Lapis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -62,3 +62,4 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -74,3 +74,4 @@ Narbutas pasakoja, kad Jonas, siekdamas išvaduoti Polocko ponus, išjojo į Nau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

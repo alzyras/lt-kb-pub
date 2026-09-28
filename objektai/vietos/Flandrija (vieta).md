@@ -96,3 +96,4 @@ Flandrijoje subrendo dailininkas Peteris Paulius Rubensas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

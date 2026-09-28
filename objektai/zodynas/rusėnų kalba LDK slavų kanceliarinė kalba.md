@@ -102,3 +102,4 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

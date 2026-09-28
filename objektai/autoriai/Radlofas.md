@@ -206,3 +206,4 @@ Narbutas rekomendavo Radlofo veikalą skaitytojams, norintiems suprasti planetų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

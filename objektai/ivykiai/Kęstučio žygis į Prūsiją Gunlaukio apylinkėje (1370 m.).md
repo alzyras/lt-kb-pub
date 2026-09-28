@@ -78,3 +78,4 @@ Kęstutis įsiveržė į Prūsiją Gunlaukio, dabartinių Juodlaukių, apylinkė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

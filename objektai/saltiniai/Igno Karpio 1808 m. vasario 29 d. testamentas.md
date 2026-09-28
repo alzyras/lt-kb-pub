@@ -139,3 +139,4 @@ Igno Karpio 1808 m. vasario 29 d. testamentu apie 7000 jo dvarų valstiečių bu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

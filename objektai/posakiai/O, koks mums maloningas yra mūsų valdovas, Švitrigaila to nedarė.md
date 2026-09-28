@@ -82,3 +82,4 @@ Visi kalba: „O, koks mums maloningas yra mūsų valdovas, Švitrigaila to ne­
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -64,3 +64,4 @@ Gotchardas Friderikas Stenderis (1714–1796) parašė veikalą „Neue vollstä
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

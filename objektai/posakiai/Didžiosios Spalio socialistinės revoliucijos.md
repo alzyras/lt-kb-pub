@@ -74,3 +74,4 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

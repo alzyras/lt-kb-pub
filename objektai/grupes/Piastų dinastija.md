@@ -78,3 +78,4 @@ Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

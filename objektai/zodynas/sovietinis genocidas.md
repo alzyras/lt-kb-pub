@@ -84,3 +84,4 @@ Sovietinio genocido ir teroro aukomis tapo 456 tūkst.
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-24991
+

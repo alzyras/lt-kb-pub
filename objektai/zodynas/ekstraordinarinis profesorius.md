@@ -64,3 +64,4 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

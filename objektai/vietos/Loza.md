@@ -95,3 +95,4 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

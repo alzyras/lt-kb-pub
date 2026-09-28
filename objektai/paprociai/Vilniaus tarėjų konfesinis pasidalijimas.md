@@ -102,3 +102,4 @@ Vilniuje susiformavo tradicija, kad pusę miesto tarėjų sudarydavo katalikai, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

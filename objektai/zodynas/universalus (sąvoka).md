@@ -76,3 +76,4 @@ Nors karalius nenutraukė karo veiksmų, už kuriuos stojo San guška ir Jonas C
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

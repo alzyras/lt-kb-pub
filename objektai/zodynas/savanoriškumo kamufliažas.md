@@ -82,3 +82,4 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatoje nurodytą valdymo pertvarkymą."
   pagrindžia:
     - c-24985
+

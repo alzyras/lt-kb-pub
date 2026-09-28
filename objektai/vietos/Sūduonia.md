@@ -91,3 +91,4 @@ Dusburgietis teigia, kad ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

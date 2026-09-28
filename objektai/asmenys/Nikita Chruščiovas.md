@@ -129,3 +129,4 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
   patikimumo_saltinis: ai
   pagrindžia:
     - t-19175
+

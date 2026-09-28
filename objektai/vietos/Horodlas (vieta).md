@@ -80,3 +80,4 @@ Horodlas yra Volynės vietovė prie Vakarų Bugo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

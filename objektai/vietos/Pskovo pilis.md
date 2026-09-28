@@ -83,3 +83,4 @@ Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

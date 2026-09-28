@@ -197,3 +197,4 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
   pagrindžia:
     - t-001
     - t-002
+

@@ -73,3 +73,4 @@ Vis dėlto pasididžiavimas praeitimi, susietas su sunkiu darbu ir tinkamai skir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

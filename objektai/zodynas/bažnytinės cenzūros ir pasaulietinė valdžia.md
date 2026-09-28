@@ -73,3 +73,4 @@ Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

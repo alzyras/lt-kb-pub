@@ -89,3 +89,4 @@ Vilniaus taikos sutarties kopija, iš vokiečių kalbos išversta į lotynų kal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

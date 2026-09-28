@@ -71,3 +71,4 @@ Tik graikų matematikas-geografas Klaudios Ptolemaios (a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

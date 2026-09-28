@@ -181,3 +181,4 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

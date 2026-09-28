@@ -68,3 +68,4 @@ Mat, tenai reikėdavo žinoti, kokias pareigas eina valstiečiai: kai tekdavo tu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

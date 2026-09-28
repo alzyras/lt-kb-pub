@@ -79,3 +79,4 @@ Petras d’Ailly (1350–1429) buvo viduramžių filologas, teologas ir Bažnyč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

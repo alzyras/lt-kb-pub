@@ -79,3 +79,4 @@ LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo pad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -80,3 +80,4 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
   temporalinis_llm_pakomentavimas: "Citata leidžia pridėti kontekstą apie rinkimus ir padaryti teiginį enciklopediškesnį."
   pagrindžia:
     - c-24668
+

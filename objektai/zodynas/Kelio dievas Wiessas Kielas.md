@@ -128,3 +128,4 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
   patikimumo_saltinis: ai
   pagrindžia:
     - t-220135
+

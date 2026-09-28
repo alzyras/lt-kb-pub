@@ -70,3 +70,4 @@ Kaip atrodo, Barborai Radvilaitei gyvai esant ir po jos mirties 1551 m. Kauno se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

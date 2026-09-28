@@ -111,3 +111,4 @@ Narbutas kritiškai rašo, kad Dalinas ir Kelsijus perdėtai skaičiavo Baltijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

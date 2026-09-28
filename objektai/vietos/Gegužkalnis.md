@@ -87,3 +87,4 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

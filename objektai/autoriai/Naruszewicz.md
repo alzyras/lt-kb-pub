@@ -145,3 +145,4 @@ canonical_biography: "Šitai pa­ kartojo Naruszewicz Histor. Naruszewicz, Jadvy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

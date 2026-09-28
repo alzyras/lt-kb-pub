@@ -52,3 +52,4 @@ Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

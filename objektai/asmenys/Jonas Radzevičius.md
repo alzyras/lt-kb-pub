@@ -80,3 +80,4 @@ canonical_biography: "1791 m. buvo užpultas Černigovo pavieto iždininko Jono 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

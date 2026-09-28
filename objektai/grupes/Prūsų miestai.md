@@ -56,3 +56,4 @@ Hanzoje jie sudarė atskirą miestų grupę, vadinamą Prūsų miestais, turinč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

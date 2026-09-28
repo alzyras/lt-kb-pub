@@ -80,3 +80,4 @@ Albertas Kojaiavičius (1609-1677) jėzuitu tapo 1627 m., 1629-1632 m. studijavo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

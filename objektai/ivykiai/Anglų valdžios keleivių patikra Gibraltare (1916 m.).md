@@ -79,3 +79,4 @@ Gibral tare anglų valdžia krato pasažierius ir peržiū rinėja pašportus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

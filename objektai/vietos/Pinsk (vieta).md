@@ -72,3 +72,4 @@ Vaišvilkas išsigando to paties likimo, pabėgo j Pinską ir ten gyveno.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

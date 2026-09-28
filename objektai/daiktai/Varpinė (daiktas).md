@@ -80,3 +80,4 @@ Varpinės ne prie pačių bažnyčių, bet pastatytos prie įėji mo; tai byloja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

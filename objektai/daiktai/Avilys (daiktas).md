@@ -81,3 +81,4 @@ Vienas žmogus, tik ras katalikų tikėjimo išpažinėtojas, pirko iš vieno t�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

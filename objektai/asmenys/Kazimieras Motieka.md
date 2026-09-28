@@ -95,3 +95,4 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

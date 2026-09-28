@@ -184,3 +184,4 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -664,3 +664,4 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210806
+

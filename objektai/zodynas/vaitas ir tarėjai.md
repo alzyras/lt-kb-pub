@@ -134,3 +134,4 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

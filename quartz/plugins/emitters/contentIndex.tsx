@@ -436,7 +436,7 @@ function evidenceClaimEntries(markdown: string): GraphExplorerClaimDetails[] {
     .filter((entry) => entry.id && entry.text)
 }
 
-function evidenceQuoteEntries(markdown: string): GraphExplorerQuoteDetails[] {
+export function evidenceQuoteEntries(markdown: string): GraphExplorerQuoteDetails[] {
   const sections = parseEvidenceSections(markdown)
   const out: GraphExplorerQuoteDetails[] = []
   for (const sectionName of [
@@ -450,9 +450,15 @@ function evidenceQuoteEntries(markdown: string): GraphExplorerQuoteDetails[] {
         continue
       }
       const sourceTitle = entry.fields.get("šaltinis") ?? entry.fields.get("saltinis") ?? ""
+      const indexOnly =
+        entry.fields.get("citatos_rezimas")?.trim() === "indeksas" &&
+        Boolean(entry.fields.get("indeksas")?.trim())
       out.push({
         id: entry.id,
-        text: entry.fields.get("citata_originali") ?? "",
+        // The exact quotation is needed for graph matching only when it is
+        // licensed for display. Page-locator-only citations retain their
+        // evidence IDs and source attribution but must not enter public JSON.
+        text: indexOnly ? "" : (entry.fields.get("citata_originali") ?? ""),
         sourceTitle,
         claimIds: entry.lists.get("pagrindžia") ?? entry.lists.get("pagrindzia") ?? [],
       })

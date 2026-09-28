@@ -96,3 +96,4 @@ Pagal Teodoro Narbuto perteiktas 1382 m. Dubysos susitarimo sąlygas, Lietuvos v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

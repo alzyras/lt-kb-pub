@@ -73,3 +73,4 @@ Braclav buvo toliausiai į pietus išsikišęs LDK atsparos punktas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -77,3 +77,4 @@ Koks buvo mūsij nusistebėjimas, kuomet nu važiavę pas Skandinavijos liniją 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -70,3 +70,4 @@ Tiesa, pastarojoj sutarty nerandame jokio teoretinio santykių apibrėžimo, kok
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -131,3 +131,4 @@ Pasak padavimo, Sčekas su Kijumi ir Choryvu buvo laikomi Kijevo įkūrėjais ar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215569
+

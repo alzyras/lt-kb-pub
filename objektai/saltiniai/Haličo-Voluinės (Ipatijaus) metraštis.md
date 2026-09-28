@@ -335,3 +335,4 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214515
+

@@ -99,3 +99,4 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

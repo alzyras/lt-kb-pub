@@ -67,3 +67,4 @@ Gedimino giminė, pasak Teodoro Narbuto, iškilmingais priesaika patvirtintais a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

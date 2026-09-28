@@ -84,3 +84,4 @@ XVI a. LDK bajorų šventiniam stalui iš kvietinių miltų kepdavo pyragaičius
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -87,3 +87,4 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

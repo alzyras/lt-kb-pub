@@ -123,3 +123,4 @@ Domininkas Burba šiame šaltinyje pateikiamas kaip istorikas ir straipsnio apie
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
   pagrindžia:
     - c-190924
+

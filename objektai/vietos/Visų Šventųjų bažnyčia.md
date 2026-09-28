@@ -78,3 +78,4 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   semantiniai_rysiai: "Visų Šventųjų bažnyčia priklausė Vilnius (0.70)"
   pagrindžia:
     - c-24593
+

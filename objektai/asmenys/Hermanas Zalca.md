@@ -131,3 +131,4 @@ Susirinkę į kapitulą, riteriai išrinko naują magistrą, kuriuo tapo ordino 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

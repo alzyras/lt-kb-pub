@@ -157,3 +157,4 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

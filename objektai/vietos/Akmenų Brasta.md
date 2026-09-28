@@ -78,3 +78,4 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -71,3 +71,4 @@ Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

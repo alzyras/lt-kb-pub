@@ -82,22 +82,6 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - c-166966
 
-<a id="claim-t-82778"></a>
-- t-002
-  teiginys: "Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaišelga (kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaišelga (kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-79211
-
 <a id="claim-t-183573"></a>
 - t-003
   teiginys: "1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis."
@@ -132,19 +116,6 @@ object_page_seo_policy_version: object-page-policy/v7
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178801
-
-<a id="claim-t-205728"></a>
-- t-005
-  teiginys: "Vaišelga, negalėjęs pasiekti Sv. kalno dėl tose žemėse kilusio maišto, grįžo į Naugarduką ir prie Nemuno tarp Lietuvos bei Naugarduko pastatė vienuolyną."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188343
 
 ## Citatos
 
@@ -191,8 +162,6 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
 
 - id: c-166966
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -249,8 +218,51 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
+
+- id: c-176824
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  puslapiai: "PDF 60"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.), PDF 60."
+  citata_originali: |
+    Ir Vilnia
+    [Vilnius] buvo priverstas duoti
+    duoklę Ugrų karaliui (tikriausiai Ha­
+    ličo) už saugojimą nuo didžiojo ku­
+    nigaikščio Mstislavo Rogvoldovi-
+    čiaus. Ir vilniečiai paėmę sau iš
+    Cargrado [Konstantinopolio] Poloc­
+    ko kunigaikščio Rostislavo Rogvol-
+    dovičiaus vaikus - kunigaikštį Do-
+    vilą ir jo brolį kunigaikštį Maukoldą
+    ir tai pirmasis Vilniuje kunigaikštis
+    Dovilas, didysis Maukoldo brolis, o
+    jo vaikai: Vidas, kurį žmonės Vilku
+    vadino, ir Erdenas kunigaikštis, o Er-
+    denas sūnus pasikrikštijo, buvo val­
+    dovas Tvėrėje, kuris prieš Petrą, prieš
+    stebukladarį, neramumą sukėlė, va­
+    dino jį Andriejumi, rašė prieš stebuk­
+    ladarį melagingus žodžius, o Mau­
+    koldo sūnus Mindaugas, o Mindaugo
+    kunigaikščio vaikai: Višlegas (ar tik
+    ne vienuolis Vaišelga) ir Daumantas.
+    Tą patį Vaišelgą pasirenka viešpats
+    ir eina jis į Sinajaus kalną ir pakrikš­
+    tija vardan Tėvo ir Sūnaus ir Švento­
+    sios Dvasios ir mokosi iš šventųjų
+    knygų ir nusikerpa pagal vienuoliš­
+    ką stotą Šventajame kalne ir, prabu­
+    vęs Šventajame kalne trejus metus, ir
+    pareina į savo žemę ir grįžta iš Sina­
+    jaus kalno pas savo tėvą kunigaikštį
+    Mindaugą ir įkuria sau vienuolyną.
+  statusas: verified
+  atnaujinta: "2026-09-27 13:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

@@ -61,3 +61,4 @@ Mikalojus Vorobjovas Vilnių apibūdino kaip miestą, kupiną tapybiškų kampel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

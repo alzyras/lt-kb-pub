@@ -77,3 +77,4 @@ Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

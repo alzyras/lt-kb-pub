@@ -77,3 +77,4 @@ LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

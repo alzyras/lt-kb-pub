@@ -88,3 +88,4 @@ A. Mączakas rašo, kad klientinė sistema, nepriklausomai nuo patronų siekių,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

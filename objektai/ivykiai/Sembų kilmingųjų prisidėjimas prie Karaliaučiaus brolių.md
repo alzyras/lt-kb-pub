@@ -73,3 +73,4 @@ Kai kurie sembų kilmingieji su šeimomis paliko gimtuosius namus ir prisidėjo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

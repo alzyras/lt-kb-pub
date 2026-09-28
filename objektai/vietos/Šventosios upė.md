@@ -72,3 +72,4 @@ Teodoro Narbuto teigimu, selonietis Stangas buvo prie Šventosios upės esančio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

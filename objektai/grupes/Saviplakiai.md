@@ -70,3 +70,4 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

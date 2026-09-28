@@ -78,3 +78,4 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219365
+

@@ -67,3 +67,4 @@ Sūduviai, nadruviai ir skalviai apsiautė Bysleidos pilį netoli Bartenšteino,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

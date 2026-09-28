@@ -76,3 +76,4 @@ Moterų krepšinio rinktinė 1997 m. tapo Europos čempione.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

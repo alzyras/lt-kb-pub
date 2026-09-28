@@ -92,3 +92,4 @@ Kaip rašė Leo Straussas, pamatinis klausimas yra, ar žmonės gali įgyti tą 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

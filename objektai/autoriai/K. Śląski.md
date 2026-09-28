@@ -83,3 +83,4 @@ canonical_biography: "Śląski, K."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33001
+

@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Motiejus Babickas"]
 sameAs: []
-canonical_biography: "Jutkonys – 1 dūmas (Motiejaus Babicko)."
+canonical_biography: "."
 ---
 # Motiejus Babickas
 

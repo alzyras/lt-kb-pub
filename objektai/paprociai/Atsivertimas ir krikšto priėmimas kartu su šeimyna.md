@@ -107,3 +107,4 @@ Dusburgietis nurodo, kad Skomantas su visais savo namais bei šeimyna pasidavė 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

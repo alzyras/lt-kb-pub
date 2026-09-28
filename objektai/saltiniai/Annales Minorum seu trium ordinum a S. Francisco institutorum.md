@@ -144,3 +144,4 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

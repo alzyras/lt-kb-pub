@@ -97,3 +97,4 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

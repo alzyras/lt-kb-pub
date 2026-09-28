@@ -83,3 +83,4 @@ Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero S
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

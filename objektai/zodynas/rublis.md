@@ -157,3 +157,4 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

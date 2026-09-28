@@ -79,3 +79,4 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

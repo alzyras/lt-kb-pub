@@ -80,3 +80,4 @@ Kareivis akymirksnyje pavirto mašina, kurią stramužina kareivių smarki dis c
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

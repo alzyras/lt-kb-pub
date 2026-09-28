@@ -77,3 +77,4 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

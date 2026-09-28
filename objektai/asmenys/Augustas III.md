@@ -204,3 +204,4 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

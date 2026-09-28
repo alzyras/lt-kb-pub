@@ -94,3 +94,4 @@ Hanna Sepetušanka buvo Fiodoro Voropos žmona.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

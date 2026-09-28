@@ -96,3 +96,4 @@ Prieš pradėdami darbą Saugumo deputacijos nariai turėjo priimti Lietuvos Tar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
