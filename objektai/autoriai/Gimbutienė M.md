@@ -107,3 +107,4 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -88,3 +88,4 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

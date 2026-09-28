@@ -105,3 +105,4 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -89,3 +89,4 @@ Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) pad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

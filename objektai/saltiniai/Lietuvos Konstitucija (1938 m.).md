@@ -165,3 +165,4 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

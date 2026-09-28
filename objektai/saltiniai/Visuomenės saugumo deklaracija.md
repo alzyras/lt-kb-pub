@@ -73,3 +73,4 @@ Visuomenės saugumo deklaracija pabrėžė būtinybę griežtai bausti už nusik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

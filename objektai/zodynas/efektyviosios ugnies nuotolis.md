@@ -63,3 +63,4 @@ Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

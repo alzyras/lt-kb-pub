@@ -100,3 +100,4 @@ Teodoras Narbutas Talį mini tarp autorių, kurie žinojo gintarą, jo savybes i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

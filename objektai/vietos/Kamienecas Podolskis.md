@@ -88,3 +88,4 @@ Tvirčiausios tame krašte buvo Lvovo ir Kamieneco-Podolsko pilys.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

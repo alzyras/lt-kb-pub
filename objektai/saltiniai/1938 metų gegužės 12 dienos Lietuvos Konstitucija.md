@@ -125,3 +125,4 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

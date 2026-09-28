@@ -68,3 +68,4 @@ Gitanos Zujienės tyrimas parodė, kad XVII a. pirmojoje pusėje LDK nusikaltima
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

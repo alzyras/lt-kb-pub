@@ -90,3 +90,4 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

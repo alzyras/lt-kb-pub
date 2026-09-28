@@ -87,3 +87,4 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, bet citata pagrindžia glaustą faktą apie „14 punktų“ reikšmę."
   pagrindžia:
     - c-24018
+

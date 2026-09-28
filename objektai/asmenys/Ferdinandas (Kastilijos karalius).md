@@ -124,3 +124,4 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -164,3 +164,4 @@ Kauno pirklio Jono Kojalavičiaus ir Brigitos Beinartaitės sūnus Albertas (160
   atnaujinta: "2026-07-26 21:24"
   pagrindžia:
     - t-004
+

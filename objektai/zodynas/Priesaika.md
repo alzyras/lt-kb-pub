@@ -115,3 +115,4 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

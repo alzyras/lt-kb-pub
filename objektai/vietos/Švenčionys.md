@@ -89,3 +89,4 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

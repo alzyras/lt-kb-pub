@@ -368,3 +368,4 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   pagrindžia:
     - t-007
     - t-008
+

@@ -95,3 +95,4 @@ Alfredas Bumblauskas nurodo, kad Mindaugas, pasinaudojęs Livonijos vidaus prie�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

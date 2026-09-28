@@ -70,3 +70,4 @@ Teodoras Narbutas patikslino, kad Tiltagalių kaimo vardas siejamas ne su lietuv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

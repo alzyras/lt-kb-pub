@@ -103,3 +103,4 @@ Narbutas žvaigždininką (Zwajždinikas) sieja su pranašavimu iš žvaigždži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

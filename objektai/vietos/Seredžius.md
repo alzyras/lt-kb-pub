@@ -89,3 +89,4 @@ Narbutas rašo, kad prie Seredžiaus, žemiau Dubysos žiočių, apvalus kalnas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

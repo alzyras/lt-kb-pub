@@ -252,3 +252,4 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

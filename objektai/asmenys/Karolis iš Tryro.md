@@ -66,3 +66,4 @@ Karolis iš Tryro buvo tryliktas Teutonų ordino ir devynioliktas Prūsijos žem
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

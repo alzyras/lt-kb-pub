@@ -63,3 +63,4 @@ Vytenis rūmuose tarnavo kambariniu ir prižiūrėjo bei tvarkė valdovo daiktus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

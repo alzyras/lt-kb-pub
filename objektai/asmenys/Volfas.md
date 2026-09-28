@@ -171,3 +171,4 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

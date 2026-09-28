@@ -80,3 +80,4 @@ Terminas vartojamas kartu su poterių ir greito išėjimo aprašymu.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178040
+

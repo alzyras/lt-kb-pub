@@ -248,3 +248,4 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

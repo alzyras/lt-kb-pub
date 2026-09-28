@@ -134,3 +134,4 @@ Vienas iš tokių mokesčių sidabrinė, renkama karo reikalams, bet jau virstan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207768
+

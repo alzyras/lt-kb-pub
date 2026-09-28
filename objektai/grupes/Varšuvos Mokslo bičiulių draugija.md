@@ -288,3 +288,4 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

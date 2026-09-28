@@ -72,3 +72,4 @@ Miulerio vadovaujama kolona įsiveržė į centrinę Aušros vartų gatvę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

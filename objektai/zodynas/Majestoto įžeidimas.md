@@ -61,3 +61,4 @@ Už neteisingą apkaltinimą majestoto įžeidimu Statute numatyta mirties bausm
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -83,3 +83,4 @@ absoliučia balsų dauguma (124 deputatams balsavus už, nė vienam nebalsavus p
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai remiasi Akto citata."
   pagrindžia:
     - c-23629
+

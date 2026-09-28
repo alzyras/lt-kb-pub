@@ -116,3 +116,4 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

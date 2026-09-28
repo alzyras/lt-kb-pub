@@ -55,3 +55,4 @@ Narbutas rašė laikęs rankose rankraščius apie juodkalniečius, kurių žini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

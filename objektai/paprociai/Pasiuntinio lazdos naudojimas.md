@@ -73,3 +73,4 @@ Narbutas teigia, kad vyriausiasis žynys siųsdavo pasiuntinius pas krašto vald
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

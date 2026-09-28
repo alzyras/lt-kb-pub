@@ -157,3 +157,4 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

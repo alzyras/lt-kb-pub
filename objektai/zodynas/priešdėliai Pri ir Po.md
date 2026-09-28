@@ -94,3 +94,4 @@ Ka dangi šios respublikos teritorija ribojosi su tolimesnėmis vienos giminės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

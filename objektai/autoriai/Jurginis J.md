@@ -172,3 +172,4 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

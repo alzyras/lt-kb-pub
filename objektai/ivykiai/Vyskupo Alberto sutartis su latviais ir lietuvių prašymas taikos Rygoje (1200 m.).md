@@ -82,3 +82,4 @@ Vėliau atvyko į Rygą lietuviai, prašydami taikos, drau gystės ir vienybės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

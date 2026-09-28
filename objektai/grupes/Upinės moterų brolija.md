@@ -167,3 +167,4 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

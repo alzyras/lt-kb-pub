@@ -213,3 +213,4 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

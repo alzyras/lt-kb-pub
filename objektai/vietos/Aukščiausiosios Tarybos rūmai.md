@@ -216,3 +216,4 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -70,3 +70,4 @@ Kas norėtų labiau įsigilinti, teskaito: Vo­ yage dans les Steps d'Astrakhan 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

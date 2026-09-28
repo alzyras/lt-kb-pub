@@ -84,3 +84,4 @@ Teodoras Narbutas aprašo, kad 1269–1271 m. Livonijos kariuomenė surengė did
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

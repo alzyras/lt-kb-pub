@@ -78,3 +78,4 @@ Ratu einantis užrašas perskaitomas; kai dėl herbo įvedimo datos, atrodo, įt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

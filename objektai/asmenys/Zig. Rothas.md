@@ -75,3 +75,4 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

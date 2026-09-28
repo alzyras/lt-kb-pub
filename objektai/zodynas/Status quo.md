@@ -156,3 +156,4 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

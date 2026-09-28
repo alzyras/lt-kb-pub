@@ -153,3 +153,4 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210775
+

@@ -89,3 +89,4 @@ Nenurodyta
   semantiniai_rysiai: "Pranciškonų kankinių palaidojimo vietos koplyčia priklausė Vilnius (0.62)"
   pagrindžia:
     - c-22287
+

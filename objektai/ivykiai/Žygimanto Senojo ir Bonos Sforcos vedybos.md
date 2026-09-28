@@ -95,3 +95,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys prasideda fragmentu; citata remia užbaigtą sakinį."
   pagrindžia:
     - c-23316
+

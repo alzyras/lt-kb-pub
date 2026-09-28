@@ -144,3 +144,4 @@ canonical_biography: "Žemaičiai mielai priėmė Kantautą seniūnu, nes jis bu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

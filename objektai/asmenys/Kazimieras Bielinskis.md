@@ -89,3 +89,4 @@ canonical_biography: Kun. Kazimieras Bielinskis 1877 m. balandžio 7 d. įvardyt
   vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
   pagrindžia:
     - c-192042
+

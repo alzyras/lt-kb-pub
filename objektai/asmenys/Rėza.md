@@ -217,3 +217,4 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -76,3 +76,4 @@ Brolio Vernerio vadovautoje generalinėje kapituloje nutarta, kad kunigai po sum
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

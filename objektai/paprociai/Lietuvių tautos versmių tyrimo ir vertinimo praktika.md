@@ -78,3 +78,4 @@ Pasirinkau mažiausiai pramintą ke lią, kuriuo stengiuosi eiti, kad išsiaišk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

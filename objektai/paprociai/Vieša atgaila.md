@@ -112,3 +112,4 @@ Kai kuriose bažnyčiose buvo praktikuojama vieša atgaila. Sužinojęs, kad vie
   vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
     - c-191449
+

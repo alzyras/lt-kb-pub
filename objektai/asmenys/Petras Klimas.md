@@ -140,3 +140,4 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -166,3 +166,4 @@ Narbutas kalbą vadino pirmutiniu tautų istorijos paminklu ir aiškino, kodėl 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

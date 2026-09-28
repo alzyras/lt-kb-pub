@@ -61,3 +61,4 @@ Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielva
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

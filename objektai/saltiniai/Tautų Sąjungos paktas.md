@@ -64,3 +64,4 @@ Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

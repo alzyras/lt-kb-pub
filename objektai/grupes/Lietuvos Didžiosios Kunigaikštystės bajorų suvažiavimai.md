@@ -175,3 +175,4 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

@@ -89,3 +89,4 @@ Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

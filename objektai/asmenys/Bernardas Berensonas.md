@@ -110,3 +110,4 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
   pagrindžia:
     - t-001
     - t-002
+

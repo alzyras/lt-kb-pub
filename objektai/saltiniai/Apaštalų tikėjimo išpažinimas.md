@@ -46,3 +46,4 @@ Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -119,3 +119,4 @@ Maleckis, K. Maleckis, dešiniajame sparne stovėjo P.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

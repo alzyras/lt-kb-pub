@@ -92,3 +92,4 @@ Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

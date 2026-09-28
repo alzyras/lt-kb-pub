@@ -157,3 +157,4 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

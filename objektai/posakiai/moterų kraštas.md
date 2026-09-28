@@ -65,3 +65,4 @@ Apie tokią moterų «karalystę» kalbėjo ir Adomas Bremenietis, kuris šiaip 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 385
+tema_objektu_skaicius: 387
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 385.
+Objektų skaičius: 387.
 
 ## Kaip naudoti
 
@@ -37,6 +37,7 @@ Objektų skaičius: 385.
 - [[objektai/autoriai/J. I. Kraševskis]]
 
 ### Grupės
+- [[objektai/grupes/Kunigaikščio Margio rinktinė]]
 - [[objektai/grupes/Rusijos kariuomenė]]
 
 ### Papročiai
@@ -48,6 +49,7 @@ Objektų skaičius: 385.
 
 ### Vietos
 - [[objektai/vietos/Lvovas]]
+- [[objektai/vietos/Pagiriai]]
 - [[objektai/vietos/Pagraudė]]
 - [[objektai/vietos/Veližas]]
 
@@ -61,8 +63,8 @@ Objektų skaičius: 385.
 - [[objektai/ivykiai/Aleksandro Jogailaičio mirtis ir palaidojimas Vilniuje (1506 m. rugpjūčio 10 d.)]]
 - [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
 - [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas]]
-- [[objektai/ivykiai/Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)]]
-- [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]
+- [Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)](../objektai/ivykiai/Amerikos%20lietuvi%C5%B3%20seimas%20Niujorke%20%281918%20m.%20kovo%2013%E2%80%9314%20d.%29)
+- [ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)](../objektai/ivykiai/ANBO%20IV%20l%C4%97ktuv%C5%B3%20grup%C4%97s%20skrydis%20per%20Europos%20sostines%20%281934%20m.%29)
 - [Antrasis karas su Maskva (1512–1522 m.)](../objektai/ivykiai/Antrasis%20karas%20su%20Maskva%20%281512%E2%80%931522%20m.%29)
 - [Antrasis Panevėžio puolimas](../objektai/ivykiai/Antrasis%20Panev%C4%97%C5%BEio%20puolimas)
 - [ATR karai su Švedija XVII a](../objektai/ivykiai/ATR%20karai%20su%20%C5%A0vedija%20XVII%20a)

@@ -134,3 +134,4 @@ Narbutas nurodė, kad Hartknochas aprašė padavimus apie Bitinijos keliautojo D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219689
+

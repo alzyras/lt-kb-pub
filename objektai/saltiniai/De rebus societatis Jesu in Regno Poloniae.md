@@ -67,3 +67,4 @@ De rebus societatis Jesu in Regno Poloniae.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

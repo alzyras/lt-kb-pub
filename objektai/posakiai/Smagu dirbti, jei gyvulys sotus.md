@@ -77,3 +77,4 @@ Darbo sėkmę siejanti su sočiu gyvuliu formulė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

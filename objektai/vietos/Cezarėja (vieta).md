@@ -72,3 +72,4 @@ Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

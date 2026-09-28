@@ -35,7 +35,7 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Marnaka","Marnaka (vieta)"]
 sameAs: []
-canonical_biography: "1966–1970 m. Marnakos upės prieigose nusausinta 3 920 ha."
+canonical_biography: "1966–1970 m. "
 place_authority: true
 historical_names: []
 ---
@@ -75,5 +75,6 @@ Prie Marnakos upės buvo nusausinta 3 920 ha žemės.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

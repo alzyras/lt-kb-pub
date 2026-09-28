@@ -123,3 +123,4 @@ Pasak Teodoro Narbuto, 1387 m. Lietuvos seime dalyvavo Skirgaila, Vladimiras Kij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

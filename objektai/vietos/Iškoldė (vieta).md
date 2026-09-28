@@ -109,3 +109,4 @@ Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių met
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

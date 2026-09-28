@@ -240,3 +240,4 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

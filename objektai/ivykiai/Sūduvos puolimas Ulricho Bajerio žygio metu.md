@@ -71,3 +71,4 @@ Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

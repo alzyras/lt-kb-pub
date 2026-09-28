@@ -73,3 +73,4 @@ Grįždamas iš popiežiaus, Konradas atsisakė jam pažadėtos Austrijos kuniga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

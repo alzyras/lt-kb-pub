@@ -92,3 +92,4 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

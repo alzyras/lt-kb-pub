@@ -113,3 +113,4 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

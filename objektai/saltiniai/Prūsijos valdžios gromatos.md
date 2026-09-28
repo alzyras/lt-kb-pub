@@ -163,3 +163,4 @@ Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Pr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

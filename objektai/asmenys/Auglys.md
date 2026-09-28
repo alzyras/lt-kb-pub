@@ -89,3 +89,4 @@ Jai vadovavo lietuvis karininkas Auglys.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

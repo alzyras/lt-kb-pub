@@ -87,3 +87,4 @@ Jonas iš Apelderno buvo vienas iš vyskupo Alberto brolių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

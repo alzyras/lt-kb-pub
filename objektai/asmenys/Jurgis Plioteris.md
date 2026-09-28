@@ -144,3 +144,4 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217195
+

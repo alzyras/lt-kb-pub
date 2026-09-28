@@ -62,3 +62,4 @@ Gerai nemokėdami lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti j
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

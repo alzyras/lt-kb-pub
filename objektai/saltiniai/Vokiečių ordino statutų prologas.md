@@ -200,3 +200,4 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

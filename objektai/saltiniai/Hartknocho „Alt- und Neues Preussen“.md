@@ -45,3 +45,4 @@ Narbutas rašo, kad Hartknochas abejojo, ar prūsai mokėjo gaminti alų iki kry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

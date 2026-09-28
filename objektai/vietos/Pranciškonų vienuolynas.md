@@ -66,3 +66,4 @@ Kryžiaus) ir du vienuolynus, pranciškonų ir bernardinų, su savo bažnyčiomi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

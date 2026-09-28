@@ -111,3 +111,4 @@ Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217828
+

@@ -49,3 +49,4 @@ Narbutas Sutektas mejtas aprašė kaip Žemės motinos patarnautojas, šventąsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

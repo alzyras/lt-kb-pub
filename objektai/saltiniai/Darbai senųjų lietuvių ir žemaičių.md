@@ -70,3 +70,4 @@ Manoma, kad S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ tuo metu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

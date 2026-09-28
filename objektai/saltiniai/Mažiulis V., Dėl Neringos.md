@@ -82,3 +82,4 @@ Dusburgietis teigia, kad vidurio Ordino dokumentuose atsiranda lytis Neringe.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -87,3 +87,4 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

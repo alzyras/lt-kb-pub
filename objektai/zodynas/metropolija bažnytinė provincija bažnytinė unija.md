@@ -69,3 +69,4 @@ Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

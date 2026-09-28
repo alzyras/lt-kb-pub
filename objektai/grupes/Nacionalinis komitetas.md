@@ -73,3 +73,4 @@ Nacionaliniame komitete ėjo Saugumo skyriaus viršininko pareigas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

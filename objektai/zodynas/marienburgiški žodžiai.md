@@ -68,3 +68,4 @@ T. Narbutas perteikia aiškinimą, kad marienburgiški žodžiai buvo nesuprasti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

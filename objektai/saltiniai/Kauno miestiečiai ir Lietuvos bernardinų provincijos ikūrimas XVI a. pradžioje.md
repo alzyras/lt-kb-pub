@@ -65,3 +65,4 @@ Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

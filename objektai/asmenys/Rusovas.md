@@ -63,3 +63,4 @@ Rusovas, Narbuto perteikimu, teigė, kad latvių jaunimas garbino deivę Dahklą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

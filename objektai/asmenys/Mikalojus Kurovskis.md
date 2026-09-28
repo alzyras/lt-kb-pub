@@ -141,3 +141,4 @@ Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208195
+

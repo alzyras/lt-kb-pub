@@ -104,3 +104,4 @@ Jūratė Kiaupienė rašo, kad 1569 m. Liublino seime bajoras Lukašas Haraburda
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

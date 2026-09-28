@@ -65,3 +65,4 @@ Dėl jau minėtos kritikos, dėl kontraversiško vertini mo, dėl naujų tyrinė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

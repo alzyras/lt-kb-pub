@@ -93,3 +93,4 @@ Per Smolensko maištą smolenskiečiai Smolensko vaivados vieton pasisodino Doro
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

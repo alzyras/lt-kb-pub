@@ -104,3 +104,4 @@ Jeigu kas nors iš lietuvių gyvenančių Ame rikoje panorėtų sušelpti savo g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

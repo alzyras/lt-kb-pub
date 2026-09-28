@@ -59,3 +59,4 @@ Narbutas posakį „dėjo kepures“ aiškino kaip senovinį lietuvių liudijimo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

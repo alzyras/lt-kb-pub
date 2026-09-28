@@ -352,3 +352,4 @@ Konradas atidavė Teutonų ordino broliams Kulmo ir Lubavos žemes bei būsimas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

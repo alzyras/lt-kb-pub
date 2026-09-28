@@ -71,3 +71,4 @@ Pagudėnai smarkiai puolė prie Kristburgo esančią pamedėnų pilaitę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

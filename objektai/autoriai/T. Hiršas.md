@@ -62,3 +62,4 @@ Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

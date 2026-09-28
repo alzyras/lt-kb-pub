@@ -73,3 +73,4 @@ Specialiai įdėtas pasakojimas, kaip Vilniaus vaivada Petras Goštautas dar Alg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

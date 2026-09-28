@@ -83,3 +83,4 @@ Sandėrio įkaitu Vosylius perleido vyskupui Albertui pusę Kuoknesės pilies ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

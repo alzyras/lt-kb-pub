@@ -83,3 +83,4 @@ sakoma, kad rudenį Algirdas „Mėlynuosius Vandenis ir Baltąją pakrantę nuk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

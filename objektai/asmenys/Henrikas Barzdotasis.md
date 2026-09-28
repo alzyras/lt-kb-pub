@@ -66,3 +66,4 @@ Henrikas Barzdotasis buvo Vroclavo ir Krokuvos kunigaikštis; jis galėjo būti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

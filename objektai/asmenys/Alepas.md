@@ -428,3 +428,4 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

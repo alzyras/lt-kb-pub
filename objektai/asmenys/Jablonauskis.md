@@ -62,3 +62,4 @@ canonical_biography: "[Vadas] Jablonauskis mus sušaukęs pareiškė, kad „kir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

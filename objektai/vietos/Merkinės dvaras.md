@@ -136,3 +136,4 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

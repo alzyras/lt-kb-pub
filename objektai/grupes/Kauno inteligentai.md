@@ -57,3 +57,4 @@ Kauno inteligentai įsitikino, kad delegatai atvyko iš Amerikos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

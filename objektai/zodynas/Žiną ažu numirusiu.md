@@ -48,3 +48,4 @@ Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu).
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

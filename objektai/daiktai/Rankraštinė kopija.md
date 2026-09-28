@@ -81,3 +81,4 @@ Mes turėjome progą per skaityti vieno Žemaitijos piliečio rinkinyje rankraš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

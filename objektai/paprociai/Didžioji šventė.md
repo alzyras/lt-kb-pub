@@ -105,3 +105,4 @@ Didžioji šventė buvo švenčiama rugsėjį, baigus laukų darbus, Žemininko 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

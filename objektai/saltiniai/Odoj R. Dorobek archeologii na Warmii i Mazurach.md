@@ -48,3 +48,4 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

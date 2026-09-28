@@ -171,3 +171,4 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209480
+

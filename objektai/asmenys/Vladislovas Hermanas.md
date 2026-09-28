@@ -106,3 +106,4 @@ canonical_biography: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Bo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

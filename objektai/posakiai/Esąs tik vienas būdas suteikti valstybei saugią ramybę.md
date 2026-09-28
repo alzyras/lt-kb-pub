@@ -82,3 +82,4 @@ Mintis apie savarankišką Lietuvos Didžiosios Kunigaikštystės valdovą sukė
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168831
+

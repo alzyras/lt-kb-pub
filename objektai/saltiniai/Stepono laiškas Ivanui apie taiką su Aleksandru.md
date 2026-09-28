@@ -71,3 +71,4 @@ Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

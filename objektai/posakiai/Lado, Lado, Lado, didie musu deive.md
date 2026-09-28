@@ -57,3 +57,4 @@ Lado, Lado, Lado, didie musu de ive.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

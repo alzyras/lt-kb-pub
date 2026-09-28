@@ -86,3 +86,4 @@ Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

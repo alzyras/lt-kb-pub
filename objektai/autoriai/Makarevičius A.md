@@ -52,3 +52,4 @@ Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

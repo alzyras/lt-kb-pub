@@ -161,3 +161,4 @@ Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

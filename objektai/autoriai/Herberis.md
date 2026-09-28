@@ -111,3 +111,4 @@ Rusų pulkininkas Herberis aprašė Kaukazo kalnų Kubešos kaimą, kurio gyvent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214092
+

@@ -33,28 +33,6 @@ canonical_biography: "Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeroni
 
 Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip vieną iš naudotų šaltinių. Beli (Bayle) buvusi 4 uolekčių ilgio, 3 uolekčių pločio.
 
-## Teiginiai
-
-<a id="claim-t-219886"></a>
-- t-219886
-  teiginys: "Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip vieną iš naudotų šaltinių."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Beli (Bayle): owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Beli (Bayle)\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-198213
-
 ## Citatos
 
 - id: c-173297
@@ -90,5 +68,20 @@ Narbutas nurodė Beli (Bayle) žodyno straipsnį „Jeronimas Prahiškis“ kaip
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-219886
+
+- id: c-00168
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    2 La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Ba-
+    yle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas
+    (tas pats ir straipsnis „Kobham“); Pogge. Epistola ad Aretinum.
+  citata_rodoma: "2 La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Ba- \nyle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas \n(tas pats ir straipsnis „Kobham“); Pogge. Epistola ad Aretinum."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:25"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

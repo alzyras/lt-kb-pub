@@ -78,3 +78,4 @@ LDK tarėjo sąvoka nevirto asmens titulu, todėl didikai dokumentų intituliaci
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

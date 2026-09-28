@@ -80,3 +80,4 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

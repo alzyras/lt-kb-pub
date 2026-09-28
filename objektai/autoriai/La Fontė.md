@@ -100,3 +100,4 @@ La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216474
+

@@ -107,3 +107,4 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

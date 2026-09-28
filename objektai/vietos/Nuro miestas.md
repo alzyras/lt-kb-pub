@@ -65,3 +65,4 @@ Nurzec įteka į Būgą prie Nuro miesto.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -56,3 +56,4 @@ Narbutas mini 1249 m. kryžiuočių dokumentą kaip originalą, kurį, jo teigim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

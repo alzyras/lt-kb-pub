@@ -58,3 +58,4 @@ Tegul žino Pa celi, kad lietuviai ir be jo malonės gali priei ti prie šv.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

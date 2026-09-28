@@ -86,3 +86,4 @@ Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

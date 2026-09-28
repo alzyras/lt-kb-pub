@@ -245,8 +245,8 @@ media_primary_height: 1066
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-56175
     - c-180418
+    - c-56175
     - c-186023
 
 <a id="claim-t-176836"></a>
@@ -733,6 +733,7 @@ media_primary_height: 1066
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180418
+    - c-56175
 
 <a id="claim-t-203425"></a>
 - t-042
@@ -1023,6 +1024,7 @@ media_primary_height: 1066
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+    - t-041
 
 - id: c-56177
   autorius: "Petras Dusburgietis"

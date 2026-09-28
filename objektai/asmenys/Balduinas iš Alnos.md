@@ -102,3 +102,4 @@ Grigalius IX paskyrė Balduiną iš Alnos Zemgalos vyskupu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

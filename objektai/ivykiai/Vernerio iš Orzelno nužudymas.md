@@ -77,3 +77,4 @@ Ordino magistras Verneris buvo nužudytas 1330 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

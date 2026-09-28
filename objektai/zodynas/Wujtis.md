@@ -47,3 +47,4 @@ Narbutas aiškino Wujtis kaip „viršininką“ ir laikė jį Vaidevučio vardo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

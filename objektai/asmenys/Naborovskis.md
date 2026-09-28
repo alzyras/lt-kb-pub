@@ -107,3 +107,4 @@ Narbutas 1629 metų Naborovskio paminėjimą pateikia kaip pėdsaką, kad XVII a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

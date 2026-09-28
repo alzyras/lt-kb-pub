@@ -121,3 +121,4 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -272,3 +272,4 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

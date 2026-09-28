@@ -114,3 +114,4 @@ Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-223979
+

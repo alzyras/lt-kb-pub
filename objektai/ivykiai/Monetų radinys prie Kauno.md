@@ -75,3 +75,4 @@ Prie Kauno buvo aptikta daugiau vienodų senovinių lietuviškų monetų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -96,3 +96,4 @@ Narbutas nurodė, kad Lėrbergas studijoje „Apie krivį, arba Šiaurės popie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

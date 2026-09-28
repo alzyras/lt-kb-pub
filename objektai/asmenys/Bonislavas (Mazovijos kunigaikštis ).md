@@ -92,3 +92,4 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -194,3 +194,4 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

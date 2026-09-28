@@ -87,3 +87,4 @@ Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -81,3 +81,4 @@ Burchardas iš Švandeno, Teutonų ordino didysis magistras, persivilko hospital
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

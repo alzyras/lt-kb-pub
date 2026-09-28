@@ -74,3 +74,4 @@ Timuras tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo vado 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

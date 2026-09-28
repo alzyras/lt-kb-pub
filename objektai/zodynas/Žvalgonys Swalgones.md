@@ -50,3 +50,4 @@ Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

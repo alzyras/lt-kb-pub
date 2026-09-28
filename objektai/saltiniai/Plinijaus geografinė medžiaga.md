@@ -59,3 +59,4 @@ Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia ga (Lib.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

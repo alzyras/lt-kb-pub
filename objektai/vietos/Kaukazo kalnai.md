@@ -66,3 +66,4 @@ canonical_biography: 'Žinomi šios tautos likučiai, Kaukazo kalnų gyventojai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

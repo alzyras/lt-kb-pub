@@ -80,3 +80,4 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

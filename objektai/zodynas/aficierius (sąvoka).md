@@ -62,3 +62,4 @@ Anglų aficieriai kratė Dantės laivo pasažierius.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

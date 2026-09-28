@@ -97,3 +97,4 @@ Paskui Danijos karatius Erikas II 853 metais išsilaipino Kurše, kur buvo įsik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

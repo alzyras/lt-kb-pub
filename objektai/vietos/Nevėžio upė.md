@@ -229,3 +229,4 @@ Narbutas rašo, kad prie Nevėžio upės buvęs aukuras, kuriame degusi vaidilu�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218124
+

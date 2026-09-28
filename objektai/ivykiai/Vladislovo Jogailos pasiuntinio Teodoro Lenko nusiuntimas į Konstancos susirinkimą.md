@@ -74,3 +74,4 @@ Vladislovas Jogaila specialiai pasiuntė dominikoną Teodorą Lenką į Konstanc
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

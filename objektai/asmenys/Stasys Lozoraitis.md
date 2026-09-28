@@ -266,3 +266,4 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

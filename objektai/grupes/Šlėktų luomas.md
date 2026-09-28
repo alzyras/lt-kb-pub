@@ -75,3 +75,4 @@ Tačiau šis Statutas tarnavo išim­ tinai tik šlėktų luomui, nes miestui ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

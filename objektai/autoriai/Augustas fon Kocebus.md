@@ -195,3 +195,4 @@ Narbutas rašė, kad Augustas fon Kocebus teisingai vadino gintarą senoviniu sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

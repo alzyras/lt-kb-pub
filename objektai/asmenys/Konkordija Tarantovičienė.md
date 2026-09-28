@@ -79,3 +79,4 @@ canonical_biography: "1788 m. Konkordija Tarantovičienė su Jonu Tarantovičium
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -70,3 +70,4 @@ canonical_biography: "1578 m. į Jėzuitų ordiną įstojo kaunietis Petras Paul
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

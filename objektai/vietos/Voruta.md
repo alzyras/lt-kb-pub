@@ -108,3 +108,4 @@ Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212029
+

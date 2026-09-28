@@ -272,3 +272,4 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

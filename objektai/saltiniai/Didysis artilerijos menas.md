@@ -66,3 +66,4 @@ VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 115, „DIDYSIS ARTILERIJOS MENAS�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

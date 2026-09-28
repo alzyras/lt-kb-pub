@@ -74,3 +74,4 @@ KAr = Karo Archyvas, Vyriausiojo Kariuomenės Štabo Karo Mokslo skyriaus leidin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

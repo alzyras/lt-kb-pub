@@ -71,3 +71,4 @@ Kas iš tikrųjų buvo Jonas Abramavičius — mecenatas ar klientas?
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

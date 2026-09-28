@@ -206,3 +206,4 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
     - t-001
     - t-002
     - t-005
+

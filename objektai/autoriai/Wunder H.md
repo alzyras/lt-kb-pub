@@ -105,3 +105,4 @@ Dusburgietis teigia, kad senuoju prūsišku vardu vadino pilį ir kryžiuočiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

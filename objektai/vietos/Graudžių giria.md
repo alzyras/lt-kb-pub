@@ -71,3 +71,4 @@ Per Graudžių girią žygiuota sunkiai; Vitingai ir Insterburgo pasienio sargyb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

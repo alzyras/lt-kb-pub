@@ -57,3 +57,4 @@ Kauno inteligentai atpažino, kad atvykę delegatai buvo iš Amerikos, o ne iš 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

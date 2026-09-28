@@ -67,3 +67,4 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -78,3 +78,4 @@ Serkel, Biala wieza, Biata wies ir Bieloserkal reiškia tą patį miestą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

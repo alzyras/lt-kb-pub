@@ -76,3 +76,4 @@ LReim = Livländische Reimchronik, išl.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

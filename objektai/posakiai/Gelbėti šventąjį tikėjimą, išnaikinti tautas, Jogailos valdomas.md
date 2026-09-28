@@ -69,3 +69,4 @@ Teodoro Narbuto vaizduojamas Kryžiuočių ordinas kryžiaus žygio šūkiu skel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

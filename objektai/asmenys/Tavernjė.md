@@ -61,3 +61,4 @@ Narbutas nurodo, kad Tavernjė čerkesų ir kumanų totorių papročiuose rado t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

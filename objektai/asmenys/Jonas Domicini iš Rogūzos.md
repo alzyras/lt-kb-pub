@@ -76,3 +76,4 @@ At­ sirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­ micini 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -83,3 +83,4 @@ Stanislovas Jasickis, vaistininkas, kuriam pabo­ do mokėti po 140 auksinų, u�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

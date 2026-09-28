@@ -79,3 +79,4 @@ Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

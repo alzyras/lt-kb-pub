@@ -96,3 +96,4 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Aloyzą Sakalą ir atitinka citatą."
   pagrindžia:
     - c-21577
+

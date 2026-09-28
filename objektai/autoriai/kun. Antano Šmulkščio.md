@@ -75,3 +75,4 @@ Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

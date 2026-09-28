@@ -153,3 +153,4 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

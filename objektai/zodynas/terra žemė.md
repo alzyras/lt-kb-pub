@@ -149,3 +149,4 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

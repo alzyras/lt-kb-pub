@@ -64,3 +64,4 @@ T. Narbutas frazę „Žmonės visados ir visur tie patys žmonės“ nuolat tai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

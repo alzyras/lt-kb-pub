@@ -83,3 +83,4 @@ Basanavičius Paulių Straszynskį vaizdavo kaip Seinų vyskupą, draudusį liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -67,3 +67,4 @@ Jonas Anlantu buvo kunigaikštis ir Albrechto vaikaitis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

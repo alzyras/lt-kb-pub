@@ -98,3 +98,4 @@ Narbutas, perteikdamas Henenbergerį, rašė, kad Sakininkuose, galbūt Šakūnu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

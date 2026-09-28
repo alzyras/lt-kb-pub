@@ -287,3 +287,4 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

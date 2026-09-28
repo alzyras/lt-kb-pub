@@ -82,3 +82,4 @@ Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos bū
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

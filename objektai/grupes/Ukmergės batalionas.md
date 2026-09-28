@@ -70,3 +70,4 @@ Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

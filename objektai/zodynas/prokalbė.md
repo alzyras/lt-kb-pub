@@ -68,3 +68,4 @@ Todėl iš visų indoeuropiečių kalbų slavų kalbos yra artimiausios baltų k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

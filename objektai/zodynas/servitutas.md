@@ -134,3 +134,4 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -300,6 +300,18 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   pagrindžia:
     - c-190132
 
+<a id="claim-t-230507"></a>
+- t-230507
+  teiginys: "1944 m. liepą Juozas Alekna pasiūlė susirinkusiems stoti į Lietuvos kariuomenę ir tęsti kovą su sovietinės armijos daliniais."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211146
+
 ## Citatos
 
 - id: c-12742
@@ -628,6 +640,18 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207515
+
+- id: c-211146
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 30"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 30."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230507
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lenkai]]

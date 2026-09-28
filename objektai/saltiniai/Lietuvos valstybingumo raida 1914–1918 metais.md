@@ -70,3 +70,4 @@ Lietuvos valstybingumo raida 1914–1918 metais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

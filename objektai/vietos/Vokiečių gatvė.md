@@ -170,3 +170,4 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

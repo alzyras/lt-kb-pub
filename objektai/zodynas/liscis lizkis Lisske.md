@@ -105,3 +105,4 @@ Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

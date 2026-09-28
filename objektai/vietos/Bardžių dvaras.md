@@ -104,3 +104,4 @@ Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių, aptiko mil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -99,3 +99,4 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -65,3 +65,4 @@ ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

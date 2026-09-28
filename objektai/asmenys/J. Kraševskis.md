@@ -130,3 +130,4 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-63666
+

@@ -759,3 +759,4 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211773
+

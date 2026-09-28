@@ -137,3 +137,4 @@ canonical_biography: "1227 metais prie Voluinės Vladimiro buvo suimti du jotvin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

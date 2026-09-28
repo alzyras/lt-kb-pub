@@ -92,3 +92,4 @@ Ataskaita buvo pateikta Rusijoje IX tarybų suvažiavimui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -87,3 +87,4 @@ Terminas vartojamas aprašant gaminimą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

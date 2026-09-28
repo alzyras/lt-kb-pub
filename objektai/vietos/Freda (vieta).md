@@ -103,3 +103,4 @@ Fredoje buvo įsikūrę keliolika ar keliasdešimt valstiečių, vadinamų miest
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

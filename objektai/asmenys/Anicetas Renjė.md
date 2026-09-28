@@ -207,3 +207,4 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

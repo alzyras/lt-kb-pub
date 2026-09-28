@@ -98,3 +98,4 @@ Seminarijos bažnyčios didysis altorius buvo pavirtęs ant šono.
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-225908
+

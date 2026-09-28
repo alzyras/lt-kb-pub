@@ -81,3 +81,4 @@ Narbutas rašo, kad Ragainės komtūras Jonas Rumpenheimas ir Insterburgo valdyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

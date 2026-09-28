@@ -76,3 +76,4 @@ Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo Annales Quedlinbur
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

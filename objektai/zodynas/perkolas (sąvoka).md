@@ -64,3 +64,4 @@ Prie upių valdas turintys žemvaldžiai įrengdavo žvejybai vadinamuosius perk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

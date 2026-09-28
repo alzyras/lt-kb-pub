@@ -286,3 +286,4 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

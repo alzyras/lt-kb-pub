@@ -63,3 +63,4 @@ Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

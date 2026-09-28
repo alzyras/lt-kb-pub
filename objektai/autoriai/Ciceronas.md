@@ -87,3 +87,4 @@ Narbutas nurodo, kad Ciceronas žodį „Soter“ aiškino kaip išganytoją.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

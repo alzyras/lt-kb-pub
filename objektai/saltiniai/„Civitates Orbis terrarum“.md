@@ -79,3 +79,4 @@ Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto vei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

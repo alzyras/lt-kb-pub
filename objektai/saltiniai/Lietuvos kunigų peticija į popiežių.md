@@ -66,3 +66,4 @@ Vilniaus vyskupijos administratorius atsisakė pasirašyti peticiją Lietuvos ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -78,3 +78,4 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -72,3 +72,4 @@ Sūduviai ir kitos kaimyninės gentys įsiveržė į Galindos žemę ir išsivar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -207,3 +207,4 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -72,3 +72,4 @@ Kovalero, Komalek priešais Plovistą šiauri niame ežero pakraštyje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -89,3 +89,4 @@ Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

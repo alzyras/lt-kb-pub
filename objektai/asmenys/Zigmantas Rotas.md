@@ -122,3 +122,4 @@ Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėm
   patikimumo_saltinis: ai
   pagrindžia:
     - t-196655
+

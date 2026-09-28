@@ -119,3 +119,4 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

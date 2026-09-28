@@ -65,3 +65,4 @@ KELI MOKSLEIVIU VERTIMAI. „Šie moksleivau vertimai (rašo pats Rygiškiu Jona
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

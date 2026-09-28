@@ -331,3 +331,4 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213689
+

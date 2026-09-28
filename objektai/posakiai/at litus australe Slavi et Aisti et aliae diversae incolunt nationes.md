@@ -80,3 +80,4 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

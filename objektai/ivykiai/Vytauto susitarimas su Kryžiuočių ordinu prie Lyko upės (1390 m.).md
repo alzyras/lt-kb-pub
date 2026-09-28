@@ -78,3 +78,4 @@ Pagal 1390 m. susitarimą Gardinas, laikomas Vytauto kariaunos, vadovaujamos Al�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -1,6 +1,6 @@
 ---
 tipas: posakis
-pavadinimas: '„Atbaido velnius, kad neprikibtų velniai, sielos nepagrobtų“'
+pavadinimas: '„“'
 saltiniai:
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 sukurta: ''
@@ -18,7 +18,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# „Atbaido velnius, kad neprikibtų velniai, sielos nepagrobtų“
+# „“
 
 ## Santrauka
 

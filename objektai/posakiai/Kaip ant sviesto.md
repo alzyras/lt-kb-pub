@@ -56,3 +56,4 @@ Vis kas šiame konsulete eina kaip ant sviesto.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

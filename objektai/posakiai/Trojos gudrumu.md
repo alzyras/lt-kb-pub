@@ -100,3 +100,4 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

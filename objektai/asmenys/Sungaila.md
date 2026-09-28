@@ -78,3 +78,4 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

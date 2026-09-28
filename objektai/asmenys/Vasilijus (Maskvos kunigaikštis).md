@@ -252,3 +252,4 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   pagrindžia:
     - t-003
     - t-185994
+

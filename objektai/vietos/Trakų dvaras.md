@@ -80,3 +80,4 @@ Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

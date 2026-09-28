@@ -186,3 +186,4 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

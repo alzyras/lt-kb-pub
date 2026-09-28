@@ -85,3 +85,4 @@ Gardino žemės teismo knygoje Nr. 13 yra 1594 m. Gardino seniūno J. Kliukovski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

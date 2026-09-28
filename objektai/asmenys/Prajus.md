@@ -71,3 +71,4 @@ Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolem
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -78,3 +78,4 @@ Deputaci Trybunału Głównego Wielkiego Księstwa Litewskiego.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Jonas Laucius"]
 sameAs: []
-canonical_biography: "Griciūnai – 3 dūmai (Kazimiero Bliekos, Jono Lauciaus, Motiejaus Bliekos)."
+canonical_biography: "."
 ---
 # Jonas Laucius
 

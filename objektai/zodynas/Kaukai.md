@@ -48,3 +48,4 @@ Narbutas rašo, kad kaukų garbintojai nakčiai palikdavo jiems maisto ir iš jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

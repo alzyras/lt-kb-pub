@@ -79,3 +79,4 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

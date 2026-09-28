@@ -33,7 +33,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Bronė Ažusienienė"]
 sameAs: []
-canonical_biography: "Bronė Ažusienienė (Lukonys, 1972–2009)."
+canonical_biography: "."
 ---
 # Bronė Ažusienienė
 
@@ -71,5 +71,6 @@ Bronė Ažusienienė dirbo bibliotekininke Lukonyse 1972–2009 m.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

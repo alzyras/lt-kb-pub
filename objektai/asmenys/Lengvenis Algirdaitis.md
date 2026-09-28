@@ -92,3 +92,4 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
   pagrindžia:
     - t-001
     - t-002
+

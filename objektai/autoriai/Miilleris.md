@@ -83,3 +83,4 @@ kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -60,3 +60,4 @@ p. 119, „MORTYROS IR PATRANKOS TRAJEKTORIJOS“, Andžej Geglis, dail.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

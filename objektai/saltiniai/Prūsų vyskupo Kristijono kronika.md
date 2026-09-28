@@ -270,3 +270,4 @@ Pasak Teodoro Narbuto, Prūsų vyskupo Kristijono kronikoje turėjo būti žinia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

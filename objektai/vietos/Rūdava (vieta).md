@@ -85,3 +85,4 @@ Teodoras Narbutas aprašo, kad lietuvių kunigaikščiai prie Rūdavos kaimo už
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

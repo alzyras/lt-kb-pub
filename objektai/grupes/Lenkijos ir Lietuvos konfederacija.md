@@ -79,3 +79,4 @@ Su šia konfederacija siejami Stanisławo Małachowskio ir Kazimiero Nestoro Sap
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

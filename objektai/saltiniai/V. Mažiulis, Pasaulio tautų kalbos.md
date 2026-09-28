@@ -53,3 +53,4 @@ Dusburgietis teigia, kad 14 Mažiulis V.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

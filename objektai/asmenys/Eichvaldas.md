@@ -126,3 +126,4 @@ Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį pri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

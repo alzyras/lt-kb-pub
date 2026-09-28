@@ -79,5 +79,6 @@ Po viešo Lietuvos pasiaukojimo Švč. Jėzaus Širdžiai 1934 m. vis daugiau š
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -56,3 +56,4 @@ Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

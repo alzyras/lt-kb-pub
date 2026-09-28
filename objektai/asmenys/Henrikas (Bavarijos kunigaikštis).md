@@ -89,3 +89,4 @@ Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -99,3 +99,4 @@ Plinijus Rygos įlanką vadino Sinus Clytipenus. Nuo Dauguvos žiočių iki kyš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -60,3 +60,4 @@ Reikia tiesiog būti stipresniais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

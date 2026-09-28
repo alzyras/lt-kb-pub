@@ -93,3 +93,4 @@ Aleksandras Tormasovas vėlesniame karininko laiške įvardijamas kaip tikėtina
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

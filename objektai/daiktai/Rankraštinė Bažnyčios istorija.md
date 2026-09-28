@@ -84,3 +84,4 @@ Jėzuito sukompiliuotas Bažnyčios istorijos rankraštis buvo saugomas vieno dv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

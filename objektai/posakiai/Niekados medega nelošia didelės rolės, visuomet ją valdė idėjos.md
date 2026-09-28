@@ -58,3 +58,4 @@ Niekados medega nelošia didelės ro lės, visuomet ją valdė idėjos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

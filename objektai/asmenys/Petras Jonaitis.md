@@ -67,3 +67,4 @@ Ponas Petras patarė per duoti Volynės kunigaikščiui Konstantinui Ostrogiški
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

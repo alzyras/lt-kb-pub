@@ -61,3 +61,4 @@ Atviras, gyvas, aistringas, trokštantis lais vės protas; paprastumas, vaišing
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

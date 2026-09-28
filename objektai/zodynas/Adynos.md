@@ -95,3 +95,4 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
   pagrindžia:
     - t-001
     - t-002
+

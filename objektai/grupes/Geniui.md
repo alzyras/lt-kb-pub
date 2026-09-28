@@ -158,3 +158,4 @@ Narbutas rašo, kad Naruševičius Ptolemėjo chunus laikė ta pačia graikų-sk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

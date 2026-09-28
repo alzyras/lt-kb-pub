@@ -80,3 +80,4 @@ XVI a. LDK bajorų racione kopūstai sudarė bene didžiausią daržovių dalį,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -145,3 +145,4 @@ canonical_biography: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Staro
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210698
+

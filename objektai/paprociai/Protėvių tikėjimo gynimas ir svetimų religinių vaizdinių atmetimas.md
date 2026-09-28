@@ -83,3 +83,4 @@ Jotvingiai, pasak šaltinio, verčiau žūdavo už savo protėvių tikėjimą, o
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

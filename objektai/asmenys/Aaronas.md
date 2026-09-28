@@ -95,3 +95,4 @@ Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

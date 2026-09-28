@@ -82,3 +82,4 @@ Laikinosios Tarybos Karinis skyrius Karūnoje rūpinosi kariniais reikalais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

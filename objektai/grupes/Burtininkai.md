@@ -124,3 +124,4 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

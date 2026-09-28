@@ -86,3 +86,4 @@ Vitebsko pavieto bajoro Fiodoro Voropos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

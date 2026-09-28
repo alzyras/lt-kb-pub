@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 223
+tema_objektu_skaicius: 224
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 223.
+Objektų skaičius: 224.
 
 ## Kaip naudoti
 
@@ -28,6 +28,9 @@ Objektų skaičius: 223.
 ### Asmenys
 - [[objektai/asmenys/Henrikas iš Lichtenšteino]]
 - [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+
+### Vietos
+- [[objektai/vietos/Troškūnai]]
 
 ### Įvykiai
 - [[objektai/ivykiai/1227 m. jotvingių antpuoliai iki Voluinės Vladimiro ir mūšis su Danieliumi bei Vasilka]]
@@ -52,7 +55,7 @@ Objektų skaičius: 223.
 - [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]
 - [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]
 - [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]
-- [[objektai/ivykiai/Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.)]]
+- [Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.)](../objektai/ivykiai/Bisen%C4%97s%20ir%20Gardino%20gynimasis%2C%20o%20kry%C5%BEiuo%C4%8Diams%20m%C4%97ginant%20pulti%20lietuvi%C5%B3%20pilis%20%281311-1313%20m.%29)
 - [Bisenės papilių sudeginimas (1313 m.)](../objektai/ivykiai/Bisen%C4%97s%20papili%C5%B3%20sudeginimas%20%281313%20m.%29)
 - [Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)](../objektai/ivykiai/Bisen%C4%97s%20pilies%20sudeginimas%20%281316%20m.%20baland%C5%BEio%204%20d.%29)
 - [Bisenės pilies užkariavimas](../objektai/ivykiai/Bisen%C4%97s%20pilies%20u%C5%BEkariavimas)

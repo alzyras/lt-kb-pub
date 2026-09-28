@@ -143,3 +143,4 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

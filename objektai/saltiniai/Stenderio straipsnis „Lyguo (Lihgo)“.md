@@ -57,3 +57,4 @@ Taip pagal Stenderlo pastebėjimus straipsnyje „Lyguo (Lihgo)“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

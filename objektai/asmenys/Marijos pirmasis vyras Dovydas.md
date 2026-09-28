@@ -84,3 +84,4 @@ Marijos pirmasis vyras Dovydas jau buvo iš Drohičino atvykęs į Gardiną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

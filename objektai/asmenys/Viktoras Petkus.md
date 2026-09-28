@@ -167,3 +167,4 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

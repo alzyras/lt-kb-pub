@@ -73,3 +73,4 @@ Vis dėlto aukų nebuvo išvengta: sargyboje žuvo Dzūkų būrio partizanas Vac
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

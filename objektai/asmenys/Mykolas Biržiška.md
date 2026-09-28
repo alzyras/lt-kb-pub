@@ -89,3 +89,4 @@ Biržiška iš jos pasitraukė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

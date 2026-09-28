@@ -57,3 +57,4 @@ Si maldelė yra ug nies užkeikimas jaujoje, kad nekiltų gaisras.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

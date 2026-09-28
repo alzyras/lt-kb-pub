@@ -78,3 +78,4 @@ canonical_biography: "Žemaičių vyskupas Melchioras Giedraitis vėl išsikviet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

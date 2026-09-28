@@ -63,3 +63,4 @@ Narbutas aiškina, kad portugalai fetišais pirmiausia vadino dievukus prie Sene
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -57,3 +57,4 @@ Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

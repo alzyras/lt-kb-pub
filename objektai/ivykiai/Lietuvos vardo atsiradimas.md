@@ -76,3 +76,4 @@ Lietuva pradėjo plėstis nuo Žemaičių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -81,3 +81,4 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
   temporalinis_llm_pakomentavimas: "Teiginys perrašytas aiškiai susiejant jį su SD Einsatzgruppen."
   pagrindžia:
     - c-22732
+

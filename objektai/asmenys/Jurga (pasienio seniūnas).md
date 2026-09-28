@@ -78,3 +78,4 @@ Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

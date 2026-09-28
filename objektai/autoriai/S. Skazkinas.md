@@ -78,3 +78,4 @@ S. Skazkino požiūriu, ankstyvieji Vidurio Rytų Europos manoriai buvo susiję 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

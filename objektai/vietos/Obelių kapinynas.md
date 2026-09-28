@@ -64,3 +64,4 @@ Obelių kapinyno radiniai užėmė vieną garbingiausių vietų Šaurų dvaro mu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

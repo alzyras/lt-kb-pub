@@ -293,3 +293,4 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

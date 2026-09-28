@@ -66,3 +66,4 @@ Jono Apokalipsis, 1000 metų sukakus, bus pabanga šio svieto.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -128,3 +128,4 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

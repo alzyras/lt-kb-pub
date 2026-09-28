@@ -73,3 +73,4 @@ XIII–XIV a. pradžioje vokiečiai garsiausią Kuršo žemės uostą vadino Srn
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

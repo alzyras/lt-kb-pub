@@ -97,3 +97,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata pagrindžia glaustą faktą apie slaptąjį protokolą."
   pagrindžia:
     - c-23154
+

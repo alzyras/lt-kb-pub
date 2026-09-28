@@ -109,3 +109,4 @@ Polonija yra Maišiagalos vėliavininko Martyno Janavičiaus našlė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

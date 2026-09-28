@@ -187,3 +187,4 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

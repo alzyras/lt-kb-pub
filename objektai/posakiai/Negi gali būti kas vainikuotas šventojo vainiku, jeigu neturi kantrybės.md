@@ -57,3 +57,4 @@ Negi gali būti kas vainikuotas šventojo vainiku, jeigu neturi kantrybės?
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

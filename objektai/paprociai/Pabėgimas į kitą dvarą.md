@@ -76,3 +76,4 @@ Persikėlę į kitą dvarą pabėgę valstiečiai galėjo tęsti ankstesnę žem
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

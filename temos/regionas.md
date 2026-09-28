@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 122
+tema_objektu_skaicius: 119
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 122.
+Objektų skaičius: 119.
 
 ## Kaip naudoti
 
@@ -28,7 +28,6 @@ Objektų skaičius: 122.
 ### Vietos
 - [[objektai/vietos/Abenda]]
 - [[objektai/vietos/Aliamas]]
-- [[objektai/vietos/Anykščių valsčius]]
 - [[objektai/vietos/Archangelsko gubernija]]
 - [[objektai/vietos/Augustavo gubernija]]
 - [[objektai/vietos/Aukštaitija]]
@@ -51,7 +50,7 @@ Objektų skaičius: 122.
 - [[objektai/vietos/Jankų valsčius]]
 - [[objektai/vietos/Joniškio apskritis]]
 - [[objektai/vietos/Kališo sritis]]
-- [Kariela](../objektai/vietos/Kariela)
+- [[objektai/vietos/Kariela]]
 - [Kaukazas](../objektai/vietos/Kaukazas)
 - [Kauno apskritis](../objektai/vietos/Kauno%20apskritis)
 - [Kauno gubernija](../objektai/vietos/Kauno%20gubernija)
@@ -59,7 +58,6 @@ Objektų skaičius: 122.
 - [Krakių valsčius](../objektai/vietos/Kraki%C5%B3%20vals%C4%8Dius)
 - [Kretingos apskritis](../objektai/vietos/Kretingos%20apskritis)
 - [Kujavija](../objektai/vietos/Kujavija)
-- [Kupiškio apskritis](../objektai/vietos/Kupi%C5%A1kio%20apskritis)
 - [Kurklių valsčius](../objektai/vietos/Kurkli%C5%B3%20vals%C4%8Dius)
 - [Kuršių nerija](../objektai/vietos/Kur%C5%A1i%C5%B3%20nerija)
 - [Kuršo gubernija](../objektai/vietos/Kur%C5%A1o%20gubernija)
@@ -115,7 +113,6 @@ Objektų skaičius: 122.
 - [Silezija](../objektai/vietos/Silezija)
 - [Starobelsko apskritis](../objektai/vietos/Starobelsko%20apskritis)
 - [Suvalkų gubernija](../objektai/vietos/Suvalk%C5%B3%20gubernija)
-- [Svėdasų valsčius](../objektai/vietos/Sv%C4%97das%C5%B3%20vals%C4%8Dius)
 - [Trakų pavietas arba vaivadija](../objektai/vietos/Trak%C5%B3%20pavietas%20arba%20vaivadija)
 - [Tulos anglių baseinas](../objektai/vietos/Tulos%20angli%C5%B3%20baseinas)
 - [Tverės sritis](../objektai/vietos/Tver%C4%97s%20sritis)

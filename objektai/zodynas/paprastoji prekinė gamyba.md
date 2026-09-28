@@ -111,3 +111,4 @@ Paprastosios prekinės gamybos tiesioginis tikslas – ne pelno maksimizavimas a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208031
+

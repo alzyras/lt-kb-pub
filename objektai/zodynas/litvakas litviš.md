@@ -65,3 +65,4 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

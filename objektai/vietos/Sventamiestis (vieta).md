@@ -73,3 +73,4 @@ Sventamiestyje, vėliau vadintame Heiligenbeiliu arba Šventuoju Kirveliu, augo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

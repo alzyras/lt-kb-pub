@@ -69,3 +69,4 @@ Augustas Šleicheris buvo vienas pirmųjų viešai kritiškai apie T. Narbuto li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

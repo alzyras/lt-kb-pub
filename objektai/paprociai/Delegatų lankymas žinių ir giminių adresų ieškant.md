@@ -77,3 +77,4 @@ Delegatams atvykus Kaunan, gandas pas klido po visą Lietuvą apie jų pribuvim�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

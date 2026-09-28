@@ -81,3 +81,4 @@ Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

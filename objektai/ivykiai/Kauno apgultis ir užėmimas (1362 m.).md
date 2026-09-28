@@ -81,3 +81,4 @@ Kryžiuočiai, įvertinę gerai įtvirtintą Kauną ir gausią jo įgulą, apgul
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

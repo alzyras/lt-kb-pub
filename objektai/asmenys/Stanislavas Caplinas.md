@@ -92,3 +92,4 @@ Lietuvos pajėgos Čekistinę operacijos pusę koordinavo naujai Maskvos paskirt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

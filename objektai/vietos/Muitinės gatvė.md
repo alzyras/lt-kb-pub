@@ -71,3 +71,4 @@ Kauną ištiko kiti dideli gaisrai, 1610 m. degė Muitinės gatvės namai, 1603 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

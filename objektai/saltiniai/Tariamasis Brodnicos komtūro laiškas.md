@@ -122,3 +122,4 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

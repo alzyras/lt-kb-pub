@@ -77,3 +77,4 @@ Narbutas kritikuoja Depingą, kad šis be pagrįstų įrodymų Gotijai priskyrė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

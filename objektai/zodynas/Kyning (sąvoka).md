@@ -93,3 +93,4 @@ Be to, pastebime ir pasiskirstymą luomais: kunigaikščiai — Kyning, aukšto 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

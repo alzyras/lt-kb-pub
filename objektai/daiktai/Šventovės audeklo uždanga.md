@@ -97,3 +97,4 @@ Uždanga buvo aštuonių uolekčių aukščio ir sudaryta iš šešių atskirų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

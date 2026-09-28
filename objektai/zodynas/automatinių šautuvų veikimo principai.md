@@ -69,3 +69,4 @@ AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

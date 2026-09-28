@@ -92,3 +92,4 @@ Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

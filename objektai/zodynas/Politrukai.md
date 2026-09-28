@@ -80,3 +80,4 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

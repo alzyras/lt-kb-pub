@@ -109,3 +109,4 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -94,3 +94,4 @@ Gegužės 15 d. Saugumo deputacija paskelbė universalą dėl buvusių Targovico
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

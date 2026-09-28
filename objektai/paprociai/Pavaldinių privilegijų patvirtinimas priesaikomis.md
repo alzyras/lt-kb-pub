@@ -77,3 +77,4 @@ Kazimieras privilegijas patvirtino priesaikomis ir nurodė Kęsgailai trejus met
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

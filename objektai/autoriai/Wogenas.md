@@ -95,3 +95,4 @@ Narbutas, remdamasis Maschu ir Wogenu, teigė, kad Prilvico rinkinio „Szwaixti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

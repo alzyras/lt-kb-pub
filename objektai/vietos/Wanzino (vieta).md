@@ -76,3 +76,4 @@ Ten taip pat randame tarp daugelio ežerų, kurie buvo tarsi šio krašto prieda
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

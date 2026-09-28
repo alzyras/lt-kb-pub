@@ -71,3 +71,4 @@ Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

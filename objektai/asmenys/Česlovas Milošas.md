@@ -74,3 +74,4 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

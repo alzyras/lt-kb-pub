@@ -43,3 +43,4 @@ Teodoras Narbutas nurodo, kad Kromeris veikale „De situ, populis, moribus, mag
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

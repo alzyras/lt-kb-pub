@@ -92,25 +92,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   pagrindžia:
     - c-56015
 
-<a id="claim-t-221861"></a>
-- t-221861
-  teiginys: "J. Poverskis parašė darbą „Przekaz“."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-
-<a id="claim-t-225530"></a>
-- t-225530
-  teiginys: "J. Poverskis siūlė vėlesnes pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos datas."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1279 m.; įvykio data: 1281 m.; įvykio data: 1286 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata sieja vėlesnių datų siūlymą su J. Poverskio darbu."
-  pagrindžia:
-    - c-202851
-
 ## Citatos
 
 - id: c-56015
@@ -241,8 +222,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-225530
 
 - id: c-205279
   autorius: "Petras Dusburgietis"
@@ -280,3 +259,99 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-00339
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    500  Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
+    1272 m. ar 1274 m. 1275 m. pradėta statyti Aukštutinė pilis (iki 1279 m. pastatytas jos
+    šiaurinis sparnas, Aukštutinė pilis baigta apie 1300 m.). 1276 m. miestas gavo lokacinę
+    privilegiją. Ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid
+    B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje
+    Malborka, р. 22).
+    Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
+    m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
+    (Powierski J., Chronologia..., p. 5—31).
+  citata_rodoma: "500  Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti \n1272 m. ar 1274 m. 1275 m. pradėta statyti Aukštutinė pilis (iki 1279 m. pastatytas jos \nšiaurinis sparnas, Aukštutinė pilis baigta apie 1300 m.). 1276 m. miestas gavo lokacinę \nprivilegiją. Ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid \nB., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje \nMalborka, р. 22).\nDabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281 \nm.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m. \n(Powierski J., Chronologia..., p. 5—31)."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:25"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-00378
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  citata_originali: |
+    Powierski J. Przekaz Dusburga o najazdach pruskich i przejściowej okupacj  ziemi
+    Chełmińskiej.—Komunikaty mazursko-warmińskie, Olsztyn, 1971, Nr. 4 (114), s. 379—
+    427.
+  citata_rodoma: "Powierski J. Przekaz Dusburga o najazdach pruskich i przejściowej okupacj  ziemi \nChełmińskiej.—Komunikaty mazursko-warmińskie, Olsztyn, 1971, Nr. 4 (114), s. 379—\n427."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:44"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202233
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  citata_originali: |
+    Volfenbiutelio bibliotekos kopija99. Šių tekstų tyrinėjimai parodė, kad Ordino valstybėje
+    buvusi oficiali analistika. Jos pagrindas susidarė XIII a. pabaigoje100.
+  citata_rodoma: "Volfenbiutelio bibliotekos kopija99. Šių tekstų tyrinėjimai parodė, kad Ordino valstybėje \nbuvusi oficiali analistika. Jos pagrindas susidarė XIII a. pabaigoje100."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204227
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės
+    dokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto
+    vieta (CDP, 2, Nr. 113, p. 151—152; SU, 2, Nr. 238, p. 159—160; Voigt J., Geschichte...,
+    1, p. 639—649; GAO, p. 146).
+    Ieškodamas centrinės baltų Romovės resp.
+  citata_rodoma: "Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės \ndokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto \nvieta (CDP, 2, Nr. 113, p. 151—152; SU, 2, Nr. 238, p. 159—160; Voigt J., Geschichte..., \n1, p. 639—649; GAO, p. 146).\nIeškodamas centrinės baltų Romovės resp."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206165
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
+  citata_originali: |
+    Analizuodamas Olivos kronikos šaltinius, J. Venta iškėlė mintį,
+    kad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir
+    3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos
+    cenzūruotas antrininkas94.
+    Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą. Lotyniškojo
+    originalo ir lietuviškojo vertimo paragrafai, atskleidžiantys įvairius prūsų (32 paragrafai)
+    ir lietuvių (14 paragrafų) kovų su Ordinu momentus (iki 1324 m.), tarpais sutrumpinti,
+    paskelbti J. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
+  citata_rodoma: "Analizuodamas Olivos kronikos šaltinius, J. Venta iškėlė mintį, \nkad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir \n3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos \ncenzūruotas antrininkas94.\nKai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą. Lotyniškojo \noriginalo ir lietuviškojo vertimo paragrafai, atskleidžiantys įvairius prūsų (32 paragrafai) \nir lietuvių (14 paragrafų) kovų su Ordinu momentus (iki 1324 m.), tarpais sutrumpinti, \npaskelbti J. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

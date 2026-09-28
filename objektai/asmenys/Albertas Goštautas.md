@@ -262,3 +262,4 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš tautas, Vilniaus vaivada
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211394
+

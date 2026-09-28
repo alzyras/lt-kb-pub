@@ -150,3 +150,4 @@ Zapolės Jamas minimas kaip 1582 m. sausio 12 d. dešimties metų karo paliaubų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

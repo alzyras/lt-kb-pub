@@ -69,3 +69,4 @@ Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -83,3 +83,4 @@ canonical_biography: "(apie 1430-1486) iš šveicarų Dieboldo Schillingo Berno 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

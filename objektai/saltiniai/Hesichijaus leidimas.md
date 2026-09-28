@@ -102,3 +102,4 @@ Teodoras Narbutas nurodė, kad Hesichijas, kaip ir vėlesni Bizantijos tyrinėto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -80,3 +80,4 @@ Jau tų metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuški
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūksta ir apima perteklinį kontekstą, todėl palikta esminė pataisų reikšmė."
   pagrindžia:
     - c-23797
+

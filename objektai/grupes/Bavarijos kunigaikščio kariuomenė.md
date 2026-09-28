@@ -97,3 +97,4 @@ XIV a. pradžioje Bavarijos kunigaikščio kariuomenė dalyvavo kryžiuočių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

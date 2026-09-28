@@ -101,3 +101,4 @@ Pasak Narbuto, Vainius gimė 1296 metais kaip Lietuvos didžiojo kunigaikščio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

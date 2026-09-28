@@ -47,3 +47,4 @@ Pasak Lasickio, Bežlėja, kitaip Vakarinė, buvo vakaro deivė, kartu su Aušra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

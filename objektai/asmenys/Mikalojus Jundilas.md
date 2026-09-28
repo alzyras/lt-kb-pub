@@ -96,3 +96,4 @@ Mikalojus Jundilas yra Slanimo pavieto sidabrinės mokesčių rinkėjas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

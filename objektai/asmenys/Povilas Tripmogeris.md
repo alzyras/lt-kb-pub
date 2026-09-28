@@ -73,3 +73,4 @@ canonical_biography: "Štai 1613 m. Karaliaučiaus šiporiaus Jokūbo Solfelto l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

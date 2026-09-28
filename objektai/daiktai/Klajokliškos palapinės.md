@@ -74,3 +74,4 @@ Narbutas nurodo, kad amaksoliai neturėjo kitokių būstų, tik klajokliškas pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

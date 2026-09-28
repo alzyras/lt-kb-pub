@@ -75,3 +75,4 @@ Vyskupas kapinių šventinimo metu šlakstė mirusiųjų kapus švęstu vandeniu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

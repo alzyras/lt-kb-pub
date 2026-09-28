@@ -100,3 +100,4 @@ Viduramžiais karaliai būdavo vainikuojami sekmadieniais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

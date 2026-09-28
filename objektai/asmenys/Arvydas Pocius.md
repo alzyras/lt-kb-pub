@@ -159,3 +159,4 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

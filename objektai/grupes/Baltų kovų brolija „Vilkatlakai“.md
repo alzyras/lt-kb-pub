@@ -96,3 +96,4 @@ Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“ r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

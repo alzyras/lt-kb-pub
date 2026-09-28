@@ -63,3 +63,4 @@ Lietuviams belaisviams paskirta penki cenzoriai, žinanti lietuvių kalbą; liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -64,3 +64,4 @@ Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

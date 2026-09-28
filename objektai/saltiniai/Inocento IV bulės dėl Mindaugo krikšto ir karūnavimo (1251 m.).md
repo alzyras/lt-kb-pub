@@ -76,3 +76,4 @@ Teodoro Narbuto nurodytos dvi 1251 m. Inocento IV bulės žymėjo karaliaus Mind
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

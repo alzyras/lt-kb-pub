@@ -63,3 +63,4 @@ Su rasta dvi proklemaciji, pono Vailokaičio laiš kas į mane, kuriame aprašo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

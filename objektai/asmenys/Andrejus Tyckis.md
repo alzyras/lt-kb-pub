@@ -77,3 +77,4 @@ canonical_biography: "20 Lietuvos Metrikoje yra labai daug Žygimanto Senojo lai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

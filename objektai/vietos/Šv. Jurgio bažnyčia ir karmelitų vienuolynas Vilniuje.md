@@ -78,3 +78,4 @@ Jurgio bažny­ čios prie Vilijos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

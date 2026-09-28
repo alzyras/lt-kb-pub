@@ -84,3 +84,4 @@ Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

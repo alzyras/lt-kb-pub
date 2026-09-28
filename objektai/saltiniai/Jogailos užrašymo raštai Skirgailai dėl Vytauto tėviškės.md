@@ -83,3 +83,4 @@ Jau metai laiko nūnai, kai kunigaikštis [Jogailai Liublino pilyje užrašė ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

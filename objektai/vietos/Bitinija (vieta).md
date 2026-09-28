@@ -74,3 +74,4 @@ Bitinijos keliautojai vyko tirti, ar žmonės gali gyventi septintojo dangaus ra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

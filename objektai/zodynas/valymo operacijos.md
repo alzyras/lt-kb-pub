@@ -122,3 +122,4 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
   pagrindžia:
     - t-001
     - t-002
+

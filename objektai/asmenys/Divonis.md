@@ -295,3 +295,4 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

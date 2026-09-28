@@ -94,3 +94,4 @@ Skuodinių kaimo stogastulpis buvo 2,5–3 m aukščio, kresnų formų, su ketur
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

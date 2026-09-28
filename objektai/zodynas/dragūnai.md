@@ -125,3 +125,4 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

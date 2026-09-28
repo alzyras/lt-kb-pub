@@ -90,3 +90,4 @@ Narbutas, remdamasis Huldasaga, rašo, kad Huldos dukterys Tergerda ir Irpa stat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -167,3 +167,4 @@ Etymologinis žodis, kuriuo Pretorijus aiškina variagų vardą.
     - t-002
     - t-003
     - t-004
+

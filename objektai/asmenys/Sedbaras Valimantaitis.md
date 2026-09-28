@@ -65,3 +65,4 @@ Sis Sedbaras buvo Ukmergės vietininkas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

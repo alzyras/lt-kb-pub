@@ -74,3 +74,4 @@ Narbutas vaizduoja, kad Švitrigaila, taikiai neatgavęs Vitebsko, užpuolė mie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

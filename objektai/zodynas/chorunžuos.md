@@ -119,3 +119,4 @@ terminas pateiktas tik viename sakinyje, todėl viešame įraše reikės aiškia
   pagrindžia:
     - t-001
     - t-002
+

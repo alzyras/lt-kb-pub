@@ -49,3 +49,4 @@ Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

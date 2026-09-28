@@ -66,3 +66,4 @@ Iš Stockholmo „Tag-Blatt“ redaktoriaus Sendebergo Jonas Augštuolis sužino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -149,3 +149,4 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -69,3 +69,4 @@ Tai tik riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi joje, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

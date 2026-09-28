@@ -108,3 +108,4 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213584
+

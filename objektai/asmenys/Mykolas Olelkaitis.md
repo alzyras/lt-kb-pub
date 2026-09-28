@@ -83,3 +83,4 @@ canonical_biography: "1481 m. Mykolas Olelkaitis, Slucko ir Kapyliaus kunigaikš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

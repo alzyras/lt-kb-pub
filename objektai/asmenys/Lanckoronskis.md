@@ -110,3 +110,4 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti valstybę
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169498
+

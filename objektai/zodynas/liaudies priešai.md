@@ -93,3 +93,4 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
   pagrindžia:
     - t-001
     - t-002
+

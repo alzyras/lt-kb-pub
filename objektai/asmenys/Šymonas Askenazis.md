@@ -70,3 +70,4 @@ O vyriausiasis Lenkijos derybininkas Šymonas Askenazis (Szymon Askenazy) manė 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

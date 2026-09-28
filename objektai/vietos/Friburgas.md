@@ -87,3 +87,4 @@ Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas prof. G.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

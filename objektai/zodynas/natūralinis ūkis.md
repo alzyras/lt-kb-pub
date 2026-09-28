@@ -67,3 +67,4 @@ Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

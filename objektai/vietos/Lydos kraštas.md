@@ -101,3 +101,4 @@ Lydos krašto Rodūnios parapijoje Narbutas minėjo netoli vienas kito buvusius 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

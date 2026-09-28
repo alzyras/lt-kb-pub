@@ -84,3 +84,4 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

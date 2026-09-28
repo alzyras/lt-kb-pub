@@ -82,3 +82,4 @@ Man matos, kad amerikiečiai-lietuviai neapvils savo varge skęstančių brolių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -105,3 +105,4 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
   pagrindžia:
     - t-001
     - t-002
+

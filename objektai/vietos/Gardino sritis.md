@@ -73,3 +73,4 @@ Apie VIII-IX amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų G
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

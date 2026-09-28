@@ -464,3 +464,4 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+

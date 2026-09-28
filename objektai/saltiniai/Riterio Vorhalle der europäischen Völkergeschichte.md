@@ -42,3 +42,4 @@ IV, Pagal pono Riterio dėstymą ir paaiškinimus (Vorhalle der europäischer V�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

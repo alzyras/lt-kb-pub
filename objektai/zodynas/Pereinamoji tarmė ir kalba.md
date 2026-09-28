@@ -59,3 +59,4 @@ Pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

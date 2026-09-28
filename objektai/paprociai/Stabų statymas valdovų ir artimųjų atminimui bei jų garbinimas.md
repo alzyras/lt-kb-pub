@@ -73,3 +73,4 @@ Lietuvos metraštis nurodo, kad Kukovaitis savo tėvui atminti pastatė stabą p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -73,3 +73,4 @@ Beveik tuo pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką Dievu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

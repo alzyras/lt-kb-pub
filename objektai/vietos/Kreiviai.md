@@ -108,3 +108,4 @@ Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -83,3 +83,4 @@ Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

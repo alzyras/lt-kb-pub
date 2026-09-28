@@ -128,3 +128,4 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

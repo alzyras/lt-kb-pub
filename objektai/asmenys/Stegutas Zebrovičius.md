@@ -123,3 +123,4 @@ canonical_biography: "1227 m. jotvingių antpuoliuose iki Voluinės Vladimiro bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

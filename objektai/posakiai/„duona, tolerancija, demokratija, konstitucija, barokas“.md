@@ -90,3 +90,4 @@ davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -81,3 +81,4 @@ Be to, pagal šią fundaciją ir tvarką, mūsų perimtą iš ją įvedusio pirm
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

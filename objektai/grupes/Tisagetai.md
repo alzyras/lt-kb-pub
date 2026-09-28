@@ -169,3 +169,4 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

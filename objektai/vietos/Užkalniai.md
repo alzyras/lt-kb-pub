@@ -78,3 +78,4 @@ Juos Užkalnių kaimą ir pietinius Barklainius. Viduriniajai vorai po atkaklių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

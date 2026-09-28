@@ -56,3 +56,4 @@ Andrius Droždža 1498 m. gavo didžiojo kunigaikščio taurininko pareigas ir v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

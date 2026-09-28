@@ -58,3 +58,4 @@ Jie džiaugiasi ir iš tų mažų dovanė lių, kurias jiems suteikė centralin�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

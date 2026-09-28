@@ -153,3 +153,4 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

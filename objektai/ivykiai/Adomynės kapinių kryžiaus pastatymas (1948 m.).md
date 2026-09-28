@@ -78,5 +78,6 @@ J. Čepėnas (jaun.) 1948 m. Adomynės kapinėse pastatė kryžių.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

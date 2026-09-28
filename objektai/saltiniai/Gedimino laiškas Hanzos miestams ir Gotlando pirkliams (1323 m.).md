@@ -231,3 +231,4 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -71,3 +71,4 @@ Kadangi karinė LAF dalis bendradarbiavo su Abveru, nurodyta pirmiausia užimti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

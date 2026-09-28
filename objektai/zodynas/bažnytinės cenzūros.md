@@ -87,3 +87,4 @@ O [vaitas ir tarėjai] nesi­ laikydami įstatymų pasisavina iš bažnyčios va
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -88,3 +88,4 @@ V. I. Marevičius įsigijo namelį ir žemės prie Lukiškių, Pakalnės (Podgó
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

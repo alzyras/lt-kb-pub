@@ -78,3 +78,4 @@ canonical_biography: "1754 m. Tadas Gurskis buvo Smolensko pavieto iždininkaiti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

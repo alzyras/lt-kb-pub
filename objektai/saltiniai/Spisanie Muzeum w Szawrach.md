@@ -107,3 +107,4 @@ T. Narbutas „Spisanie Muzeum w Szawrach“ Dievo Kovo stabą laikė vienu svar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

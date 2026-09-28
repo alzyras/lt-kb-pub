@@ -69,3 +69,4 @@ Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

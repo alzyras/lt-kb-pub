@@ -111,3 +111,4 @@ Pagal XVI a. tradiciją Mindaugas buvo nužudytas Agluonoje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

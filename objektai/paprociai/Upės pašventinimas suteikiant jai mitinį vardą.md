@@ -74,3 +74,4 @@ Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad birių gyventa pakran
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

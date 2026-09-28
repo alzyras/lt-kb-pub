@@ -86,3 +86,4 @@ M. S. Andersonas teigia, kad XVI a. diplomatai jau privalėdavo mokėti šalies,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

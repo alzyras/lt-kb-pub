@@ -295,3 +295,4 @@ Pasak Narbuto, boristeniečiai Herodotui pasakojo, kad gintaras juos pasiekia i�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213561
+

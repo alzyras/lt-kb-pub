@@ -57,3 +57,4 @@ Visos šios pareigos, išskyrus pastarąją (jos reikšmė išryškės šiek tie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

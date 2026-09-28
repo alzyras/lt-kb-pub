@@ -73,3 +73,4 @@ Dievaitis su savo drauge; jie globojo augalus, tinkamus amatams, ypač dažymui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

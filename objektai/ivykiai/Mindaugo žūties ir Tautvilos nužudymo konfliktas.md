@@ -73,3 +73,4 @@ Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui, jo žudikai kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

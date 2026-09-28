@@ -72,3 +72,4 @@ Po mūšio Kulmo pilėnai eidavo į kovos lauką laidoti žuvusiųjų kūnų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

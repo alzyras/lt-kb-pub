@@ -123,3 +123,4 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -97,3 +97,4 @@ Per vaišes šeimininkas, šeimininkė, jų vaikai ir gentainiai keldavo taurę 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

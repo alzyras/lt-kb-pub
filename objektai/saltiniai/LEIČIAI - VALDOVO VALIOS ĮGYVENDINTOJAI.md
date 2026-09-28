@@ -66,3 +66,4 @@ Bendrųjų Informacinių blokų sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJ
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

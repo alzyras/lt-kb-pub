@@ -146,3 +146,4 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
     - t-001
     - t-002
     - t-003
+

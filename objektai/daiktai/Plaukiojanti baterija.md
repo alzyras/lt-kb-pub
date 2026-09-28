@@ -78,3 +78,4 @@ Plaukiojanti baterija buvo plokščias laivas su sutvirtintais kraštais ir šau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

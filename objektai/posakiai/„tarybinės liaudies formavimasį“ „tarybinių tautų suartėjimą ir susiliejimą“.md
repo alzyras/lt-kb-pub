@@ -73,3 +73,4 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

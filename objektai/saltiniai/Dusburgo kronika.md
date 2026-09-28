@@ -289,3 +289,4 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
   pagrindžia:
     - t-003
     - t-005
+

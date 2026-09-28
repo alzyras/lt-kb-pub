@@ -115,3 +115,4 @@ Betgi sun ku tiksliai nustatyti to Mantvilos sumanyto, o Erdvilo surengto žygio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

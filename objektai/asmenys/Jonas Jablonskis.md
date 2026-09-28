@@ -96,3 +96,4 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

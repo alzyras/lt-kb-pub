@@ -65,3 +65,4 @@ Teodoro Narbuto genealoginiame pasakojime kunigaikščių Kurakinų giminė kild
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

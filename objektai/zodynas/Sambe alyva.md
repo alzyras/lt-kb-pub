@@ -86,3 +86,4 @@ Narbutas rašė, kad daugelyje lietuvių kaimų alyvų krūmai buvo gerbiami kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

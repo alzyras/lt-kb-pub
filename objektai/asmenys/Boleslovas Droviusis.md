@@ -86,3 +86,4 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

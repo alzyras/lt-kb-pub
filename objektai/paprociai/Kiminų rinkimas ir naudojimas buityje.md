@@ -81,7 +81,7 @@ Kiminai buvo klojami tarp statomo namo sienojų ir kemšami į durų bei langų 
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-207920
@@ -93,5 +93,6 @@ Kiminai buvo klojami tarp statomo namo sienojų ir kemšami į durų bei langų 
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-002
+

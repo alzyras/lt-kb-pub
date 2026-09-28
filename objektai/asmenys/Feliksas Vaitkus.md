@@ -84,3 +84,4 @@ canonical_biography: "1935 m. gegužės 21–22 d. kitas JAV lietuvis, Feliksas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

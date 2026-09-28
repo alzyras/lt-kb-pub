@@ -81,3 +81,4 @@ Dusburgietis teigia, kad šis, gerai susipažinęs su brolių gyvenimu, sugrįž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

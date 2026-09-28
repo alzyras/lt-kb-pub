@@ -156,3 +156,4 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

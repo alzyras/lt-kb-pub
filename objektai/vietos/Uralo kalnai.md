@@ -66,3 +66,4 @@ Tikėtina, kad jie galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdyn�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

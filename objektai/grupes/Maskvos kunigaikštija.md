@@ -291,3 +291,4 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

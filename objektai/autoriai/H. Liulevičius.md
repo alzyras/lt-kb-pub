@@ -83,3 +83,4 @@ H. Liulevičius aptarė Breslaujos žemės teismo knygas XVII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

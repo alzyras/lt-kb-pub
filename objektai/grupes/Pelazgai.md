@@ -429,3 +429,4 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213182
+

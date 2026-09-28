@@ -62,3 +62,4 @@ Be kita ko, brokuotojai paprastai būdavo Kauno miestiečiai, patyrę miško pre
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

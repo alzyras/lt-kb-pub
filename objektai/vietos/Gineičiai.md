@@ -85,3 +85,4 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

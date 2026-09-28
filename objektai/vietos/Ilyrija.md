@@ -144,3 +144,4 @@ Narbutas rašo, kad Strijkovskis kimbrų pasitraukimą vedė nuo Baltijos pakran
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -69,3 +69,4 @@ Esant šiam Vytautui didžiuoju kunigaikščiu ir val dant Lietuvos ir Rusų Did
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

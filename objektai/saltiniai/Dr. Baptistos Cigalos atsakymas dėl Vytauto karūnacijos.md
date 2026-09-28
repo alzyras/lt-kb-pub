@@ -110,3 +110,4 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

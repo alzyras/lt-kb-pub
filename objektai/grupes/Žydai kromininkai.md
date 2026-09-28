@@ -179,3 +179,4 @@ Socialinė ir prekybinė grupė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

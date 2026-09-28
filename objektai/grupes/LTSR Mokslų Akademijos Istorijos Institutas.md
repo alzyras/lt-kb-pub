@@ -76,3 +76,4 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

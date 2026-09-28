@@ -82,3 +82,4 @@ Edmundas Rimša, ištyręs piešinius, patvirtino, kad tokie antspaudai turėjo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -64,3 +64,4 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

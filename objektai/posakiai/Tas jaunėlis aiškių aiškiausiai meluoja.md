@@ -65,3 +65,4 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

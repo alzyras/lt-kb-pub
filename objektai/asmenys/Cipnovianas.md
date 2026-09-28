@@ -66,3 +66,4 @@ canonical_biography: "1223 m. Cipnovianas su Bojaduru vadovavo Čingischano kari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -62,3 +62,4 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

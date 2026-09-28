@@ -76,5 +76,6 @@ Sąjūdžio jubiliejinis renginys Kupiškyje įvyko 2008 m. spalio 10 d.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

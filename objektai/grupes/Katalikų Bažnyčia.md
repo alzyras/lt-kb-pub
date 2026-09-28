@@ -1001,3 +1001,4 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208437
+

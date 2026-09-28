@@ -53,3 +53,4 @@ canonical_biography: "1 0 Čia pabaiga pirm ojo originalaus intarpo, kur) BK aut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

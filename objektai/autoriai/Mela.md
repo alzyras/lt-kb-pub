@@ -107,3 +107,4 @@ Narbuto svarstymu, Mela galÄ—jo nesilankyti prie Baltijos, bet apie jos pakrantÄ
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

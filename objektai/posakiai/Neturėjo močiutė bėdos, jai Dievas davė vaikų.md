@@ -63,3 +63,4 @@ Neturė jo močiutė bėdos, jai Dievas davė vai kų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

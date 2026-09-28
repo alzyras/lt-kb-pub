@@ -99,3 +99,4 @@ canonical_biography: "Įsruties komtūras Vigandas fon Baldersheimas, vydamasis 
   pagrindžia:
     - t-001
     - t-002
+

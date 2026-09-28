@@ -75,3 +75,4 @@ Kariai primėtė miestą pagalių ir juos uždegė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

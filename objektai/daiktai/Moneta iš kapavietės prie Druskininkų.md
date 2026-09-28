@@ -75,3 +75,4 @@ Moneta buvo labai plona ir apgadinta, todėl išliko tik tarp dviejų stiklinių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

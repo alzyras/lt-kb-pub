@@ -92,3 +92,4 @@ Fiziokratai socialinio natūralizmo principus perėmė iš J. Locke'o Antrojo tr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

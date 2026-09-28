@@ -82,3 +82,4 @@ Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

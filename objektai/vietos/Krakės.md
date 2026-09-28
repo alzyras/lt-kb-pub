@@ -81,3 +81,4 @@ Krakės šiame šaltinyje yra miestelis ar gyvenvietė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

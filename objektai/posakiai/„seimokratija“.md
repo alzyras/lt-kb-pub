@@ -79,3 +79,4 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

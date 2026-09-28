@@ -64,3 +64,4 @@ Kalvos į šiaurę nuo miesto stūkso plikos, jas rytiniame pakraštyje perrėž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

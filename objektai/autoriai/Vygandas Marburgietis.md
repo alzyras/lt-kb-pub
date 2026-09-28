@@ -527,3 +527,4 @@ Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

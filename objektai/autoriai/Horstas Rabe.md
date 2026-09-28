@@ -83,3 +83,4 @@ Horstas Rabe luominę santvarką laiko svarbiausiu visuomenės prie Naujųjų la
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

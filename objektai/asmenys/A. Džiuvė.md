@@ -74,3 +74,4 @@ Džiuvė su 3 kuopa žvalgė SudeikiųTalaikių-Kušneriūnų rajoną.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

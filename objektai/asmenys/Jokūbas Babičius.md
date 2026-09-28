@@ -108,3 +108,4 @@ canonical_biography: "1525 metais Vilniuje jau veikė spaustu­ vė, kurioje Jok
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

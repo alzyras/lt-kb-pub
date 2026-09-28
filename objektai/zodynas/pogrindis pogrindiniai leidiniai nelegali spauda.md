@@ -162,3 +162,4 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

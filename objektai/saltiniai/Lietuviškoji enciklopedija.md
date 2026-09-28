@@ -83,3 +83,4 @@ Dusburgietis teigia, kad lietuviškoji enciklopedija.—T.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

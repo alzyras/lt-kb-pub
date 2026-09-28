@@ -126,3 +126,4 @@ Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

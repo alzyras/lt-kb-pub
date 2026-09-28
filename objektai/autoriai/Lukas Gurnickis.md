@@ -138,3 +138,4 @@ Luko Gurnickio kūriniai leidžia spręsti apie dvaro etiketo pokyčius, medžio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207798
+

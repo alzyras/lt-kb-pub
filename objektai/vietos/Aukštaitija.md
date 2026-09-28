@@ -285,3 +285,4 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

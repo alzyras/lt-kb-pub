@@ -78,3 +78,4 @@ Padėję daiktus atsakančioje vietoje, pradėjo me dairytis, ar nepamatysime li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

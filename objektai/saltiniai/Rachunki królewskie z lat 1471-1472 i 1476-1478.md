@@ -77,3 +77,4 @@ Rachunki królewskie z lat 1471–1472 ir 1476–1478 pateikia apvažiavimo išl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

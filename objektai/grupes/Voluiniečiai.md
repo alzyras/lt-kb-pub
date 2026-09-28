@@ -94,3 +94,4 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
   pagrindžia:
     - t-001
     - t-002
+

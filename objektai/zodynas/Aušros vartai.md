@@ -74,3 +74,4 @@ Vorobjovo teigimu, Gedimino sostinės stabmeldiškosios šventyklos stovėjo šv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -79,3 +79,4 @@ Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą (1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

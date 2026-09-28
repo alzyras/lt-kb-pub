@@ -81,3 +81,4 @@ Kristinas buvo Mazovijos vaivada ir 1216 arba 1217 m. pradžioje pateko į prūs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -109,3 +109,4 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

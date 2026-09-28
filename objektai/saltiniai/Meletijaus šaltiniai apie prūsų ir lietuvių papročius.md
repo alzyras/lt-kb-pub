@@ -102,3 +102,4 @@ Narbutas rašo, kad žynių ir žynių moterų vardus paėmė iš Meletijaus ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

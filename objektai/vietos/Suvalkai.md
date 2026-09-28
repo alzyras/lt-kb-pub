@@ -167,3 +167,4 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

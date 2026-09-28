@@ -72,3 +72,4 @@ Laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens mar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

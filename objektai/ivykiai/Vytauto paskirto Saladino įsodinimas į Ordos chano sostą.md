@@ -74,3 +74,4 @@ O pats Saladinas, atvykęs į Ordą, sėdo į chanų sostą, kaip bu vo didžioj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

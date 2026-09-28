@@ -69,3 +69,4 @@ Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusiga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

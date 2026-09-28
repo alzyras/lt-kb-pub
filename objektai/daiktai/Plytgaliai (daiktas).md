@@ -74,5 +74,6 @@ Pylime 1,3 m gylyje rastų plytgalių skiedinys buvo panašus į dvaro rūsių s
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

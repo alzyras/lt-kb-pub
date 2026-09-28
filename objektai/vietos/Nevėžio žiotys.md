@@ -80,3 +80,4 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

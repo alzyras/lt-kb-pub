@@ -149,3 +149,4 @@ Pijorų mokyklose mokiniai tarpusavyje turėjo kalbėti tik lotyniškai. Gimtoji
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

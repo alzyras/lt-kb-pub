@@ -109,3 +109,4 @@ Dusburgietis teigia, kad petras iš Dusburgo akcentuoja, kad Prūsijoje kariauja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

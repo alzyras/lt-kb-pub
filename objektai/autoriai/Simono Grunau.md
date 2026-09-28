@@ -173,3 +173,4 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

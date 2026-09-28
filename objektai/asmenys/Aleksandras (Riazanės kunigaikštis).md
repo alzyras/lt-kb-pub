@@ -102,3 +102,4 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

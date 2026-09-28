@@ -81,3 +81,4 @@ canonical_biography: "1733 m. Stanislovas Heliaševičius skundė Samuelį Šafa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

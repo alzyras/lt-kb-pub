@@ -77,3 +77,4 @@ Timūro Kutluko pasiuntiniams pareikalavus išduoti Tochtamyšą, Vytauto kariau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

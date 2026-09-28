@@ -69,3 +69,4 @@ Kitąkart mūšio metu danguje pasirodžiusi mergelė Marija (III, 141).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -48,3 +48,4 @@ Dusburgietis teigia, kad 136 Milthaler F.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

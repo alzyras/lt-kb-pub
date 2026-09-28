@@ -84,3 +84,4 @@ Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

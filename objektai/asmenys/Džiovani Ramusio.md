@@ -131,3 +131,4 @@ Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -84,3 +84,4 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -70,3 +70,4 @@ Narbutas nurodo, kad Radevikas Freizengiškis, aprašinėdamas XIII amžiaus Len
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

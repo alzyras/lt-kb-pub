@@ -74,3 +74,4 @@ Atsiskyrę miestai prisijungė prie Mazovijos ir ėmė tarnauti Mykolui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

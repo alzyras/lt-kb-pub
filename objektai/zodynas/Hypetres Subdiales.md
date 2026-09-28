@@ -97,3 +97,4 @@ Narbutas Hypetres, arba Subdiales, vadina atviras antikos apeigų ir pasitarimų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

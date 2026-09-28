@@ -66,3 +66,4 @@ Visų artimieji jo tarnai vadinos žygovai, kurie su jo lazda, arba vice, žygia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -314,3 +314,4 @@ Gotika 53; Raštija 56; Renesansas ir reformacija 60 II s k y r i u s LENKIJOS I
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

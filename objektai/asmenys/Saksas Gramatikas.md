@@ -106,3 +106,4 @@ Narbuto kritikuojamo autoriaus prielaidoje Saksas Gramatikas sąvoka Estiorum te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

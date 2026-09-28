@@ -74,3 +74,4 @@ Dekretu kryžiuočiai atleidžiami nuo dešimtinių Lietuvos bažnyčiai ir nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

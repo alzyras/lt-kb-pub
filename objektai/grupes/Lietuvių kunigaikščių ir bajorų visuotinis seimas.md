@@ -78,3 +78,4 @@ Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

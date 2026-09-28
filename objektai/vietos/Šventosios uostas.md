@@ -89,3 +89,4 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

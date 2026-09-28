@@ -73,3 +73,4 @@ canonical_biography: 1295 m. lietuviai pasiekė prie Ragainės pilies esančią 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -79,3 +79,4 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -65,3 +65,4 @@ Stiprėjo Lietuvos žaliųjų judėjimas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

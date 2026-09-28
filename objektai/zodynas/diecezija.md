@@ -213,3 +213,4 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   pagrindžia:
     - t-001
     - t-002
+

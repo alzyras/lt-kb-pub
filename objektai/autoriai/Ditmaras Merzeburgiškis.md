@@ -102,3 +102,4 @@ Narbutas pripažįsta, kad Ditmaras Merzeburgiškis, kaip ir kiti užsienio kron
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -1080,3 +1080,4 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

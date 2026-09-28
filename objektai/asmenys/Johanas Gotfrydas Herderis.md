@@ -112,3 +112,4 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

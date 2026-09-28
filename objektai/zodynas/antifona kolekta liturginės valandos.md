@@ -59,3 +59,4 @@ Dusburgietis teigia, kad todėl tas pats brolis Zigfridas, magistras, nutarė, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

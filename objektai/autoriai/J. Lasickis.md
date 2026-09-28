@@ -429,3 +429,4 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

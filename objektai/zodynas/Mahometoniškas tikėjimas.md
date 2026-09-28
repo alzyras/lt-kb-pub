@@ -76,3 +76,4 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

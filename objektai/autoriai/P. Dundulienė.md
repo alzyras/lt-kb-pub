@@ -115,3 +115,4 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-225939
+

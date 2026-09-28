@@ -130,3 +130,4 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
   pagrindžia:
     - t-001
     - t-002
+

@@ -245,3 +245,4 @@ Jei kas tą žymę neklausęs su laužys ir per piktybę priešingaus, tokį mes
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209448
+

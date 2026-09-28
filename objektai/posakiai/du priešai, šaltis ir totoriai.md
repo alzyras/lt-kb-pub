@@ -76,3 +76,4 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

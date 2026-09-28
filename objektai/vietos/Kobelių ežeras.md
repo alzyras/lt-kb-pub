@@ -68,3 +68,4 @@ Dvi tokios vietos man yra žinomos: viena prie Kobelių ežero Gardino apskrityj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

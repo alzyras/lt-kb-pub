@@ -110,3 +110,4 @@ Kopylius yra miestelis apie 90 km į pietus–pietvakarius nuo Minsko. Simonas M
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

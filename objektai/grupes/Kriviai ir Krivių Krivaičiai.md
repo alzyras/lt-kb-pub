@@ -233,3 +233,4 @@ Narbutas Krivių Krivaičio valdžios ženklą aprašo kaip ilgoką ąžuolinę 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

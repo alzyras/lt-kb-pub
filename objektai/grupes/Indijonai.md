@@ -57,3 +57,4 @@ Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

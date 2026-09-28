@@ -62,3 +62,4 @@ Dusburgietis teigia, kad apie palaimintosios Marijos Magdalietės palaikų atide
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

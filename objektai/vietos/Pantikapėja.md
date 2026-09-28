@@ -102,3 +102,4 @@ Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

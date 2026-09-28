@@ -80,3 +80,4 @@ Marienwerder (dabartinis Kwidzyn) buvo Prūsijos miestas ir pilis į pietus nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

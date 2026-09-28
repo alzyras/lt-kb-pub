@@ -94,3 +94,4 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

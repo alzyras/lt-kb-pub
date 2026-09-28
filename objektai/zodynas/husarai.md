@@ -229,3 +229,4 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

@@ -69,3 +69,4 @@ O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

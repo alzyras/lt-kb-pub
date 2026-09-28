@@ -90,3 +90,4 @@ Stefanas Melleris darė prielaidą, kad Middletonai galėtų būti škotų kilm�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

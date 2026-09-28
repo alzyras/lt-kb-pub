@@ -70,3 +70,4 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

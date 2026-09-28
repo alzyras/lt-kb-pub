@@ -83,3 +83,4 @@ Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

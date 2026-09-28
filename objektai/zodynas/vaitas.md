@@ -158,3 +158,4 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -91,3 +91,4 @@ Dusburgietis teigia, kad vyšniauskaitė.— V., 1964.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

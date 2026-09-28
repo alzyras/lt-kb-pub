@@ -123,3 +123,4 @@ Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210347
+

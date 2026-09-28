@@ -174,3 +174,4 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -74,3 +74,4 @@ Apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

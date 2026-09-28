@@ -92,3 +92,4 @@ Narbutas Putonis (Puttones) aprašo kaip pranašautojus, kurie ateitį nusakydav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

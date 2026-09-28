@@ -63,3 +63,4 @@ Prūsų kelmis, chelmo ir Chelmo reiškia „kepurė“.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -496,3 +496,4 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217685
+

@@ -122,3 +122,4 @@ Arkivyskupas Gaudencijus, šv. Vaitiekaus mokinys ir apaštalavimo Prūsijoje bi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214085
+

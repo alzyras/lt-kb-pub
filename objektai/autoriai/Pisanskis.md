@@ -114,3 +114,4 @@ Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -98,3 +98,4 @@ Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

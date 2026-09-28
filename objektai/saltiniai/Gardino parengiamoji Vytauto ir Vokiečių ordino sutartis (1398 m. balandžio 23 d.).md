@@ -109,3 +109,4 @@ Gardino parengiamojoje sutartyje numatyta, kad joje dalyvaujančiose šalyse vis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

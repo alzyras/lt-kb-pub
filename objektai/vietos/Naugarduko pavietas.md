@@ -84,3 +84,4 @@ Tai buvo katedros kapitulos stalo valda Naugarduko paviete.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

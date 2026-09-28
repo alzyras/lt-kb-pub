@@ -65,3 +65,4 @@ Prie autentiško 1436 metų rašto buvo įspaustas ir prikabintas Žygimanto Kę
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -81,3 +81,4 @@ Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (e
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

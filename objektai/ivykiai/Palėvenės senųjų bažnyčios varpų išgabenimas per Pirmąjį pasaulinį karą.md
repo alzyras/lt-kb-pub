@@ -65,5 +65,6 @@ Pirmojo pasaulinio karo metu Vokietijos kariuomenė išsivežė senuosius Palėv
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

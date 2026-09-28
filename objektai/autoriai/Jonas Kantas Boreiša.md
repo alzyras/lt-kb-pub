@@ -109,3 +109,4 @@ Narbutas nurodo, kad Jono Kanto Boreišos 1689 m. lotyniškame pamoksle rado iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

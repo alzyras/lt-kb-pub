@@ -103,3 +103,4 @@ Narbutas teigė, kad Hipakyris dabar vadinamas Seimo upe, o nerastą Herodoto up
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

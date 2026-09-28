@@ -709,3 +709,4 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

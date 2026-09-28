@@ -68,3 +68,4 @@ Jei Vytautas delsia, tai visada tas yra tikslinga: jis tuo arba priverčia prie�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

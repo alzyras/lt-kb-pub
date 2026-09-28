@@ -86,3 +86,4 @@ Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdym
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

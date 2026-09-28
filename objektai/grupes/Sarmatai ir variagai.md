@@ -93,3 +93,4 @@ Narbutas rašė, kad Lietuvoje mirusieji dažniausiai laidoti karstuose žemėje
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

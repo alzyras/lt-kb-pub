@@ -76,3 +76,4 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

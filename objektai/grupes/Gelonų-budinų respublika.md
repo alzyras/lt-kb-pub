@@ -90,3 +90,4 @@ Taip ir susidarė Gelonų-budinų respublika su viena valdžios forma ir viena r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

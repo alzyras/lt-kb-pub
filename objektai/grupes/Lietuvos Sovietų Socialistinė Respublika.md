@@ -114,3 +114,4 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

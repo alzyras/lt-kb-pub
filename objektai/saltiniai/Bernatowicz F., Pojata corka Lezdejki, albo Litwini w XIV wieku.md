@@ -52,3 +52,4 @@ Felikso Bernatovičiaus „Pojata corka Lezdejki, albo Litwini w XIV wieku“ bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

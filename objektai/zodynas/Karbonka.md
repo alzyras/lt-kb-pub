@@ -87,3 +87,4 @@ Terminas vartojamas XIX a. vidurio sausros ir kaitros padarinių pasakojime.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

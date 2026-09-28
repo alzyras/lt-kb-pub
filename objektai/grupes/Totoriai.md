@@ -262,6 +262,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - c-155979
     - c-155987
+    - c-181472
 
 <a id="claim-t-171406"></a>
 - t-011
@@ -2695,6 +2696,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-010
 
 - id: c-181473
   autorius: "Anoniminis metraštininkas"

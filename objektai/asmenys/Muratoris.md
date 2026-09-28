@@ -98,3 +98,4 @@ Muratoris išsaugojo apaštališkajam sostui skirtą donaciją, kurią sudarė l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

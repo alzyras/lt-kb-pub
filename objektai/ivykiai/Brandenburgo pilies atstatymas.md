@@ -70,3 +70,4 @@ Brandenburgo markgrafas po pirmosios pilies sunaikinimo sugrįžo į Prūsiją.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

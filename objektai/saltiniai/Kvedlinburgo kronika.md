@@ -145,3 +145,4 @@ Narbuto perteikimu, Kvedlinburgo kronika prieš 1009 m. minėjo rusus ir Rusią,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

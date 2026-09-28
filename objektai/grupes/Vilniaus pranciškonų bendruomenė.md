@@ -83,3 +83,4 @@ Vilniaus pranciškonų bendruomenės tapatybę formavo kultūrinei ir komunika c
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

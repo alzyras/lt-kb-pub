@@ -106,3 +106,4 @@ tiksli leksinė reikšmė pateikta tik per Narbuto paaiškinimą.
   pagrindžia:
     - t-001
     - t-002
+

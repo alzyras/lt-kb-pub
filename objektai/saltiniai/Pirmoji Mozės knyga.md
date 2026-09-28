@@ -59,3 +59,4 @@ Gogas ir Magogas, jo nuo mone, yra senovės S k i t i j a, pirmoje Mozės knygoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

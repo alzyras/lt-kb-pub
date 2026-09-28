@@ -77,3 +77,4 @@ Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

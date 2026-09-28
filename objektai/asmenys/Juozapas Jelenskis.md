@@ -87,3 +87,4 @@ canonical_biography: "1771 m. Juozapas Jelenskis buvo Trakų pilies teisėjas."
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

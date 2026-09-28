@@ -74,3 +74,4 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

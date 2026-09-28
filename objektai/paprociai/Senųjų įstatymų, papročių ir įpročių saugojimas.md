@@ -77,3 +77,4 @@ Seniausios žemės tautos - indai ir kinai savo tautiškumo svarbiausiais bruož
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

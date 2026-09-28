@@ -72,3 +72,4 @@ Ostromit, parapijos kaimas į pietus nuo Bišoisverderio.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

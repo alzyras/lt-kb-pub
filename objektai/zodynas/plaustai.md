@@ -77,3 +77,4 @@ Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

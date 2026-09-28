@@ -80,3 +80,4 @@ Pasak Teodoro Narbuto, Jogailai rūpėjo kunigaikščio Jonošo užgrobta Vytaut
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

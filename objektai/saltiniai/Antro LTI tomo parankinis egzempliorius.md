@@ -95,3 +95,4 @@ Antro LTI tomo parankiniame egzemplioriuje suskaičiuota apie tris šimtus patie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -125,3 +125,4 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

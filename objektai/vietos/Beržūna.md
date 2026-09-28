@@ -254,3 +254,4 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -102,3 +102,4 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
   pagrindžia:
     - t-001
     - t-002
+

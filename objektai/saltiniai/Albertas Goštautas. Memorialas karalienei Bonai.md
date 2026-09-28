@@ -81,3 +81,4 @@ Albertas Goštautas garsiajame Memoriale rašytame karalienei Bonai įvardija Li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

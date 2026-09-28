@@ -86,3 +86,4 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

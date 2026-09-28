@@ -76,3 +76,4 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

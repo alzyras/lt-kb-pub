@@ -105,3 +105,4 @@ Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

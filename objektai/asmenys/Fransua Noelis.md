@@ -127,3 +127,4 @@ Narbutas perteikia F. Noelio nuomonę, kad Kabirai anksčiausiai pradėti garbin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

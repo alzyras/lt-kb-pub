@@ -140,3 +140,4 @@ Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

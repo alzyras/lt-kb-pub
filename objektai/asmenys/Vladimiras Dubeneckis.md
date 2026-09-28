@@ -89,3 +89,4 @@ Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -55,3 +55,4 @@ canonical_biography: "Čemberlenas perrašė Lazijaus išsaugotą užrašą, o i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

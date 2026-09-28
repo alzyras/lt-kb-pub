@@ -111,3 +111,4 @@ Narbutas Kriukį (Krugį) apibūdina kaip kalvių dievą ar Vulkano liekaną ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

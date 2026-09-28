@@ -103,3 +103,4 @@ XVI a. viduryje Lietuvos Didžiosios Kunigaikštystės bajorų bendruomenė turt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

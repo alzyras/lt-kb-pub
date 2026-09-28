@@ -868,3 +868,4 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   pagrindžia:
     - t-018
     - t-022
+

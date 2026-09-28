@@ -139,3 +139,4 @@ Dusburgietis teigia, kad batūra R datuojamas ir 1263 m.) organizavo Mindaugas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

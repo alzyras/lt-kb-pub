@@ -288,3 +288,4 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

@@ -59,3 +59,4 @@ Visiškai aišku, kad miestas, kaip naujakurys, 10 metų atleidžiamas nuo čin�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -119,3 +119,4 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

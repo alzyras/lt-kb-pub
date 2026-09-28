@@ -89,3 +89,4 @@ Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į va
   vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-21621
+

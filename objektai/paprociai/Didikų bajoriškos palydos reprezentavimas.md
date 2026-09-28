@@ -78,3 +78,4 @@ Bajoriška palyda didikams buvo reikšminga reprezentaciniu požiūriu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

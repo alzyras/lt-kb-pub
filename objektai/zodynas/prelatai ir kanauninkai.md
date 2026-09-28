@@ -79,3 +79,4 @@ Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

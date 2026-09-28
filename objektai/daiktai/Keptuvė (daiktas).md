@@ -80,3 +80,4 @@ Lietuviai saulę prilygino aukso keptuvei, ku rioje kaista amžinasis aliejus, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -65,3 +65,4 @@ Tai vadinamoji šventoji namų ugnelė, arba gabija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

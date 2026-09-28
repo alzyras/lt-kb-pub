@@ -83,3 +83,4 @@ Vygandui Aleksandrui buvo patikėtos vietininko pareigos Lietuvoje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

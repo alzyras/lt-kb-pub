@@ -74,3 +74,4 @@ Valandų trukmę matuodavo van dens laikrodžiais (Bodziawolas).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

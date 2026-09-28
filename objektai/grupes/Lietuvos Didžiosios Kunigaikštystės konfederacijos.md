@@ -85,3 +85,4 @@ Lietuvos Didžiosios Kunigaikštystės konfederacijos XVIII a. politiniame gyven
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

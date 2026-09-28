@@ -145,3 +145,4 @@ Sokolnikai po 1772 m. atsidūrė Rusijos imperijos ribose. Sokolnikuose 1771 m. 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

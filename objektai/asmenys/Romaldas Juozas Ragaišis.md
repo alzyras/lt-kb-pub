@@ -88,3 +88,4 @@ Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

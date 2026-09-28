@@ -90,3 +90,4 @@ Galop 1093 metų pradžioje Vladislovas Hermanas, surinkęs gau sias karines paj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

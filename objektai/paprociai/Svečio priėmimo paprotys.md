@@ -97,3 +97,4 @@ Pasak Narbuto, svečio priėmimą pradėdavo namų šeimininkė, paduodama jam v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

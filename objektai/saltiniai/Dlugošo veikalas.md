@@ -56,3 +56,4 @@ Apie tai žinome iš Dlugošo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

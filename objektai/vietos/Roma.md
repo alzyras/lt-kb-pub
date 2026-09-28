@@ -117,3 +117,4 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

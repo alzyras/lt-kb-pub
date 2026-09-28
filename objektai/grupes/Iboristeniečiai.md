@@ -93,3 +93,4 @@ Iboristeniečiai pirkliavo prie Dnepro, kuriuo ėjo seniausias kelias per Aldesk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

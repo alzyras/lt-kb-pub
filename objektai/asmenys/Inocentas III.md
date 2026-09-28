@@ -134,3 +134,4 @@ Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

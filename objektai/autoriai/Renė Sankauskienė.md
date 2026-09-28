@@ -23,7 +23,7 @@ entity_roles: ["author","person"]
 entity_view_role: "author"
 entity_aliases: ["Renė Sankauskienė"]
 sameAs: []
-canonical_biography: "Kas gi ta pelkė?1 Renė Sankauskienė."
+canonical_biography: "."
 ---
 # Renė Sankauskienė
 

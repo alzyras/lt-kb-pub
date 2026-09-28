@@ -88,3 +88,4 @@ Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­ dę „S" turėjęs, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

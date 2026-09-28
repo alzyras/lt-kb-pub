@@ -49,3 +49,4 @@ Narbutas Kruonį (Kronį), arba Metą, aprašė kaip senovės lietuvių ir kurš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

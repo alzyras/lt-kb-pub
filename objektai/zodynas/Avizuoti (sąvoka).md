@@ -64,3 +64,4 @@ Kitą dieną nuė jau policijon, anoji nenorėjo visai avizuoti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

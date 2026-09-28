@@ -91,3 +91,4 @@ Dusburgietis teigia, kad neilgai trukus, kai komtūras, sutvarkęs visus savo re
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

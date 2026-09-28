@@ -69,3 +69,4 @@ Seimas buvo priverstas įvykdyti visus jo reikalavimus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -48,3 +48,4 @@ Narbutas posakį „Gamtoje nėra nieko neišbaigto“ pateikia kaip senovės li
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

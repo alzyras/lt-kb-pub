@@ -72,3 +72,4 @@ canonical_biography: "1520 m. Kauno miestietis ir pirklys Simonas Salchemacheris
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

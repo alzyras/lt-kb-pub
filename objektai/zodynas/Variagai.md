@@ -307,3 +307,4 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

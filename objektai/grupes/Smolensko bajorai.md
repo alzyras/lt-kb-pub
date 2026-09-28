@@ -63,3 +63,4 @@ Pasak Teodoro Narbuto, Smolensko bajorai ir gyventojai iš visos širdies pritar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

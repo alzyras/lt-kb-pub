@@ -76,3 +76,4 @@ Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuvia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

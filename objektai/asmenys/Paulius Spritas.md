@@ -63,3 +63,4 @@ Narbutas Pauliaus Sprito Karaliaučiaus bažnyčios Agendą mini kaip liudijimą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

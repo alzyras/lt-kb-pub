@@ -139,3 +139,4 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -123,3 +123,4 @@ Benediktas Tyzenhauzas buvo Ukmergės seniūnas. Benediktas Tyzenhauzas Dažnai 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-225963
+

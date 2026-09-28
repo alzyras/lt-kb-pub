@@ -111,3 +111,4 @@ Dusburgietis teigia, kad apie Vilhelmo, Olandijos grafo, išrinkimą Romos karal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

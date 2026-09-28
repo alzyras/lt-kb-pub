@@ -89,3 +89,4 @@ auksinų sumą, iš minėto pardavimo sudariusi, kuri 1759 metų balandžio 22 d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

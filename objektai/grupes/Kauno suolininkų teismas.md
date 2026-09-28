@@ -56,3 +56,4 @@ Suolininkų teismo nariai (scabinus, Schoffen, Jla8I-1UK) būdavo miestiečiai, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

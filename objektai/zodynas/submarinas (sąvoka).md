@@ -66,3 +66,4 @@ Kas žino, ar austrų submarinas nelaukia mūsų ša lę Sicilijos krantų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Masonų organizacijos ir ložės, šaltinyje minimos XIX a. pradžios kultūrini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

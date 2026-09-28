@@ -99,3 +99,4 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

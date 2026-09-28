@@ -83,3 +83,4 @@ Narbutas kašubų protėvius sieja su Asubi ir Cassubi tauta, kuri, jo manymu, s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212759
+

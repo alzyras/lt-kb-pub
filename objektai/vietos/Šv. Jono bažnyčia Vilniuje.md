@@ -369,3 +369,4 @@ Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+

@@ -84,3 +84,4 @@ Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

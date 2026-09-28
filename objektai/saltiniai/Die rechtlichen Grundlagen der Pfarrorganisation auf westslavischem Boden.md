@@ -80,3 +80,4 @@ Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 4
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

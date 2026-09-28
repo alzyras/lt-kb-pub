@@ -73,3 +73,4 @@ Teisminės kultūros atspindžiai Kauno pavieto žemės teismuose XVI a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

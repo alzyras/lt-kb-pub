@@ -86,3 +86,4 @@ Vis dėlto reikėtų manyti, kad „Lie tuvių mitologijos“ recenzentas nebuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

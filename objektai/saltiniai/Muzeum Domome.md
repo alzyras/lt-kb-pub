@@ -48,3 +48,4 @@ Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų str
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

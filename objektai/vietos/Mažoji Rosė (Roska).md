@@ -223,3 +223,4 @@ Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

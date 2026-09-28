@@ -101,3 +101,4 @@ Rygiečiai ir Kristaus kareiviai su Rende, Galevole, Pidevale, Matekule, Vane, P
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

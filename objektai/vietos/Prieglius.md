@@ -358,3 +358,4 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

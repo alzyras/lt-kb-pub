@@ -79,3 +79,4 @@ Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

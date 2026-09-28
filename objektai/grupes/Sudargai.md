@@ -199,3 +199,4 @@ Narbutas, remdamasis Hartknochu, sieja sudargų atminimą su krašto padavimais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

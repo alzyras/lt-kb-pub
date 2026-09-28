@@ -84,3 +84,4 @@ Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

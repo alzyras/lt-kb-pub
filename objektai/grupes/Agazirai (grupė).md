@@ -63,3 +63,4 @@ Visa tai rodo, kad minėtų agazirų žemė buvusi prie Engūrės ežero, pavadi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

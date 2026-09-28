@@ -47,3 +47,4 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

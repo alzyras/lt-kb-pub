@@ -89,3 +89,4 @@ Vakarų Suomija šiame šaltinyje yra regionas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

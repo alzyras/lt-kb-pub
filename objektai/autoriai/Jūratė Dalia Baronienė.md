@@ -102,3 +102,4 @@ Jūratė Dalia Baronienė nurodyta kaip „Vilniaus miesto istorijos“ vertėja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

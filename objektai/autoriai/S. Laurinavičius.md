@@ -71,3 +71,4 @@ S. Laurinavičius buvo Kauno mokyklos profesorius ir prefektas, pateikęs vietin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

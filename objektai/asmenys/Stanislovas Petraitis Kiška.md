@@ -66,3 +66,4 @@ O Smolensko vaivada tuo metu buvo ponas Stanislovas Petraitis, pramintas Kiška.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

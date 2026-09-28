@@ -67,3 +67,4 @@ Dorybė ir nedorybė, liuosybė ir vergybė — tai gėrio ir blogio supriešini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -52,3 +52,4 @@ Aleksandras Jurjevičius Lietuvoje turėjo Svyruotus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

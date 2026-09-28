@@ -102,3 +102,4 @@ Jinai moka kunigams tų pat alga (150 r.) kų mokėjo rusų valdžia. Per pamoks
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

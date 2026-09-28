@@ -59,3 +59,4 @@ Teodoro Narbuto vertinimu, Grunau veikalas dažniausiai pateikė klaidingus vard
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

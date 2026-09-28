@@ -59,3 +59,4 @@ T. Narbutas teigia, kad motininės kalbos yra rodyklė į seniausią tautų isto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

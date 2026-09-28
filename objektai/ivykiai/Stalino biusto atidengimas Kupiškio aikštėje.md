@@ -75,5 +75,6 @@ Stalino biustas Kupiškio aikštėje atidengtas 1955 m. lapkričio 11 d.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

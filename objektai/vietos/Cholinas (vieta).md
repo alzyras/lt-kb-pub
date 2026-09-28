@@ -79,3 +79,4 @@ Cholinas — dabar Lenkijos Liublino vaivadijos miestas Cheltn.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -173,3 +173,4 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   pagrindžia:
     - t-001
     - t-002
+

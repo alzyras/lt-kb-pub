@@ -82,3 +82,4 @@ Jie garbino didžiulius akmenis, kuriuos vadino Atmeszenes Viete, t.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

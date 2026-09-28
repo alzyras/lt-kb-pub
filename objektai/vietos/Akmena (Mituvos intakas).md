@@ -55,3 +55,4 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

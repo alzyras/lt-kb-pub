@@ -79,3 +79,4 @@ Seminarijos bažnyčioje aukuro stovylos gulėjo pavirtusios ant žemės ir ant 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

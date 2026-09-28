@@ -72,3 +72,4 @@ Ankstyviausias žinomas išmarinio turto dovanojimo atvejis Kaune yra 1530 m. Ž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

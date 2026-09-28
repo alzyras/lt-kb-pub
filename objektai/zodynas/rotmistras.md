@@ -172,3 +172,4 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

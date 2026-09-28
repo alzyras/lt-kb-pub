@@ -85,3 +85,4 @@ Krzysztofas Pietkicwiczius sieja rašytinio dokumento išplitimą su žemėvaldo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

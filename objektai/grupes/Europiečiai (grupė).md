@@ -62,3 +62,4 @@ Narbutas teigia, kad europiečiai prieš 300 metų atrado Ameriką, įkūrė joj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

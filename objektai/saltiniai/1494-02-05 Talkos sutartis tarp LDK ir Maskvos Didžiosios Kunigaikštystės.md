@@ -50,3 +50,4 @@ Is Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikš tystės buvo sura�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

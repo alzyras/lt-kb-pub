@@ -72,5 +72,6 @@ canonical_biography: "1501–1504 m. LDK rūmų iždininku (paiždininkiu) buvo 
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

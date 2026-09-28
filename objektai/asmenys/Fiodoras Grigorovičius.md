@@ -82,3 +82,4 @@ Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

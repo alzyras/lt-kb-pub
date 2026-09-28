@@ -72,3 +72,4 @@ Kovų istorijos 11 knyga / xx amžius, Vilnus, 2008, p. 104.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

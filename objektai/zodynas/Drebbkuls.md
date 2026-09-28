@@ -49,3 +49,4 @@ Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu, o lia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

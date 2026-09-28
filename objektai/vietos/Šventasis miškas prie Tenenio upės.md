@@ -167,3 +167,4 @@ Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

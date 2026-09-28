@@ -112,3 +112,4 @@ Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

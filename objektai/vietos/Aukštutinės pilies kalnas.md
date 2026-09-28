@@ -92,3 +92,4 @@ Piešinio fone kairėje vaizduojamas Aukštutinės pilies kalnas su pilies griuv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

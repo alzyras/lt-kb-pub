@@ -130,3 +130,4 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

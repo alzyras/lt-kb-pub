@@ -66,3 +66,4 @@ Kiek vėliau padary­ tas jo nuorašas aprašo keturias antspaudas, tarp kurių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

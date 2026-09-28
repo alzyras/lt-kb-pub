@@ -81,3 +81,4 @@ Kubličių parapinė, Lužkų pijorų Šv.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

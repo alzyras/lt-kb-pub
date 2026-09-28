@@ -77,3 +77,4 @@ canonical_biography: "Žymus prancūzų kalbininkas Antuanas Mejė (Antoine Meil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

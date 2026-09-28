@@ -79,3 +79,4 @@ Vytautui užėmus Riazanę, kunigaikštis Olegas, pasak Teodoro Narbuto, turėjo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

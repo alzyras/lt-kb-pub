@@ -46,3 +46,4 @@ Narbutas, cituodamas Herodotą, budinų giminei priskiria trumpą išvaizdos for
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

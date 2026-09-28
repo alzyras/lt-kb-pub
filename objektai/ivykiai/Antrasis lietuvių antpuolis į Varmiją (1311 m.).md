@@ -79,3 +79,4 @@ Teodoro Narbuto pasakojimu, 1311 m. balandžio 3 d. didysis Lietuvos kunigaikšt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

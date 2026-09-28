@@ -63,3 +63,4 @@ Ukmergėje niekas negalėjo gauti patento be aukso.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

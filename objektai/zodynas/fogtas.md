@@ -412,3 +412,4 @@ Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

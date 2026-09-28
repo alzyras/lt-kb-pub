@@ -99,3 +99,4 @@ Rimantas Jasas parengė 1971 m. lietuvišką Bychovco kronikos leidimą: išvert
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Perrašyta tiksliau: citata remia vertimą, įvadą ir paaiškinimus, bet ne formuluotę apie viso leidinio išvertimą."
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+

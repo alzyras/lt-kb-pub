@@ -90,3 +90,4 @@ Jogailos ištikimybės raštuose Kęstučiui kunigaikštis Jogaila vaizduojamas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -72,3 +72,4 @@ XVI a. pradžioje Lietuvos diduomenės atstovų gauti feodaliniai kunigaikšči�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

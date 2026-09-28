@@ -77,3 +77,4 @@ Motiejus Stryjkovskis kūrinyje „Dorybės šauklys“ paliko Lietuvos Didžios
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

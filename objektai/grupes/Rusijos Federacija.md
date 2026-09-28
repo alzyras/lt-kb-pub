@@ -169,3 +169,4 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

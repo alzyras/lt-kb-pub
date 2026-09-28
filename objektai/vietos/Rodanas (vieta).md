@@ -73,3 +73,4 @@ Galijos Rodano pavadinimo panašumas paskatino jį tapatinti su Eridanu ir susie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

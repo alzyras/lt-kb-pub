@@ -71,3 +71,4 @@ Dancigiečiai patys muitų nerinko, jie buvo pavedę tai Dovydui Šmerlevičiui,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

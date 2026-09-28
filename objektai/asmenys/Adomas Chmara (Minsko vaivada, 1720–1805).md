@@ -96,3 +96,4 @@ Adomas Chmara buvo būsimasis Minsko vaivada. Adomas Chmara kurį laiką buvo My
   pagrindžia:
     - t-002
     - t-200463
+

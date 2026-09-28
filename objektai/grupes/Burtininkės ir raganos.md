@@ -95,3 +95,4 @@ Narbutas, remdamasis Čackiu, teigė, kad XVI amžiuje daugiausia raganų būdav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -82,7 +82,7 @@ Skapiškio gaisrininkų draugija lėšas kaupė rengdama gegužines ir vakarus s
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-208054
@@ -94,5 +94,6 @@ Skapiškio gaisrininkų draugija lėšas kaupė rengdama gegužines ir vakarus s
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-002
+

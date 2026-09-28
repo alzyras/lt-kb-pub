@@ -67,3 +67,4 @@ Po tos mūšos kuržemiai atėjo į abažą žemaičių, stovintį ties Sintele,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

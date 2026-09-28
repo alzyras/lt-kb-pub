@@ -73,3 +73,4 @@ Ten, miškuose, yra akmeninių pas tatų griuvėsių ir ant kalvų piliaviečių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

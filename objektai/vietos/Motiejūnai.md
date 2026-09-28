@@ -76,3 +76,4 @@ Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir išsiskleidę pasuko Mo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

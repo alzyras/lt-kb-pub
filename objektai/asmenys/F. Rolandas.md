@@ -167,3 +167,4 @@ Rolando pajėgas pasukti kairiau, Nėries link.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

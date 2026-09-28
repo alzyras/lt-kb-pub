@@ -74,3 +74,4 @@ Lengvenis Simonas, Mstislavlio kunigaikštis, saugojo Lietuvos sienas nuo Rusios
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

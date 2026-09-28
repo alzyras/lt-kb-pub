@@ -289,3 +289,4 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

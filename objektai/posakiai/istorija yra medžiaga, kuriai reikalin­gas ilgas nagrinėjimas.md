@@ -60,3 +60,4 @@ Tačiau vidinis įsitikinimas rodo, kad čia išdėstyti dalykai bus geriau atsk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

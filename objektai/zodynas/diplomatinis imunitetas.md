@@ -87,3 +87,4 @@ XVI a. stiprėjo diplomatinio imuniteto sistemos diegimas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

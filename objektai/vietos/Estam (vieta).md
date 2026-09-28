@@ -72,3 +72,4 @@ Senovės Pietų tautos lietuvių kraštą vadino Estam.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

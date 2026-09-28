@@ -110,3 +110,4 @@ Kojelavičius rašė, kad Petras iš Dusburgo tvirtino Palemoną paskyrus Romano
   patikimumo_saltinis: ai
   pagrindžia:
     - t-222444
+

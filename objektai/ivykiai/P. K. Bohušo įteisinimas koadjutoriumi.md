@@ -95,3 +95,4 @@ P. K. Bohušui per įteisinimo ceremoniją suteikta balso teisė kapituloje ir v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

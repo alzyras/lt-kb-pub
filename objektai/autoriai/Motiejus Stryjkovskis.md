@@ -136,3 +136,4 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207751
+

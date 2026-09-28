@@ -372,6 +372,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-163635
+    - c-181822
     - c-186092
 
 <a id="claim-t-180027"></a>
@@ -3850,6 +3851,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+    - t-016
 
 - id: c-181823
   autorius: "Michał Baliński"

@@ -92,3 +92,4 @@ canonical_biography: "1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir K
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-21818
+

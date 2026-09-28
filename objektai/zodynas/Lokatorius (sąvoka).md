@@ -120,3 +120,4 @@ Kaimyniniuose kraštuose dažnai, ypač jei miestas būdavo kuriamas iš naujo, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

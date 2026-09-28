@@ -128,3 +128,4 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

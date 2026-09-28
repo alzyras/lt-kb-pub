@@ -69,3 +69,4 @@ Okuniovkos upės, pasak Teodoro Narbuto, nepavyko rasti jokiame žemėlapyje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -74,3 +74,4 @@ Dusburgietis nurodo, kad Jeruzalės patriarchui buvo pavaldūs arkivyskupai su s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

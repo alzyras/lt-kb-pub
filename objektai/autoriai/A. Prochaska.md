@@ -249,3 +249,4 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

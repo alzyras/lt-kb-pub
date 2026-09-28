@@ -71,3 +71,4 @@ Sūduviai, padedami lietuvių, smarkiai užpuolė Sembos žemę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

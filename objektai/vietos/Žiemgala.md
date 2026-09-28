@@ -273,3 +273,4 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

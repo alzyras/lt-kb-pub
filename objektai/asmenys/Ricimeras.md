@@ -200,3 +200,4 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

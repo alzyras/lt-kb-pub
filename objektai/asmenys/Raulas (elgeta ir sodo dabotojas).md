@@ -136,3 +136,4 @@ Raulas aprašomas kaip elgeta, nuo mažens rinkęs maistą sergančiai motinai, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

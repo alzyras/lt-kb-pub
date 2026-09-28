@@ -163,3 +163,4 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

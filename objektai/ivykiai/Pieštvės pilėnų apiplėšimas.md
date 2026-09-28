@@ -71,3 +71,4 @@ Broliai nužygiavo prie Pieštvės pilies ir pagrobė visą galvijų kaimenę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

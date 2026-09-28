@@ -74,3 +74,4 @@ Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

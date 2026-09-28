@@ -98,3 +98,4 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

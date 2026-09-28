@@ -71,3 +71,4 @@ Pačiame tekste yra pažymėta, kad be ma­ gistro ir Jogailos savo antspaudas p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Teodoras Narbutas aprašo, kad prie Izborsko dešimt dienų kovojęs priešas, s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

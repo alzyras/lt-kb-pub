@@ -78,3 +78,4 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

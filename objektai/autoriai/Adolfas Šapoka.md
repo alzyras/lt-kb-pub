@@ -193,3 +193,4 @@ canonical_biography: "1936 m. Lietuvos Respublikos švietimo ministerijos (vicem
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207530
+

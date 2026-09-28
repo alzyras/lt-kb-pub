@@ -57,3 +57,4 @@ Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

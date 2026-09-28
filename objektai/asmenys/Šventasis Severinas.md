@@ -125,3 +125,4 @@ Narbuto cituotame pasakojime šv. Severinas atpažino persirengusį Odoakrą ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

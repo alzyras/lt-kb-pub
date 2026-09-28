@@ -81,3 +81,4 @@ Vestuvinė atsisveikinimo formulė su mergystės simboliais ir jaunomis dienomis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

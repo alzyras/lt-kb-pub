@@ -69,5 +69,6 @@ Kupiškio valsčiaus Vidugirio miške sausio 21 d. žuvo Herkaus būrio vadas Vy
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

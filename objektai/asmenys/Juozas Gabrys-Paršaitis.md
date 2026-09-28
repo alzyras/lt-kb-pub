@@ -92,3 +92,4 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
   temporalinis_llm_pakomentavimas: "Pradinis sakinys per platus, citata leidžia sutelkti faktą į asmenį."
   pagrindžia:
     - c-21773
+

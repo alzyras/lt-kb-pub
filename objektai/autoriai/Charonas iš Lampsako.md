@@ -909,3 +909,4 @@ Charonas iš Lampsako buvo žinomas Aukštėjo Visagisčio (Aivclejas Wissagisti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

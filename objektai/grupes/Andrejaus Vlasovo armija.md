@@ -68,3 +68,4 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

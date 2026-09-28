@@ -75,3 +75,4 @@ canonical_biography: "1477 m., antrosios kelionės metu, po pusvalandi nio pokal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

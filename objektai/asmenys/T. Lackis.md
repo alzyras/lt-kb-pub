@@ -112,3 +112,4 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

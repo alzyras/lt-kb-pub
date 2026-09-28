@@ -75,3 +75,4 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

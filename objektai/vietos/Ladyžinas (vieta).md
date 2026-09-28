@@ -73,3 +73,4 @@ Padneprės Ukrainos Ladyžino miestas prie Bugo, kur iš kai riojo kranto įteka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

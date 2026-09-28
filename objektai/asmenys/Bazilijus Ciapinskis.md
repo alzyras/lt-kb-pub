@@ -73,3 +73,4 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

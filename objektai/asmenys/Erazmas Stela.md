@@ -142,3 +142,4 @@ Erazmą Stelą Teodoras Narbutas apibūdino kaip XVI a. pradžios autorių, liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

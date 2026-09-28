@@ -71,3 +71,4 @@ Dusburgietis teigia, kad švabija, švabai Švandenas Švarcburgas Švedija Šve
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -73,3 +73,4 @@ Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos nuorašų faksimil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

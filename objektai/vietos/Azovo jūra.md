@@ -179,3 +179,4 @@ Narbutas, remdamasis Herodotu, skitų klajojimo kraštą ribojo Donu, Azovo ir J
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214765
+

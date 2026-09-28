@@ -80,3 +80,4 @@ Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -72,3 +72,4 @@ Rudino miestas, pasak kai kurių žmonių, buvo du kartus užkariautas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

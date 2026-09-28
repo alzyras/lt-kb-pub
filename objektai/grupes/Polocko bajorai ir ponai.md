@@ -48,3 +48,4 @@ Narbutas pasakoja, kad Treniota įkalino Polocko bajorus, o Jonas, gelbėdamas P
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

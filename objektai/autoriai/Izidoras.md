@@ -158,3 +158,4 @@ Narbutas rašo, kad Konstantino Didžiojo laikais gyvenęs Izidoras Mamrės lygu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219020
+

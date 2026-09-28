@@ -240,3 +240,4 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

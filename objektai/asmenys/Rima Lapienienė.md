@@ -23,7 +23,6 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Rima Lapienienė"]
 sameAs: []
-canonical_biography: "JÒ Òkūrė Sandra Kirdienė ir Rima Lapienienė."
 ---
 # Rima Lapienienė
 

@@ -69,3 +69,4 @@ Riteris Jonas Altenhofas žuvo prie nuleisto tilto per užpuolikų puolimą, per
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

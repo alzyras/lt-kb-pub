@@ -95,3 +95,4 @@ Skirmantas liepė Balaklajaus pasiuntiniams nupjaustyti nosis, lūpas ir ausis. 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

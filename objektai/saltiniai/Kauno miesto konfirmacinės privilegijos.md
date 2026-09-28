@@ -63,3 +63,4 @@ Yra išlikusios 1576 m. Stepono Batoro, 1633 m. Vladislovo Vazos ir 1649 m. Jono
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -50,3 +50,4 @@ Narbutas aiškina, kad tikėjimo ženklu pažymėti atvaizdai ir simboliai susil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

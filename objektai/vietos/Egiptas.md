@@ -294,3 +294,4 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

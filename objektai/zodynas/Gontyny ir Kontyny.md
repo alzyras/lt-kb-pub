@@ -77,3 +77,4 @@ Vartojama etimologinėje pastaboje apie slavų šventyklų vardus ir jų kilmę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Juozapas Keršulis"]
 sameAs: []
-canonical_biography: "Lebedžiai – 3 dūmai (Juozapo Keršulio ir Simono Matulionio, Kazimiero Jonuškos)."
+canonical_biography: "."
 ---
 # Juozapas Keršulis
 
@@ -61,5 +61,6 @@ Lebedžių kaime nurodyti trys dūmai, siejami su Juozapu Keršuliu, Simonu Matu
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

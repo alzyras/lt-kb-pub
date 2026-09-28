@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Vladas Jasinskas"]
 sameAs: []
-canonical_biography: "Jų žuvimo faktą patvirtino Vladas Jasinskas."
+canonical_biography: "."
 ---
 # Vladas Jasinskas
 
@@ -61,5 +61,6 @@ Vladas Jasinskas patvirtino anksčiau minėtų asmenų žūties faktą.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

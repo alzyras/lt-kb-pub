@@ -120,3 +120,4 @@ Kryžiaus medinė koplyčia buvusi greitai pastatyta, mat 1515 m. Kauno magistra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

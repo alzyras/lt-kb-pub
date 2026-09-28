@@ -67,3 +67,4 @@ Gavusi Maskvos palaiminimą Lietuvos valdžia, matydama, kad sąjunginio pavaldu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

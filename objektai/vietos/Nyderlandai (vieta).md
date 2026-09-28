@@ -93,3 +93,4 @@ Studijų kelias nusitiesė į Nyderlandus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

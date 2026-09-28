@@ -78,3 +78,4 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

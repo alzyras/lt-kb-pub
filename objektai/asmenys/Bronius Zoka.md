@@ -23,7 +23,6 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Bronius Zoka"]
 sameAs: []
-canonical_biography: "Jame Kupiškiui atstovavo Aldona Pranckūnienė, Bronius Zoka ir Jonas Žąsinas."
 ---
 # Bronius Zoka
 

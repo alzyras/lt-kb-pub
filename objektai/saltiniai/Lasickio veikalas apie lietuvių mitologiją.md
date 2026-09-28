@@ -61,3 +61,4 @@ Lasickis sako, kad Jokūbas Laskovičius, Žemaičių kuni gaikštystės valdini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

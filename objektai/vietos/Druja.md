@@ -326,3 +326,4 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218290
+

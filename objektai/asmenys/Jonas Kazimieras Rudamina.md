@@ -74,3 +74,4 @@ Jonas Kazimieras Rudamina buvo Breslaujos pavieto žemės raštininkas.
   atnaujinta: "2026-07-19 13:07"
   pagrindžia:
     - t-001
+

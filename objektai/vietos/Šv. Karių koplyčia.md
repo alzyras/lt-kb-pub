@@ -74,3 +74,4 @@ Vorobjovas Šv. Karių koplyčių apšvietimo efektus apibūdina kaip tokius raf
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

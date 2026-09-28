@@ -84,7 +84,7 @@ Jonas Mazura-Cvirka ėjo Šarūno rinktinės vado adjutanto pareigas. Jonas Mazu
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-208450
@@ -96,5 +96,6 @@ Jonas Mazura-Cvirka ėjo Šarūno rinktinės vado adjutanto pareigas. Jonas Mazu
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-002
+

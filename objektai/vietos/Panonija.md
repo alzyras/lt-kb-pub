@@ -150,3 +150,4 @@ Pasak Narbuto, Ptolemėjas nuo Vyslos žiočių iki Panonijos skaičiavo tokį p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -66,3 +66,4 @@ Prievolė laikytis šio vilkiero minima 1633 m. Vladislovo Vazos ir 1649 m. Jono
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

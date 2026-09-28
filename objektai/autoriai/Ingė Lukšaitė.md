@@ -136,3 +136,4 @@ Ingė Lukšaitė pabrėžia A. Volano požiūrio į luominę visuomenės sąrang
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

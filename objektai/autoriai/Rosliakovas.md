@@ -62,3 +62,4 @@ Gydytojas Rosliakovas apie 1809 m. surašė nenurodyto Kaukazo dialekto rankraš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

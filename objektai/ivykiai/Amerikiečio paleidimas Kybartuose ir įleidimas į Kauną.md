@@ -85,3 +85,4 @@ Pareikalavau inleisti Kau nan mano draugą, kuris jau trys dienos, kaip sėdėjo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

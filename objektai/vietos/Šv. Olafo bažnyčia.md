@@ -68,3 +68,4 @@ Narbutas šv. Olafo bažnyčioje matė medinį kotą su žalvariniu gaidžiu, la
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

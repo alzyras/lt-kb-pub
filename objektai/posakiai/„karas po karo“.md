@@ -76,3 +76,4 @@ Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir pagrįstas pateikta citata."
   pagrindžia:
     - c-23630
+

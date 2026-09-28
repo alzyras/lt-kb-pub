@@ -76,3 +76,4 @@ Kai kurių autorių teigimu, vikingų visuomenėje twimenning reiškė gėrimą 
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

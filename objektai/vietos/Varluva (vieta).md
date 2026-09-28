@@ -74,3 +74,4 @@ Vokiečiai, kaip aprašo Teodoras Narbutas, per aštuonias dienas susiskirstę �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

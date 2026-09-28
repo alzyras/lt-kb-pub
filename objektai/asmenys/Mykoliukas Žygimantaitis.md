@@ -74,3 +74,4 @@ Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš t�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

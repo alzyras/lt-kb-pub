@@ -56,3 +56,4 @@ Narbutas Nikono pataisytą Bibliją ir liturgiją sieja su rusų sentikių atsir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -123,3 +123,4 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -52,3 +52,4 @@ Narbutas, remdamasis Pretorijumi, vėjininkus priskyrė penkioms pranašautojų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

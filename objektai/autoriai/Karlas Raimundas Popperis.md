@@ -98,3 +98,4 @@ Karlas Raimundas Popperis XX a. viduryje rašė apie istorijos šaltinius ir jų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

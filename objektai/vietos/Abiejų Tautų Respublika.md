@@ -270,3 +270,4 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208070
+

@@ -80,3 +80,4 @@ Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasak
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

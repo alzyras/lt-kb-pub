@@ -87,3 +87,4 @@ Inkunabulų epocha įvardijama kaip po Johano Gutenbergo išradimo (1445) vykęs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

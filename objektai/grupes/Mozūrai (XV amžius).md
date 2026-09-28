@@ -234,3 +234,4 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-225619
+

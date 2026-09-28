@@ -90,3 +90,4 @@ Antspaudą pridėjo Tumkelis (Tumkiel) 1528 metais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216737
+

@@ -86,3 +86,4 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
   temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet taisytina forma „bažnyčią imta“ į aiškesnį sakinį apie objektą."
   pagrindžia:
     - c-21911
+

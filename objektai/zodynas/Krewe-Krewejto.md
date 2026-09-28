@@ -51,3 +51,4 @@ Narbutas Krewe-Krewejto pateikia kaip tikslų vyriausiojo žynio pavadinimą, re
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

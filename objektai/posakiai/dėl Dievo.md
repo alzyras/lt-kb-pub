@@ -103,3 +103,4 @@ Narbutas posakį „dėl Dievo“ siejo su lietuvių priesaikos papročiu ir die
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -82,3 +82,4 @@ Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos kon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

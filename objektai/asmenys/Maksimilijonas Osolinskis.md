@@ -169,3 +169,4 @@ Maksimilijonas Osolinskis aiškino, kad germanų giminėje jūros pakrančių gy
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

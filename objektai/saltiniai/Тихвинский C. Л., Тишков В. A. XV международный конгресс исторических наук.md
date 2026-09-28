@@ -61,3 +61,4 @@ Dusburgietis teigia, kad тихвинский C.
   temporaliniai_duomenys: "įvykio data: 1980 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Citata palaiko pilną bibliografinį sakinį; pradinis teiginys palieka nutrūkusią inicialų formą."
+

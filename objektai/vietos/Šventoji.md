@@ -115,3 +115,4 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213248
+

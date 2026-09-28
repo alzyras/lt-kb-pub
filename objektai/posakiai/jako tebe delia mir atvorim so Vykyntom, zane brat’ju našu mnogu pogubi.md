@@ -77,3 +77,4 @@ Kada buvo bandoma į sąjungą (koaliciją) prieš Mindaugą ir Vykintą Įtrauk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -140,3 +140,4 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

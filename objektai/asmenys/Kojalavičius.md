@@ -125,3 +125,4 @@ Narbutas rašo, kad Kojalavičius mini XV a. lenkiškus grašius, vadintus pioru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

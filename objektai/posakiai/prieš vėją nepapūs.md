@@ -124,3 +124,4 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

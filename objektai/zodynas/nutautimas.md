@@ -115,3 +115,4 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

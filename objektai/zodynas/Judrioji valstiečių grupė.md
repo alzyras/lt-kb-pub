@@ -61,3 +61,4 @@ Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji » (« pochožije �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

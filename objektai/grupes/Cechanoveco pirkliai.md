@@ -61,3 +61,4 @@ Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

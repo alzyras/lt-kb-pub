@@ -110,3 +110,4 @@ Narbutas iš Bergerono kelionių aprašymų siejo Kantorinio liudijimą su lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217034
+

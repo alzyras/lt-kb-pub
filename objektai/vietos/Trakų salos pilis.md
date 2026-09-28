@@ -81,3 +81,4 @@ Antrame plane matyti Trakų salos pilis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

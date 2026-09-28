@@ -126,3 +126,4 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

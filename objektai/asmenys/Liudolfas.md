@@ -116,3 +116,4 @@ Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado prot�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

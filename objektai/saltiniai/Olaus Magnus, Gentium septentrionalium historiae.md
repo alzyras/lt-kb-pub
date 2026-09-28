@@ -52,3 +52,4 @@ Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Ola
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

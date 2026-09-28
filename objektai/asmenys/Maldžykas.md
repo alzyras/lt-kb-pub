@@ -75,3 +75,4 @@ Tame suvažiavime, nors ir neoficialiai, daly­ vavo ir Vytauto pasiuntinys Mald
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

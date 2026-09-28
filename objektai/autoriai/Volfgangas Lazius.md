@@ -76,3 +76,4 @@ Volfgangas Lazius pirmasis paskelbė heruliškąją „Tėve mūsų“ maldą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

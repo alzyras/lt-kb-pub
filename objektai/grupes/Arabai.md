@@ -70,3 +70,4 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

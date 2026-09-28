@@ -119,3 +119,4 @@ Jai pradingus arba pertraukus dalį sausumos tarp Ven tės ir Karvaičių, kai v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

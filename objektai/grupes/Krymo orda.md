@@ -212,3 +212,4 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

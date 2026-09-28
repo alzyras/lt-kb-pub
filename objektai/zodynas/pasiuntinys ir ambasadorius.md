@@ -81,3 +81,4 @@ XVI a. žodžių „pasiuntinys“ ir „ambasadorius“ prasmės dar nebuvo gri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

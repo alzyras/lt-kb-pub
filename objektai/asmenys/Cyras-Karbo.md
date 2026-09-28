@@ -140,3 +140,4 @@ Narbutas rašo, kad Strijkovskis kimbrus siejo su mūšiu prie Nortbėjos, kur j
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215080
+

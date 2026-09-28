@@ -78,3 +78,4 @@ Jogai la, įėjęs į bažnyčią, ten priėmė krikštą ir Romos tikė jimą, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

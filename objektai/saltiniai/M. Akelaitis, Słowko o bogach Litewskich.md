@@ -48,3 +48,4 @@ M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszaws
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

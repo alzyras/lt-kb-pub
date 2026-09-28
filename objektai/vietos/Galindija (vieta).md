@@ -72,3 +72,4 @@ Galindai atėjo iš Galindijos pagelbėti herulams.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

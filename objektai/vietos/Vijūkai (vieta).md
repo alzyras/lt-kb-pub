@@ -86,3 +86,4 @@ Vijūkai nuo 1580 m. nuolat minimi kaip Romainių Vijūkų lauke gyvenę žmonė
   atnaujinta: "2026-07-26 21:24"
   pagrindžia:
     - t-001
+

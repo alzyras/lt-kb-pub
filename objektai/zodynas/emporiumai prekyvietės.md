@@ -95,3 +95,4 @@ Narbutas rašo, kad graikų emporiumai, arba prekyvietės, VII amžiuje prieš K
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

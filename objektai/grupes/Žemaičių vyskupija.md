@@ -61,3 +61,4 @@ Vytautas paskyrė kanauninkus ir apdovanojo Žemaičių vyskupijos bažnyčią t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

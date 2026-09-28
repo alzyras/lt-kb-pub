@@ -103,3 +103,4 @@ Bogdano Senkavičiaus žmona skundėsi, kad Bogušas Ovsianas jų Skorobovo dvar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

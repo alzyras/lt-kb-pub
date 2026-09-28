@@ -57,3 +57,4 @@ Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -54,3 +54,4 @@ Pastačius Kristburgo pilį, prūsai, naujakrikščiai ir Sventopelkas nutarė j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

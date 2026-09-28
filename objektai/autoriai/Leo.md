@@ -78,3 +78,4 @@ Leo nurodė, kad borusai 523 ar 530 metais persikėlė iš šiaurės į dabartin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

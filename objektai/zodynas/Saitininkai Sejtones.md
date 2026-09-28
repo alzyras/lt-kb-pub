@@ -49,3 +49,4 @@ Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

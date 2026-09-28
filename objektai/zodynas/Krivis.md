@@ -273,3 +273,4 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-225380
+

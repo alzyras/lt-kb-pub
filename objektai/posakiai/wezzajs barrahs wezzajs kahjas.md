@@ -61,3 +61,4 @@ Jį taip pat vadino Wezzajs Tehws (senasis tėvas) arba tiesiog Wezzajs (se nis)
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

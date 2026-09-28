@@ -78,3 +78,4 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

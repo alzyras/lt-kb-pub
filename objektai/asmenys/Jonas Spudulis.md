@@ -70,3 +70,4 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

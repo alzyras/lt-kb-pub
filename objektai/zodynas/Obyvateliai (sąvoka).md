@@ -82,3 +82,4 @@ Lietuvos urėdininkai, išrenkami iš ukėsų, arba obyvatelių, pareigas ėjo n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

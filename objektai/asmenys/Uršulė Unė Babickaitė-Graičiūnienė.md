@@ -33,7 +33,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Uršulė Unė Babickaitė-Graičiūnienė"]
 sameAs: []
-canonical_biography: "Uršulė Unė Babickaitė-Graičiūnienė (Une Baye, 1897–1961). Babickaitė pastatė trejetą spektaklių ir Panevėžio teatre. Babickaitė mirė, pagal oficialią versiją – nuo kraujo užkrėtimo Òsidūrus pirštą."
+canonical_biography: ". Babickaitė pastatė trejetą spektaklių ir Panevėžio teatre. Babickaitė mirė, pagal oficialią versiją – nuo kraujo užkrėtimo Òsidūrus pirštą."
 ---
 # Uršulė Unė Babickaitė-Graičiūnienė
 
@@ -92,3 +92,4 @@ Uršulė Unė Babickaitė-Graičiūnienė Panevėžio teatre pastatė tris spekt
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

@@ -96,3 +96,4 @@ Nuostoliai buvo atidirbami Karklinės dvaro ekonomui Juozapui Celarijui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

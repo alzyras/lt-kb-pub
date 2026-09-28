@@ -89,3 +89,4 @@ Daugiau vargo aš turėjau su parapijos reikalų perleidimu savo vietininkui.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

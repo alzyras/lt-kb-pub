@@ -173,3 +173,4 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

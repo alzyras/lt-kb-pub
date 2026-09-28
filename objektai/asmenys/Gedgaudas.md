@@ -86,3 +86,4 @@ Kai su탑inojo, kad kry탑iuo훾i킬 pasiuntinys, Tomo komt큰ras, atvyko pas Jogail�
   patikimumo_saltinis: ai
   pagrind탑ia:
     - t-001
+

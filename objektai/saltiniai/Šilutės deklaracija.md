@@ -81,3 +81,4 @@ Jame krašto atstovai vienbalsiai priėmė Šilutės deklaraciją, kuria buvo nu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

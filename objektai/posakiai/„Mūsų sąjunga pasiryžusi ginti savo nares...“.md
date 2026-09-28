@@ -83,3 +83,4 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

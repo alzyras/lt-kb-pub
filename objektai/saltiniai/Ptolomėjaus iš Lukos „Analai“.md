@@ -64,3 +64,4 @@ Ptolomėjaus iš Lukos „Analai“ yra bažnyčios istorija, baigiama XIV a. pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

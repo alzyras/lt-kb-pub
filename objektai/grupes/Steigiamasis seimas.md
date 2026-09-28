@@ -245,3 +245,4 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

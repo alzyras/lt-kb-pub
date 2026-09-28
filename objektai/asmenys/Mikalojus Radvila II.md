@@ -112,3 +112,4 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

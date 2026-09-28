@@ -78,3 +78,4 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Perrašyta į glaustą sakinį apie objektą."
   pagrindžia:
     - c-22690
+

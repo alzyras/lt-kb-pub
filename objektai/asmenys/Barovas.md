@@ -89,3 +89,4 @@ Narbutas rašo, kad keliautojas Barovas, lydėjęs anglų pasiuntinį Makartnį,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

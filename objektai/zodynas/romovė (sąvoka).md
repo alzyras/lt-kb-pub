@@ -72,3 +72,4 @@ Jis kalba apie kadaise buvusį šventą Romovės miestą, kaip apie krivio buvei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

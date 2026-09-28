@@ -75,3 +75,4 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

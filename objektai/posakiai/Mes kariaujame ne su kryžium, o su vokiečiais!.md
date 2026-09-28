@@ -101,3 +101,4 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
   pagrindžia:
     - t-001
     - t-002
+

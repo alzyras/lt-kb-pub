@@ -105,3 +105,4 @@ canonical_biography: "Šarmaitis, R.: Iš marksistiniųlenininių pozicijų, Kom
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

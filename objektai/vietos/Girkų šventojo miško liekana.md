@@ -68,3 +68,4 @@ Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -84,3 +84,4 @@ Vartojama pejoratyviai apibūdinti Lietuvos ir Lenkijos santvarkos suirimui.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

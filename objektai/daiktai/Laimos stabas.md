@@ -76,3 +76,4 @@ Netoli Krušvicos, prie Goplo ežero, buvo rastas iš smiltainio iškaltas Laimo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

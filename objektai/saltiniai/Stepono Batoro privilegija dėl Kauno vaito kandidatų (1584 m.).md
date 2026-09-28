@@ -62,3 +62,4 @@ Steponas Batoras, Kauno burmistrų ir tarėjų prašomas, atsižvelgė į senovi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -106,3 +106,4 @@ Jonas Dominykas Lopacinskis šiame straipsnyje rodomas kaip XVIII a. LDK dvasini
   atnaujinta: "2026-07-26 17:37"
   pagrindžia:
     - t-002
+

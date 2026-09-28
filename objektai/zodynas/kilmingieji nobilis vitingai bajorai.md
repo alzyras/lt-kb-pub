@@ -101,3 +101,4 @@ Dusburgietis teigia, kad prūsai tikėjo, kad kūnas prisikelia iš numirusiųj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

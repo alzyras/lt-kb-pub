@@ -93,3 +93,4 @@ Astronomas, Livonijos kanauninkas ir Vilniaus klebonas A. Streckis buvo 1795 m. 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

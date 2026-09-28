@@ -213,3 +213,4 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216603
+

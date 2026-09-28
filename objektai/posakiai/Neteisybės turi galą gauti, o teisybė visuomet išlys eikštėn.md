@@ -56,3 +56,4 @@ Neteisybės turi galą gauti, o teisybė vi suomet išlys eikštėn.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

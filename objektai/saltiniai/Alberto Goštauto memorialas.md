@@ -164,3 +164,4 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

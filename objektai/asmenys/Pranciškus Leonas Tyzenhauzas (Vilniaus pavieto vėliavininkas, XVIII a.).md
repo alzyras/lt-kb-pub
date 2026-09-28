@@ -99,3 +99,4 @@ Pranciškus Leonas Tyzenhauzas buvo Vilniaus pavieto vėliavininkas. Tribunole j
   pagrindžia:
     - t-001
     - t-002
+

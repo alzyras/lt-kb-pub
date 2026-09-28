@@ -795,6 +795,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162540
+    - c-180795
 
 <a id="claim-t-178868"></a>
 - t-044
@@ -1905,6 +1906,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir pagrįstas citatos pastaba apie archyvą."
   pagrindžia:
     - c-162520
+    - c-180865
 
 <a id="claim-t-178987"></a>
 - t-105
@@ -2319,6 +2321,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
   pagrindžia:
     - c-162632
+    - c-180706
     - c-186038
 
 <a id="claim-t-179030"></a>
@@ -2627,6 +2630,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-162486
+    - c-180668
 
 <a id="claim-t-179071"></a>
 - t-144
@@ -2904,6 +2908,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-162540
+    - c-180795
     - c-186035
 
 <a id="claim-t-179105"></a>
@@ -5092,6 +5097,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir pagrįstas citatos pastaba apie archyvą."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-162520
     - c-180865
 
 <a id="claim-t-203384"></a>
@@ -5104,6 +5110,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-162486
+    - c-180668
 
 <a id="claim-t-203393"></a>
 - t-319
@@ -5222,6 +5229,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir pataisyta sakinio pradžia."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
+    - c-162576
     - c-180912
 
 <a id="claim-t-203448"></a>
@@ -5357,6 +5365,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   susije_objektai: "llm_object: Livonija; mentioned_author: [[objektai/autoriai/Rygos arkivyskupas Fridrichas|Rygos arkivyskupas Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)|Fridrichas (Rygos arkivyskupas)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Čekija; llm_object: Dorpatas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-162540
     - c-180795
 
 <a id="claim-t-203532"></a>
@@ -8587,6 +8596,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-104
+    - t-317
 
 - id: c-162521
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -8869,6 +8879,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   pagrindžia:
     - t-043
     - t-158
+    - t-341
 
 - id: c-162541
   autorius: "Michał Baliński"
@@ -9321,6 +9332,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-129
+    - t-329
 
 - id: c-162577
   redaktorius: "A. Šapoka"
@@ -13851,6 +13863,9 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-143
+    - t-318
 
 - id: c-180669
   autorius: "Michał Baliński"
@@ -14624,6 +14639,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-127
 
 - id: c-180707
   autorius: "Michał Baliński"
@@ -16503,6 +16520,8 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-043
+    - t-158
     - t-341
 
 - id: c-180796
@@ -18012,6 +18031,7 @@ Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grą�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
+    - t-104
     - t-317
 
 - id: c-180866

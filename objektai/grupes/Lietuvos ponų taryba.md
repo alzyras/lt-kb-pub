@@ -235,3 +235,4 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

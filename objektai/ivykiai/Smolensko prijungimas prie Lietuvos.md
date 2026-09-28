@@ -114,3 +114,4 @@ Smolenską užėmęs valdovas, kurį Narbutas vadina didžiuoju kunigaikščiu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -66,3 +66,4 @@ Naugardo gubernijoje Rusa, ar ba Russ, upei vardą davė lietuvių tautos koloni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

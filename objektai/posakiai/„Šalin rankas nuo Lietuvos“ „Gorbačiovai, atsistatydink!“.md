@@ -81,3 +81,4 @@ Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

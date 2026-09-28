@@ -75,3 +75,4 @@ Narbutas teigia, kad latvis greitai taria, trumpina žodžius, beria ištisus sk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

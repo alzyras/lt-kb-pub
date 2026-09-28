@@ -101,3 +101,4 @@ Narbutas remiasi Aleksandru Gvaniniu, kuris Klerkei, arba Bialohrodo, pilį siej
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -217,3 +217,4 @@ Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211982
+

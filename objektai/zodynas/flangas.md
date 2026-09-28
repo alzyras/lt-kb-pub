@@ -113,3 +113,4 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

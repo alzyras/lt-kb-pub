@@ -76,3 +76,4 @@ Dėl Santvaro atvaizdo buvo įvairiausių nuomonių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

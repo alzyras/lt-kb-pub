@@ -261,3 +261,4 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

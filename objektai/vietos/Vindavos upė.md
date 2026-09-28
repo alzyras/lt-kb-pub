@@ -114,3 +114,4 @@ Narbutas Vindavos upės pavadinimą laikė pėdsaku venedų slavų, galėjusių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

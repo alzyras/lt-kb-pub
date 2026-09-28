@@ -75,3 +75,4 @@ Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -64,3 +64,4 @@ Prie Ogrodnikų kaimo iškastuose pilkapiuose rasta žąslų, tinkančių viduti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

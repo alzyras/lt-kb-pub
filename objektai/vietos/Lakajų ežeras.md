@@ -94,3 +94,4 @@ Taip pat mūsų Lakajų ežerą, greta vyskupo dvaro, vadinamo Jakubiškėmis, e
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

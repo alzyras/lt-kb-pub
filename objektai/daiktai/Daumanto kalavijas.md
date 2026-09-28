@@ -79,3 +79,4 @@ Daumanto kalavijas saugomas Pskovo katedroje; jo sidabrinė galvutė paauksuota,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

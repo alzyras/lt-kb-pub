@@ -474,3 +474,4 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215224
+

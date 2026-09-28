@@ -161,3 +161,4 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

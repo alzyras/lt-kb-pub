@@ -71,3 +71,4 @@ Tokiomis aplinkybėmis dabartinio Kijevo žemė pir miausia tapo skitų pastovia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

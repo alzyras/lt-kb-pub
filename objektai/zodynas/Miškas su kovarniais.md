@@ -112,3 +112,4 @@ Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

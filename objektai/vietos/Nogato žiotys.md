@@ -70,3 +70,4 @@ Narbutas spėja, kad Pitėjas galėjo priplaukti prie kranto ties Nogato žiotim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -167,3 +167,4 @@ A. Goštauto memoriale aprašoma jo veikla M. Glinskio maišto 1508 m. laikotarp
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+

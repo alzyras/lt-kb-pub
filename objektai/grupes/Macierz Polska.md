@@ -64,3 +64,4 @@ Lenkams Lenkijoje buvo pavelyta turėti Macierz Polska ir universitetą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

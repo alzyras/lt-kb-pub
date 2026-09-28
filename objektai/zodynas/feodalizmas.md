@@ -447,3 +447,4 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207972
+

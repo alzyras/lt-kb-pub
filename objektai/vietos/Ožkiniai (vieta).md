@@ -86,3 +86,4 @@ Iki 1941 m. vidurio Ožkiniuose išliko neveikianti karčema, kurioje gyveno buv
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

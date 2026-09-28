@@ -82,3 +82,4 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

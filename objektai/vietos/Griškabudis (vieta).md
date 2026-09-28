@@ -72,3 +72,4 @@ Vogintas tapo praša lintas už pasipriešinimą iš Marijampolės ir per keltas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

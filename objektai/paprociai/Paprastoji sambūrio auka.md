@@ -77,3 +77,4 @@ Paprastoji auka buvo atnašaujama per didesnius žmonių sambūrius ir šventes.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

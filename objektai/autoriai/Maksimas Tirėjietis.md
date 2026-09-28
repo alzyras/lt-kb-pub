@@ -122,3 +122,4 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219570
+

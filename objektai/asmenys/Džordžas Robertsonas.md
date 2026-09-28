@@ -96,3 +96,4 @@ Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

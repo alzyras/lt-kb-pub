@@ -80,3 +80,4 @@ Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

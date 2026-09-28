@@ -80,3 +80,4 @@ Janas Filipovičius cituojamoje Lietuvos Metrikos archyvo sąrašo ištraukoje v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

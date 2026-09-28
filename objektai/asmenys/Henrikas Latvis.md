@@ -168,3 +168,4 @@ Narbutas klausia, kodėl Henrikas Latvis, rašęs apie Livoniją, nemini krivio,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

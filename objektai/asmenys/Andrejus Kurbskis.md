@@ -118,3 +118,4 @@ Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

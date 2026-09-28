@@ -72,3 +72,4 @@ Kariuomenė užėmė Baigos prūsų pilį, dalį žmonių paėmė į nelaisvę, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

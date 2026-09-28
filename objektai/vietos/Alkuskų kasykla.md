@@ -73,3 +73,4 @@ Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

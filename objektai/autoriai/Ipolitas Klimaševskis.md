@@ -138,3 +138,4 @@ Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

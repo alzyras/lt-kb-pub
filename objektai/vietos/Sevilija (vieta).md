@@ -72,3 +72,4 @@ Narbutas rašo, kad vietovė Paradas buvo visai šalia Sevilijos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

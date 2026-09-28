@@ -77,3 +77,4 @@ Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

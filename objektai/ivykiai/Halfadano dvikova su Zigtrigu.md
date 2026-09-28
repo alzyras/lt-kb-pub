@@ -71,3 +71,4 @@ Narbutas teigia, kad Halfadanas užjūrio krašte kariavo su rusais vadinama tau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

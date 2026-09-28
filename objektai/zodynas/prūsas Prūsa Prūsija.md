@@ -339,3 +339,4 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

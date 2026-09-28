@@ -60,3 +60,4 @@ Narbutas teigia, kad Pailmenės slavai iš Britanijos ir Estijos atgabentas prek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

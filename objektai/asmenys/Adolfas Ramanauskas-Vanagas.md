@@ -147,3 +147,4 @@ canonical_biography: "1956 m. suimtas ir vienas iš paskutinių partizanų vadų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

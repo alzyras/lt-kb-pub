@@ -173,3 +173,4 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

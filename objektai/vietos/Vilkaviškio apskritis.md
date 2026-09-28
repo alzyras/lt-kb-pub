@@ -121,3 +121,4 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps. ŽIŪRŲ-GUDELI
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

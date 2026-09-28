@@ -72,3 +72,4 @@ Tai norės vokiečiai delei išgelbėjimo vokiško Kurlandijos elemento.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

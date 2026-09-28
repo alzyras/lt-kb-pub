@@ -113,3 +113,4 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

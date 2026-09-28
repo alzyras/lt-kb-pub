@@ -90,3 +90,4 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   pagrindžia:
     - t-001
     - t-002
+

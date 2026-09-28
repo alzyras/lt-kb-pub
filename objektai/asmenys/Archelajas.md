@@ -106,3 +106,4 @@ Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -81,3 +81,4 @@ Gediminas ir Vladislovas Lokietka, kaip perteikia Teodoras Narbutas, susitarė 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

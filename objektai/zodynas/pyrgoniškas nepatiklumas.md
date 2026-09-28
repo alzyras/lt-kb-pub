@@ -186,3 +186,4 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

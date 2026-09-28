@@ -83,3 +83,4 @@ Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakranči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

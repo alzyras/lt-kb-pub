@@ -240,3 +240,4 @@ Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Ga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

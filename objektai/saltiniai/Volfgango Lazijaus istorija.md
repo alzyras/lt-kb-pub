@@ -90,3 +90,4 @@ Narbutas rašo, kad Volfgangas Lazijus į savo istoriją įdėjo iš „Meklenbu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

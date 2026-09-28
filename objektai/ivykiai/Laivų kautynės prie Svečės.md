@@ -71,3 +71,4 @@ Prie Svečės Sventopelkas užpuolė laivus su daugybe ginklanešių ir 10 laiv�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

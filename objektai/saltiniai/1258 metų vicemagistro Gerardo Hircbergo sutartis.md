@@ -104,3 +104,4 @@ Narbutas 1258 m. Gerardo Hircbergo sutartį pateikia kaip Vitlandijos buvimo tar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

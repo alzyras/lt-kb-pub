@@ -79,3 +79,4 @@ Ivanas slapta kurstė Simoną, Andrejų ir Vasilijų Šemiačičius, ištikimus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

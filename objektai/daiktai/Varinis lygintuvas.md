@@ -75,3 +75,4 @@ Kapavietėse kartais būdavo randami variniai lygintuvai rūbams lyginti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

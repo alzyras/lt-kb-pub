@@ -110,3 +110,4 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-195627
+

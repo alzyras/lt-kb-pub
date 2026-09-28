@@ -108,3 +108,4 @@ Trakuose, Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­ bing
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -230,3 +230,4 @@ Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

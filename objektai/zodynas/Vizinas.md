@@ -87,3 +87,4 @@ Vartojamas kaip vardo „Vizinas“ aiškinimas ir kaip liaudiškas, dialektinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

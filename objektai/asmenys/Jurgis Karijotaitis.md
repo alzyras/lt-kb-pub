@@ -67,3 +67,4 @@ Jurgį moldavai pasikvietė vaivada, bet ten nunuodijo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

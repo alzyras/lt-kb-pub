@@ -123,3 +123,4 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -88,3 +88,4 @@ m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

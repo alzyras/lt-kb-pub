@@ -72,3 +72,4 @@ Poloviečiai visą vasarą laikė apgulę Giurgevo tvirtovę, bet jos neįveikė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

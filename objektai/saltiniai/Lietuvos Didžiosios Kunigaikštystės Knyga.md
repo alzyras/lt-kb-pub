@@ -95,3 +95,4 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

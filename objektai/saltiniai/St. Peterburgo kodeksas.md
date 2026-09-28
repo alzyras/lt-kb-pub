@@ -95,3 +95,4 @@ St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

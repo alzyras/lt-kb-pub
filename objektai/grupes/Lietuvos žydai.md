@@ -90,3 +90,4 @@ Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

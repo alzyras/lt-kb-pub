@@ -81,3 +81,4 @@ Pranciškonai Vilniaus Plikajame kalne pastatė tris kryžius kaip savo misijos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

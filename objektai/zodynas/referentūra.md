@@ -63,3 +63,4 @@ O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

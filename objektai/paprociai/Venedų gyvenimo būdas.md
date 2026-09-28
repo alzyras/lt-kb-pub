@@ -74,3 +74,4 @@ Jie stato namus, gyvena kolonijomis, užsiima žemdirbyste, prekyba, pernicitate
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

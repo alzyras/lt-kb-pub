@@ -61,3 +61,4 @@ Yra padavimas, jog Žemaičiuose buvę septynios deivės par kos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -78,3 +78,4 @@ Vilniuje sušauktame seime, pasak Narbuto, buvo patvirtinta Skirgailos investit�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

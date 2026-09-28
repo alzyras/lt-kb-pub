@@ -244,3 +244,4 @@ Narbutas rašo, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -76,3 +76,4 @@ Taisyklės formos formulė apie dienos ir valgio atitikmenį.
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177867
+

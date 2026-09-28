@@ -109,3 +109,4 @@ liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, 
   pagrindžia:
     - t-001
     - t-002
+

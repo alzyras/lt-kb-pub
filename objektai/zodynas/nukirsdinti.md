@@ -64,3 +64,4 @@ Kai Jogaila jį perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

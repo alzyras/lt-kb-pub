@@ -72,3 +72,4 @@ canonical_biography: 'Šiaurėje ją skalavo Aistmarės, rytuose — Pasargės, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

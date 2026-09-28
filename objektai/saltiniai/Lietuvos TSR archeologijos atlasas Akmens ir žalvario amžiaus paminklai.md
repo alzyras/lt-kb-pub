@@ -83,3 +83,4 @@ Lietuvos TSR archeologijos atlasas, I : Akmens ir žalva­ rio amžiaus paminkla
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

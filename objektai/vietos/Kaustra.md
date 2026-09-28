@@ -135,3 +135,4 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

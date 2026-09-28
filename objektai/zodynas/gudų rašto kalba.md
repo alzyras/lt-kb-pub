@@ -99,3 +99,4 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

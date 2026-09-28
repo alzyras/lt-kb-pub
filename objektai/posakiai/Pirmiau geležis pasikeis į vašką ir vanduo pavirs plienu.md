@@ -160,3 +160,4 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

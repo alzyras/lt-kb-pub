@@ -89,3 +89,4 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

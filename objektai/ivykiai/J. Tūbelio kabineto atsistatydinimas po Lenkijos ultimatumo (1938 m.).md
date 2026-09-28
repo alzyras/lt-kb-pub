@@ -94,3 +94,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata leidžia suformuluoti pilną faktą."
   pagrindžia:
     - c-22945
+

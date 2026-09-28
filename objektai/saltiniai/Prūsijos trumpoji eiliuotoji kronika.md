@@ -80,3 +80,4 @@ Dusburgietis teigia, kad olivos kronikoje — Kirsburg (SRP, 5, p. 600), Kirsber
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

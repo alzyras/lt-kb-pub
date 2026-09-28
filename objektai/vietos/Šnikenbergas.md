@@ -117,3 +117,4 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

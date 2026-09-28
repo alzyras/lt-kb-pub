@@ -84,3 +84,4 @@ Pretorijaus veikale „Preussische Schaubühne, sive Deliciae Prussiae“ nurody
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

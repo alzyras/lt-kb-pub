@@ -302,3 +302,4 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

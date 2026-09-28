@@ -88,3 +88,4 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
   ryšio_paaiskinimas: "Citata nurodo, kad Kulmo žemės buvo atiduotos Ordinui."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Kulmas priklausė Kryžiuočių ordinas (0.90); Lubava priklausė Kryžiuočių ordinas (0.90)"
+

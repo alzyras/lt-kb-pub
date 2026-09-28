@@ -70,3 +70,4 @@ LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

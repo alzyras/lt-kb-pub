@@ -146,3 +146,4 @@ Narbutas tikriausiai naudojosi lenkų vyskupo Vincento Kadlubeko kronikos lotyni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

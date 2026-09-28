@@ -68,3 +68,4 @@ Narbutas teigia, kad Lietuvos totoriai mitines būtybes vadina fereikomis ir dž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

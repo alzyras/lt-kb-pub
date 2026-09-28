@@ -84,3 +84,4 @@ Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo (Šv.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

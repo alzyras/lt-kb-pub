@@ -71,3 +71,4 @@ Atskirai reikia paminėti Rimanto Viedrynaičio sudarytą leidinį Kaunas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

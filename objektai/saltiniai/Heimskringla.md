@@ -92,3 +92,4 @@ Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žem�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

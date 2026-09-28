@@ -75,3 +75,4 @@ Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

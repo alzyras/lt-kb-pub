@@ -118,3 +118,4 @@ Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

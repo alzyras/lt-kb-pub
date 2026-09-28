@@ -68,3 +68,4 @@ Narbutas šį mitologinį vaizdinį pateikia kaip artėjantį prie tiesos, kalb�
   ryšio_targeto_parinkimas: "Hiperborėjai: mention_match, group"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"poetinis pasakojimas apie tuopomis paverstus heliadus, iš kurių akių srūva gintaro lašai\" parinktas kaip owner_note_path. Targetas \"Hiperborėjai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+

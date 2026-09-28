@@ -89,3 +89,4 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

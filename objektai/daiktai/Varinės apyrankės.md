@@ -76,3 +76,4 @@ Ypač vertos dėmesio apyrankės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

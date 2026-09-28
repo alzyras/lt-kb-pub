@@ -149,3 +149,4 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

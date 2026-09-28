@@ -112,3 +112,4 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

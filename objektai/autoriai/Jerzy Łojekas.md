@@ -89,3 +89,4 @@ Jerzy Łojekas kartu su Hanna Krauze išryškino tuometinio diplomatinės atstov
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

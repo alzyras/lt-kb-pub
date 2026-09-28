@@ -75,3 +75,4 @@ Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

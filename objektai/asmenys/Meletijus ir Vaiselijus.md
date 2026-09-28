@@ -56,3 +56,4 @@ Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

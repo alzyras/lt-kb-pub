@@ -125,3 +125,4 @@ Narbuto pasakojime Wespatsas vadinamas Rusnės ponu, kurio sostinę užėmė Dan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

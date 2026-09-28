@@ -112,3 +112,4 @@ Narbutas mini nuomonę, kad lietuvių tauta IV ar V a. Vyslos žemupyje susidar�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214954
+

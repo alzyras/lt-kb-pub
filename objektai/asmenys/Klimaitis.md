@@ -63,3 +63,4 @@ Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

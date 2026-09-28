@@ -79,3 +79,4 @@ Dusburgietis teigia, kad crome H.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

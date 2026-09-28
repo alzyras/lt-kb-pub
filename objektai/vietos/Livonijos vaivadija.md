@@ -91,3 +91,4 @@ Daugiausiai objektų, tarp jų ir ryš kiausių, turinčių didelę meninę vert
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

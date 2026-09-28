@@ -79,3 +79,4 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -107,3 +107,4 @@ Narbutas Rudbeką mini tarp autorių, rašiusių apie Šiaurės tautų lopšį n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

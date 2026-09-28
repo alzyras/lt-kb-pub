@@ -93,3 +93,4 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

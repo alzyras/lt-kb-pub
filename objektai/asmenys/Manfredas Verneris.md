@@ -86,3 +86,4 @@ Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui (Manfred 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -127,3 +127,4 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

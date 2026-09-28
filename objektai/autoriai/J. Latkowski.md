@@ -83,3 +83,4 @@ Latkowski, Mendog król lit.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

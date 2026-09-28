@@ -63,3 +63,4 @@ TreČiojo luomo nariai galėjo tapti jo lyderiais, bendruomenės prisiekusiaisia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

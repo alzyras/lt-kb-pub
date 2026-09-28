@@ -79,3 +79,4 @@ iš Dniepro žemupio išjudėjo slavai, siekdami įsikurti pratuštėjusiuose ge
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -66,3 +66,4 @@ Tais pačiais metais kitas Kauno laivų statytojas Jokūbas Židonis dirbo Vilni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

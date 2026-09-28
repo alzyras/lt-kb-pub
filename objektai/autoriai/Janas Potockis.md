@@ -105,3 +105,4 @@ Jano Potockio kelionės į Astrachanę ir jos apylinkes 1797 m. aprašymas buvo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

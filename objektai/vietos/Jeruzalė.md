@@ -669,3 +669,4 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   patikimumo_saltinis: ai
   pagrindžia:
     - t-225072
+

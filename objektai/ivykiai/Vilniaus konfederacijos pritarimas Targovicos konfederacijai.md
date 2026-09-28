@@ -98,3 +98,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškus, datuotas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-23261
+

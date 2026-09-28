@@ -67,3 +67,4 @@ Lietuvos metraštis («Liatopisiec velikich kniaziej litovskich») Vytauto lupom
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

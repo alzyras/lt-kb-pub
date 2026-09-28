@@ -371,3 +371,4 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

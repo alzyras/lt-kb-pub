@@ -80,3 +80,4 @@ Mingaila prie Gorodco sumušė Polocko vyrus ir sudegino jų miestą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

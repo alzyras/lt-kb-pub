@@ -73,3 +73,4 @@ Fridrichas iš Vildenbergo po Vytenio žygio įsiveržė į Pagraudės valsčių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

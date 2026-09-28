@@ -53,3 +53,4 @@ Narbutas Orfėją mini tarp veikėjų, kurie skirtingose tautose įvedė jau sus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

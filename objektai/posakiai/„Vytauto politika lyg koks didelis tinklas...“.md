@@ -63,3 +63,4 @@ Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

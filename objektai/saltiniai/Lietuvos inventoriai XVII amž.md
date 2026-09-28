@@ -74,3 +74,4 @@ Juču jis sudarė rinkinį «Lietuvos inventoriai XVII amž. » (1962).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

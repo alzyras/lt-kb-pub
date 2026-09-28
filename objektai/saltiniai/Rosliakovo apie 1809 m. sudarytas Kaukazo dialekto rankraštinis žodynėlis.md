@@ -54,3 +54,4 @@ Narbutas Rosliakovo apie 1809 m. sudarytą Kaukazo dialekto rankraštinį žodyn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

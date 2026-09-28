@@ -93,3 +93,4 @@ Andrius Choleva yra bajoras iš Bransko pavieto.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

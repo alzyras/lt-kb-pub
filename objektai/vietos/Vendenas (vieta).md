@@ -224,3 +224,4 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213688
+

@@ -67,3 +67,4 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

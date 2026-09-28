@@ -67,3 +67,4 @@ Kijevo vietoje stovėjusi skitų žemdirbių gyvenvietė seniai buvo žinoma Kar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

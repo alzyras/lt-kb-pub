@@ -105,3 +105,4 @@ Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

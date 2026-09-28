@@ -147,3 +147,4 @@ Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218252
+

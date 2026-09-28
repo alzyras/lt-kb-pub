@@ -142,3 +142,4 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

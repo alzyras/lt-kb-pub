@@ -74,3 +74,4 @@ Prie šiandienės Isakčios per Dunojų buvo pastatytas tiltas, kurio statybai r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -126,3 +126,4 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

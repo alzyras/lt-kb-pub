@@ -126,3 +126,4 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -81,3 +81,4 @@ Jogaila atėmė Vidimanto turtus iš jo žmonos bei giminaičių ir atidavė juo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

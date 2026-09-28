@@ -58,3 +58,4 @@ Dusburgietis pasakoja, kad žmonės šaukiasi į Kristų, prašydami suteikti ji
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

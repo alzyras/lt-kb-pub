@@ -61,3 +61,4 @@ Visi tie didikai, remdamiesi savąja krašto privilegija, duota karaliaus sėdan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

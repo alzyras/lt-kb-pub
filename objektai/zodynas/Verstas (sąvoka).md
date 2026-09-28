@@ -67,3 +67,4 @@ Pavažiavus 5-6 verstus nuo Kybartų nesimato jokių karės pėdsakų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

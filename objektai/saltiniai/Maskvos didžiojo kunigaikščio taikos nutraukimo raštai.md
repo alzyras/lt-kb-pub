@@ -60,3 +60,4 @@ Maskvos didysis kunigaikštis pasiuntė į Obolcus pasiuntinį su taikos nutrauk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

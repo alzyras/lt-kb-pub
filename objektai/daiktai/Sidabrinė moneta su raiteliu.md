@@ -77,3 +77,4 @@ Kita pusė: raitelis ant žirgo, šuoliuojančio į kairę; dešinė je rankoje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

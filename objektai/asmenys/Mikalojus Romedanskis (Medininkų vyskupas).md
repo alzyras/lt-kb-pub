@@ -87,3 +87,4 @@ Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus Romedanskio konsekrac
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

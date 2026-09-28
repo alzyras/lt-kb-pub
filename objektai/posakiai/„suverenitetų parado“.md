@@ -72,3 +72,4 @@ Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

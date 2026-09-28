@@ -72,3 +72,4 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

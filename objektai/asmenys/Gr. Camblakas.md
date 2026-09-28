@@ -179,3 +179,4 @@ Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

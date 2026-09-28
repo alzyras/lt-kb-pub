@@ -168,3 +168,4 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

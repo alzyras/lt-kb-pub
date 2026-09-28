@@ -152,3 +152,4 @@ canonical_biography: "1517 m. Martyno Liuterio (Martin Luther) pradėta reformac
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

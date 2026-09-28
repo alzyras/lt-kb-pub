@@ -179,3 +179,4 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

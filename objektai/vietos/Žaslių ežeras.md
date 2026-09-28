@@ -151,3 +151,4 @@ Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

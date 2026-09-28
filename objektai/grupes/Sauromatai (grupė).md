@@ -95,3 +95,4 @@ Tad sauromatų vardą reikėtų versti į klaidžio jantys, klajokliai matai. Va
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

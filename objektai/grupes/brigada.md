@@ -75,3 +75,4 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

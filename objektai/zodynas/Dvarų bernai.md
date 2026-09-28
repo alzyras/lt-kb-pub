@@ -68,3 +68,4 @@ Patriarchali­ niuose Lietuvos santykiuose iš buvusiųjų vergų būklėje žmo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

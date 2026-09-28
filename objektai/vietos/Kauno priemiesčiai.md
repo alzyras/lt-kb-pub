@@ -65,3 +65,4 @@ Tik Kauno priemiesčių gyventojai buvo liepiami pastočių mokestį mokėti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

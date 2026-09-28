@@ -123,3 +123,4 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

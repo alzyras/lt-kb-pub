@@ -94,3 +94,4 @@ Narbutas spėjo, kad doblėnai gyveno šiaurinėje Mituvos apskrities dalyje ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

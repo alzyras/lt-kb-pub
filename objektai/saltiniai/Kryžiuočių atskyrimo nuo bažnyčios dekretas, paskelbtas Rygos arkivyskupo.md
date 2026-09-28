@@ -70,3 +70,4 @@ Teodoras Narbutas šį Rygos arkivyskupo paskelbtą kryžiuočių atskyrimo nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

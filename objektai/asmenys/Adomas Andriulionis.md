@@ -23,7 +23,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Adomas Andriulionis"]
 sameAs: []
-canonical_biography: "Varniškiai – 1 dūmas (Adomo Andriulionio)."
+canonical_biography: "."
 ---
 # Adomas Andriulionis
 

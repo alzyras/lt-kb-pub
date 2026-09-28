@@ -67,3 +67,4 @@ Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -482,3 +482,4 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211691
+

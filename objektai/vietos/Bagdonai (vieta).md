@@ -28,7 +28,6 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Bagdonai","Bagdonai (vieta)"]
 sameAs: []
-canonical_biography: "Kita sala yra Bagdonų kaime."
 place_authority: true
 historical_names: []
 ---

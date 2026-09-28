@@ -69,3 +69,4 @@ Diodoro pasakojime vietos gyventojai renka gintarą ir gabena jį į netolimą �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

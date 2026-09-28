@@ -416,3 +416,4 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

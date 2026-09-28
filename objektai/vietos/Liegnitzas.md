@@ -85,3 +85,4 @@ Ir iš menkų šaltinių nuotrupų yra įmanoma šiek tiek įžvelgti, jog Minda
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

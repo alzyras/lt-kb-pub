@@ -109,3 +109,4 @@ Senovės žmonės ypač gerbdavo tam tikrus akmenis, ku riuose pati gamta kažk�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

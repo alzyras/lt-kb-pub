@@ -74,3 +74,4 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

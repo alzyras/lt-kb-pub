@@ -86,3 +86,4 @@ Be kitų, kiek ankstesnių puldinėjimų, apie kuriuos tėra tik bendro po būd�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

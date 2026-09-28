@@ -139,3 +139,4 @@ Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216183
+

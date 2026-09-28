@@ -80,3 +80,4 @@ Teodozijų, kaipo kan­ didatą į Kijevo metropolitus, bet Konstantinopolyje ru
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

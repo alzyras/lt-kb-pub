@@ -185,3 +185,4 @@ Jonas Dominykas Lopacinskis straipsnyje pristatomas kaip XVIII a. LDK dvasininka
     - t-003
     - t-004
     - t-005
+

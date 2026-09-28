@@ -448,3 +448,4 @@ Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

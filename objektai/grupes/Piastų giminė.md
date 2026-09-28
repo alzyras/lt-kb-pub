@@ -158,3 +158,4 @@ Piastų giminės karaliai bene energingiausiai prie to prisidėjo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

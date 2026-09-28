@@ -72,3 +72,4 @@ canonical_biography: "1606 m. Kauno pirklys Jonas Jodis apsidrausdamas parašė 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

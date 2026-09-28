@@ -48,3 +48,4 @@ Narbutas Gardaitį (Gardoeldius) apibūdina kaip vėjų, audrų ir jūros potvyn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

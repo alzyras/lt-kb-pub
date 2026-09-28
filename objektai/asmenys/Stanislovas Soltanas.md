@@ -77,3 +77,4 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

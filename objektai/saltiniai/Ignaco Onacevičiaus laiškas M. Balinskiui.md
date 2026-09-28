@@ -69,3 +69,4 @@ Balinskiui laišką, kuriame apibūdino liūdną istorijos mokslo būklę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

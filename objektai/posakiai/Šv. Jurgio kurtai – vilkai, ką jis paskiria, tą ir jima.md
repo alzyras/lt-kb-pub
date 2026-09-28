@@ -1,6 +1,6 @@
 ---
 tipas: posakis
-pavadinimas: 'Šv. Jurgio kurtai – vilkai, ką jis paskiria, tą ir jima'
+pavadinimas: ''
 saltiniai:
   - 'Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai'
 sukurta: ''
@@ -18,7 +18,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Šv. Jurgio kurtai – vilkai, ką jis paskiria, tą ir jima
+#
 
 ## Santrauka
 
@@ -54,5 +54,6 @@ Posakyje šv. Jurgio kurtai vaizduojami kaip vilkai, imantys tai, ką šventasis
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

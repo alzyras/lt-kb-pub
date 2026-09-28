@@ -61,3 +61,4 @@ Taip pat paaiškinama, jog persų, armėnų, mažų azijiečių, mileziečių, h
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

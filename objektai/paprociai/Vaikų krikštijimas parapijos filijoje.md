@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vaikai buvo krikštijami Antašavos filijoje.
+
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -43,7 +43,7 @@ Nenurodyta
 
 <a id="claim-t-227744"></a>
 - t-001
-  teiginys: "Vaikai buvo krikštijami Antašavos filijoje."
+  teiginys: ""
   atnaujinta: "2026-09-25 02:17"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
@@ -55,7 +55,7 @@ Nenurodyta
 
 ## Santrauka
 
-Vaikai buvo krikštijami Antašavos filijoje.
+
 
 ## Citatos
 
@@ -68,5 +68,6 @@ Vaikai buvo krikštijami Antašavos filijoje.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

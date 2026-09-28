@@ -77,3 +77,4 @@ canonical_biography: "1925 m. Vladas Stankevičius išleido Kauno Vytauto Didži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

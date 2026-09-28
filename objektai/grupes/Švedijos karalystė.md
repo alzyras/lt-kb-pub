@@ -76,3 +76,4 @@ Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

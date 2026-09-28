@@ -97,3 +97,4 @@ Narbutas pasakoja, kad vienas iš Davainų giminės karių iš Šventojo Kryžia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211404
+

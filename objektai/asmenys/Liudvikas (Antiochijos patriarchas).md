@@ -111,3 +111,4 @@ canonical_biography: "Žiemos pabaigoje į Lietuvą pas karalių atvyko Liudvika
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

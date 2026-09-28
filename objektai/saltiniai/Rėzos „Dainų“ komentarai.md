@@ -45,3 +45,4 @@ Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

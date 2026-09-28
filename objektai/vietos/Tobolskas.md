@@ -104,3 +104,4 @@ Narbuto pasakojime Tovelas, arba Tobalas, minimas kaip Šventojo Rašto protėvi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

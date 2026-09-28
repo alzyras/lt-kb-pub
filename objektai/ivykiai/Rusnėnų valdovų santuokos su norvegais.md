@@ -70,3 +70,4 @@ Norvegų riterio Odo žmona buvo rusnėnų karalienė Silkizifė, o Odas valdė 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

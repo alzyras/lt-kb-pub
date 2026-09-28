@@ -81,3 +81,4 @@ Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau j
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

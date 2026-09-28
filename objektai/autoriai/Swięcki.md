@@ -50,3 +50,4 @@ Swięcki nurodomas kaip šaltinis teiginiui, kad Triznų giminė yra kilusi iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

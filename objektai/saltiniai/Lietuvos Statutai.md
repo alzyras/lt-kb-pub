@@ -628,3 +628,4 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207563
+

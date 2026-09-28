@@ -132,3 +132,4 @@ Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo s
   pagrindžia:
     - t-001
     - t-002
+

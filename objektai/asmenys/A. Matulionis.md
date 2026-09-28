@@ -74,5 +74,6 @@ canonical_biography: "A. Matulionis buvo 1971 m. televizijos filme pasirodžiusi
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -79,3 +79,4 @@ Ukmergės parapijos teritorijoje veikė Pijorų išlaikoma mokykla.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

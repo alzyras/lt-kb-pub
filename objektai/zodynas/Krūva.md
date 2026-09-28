@@ -92,3 +92,4 @@ Terminas vartojamas jaujos ir javų vėtymo darbo kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

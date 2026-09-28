@@ -94,3 +94,4 @@ Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti ats
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

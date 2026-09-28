@@ -153,3 +153,4 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

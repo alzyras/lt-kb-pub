@@ -251,3 +251,4 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

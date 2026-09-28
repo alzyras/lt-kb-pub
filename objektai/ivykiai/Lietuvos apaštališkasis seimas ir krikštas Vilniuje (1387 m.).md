@@ -79,3 +79,4 @@ Pasak Teodoro Narbuto, Lietuvos apaštališkajame seime tartasi dėl krikščion
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

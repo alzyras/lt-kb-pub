@@ -495,3 +495,4 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

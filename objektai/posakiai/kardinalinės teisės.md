@@ -97,3 +97,4 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

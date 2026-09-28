@@ -82,3 +82,4 @@ Jurgėla: History of the Lithuanian Nation, New York 1948. Jurgėla, C.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

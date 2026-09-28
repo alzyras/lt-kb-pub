@@ -67,3 +67,4 @@ Paparona apibūdina kariškį, stovintį sargyboje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

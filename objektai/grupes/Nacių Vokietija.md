@@ -159,3 +159,4 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

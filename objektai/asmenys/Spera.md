@@ -223,3 +223,4 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210402
+

@@ -78,5 +78,6 @@ Palėvenės bažnyčios krikšto metrikų knygose nuo 1681 m. ir Kupiškio bažn
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

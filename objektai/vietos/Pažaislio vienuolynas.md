@@ -76,3 +76,4 @@ Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

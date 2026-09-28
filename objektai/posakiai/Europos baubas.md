@@ -57,3 +57,4 @@ Gotai, kurie ligi tol buvo Eu ropos baubas, baisiai išsigando.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

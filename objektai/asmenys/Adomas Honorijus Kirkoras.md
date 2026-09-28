@@ -51,3 +51,4 @@ canonical_biography: 'Šį faktą patvirtina ir keletas juodraštinių laiškų,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

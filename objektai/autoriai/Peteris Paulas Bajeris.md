@@ -98,3 +98,4 @@ Peteris Paulas Bajeris 2011 m. išleistoje monografijoje apie škotų bendruomen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

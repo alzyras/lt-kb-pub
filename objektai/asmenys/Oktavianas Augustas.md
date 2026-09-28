@@ -144,3 +144,4 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

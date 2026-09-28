@@ -89,3 +89,4 @@ Hanna Krauze kartu su Jerzy Łojeku išryškino tuometinio diplomatinės atstovy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

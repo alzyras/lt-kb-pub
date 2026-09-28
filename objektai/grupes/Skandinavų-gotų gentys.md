@@ -41,3 +41,4 @@ Skandinavų-gotų gentys iš Vyslos žemupio ir šiauriau esančių kraštų jud
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

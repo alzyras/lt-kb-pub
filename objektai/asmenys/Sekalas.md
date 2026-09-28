@@ -125,3 +125,4 @@ Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213118
+

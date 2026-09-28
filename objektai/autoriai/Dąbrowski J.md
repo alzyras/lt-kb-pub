@@ -77,3 +77,4 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

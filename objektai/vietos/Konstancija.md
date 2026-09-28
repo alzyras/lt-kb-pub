@@ -257,3 +257,4 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

@@ -80,3 +80,4 @@ Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

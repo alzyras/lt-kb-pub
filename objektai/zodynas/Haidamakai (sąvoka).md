@@ -69,3 +69,4 @@ Kazimieras Michalovskis ir A. Jaroševskis K. Venglevskio ir Pranciškaus Posach
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

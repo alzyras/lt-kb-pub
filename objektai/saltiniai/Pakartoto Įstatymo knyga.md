@@ -123,3 +123,4 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

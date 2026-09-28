@@ -258,3 +258,4 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208019
+

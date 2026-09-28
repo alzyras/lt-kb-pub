@@ -68,3 +68,4 @@ Valstybėje jau buvo tapę norma, kad į Vilnių, į valstybės seimus, po 1569 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

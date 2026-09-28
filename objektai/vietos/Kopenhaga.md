@@ -141,3 +141,4 @@ Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209627
+

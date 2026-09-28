@@ -95,3 +95,4 @@ Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

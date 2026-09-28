@@ -123,3 +123,4 @@ Narbutas nurodo, kad Naborovskis 1629 m. minėjo Lietuvoje žinotą Gedimino kap
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216715
+

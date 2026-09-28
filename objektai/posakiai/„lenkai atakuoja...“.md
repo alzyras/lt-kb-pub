@@ -83,3 +83,4 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
   temporalinis_llm_pakomentavimas: "Sutrumpinta ir pašalinta perteklinė citatos dalis."
   pagrindžia:
     - c-23635
+

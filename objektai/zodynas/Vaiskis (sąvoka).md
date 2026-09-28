@@ -67,3 +67,4 @@ Bajorams išjojus į karą, paviete prižiūrėti tvarkos likdavo kitas pavieto 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

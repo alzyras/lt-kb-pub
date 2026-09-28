@@ -122,3 +122,4 @@ Narbutas Agatemerą pateikia kaip senovės graikų rašytojų pavyzdį, maniusi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

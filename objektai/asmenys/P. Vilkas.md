@@ -71,5 +71,6 @@ canonical_biography: "1943 m. spalio 2 d. P. Vilkas išvyko į Pandėlį ir buvo
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

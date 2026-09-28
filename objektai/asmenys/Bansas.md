@@ -142,3 +142,4 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

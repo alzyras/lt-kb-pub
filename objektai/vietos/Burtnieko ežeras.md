@@ -80,3 +80,4 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

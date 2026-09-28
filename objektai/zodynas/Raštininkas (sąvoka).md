@@ -79,3 +79,4 @@ Jonas Kojalavičius 1604 m. buvo išrinktas Kauno suolininkų prisiekusiuoju ra�
   atnaujinta: "2026-07-26 21:24"
   pagrindžia:
     - t-001
+

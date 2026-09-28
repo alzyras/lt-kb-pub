@@ -91,3 +91,4 @@ Kortos, romanai, garderobai - tokios yra jų dorybės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

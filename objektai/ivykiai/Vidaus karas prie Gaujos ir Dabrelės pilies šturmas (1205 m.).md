@@ -88,3 +88,4 @@ Prie Gaujos upės (tai dabar turėtų būti vadinamoji Aa), susivieniję su žem
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

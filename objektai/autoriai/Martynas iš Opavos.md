@@ -106,3 +106,4 @@ Martynas iš Opavos buvo čekų vienuolis, gyvenęs ir veikęs Prahoje bei Romoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

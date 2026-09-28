@@ -95,3 +95,4 @@ Stanislovas Pšezdeckis buvo Smolensko pilies teisėjas. Jį protegavo LDK refer
   pagrindžia:
     - t-001
     - t-002
+

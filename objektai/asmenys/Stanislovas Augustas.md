@@ -350,3 +350,4 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

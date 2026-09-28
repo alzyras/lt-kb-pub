@@ -115,3 +115,4 @@ Lenkijos kariaunai perėjus per Belipai žemę, Jurgis Narimantaitis, valdęs j�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

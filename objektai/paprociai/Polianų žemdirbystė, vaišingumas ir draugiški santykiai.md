@@ -74,3 +74,4 @@ Vėliau toje Ukrainos dalyje apsigyveno tiveriečių ainiai polianai, ku rie ver
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

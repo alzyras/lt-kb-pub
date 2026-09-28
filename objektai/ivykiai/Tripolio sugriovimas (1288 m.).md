@@ -81,3 +81,4 @@ Tripolyje gyvenę krikščionys buvo paimti į nelaisvę arba nužudyti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

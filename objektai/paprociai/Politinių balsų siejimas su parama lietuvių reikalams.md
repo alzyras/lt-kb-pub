@@ -79,3 +79,4 @@ Senatoriai klausinėdavo, kiek jų valstijose yra naturalizuotų lietuvių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

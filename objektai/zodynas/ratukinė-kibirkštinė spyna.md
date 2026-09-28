@@ -69,3 +69,4 @@ pradžioje buvo sukurta ratukinė-kibirkštinė spyna.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

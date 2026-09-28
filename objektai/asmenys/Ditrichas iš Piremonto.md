@@ -77,3 +77,4 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

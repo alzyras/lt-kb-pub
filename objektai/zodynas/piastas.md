@@ -103,3 +103,4 @@ reikalavo atmesti „piasto" kandidatūrą (piastu tada buvo vadinamas kiekviena
   pagrindžia:
     - t-001
     - t-002
+

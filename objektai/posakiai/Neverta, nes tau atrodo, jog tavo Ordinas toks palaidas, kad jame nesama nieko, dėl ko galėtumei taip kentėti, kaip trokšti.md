@@ -140,3 +140,4 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

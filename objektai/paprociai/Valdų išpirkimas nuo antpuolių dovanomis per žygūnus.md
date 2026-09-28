@@ -108,3 +108,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Jurgos veiksmą ir rezultatą."
   pagrindžia:
     - c-169287
+

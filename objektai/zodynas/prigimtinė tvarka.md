@@ -83,3 +83,4 @@ Net] jeigu tektų vertinti nuo visuomenės atsiskyrus] žmogų, kuris būtų pas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

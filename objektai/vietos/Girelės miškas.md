@@ -55,3 +55,15 @@ Birželio 13 d. Girelės miške žuvo Algirdas Laužikas, Petras Juodiškis ir M
   patikimumo_saltinis: ai
   statusas: verified
 - t-002
+
+## Citatos
+
+- id: c-214648
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 60"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 60."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-09-28 18:24"
+

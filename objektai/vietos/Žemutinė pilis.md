@@ -114,3 +114,4 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

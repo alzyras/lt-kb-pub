@@ -2100,3 +2100,4 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

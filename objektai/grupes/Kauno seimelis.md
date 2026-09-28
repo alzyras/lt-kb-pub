@@ -80,3 +80,4 @@ Simonas Sirutis ir Antanas Zabiela susitarė nežlugdyti Kauno seimelio.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

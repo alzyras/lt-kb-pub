@@ -80,3 +80,4 @@ Uždrausdamas bajoro valstiečiams išsikelti, perduo­ damas juos ir teismo at�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

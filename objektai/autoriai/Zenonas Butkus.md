@@ -97,3 +97,4 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
   temporalinis_llm_pakomentavimas: "Pradinis tekstas yra padėkos fragmentas, citata remia glaustą teiginį apie vaidmenį."
   pagrindžia:
     - c-22210
+

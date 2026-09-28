@@ -517,3 +517,4 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+

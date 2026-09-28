@@ -672,3 +672,4 @@ Narbutas rašo, kad Hartknochas pagal senus duomenis šventąjį mišką lokaliz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

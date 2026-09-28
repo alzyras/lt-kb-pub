@@ -105,3 +105,4 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

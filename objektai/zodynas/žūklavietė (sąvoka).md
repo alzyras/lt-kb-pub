@@ -63,3 +63,4 @@ Kai kurie bėgo slėp tis į savo žūklavietes ir ten, saloje, ėmė kurtis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -73,3 +73,4 @@ Tai buvo du akmenys, gulintys vienas ant kito ir taip apdo roti, kad tarp jų su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

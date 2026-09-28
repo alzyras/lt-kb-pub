@@ -80,3 +80,4 @@ canonical_biography: "1788 m. Jonas Tarantovičius su Konkordija Tarantovičiene
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

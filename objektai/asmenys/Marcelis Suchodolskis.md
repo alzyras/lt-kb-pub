@@ -91,3 +91,4 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

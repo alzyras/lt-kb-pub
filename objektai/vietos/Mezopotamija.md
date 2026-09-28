@@ -74,3 +74,4 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

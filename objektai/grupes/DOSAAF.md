@@ -62,3 +62,4 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

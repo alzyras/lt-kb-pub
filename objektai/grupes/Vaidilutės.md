@@ -107,3 +107,4 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

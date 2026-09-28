@@ -148,3 +148,4 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

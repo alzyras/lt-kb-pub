@@ -75,3 +75,4 @@ canonical_biography: "183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

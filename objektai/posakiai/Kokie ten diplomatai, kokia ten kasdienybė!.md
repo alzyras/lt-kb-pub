@@ -77,3 +77,4 @@ Kokie ten diplomatai, kokia ten kasdienybė!
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

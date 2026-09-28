@@ -132,3 +132,4 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

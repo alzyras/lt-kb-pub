@@ -96,3 +96,4 @@ Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216442
+

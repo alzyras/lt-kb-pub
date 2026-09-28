@@ -119,3 +119,4 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -32,7 +32,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Bronė Burkauskienė"]
 sameAs: []
-canonical_biography: "Bronė Burkauskienė (Šimonys, 1955–1989)."
+canonical_biography: "."
 ---
 # Bronė Burkauskienė
 
@@ -70,5 +70,6 @@ Bronė Burkauskienė dirbo bibliotekininke Šimonyse 1955–1989 m.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

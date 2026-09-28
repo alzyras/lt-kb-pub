@@ -244,3 +244,4 @@ Vilniaus pilies teismo knygos liudija apie parinktų teisėjų įrašus. Vilniau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

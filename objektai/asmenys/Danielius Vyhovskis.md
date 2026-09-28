@@ -89,3 +89,4 @@ Danielius Vyhovskis yra Minsko kaštelionas ir A. K. Sapiegos uošvis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -171,3 +171,4 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

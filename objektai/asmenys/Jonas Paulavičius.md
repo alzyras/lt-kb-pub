@@ -72,3 +72,4 @@ Tai parapinės bažnyčios mokykla, su ja sietinas 1537 m. Kaune žinomas Jonas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

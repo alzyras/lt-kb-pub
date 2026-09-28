@@ -49,3 +49,4 @@ Narbutas Dugnę aiškino kaip upinę nimfą, dar vadinamą Gudelka, ir atmetė L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -70,3 +70,4 @@ canonical_biography: "1560 m. Petro Miklaševskio kuopai, kurią sudarė 100 kar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

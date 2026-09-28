@@ -165,3 +165,4 @@ Narbutas aitvarą aiškino kaip paleistuvavimo dievaitį arba inkubą, kuris už
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

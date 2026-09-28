@@ -76,3 +76,4 @@ Iš Karnunto prie Dunojaus į gintaro pakrantes buvo išsiųstas kilmingas romė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -48,3 +48,4 @@ Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

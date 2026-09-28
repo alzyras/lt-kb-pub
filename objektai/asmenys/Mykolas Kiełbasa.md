@@ -73,3 +73,4 @@ Vadas (Mykolas Kiełbasa) atsakęs, kad dabar ne laikas esąs karalių gelbėti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

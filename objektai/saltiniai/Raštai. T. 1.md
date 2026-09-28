@@ -88,3 +88,4 @@ Kojelavičius teigė, kad po Liublino unijos Lietuva liko federacinė valstybė,
   vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176213
+

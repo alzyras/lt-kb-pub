@@ -110,3 +110,4 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

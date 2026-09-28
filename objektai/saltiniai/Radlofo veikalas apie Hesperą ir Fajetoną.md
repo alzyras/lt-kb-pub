@@ -169,3 +169,4 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

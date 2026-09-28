@@ -130,3 +130,4 @@ canonical_biography: "1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišk�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207496
+

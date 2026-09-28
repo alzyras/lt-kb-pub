@@ -93,3 +93,4 @@ Antras davadąs lietuvių ir žemaičių galybės, jog visi tie kra štai, kuria
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

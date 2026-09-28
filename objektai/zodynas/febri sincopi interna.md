@@ -78,3 +78,4 @@ Kadangi Viešpats Dievas vakar, prieš pirmą valandą nakties, paėmė mums iš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

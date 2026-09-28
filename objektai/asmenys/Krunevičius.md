@@ -212,3 +212,4 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad 1302 metais Gediminas suteikė he
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216325
+

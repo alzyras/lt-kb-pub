@@ -107,3 +107,4 @@ Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių. Medž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

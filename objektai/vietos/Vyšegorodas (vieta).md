@@ -73,3 +73,4 @@ Kijevo priemiesčiai—Vyšegorodas IS, Čer kasai l6, Kanevas l7, Putivlis l8, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

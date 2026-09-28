@@ -100,3 +100,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo sugadintas fragmentas, citata remia aiškų faktą apie LDK savarankiškas institucijas."
   pagrindžia:
     - c-22229
+

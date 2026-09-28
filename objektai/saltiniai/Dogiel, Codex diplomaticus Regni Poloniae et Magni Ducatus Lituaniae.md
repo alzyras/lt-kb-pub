@@ -97,3 +97,4 @@ Motiejaus Dominiko Dogelio „Codex diplomaticus Regni Poloniae et Magni Ducatus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

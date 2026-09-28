@@ -146,3 +146,4 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-224724
+

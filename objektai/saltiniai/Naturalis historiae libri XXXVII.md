@@ -66,3 +66,4 @@ Enciklopedinis rašytojas, Romos imperijos karininkas Plinijus Se­ nesnysis (23
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

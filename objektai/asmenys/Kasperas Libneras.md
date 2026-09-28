@@ -74,3 +74,4 @@ canonical_biography: "1528 m. Žygimantas Senasis nurodė Birštono vietininkui,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

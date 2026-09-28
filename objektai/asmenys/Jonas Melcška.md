@@ -95,3 +95,4 @@ Jonas Melcška buvo Gardino pavieto stalininkas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

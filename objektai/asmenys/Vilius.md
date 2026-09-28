@@ -98,3 +98,4 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

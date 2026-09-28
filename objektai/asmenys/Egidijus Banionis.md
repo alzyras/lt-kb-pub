@@ -134,3 +134,4 @@ Egidijus Banionis pradėjo, bet neužbaigė Lietuvos Didžiosios Kunigaikštyst�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -74,3 +74,4 @@ Konstitucija. Konstitucija nustatė Lietuvos valstybei demokratinės respublikos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

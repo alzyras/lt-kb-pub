@@ -75,3 +75,4 @@ Tur būt, su Vaišvilko žinia ir pritarimu, buvę Mindaugo dvariškiai-arklinin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

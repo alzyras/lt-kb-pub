@@ -96,3 +96,4 @@ Narbutas nurodo, kad Henrikas Leo „Die Malbergische Glosse“ marienburgiškai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

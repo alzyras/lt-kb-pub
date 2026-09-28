@@ -67,3 +67,4 @@ Narbutas nurodo, kad Gardino aprašymas turėtų būti veikale „Gaspari Ens. D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

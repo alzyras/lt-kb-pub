@@ -139,3 +139,4 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

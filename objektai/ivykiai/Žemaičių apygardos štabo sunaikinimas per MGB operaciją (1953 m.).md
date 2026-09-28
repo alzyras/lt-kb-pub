@@ -80,5 +80,6 @@ Per 1953 m. rugpjūčio 23–27 d. MGB operaciją Žemaičių apygardos štabo b
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

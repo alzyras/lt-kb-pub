@@ -55,3 +55,4 @@ Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas pan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -98,3 +98,4 @@ Juozas Žiugžda aiškino kilmingųjų luomo susiformavimą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

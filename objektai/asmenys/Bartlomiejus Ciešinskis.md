@@ -63,3 +63,4 @@ Kauno klebonas Bartlomiejus Ciešinskis pasinaudodamas proga išprašė iš ižd
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

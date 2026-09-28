@@ -54,3 +54,4 @@ Cezaris Ripa pas Antonijų Bosiją matė Romoje atkastą senovinę Kanopo Serapi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

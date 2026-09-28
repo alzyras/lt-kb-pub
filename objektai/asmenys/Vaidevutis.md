@@ -601,3 +601,4 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217482
+

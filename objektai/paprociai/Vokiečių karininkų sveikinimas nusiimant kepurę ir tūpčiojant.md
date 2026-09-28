@@ -85,3 +85,4 @@ Suvalkų gubernijos žmonės, mokiniai ir kunigai privalėjo sveikinti vokieči�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

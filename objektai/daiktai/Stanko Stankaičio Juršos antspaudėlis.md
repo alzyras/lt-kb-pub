@@ -74,3 +74,4 @@ Apvalus antspaudėlis iš Kazimiero Jogailaičio laikų priklausė Stankui Stank
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

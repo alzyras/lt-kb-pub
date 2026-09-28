@@ -77,3 +77,4 @@ Karaliavimo pradžioje, kaip nurodoma šaltinyje, valdovas į Lietuvą kartais v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

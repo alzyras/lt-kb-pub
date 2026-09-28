@@ -112,3 +112,4 @@ Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

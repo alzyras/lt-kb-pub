@@ -120,3 +120,4 @@ Uzos upė įteka į Sožą truputį žemiau Gomelio. Apie 1447 m. Švitrigaila g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211366
+

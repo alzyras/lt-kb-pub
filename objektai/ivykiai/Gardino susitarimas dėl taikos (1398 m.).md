@@ -92,3 +92,4 @@ Pasak Teodoro Narbuto, parengiamojoje taikos sutartyje Vytautas įsipareigojo Or
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

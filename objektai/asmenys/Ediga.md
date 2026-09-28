@@ -122,3 +122,4 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

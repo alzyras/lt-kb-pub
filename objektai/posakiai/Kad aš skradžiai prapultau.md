@@ -99,3 +99,4 @@ Savęs prakeikimo formulė, skirta priesaikai sutvirtinti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

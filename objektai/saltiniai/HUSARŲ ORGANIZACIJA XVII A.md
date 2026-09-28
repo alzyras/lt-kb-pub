@@ -62,3 +62,4 @@ p. 98, „HUSARŲ ORGANIZACIJA XVII A.“, Andžej Geglis, Karolis Zikaras.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

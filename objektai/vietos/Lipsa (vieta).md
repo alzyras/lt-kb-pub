@@ -72,3 +72,4 @@ Liubeko pirklių pa statytas uostas, vadinamas Lipsa, ir daug kitų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

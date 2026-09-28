@@ -65,3 +65,4 @@ Kęstučio sūnūs, išskyrus Vytautą ir Žygimantą, išvyko svetur, o Teodora
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

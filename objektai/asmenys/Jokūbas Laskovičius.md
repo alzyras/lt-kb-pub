@@ -119,3 +119,4 @@ Lasickis nurodė, kad Žemaičių kunigaikštystės valdininkas Jokūbas Laskovi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217013
+

@@ -110,3 +110,4 @@ Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -103,3 +103,4 @@ Narbutas Romos katalikų bažnyčios dvasininkijai Lenkijoje ir Lietuvoje prisky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

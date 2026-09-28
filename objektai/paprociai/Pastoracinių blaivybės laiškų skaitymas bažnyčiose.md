@@ -79,3 +79,4 @@ Vyskupas Motiejus Valančius blaivybę skelbė pastoraciniais laiškais, kurie b
   vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
     - c-191465
+

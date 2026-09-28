@@ -80,3 +80,4 @@ Vincento kyšulio iki Vakarų Prancūzijos ir Pietų Anglijos krantų, nes šis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

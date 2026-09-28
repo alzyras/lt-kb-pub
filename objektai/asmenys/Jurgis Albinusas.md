@@ -70,3 +70,4 @@ canonical_biography: "1565 m. Kauno muitininkai ir mokesčių rinkikai žydai sk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

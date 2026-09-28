@@ -92,3 +92,4 @@ Nors Kaunas bendravalstybinėse paliaubų ir taikos sutartyse atskirai neminimas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

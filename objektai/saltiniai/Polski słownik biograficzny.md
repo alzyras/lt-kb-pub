@@ -79,3 +79,4 @@ Polski słownik biograficzny cituojamas dėl Jono Goštauto pirmojo figūravimo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

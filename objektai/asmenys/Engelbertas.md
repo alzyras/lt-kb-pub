@@ -148,3 +148,4 @@ Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa ti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

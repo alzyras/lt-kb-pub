@@ -116,3 +116,4 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-222578
+

@@ -136,3 +136,4 @@ Narbutas turėjo omenyje geografo ir kartografo G. Brauno 1541–1622 m. sudaryt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

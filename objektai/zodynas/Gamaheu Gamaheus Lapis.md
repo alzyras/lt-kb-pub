@@ -102,3 +102,4 @@ Narbutas Gamaheu, arba Gamaheus Lapis, vadina gamtos pavidalais išsiskiriančiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

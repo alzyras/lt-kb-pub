@@ -97,3 +97,4 @@ Rukainiai minimi kaip bažnyčios vieta, kuriai kadaise priklausęs Švč. M. Ma
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

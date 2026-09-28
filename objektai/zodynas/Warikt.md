@@ -120,3 +120,4 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
   pagrindžia:
     - t-001
     - t-002
+

@@ -130,3 +130,4 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

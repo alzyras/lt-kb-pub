@@ -69,3 +69,4 @@ Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems Lietuvos didikams
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

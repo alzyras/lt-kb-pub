@@ -107,3 +107,4 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

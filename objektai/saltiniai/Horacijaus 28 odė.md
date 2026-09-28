@@ -52,3 +52,4 @@ Narbutas Horacijaus 28 odę mini kaip kūrinį, kuriame kalbama apie filosofo Ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

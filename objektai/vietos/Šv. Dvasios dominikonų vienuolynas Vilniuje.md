@@ -115,3 +115,4 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

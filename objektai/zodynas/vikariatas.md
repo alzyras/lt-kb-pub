@@ -73,3 +73,4 @@ Livonijos Ordinas puolė dar Vytautą, pavy­ dėdamas jam popiežiaus suteikto 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

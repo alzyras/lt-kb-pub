@@ -78,3 +78,4 @@ Numa ir Derska, susitikę lietuvių kariuomenę, išžudė lietuvius ir išsigab
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

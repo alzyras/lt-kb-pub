@@ -66,3 +66,4 @@ Tam buvo reikalinga tvirta, net plieninė ran­ ka, didelis protas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

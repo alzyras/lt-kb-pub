@@ -59,3 +59,4 @@ Prie Juodosios jūros gyvenusi antų gentis Peutingerio žemėlapyje vadinama ve
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

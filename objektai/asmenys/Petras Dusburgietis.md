@@ -1142,3 +1142,4 @@ Narbutas nurodo, kad Petras Dusburgietis pridūrė, jog krikščionims nebuvo le
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

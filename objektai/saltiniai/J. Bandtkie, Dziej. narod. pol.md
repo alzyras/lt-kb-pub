@@ -55,3 +55,4 @@ Kaipogi kol pamarionys buvo pagonimis, tol Lietuvos giminės juos 1 J, B a n d t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

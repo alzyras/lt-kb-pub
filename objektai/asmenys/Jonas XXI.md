@@ -83,3 +83,4 @@ Dusburgietis teigia, kad apie Joną XXI, popiežių, ir karalių Rudolfą, Romos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

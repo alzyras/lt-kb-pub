@@ -91,3 +91,4 @@ Draugijos prezidentas Stašicas 1820 m. lapkričio 22 d. pranešė, kad figūrė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

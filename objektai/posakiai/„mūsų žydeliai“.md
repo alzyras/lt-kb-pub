@@ -74,3 +74,4 @@ Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dė
   semantiniai_rysiai: "Žydai gyveno Lietuva (0.86); Žydai prekiavo su Lietuviai (0.78)"
   pagrindžia:
     - c-23646
+

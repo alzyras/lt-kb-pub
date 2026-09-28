@@ -78,3 +78,4 @@ Brakteatas yra auksinis ir maždaug pusantro colio skersmens.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

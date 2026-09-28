@@ -96,3 +96,4 @@ Prie Goplo ežero buvo atkastas deivės Laimos stabas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

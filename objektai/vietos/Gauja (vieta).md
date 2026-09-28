@@ -112,3 +112,4 @@ Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietov
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

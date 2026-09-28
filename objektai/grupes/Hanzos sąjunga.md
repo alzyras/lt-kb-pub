@@ -119,3 +119,4 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

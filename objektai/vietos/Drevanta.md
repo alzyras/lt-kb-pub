@@ -289,3 +289,4 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214048
+

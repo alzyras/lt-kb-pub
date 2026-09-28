@@ -65,3 +65,4 @@ Klebonas, tik neaišku kuris ir kada, karčemą perstatė ir įrengė kleboniją
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

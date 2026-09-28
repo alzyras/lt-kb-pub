@@ -57,3 +57,4 @@ Vardan bendros tėvynės gerovės lietuviai prašė paskirti Simoną Olelkaitį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

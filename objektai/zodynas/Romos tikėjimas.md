@@ -219,3 +219,4 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

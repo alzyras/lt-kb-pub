@@ -62,3 +62,4 @@ Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

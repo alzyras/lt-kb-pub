@@ -247,3 +247,4 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

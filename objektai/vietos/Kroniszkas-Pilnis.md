@@ -104,3 +104,4 @@ Narbutas rašė, kad už Tilžės prie Sancinės buvęs piliakalnis vietinių va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

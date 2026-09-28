@@ -93,3 +93,4 @@ Jonas Basanavičius rodomas kaip vienas svarbiausių lietuvių tautinio sąjūd�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

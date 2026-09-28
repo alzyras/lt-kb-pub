@@ -70,3 +70,4 @@ Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­ gaikščio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

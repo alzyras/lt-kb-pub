@@ -72,3 +72,4 @@ Kalnis, kitaip Kalniki, buvo miestelis prie Supo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

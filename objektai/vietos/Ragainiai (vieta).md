@@ -73,3 +73,4 @@ Ragainiai buvo prie Romintės girios pietinio pakraščio.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

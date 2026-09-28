@@ -140,3 +140,4 @@ Centralinis komitetas iš Petrogrado atsiuntė Augštuoliui 8000 kronų. Jonas A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

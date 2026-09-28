@@ -61,3 +61,4 @@ Vyrauja tuščias pasididžia vimas senoliais, o protėvių istorijai paprasčia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

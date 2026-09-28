@@ -76,3 +76,4 @@ Vilniečiai, išėję su žmonomis ir vaikais už miesto, pasitinka didįjį ku 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

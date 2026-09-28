@@ -105,3 +105,4 @@ Dusburgietis teigia, kad gardolfas sušakosiąs ir ateityje duosiąs gausybę va
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

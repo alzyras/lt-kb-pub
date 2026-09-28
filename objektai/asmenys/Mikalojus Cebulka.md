@@ -77,3 +77,4 @@ Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

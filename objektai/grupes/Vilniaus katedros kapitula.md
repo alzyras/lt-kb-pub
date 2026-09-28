@@ -136,3 +136,4 @@ Vilniaus katedros kapitula buvo kolegiali dvasininkijos institucija, telkusi vys
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

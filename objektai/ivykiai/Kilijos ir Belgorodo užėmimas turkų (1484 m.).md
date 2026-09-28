@@ -80,3 +80,4 @@ Kilija ir Belgorodas buvo turkų užimti 1484 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -76,3 +76,4 @@ Kai kurie istorikai Šv. Teresės, arba Aušros Vartų, bažnyčią priskiria Co
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

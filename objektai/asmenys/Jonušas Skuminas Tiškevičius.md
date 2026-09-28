@@ -71,3 +71,4 @@ Apie jo kelionės rezultatus nežinoma, bet jis prisimintas, kai 1611 m. seimas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

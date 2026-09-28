@@ -130,3 +130,4 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

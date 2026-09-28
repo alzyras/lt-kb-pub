@@ -49,3 +49,4 @@ Dusburgietis teigia, kad [Prätorius M.] Praetorio M.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

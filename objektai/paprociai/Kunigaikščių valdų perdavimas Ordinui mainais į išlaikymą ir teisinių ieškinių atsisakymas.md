@@ -78,3 +78,4 @@ Dusburgietis pasakoja, kad Vartislavas įstojo į Teutonų ordiną ir jam tekusi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

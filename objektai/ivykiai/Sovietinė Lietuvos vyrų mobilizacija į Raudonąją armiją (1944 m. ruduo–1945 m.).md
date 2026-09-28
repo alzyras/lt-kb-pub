@@ -93,3 +93,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūksta, todėl reikia užbaigtos ir glaustesnės formuluotės."
   pagrindžia:
     - c-23222
+

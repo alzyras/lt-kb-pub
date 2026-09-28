@@ -92,3 +92,4 @@ Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

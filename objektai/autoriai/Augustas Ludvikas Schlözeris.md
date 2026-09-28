@@ -130,3 +130,4 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   pagrindžia:
     - t-001
     - t-002
+

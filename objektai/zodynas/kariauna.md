@@ -102,3 +102,4 @@ Lietuvos valstybė atsirado pirmiausia kaip apsigynimo priemonė, tačiau ji tur
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210871
+

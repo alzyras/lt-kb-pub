@@ -94,3 +94,4 @@ Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio i
   pagrindžia:
     - t-001
     - t-002
+

@@ -90,3 +90,4 @@ Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

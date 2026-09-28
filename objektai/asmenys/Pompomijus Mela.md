@@ -145,3 +145,4 @@ Narbutas manė, kad Pompomijus Mela galbūt nesilankė prie Baltijos, bet galėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

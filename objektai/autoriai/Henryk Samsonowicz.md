@@ -95,3 +95,4 @@ Henryk Samsonowicz teigė, kad Abiejų Tautų Respublika davė Europai duoną, t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

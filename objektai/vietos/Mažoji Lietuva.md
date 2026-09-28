@@ -548,3 +548,4 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

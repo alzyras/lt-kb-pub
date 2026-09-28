@@ -87,3 +87,4 @@ Dusburgietis pasakoja, kad 1190 m. krikščionys, apsiautę Akono miestą, jį a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

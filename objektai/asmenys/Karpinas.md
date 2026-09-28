@@ -114,3 +114,4 @@ Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

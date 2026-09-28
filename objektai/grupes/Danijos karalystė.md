@@ -112,3 +112,4 @@ Pasak Narbuto, XIII a. pradžioje Danijos karalystė kai kuriuos lietuvių gyven
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

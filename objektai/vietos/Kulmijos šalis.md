@@ -75,3 +75,4 @@ Daugiausia buvo varginama Kulmijos šalis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

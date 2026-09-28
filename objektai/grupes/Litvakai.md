@@ -283,3 +283,4 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   pagrindžia:
     - t-002
     - t-006
+

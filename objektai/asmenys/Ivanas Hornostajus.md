@@ -71,3 +71,4 @@ Maras Kauną ištiko 1531 m. Kaip sakoma 1532 m. Žygimanto Senojo rašte žemė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

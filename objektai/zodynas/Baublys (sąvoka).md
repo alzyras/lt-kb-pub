@@ -65,3 +65,4 @@ Tokį ąžuolą vadindavo Baubliu (Baublis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

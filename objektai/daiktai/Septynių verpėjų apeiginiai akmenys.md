@@ -111,3 +111,4 @@ Akmeninis aptvaras galėjo sudaryti taisyklingo stačiakampio arba elipsės form
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -90,3 +90,4 @@ Narbutas rašo, kad Amianas Marcelinas apie 378 m. prisiminė arimfėjų tautą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

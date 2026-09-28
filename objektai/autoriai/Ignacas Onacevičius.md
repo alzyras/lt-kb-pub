@@ -570,3 +570,4 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

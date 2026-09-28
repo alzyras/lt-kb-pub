@@ -48,3 +48,4 @@ Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

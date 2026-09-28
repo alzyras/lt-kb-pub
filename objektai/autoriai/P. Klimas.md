@@ -283,3 +283,4 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomybÄ
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -323,3 +323,4 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211712
+

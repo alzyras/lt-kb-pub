@@ -213,3 +213,4 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

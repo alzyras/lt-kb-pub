@@ -79,3 +79,4 @@ Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

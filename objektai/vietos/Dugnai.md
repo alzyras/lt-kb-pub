@@ -58,3 +58,4 @@ Narbutas Dugnus savo kaimelyje aprašė kaip vietą šlapiose pievose, kadaise u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

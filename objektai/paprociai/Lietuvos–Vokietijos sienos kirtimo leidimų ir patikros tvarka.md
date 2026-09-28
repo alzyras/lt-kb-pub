@@ -82,3 +82,4 @@ Karo metu be ypatingo Hindenburgo leidimo nebuvo galima įvažiuoti Lietuvon ar 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -81,3 +81,4 @@ Dusburgietis teigia, kad samland: Ein Wegweiser für den Strand und das Innere/ 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

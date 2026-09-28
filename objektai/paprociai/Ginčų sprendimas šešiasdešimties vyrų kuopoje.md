@@ -122,3 +122,4 @@ Tačiau, kai nu skriaustoji pusė nenorėjo eiti į derybas, tada abi pusės sto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

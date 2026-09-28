@@ -87,3 +87,4 @@ Narbutas nurodė nuomonę, kad pirštukai (Pirsztuki) taip vadinti nuo žodžio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

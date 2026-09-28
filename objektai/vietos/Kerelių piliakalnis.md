@@ -102,3 +102,4 @@ Apatiniame Kerelių piliakalnio kultūriniame sluoksnyje rasti akmens ir kaulo d
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-002
+

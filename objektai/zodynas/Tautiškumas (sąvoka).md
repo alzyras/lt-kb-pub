@@ -69,3 +69,4 @@ Ne į latvius, kurie yra lyvių-lietuvių šaka, bet į vi durio lietuvius, ¡ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

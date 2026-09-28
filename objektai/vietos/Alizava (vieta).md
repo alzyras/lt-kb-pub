@@ -39,7 +39,7 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Alizava","Alizava (vieta)"]
 sameAs: []
-canonical_biography: "Kupiškio parapijai priklausė trys filijos Alizava, Palėvenė ir Šimonys. Kun. Kazimieras Mockus buvo Alizavos klebonas. Kupiškio dekanato kunigų konferencijos vyko ir Alizavos parapijos patalpose."
+canonical_biography: ". Kun. Kazimieras Mockus buvo Alizavos klebonas. Kupiškio dekanato kunigų konferencijos vyko ir Alizavos parapijos patalpose."
 place_authority: true
 historical_names: []
 ---
@@ -141,3 +141,4 @@ Kupiškio parapijai priklausė trys filijos: Alizava, Palėvenė ir Šimonys. Ku
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

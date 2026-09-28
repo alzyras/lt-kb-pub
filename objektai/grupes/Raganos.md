@@ -47,3 +47,4 @@ Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai ragan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

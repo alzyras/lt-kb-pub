@@ -79,3 +79,4 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

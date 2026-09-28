@@ -92,3 +92,4 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

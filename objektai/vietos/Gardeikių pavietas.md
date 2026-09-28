@@ -86,3 +86,4 @@ Brandenburgo komtūrui Konradui Lichtenhagenui buvo pavesta trimis dienomis anks
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

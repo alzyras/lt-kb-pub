@@ -86,3 +86,4 @@ Kijevo vaivada tą pačią dieną prisiekė Karūnai ir užėmė vietą Karūnos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

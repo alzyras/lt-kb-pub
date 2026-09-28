@@ -283,3 +283,4 @@ Dionyzas iš Charakso I a. minėjo roksolanus kaip alanams giminingus kaimynus V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213149
+

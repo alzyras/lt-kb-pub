@@ -91,3 +91,4 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -62,3 +62,4 @@ Jonas išjojo į Naugardą, kad išvaduotų nuo nelaimės Polocko ponus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

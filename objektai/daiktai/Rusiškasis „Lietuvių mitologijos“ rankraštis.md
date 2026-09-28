@@ -73,3 +73,4 @@ Rankraštis saugomas Lietuvos Mokslų Akademijos bibliotekos Rankraščių skyri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

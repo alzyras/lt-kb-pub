@@ -76,3 +76,4 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

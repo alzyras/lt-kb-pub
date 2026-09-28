@@ -72,3 +72,4 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

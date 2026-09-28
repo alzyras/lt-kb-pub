@@ -94,3 +94,4 @@ Dusburgietis teigia, kad włodarski В.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -2516,3 +2516,4 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-224482
+

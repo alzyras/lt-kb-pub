@@ -85,3 +85,4 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

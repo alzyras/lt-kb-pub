@@ -114,3 +114,4 @@ Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

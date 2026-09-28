@@ -110,3 +110,4 @@ Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

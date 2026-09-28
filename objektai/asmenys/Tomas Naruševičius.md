@@ -97,3 +97,4 @@ Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pirmiausia
   pagrindžia:
     - t-001
     - t-002
+

@@ -61,3 +61,4 @@ Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

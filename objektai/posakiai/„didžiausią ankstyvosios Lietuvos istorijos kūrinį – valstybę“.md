@@ -84,3 +84,4 @@ Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai daugiausia
   pagrindžia:
     - t-001
     - t-002
+

@@ -125,3 +125,4 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

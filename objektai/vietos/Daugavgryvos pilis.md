@@ -83,3 +83,4 @@ Kai ordinui pa­ vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

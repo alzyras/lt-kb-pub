@@ -61,3 +61,4 @@ Gomerus jis vadina himerais, Gogas ir Magogas, jo nuo mone, yra senovės S k i t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

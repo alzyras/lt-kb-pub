@@ -82,3 +82,4 @@ Ružancovo vadovaujama „Jiezno ypatingoji rinktinė“, sudaryta iš 3 kuopų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

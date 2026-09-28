@@ -83,3 +83,4 @@ Nikolajaus Repnino nurodymu buvo padengta pasiuntinio skola.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

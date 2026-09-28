@@ -73,3 +73,4 @@ Nu­ puolusį (Kökeritz) karaliaus palydovai nužudė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

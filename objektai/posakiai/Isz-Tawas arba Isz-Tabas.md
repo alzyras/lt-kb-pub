@@ -95,3 +95,4 @@ Narbutas kalbinę formuluotę sieja su tėvo kilmės aiškinimu ir iš jos išve
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

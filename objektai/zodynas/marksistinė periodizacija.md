@@ -157,3 +157,4 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

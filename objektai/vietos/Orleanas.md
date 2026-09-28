@@ -121,3 +121,4 @@ Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

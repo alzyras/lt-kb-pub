@@ -61,3 +61,4 @@ Ištrauka iš Karolio Riterio (Die Vorhalle Europäischer Völker geschichten.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

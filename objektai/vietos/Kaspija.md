@@ -111,3 +111,4 @@ Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

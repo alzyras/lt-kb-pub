@@ -115,3 +115,4 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

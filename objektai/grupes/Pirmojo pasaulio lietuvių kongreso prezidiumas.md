@@ -71,3 +71,4 @@ Pirmojo pasaulio lietuvių kongreso prezidiumas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

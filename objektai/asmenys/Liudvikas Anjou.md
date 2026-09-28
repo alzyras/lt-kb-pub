@@ -75,3 +75,4 @@ Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas Anjou, Lenk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

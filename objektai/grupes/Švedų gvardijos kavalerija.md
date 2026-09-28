@@ -107,3 +107,4 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -59,3 +59,4 @@ Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi nosi Liber filio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

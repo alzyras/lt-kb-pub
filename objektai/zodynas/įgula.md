@@ -211,3 +211,4 @@ Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

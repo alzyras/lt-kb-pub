@@ -89,3 +89,4 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

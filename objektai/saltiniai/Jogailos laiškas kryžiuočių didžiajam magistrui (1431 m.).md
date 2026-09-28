@@ -62,3 +62,4 @@ Kad prie Jogailos ir jo dvariškių lenkų buvo pastatyta sar gyba, rašė vėli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

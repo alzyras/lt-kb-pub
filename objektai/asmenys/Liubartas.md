@@ -888,3 +888,4 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210702
+

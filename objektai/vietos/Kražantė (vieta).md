@@ -72,3 +72,4 @@ Medziojnos šventykla šaltinyje lokalizuojama Kražantės upės kairiajame kran
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

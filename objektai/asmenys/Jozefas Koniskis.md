@@ -83,3 +83,4 @@ canonical_biography: "Koniskio inicijuotas statybas Mogiliave."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

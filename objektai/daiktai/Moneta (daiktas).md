@@ -113,3 +113,4 @@ Padavimas skelbia, jog kažkada čia gyve no Nadruvą valdęs kunigaikštis Kami
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

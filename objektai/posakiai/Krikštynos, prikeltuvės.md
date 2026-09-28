@@ -77,3 +77,4 @@ Minios šūksnis, kai bematant sutvarko pastotą vežimą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -63,3 +63,4 @@ Gėrimo iš vienos taurės paprotys XVII–XVIII a. LDK bajorijos kultūroje ana
   atnaujinta: "2026-07-26 20:29"
   pagrindžia:
     - t-001
+

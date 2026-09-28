@@ -90,3 +90,4 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje nurodytą komiteto poziciją bei siekį."
   pagrindžia:
     - c-24889
+

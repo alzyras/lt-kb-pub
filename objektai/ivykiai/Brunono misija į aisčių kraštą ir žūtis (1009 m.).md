@@ -119,3 +119,4 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

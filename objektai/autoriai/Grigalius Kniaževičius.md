@@ -96,3 +96,4 @@ Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atlik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

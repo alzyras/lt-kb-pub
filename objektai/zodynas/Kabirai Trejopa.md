@@ -286,3 +286,4 @@ Narbutas Kabirų ritualą apibūdina kaip paslaptingą ir priskiria jį egiptie�
   pagrindžia:
     - t-217518
     - t-219593
+

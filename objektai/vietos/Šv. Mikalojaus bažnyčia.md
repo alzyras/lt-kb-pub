@@ -63,3 +63,4 @@ Rytinėje miesto dalyje matome dar 3 bažnyčias.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

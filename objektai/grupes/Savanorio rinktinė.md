@@ -74,3 +74,4 @@ Po rinktinės vado suėmimo J.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

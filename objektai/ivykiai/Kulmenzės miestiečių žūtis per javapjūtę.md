@@ -73,3 +73,4 @@ Prūsai per javapjūtę užpuolė Kulmenzės miestiečius.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

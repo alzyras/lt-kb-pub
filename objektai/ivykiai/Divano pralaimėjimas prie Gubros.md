@@ -95,3 +95,4 @@ Broliai prie Gubros upės nukovė Dabarą ir visus jo žmones.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

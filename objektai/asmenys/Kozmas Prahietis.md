@@ -57,3 +57,4 @@ Narbutas Kozmui Prahiečiui priskiria šventojo Adalberto biografiją, kurioje S
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

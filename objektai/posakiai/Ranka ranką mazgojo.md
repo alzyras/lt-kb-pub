@@ -71,3 +71,4 @@ Basanavičius posakį „Ranka ranką mazgojo“ siejo su padėtimi, kai ūkinin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

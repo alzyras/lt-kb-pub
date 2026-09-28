@@ -80,3 +80,4 @@ Labai stipraus laukimo ar troškimo palyginimas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

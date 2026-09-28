@@ -62,3 +62,4 @@ Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, pers
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

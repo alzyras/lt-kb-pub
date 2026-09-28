@@ -112,3 +112,4 @@ Ordino rašte Vytautui ordinas įsipareigojo padėti atsiimti tėvo valstybę ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

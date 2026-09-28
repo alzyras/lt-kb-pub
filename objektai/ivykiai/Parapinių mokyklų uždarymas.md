@@ -79,3 +79,4 @@ Parapinių mokyklų uždarymas 1863 m., P. Puzaro vertinimu, buvo rimtas smūgis
   vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
   pagrindžia:
     - c-191406
+

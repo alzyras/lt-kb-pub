@@ -62,3 +62,4 @@ Narbutas Vidmantą iš Kuršo mini kaip švedų kilmės bartininką ir Gedimino 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

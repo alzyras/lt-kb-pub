@@ -190,3 +190,4 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

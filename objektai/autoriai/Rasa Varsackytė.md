@@ -72,3 +72,4 @@ Varsackytės Kauno miesto ir bažnyčios kultūrų sąveika XVI a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

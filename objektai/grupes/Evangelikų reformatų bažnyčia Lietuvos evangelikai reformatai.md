@@ -220,3 +220,4 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

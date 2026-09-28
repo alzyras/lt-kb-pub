@@ -226,3 +226,4 @@ Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

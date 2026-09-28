@@ -66,3 +66,4 @@ Jucevičius pataiso Strijkovskio formą į „Gegeite, begaite“ vietoje „Gin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

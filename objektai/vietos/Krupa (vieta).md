@@ -78,3 +78,4 @@ Nuo 1580 metų Lydos klebonai pasirašinėjo ir Lydos bei Krupos klebonais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

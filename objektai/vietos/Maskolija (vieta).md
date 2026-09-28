@@ -99,3 +99,4 @@ Pasak J. Basanavičiaus, J. Miklašis buvo sulaikytas pasienyje grįždamas į M
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

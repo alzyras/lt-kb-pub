@@ -72,3 +72,4 @@ Kojalavičius2, teigęs, kad polovieciai turi lietuvių kalbą, nuro do istorij�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

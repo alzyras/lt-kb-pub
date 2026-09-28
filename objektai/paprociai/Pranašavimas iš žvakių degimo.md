@@ -72,3 +72,4 @@ Pranašautojai liedavosi tam tikras žvakes ir pagal jų degimą bei dūmus kurd
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

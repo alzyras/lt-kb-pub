@@ -63,3 +63,4 @@ Pasidarė lyg našlė tautų valdovė, šalių kunigaikštienė virto baudžiaun
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

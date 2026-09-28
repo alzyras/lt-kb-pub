@@ -91,3 +91,4 @@ Norėdami, kad šis mūsų valios pareiški­ mas greičiau pasiektų žmones, �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

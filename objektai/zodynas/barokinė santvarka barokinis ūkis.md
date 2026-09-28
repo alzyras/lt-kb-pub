@@ -102,3 +102,4 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
   pagrindžia:
     - t-001
     - t-002
+

@@ -73,3 +73,4 @@ Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

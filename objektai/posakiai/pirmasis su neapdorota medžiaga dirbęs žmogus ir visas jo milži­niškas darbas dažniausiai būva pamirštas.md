@@ -59,3 +59,4 @@ Vadinasi, pirmasis su neapdorota medžiaga dirbęs žmogus ir visas jo milži ni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

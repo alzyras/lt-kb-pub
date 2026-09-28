@@ -80,3 +80,4 @@ Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

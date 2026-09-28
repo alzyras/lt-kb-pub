@@ -92,3 +92,4 @@ Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (frater
   pagrindžia:
     - t-001
     - t-002
+

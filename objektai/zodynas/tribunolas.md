@@ -286,3 +286,4 @@ Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

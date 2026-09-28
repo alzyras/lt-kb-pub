@@ -131,3 +131,4 @@ Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

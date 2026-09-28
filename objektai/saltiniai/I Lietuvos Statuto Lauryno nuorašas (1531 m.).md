@@ -85,3 +85,4 @@ Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra ver
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -62,3 +62,4 @@ XVI a. spiritus vinum mažomis dozėmis buvo vartojamas kaip vaistas.
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
   pagrindžia:
     - c-191919
+

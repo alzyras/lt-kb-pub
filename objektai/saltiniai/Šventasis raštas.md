@@ -155,3 +155,4 @@ Si tiesa tokia akivaiz di, kad aiškiai patvirtina tai, ką žinome iš padavim�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215214
+

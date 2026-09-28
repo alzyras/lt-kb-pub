@@ -67,3 +67,4 @@ Salyno taikos sutarties originalai neišliko, o Ordinas išleido reversinę suta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

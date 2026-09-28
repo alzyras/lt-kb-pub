@@ -360,3 +360,4 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

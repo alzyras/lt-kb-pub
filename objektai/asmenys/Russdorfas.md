@@ -81,3 +81,4 @@ Taip pat neužmiršo jo papra­ šyt, kad popiežius uždraustų Vytauto karūna
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -96,3 +96,4 @@ Abiejų Tautų iždo komisijos rezoliucijų protokole užfiksuotas pirmasis 1792
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

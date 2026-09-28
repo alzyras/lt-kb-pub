@@ -82,3 +82,4 @@ Tuo pačiu laiku, tai yra metuose 1112, Jarosla vas Svitopelkėlis, kunigaikšti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

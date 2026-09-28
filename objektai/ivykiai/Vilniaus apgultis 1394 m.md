@@ -85,3 +85,4 @@ Konradas Jungingenas sutiko su susitarimu, pagal kurį kryžiuočių kariauna ta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

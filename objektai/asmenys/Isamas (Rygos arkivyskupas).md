@@ -138,3 +138,4 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

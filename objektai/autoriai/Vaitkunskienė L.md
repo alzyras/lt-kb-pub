@@ -50,3 +50,4 @@ Dusburgietis teigia, kad vaitkunskienė L., Sidabras..., p. 10 ir kt.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

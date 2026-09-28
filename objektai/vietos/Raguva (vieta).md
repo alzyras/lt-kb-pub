@@ -34,7 +34,6 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Raguva","Raguva (vieta)"]
 sameAs: []
-canonical_biography: "1993 m. rugsėjo 22 d. jis buvo paskirtas Raguvos klebonu."
 place_authority: true
 historical_names: []
 ---

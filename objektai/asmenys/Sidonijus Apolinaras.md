@@ -60,3 +60,4 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

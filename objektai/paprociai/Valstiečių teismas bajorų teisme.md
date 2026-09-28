@@ -77,3 +77,4 @@ Valstiečius turėjo teisti patys bajorai, o jiems nesiėmus spręsti bylos gal�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

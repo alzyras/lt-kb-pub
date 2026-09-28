@@ -153,3 +153,4 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211508
+

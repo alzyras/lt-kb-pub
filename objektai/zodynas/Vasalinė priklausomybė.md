@@ -61,3 +61,4 @@ Kai kurie aptariami kraštai turėjo savų senos giminės kunigaikščių ir buv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

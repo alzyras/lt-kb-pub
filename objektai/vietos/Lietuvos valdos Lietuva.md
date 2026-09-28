@@ -123,3 +123,4 @@ Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

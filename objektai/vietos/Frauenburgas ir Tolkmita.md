@@ -91,3 +91,4 @@ Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

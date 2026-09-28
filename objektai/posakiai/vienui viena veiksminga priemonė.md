@@ -81,3 +81,4 @@ Lenkai teigė, kad vienui viena veiksminga priemonė ginčui dėl Podolės baigt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

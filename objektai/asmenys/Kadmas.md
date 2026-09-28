@@ -53,3 +53,4 @@ Narbutas rašo, kad Kadmas ir Inachas pas graikus įvedė jau susiklosčiusias s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -92,3 +92,4 @@ Martinas Albaumas teigė, kad socialinis natūralizmas daro visuomenę natūrali
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

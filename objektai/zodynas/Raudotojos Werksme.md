@@ -156,3 +156,4 @@ Narbutas rašo, kad raudotojos laidotuvėse laikytos svarbia dalimi, nes manyta,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

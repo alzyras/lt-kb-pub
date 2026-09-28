@@ -152,3 +152,4 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

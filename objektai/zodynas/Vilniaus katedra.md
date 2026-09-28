@@ -75,3 +75,4 @@ Vorobjovo teigimu, pagoniška šventykla stovėjo šventame alke ten, kur vėlia
   vertinimo_atnaujinta: "2026-07-14T18:29:35Z"
   pagrindžia:
     - c-184177
+

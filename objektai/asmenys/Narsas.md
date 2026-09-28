@@ -94,3 +94,4 @@ Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

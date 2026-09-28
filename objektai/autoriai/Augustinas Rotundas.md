@@ -79,3 +79,4 @@ Augustinas Rotundas, pavestas Žygimanto Augusto, lotyniškai rašė pirmąją L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

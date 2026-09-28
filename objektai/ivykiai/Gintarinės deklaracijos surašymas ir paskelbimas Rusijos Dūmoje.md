@@ -104,3 +104,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo deklaracijos surašytojus, vietą ir paskelbimo datą."
   pagrindžia:
     - c-22936
+

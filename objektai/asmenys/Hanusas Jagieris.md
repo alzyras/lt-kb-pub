@@ -72,3 +72,4 @@ Kai 1586 m. Kauno tarėjas ir stambus verslovininkas Hanusas Jagieris panoro ats
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

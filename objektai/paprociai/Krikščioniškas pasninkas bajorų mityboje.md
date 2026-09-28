@@ -89,3 +89,4 @@ XVI a. bajorų mitybą veikė krikščioniškas pasninkas, per metus trukdavęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

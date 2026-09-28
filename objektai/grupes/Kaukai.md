@@ -48,3 +48,4 @@ Narbutas kaukų garbintojams priskiria paprotį nakčiai padėti maisto ir iš j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -81,3 +81,4 @@ canonical_biography: "“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -80,3 +80,4 @@ Dėl jo energingos paramos Mozūrų kancleris Ziemovitas gavo Płocko vyskupo so
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

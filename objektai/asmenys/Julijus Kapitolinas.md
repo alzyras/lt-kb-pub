@@ -102,3 +102,4 @@ Naruševičius, rašydamas apie jotvingius, Narbuto teigimu rėmėsi Kapitolinu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

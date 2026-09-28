@@ -81,3 +81,4 @@ Nuo XVI a. pradžios už valdovo išdavystę mirties bausme vis dažniau buvo ba
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

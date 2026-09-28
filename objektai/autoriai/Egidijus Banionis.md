@@ -140,3 +140,4 @@ Egidijus Banionis datuoja rašytinio dokumento įsigalėjimą viešajame Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

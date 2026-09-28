@@ -91,3 +91,4 @@ Griškūnaitė 121 , P.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

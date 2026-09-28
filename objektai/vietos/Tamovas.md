@@ -66,3 +66,4 @@ Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

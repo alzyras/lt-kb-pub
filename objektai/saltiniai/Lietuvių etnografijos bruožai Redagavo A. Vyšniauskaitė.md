@@ -83,3 +83,4 @@ Dusburgietis teigia, kad lietuvių etnografijos bruožai / Redagavo A.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

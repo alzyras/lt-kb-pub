@@ -82,3 +82,4 @@ Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -88,3 +88,4 @@ Dusburgietis teigia, kad (Gerullis G., Zur Sprache.., p. 48; Būga К., 2, p. 10
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

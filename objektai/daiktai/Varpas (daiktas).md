@@ -181,3 +181,4 @@ Smolensko sukilimo metu prastieji žmonės skambino varpu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

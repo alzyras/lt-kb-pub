@@ -93,3 +93,4 @@ Narbutas Ragutienę patį (Ragutenapati) apibūdina kaip aludarystę globojanči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

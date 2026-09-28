@@ -64,3 +64,4 @@ Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė apsuptie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

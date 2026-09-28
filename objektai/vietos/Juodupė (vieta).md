@@ -28,7 +28,7 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Juodupė","Juodupė (vieta)"]
 sameAs: []
-canonical_biography: "Kupiškio dvaras buvo prie Juodupės upelio. Malūnas prie Juodupės upelio."
+canonical_biography: "Kupiškio dvaras buvo prie Juodupės upelio."
 place_authority: true
 historical_names: []
 ---
@@ -59,7 +59,7 @@ Prie Juodupės upelio, netoli Lėvens upės, buvo dvaras.
 
 ## Reikšmingi paminėjimai
 - c-002
-  santrauka: 'Malūnas prie Juodupės upelio.'
+  santrauka: '.'
   šaltinis: Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai
   puslapiai: "p. 144 (PDF 145)"
   citatos_rezimas: "indeksas"
@@ -80,3 +80,4 @@ Prie Juodupės upelio, netoli Lėvens upės, buvo dvaras.
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

@@ -76,3 +76,4 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

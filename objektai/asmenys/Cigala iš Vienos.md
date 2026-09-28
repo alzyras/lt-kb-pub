@@ -122,3 +122,4 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

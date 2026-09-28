@@ -85,3 +85,4 @@ Dusburgietis teigia, kad 376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

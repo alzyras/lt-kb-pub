@@ -71,3 +71,4 @@ Kasparas Dankvertas buvo prūsų kronikų rašytojas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

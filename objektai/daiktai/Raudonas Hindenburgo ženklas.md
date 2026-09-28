@@ -72,3 +72,4 @@ Nuog ma nęs reikalauta raudono nuog Hindenburgo žen klo, kurio aš neturėjau.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

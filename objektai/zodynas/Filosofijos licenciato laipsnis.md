@@ -80,3 +80,4 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie 1899 m. pasiektą mok
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

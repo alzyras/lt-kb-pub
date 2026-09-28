@@ -83,3 +83,4 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

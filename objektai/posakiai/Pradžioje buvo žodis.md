@@ -74,3 +74,4 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

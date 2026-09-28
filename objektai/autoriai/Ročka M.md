@@ -90,3 +90,4 @@ Dusburgietis teigia, kad vad., ir čia ryški tendencija susieti savo tautos pra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

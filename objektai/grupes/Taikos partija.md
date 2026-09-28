@@ -66,3 +66,4 @@ Iš to susidarė dvi partijos: karo ir taikos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -58,3 +58,4 @@ Narbutas venedų runų užrašą aiškino kaip lotynišką frazę „Immolavit S
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -71,5 +71,6 @@ Alfonsas Jonas Šakalevičius-Gintautas žuvo 1949 m. kovo 30 d. Virbališkių k
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

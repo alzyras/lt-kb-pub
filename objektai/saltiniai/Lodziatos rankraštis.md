@@ -62,3 +62,4 @@ Rankraštyje Vilniuje minima Ragučio maldykla Didžiojoje gatvėje prie žuvų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

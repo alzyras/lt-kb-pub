@@ -91,3 +91,4 @@ Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

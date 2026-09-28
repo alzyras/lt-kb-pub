@@ -136,3 +136,4 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

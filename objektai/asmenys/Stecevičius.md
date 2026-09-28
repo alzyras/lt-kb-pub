@@ -107,3 +107,4 @@ Stecevičius 1609 metais prispaudė vieną iš Narbuto aprašytų antspaudų su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

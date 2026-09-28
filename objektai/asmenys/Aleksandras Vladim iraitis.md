@@ -68,3 +68,4 @@ Aleksandras Vladim iraitis, pramintas Olelka, buvo Kijevo kunigaikštis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

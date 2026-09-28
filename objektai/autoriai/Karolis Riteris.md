@@ -276,3 +276,4 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

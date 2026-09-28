@@ -344,3 +344,4 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

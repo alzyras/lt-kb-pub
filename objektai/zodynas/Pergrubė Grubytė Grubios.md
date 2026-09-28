@@ -94,3 +94,4 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

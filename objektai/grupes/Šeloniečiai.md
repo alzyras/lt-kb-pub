@@ -46,3 +46,4 @@ Narbutas rašo, kad Selonės apskrityje gyveno šeloniečių, arba Selonczycy, t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

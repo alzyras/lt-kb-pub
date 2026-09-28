@@ -64,3 +64,4 @@ Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

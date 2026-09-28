@@ -89,3 +89,4 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

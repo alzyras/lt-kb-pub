@@ -151,3 +151,4 @@ Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Ausku�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -107,3 +107,4 @@ Volfgangas Lazius, 1514–1565 m. gyvenęs istoriografas ir geografas, pirmasis 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -92,3 +92,4 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

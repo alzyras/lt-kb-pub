@@ -82,3 +82,4 @@ Radvilos fundacija), Pašiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

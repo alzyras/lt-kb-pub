@@ -70,3 +70,4 @@ Ksenofontas Lampsakietis žino žemę, arba neišmatuojamo dy džio salą, esan�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

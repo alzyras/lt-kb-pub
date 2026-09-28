@@ -133,3 +133,4 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

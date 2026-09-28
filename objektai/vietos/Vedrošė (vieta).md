@@ -107,3 +107,4 @@ Vedrošė — upė ir kaimas dabartinėje Smolensko srityje. 1500 m. liepos 14 d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

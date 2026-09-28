@@ -95,3 +95,4 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
   pagrindžia:
     - t-001
     - t-002
+

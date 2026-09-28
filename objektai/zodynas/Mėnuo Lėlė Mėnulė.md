@@ -112,3 +112,4 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

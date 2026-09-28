@@ -62,3 +62,4 @@ p. 95, „LIETUVOS KARIUOMENE XVI A.“ Lina Vidauskyte, Andžej Geglis, Karolis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

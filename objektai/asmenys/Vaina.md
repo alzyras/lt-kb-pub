@@ -113,3 +113,4 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

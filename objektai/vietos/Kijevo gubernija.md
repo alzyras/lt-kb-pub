@@ -66,3 +66,4 @@ Kijevo gubernijoje esanti Rosės upė įteka į Dneprą dešiniajame krante.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

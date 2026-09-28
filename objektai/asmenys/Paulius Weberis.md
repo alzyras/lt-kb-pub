@@ -94,3 +94,4 @@ Paulius Weberis buvo vokiečių karininkas, tarnavęs Vilniuje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

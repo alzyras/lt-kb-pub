@@ -93,3 +93,4 @@ Medžiojnomis Narbutas vadina miško nimfas, globojusias tankmes ir, jo aiškini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

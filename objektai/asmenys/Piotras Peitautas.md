@@ -69,3 +69,4 @@ Vienuolių teigimu, Piotras Peitautas su valkatų gauja užpuolė vienuolyno mū
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

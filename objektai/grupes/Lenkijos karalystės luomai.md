@@ -116,3 +116,4 @@ Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams vald
   pagrindžia:
     - t-001
     - t-002
+

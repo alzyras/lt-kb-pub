@@ -66,3 +66,4 @@ Varmės žemėje Gubučių vadovaujami prūsai pastatė Partigalos pilį.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

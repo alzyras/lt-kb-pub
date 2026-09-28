@@ -74,3 +74,4 @@ Narbutas pasakoja, kad Neoptolemas pradėjo steigti pastovias graikų gyvenviete
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

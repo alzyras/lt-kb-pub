@@ -109,3 +109,4 @@ Mirus Vilniaus vaivadai Daugirdui, jo įpėdiniu buvo paskirtas Jonas Goštautas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210829
+

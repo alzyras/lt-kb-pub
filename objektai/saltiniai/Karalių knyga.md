@@ -93,3 +93,4 @@ Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

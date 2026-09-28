@@ -129,3 +129,4 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

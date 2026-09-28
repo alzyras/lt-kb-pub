@@ -157,3 +157,4 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

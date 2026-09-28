@@ -70,3 +70,4 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -118,3 +118,4 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

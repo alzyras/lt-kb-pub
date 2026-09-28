@@ -82,3 +82,4 @@ Stanislovo bažny­ čioje, deja, dėl kapitulos priekaištingo aplaidumo vėlia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

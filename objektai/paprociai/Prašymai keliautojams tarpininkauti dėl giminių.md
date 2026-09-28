@@ -82,3 +82,4 @@ Vieni stengiasi atkalbinėti nuog važia vimo, kiti prašo pasveikinti gimines, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

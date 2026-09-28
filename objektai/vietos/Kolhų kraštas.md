@@ -66,3 +66,4 @@ Reikėjo trisdešimt dienų, kad keliautojas iš Kolhų kraš to prie Fasio pasi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

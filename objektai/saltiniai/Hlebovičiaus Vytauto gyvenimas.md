@@ -108,3 +108,4 @@ Teodoras Narbutas Hlebovičiaus „Vytauto gyvenimą“ nurodė ginčydamas pož
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

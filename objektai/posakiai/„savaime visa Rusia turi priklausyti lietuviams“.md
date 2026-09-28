@@ -79,3 +79,4 @@ Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Ru
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -139,3 +139,4 @@ Jūratė Kiaupienė M. Stryjkovskį apibūdina kaip XVI a. antrosios pusės Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

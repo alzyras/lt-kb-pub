@@ -96,3 +96,4 @@ Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

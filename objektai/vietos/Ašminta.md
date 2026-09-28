@@ -86,3 +86,4 @@ Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

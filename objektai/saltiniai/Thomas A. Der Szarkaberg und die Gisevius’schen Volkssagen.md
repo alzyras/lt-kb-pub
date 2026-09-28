@@ -80,3 +80,4 @@ Dusburgietis teigia, kad thomas A.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -65,3 +65,4 @@ Lygia dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto, Galindo, Varmo, Ogo,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

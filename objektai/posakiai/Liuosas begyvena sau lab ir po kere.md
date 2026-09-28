@@ -69,3 +69,4 @@ Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tauto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

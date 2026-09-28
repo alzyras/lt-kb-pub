@@ -65,3 +65,4 @@ Lydos klebono užrašuose teigiama, kad Vilniaus Smėlynės pranciškonų vienuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -95,3 +95,4 @@ Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

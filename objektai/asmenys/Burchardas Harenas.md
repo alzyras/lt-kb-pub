@@ -95,3 +95,4 @@ Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsireng�
   pagrindžia:
     - t-001
     - t-002
+

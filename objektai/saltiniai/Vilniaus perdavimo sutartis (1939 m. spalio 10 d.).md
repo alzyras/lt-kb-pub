@@ -125,3 +125,4 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

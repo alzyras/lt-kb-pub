@@ -122,3 +122,4 @@ Narbutas Agatemerą mini tarp senovės graikų rašytojų, maniusių, kad žemė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

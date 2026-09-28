@@ -74,3 +74,4 @@ Seniūnas Jokūbas iš Selicos atskubėjo iš Holdovo, nuvijo plėšikautojus, o
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

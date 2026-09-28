@@ -72,3 +72,4 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

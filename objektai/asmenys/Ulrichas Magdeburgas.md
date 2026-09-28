@@ -69,3 +69,4 @@ Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karali
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

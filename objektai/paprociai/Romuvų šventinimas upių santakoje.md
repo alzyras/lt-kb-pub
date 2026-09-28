@@ -76,3 +76,4 @@ Lietuvių genties kartos turėjo įprotį tokias šventoves šventinti prie dvie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuom
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

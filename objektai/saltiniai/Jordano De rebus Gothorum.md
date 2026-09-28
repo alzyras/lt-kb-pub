@@ -116,3 +116,4 @@ Pasak Teodoro Narbuto, Jordanas rašė, kad Filimero gotai 161 m., persikėlę �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

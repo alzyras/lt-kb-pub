@@ -89,3 +89,4 @@ Narbutas kalbotyrą pateikia kaip patikimiausią tautų kilmės tyrimo kelią ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

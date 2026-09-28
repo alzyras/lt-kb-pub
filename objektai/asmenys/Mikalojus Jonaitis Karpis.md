@@ -79,3 +79,4 @@ canonical_biography: "1595 m. Mikalojus Jonaitis Karpis Kurtuvėnų tijūnijoje 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

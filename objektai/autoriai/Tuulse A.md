@@ -106,3 +106,4 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

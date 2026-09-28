@@ -229,3 +229,4 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

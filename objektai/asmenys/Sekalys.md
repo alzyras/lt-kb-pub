@@ -112,3 +112,4 @@ Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais, pasak Koj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

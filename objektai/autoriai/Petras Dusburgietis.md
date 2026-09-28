@@ -173,26 +173,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   pagrindžia:
     - c-165019
 
-<a id="claim-t-181469"></a>
-- t-007
-  teiginys: "Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Dusburgietis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Dusburgietis\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 250 m; įvykio data: 1326 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-165012
-
 <a id="claim-t-181470"></a>
 - t-008
   teiginys: "Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes."
@@ -279,23 +259,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   semantiniai_rysiai: "Teutonai keliavo į Prūsija (0.84)"
   pagrindžia:
     - c-165017
-
-<a id="claim-t-181476"></a>
-- t-013
-  teiginys: "Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Dusburgietis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Dusburgietis\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-165018
 
 <a id="claim-t-183995"></a>
 - t-014
@@ -475,45 +438,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   pagrindžia:
     - c-173659
 
-<a id="claim-t-194449"></a>
-- t-023
-  teiginys: "PRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-165013
-
-<a id="claim-t-194671"></a>
-- t-024
-  teiginys: "Vos šimtas metų buvo praėję nuo kryžiuočių atsi kraustymo ir vos truputį daugiau nei keturiasdešimt metų nuo visiško Prūsijos užkariavimo, kai Dusburgietis rašė tą prūsų tautos papročių ir įpročių apybraižą ir kai 1326 metais įteikė savo kroniką didžiajam."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177068
-
-<a id="claim-t-197006"></a>
-- t-025
-  teiginys: "Tarp jų ypatingą vietą užima Petro iš Dusburgo „Prūsijos žemės kronika“, pateikianti daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir jo sąjungininkų agresiją XIII—XIV a."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-178999
-
 <a id="claim-t-204342"></a>
 - t-032
   teiginys: "Petras Dusburgietis mini platesnę reikalus svarstančią kolegiją, į kurią turėjo būti sukviesti didikai."
@@ -526,26 +450,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
   pagrindžia:
     - c-186946
-
-<a id="claim-t-218355"></a>
-- t-218355
-  teiginys: "Narbutas Petrą Dusburgietį pasitelkia liudydamas, kad lietuvės vilkėjo drobinius baltus ir dažytus rūbus, o vasarą juos vilkėjo ir vyrai."
-  atnaujinta: "2026-09-19 05:27"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Dusburgietis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Dusburgietis\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-199306
-    - c-200842
 
 <a id="claim-t-220904"></a>
 - t-220904
@@ -938,8 +842,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
 
 - id: c-165013
   autorius: "Petras Dusburgietis"
@@ -969,7 +871,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   pagrindžia:
     - t-005
     - t-014
-    - t-023
 
 - id: c-165014
   autorius: "Petras Dusburgietis"
@@ -1042,8 +943,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
 
 - id: c-165019
   autorius: "Petras Dusburgietis"
@@ -1356,7 +1255,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-024
 
 - id: c-178999
   autorius: "Petras Dusburgietis"
@@ -1382,8 +1280,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-025
 
 - id: c-179134
   autorius: "Teodoras Narbutas"
@@ -1520,8 +1416,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218355
 
 - id: c-199941
   autorius: "Teodoras Narbutas"
@@ -1593,8 +1487,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-218355
 
 - id: c-201183
   autorius: "Teodoras Narbutas"
@@ -1751,3 +1643,220 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-221603
+
+- id: c-00377
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    matęs žaliuojančius linų laukus . Dar reikia turėti galvoje, kad
+    tuo metu, kai pietų europiečiai visiškai nenaudojo lininių au­
+    dinių drabužiams, lietuvės nuo kojų iki galvos puošėsi gražiais
+    drobiniais baltais ir dažytais rūbais, o vasarmečiu - ir vyrai,
+    kaip liudija Petras Dusburgietis. Kitokių drabužių, išskyrus dro­
+    binius, nevilkėjo.
+  citata_rodoma: "matęs žaliuojančius linų laukus . Dar reikia turėti galvoje, kad \ntuo metu, kai pietų europiečiai visiškai nenaudojo lininių au­\ndinių drabužiams, lietuvės nuo kojų iki galvos puošėsi gražiais \ndrobiniais baltais ir dažytais rūbais, o vasarmečiu - ir vyrai, \nkaip liudija Petras Dusburgietis. Kitokių drabužių, išskyrus dro­\nbinius, nevilkėjo."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:25"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-194595
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
+  citata_originali: |
+    Kryžiuočiams val­
+    dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
+    apie ją žinome tik iš Dusburgo paminėto jos valsčiaus,
+    vadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir
+    Raigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie
+    šią, toje pačioje vietoje esančią provinciją, be to, neabe­
+    jotina, kad nuo seno ten gyveno ir lietuviui Tas pats
+    geografas taip pat žinojo vieną sudinų koloniją, buvusią
+    germanų markomanų genties kaimynystėje, dabar Pra­
+    hos apskritis (Čekija), prie Vltavos upės; tai galėjo būti
+    iš prūsų Sūduvos kažkokia užklydusi genties dalis4. Ne
+    kartą provincijoje prisiglausdavo nuo lenkų ir lietuvių
+    ginklų bėgantys jotvingiai. Rytuose ji ribojosi su Sudar­
+    gą, pietuose — su jotvingių Polese, vakaruose — su Ga­
+    linda ir Barta, o šiaurėje — su Barta ir Nadruva.
+    1 Kiti teigia, kad iš žodžio S žudąs, išmatos, pelkės, nes seniau
+    žemė ten buvusi labai pelkėta; bet išmanančiam kalbą ir papročius šis
+    spėjimas yra visiškai nepriimtinas.
+  citata_rodoma: "Kryžiuočiams val­\ndant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi; \napie ją žinome tik iš Dusburgo paminėto jos valsčiaus, \nvadinamo Kirsowia, Kirsnava; jis buvęs tarp Olecko ir \nRaigardo2 3. Tačiau Ptolemėjas turi tam tikrų žinių apie \nšią, toje pačioje vietoje esančią provinciją, be to, neabe­\njotina, kad nuo seno ten gyveno ir lietuviui Tas pats \ngeografas taip pat žinojo vieną sudinų koloniją, buvusią \ngermanų markomanų genties kaimynystėje, dabar Pra­\nhos apskritis (Čekija), prie Vltavos upės; tai galėjo būti \niš prūsų Sūduvos kažkokia užklydusi genties dalis4. Ne \nkartą provincijoje prisiglausdavo nuo lenkų ir lietuvių \nginklų bėgantys jotvingiai. Rytuose ji ribojosi su Sudar­\ngą, pietuose — su jotvingių Polese, vakaruose — su Ga­\nlinda ir Barta, o šiaurėje — su Barta ir Nadruva.\n1 Kiti teigia, kad iš žodžio S žudąs, išmatos, pelkės, nes seniau \nžemė ten buvusi labai pelkėta; bet išmanančiam kalbą ir papročius šis \nspėjimas yra visiškai nepriimtinas."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-197981
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 306"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 306."
+  citata_originali: |
+    Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių.
+    Stenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­
+    simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
+    mo nekaltai nubaudė vieną žmogų“42.
+    Duomenų apie Antikos sibiles, kurių pranašavimo princi­
+    pai buvo panašūs, skaitytojas ras F. Noelio mitologijos žody­
+    ne43. Kunigas Osinskis išvertė jį pažodžiui į lenkų kalbą.
+  citata_rodoma: "Buvo buriama iš sietelio, sukamo ant avių kirpimo žirklių. \nStenderis, kalbėdamas apie šį burtininkavimą, priduria: „Pri­\nsimenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­\nmo nekaltai nubaudė vieną žmogų“42.\nDuomenų apie Antikos sibiles, kurių pranašavimo princi­\npai buvo panašūs, skaitytojas ras F. Noelio mitologijos žody­\nne43. Kunigas Osinskis išvertė jį pažodžiui į lenkų kalbą."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199960
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 279"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 279."
+  citata_originali: |
+    dintas kriviu3, kurį gerbė kaip popiežių, nes kaip mūsų Šven­
+    tasis tėvas valdo visuotinę bažnyčią, taip šis vadovavo stab­
+    meldžiams. Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­
+    viai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­
+    toritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir
+    jo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­
+    giai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­
+    davo karalių, ponų ir prastuomenės didžios pagarbos.
+  citata_rodoma: "dintas kriviu3, kurį gerbė kaip popiežių, nes kaip mūsų Šven­\ntasis tėvas valdo visuotinę bažnyčią, taip šis vadovavo stab­\nmeldžiams. Bet jo valdžiai pakluso ne tik prūsai, bet ir lietu­\nviai bei tolimesnės Livonijos tautos“4. Toks didelis buvo jo au­\ntoritetas, kad ne tik jis pats arba kas nors iš jo gentainių, bet ir \njo pasiuntinys su jo krivūle ar su jo duotu ženklu galėjo sau­\ngiai keliauti per tolimiausius tų tautų kraštus ir visur sulauk­\ndavo karalių, ponų ir prastuomenės didžios pagarbos."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202016
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 13"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 13."
+  citata_originali: |
+    XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti
+    Livonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę
+    kovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą
+    ekonominę Lietuvos blokadą. Kiek vėliau, jau valdant Gediminui, Lietuvos—Rygos
+    sąjunga buvo atnaujinta47.
+    Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti
+    aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje
+    ir daugelyje kitų [vietų].
+  citata_rodoma: "XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti \nLivonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę \nkovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą \nekonominę Lietuvos blokadą. Kiek vėliau, jau valdant Gediminui, Lietuvos—Rygos \nsąjunga buvo atnaujinta47.\nTarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti \naštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje \nir daugelyje kitų [vietų]."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202385
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  citata_originali: |
+    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
+    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
+    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
+    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
+    apreikšti dievo darbus yra šlovinga.
+    Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
+    tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau
+    karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į
+    šią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas
+    negali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir
+    kad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio
+    atminimas.
+  citata_rodoma: "Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje \nšventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi \nnuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei \nbūsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad \napreikšti dievo darbus yra šlovinga.\nSekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo \ntarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau \nkarus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į \nšią knygą, kurią štai ir siunčiu maloniai jūsų globai ir maldauju ją įvertinti, nes niekas \nnegali būti savo darbu patenkintas, kad būtų galima pataisyti, jeigu joje kas taisytina, ir \nkad būtų paskelbta šitaip pataisyta, idant būsimosioms kartoms liktų šio šventojo žygio \natminimas."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-202451
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
+  citata_originali: |
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
+    daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
+    jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
+    Kad geriau suvoktume kronikoje vaizduojamus Prūsijos ir Lietuvos istorijos faktus
+    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
+    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
+    klausimai.
+    Prūsai ir Lietuva
+    Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos
+    vientisumas.
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  citata_rodoma: "Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti \ndaugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir \njo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).\nKad geriau suvoktume kronikoje vaizduojamus Prūsijos ir Lietuvos istorijos faktus \nbei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių \nlietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją \nklausimai.\nPrūsai ir Lietuva\nPrūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos \nartimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos \nvientisumas.\nPetro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių, \natskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ \n(Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba \n(Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), \nBárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-204290
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 35"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 35."
+  citata_originali: |
+    Ketvirta, paraštėse surašysiu popiežius ir imperatorius, kurie viešpatavo nuo tų metų,
+    kai buvo įkurtas šis ordinas, be to, kai kuriuos reikšmingus įvykius, kurie jų laikais dėjosi.
+    Jausdamasis per silpnas tokiam uždaviniui užbaigti, ypač dėl to, kad dabar gyvenantys
+    žmonės jau yra beveik užmiršę šiuos įvykius, žinodamas, kad nieko negaliu nuveikti
+    be dievo, nuolankiai tave, gerasis Jėzau, maldauju atskleisti visas paslaptis, ne tik
+    busimąsias, bet ir dabarties bei praeities, nes tu esi tikrasis išminties bei žinojimo lobynas.
+    Apšviesk savo dvasios malone man protą ir padaryk mane iškalbingą bei išmintingą, kad
+    negaišdamas užbaigčiau šį darbą, kad tie, kurie skaitys šiame veikale apie tavo didingus
+    ženklus ir galingus stebuklus, tavimi pasitikėtų, tave garbintų, aukštintų bei šlovintų,
+    kad tu, iš kurio — viskas, per kurį — viskas ir kuriame—viskas, teiktumeisi globoti, tu,
+    dieve, kuris gyveni ir viešpatauji per amžių amžius.
+  citata_rodoma: "Ketvirta, paraštėse surašysiu popiežius ir imperatorius, kurie viešpatavo nuo tų metų, \nkai buvo įkurtas šis ordinas, be to, kai kuriuos reikšmingus įvykius, kurie jų laikais dėjosi. \nJausdamasis per silpnas tokiam uždaviniui užbaigti, ypač dėl to, kad dabar gyvenantys \nžmonės jau yra beveik užmiršę šiuos įvykius, žinodamas, kad nieko negaliu nuveikti \nbe dievo, nuolankiai tave, gerasis Jėzau, maldauju atskleisti visas paslaptis, ne tik \nbusimąsias, bet ir dabarties bei praeities, nes tu esi tikrasis išminties bei žinojimo lobynas. \nApšviesk savo dvasios malone man protą ir padaryk mane iškalbingą bei išmintingą, kad \nnegaišdamas užbaigčiau šį darbą, kad tie, kurie skaitys šiame veikale apie tavo didingus \nženklus ir galingus stebuklus, tavimi pasitikėtų, tave garbintų, aukštintų bei šlovintų, \nkad tu, iš kurio — viskas, per kurį — viskas ir kuriame—viskas, teiktumeisi globoti, tu, \ndieve, kuris gyveni ir viešpatauji per amžių amžius."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-206262
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
+  citata_originali: |
+    Štai tokių didžiulių
+    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“. Toliau
+    Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne
+    Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo,
+    kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“. Taigi autorius siekia išaukštinti
+    jau užmirštus Ordine pirminius idealus.
+    Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems
+    broliams. Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė,
+    stebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17).
+  citata_rodoma: "Štai tokių didžiulių \n„stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“. Toliau \nDusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne \nJėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo, \nkad būtų „suniekinti visi, kurie tavo tarnams daro bloga“. Taigi autorius siekia išaukštinti \njau užmirštus Ordine pirminius idealus.\nDusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems \nbroliams. Štai nuo Elbingo brolių iš mūšio lauko išsibėgiojo didelė prūsų kariuomenė, \nstebuklingai nedidelio kryžiuočių būrelio vietoje išvydusi didžiulę kariuomenę (III, 17)."
+  statusas: verified
+  atnaujinta: "2026-09-27 13:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

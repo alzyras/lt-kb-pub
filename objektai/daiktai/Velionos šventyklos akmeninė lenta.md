@@ -58,3 +58,4 @@ Akmeninė lenta buvo įmūryta Veliuonos bažnyčios išorinėje sienoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

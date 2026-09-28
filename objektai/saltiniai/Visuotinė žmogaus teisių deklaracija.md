@@ -80,3 +80,4 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

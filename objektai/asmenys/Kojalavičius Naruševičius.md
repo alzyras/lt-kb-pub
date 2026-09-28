@@ -70,3 +70,4 @@ Nors autorius ir ne vienas pats stojo Lietuvos istorijos tyrinėjimų srityje (k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

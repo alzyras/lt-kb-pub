@@ -86,3 +86,4 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

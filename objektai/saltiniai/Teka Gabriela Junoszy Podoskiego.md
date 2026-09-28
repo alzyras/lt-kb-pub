@@ -96,3 +96,4 @@ Teka Gabriela Junoszy Podoskiego, t.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

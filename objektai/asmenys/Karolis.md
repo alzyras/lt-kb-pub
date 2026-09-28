@@ -107,3 +107,4 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
   patikimumo_saltinis: ai
   pagrindžia:
     - t-225198
+

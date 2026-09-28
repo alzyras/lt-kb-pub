@@ -53,3 +53,4 @@ Narbutas rašo, kad Minas Kretoje įvedė jau susiklosčiusias slaptas religines
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

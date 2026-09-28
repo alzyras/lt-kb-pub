@@ -140,3 +140,4 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

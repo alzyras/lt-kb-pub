@@ -59,3 +59,4 @@ Kur jos nėr, kaip paveizdan pas lietuvius, ten ir visas gyveni mas išrodo pala
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

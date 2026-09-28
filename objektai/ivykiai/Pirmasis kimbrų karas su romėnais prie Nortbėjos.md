@@ -73,3 +73,4 @@ Strijkovskis neabejotinai taiso šios vietos prieštaravimus ar rašiusiojo klai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

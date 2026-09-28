@@ -93,3 +93,4 @@ Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestieči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -272,3 +272,4 @@ canonical_biography: 'Obolenskis teigė, kad vysk. M. Valančius atkakliai ir si
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

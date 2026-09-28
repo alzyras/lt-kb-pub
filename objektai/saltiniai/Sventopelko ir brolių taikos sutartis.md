@@ -86,3 +86,4 @@ Kronika teigia, kad Sventopelko ir brolių taikai užtikrinti Sventopelkas turė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

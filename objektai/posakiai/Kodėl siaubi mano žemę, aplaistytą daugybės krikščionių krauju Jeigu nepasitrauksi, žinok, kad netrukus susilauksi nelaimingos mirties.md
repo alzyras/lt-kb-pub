@@ -66,3 +66,4 @@ Dusburgietis teigia, kad apie vieną stebuklą Šioje kariuomenėje buvo vienas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

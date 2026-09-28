@@ -63,3 +63,4 @@ Haacko 1730 m. žodynas. Įkurtos Halės seminarijos reikalams docentas Haackas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -93,3 +93,4 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
   pagrindžia:
     - t-001
     - t-002
+

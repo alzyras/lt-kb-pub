@@ -70,3 +70,4 @@ Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, vala
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

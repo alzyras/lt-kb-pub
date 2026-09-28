@@ -113,3 +113,4 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

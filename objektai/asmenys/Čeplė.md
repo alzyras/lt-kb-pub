@@ -107,3 +107,4 @@ Narbutas IV lentelėje nurodo, kad Čeplė 1541 m. prispaudė vieną iš aštuon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

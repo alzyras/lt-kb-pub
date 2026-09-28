@@ -181,3 +181,4 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-220600
+

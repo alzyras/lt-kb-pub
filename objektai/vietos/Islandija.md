@@ -85,3 +85,4 @@ Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirm
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

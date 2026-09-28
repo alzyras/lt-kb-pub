@@ -79,3 +79,4 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

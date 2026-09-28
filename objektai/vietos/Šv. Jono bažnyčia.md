@@ -151,3 +151,4 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -2580,3 +2580,4 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-225977
+

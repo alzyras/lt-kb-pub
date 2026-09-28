@@ -79,3 +79,4 @@ M. K. Radvila Našlaitėlis 1582-1584 m. keliavo į Šventąją žemę ir grįž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

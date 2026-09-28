@@ -55,3 +55,4 @@ Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

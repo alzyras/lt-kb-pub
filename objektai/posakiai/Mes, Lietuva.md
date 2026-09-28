@@ -81,3 +81,4 @@ XVI a. Lietuvos Didžiosios Kunigaikštystės bajorai apie save rašė „Mes, L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

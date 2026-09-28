@@ -61,3 +61,4 @@ Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -113,3 +113,4 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -1425,3 +1425,4 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

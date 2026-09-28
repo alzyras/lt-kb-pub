@@ -110,3 +110,4 @@ Lebedžio, Vilnius 1957, 31-35 p.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

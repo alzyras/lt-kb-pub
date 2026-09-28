@@ -65,3 +65,4 @@ Patikrinti pareiškimo į Fredą kartu su ūkvedžiu išvyko metinis (valdantysi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

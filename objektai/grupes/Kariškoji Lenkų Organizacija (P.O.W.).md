@@ -110,3 +110,4 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

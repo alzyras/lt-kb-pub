@@ -78,3 +78,4 @@ Ji gavo europeiško nobiliteto pažymius — herbus ir nuo tų laikų palengva �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

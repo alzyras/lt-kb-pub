@@ -73,3 +73,4 @@ Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė saugojo Kauno-
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

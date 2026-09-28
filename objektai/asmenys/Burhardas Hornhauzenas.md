@@ -74,3 +74,4 @@ Teodoras Narbutas rašo, kad Livonijos magistras Burhardas Hornhauzenas sutelkė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

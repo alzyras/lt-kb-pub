@@ -79,3 +79,4 @@ Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, ta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

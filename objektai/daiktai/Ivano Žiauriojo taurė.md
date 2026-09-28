@@ -95,3 +95,4 @@ Ivano Žiauriojo taurė, pasak šaltinio, galėjo būti Petro I dovana LLV valdo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

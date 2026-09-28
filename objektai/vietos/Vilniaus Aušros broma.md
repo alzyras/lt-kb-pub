@@ -75,3 +75,4 @@ Vilniaus Aušros broma šiame šaltinyje yra šventovė ar miesto vartai.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

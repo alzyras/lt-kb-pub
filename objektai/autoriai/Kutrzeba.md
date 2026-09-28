@@ -72,3 +72,4 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

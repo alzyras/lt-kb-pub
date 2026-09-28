@@ -104,3 +104,4 @@ canonical_biography: "Stanislava iš Tatiboro 1563 m. balandžio 20 d. įrašo �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

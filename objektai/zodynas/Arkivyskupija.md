@@ -78,3 +78,4 @@ Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

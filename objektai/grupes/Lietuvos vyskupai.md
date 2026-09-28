@@ -68,3 +68,4 @@ Tada popiežius pasiskubino ir tam pavojui už­ kirsti kelią: jis uždraudė L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

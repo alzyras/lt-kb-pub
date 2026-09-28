@@ -195,3 +195,4 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

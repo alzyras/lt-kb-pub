@@ -68,3 +68,4 @@ Jonas Saksas iš Gilberštetės mirė Karaliaučiaus pilyje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

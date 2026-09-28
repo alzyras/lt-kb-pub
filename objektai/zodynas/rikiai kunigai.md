@@ -61,3 +61,4 @@ Tie vadai buvo vadinami rikiais ir kunigais.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

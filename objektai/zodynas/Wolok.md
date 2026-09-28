@@ -74,3 +74,4 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

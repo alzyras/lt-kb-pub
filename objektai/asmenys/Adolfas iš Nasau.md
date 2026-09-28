@@ -74,3 +74,4 @@ Albrechtas 1298 metais nukovė Adolfą ir paveldėjo jo sostą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

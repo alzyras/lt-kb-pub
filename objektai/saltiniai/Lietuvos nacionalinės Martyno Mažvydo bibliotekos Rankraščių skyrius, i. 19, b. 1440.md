@@ -82,3 +82,4 @@ Lietuvos nacionalinės Martyno Mažvydo bibliotekos Rankraščių skyrius, i.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

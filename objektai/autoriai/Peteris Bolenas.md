@@ -151,3 +151,4 @@ canonical_biography: "Įvadinis tekstas Peterį Boleną mini tarp kalbininkų, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

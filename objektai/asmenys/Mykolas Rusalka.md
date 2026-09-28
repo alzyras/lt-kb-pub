@@ -98,3 +98,4 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

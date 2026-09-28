@@ -114,3 +114,4 @@ Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207769
+

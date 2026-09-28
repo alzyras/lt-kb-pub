@@ -135,3 +135,4 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
   pagrindžia:
     - t-001
     - t-186262
+

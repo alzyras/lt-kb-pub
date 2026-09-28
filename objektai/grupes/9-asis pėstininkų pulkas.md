@@ -74,3 +74,4 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

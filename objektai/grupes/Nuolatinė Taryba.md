@@ -213,3 +213,4 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

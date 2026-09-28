@@ -74,3 +74,4 @@ Vorobjovas Šv. Augustino koplyčių apšvietimo efektus apibūdina kaip tokius 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

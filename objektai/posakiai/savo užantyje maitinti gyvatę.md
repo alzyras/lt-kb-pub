@@ -129,3 +129,4 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -68,3 +68,4 @@ Tų sričių ponai savo dvaruose laikė ištisus kariuomenės pulkus, tačiau ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

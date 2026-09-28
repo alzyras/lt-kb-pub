@@ -97,3 +97,4 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Patikslintas ministerijos vaidmuo pagal citatą."
   pagrindžia:
     - c-23089
+

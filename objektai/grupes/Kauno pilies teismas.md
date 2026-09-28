@@ -85,3 +85,4 @@ Kauno pilies teismas skirdavo bausmes už nusikaltimus gyvybei, sveikatai ir tur
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

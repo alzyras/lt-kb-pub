@@ -73,3 +73,4 @@ Sventopelkas, Pomeranijos kunigaikštis, prieš mirtį sušaukė sūnus ir įsp�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

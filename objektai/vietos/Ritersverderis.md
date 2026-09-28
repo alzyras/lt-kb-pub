@@ -112,3 +112,4 @@ Nojerverderio ir Ritersverderio salose kryžiuočiai paliko savo įgulas, o Mari
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211981
+

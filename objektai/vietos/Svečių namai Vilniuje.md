@@ -216,3 +216,4 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

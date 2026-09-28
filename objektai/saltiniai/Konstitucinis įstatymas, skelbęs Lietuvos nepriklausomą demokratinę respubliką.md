@@ -68,3 +68,4 @@ Po šios apklausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

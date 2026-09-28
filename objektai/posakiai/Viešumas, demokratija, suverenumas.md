@@ -74,3 +74,4 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

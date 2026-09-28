@@ -49,3 +49,4 @@ I. Krasickio „Osiano giesmių“ ištrauka buvo panaudota kaip LTI pirmojo tom
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

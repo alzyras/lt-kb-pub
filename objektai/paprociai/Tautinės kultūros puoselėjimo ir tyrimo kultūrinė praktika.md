@@ -82,3 +82,4 @@ Kultūrinės draugijos kvietė išsaugoti ir tobulinti gimtąją kalbą, puosel�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

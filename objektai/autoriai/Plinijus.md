@@ -778,3 +778,4 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217071
+

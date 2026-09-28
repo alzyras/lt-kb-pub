@@ -58,3 +58,4 @@ Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

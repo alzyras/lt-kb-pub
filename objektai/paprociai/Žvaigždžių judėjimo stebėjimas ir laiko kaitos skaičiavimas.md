@@ -84,3 +84,4 @@ Narbutas nurodo, kad lietuvių žyniai tirdavo žvaigždžių judėjimą ir apsk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

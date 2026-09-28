@@ -96,3 +96,4 @@ canonical_biography: "Šulskio-Šulo - pietrytinėje girios dalyje Subačiaus vl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

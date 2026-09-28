@@ -65,3 +65,4 @@ Algirdas priekaištauja Konstantinopolio patriarchui: »[...] pagal Tavo palaimi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

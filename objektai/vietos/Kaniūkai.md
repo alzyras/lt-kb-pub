@@ -79,3 +79,4 @@ Kolona pro Kaniūkų bei Pakalnių kaimus turėjo veržtis Utenos kryptimi.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

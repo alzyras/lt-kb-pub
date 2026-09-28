@@ -63,3 +63,4 @@ Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

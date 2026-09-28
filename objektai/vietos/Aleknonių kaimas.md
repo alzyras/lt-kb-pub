@@ -78,3 +78,4 @@ Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkinink
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

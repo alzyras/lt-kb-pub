@@ -90,3 +90,4 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

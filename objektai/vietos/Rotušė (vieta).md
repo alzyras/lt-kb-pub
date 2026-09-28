@@ -70,3 +70,4 @@ Tarp pilies ir parapinės bažnyčios pavaizduota jau baigta statyti rotušė (P
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

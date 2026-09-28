@@ -65,3 +65,4 @@ Raštu Vytautas, įvardytas Lucko ir Gardino kunigaikščiu, viešai pasižada l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -90,3 +90,4 @@ Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

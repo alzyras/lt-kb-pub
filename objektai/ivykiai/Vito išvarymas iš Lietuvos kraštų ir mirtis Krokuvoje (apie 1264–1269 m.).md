@@ -87,3 +87,4 @@ Teodoro Narbuto pasakojimu, Vitas, uoliai priešinęsis grįžimui į stabmeldys
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

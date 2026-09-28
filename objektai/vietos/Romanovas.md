@@ -112,3 +112,4 @@ Narbutas Romanovo kaimą sieja su Romovės šventuoju mišku ir spėja, kad jame
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219494
+

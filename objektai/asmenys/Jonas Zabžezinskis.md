@@ -126,3 +126,4 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

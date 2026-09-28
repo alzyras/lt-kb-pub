@@ -102,3 +102,4 @@ Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių funda
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

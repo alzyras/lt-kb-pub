@@ -66,3 +66,4 @@ Divanas Klokinis su didele kariuomene įsiveržė į Kulmo žemę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

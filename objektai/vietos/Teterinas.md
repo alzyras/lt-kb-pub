@@ -111,3 +111,4 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

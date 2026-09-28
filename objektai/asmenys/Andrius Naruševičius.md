@@ -87,3 +87,4 @@ Alvydas Totoris spėjo, kad Kupiškio seniūnijos dokumentas sudarytas po Mikalo
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

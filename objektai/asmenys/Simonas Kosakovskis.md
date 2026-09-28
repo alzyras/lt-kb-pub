@@ -91,3 +91,4 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir citata patvirtina Simono Kosakovskio vadovavimą konfederacijai."
   pagrindžia:
     - c-21973
+

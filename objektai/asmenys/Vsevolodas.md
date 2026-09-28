@@ -237,3 +237,4 @@ canonical_biography: "1055 m. poloviečių vadas Balušas po nesėkmingų kautyn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

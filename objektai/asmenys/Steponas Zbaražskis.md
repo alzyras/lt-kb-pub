@@ -92,3 +92,4 @@ canonical_biography: "1556 m. Vitebsko vaivada Steponas Zbaražskis, išsinuomod
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

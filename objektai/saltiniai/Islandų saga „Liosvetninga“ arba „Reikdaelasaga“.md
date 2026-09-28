@@ -59,3 +59,4 @@ Narbutas nurodo, kad Islandų saga „Liosvetninga“ arba „Reikdaelasaga“ p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

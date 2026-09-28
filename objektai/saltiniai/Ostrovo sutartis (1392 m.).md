@@ -83,3 +83,4 @@ Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

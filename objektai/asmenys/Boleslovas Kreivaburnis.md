@@ -89,3 +89,4 @@ Narbutas nurodo kronikininkų liudijimą, kad Boleslovas Kreivaburnis, užpuolę
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217473
+

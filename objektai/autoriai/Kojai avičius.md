@@ -69,3 +69,4 @@ Kojai avičius buvo jėzuitas ir parašė lietuvių istoriją lotynų kalba.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -66,3 +66,4 @@ Helmerichas buvo šeštasis Prūsijos žemės magistras ir vadovavo trejus metus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

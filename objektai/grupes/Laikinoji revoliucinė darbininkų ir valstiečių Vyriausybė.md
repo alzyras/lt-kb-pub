@@ -81,3 +81,4 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

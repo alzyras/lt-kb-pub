@@ -70,3 +70,4 @@ Narbutas nurodė, kad Lietuvoje gyveno garsi Triznų giminė. Narbutas išnašoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

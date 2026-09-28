@@ -92,3 +92,4 @@ canonical_biography: "1865 m.), Gertrude Ellion (Geltrūda Elion, 1918–1999; 1
   temporalinis_llm_pakomentavimas: "Pradinis teiginys yra fragmentas; citata leidžia suformuluoti aiškų biografinį faktą."
   pagrindžia:
     - c-21682
+

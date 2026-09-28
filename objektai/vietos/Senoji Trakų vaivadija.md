@@ -57,3 +57,4 @@ Narbutas rašo, kad deivę Lietuvą dar žinojo lietuviai, ypač senojoje Trakų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

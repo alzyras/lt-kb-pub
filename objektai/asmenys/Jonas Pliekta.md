@@ -85,3 +85,4 @@ Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

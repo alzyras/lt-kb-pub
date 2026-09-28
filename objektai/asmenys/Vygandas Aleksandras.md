@@ -136,3 +136,4 @@ Vygandas buvo vedęs Vladislovo iš Opolės, vėliau Gnievo kunigaikščio, dukr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

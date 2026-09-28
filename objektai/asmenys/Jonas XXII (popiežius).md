@@ -121,3 +121,4 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

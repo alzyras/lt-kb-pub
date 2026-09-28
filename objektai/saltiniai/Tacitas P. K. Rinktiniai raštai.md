@@ -133,3 +133,4 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -94,3 +94,4 @@ Teodoro Narbuto pasakojimu, 1212 m. pradžioje lietuviai prie Koknesės pilies �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

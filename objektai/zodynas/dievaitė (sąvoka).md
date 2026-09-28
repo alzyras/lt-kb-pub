@@ -65,3 +65,4 @@ Birutė, pasižadėjusi pagonišku papročiu saugoti skaistybę, buvo žmonių g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

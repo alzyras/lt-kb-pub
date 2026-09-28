@@ -63,3 +63,4 @@ Ant mano pasporto buvo parašyta: Die Genemignung oberost ist erteilt t.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

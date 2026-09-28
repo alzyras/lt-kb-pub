@@ -59,3 +59,4 @@ Livonijos vokiečiai kartu su Prūsijos vokiečiais telkė kariuomenę prieš Ž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

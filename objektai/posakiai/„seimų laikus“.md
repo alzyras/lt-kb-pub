@@ -85,3 +85,4 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

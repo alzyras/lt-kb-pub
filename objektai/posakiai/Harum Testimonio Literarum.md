@@ -70,3 +70,4 @@ Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­ ni Ducatus Litbvaniae
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

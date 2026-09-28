@@ -57,3 +57,4 @@ Narbutas nurodo, kad ponas Riteris „Šiaurės senovės tyrimuose“ plačiai a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -265,3 +265,4 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

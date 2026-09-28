@@ -107,3 +107,4 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

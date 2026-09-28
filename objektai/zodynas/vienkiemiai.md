@@ -63,3 +63,4 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

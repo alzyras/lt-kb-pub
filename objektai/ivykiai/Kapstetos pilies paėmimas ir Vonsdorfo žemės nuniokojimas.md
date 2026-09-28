@@ -98,3 +98,4 @@ Karaliaučiaus komtūras, vadovaujamas Tirsko ir remiamas sembų kariuomenės, n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

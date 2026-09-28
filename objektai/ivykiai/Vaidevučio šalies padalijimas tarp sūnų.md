@@ -94,3 +94,4 @@ Kiekvienas Vaidevučio sūnus gavo provinciją, pavadintą jo vardu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

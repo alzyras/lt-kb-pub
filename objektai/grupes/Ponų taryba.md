@@ -951,3 +951,4 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210908
+

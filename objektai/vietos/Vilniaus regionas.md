@@ -94,3 +94,4 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -152,3 +152,4 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -53,3 +53,4 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

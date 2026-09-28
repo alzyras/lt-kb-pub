@@ -75,3 +75,4 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

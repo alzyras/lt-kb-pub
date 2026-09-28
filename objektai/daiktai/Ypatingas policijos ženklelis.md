@@ -77,3 +77,4 @@ Palaikęs mane ilgą valandą ir pasili kęs pas save mano pasportą, paleido po
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

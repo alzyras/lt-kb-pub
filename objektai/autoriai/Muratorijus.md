@@ -99,3 +99,4 @@ Muratorijaus ištraukos kartu su Tilemano ir kitų autorių tekstais Narbuto nur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

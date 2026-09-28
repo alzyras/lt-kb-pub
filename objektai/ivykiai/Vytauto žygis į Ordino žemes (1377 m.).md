@@ -177,3 +177,4 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

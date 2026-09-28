@@ -79,3 +79,4 @@ Visų trijų Lietuvos Statutų straipsniuose baustinas buvo ne pats valstiečio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

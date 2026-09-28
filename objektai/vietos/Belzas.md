@@ -79,3 +79,4 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

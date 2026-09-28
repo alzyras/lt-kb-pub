@@ -52,3 +52,4 @@ Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

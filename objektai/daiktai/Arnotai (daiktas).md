@@ -83,3 +83,4 @@ Per Sekminių procesiją Lenčicos dvasininkai dėvėjo iškilmių arnotus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

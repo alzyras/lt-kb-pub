@@ -85,3 +85,4 @@ Mykolas Kazimieras Pacas, Lietuvos Didžiosios Kunigaikštystės etmonas ir Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

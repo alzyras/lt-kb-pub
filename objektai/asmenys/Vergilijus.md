@@ -131,3 +131,4 @@ Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir En
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

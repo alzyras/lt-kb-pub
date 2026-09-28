@@ -57,3 +57,4 @@ Narbutas, remdamasis senoviniais Berosijaus padavimais, Araksą vadina Jonušo d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

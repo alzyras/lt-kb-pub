@@ -78,3 +78,4 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

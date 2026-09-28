@@ -89,3 +89,4 @@ Dusburgietis teigia, kad intaką Zelvą; pastarosios intakas Sasva (Pružanų rj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

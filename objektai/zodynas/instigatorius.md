@@ -72,3 +72,4 @@ Todėl šiuo raštu įgaliojame visus seniūnus ir mūsų valdinius, kad, iškil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

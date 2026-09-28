@@ -215,3 +215,4 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

@@ -53,3 +53,4 @@ Narbutas perteikia Georgi nuomonę, kad japonų dievai Kami visiškai tapatūs e
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

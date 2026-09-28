@@ -76,3 +76,4 @@ Sąjunga įpareigojo žemaičius prireikus tarnauti Ordino kariaunoje, įtvirtin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

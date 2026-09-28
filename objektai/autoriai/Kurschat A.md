@@ -85,3 +85,4 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

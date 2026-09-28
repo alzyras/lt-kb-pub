@@ -70,3 +70,4 @@ Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

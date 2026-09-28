@@ -77,3 +77,4 @@ Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių m
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

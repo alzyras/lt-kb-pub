@@ -340,3 +340,4 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+

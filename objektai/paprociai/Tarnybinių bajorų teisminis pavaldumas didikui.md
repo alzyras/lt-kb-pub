@@ -81,3 +81,4 @@ Didiko ir bajoro ryšys galėjo būti laikomas feodaliniu, kai asmeninį ryšį 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

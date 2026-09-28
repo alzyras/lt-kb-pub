@@ -82,3 +82,4 @@ Kalinių priežiūros deputacija rūpinosi visais belaisvių ir areštantų reik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

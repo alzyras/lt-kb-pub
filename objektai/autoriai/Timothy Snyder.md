@@ -88,3 +88,4 @@ Timothy Snyderio manymu, ankstyvaisiais naujaisiais amžiais Abiejų Tautų Resp
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

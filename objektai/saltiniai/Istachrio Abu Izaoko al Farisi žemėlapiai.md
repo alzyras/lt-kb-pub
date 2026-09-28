@@ -97,3 +97,4 @@ Kruzė Gotos bibliotekoje aptiko arabų geografo Istachrio Abu Izaoko al Farisi 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

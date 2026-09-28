@@ -82,3 +82,4 @@ Numizmatikos rinkinio įraše Kristina Augusta Vaza nurodyta prie 1633 m. Rygos 
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

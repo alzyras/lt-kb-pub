@@ -113,3 +113,4 @@ Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upei vardą davė var
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

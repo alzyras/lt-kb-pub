@@ -134,3 +134,4 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

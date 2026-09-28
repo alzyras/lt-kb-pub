@@ -98,3 +98,4 @@ Dusburgietis teigia, kad nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

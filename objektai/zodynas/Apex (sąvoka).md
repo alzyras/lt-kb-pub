@@ -62,3 +62,4 @@ Indas, panašus į taurę, virš ku rio trikampis; virš skydo šalmas apex, kai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -79,3 +79,4 @@ Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

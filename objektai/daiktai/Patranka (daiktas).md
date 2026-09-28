@@ -217,3 +217,4 @@ Vokiečiai Kauno pilį sudaužė iš didelių patrankų. Jogaila nusprendė, kad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

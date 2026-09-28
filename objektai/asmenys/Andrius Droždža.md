@@ -76,3 +76,4 @@ Andrius Droždža buvo Mykolo Glinskio giminaitis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -110,3 +110,4 @@ Tačiau ir man pačiam yra tekę girdėti, kad kai kuriuose kaimuose šliaužo n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

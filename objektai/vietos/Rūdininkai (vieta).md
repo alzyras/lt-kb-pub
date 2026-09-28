@@ -81,3 +81,4 @@ canonical_biography: "Žygimantas Senasis 1556 m. Rūdininkuose paskelbė „Kar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

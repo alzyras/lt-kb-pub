@@ -72,3 +72,4 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

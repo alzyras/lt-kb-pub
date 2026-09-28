@@ -32,7 +32,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Marija Gabnienė"]
 sameAs: []
-canonical_biography: "Marija Gabnienė (Skapiškis, 1956–1998)."
+canonical_biography: "."
 ---
 # Marija Gabnienė
 
@@ -70,5 +70,6 @@ Marija Gabnienė dirbo bibliotekininke Skapiškyje 1956–1998 m.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -58,3 +58,4 @@ Pirmiausia pacituosime pa ties istoriko Riūso (Ruhs) žodžius, kur jis aiškin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -72,3 +72,4 @@ Trečią dieną po pilies paėmimo kryžiuočiai padegė Naujapilį ir atsitrauk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

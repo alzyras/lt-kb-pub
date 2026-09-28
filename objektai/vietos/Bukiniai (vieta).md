@@ -28,7 +28,6 @@ entity_roles: ["place"]
 entity_view_role: "place"
 entity_aliases: ["Bukiniai","Bukiniai (vieta)"]
 sameAs: []
-canonical_biography: "Jurgis Bukėnas, 83 m., Bukinių k., Kupiškio r."
 place_authority: true
 historical_names: []
 ---
@@ -68,5 +67,6 @@ Dainos užraše Jurgis Bukėnas nurodytas kaip 83 metų žmogus iš Bukinių kai
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

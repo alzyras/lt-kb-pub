@@ -204,3 +204,4 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   pagrindžia:
     - t-002
     - t-003
+

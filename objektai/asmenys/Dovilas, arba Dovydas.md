@@ -87,3 +87,4 @@ canonical_biography: "48), liudija, kad XII amžiuje jau būta Vilniaus ir kad �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

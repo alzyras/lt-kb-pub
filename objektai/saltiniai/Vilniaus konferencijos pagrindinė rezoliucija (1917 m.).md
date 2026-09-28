@@ -92,3 +92,4 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
   pagrindžia:
     - t-001
     - t-002
+

@@ -85,3 +85,4 @@ Laiškai adresatams buvo oficialiai ir viešai įteikti per krikščionis valdin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

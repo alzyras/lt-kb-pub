@@ -84,3 +84,4 @@ Todėl linkstama prie apytikrės datos – Lietuvos valstybė susikūrė apie 12
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

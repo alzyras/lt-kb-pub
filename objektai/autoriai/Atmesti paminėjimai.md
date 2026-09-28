@@ -584,3 +584,4 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+

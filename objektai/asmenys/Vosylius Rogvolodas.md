@@ -148,3 +148,4 @@ Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

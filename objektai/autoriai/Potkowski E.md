@@ -91,3 +91,4 @@ Dusburgietis teigia, kad po derybų Fridrichas II pripažino popiežiaus valdži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

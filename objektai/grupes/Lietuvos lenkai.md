@@ -80,3 +80,4 @@ Etninės kilmės lenkai LDK ir didelė dalis Lietuvos bajorijos tapo Lietuvos le
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

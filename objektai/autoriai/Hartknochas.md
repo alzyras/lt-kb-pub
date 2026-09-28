@@ -812,3 +812,4 @@ Tai­ gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs būti ta va
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219294
+

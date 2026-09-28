@@ -89,3 +89,4 @@ canonical_biography: "Įvadinis tekstas Francą Bopą mini tarp kalbininkų, kur
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

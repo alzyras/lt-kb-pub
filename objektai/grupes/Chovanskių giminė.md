@@ -65,3 +65,4 @@ Teodoro Narbuto pateikimu, kunigaikštis Patrikas turėjo tris sūnus — Teodor
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

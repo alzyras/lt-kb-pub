@@ -124,3 +124,4 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
   pagrindžia:
     - t-001
     - t-002
+

@@ -83,3 +83,4 @@ Mikalojus Daukša parengė „Katekizmą“, pirmąją lietuvišką knygą Lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

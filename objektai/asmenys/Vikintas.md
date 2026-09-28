@@ -85,3 +85,4 @@ Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

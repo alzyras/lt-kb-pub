@@ -76,3 +76,4 @@ Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -194,3 +194,4 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

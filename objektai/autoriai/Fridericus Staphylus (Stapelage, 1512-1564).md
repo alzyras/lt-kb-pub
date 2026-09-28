@@ -80,3 +80,4 @@ Kaune giminaičių namuose užaugęs Fridericus Staphylus (Stapelage, 1512-1564)
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

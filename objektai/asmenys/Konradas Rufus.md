@@ -66,3 +66,4 @@ Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranaš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

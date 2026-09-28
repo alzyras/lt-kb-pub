@@ -100,3 +100,4 @@ Dusburgietis teigia, kad 33—73; Springborn M, Herkus Monte.— Berlin, 1897; t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

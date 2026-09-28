@@ -67,3 +67,4 @@ Upė, įtekanti į Nemuną žemiau Jurbarko, ties Smali ninkais, kur eina Prūsi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

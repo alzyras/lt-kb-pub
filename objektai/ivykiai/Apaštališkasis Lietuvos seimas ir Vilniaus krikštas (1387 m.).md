@@ -135,3 +135,4 @@ Pasak Teodoro Narbuto, Jogaila, atvykęs į Vilnių, sušaukė Lietuvos seimą, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

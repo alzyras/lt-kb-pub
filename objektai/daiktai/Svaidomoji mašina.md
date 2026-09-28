@@ -81,3 +81,4 @@ Henrikas Taubadelis, vokiečių pusėje buvęs mašinų technikas, iš svaidykl�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

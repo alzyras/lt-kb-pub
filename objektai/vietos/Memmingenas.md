@@ -85,3 +85,4 @@ leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

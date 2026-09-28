@@ -70,3 +70,4 @@ Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine s
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-24666
+

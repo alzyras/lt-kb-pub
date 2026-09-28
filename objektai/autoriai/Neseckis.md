@@ -144,3 +144,4 @@ Krunevičiaus vardu pavadintas herbas buvo žinomas ir Neseckiui. Narbutas kriti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

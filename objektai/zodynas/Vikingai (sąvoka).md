@@ -94,3 +94,4 @@ Kaip byloja Siaurės tautų sagos, ir būtent garsioji Egilio saga, skandinavai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

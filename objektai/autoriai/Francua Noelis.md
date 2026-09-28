@@ -51,3 +51,4 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

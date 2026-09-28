@@ -120,3 +120,4 @@ XVI a. pabaigoje medžioklė virto ponų ir bajorų pramoga. Žvėriena buvo nea
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

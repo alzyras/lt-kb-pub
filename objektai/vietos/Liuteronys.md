@@ -73,3 +73,4 @@ Taip ir Mikniškių žemė, nuo­ mojama Vepriuose, Liuteronių kaime...........
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

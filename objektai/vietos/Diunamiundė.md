@@ -139,3 +139,4 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

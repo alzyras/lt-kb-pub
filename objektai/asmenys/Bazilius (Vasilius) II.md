@@ -85,3 +85,4 @@ canonical_biography: "1427 m. žygiavo į Maskvą padėti vaikaičiui Baziliui (
   temporalinis_llm_pakomentavimas: "Pirminis sakinys taisytinas dėl konstrukcijos; citata pagrindžia pagalbos žygį į Maskvą."
   pagrindžia:
     - c-21620
+

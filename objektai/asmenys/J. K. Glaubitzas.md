@@ -99,3 +99,4 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

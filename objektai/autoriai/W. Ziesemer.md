@@ -77,3 +77,4 @@ Ziesemer, Karaliau­ čiaus ir Dancigo archyvų žinovas, ypač atsidėjęs voki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

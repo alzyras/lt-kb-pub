@@ -124,3 +124,4 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

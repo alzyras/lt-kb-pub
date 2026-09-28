@@ -88,3 +88,4 @@ Tai reiškia: prijungsime jus prie vokiečių imperijos, sustiprįsime Jūsų ž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

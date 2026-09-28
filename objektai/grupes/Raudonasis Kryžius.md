@@ -72,3 +72,4 @@ Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

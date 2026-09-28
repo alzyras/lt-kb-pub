@@ -93,3 +93,4 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
   temporalinis_llm_pakomentavimas: "Pradinis sakinys taisytinas, kad tiesiogiai įvardytų asmens veiksmą."
   pagrindžia:
     - c-21938
+

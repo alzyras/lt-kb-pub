@@ -80,3 +80,4 @@ Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -95,3 +95,4 @@ Po Akono paėmimo Henrikas prie miesto sienų, priešais Šv. Mikalojaus vartus,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

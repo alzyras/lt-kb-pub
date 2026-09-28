@@ -79,6 +79,32 @@ Nenurodyta
   pagrindžia:
     - c-192474
 
+<a id="claim-t-230566"></a>
+- t-230566
+  teiginys: "Remiantis Alberto Apšegos ir Povilo Valmos tardymo duomenimis, 1950 m. sausio 26 d. Mirabelio miške rastame senajame partizanų bunkeryje paimti trys rankiniai kulkosvaidžiai."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:04Z"
+  pagrindžia:
+    - c-211204
+
+<a id="claim-t-230567"></a>
+- t-230567
+  teiginys: "Remiantis suimto partizano Vytauto Lapienio-Uosio tardymo duomenimis, 1950 m. vasario 9 d. Šimonių girioje per karinę čekistų operaciją rastame požeminiame bunkeryje paimtas vienas vokiškas rankinis kulkosvaidis."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  vertinimo_atnaujinta: "2026-09-27T12:51:04Z"
+  pagrindžia:
+    - c-211205
+
 ## Santrauka
 
 Moterė lės verkia iš susirūpinimo, ir negali suprasti, kad kas nors iš liuoso noro važiuotų ten, kur kulkosvaidžiai ardo gyvastis, kur bombos dras ko namus ir kūnus Jos sako: klebonas ne grįši pas mus daugiau; iš kitų veidų galima skaityti abejojimas apie. Jojo priederystė buvo prižiūrėti fabrikas, išdirbančias kulkosvaidžius Rusijai. Tarp Berno ir Friburg'o susitinka traukiniai ir rei kia matyti, sako šveicaras tuos sumaltus, su draskytus bombomis, kulkosvaidžiais nepana šius į žmones kareivius, kuomet jie ligišiolei didžiausi priešai, viens kitą meilingai sveikina ir lieja ašarų upelius.
@@ -146,3 +172,28 @@ Moterė lės verkia iš susirūpinimo, ir negali suprasti, kad kas nors iš liuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+- id: c-211204
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 389"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 389."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230566
+
+- id: c-211205
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 389"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 389."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-230567
+

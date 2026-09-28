@@ -168,3 +168,4 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

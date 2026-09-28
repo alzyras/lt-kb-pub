@@ -61,3 +61,4 @@ Feliksas Bernatovičius 1826 m. Vilniuje išleido kūrinį „Pojata corka Lezde
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

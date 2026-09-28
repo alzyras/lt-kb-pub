@@ -127,3 +127,4 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

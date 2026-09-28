@@ -76,3 +76,4 @@ M. Bielskio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, pažįstam�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

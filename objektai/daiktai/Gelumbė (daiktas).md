@@ -82,3 +82,4 @@ Aukštesnės rūšies gelumbę gamindavo amatininkai specialistai, vienas jos ga
   atnaujinta: "2026-07-26 19:20"
   pagrindžia:
     - t-001
+

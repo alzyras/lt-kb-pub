@@ -98,3 +98,4 @@ Prie Sdubrų kaimo buvo atkasti didesni kapai, o jų vietoje Narbutas mini randa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

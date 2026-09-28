@@ -146,3 +146,4 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208289
+

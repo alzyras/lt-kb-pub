@@ -257,3 +257,4 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

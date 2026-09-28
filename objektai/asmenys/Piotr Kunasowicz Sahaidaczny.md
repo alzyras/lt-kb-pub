@@ -55,3 +55,4 @@ Narbutas Piotrą Kunasowiczių Sahaidaczny mini kaip kazokų atamaną, kurio tė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

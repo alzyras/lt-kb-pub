@@ -84,3 +84,4 @@ Kiekvienas kariaujančios su Vokietija šalies pi lietis, papuolęs kokiu nors b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

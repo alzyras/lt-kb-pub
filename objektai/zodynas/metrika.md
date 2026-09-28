@@ -66,3 +66,4 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

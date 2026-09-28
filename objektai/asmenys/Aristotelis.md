@@ -177,3 +177,4 @@ Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kriti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

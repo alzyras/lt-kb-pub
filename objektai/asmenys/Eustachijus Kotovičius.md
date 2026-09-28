@@ -98,3 +98,4 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

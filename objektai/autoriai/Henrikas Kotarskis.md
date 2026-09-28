@@ -90,3 +90,4 @@ Henrikas Kotarskis nurodo, kad XVI a. fortifikacijos sistema Lenkijos Karalystė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

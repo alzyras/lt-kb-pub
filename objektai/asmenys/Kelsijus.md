@@ -111,3 +111,4 @@ Kelsijų ir Daliną Teodoras Narbutas kritikavo už skaičiavimą, kad Baltijos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

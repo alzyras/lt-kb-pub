@@ -88,3 +88,4 @@ gruodžio 15 d. į visuotinį Bažnyčios sinodą Konstancijoje nusiuntė net 60
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -97,3 +97,4 @@ Sūduviai apsiautė ir sugriovė Bartenšteino pilį, kurioje buvo įsikūrę ba
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

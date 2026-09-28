@@ -189,3 +189,4 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

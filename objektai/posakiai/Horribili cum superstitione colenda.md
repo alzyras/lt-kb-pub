@@ -51,3 +51,4 @@ Narbutas nurodo, kad vyskupo Petro rankraštyje lietuviai esą garbino deivę Le
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

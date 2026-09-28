@@ -161,3 +161,4 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

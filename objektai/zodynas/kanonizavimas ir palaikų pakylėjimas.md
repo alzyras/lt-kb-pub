@@ -75,3 +75,4 @@ Stanislo­ vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­ lyvavu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

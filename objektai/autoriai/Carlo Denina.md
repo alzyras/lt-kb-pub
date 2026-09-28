@@ -103,3 +103,4 @@ Carlo Denina nurodytas kaip 1784 m. Venecijoje išleisto veikalo „Delle Rivolu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

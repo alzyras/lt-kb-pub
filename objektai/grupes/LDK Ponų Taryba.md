@@ -69,3 +69,4 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

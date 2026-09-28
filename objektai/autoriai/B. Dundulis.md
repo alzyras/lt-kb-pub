@@ -238,3 +238,4 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

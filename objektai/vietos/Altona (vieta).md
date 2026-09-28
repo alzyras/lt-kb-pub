@@ -143,3 +143,4 @@ A. Midletonas persikėlė į Danijai priklausiusią Altoną. A. Midletonas po vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

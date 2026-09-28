@@ -127,3 +127,4 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

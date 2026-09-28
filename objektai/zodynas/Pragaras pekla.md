@@ -55,3 +55,4 @@ Narbutas iš padavimų spėjo, kad lietuviai įsivaizdavo rojų ir peklą, o žo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

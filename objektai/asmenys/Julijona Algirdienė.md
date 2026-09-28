@@ -105,3 +105,4 @@ Teodoras Narbutas spėja, kad kunigaikštienė Julijona reikšmingai prisidėjo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

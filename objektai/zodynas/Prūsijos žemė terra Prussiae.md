@@ -240,3 +240,4 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

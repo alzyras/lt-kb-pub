@@ -79,3 +79,4 @@ Lietuvos diduomenė ilgainiui ėmė kompensuoti feodaline teise tarnaujančių p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

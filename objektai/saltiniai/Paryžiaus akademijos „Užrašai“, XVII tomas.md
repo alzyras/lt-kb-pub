@@ -57,3 +57,4 @@ Paryžiaus akademijos „Užrašų“ XVII tome plačiai dės tomi pastebėjimai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

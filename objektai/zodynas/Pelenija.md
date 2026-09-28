@@ -85,3 +85,4 @@ Terminas siejamas su pirmąja pavasario diena.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

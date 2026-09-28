@@ -117,3 +117,4 @@ Narbutas Konstantiną VII Purpurinį vadina istoriku ir juo remiasi aiškindamas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -160,3 +160,4 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   pagrindžia:
     - t-003
     - t-004
+

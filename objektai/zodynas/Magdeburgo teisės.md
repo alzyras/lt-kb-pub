@@ -753,3 +753,4 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+

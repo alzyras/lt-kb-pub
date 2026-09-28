@@ -57,3 +57,4 @@ Rodo paties Narbuto etimologinę pastabą ir originalią formuluotę.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

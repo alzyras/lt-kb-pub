@@ -125,3 +125,4 @@ Vilniuje veikusi masonų ložė.
   pagrindžia:
     - t-001
     - t-002
+

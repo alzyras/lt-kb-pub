@@ -226,6 +226,7 @@ object_page_seo_policy_version: object-page-policy/v7
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-164046
+    - c-182611
     - c-186131
 
 <a id="claim-t-180441"></a>
@@ -1125,6 +1126,7 @@ object_page_seo_policy_version: object-page-policy/v7
   susije_objektai: "mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Viena; mentioned_place: Vilnius"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
+    - c-164094
     - c-182628
 
 <a id="claim-t-203194"></a>
@@ -1150,6 +1152,8 @@ object_page_seo_policy_version: object-page-policy/v7
   susije_objektai: "mentioned_place: Livonija; mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Maskva"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
+    - c-164047
+    - c-182637
     - c-182642
 
 <a id="claim-t-203236"></a>
@@ -1163,6 +1167,7 @@ object_page_seo_policy_version: object-page-policy/v7
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-164094
+    - c-182628
 
 <a id="claim-t-203336"></a>
 - t-063
@@ -1740,6 +1745,8 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-061
 
 - id: c-164048
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2219,6 +2226,7 @@ object_page_seo_policy_version: object-page-policy/v7
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+    - t-059
     - t-062
 
 - id: c-164097
@@ -2630,6 +2638,8 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-008
 
 - id: c-182612
   autorius: "Michał Baliński"
@@ -3029,6 +3039,7 @@ object_page_seo_policy_version: object-page-policy/v7
   pagrindžia:
     - t-005
     - t-059
+    - t-062
 
 - id: c-182629
   autorius: "Teodoras Narbutas"
@@ -3234,6 +3245,8 @@ object_page_seo_policy_version: object-page-policy/v7
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-061
 
 - id: c-182638
   autorius: "Anoniminis metraštininkas"

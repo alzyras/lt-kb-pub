@@ -88,3 +88,4 @@ Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Gri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

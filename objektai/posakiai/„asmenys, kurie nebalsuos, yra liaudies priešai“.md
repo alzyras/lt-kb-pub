@@ -105,3 +105,4 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

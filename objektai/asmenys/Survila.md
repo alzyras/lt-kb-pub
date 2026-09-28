@@ -172,3 +172,4 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

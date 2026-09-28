@@ -61,3 +61,4 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

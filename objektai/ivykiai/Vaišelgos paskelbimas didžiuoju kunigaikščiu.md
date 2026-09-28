@@ -73,3 +73,4 @@ Teodoras Narbutas rašo, kad Kernavėje skubiai sušaukti didikai paskelbė Vai�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -52,3 +52,4 @@ Anot Enėjo Silvijaus liudijimo, Zantiro šventyklos aptvare buvo šventas ąžu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

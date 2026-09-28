@@ -75,3 +75,4 @@ Senosios Trakų pilies virš didžiųjų vartų seniau buvo akmenyje iškaltas k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

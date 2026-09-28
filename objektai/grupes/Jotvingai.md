@@ -62,3 +62,4 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

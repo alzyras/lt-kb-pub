@@ -115,3 +115,4 @@ Magistrato valdininkas Pulokolovskis, valydamas tuos griuvėsius, rado ten kadai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

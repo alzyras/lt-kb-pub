@@ -75,3 +75,4 @@ is, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūn
   temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, aiškus ir atitinka citatoje nurodytus duomenis."
   pagrindžia:
     - c-24837
+

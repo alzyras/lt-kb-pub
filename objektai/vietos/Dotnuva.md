@@ -182,3 +182,4 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208532
+

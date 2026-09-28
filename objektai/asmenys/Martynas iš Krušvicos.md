@@ -91,3 +91,4 @@ Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -73,3 +73,4 @@ Vien tik Vytauto privilegi­ jos Rygos, vokiečių ir rusų pirkliams, liudijan�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

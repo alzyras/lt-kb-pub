@@ -75,3 +75,4 @@ Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

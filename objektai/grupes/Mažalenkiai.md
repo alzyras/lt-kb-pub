@@ -71,3 +71,4 @@ Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Le
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

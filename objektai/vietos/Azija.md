@@ -207,3 +207,4 @@ Narbutas daugelį senųjų Azijos tautų apibūdina kaip gyvenusias ta pačia se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216436
+

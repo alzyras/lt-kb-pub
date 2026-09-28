@@ -115,3 +115,4 @@ Narbutas rašo, kad danų mokslininkas Rasmusas Raskas 1817 m. lietuvius kildino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -104,3 +104,4 @@ Narbutas pasakoja, kad ant Anapilio kalno sukaupti Vizino turtai atiteko Danijos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

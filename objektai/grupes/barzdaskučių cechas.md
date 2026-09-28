@@ -63,3 +63,4 @@ Tačiau jie kartu su kitais cecho nariais buvo įpareigoti kiekvieną savaitę i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

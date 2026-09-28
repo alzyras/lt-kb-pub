@@ -84,3 +84,4 @@ Edvardas Gudavičius XV–XVI a. istorijoje įžvelgė europeizaciją, tiksliau 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

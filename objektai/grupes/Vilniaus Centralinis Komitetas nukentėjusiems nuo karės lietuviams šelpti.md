@@ -60,3 +60,4 @@ Komiteto valdyba pasirašė Lietuvos kunigų prašymą suteikti pagalbą Lietuva
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

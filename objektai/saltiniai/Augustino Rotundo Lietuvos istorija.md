@@ -88,3 +88,4 @@ Sį tomą užbaigia dvi genealoginės lentelės, kurių pa grindinė dalis paimt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

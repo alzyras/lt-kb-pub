@@ -67,3 +67,4 @@ Abu terminai vartojami 1864 m. žemės ir ūkinės padėties kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

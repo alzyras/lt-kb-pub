@@ -157,3 +157,4 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

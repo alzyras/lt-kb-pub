@@ -73,3 +73,4 @@ Broliai nusiaubė Dramenavos kaimą Pabečių valsčiuje, paėmė į nelaisvę i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

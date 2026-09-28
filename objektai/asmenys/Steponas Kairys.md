@@ -94,3 +94,4 @@ Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis 
   temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia Stepono Kairio dalyvavimą Berno konferencijoje."
   pagrindžia:
     - c-64966
+

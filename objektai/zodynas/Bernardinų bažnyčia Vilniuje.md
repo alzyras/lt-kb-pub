@@ -75,3 +75,4 @@ Pritrūkus lėšų ir atšalus statytojų uolumui dėl Reformacijos įtakos, Ber
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

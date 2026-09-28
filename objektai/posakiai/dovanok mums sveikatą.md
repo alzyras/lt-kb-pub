@@ -80,3 +80,4 @@ Apeiginis sveikatos prašymas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

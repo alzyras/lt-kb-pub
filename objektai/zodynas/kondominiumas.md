@@ -75,3 +75,4 @@ Panašu, kad LDK rusiškosios žemės buvo Lietuvos ir Aukso ordos kondominiumas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

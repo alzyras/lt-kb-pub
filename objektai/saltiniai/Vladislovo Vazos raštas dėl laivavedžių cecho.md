@@ -62,3 +62,4 @@ Ne visai aišku, kada buvo įkurtas ar bent pradėtas kurti laivavedžių cechas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

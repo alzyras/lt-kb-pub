@@ -220,3 +220,4 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

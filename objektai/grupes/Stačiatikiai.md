@@ -288,3 +288,4 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

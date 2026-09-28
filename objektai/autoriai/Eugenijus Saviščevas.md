@@ -78,3 +78,4 @@ Eugenijus Saviščevas publikavo 1553 m. Žemaitijos pilies teismo bylą dėl Ad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

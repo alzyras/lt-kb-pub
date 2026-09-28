@@ -79,3 +79,4 @@ Narbutas rašo, kad Adomas Bremenietis Sembą siejo su rusais arba Rusios krašt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

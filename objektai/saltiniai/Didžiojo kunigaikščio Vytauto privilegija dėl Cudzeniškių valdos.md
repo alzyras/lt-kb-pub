@@ -66,3 +66,4 @@ Ducis Withowdi super bona Tudeniski [Didžiojo kunigaikščio Vytauto privilegij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

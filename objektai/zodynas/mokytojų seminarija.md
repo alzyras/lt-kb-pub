@@ -138,3 +138,4 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
   pagrindžia:
     - t-001
     - t-003
+

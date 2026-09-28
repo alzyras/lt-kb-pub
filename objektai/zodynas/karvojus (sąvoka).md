@@ -66,3 +66,4 @@ Karvojus valgomas, o Gondu vestuvių apeigose paliekamas ant stalo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

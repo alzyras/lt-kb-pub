@@ -125,3 +125,4 @@ Mazovijos kunigaikščio Konrado laikais Uchanės grafas Gotardas, Lukošiaus s�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -206,3 +206,4 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

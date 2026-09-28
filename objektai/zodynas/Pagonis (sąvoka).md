@@ -63,3 +63,4 @@ Goštautas, susirinko Vilniaus miesliečiai pagonys ir di deliu būriu atėjo pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

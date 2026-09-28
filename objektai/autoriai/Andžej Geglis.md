@@ -243,3 +243,4 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -64,3 +64,4 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -64,3 +64,4 @@ Vorobjovas architektūros sudvasinimą šiame portale siejo su vartų architekt�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -107,3 +107,4 @@ Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėlia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

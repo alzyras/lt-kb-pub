@@ -56,3 +56,4 @@ Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

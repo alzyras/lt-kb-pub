@@ -91,3 +91,4 @@ m n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

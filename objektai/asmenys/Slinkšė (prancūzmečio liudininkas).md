@@ -111,3 +111,4 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

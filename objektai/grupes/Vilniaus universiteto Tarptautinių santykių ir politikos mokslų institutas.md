@@ -88,3 +88,4 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
   temporalinis_llm_pakomentavimas: "Teiginys pataisytas į sklandesnę gramatinę formą, nekeičiant citatos faktų."
   pagrindžia:
     - c-22811
+

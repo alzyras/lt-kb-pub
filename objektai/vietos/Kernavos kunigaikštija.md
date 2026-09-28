@@ -75,3 +75,4 @@ Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

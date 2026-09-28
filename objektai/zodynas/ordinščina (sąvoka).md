@@ -69,3 +69,4 @@ Nors Kaunui totorių puolimai negrėsė, solidariai su kitais miestais jis turė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

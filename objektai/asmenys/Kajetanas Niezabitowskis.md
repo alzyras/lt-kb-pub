@@ -61,3 +61,4 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

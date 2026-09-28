@@ -88,3 +88,4 @@ Jan Fijałek 1415 mt.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

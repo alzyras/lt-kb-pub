@@ -72,3 +72,4 @@ Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur na, pripildyta vanden
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

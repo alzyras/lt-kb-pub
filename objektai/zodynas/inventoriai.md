@@ -126,3 +126,4 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

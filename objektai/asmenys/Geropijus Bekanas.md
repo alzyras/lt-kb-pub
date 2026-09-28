@@ -162,3 +162,4 @@ Narbutas rašo, kad Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

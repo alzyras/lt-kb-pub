@@ -69,3 +69,4 @@ Leidimas aplankyti gimines buvo paliktas vietinės valdžios sauvalei.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

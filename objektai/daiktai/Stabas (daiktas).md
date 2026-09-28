@@ -113,3 +113,4 @@ Seniausios mados stabai buvo nedailūs medžio gabalai, keisto pavidalo akmenys 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -108,3 +108,4 @@ Iškart paskelbus nuosprendį, Stanislovas Butkaitis buvo nuvestas į egzekucijo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -67,3 +67,4 @@ Apie 1340 m. Mikalojus iš Jerošino baigė eiliuotą Dusburgiečio kronikos ver
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

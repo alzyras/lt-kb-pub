@@ -65,3 +65,4 @@ Lietuvių garbinti dangaus kū nai (Saulė, Mėnuo, Aušra, Vakarinė, žvaigžd
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

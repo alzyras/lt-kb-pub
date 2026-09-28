@@ -57,3 +57,4 @@ Jeigu broliai būtų paklausę tavo patarimo, tikrai nebūtų buvę nukauti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -109,3 +109,4 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

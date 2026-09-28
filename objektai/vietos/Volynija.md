@@ -335,3 +335,4 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

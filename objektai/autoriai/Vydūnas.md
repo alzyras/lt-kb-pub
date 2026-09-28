@@ -161,3 +161,4 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-225942
+

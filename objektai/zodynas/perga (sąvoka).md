@@ -92,3 +92,4 @@ Mažiausias Aleksote statomas laivas buvo perga. Tai gali būti iš rašytinių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -67,3 +67,4 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

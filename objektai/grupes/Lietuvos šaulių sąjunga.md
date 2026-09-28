@@ -279,3 +279,4 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   pagrindžia:
     - t-003
     - t-006
+

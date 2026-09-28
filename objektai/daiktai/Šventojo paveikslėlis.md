@@ -72,3 +72,4 @@ Narbutas teigia, kad Lietuvos kaimiečiai šventojo paveikslėlį prikaldavo iš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

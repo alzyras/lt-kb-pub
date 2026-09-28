@@ -68,3 +68,4 @@ Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

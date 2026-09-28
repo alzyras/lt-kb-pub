@@ -101,3 +101,4 @@ Horodlo unija buvo LDK ir Lenkijos feodalų susitarimas Horodle, sudarytas 1413 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

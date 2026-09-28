@@ -276,3 +276,4 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

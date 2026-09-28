@@ -81,3 +81,4 @@ Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

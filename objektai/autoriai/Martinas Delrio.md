@@ -102,3 +102,4 @@ Narbutas rašo, kad Delrijus šv. Jono išvakarėse atliekamus būrimus su ugnim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -64,3 +64,4 @@ Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

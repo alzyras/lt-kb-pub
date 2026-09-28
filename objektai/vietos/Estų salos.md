@@ -101,3 +101,4 @@ Estų salos šiame šaltinyje yra salų regionas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

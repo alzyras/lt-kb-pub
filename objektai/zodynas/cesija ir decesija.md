@@ -86,3 +86,4 @@ Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar to
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

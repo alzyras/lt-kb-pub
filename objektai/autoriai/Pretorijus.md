@@ -557,3 +557,4 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217801
+

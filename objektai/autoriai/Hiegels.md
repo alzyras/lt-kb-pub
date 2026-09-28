@@ -51,3 +51,4 @@ Narbutas nurodo, kad Hiegels Kašmiro žemumoje pastebėjo paprotį prie dviejų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

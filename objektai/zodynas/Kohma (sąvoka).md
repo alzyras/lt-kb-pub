@@ -66,3 +66,4 @@ Kohma — puotų ir apsivalgymo dievaičio vardas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

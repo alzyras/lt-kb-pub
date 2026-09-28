@@ -180,3 +180,4 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

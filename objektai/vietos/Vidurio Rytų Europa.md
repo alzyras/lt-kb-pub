@@ -77,3 +77,4 @@ LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

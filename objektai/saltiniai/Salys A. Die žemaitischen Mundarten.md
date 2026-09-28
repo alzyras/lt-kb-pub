@@ -85,3 +85,4 @@ Dusburgietis teigia, kad die žemaitischen Mundarten.— Teil 1: Geschichte des 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

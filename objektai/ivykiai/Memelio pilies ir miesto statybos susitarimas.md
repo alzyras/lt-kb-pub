@@ -131,3 +131,4 @@ Pagal susitarimą Livonijos kryžiuočiai, magistraujant Eberhardui Zeinui, penk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

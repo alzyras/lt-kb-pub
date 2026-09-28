@@ -134,3 +134,4 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

@@ -309,3 +309,4 @@ Petras Puzaras Motiejų Valančių apibūdina kaip vieną labiausiai pasižymėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+

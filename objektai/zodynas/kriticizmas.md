@@ -93,3 +93,4 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

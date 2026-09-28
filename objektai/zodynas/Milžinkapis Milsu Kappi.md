@@ -66,3 +66,4 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

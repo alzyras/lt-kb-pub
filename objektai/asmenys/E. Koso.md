@@ -75,3 +75,4 @@ Rusų gynybos centrinius įtvirtinimus atakavo 7-asis lenkų pėstininkų pulkas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

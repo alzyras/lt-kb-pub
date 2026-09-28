@@ -46,3 +46,4 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

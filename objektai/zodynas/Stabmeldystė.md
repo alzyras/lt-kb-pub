@@ -56,3 +56,4 @@ O kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo krikš�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

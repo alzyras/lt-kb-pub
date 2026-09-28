@@ -84,3 +84,4 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

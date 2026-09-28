@@ -81,3 +81,4 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

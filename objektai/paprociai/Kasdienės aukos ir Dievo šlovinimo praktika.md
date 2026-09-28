@@ -76,3 +76,4 @@ Dusburgietis teigia, kad ir ji kaip Dovydas įsivedė kunigystę ir kas dieną �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

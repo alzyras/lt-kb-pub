@@ -162,3 +162,4 @@ Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekanč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

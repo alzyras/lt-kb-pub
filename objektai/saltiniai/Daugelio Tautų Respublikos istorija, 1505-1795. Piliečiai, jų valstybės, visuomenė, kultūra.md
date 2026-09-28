@@ -99,3 +99,4 @@ Andrzejus Sulima Kaminskis parašė studiją „Daugelio Tautų Respublikos isto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

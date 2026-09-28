@@ -73,3 +73,4 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

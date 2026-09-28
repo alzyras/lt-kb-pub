@@ -72,3 +72,4 @@ Kulmo dvasininkai ir tikintieji relikviją priėmė su didelėmis iškilmėmis i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

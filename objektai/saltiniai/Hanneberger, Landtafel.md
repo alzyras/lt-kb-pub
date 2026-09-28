@@ -59,3 +59,4 @@ Hannebergerio Landtafel nurodo, kad Galindos kunigaikštis Jesugubu gyveno netol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -93,3 +93,4 @@ canonical_biography: "1619 m. 56 Miesto aktuose yra: karaliaus Stepo­ no patvir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

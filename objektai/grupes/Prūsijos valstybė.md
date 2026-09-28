@@ -120,3 +120,4 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo nutrūkęs, citata paremia glaustesnį faktą."
   pagrindžia:
     - c-22703
+

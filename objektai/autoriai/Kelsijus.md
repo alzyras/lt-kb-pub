@@ -111,3 +111,4 @@ Narbutas kritiškai vertina Kelsijaus ir Dalino skaičiavimą, kad nuo Kristaus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

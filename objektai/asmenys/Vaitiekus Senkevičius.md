@@ -80,3 +80,4 @@ canonical_biography: "1792 m. Vaitiekus Senkevičius su Pranciška Senkevičiene
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -82,3 +82,4 @@ canonical_biography: "1585 m. Bartolomėjus Petravičius Upytės pilies teisme s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

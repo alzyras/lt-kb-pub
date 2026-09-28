@@ -83,3 +83,4 @@ Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -113,3 +113,4 @@ Narbutas rašo, kad XIII a. Rusbergas, arba Rubrikvis, su Karpinu keliavo per Ry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -58,3 +58,4 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -177,3 +177,4 @@ Narbutas samojedus laikė paskutiniais Šiaurės Europos stabmeldžiais ir raš�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218312
+

@@ -76,3 +76,4 @@ p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

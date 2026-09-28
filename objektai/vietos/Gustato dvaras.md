@@ -76,3 +76,4 @@ Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvar�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

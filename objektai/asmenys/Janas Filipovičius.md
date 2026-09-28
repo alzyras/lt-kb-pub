@@ -87,3 +87,4 @@ Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas; Lietuvos Me
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

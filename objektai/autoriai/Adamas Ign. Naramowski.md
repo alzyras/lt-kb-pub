@@ -125,3 +125,4 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -63,3 +63,4 @@ Kariška monarchija, jeigu taip trum­ pai galima išsireikšti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

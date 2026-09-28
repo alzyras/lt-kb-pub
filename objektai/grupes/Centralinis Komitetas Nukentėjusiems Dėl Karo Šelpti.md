@@ -262,3 +262,4 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+

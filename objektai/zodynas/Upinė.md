@@ -173,3 +173,4 @@ Narbutas Upinę aprašė kaip upių, šaltinių ir apskritai tekančio vandens d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

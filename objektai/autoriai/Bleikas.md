@@ -114,3 +114,4 @@ Anglų keliautojas mokslininkas Bleikas nurodė Baltojo Himalajų kalno aukštį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

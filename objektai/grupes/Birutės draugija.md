@@ -64,3 +64,4 @@ Birutės draugija: pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

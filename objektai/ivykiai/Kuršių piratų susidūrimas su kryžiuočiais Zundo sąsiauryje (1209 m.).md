@@ -91,3 +91,4 @@ Tais pačiais metais Fryzijos jūreiviai Gotlande užpuolė keturis kuršių pl�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

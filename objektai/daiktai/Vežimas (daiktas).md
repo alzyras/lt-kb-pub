@@ -142,3 +142,4 @@ Prie stoties nebuvo jokio vežimo, jokio automobiliaūs.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

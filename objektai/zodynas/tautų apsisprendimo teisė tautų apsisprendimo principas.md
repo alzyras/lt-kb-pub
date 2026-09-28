@@ -300,3 +300,4 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+

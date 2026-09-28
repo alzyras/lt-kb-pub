@@ -64,3 +64,4 @@ Temir-Kutlujus iš Kijevo paėmė trijų tūkstančių lietuviškų rublių išp
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

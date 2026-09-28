@@ -135,3 +135,4 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

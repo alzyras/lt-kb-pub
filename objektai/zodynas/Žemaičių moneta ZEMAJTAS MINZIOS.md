@@ -88,3 +88,4 @@ Narbutas žemaičių monetos užrašą skaito kaip „ZEMAJTAS: MINZIOS“ ir ai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

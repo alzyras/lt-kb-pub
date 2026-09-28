@@ -55,3 +55,32 @@ Puponių kaime gyvenęs Povilas Petrulis 1941 m. rugpjūčio 15 d. buvo suimtas 
   patikimumo_saltinis: ai
   statusas: verified
 - t-002
+
+## Teiginiai
+
+<a id="claim-t-230608"></a>
+- t-001
+  teiginys: "Petras Petrulis, Jono sūnus, gimęs 1894 m., buvo suimtas 1947 m. gruodžio 21 d. po to, kai jo vienkiemyje rasta ginklų, rašomoji mašinėlė ir šovinių."
+  atnaujinta: "2026-09-28 20:07"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika"
+  pagrindžia:
+    - c-211246
+
+## Citatos
+
+- id: c-211246
+  autorius: "Ona Dapšytė-Kriukelienė"
+  šaltinis: "Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika"
+  puslapiai: "PDF 274"
+  indeksas: "Ona Dapšytė-Kriukelienė, Kupiškio krašto partizanai: 1944–1953 m. dokumentinė kronika, PDF 274."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-28 18:40"
+  pagrindžia:
+    - t-001
+

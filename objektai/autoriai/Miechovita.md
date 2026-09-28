@@ -183,3 +183,4 @@ canonical_biography: "22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s kl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

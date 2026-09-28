@@ -73,3 +73,4 @@ J. Pauonis šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

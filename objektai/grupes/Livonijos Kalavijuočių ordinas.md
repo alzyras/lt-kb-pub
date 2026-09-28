@@ -68,3 +68,4 @@ Jie nieko bendro, išskyrus regulą, su kalavijuočių riteriais neturėjo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

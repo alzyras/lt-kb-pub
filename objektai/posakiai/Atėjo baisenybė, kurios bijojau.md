@@ -139,3 +139,4 @@ Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -111,3 +111,4 @@ Pinigai į užimtą Lietuvą buvo siunčiami per Vilniaus ir Kauno Ost-Bankus. P
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

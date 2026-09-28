@@ -85,3 +85,4 @@ VIII amž. pusėje jie randami Sauslauke (prie Durbės).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

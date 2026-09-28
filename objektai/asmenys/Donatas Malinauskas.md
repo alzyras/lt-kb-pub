@@ -97,3 +97,4 @@ Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gin
   temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, tačiau citata aiškiai pagrindžia asmens veiksmą ir datą."
   pagrindžia:
     - c-21653
+

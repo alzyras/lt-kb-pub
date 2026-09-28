@@ -113,3 +113,4 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207497
+

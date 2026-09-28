@@ -213,3 +213,4 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

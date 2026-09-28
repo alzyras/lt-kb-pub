@@ -105,3 +105,4 @@ canonical_biography: "2002 m. Vykintas Vaitkevičius lokalizavo Kukaveičio lauk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

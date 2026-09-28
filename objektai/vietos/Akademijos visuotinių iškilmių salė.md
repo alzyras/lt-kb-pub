@@ -204,3 +204,4 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

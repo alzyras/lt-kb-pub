@@ -242,3 +242,4 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

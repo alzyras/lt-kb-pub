@@ -73,3 +73,4 @@ Didysis magistras Popo Osterna, tarpininkaujant vyskupams, sudarė sutartį su K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

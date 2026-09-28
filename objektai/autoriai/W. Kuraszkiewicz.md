@@ -82,3 +82,4 @@ Kuraszkiewicz, W.
   temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašą, leidžiantį suformuluoti faktą apie autorių."
   pagrindžia:
     - c-33195
+

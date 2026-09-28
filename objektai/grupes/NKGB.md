@@ -223,3 +223,4 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

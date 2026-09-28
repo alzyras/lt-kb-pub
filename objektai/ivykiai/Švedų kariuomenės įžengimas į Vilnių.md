@@ -145,3 +145,4 @@ Memorialo autorius pažymėjo, kad švedų kariuomenei įžengus į Vilnių prie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

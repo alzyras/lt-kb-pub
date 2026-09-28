@@ -70,3 +70,4 @@ Vytautas Raudeliūnas straipsnyje „Mirties bausmė senovės Lietuvoje“ aptar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

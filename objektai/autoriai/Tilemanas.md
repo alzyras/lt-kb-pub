@@ -99,3 +99,4 @@ Narbutas nurodo, kad temos pagrindą sudarė ištraukos iš Tilemano, Muratoriau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

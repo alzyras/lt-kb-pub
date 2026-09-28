@@ -93,3 +93,4 @@ Vienoje pusėje buvo Gediminaičių Stulpai, kitoje – šv. Jurgis ant žirgo s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -61,3 +61,4 @@ Ant didesnės kliauties ir įtikėjimo, apžymėjom mes tą gromatą ta pačia �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

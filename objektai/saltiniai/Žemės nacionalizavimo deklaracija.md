@@ -87,3 +87,4 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

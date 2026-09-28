@@ -1,15 +1,15 @@
 {
-  "created_at": "2026-09-26T14:08:14.061232+03:00",
-  "db_revision": "4727e72bd160f9105f44c40028842a67a711b043094bc689da6b934dc855f77d",
-  "public_tree_hash": "afa379ac7e3e4719889736056e592614df6bdd8b5b8687ee22f37ff949572ee7",
-  "release_id": "b13547083fdf29cf690c97835871ce44d798d317fb902fc54a970b22365965d8",
+  "created_at": "2026-09-28T19:33:24.756938+03:00",
+  "db_revision": "e7a487b43d7719c8dd7a92ba467d6a4b8c2a15c7a3a86a78cd4983ceb8f7d116",
+  "public_tree_hash": "37b3b76a1b0ea4fd845d4c27f2ad8e5349061b4d74458d499c54fcfa56f521a1",
+  "release_id": "7a28330cc1d368c81ef60c6542fa215179f7be4eab459c03029e3ea8c50ba64c",
   "schema": "ltkb-site-release/v1",
   "sources": [
     {
       "publication_mode": "facts_only_page_locator",
-      "release_id": "7ca9d46ca422cb76aa6a8f3b52106919bc7cec6b85e16a1e5f8e3d33da95492c",
-      "source_hash": "1626b4d63e1c45c9e8ab5a5c199caa6e5447c7fcea93936f09e440d607f1d5ee",
-      "source_rel": "darbas/sources/Lituanistika-65087-kupiskis-naujausi-moksliniai-lokaliniai-tyrimai.md"
+      "release_id": "",
+      "source_hash": "b67f4eaaa3b682feed78a33609dd64f61e7af259f981c4f28a15a96cc4cc87fc",
+      "source_rel": "darbas/sources/Lituanistika-47481-kupiskio-krasto-partizanai-1944-1953-m-dokumentine-kronika.md"
     }
   ],
   "status": "ready"

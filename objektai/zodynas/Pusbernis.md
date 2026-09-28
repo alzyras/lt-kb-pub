@@ -122,3 +122,4 @@ Vartojamas asmens socialinei padėčiai nusakyti.
   pagrindžia:
     - t-001
     - t-002
+

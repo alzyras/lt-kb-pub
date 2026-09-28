@@ -107,3 +107,4 @@ Teodoras Narbutas Olafą Rudbeką minėjo tarp autorių, dėsčiusių apie Šiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

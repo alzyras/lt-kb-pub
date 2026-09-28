@@ -113,3 +113,4 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
   pagrindžia:
     - t-001
     - t-002
+

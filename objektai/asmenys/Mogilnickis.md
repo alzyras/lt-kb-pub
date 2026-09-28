@@ -71,3 +71,4 @@ Mogilnickis išleido 5 flor.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

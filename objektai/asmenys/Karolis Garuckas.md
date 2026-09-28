@@ -89,3 +89,4 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
   temporalinis_llm_pakomentavimas: "Perrašyta tiksliau, įvardijant grupę ir išlaikant citatos faktus."
   pagrindžia:
     - c-21807
+

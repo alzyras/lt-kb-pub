@@ -266,3 +266,4 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

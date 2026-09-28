@@ -80,3 +80,4 @@ Teodoras Narbutas Makartnį įvardija anglų pasiuntiniu, kurį lydėjo vėlesni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

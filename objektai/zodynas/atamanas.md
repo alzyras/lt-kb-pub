@@ -112,3 +112,4 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

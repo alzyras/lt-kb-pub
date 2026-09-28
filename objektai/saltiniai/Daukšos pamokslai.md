@@ -69,3 +69,4 @@ Daukša pamokslus, visam metui išgul dęs, išspaudė metuose 1599.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

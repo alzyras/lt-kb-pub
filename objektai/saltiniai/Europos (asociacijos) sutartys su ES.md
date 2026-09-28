@@ -68,3 +68,4 @@ Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) suta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

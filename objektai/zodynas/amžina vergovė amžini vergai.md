@@ -127,3 +127,4 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -95,3 +95,4 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
   pagrindžia:
     - t-001
     - t-002
+

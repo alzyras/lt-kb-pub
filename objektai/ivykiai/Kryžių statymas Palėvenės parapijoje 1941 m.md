@@ -89,3 +89,4 @@ Buivėnų kaimo žmonės pirmieji pastatė kryžių, o iki 1941 m. birželio Pal
   atnaujinta: "2026-09-25 02:17"
   pagrindžia:
     - t-001
+

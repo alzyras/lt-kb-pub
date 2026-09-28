@@ -70,3 +70,4 @@ Kryžiaus bažnyčią telkėsi nedidelė gyvenvietė tarsi Kauno priemiesčio u�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

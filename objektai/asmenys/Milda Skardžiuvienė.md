@@ -32,7 +32,7 @@ entity_roles: ["person"]
 entity_view_role: "person"
 entity_aliases: ["Milda Skardžiuvienė"]
 sameAs: []
-canonical_biography: "Milda Skardžiuvienė (Topoliai, 1960–1993)."
+canonical_biography: "."
 ---
 # Milda Skardžiuvienė
 
@@ -70,5 +70,6 @@ Milda Skardžiuvienė Topolių bibliotekoje dirbo 1960–1993 metais.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

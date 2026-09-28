@@ -100,3 +100,4 @@ Vėlyvame laiške Narbutas apmąsto savo darbo aplinkybes ir jo naudą būsimies
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Išskleistas laiško laikas, autorius ir darbo motyvas. Neperimti citatos emociniai vertinimai apie pavydžius ir piktus balsus."
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+

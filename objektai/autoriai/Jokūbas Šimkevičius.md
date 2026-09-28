@@ -91,3 +91,4 @@ canonical_biography: 1775–1818 m. Jokūbas Šimkevičius buvo „Veikalo apie 
   vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
   pagrindžia:
     - c-192028
+

@@ -260,3 +260,4 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+

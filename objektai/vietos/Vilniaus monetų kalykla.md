@@ -162,3 +162,4 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

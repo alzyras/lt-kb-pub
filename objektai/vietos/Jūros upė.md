@@ -187,3 +187,4 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213543
+

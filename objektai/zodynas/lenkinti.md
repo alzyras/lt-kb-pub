@@ -68,3 +68,4 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

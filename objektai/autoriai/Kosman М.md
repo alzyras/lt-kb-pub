@@ -91,3 +91,4 @@ Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

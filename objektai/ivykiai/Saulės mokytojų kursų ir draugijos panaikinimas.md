@@ -75,3 +75,4 @@ Saulės mokytojų kursai ir draugija buvo panaikinti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

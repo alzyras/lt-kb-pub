@@ -75,3 +75,4 @@ Eforas buvo graikų istorikas, Izokrato mokinys ir 30 tomų istorinio veikalo au
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -99,3 +99,4 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210205
+

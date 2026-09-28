@@ -63,3 +63,4 @@ Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

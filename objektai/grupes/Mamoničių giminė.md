@@ -130,3 +130,4 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

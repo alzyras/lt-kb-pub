@@ -44,3 +44,4 @@ Tas pava dinimas yra Lasickio mitologijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

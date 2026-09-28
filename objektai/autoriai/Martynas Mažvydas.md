@@ -127,3 +127,4 @@ Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207546
+

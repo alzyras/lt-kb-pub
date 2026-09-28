@@ -75,3 +75,4 @@ Naklo apsiausties metu buvo pasidaryta apsiausties mašinų ir kitokių karo įt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

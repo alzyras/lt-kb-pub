@@ -130,3 +130,4 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

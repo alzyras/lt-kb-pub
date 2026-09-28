@@ -102,3 +102,4 @@ Kazimierz Pieczkis kartu su broliu Motiejumi buvo nuteistas mirti už bajoro nu�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

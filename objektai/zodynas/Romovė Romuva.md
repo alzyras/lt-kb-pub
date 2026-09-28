@@ -73,3 +73,4 @@ Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos vieta apskrit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

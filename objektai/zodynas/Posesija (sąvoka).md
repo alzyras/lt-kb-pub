@@ -121,3 +121,4 @@ Miesto branduolio kvartalai buvo padalyti į sklypus arba posesijas. Vienuolynui
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

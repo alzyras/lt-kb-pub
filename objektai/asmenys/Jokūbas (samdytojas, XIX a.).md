@@ -144,3 +144,4 @@ Jokūbas samdos vakare rodomas kaip ūkininkas ir samdytojas, kurį Lileika ragi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

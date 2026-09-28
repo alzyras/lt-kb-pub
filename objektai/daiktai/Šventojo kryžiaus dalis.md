@@ -75,3 +75,4 @@ Dusburgietis pasakoja, kad imperatorius Fridrichas II magistrui perleido didelę
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -91,3 +91,4 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

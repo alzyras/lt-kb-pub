@@ -134,3 +134,4 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

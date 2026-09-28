@@ -65,3 +65,4 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

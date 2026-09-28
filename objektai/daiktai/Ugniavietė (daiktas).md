@@ -81,3 +81,4 @@ Skirmantas pagal tėvo nurodymą Vilnios žiotyse įtaisė ugniavietę.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

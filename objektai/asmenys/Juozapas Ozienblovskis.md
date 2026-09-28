@@ -79,3 +79,4 @@ Tikėtina, kad Juozapas Ozienblovskis buvo Vilkmergės stalininkas nuo 1693 m. s
   atnaujinta: "2026-07-19 13:07"
   pagrindžia:
     - t-001
+

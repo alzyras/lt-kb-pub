@@ -82,3 +82,4 @@ Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Feder
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

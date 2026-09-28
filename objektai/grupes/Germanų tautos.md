@@ -60,3 +60,4 @@ Nėra nė mažiausių abejonių, jog ger manų tautų valtys išplaukdavo toliau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -97,3 +97,4 @@ Teodoras Narbutas aprašo Lydos klebonijos dokumentuose rastą Vladislovo privil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

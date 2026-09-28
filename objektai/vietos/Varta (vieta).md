@@ -71,3 +71,4 @@ Neras įteka į Vartą prie Chelmo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -111,3 +111,4 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

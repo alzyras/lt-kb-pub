@@ -66,3 +66,4 @@ Sutartyje skelbta abiejų pusių kalinių ir įkaitų, tarp jų kunigaikščio �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

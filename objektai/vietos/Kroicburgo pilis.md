@@ -66,3 +66,4 @@ Kroicburgo pilis pastatyta Notangos žemėje prie Kaustros upės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

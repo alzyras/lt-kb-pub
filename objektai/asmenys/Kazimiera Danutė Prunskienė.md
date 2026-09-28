@@ -78,3 +78,4 @@ Pretekstu tapo Lietuvos Vyriausybės, vadovaujamos Kazimieros Danutės Prunskien
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -128,3 +128,4 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

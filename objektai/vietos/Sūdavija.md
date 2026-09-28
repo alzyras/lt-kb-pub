@@ -84,3 +84,4 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

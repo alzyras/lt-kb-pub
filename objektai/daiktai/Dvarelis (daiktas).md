@@ -147,3 +147,4 @@ Dvareliai dažniausiai buvo nuo miesto centro nutolę mediniai arba mūriniai na
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

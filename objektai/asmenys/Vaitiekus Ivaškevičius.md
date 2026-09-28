@@ -105,3 +105,4 @@ Vaitiekus Ivaškevičius (Wojciech Iwaszkiewicz), katalikų tikėjimo bajoras i�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

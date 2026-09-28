@@ -70,3 +70,4 @@ Vilniuje buvo rasta deivės Mildos statulėlė, kuri priklausė Adomui Honorijui
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

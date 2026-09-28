@@ -47,3 +47,4 @@ Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

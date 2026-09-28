@@ -46,3 +46,4 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -73,3 +73,4 @@ Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums brangių Kra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

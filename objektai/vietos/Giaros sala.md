@@ -98,3 +98,4 @@ Senuosiuose pasakojimuose Giaros saloje gyvenę romėnų tremtiniai esą buvo Ne
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

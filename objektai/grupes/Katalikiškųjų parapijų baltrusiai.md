@@ -72,3 +72,4 @@ Basanavičiaus aiškinimu, katalikiškųjų parapijų baltrusiai su lenkiška li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

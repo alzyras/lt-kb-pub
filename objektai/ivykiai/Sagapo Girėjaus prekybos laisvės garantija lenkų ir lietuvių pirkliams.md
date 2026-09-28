@@ -75,3 +75,4 @@ XVI a. penktajame dešimtmetyje pagal sutartį su Žygimantu Senuoju Krymo chana
   atnaujinta: "2026-07-26 19:26"
   pagrindžia:
     - t-001
+

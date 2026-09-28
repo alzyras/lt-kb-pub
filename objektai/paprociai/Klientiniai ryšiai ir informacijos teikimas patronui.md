@@ -100,3 +100,4 @@ Laiškai leidžia į kliento santykius su patronu pažiūrėti ir iš kitos pus�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

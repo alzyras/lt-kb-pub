@@ -75,3 +75,4 @@ Karalius už nuopelnus da­ lijo bajorams statydintis žemės sklypus, priklausa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

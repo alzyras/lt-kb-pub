@@ -98,3 +98,4 @@ Narbutas Šventamiestį Prūsuose apibūdina kaip didelę Kurko šventovę, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

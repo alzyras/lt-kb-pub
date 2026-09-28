@@ -105,3 +105,4 @@ Ikiunijiniuose lietuviškuose antspauduose prie žąsies buvo vaizduojami keturi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

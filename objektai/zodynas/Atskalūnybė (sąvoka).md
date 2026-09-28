@@ -62,3 +62,4 @@ Atskalūnybės paslaptis buvo atskleistos, o svarbiausi sumanytojai išvardyti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -84,3 +84,4 @@ Jonas Augustas Hylzenas buvo Minsko vaivada. Jį reikėjo apgyvendinti M. Lopaci
   pagrindžia:
     - t-001
     - t-002
+

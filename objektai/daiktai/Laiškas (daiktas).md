@@ -153,3 +153,4 @@ Per Jono Augštuolio buvimą Stockholme į Lietuvą persiųsta arti 2000 laišk�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

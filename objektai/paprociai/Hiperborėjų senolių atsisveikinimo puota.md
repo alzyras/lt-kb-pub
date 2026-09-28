@@ -75,3 +75,4 @@ Narbutas teigia, kad hiperborėjų senoliai, pasisotinę gyvenimu ir pramogomis,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

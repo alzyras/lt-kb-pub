@@ -73,3 +73,4 @@ Bobras buvo Berezinos (Dniepro) kairysis intakas, tekėjęs apie 40 km į rytus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

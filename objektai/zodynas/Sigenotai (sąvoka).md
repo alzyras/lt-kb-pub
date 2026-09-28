@@ -96,3 +96,4 @@ Nauja jam vyskupui grįžus į kraštą, prūsų pagonys, apimti kaž kokios nea
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

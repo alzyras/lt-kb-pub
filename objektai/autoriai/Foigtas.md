@@ -418,3 +418,4 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216695
+

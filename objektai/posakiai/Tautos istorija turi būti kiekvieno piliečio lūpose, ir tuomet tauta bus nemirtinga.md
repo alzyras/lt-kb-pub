@@ -97,3 +97,4 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
   pagrindžia:
     - t-001
     - t-13504
+

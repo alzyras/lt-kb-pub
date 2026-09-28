@@ -165,3 +165,4 @@ Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

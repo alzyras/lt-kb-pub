@@ -22,17 +22,17 @@ media_all_json: |-
 
 ## Santrauka
 
-Kupiškio Sąjūdžio koordinacinis centras buvo suformuotas iš 26 asmenų.
+Kupiškio Sąjūdžio
 
 ## Santrauka
 
-Kupiškio Sąjūdžio koordinacinis centras buvo suformuotas iš 26 asmenų.
+Kupiškio Sąjūdžio
 
 ## Teiginiai
 
 <a id="claim-t-226407"></a>
 - t-001
-  teiginys: "Kupiškio Sąjūdžio koordinacinis centras buvo suformuotas iš 26 asmenų."
+  teiginys: "Kupiškio Sąjūdžio "
   atnaujinta: "2026-09-25 02:17"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
@@ -54,5 +54,6 @@ Kupiškio Sąjūdžio koordinacinis centras buvo suformuotas iš 26 asmenų.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
+

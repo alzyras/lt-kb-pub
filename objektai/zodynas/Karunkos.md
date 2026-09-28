@@ -82,3 +82,4 @@ Terminas vartojamas kalbant apie kaimo žmonių susirinkimus žiemos šventadien
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177885
+

@@ -61,3 +61,4 @@ Narbutas, remdamasis Hartknochu, Insterburgo valsčiuje lokalizavo šventąją p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

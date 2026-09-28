@@ -60,3 +60,4 @@ Vokietijoje apskritai, o Lietuvoje ypač, civilė valdžia priklausė nuo milita
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

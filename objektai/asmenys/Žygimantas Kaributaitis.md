@@ -213,3 +213,4 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+

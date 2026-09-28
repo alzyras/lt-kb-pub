@@ -116,7 +116,7 @@ Piemenų vaišėse vyriausiam piemeniui lumzdeliais pritardavo patys piemenys. A
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-207524
@@ -128,7 +128,7 @@ Piemenų vaišėse vyriausiam piemeniui lumzdeliais pritardavo patys piemenys. A
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-207525
@@ -140,7 +140,7 @@ Piemenų vaišėse vyriausiam piemeniui lumzdeliais pritardavo patys piemenys. A
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-207526
@@ -152,5 +152,6 @@ Piemenų vaišėse vyriausiam piemeniui lumzdeliais pritardavo patys piemenys. A
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-25 02:17"
-  pagrindzia:
+  pagrindžia:
     - t-004
+

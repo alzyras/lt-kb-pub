@@ -106,3 +106,4 @@ Podolės Kamenece buvo vykdoma kalėjimo iki gyvos galvos bausmė.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

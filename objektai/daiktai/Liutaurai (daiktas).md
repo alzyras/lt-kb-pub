@@ -78,3 +78,4 @@ Liutaurai buvo stori tuščiaviduriai medžių kamienai, aptraukti žalia oda.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

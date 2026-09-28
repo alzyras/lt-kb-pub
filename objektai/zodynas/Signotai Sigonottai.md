@@ -50,3 +50,4 @@ Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių bū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -141,3 +141,4 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
   vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
   pagrindžia:
     - c-191952
+

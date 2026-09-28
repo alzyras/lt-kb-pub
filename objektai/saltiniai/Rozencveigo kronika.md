@@ -179,3 +179,4 @@ Teodoras Narbutas Rozencveigo kroniką siejo su pasakojimu apie kimbrų epochos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

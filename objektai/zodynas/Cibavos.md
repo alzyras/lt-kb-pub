@@ -118,3 +118,4 @@ Terminas vartojamas kaimo bendruomeninio rinkimo ir prageriamos sumos kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

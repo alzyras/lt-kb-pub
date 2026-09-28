@@ -49,3 +49,4 @@ Narbutas Saitininkus (Sejtones) apibūdino kaip pranašautojus gydytojus, ligas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

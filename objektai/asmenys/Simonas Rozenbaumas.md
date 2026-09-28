@@ -207,3 +207,4 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     - t-002
     - t-003
     - t-64059
+

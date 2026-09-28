@@ -64,3 +64,4 @@ Laukas galėjo būti smulkioji bajorijos turtinė bei teritorinė valda.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

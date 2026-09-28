@@ -104,3 +104,4 @@ Bertoldas Nibūras apie pelazgų kolonijų pasklidimą rašė: „Tai ne prielai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -100,3 +100,4 @@ Narbutas Leliušių kaimą mini kaip vieną iš dviejų netoli vienas kito esan�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

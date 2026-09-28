@@ -140,3 +140,4 @@ Teodoro Narbuto pasakojime Pomponijus Mela tvirtino, kad Konstanco ežeras buvo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

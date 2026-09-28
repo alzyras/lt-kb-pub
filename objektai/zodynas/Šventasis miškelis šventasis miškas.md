@@ -234,3 +234,4 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

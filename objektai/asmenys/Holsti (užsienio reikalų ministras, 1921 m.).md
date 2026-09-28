@@ -86,3 +86,4 @@ Holsti šiame straipsnyje minimas kaip užsienio reikalų ministras, iš kurio p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

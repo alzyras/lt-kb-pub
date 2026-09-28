@@ -79,3 +79,4 @@ Monetos antspaudo raižinys atliktas kalteliu, o jos storis ir svoris beveik pri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+

@@ -106,3 +106,4 @@ Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217045
+

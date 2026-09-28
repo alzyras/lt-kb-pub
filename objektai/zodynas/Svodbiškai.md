@@ -133,3 +133,4 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+

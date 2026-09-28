@@ -13,7 +13,7 @@ import {
 } from "../quartz/util/evidenceIntegrity"
 import { INTENTIONAL_IGNORED_OBJECT_PAGES } from "../quartz/util/contentPaths"
 import { createUniqueSlugMap, FilePath } from "../quartz/util/path"
-import { uniqueCitations } from "../quartz/util/objectDetail"
+import { isMeaningfulObjectText, uniqueCitations } from "../quartz/util/objectDetail"
 
 const objectRoot = path.resolve(process.env.CORPUS_ROOT ?? "objektai")
 const publicRoot = path.resolve(process.env.PUBLIC_ROOT ?? "public")
@@ -249,7 +249,10 @@ for (const file of sourceFiles) {
   if (ignoredSourcePaths.has(relativePath)) continue
   const markdown = fs.readFileSync(file, "utf8")
   const sections = parseEvidenceSections(markdown)
-  const claims = (sections.get("Teiginiai") ?? []).filter((entry) => entry.id.startsWith("t-"))
+  const claims = (sections.get("Teiginiai") ?? []).filter(
+    (entry) =>
+      entry.id.startsWith("t-") && isMeaningfulObjectText(entry.fields.get("teiginys")),
+  )
   if (claims.length === 0) continue
 
   const citations = [...sections.entries()]

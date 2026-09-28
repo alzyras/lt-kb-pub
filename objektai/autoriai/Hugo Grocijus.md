@@ -163,3 +163,4 @@ Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo Geropijų Bekaną. H
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

@@ -81,3 +81,4 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
