@@ -949,7 +949,10 @@ function advancedRows(
   resolveIndex: SlugResolveIndex,
 ): string[] {
   const rows: string[] = []
-  const original = entry.fields.get(QUOTE_ORIGINAL_KEY) ?? ""
+  const indexOnly =
+    entry.fields.get(CITATION_MODE_KEY)?.trim() === "indeksas" &&
+    Boolean(entry.fields.get(CITATION_INDEX_KEY)?.trim())
+  const original = indexOnly ? "" : (entry.fields.get(QUOTE_ORIGINAL_KEY) ?? "")
   const configuredDisplay =
     entry.fields.get(QUOTE_DISPLAY_KEY)?.trim() || entry.fields.get("citata")?.trim() || ""
   if (
